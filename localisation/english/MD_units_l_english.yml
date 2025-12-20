@@ -1,0 +1,102 @@
+﻿l_english:
+ fighter: "Stíhací letoun vzdušné nadvlády" # todo: NEW TRANSLATION
+ Strike_fighter: "Útočný stíhač" # todo: NEW TRANSLATION
+ L_Strike_fighter: "Lehký útočný stíhač" # todo: NEW TRANSLATION
+ CV_L_Strike_fighter: "Palubní útočný stíhač" # todo: NEW TRANSLATION
+ multi_role_fighter: "Víceúčelový stíhač" # todo: NEW TRANSLATION
+ cv_multi_role: "Palubní víceúčelový stíhač" # todo: NEW TRANSLATION
+ cas: "Blízká letecká podpora" # todo: NEW TRANSLATION
+ nav_plane_equipment: "Námořní hlídkový letoun" # todo: NEW TRANSLATION
+ strat_bomber: "Strategický bombardér" # todo: NEW TRANSLATION
+ transport_plane: "Transportní letoun" # todo: NEW TRANSLATION
+ attack_helicopter: "Útočný vrtulník" # todo: NEW TRANSLATION
+ Air_UAV: "Bezpilotní bojový letoun" # todo: NEW TRANSLATION
+ transport_helicopter: "Transportní vrtulník" # todo: NEW TRANSLATION
+ guided_missile: "Protiletadlová střela" # todo: NEW TRANSLATION
+ guided_missile_equipment_1: "THAAD" # todo: NEW TRANSLATION
+ guided_missile_equipment_2: "THAAD" # todo: NEW TRANSLATION
+ guided_missile_equipment_3: "THAAD" # todo: NEW TRANSLATION
+ guided_missile_equipment_4: "THAAD" # todo: NEW TRANSLATION
+ guided_missile_equipment_5: "THAAD" # todo: NEW TRANSLATION
+ Militia_Bat: "Milice" # todo: NEW TRANSLATION
+ Militia_Bat_desc: "Prapor milice pěšky. Milice mají méně těžkého vybavení a komunikačních sad než běžná pěchota. Díky tomu jsou velmi mobilní a účinné v náročném terénu, ale na rovině rychle ztrácejí hodnotu proti obrněnému protivníkovi." # todo: NEW TRANSLATION
+ Mot_Militia_Bat: "Motorová milice" # todo: NEW TRANSLATION
+ Mot_Militia_Bat_desc: "Prapor milice s pickupy nebo dokonce obrněnými užitkovými vozidly. Milice mají méně těžkého vybavení a komunikačních sad než běžná pěchota. Díky tomu jsou velmi mobilní a účinné v náročném terénu, ale na rovině rychle ztrácejí hodnotu proti obrněnému protivníkovi." # todo: NEW TRANSLATION
+ L_Inf_Bat: "Lehký prapor pěchoty" # todo: NEW TRANSLATION
+ L_Inf_Bat_desc: "Lehký pěší prapor bez transportů. Na moderním bojišti vzácný, ale specializované jednotky pro velmi těžký terén, jako jsou džungle a hory, existují a jsou tam velmi účinné. Mohou být také užitečné jako městské posádky." # todo: NEW TRANSLATION
+ Mot_Inf_Bat: "Motorizovaný prapor pěchoty" # todo: NEW TRANSLATION
+ Mot_Inf_Bat_desc: "Motorizovaný prapor pěchoty používá různé užitkové vozy jako transporty, od pickupů po moderní vozidla odolná proti minám. Jsou dobře uzpůsobeni pro boj v horském terénu i ve městech." # todo: NEW TRANSLATION
+ Mech_Inf_Bat: "Mechanizovaný prapor pěchoty" # todo: NEW TRANSLATION
+ Mech_Inf_Bat_desc: "Mechanizovaný prapor pěchoty používá obrněné transportéry jako přepravu. Jsou dobře uzpůsobeni pro obrněný boj na rovině." # todo: NEW TRANSLATION
+ Arm_Inf_Bat: "Prapor obrněné pěchoty" # todo: NEW TRANSLATION
+ Arm_Inf_Bat_desc: "Prapor obrněné pěchoty používá bojová vozidla pěchoty jako přepravu. Jsou velmi vhodní pro obrněný boj na rovině, ale v těžkém terénu, kde musí operovat pěšky daleko od svých IFV, jsou neefektivní." # todo: NEW TRANSLATION
+ L_Air_Inf_Bat: "Lehký výsadkový prapor" # todo: NEW TRANSLATION
+ L_Air_Inf_Bat_desc: "Lehký výsadkový prapor jsou elitní jednotky s výcvikem pro letecké nasazení vysazováním z transportních letounů nebo transportních vrtulníků. Dokážou rychle zasáhnout z dálky a být vysazeny za nepřátelskými liniemi, aby obsadily klíčové cíle před postupem hlavní armády. Režim přepravy však omezuje množství těžkého vybavení, které mohou nést." # todo: NEW TRANSLATION
+ Mot_Air_Inf_Bat: "Motorový výsadkový prapor" # todo: NEW TRANSLATION
+ Mot_Air_Inf_Bat_desc: "Motorový výsadkový prapor jsou elitní jednotky s výcvikem pro letecké nasazení přes výsadky z transportních letounů nebo transportních vrtulníků. Mohou rychle reagovat na nouzové situace a být vysazeni za nepřátelskými liniemi. Jejich užitková vozidla jim po seskoku poskytují velkou mobilitu a umožňují přivézt více těžkého vybavení do boje. Paradrop společně s vozidly je však logisticky mnohem náročnější." # todo: NEW TRANSLATION
+ Mech_Air_Inf_Bat: "Mechanizovaný výsadkový prapor" # todo: NEW TRANSLATION
+ Mech_Air_Inf_Bat_desc: "Mechanizovaný výsadkový prapor jsou elitní jednotky s výcvikem pro letecké nasazení přes výsadky z transportních letounů. Jsou schopni rychle zasáhnout z dálky a být vysazeni za nepřátelskými liniemi. Jejich speciálně navržené lehké obrněné transportéry jim po seskoku poskytují velkou mobilitu a umožňují přinést do boje výrazně více těžkého vybavení než lehčí výsadkové síly. Paradrop s takovými vozidly je však logisticky náročný." # todo: NEW TRANSLATION
+ Arm_Air_Inf_Bat: "Obrněný výsadkový prapor" # todo: NEW TRANSLATION
+ Arm_Air_Inf_Bat_desc: "Obrněný výsadkový prapor jsou elitní jednotky s výcvikem pro letecké nasazení přes výsadky z transportních letounů. Jsou schopni rychle zasáhnout z dálky a být vysazeni za nepřátelskými liniemi. Jejich speciálně navržená lehká bojová vozidla pěchoty jim dávají velkou mobilitu a umožňují bojovat na stejné úrovni proti běžným mechanizovaným formacím. Paradrop spolu s IFV je však extrémně logisticky náročný. K roku 2017 takové síly provozovala pouze Rusko." # todo: NEW TRANSLATION
+ L_Marine_Bat: "Lehký námořní prapor" # todo: NEW TRANSLATION
+ L_Marine_Bat_desc: "Lehký námořní prapor jsou elitní jednotky se speciálním výcvikem pro amfibní operace, jako jsou překračování řek, operace v bažinách a vylodění. Protože nemají vozidla, je omezené množství těžkého vybavení, které mohou nést." # todo: NEW TRANSLATION
+ Mot_Marine_Bat: "Motorový námořní prapor" # todo: NEW TRANSLATION
+ Mot_Marine_Bat_desc: "Motorový námořní prapor jsou elitní jednotky se speciálním výcvikem pro amfibní operace, jako jsou překračování řek, operace v bažinách a vylodění. I když vystupují jako lehká pěchota, mají užitková vozidla jako pozemní transporty, což jim dává velkou mobilitu a umožňuje nést velké množství těžkého vybavení do boje." # todo: NEW TRANSLATION
+ Mech_Marine_Bat: "Mechanizovaný námořní prapor" # todo: NEW TRANSLATION
+ Mech_Marine_Bat_desc: "Mechanizovaný námořní prapor jsou elitní jednotky se speciálním výcvikem pro amfibní operace, jako jsou překračování řek, operace v bažinách a vylodění. Přistávají chráněni ve speciálně navržených amfibních obrněných transportérech, což jim umožňuje ihned útočit s vysokou mobilitou a nést velké množství těžkého vybavení." # todo: NEW TRANSLATION
+ Arm_Marine_Bat: "Obrněný námořní prapor" # todo: NEW TRANSLATION
+ Arm_Marine_Bat_desc: "Obrněný námořní prapor jsou elitní jednotky se speciálním výcvikem pro amfibní operace, jako jsou překračování řek, operace v bažinách a vylodění. Mohou přeplout velké vzdálenosti po vodě ve svých silně pancéřovaných rychlopohonových amfibních bojových vozidlech pěchoty a jsou připraveni bojovat přímo z těchto vozidel po dosažení břehu." # todo: NEW TRANSLATION
+ L_Air_assault_Bat: "Lehký vzdušný útočný prapor" # todo: NEW TRANSLATION
+ L_Air_assault_Bat_desc: "Lehký vzdušný útočný prapor jsou elitní jednotky se speciálním výcvikem v slaňování a letecké přepravě; jejich vybavení je někdy upraveno pro lepší přepravu v letadlech. Často se používají k obsazení a udržení klíčového terénu, který ještě není plně zajištěn, a k přímému zapojení nepřátelských sil za liniemi." # todo: NEW TRANSLATION
+ Arm_Air_assault_Bat: "Obrněný vzdušný útočný prapor" # todo: NEW TRANSLATION
+ Arm_Air_assault_Bat_desc: "Obrněný vzdušný útočný prapor jsou elitní jednotky se speciálním výcvikem v slaňování a letecké přepravě; jejich vybavení je někdy upraveno pro lepší přepravu v letadlech. Často se používají k obsazení a udržení klíčového terénu, který ještě není plně zajištěn, a k přímému zapojení nepřátelských sil za liniemi." # todo: NEW TRANSLATION
+ attack_helo_bat: "Regiment útočných vrtulníků" # todo: NEW TRANSLATION
+ attack_helo_bat_desc: "Identifikuji se jako útočný vrtulník AH-64 Apache." # todo: NEW TRANSLATION
+ attack_helo_comp: "Rotа útočných vrtulníků" # todo: NEW TRANSLATION
+ attack_helo_comp_desc: "Identifikuji se jako útočný vrtulník AH-64 Apache." # todo: NEW TRANSLATION
+ Special_Forces: "Síly speciálních operací" # todo: NEW TRANSLATION
+ Special_Forces_desc: "Síly speciálních operací jsou elita každé armády, kde působí, s delším a náročnějším výcvikem než ostatní. Jsou odborníky na těžké terény, výsadkové operace a amfibní vylodění. Jsou však velmi lehce vybavené, protože mohou operovat mobilně za přední linií." # todo: NEW TRANSLATION
+ armor_Bat: "Tankový prapor" # todo: NEW TRANSLATION
+ armor_Bat_desc: "Tankový prapor obsahuje pouze nejhustěji obrněná vozidla – hlavní bojové tanky. Díky vynikající mobilitě na rovině a silné přímé palbě jsou navrženi pro prorážení nepřátelských linií, které mohou následně rychle využít jednotky mechanizované pěchoty." # todo: NEW TRANSLATION
+ armor_Comp: "Tanková rota" # todo: NEW TRANSLATION
+ armor_Comp_desc: "Tanková rota obsahuje pouze nejhustěji obrněná vozidla – hlavní bojové tanky. Díky vynikající mobilitě na rovině a silné přímé palbě jsou navrženi pro prorážení nepřátelských linií, které mohou následně rychle využít jednotky mechanizované pěchoty." # todo: NEW TRANSLATION
+ L_Recce_Comp: "Lehká průzkumná rota" # todo: NEW TRANSLATION
+ L_Recce_Comp_desc: "Lehké průzkumné roty operují pěšky, a proto postrádají velkou část těžkého vybavení, které by je učinilo plnohodnotnou bojovou jednotkou. Infiltrovat se blízko k nepříteli pro pozorování a hlášení jeho činnosti a využívají drony a elektronické sledování k získávání zpravodajských údajů. Mohou také provádět omezené nájezdy a přepady. Průzkumné roty jsou často nazývány „eskadronami“ díky jejich původu z jízdních jednotek." # todo: NEW TRANSLATION
+ Mot_Recce_Comp: "Motorová průzkumná rota" # todo: NEW TRANSLATION
+ Mot_Recce_Comp_desc: "Motorové průzkumné roty operují s užitkovými vozidly a mají většinu vybavení svých pěších protějšků. Jejich role je však odlišná: infiltrují se blízko k nepříteli, aby pozorovaly a hlásily jeho činnost, využívají drony a elektronické sledování k získávání zpravodajských údajů a mohou provádět omezené nájezdy a přepady. Průzkumné roty jsou často nazývány „eskadronami“ díky svému původu z jízdních jednotek." # todo: NEW TRANSLATION
+ Mech_Recce_Comp: "Mechanizovaná průzkumná rota" # todo: NEW TRANSLATION
+ Mech_Recce_Comp_desc: "Mechanizované průzkumné roty operují s obrněnými transportéry a mají většinu vybavení svých pěších protějšků. Jejich role je však odlišná: infiltrují se blízko k nepříteli, aby pozorovaly a hlásily jeho činnost, využívají drony a elektronické sledování k získávání zpravodajských údajů a mohou provádět omezené nájezdy a přepady. Průzkumné roty jsou často nazývány „eskadronami“ díky svému původu z jízdních jednotek." # todo: NEW TRANSLATION
+ Arm_Recce_Comp: "Těžká mechanizovaná průzkumná rota" # todo: NEW TRANSLATION
+ Arm_Recce_Comp_desc: "Těžké mechanizované průzkumné roty operují s bojovými vozidly pěchoty a mají většinu vybavení svých obrněných protějšků. Jejich role je však odlišná: infiltrují se blízko k nepříteli, aby pozorovaly a hlásily jeho činnost, využívají drony a elektronické sledování k získávání zpravodajských údajů. Mohou také provádět nájezdy a přepady. Průzkumné roty jsou často nazývány ‚eskadronami‘ díky svému původu z jízdních jednotek." # todo: NEW TRANSLATION
+ L_arm_Bat: "Prapor lehkých tanků" # todo: NEW TRANSLATION
+ L_arm_Bat_desc: "Prapory lehkých tanků operují se speciálními, často kolovými, lehkými tanky, které kombinují neuvěřitelnou mobilitu s překvapující palebnou silou. Dokážou se ubránit proti všem typům pěchoty v přímém boji. Přímý boj však není jejich primární role — infiltrují se blízko nepřítele, aby pozorovaly a hlásily jeho činnost, využívají drony a elektronické sledování k získávání zpravodajských údajů a mohou provádět nájezdy a přepady na důležité cíle a mechanizované formace." # todo: NEW TRANSLATION
+ armor_Recce_Comp: "Obrněná průzkumná rota" # todo: NEW TRANSLATION
+ armor_Recce_Comp_desc: "Obrněné průzkumné roty operují se speciálními lehkými průzkumnými tanky, které kombinují vynikající mobilitu s překvapivou palebnou silou. Dokážou se ubránit proti všem typům pěchoty v přímém boji. Přímý boj však není jejich primární role — infiltrují se blízko nepřítele, aby pozorovaly a hlásily jeho činnost, využívají drony a elektronické sledování k získávání zpravodajských údajů a mohou provádět nájezdy a přepady na důležité cíle a mechanizované formace. Průzkumné roty jsou často nazývány „eskadronami“ díky svému původu z jízdních jednotek." # todo: NEW TRANSLATION
+ L_Engi_Comp: "Inženýrská rota" # todo: NEW TRANSLATION
+ L_Engi_Comp_desc: "Inženýři zajišťují dočasné mosty a výstavbu obranných perimetrů, kladení a odstraňování min a také likvidaci výbušných zařízení. Nesou základní pěchotní zbraně pro obranné účely." # todo: NEW TRANSLATION
+ H_Engi_Comp: "Těžká inženýrská rota" # todo: NEW TRANSLATION
+ H_Engi_Comp_desc: "Inženýři zajišťují dočasné mosty a výstavbu obranných perimetrů, kladení a odstraňování min a také likvidaci výbušných zařízení. Nesou základní pěchotní zbraně pro obranné účely. Díky konstrukčním a odtahovým vozidlům založeným na podvozku hlavního bojového tanku jsou dobře vybaveni k vyprošťování obrněných vozidel poškozených v boji z předních linií." # todo: NEW TRANSLATION
+ Arty_Bat: "Dělostřelectvo" # todo: NEW TRANSLATION
+ Arty_Bat_desc: "Se svými silnými schopnostmi nepřímé palby poskytuje dělostřelectvo udržitelná a přesná zásahy tam, kde je na bojišti potřeba, i daleko za vizuálním dosahem. Může být znovu nabito přímo svou posádkou. Protože pro přesuny vyžaduje vnější vozidla, může být mezi jednotlivými nástřely obtížné jej přesouvat, což ho činí zranitelným vůči protiútokům nepřátelského dělostřelectva. Lehčí nízkokalibrové systémy lze přetahovat ručně a jsou vhodné pro výsadkové operace, protože se vejdou do transportních letounů." # todo: NEW TRANSLATION
+ Arty_Battery: "Dělostřelecká baterie" # todo: NEW TRANSLATION
+ Arty_Battery_desc: "Se svými silnými schopnostmi nepřímé palby poskytuje dělostřelecká baterie udržitelná a přesná zásahy tam, kde je na bojišti potřeba, i daleko za vizuálním dosahem. Může být znovu nabita přímo svou posádkou. Protože pro přesuny vyžaduje vnější vozidla, může být mezi jednotlivými nástřely obtížné ji přesouvat, což ji činí zranitelnou vůči protiútokům nepřátelského dělostřelectva. Lehčí nízkokalibrové systémy lze přetahovat ručně a jsou vhodné pro výsadkové operace, protože se vejdou do transportních letounů." # todo: NEW TRANSLATION
+ SP_Arty_Bat: "Samohybné dělostřelectvo" # todo: NEW TRANSLATION
+ SP_Arty_Bat_desc: "Díky silným schopnostem nepřímé palby poskytuje samohybné dělostřelectvo udržitelné a přesné zásahy tam, kde je potřeba, i daleko za vizuálním dosahem. Posádka ho může znovu nabít přímo a jeho samohybnost mu umožňuje rychle se přesouvat, aby se vyhnulo protiútokům nepřátelského dělostřelectva." # todo: NEW TRANSLATION
+ SP_Arty_Battery: "Samohybná dělostřelecká baterie" # todo: NEW TRANSLATION
+ SP_Arty_Battery_desc: "Díky silným schopnostem nepřímé palby poskytuje samohybné dělostřelecké baterie udržitelné a přesné zásahy tam, kde je potřeba, i daleko za vizuálním dosahem. Posádka je může znovu nabít přímo a jejich samohybnost jim umožňuje rychle se přesouvat, aby se vyhnuly protiútokům nepřátelského dělostřelectva." # todo: NEW TRANSLATION
+ SP_R_Arty_Bat: "Samohybné raketové dělostřelectvo" # todo: NEW TRANSLATION
+ SP_R_Arty_Bat_desc: "Využívajíce odpalovací systémy MLRS může prapor raketového dělostřelectva z dálky zničit celé oblasti. Používá se proti zadním oblastem nepřítele, protože jejich plošná palba není vhodná pro přesné zásahy na bojišti. Potřebují speciální vozidla pro přebíjení a doby nabíjení jsou pomalé." # todo: NEW TRANSLATION
+ SP_R_Arty_Battery: "Samohybná raketová baterie" # todo: NEW TRANSLATION
+ SP_R_Arty_Battery_desc: "Využívaje odpalovací systémy MLRS může baterie raketového dělostřelectva z dálky zasáhnout oblasti. Používá se proti zadním oblastem nepřítele, protože jejich plošná palba není vhodná pro přesné zásahy na bojišti. Potřebují speciální vozidla pro přebíjení a doby nabíjení jsou pomalé." # todo: NEW TRANSLATION
+ SP_AA_Bat: "Samohybná protiletadlová obrana" # todo: NEW TRANSLATION
+ SP_AA_Bat_desc: "Využívající samohybné systémy krátkého nebo středního dosahu protiletadlových raket bude prapor protiletadlové obrany chránit svou jednotku před útoky nepřátelské blízké letecké podpory." # todo: NEW TRANSLATION
+ SP_AA_Battery: "Samohybná protiletadlová baterie" # todo: NEW TRANSLATION
+ SP_AA_Battery_desc: "Využívající samohybné systémy krátkého nebo středního dosahu protiletadlových raket bude protiletadlová baterie chránit svou jednotku před útoky nepřátelské blízké letecké podpory." # todo: NEW TRANSLATION
+ combat_service_support_company: "Logistická a podpůrná rota" # todo: NEW TRANSLATION
+ combat_service_support_company_desc: "Logistika a zdravotnické služby divize." # todo: NEW TRANSLATION
+ helicopter_combat_service_support: "Helikoptérová logistika a podpora" # todo: NEW TRANSLATION
+ helicopter_combat_service_support_desc: "Logistika a zdravotnické služby divize." # todo: NEW TRANSLATION
+ L_Marine_Cdo_Bat: "Prapor námořních komand" # todo: NEW TRANSLATION
+ L_Marine_Cdo_Bat_desc: "Námořní komandové jsou větší uskupení námořních výsadkářů, vycvičené pro nájezdy a úderné operace mezi dalšími úkoly lehké pěchoty." # todo: NEW TRANSLATION
+ air_assault_Arty_Battery: "Letecká dělostřelecká baterie" # todo: NEW TRANSLATION
+ air_assault_Arty_Battery_desc: "S využitím tažených děl zvyšují tyto jednotky svoji mobilitu zavěšováním kanónů pod vrtulníky, což jim umožňuje držet krok s rychlejšími letecky mobilními pěchotními jednotkami." # todo: NEW TRANSLATION

@@ -1,0 +1,307 @@
+﻿l_english:
+ Internal_politics: "Vnitřní politika" # todo: NEW TRANSLATION
+ national_status: "Národní statistiky a vnitřní frakce" # todo: NEW TRANSLATION
+ national_status_desc: "To jsou životně důležité ekonomické statistiky naší země." # todo: NEW TRANSLATION
+ internal_factions: "Vnitřní frakce" # todo: NEW TRANSLATION
+ internal_factions_desc: "Vnitřní frakce představují organizace, jejichž vliv silně ovlivňuje veřejnou politiku země. Každá vnitřní frakce poskytuje různé výhody a nevýhody. Odstranit vnitřní frakci je nesmírně obtížné a vyžaduje velké množství politické síly." # todo: NEW TRANSLATION
+ religion: "Náboženství" # todo: NEW TRANSLATION
+ government_budget: "Vládní výdaje" # todo: NEW TRANSLATION
+ social_reforms: "Sociální práva" # todo: NEW TRANSLATION
+ political_reforms: "Politické reformy" # todo: NEW TRANSLATION
+ economic_cycles: "Hospodářský cyklus" # todo: NEW TRANSLATION
+ depression: "Deprese" # todo: NEW TRANSLATION
+ depression_desc: "Deprese je neobvyklá a extrémní forma recese. Deprese se vyznačují svou délkou, abnormálně velkými poklesy zaměstnanosti, dostupnosti úvěrů a průmyslové výroby. Velké množství bankrotů, inflace a krachy bank často vedou k panice mezi obyvateli země, což vede k růstu extremistických politických skupin slibujících konec chaosu." # todo: NEW TRANSLATION
+ recession: "Recese" # todo: NEW TRANSLATION
+ recession_desc: "Recese obecně nastávají, když dochází k plošnému poklesu spotřeby. Mohou být vyvolány různými událostmi, jako je finanční krize, vnější obchodní šok, nepříznivý nabídkový šok nebo prasknutí ekonomické bubliny. Vlády obvykle reagují na recese přijetím expanzivních makroekonomických politik, jako je zvyšování peněžní zásoby, vládní výdaje a snižování daní." # todo: NEW TRANSLATION
+ stagnation: "Stagnace" # todo: NEW TRANSLATION
+ stagnation_desc: "Hospodářská stagnace je prodloužené období pomalého ekonomického růstu, obvykle doprovázené vysokou nezaměstnaností." # todo: NEW TRANSLATION
+ stable_growth: "Stabilní růst" # todo: NEW TRANSLATION
+ stable_growth_desc: "Naše ekonomika roste stabilně." # todo: NEW TRANSLATION
+ fast_growth: "Rychlý růst" # todo: NEW TRANSLATION
+ fast_growth_desc: "Naše ekonomika rychle roste." # todo: NEW TRANSLATION
+ economic_boom: "Hospodářský boom" # todo: NEW TRANSLATION
+ economic_boom_desc: "Naše ekonomika zažívá boom." # todo: NEW TRANSLATION
+ econ_cycle_upg_cost_TT: "\n§HNáklady na vylepšení:§! $[?THIS.econ_cycle_upg_cost] §Hmiliard§!" # todo: NEW TRANSLATION
+ economic_cycle_TT: " - K oživení ekonomiky musíme do ní vstříknout likviditu. To se provádí nástroji centrální banky, jako je snižování úrokové sazby a rozšiřování peněžní zásoby - stejně jako dodatečné vládní stimulační výdaje. Nicméně přílišné zasahování zvyšuje riziko budoucích ekonomických bublin.\n" # todo: NEW TRANSLATION
+ law_corruption_TT: "- Vydáváním politické síly lze začít odstraňovat korupci v naší vládě a vytvořit transparentní a efektivní vládu." # todo: NEW TRANSLATION
+ corruption: "Úroveň korupce" # todo: NEW TRANSLATION
+ paralyzing_corruption: "(10) Paralyzující korupce" # todo: NEW TRANSLATION
+ paralyzing_corruption_desc: "Korupce v naší zemi je rozšířená, zakořeněná, systematická a v rozsahu i dosahu bezprecedentní." # todo: NEW TRANSLATION
+ crippling_corruption: "(9) Ochromující korupce" # todo: NEW TRANSLATION
+ crippling_corruption_desc: "Korupce v naší zemi zaplavuje všechny části společnosti. Nejedná se o činnost několika zkorumpovaných úředníků nebo politiků. Jde spíše o organizovaný zločin, s korupčními zadávacími dohodami vznikajícími prostřednictvím spiknutí a kleptokratického systému." # todo: NEW TRANSLATION
+ rampant_corruption: "(8) Rozsáhlá korupce" # todo: NEW TRANSLATION
+ rampant_corruption_desc: "Korupce v naší zemi je vnímána jako významný problém ovlivňující všechny oblasti života, včetně veřejné správy, vymáhání práva, zdravotnictví a školství. Fenomén korupce je pevně zakotven v našem modelu veřejné správy a připisuje se obecné slabosti právního státu v naší zemi." # todo: NEW TRANSLATION
+ unrestrained_corruption: "(7) Nekontrolovaná korupce" # todo: NEW TRANSLATION
+ unrestrained_corruption_desc: "Naše země dlouho trpí rozšířenou a endemickou korupcí. Korupce zůstává vážným problémem v veřejném i soukromém sektoru, přestože právní a institucionální rámec boje proti korupci je silný. Úplatky, provize a vládní korupce jsou považovány za součást každodenního života." # todo: NEW TRANSLATION
+ systematic_corruption: "(6) Systematická korupce" # todo: NEW TRANSLATION
+ systematic_corruption_desc: "Korupce v naší zemi je souhrou mnoha faktorů, včetně slabého vymáhání práva, nedostatku auditů, absence etických kodexů, netransparentnosti vládních aktivit, neefektivní byrokracie, beztrestnosti vládních činitelů a širokých diskrečních pravomocí a nedostatku veřejného povědomí. " # todo: NEW TRANSLATION
+ widespread_corruption: "(5) Rozšířená korupce" # todo: NEW TRANSLATION
+ widespread_corruption_desc: "Úplatkářství a korupční praktiky jsou v naší zemi rozšířené, i když je otázkou názoru, zda se jedná o problém systému nebo o jednotlivce u moci." # todo: NEW TRANSLATION
+ medium_corruption: "(4) Střední korupce" # todo: NEW TRANSLATION
+ medium_corruption_desc: "Zveřejnění známých korupčních kauz a omezená politická angažovanost přispěly k negativnímu vnímání politického procesu v naší zemi. Opakující se korupční skandály zahrnující politiky vysoké úrovně, místní správce a podniky zneužívající veřejné prostředky odhalily, že zavedená opatření k předcházení tomuto zneužívání moci byla relativně neefektivní." # todo: NEW TRANSLATION
+ modest_corruption: "(3) Mírná korupce" # todo: NEW TRANSLATION
+ modest_corruption_desc: "Ačkoli je vnímání korupce obecně nízké, politické strany a podniky jsou obvykle považovány za nejméně poctivé a nejméně důvěryhodné. Drobná korupce není tak neobvyklá jako v některých jiných zemích." # todo: NEW TRANSLATION
+ slight_corruption: "(2) Drobná korupce" # todo: NEW TRANSLATION
+ slight_corruption_desc: "Vnímání i výskyt korupce jsou v naší zemi obecně velmi nízké. Drobná a administrativní korupce je více méně neexistující. To znamená, že občané a firmy s největší pravděpodobností nebudou čelit korupci při kontaktu s úředníky. Nicméně některé případy ukázaly, že osobní vazby, dary a střety zájmů jsou problémovými oblastmi, které představují některé typy netradiční korupce." # todo: NEW TRANSLATION
+ negligible_corruption: "(1) Zanedbatelná korupce" # todo: NEW TRANSLATION
+ negligible_corruption_desc: "Právní a institucionální rámec v naší zemi je považován za efektivní v boji proti korupci a vládní orgány se vyznačují vysokou mírou transparentnosti, integrity a odpovědnosti. Nízké úrovně korupce jsou připisovány efektivní veřejné správě, vysoce kvalitním a komplexním službám pro občany a podniky, dlouhé tradici otevřenosti a transparentnosti v naší společnosti a institucích a silnému respektu k právnímu státu." # todo: NEW TRANSLATION
+ bureaucracy: "Administrace" # todo: NEW TRANSLATION
+ bureau_01: "Decentralizovaná správa" # todo: NEW TRANSLATION
+ bureau_01_desc: "[adm_spending_protest_TT]" # todo: NEW TRANSLATION
+ bureau_01_TT: "\n$$[bureau_01_rate] §Hmiliard§! se utrácí na administraci.\n" # todo: NEW TRANSLATION
+ bureau_02: "Základní státní administrativa" # todo: NEW TRANSLATION
+ bureau_02_desc: "[adm_spending_protest_TT]" # todo: NEW TRANSLATION
+ bureau_02_TT: "\n$$[bureau_02_rate] §Hmiliard§! se utrácí na administraci.\n" # todo: NEW TRANSLATION
+ bureau_03: "Velká státní administrativa" # todo: NEW TRANSLATION
+ bureau_03_desc: "[adm_spending_protest_TT]" # todo: NEW TRANSLATION
+ bureau_03_TT: "\n$$[bureau_03_rate] §Hmiliard§! se utrácí na administraci.\n" # todo: NEW TRANSLATION
+ bureau_04: "Centralizovaný byrokratický stát" # todo: NEW TRANSLATION
+ bureau_04_desc: "[adm_spending_protest_TT]" # todo: NEW TRANSLATION
+ bureau_04_TT: "\n$$[bureau_04_rate] §Hmiliard§! se utrácí na administraci.\n" # todo: NEW TRANSLATION
+ bureau_05: "Rozsáhlý centralizovaný byrokratický stát" # todo: NEW TRANSLATION
+ bureau_05_desc: "[adm_spending_protest_TT]" # todo: NEW TRANSLATION
+ bureau_05_TT: "\n$$[bureau_05_rate] §Hmiliard§! se utrácí na administraci.\n" # todo: NEW TRANSLATION
+ Military_Spending: "Vojenské výdaje" # todo: NEW TRANSLATION
+ Military_Spending_desc: "Výše našich vojenských výdajů určuje, kolik jednotek můžeme nasadit v našich ozbrojených silách, a ovlivňuje výrobu nového vojenského vybavení." # todo: NEW TRANSLATION
+ defence_00: "Žádné vojenské výdaje" # todo: NEW TRANSLATION
+ defence_00_desc: "§RVarování: Nebudou stavitelné žádné nové lodě!§!\n\nZvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_00_TT: "\n$$[defence_00_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_01: "Minimální vojenské výdaje" # todo: NEW TRANSLATION
+ defence_01_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_01_TT: "\n$$[defence_01_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_02: "Malé vojenské výdaje" # todo: NEW TRANSLATION
+ defence_02_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_02_TT: "\n$$[defence_02_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_03: "Střední vojenské výdaje" # todo: NEW TRANSLATION
+ defence_03_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_03_TT: "\n$$[defence_03_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_04: "Významné vojenské výdaje" # todo: NEW TRANSLATION
+ defence_04_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_04_TT: "\n$$[defence_04_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_05: "Velké vojenské výdaje" # todo: NEW TRANSLATION
+ defence_05_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_05_TT: "\n$$[defence_05_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_06: "Velmi vysoké vojenské výdaje" # todo: NEW TRANSLATION
+ defence_06_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_06_TT: "\n$$[defence_06_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_07: "Obrovské vojenské výdaje" # todo: NEW TRANSLATION
+ defence_07_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_07_TT: "\n$$[defence_07_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_08: "Gigantické vojenské výdaje" # todo: NEW TRANSLATION
+ defence_08_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_08_TT: "\n$$[defence_08_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ defence_09: "Totální válka" # todo: NEW TRANSLATION
+ defence_09_desc: "Zvýšení vojenských výdajů nám pomůže rozšířit naše ozbrojené síly.\n\nDodatečné náklady jsou určeny velikostí našeho vojenského a námořního průmyslu. Je to také dražší, čím vyšší je naše HDP na obyvatele. Aktuální odhad nákladů pro všechny zákony je založen na současné úrovni dostupného personálu; vaše obranné výdaje se mohou dále zvýšit v závislosti na tom, kolik více personálu bude mobilizováno.\n[military_spending_protest_TT]" # todo: NEW TRANSLATION
+ defence_09_TT: "\n$$[defence_09_cost] §Hmiliard§! se utrácí na armádu.\n" # todo: NEW TRANSLATION
+ education_budget: "Rozpočet na vzdělání" # todo: NEW TRANSLATION
+ edu_01: "Základní podpora primárního školství" # todo: NEW TRANSLATION
+ edu_01_desc: "Náš systém primárního školství dlouho trpěl chronickým podfinancováním. To negativně ovlivňuje nejen kvalitu vzdělávání, ale i rozvojové příležitosti mladší generace.\n[edu_spending_protest_TT]" # todo: NEW TRANSLATION
+ edu_01_TT: "\n$$[education_01_rate] §Hmiliard§! se utrácí na vzdělávání.\n" # todo: NEW TRANSLATION
+ edu_02: "Základní podpora primárního a sekundárního vzdělávání" # todo: NEW TRANSLATION
+ edu_02_desc: "Dlouhodobá investice do primárního a sekundárního vzdělávání našich lidí dnes otevře neomezené možnosti zítřka. Abychom zajistili, že všechny děti budou mít slušný start do života, musíme jim garantovat minimální úroveň financování škol v celé zemi.\n[edu_spending_protest_TT]" # todo: NEW TRANSLATION
+ edu_02_TT: "\n$$[education_02_rate] §Hmiliard§! se utrácí na vzdělávání.\n" # todo: NEW TRANSLATION
+ edu_03: "Bezplatné primární a sekundární vzdělávání" # todo: NEW TRANSLATION
+ edu_03_desc: "Vzdělání je základní lidské právo a klíč k jasnější budoucnosti. Abychom zajistili rovné příležitosti pro všechny děti v naší zemi, garantujeme bezplatný přístup ke kvalitnímu primárnímu a sekundárnímu vzdělávání.\n[edu_spending_protest_TT]" # todo: NEW TRANSLATION
+ edu_03_TT: "\n$$[education_03_rate] §Hmiliard§! se utrácí na vzdělávání.\n" # todo: NEW TRANSLATION
+ edu_04: "Zaměření na vyšší vzdělání" # todo: NEW TRANSLATION
+ edu_04_desc: "V éře globalizace a digitálních technologií hraje vyšší vzdělání stále důležitější roli ve vývoji ekonomiky. Abychom zajistili, že naše mládež bude mít rovnou příležitost získat cenné dovednosti a odborné kvalifikace, zvýšíme financování vysokých škol a univerzit.\n[edu_spending_protest_TT]" # todo: NEW TRANSLATION
+ edu_04_TT: "\n$$[education_04_rate] §Hmiliard§! se utrácí na vzdělávání.\n" # todo: NEW TRANSLATION
+ edu_05: "Bezplatné univerzální kvalitní vzdělání" # todo: NEW TRANSLATION
+ edu_05_desc: "Všechny děti by měly mít přístup k dobrému bezplatnému vzdělání bez ohledu na finanční situaci jejich rodin. Abychom zajistili rovné startovní podmínky pro všechny občany, zavádíme vzdělání na úkor státního rozpočtu. To rozvine potenciál každého dítěte a vytvoří společnost rovných příležitostí.\n[edu_spending_protest_TT]" # todo: NEW TRANSLATION
+ edu_05_TT: "\n$$[education_05_rate] §Hmiliard§! se utrácí na vzdělávání.\n" # todo: NEW TRANSLATION
+ health_budget: "Rozpočet na zdravotnictví" # todo: NEW TRANSLATION
+ health_01: "Minimální dotace místním klinikám" # todo: NEW TRANSLATION
+ health_01_desc: "Vláda poskytuje omezenou finanční podporu malým místním klinikám. Tyto kliniky nabízejí základní péči, ale zdroje a specializované léčby jsou vzácné.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_01_TT: "\n$$[health_01_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ health_02: "Základní zdravotní kliniky" # todo: NEW TRANSLATION
+ health_02_desc: "Širší sítě zdravotních klinik dostávají státní financování, což zajišťuje, že většina populace má přístup k základním lékařským službám. Přesto tyto kliniky mohou postrádat pokročilé lékařské vybavení.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_02_TT: "\n$$[health_02_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ health_03: "Základní dotace nemocnicím" # todo: NEW TRANSLATION
+ health_03_desc: "Nemocnice začínají dostávat významnou část rozpočtu na zdravotnictví, což umožňuje více specializovaných léčeb. Nicméně ne všechny zákroky mohou být pokryty a pacienti mohou stále čelit vysokým výdajům z vlastní kapsy.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_03_TT: "\n$$[health_03_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ health_04: "Bezplatná pohotovostní péče" # todo: NEW TRANSLATION
+ health_04_desc: "Všichni občané mají zaručenou bezplatnou urgentní lékařskou péči, což snižuje úmrtnost v důsledku náhlých nemocí nebo nehod. Zatímco rutinní ošetření mohou být stále zpoplatněna, nikomu není odepřena naléhavá péče kvůli finančním překážkám.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_04_TT: "\n$$[health_04_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ health_05: "Základní univerzální zdravotní péče" # todo: NEW TRANSLATION
+ health_05_desc: "Stát hradí široké spektrum zdravotních služeb, zajišťující, že všichni občané mají přístup k nezbytné lékařské péči bez drtících nákladů. Některé specializované zákroky mohou stále vyžadovat doplatky, ale obecná zdravotní péče je dostupná všem.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_05_TT: "\n$$[health_05_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ health_06: "Pokročilá univerzální zdravotní péče" # todo: NEW TRANSLATION
+ health_06_desc: "Komplexní zdravotní pojištění je poskytováno všem občanům, zahrnující vše od rutinních prohlídek po specializované zákroky. Se zaměřením na preventivní péči, výzkum a pokročilé lékařské technologie systém zajišťuje nejvyšší standard péče pro všechny.\n[health_spending_protest_TT]" # todo: NEW TRANSLATION
+ health_06_TT: "\n$$[health_06_rate] §Hmiliard§! se utrácí na zdravotnictví.\n" # todo: NEW TRANSLATION
+ social_budget: "Sociální výdaje" # todo: NEW TRANSLATION
+ social_01: "Minimální příspěvky na živobytí" # todo: NEW TRANSLATION
+ social_01_desc: "Vláda poskytuje minimální finanční podporu svým nejzranitelnějším občanům, zajišťující jen to nejnutnější pro základní přežití. Tyto dávky jsou omezené a určené především k zajištění základních potřeb.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_01_TT: "\n$$[social_01_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ social_02: "Minimální důchody pro seniory a postižené" # todo: NEW TRANSLATION
+ social_02_desc: "Kromě příspěvků na živobytí je zde mírný důraz na seniory a postižené, poskytující jim omezený důchod. To pomáhá zmírnit každodenní potíže těchto skupin, ale podpora zůstává minimální.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_02_TT: "\n$$[social_02_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ social_03: "Základní důchody pro seniory a postižené" # todo: NEW TRANSLATION
+ social_03_desc: "Stát nabízí komplexnější systém důchodů pro seniory a postižené, zajišťující jim skromnou životní úroveň. Podpora má chránit tyto skupiny před extrémními finančními těžkostmi.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_03_TT: "\n$$[social_03_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ social_04: "Silná sociální síť" # todo: NEW TRANSLATION
+ social_04_desc: "Vláda začíná rozšiřovat své sociální nabídky a zavádí širší sociální podpůrné systémy, které pokrývají oblasti jako nezaměstnanost, bydlení a příspěvky na péči o děti. To vytváří robustnější ochrannou síť proti neočekávaným potížím.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_04_TT: "\n$$[social_04_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ social_05: "Sociální stát" # todo: NEW TRANSLATION
+ social_05_desc: "Sociální síť se rozšiřuje, vláda zajišťuje silnou podporu v oblastech jako dávky v nezaměstnanosti, bydlení a příspěvky na potraviny. Důraz je kladen na udržení důstojné životní úrovně a zajištění bezpečí proti socio-ekonomickým rizikům.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_05_TT: "\n$$[social_05_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ social_06: "Rozsáhlý sociální stát" # todo: NEW TRANSLATION
+ social_06_desc: "Stát přebírá centrální roli v sociální péči svých občanů a nabízí komplexní škálu služeb, dotací a dávek. Tento systém podporuje nejen základní životní potřeby, ale i vyšší životní úroveň a rovné příležitosti pro všechny.\n[social_spending_protest_TT]" # todo: NEW TRANSLATION
+ social_06_TT: "\n$$[social_06_rate] §Hmiliard§! se utrácí na sociální zabezpečení a sociální výdaje.\n" # todo: NEW TRANSLATION
+ crime_fighting: "Vnitřní bezpečnost" # todo: NEW TRANSLATION
+ police_01: "Minimální financování policie" # todo: NEW TRANSLATION
+ police_01_desc: "Naše policie a zpravodajské služby jsou špatně financované a obvykle přivírají oči před korupcí a kriminalitou.\n[police_spending_protest_TT]" # todo: NEW TRANSLATION
+ police_01_TT: "\n$$[police_01_rate] §Hmiliard§! se utrácí na vnitřní bezpečnost.\n" # todo: NEW TRANSLATION
+ police_02: "Základní financování policie a bezpečnosti" # todo: NEW TRANSLATION
+ police_02_desc: "Naše policie a zpravodajské služby odvádějí práci, ale nic nad rámec toho. Další kroky jsou podnikány pouze pod tlakem veřejnosti.\n[police_spending_protest_TT]" # todo: NEW TRANSLATION
+ police_02_TT: "\n$$[police_02_rate] §Hmiliard§! se utrácí na vnitřní bezpečnost.\n" # todo: NEW TRANSLATION
+ police_03: "Vysoké financování policie a zpravodajství" # todo: NEW TRANSLATION
+ police_03_desc: "Naše policie a zpravodajské služby jsou dobře financované. Právo a pořádek jsou dobře zachovány a mají kapacitu dohlížet na vnitřní i zahraniční spiknutí.\n[police_spending_protest_TT]" # todo: NEW TRANSLATION
+ police_03_TT: "\n$$[police_03_rate] §Hmiliard§! se utrácí na vnitřní bezpečnost.\n" # todo: NEW TRANSLATION
+ police_04: "Rozsáhlý policejní a zpravodajský aparát" # todo: NEW TRANSLATION
+ police_04_desc: "Naše policie a zpravodajské služby jsou velmi dobře financovány. Mají kapacitu zasahovat proti korupci a kriminalitě. Navíc pečlivě sledují všechna nebezpečná hnutí.\n[police_spending_protest_TT]" # todo: NEW TRANSLATION
+ police_04_TT: "\n$$[police_04_rate] §Hmiliard§! se utrácí na vnitřní bezpečnost.\n" # todo: NEW TRANSLATION
+ police_05: "Policejní stát" # todo: NEW TRANSLATION
+ police_05_desc: "Naše policie a zpravodajské služby dostávají velmi velké prostředky. Mají kapacitu potlačovat korupci a kriminalitu a provozují rozsáhlé operace pro sledování veškerého vnitřního nesouhlasu a zahraničních spiknutí.\n[police_spending_protest_TT]" # todo: NEW TRANSLATION
+ police_05_TT: "\n$$[police_05_rate] §Hmiliard§! se utrácí na vnitřní bezpečnost.\n" # todo: NEW TRANSLATION
+ Military_policies: "Vojenské politiky" # todo: NEW TRANSLATION
+ Conscription_Law: "Zákon o branné povinnosti" # todo: NEW TRANSLATION
+ no_military: "Zrušená armáda" # todo: NEW TRANSLATION
+ no_military_desc: "Naše země nemá žádnou formu stálé armády a veškerou bezpečnost zajišťují vnitřní bezpečnostní složky, jako je policie." # todo: NEW TRANSLATION
+ no_military_TT: "Vojenské mzdy: §R+100%§!\n" # todo: NEW TRANSLATION
+ volunteer_army: "Dobrovolná služba" # todo: NEW TRANSLATION
+ volunteer_army_desc: "Naše armáda se skládá výhradně z dobrovolníků. To snižuje celkovou velikost armády, ale umožňuje nám vycvičit menší a efektivnější bojovou sílu. Přechod na dobrovolné armády byl globálním trendem od konce studené války." # todo: NEW TRANSLATION
+ volunteer_army_TT: "Vojenské mzdy: §R+30%§!\n" # todo: NEW TRANSLATION
+ partial_draft_army: "Částečný odvod" # todo: NEW TRANSLATION
+ partial_draft_army_desc: "Většina našeho vojenského personálu pochází z dobrovolníků, ale část populace je stále odvedena, aby vyplnila roční kvóty školení." # todo: NEW TRANSLATION
+ partial_draft_army_TT: "Vojenské mzdy: §R+20%§!\n" # todo: NEW TRANSLATION
+ draft_army: "Povinná služba" # todo: NEW TRANSLATION
+ draft_army_desc: "Naše země má povinnou vojenskou službu, což znamená, že většina mužské populace byla vycvičena v boji. To nám umožňuje udržovat větší vojenskou sílu a rychle cvičit nové bojové útvary díky existující výcvikové základně. Nicméně branci jsou méně ochotní účastnit se zahraničních vojenských dobrodružství." # todo: NEW TRANSLATION
+ Military_Status_Women: "Ženy v armádě" # todo: NEW TRANSLATION
+ no_women_in_military: "Služba pro ženy zakázána" # todo: NEW TRANSLATION
+ no_women_in_military_desc: "Naše armáda nepřijímá ženy do služby." # todo: NEW TRANSLATION
+ volunteer_women: "Dobrovolná služba pro ženy" # todo: NEW TRANSLATION
+ volunteer_women_desc: "Ženy mohou sloužit v naší armádě jako dobrovolnice." # todo: NEW TRANSLATION
+ drafted_women: "Povinná služba pro ženy" # todo: NEW TRANSLATION
+ drafted_women_desc: "Ženy jsou stejně jako muži povolávány do služby." # todo: NEW TRANSLATION
+ Foreign_Intervention_Law: "Zákon o zahraniční intervenci" # todo: NEW TRANSLATION
+ Foreign_Intervention_Law_desc: "Zákon o zahraniční intervenci definuje, jak ochotná je naše země zasahovat do konfliktů a ovlivňovat jiné země." # todo: NEW TRANSLATION
+ intervention_isolation: "Izolace" # todo: NEW TRANSLATION
+ intervention_isolation_desc: "Naše země se více soustředí na vnitřní záležitosti a nechce se pouštět do žádných vojenských dobrodružství." # todo: NEW TRANSLATION
+ intervention_local_security: "Místní bezpečnost" # todo: NEW TRANSLATION
+ intervention_local_security_desc: "Můžeme poskytovat zbraně našim spojencům, nicméně hlavně se staráme o naše vlastní hranice." # todo: NEW TRANSLATION
+ intervention_limited_interventionism: "Omezený intervencionismus" # todo: NEW TRANSLATION
+ intervention_limited_interventionism_desc: "Jsme ochotni riskovat životy našich vojáků, abychom zajistili přežití našich spojenců." # todo: NEW TRANSLATION
+ intervention_regional_interventionism: "Regionální intervencionismus" # todo: NEW TRANSLATION
+ intervention_regional_interventionism_desc: "Je důležité, aby oblasti blízké našim hranicím byly udržovány v pořádku, a musíme používat hrozbu války k udržení tohoto pořádku." # todo: NEW TRANSLATION
+ intervention_global_interventionism: "Globální intervencionismus" # todo: NEW TRANSLATION
+ intervention_global_interventionism_desc: "Naše vojsko zasahuje daleko a široko a je naší povinností udržovat svět stabilní." # todo: NEW TRANSLATION
+ intervention_neo_imperialism: "Neoinperialismus" # todo: NEW TRANSLATION
+ intervention_neo_imperialism_desc: "Svět je hřiště a silní berou, co chtějí. Naše národní bezpečnost nesmí být ohrožena kvůli mezinárodním smlouvám. Si vis pacem, para bellum." # todo: NEW TRANSLATION
+ Officer_Training_Law: "Výcvik důstojníků" # todo: NEW TRANSLATION
+ Officer_Training_Law_desc: "Důstojníci povedou naše vojáky do bitvy. Čím lépe je vycvičíme, tím méně se budou muset učit na bojišti. Zřízení vzdělávacích center pro důstojníky však může být nákladné." # todo: NEW TRANSLATION
+ officer_baptism_by_fire: "Křest ohněm" # todo: NEW TRANSLATION
+ officer_baptism_by_fire_desc: "Skuteční vůdci nejsou vycvičeni, ale kováni v boji. Nemáme důvod ztrácet čas výcvikem velitelů, neboť boj vyfiltruje neschopné." # todo: NEW TRANSLATION
+ officer_baptism_by_fire_TT: "Šance, že generál zemře v boji: §R+40%§!\n" # todo: NEW TRANSLATION
+ officer_basic_training: "Základní výcvik důstojníků" # todo: NEW TRANSLATION
+ officer_basic_training_desc: "Jedinci, kteří vykazují nadání k velení, budou vybráni a dostanou základní výcvik v tom, jak vést jednotky." # todo: NEW TRANSLATION
+ officer_basic_training_TT: "Šance, že generál zemře v boji: §R+20%§!\n" # todo: NEW TRANSLATION
+ officer_advanced_training: "Pokročilý výcvik důstojníků" # todo: NEW TRANSLATION
+ officer_advanced_training_desc: "Jedinci s předpoklady k velení budou vybráni a podstoupí pokročilý výcvik v řízení jednotek." # todo: NEW TRANSLATION
+ officer_advanced_training_TT: "Vojenské mzdy: §R+30%§!\n" # todo: NEW TRANSLATION
+ officer_military_school: "Vojenské školy pro důstojníky" # todo: NEW TRANSLATION
+ officer_military_school_desc: "Zřídili jsme speciální vojenské školy, kde nadaní jedinci získají přímý výcvik ve vedení jednotek již od začátku své vojenské kariéry." # todo: NEW TRANSLATION
+ officer_military_school_TT: "Šance, že generál zemře v boji: §G-15%§!\n" # todo: NEW TRANSLATION
+ officer_military_academy: "Vojenská akademie pro důstojníky" # todo: NEW TRANSLATION
+ officer_military_academy_desc: "Zřídili jsme prestižní vojenské akademie, kde se naši důstojníci naučí nejlepší taktiky a strategie a kde budou vyvíjet nové způsoby vedení války." # todo: NEW TRANSLATION
+ officer_military_academy_TT: "Šance, že generál zemře v boji: §G-30%§!\n" # todo: NEW TRANSLATION
+ officer_international_education: "Mezinárodní vzdělávání důstojníků" # todo: NEW TRANSLATION
+ officer_international_education_desc: "S pomocí našich spojenců máme přístup k rozsáhlým znalostem a zdrojům, aby naši důstojníci byli připraveni na cokoli, co jim válka může přinést." # todo: NEW TRANSLATION
+ officer_international_education_TT: "Šance, že generál zemře v boji: §G-45%§!\n" # todo: NEW TRANSLATION
+ trade_laws: "Obchodní zákon" # todo: NEW TRANSLATION
+ trade_laws_desc: "Obchodní zákony jsou důležité. Určují také, jak naše velká země roste a ekonomicky se rozvíjí. Vyberte obchodní zákon pro naši zemi" # todo: NEW TRANSLATION
+ md_closed_economy: "Uzavřená ekonomika" # todo: NEW TRANSLATION
+ md_closed_economy_desc: "Uzavřená ekonomika je odříznutá od světa. Málo nebo žádný obchod se zahraničím, pokud je to možné. Země se spoléhá co nejvíce sama na sebe. Některé zdroje se však stále vyvážejí některým z našich nejbližších spojenců." # todo: NEW TRANSLATION
+ consumption_economy: "Spotřební ekonomika" # todo: NEW TRANSLATION
+ consumption_economy_desc: "Spotřební ekonomika je ekonomika řízená výdaji spotřebitelů jako podílem hrubého domácího produktu, na rozdíl od ostatních hlavních složek HDP." # todo: NEW TRANSLATION
+ semi_consumption_economy: "Polospotřební ekonomika" # todo: NEW TRANSLATION
+ semi_consumption_economy_desc: "Polospotřební ekonomiky jsou relativně nový fenomén. Jsou hybridem exportní a spotřební ekonomiky bez potíží spojených s ekonomickou závislostí na jiných zdrojích příjmů. Nicméně polospotřební ekonomika se stále silně spoléhá na spotřebitelské výdaje jako podíl HDP, na rozdíl od skutečné smíšené ekonomiky." # todo: NEW TRANSLATION
+ mixed_economy: "Smíšená ekonomika" # todo: NEW TRANSLATION
+ mixed_economy_desc: "Smíšené ekonomiky jsou velmi podobné polospotřebním ekonomikám. Ještě méně se spoléhají na spotřebitelské výdaje jako celek při tvorbě HDP." # todo: NEW TRANSLATION
+ export_economy: "Exportní ekonomika" # todo: NEW TRANSLATION
+ export_economy_desc: "Vývozci surovin zahrnují země s velkými nalezišti přírodních zdrojů, země s průmyslovou výrobou polotovarů nebo země s rozsáhlými oblastmi zemědělské půdy. Tyto země vyvážejí velkou část surových a polotovarových produktů do jiných zemí, což tvoří většinu jejich ekonomického růstu." # todo: NEW TRANSLATION
+ globalized_trade_economy: "Globalizovaná obchodní ekonomika" # todo: NEW TRANSLATION
+ globalized_trade_economy_desc: "Globalizovaná obchodní ekonomika je mnohem více závislá na světovém obchodu než ostatní. Téměř všechny naše zdroje jsou posílány na trh a téměř všechny naše zdroje pocházejí z obchodu." # todo: NEW TRANSLATION
+ cannot_go_lower_than_bureau_01_tt: "Nelze snížit §Y$bureaucracy$§! pod §Y$bureau_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_bureau_01_tt: "Nelze zvýšit §Y$bureaucracy$§! nad §Y$bureau_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_bureau_02_tt: "Nelze snížit §Y$bureaucracy$§! pod §Y$bureau_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_bureau_02_tt: "Nelze zvýšit §Y$bureaucracy$§! nad §Y$bureau_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_bureau_03_tt: "Nelze snížit §Y$bureaucracy$§! pod §Y$bureau_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_bureau_03_tt: "Nelze zvýšit §Y$bureaucracy$§! nad §Y$bureau_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_bureau_04_tt: "Nelze snížit §Y$bureaucracy$§! pod §Y$bureau_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_bureau_04_tt: "Nelze zvýšit §Y$bureaucracy$§! nad §Y$bureau_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_bureau_05_tt: "Nelze snížit §Y$bureaucracy$§! pod §Y$bureau_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_bureau_05_tt: "Nelze zvýšit §Y$bureaucracy$§! nad §Y$bureau_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_00_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_00$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_00_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_00$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_01_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_01_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_02_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_02_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_03_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_03_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_04_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_04_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_05_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_05_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_06_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_06_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_07_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_07$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_07_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_07$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_08_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_08$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_08_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_08$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_defence_09_tt: "Nelze snížit §Y$Military_Spending$§! pod §Y$defence_09$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_defence_09_tt: "Nelze zvýšit §Y$Military_Spending$§! nad §Y$defence_09$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_edu_01_tt: "Nelze snížit §Y$education_budget$§! pod §Y$edu_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_edu_01_tt: "Nelze zvýšit §Y$education_budget$§! nad §Y$edu_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_edu_02_tt: "Nelze snížit §Y$education_budget$§! pod §Y$edu_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_edu_02_tt: "Nelze zvýšit §Y$education_budget$§! nad §Y$edu_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_edu_03_tt: "Nelze snížit §Y$education_budget$§! pod §Y$edu_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_edu_03_tt: "Nelze zvýšit §Y$education_budget$§! nad §Y$edu_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_edu_04_tt: "Nelze snížit §Y$education_budget$§! pod §Y$edu_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_edu_04_tt: "Nelze zvýšit §Y$education_budget$§! nad §Y$edu_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_edu_05_tt: "Nelze snížit §Y$education_budget$§! pod §Y$edu_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_edu_05_tt: "Nelze zvýšit §Y$education_budget$§! nad §Y$edu_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_01_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_01_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_02_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_02_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_03_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_03_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_04_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_04_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_05_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_05_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_health_06_tt: "Nelze snížit §Y$health_budget$§! pod §Y$health_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_health_06_tt: "Nelze zvýšit §Y$health_budget$§! nad §Y$health_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_01_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_01_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_02_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_02_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_03_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_03_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_04_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_04_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_05_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_05_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_social_06_tt: "Nelze snížit §Y$social_budget$§! pod §Y$social_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_social_06_tt: "Nelze zvýšit §Y$social_budget$§! nad §Y$social_06$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_police_01_tt: "Nelze snížit §Y$crime_fighting$§! pod §Y$police_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_police_01_tt: "Nelze zvýšit §Y$crime_fighting$§! nad §Y$police_01$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_police_02_tt: "Nelze snížit §Y$crime_fighting$§! pod §Y$police_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_police_02_tt: "Nelze zvýšit §Y$crime_fighting$§! nad §Y$police_02$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_police_03_tt: "Nelze snížit §Y$crime_fighting$§! pod §Y$police_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_police_03_tt: "Nelze zvýšit §Y$crime_fighting$§! nad §Y$police_03$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_police_04_tt: "Nelze snížit §Y$crime_fighting$§! pod §Y$police_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_police_04_tt: "Nelze zvýšit §Y$crime_fighting$§! nad §Y$police_04$§!\n" # todo: NEW TRANSLATION
+ cannot_go_lower_than_police_05_tt: "Nelze snížit §Y$crime_fighting$§! pod §Y$police_05$§!\n" # todo: NEW TRANSLATION
+ cannot_go_higher_than_police_05_tt: "Nelze zvýšit §Y$crime_fighting$§! nad §Y$police_05$§!\n" # todo: NEW TRANSLATION

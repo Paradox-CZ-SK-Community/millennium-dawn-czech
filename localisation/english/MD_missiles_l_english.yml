@@ -1,0 +1,746 @@
+﻿l_english:
+ missile_type_0: "Žádný" # todo: NEW TRANSLATION
+ missile_type_1: "ICBM" # todo: NEW TRANSLATION
+ missile_type_2: "IRBM" # todo: NEW TRANSLATION
+ missile_type_3: "SLBM" # todo: NEW TRANSLATION
+ missile_type_4: "ALCM" # todo: NEW TRANSLATION
+ missile_type_5: "GLCM" # todo: NEW TRANSLATION
+ missile_type_6: "SLCM" # todo: NEW TRANSLATION
+ missile_type_7: "HSCM" # todo: NEW TRANSLATION
+ missile_tech_0: "Žádný" # todo: NEW TRANSLATION
+ missile_tech_1: "1965" # todo: NEW TRANSLATION
+ missile_tech_2: "1975" # todo: NEW TRANSLATION
+ missile_tech_3: "1985" # todo: NEW TRANSLATION
+ missile_tech_4: "1995" # todo: NEW TRANSLATION
+ missile_tech_5: "2005" # todo: NEW TRANSLATION
+ missile_tech_6: "2015" # todo: NEW TRANSLATION
+ missile_tech_7: "2025" # todo: NEW TRANSLATION
+ missile_tech_8: "2035" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_unique_loc: "[missile_type_prod_1_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_generic_loc: "[missile_type_prod_1_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_USA_loc: "[missile_type_prod_1_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_SOV_loc: "[missile_type_prod_1_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_CHI_loc: "[missile_type_prod_1_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_ENG_loc: "[missile_type_prod_1_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_FRA_loc: "[missile_type_prod_1_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_ISR_loc: "[missile_type_prod_1_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_RAJ_loc: "[missile_type_prod_1_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_PAK_loc: "[missile_type_prod_1_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_NKO_loc: "[missile_type_prod_1_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_1_selected_PER_loc: "[missile_type_prod_1_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_unique_loc: "[missile_type_prod_2_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_generic_loc: "[missile_type_prod_2_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_USA_loc: "[missile_type_prod_2_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_SOV_loc: "[missile_type_prod_2_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_CHI_loc: "[missile_type_prod_2_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_ENG_loc: "[missile_type_prod_2_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_FRA_loc: "[missile_type_prod_2_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_ISR_loc: "[missile_type_prod_2_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_RAJ_loc: "[missile_type_prod_2_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_PAK_loc: "[missile_type_prod_2_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_NKO_loc: "[missile_type_prod_2_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_2_selected_PER_loc: "[missile_type_prod_2_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_unique_loc: "[missile_type_prod_3_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_generic_loc: "[missile_type_prod_3_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_USA_loc: "[missile_type_prod_3_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_SOV_loc: "[missile_type_prod_3_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_CHI_loc: "[missile_type_prod_3_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_ENG_loc: "[missile_type_prod_3_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_FRA_loc: "[missile_type_prod_3_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_ISR_loc: "[missile_type_prod_3_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_RAJ_loc: "[missile_type_prod_3_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_PAK_loc: "[missile_type_prod_3_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_NKO_loc: "[missile_type_prod_3_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_3_selected_PER_loc: "[missile_type_prod_3_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_unique_loc: "[missile_type_prod_4_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_generic_loc: "[missile_type_prod_4_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_USA_loc: "[missile_type_prod_4_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_SOV_loc: "[missile_type_prod_4_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_CHI_loc: "[missile_type_prod_4_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_ENG_loc: "[missile_type_prod_4_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_FRA_loc: "[missile_type_prod_4_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_ISR_loc: "[missile_type_prod_4_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_RAJ_loc: "[missile_type_prod_4_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_PAK_loc: "[missile_type_prod_4_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_NKO_loc: "[missile_type_prod_4_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_4_selected_PER_loc: "[missile_type_prod_4_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_unique_loc: "[missile_type_prod_5_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_generic_loc: "[missile_type_prod_5_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_USA_loc: "[missile_type_prod_5_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_SOV_loc: "[missile_type_prod_5_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_CHI_loc: "[missile_type_prod_5_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_ENG_loc: "[missile_type_prod_5_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_FRA_loc: "[missile_type_prod_5_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_ISR_loc: "[missile_type_prod_5_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_RAJ_loc: "[missile_type_prod_5_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_PAK_loc: "[missile_type_prod_5_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_NKO_loc: "[missile_type_prod_5_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_5_selected_PER_loc: "[missile_type_prod_5_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_unique_loc: "[missile_type_prod_6_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_generic_loc: "[missile_type_prod_6_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_USA_loc: "[missile_type_prod_6_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_SOV_loc: "[missile_type_prod_6_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_CHI_loc: "[missile_type_prod_6_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_ENG_loc: "[missile_type_prod_6_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_FRA_loc: "[missile_type_prod_6_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_ISR_loc: "[missile_type_prod_6_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_RAJ_loc: "[missile_type_prod_6_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_PAK_loc: "[missile_type_prod_6_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_NKO_loc: "[missile_type_prod_6_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_6_selected_PER_loc: "[missile_type_prod_6_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_unique_loc: "[missile_type_prod_7_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_generic_loc: "[missile_type_prod_7_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_USA_loc: "[missile_type_prod_7_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_SOV_loc: "[missile_type_prod_7_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_CHI_loc: "[missile_type_prod_7_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_ENG_loc: "[missile_type_prod_7_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_FRA_loc: "[missile_type_prod_7_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_ISR_loc: "[missile_type_prod_7_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_RAJ_loc: "[missile_type_prod_7_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_PAK_loc: "[missile_type_prod_7_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_NKO_loc: "[missile_type_prod_7_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_7_selected_PER_loc: "[missile_type_prod_7_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_unique_loc: "[missile_type_prod_8_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_generic_loc: "[missile_type_prod_8_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_USA_loc: "[missile_type_prod_8_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_SOV_loc: "[missile_type_prod_8_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_CHI_loc: "[missile_type_prod_8_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_ENG_loc: "[missile_type_prod_8_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_FRA_loc: "[missile_type_prod_8_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_ISR_loc: "[missile_type_prod_8_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_RAJ_loc: "[missile_type_prod_8_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_PAK_loc: "[missile_type_prod_8_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_NKO_loc: "[missile_type_prod_8_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_8_selected_PER_loc: "[missile_type_prod_8_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_unique_loc: "[missile_type_prod_9_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_generic_loc: "[missile_type_prod_9_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_USA_loc: "[missile_type_prod_9_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_SOV_loc: "[missile_type_prod_9_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_CHI_loc: "[missile_type_prod_9_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_ENG_loc: "[missile_type_prod_9_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_FRA_loc: "[missile_type_prod_9_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_ISR_loc: "[missile_type_prod_9_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_RAJ_loc: "[missile_type_prod_9_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_PAK_loc: "[missile_type_prod_9_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_NKO_loc: "[missile_type_prod_9_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_9_selected_PER_loc: "[missile_type_prod_9_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_unique_loc: "[missile_type_prod_10_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_generic_loc: "[missile_type_prod_10_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_USA_loc: "[missile_type_prod_10_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_SOV_loc: "[missile_type_prod_10_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_CHI_loc: "[missile_type_prod_10_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_ENG_loc: "[missile_type_prod_10_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_FRA_loc: "[missile_type_prod_10_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_ISR_loc: "[missile_type_prod_10_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_RAJ_loc: "[missile_type_prod_10_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_PAK_loc: "[missile_type_prod_10_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_NKO_loc: "[missile_type_prod_10_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_10_selected_PER_loc: "[missile_type_prod_10_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_unique_loc: "[missile_type_prod_11_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_generic_loc: "[missile_type_prod_11_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_USA_loc: "[missile_type_prod_11_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_SOV_loc: "[missile_type_prod_11_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_CHI_loc: "[missile_type_prod_11_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_ENG_loc: "[missile_type_prod_11_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_FRA_loc: "[missile_type_prod_11_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_ISR_loc: "[missile_type_prod_11_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_RAJ_loc: "[missile_type_prod_11_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_PAK_loc: "[missile_type_prod_11_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_NKO_loc: "[missile_type_prod_11_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_11_selected_PER_loc: "[missile_type_prod_11_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_unique_loc: "[missile_type_prod_12_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_generic_loc: "[missile_type_prod_12_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_USA_loc: "[missile_type_prod_12_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_SOV_loc: "[missile_type_prod_12_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_CHI_loc: "[missile_type_prod_12_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_ENG_loc: "[missile_type_prod_12_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_FRA_loc: "[missile_type_prod_12_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_ISR_loc: "[missile_type_prod_12_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_RAJ_loc: "[missile_type_prod_12_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_PAK_loc: "[missile_type_prod_12_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_NKO_loc: "[missile_type_prod_12_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_12_selected_PER_loc: "[missile_type_prod_12_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_unique_loc: "[missile_type_prod_13_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_generic_loc: "[missile_type_prod_13_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_USA_loc: "[missile_type_prod_13_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_SOV_loc: "[missile_type_prod_13_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_CHI_loc: "[missile_type_prod_13_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_ENG_loc: "[missile_type_prod_13_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_FRA_loc: "[missile_type_prod_13_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_ISR_loc: "[missile_type_prod_13_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_RAJ_loc: "[missile_type_prod_13_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_PAK_loc: "[missile_type_prod_13_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_NKO_loc: "[missile_type_prod_13_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_13_selected_PER_loc: "[missile_type_prod_13_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_unique_loc: "[missile_type_prod_14_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_generic_loc: "[missile_type_prod_14_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_USA_loc: "[missile_type_prod_14_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_SOV_loc: "[missile_type_prod_14_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_CHI_loc: "[missile_type_prod_14_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_ENG_loc: "[missile_type_prod_14_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_FRA_loc: "[missile_type_prod_14_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_ISR_loc: "[missile_type_prod_14_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_RAJ_loc: "[missile_type_prod_14_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_PAK_loc: "[missile_type_prod_14_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_NKO_loc: "[missile_type_prod_14_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_14_selected_PER_loc: "[missile_type_prod_14_selected_PER_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_unique_loc: "[missile_type_prod_15_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_generic_loc: "[missile_type_prod_15_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_USA_loc: "[missile_type_prod_15_selected_USA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_SOV_loc: "[missile_type_prod_15_selected_SOV_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_CHI_loc: "[missile_type_prod_15_selected_CHI_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_ENG_loc: "[missile_type_prod_15_selected_ENG_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_FRA_loc: "[missile_type_prod_15_selected_FRA_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_ISR_loc: "[missile_type_prod_15_selected_ISR_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_RAJ_loc: "[missile_type_prod_15_selected_RAJ_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_PAK_loc: "[missile_type_prod_15_selected_PAK_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_NKO_loc: "[missile_type_prod_15_selected_NKO_loc]" # todo: NEW TRANSLATION
+ missile_type_prod_15_selected_PER_loc: "[missile_type_prod_15_selected_PER_loc]" # todo: NEW TRANSLATION
+ 00_missile_decisions: "Rozhodnutí o raketách" # todo: NEW TRANSLATION
+ 00_missile_decisions_desc: "Rozhodnutí týkající se raketového systému." # todo: NEW TRANSLATION
+ spy_sat_mission_decision: "Mise špionážní družice" # todo: NEW TRANSLATION
+ spy_sat_mission_decision_desc: "Umístěte §Yšpionážní družici§! na geostacionární oběžnou dráhu nad každým státem §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ spy_sat_mission_trigger_TT: "k dispozici £GFX_SPY_satellite_texticon   ([?var_SPY_mission_num_available|C0]) > §Y[FROM.GetNameWithFlag]§! počet §Yovládaných států§! ([?FROM.num_controlled_states|Y0])" # todo: NEW TRANSLATION
+ Test_selected_TAG_loc_key: "[?temp1]" # todo: NEW TRANSLATION
+ get_missiles: "Získat rakety" # todo: NEW TRANSLATION
+ get_SAM_ABM: "Získat SAM & ABM" # todo: NEW TRANSLATION
+ get_OLV: "Získat OLV" # todo: NEW TRANSLATION
+ get_nukes: "Získat jaderné zbraně" # todo: NEW TRANSLATION
+ get_satellites: "Získat satelity" # todo: NEW TRANSLATION
+ get_missile_tech: "Získat raketové technologie" # todo: NEW TRANSLATION
+ missile_construction_1: "Výroba ICBM" # todo: NEW TRANSLATION
+ missile_construction_1_desc: "Probíhá výroba §YICBM§!" # todo: NEW TRANSLATION
+ missile_construction_2: "Výroba IRBM" # todo: NEW TRANSLATION
+ missile_construction_2_desc: "Probíhá výroba §YIRBM§!" # todo: NEW TRANSLATION
+ missile_construction_3: "Výroba SLBM" # todo: NEW TRANSLATION
+ missile_construction_3_desc: "Probíhá výroba §YSLBM§!" # todo: NEW TRANSLATION
+ missile_construction_4: "Výroba ALCM" # todo: NEW TRANSLATION
+ missile_construction_4_desc: "Probíhá výroba §YALCM§!" # todo: NEW TRANSLATION
+ missile_construction_5: "Výroba GLCM" # todo: NEW TRANSLATION
+ missile_construction_5_desc: "Probíhá výroba §YGLCM§!" # todo: NEW TRANSLATION
+ missile_construction_6: "Výroba SLCM" # todo: NEW TRANSLATION
+ missile_construction_6_desc: "Probíhá výroba §YSLCM§!" # todo: NEW TRANSLATION
+ missile_construction_7: "Výroba HSCM" # todo: NEW TRANSLATION
+ missile_construction_7_desc: "Probíhá výroba §YHSCM§!" # todo: NEW TRANSLATION
+ missile_construction_8: "Výroba SAM" # todo: NEW TRANSLATION
+ missile_construction_8_desc: "Probíhá výroba §YSAM§!" # todo: NEW TRANSLATION
+ missile_construction_9: "Výroba ABM" # todo: NEW TRANSLATION
+ missile_construction_9_desc: "Probíhá výroba §YABM§!" # todo: NEW TRANSLATION
+ missile_construction_10: "Výroba OLV" # todo: NEW TRANSLATION
+ missile_construction_10_desc: "Probíhá výroba §YOLV§!" # todo: NEW TRANSLATION
+ missile_construction_11: "Výroba GNSS" # todo: NEW TRANSLATION
+ missile_construction_11_desc: "Probíhá výroba §YGNSS§!" # todo: NEW TRANSLATION
+ missile_construction_12: "Výroba COMSAT" # todo: NEW TRANSLATION
+ missile_construction_12_desc: "Probíhá výroba §YCOMSAT§!" # todo: NEW TRANSLATION
+ missile_construction_13: "Výroba SPYSAT" # todo: NEW TRANSLATION
+ missile_construction_13_desc: "Probíhá výroba §YSPYSAT§!" # todo: NEW TRANSLATION
+ missile_construction_14: "Výroba KILLSAT" # todo: NEW TRANSLATION
+ missile_construction_14_desc: "Probíhá výroba §YKILLSAT§!" # todo: NEW TRANSLATION
+ missile_construction_15: "Výroba kinetických tyčí" # todo: NEW TRANSLATION
+ missile_construction_15_desc: "Probíhá výroba §Ykinetických tyčí§!" # todo: NEW TRANSLATION
+ nuclear_warhead_prod: "Výroba jaderných hlavic" # todo: NEW TRANSLATION
+ nuclear_warhead_prod_desc: "Probíhá výroba §Yjaderných hlavic§!" # todo: NEW TRANSLATION
+ complete_nuclear_program: "Dokončit jaderný program" # todo: NEW TRANSLATION
+ complete_nuclear_program_desc: "Postavili jsme jadernou hlavici a nyní můžeme dokončit náš tajný jaderný program, abychom se stali §Y$nuclear_status_6_loc_key$§! nebo plnoprávným §Y$nuclear_status_3_loc_key$§!." # todo: NEW TRANSLATION
+ complete_nuclear_program_trigger_TT: "§Y[ROOT.GetNameWithFlag]§! má §Y$nuclear_status_7_loc_key$§! a alespoň §O1 jadernou hlavici§! vyrobenou a ve svém inventáři." # todo: NEW TRANSLATION
+ missile_prod_1_dynamic_modifier: "Výroba ICBM" # todo: NEW TRANSLATION
+ missile_prod_2_dynamic_modifier: "Výroba IRBM" # todo: NEW TRANSLATION
+ missile_prod_3_dynamic_modifier: "Výroba SLBM" # todo: NEW TRANSLATION
+ missile_prod_4_dynamic_modifier: "Výroba ALCM" # todo: NEW TRANSLATION
+ missile_prod_5_dynamic_modifier: "Výroba GLCM" # todo: NEW TRANSLATION
+ missile_prod_6_dynamic_modifier: "Výroba SLCM" # todo: NEW TRANSLATION
+ missile_prod_7_dynamic_modifier: "Výroba HSCM" # todo: NEW TRANSLATION
+ missile_prod_8_dynamic_modifier: "Výroba SAM" # todo: NEW TRANSLATION
+ missile_prod_9_dynamic_modifier: "Výroba ABM" # todo: NEW TRANSLATION
+ missile_prod_10_dynamic_modifier: "Výroba OLV" # todo: NEW TRANSLATION
+ missile_prod_11_dynamic_modifier: "Výroba GNSS" # todo: NEW TRANSLATION
+ missile_prod_12_dynamic_modifier: "Výroba COMSAT" # todo: NEW TRANSLATION
+ missile_prod_13_dynamic_modifier: "Výroba SPYSAT" # todo: NEW TRANSLATION
+ missile_prod_14_dynamic_modifier: "Výroba KILLSAT" # todo: NEW TRANSLATION
+ missile_prod_15_dynamic_modifier: "Výroba kinetických tyčí" # todo: NEW TRANSLATION
+ air_defense_modifiers_system: "Integrovaný systém vzdušné a flotilní protiletecké obrany" # todo: NEW TRANSLATION
+ air_defense_modifiers_system_desc: "Integrovaný systém vzdušné obrany je struktura, vybavení, personál, postupy a zbraně používané k odražení leteckého průniku nepřítele do vlastního území. Nejedná se o jednu zbraň nebo osobu, ale o soubor prvků organizovaných tak, aby minimalizovaly hrozby ve vzdušném prostoru.\nSystémy můžete spravovat na záložce §YZvdušná a protiraketová obrana§! v rozhraní raketového systému." # todo: NEW TRANSLATION
+ GNSS_system: "Globální navigační satelitní systém" # todo: NEW TRANSLATION
+ GNSS_system_desc: "Globální navigační satelitní systém:\nTyto modifikátory jsou určovány a spravovány vojenským a civilním globálním navigačním satelitním systémem a přístupem ke globálním navigačním satelitním systémům jiných zemí.\nSystémy můžete spravovat na záložce §YSatelitní systémy§! v rozhraní raketového systému. Diplomatickými kroky můžete získat přístup k systémům jiných zemí a poskytnout jiným zemím přístup k vašim systémům." # todo: NEW TRANSLATION
+ COMSAT_system: "Komunikační satelitní systém" # todo: NEW TRANSLATION
+ COMSAT_system_desc: "Komunikační satelitní systém\nTyto modifikátory jsou určovány a spravovány vojenským a civilním komunikačním satelitním systémem a přístupem ke komunikačním satelitním systémům jiných zemí.\nSystémy můžete spravovat na záložce §YSatelitní systémy§! v rozhraní raketového systému. Diplomatickými kroky můžete získat přístup k systémům jiných zemí a poskytnout jiným zemím přístup k vašim systémům." # todo: NEW TRANSLATION
+ SPYSAT_system: "Průzkumný satelitní systém" # todo: NEW TRANSLATION
+ SPYSAT_system_desc: "Průzkumný satelitní systém:\nTyto modifikátory jsou určovány a spravovány vojenským a civilním průzkumným satelitním systémem (špionážní družice) a přístupem k průzkumným satelitním systémům jiných zemí.\nSystémy můžete spravovat na záložce §YSatelitní systémy§! v rozhraní raketového systému. Diplomatickými kroky můžete získat přístup k systémům jiných zemí a poskytnout jiným zemím přístup k vašim systémům." # todo: NEW TRANSLATION
+ nuclear_state_modifier: "Jaderný stát" # todo: NEW TRANSLATION
+ nuclear_state_modifier_desc: "Jaderný stát je země, která vlastní §Y$nuclear_technology$§! (§Y$nuclear_reactor$§! nebo §Yjaderné hlavice§!).\nTyto modifikátory jsou určovány a spravovány jaderným stavem země, §Yjadernými doktrínami§!, §Yjadernou produkcí§! a £GFX_nuclear_deterrence §Yjaderným odstrašováním§!.\nModifikátory můžete spravovat na záložce §YJaderná politika§! v rozhraní raketového systému." # todo: NEW TRANSLATION
+ radiation_modifier: "Radiace" # todo: NEW TRANSLATION
+ radiation_0: "Radiace z 15 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_1: "Radiace z 20 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_2: "Radiace z 30 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_3: "Radiace z 45 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_4: "Radiace z 60 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_5: "Radiace z 100 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_6: "Radiace z 150 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_7: "Radiace z 300 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_8: "Radiace z 500 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_9: "Radiace z 1 Mt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_10: "Radiace z 3 Mt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_11: "Radiace z 5 Mt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_12: "Radiace z 10 Mt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_13: "Radiace z 5 kt jaderného výbuchu" # todo: NEW TRANSLATION
+ radiation_14: "Radiace z 1 kt neutronové bomby" # todo: NEW TRANSLATION
+ radiation_15: "Radiace ze špinavé bomby" # todo: NEW TRANSLATION
+ MD_missile_type_tech_unique_texture: "[MD_missile_type_tech_unique_texture]" # todo: NEW TRANSLATION
+ MD_missile_type_tech_generic_texture: "[MD_missile_type_tech_generic_texture]" # todo: NEW TRANSLATION
+ MD_missile_type_selected_unique_texture: "[MD_missile_type_selected_unique_texture]" # todo: NEW TRANSLATION
+ MD_missile_type_selected_generic_texture: "[MD_missile_type_selected_generic_texture]" # todo: NEW TRANSLATION
+ missile_type_tech_generic_loc: "[missile_type_tech_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_selected_generic_loc: "[missile_type_selected_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_stat_generic_loc: "[missile_type_stat_generic_loc]" # todo: NEW TRANSLATION
+ missile_type_tech_unique_loc: "[missile_type_tech_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_selected_unique_loc: "[missile_type_selected_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_stat_unique_loc: "[missile_type_stat_unique_loc]" # todo: NEW TRANSLATION
+ missile_type_tech_generic_0: "Žádný" # todo: NEW TRANSLATION
+ missile_type_tech_generic_11: "ICBM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_12: "ICBM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_13: "ICBM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_14: "ICBM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_15: "ICBM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_16: "ICBM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_17: "ICBM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_18: "ICBM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_21: "IRBM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_22: "IRBM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_23: "IRBM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_24: "IRBM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_25: "IRBM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_26: "IRBM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_27: "IRBM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_28: "IRBM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_31: "SLBM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_32: "SLBM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_33: "SLBM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_34: "SLBM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_35: "SLBM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_36: "SLBM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_37: "SLBM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_38: "SLBM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_41: "ALCM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_42: "ALCM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_43: "ALCM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_44: "ALCM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_45: "ALCM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_46: "ALCM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_47: "ALCM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_48: "ALCM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_51: "GLCM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_52: "GLCM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_53: "GLCM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_54: "GLCM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_55: "GLCM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_56: "GLCM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_57: "GLCM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_58: "GLCM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_61: "SLCM 1965" # todo: NEW TRANSLATION
+ missile_type_tech_generic_62: "SLCM 1975" # todo: NEW TRANSLATION
+ missile_type_tech_generic_63: "SLCM 1985" # todo: NEW TRANSLATION
+ missile_type_tech_generic_64: "SLCM 1995" # todo: NEW TRANSLATION
+ missile_type_tech_generic_65: "SLCM 2005" # todo: NEW TRANSLATION
+ missile_type_tech_generic_66: "SLCM 2015" # todo: NEW TRANSLATION
+ missile_type_tech_generic_67: "SLCM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_68: "SLCM 2035" # todo: NEW TRANSLATION
+ missile_type_tech_generic_71: "HSCM 2025" # todo: NEW TRANSLATION
+ missile_type_tech_generic_72: "HSCM 2035" # todo: NEW TRANSLATION
+ base_desire: "Základní zájem" # todo: NEW TRANSLATION
+ opinion_condition: "Názor" # todo: NEW TRANSLATION
+ military_cooperation_condition: "Vojenská spolupráce" # todo: NEW TRANSLATION
+ NATO_condition: "NATO" # todo: NEW TRANSLATION
+ EU_condition: "Evropská unie" # todo: NEW TRANSLATION
+ faction_condition: "Frakce" # todo: NEW TRANSLATION
+ friends_condition: "Přátelé" # todo: NEW TRANSLATION
+ foes_condition: "Nepřátelé" # todo: NEW TRANSLATION
+ war_condition: "Válka" # todo: NEW TRANSLATION
+ wargoal_condition: "Válečné cíle" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_TITLE: "Přístup k vojenskému GNSS" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACTION_DESC: "Požádat o přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému GNSS" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_RECIEVER_LOC: "Žádají o přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenské GNSS sítě." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského GNSS systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_TITLE: "Nabídnout přístup k vojenskému GNSS" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACTION_DESC: "Nabídnout přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému GNSS" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Budou těžit z naší vojenské GNSS sítě." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského GNSS systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_TITLE: "Odvolat přístup k vojenskému GNSS" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACTION_DESC: "Odvolat přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_LOC: "Odeslat odvolání přístupu k vojenskému GNSS" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke své vojenské GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému GNSS" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke své vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_TITLE: "Přístup k civilnímu GNSS" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACTION_DESC: "Požádat o přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu GNSS" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_RECIEVER_LOC: "Žádají o přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilní GNSS sítě." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YÚroveň civilního GNSS systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_TITLE: "Nabídnout přístup k civilnímu GNSS" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACTION_DESC: "Nabídnout přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu GNSS" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Budou těžit z naší civilní GNSS sítě." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YÚroveň civilního GNSS systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_TITLE: "Odvolat přístup k civilnímu GNSS" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACTION_DESC: "Odvolat přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_LOC: "Odeslat odvolání přístupu k civilnímu GNSS" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke své civilní GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu GNSS" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke své civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_TITLE: "Přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACTION_DESC: "Požádat o přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_RECIEVER_LOC: "Žádají o přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_TITLE: "Nabídnout přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_TITLE: "Odvolat přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACTION_DESC: "Odvolat přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_LOC: "Odeslat odvolání přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_TITLE: "Přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACTION_DESC: "Požádat o přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_RECIEVER_LOC: "Žádají o přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_TITLE: "Nabídnout přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_TITLE: "Odvolat přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACTION_DESC: "Odvolat přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_LOC: "Odeslat odvolání přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_TITLE: "Přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_RECIEVER_LOC: "Žádají o přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_TITLE: "Nabídnout přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_TITLE: "Odvolat přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACTION_DESC: "Odvolat přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_LOC: "Odeslat odvolání přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_TITLE: "Přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_RECIEVER_LOC: "Žádají o přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! u [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_TITLE: "Nabídnout přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! u [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_TITLE: "Odvolat přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACTION_DESC: "Odvolat přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_LOC: "Odeslat odvolání přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ satellites.1.t: "Systém satelitů snížen " # todo: NEW TRANSLATION
+ satellites.1.d: "Ztratili jsme příliš mnoho našich satelitů, takže musíme snížit úroveň našeho satelitního systému. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.1.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.2.t: "Vojenský GNSS systém snížen " # todo: NEW TRANSLATION
+ satellites.2.d: "Ztratili jsme příliš mnoho našich vojenských GNSS satelitů, takže musíme snížit úroveň vojenského GNSS systému. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.2.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.3.t: "Civilní GNSS systém snížen " # todo: NEW TRANSLATION
+ satellites.3.d: "Ztratili jsme příliš mnoho našich civilních GNSS satelitů, takže musíme snížit úroveň civilního GNSS systému. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.3.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.4.t: "Vojenský satelitní komunikační systém snížen " # todo: NEW TRANSLATION
+ satellites.4.d: "Ztratili jsme příliš mnoho našich vojenských komunikačních satelitů, takže musíme snížit úroveň vojenského satelitního komunikačního systému. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.4.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.5.t: "Civilní satelitní komunikační systém snížen " # todo: NEW TRANSLATION
+ satellites.5.d: "Ztratili jsme příliš mnoho našich civilních komunikačních satelitů, takže musíme snížit úroveň civilního satelitního komunikačního systému. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.5.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.6.t: "Vojenský systém průzkumných satelitů snížen " # todo: NEW TRANSLATION
+ satellites.6.d: "Ztratili jsme příliš mnoho našich vojenských průzkumných satelitů, takže musíme snížit úroveň vojenského systému průzkumných satelitů. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.6.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.7.t: "Civilní systém průzkumných satelitů snížen " # todo: NEW TRANSLATION
+ satellites.7.d: "Ztratili jsme příliš mnoho našich civilních průzkumných satelitů, takže musíme snížit úroveň civilního systému průzkumných satelitů. Na nižší úrovni bude méně efektivní, ale opět bude fungovat." # todo: NEW TRANSLATION
+ satellites.7.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.8.t: "Dosaženo limitu satelitů" # todo: NEW TRANSLATION
+ satellites.8.d: "Máme příliš mnoho satelitů na oběžné dráze, momentálně nemůžeme spustit další. Limit je 3000." # todo: NEW TRANSLATION
+ satellites.8.a: "Dobře" # todo: NEW TRANSLATION
+ satellites.9.t: "Kinetické bombardování" # todo: NEW TRANSLATION
+ satellites.9.d: "[?ROOT.kinetic_bombardment_target_array^ROOT.var_KB_ID.GetName] byl cílem kinetického bombardování. Způsobilo toto poškození státních budov:\n\n£GFX_buildings_strip|1  [?ROOT.kinetic_bombardment_damage_1_array^ROOT.var_KB_ID] £GFX_buildings_strip|2  [?ROOT.kinetic_bombardment_damage_2_array^ROOT.var_KB_ID] £GFX_buildings_strip|3  [?ROOT.kinetic_bombardment_damage_3_array^ROOT.var_KB_ID] £GFX_buildings_strip|4  [?ROOT.kinetic_bombardment_damage_4_array^ROOT.var_KB_ID] £GFX_buildings_strip|5  [?ROOT.kinetic_bombardment_damage_5_array^ROOT.var_KB_ID] £GFX_buildings_strip|6  [?ROOT.kinetic_bombardment_damage_6_array^ROOT.var_KB_ID] £GFX_buildings_strip|7  [?ROOT.kinetic_bombardment_damage_7_array^ROOT.var_KB_ID] £GFX_buildings_strip|8  [?ROOT.kinetic_bombardment_damage_8_array^ROOT.var_KB_ID]\n\n £GFX_buildings_strip|9  [?ROOT.kinetic_bombardment_damage_9_array^ROOT.var_KB_ID] £GFX_buildings_strip|10  [?ROOT.kinetic_bombardment_damage_10_array^ROOT.var_KB_ID] £GFX_buildings_strip|11  [?ROOT.kinetic_bombardment_damage_11_array^ROOT.var_KB_ID] £GFX_buildings_strip|12  [?ROOT.kinetic_bombardment_damage_12_array^ROOT.var_KB_ID] £GFX_buildings_strip|13  [?ROOT.kinetic_bombardment_damage_13_array^ROOT.var_KB_ID] £GFX_buildings_strip|14  [?ROOT.kinetic_bombardment_damage_14_array^ROOT.var_KB_ID] £GFX_buildings_strip|15  [?ROOT.kinetic_bombardment_damage_15_array^ROOT.var_KB_ID]" # todo: NEW TRANSLATION
+ satellites.9.a: "Dobře" # todo: NEW TRANSLATION
+ nukes.1.t: "Vymazat proměnné jaderných zbraní" # todo: NEW TRANSLATION
+ nukes.1.d: "Vymazat proměnné jaderných zbraní" # todo: NEW TRANSLATION
+ nukes.1.a: "Dobře" # todo: NEW TRANSLATION
+ nukes.2.t: "Zkontrolovat podmínky poplachu" # todo: NEW TRANSLATION
+ nukes.2.d: "Zkontrolovat podmínky poplachu" # todo: NEW TRANSLATION
+ nukes.2.a: "Dobře" # todo: NEW TRANSLATION
+ nukes.3.t: "Odvetný úder" # todo: NEW TRANSLATION
+ nukes.3.d: "Nepřítel na nás odpálil jaderný úder. Musíme odvetit! Zaútočíme našimi střelami v pohotovosti na nepřítele." # todo: NEW TRANSLATION
+ nukes.3.a: "Odpálit!" # todo: NEW TRANSLATION
+ nukes.3.b: "Zpět!" # todo: NEW TRANSLATION
+ nukes.4.t: "[FROM.GetAdjective] jaderný test" # todo: NEW TRANSLATION
+ nukes.4.d: "[FROM.GetName] provedl test jaderné hlavice." # todo: NEW TRANSLATION
+ nukes.4.a: "Dobře!" # todo: NEW TRANSLATION
+ nukes.4.b: "Už mě o jaderných testech znovu neinformovat!" # todo: NEW TRANSLATION
+ nukes.5.t: "Ustavit střely do pohotovosti" # todo: NEW TRANSLATION
+ nukes.5.d: "Ustavit střely do pohotovosti" # todo: NEW TRANSLATION
+ nukes.5.a: "Dobře" # todo: NEW TRANSLATION
+ nukes.6.t: "[FROM.GetName] uvedl jaderné síly do pohotovosti" # todo: NEW TRANSLATION
+ nukes.6.d: "[FROM.GetName] uvedl své jaderné síly do pohotovosti. [FROM.GetAdjective] střely jsou nyní namířeny na strategické cíle svých nepřátel a jaderné hlavice jsou ozbrojeny." # todo: NEW TRANSLATION
+ nukes.6.a: "Dobře!" # todo: NEW TRANSLATION
+ nukes.7.t: "[FROM.GetName] uvedl jaderné síly do pohotovosti" # todo: NEW TRANSLATION
+ nukes.7.d: "[FROM.GetName] uvedl své jaderné síly do pohotovosti. [FROM.GetAdjective] střely jsou nyní namířeny na strategické cíle svých nepřátel a jaderné hlavice jsou ozbrojeny." # todo: NEW TRANSLATION
+ nukes.7.a: "Dobře!" # todo: NEW TRANSLATION
+ space_techtree_effect_TT: "Umožní výzkum §YVesmírného programu§!." # todo: NEW TRANSLATION
+ satellites_techtree_effect_TT: "Umožní výzkum §YSatelitů§!." # todo: NEW TRANSLATION
+ gnss_satellites_techtree_effect_TT: "Umožní výzkum §YGlobálního navigačního satelitního systému§!." # todo: NEW TRANSLATION
+ com_satellites_techtree_effect_TT: "Umožní výzkum §Ykomunikačních satelitů§!." # todo: NEW TRANSLATION
+ recon_satellites_techtree_effect_TT: "Umožní výzkum §YPrůzkumných satelitů§!." # todo: NEW TRANSLATION
+ space_weapons_techtree_effect_TT: "Umožní výzkum §YVesmírných zbraní§!." # todo: NEW TRANSLATION
+ kenetic_kill_vehicle_techtree_effect_TT: "Umožní výzkum §YKinetického zabíjecího tělesa§!." # todo: NEW TRANSLATION
+ OLV_techtree_effect_TT: "Umožní výzkum §YOrbitálního nosiče (OLV)§!." # todo: NEW TRANSLATION
+ part_reusable_OLV6_techtree_effect_TT: "§Y$OLV6$§! cena: $$§G-0.005§!\n§Y$OLV6$§! doba výroby: §G-10§! dní." # todo: NEW TRANSLATION
+ full_reusable_OLV7_techtree_effect_TT: "§Y$OLV7$§! cena: $$§G-0.01§!\n§Y$OLV7$§! doba výroby: §G-25§! dní." # todo: NEW TRANSLATION
+ full_reusable_OLV8_techtree_effect_TT: "§Y$OLV8$§! cena: $$§G-0.03§!\n§Y$OLV8$§! doba výroby: §G-45§! dní." # todo: NEW TRANSLATION
+ ballistic_missile_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y1§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ ICBM_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y2§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_3_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y4§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_4_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y6§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_5_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y8§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_6_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y10§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_7_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y12§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_8_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y14§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_9_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y16§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ silo_10_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y20§! na §g$missile_silo$§!." # todo: NEW TRANSLATION
+ ICBM2_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y3§!." # todo: NEW TRANSLATION
+ ICBM3_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y5§!." # todo: NEW TRANSLATION
+ ICBM3_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-5%§!." # todo: NEW TRANSLATION
+ ICBM4_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y6§!." # todo: NEW TRANSLATION
+ ICBM4_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-10%§!." # todo: NEW TRANSLATION
+ ICBM4_MIRV_decoys_techtree_effect_TT: "Umožní použití §Ynástrah§! v MIRV hlavicích." # todo: NEW TRANSLATION
+ ICBM5_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y7§!." # todo: NEW TRANSLATION
+ ICBM5_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-15%§!." # todo: NEW TRANSLATION
+ ICBM6_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y8§!." # todo: NEW TRANSLATION
+ ICBM6_HGV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-20%§!." # todo: NEW TRANSLATION
+ ICBM7_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y9§!." # todo: NEW TRANSLATION
+ ICBM7_HGV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-25%§!." # todo: NEW TRANSLATION
+ ICBM8_MIRV_techtree_effect_TT: "Nastaví §Ylimit MIRV§! na střelu na §Y12§!." # todo: NEW TRANSLATION
+ ICBM8_HGV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YICBM§! o §G-30%§!." # todo: NEW TRANSLATION
+ IRBM_techtree_effect_TT: "" # todo: NEW TRANSLATION
+ IRBM4_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YIRBM§! o §G-5%§!." # todo: NEW TRANSLATION
+ IRBM5_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YIRBM§! o §G-10%§!." # todo: NEW TRANSLATION
+ IRBM6_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YIRBM§! o §G-15%§!." # todo: NEW TRANSLATION
+ IRBM7_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YIRBM§! o §G-20%§!." # todo: NEW TRANSLATION
+ IRBM8_MARV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YIRBM§! o §G-25%§!." # todo: NEW TRANSLATION
+ SLBM_techtree_effect_TT: "" # todo: NEW TRANSLATION
+ SLBM1_techtree_effect_TT: "Nastaví §Ypočet odpalovačů SLBM§! u $SLBM_subs_TT$ na §Y4§!." # todo: NEW TRANSLATION
+ SLBM2_techtree_effect_TT: "Nastaví §Ypočet odpalovačů SLBM§! u $SLBM_subs_TT$ na §Y12§!." # todo: NEW TRANSLATION
+ SLBM3_techtree_effect_TT: "Nastaví §Ypočet odpalovačů SLBM§! u $SLBM_subs_TT$ na §Y16§!." # todo: NEW TRANSLATION
+ SLBM7_techtree_effect_TT: "Nastaví §Ypočet odpalovačů SLBM§! u $SLBM_subs_TT$ na §Y20§!." # todo: NEW TRANSLATION
+ SLBM7_HGV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YSLBM§! o §G-20%§!." # todo: NEW TRANSLATION
+ SLBM8_techtree_effect_TT: "Nastaví §Ypočet odpalovačů SLBM§! u $SLBM_subs_TT$ na §Y24§!." # todo: NEW TRANSLATION
+ SLBM8_HGV_techtree_effect_TT: "Upraví §Yterminální pravděpodobnost sestřelu§! nepřátelskými SAM proti §YSLBM§! o §G-25%§!." # todo: NEW TRANSLATION
+ cruise_missile_techtree_effect_TT: "Umožní výzkum §Ykřižujících střel§!." # todo: NEW TRANSLATION
+ ALCM_techtree_effect_TT: "§Y$strat_bomber$§! může odpalovat §YALCM§!. Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y1§!." # todo: NEW TRANSLATION
+ ALCM_MR_techtree_effect_TT: "§Y$multi_role_fighter$§! a §Y$cv_multi_role$§! mohou odpalovat §YALCM§!. Nastaví počet ALCM odpalovačů u §Y$multi_role_fighter$§! a §Y$cv_multi_role$§! na §Y2§!." # todo: NEW TRANSLATION
+ ALCM_STK_techtree_effect_TT: "§Y$Strike_fighter$§! může odpalovat §YALCM§!. Nastaví počet ALCM odpalovačů u §Y$Strike_fighter$§! na §Y2§!." # todo: NEW TRANSLATION
+ ALCM2_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y2§!." # todo: NEW TRANSLATION
+ ALCM3_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y4§!." # todo: NEW TRANSLATION
+ ALCM5_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y6§!." # todo: NEW TRANSLATION
+ ALCM5_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YALCM§! o §G-5%§!." # todo: NEW TRANSLATION
+ ALCM6_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y8§!." # todo: NEW TRANSLATION
+ ALCM6_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YALCM§! o §G-10%§!." # todo: NEW TRANSLATION
+ ALCM7_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y10§!." # todo: NEW TRANSLATION
+ ALCM7_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YALCM§! o §G-15%§!." # todo: NEW TRANSLATION
+ ALCM8_techtree_effect_TT: "Nastaví počet ALCM odpalovačů u §Y$strat_bomber$§! na §Y12§!." # todo: NEW TRANSLATION
+ ALCM8_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YALCM§! o §G-20%§!." # todo: NEW TRANSLATION
+ HSCM_techtree_effect_TT: "" # todo: NEW TRANSLATION
+ HSCM1_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YHSCM§! o §G-10%§!." # todo: NEW TRANSLATION
+ HSCM1_GLCM_techtree_effect_TT: "§YHSCM§! lze odpalovat z §Y$TEL_base$§!." # todo: NEW TRANSLATION
+ HSCM1_SLCM_techtree_effect_TT: "§YHSCM§! lze odpalovat z $missile_ships_TT$." # todo: NEW TRANSLATION
+ HSCM2_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YHSCM§! o §G-20%§!." # todo: NEW TRANSLATION
+ SLCM_techtree_effect_TT: "Umožní výzkum §YSLCM§!." # todo: NEW TRANSLATION
+ GLCM_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y2§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_launched_missiles_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y3§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_3_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y4§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_4_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y6§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_5_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y8§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_6_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y10§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_7_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y12§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_8_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y16§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_9_techtree_effect_TT: "Nastaví §Ypočet odpalovačů§! na §Y20§! na §g$TEL_base$§!." # todo: NEW TRANSLATION
+ TEL_10_techtree_effect_TT: "Nastaví §Yodpalovače§! pro §g$TEL_base$§! na §Y24§!." # todo: NEW TRANSLATION
+ SLCM_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y1§!." # todo: NEW TRANSLATION
+ SLCM_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y1§!." # todo: NEW TRANSLATION
+ SLCM1_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y2§!." # todo: NEW TRANSLATION
+ SLCM1_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y2§!." # todo: NEW TRANSLATION
+ SLCM2_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y4§!." # todo: NEW TRANSLATION
+ SLCM2_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y4§!." # todo: NEW TRANSLATION
+ SLCM3_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y8§!." # todo: NEW TRANSLATION
+ SLCM3_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y6§!." # todo: NEW TRANSLATION
+ SLCM4_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y16§!." # todo: NEW TRANSLATION
+ SLCM4_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y8§!." # todo: NEW TRANSLATION
+ SLCM5_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y24§!." # todo: NEW TRANSLATION
+ SLCM5_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y16§!." # todo: NEW TRANSLATION
+ SLCM5_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YSLCM§! a §YGLCM§! o §G-5%§!." # todo: NEW TRANSLATION
+ SLCM6_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y32§!." # todo: NEW TRANSLATION
+ SLCM6_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y24§!." # todo: NEW TRANSLATION
+ SLCM6_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YSLCM§! a §YGLCM§! o §G-10%§!." # todo: NEW TRANSLATION
+ SLCM7_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y48§!." # todo: NEW TRANSLATION
+ SLCM7_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y32§!." # todo: NEW TRANSLATION
+ SLCM7_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YSLCM§! a §YGLCM§! o §G-15%§!." # todo: NEW TRANSLATION
+ SLCM8_ship_techtree_effect_TT: "Nastaví §Yodpalovače§! u $missile_ships_TT$ na §Y56§!." # todo: NEW TRANSLATION
+ SLCM8_sub_techtree_effect_TT: "Nastaví §Yodpalovače§! u $SLCM_subs_TT$ na §Y48§!." # todo: NEW TRANSLATION
+ SLCM8_stealth_techtree_effect_TT: "Upraví §Yšanci na zachycení§! nepřátelskými SAM a ABM proti §YSLCM§! a §YGLCM§! o §G-20%§!." # todo: NEW TRANSLATION
+ air_defense_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y1§!." # todo: NEW TRANSLATION
+ SAM_techtree_effect_TT: "" # todo: NEW TRANSLATION
+ SAM0_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y2§!." # todo: NEW TRANSLATION
+ SAM0_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y2§! a §YABM odpalovače§! na §Y2§!." # todo: NEW TRANSLATION
+ SAM1_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y3§!." # todo: NEW TRANSLATION
+ SAM1_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y4§! a §YABM odpalovače§! na §Y4§!." # todo: NEW TRANSLATION
+ SAM2_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y4§!." # todo: NEW TRANSLATION
+ SAM2_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y6§! a §YABM odpalovače§! na §Y6§!." # todo: NEW TRANSLATION
+ SAM3_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y6§!." # todo: NEW TRANSLATION
+ SAM3_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y10§! a §YABM odpalovače§! na §Y10§!." # todo: NEW TRANSLATION
+ SAM4_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y8§!." # todo: NEW TRANSLATION
+ SAM4_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y14§! a §YABM odpalovače§! na §Y14§!." # todo: NEW TRANSLATION
+ SAM5_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y12§!." # todo: NEW TRANSLATION
+ SAM5_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y22§! a §YABM odpalovače§! na §Y22§!." # todo: NEW TRANSLATION
+ SAM6_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y16§!." # todo: NEW TRANSLATION
+ SAM6_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y26§! a §YABM odpalovače§! na §Y26§!." # todo: NEW TRANSLATION
+ SAM7_TEL_techtree_effect_TT: "Nastaví §YSAM odpalovače§! u §g$anti_air_building$§! na §Y20§!." # todo: NEW TRANSLATION
+ SAM7_ship_techtree_effect_TT: "$missile_defense_ships_TT$:\nNastaví §YSAM odpalovače§! na §Y30§! a §YABM odpalovače§! na §Y30§!." # todo: NEW TRANSLATION
+ missile_defense_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y1§!." # todo: NEW TRANSLATION
+ terminal_phase_defense_techtree_effect_TT: "Odemkne §Yobranu v terminální fázi§!." # todo: NEW TRANSLATION
+ boost_phase_defense_techtree_effect_TT: "Odemkne §Yobranu v boost fázi§!." # todo: NEW TRANSLATION
+ midcourse_defense_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y2§!." # todo: NEW TRANSLATION
+ anti_satellite_weapon_techtree_effect_TT: "Umožní výzkum §Yproti-satelitní zbraně (ASAT)§!." # todo: NEW TRANSLATION
+ ABM0_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y4§!." # todo: NEW TRANSLATION
+ ABM0_ASAT_techtree_effect_TT: "§Y$ABM0$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM1_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y6§!." # todo: NEW TRANSLATION
+ ABM1_ASAT_techtree_effect_TT: "§Y$ABM1$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM2_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y8§!." # todo: NEW TRANSLATION
+ ABM2_ASAT_techtree_effect_TT: "§Y$ABM2$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM3_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y10§!." # todo: NEW TRANSLATION
+ ABM3_ASAT_techtree_effect_TT: "§Y$ABM3$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM4_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y12§!." # todo: NEW TRANSLATION
+ ABM4_ASAT_techtree_effect_TT: "§Y$ABM4$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM5_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y14§!." # todo: NEW TRANSLATION
+ ABM5_ASAT_techtree_effect_TT: "§Y$ABM5$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM6_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y16§!." # todo: NEW TRANSLATION
+ ABM6_ASAT_techtree_effect_TT: "§Y$ABM6$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ ABM7_silo_techtree_effect_TT: "Nastaví §YABM odpalovače§! u §g$missile_defense_station$§! na §Y20§!." # todo: NEW TRANSLATION
+ ABM7_ASAT_techtree_effect_TT: "§Y$ABM7$§! lze použít jako §Yproti-satelitní zbraň (ASAT)§!." # todo: NEW TRANSLATION
+ nuclear_technology_techtree_effect_TT: "Umožní výzkum §Yjaderné technologie§!." # todo: NEW TRANSLATION
+ nuclear_warhead_0_techtree_effect_TT: "Odemkne §Yjadernou hlavici 15 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_1_techtree_effect_TT: "Odemkne §Yjadernou hlavici 20 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_2_techtree_effect_TT: "Odemkne §Yjadernou hlavici 30 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_3_techtree_effect_TT: "Odemkne §Yjadernou hlavici 45 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_4_techtree_effect_TT: "Odemkne §Yjadernou hlavici 60 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_5_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 100 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_6_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 150 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_7_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 300 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_8_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 500 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_9_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 1 Mt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_10_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 3 Mt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_11_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 5 Mt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_12_techtree_effect_TT: "Odemkne §Ytermonukleární hlavici 10 Mt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_13_techtree_effect_TT: "Odemkne §Ymini jadernou hlavici 5 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_14_techtree_effect_TT: "Odemkne §Yneutronovou bombu 1 kt§!." # todo: NEW TRANSLATION
+ nuclear_warhead_15_techtree_effect_TT: "Odemkne §Yšpinavou bombu§!." # todo: NEW TRANSLATION
+ conventional_warheads_techtree_effect_TT: "Umožní výzkum §Ykonvenčních hlavic§!." # todo: NEW TRANSLATION
+ conventional_warhead_0_techtree_effect_TT: "Odemkne §Yvysoko výbušnou hlavici 450 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_1_techtree_effect_TT: "Odemkne §Yshlukovou hlavici 450 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_2_techtree_effect_TT: "Odemkne §Yzápalnou hlavici 450 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_3_techtree_effect_TT: "Odemkne §Yantielektrickou hlavici§!." # todo: NEW TRANSLATION
+ conventional_warhead_4_techtree_effect_TT: "Odemkne §Yprotiradiační hlavici§!." # todo: NEW TRANSLATION
+ conventional_warhead_5_techtree_effect_TT: "Odemkne §Yhlavici s elektromagnetickým pulzem (EMP)§!." # todo: NEW TRANSLATION
+ conventional_warhead_6_techtree_effect_TT: "Odemkne §Ykazetové submunice proti vzletovým drahám§!." # todo: NEW TRANSLATION
+ conventional_warhead_7_techtree_effect_TT: "Odemkne §Ytermobarickou hlavici§!." # todo: NEW TRANSLATION
+ conventional_warhead_8_techtree_effect_TT: "Odemkne §Yvysoko výbušnou hlavici 900 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_9_techtree_effect_TT: "Odemkne §Yshlukovou hlavici 900 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_10_techtree_effect_TT: "Odemkne §Yzápalnou hlavici 900 kg§!." # todo: NEW TRANSLATION
+ conventional_warhead_11_techtree_effect_TT: "Odemkne §Yhlavici pro ničení bunkrů 900 kg§!." # todo: NEW TRANSLATION
+ missile_ships_loc: "[missile_ships_loc]" # todo: NEW TRANSLATION
+ missile_defense_ships_loc: "[missile_defense_ships_loc]" # todo: NEW TRANSLATION
+ SLBM_subs_loc: "[SLBM_subs_loc]" # todo: NEW TRANSLATION
+ SLCM_subs_loc: "[SLCM_subs_loc]" # todo: NEW TRANSLATION
+ missile_ships_loc_key: "§YRaketové lodě§!" # todo: NEW TRANSLATION
+ missile_defense_ships_loc_key: "§YLodě pro vzdušnou a protiraketovou obranu§!" # todo: NEW TRANSLATION
+ SLBM_subs_loc_key: "§YBalistické raketové ponorky§!" # todo: NEW TRANSLATION
+ SLCM_subs_loc_key: "§YPonorky s křižujícími raketami§!" # todo: NEW TRANSLATION
+ missile_ships_TT: "§YRaketové lodě§!" # todo: NEW TRANSLATION
+ missile_defense_ships_TT: "§YLodě pro vzdušnou a protiraketovou obranu§!" # todo: NEW TRANSLATION
+ SLBM_subs_TT: "§YBalistické raketové ponorky§!" # todo: NEW TRANSLATION
+ SLCM_subs_TT: "§YPonorky s křižujícími raketami§!" # todo: NEW TRANSLATION
+ missile_ships_desc_loc: "[missile_ships_desc_loc]" # todo: NEW TRANSLATION
+ missile_defense_ships_desc_loc: "[missile_defense_ships_desc_loc]" # todo: NEW TRANSLATION
+ SLBM_subs_desc_loc: "[SLBM_subs_desc_loc]" # todo: NEW TRANSLATION
+ SLCM_subs_desc_loc: "[SLCM_subs_desc_loc]" # todo: NEW TRANSLATION
+ missile_ships_no_DLC: "$frigate$, $destroyer$, $cruiser$" # todo: NEW TRANSLATION
+ missile_ships_MTG: "$frigate$, $destroyer$, $stealth_destroyer$, $cruiser$, $battle_cruiser$" # todo: NEW TRANSLATION
+ missile_defense_ships_no_DLC: "$frigate$, $destroyer$, $cruiser$" # todo: NEW TRANSLATION
+ missile_defense_ships_MTG: "$frigate$, $destroyer$, $stealth_destroyer$, $cruiser$" # todo: NEW TRANSLATION
+ SLBM_subs_no_DLC: "$missile_submarine$" # todo: NEW TRANSLATION
+ SLBM_subs_MTG: "$missile_submarine$" # todo: NEW TRANSLATION
+ SLCM_subs_no_DLC: "$attack_submarine$, $diesel_attack_submarine$, $missile_submarine$" # todo: NEW TRANSLATION
+ SLCM_subs_MTG: "$attack_submarine$, $missile_submarine$" # todo: NEW TRANSLATION

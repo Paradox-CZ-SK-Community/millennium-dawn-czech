@@ -1,0 +1,270 @@
+﻿l_english:
+ PEACE_WINNERS: "Vítězové" # todo: NEW TRANSLATION
+ PEACE_LOOSERS: "Porážení" # todo: NEW TRANSLATION
+ PEACE_LIBERATED: "Osvobozeno" # todo: NEW TRANSLATION
+ PEACE_PUPPETS: "Loutky" # todo: NEW TRANSLATION
+ PEACE_RESET_DEMAND: "Reset" # todo: NEW TRANSLATION
+ PEACE_SEND_DEMAND: "Odeslat" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATES: "$TAKER|Y$ získává následující stát(y) od $GIVER|Y$:" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATE: "@$TAKERTAG$$TAKER|Y$ získává $STATE|Y$ od @$GIVERTAG$$GIVER|Y$" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATES_STATE: "$STATE|Y$" # todo: NEW TRANSLATION
+ PEACE_LIBERATE_COUNTRY: "@$TAKERTAG$$TAKER|Y$ osvobozuje @$COUNTRYTAG$$COUNTRY|Y$ ve $STATE|Y$." # todo: NEW TRANSLATION
+ PEACE_LIBERATE_TO_COUNTRY: "@$TAKERTAG$$TAKER|Y$ osvobozuje $STATE|Y$ od @$GIVERTAG$$GIVER|Y$ pro @$COUNTRYTAG$$COUNTRY|Y$." # todo: NEW TRANSLATION
+ PEACE_LIBERATE_COUNTRY_SUBJECT: "@$TAKERTAG$$TAKER|Y$ osvobozuje @$COUNTRYTAG$$COUNTRY|Y$ ve $STATE|Y$.\n@$COUNTRYTAG$$COUNTRY|Y$ se stane nezávislým!" # todo: NEW TRANSLATION
+ PEACE_CURRENT_COST: "Cena: $COST|Y$ / $SALDO|Y$" # todo: NEW TRANSLATION
+ PEACE_WINNER_SCORE: "Skóre: $CURRENT|Y$" # todo: NEW TRANSLATION
+ PEACE_WINNER_SCORE_FROM: "  £victory_points $AMOUNT|Y$ od $FROM|$" # todo: NEW TRANSLATION
+ PEACE_ANNEX_COUNTRY: "$TAKER|Y$ anektuje $GIVER|Y$ a získá všechna státní území." # todo: NEW TRANSLATION
+ PEACE_PUPPET_COUNTRY: "@$TAKERTAG$$TAKER|Y$ udělí loutkový stát @$COUNTRYTAG$$COUNTRY|Y$ ve $STATE|Y$." # todo: NEW TRANSLATION
+ PEACE_SATELLITE_COUNTRY: "@$TAKERTAG$$TAKER|Y$ satelizuje @$COUNTRYTAG$$COUNTRY|Y$ ve $STATE|Y$." # todo: NEW TRANSLATION
+ PEACE_FORCE_GOVERNMENT: "@$TAKERTAG$$TAKER|Y$ přinutí @$GIVERTAG$$GIVER|Y$ k ideologii $IDEOLOGY|Y$ ve $STATE|Y$." # todo: NEW TRANSLATION
+ PEACE_GIVE_PEACE_SCORE: "$GIVER|Y$ dává veškeré zbývající skóre $TAKER|Y$" # todo: NEW TRANSLATION
+ PEACE_TAKE_NAVY: "@$GIVERTAG$$GIVER|Y$ dává $CAPITAL_SHIP|Y$ a $AMOUNT|%Y0$ z doprovodních lodí @$TAKERTAG$$TAKER|Y$" # todo: NEW TRANSLATION
+ PEACE_TAKE_NAVY_ONLY_SCREEN: "@$GIVERTAG$$GIVER|Y$ dává všechny své doprovodní lodě @$TAKERTAG$$TAKER|Y$" # todo: NEW TRANSLATION
+ PEACE_ALL_SCREENING_SHIPS: "Všechny doprovodní lodě" # todo: NEW TRANSLATION
+ PEACE_DEMILITARIZED_ZONE: "a tento stát se stane demilitarizovanou zónou" # todo: NEW TRANSLATION
+ PEACE_WAR_REPARATION: "a tento stát bude platit válečné reparace" # todo: NEW TRANSLATION
+ PEACE_RESOURCE_RIGHTS: "a tento stát udělí práva na zdroje" # todo: NEW TRANSLATION
+ PEACE_DISMANTLE_INDUSTRY: "a vojenský průmysl v tomto státě bude rozebrán" # todo: NEW TRANSLATION
+ PEACE_COST: "Cena: $COST|Y$" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATES_LABEL: "Získat $STATES$..." # todo: NEW TRANSLATION
+ PEACE_TAKE_STATE_LABEL: "Získat $STATE$" # todo: NEW TRANSLATION
+ PEACE_TAKE_ALL_STATES_LABEL: "Získat všechny státy" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATES_DEMAND: "Anektovat stát" # todo: NEW TRANSLATION
+ PEACE_TAKE_STATES_DEMAND_DESC: "Anektovat území pro sebe." # todo: NEW TRANSLATION
+ PEACE_GIVE_STATES_DEMAND: "Připojit stát k @$TAG$$COUNTRY|Y$" # todo: NEW TRANSLATION
+ PEACE_GIVE_STATES_DEMAND_DESC: "Anektovat pro jinou zemi." # todo: NEW TRANSLATION
+ PEACE_LIBERATE_LABEL: "Osvobodit" # todo: NEW TRANSLATION
+ PEACE_LIBERATE_DESC: "Osvobodit a obnovit národy okupované jednou z poražených zemí. Osvobozené národy budou zobrazeny na kartě Příjemci." # todo: NEW TRANSLATION
+ PEACE_LIBERATE_COUNTRY_LABEL: "Osvobodit $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_LIBERATE_TO_COUNTRY_LABEL: "Osvobodit pro $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_PUPPET_COUNTRY_LABEL: "Udělat loutkou $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_PUPPET_COUNTRY_DESC: "Vytvořit loutkový stát z jedné z poražených zemí. Loutkové státy budou zobrazeny na kartě Příjemci." # todo: NEW TRANSLATION
+ PEACE_PUPPET_ALL_STATES_LABEL: "Udělat loutkou všechny státy" # todo: NEW TRANSLATION
+ PEACE_PUPPET_STATE_LABEL: "Udělat loutkou $STATE$" # todo: NEW TRANSLATION
+ PEACE_CUSTOM_PUPPET_ALL_STATES_LABEL: "$ACTION$ všechny státy" # todo: NEW TRANSLATION
+ PEACE_CUSTOM_PUPPET_STATE_LABEL: "$ACTION$ $STATE$" # todo: NEW TRANSLATION
+ PEACE_SATELLITE_COUNTRY_LABEL: "Vytvořit satelita $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_SELECT_ALL: "Vybrat vše" # todo: NEW TRANSLATION
+ PEACE_CANCEL_ALL: "Zrušit vše" # todo: NEW TRANSLATION
+ PEACE_STACK_ON_ALL: "Přidat ke všem" # todo: NEW TRANSLATION
+ PEACE_UNSTACK_ON_ALL: "Odebrat ze všech" # todo: NEW TRANSLATION
+ PEACE_PUPPETED: "Uděleno loutkový stát" # todo: NEW TRANSLATION
+ PEACE_ANNEX_COUNTRY_LABEL: "Anektovat" # todo: NEW TRANSLATION
+ PEACE_ANNEXED: "Anektováno" # todo: NEW TRANSLATION
+ PEACE_FORCE_GOVERNMENT_LABEL: "Změnit vládu" # todo: NEW TRANSLATION
+ PEACE_FORCE_GOVERNMENT_DESC: "Změnit ideologii jedné z poražených zemí. Cílová země bude přinucena přejít na vaši ideologii." # todo: NEW TRANSLATION
+ PEACE_FORCE_GOVERNMENT_ON_LABEL: "Změnit vládu v $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_FORCED_GOVERNMENT: "Změněná vláda" # todo: NEW TRANSLATION
+ PEACE_GIVE_PEACE_SCORE_LABEL: "Dát skóre" # todo: NEW TRANSLATION
+ PEACE_TAKE_NAVY_LABEL: "Získat námořnictvo" # todo: NEW TRANSLATION
+ PEACE_TAKE_NAVY_DESC: "Nárokovat §HHlavní lodě§! pro své vlastní námořnictvo. Na konci konference budou §HDoprovodní lodě§! rozděleny mezi ty, kteří nárokovali §HHlavní lodě§!. Rozdělení §HDoprovodních lodí§! je automatické a následuje poměr průmyslových nákladů na §HHlavní lodě§! odebraných z každé jednotlivé nepřátelské země." # todo: NEW TRANSLATION
+ PEACE_STACK_WITH: "Přidat $ACTION$" # todo: NEW TRANSLATION
+ PEACE_STACKED_WITH: "Další požadavek $ACTION$" # todo: NEW TRANSLATION
+ PEACE_UNSTACK_ALL: "Odebrat všechny další požadavky" # todo: NEW TRANSLATION
+ PEACE_DEMILITARIZED_ZONE_LABEL: "Demilitarizovaná zóna" # todo: NEW TRANSLATION
+ PEACE_DEMILITARIZED_ZONE_DESC: "Zamezí výstavbě nových opevnění a zabrání přesunu divizí skrze způsobilý stát na $NUM_DAYS|H$ dní." # todo: NEW TRANSLATION
+ PEACE_WAR_REPARATION_LABEL: "Válečné reparace" # todo: NEW TRANSLATION
+ PEACE_WAR_REPARATION_DESC: "Konfiskovat §HCivilní továrny§! ve způsobilém státě na $NUM_DAYS|H$ dní." # todo: NEW TRANSLATION
+ PEACE_RESOURCE_RIGHTS_LABEL: "Práva na zdroje" # todo: NEW TRANSLATION
+ PEACE_RESOURCE_RIGHTS_DESC: "Konfiskovat §HZdroje§! ve způsobilém státě na $NUM_DAYS|H$ dní." # todo: NEW TRANSLATION
+ PEACE_DISMANTLE_INDUSTRY_LABEL: "Rozebrat vojenský průmysl" # todo: NEW TRANSLATION
+ PEACE_DISMANTLE_INDUSTRY_DESC: "Zničit §HVojenské továrny§! ve způsobilém státě." # todo: NEW TRANSLATION
+ PEACE_WARGOALS: "Válečné cíle" # todo: NEW TRANSLATION
+ PEACE_PEACE_ACTIONS: "Mírové akce" # todo: NEW TRANSLATION
+ PEACE_ONLY_MAIN_COUNTRY_LEADER_CAN_ACT: "§HNejste hlavním vůdcem země a nemůžete vykonávat akce v mírové konferenci.§!" # todo: NEW TRANSLATION
+ PEACE_END_TURN: "Odeslat požadavky   £victory_points $COST|Y$" # todo: NEW TRANSLATION
+ PEACE_END_TURN_EXPECTED_CONTEST: "Odeslat požadavky   £victory_points $COST|Y$    £peace_conf_icons|3" # todo: NEW TRANSLATION
+ PEACE_END_TURN_UNRESOLVED_CONTEST: "Kontestované nabídky:    £peace_conf_icons|3 $NUM$" # todo: NEW TRANSLATION
+ PEACE_END_TURN_DESC: "Vybrali jste $NUM$ akcí.\n\n§HOdeslat§! je, aby se pokračovalo do dalšího kola konference." # todo: NEW TRANSLATION
+ PEACE_END_TURN_EXPECTED_CONTEST_DESC: "Některé z požadavků, které jste vybrali, povedou k £peace_conf_icons|3 §Rkontestovanému požadavku§!, protože jiná země již učinila podobné požadavky." # todo: NEW TRANSLATION
+ PEACE_DONE: "Potvrdit a odejít" # todo: NEW TRANSLATION
+ PEACE_DONE_HAS_TAKEN_ACTION: "§RBěhem tohoto kola jste učinili požadavky. Odstraňte požadavky, pokud chcete opustit konferenci.§!" # todo: NEW TRANSLATION
+ PEACE_DONE_DESC: "Když kliknete na toto tlačítko, opustíte mírovou konferenci. Jakékoliv akce, které jste již učinili, zůstanou v platnosti, ale mohou být §Rkontestované§!, pokud jsou další účastníci, kteří stále činí požadavky. Pokud k tomu dojde, budete vráceni zpět do konference.\n\nPoužijte toto tlačítko, když jste spokojeni se svými zisky a chcete odejít." # todo: NEW TRANSLATION
+ PEACE_PASS: "Předat kolo" # todo: NEW TRANSLATION
+ PEACE_PASS_DESC: "Pokud toto kolo předáte, ostatní budou moci použít své body k učinění požadavků." # todo: NEW TRANSLATION
+ PEACE_PASS_EMPTY: "§RNení co více získat v tomto kole§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_RESET: "Resetovat učiněné akce" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PASS: "Ukončit své kolo v konferenci" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PASS_DESC: "Stále máte §Y$VALUE$§! skóre, které můžete utratit.\nMožná už nedostanete další šanci ho utratit" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PASS_ACTIONS_DESC: "§RNemůžete předat, dokud máte vybrané, ale neodeslané akce§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SEND: "Odeslat učiněné akce" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SEND_NO_ACTIONS: "§RŽádné učiněné akce k odeslání§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SEND_DESC: "Odeslat požadované akce za cenu §Y$VALUE$§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST: "Cena/Dostupné" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST_NO_ACTIONS: "Žádné vybrané akce" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST_DESC: "Aktuální akce stojí $COST$ z $AVAILABLE$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST_TOO_HIGH: "§RNemáte dostatek skóre pro vybrané požadavky§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST_TOO_HIGH_NEXT_PARTICIPANT: "§RNemůžete učinit tyto požadavky v tomto kole, protože by to snížilo vaše skóre příliš nízko pod skóre dalšího účastníka§!" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_WINNER: "@$TAG$$COUNTRY|Y$ získal $STATES|Y$ státy." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ANNEXED: "@$TAG$$COUNTRY|Y$ byl anektován." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PUPPETED: "@$TAG$$COUNTRY|Y$ byl učiněn loutkou." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_LIBERATED: "@$TAG$$COUNTRY|Y$ byl osvobozen." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_GAINED_EQUIPMENT: "$VALUE|0Y$ vybavení bylo zabaveno." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_FORCE_GOVERNMENT: "Strana $IDEOLOGY|Y$ $PARTY|Y$ byla dosazena u moci v @$TAG$$COUNTRY|Y$." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_NAME: "Smlouva o $CAPITAL$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PUPPET_LABEL: "Subjekt" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_LIBERATED_LABEL: "Osvobozeno" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_LIBERATED_DESC: "$COUNTRY|Y$ byl osvobozen $LIBERATOR|Y$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COUNTRY_DEMANDS: "Požadavky $ADJECTIVE$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_WHITE_PEACE: "@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ a $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n podepsali §Ybílý mír§!." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_REJECTED: "Smlouva byla $COUNTRY$ odmítnuta" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_UNDERLYINGRESOURCE_TOOLTIP: "$UNDERLYING_RESOURCE|Y$ " # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_COST_TOOLTIP: "(£victory_points£ $COST$)" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_ITEM: "$NAME$: $VALUE|0Y$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_BUILDINGS: "Továrny:\n$BUILDINGS$\n" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_RESOURCES: "Zdroje:\n$RESOURCES$\n" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_CLAIMS: "Nároky:\n$CLAIMS$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_CORES: "Domovská území:\n$CORES$" # todo: NEW TRANSLATION
+ PEACE_CURRENTLY_MAKING_DEMANDS: "Učiňte své požadavky" # todo: NEW TRANSLATION
+ PEACE_WAITING_PLAYERS_MAKE_DEMANDS: "Čeká se na £players_icon£ hráče, aby učinili požadavky" # todo: NEW TRANSLATION
+ PEACE_WAITING_FOR_PLAYERS: "Čeká se na:\n§Y$PLAYERS$§!" # todo: NEW TRANSLATION
+ PEACE_CURRENT_SCORE: "£victory_points Skóre: §Y$SCORE$§!" # todo: NEW TRANSLATION
+ PEACE_ACCEPT: "Přijmout" # todo: NEW TRANSLATION
+ PEACE_REJECT: "Odmítnout" # todo: NEW TRANSLATION
+ PEACE_MAKE_DEMANDS_LABEL: "Učinit požadavky" # todo: NEW TRANSLATION
+ PEACE_DEFEATED_ACTIONS_LABEL: "Poražení" # todo: NEW TRANSLATION
+ PEACE_THIRDPARTY_ACTIONS_LABEL: "Mírová konference" # todo: NEW TRANSLATION
+ PEACE_CURRENT_DEMANDS_LABEL: "Aktuální požadavky" # todo: NEW TRANSLATION
+ PEACE_DEFEATED_LABEL: "Poraženi" # todo: NEW TRANSLATION
+ PEACE_ACCEPT_TERMS_LABEL: "Přijmout podmínky?" # todo: NEW TRANSLATION
+ PEACE_WAITING_FOR_ACCEPTENCE: "Čeká se na odpověď od $COUNTRY$" # todo: NEW TRANSLATION
+ PEACE_NEXT_MAKING_DEMANDS: "Další země je $COUNTRY$. Skóre: $SCORE$" # todo: NEW TRANSLATION
+ PEACE_THREAT_GENERATED: "Světové napětí: $VALUE|-$%" # todo: NEW TRANSLATION
+ PEACE_THREAT_GENERATED_TOTAL: "$SUMMED|Y%$ ($VALUE|-%$)" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_RIGHTCLICK_GOTO_CAPITAL: "§GKlikněte pravým tlačítkem§! pro přesun do hlavního města." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_RIGHTCLICK_GOTO_STATE: "§GKlikněte pravým tlačítkem§! pro přesun do státu." # todo: NEW TRANSLATION
+ PEACE_TREATY_THREAT: "Mír - $TREATY$" # todo: NEW TRANSLATION
+ CONFERENCE_LOSER_IS_UNTOUCHED: "$NAME|Y$ zůstává nedotčený žádným z vítězů, proti němu nelze vznést požadavky" # todo: NEW TRANSLATION
+ CAPITULATE_TITLE: "$LOSER$ kapituloval" # todo: NEW TRANSLATION
+ CAPITULATE_HOME_AREA_DESC: "$LOSER|Y$ padl.\nVláda $LOSER_ADJ$ odešla do exilu a hlavní síly kapitulovaly před $WINNER|Y$, který nyní kontroluje jejich domovské území." # todo: NEW TRANSLATION
+ CAPITULATE_NEW_FACTION_LEADER_DESC: "Novým vůdcem frakce $FACTION_NAME|Y$ se stává $COUNTRY|Y$." # todo: NEW TRANSLATION
+ DIPLOMACY_EFFECT_HEADER: "Při vyhlášení" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_TURN: "Kolo $TURN|Y$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_TURN_DESC: "Mírové akce provedené během kola $TURN|Y$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_TURN_CURRENT: "Kolo $TURN|Y$ - Probíhá" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_TURN_CURRENT_DESC: "Mírové akce pro toto kolo" # todo: NEW TRANSLATION
+ PEACE_PARTICIPANT_DELIMITER_ITEM: "Klikněte pro rozbalení/sbalení" # todo: NEW TRANSLATION
+ PEACE_PARTICIPANT_TAKE_ALL_STATES: "Kliknutím vezměte všechny státy, pravým kliknutím přepnete seznam všech států" # todo: NEW TRANSLATION
+ PEACE_PARTICIPANT_TAKE_ALL_STATES_EXPAND: "Klikněte pro zobrazení seznamu všech států" # todo: NEW TRANSLATION
+ PEACECONFERENCE_COMPLETE: "Mírová konference skončila\nProbíhá výpočet efektů..." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_SELECT_ACTION: "§GKlikněte§! pro výběr" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_RESOLVE_CONFLICT: "§GKlikněte§! pro vyřešení kontestovaného požadavku." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_OPEN_CONFLICT_POPUP: "§GKlikněte§! pro vyřešení kontestovaného požadavku." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_OPEN_SELECTED_POPUP: "§GKlikněte§! pro zobrazení požadavků, které jste neodeslali." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_CANCEL_SELECT: "§GKlikněte§! pro zrušení" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_CHANGE_TARGET_TAG: "§GKlikněte§! pro přepnutí na $ACTION$ $COUNTRY|Y$." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_SELECT_TAKER: "§GKlikněte§! pro výběr jako příjemce" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_SELECT_NEGOTIATOR: "§GKlikněte§! pro zobrazení jejich pohledu" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_REMOVE_STACKABLE: "§GKlikněte§! pro odebrání všech dalších požadavků z nadřazených požadavků" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_ADD_STACKABLE: "§GKlikněte§! pro přidání $ACTION$ k vybranému požadavku" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_EXPAND_BIDDINGS: "§GKlikněte§! pro zobrazení seznamu požadavků" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_SELECT_ALL_ACTIONS: "§GKlikněte§! pro výběr všech akcí níže" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_CANCEL_ALL_ACTIONS: "§GKlikněte§! pro zrušení všech akcí níže" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_STACK_ON_ALL_ACTIONS: "§GKlikněte§! pro přidání vybraného dalšího požadavku ke všem požadavkům níže" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_ON_CLICK_UNSTACK_ON_ALL_ACTIONS: "§GKlikněte§! pro odebrání všech dalších požadavků ze všech požadavků níže" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_OVERLAPPING_SELECTED_ACTION: "§RNelze vybrat§! protože již máte neodeslaný požadavek na tomto státě, nejprve jej zrušte pro výběr tohoto." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_TOO_EXPENSIVE_ACTION: "§RNelze vybrat§! protože požadavek je příliš drahý." # todo: NEW TRANSLATION
+ NEW_PEACE_CONFERENCE: "§RNOVÁ MÍROVÁ KONF§!" # todo: NEW TRANSLATION
+ WAIT_END_TURN: "Vyčkejte" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_CONTESTED_TITLE: "Kontestované požadavky" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_SELECTED_TITLE: "Neodeslané požadavky" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_DESCRIPTION: "Váš požadavek na $BIDNAME|Y$ byl £peace_conf_icons|3 §Rkontestován§!, protože jiný národ má požadavek na stejné území. Učiňte další požadavek na kontestované území, abyste si jej ponechali, nebo se vzdávejte, abyste přestali jej sledovat.\n\nKontestované požadavky se nepočítají mezi požadavky, na které máte aktuálně odeslaný požadavek. Pokud tento požadavek neobnovíte, nebude zahrnut mezi vaše dokončené požadavky." # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_BID: "Požadavek  £victory_points  $PRICE$" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_FORFEIT: "Vzdát se" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_CLOSE: "Zavřít" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_TOOLTIP_BID: "§GKlikněte§! pro odeslání vybraných požadavků" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_TOOLTIP_FORFEIT: "§GKlikněte§! pro vzdání se vybraných požadavků" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_TOOLTIP_CLOSE: "§GKlikněte§! pro zavření okna" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_NB_CONTESTED: "Kontestované: £peace_conf_icons|3  $AMOUNT$" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_NB_SELECTED: "Neodeslané: £peace_conf_icons|1  $AMOUNT$" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_REFUNDED_SCORE: "Vráceno: £victory_points  $AMOUNT$" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_REFUNDED_SCORE_DECREASE: "Vráceno: £victory_points  $AMOUNT|R$ £GFX_decrease_texticon" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_REFUNDED_SCORE_TOOLTIP: "§HVrácené body§! £victory_points  $AMOUNT_REFUNDED$\n\nVšechny vaše body byly §Hvrazeny§!! Pokud bude konflikt pokračovat, můžete začít §Rztrácet skóre§! natrvalo." # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_REFUNDED_SCORE_TOOLTIP_DECREASE: "§HVrácené body§! £victory_points  $AMOUNT_REFUNDED$\n§HVydané body§! £victory_points  $AMOUNT_SPENT$\n§RZtracené body§! £victory_points  $AMOUNT_LOST|R$\n\nPokračující konflikty budou mít za následek menší procento vrácených bodů při každém dalším kole." # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_REFUNDED_SCORE_TOOLTIP_DELAYED: "Když máte kontestované požadavky, většina skóre, které jste utratili na tyto požadavky, vám bude vrácena. Nicméně čím více je požadavek kontestován, tím více se procento vrácení snižuje. To platí pro všechny zúčastněné." # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_SELECT_ALL: "Vybrat vše" # todo: NEW TRANSLATION
+ PEACE_BIDDINGS_POPUP_UNSELECT_ALL: "Zrušit výběr všeho" # todo: NEW TRANSLATION
+ PEACE_CONTESTED_ALL_RESOLVED: "Všechny kontestované požadavky byly vyřešeny." # todo: NEW TRANSLATION
+ PEACE_SELECTED_ALL_CANCELLED: "Žádné neodeslané požadavky nejsou aktuálně vybrány." # todo: NEW TRANSLATION
+ PEACE_HAS_UNRESOLVED_ACTIONS: "§RVyřešte všechny kontestované požadavky před odesláním nového požadavku§!" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_BASE_VALUE: "Hodnota státu: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_BASE_VALUE_BASE: "Základ: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_BASE_VALUE_BUILDINGS: "Budovy: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_BASE_VALUE_RESOURCES: "Zdroje: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_BASE_VALUE_MANPOWER: "Personál: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_SHIP_BASE_VALUE: "Hodnota lodí z IC: $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER: "Násobeno: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_WAR_GOAL: "Válečný cíl: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_UNCAPITULATED: "Nekapituloval: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_COMPLIANCE: "Poslušnost: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID: "Kontestováno: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID_PLURAL: "Kontestováno $NUM$ kol: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID: "Nekontestováno: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID_PLURAL: "Nekontestováno $NUM$ kol: $PERC$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_INFLUENCE: "Vliv: $VAL$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_STACKABLE: "Další požadavek: $VAL$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MODIFIER_STACKABLE_PLURAL: "$NUM$ dalších požadavků: $VAL$" # todo: NEW TRANSLATION
+ PEACE_COST_BREAKDOWN_MAX_VALUE: "Cena omezena na $VAL|H$" # todo: NEW TRANSLATION
+ PEACE_TAKER: "$COUNTRY|Y$ bude příjemcem vybraných mírových akcí" # todo: NEW TRANSLATION
+ PEACE_FILTER_LOSER_DESCRIPTION: "Vyberte jedinou zemi pro zobrazení pouze požadavků, které na ni můžete vznést." # todo: NEW TRANSLATION
+ PEACE_FILTER_LOSER_CHOICE: "Aktuální národ: $FILTER|Y$" # todo: NEW TRANSLATION
+ PEACE_FILTER_LOSER_NO_CHOICE: "Vše" # todo: NEW TRANSLATION
+ PEACE_FILTER_DEMANDS_DESCRIPTION: "Vyberte požadavky, které chcete učinit.\nAktuální akce: $ACTION|Y$" # todo: NEW TRANSLATION
+ PEACE_DEFEATED_ACTIONS_DESCRIPTION: "Byli jste §Rporaženi§!. Vítězové nyní činí požadavky proti vám a vašim spojencům." # todo: NEW TRANSLATION
+ PEACE_THIRDPARTY_ACTIONS_DESCRIPTION: "Probíhá §HMírová konference§!. Hra bude pokračovat, až budou všichni účastníci hotovi." # todo: NEW TRANSLATION
+ PEACE_BID_PHASE: "Kolo konference: §Y$PHASE$§!" # todo: NEW TRANSLATION
+ PEACE_SCORE_RECEIVED_THIS_TURN: "£victory_points  $RECEIVEDSCORE$" # todo: NEW TRANSLATION
+ PEACE_SCORE_REMAINING_TURNS_GIVING_SCORE: "$CURRENTTURN$/ $NBTURN$" # todo: NEW TRANSLATION
+ PEACE_SCORE_DISTRIBUTION_DESCRIPTION: "Skóre obdržíte po částech během kol" # todo: NEW TRANSLATION
+ PEACE_SCORE_DISTRIBUTION_FINISHED: "Obdrželi jste veškeré své skóre" # todo: NEW TRANSLATION
+ PEACE_SCORE_RECEIVED_THIS_TURN_TOOLTIP: "Obdrženo v tomto kole £victory_points  $AMOUNT|Y$" # todo: NEW TRANSLATION
+ PEACE_SCORE_RECEIVED: "Obdrženo dosud £victory_points  $AMOUNT|Y$" # todo: NEW TRANSLATION
+ PEACE_SCORE_WILL_RECEIVE_TOTAL: "Obdrží celkem £victory_points  $AMOUNT|G$" # todo: NEW TRANSLATION
+ PEACE_SCORE_WILL_RECEIVE_ON_TURN: "V kole konference $PHASE$, £victory_points  $AMOUNT|G$" # todo: NEW TRANSLATION
+ PEACE_SCORE_TOTAL: "Celkem £victory_points  $AMOUNT|G$" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_OTHER: "Jiné" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_OCCUPATION: "Okupace" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_IDEOLOGY: "Ideologie" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_IS_CORE: "Je domovské území" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_HAS_CLAIM: "Má nárok" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_CORE_OF_ALLY: "Domovské území spojence" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_DEFENSIVE_WAR: "Defenzivní válka" # todo: NEW TRANSLATION
+ PEACE_HIDE_MAP_ICON: "Držte §GCtrl§! pro skrytí" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_CONFERENCES: "Smlouvy & konference" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_BIDDED_ON_STATE: "$COUNTRY|Y$ má požadavky na tento stát" # todo: NEW TRANSLATION
+ PEACE_TAKER_TAB_VICTORS: "Vítězové" # todo: NEW TRANSLATION
+ PEACE_TAKER_TAB_BENEFICIARIES: "Příjemci" # todo: NEW TRANSLATION
+ PEACE_BENEFICIARY_DESCRIPTION: "$ACTION$ od $NEGOTIATOR$" # todo: NEW TRANSLATION
+ PEACE_BID_ACTIONS: "Požadavky:" # todo: NEW TRANSLATION
+ PEACE_STACKABLE_BID_ACTIONS: "Další požadavky:" # todo: NEW TRANSLATION
+ PEACE_BID_ACTION_DISABLED_NO_ITEM: "§RŽádná dostupná akce§!" # todo: NEW TRANSLATION
+ PEACE_STACKABLE_ACTION_DISABLED_NOT_RELEVANT_PRIMARY: "§RRozšířitelné požadavky (Udělat loutkou nebo Změnit vládu) musí být nejprve uplatněny na stát, aby bylo možné přidat další požadavky§!" # todo: NEW TRANSLATION
+ PEACE_HIDE_AVAILABLE_ACTIONS: "Skrýt panel s dostupnými akcemi" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_OTHER_CLAIMANT: "Lze osvobodit" # todo: NEW TRANSLATION
+ peace_conference_spiritual_mob_modifier_japan: "\nPokud se věci nepohybují v náš prospěch, bude pro cizí státy výrazně §Hdražší§! §Hanektovat§! naše domovské ostrovy." # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_EVENTS_OR_FOCUSES: "Události nebo zaměření" # todo: NEW TRANSLATION
+ PEACE_ACTION_CATEGORY_CONTINUOUS_POLITICAL_ACTION: "Kontinuální politická akce" # todo: NEW TRANSLATION
+ HOLD_SHIFT_FOR_BREAKDOWN: "Držte §GShift§! pro zobrazení rozpisu nákladů." # todo: NEW TRANSLATION
+ CONTESTED_STATES_GENERIC_TOOLTIP: "§HKontestované nabídky§!\n\nNěkteré z vašich požadavků byly £peace_conf_icons|3 §Rkontestovány§!, protože jiná země má požadavky na stejný stát. Odeslat další požadavek na tento stát nebo se vzdát, abyste pokračovali.\n\nVšechny body, které jste utratili na kontestované požadavky, budou vráceny, pokud bude spor odevzdán v prvním kole kontestování. Procento vrácení se bude pro každý stát snižovat v každém dalším kole kontestování." # todo: NEW TRANSLATION
+ PEACE_TIMED_EFFECT_DEMILITARIZED_ZONE_NAME: "Demilitarizovaná zóna" # todo: NEW TRANSLATION
+ PEACE_TIMED_EFFECT_WAR_REPARATION_NAME: "Civilní továrny převedené jako válečné reparace" # todo: NEW TRANSLATION
+ PEACE_TIMED_EFFECT_WAR_REPARATION_AMOUNT_DESCRIPTION: "$AMOUNT|Y$ mimo-mapové továrny" # todo: NEW TRANSLATION
+ WAR_REPARATION_FACOTRY_USE_DESCRIPTION: "Válečné reparace pro @$TAG$$COUNTRY|Y$" # todo: NEW TRANSLATION
+ PEACE_TIMED_EFFECT_RESOURCE_RIGHTS: "Práva na zdroje" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_THIS_IS_HUMAN: "Tato země je ovládána hráčem ($PLAYERNAME|H$)" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_THIS_HAS_EXITED: "Tato země opustila mírovou konferenci" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_WAR_PARTICIPATION_RATIO: "@$TAG$$COUNTRY|Y$ přispěl přibližně $RATIO|Y0%$ k válečnému úsilí" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_NB_BIDS: "@$TAG$$COUNTRY|Y$ podal $AMOUNT|Y$ požadavků" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_NB_CONTESTED_BIDS: "@$TAG$$COUNTRY|Y$ podal $AMOUNT|Y$ požadavků, které byly §Rkontestovány§!" # todo: NEW TRANSLATION
+ PEACE_COUNTRY_NB_BIDS_FOR_BENEFICIARY: "@$TAG$$COUNTRY|Y$ je příjemcem $AMOUNT|Y$ požadavků" # todo: NEW TRANSLATION
+ PEACE_BIDDING_QUICK_ACCESS_CONTESTED: "Kontestované požadavky" # todo: NEW TRANSLATION
+ PEACE_BIDDING_QUICK_ACCESS_SELECTED: "Neodeslané požadavky" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_STATE_CLAIM_BREAKDOWN_BEGIN: "Tento stát má £peace_conf_icons|1 požadavek:" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SHIP_CLAIM_BREAKDOWN_BEGIN: "Tato loď má £peace_conf_icons|1 požadavek:" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_STATE_CONTEST_BREAKDOWN_BEGIN: "Tento stát má £peace_conf_icons|3 §Rkontestovaný§! požadavek:" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SHIP_CONTEST_BREAKDOWN_BEGIN: "Tato loď má £peace_conf_icons|3 §Rkontestovaný§! požadavek:" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_CLAIM_OR_CONTEST_BREAKDOWN_ITEM: "  @$TAG$$COUNTRY|Y$\n  $ACTION_NAME$" # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_BID_WILL_RESULT_IN_CONFLICT: "Odeslání tohoto požadavku povede k £peace_conf_icons|3 §Rkontestovaným§! požadavkům." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_BID_WILL_PULL_BACK_PLAYER: "Tento hráč £accept_decline_icon|2 opustil konferenci. Odeslání tohoto požadavku je přivede zpět." # todo: NEW TRANSLATION
+ PEACE_CONFERENCE_SELECT_A_VICTOR: "Vyberte vítěze, abyste viděli jejich pohled" # todo: NEW TRANSLATION

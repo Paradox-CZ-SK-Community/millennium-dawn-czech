@@ -1,0 +1,406 @@
+﻿l_english:
+ armoured_cavalry_officer: "Důstojník obrněné jízdy" # todo: NEW TRANSLATION
+ armoured_cavalry_officer_desc: "§LVyškolen jako důstojník mechanizované pěchoty.§!" # todo: NEW TRANSLATION
+ marine_officer: "Důstojník námořní pěchoty" # todo: NEW TRANSLATION
+ marine_officer_desc: "§LVyškolen jako důstojník námořní pěchoty.§!" # todo: NEW TRANSLATION
+ commando_officer: "Důstojník komanda" # todo: NEW TRANSLATION
+ commando_officer_desc: "§LVyškolen jako důstojník komanda.§!" # todo: NEW TRANSLATION
+ air_cavalry_officer: "Důstojník vzdušné jízdy" # todo: NEW TRANSLATION
+ air_cavalry_officer_desc: "§LVyškolen jako výsadkový důstojník.§!" # todo: NEW TRANSLATION
+ artillery_officer: "Důstojník dělostřelectva" # todo: NEW TRANSLATION
+ artillery_officer_desc: "§LVyškolen jako dělostřelecký důstojník.§!" # todo: NEW TRANSLATION
+ guerrilla_officer: "Důstojník partyzánů" # todo: NEW TRANSLATION
+ guerrilla_officer_desc: "§LKdo byl jednou partyzánem, zůstane jím.§!" # todo: NEW TRANSLATION
+ kind_leader: "Laskavý velitel" # todo: NEW TRANSLATION
+ kind_leader_desc: "§LTento velitel staví potřeby svých vojáků na první místo.§!" # todo: NEW TRANSLATION
+ elder: "Stařešina" # todo: NEW TRANSLATION
+ elder_desc: "§LTento jedinec prožil bohatý život zkušeností a ví, jak tyto znalosti využít ve svůj prospěch.§!" # todo: NEW TRANSLATION
+ judiciary: "Soudnictví" # todo: NEW TRANSLATION
+ judiciary_desc: "§LTento jedinec pracoval nebo je vyškolen k práci v soudním systému.§!" # todo: NEW TRANSLATION
+ TRAIT_NEED_ALL_PARENTS: "Všechny rodičovské vlastnosti musí být odemčeny, aby bylo možné přiřadit tuto vlastnost.\n" # todo: NEW TRANSLATION
+ TRAIT_NEED_SOME_PARENTS: "Musíte mít alespoň $NUM$ rodičovských vlastností odemčených, aby bylo možné přiřadit tuto vlastnost.\n" # todo: NEW TRANSLATION
+ TRAIT_PARENT_PRECONDITION_ALL_OF_TITLE: "§YVyžaduje všechny z následujících:§!" # todo: NEW TRANSLATION
+ TRAIT_PARENT_PRECONDITION_N_OF_TITLE: "§YVyžaduje $NUMBER$ z následujících:§!" # todo: NEW TRANSLATION
+ TRAIT_PARENT_PRECONDITION_OR_SUB_ENTRY: "- Jeden z následujících:" # todo: NEW TRANSLATION
+ TRAIT_PARENT_PRECONDITION_PARENT: "- $NAME$" # todo: NEW TRANSLATION
+ organizer_expert: "Expertní organizátor" # todo: NEW TRANSLATION
+ organizer_expert_desc: "§LSchopný plánovat a organizovat pohyb velkých armád na odborné úrovni.§!" # todo: NEW TRANSLATION
+ mechanized_ratio_over_40: "Poměr mechanizované a obrněné pěchoty > §H40%§!" # todo: NEW TRANSLATION
+ armoured_cavalry_leader: "Velitel obrněné jízdy" # todo: NEW TRANSLATION
+ armoured_cavalry_leader_desc: "§LZručný v použití mobilních sil k dosažení vítězství.§!" # todo: NEW TRANSLATION
+ armoured_cavalry_expert: "Expert obrněné jízdy" # todo: NEW TRANSLATION
+ armoured_cavalry_expert_desc: "§LExpert v použití rychlosti a mobility v boji.§!" # todo: NEW TRANSLATION
+ special_forces_trait: "Expert na speciální síly" # todo: NEW TRANSLATION
+ special_forces_trait_desc: "§LExpert v velení jednotkám speciálních sil v boji.§!" # todo: NEW TRANSLATION
+ special_forces_ratio_over_50: "Poměr speciálních jednotek > §H50%§!" # todo: NEW TRANSLATION
+ air_cavalry_leader: "Velitel vzdušné jízdy" # todo: NEW TRANSLATION
+ air_cavalry_leader_desc: "§LZručný v použití vrtulníkových jednotek k dosažení vítězství.§!" # todo: NEW TRANSLATION
+ air_cavalry_expert: "Expert vzdušné jízdy" # todo: NEW TRANSLATION
+ air_cavalry_expert_desc: "§LExpert v použití vrtulníků v boji.§!" # todo: NEW TRANSLATION
+ expert_staffer: "Expertní štábní důstojník" # todo: NEW TRANSLATION
+ expert_staffer_desc: "§LObklopen některými z nejlepších štábních pracovníků, tento vůdce dokáže organizovat a řídit větší počet jednotek.§!" # todo: NEW TRANSLATION
+ artillery_leader: "Velitel dělostřelectva" # todo: NEW TRANSLATION
+ artillery_leader_desc: "§LZručný v použití dělostřelectva k dosažení vítězství.§!" # todo: NEW TRANSLATION
+ artillery_expert: "Expert dělostřelectva" # todo: NEW TRANSLATION
+ artillery_expert_desc: "§LExpert v použití dělostřelectva v boji.§!" # todo: NEW TRANSLATION
+ artillery_ratio_over_20: "Poměr dělostřelectva > §H20%§!" # todo: NEW TRANSLATION
+ guerrilla_leader_trait: "Partyzánský velitel" # todo: NEW TRANSLATION
+ guerrilla_leader_trait_desc: "§LZručný v vedení partyzánů a polovojenských sil k vítězství.§!" # todo: NEW TRANSLATION
+ desperate_defender: "Zoufalý obránce" # todo: NEW TRANSLATION
+ desperate_defender_desc: "§LZručný v vedení zoufalého boje.§!" # todo: NEW TRANSLATION
+ is_defending_tt: "Jednotky se brání" # todo: NEW TRANSLATION
+ cruiser_adherent: "Stoupenec křižníků" # todo: NEW TRANSLATION
+ cruiser_adherent_desc: "§LNámořní letectvo se nikdy nestane plnohodnotnou alternativou k velkým lodím.§!" # todo: NEW TRANSLATION
+ small_ship_captain: "Kapitán doprovodu" # todo: NEW TRANSLATION
+ small_ship_captain_desc: "§LDůstojník prokázal velkou zručnost při obsluze nejmenších našich plavidel.§!" # todo: NEW TRANSLATION
+ army_chief_logistics_1: "Armádní logistika\n(Specialista)" # todo: NEW TRANSLATION
+ army_chief_logistics_2: "Armádní logistika\n(Expert)" # todo: NEW TRANSLATION
+ army_chief_logistics_3: "Armádní logistika\n(Génius)" # todo: NEW TRANSLATION
+ army_chief_entrenchment_1: "Příprava obrany\n (Specialista)" # todo: NEW TRANSLATION
+ army_chief_entrenchment_2: "Příprava obrany\n (Expert)" # todo: NEW TRANSLATION
+ army_chief_entrenchment_3: "Příprava obrany\n (Génius)" # todo: NEW TRANSLATION
+ army_armoured_cavalry_1: "Obrněná jízda\n (Specialista)" # todo: NEW TRANSLATION
+ army_armoured_cavalry_2: "Obrněná jízda\n (Expert)" # todo: NEW TRANSLATION
+ army_armoured_cavalry_3: "Obrněná jízda\n (Génius)" # todo: NEW TRANSLATION
+ army_air_cavalry_1: "Vzdušná jízda\n (Specialista)" # todo: NEW TRANSLATION
+ army_air_cavalry_2: "Vzdušná jízda\n (Expert)" # todo: NEW TRANSLATION
+ army_air_cavalry_3: "Vzdušná jízda\n (Génius)" # todo: NEW TRANSLATION
+ army_militia_1: "Milice\n (Specialista)" # todo: NEW TRANSLATION
+ army_militia_2: "Milice\n (Expert)" # todo: NEW TRANSLATION
+ army_militia_3: "Milice\n (Génius)" # todo: NEW TRANSLATION
+ air_force_multiplier_1: "Multiplikátor síly\n (Specialista)" # todo: NEW TRANSLATION
+ air_force_multiplier_2: "Multiplikátor síly\n (Expert)" # todo: NEW TRANSLATION
+ air_force_multiplier_3: "Multiplikátor síly\n (Génius)" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_mechanized_attack_factor: "Mechanizovaný útok" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_mechanized_defence_factor: "Mechanizovaná obrana" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_mechanized_speed_factor: "Mechanizovaná rychlost" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_L_Air_assault_Bat_defence_factor: "Obrana lehké výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Arm_Air_assault_Bat_defence_factor: "Obrana obrněné výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_L_Air_assault_Bat_attack_factor: "Útok lehké výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_L_Air_assault_Bat_speed_factor: "Rychlost lehké výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Arm_Air_assault_Bat_attack_factor: "Útok obrněné výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Arm_Air_assault_Bat_speed_factor: "Rychlost obrněné výsadkové pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Militia_Bat_defence_factor: "Obrana milice" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Mot_Militia_Bat_defence_factor: "Obrana motorisované milice" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Militia_Bat_attack_factor: "Útok milice" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Mot_Militia_Bat_attack_factor: "Útok motorisované milice" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Special_Forces_attack_factor: "Útok speciálních jednotek" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Special_Forces_defence_factor: "Obrana speciálních jednotek" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_Special_Forces_speed_factor: "Rychlost speciálních jednotek" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_category_all_infantry_attack_factor: "Útok veškeré pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_category_all_infantry_defence_factor: "Obrana veškeré pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_category_all_infantry_speed_factor: "Rychlost veškeré pěchoty" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_attack_helo_bat_attack_factor: "Útok pluku útočných vrtulníků" # todo: NEW TRANSLATION
+ modifier_army_sub_unit_attack_helo_bat_defence_factor: "Obrana pluku útočných vrtulníků" # todo: NEW TRANSLATION
+ modifier_trait_air_cavalry_leader_xp_gain_factor: "Zisk XP velitele vzdušné jízdy" # todo: NEW TRANSLATION
+ modifier_trait_armoured_cavalry_leader_xp_gain_factor: "Zisk XP velitele obrněné jízdy" # todo: NEW TRANSLATION
+ modifier_trait_artillery_leader_xp_gain_factor: "Zisk XP dělostřeleckého velitele" # todo: NEW TRANSLATION
+ modifier_trait_guerrilla_leader_trait_xp_gain_factor: "Zisk XP partyzánského velitele" # todo: NEW TRANSLATION
+ modifier_trait_desperate_defender_xp_gain_factor: "Zisk XP zoufalého obránce" # todo: NEW TRANSLATION
+ modifier_unit_L_Engi_Comp_design_cost_factor: "Náklady na návrh inženýrské čety" # todo: NEW TRANSLATION
+ modifier_unit_armor_Bat_design_cost_factor: "Náklady na návrh tankového praporu" # todo: NEW TRANSLATION
+ modifier_unit_Arm_Inf_Bat_design_cost_factor: "Náklady na návrh obrněného pěchotního praporu" # todo: NEW TRANSLATION
+ modifier_unit_Mech_Inf_Bat_design_cost_factor: "Náklady na návrh mechanizovaného pěchotního praporu" # todo: NEW TRANSLATION
+ modifier_unit_Arty_Bat_design_cost_factor: "Náklady na návrh dělostřeleckého praporu" # todo: NEW TRANSLATION
+ modifier_unit_SP_Arty_Bat_design_cost_factor: "Náklady na návrh samohybných děl" # todo: NEW TRANSLATION
+ modifier_unit_SP_AA_Bat_design_cost_factor: "Náklady na návrh samohybné protiletadlové baterie" # todo: NEW TRANSLATION
+ modifier_unit_L_Marine_Bat_design_cost_factor: "Náklady na návrh lehkého praporu námořní pěchoty" # todo: NEW TRANSLATION
+ modifier_unit_Mot_Marine_Bat_design_cost_factor: "Náklady na návrh motorisovaného praporu námořní pěchoty" # todo: NEW TRANSLATION
+ modifier_unit_Mech_Marine_Bat_design_cost_factor: "Náklady na návrh mechanizovaného praporu námořní pěchoty" # todo: NEW TRANSLATION
+ modifier_unit_Arm_Marine_Bat_design_cost_factor: "Náklady na návrh obrněného praporu námořní pěchoty" # todo: NEW TRANSLATION
+ modifier_unit_Special_Forces_design_cost_factor: "Náklady na návrh jednotek speciálních operací" # todo: NEW TRANSLATION
+ modifier_unit_L_Air_Inf_Bat_design_cost_factor: "Náklady na návrh lehkého výsadkového praporu" # todo: NEW TRANSLATION
+ modifier_unit_Mot_Air_Inf_Bat_design_cost_factor: "Náklady na návrh motorisovaného výsadkového praporu" # todo: NEW TRANSLATION
+ modifier_unit_Mech_Air_Inf_Bat_design_cost_factor: "Náklady na návrh mechanizovaného výsadkového praporu" # todo: NEW TRANSLATION
+ modifier_unit_Arm_Air_Inf_Bat_design_cost_factor: "Náklady na návrh obrněného výsadkového praporu" # todo: NEW TRANSLATION
+ modifier_unit_L_Air_assault_Bat_design_cost_factor: "Náklady na návrh lehkého vzdušného útočného praporu" # todo: NEW TRANSLATION
+ modifier_unit_Arm_Air_assault_Bat_design_cost_factor: "Náklady na návrh obrněného vzdušného útočného praporu" # todo: NEW TRANSLATION
+ modifier_unit_L_Inf_Bat_design_cost_factor: "Náklady na návrh lehkého pěchotního praporu" # todo: NEW TRANSLATION
+ modifier_unit_Mot_Inf_Bat_design_cost_factor: "Náklady na návrh motorisovaného pěchotního praporu" # todo: NEW TRANSLATION
+ modifier_unit_Militia_Bat_design_cost_factor: "Náklady na návrh praporu milice" # todo: NEW TRANSLATION
+ modifier_unit_Mot_Militia_Bat_design_cost_factor: "Náklady na návrh motorisovaného praporu milice" # todo: NEW TRANSLATION
+ modifier_unit_L_arm_Bat_design_cost_factor: "Náklady na návrh $L_arm_Bat$" # todo: NEW TRANSLATION
+ patrol_boat_design_cost_factor: "Náklady na návrh hlídkové lodě" # todo: NEW TRANSLATION
+ corvette_design_cost_factor: "Náklady na návrh korvety" # todo: NEW TRANSLATION
+ frigate_design_cost_factor: "Náklady na návrh fregaty" # todo: NEW TRANSLATION
+ destroyer_design_cost_factor: "Náklady na návrh torpédoborce" # todo: NEW TRANSLATION
+ stealth_destroyer_design_cost_factor: "Náklady na návrh stealth torpédoborce" # todo: NEW TRANSLATION
+ cruiser_design_cost_factor: "Náklady na návrh křižníku" # todo: NEW TRANSLATION
+ battle_cruiser_design_cost_factor: "Náklady na návrh bitevního křižníku" # todo: NEW TRANSLATION
+ battleship_hull_0_design_cost_factor: "Náklady na návrh bitevní lodě" # todo: NEW TRANSLATION
+ attack_submarine_design_cost_factor: "Náklady na návrh útočné ponorky" # todo: NEW TRANSLATION
+ missile_submarine_design_cost_factor: "Náklady na návrh ponorky se střelami" # todo: NEW TRANSLATION
+ helicopter_operator_design_cost_factor: "Náklady na návrh vrtulníkového nosiče" # todo: NEW TRANSLATION
+ carrier_design_cost_factor: "Náklady na návrh letadlové lodi" # todo: NEW TRANSLATION
+ strategic_bomber_equipment_design_cost_factor: "Náklady na návrh strategického bombardéru" # todo: NEW TRANSLATION
+ nav_plane_equipment_design_cost_factor: "Náklady na návrh hlídkového námořního letounu" # todo: NEW TRANSLATION
+ MR_Fighter_equipment_design_cost_factor: "Náklady na návrh víceúčelového stíhače" # todo: NEW TRANSLATION
+ CAS_equipment_design_cost_factor: "Náklady na návrh letounu blízké podpory (CAS)" # todo: NEW TRANSLATION
+ AS_Fighter_equipment_design_cost_factor: "Náklady na návrh stíhače vzdušné převahy" # todo: NEW TRANSLATION
+ Strike_fighter_equipment_design_cost_factor: "Náklady na návrh útočného stíhače" # todo: NEW TRANSLATION
+ L_Strike_fighter_equipment_design_cost_factor: "Náklady na návrh lehkého útočného stíhače" # todo: NEW TRANSLATION
+ Air_UAV_equipment_design_cost_factor: "Náklady na návrh bezpilotního letounu (UAV)" # todo: NEW TRANSLATION
+ CV_MR_Fighter_equipment_design_cost_factor: "Náklady na návrh palubního víceúčelového stíhače" # todo: NEW TRANSLATION
+ CV_L_Strike_fighter_equipment_design_cost_factor: "Náklady na návrh palubního lehkého útočného stíhače" # todo: NEW TRANSLATION
+ attack_helicopter_hull_design_cost_factor: "Náklady na návrh útočného vrtulníku" # todo: NEW TRANSLATION
+ small_plane_airframe_design_cost_factor: "Náklady na návrh lehkého stíhače" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_design_cost_factor: "Náklady na návrh lehkého CAS" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_design_cost_factor: "Náklady na návrh lehkého víceúčelového stíhače" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_design_cost_factor: "Náklady na návrh lehkého námořního bombardéru" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_design_cost_factor: "Náklady na návrh malého dronu" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_design_cost_factor: "Náklady na návrh lehkého palubního stíhače" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_design_cost_factor: "Náklady na návrh lehkého palubního CAS" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_design_cost_factor: "Náklady na návrh lehkého palubního námořního bombardéru" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_design_cost_factor: "Náklady na návrh lehkého palubního dronu" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_design_cost_factor: "Náklady na návrh lehkého palubního víceúčelového stíhače" # todo: NEW TRANSLATION
+ medium_plane_airframe_design_cost_factor: "Náklady na návrh víceúčelového stíhače" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_design_cost_factor: "Náklady na návrh stíhače vzdušné převahy" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_design_cost_factor: "Náklady na návrh CAS" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_design_cost_factor: "Náklady na návrh kamikaze dronu" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_design_cost_factor: "Náklady na návrh hlídkového námořního letounu" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_design_cost_factor: "Náklady na návrh dopravního letounu střední nosnosti" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_design_cost_factor: "Náklady na návrh palubního víceúčelového stíhače" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_design_cost_factor: "Náklady na návrh palubního stíhače vzdušné převahy" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_design_cost_factor: "Náklady na návrh palubního CAS" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_design_cost_factor: "Náklady na návrh palubního AWACS" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_design_cost_factor: "Náklady na návrh palubního námořního útočného letounu" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_design_cost_factor: "Náklady na návrh palubního transportního letounu" # todo: NEW TRANSLATION
+ large_plane_airframe_design_cost_factor: "Náklady na návrh strategického bombardéru" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_design_cost_factor: "Náklady na návrh hlídkového námořního letounu" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_design_cost_factor: "Náklady na návrh AWACS" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_design_cost_factor: "Náklady na návrh pěchotního palubního podpůrného letounu (Gunship)" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_design_cost_factor: "Náklady na návrh těžkého transportního letounu" # todo: NEW TRANSLATION
+ Cat_NAVAL_MODULES_research: "Rychlost výzkumu všech námořních modulů" # todo: NEW TRANSLATION
+ Cat_NAVAL_MISC_research: "Rychlost výzkumu různých námořních technologií" # todo: NEW TRANSLATION
+ Cat_CORVETTE_research: "Rychlost výzkumu korvet" # todo: NEW TRANSLATION
+ Cat_FRIGATE_research: "Rychlost výzkumu fregat" # todo: NEW TRANSLATION
+ Cat_DESTROYER_research: "Rychlost výzkumu raketových torpédoborců" # todo: NEW TRANSLATION
+ Cat_N_CRUISER_research: "Rychlost výzkumu jaderných raketových křižníků" # todo: NEW TRANSLATION
+ Cat_M_Cruiser_research: "Rychlost výzkumu raketových křižníků" # todo: NEW TRANSLATION
+ Cat_SUB_research: "Rychlost výzkumu všech ponorek" # todo: NEW TRANSLATION
+ Cat_CARRIER_research: "Rychlost výzkumu všech letadlových lodí" # todo: NEW TRANSLATION
+ Cat_STR_BOMBER_research: "Rychlost výzkumu strategických bombardérů" # todo: NEW TRANSLATION
+ Cat_NAVAL_PLANE_research: "Rychlost výzkumu hlídkových námořních letounů" # todo: NEW TRANSLATION
+ Cat_CAS_research: "Rychlost výzkumu blízké letecké podpory (CAS)" # todo: NEW TRANSLATION
+ Cat_MR_FIGHTER_research: "Rychlost výzkumu víceúčelových stíhačů" # todo: NEW TRANSLATION
+ Cat_AS_FIGHTER_research: "Rychlost výzkumu stíhačů vzdušné převahy" # todo: NEW TRANSLATION
+ Cat_S_FIGHTER_research: "Rychlost výzkumu útočných stíhačů" # todo: NEW TRANSLATION
+ Cat_L_Fighter_research: "Rychlost výzkumu lehkých útočných stíhačů" # todo: NEW TRANSLATION
+ Cat_A_UAV_research: "Rychlost výzkumu UAV" # todo: NEW TRANSLATION
+ Cat_CV_MR_FIGHTER_research: "Rychlost výzkumu palubních víceúčelových stíhačů" # todo: NEW TRANSLATION
+ Cat_CV_L_S_FIGHTER_research: "Rychlost výzkumu palubních lehkých útočných stíhačů" # todo: NEW TRANSLATION
+ Cat_HELI_research: "Rychlost výzkumu všech vrtulníků" # todo: NEW TRANSLATION
+ Cat_Small_Plane_research: "Rychlost výzkumu lehkých letadel" # todo: NEW TRANSLATION
+ Cat_Medium_Plane_research: "Rychlost výzkumu středních letadel" # todo: NEW TRANSLATION
+ Cat_Large_Plane_research: "Rychlost výzkumu velkých letadel" # todo: NEW TRANSLATION
+ bold_attack_spirit: "Smělý útok" # todo: NEW TRANSLATION
+ bold_attack_spirit_desc: "Jak se říká: silný útok je nejlepší obranou." # todo: NEW TRANSLATION
+ bold_attack_spirit_tt: "Velitel armády: §G50% šance§! na §Y+1 Útok§! při postupu úrovně." # todo: NEW TRANSLATION
+ tenacious_defense_spirit: "Vytrvalá obrana" # todo: NEW TRANSLATION
+ tenacious_defense_spirit_desc: "Neprojdou!" # todo: NEW TRANSLATION
+ tenacious_defense_spirit_tt: "Velitel armády: §G50% šance§! na §Y+1 Obrana§! při postupu úrovně." # todo: NEW TRANSLATION
+ meticulous_preparation_spirit: "Pečlivá příprava" # todo: NEW TRANSLATION
+ meticulous_preparation_spirit_desc: "Válka je chaos, ale na chaos se dá připravit." # todo: NEW TRANSLATION
+ meticulous_preparation_spirit_tt: "Velitel armády: §G50% šance§! na §Y+1 Plánování a logistika§! při postupu úrovně." # todo: NEW TRANSLATION
+ best_of_the_best_spirit: "Nejlepší z nejlepších" # todo: NEW TRANSLATION
+ best_of_the_best_spirit_desc: "Jen málokdo má to, co je potřeba vést vojáky do bitvy. Ještě méně lidí má to, co je potřeba tu bitvu vyhrát." # todo: NEW TRANSLATION
+ best_of_the_best_spirit_tt: "Nový velitel armády: šance na §Ypozitivní vlastnosti§! zvýšena o §G200%§!." # todo: NEW TRANSLATION
+ military_science_doctorate_spirit: "Doktorát z vojenských věd" # todo: NEW TRANSLATION
+ military_science_doctorate_spirit_desc: "Doktor vojenských věd je jako běžný doktor, jen má raději zbraně." # todo: NEW TRANSLATION
+ military_science_doctorate_spirit_tt: "Velitel armády: §G25% šance§! na začátek s §Y1 úrovní dovednosti§! výše než obvyklé." # todo: NEW TRANSLATION
+ battlefield_promotions_spirit: "Povýšení na bojišti" # todo: NEW TRANSLATION
+ battlefield_promotions_spirit_desc: "Vyčlenění schopných velitelů je nejlepší cesta ke zlepšení důstojnického sboru." # todo: NEW TRANSLATION
+ electronic_warfare_generals_spirit: "Výcvik v elektronickém boji" # todo: NEW TRANSLATION
+ electronic_warfare_generals_spirit_desc: "Naši generálové musí znát základy elektronického boje, aby skryli své pozice před nepřítelem." # todo: NEW TRANSLATION
+ political_loyalty_spirit: "Politická loajalita" # todo: NEW TRANSLATION
+ political_loyalty_spirit_desc: "Nespolehlivá armáda je hrozbou pro stát, který má chránit." # todo: NEW TRANSLATION
+ political_loyalty_spirit_tt: "Nový velitel armády: začne buď s §YPoliticky propojený§! nebo §YMediální osobnost§! vlastností." # todo: NEW TRANSLATION
+ inventive_leadership_spirit: "Vynalézavé velení" # todo: NEW TRANSLATION
+ inventive_leadership_spirit_desc: "Předvídatelný generál je poražený generál." # todo: NEW TRANSLATION
+ inventive_leadership_spirit_tt: "Noví důstojníci: §G50% šance§! začít s vlastností §YKomando§!, §YPodvodník§! nebo §YNájezdník§!." # todo: NEW TRANSLATION
+ combined_arms_schools_spirit: "Školy kombinovaných zbraní" # todo: NEW TRANSLATION
+ combined_arms_schools_spirit_desc: "Kdekoli se budou vést budoucí bitvy, mobilní jednotky budou hrát rozhodující roli." # todo: NEW TRANSLATION
+ combined_arms_schools_spirit_tt: "Nový velitel armády: §G50% šance§! začít s vlastností §YVelitel tanků§!, §YVelitel obrněné jízdy§! nebo §YVelitel vzdušné jízdy§!." # todo: NEW TRANSLATION
+ deep_defence_spirit: "Školy hluboké obrany" # todo: NEW TRANSLATION
+ deep_defence_spirit_desc: "Výstavba silné obranné linie vyžaduje spoustu vědy." # todo: NEW TRANSLATION
+ deep_defence_spirit_tt: "Nový velitel armády: §G50% šance§! začít s vlastností §YInženýr§!, §YVelitel dělostřelectva§! nebo §ZZoufalý obránce§!." # todo: NEW TRANSLATION
+ extreme_weather_spirit: "Výcvik extrémního počasí" # todo: NEW TRANSLATION
+ extreme_weather_spirit_desc: "Naučit naše generály, jak se vypořádat s pálivou pouští nebo mrazivou zimou, jim umožní bojovat kdekoliv budou potřeba." # todo: NEW TRANSLATION
+ extreme_weather_spirit_tt: "Nový velitel armády: §G50% šance§! začít s §Yterénní vlastností§!." # todo: NEW TRANSLATION
+ infantry_combat_schools_spirit: "Školy pěchotního boje" # todo: NEW TRANSLATION
+ infantry_combat_schools_spirit_desc: "Pěchota je královnou bitvy a královna jde kam chce." # todo: NEW TRANSLATION
+ infantry_combat_schools_spirit_tt: "Nový velitel armády: §G50% šance§! začít s vlastností §YVelitel pěchoty§!, §YOrganizátor§! nebo §YZručný štábní důstojník§!." # todo: NEW TRANSLATION
+ self_taught_academy_spirit: "Samoškolící důstojníci" # todo: NEW TRANSLATION
+ self_taught_academy_spirit_desc: "Nejlepší důstojníci se rodí v poli, ne v akademiích a školách." # todo: NEW TRANSLATION
+ self_taught_academy_spirit_tt: "Nový velitel armády: §G50% šance§! začít s vlastností §YPartyzánský velitel§!." # todo: NEW TRANSLATION
+ art_of_war_army_spirit: "Umění války" # todo: NEW TRANSLATION
+ art_of_war_army_spirit_desc: "Proč školit jednotlivce, když můžete školit celou armádu?" # todo: NEW TRANSLATION
+ professional_officer_corps_spirit: "Profesní důstojnický sbor" # todo: NEW TRANSLATION
+ professional_officer_corps_spirit_desc: "Jsme profesionálové a válka je naše profese." # todo: NEW TRANSLATION
+ old_boys_club_spirit: "Klub starých přátel" # todo: NEW TRANSLATION
+ old_boys_club_spirit_desc: "Musíme být opatrní, koho necháme být důstojníkem. Jen ti se správnými kontakty by měli dostat důležitá místa." # todo: NEW TRANSLATION
+ elevated_engineering_corps_spirit: "Vylepšený inženýrský sbor" # todo: NEW TRANSLATION
+ elevated_engineering_corps_spirit_desc: "Nejlepší ukazatel schopností a charakteru muže je dát mu rýč a den na to, aby s ním něco užitečného udělal." # todo: NEW TRANSLATION
+ proper_heritage_spirit_desc: "Dobrý generál může být vycvičen, ale skvělý generál musí být vyšlechtěn. Trochu jako koně." # todo: NEW TRANSLATION
+ quick_improvisation_spirit: "Rychlá improvizace" # todo: NEW TRANSLATION
+ quick_improvisation_spirit_desc: "Rychleji chápat, rychleji myslet, rychleji jednat — to je klíč k vítězství." # todo: NEW TRANSLATION
+ relief_of_command_spirit: "Odstoupení velení" # todo: NEW TRANSLATION
+ relief_of_command_spirit_desc: "Armáda neexistuje, aby krmila ego svých generálů." # todo: NEW TRANSLATION
+ fanatical_loyalty_spirit: "Fanatická loajalita" # todo: NEW TRANSLATION
+ fanatical_loyalty_spirit_desc: "Naši generálové musí být připraveni zemřít pro naši věc, pokud to bude potřeba." # todo: NEW TRANSLATION
+ state_serves_the_military_spirit: "Stát slouží armádě" # todo: NEW TRANSLATION
+ state_serves_the_military_spirit_desc: "Účelem státu je vést válku proti jiným státům. Cokoli jiného buď toto podporuje, nebo je to zbytečná odbočka." # todo: NEW TRANSLATION
+ armoured_assault_spirit: "Obrněný útok" # todo: NEW TRANSLATION
+ armoured_assault_spirit_desc: "Hromadný kombinovaný útok tanků a obrněných vozidel zničí nepřítele." # todo: NEW TRANSLATION
+ superior_firepower_spirit: "Převaha palebné síly" # todo: NEW TRANSLATION
+ superior_firepower_spirit_desc: "Pokud vám dělostřelectvo nezajistí vítězství, nepoužíváte ho dost." # todo: NEW TRANSLATION
+ infantry_strength_spirit: "Síla pěchoty" # todo: NEW TRANSLATION
+ infantry_strength_spirit_desc: "Když je to potřeba, tank ani letadlo nemůže udržet kus země místo pěchoty." # todo: NEW TRANSLATION
+ praetorian_guard_spirit: "Pretoriánská garda" # todo: NEW TRANSLATION
+ praetorian_guard_spirit_desc: "Malá síla elitních jednotek udrží řadové vojáky v klidu." # todo: NEW TRANSLATION
+ death_from_above_spirit: "Smrt z výšky" # todo: NEW TRANSLATION
+ death_from_above_spirit_desc: "Seskok za nepřátelské linie má největší prvek překvapení." # todo: NEW TRANSLATION
+ guerrilla_warfare_spirit: "Partyzánská válka" # todo: NEW TRANSLATION
+ guerrilla_warfare_spirit_desc: "Když stromy začnou mluvit v [ROOT.GetAdjective]..." # todo: NEW TRANSLATION
+ modern_trench_warfare_spirit: "Moderní zákopová válka" # todo: NEW TRANSLATION
+ modern_trench_warfare_spirit_desc: "I na moderním bojišti vám zákop poskytuje lepší krytí před dělostřelectvem a letectvem." # todo: NEW TRANSLATION
+ flexible_organization_spirit: "Flexibilní organizace" # todo: NEW TRANSLATION
+ flexible_organization_spirit_desc: "Důležité je splnit úkol, ne slepě poslouchat rozkazy." # todo: NEW TRANSLATION
+ aggressive_reconnaisance_spirit: "Agresivní průzkum" # todo: NEW TRANSLATION
+ aggressive_reconnaisance_spirit_desc: "Chcete-li vědět, co dělá druhá strana, jděte za nimi a zeptejte se jich přímo!" # todo: NEW TRANSLATION
+ reserve_officers_spirit: "Rezervní důstojníci" # todo: NEW TRANSLATION
+ reserve_officers_spirit_desc: "Ne každý se musí učinit vojenskou profesí. Ale v čase války mohou stále sloužit." # todo: NEW TRANSLATION
+ victory_or_death_spirit: "Vítězství nebo smrt" # todo: NEW TRANSLATION
+ victory_or_death_spirit_desc: "Lépe zemřít ve slávě než žít ve hanbě porážky." # todo: NEW TRANSLATION
+ maneuver_warfare_spirit: "Manévrová válka" # todo: NEW TRANSLATION
+ maneuver_warfare_spirit_desc: "Správná civilizovaná válka je spíše šachová partie než rvačka. Proč bojovat s nepřítelem, kolem kterého se můžete obratit?" # todo: NEW TRANSLATION
+ smoke_and_fire_spirit: "Kouř a oheň" # todo: NEW TRANSLATION
+ smoke_and_fire_spirit_desc: "Postupný dělostřelecký přehled účinně zabrání nepříteli střílet zpět." # todo: NEW TRANSLATION
+ logistical_focus_spirit: "Důraz na logistiku" # todo: NEW TRANSLATION
+ logistical_focus_spirit_desc: "Vojáci mohou jíst svoje opasky, ale tanky musejí mít benzín." # todo: NEW TRANSLATION
+ operational_reserve_spirit: "Operační rezervy" # todo: NEW TRANSLATION
+ operational_reserve_spirit_desc: "Vždy mít něco v rukávu. Vždy." # todo: NEW TRANSLATION
+ hit_and_run_spirit: "Úder a ústup" # todo: NEW TRANSLATION
+ hit_and_run_spirit_desc: "Budeme udeřit rychle a pak ustoupit, jen abychom zas udeřili jinde." # todo: NEW TRANSLATION
+ counter_insurgency_spirit: "Proti-povstalecké operace" # todo: NEW TRANSLATION
+ counter_insurgency_spirit_desc: "Zbavit se bojovníků odboje je obtížný úkol, ale ne nemožný." # todo: NEW TRANSLATION
+ instilled_aggression_spirit: "Vštípená agresivita" # todo: NEW TRANSLATION
+ instilled_aggression_spirit_desc: "Útočit, útočit, útočit!" # todo: NEW TRANSLATION
+ instilled_aggression_spirit_tt: "Admirálové: §G50% šance§! získat §Y+1 Útok§! při postupu úrovně." # todo: NEW TRANSLATION
+ calculated_restraint_spirit: "Promyšlená zdrženlivost" # todo: NEW TRANSLATION
+ calculated_restraint_spirit_desc: "Po pečlivém zvážení..." # todo: NEW TRANSLATION
+ calculated_restraint_spirit_tt: "Admirálové: §G50% šance§! získat §Y+1 Obrana§! při postupu úrovně." # todo: NEW TRANSLATION
+ signals_training_spirit: "Výcvik signálů" # todo: NEW TRANSLATION
+ signals_training_spirit_desc: "Aby každý muž mohl vykonat svou povinnost, musí vědět, co je jeho povinnost." # todo: NEW TRANSLATION
+ signals_training_spirit_tt: "Admirálové: §G50% šance§! získat §Y+1 Manévrování a koordinace§! při postupu úrovně." # todo: NEW TRANSLATION
+ best_of_the_best_naval_academy_spirit: "Nejlepší z nejlepších" # todo: NEW TRANSLATION
+ best_of_the_best_naval_academy_spirit_desc: "Tvrdá konkurence a přísný výběr plodí kapitány, které chceme." # todo: NEW TRANSLATION
+ best_of_the_best_naval_academy_spirit_tt: "Nový admirál: šance na §Ypozitivní vlastnosti§! zvýšena o §G200%§!." # todo: NEW TRANSLATION
+ naval_tradition_spirit: "Námořní tradice" # todo: NEW TRANSLATION
+ naval_tradition_spirit_desc: "Máme historii hrdého námořnictva. Naše lodě obsazují jen ti nejlepší admirálové." # todo: NEW TRANSLATION
+ naval_tradition_spirit_tt: "Admirál: §G25% šance§! začít §Y1 úrovní dovednosti§! vyšší než obvyklé." # todo: NEW TRANSLATION
+ first_mate_to_captain_spirit: "První důstojník na kapitána" # todo: NEW TRANSLATION
+ first_mate_to_captain_spirit_desc: "Každý námořník může postoupit na admirálského, pokud dostatečně usiluje." # todo: NEW TRANSLATION
+ electronic_warfare_admirals_spirit: "Radarové ticho" # todo: NEW TRANSLATION
+ electronic_warfare_admirals_spirit_desc: "Naši admirálové se musí umět skrýt před nepřítelem." # todo: NEW TRANSLATION
+ convoy_warfare_spirit: "Válka o konvoje" # todo: NEW TRANSLATION
+ convoy_warfare_spirit_desc: "Obchodní konvoje vyžadují speciální taktiky a výcvik." # todo: NEW TRANSLATION
+ convoy_warfare_spirit_tt: "Nový admirál: §G50% šance§! začít s vlastností §YMořský vlk§! nebo §YProrážič blokády§!." # todo: NEW TRANSLATION
+ littoral_combat_spirit: "Pobřežní boj" # todo: NEW TRANSLATION
+ littoral_combat_spirit_desc: "Ochrana našich pobřeží a krytí větších plavidel by měla být prioritou." # todo: NEW TRANSLATION
+ littoral_combat_spirit_tt: "Nový admirál: §G50% šance§! začít s vlastností §YOchránce flotily§!, §YLikvidátor letadel§! nebo §YPozorovatel§!." # todo: NEW TRANSLATION
+ grand_fleet_spirit: "Velká flotila" # todo: NEW TRANSLATION
+ grand_fleet_spirit_desc: "Výcvik pro velkoplošnou taktiku." # todo: NEW TRANSLATION
+ grand_fleet_spirit_tt: "Nový admirál: §G50% šance§! začít s vlastností §YNezdolný§! nebo §YVynikající taktik§!." # todo: NEW TRANSLATION
+ naval_air_arm_spirit: "Námořní letecké křídlo" # todo: NEW TRANSLATION
+ naval_air_arm_spirit_desc: "Úzká spolupráce mezi vzdušnými a námořními jednotkami je zásadní!" # todo: NEW TRANSLATION
+ naval_air_arm_spirit_tt: "Nový admirál: §G50% šance§! začít s vlastností §YŘídící letecké podpory§!." # todo: NEW TRANSLATION
+ rule_the_waves_spirit: "Panovat nad vlnami" # todo: NEW TRANSLATION
+ rule_the_waves_spirit_desc: "[ROOT.GetName] bude vládnout vlnám s nejlépe vycvičenými námořníky!" # todo: NEW TRANSLATION
+ flexible_contracts_spirit: "Flexibilní smlouvy" # todo: NEW TRANSLATION
+ flexible_contracts_spirit_desc: "Nejlepší smlouva je ta, kterou lze ukončit." # todo: NEW TRANSLATION
+ integrated_designers_spirit: "Integrovaní konstruktéři" # todo: NEW TRANSLATION
+ integrated_designers_spirit_desc: "Neustálé přizpůsobování našich návrhů je hlavní prioritou." # todo: NEW TRANSLATION
+ naval_reform_spirit: "Námořní reforma" # todo: NEW TRANSLATION
+ naval_reform_spirit_desc: "Válka se vždy mění." # todo: NEW TRANSLATION
+ naval_refit_yards_spirit: "Loděnice pro přepracování" # todo: NEW TRANSLATION
+ naval_refit_yards_spirit_desc: "Minimalizovat čas v dokách maximalizuje čas, kdy může loď být na moři." # todo: NEW TRANSLATION
+ coastal_defence_spirit: "Pobřežní obrana" # todo: NEW TRANSLATION
+ coastal_defence_spirit_desc: "Malé korvety hlídající pobřeží jsou naší poslední linií obrany!" # todo: NEW TRANSLATION
+ multi_purpose_ships_spirit: "Všestranné lodě" # todo: NEW TRANSLATION
+ multi_purpose_ships_spirit_desc: "Fregaty mohou plnit mnoho rolí od ASW po boj loď versus loď." # todo: NEW TRANSLATION
+ jeune_ecole_spirit: "Jeune École" # todo: NEW TRANSLATION
+ jeune_ecole_spirit_desc: "Zahltit nepřítele velkou flotilou levných plavidel nám umožní čelit mnohem silnějším protivníkům na našem pobřeží." # todo: NEW TRANSLATION
+ big_guns_spirit: "Velká děla" # todo: NEW TRANSLATION
+ big_guns_spirit_desc: "Nedá se nikdy mít příliš palebné síly." # todo: NEW TRANSLATION
+ silent_killers_spirit: "Tichí zabijáci" # todo: NEW TRANSLATION
+ silent_killers_spirit_desc: "Naše ponorky budou lovit nepřítele z hlubin." # todo: NEW TRANSLATION
+ power_projection_spirit: "Projekce síly" # todo: NEW TRANSLATION
+ power_projection_spirit_desc: "S našimi letadlovými loděmi můžeme dosáhnout každého koutu světa." # todo: NEW TRANSLATION
+ marine_corps_spirit: "Námořní pěchota" # todo: NEW TRANSLATION
+ marine_corps_spirit_desc: "Oorah!" # todo: NEW TRANSLATION
+ close_combat_navy_spirit: "Boj zblízka" # todo: NEW TRANSLATION
+ close_combat_navy_spirit_desc: "Přiblížit se na těsnou vzdálenost je klíčem k vítězství." # todo: NEW TRANSLATION
+ night_fighting_spirit: "Noční boj" # todo: NEW TRANSLATION
+ night_fighting_spirit_desc: "Zvyk bojovat ve tmě poskytuje výrazné výhody." # todo: NEW TRANSLATION
+ surprise_attacks_spirit: "Překvapivé útoky" # todo: NEW TRANSLATION
+ surprise_attacks_spirit_desc: "Zasáhnout nepřítele dřív, než si uvědomí hrozbu." # todo: NEW TRANSLATION
+ efficient_communications_spirit: "Efektivní komunikace" # todo: NEW TRANSLATION
+ efficient_communications_spirit_desc: "Komunikace, komunikace a komunikace." # todo: NEW TRANSLATION
+ surface_raiders_spirit: "Povrchoví nájezdníci" # todo: NEW TRANSLATION
+ surface_raiders_spirit_desc: "Proč nechat všechny nájezdy jen na ponorkách?" # todo: NEW TRANSLATION
+ decisive_battle_spirit: "Rozhodující bitva" # todo: NEW TRANSLATION
+ decisive_battle_spirit_desc: "Jít do bitvy naplno vám vždy zajistí iniciativu." # todo: NEW TRANSLATION
+ inclement_weather_experience_spirit: "Zkušenosti s nepříznivým počasím" # todo: NEW TRANSLATION
+ inclement_weather_experience_spirit_desc: "Neexistuje špatné počasí..." # todo: NEW TRANSLATION
+ brave_commanders_spirit: "Stateční velitelé" # todo: NEW TRANSLATION
+ brave_commanders_spirit_desc: "K čertu torpéda, plný plyn vpřed!" # todo: NEW TRANSLATION
+ bureau_of_ordnance_spirit: "Úřad pro zbraně" # todo: NEW TRANSLATION
+ bureau_of_ordnance_spirit_desc: "Úřad pro zbraně ovlivňuje návrhy všech lodí." # todo: NEW TRANSLATION
+ independent_air_force_spirit: "Samostatné letectvo" # todo: NEW TRANSLATION
+ independent_air_force_spirit_desc: "Letecké síly jsou samostatnou složkou, stejně důležitou jako armáda nebo námořnictvo." # todo: NEW TRANSLATION
+ industrial_destruction_spirit: "Průmyslové zničení" # todo: NEW TRANSLATION
+ industrial_destruction_spirit_desc: "1000 bombardérů může jedním úderem změnit průběh války." # todo: NEW TRANSLATION
+ ground_element_destruction_spirit: "Ničení pozemních prvků" # todo: NEW TRANSLATION
+ ground_element_destruction_spirit_desc: "A-10 jde brrt." # todo: NEW TRANSLATION
+ clear_the_skies_spirit: "Vyčistit nebe" # todo: NEW TRANSLATION
+ clear_the_skies_spirit_desc: "Žádnému nepříteli by nemělo být dovoleno operovat v nebi, které ovládáme." # todo: NEW TRANSLATION
+ cost_efficient_airforce_spirit: "Nákladově efektivní letectvo" # todo: NEW TRANSLATION
+ cost_efficient_airforce_spirit_desc: "Proč investovat do několika drahých věcí, když můžete mít mnoho levných?" # todo: NEW TRANSLATION
+ naval_support_aviation_spirit: "Námořní podpůrné letectvo" # todo: NEW TRANSLATION
+ naval_support_aviation_spirit_desc: "Někdy musí letectvo přispěchat námořnictvu na pomoc." # todo: NEW TRANSLATION
+ helicopter_cavalry_spirit: "Helikoptérová kavalerie" # todo: NEW TRANSLATION
+ helicopter_cavalry_spirit_desc: "Není nic lepšího, než letět v Huey a střílet Fortunate Son." # todo: NEW TRANSLATION
+ effective_training_programs_spirit: "Efektivní výcvikové programy" # todo: NEW TRANSLATION
+ effective_training_programs_spirit_desc: "Nic nepřekoná dobré vzdělání." # todo: NEW TRANSLATION
+ air_crew_surveys_spirit: "Průzkumy leteckých posádek" # todo: NEW TRANSLATION
+ air_crew_surveys_spirit_desc: "Koneckonců oni jsou ti, kdo používají vybavení, tak proč se jich nezeptat?" # todo: NEW TRANSLATION
+ battlefield_air_interdiction_spirit: "Vzdušná interdikce na bojišti" # todo: NEW TRANSLATION
+ battlefield_air_interdiction_spirit_desc: "Těsná spolupráce mezi leteckými a pozemními silami." # todo: NEW TRANSLATION
+ cvw_night_fighting_spirit: "Noční boj CVW" # todo: NEW TRANSLATION
+ cvw_night_fighting_spirit_desc: "Myslíte, že je těžké jen létat ve tmě? Zkuste přistát na letadlové lodi uprostřed noci!" # todo: NEW TRANSLATION
+ veteran_air_instructors_spirit: "Zkušení letečtí instruktoři" # todo: NEW TRANSLATION
+ veteran_air_instructors_spirit_desc: "Nechat nejlepší vycvičit zbytek." # todo: NEW TRANSLATION
+ centralized_control_spirit: "Centralizované řízení" # todo: NEW TRANSLATION
+ centralized_control_spirit_desc: "Efektivní řízení zdrojů zajistí, že letadla dorazí tam, kde jsou nejvíce potřeba." # todo: NEW TRANSLATION
+ steel_wings_steel_hearts_spirit: "Ocelová křídla, ocelová srdce" # todo: NEW TRANSLATION
+ steel_wings_steel_hearts_spirit_desc: "Vést válku ve výšce 10 000 stop vyžaduje určitý druh odvahy.\n\n§GTento duch je dostupný díky naší ideologii.§!" # todo: NEW TRANSLATION
+ home_defence_spirit: "Domácí obrana" # todo: NEW TRANSLATION
+ home_defence_spirit_desc: "Budeme bránit náš ostrov za jakoukoli cenu." # todo: NEW TRANSLATION
+ air_power_projection_spirit: "Projekce letecké síly" # todo: NEW TRANSLATION
+ air_power_projection_spirit_desc: "Při boji daleko od domova je nutná zvláštní odvaha." # todo: NEW TRANSLATION
+ massed_strike_spirit: "Hromadný útok" # todo: NEW TRANSLATION
+ massed_strike_spirit_desc: "Narušení nepřátelských pozemních sil je nejlepší způsob, jak je porazit." # todo: NEW TRANSLATION
+ continuous_strike_spirit: "Nepřetržitý útok" # todo: NEW TRANSLATION
+ continuous_strike_spirit_desc: "Zničení klíčového nepřátelského vybavení je zásadní." # todo: NEW TRANSLATION
+ total_devastation_spirit: "Totální zkáza" # todo: NEW TRANSLATION
+ total_devastation_spirit_desc: "Masivní strategické údery v srdci nepřítele rozbijí jejich schopnost bojovat." # todo: NEW TRANSLATION
+ academy_spirit: "Duch akademie" # todo: NEW TRANSLATION
+ army_spirit: "Duch armády" # todo: NEW TRANSLATION
+ division_command_spirit: "Duch velení divize" # todo: NEW TRANSLATION
+ naval_academy_spirit: "Duch námořní akademie" # todo: NEW TRANSLATION
+ navy_spirit: "Duch námořnictva" # todo: NEW TRANSLATION
+ naval_command_spirit: "Duch námořního velení" # todo: NEW TRANSLATION
+ air_force_academy_spirit: "Duch akademie letectva" # todo: NEW TRANSLATION
+ air_force_spirit: "Duch letectva" # todo: NEW TRANSLATION
+ air_force_command_spirit: "Duch leteckého velení" # todo: NEW TRANSLATION

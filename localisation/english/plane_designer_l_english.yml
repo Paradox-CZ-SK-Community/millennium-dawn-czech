@@ -1,480 +1,692 @@
 ﻿l_english:
- AIR_TITLE_AIRFRAME: "DRAKY LETADEL"
- AIR_TITLE_ENGINES: "MOTORY"
- AIR_TITLE_MOTHERSHIP: "MATEŘSKÁ LOĎ"
- AIR_TITLE_MOTHERSHIP_DESC: "Materské lodě jsou velká letadla navržená k přepravě a nasazení menších letadel do boje, což významně prodlužuje jejich operační dosah nad rámec toho, co jednotlivé stíhačky mohou dosáhnout samostatně."
- AIR_TITLE_TRANSPORT: "TRANSPORTNÍ LETADLA"
- AIR_TITLE_WEAPONS: "VÝZBROJ"
- EQ_MOD_CAT_cas_weapon_TITLE: "Výzbroj pro leteckou podporu"
- EQ_MOD_CAT_fighter_weapon_TITLE: "Výzbroj pro stíhačky"
- EQ_MOD_CAT_kamikaze_bomber_weapon_TITLE: "Výzbroj pro kamikaze bombardéry"
- EQ_MOD_CAT_large_plane_engine_type_TITLE: "6 motorů"
- EQ_MOD_CAT_large_plane_jet_engine_type_TITLE: "6 proudových motorů"
- EQ_MOD_CAT_medium_plane_engine_type_TITLE: "3 motory"
- EQ_MOD_CAT_medium_plane_jet_engine_type_TITLE: "3 proudové motory"
- EQ_MOD_CAT_mine_warfare_defense_TITLE: "Odminování"
- EQ_MOD_CAT_mine_warfare_offense_TITLE: "Pokládání min"
- EQ_MOD_CAT_nav_bomber_weapon_TITLE: "Výzbroj pro námořní bombardéry"
- EQ_MOD_CAT_plane_engine_type_TITLE: "1 motor"
- EQ_MOD_CAT_plane_jet_engine_type_TITLE: "1 proudový motor"
- EQ_MOD_CAT_plane_rocket_engine_type_TITLE: "Raketový motor"
- EQ_MOD_CAT_plane_special_module_air_air_radar_TITLE: "Radar vzduch-vzduch"
- EQ_MOD_CAT_plane_special_module_air_ground_radar_TITLE: "Radar vzduch-země"
- EQ_MOD_CAT_plane_special_module_bomb_sights_TITLE: "Bombové zaměřovače"
- EQ_MOD_CAT_plane_special_module_defense_turret_TITLE: "1x střelecké věže"
- EQ_MOD_CAT_plane_special_module_defense_turret_x2_TITLE: "2x střelecké věže"
- EQ_MOD_CAT_plane_special_module_electronics_TITLE: "Elektronika"
- EQ_MOD_CAT_plane_special_module_large_TITLE: "Speciální moduly (velké)"
- EQ_MOD_CAT_plane_special_module_medium_TITLE: "Speciální moduly (střední)"
- EQ_MOD_CAT_plane_special_module_radio_navigation_TITLE: "Rádiová navigace"
- EQ_MOD_CAT_plane_special_module_small_TITLE: "Speciální moduly (malé)"
- EQ_MOD_CAT_quad_large_plane_engine_type_TITLE: "4 motory"
- EQ_MOD_CAT_quad_large_plane_jet_engine_type_TITLE: "4 proudové motory"
- EQ_MOD_CAT_recon_camera_TITLE: "Průzkumné vybavení"
- EQ_MOD_CAT_strat_weapon_TITLE: "Výzbroj pro strat. bombardéry"
- EQ_MOD_CAT_tac_weapon_TITLE: "Výzbroj pro taktické bombardéry"
- EQ_MOD_CAT_twin_plane_engine_type_TITLE: "2 motory"
- EQ_MOD_CAT_twin_plane_jet_engine_type_TITLE: "2 proudové motory"
- EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE: "Sekundární výzbroj"
- EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_2_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
- EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_3_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
- EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_4_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
- EQ_MOD_SLOT_fixed_main_weapon_slot_TITLE: "Hlavní výzbroj"
- EQ_MOD_SLOT_special_type_slot_5_TITLE: "$EQ_MOD_SLOT_special_type_slot_4_TITLE$"
- EQ_MOD_SLOT_special_type_slot_6_TITLE: "$EQ_MOD_SLOT_special_type_slot_4_TITLE$"
- aa_cannon_1: "Kanóny I"
- aa_cannon_1_desc: "Projektil z děla dokáže prorazit i ten nejodolnější letoun a zároveň může mít v sobě dostatek výbušnin, aby při zásahu způsobil ohromné škody."
- aa_cannon_2: "Velké kanóny"
- aa_cannon_2_desc: "Díky větší ráži a většímu projektilu mohou tato děla na jeden zásah sestřelit i velká letadla."
- aa_cannon_3: "Kanóny II"
- aa_cannon_3_desc: "S moderním kanónem střílejícím velké projektily vysokou rychlostí můžeme sestřelit i ta nejodolnější letadla."
- aa_hmg: "Těžký kulomet"
- aa_hmg_desc: "Moderní letadla jsou schopna vydržet podstatně větší zásahy než starší modely a zároveň nabízejí méně příležitostí k zásahům. Každý zásah proto musí způsobit maximální poškození, což vyžaduje větší zásobník."
- aa_lmg: "Lehký kulomet"
- aa_lmg_desc: "Kulomety puškové ráže tvoří základ výzbroje vzduch-vzduch již od dob Velké války."
- advanced_large_airframe: "$large_plane_airframe_3$"
- advanced_large_airframe_desc: "$large_plane_airframe_3_desc$"
- advanced_medium_airframe: "$medium_plane_airframe_3$"
- advanced_medium_airframe_desc: "$medium_plane_airframe_3_desc$"
- advanced_small_airframe: "$small_plane_airframe_3$"
- advanced_small_airframe_desc: "$small_plane_airframe_3_desc$"
- air_air_radar_1: "Radar vzduch-vzduch I"
- air_air_radar_1_desc: "Sada radarových antén na letadle umožňuje vyškolenému operátorovi najít vzdušný cíl i ve tmě."
- air_air_radar_2: "Radar vzduch-vzduch II"
- air_air_radar_2_desc: "Díky výkonnějšímu vysílači dokáže tato radarová souprava detekovat cíle na delší vzdálenost."
- air_ground_radar_1: "Radar vzduch-země I"
- air_ground_radar_1_desc: "Souprava palubního radaru, která poskytuje navigátorovi přesný obraz povrchu pod letadlem a umožňuje přesnou navigaci i za tmy nebo špatného počasí."
- air_ground_radar_2: "Radar vzduch-země II"
- air_ground_radar_2_desc: "Díky vyššímu rozlišení než předchozí modely umožňuje tato radarová souprava přesné bombardování i přes oblačnost."
- air_torpedoe_1: "Letecké torpéda"
- air_torpedoe_1_desc: "Lehká torpéda mohou být nesena jakýmkoli schopným letadlem, aby se rozšířila naše schopnost zasáhnout na moři."
- air_torpedoe_2: "Vylepšené letecké torpéda"
- air_torpedoe_2_desc: "Standardizované úchyty a parametry umožňují vývoj větších a výkonnějších torpéd a zvyšují jejich obecnou užitečnost."
- air_torpedoe_3: "Pokročilé letecké torpéda"
- air_torpedoe_3_desc: "Vývoj lehkého kování určeného k odhození při vstupu do vody poskytuje leteckým torpédům výrazně vyšší přesnost a také vyšší bezpečnost pro letadlo provádějící shoz."
- aircraft_cannon_1_1x: "1x kanón I"
- aircraft_cannon_1_1x_desc: "Automatický kanón poskytuje značnou palebnou sílu proti vzdušným cílům, ale jeho hmotnost zpomaluje letoun a snižuje jeho obratnost."
- aircraft_cannon_1_2x: "2x kanón I"
- aircraft_cannon_1_2x_desc: "Dva automatické kanóny dávají letounu děsivou čelní výzbroj proti vzdušným i lehkým pozemním cílům, a to za cenu výrazného nárůstu hmotnosti a snížení manévrovatelnosti."
- aircraft_cannon_2_1x: "1x kanón II"
- aircraft_cannon_2_1x_desc: "Moderní kanón, který vystřeluje těžký projektil vysokou rychlostí - tato zbraň je schopna sestřelit jak stíhače, tak i strategické bombardéry."
- aircraft_cannon_2_2x: "2x kanón II"
- aircraft_cannon_2_2x_desc: "Dvojice kanónů poskytuje letounu značnou palebnou sílu, přičemž vyšší kadence palby zvyšuje šanci na zničující zásah."
- aircraft_construction: "Výroba letadel"
- aircraft_construction_desc: "Od dob překližky a plátna jsme ve výrobě letadel ušli dlouhou cestu. Nové technologie umožňují stavbu strojů lépe přizpůsobených konkrétním bojovým úlohám."
- airdropped_mines: "Letecky shazované miny"
- airdropped_mines_desc: "Souprava námořních min vybavená padákem, která umožňuje jejich shazování z letadel."
- armor_piercing_bomb_locks: "Závěsníky pro průbojné pumy"
- armor_piercing_bomb_locks_desc: "Závěsníky pro velké průbojné pumy pod křídly nebo trupem umožňují letounům efektivně útočit na námořní cíle."
- armor_piercing_bombs: "Průbojné pumy"
- armor_piercing_bombs_desc: "Válečné lodě neustále zesilují pancéřování palub, a proto je nutné vyvinout specializované pumy schopné tento pancíř prorazit."
- armor_plate_large: "$armor_plate_small$"
- armor_plate_large_desc: "Rozsáhlé ocelové pancéřování chrání motory, palivové nádrže i kabinu posádky, což umožňuje letounu odolat téměř všemu kromě přímého zásahu protiletadlovou palbou a výrazně ztěžuje jeho sestřelení stíhači."
- armor_plate_medium: "$armor_plate_small$"
- armor_plate_medium_desc: "Pancéřování kolem motorů a citlivějších částí trupu výrazně zvyšuje šanci letounu na přežití, ovšem za cenu snížení doletu."
- armor_plate_small: "Ocelové pláty"
- armor_plate_small_desc: "Ocelové pláty za sedadlem pilota a kolem motoru zvyšují odolnost letounu proti palbě ze země i útokům zezadu."
- basic_large_airframe: "$large_plane_airframe_1$"
- basic_large_airframe_desc: "$large_plane_airframe_1_desc$"
- basic_medium_airframe: "$medium_plane_airframe_1$"
- basic_medium_airframe_desc: "$medium_plane_airframe_1_desc$"
- basic_small_airframe: "$small_plane_airframe_1$"
- basic_small_airframe_desc: "$small_plane_airframe_1_desc$"
- bba_air_techs_folder: "$air_techs_folder$"
- bba_air_techs_folder_desc: "$air_techs_folder_desc$"
- bomb_locks: "Závěsníky pro pumy"
- bomb_locks_desc: "Závěsníky pro lehké pumy pod křídly nebo trupem umožňují letounu útočit na pozemní cíle s určitou šancí na úspěch."
- bomb_sights_1: "Zaměřovač bomb I"
- bomb_sights_1_desc: "Složitý mechanický počítač, který zohledňuje boční vítr, konečnou rychlost a výšku letu, umožňuje bombometčíkovi odhodit pumy s vysokou přesností."
- bomb_sights_2: "Zaměřovač bomb II"
- bomb_sights_2_desc: "Zatímco starší typy bombových zaměřovačů vyžadovaly zdlouhavé nastavování, tento plně stabilizovaný zaměřovač určí cíl během několika sekund a dokáže kompenzovat i mělké střemhlavé lety."
- bouncing_bomb_release: "Závěsník pro skákající pumy"
- bouncing_bomb_release_desc: "Závěsník pro speciální skákající pumy, které se po dopadu odrážejí po vodní hladině až k cíli. Mechanismus při odhozu roztočí bombu dozadu, což zvyšuje pravděpodobnost zásahu požadovaného strukturálního cíle."
- cannon_defense_turret: "Střelecká věž s kanónem"
- cannon_defense_turret_2x: "Dvojice střeleckých věží s kanónem"
- cannon_defense_turret_2x_desc: "Dvě věže vyzbrojené automatickými kanóny dávají letounu hrozivou obrannou palebnou sílu - každý útok stíhače se tak stává krajně nebezpečným podnikem."
- cannon_defense_turret_desc: "Moderní kanón umístěný v otočné věži výrazně mění poměr sil mezi obráncem a útočníkem ve vzdušném boji. Jen málokterý stíhač přežije přímý zásah z moderního kanónu a je schopen pokračovat v boji."
- cv_small_plane_airframe: "$cv_fighter_equipment$"
- cv_small_plane_airframe_0: "Meziválečný drak pro palubní letadlo"
- cv_small_plane_airframe_0_desc: "Tento drak je vybaven záchytným hákem a zesíleným podvozkem, díky čemuž je schopen provozu z paluby letadlové lodě."
- cv_small_plane_airframe_1: "Základní drak pro palubní letadlo"
- cv_small_plane_airframe_1_desc: "Drak využívá nové technologie vyvinuté pro pozemní letouny a je stejně schopný, přičemž jej lze odstartovat z paluby letadlové lodě."
- cv_small_plane_airframe_2: "Vylepšený drak pro palubní letadlo"
- cv_small_plane_airframe_2_desc: "Aby držel krok s vývojem v pozemním letectví, byl tento drak navržen s využitím nových technologií pro zlepšení doletu a výkonu."
- cv_small_plane_airframe_3: "Pokročilý drak pro palubní letadlo"
- cv_small_plane_airframe_3_desc: "Náročné podmínky palubního letectví omezují velikost a schopnosti draku. Tento drak představuje maximum, kterého lze dosáhnout s klasickým pohonem."
- cv_small_plane_airframe_4: "Moderní drak pro palubní letadlo"
- cv_small_plane_airframe_4_desc: "Tento drak byl navržen tak, aby využil vyššího tahu proudových motorů a přenesl tyto výhody do palubního letectví."
- cv_small_plane_airframe_desc: "Tento malý drak je vybaven záchytným hákem a zesíleným podvozkem, díky čemuž je schopen provozu z paluby letadlové lodě."
- cv_small_plane_airframe_short: "$cv_fighter_equipment_short$"
- cv_small_plane_cas_airframe: "$cv_CAS_equipment$"
- cv_small_plane_cas_airframe_0: "Meziválečný drak pro palubní leteckou podporu"
- cv_small_plane_cas_airframe_0_desc: "$cv_small_plane_airframe_0_desc$"
- cv_small_plane_cas_airframe_1: "Základní drak pro palubní leteckou podporu"
- cv_small_plane_cas_airframe_1_desc: "$cv_small_plane_airframe_1_desc$"
- cv_small_plane_cas_airframe_2: "Vylepšený drak pro palubní leteckou podporu"
- cv_small_plane_cas_airframe_2_desc: "$cv_small_plane_airframe_2_desc$"
- cv_small_plane_cas_airframe_3: "Pokročilý drak pro palubní leteckou podporu"
- cv_small_plane_cas_airframe_3_desc: "$cv_small_plane_airframe_3_desc$"
- cv_small_plane_cas_airframe_4: "Moderní drak pro palubní leteckou podporu"
- cv_small_plane_cas_airframe_4_desc: "$cv_small_plane_airframe_4_desc$"
- cv_small_plane_cas_airframe_desc: "$cv_small_plane_airframe_desc$"
- cv_small_plane_cas_airframe_design_cost_factor: "Náklady na návrh malého letadla pro leteckou podporu"
- cv_small_plane_cas_airframe_short: "$cv_CAS_equipment_short$"
- cv_small_plane_naval_bomber_airframe: "$cv_nav_bomber_equipment$"
- cv_small_plane_naval_bomber_airframe_0: "Meziválečný drak pro palubní námořní bombardér"
- cv_small_plane_naval_bomber_airframe_0_desc: "$small_plane_airframe_0_desc$"
- cv_small_plane_naval_bomber_airframe_1: "Základní drak pro palubní námořní bombardér"
- cv_small_plane_naval_bomber_airframe_1_desc: "$small_plane_airframe_1_desc$"
- cv_small_plane_naval_bomber_airframe_2: "Vylepšený drak pro palubní námořní bombardér"
- cv_small_plane_naval_bomber_airframe_2_desc: "$small_plane_airframe_2_desc$"
- cv_small_plane_naval_bomber_airframe_3: "Pokročilý drak pro palubní námořní bombardér"
- cv_small_plane_naval_bomber_airframe_3_desc: "$small_plane_airframe_3_desc$"
- cv_small_plane_naval_bomber_airframe_4: "Moderní drak pro palubní námořní bombardér"
- cv_small_plane_naval_bomber_airframe_4_desc: "$small_plane_airframe_4_desc$"
- cv_small_plane_naval_bomber_airframe_desc: "$cv_small_plane_airframe_desc$"
- cv_small_plane_naval_bomber_airframe_short: "$cv_nav_bomber_equipment_short$"
- cv_small_plane_suicide_airframe: "Námořní sebevražedný stroj"
- cv_small_plane_suicide_airframe_0: "Meziválečný drak pro palubní sebevraždné letadlo"
- cv_small_plane_suicide_airframe_0_desc: "$small_plane_airframe_0_desc$"
- cv_small_plane_suicide_airframe_1: "Základní drak pro palubní sebevraždné letadlo"
- cv_small_plane_suicide_airframe_1_desc: "$small_plane_airframe_1_desc$"
- cv_small_plane_suicide_airframe_2: "Vylepšený drak pro palubní sebevraždné letadlo"
- cv_small_plane_suicide_airframe_2_desc: "$small_plane_airframe_2_desc$"
- cv_small_plane_suicide_airframe_3: "Pokročilý drak pro palubní sebevraždné letadlo"
- cv_small_plane_suicide_airframe_3_desc: "$small_plane_airframe_3_desc$"
- cv_small_plane_suicide_airframe_4: "Moderní drak pro palubní sebevraždné letadlo"
- cv_small_plane_suicide_airframe_4_desc: "$small_plane_airframe_4_desc$"
- cv_small_plane_suicide_airframe_desc: "$cv_small_plane_airframe_desc$"
- cv_small_plane_suicide_airframe_short: "Palubní sebevraždné letadlo"
- demining_coil: "Odmínovací cívka"
- demining_coil_desc: "Velká cívka namontovaná na draku letounu vytváří silné magnetické pole, které způsobuje předčasné odpálení magnetických min v jeho letové dráze."
- dive_brakes_small: "Brzdy pro střemhlavý let"
- dive_brakes_small_desc: "Sada aerodynamických brzd umístěná na odtokové hraně křídel se vysune při přechodu do střemhlavého letu, čímž sníží rychlost a umožní letounu bezpečně vybrat strmý pád bez poškození konstrukce. Díky tomu může útočit téměř ve svislém letu, což výrazně zvyšuje přesnost."
- drop_tanks: "Odhozové nádrže"
- drop_tanks_desc: "Malé odhazovatelné nádrže s přídavným palivem prodlužují dolet našich stíhaček při útočných operacích. Jelikož jsou odhozeny před vstupem do boje, nijak nesnižují bojový výkon."
- early_bombs: "Letecké pumy"
- early_bombs_desc: "Od počátků Velké války jsou letadla stále častěji využívána k odhazování výbušnin na nepřátelské cíle. Postupem času se tato schopnost stala klíčovým prvkem leteckého boje."
- earthshaker_bomb_release: "Závěsník pro seizmické pumy"
- earthshaker_bomb_release_desc: "Závěsník a odhazovací mechanismus pro gigantické seizmické pumy, navržené k průniku do země a výbuchu v podzemí, což způsobuje rozsáhlé strukturální škody cíli."
- engine_1_1x: "1x Motor I"
- engine_1_1x_desc: "Tento základní motor je spolehlivý a levný, ale ne zrovna výkonný."
- engine_1_2x: "2x Motor I"
- engine_1_2x_desc: "Dvojice motorů výrazně zvyšuje tah letounu, ovšem za cenu vyšší spotřeby a hmotnosti."
- engine_1_3x: "3x Motor I"
- engine_1_3x_desc: "Tři motory poskytují větší tah než dva, aniž by bylo nutné přidávat čtvrtý a dále zvyšovat náklady."
- engine_1_4x: "4x Motor I"
- engine_1_4x_desc: "Čtveřice motorů poskytuje dostatek tahu k vynesení těžkého letounu a umožňuje nést velkou bojovou zátěž."
- engine_1_6x: "6x Motor I"
- engine_1_6x_desc: "Šestice motorů umožňuje přepravu velkého nákladu na dlouhé vzdálenosti solidní rychlostí."
- engine_2_1x: "1x Motor II"
- engine_2_1x_desc: "Větší a výkonnější motor umožňuje vyšší rychlost a větší užitečné zatížení."
- engine_2_2x: "2x Motor II"
- engine_2_2x_desc: "$engine_1_2x_desc$"
- engine_2_3x: "3x Motor II"
- engine_2_3x_desc: "$engine_1_3x_desc$"
- engine_2_4x: "4x Motor II"
- engine_2_4x_desc: "$engine_1_4x_desc$"
- engine_2_6x: "6x Motor II"
- engine_2_6x_desc: "$engine_1_6x_desc$"
- engine_3_1x: "1x Motor III"
- engine_3_1x_desc: "Díky pokročilým funkcím, jako je vstřikování metanolu a automatické míchání, je tento motor schopen dosahovat výrazně vyššího výkonu."
- engine_3_2x: "2x Motor III"
- engine_3_2x_desc: "$engine_1_2x_desc$"
- engine_3_3x: "3x Motor III"
- engine_3_3x_desc: "$engine_1_3x_desc$"
- engine_3_4x: "4x Motor III"
- engine_3_4x_desc: "$engine_1_4x_desc$"
- engine_3_6x: "6x Motor III"
- engine_3_6x_desc: "$engine_1_6x_desc$"
- engine_4_1x: "1x Motor IV"
- engine_4_1x_desc: "Díky rozsáhlým konstrukčním úpravám, které umožňují využít všech možností zvýšení výkonu, představuje tento motor absolutní vrchol technologie pístových motorů."
- engine_4_2x: "2x Motor IV"
- engine_4_2x_desc: "$engine_1_2x_desc$"
- engine_4_3x: "3x Motor IV"
- engine_4_3x_desc: "$engine_1_3x_desc$"
- engine_4_4x: "4x Motor IV"
- engine_4_4x_desc: "$engine_1_4x_desc$"
- engine_4_6x: "6x Motor IV"
- engine_4_6x_desc: "$engine_1_6x_desc$"
- engines_1: "Motory I"
- engines_1_desc: "Motory letadel musí být výkonné, ale zároveň lehké a spolehlivé. Tento typ motoru poskytuje dostatečný výkon, aby letadlo dostalo do vzduchu, ale poněkud omezuje jeho plný potenciál."
- engines_2: "Motory II"
- engines_2_desc: "Rychlý rozvoj letadel vyžaduje odpovídající nárůst výkonu motorů."
- engines_3: "Motory III"
- engines_3_desc: "$engine_3_1x_desc$"
- engines_4: "Motory IV"
- engines_4_desc: "$engine_4_1x_desc$"
- fixed_explosive_charge: "Připevněná výbušnina"
- fixed_explosive_charge_desc: "Pevná kumulativní nálož promění letoun v létající bombu. Pokud je naveden na nepřátelskou loď, způsobí rozsáhlé škody - za cenu zničení stroje i oběti posádky."
- floats: "Plováky"
- floats_desc: "Soustava plováků umístěná pod trupem umožňuje letounu přistávat na vodní hladině. To usnadňuje průzkumné mise proti nepřátelským námořním silám, ale výrazně snižuje obratnost stroje."
- flying_boat_large: "$flying_boat_medium$"
- flying_boat_large_desc: "$flying_boat_medium_desc$"
- flying_boat_medium: "Létající člun"
- flying_boat_medium_desc: "Namísto klasického podvozku je spodní část trupu tvarována tak, aby umožňovala přistání na vodní hladině. To výrazně usnadňuje námořní průzkum."
- fuel_tanks_large: "$fuel_tanks_small$"
- fuel_tanks_large_desc: "$fuel_tanks_small_desc$"
- fuel_tanks_medium: "$fuel_tanks_small$"
- fuel_tanks_medium_desc: "$fuel_tanks_small_desc$"
- fuel_tanks_small: "Přídavné palivové nádrže"
- fuel_tanks_small_desc: "Vyhrazení většího vnitřního prostoru draku pro palivo zvyšuje dolet letadla, ale zároveň výrazně zvyšuje jeho hořlavost."
- guided_anti_ship_missile: "Řízená protilodní střela"
- guided_anti_ship_missile_desc: "Fakticky se jedná o protilodní pumu s raketovým pohonem a rádiovým naváděním. Tato nová zbraň představuje vážnou hrozbu pro veškeré lodě operující na moři."
- heavy_bomb_locks: "Závěsníky pro těžké pumy"
- heavy_bomb_locks_desc: "Závěsníky pro těžké pumy umístěné pod křídly nebo trupem umožňují letounu velmi účinně napadat pozemní cíle."
- heavy_bombs: "Těžké pumy"
- heavy_bombs_desc: "Moderní válka vyžaduje stále větší pumy pro útoky na nepřátelské cíle. Postupem času se jejich použití stalo nedílnou součástí leteckého boje."
- heavy_mg_2x: "2× těžký kulomet"
- heavy_mg_2x_desc: "Dvojice těžkých kulometů umožňuje prorazit zesílený vnější plášť moderních letounů."
- heavy_mg_4x: "4× těžký kulomet"
- heavy_mg_4x_desc: "Čtveřice těžkých kulometů poskytuje děsivou palebnou sílu - jak jednotlivě, tak objemem střelby."
- hmg_defense_turret: "Střelecká věž s těžkým kulometem"
- hmg_defense_turret_desc: "Těžký kulomet umístěný v otočné věži umožňuje obránci postavit se útočícímu stíhači se zbraněmi podobného kalibru s určitou šancí na úspěch."
- hmg_defense_turret_2x: "Dvojice střel. věží s těžkými kulomety"
- hmg_defense_turret_2x_desc: "Dvě střelecké věže s těžkými kulomety představují nebezpečný cíl pro jakýkoli útočící stíhací letoun."
- improved_large_airframe: "$large_plane_airframe_2$"
- improved_large_airframe_desc: "$large_plane_airframe_2_desc$"
- improved_medium_airframe: "$medium_plane_airframe_2$"
- improved_medium_airframe_desc: "$medium_plane_airframe_2_desc$"
- improved_rocket_propelled_bombs: "Těžké raketově poháněné pumy"
- improved_rocket_propelled_bombs_desc: "Ještě větší, raketově poháněné neřízené pumy s těžší hlavicí, které dokážou efektivněji pronikat do cíle."
- improved_small_airframe: "$small_plane_airframe_2$"
- improved_small_airframe_desc: "$small_plane_airframe_2_desc$"
- iw_large_airframe: "$large_plane_airframe_0$"
- iw_large_airframe_desc: "$large_plane_airframe_0_desc$"
- iw_medium_airframe: "$medium_plane_airframe_0$"
- iw_medium_airframe_desc: "$medium_plane_airframe_0_desc$"
- iw_small_airframe: "$small_plane_airframe_0$"
- iw_small_airframe_desc: "$small_plane_airframe_0_desc$"
- jet_engine_1x: "1x Proudový motor"
- jet_engine_1x_desc: "Tento složitý a nestabilní motor přináší zcela nový přístup k pohonu letounů a nabízí výrazně vyšší tah a rychlost."
- jet_engine_2x: "2x Proudový motor"
- jet_engine_2x_desc: "$engine_1_2x_desc$"
- jet_engine_3x: "3x Proudový motor"
- jet_engine_3x_desc: "$engine_1_3x_desc$"
- jet_engine_4x: "4x Proudový Motor"
- jet_engine_4x_desc: "$engine_1_4x_desc$"
- jet_engine_6x: "6x Proudový Motor"
- jet_engine_6x_desc: "$engine_1_6x_desc$"
- jet_engine_axial_1x: "1x Axiální proudový motor"
- jet_engine_axial_1x_desc: "Použitím vícestupňových axiálně uspořádaných kompresorů dokáže tento motor výrazně navýšit tah oproti jednoduchému proudovému motoru."
- jet_engine_axial_2x: "2x Axiální proudový motor"
- jet_engine_axial_2x_desc: "$engine_1_2x_desc$"
- jet_engine_axial_3x: "3x Axiální proudový motor"
- jet_engine_axial_3x_desc: "$engine_1_3x_desc$"
- jet_engine_axial_4x: "4x Axiální proudový motor"
- jet_engine_axial_4x_desc: "$engine_1_4x_desc$"
- jet_engine_axial_6x: "6x Axiální proudový motor"
- jet_engine_axial_6x_desc: "$engine_1_6x_desc$"
- large_aircraft_cannon_1x: "1x velký kanón"
- large_aircraft_cannon_1x_desc: "Střílí větší a silnější střely než předchozí typy automatických kanónů, i když s nižší úsťovou rychlostí. I jediný zásah může sestřelit velký letoun."
- large_aircraft_cannon_2x: "2x velký kanón"
- large_aircraft_cannon_2x_desc: "Dvojice těchto kanónů dává letounu obrovskou palebnou sílu, přičemž vyšší kadence výrazně zvyšuje šanci na ničivé zásahy."
- large_bomb_bay: "Velká pumovnice"
- large_bomb_bay_desc: "Velká pumovnice umožňuje nést dostatek výzbroje pro poškození nebo zničení i rozsáhlých továren a dalších odolných cílů."
- large_plane_airframe: "$strat_bomber_equipment$"
- large_plane_airframe_0: "Mezivál. velký drak"
- large_plane_airframe_0_desc: "Tento velmi velký trup má dostatek prostoru pro přepravu bomb nebo palivových nádrží. Nicméně je jasné, že jeho vývojový potenciál je vážně omezen. Nové generace strategických bombardérů jsou již na obzoru."
- large_plane_airframe_1: "Základní velký drak"
- large_plane_airframe_1_desc: "Tento drak byl navržen pro ověření potenciálu skutečného strategického bombardéru - schopného zasáhnout průmyslové cíle hluboko na nepřátelském území a bezpečně dopravit posádku zpět."
- large_plane_airframe_2: "Vylepš. velký drak"
- large_plane_airframe_2_desc: "S konceptem strategického bombardéru již ověřeným byl tento drak navržen pro zvýšení nosnosti a doletu, s dostatečným potenciálem pro další modernizaci."
- large_plane_airframe_3: "Pokročilý velký drak"
- large_plane_airframe_3_desc: "Optimalizován pro velmi dlouhé lety ve velké výšce, tento drak umožňuje nést značnou bombovou zátěž hluboko do týlu nepřítele."
- large_plane_airframe_4: "Moderní velký drak"
- large_plane_airframe_4_desc: "Proudový pohon představuje zásadní skok ve výkonu. Tento drak byl navržen tak, aby jeho potenciál plně využil."
- large_plane_airframe_desc: "Velký drak letounu s dostatečným prostorem pro až šest motorů a schopností přepravovat velké náklady na dlouhé vzdálenosti."
- large_plane_maritime_patrol_plane_airframe: "Námořní hlídkový bombardér"
- large_plane_maritime_patrol_plane_airframe_0: "Meziválečný drak pro námořní hlídkový letoun"
- large_plane_maritime_patrol_plane_airframe_0_desc: "Flotila potřebuje dálkové letouny k vyhledávání nepřátel daleko od pobřeží. Ačkoli je tento drak již poněkud zastaralý, nabízí potřebný dolet pro pokrytí rozsáhlých oblastí oceánu."
- large_plane_maritime_patrol_plane_airframe_1: "Základní drak pro námořní hlídkový letoun"
- large_plane_maritime_patrol_plane_airframe_1_desc: "Se vzestupem výkonnějších palubních letadel je třeba nalézt a zničit nepřátelské flotily daleko od pobřeží. Prvním krokem je jejich včasné odhalení na širém moři, což vyžaduje nový typ letounu."
- large_plane_maritime_patrol_plane_airframe_2: "Vylepšený drak pro námořní hlídkový letoun"
- large_plane_maritime_patrol_plane_airframe_2_desc: "Dvojí hrozba v podobě ponorek a nájezdových křižníků vyžaduje hlídkování rozsáhlých oceánských oblastí. Tento drak je pro tento úkol optimalizován."
- large_plane_maritime_patrol_plane_airframe_3: "Pokročilý drak pro námořní hlídkový letoun"
- large_plane_maritime_patrol_plane_airframe_3_desc: "Radar a další senzory umožňují detekci nepřátelských flotil i za špatného počasí nebo v noci. Všechno toto nové vybavení však vyžaduje větší drak, který jej unese."
- large_plane_maritime_patrol_plane_airframe_4: "Moderní drak pro námořní hlídkový letoun"
- large_plane_maritime_patrol_plane_airframe_4_desc: "S nástupem raketové éry musí být námořní hlídkové letouny schopny operovat ještě dále od pobřeží a po delší dobu."
- large_plane_maritime_patrol_plane_airframe_desc: "$large_plane_airframe_desc$"
- light_mg_2x: "2x lehký kulomet"
- light_mg_2x_desc: "Dvojice kulometů ráže puškového kalibru poskytuje lehkou palebnou podporu proti vzdušným cílům za velmi nízkou cenu."
- light_mg_4x: "4x lehký kulomet"
- light_mg_4x_desc: "I když tato čtveřice kulometů puškové ráže postrádá ničivý účinek, vynahrazuje to čistým objemem palby."
- lmg_defense_turret: "Střelecká věž s lehkým kulometem"
- lmg_defense_turret_2x: "Dvojice střel. věží s lehkými kulomety"
- lmg_defense_turret_2x_desc: "Sada dvou lehkých kulometů v elektricky poháněných otočných věžích pokrývá více úhlů a činí z letounu mnohem obtížnější cíl k napadení."
- lmg_defense_turret_desc: "I když je poněkud slabší pro vzdušný boj, lehký kulomet ve věži učiní jakýkoliv útok proti tomuto letadlu mnohem nebezpečnějším podnikem."
- medium_bomb_bay: "Střední pumovnice"
- medium_bomb_bay_desc: "Středně velká pumovnice umožňuje nést dostatečné množství výzbroje pro útok na širokou škálu cílů."
- medium_plane_airframe: "$tac_bomber_equipment$"
- medium_plane_airframe_0: "Mezivál. střední drak"
- medium_plane_airframe_0_desc: "Ačkoli je tento drak schopen nést významnou výzbroj na dlouhé vzdálenosti, jeho potenciál pro další rozvoj je silně omezen."
- medium_plane_airframe_1: "Základní střední drak"
- medium_plane_airframe_1_desc: "Začlenením několika nových technologií vyvinutých v poslední době je tento drak výrazně schopnější než předchozí letouny podobné velikosti."
- medium_plane_airframe_2: "Vylepš. střední drak"
- medium_plane_airframe_2_desc: "Využití moderních výrobních technologií umožňuje tomuto draku nést větší náklad na delší vzdálenosti."
- medium_plane_airframe_3: "Pokročilý střední drak"
- medium_plane_airframe_3_desc: "Navržený pro maximalizaci výkonu a nosnosti, tento drak představuje vrchol konvenčně poháněných letadel."
- medium_plane_airframe_4: "Moderní střední drak"
- medium_plane_airframe_4_desc: "S tím, jak se letadla na proudový pohon pravděpodobně stanou dominantními, inženýři začínají vyvíjet draky přizpůsobené pro proudový pohon."
- medium_plane_airframe_desc: "Středně velký drak s dvěma až čtyřmi motory a velkým vnitřním prostorem pro výzbroj, palivové nádrže nebo obranné vybavení."
- medium_plane_airframe_design_cost_factor: "Náklady na návrh středního draku"
- medium_plane_fighter_airframe: "$heavy_fighter_equipment$"
- medium_plane_fighter_airframe_0: "Meziválečný drak pro těžkou stíhačku"
- medium_plane_fighter_airframe_0_desc: "$medium_plane_airframe_0_desc$"
- medium_plane_fighter_airframe_1: "Základní drak pro těžkou stíhačku"
- medium_plane_fighter_airframe_1_desc: "$medium_plane_airframe_1_desc$"
- medium_plane_fighter_airframe_2: "Vylepšený drak pro těžkou stíhačku"
- medium_plane_fighter_airframe_2_desc: "$medium_plane_airframe_2_desc$"
- medium_plane_fighter_airframe_3: "Pokročilý drak pro těžkou stíhačku"
- medium_plane_fighter_airframe_3_desc: "$medium_plane_airframe_3_desc$"
- medium_plane_fighter_airframe_4: "Moderní drak pro těžkou stíhačku"
- medium_plane_fighter_airframe_4_desc: "$medium_plane_airframe_4_desc$"
- medium_plane_fighter_airframe_desc: "$medium_plane_airframe_desc$"
- medium_plane_scout_plane_airframe: "$scout_plane_equipment$"
- medium_plane_scout_plane_airframe_0: "Meziválečný drak pro průzkumné letadlo"
- medium_plane_scout_plane_airframe_0_desc: "$medium_plane_airframe_0_desc$"
- medium_plane_scout_plane_airframe_1: "Základní drak pro průzkumné letadlo"
- medium_plane_scout_plane_airframe_1_desc: "$medium_plane_airframe_1_desc$"
- medium_plane_scout_plane_airframe_2: "Vylepšený drak pro průzkumné letadlo"
- medium_plane_scout_plane_airframe_2_desc: "$medium_plane_airframe_2_desc$"
- medium_plane_scout_plane_airframe_3: "Pokročilý drak pro průzkumné letadlo"
- medium_plane_scout_plane_airframe_3_desc: "$medium_plane_airframe_3_desc$"
- medium_plane_scout_plane_airframe_4: "Moderní drak pro průzkumné letadlo"
- medium_plane_scout_plane_airframe_4_desc: "$medium_plane_airframe_4_desc$"
- medium_plane_scout_plane_airframe_desc: "$medium_plane_airframe_desc$"
- modern_large_airframe: "$large_plane_airframe_4$"
- modern_large_airframe_desc: "$large_plane_airframe_4_desc$"
- modern_medium_airframe: "$medium_plane_airframe_4$"
- modern_medium_airframe_desc: "$medium_plane_airframe_4_desc$"
- modern_small_airframe: "$small_plane_airframe_4$"
- modern_small_airframe_desc: "$small_plane_airframe_4_desc$"
- non_strategic_materials_large: "$non_strategic_materials_small$"
- non_strategic_materials_large_desc: "$non_strategic_materials_small_desc$"
- non_strategic_materials_medium: "$non_strategic_materials_small$"
- non_strategic_materials_medium_desc: "$non_strategic_materials_small_desc$"
- non_strategic_materials_small: "Použití běžných materiálů"
- non_strategic_materials_small_desc: "Nahrazením speciálně ošetřeného dřeva nebo tkaniny za hliník, kde to je možné, můžeme drasticky snížit spotřebu strategických materiálů. Dřevo a tkanina však špatně odolávají moderním zbraním."
- photo_reconnaisance: "Fotografický průzkum"
- photo_reconnaisance_desc: "Prvním jasným vojenským účelem letadla bylo najít nepřítele a informovat generály na zemi o jeho pozici. Toto stále zůstává jedním z nejběžnějších úkolů vojenského letectva."
- plane_modules_tech: "Moduly letadel"
- radio_navigation_1: "Rádiová navigace I"
- radio_navigation_1_desc: "Rádio přijímač, který naslouchá křížení dvou poměrně jednoduchých rádiových navigačních paprsků, což umožňuje najít cíl i v naprosté tmě."
- radio_navigation_2: "Rádiová navigace II"
- radio_navigation_2_desc: "Rádio přijímač, který také obsahuje několik pomůcek pro měření vzdálenosti, které bombardérovi ukazují přesný okamžik, kdy by měly být bomby vypuštěny, i když nemůže vidět cíl."
- range_improvements: "Prodloužení doletu"
- range_improvements_desc: "Zatímco se zdá být jasné, že přidání větší kapacity paliva zvýší dosah letadla, skutečné přidání této kapacity bez přílišného ovlivnění letových vlastností letadla není vůbec jednoduché."
- recon_camera: "Průzkumný fotoaparát"
- recon_camera_desc: "Sada fotoaparátů se speciálními objektivy, která umožňuje letadlu pořizovat přesné snímky nepřátelských formací a zařízení i z velké výšky."
- rocket_engine_1: "Raketový motor I"
- rocket_engine_1_desc: "Tento motor využívá řadu velmi nestabilních paliv a stejně nestabilní oxidant, což mu umožňuje vyvinout velmi vysoký tah a dosáhnout vysokých rychlostí, ale na úkor doletu."
- rocket_engine_2: "Raketový motor II"
- rocket_engine_2_desc: "Vylepšení spalovací komory a drobné úpravy směsi paliva umožňují ještě vyšší výkon, což však znamená odpovídající pokles doletu."
- rocket_engine_3: "Raketový motor III"
- rocket_engine_3_desc: ""
- rocket_propelled_bombs: "Raketové pumy"
- rocket_propelled_bombs_desc: "Raketové pumy, poháněné raketovým motorem, mohou způsobit značné poškození lodí a podobných obrněných větších cílů."
- rocket_rails: "Závěsníky raket"
- rocket_rails_desc: "Neřízené rakety nesené pod křídly. Protože jsou odpalovány směrem vpřed, pilot je může snáze zaměřit na cíl než klasické pumy."
- self_sealing_fuel_tanks_large: "$self_sealing_fuel_tanks_small$"
- self_sealing_fuel_tanks_large_desc: "$self_sealing_fuel_tanks_small_desc$"
- self_sealing_fuel_tanks_medium: "$self_sealing_fuel_tanks_small$"
- self_sealing_fuel_tanks_medium_desc: "$self_sealing_fuel_tanks_small_desc$"
- self_sealing_fuel_tanks_small: "Samotěsnicí palivové nádrže"
- self_sealing_fuel_tanks_small_desc: "Přidáním vrstvy speciálně ošetřené pryže okolo palivových nádrží je zásah nádrže méně kritický - nádrž se časem sama utěsní, čímž zabrání úniku paliva a zvýší šanci letadla na přežití."
- small_bomb_bay: "Malá pumovnice"
- small_bomb_bay_desc: "Malá vnitřní pumovnice zabudovaná do trupu snižuje aerodynamický odpor. Strukturální úpravy trupu však omezují možnost provádět prudké manévry při vzdušném boji."
- small_plane_airframe: "$fighter_equipment$"
- small_plane_airframe_0: "Mezivál. malý drak"
- small_plane_airframe_0_desc: "Od počátků Velké války prošlo letectví prudkým vývojem. Tento drak představuje vyvrcholení tehdejší konstrukční školy, ale je zřejmé, že jeho potenciál růstu je omezený."
- small_plane_airframe_1: "Základní malý drak"
- small_plane_airframe_1_desc: "V posledních letech se objevila řada nových technologií, které umožňují konstrukci výkonných, a přitom kompaktních letounů. Tento drak je prvním krokem na této cestě."
- small_plane_airframe_2: "Vylepš. malý drak"
- small_plane_airframe_2_desc: "Díky lepší aerodynamice a robustnější konstrukci tento drak jasně překonává základní verzi."
- small_plane_airframe_3: "Pokročilý malý drak"
- small_plane_airframe_3_desc: "Důkladně optimalizovaný pro výkon, tento drak představuje maximum, kterého lze dosáhnout u letadel s pístovým pohonem."
- small_plane_airframe_4: "Moderní malý drak"
- small_plane_airframe_4_desc: "Tento drak je navržen tak, aby využil vysoké rychlosti moderních motorů a řešil konstrukční problémy při letu v oblasti vysokých podzvukových rychlostí."
- small_plane_airframe_5: "Nadzvukový malý drak"
- small_plane_airframe_5_desc: "Tento vyspělý drak, schopný letu rychlostí Mach 1, představuje vrchol lidského technického umu."
- small_plane_airframe_desc: "Tento malý, jednomotorový nebo dvoumotorový letoun sice nese menší náklad, ale vyvažuje to rychlostí a obratností."
- small_plane_cas_airframe: "$CAS_equipment$"
- small_plane_cas_airframe_0: "Meziválečný drak pro leteckou podporu"
- small_plane_cas_airframe_0_desc: "$small_plane_airframe_0_desc$"
- small_plane_cas_airframe_1: "Základní drak pro leteckou podporu"
- small_plane_cas_airframe_1_desc: "$small_plane_airframe_1_desc$"
- small_plane_cas_airframe_2: "Vylepšený drak pro leteckou podporu"
- small_plane_cas_airframe_2_desc: "$small_plane_airframe_2_desc$"
- small_plane_cas_airframe_3: "Pokročilý drak pro leteckou podporu"
- small_plane_cas_airframe_3_desc: "$small_plane_airframe_3_desc$"
- small_plane_cas_airframe_4: "Moderní drak pro leteckou podporu"
- small_plane_cas_airframe_4_desc: "$small_plane_airframe_4_desc$"
- small_plane_cas_airframe_5: "$small_plane_airframe_5$"
- small_plane_cas_airframe_5_desc: "$small_plane_cas_airframe_5_desc$"
- small_plane_cas_airframe_desc: "$small_plane_airframe_desc$"
- small_plane_cas_airframe_design_cost_factor: "Náklady na návrh draka pro leteckou podporu"
- small_plane_naval_bomber_airframe: "$nav_bomber_equipment$"
- small_plane_naval_bomber_airframe_0: "Meziválečný drak pro námořní bombardér"
- small_plane_naval_bomber_airframe_0_desc: "$small_plane_airframe_0_desc$"
- small_plane_naval_bomber_airframe_1: "Základní drak pro námořní bombardér"
- small_plane_naval_bomber_airframe_1_desc: "$small_plane_airframe_1_desc$"
- small_plane_naval_bomber_airframe_2: "Vylepšený drak pro námořní bombardér"
- small_plane_naval_bomber_airframe_2_desc: "$small_plane_airframe_2_desc$"
- small_plane_naval_bomber_airframe_3: "Pokročilý drak pro námořní bombardér"
- small_plane_naval_bomber_airframe_3_desc: "$small_plane_airframe_3_desc$"
- small_plane_naval_bomber_airframe_4: "Moderní drak pro námořní bombardér"
- small_plane_naval_bomber_airframe_4_desc: "$small_plane_airframe_4_desc$"
- small_plane_naval_bomber_airframe_5: "$small_plane_airframe_5$"
- small_plane_naval_bomber_airframe_5_desc: "$small_plane_naval_bomber_airframe_5_desc$"
- small_plane_naval_bomber_airframe_desc: "$small_plane_airframe_desc$"
- small_plane_suicide_airframe: "$suicide_craft_equipment$"
- small_plane_suicide_airframe_0: "Meziválečný drak pro sebevražedné letadlo"
- small_plane_suicide_airframe_0_desc: "$small_plane_airframe_0_desc$"
- small_plane_suicide_airframe_1: "Základní drak pro sebevražedné letadlo"
- small_plane_suicide_airframe_1_desc: "$small_plane_airframe_1_desc$"
- small_plane_suicide_airframe_2: "Vylepšený drak pro sebevražedné letadlo"
- small_plane_suicide_airframe_2_desc: "$small_plane_airframe_2_desc$"
- small_plane_suicide_airframe_3: "Pokročilý drak pro sebevražedné letadlo"
- small_plane_suicide_airframe_3_desc: "$small_plane_airframe_3_desc$"
- small_plane_suicide_airframe_4: "Moderní drak pro sebevražedné letadlo"
- small_plane_suicide_airframe_4_desc: "$small_plane_airframe_4_desc$"
- small_plane_suicide_airframe_5: "$small_plane_airframe_5$"
- small_plane_suicide_airframe_5_desc: "$small_plane_airframe_5_desc$"
- small_plane_suicide_airframe_desc: "$small_plane_airframe_desc$"
- sp_centrifugal_jet_tech: "Odstředivý proudový motor"
- sp_centrifugal_jet_tech_desc: "Odstředivé proudové motory používají jednostupňový kompresor ke stlačení nasávaného vzduchu, který je následně spalován a vypouštěn tryskou, aby vytvořil tah. Díky této konstrukci jsou menší a snadněji udržovatelné."
- supersonic_small_airframe: "$small_plane_airframe_5$"
- supersonic_small_airframe_desc: "$small_plane_airframe_5_desc$"
- survivability_studies: "Studie přežitelnosti"
- survivability_studies_desc: "Pečlivým zkoumáním bojového poškození na vracejících se letounech můžeme přesně určit, které části konstrukce jsou pro přežití skutečně zásadní."
- tank_buster_1: "Protitankový kanón I"
- tank_buster_1_desc: "Tento kanón vychází z pozemního protitankového děla. Je schopen zničit i moderní tanky přesně mířeným zásahem, ale jeho vysoká hmotnost a nepraktická konstrukce výrazně snižují letové vlastnosti stroje."
- tank_buster_2: "Protitankový kanón II"
- tank_buster_2_desc: "Proti nově nasazeným těžkým tankům je zapotřebí výrazně větší kanón. Ačkoliv je velmi těžký a obtížně ovladatelný, při útocích na pozemní cíle je mimořádně účinný."
- torpedo_mounting: "Závěsníky pro lehká torpéda"
- torpedo_mounting_2: "Závěsníky pro střední torpéda"
- torpedo_mounting_2_desc: "Pevné body umožňující montáž těžkého torpéda pod trup. Letadlo tak získá účinnou zbraň, kterou lze použít proti nepřátelským lodím."
- torpedo_mounting_3: "Závěsníky pro těžká torpéda"
- torpedo_mounting_3_desc: "Hardpointy pro montáž těžkého torpéda pod trupem. To dává letadlu silnou zbraň proti nepřátelským lodím."
- torpedo_mounting_desc: "Pevné body umožňující montáž lehkého torpéda pod trup. Letadlo tak získá účinnou zbraň, kterou lze použít proti nepřátelským lodím."
+ plane_bba_radar_upgrade: "Radar" # todo: NEW TRANSLATION
+ plane_bba_engine_upgrade: "Motor" # todo: NEW TRANSLATION
+ plane_designer_scout_plane: "AWACS" # todo: NEW TRANSLATION
+ plane_designer_maritime_patrol_plane: "Námořní hlídkový/útočný" # todo: NEW TRANSLATION
+ plane_designer_suicide: "Dron/Transport" # todo: NEW TRANSLATION
+ plane_designer_tactical_bomber: "Víceúčelový" # todo: NEW TRANSLATION
+ plane_designer_fighter: "Vzdušná nadvláda" # todo: NEW TRANSLATION
+ ENGINE_INFO: "\n\n§GTip designéra: Motory poskytují různé výhody v závislosti na zvoleném počtu. U malých a středních letadel dvojité motory zvýší rychlost, tah a spolehlivost, ale zároveň budou vyžadovat více IC na výrobu.§!\n\n§BV případě čtyř, šesti a osmi motorových letadel více motorů poskytne zvýšený tah a spolehlivost, zatímco sníží rychlost a zvýší výrobní náklady.§!\n\n§RVrtulové motory budou obvykle levnější než jejich tryskové protějšky, spotřebují méně paliva a zásobování, budou mít menší rychlost, ale v porovnání mírně vyšší tah.§!" # todo: NEW TRANSLATION
+ adjuster_mission_paradrop: "Seskokové jednotky" # todo: NEW TRANSLATION
+ adjuster_mission_air_supply: "Letecké zásobování" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_main_weapon_slot_TITLE: "Primární zbraň" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_gun_slot_TITLE: "Vnitřní zbraň / rozšířený náklad" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE: "Sekundární zbraň" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_2_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_3_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_4_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_engine_type_slot_TITLE: "Typ motoru" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_wingform_type_slot_TITLE: "Tvar křídla" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_avionics_type_slot_TITLE: "Avionika" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_special_slot_type_1_TITLE: "Speciální vybavení" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_special_slot_type_2_TITLE: "$EQ_MOD_SLOT_special_slot_type_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_special_slot_type_3_TITLE: "$EQ_MOD_SLOT_special_slot_type_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_special_slot_type_4_TITLE: "$EQ_MOD_SLOT_special_slot_type_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_SLOT_special_slot_type_5_TITLE: "$EQ_MOD_SLOT_special_slot_type_1_TITLE$" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_refueling_systems_TITLE: "Prodloužení doletu" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_asw_systems_TITLE: "Protiponorkové boje" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_recon_tgp_systems_TITLE: "Fotorekognosance / cílovací pod" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_redundant_systems_TITLE: "Redundantní systémy" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_protective_materials_TITLE: "Ochranné materiály" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_stealth_shape_TITLE: "Stealth tvarování" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_stealth_materials_TITLE: "Stealth materiály" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_countermeasures_TITLE: "Obranná protiopatření" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_internal_bays_TITLE: "Vnitřní zbraňové šachty" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_thrust_vectoring_TITLE: "Motory s vektorováním tahu" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_wingforms_TITLE: "Konstrukce křídel" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_avionics_TITLE: "Avionika" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_light_single_TITLE: "Lehký jednoproudový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_light_double_TITLE: "Lehký dvojproudový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_jet_single_TITLE: "Jednomotorový proudový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_jet_double_TITLE: "Dvoumotorový proudový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_jet_quad_TITLE: "Čtyřmotorový turbofan" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_jet_six_TITLE: "Šestimotorový turbofan" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_jet_eight_TITLE: "Osmimotorový turbofan" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_prop_single_TITLE: "Jednomotorový vrtulový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_prop_double_TITLE: "Dvoumotorový vrtulový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_prop_quad_TITLE: "Čtyřmotorový vrtulový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_prop_six_TITLE: "Šestimotorový vrtulový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_prop_eight_TITLE: "Osmimotorový vrtulový" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_solar_single_TITLE: "Jednomotorový solární" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_solar_double_TITLE: "Dvoumotorový solární" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_nuclear_eight_TITLE: "Osmimotorový jaderný" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_heavy_modules_TITLE: "Kapacita nákladu" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_heavy_strike_modules_TITLE: "Paletizované zbraně" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_bomb_bay_TITLE: "Bombový prostor" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_nav_weapons_TITLE: "Těžké závěsné body" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_heavy_nav_weapons_TITLE: "Námořní závěsné body" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_awacs_module_TITLE: "Systémy AWACS" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_gunship_modules_TITLE: "Zbraně gunshipů" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_fighter_weapons_TITLE: "Lehké závěsné body" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_intercept_weapons_TITLE: "Závěsné body vzduch–vzduch" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_multipurpose_gun_TITLE: "Palubní zbraně" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_cas_weapons_TITLE: "Závěsné body pro CAS" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_guided_bombs_TITLE: "Střední závěsné body" # todo: NEW TRANSLATION
+ EQ_MOD_CAT_plane_drone_systems_TITLE: "Systémy dronů" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_AIRFRAME: "Trupy letadel" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_ENGINE: "Motory a palivo" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_WINGFORM: "Konstrukce křídel a materiály" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_NAVWEAP: "Námořní zbraně a MAD" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_AGWEAP: "Zbraně vzduch–země a TGP" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_AAWEAP: "Zbraně vzduch–vzduch a protiopatření" # todo: NEW TRANSLATION
+ AIR_TITLE_PLANE_AVIONICS: "Avionika a technologie dronů" # todo: NEW TRANSLATION
+ plane_aadesc: "" # todo: NEW TRANSLATION
+ plane_agdesc: "" # todo: NEW TRANSLATION
+ plane_navweapdesc: "" # todo: NEW TRANSLATION
+ plane_wingformdesc: "" # todo: NEW TRANSLATION
+ plane_enginesdesc: "" # todo: NEW TRANSLATION
+ plane_airframesdesc: "" # todo: NEW TRANSLATION
+ plane_avionicsdesc: "" # todo: NEW TRANSLATION
+ bba_aircraft_folder: "Letadla s pevným křídlem" # todo: NEW TRANSLATION
+ bba_aircraft_folder_desc: "Trupy letadel a moduly letadel" # todo: NEW TRANSLATION
+ gen_3_light: "Lehké letouny 3. generace" # todo: NEW TRANSLATION
+ gen_3_light_desc: "Víceúčelová letadla, která vznikla díky technologickému pokroku a zkušenostem z válek v Koreji a Vietnamu. Tato letadla jsou schopna nést vzduch–země střely a laserem naváděné pumy, a přitom stále schopna vedení bojů BVR. Další vylepšení zahrnují systémy varování před terénem, pulzně-dopplerovy radary a schopnosti cílení bez přímého vizuálního kontaktu." # todo: NEW TRANSLATION
+ gen_4_light: "Lehké letouny 4. generace" # todo: NEW TRANSLATION
+ gen_4_light_desc: "Po úspěchu víceúčelových letadel třetí generace pokračoval vývoj čtvrté generace s využitím technologických a inženýrských pokroků. Fly-by-wire systémy, zlepšené poměry tahu k hmotnosti, pokročilá avionika a počátky stealth technologií vzešly z této generace letadel." # todo: NEW TRANSLATION
+ gen_5_light: "Lehké letouny 5. generace" # todo: NEW TRANSLATION
+ gen_5_light_desc: "Velké pokroky ve stealth technologiích, C3 systémech, chytrých přilbách, fúzi dat a senzorů a další se objevily s vývojem letadel 5. generace. Tato letadla byla mnohem více nenápadná díky dalším stealth vylepšením a zásadnímu pokroku v materiálech, elektronice a technologiích motorů." # todo: NEW TRANSLATION
+ gen_6_light: "Lehké letouny 6. generace" # todo: NEW TRANSLATION
+ gen_6_light_desc: "Letouny 6. generace představují špičkové experimentální technologie leteckého boje. Jsou nákladné na vývoj i výrobu, zahrnují nejmodernější stealth materiály, avioniku, droní wingmeny, přesné zbraňové systémy a další." # todo: NEW TRANSLATION
+ gen_3_medium: "Střední letouny 3. generace" # todo: NEW TRANSLATION
+ gen_3_medium_desc: "$gen_3_light_desc$" # todo: NEW TRANSLATION
+ gen_4_medium: "Střední letouny 4. generace" # todo: NEW TRANSLATION
+ gen_4_medium_desc: "$gen_4_light_desc$" # todo: NEW TRANSLATION
+ gen_5_medium: "Střední letouny 5. generace" # todo: NEW TRANSLATION
+ gen_5_medium_desc: "$gen_5_light_desc$" # todo: NEW TRANSLATION
+ gen_6_medium: "Střední letouny 6. generace" # todo: NEW TRANSLATION
+ gen_6_medium_desc: "$gen_6_light_desc$" # todo: NEW TRANSLATION
+ gen_3_large: "Těžké letouny 3. generace" # todo: NEW TRANSLATION
+ gen_3_large_desc: "$gen_3_light_desc$" # todo: NEW TRANSLATION
+ gen_4_large: "Těžké letouny 4. generace" # todo: NEW TRANSLATION
+ gen_4_large_desc: "$gen_4_light_desc$" # todo: NEW TRANSLATION
+ gen_5_large: "Těžké letouny 5. generace" # todo: NEW TRANSLATION
+ gen_5_large_desc: "$gen_5_light_desc$" # todo: NEW TRANSLATION
+ gen_6_large: "Těžké letouny 6. generace" # todo: NEW TRANSLATION
+ gen_6_large_desc: "$gen_6_light_desc$" # todo: NEW TRANSLATION
+ dummy_equipment_1: "" # todo: NEW TRANSLATION
+ dummy_equipment_2: "" # todo: NEW TRANSLATION
+ dummy_equipment_3: "" # todo: NEW TRANSLATION
+ dummy_equipment_4: "" # todo: NEW TRANSLATION
+ early_airframe_designs: "Základní principy konstrukce raných letadel" # todo: NEW TRANSLATION
+ early_airframe_designs_desc: "Základní konstrukční principy pro všechna letadla. Tvar křídel, základní motory, ochranné a redundantní systémy a další. Tyto principy umožňují státům začít vyvíjet reálné bojové trupové konstrukce." # todo: NEW TRANSLATION
+ avionics_1: "Avionika 2. generace" # todo: NEW TRANSLATION
+ avionics_1_desc: "S nástupem modernější technologie se letadla stala pokročilejšími. Analogové přístroje stále zůstávaly, ale byly doplněny Head-Up Displayem, který pilotům umožňoval sledovat boj, aniž by opouštěli pohled z prostoru před sebou, zatímco měli veškeré potřebné informace pro řízení a boj." # todo: NEW TRANSLATION
+ avionics_2: "Avionika 3. generace" # todo: NEW TRANSLATION
+ avionics_2_desc: "Skleněné kokpity snížily potřebu analogových přístrojů na pouhé záložky. Přidání více multi-funkčních displejů dalo pilotům rychlejší a podrobnější přístup k letounu a zbraním a umožnilo i počáteční implementaci datalinku." # todo: NEW TRANSLATION
+ avionics_3: "Avionika 4. generace" # todo: NEW TRANSLATION
+ avionics_3_desc: "Ultramoderní přilby přenášejí HUD z čelního panelu přímo do přilby pilota. Senzory kolem letadla dokonce umožňují pilotovi vidět skrz vlastní stroj, čímž získává bezprecedentní situační povědomí na moderním bojišti." # todo: NEW TRANSLATION
+ drone_1: "Systémy dronů 1. generace" # todo: NEW TRANSLATION
+ drone_1_desc: "Raně droní systémy umožňovaly průzkumné lety bezpilotních letadel, poskytující velitelům přehled o bojišti bez rizika pro posádku." # todo: NEW TRANSLATION
+ drone_2: "Systémy dronů 2. generace" # todo: NEW TRANSLATION
+ drone_2_desc: "Na základě úspěchů bezpilotních systémů se vyvíjely schopnosti nést zbraně, což umožnilo dronům začít útočit na pozemní cíle během misí." # todo: NEW TRANSLATION
+ drone_3: "Systémy dronů 3. generace" # todo: NEW TRANSLATION
+ drone_3_desc: "S rozvojem AI technologií začali konstruktéři a ozbrojené síly experimentovat se vzdušným bojovým AI a s vývojem dronů dostatečně pokročilých, aby mohly asistovat i ve vzduch–vzduch bojích." # todo: NEW TRANSLATION
+ drone_4: "Systémy dronů 4. generace" # todo: NEW TRANSLATION
+ drone_4_desc: "Droni, přezdívaní Loyal Wingmen, začínají létat bok po boku s pokročilými letouny. Jsou téměř prodloužením svého velícího pilota, schopni létat a bojovat téměř stejně dobře jako lidsky školení piloti, bez fyzických omezení člověka." # todo: NEW TRANSLATION
+ awacs_1: "AWACS ze studené války" # todo: NEW TRANSLATION
+ awacs_1_desc: "Obrovské radary ve vzduchu umožnily nejen lepší kontrolu a řízení vzdušného boje, ale i lepší průzkum vzdušné a pozemní války veliteli." # todo: NEW TRANSLATION
+ awacs_2: "Moderní AWACS" # todo: NEW TRANSLATION
+ awacs_2_desc: "Pokroky v datalinkových schopnostech a v samotných radarových technologiích umožňují AWACS letadlům nejen sledovat vzdušný boj, ale i jej řídit, čímž zvyšují schopnosti průzkumu a vzdušné nadvlády jakéhokoliv moderního letectva." # todo: NEW TRANSLATION
+ awacs_3: "AWACS budoucnosti" # todo: NEW TRANSLATION
+ awacs_3_desc: "Datalinky z dronů, asistence AI při zpracování informací a ještě lepší senzory umožňují těmto AWACS stát se skutečným velením a řízením vzdušné války." # todo: NEW TRANSLATION
+ engines_2: "Motory ze studené války" # todo: NEW TRANSLATION
+ engines_2_desc: "O krok nad motory používané u prvních proudových letadel; tyto motory pokračovaly ve vývoji tryskové technologie a začaly experimentovat s využitím motorů pro vertikální vzlet a přistání." # todo: NEW TRANSLATION
+ engines_3: "Motory téměř moderní" # todo: NEW TRANSLATION
+ engines_3_desc: "Téměř ekvivalent moderních tryskových motorů; tyto jednotky měly výrazně lepší poměr tahu k hmotnosti a první varianty experimentovaly s využitím tahu motoru pro pomoc při manévrování letadla." # todo: NEW TRANSLATION
+ engines_4: "Moderní motory" # todo: NEW TRANSLATION
+ engines_4_desc: "Snaží se zlepšit spotřebu paliva a spolehlivost; tyto motory představují špičku výkonu pro svou éru leteckého boje." # todo: NEW TRANSLATION
+ engines_5: "Motory budoucnosti" # todo: NEW TRANSLATION
+ engines_5_desc: "Ramjet a hypersonické motory - to jsou stroje budoucnosti. Velmi schopné, ale vyžadující rozsáhlé dodavatelské řetězce pro výrobu a údržbu; dokážou posunout letouny rychleji a dál." # todo: NEW TRANSLATION
+ nuclear_engines: "Jaderné motory" # todo: NEW TRANSLATION
+ nuclear_engines_desc: "Koncept motoru vzniklý z odvážných rozhodnutí éry studené války, spoléhající na jadernou energii k dosažení téměř nekonečného doletu a schopnosti zůstat ve vzduchu, dokud je možné zásobovat posádku." # todo: NEW TRANSLATION
+ refueling_1: "Konformní palivové nádrže" # todo: NEW TRANSLATION
+ refueling_1_desc: "Externí palivové nádrže navržené tak, aby výrazně rozšířily operační dolet letadla, aniž by kompromitovaly aerodynamiku." # todo: NEW TRANSLATION
+ refueling_2: "Doplňování paliva za letu" # todo: NEW TRANSLATION
+ refueling_2_desc: "Vyvinuto k dalšímu prodloužení operačního dosahu letadel; tankery mohou dodat značné množství paliva, umožňující doplnění před i po splnění mise." # todo: NEW TRANSLATION
+ solar_engines_1: "Rané solární motory" # todo: NEW TRANSLATION
+ solar_engines_1_desc: "Využití solárních panelů k dobíjení baterií letadla v letu; tyto stroje používají elektrické nebo hybridní pohony k prodloužení doby letu bez potřeby dalšího paliva. To však přichází za cenu křehkosti a menší obratnosti." # todo: NEW TRANSLATION
+ solar_engines_2: "Dvojité solární motory" # todo: NEW TRANSLATION
+ solar_engines_2_desc: "Stejné koncepční řešení jako u jednoho solárního motoru, avšak s dvojitou soustavou pro větší tah a vyšší maximální rychlost, ovšem s malým zlepšením obratnosti či odolnosti." # todo: NEW TRANSLATION
+ flying_wing_design: "Létající křídlo" # todo: NEW TRANSLATION
+ flying_wing_design_desc: "Létající křídlo je bezocasé pevné křídlo, které nemá zjevný trup; posádka, náklad, palivo a vybavení jsou umístěny uvnitř hlavní křídelné konstrukce. Může mít různé malé vyvýšeniny jako podvěsy, gondoly, průduchy, výčnělky nebo vertikální stabilizátory." # todo: NEW TRANSLATION
+ variable_wing_design: "Variabilní tvar křídla" # todo: NEW TRANSLATION
+ variable_wing_design_desc: "Proměnné šípování křídla, běžně označované jako \"swing wing\", je uspořádání křídel, které může být během letu odklopeno dozadu a poté vráceno do původní přímé polohy. Umožňuje měnit tvar letadla v průběhu letu a je tedy příkladem letadla s proměnnou geometrií." # todo: NEW TRANSLATION
+ delta_wing_design: "Delta křídlo" # todo: NEW TRANSLATION
+ delta_wing_design_desc: "Delta křídlo má tvar trojúhelníku. Jméno vychází z podobnosti tvaru s velkým řeckým písmenem delta." # todo: NEW TRANSLATION
+ diamond_wing_design: "Diamantové křídlo" # todo: NEW TRANSLATION
+ diamond_wing_design_desc: "Další vylepšení deltovitých tvarů; diamantová křídla zlepšují letové vlastnosti letadla." # todo: NEW TRANSLATION
+ fwdswept_wing_design: "Křídlo se šípem dopředu" # todo: NEW TRANSLATION
+ fwdswept_wing_design_desc: "Křídlo se šípem dopředu (nebo obráceně šípové křídlo) je konfigurace, kde čtvrtina šňůry křídla má směr dopředu. Obvykle má i přední hrana křídla šíp směřující dopředu." # todo: NEW TRANSLATION
+ future_wingform_designs: "Budoucí návrhy křídel" # todo: NEW TRANSLATION
+ future_wingform_designs_desc: "Kombinací poznatků z předchozích tvarů křídel a s ohledem na obrovskou potřebu stealth v moderním vzdušném boji se tyto tvary snaží maximalizovat schopnosti letadla při minimalizaci jeho zpozorovatelnosti." # todo: NEW TRANSLATION
+ stealth_tech_1: "Raná stealth technologie" # todo: NEW TRANSLATION
+ stealth_tech_1_desc: "Tato generace výzkumu a vývoje přinesla první stealth prvky a uvedla éru nízké zpozorovatelnosti a stealth letadel, schopných provádět útoky bez toho, aby byly snadno detekovány." # todo: NEW TRANSLATION
+ stealth_tech_2: "Stealth blízké budoucnosti" # todo: NEW TRANSLATION
+ stealth_tech_2_desc: "S tím, jak se radarové technologie zlepšovaly a staré techniky přestávaly fungovat, byly nutné další pokroky v stealth materiálech a konstrukčních principech letadel." # todo: NEW TRANSLATION
+ internal_weapons_1: "Vnitřní zbraňové šachty" # todo: NEW TRANSLATION
+ internal_weapons_1_desc: "Ve snaze zvýšit stealth schopnosti letounů navrhli konstruktéři umisťovat zbraně dovnitř trupu letadla, čímž se dále snižovala jeho pozorovatelnost." # todo: NEW TRANSLATION
+ internal_weapons_2: "Rozšířené vnitřní šachty" # todo: NEW TRANSLATION
+ internal_weapons_2_desc: "Po stížnostech pilotů na omezenou kapacitu vnitřních šachet se konstruktéři snažili tyto šachty zvětšit, aby zvýšili užitečné zatížení." # todo: NEW TRANSLATION
+ redundant_1: "Ochranné technologie 1" # todo: NEW TRANSLATION
+ redundant_1_desc: "Redundance v systémech fly-by-wire a dalších elektrických systémech zvyšují spolehlivost letadla. Zároveň raný vývoj samoopravitelných materiálů zvyšuje odolnost vůči poškození." # todo: NEW TRANSLATION
+ redundant_2: "Ochranné technologie 2" # todo: NEW TRANSLATION
+ redundant_2_desc: "Sekundární řídicí systémy letu a autopilot umožňují letadlu zůstat ve vzduchu i v případě selhání primárních řídicích systémů nebo poškození bojem, zatímco další vylepšení samoopravných materiálů zlepšují odolnost vůči poškození." # todo: NEW TRANSLATION
+ early_weapons: "Rané letecké zbraně" # todo: NEW TRANSLATION
+ early_weapons_desc: "Kulomety a kanóny nízkých i vysokých ráží; tyto zbraně umožňují letadlu prostě zamířit a střílet, bez moderních pokročilých systémů navádění či přesné munice." # todo: NEW TRANSLATION
+ naval_weapons_1: "Námořní zbraně ze studené války" # todo: NEW TRANSLATION
+ naval_weapons_1_desc: "Raně protizemní střely a naváděné torpéda umožnily letadlům útočit na lodě na vzdálenost bez nutnosti klesat do ponoru proti cíli." # todo: NEW TRANSLATION
+ naval_weapons_2: "Námořní zbraně blízké moderním" # todo: NEW TRANSLATION
+ naval_weapons_2_desc: "Pokroky v navádění a doletu umožnily zasahovat cíle z větší vzdálenosti a zlepšit šance na zajištění zásahu." # todo: NEW TRANSLATION
+ naval_weapons_3: "Moderní námořní zbraně" # todo: NEW TRANSLATION
+ naval_weapons_3_desc: "Tyto zbraně umějí provádět složité trajektorie k cíli, provádět 'pop-up' útoky a lépe odolávat nepřátelským protiopatřením." # todo: NEW TRANSLATION
+ naval_weapons_4: "Budoucí námořní zbraně" # todo: NEW TRANSLATION
+ naval_weapons_4_desc: "Skládají se z pokročilých naváděných torpéd a hypersonických protilodních střel; mají výrazně větší dosah a nosnost, schopny zničit nepřátelské síly s minimální spotřebou." # todo: NEW TRANSLATION
+ special_mad_1: "Protiponorková technologie ze studené války" # todo: NEW TRANSLATION
+ special_mad_1_desc: "Sesílané sonobuoy umožnily letadlům pomáhat s lovem ponorek; letadla mohla pokrýt velké oblasti na dlouhé vzdálenosti při provádění ASW operací." # todo: NEW TRANSLATION
+ special_mad_2: "Moderní protiponorková technologie" # todo: NEW TRANSLATION
+ special_mad_2_desc: "S nástupem MAD zařízení a 'dipping' sonaru se letadla stala proti ponorkám ještě nebezpečnějšími, protože dokázala snáze detekovat a sledovat kontakt bez nutnosti nasazení sonobuoy." # todo: NEW TRANSLATION
+ special_mad_3: "Budoucí protiponorková technologie" # todo: NEW TRANSLATION
+ special_mad_3_desc: "Ještě pokročilejší sonarové detekční systémy dovolují letadlům detekovat, sledovat a ničit ponorkové hrozby v námořních střetnutích." # todo: NEW TRANSLATION
+ ag_weapons_1: "Vzduch–země zbraně ze studené války" # todo: NEW TRANSLATION
+ ag_weapons_1_desc: "Raně vzduch–země zbraně se skládaly z malých výbušnin a raných laserem naváděných systémů, což umožnilo přesnější udeření na cíl než za 2. světové války." # todo: NEW TRANSLATION
+ ag_weapons_2: "Vzduch–země zbraně blízké moderním" # todo: NEW TRANSLATION
+ ag_weapons_2_desc: "Pokroky v konstrukci zbraní umožnily vložit více nálože a učinily laserem naváděné zbraně přesnějšími, což umožnilo provádět přesné bombardování." # todo: NEW TRANSLATION
+ ag_weapons_3: "Moderní vzduch–země zbraně" # todo: NEW TRANSLATION
+ ag_weapons_3_desc: "Vysoce penetrační munice a GPS navádění poskytují maximální přesnost zásahu, což letadlům umožňuje ničit cíle efektivněji." # todo: NEW TRANSLATION
+ ag_weapons_4: "Budoucí vzduch–země zbraně" # todo: NEW TRANSLATION
+ ag_weapons_4_desc: "Výrazné pokroky v stand-off zbraních a aerodynamických bombách umožňují rychlé ničení cílů, někdy aniž by letoun vstoupil do dosahu protivníka." # todo: NEW TRANSLATION
+ tgp_recon_1: "Cílovací pody ze studené války" # todo: NEW TRANSLATION
+ tgp_recon_1_desc: "Raně cílovací pody umožňovaly lasovat cíle pro laserem naváděné zbraně a zároveň zlepšily průzkumné schopnosti letadel." # todo: NEW TRANSLATION
+ tgp_recon_2: "Moderní cílovací pody" # todo: NEW TRANSLATION
+ tgp_recon_2_desc: "Lepší snímání, implementace FLIR a schopnost předávat GPS souřadnice do letadel a zbraní znamenaly velký pokrok oproti starším podům." # todo: NEW TRANSLATION
+ tgp_recon_3: "Cílovací pody budoucnosti" # todo: NEW TRANSLATION
+ tgp_recon_3_desc: "Fúze senzorů, datalink a další schopnosti činí z cílovacích podů silný násobič síly pro trup letadla." # todo: NEW TRANSLATION
+ gunship_1: "Malokaliberní zbraně pro gunshipy" # todo: NEW TRANSLATION
+ gunship_1_desc: "Aby byla zajištěna dlouhodobá letecká podpora pozemních sil, byla nákladní letadla upravena k osazení minigunů, poskytujících velký objem palby proti měkkým a lehce pancéřovaným cílům." # todo: NEW TRANSLATION
+ gunship_2: "Velkokaliberní zbraně pro gunshipy" # todo: NEW TRANSLATION
+ gunship_2_desc: "Na základě úspěchu raných gunshipů byly přidány těžší zbraně, včetně 30mm a 40mm automatických kanónů a přímopálicích 105mm+ děl." # todo: NEW TRANSLATION
+ air_weapons_1: "Vzduch–vzduch zbraně ze studené války" # todo: NEW TRANSLATION
+ air_weapons_1_desc: "První střely měly mnoho problémů, ale přinesly velké výhody; letadlo mohlo zasáhnout cíl dříve, než se dostal do vizuálního dosahu. Střednědobé poloaktivní radarem naváděné střely a zadně-aspektové IR střely se staly normou." # todo: NEW TRANSLATION
+ air_weapons_2: "Moderní vzduch–vzduch zbraně" # todo: NEW TRANSLATION
+ air_weapons_2_desc: "S technologickým pokrokem se zlepšily i naváděcí systémy. Dlouhodosahové vzduch–vzduch střely se staly běžnými, zejména s příchodem výkonnějších radarů. Všesměrové IR střely a aktivně radarem naváděné střely umožnily efektivnější zásahy." # todo: NEW TRANSLATION
+ air_weapons_3: "Vzduch–vzduch zbraně blízké budoucnosti" # todo: NEW TRANSLATION
+ air_weapons_3_desc: "Datalinkové zbraně, vysoké off-aspect schopnosti a HMCS cílení pro zbraňové systémy činí vzdušný boj ještě nebezpečnějším." # todo: NEW TRANSLATION
+ air_weapons_4: "Vzduch–vzduch zbraně budoucnosti" # todo: NEW TRANSLATION
+ air_weapons_4_desc: "Tri-režimové vyhledávače, vícepulsové motory a hypermanévrovatelné střely dělají z těchto zbraní nejnebezpečnější vzduch–vzduch střely, jaké kdy byly." # todo: NEW TRANSLATION
+ rocket_weapons_1: "Nevedené rakety ze studené války" # todo: NEW TRANSLATION
+ rocket_weapons_1_desc: "Raně raketové kontejnery poskytly rychlou metodu zasáhnout cíle nasycením výbušninami za výrazně nižší cenu než naváděná munice." # todo: NEW TRANSLATION
+ rocket_weapons_2: "Moderní nevedené rakety" # todo: NEW TRANSLATION
+ rocket_weapons_2_desc: "Přesnější rakety a pokroky ve vrcholných hlavicích znamenaly významný krok vpřed oproti starším systémům, přičemž zůstávají levným a efektivním způsobem podpory a úderu." # todo: NEW TRANSLATION
+ countermeasures_1: "Raná protiopatření" # todo: NEW TRANSLATION
+ countermeasures_1_desc: "S nástupem střel potřebovala letadla způsob, jak se bránit, který by nespoléhal jen na únik nebo vyhýbání. Chaff a flary poskytly návnady, které pilotům pomáhaly klamat přilétající hrozby." # todo: NEW TRANSLATION
+ countermeasures_2: "Moderní protiopatření" # todo: NEW TRANSLATION
+ countermeasures_2_desc: "S rychlejšími a chytřejšími počítači bylo snazší automatizovat určité úkoly. Tyto systémy mohou automaticky nasadit protiopatření v optimálním okamžiku, aby maximalizovaly šanci na vyhnutí se útoku." # todo: NEW TRANSLATION
+ countermeasures_3: "Elektronické protiopatření" # todo: NEW TRANSLATION
+ countermeasures_3_desc: "S převahou BVR boje se schopnost zabránit nepříteli vás spatřit nebo na vás zaměřit stala klíčovou. Rušičky a integrované jammery umožňují naplnit radar nepřítele falešnými vráceními, vyžadujícími velký výkon k překonání." # todo: NEW TRANSLATION
+ countermeasures_4: "Laserová hard-kill protiopatření" # todo: NEW TRANSLATION
+ countermeasures_4_desc: "S tím, jak se střely stávají těžšími na oklamání, mise se přesouvá od vyhýbání k ničení. Tyto systémy používají vysoce výkonné lasery k deaktivaci naváděcích systémů přilétající střely nebo k jejímu odpálení před dosažením cíle." # todo: NEW TRANSLATION
+ rapid_dragon: "Paletizované ALCM" # todo: NEW TRANSLATION
+ rapid_dragon_desc: "Když státy experimentují s nasazováním zbraní, palety navržené k odpalování ALCM přímo z transportního letadla rychle mění roli, kterou mohou velké transporty plnit." # todo: NEW TRANSLATION
+ small_plane_airframe_1: "Lehký stíhač 3. generace" # todo: NEW TRANSLATION
+ small_plane_airframe_2: "Lehký stíhač 4. generace" # todo: NEW TRANSLATION
+ small_plane_airframe_3: "Lehký stíhač 5. generace" # todo: NEW TRANSLATION
+ small_plane_airframe_4: "Lehký stíhač 6. generace" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_1: "Lehký víceúčelový stíhač 3. generace" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_2: "Lehký víceúčelový stíhač 4. generace" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_3: "Lehký víceúčelový stíhač 5. generace" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_4: "Lehký víceúčelový stíhač 6. generace" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_1: "Lehký CAS letoun 3. generace" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_2: "Lehký CAS letoun 4. generace" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_3: "Lehký CAS letoun 5. generace" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_4: "Lehký CAS letoun 6. generace" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_1: "Lehký námořní bombardér 3. generace" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_2: "Lehký námořní bombardér 4. generace" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_3: "Lehký námořní bombardér 5. generace" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_4: "Lehký námořní bombardér 6. generace" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_1: "Dron 3. generace" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_2: "Dron 4. generace" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_3: "Dron 5. generace" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_4: "Dron 6. generace" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_1: "Palubní lehký stíhač 3. generace" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_2: "Palubní lehký stíhač 4. generace" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_3: "Palubní lehký stíhač 5. generace" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_4: "Lehký nosičový stíhač 6. generace" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_1: "Lehký nosičový víceúčelový stíhač 3. generace" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_2: "Lehký nosičový víceúčelový stíhač 4. generace" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_3: "Lehký nosičový víceúčelový stíhač 5. generace" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_4: "Lehký nosičový víceúčelový stíhač 6. generace" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_1: "Lehký nosičový CAS letoun 3. generace" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_2: "Lehký nosičový CAS letoun 4. generace" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_3: "Lehký nosičový CAS letoun 5. generace" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_4: "Lehký nosičový CAS letoun 6. generace" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_1: "Nosičový námořní bombardér 3. generace" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_2: "Nosičový námořní bombardér 4. generace" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_3: "Nosičový námořní bombardér 5. generace" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_4: "Nosičový námořní bombardér 6. generace" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_1: "Nosičový dron 3. generace" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_2: "Nosičový dron 4. generace" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_3: "Nosičový dron 5. generace" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_4: "Nosičový dron 6. generace" # todo: NEW TRANSLATION
+ medium_plane_airframe_1: "Víceúčelový stíhač 3. generace" # todo: NEW TRANSLATION
+ medium_plane_airframe_2: "Víceúčelový stíhač 4. generace" # todo: NEW TRANSLATION
+ medium_plane_airframe_3: "Víceúčelový stíhač 5. generace" # todo: NEW TRANSLATION
+ medium_plane_airframe_4: "Víceúčelový stíhač 6. generace" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_1: "Stíhač vzdušné převahy 3. generace" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_2: "Stíhač vzdušné převahy 4. generace" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_3: "Stíhač vzdušné převahy 5. generace" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_4: "Stíhač vzdušné převahy 6. generace" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_1: "CAS stíhač 3. generace" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_2: "CAS stíhač 4. generace" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_3: "CAS stíhač 5. generace" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_4: "CAS stíhač 6. generace" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_1: "Námořní hlídkový letoun 3. generace" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_2: "Námořní hlídkový letoun 4. generace" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_3: "Námořní hlídkový letoun 5. generace" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_4: "Námořní hlídkový letoun 6. generace" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_1: "Středně těžký transportní letoun 3. generace" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_2: "Středně těžký transportní letoun 4. generace" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_3: "Středně těžký transportní letoun 5. generace" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_4: "Středně těžký transportní letoun 6. generace" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_1: "Kamikaze dron 3. generace" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_2: "Kamikaze dron 4. generace" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_3: "Kamikaze dron 5. generace" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_4: "Kamikaze dron 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_1: "Nosičový víceúčelový stíhač 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_2: "Nosičový víceúčelový stíhač 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_3: "Nosičový víceúčelový stíhač 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_4: "Nosičový víceúčelový stíhač 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_1: "Nosičový stíhač vzdušné převahy 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_2: "Nosičový stíhač vzdušné převahy 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_3: "Nosičový stíhač vzdušné převahy 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_4: "Nosičový stíhač vzdušné převahy 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_1: "Nosičový CAS letoun 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_2: "Nosičový CAS letoun 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_3: "Nosičový CAS letoun 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_4: "Nosičový CAS letoun 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_1: "Nosičový námořní útočný letoun 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_2: "Nosičový námořní útočný letoun 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_3: "Nosičový námořní útočný letoun 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_4: "Nosičový námořní útočný letoun 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_1: "Nosičový transportní letoun 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_2: "Nosičový transportní letoun 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_3: "Nosičový transportní letoun 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_4: "Nosičový transportní letoun 6. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_1: "Nosičový AWACS 3. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_2: "Nosičový AWACS 4. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_3: "Nosičový AWACS 5. generace" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_4: "Nosičový AWACS 6. generace" # todo: NEW TRANSLATION
+ large_plane_airframe_1: "Strategický bombardér 3. generace" # todo: NEW TRANSLATION
+ large_plane_airframe_2: "Strategický bombardér 4. generace" # todo: NEW TRANSLATION
+ large_plane_airframe_3: "Strategický bombardér 5. generace" # todo: NEW TRANSLATION
+ large_plane_airframe_4: "Strategický bombardér 6. generace" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_1: "AWACS 3. generace" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_2: "AWACS 4. generace" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_3: "AWACS 5. generace" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_4: "AWACS 6. generace" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_1: "Gunship 3. generace" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_2: "Gunship 4. generace" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_3: "Gunship 5. generace" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_4: "Gunship 6. generace" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_1: "Těžký transportní letoun 3. generace" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_2: "Těžký transportní letoun 4. generace" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_3: "Těžký transportní letoun 5. generace" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_4: "Těžký transportní letoun 6. generace" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_1: "Námořní hlídkový letoun dlouhého doletu 3. generace" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_2: "Námořní hlídkový letoun dlouhého doletu 4. generace" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_3: "Námořní hlídkový letoun dlouhého doletu 5. generace" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_4: "Námořní hlídkový letoun dlouhého doletu 6. generace" # todo: NEW TRANSLATION
+ kamikaze_drone_1: "Dron 1. generace" # todo: NEW TRANSLATION
+ kamikaze_drone_2: "Dron 2. generace" # todo: NEW TRANSLATION
+ kamikaze_drone_3: "Dron 3. generace" # todo: NEW TRANSLATION
+ kamikaze_drone_4: "Dron 4. generace" # todo: NEW TRANSLATION
+ small_plane_airframe: "Lehký stíhač" # todo: NEW TRANSLATION
+ small_plane_airframe_desc: "Levné na výrobu a provoz, lehké stíhače nabízejí zemím bez průmyslové základny levnější možnost získání kontroly vzdušného prostoru. Neobstojí proti specializovaným stíhačům vzdušné převahy, nicméně ve velkém počtu představují vážnou hrozbu." # todo: NEW TRANSLATION
+ small_plane_strike_airframe: "Lehký víceúčelový stíhač" # todo: NEW TRANSLATION
+ small_plane_strike_airframe_desc: "Levné útočné letadlo navržené tak, aby rychle zaútočilo na cíl a opustilo oblast. Tyto stíhače stojí výrazně méně než skutečný víceúčelový stíhač." # todo: NEW TRANSLATION
+ small_plane_cas_airframe: "Lehký CAS stíhač" # todo: NEW TRANSLATION
+ small_plane_cas_airframe_desc: "Navrženy jako levná letadla s dlouhou dobou přítomnosti nad bojištěm — tyto lehké stroje dokáží poskytovat blízkou leteckou podporu pozemním silám, ale ve vysoce konkurovaném vzdušném prostoru významně ztrácejí kvůli nižší výrobní kvalitě." # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe: "Lehký námořní bombardér" # todo: NEW TRANSLATION
+ small_plane_naval_bomber_airframe_desc: "Tato letadla jsou navržena k lovu a ničení nepřátelských povrchových lodí a ponorek, ale mají velmi omezený hlídkový dolet a používají se především pro omezené údery proti známým cílům." # todo: NEW TRANSLATION
+ small_plane_suicide_airframe: "Dron" # todo: NEW TRANSLATION
+ small_plane_suicide_airframe_desc: "Bezpilotní bojové vzdušné prostředky umožňují provádět bojové operace letectvem, aniž by se pilot vystavoval riziku při boji." # todo: NEW TRANSLATION
+ cv_small_plane_airframe: "Lehký nosičový stíhač" # todo: NEW TRANSLATION
+ cv_small_plane_airframe_desc: "Levné na výrobu a provoz, lehké stíhače nabízejí zemím bez průmyslové základny levnější možnost získání kontroly vzdušného prostoru. Neobstojí proti specializovaným stíhačům vzdušné převahy, nicméně ve velkém počtu představují vážnou hrozbu." # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe: "Lehký nosičový víceúčelový stíhač" # todo: NEW TRANSLATION
+ cv_small_plane_strike_airframe_desc: "Levné útočné letadlo navržené tak, aby rychle zaútočilo na cíl a opustilo oblast. Tyto stíhače stojí výrazně méně než skutečný víceúčelový stíhač." # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe: "Lehký nosičový CAS letoun" # todo: NEW TRANSLATION
+ cv_small_plane_cas_airframe_desc: "Navrženy jako levná letadla s dlouhou dobou přítomnosti nad bojištěm — tyto lehké stroje dokáží poskytovat blízkou leteckou podporu pozemním silám, ale ve vysoce konkurovaném vzdušném prostoru významně ztrácejí kvůli nižší výrobní kvalitě." # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe: "Lehký nosičový námořní bombardér" # todo: NEW TRANSLATION
+ cv_small_plane_naval_bomber_airframe_desc: "Tato letadla jsou navržena k lovu a ničení nepřátelských povrchových lodí a ponorek, ale mají velmi omezený hlídkový dolet a používají se především pro omezené údery proti známým cílům." # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe: "Nosičový dron" # todo: NEW TRANSLATION
+ cv_small_plane_suicide_airframe_desc: "Bezpilotní bojové vzdušné prostředky umožňují provádět bojové operace letectvem, aniž by se pilot vystavoval riziku při boji." # todo: NEW TRANSLATION
+ medium_plane_airframe: "Víceúčelový stíhač" # todo: NEW TRANSLATION
+ medium_plane_airframe_desc: "Pracovní kůň každého moderního letectva — tato letadla mohou plnit téměř každou misi, ale nejsou v ničem dokonalá. Středně drahá na výrobu, vyžadují rozsáhlé školení a zásobovací linie pro nasazení v poli." # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe: "Sebevražedný dron" # todo: NEW TRANSLATION
+ medium_plane_suicide_airframe_desc: "Sebevražedné drony se staly oblíbenou možností úderu na cíle bez vystavení pilotů riziku — obětuje se celý stroj výměnou za větší nálož a přesnost úderu." # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe: "Stíhač vzdušné převahy" # todo: NEW TRANSLATION
+ medium_plane_fighter_airframe_desc: "Letadla věnovaná kontrole vzduchu a znemožnění protivníkovi přístupu do vzdušného bojiště. Jsou určena k zapojení a ničení nepřátelských letadel na úkor schopnosti provádět pozemní útoky." # todo: NEW TRANSLATION
+ medium_plane_cas_airframe: "CAS letoun" # todo: NEW TRANSLATION
+ medium_plane_cas_airframe_desc: "Speciální bitevní letadla pro útoky nad bojištěm — tato letadla jsou navržena k dopravě velkého množství munice na pozemní cíle a k podpoře přátelských pozemních sil." # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe: "Námořní hlídkový letoun" # todo: NEW TRANSLATION
+ medium_plane_maritime_patrol_airframe_desc: "Námořní hlídková letadla středního doletu určená k vyhledávání a ničení nepřátelských ponorek, schopná také minování a odminovacích operací." # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe: "Středně těžký transportní letoun" # todo: NEW TRANSLATION
+ medium_plane_air_transport_airframe_desc: "Středně těžké transportní letadlo schopné poskytovat leteckou přepravu parašutistů a nákladu na střední vzdálenosti." # todo: NEW TRANSLATION
+ cv_medium_plane_airframe: "Nosičový víceúčelový stíhač" # todo: NEW TRANSLATION
+ cv_medium_plane_airframe_desc: "Pracovní kůň každého moderního letectva — tato letadla mohou plnit téměř každou misi, ale nejsou v ničem dokonalá. Středně drahá na výrobu, vyžadují rozsáhlé školení a zásobovací linie pro nasazení v poli." # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe: "Nosičový stíhač vzdušné převahy" # todo: NEW TRANSLATION
+ cv_medium_plane_fighter_airframe_desc: "Letadla věnovaná kontrole vzduchu a znemožnění protivníkovi přístupu do vzdušného bojiště. Jsou určena k zapojení a ničení nepřátelských letadel na úkor schopnosti provádět pozemní útoky." # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe: "Nosičový CAS letoun" # todo: NEW TRANSLATION
+ cv_medium_plane_cas_airframe_desc: "Speciální bitevní letadla pro útoky nad bojištěm — tato letadla jsou navržena k dopravě velkého množství munice na pozemní cíle a k podpoře přátelských pozemních sil." # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe: "Nosičový námořní hlídkový letoun" # todo: NEW TRANSLATION
+ cv_medium_plane_maritime_patrol_airframe_desc: "Námořní hlídková letadla středního doletu určená k vyhledávání a ničení nepřátelských ponorek, schopná také minování a odminovacích operací." # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe: "Nosičový transportní letoun" # todo: NEW TRANSLATION
+ cv_medium_plane_air_transport_airframe_desc: "Středně těžké transportní letadlo schopné poskytovat leteckou přepravu parašutistů a nákladu na střední vzdálenosti." # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe: "Nosičový AWACS" # todo: NEW TRANSLATION
+ cv_medium_plane_scout_airframe_desc: "Letecké velení a řízení, schopné poskytovat vzdušný průzkum a řízení boje pro stíhací letouny, čímž znásobuje účinnost mise vzdušné převahy." # todo: NEW TRANSLATION
+ large_plane_airframe: "Strategický bombardér" # todo: NEW TRANSLATION
+ large_plane_airframe_desc: "Velké bombardéry s vysokou kapacitou určené k doručení velkého množství munice na strategické cíle, včetně možnosti jaderných ran a odpalů křížových střel." # todo: NEW TRANSLATION
+ large_plane_cas_airframe: "Gunship" # todo: NEW TRANSLATION
+ large_plane_cas_airframe_desc: "Ačkoliv jsou v nepřátelském vzdušném prostoru a vůči protiletadlovým systémům velmi zranitelné, v nekonkurovaném vzdušném prostoru tyto stroje poskytují významnou přesnou podporu pozemním silám pomocí širokého spektra přesných zbraní." # todo: NEW TRANSLATION
+ large_plane_awacs_airframe: "AWACS" # todo: NEW TRANSLATION
+ large_plane_awacs_airframe_desc: "Letecké velení a řízení, schopné poskytovat vzdušný průzkum a řízení boje pro stíhací letouny, čímž znásobuje účinnost mise vzdušné převahy." # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe: "Těžký transportní letoun" # todo: NEW TRANSLATION
+ large_plane_air_transport_airframe_desc: "Těžká transportní letadla schopná poskytovat dlouhodosahové letecké přepravy parašutistů a zásobování." # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe: "Námořní hlídkový letoun dlouhého doletu" # todo: NEW TRANSLATION
+ large_plane_maritime_patrol_airframe_desc: "Námořní hlídková letadla dlouhého doletu schopná pokrýt výrazně větší oblasti oceánu za účelem vyhledání a zničení nepřátelských námořních sil a ponorek." # todo: NEW TRANSLATION
+ light_fighter: "Lehký stíhač" # todo: NEW TRANSLATION
+ light_cas: "Lehký CAS" # todo: NEW TRANSLATION
+ light_strike: "Lehký MU" # todo: NEW TRANSLATION
+ light_nav_strike: "Námořní úder" # todo: NEW TRANSLATION
+ drone: "UCAV" # todo: NEW TRANSLATION
+ cv_light_fighter: "CV lehký stíhač" # todo: NEW TRANSLATION
+ cv_light_cas: "CV lehký CAS" # todo: NEW TRANSLATION
+ cv_light_nav_strike: "CV námořní úder" # todo: NEW TRANSLATION
+ cv_light_strike: "CV lehký MU" # todo: NEW TRANSLATION
+ cv_drone: "CV UCAV" # todo: NEW TRANSLATION
+ mr_fighter: "Víceúčelový stíhač" # todo: NEW TRANSLATION
+ as_fighter: "Stíhač vzdušné převahy" # todo: NEW TRANSLATION
+ med_cas_fighter: "CAS stíhač" # todo: NEW TRANSLATION
+ med_transport: "Středně těžký transport" # todo: NEW TRANSLATION
+ med_maritime_patrol: "Námořní hlídkový letoun středního doletu" # todo: NEW TRANSLATION
+ cv_mr_fighter: "Nosičový víceúčelový stíhač" # todo: NEW TRANSLATION
+ cv_as_fighter: "Nosičový stíhač vzdušné převahy" # todo: NEW TRANSLATION
+ cv_med_cas_fighter: "Nosičový CAS stíhač" # todo: NEW TRANSLATION
+ cv_nav_strike: "Nosičový námořní útočný letoun" # todo: NEW TRANSLATION
+ cv_med_transport: "Nosičový středně těžký transport" # todo: NEW TRANSLATION
+ cv_med_awacs: "Nosičový AWACS" # todo: NEW TRANSLATION
+ bba_strat_bomber: "Strategický bombardér" # todo: NEW TRANSLATION
+ kamikaze_drone: "Kamikaze dron" # todo: NEW TRANSLATION
+ large_maritime_patrol: "Námořní hlídkový letoun dlouhého doletu" # todo: NEW TRANSLATION
+ large_awacs: "AWACS letoun" # todo: NEW TRANSLATION
+ gunship: "Přesný podpůrný letoun" # todo: NEW TRANSLATION
+ large_transport: "Těžký transportní letoun" # todo: NEW TRANSLATION
+ avionics_manned_1: "Avionika 1. generace" # todo: NEW TRANSLATION
+ avionics_manned_1_desc: "První generace palubních přístrojů sestávající z gyroskopů a ukazatelů, které vyžadovaly, aby pilot sledoval nejen směr letu, ale také panel přístrojů.\n\n§GDesigner Hint: Avionika položila základy pro vaše letouny. Poskytuje plošné zvýšení většiny statistických parametrů letadel, za cenu zvýšených nároků na zdroje§!" # todo: NEW TRANSLATION
+ avionics_manned_2: "Avionika 2. generace" # todo: NEW TRANSLATION
+ avionics_manned_2_desc: "Projekce životně důležitých informací, jako jsou rychlost, výška, úhel náběhu či směr kompasu, zlepšuje povědomí o situaci při pohledu ven z kokpitu.\n\n§GDesigner Hint: Avionika položila základy pro vaše letouny. Poskytuje plošné zvýšení většiny statistických parametrů letadel, za cenu zvýšených nároků na zdroje§!" # todo: NEW TRANSLATION
+ avionics_manned_3: "Avionika 3. generace" # todo: NEW TRANSLATION
+ avionics_manned_3_desc: "Moderní elektronika umožňuje pilotům přizpůsobit displeje a MFD, aby si mohli uspořádat, jaké letové a diagnostické informace se kde zobrazují.\n\n§GDesigner Hint: Avionika položila základy pro vaše letouny. Poskytuje plošné zvýšení většiny statistických parametrů letadel, za cenu zvýšených nároků na zdroje§!" # todo: NEW TRANSLATION
+ avionics_manned_4: "Avionika 4. generace" # todo: NEW TRANSLATION
+ avionics_manned_4_desc: "Veškeré informace, které pilot potřebuje, se promítají na HUD v přilbě a sledují jeho zrak. Kamery a senzory navíc umožňují pilotovi 'vidět' skrz letoun, což poskytuje nebývalé povědomí o bojišti.\n\n§GDesigner Hint: Avionika položila základy pro vaše letouny. Poskytuje plošné zvýšení většiny statistických parametrů letadel, za cenu zvýšených nároků na zdroje§!" # todo: NEW TRANSLATION
+ avionics_drone_1: "Systémy dronů 1. generace" # todo: NEW TRANSLATION
+ avionics_drone_1_desc: "První generace dronové technologie umožnila strojům létat bez pilota v kokpitu a otevírala nové možnosti pro bojové schopnosti ze vzduchu.\n\n§GDesigner Hint: Systémy dronů umožňují navrhovat letadla s nižšími nároky na průmyslové kapacity a personál, ale snížením statistik vzdušného boje a letecké obrany. Použijte je, pokud chcete vyrábět levné průzkumné nebo útočné stroje.§!\n\n§WUsing this as the primary weapon will create a§! §BDrone/Transport Aircraft§!" # todo: NEW TRANSLATION
+ avionics_drone_2: "Systémy dronů 2. generace" # todo: NEW TRANSLATION
+ avionics_drone_2_desc: "Druhá generace dronů má delší dolet, lepší komunikační schopnosti a je obtížněji rušitelná nebo zničitelná. Tyto drony jsou určeny pro dlouhý dolet a dlouhé doby přítomnosti nad cílem, což umožňuje rozsáhlý průzkum oblasti bez pilota.\n\n§GDesigner Hint: Systémy dronů umožňují navrhovat letadla s nižšími nároky na průmyslové kapacity a personál, ale snížením statistik vzdušného boje a letecké obrany. Použijte je, pokud chcete vyrábět levné průzkumné nebo útočné stroje.§!\n\n§WUsing this as the primary weapon will create a§! §BDrone/Transport Aircraft§!" # todo: NEW TRANSLATION
+ avionics_drone_3: "Systémy dronů 3. generace" # todo: NEW TRANSLATION
+ avionics_drone_3_desc: "Drony jsou nyní vyzbrojené a jsou schopny přesných úderů a blízké letecké podpory; lze je také použít jako sebevražedné drony, což umožňuje přesné údery za cenu ztráty stroje.\n\n§BDesigner Hint: Systémy dronů umožňují navrhovat letadla s nižšími nároky na průmyslové kapacity a personál, ale snížením statistik vzdušného boje a letecké obrany. Použijte je, pokud chcete vyrábět levné stroje s některými schopnostmi vzdušného boje a úderu, které však stále nebudou tak účinné jako základní malé stroje.§!\n\n§WUsing this as the primary weapon will create a§! §BDrone/Transport Aircraft§!" # todo: NEW TRANSLATION
+ avionics_drone_4: "Systémy dronů 4. generace" # todo: NEW TRANSLATION
+ avionics_drone_4_desc: "Moderní bojové drony schopné nasazení ve všech rolích podobně jako pilotované stroje. Tato generace dronů má rozsáhlá vylepšení umožňující okamžité samostatné rozhodování, nezbytné v moderním bojišti.\n\n§BDesigner Hint: Systémy dronů umožňují navrhovat letadla s nižšími nároky na průmyslové kapacity a personál, ale snížením statistik vzdušného boje a letecké obrany. Použijte je, pokud chcete vyrábět levné stroje s dobrými schopnostmi vzdušného boje a úderu, které však stále špatně snášejí poškození.§!\n\n§WUsing this as the primary weapon will create a§! §BDrone/Transport Aircraft§!" # todo: NEW TRANSLATION
+ wing_delta: "Delta křídlo" # todo: NEW TRANSLATION
+ wing_delta_desc: "Solidní standardní tvar křídla určený ke zvýšení manévrovatelnosti letadla.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar křídla poskytne mírné zvýšení rychlosti a radarové výhody a střední zvýšení letecké obrany, čímž vznikne o něco odolnější letoun bez vysokých nákladů na průmyslovou kapacitu, které vyžaduje investice do stealth technologií.§!" # todo: NEW TRANSLATION
+ wing_diamond: "Diamantové křídlo" # todo: NEW TRANSLATION
+ wing_diamond_desc: "Experimentální varianta delta křídla, která vyměňuje manévrovatelnost za vyšší rychlost a lepší stealth vlastnosti.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar křídla poskytne střední zvýšení radarové výhody a rychlosti a mírné zvýšení letecké obrany. V páru s dalšími stealth technologiemi vytvoří solidního stealth stíhače, který bude velmi těžké zasáhnout a zničit ve vzdušném boji.§!" # todo: NEW TRANSLATION
+ wing_flyingwing: "Letící křídlo" # todo: NEW TRANSLATION
+ wing_flyingwing_desc: "Zaměřeno na výdrž. Tento tvar křídla maximalizuje dosah a rychlost, ideální pro letadla, která musí rychle překonávat velké vzdálenosti.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar výrazně zvýší dolet, společně se středními vylepšeními radarové výhody a rychlosti, ale přichází s vysokými výrobními náklady a snížením letecké obrany. Doporučeno pro větší státy, které chtějí vyrábět dálková letadla.§!" # todo: NEW TRANSLATION
+ wing_fwdswept: "Předopložené křídlo" # todo: NEW TRANSLATION
+ wing_fwdswept_desc: "Obětuje dolet a rychlost pro ještě větší manévrovatelnost; tento tvar je určen pro blízké dogfighty a stroje, které mají uzavírat vzdálenost a ničit nepřátelská letadla v těsném souboji.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar křídla poskytuje výrazné zvýšení letecké obrany a útoku ve vzduchu, na úkor radarové výhody a doletu a s vyššími výrobními náklady. Použijte ho, pokud chcete vyšší výstup poškození a zvýšenou přežitelnost, a jste ochotni, aby vaše letadla byla častěji zasažena, aby toho dosáhla.§!" # todo: NEW TRANSLATION
+ wing_straight: "Rovné křídlo" # todo: NEW TRANSLATION
+ wing_straight_desc: "Klasika; tento styl křídla vás udrží ve vzduchu a zároveň umožňuje snadné umístění velkého množství výzbroje na křídla, ovšem na úkor manévrovatelnosti v porovnání s jinými tvary.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar křídla poskytne střední zvýšení letecké obrany a útoku na pozemní cíle, na úkor radarové výhody a rychlosti. Navíc má snížené výrobní náklady. Doporučeno pro státy vyrábějící CAS nebo útočné stíhače s omezeným rozpočtem.§!" # todo: NEW TRANSLATION
+ wing_swept: "Šikmé křídlo" # todo: NEW TRANSLATION
+ wing_swept_desc: "Šikmá křídla jsou vlastně vylepšená rovná křídla — jsou obratnější, rychlejší a mohou létat dál, ale náklady na návrh zvyšují cenu výroby těchto rámů.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar je základním tvarem křídel pro většinu letadel. Poskytuje střední zvýšení rychlosti a mírné zvýšení letecké obrany a doletu, bez úpravy výrobních nákladů. Doporučeno pro stavbu s omezeným rozpočtem nebo pro stroje určené pro široké spektrum rolí.§!" # todo: NEW TRANSLATION
+ wing_variable: "Proměnné křídlo" # todo: NEW TRANSLATION
+ wing_variable_desc: "Proměnná křídla kombinují výhody šikmého a rovného křídla, ale za cenu: jsou dražší na výrobu, náročnější na údržbu a vyžadují delší výcvik a vyšší dovednost pilotů.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar poskytuje střední zvýšení rychlosti a letecké obrany, spolu s menším zvýšením útoku na pozemní cíle, na úkor spolehlivosti a zvýšených výrobních nákladů. Doporučeno, pokud chcete rychlejší útočné letadlo na pozemní cíle.§!" # todo: NEW TRANSLATION
+ wing_blended: "Blended Wingform" # todo: NEW TRANSLATION
+ wing_blended_desc: "Další generace leteckého designu. Tento tvar je navržen pro maximalizaci stealth a přežití, posouvající vzdušný boj do moderní a blízké budoucnosti.\n\n§BDesigner Hint: Tvary křídel poskytují úpravy statistik letadel výměnou za náklady na výrobu.§!\n\n§GTento tvar poskytuje výrazné zvýšení radarové výhody spolu se středními nárůsty rychlosti, letecké obrany a doletu, ale přichází s vysokým navýšením výrobních nákladů a snížením schopnosti ničit pozemní cíle. Doporučeno pro státy s velkým průmyslem, které chtějí vyrábět vyspělé letectvo, zejména víceúčelové a stíhací stroje vzdušné převahy.§!" # todo: NEW TRANSLATION
+ spec_mad_1: "Sonobuoye" # todo: NEW TRANSLATION
+ spec_mad_1_desc: "Sonarové systémy vypouštěné z letadla, které umožňují akvasonarovým posádkám efektivněji vyhledávat nepřátelské ponorky.\n\n§GDesigner Hint: Použití tohoto modulu začne zvyšovat statistiky detekce ponorek, ale za cenu snížení radarové výhody, rychlosti a doletu.§!" # todo: NEW TRANSLATION
+ spec_mad_2: "Magnetický detektor anomálií" # todo: NEW TRANSLATION
+ spec_mad_2_desc: "Systém, který detekuje ponorky pomocí magnetických anomálií ve vodě.\n\n§GDesigner Hint: Použití tohoto modulu začne zvyšovat statistiky detekce ponorek, ale za cenu snížení radarové výhody, rychlosti a doletu.§!" # todo: NEW TRANSLATION
+ spec_mad_3: "Pokročilé sonarové systémy" # todo: NEW TRANSLATION
+ spec_mad_3_desc: "Pokročilé MAD a sonobuoy systémy s datalinkovou schopností.\n\n§GDesigner Hint: Použití tohoto modulu začne zvyšovat statistiky detekce ponorek, ale za cenu snížení radarové výhody, rychlosti a doletu.§!" # todo: NEW TRANSLATION
+ spec_refuel_1: "Nádrže na odhození" # todo: NEW TRANSLATION
+ spec_refuel_1_desc: "Odhozné přídavné nádrže používané ke zvýšení doletu letadla.\n\n§GDesigner Hint: Použití tohoto modulu umožní mírné zvýšení doletu letadla, za cenu vyšší spotřeby paliva a snížení radarové výhody. Použijte ho na letadlech, která potřebují zvýšit dolet kvůli jiným modulům.§!" # todo: NEW TRANSLATION
+ spec_refuel_2: "Konformní palivové nádrže" # todo: NEW TRANSLATION
+ spec_refuel_2_desc: "Vnější nádrže na palivo, které neovlivňují aerodynamiku.\n\n§GRada návrháře: Použitím tohoto modulu získáte mírně zvýšený dolet letadla, za cenu vyšší spotřeby paliva a velmi mírného snížení radarové výhody. Použijte jej na letadla, která potřebují zvýšit dolet kvůli jiným modulům.§!" # todo: NEW TRANSLATION
+ spec_refuel_3: "Vzdušné doplňování paliva" # todo: NEW TRANSLATION
+ spec_refuel_3_desc: "Konektory pro tankování umožňující letadlu přijímat palivo od tankeru.\n\n§GRada návrháře: Použitím tohoto modulu výrazně zvýšíte dolet letadla, za cenu výrazně vyšší spotřeby paliva. Použijte ho na letadla, která mají mít extrémně dlouhý dolet v bojových operacích.§!" # todo: NEW TRANSLATION
+ spec_redundant_1: "Záložní hydraulické systémy" # todo: NEW TRANSLATION
+ spec_redundant_1_desc: "Rané záložní systémy pro letadla.\n\n§GRada návrháře: Použitím těchto modulů se zvýší spolehlivost letadel. Letadla by měla cílit na 100% spolehlivost nebo více, protože to sníží riziko leteckých nehod na 0% a umožní efektivněji cvičit piloty bez ztrát pilotů a letounů.§!" # todo: NEW TRANSLATION
+ spec_redundant_2: "Záložní elektrické systémy" # todo: NEW TRANSLATION
+ spec_redundant_2_desc: "Záložní elektrické systémy pro fly-by-wire letadla.\n\n§GRada návrháře: Použitím těchto modulů se zvýší spolehlivost letadel. Letadla by měla cílit na 100% spolehlivost nebo více, protože to sníží riziko leteckých nehod na 0% a umožní efektivněji cvičit piloty bez ztrát pilotů a letounů.§!" # todo: NEW TRANSLATION
+ spec_redundant_3: "Záložní řízení letu" # todo: NEW TRANSLATION
+ spec_redundant_3_desc: "Další záložní systémy pro případ poškození řízení letu.\n\n§GRada návrháře: Použitím těchto modulů se zvýší spolehlivost letadel. Letadla by měla cílit na 100% spolehlivost nebo více, protože to sníží riziko leteckých nehod na 0% a umožní efektivněji cvičit piloty bez ztrát pilotů a letounů.§!" # todo: NEW TRANSLATION
+ spec_protection_1: "Pancéřování letadla" # todo: NEW TRANSLATION
+ spec_protection_1_desc: "Zvýšená přeživatelnost za cenu zvýšené hmotnosti a snížené rychlosti.\n\n§GRada návrháře: Pancéřování letadla poskytne významné zvýšení vzdušné obrany, ale bude stát IC, zvýšenou hmotnost, snížený dolet a radarovou výhodu. Použijte tento modul na letadle, u kterého chcete vysokou vzdušnou obranu a jste ochotni obětovat radarovou výhodu a dolet.§!" # todo: NEW TRANSLATION
+ spec_protection_2: "Raně samoléčivé materiály" # todo: NEW TRANSLATION
+ spec_protection_2_desc: "Materiály navržené tak, aby se po poškození částečně spojily a umožnily letadlu návrat na základnu k opravám, ale poskytují mnohem menší ochranu než pancéřování.\n\n§GRada návrháře: Tyto moduly poskytnou mírné zvýšení vzdušné obrany a malé zvýšení spolehlivosti, za cenu vyšších výrobních nákladů a potřeby surovin. Použijte tento modul, pokud potřebujete výrazně zvýšit spolehlivost letadla a zároveň chcete výhody pancéřování.§!" # todo: NEW TRANSLATION
+ spec_protection_3: "Pokročilý samoléčivý materiál" # todo: NEW TRANSLATION
+ spec_protection_3_desc: "Materiály, které se po poškození dokážou téměř plně samy obnovit.\n\n§GRada návrháře: Tyto moduly poskytnou mírné zvýšení vzdušné obrany a malé zvýšení spolehlivosti, za cenu vyšších výrobních nákladů a potřeby surovin. Použijte tento modul, pokud potřebujete výrazně zvýšit spolehlivost letadla a zároveň chcete výhody pancéřování.§!" # todo: NEW TRANSLATION
+ spec_recon_1: "Průzkumná kamera studené války" # todo: NEW TRANSLATION
+ spec_recon_1_desc: "Kamerový systém umožňující letecké průzkumné mise.\n\n§GRada návrháře: Použijte tento modul, pokud chcete udělat průzkumnou misi dostupnou pro vaše letadlo za výrazně nižší cenu.§!" # todo: NEW TRANSLATION
+ spec_tgp_1: "Cílový pod studené války" # todo: NEW TRANSLATION
+ spec_tgp_1_desc: "Cílový pod, který umožňuje letadlu přesně doručovat výzbroj na cíl.\n\n§GRada návrháře: Použijte tento modul ke zvýšení všech statistik pozemního útoku a ke snížení noční penalizace, za cenu menší radarové výhody.§!" # todo: NEW TRANSLATION
+ spec_recon_2: "Moderní průzkumná kamera" # todo: NEW TRANSLATION
+ spec_recon_2_desc: "$spec_recon_1_desc$" # todo: NEW TRANSLATION
+ spec_tgp_2: "Moderní cílový pod" # todo: NEW TRANSLATION
+ spec_tgp_2_desc: "$spec_tgp_1_desc$" # todo: NEW TRANSLATION
+ spec_recon_3: "Budoucí průzkumná kamera" # todo: NEW TRANSLATION
+ spec_recon_3_desc: "$spec_recon_1_desc$" # todo: NEW TRANSLATION
+ spec_tgp_3: "Budoucí cílový pod" # todo: NEW TRANSLATION
+ spec_tgp_3_desc: "$spec_tgp_1_desc$" # todo: NEW TRANSLATION
+ spec_stealthshape_1: "Raný stealth tvar" # todo: NEW TRANSLATION
+ spec_stealthshape_1_desc: "Rané návrhy zaměřené na obcházení radaru.\n\n§GRada návrháře: Použijte tento modul pro výrazné zvýšení radarové výhody a statistik vzdušné obrany, za cenu výrazně vyšších výrobních nákladů. Doporučeno pouze pro země, které si mohou dovolit tyto letouny.§!" # todo: NEW TRANSLATION
+ spec_stealthshape_2: "Pokročilý stealth tvar" # todo: NEW TRANSLATION
+ spec_stealthshape_2_desc: "Pokročilé návrhy zaměřené na překonání moderních radarových systémů.\n\n§GRada návrháře: Použijte tento modul pro výrazné zvýšení radarové výhody a statistik vzdušné obrany, za cenu výrazně vyšších výrobních nákladů. Doporučeno pouze pro země, které si mohou dovolit tyto letouny.§!" # todo: NEW TRANSLATION
+ spec_stealthmats_1: "Materiály pohlcující radarové vlny" # todo: NEW TRANSLATION
+ spec_stealthmats_1_desc: "Materiály navržené k pohlcování radarových vln a zamezení detekce.\n\n§GRada návrháře: Použijte tento modul pro výrazné zvýšení radarové výhody a statistik vzdušné obrany, za cenu zvýšených potřeb surovin. Doporučeno pouze pro země, které si mohou dovolit tyto letouny.§!" # todo: NEW TRANSLATION
+ spec_stealthmats_2: "Pokročilé RAM" # todo: NEW TRANSLATION
+ spec_stealthmats_2_desc: "Materiály navržené k potírání detekce moderními radary.\n\n§GRada návrháře: Použijte tento modul pro výrazné zvýšení radarové výhody a statistik vzdušné obrany, za cenu zvýšených potřeb surovin. Doporučeno pouze pro země, které si mohou dovolit tyto letouny.§!" # todo: NEW TRANSLATION
+ spec_internal_1: "Vnitřní pumovnice" # todo: NEW TRANSLATION
+ spec_internal_1_desc: "Vnitřní pumovnice pro zlepšení stealth schopností letadla.\n\n§GRada návrháře: Použitím tohoto modulu se výrazně zvýší radarová výhoda a statistiky vzdušné obrany, ale také se sníží všechny statistiky útočných zbraní. Doporučeno pouze pro země, které se chtějí zaměřit na specializované stealth letouny.§!" # todo: NEW TRANSLATION
+ spec_internal_2: "Rozšířené vnitřní pumovnice" # todo: NEW TRANSLATION
+ spec_internal_2_desc: "Rozšířené vnitřní pumovnice pro více výzbroje.\n\n§GRada návrháře: Použitím tohoto modulu se výrazně zvýší radarová výhoda a statistiky vzdušné obrany, ale také se sníží všechny statistiky útočných zbraní. Doporučeno pouze pro země, které se chtějí zaměřit na specializované stealth letouny.§!" # todo: NEW TRANSLATION
+ spec_thrust_vector_1: "STO/VL motory" # todo: NEW TRANSLATION
+ spec_thrust_vector_1_desc: "Raný vektor tahu a rotační konstrukce motorů.\n\n§GRada návrháře: Použijte tento modul ke zvýšení vzdušné obrany letadla, za cenu spolehlivosti. Doporučeno, když chcete vytvořit odolnější letadlo bez nákladů na stealth.§!" # todo: NEW TRANSLATION
+ spec_thrust_vector_2: "Jednoosé vektorování tahu" # todo: NEW TRANSLATION
+ spec_thrust_vector_2_desc: "Systémy vektorování tahu navržené ke zvýšení manévrovatelnosti.\n\n§GRada návrháře: Použijte tento modul ke zvýšení vzdušné obrany letadla, za cenu spolehlivosti. Doporučeno, když chcete vytvořit odolnější letadlo bez nákladů na stealth.§!" # todo: NEW TRANSLATION
+ spec_thrust_vector_3: "Dvouosé vektorování tahu" # todo: NEW TRANSLATION
+ spec_thrust_vector_3_desc: "Pokročilé vektorování tahu umožňující zvýšenou manévrovatelnost napříč více osami.\n\n§GRada návrháře: Použijte tento modul ke zvýšení vzdušné obrany letadla, za cenu spolehlivosti. Doporučeno, když chcete vytvořit odolnější letadlo bez nákladů na stealth.§!" # todo: NEW TRANSLATION
+ spec_countermeasures_1: "Raná protiopatření" # todo: NEW TRANSLATION
+ spec_countermeasures_1_desc: "Rané obranné možnosti proti útokům střelami.\n\n§GRada návrháře: Obecné zvýšení statistiky vzdušné obrany letadla. Doporučuje se mít alespoň jeden modul protiopatření na letadle, zejména pokud letadlo nemá žádné stealth moduly.§!" # todo: NEW TRANSLATION
+ spec_countermeasures_2: "Automatická protiopatření" # todo: NEW TRANSLATION
+ spec_countermeasures_2_desc: "Automatický detekční a dávkovací systém pro chaff a fléry.\n\n§GRada návrháře: Obecné zvýšení statistiky vzdušné obrany letadla. Doporučuje se mít alespoň jeden modul protiopatření na letadle, zejména pokud letadlo nemá žádné stealth moduly.§!" # todo: NEW TRANSLATION
+ spec_countermeasures_3: "Pod pro rušení radarů" # todo: NEW TRANSLATION
+ spec_countermeasures_3_desc: "Elektronické prostředky obrany proti radarově naváděným střelám.\n\n§GRada návrháře: Obecné zvýšení statistiky vzdušné obrany letadla, spolu se zvýšením radarové výhody. Doporučuje se mít alespoň jeden modul protiopatření na letadle, zejména pokud letadlo nemá žádné stealth moduly.§!" # todo: NEW TRANSLATION
+ spec_countermeasures_4: "Laserový hard-kill systém" # todo: NEW TRANSLATION
+ spec_countermeasures_4_desc: "Hard-kill protiopatření k ochraně proti všem raketovým hrozbám.\n\n§GRada návrháře: Obecné zvýšení statistiky vzdušné obrany letadla, spolu se zvýšením radarové výhody. Doporučuje se mít alespoň jeden modul protiopatření na letadle, zejména pokud letadlo nemá žádné stealth moduly.§!" # todo: NEW TRANSLATION
+ engine_light_single_1: "Raný lehký motor" # todo: NEW TRANSLATION
+ engine_light_single_1_desc: "Rané proudové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_single_2: "Lehký motor - Studená válka" # todo: NEW TRANSLATION
+ engine_light_single_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_single_3: "Lehký motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_light_single_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_single_4: "Lehký motor - moderní" # todo: NEW TRANSLATION
+ engine_light_single_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_single_5: "Lehký motor - budoucí" # todo: NEW TRANSLATION
+ engine_light_single_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_double_1: "Raný dvoumotorový lehký motor" # todo: NEW TRANSLATION
+ engine_light_double_1_desc: "Rané proudové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_double_2: "Dvoumotorový lehký motor - Studená válka" # todo: NEW TRANSLATION
+ engine_light_double_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_double_3: "Dvoumotorový lehký motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_light_double_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_double_4: "Dvoumotorový lehký motor - moderní" # todo: NEW TRANSLATION
+ engine_light_double_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_light_double_5: "Dvoumotorový lehký motor - budoucí" # todo: NEW TRANSLATION
+ engine_light_double_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_single_1: "Raný proudový motor" # todo: NEW TRANSLATION
+ engine_jet_single_1_desc: "Rané proudové motory.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_single_2: "Proudový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_jet_single_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_single_3: "Proudový motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_jet_single_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_single_4: "Proudový motor - moderní" # todo: NEW TRANSLATION
+ engine_jet_single_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_single_5: "Proudový motor - budoucí" # todo: NEW TRANSLATION
+ engine_jet_single_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_double_1: "Raný dvoumotorový proudový motor" # todo: NEW TRANSLATION
+ engine_jet_double_1_desc: "Rané proudové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_double_2: "Dvoumotorový proudový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_jet_double_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_double_3: "Dvoumotorový proudový motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_jet_double_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_double_4: "Dvoumotorový proudový motor - moderní" # todo: NEW TRANSLATION
+ engine_jet_double_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_double_5: "Dvoumotorový proudový motor - budoucí" # todo: NEW TRANSLATION
+ engine_jet_double_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_quad_1: "Raný čtyřmotorový motor" # todo: NEW TRANSLATION
+ engine_jet_quad_1_desc: "Rané proudové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_quad_2: "Čtyřmotorový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_jet_quad_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_quad_3: "Čtyřmotorový motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_jet_quad_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_quad_4: "Čtyřmotorový motor - moderní" # todo: NEW TRANSLATION
+ engine_jet_quad_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_quad_5: "Čtyřmotorový motor - budoucí" # todo: NEW TRANSLATION
+ engine_jet_quad_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_six_1: "Raný čtyřmotorový motor" # todo: NEW TRANSLATION
+ engine_jet_six_1_desc: "Rané čtyřmotorové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_six_2: "Šestimotorový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_jet_six_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_six_3: "Šestimotorový motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_jet_six_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_six_4: "Šestimotorový motor - moderní" # todo: NEW TRANSLATION
+ engine_jet_six_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_six_5: "Šestimotorový motor - budoucí" # todo: NEW TRANSLATION
+ engine_jet_six_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_eight_1: "Raný osmimotorový motor" # todo: NEW TRANSLATION
+ engine_jet_eight_1_desc: "Rané proudové motory z konce druhé světové války odstartovaly závod o rychlejší a obratnější letadla.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_eight_2: "Osmimotorový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_jet_eight_2_desc: "$engines_2_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_eight_3: "Osmimotorový motor - blízký modernímu" # todo: NEW TRANSLATION
+ engine_jet_eight_3_desc: "$engines_3_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_eight_4: "Osmimotorový motor - moderní" # todo: NEW TRANSLATION
+ engine_jet_eight_4_desc: "$engines_4_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_jet_eight_5: "Osmimotorový motor - budoucí" # todo: NEW TRANSLATION
+ engine_jet_eight_5_desc: "$engines_5_desc$$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_single_1: "Raný vrtulový motor" # todo: NEW TRANSLATION
+ engine_prop_single_1_desc: "Vrtulové motory z druhé světové války stále poskytovaly potřebný tah, aby letadla mohla provádět bojové operace, zejména při omezeném rozpočtu.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_single_2: "Vrtulový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_prop_single_2_desc: "Pokroky v oblasti vrtulových motorů umožnily některým letadlům pokračovat v jejich používání i v éře proudových motorů.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_double_1: "Raný dvoumotorový vrtulový motor" # todo: NEW TRANSLATION
+ engine_prop_double_1_desc: "Vrtulové motory z druhé světové války stále poskytovaly potřebný tah, aby letadla mohla provádět bojové operace, zejména při omezeném rozpočtu.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_double_2: "Dvoumotorový vrtulový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_prop_double_2_desc: "Pokroky v oblasti vrtulových motorů umožnily některým letadlům pokračovat v jejich používání i v éře proudových motorů.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_quad_1: "Raný čtyřmotorový vrtulový motor" # todo: NEW TRANSLATION
+ engine_prop_quad_1_desc: "Vrtulové motory z druhé světové války stále poskytovaly potřebný tah, aby letadla mohla provádět bojové operace, zejména při omezeném rozpočtu.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_quad_2: "Čtyřmotorový vrtulový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_prop_quad_2_desc: "Pokroky v oblasti vrtulových motorů umožnily některým letadlům pokračovat v jejich používání i v éře proudových motorů.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_six_1: "Raný šestimotorový vrtulový motor" # todo: NEW TRANSLATION
+ engine_prop_six_1_desc: "Vrtulové motory z druhé světové války stále poskytovaly potřebný tah, aby letadla mohla provádět bojové operace, zejména při omezeném rozpočtu.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_six_2: "Šestimotorový vrtulový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_prop_six_2_desc: "Pokroky v oblasti vrtulových motorů umožnily některým letadlům pokračovat v jejich používání i v éře proudových motorů.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_eight_1: "Raný vrtulový motor" # todo: NEW TRANSLATION
+ engine_prop_eight_1_desc: "Vrtulové motory z druhé světové války stále poskytovaly potřebný tah, aby letadla mohla provádět bojové operace, zejména při omezeném rozpočtu.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_prop_eight_2: "Vrtulový motor - Studená válka" # todo: NEW TRANSLATION
+ engine_prop_eight_2_desc: "Pokroky v oblasti vrtulových motorů umožnily některým letadlům pokračovat v jejich používání i v éře proudových motorů.$ENGINE_INFO$" # todo: NEW TRANSLATION
+ engine_solar_single_1: "Solární motor" # todo: NEW TRANSLATION
+ engine_solar_single_1_desc: "Použití solárně napájených motorů umožnilo letadlům pohánět se elektrickými motory, čímž se odstranila poptávka po palivu pro letectvo.\n\n§GRada návrháře: Solární motory umožní letadlu nulovou spotřebu paliva a výrazně zvýšený dolet, ale za cenu výrazného poklesu vzdušné obrany a radarové výhody. Doporučeno používat pouze na letadlech v nízkointenzivních konfliktech s minimálním počtem nepřátelských letadel nebo protiletadlových prostředků.§!" # todo: NEW TRANSLATION
+ engine_solar_double_1: "Dvoumotorový solární motor" # todo: NEW TRANSLATION
+ engine_solar_double_1_desc: "Použití solárně napájených motorů umožnilo letadlům pohánět se elektrickými motory, čímž se odstranila poptávka po palivu pro letectvo.\n\n§GRada návrháře: Solární motory umožní letadlu nulovou spotřebu paliva a výrazně zvýšený dolet, ale za cenu výrazného poklesu vzdušné obrany a radarové výhody. Doporučeno používat pouze na letadlech v nízkointenzivních konfliktech s minimálním počtem nepřátelských letadel nebo protiletadlových prostředků.§!" # todo: NEW TRANSLATION
+ engine_nuclear_eight_1: "Jaderný motor" # todo: NEW TRANSLATION
+ engine_nuclear_eight_1_desc: "Jaderné motory poskytují letadlům extrémní dolet, za cenu rychlosti a výrobních nákladů.\n\n§GRada návrháře: Tyto motory udělají vaše letadlo extrémně drahé na výrobu, ale v kombinaci se zařízením pro prodloužení doletu mohou být schopny zasáhnout svět ze své domovské základny. Používejte na vlastní nebezpečí§!" # todo: NEW TRANSLATION
+ weap_buff_transport: "Schopnost seskoku" # todo: NEW TRANSLATION
+ weap_buff_transport_desc: "Prostor pro výsadkáře a seskočený náklad.\n\n§GRada návrháře: Použijte tento modul k vytvoření transportního letadla. Tento modul vám zablokuje téměř všechny zbraňové systémy, kromě paletizovaných ALCM.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BDron/transportní letadlo§!" # todo: NEW TRANSLATION
+ weap_buff_awacs_1: "AWACS systém (Studená válka)" # todo: NEW TRANSLATION
+ weap_buff_awacs_1_desc: "Raný AWACS radar a C3 systémy.\n\n§GRada návrháře: AWACS systémy poskytnou vašim silám významné zvýšení nadvlády ve vzduchu při plnění průzkumných misí, přičemž tento bonus se počítá za každé letadlo ve skupině, které misi plní§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BAWACS letadlo§!" # todo: NEW TRANSLATION
+ weap_buff_awacs_2: "Moderní AWACS systém" # todo: NEW TRANSLATION
+ weap_buff_awacs_2_desc: "Moderní AWACS radar a datalinkové systémy.\n\n§GRada návrháře: AWACS systémy poskytnou vašim silám významné zvýšení nadvlády ve vzduchu při plnění průzkumných misí, přičemž tento bonus se počítá za každé letadlo ve skupině, které misi plní§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BAWACS letadlo§!" # todo: NEW TRANSLATION
+ weap_buff_awacs_3: "Budoucí AWACS systém" # todo: NEW TRANSLATION
+ weap_buff_awacs_3_desc: "Budoucí AWACS radar, datalink a systémy napojené na drony.\n\n§GRada návrháře: AWACS systémy poskytnou vašim silám významné zvýšení nadvlády ve vzduchu při plnění průzkumných misí, přičemž tento bonus se počítá za každé letadlo ve skupině, které misi plní§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BAWACS letadlo§!" # todo: NEW TRANSLATION
+ weap_multi_at_1: "Raný protitankový kanón" # todo: NEW TRANSLATION
+ weap_multi_at_1_desc: "Rané protitankové kanóny montované na letadlech, navržené pro prostupení pancíře z období druhé světové války.\n\n§GRada návrháře: Použijte tento slot zbraně při navrhování útočného letadla pro zvýšení CAS a poškození při úderech.§!" # todo: NEW TRANSLATION
+ weap_multi_at_2: "Protitankový kanón (Studená válka)" # todo: NEW TRANSLATION
+ weap_multi_at_2_desc: "Protitankový kanón z éry studené války, navržený k prostupení rané studené válečné obrany a APC/IFV.\n\n§GRada návrháře: Použijte tento slot zbraně při navrhování útočného letadla pro zvýšení CAS a poškození při úderech.§!" # todo: NEW TRANSLATION
+ weap_multi_gun_1: ".50cal palubní kulomety" # todo: NEW TRANSLATION
+ weap_multi_gun_1_desc: "Kulomety z druhé světové války a rané korejské války pro lehká letadla.\n\n§GRada návrháře: Použijte tuto volbu zbraně pro vyvážený mix mezi vzdušným útokem a pozemním útokem letadla.§!" # todo: NEW TRANSLATION
+ weap_multi_gun_2: "20mm kanón" # todo: NEW TRANSLATION
+ weap_multi_gun_2_desc: "20mm rotační kanón pro letadla.\n\n§GRada návrháře: Použijte tuto volbu zbraně pro vyvážený mix mezi vzdušným útokem a pozemním útokem letadla.§!" # todo: NEW TRANSLATION
+ weap_multi_gun_3: "30mm kanón" # todo: NEW TRANSLATION
+ weap_multi_gun_3_desc: "Rotační kanón upravený na ráži 30mm.\n\n§GRada návrháře: Použijte tuto volbu zbraně pro vyvážený mix mezi vzdušným útokem a pozemním útokem letadla.§!" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_1: "Těžký hardpoint 1. generace" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_1_desc: "Závěsné body navržené tak, aby unesly těžké zbraně, včetně těžkých protinámořních střel, pum o hmotnosti 2000 lb, střel s plochou dráhou letu a některé těžké vzdušné protiletadlové výzbroje.\n\n§GRada návrháře: Použijte tento hardpoint k vytvoření letadel, která jsou stále schopna plnit většinu misí, ale primárně budou schopna zasahovat lodě nebo provádět strategické bombardování.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BVíceúčelový stíhač§!\n\n§RUPOZORNĚNÍ: CV víceúčeloví stíhači budou útočit na nepřátelské lodě pouze během námořního boje§!" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_2: "Těžký hardpoint 2. generace" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_2_desc: "$weap_mp_heavy_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_3: "Těžký hardpoint 3. generace" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_3_desc: "$weap_mp_heavy_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_4: "Těžký hardpoint 4. generace" # todo: NEW TRANSLATION
+ weap_mp_heavy_hardpoint_4_desc: "$weap_mp_heavy_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_as_hardpoint_1: "Námořský hardpoint 1. generace" # todo: NEW TRANSLATION
+ weap_as_hardpoint_1_desc: "Závěsné body navržené tak, aby unesly těžkou protinámořní výzbroj, torpéda a minovací či odminovací vybavení.\n\n§GRada návrháře: Použijte tento hardpoint k vytvoření letadel určených pro protinámořní mise.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BNámořní bombardér§!\n\n§RUPOZORNĚNÍ: CV námořní bombardéry budou útočit na nepřátelské lodě pouze během námořního boje§!" # todo: NEW TRANSLATION
+ weap_as_hardpoint_2: "Námořský hardpoint 2. generace" # todo: NEW TRANSLATION
+ weap_as_hardpoint_2_desc: "$weap_as_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_as_hardpoint_3: "Námořský hardpoint 3. generace" # todo: NEW TRANSLATION
+ weap_as_hardpoint_3_desc: "$weap_as_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_as_hardpoint_4: "Námořský hardpoint 4. generace" # todo: NEW TRANSLATION
+ weap_as_hardpoint_4_desc: "$weap_as_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_gunship_1: "Kanóny 25mm - 40mm" # todo: NEW TRANSLATION
+ weap_ag_gunship_1_desc: "25mm Gatlingovské kanóny a 40mm kanóny Bofors namontované na velkých letadlech umožňují tvorbu leteckých střelců, poskytujících přesnou palebnou podporu pozemním jednotkám.\n\n§GRada návrháře: Použijte tento modul k vytvoření velkých CAS letadel. Tato letadla mohou poskytovat značnou CAS podporu, ale budou velmi zranitelná v jakémkoli kontestovaném vzdušném prostoru.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BLetoun CAS§!" # todo: NEW TRANSLATION
+ weap_ag_gunship_2: "105mm kanón" # todo: NEW TRANSLATION
+ weap_ag_gunship_2_desc: "105mm dělové kanóny umožňují gunshipům poskytovat dělostřeleckou a tankovou úroveň přesné přímé palebné podpory pozemním jednotkám.\n\n§GRada návrháře: Použijte tento modul k vytvoření velkých CAS letadel. Tato letadla mohou poskytovat značnou CAS podporu, ale budou velmi zranitelná v jakémkoli kontestovaném vzdušném prostoru.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BLetoun CAS§!" # todo: NEW TRANSLATION
+ weap_ag_rapid_dragon: "Paletizované ALCM" # todo: NEW TRANSLATION
+ weap_ag_rapid_dragon_desc: "Jak státy experimentují s nasazením zbraní, palety navržené k vypouštění ALCM přímo z transportního letadla rychle mění roli, kterou mohou velká transportní letadla zastávat.\n\n§GRada návrháře: Použitím tohoto modulu umožníte transportním letadlům vykonávat strategické bombardovací mise. Mějte na paměti, že transportní letadla jsou při plnění této mise stále velmi zranitelná vůči poškození.§!" # todo: NEW TRANSLATION
+ weap_ag_strat_1: "Pumovnice 1. generace" # todo: NEW TRANSLATION
+ weap_ag_strat_1_desc: "Dedikované pumovnice umožňují letadlu nést velké množství výzbroje vzduch-proti-zemi, primárně používané k úderům na strategické cíle ve velkém objemu.\n\n§GRada návrháře: Tyto moduly poskytnou slušné statistiky strategického bombardování a námořního útoku, přičemž zároveň oslabí radarovou výhodu a vzdušnou obranu. Použití velkého množství těchto modulů na stejném letadle výrazně sníží jeho radarovou výhodu a učiní ho zranitelným v kontestovaném vzdušném prostoru.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BStrategický bombardér§!" # todo: NEW TRANSLATION
+ weap_ag_strat_2: "Pumovnice 2. generace" # todo: NEW TRANSLATION
+ weap_ag_strat_2_desc: "$weap_ag_strat_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_strat_3: "Pumovnice 3. generace" # todo: NEW TRANSLATION
+ weap_ag_strat_3_desc: "$weap_ag_strat_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_strat_4: "Pumovnice 4. generace" # todo: NEW TRANSLATION
+ weap_ag_strat_4_desc: "$weap_ag_strat_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_1: "Střední hardpoint 1. generace" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_1: "CAS hardpoint 1. generace" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_1_desc: "Závěsné body navržené pro nesení středně velkých zbraní. Lehké protinámořské střely, přesně naváděná výzbroj, protitankové střely, střední dálkové střely, dálkové vzduch-proti-vzduchu střely, gunpody a další. Tyto hardpointy poskytují letadlu širokou škálu zbraňových možností.\n\n§GRada návrháře: Střední hardpointy jsou samotnou definicí víceúčelovosti, poskytují přístup téměř ke všem leteckým misím a statistiky pro tyto mise, aby bylo letadlo užitečné, za cenu zvýšených výrobních nákladů (IC). Tyto moduly vytvářejí vyvážené, všestranné letadlo.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BVíceúčelový stíhač§!\n\n§RUPOZORNĚNÍ: CV víceúčeloví stíhači budou útočit na nepřátelské lodě pouze během námořního boje§!" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_1_desc: "Závěsné body navržené tak, aby unesly velké množství výzbroje vzduch-proti-zemi. Tyto hardpointy vyměňují možnost nést širší mix výzbroje za schopnost nést více modulů jako jsou střely vzduch-proti-zemi, těžší bomby a více ALCM.\n\n§GRada návrháře: CAS hardpointy poskytnou letadlům výrazné zvýšení pozemního útoku a statistik strategického bombardování, na úkor úplného chybění statistiky vzdušného útoku a snížení radarové výhody.§!\n\n§WPoužitím toho jako primární zbraně vznikne§! §BLetoun CAS§!" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_2: "Střední hardpoint 2. generace" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_2: "CAS hardpoint 2. generace" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_2_desc: "$weap_mp_med_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_2_desc: "$weap_ag_cas_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_3: "Střední hardpoint 3. generace" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_3: "CAS hardpoint 3. generace" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_3_desc: "$weap_mp_med_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_3_desc: "$weap_ag_cas_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_4: "4. generace středního závěsného bodu" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_4: "4. generace CAS závěsného bodu" # todo: NEW TRANSLATION
+ weap_mp_med_hardpoint_4_desc: "$weap_mp_med_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_ag_cas_hardpoint_4_desc: "$weap_ag_cas_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_1: "1. generace lehkého závěsného bodu" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_1_desc: "Lehké závěsné body jsou navrženy tak, aby umožnily letadlu nést určitou výzbroj, ale ne mnoho. Tyto závěsné body jsou levné a slouží buď k vybavení lehkých letadel nějakými zbraněmi, nebo k doplnění výzbroje u jiných letadel. Krátkodobé vzduch‑vzduch střely na krátký dosah, bomby 250–500 lb a raketové kontejnery jsou zbraně, které se na těchto závěsných bodech montují.\n\n§GTip designéra: Tyto závěsné body jsou určeny pro země s omezeným rozpočtem, aby mohly vybavit svá letadla smíšenou výzbrojí, a pro země vyrábějící lehká letadla, které potřebují levnější a lehčí způsob, jak je vyzbrojit.§!\n\n§WPoužití tohoto jako primární zbraně vytvoří§! §Bvíceúčelový stíhač§!\n\n§RVAROVÁNÍ: CV víceúčeloví stíhači budou během námořního boje útočit pouze na nepřátelské lodě§!" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_2: "2. generace lehkého závěsného bodu" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_2_desc: "$weap_mp_light_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_3: "3. generace lehkého závěsného bodu" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_3_desc: "$weap_mp_light_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_4: "4. generace lehkého závěsného bodu" # todo: NEW TRANSLATION
+ weap_mp_light_hardpoint_4_desc: "$weap_mp_light_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_1: "1. generace vzduch‑vzduchového závěsného bodu" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_1_desc: "Vzduch‑vzduchové závěsné body jsou navrženy tak, aby umožnily letadlům nést více vzduch‑vzduchových zbraní, především dlouhodosahové vzduch‑vzduchové střely a další moderní vzduch‑vzduchovou výzbroj, společně s avionickými vylepšeními, která umožňují letadlu účinně zasahovat více cílů najednou.\n\n§GTip designéra: Vzduch‑vzduchové závěsné body jsou primárně určeny k vytváření letadel pro mise vzdušné převahy. Navíc vybavení letadla jedním z těchto závěsných bodů mu umožní udržet si některé statistiky vzdušného útoku i při plnění jiných misí než vzdušná převaha nebo zachytávání, čímž se zvýší jeho schopnost sebeobrany.§!\n\n§WPoužití tohoto jako primární zbraně vytvoří§! §BStíhač vzdušné převahy§!\n\n§RVAROVÁNÍ: CV stíhači vzdušné převahy budou během námořního boje útočit pouze na nepřátelská letadla§!" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_2: "2. generace vzduch‑vzduchového závěsného bodu" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_2_desc: "$weap_a2a_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_3: "3. generace vzduch‑vzduchového závěsného bodu" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_3_desc: "$weap_a2a_hardpoint_1_desc$" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_4: "4. generace vzduch‑vzduchového závěsného bodu" # todo: NEW TRANSLATION
+ weap_a2a_hardpoint_4_desc: "$weap_a2a_hardpoint_1_desc$" # todo: NEW TRANSLATION

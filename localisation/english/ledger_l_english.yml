@@ -1,0 +1,48 @@
+﻿l_english:
+ LEDGER_TITLE_SL: "[Root.GetLedgerTitle]" # todo: NEW TRANSLATION
+ LEDGER_TITLE: "Přehled" # todo: NEW TRANSLATION
+ LEDGER_TITLE_LAND: "Armáda" # todo: NEW TRANSLATION
+ LEDGER_TITLE_NAVY_AIR: "Námořnictvo a letectvo" # todo: NEW TRANSLATION
+ LEDGER_TITLE_INDUSTRY: "Průmysl" # todo: NEW TRANSLATION
+ LEDGER_TITLE_TERRITORY: "Území" # todo: NEW TRANSLATION
+ LEDGER_TITLE_ECONOMY: "Ekonomika" # todo: NEW TRANSLATION
+ LEDGER_TITLE_FACTIONS: "Frakce" # todo: NEW TRANSLATION
+ LEDGER_OPEN: "Otevřít přehled" # todo: NEW TRANSLATION
+ LEDGER_COUNTRY_TT: "" # todo: NEW TRANSLATION
+ LEDGER_SORT_TT: "Klikněte pro seřazení" # todo: NEW TRANSLATION
+ LEDGER_GROUP_TT: "Klikněte pro seskupení" # todo: NEW TRANSLATION
+ LEDGER_REFRESH_TT: "Klikněte pro obnovení seznamu" # todo: NEW TRANSLATION
+ LEDGER_POLITICAL_POWER_TT: "Denní politická síla: [?this.political_power_daily|+=]" # todo: NEW TRANSLATION
+ LEDGER_INDUSTRY_TT: "Celkový počet civilních továren: [?this.num_of_civilian_factories|Y0]\nCelkem vojenských továren: [?this.num_of_military_factories|Y0]\nCelkem loděnic: [?this.num_of_naval_factories|Y0]" # todo: NEW TRANSLATION
+ LEDGER_POPULATION: "Populace" # todo: NEW TRANSLATION
+ LEDGER_RESEARCH_SLOTS: "Výzkumné sloty" # todo: NEW TRANSLATION
+ LEDGER_RESEARCH_SLOTS_TT: "Bonus k rychlosti výzkumu: [?this.modifier@research_speed_factor|+=%]\nSkupiny sdílení technologií: [?this.num_tech_sharing_groups|Y0]\nPůvodní výzkumné sloty: [?this.original_research_slots|Y0]" # todo: NEW TRANSLATION
+ LEDGER_BATTALIONS: "Bataliony" # todo: NEW TRANSLATION
+ LEDGER_DIVISIONS: "Divize" # todo: NEW TRANSLATION
+ LEDGER_COMMAND_POWER_TT: "Denní síla velení: [?this.command_power_daily|+=]" # todo: NEW TRANSLATION
+ LEDGER_LAND_DOCTRINE_LEVEL: "Úroveň pozemní doktríny" # todo: NEW TRANSLATION
+ LEDGER_NAVY: "Lodě" # todo: NEW TRANSLATION
+ LEDGER_AIR: "Letka" # todo: NEW TRANSLATION
+ LEDGER_ROCKET_SITES: "Raketová zařízení" # todo: NEW TRANSLATION
+ LEDGER_CIV_FACTORIES_TT: "Bonus k rychlosti výstavby: [?this.modifier@production_speed_buildings_factor|+=%]\nEfektivní civilní továrny: [?this.effective_civilian_factories|Y0]" # todo: NEW TRANSLATION
+ LEDGER_CONSUMER_GOODS_TT: "Továrny určené pro spotřební zboží: [?this.consumer_goods_factories|0Y]" # todo: NEW TRANSLATION
+ LEDGER_MILITARY_FACTORIES_TT: "Bonus k průmyslovému výkonu: [?this.modifier@industrial_capacity_factory|+=%]\nEfektivní vojenské továrny: [?this.effective_military_factories|Y0]" # todo: NEW TRANSLATION
+ LEDGER_DOCKYARDS_TT: "Bonus k produkci v loděnicích: [?this.modifier@industrial_capacity_dockyard|+=%]\nEfektivní loděnice: [?this.effective_naval_factories|Y0]" # todo: NEW TRANSLATION
+ LEDGER_OWNED_STATES: "Vlastněné státy" # todo: NEW TRANSLATION
+ LEDGER_CONTROLLED_STATES: "Kontrolované státy" # todo: NEW TRANSLATION
+ LEDGER_OWNED_CONTROLLED_STATES: "Vlastněné a kontrolované" # todo: NEW TRANSLATION
+ LEDGER_OCCUPIED_STATES: "Okupované státy" # todo: NEW TRANSLATION
+ LEDGER_CORE_STATES: "Domovské státy" # todo: NEW TRANSLATION
+ LEDGER_CONTROLLED_STATES_INCLUDING_SUBJECTS: "Kontrolované (včetně subjektů)" # todo: NEW TRANSLATION
+ LEDGER_GDP: "HDP" # todo: NEW TRANSLATION
+ LEDGER_GDP_C: "HDP/na obyvatele" # todo: NEW TRANSLATION
+ LEDGER_DEBT: "Dluh" # todo: NEW TRANSLATION
+ LEDGER_DEBT_TT: "[THIS.GetNameWithFlag] má dluh ve výši $[?THIS.debt|-]b. V současnosti platí $[?debt_rate|-] na úrocích každý týden, s úrokovou sazbou [?interest_rate]%." # todo: NEW TRANSLATION
+ LEDGER_TREASURY: "Pokladna" # todo: NEW TRANSLATION
+ LEDGER_TREASURY_TT: "[THIS.GetNameWithFlag] má v pokladně $$[?THIS.tresury|+]b. V současnosti vydělává $[?THIS.treasury_rate|+]b každý týden po započtení výdajů. Také mají §YMezinárodní investice§! v hodnotě $[?THIS.int_investments|+]b, které jim na oplátku přinášejí $[?int_investments_rate|+]b týdně.\n" # todo: NEW TRANSLATION
+ LEDGER_GROSS_INCOME: "Hrubý příjem" # todo: NEW TRANSLATION
+ LEDGER_INCOME_TT: "§CPříjmy populace:§! $§G[?population_tax|+3]§!\n§KPříjmy korporací:§! $§G[?corporate_tax|+3]§!\n§GMezinárodní investice:§! $§G[?int_investments_rate|+3]§!\n§UVývoz surovin:§! $§G[?resource_sale_rate|+3]§!\n§HDalší příjmy:§! $§G[?additional_income_rate|+3]§!\n\nHrubý příjem: $§G[?display_income]§!" # todo: NEW TRANSLATION
+ LEDGER_TOTAL_EXPENSE: "Celkové výdaje" # todo: NEW TRANSLATION
+ LEDGER_EXPENSE_TT: "§CByrokracie:§! $§R[?bureaucracy_gain|-3]§!\n§OObrana:§! $§R[?defence_gain|-3]§!\n§UVnitřní bezpečnost:§! $§R[?security_gain|-3]§!\n§JVzdělávání:§! $§R[?education_gain|-3]§!\n§PZdravotnictví:§! $§R[?health_gain|-3]§!\n§BSociální zabezpečení:§! $§R[?welfare_gain|-3]§!\n§RÚroky z dluhu:§! $§R[?debt_rate|-3]§!\n§HDalší výdaje:§! $§R[?additional_expenses_rate|-3]§!\n\nCelkové výdaje: $§R[?display_expense]§!" # todo: NEW TRANSLATION
+ LEDGER_FACTION_LEADER: "Lídr" # todo: NEW TRANSLATION
+ LEDGER_FACTION_MEMBERS: "Členové" # todo: NEW TRANSLATION

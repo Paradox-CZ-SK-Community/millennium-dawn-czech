@@ -1,0 +1,95 @@
+﻿l_english:
+ malorossiya_focus: "Zaměření Malorossija" # todo: NEW TRANSLATION
+ MLR_ukr_modifier: "Malorosská politika" # todo: NEW TRANSLATION
+ MLR_ukr_modifier_desc: "Malorossiya je stát, který byl vytvořen relativně nedávno, jeho vnitřní a zahraniční politika je zcela podřízena Moskvě, ale přesto má značnou autonomii ve vnitřní i zahraniční politice." # todo: NEW TRANSLATION
+ MLR_ukr_modifier_tt_intro: "Upraví §Y$MLR_ukr_modifier$§! takto" # todo: NEW TRANSLATION
+ MLR_ukr_start_tt: "Přidá §Y$MLR_ukr_modifier$§!, který poskytuje  £political_power_texticon  Zisk politické síly: §G+2.00%§!\n £stability_texticon  Stabilita: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr1_tt: "$MLR_ukr_modifier_tt_intro$ \n £foreign_influence_defense_modifier_texticon §YObrana proti zahraničnímu vlivu§! Násobitel: §G+15.00%§! \n £encryption_texticon  Šifrování: §G+10.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr2_tt: "$MLR_ukr_modifier_tt_intro$ \n £political_violence_gain_texticon  Rychlost růstu odboje: §G-10.00%§! \n £police_cost_multiplier_modifier_texticon §YNáklady policie§! Násobitel: §R+5.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr3_tt: "$MLR_ukr_modifier_tt_intro$ \n £defence_core_texticon  Obrana divizí na domovském území: §G+10.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr4_tt: "$MLR_ukr_modifier_tt_intro$ \n £personnel_cost_multiplier_modifier_texticon §YVojenské náklady§! Násobitel: §R+35.00%§!\n £defence_texticon  Obrana divizí: §G+10.00%§! \n £organization_texticon  Organizace divizí: §G+15.00%§! \n £attack_texticon  Útok divizí: §G+15.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr5_tt: "$MLR_ukr_modifier_tt_intro$ \n £personnel_cost_multiplier_modifier_texticon §YVojenské náklady§! Násobitel: §R+15.00%§!\n £defence_texticon  Obrana divizí: §G+10.00%§! \n £defence_core_texticon  Obrana divizí na domovském území: §G+10.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr6_tt: "$MLR_ukr_modifier_tt_intro$ \n £personnel_cost_multiplier_modifier_texticon §YVojenské náklady§! Násobitel: §R+5.00%§!\n £training_speed_texticon  Doba výcviku divizí: §G-10.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr7_tt: "$MLR_ukr_modifier_tt_intro$ \n £personnel_cost_multiplier_modifier_texticon §YVojenské náklady§! Násobitel: §G-5.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr8_tt: "$MLR_ukr_modifier_tt_intro$ \n £corruption_cost_factor_texticon Náklady na změnu korupce: §R-25.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr9_tt: "$MLR_ukr_modifier_tt_intro$ \n £political_power_texticon  Zisk politické síly: §G+2.00%§!\n £stability_texticon  Stabilita: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr10_tt: "$MLR_ukr_modifier_tt_intro$ \n £defence_texticon  Obrana divizí: §G+5.00%§! \n £organization_texticon  Organizace divizí: §G+5.00%§! \n £attack_texticon  Útok divizí: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_ukr11_tt: "$MLR_ukr_modifier_tt_intro$ \n £health_budget_cost_factor_texticon Náklady na změnu výdajů na zdravotnictví: §G-20.00%§! \n £social_budget_cost_factor_texticon Náklady na změnu sociálních výdajů: §G-20.00%§!\n\n" # todo: NEW TRANSLATION
+ MLR_start: "Vznik Malorossije" # todo: NEW TRANSLATION
+ MLR_start_desc: "Konečně pravá dědička těchto zemí, Malorossiya, vezme moc do svých rukou" # todo: NEW TRANSLATION
+ MLR_constituon: "Ústava Malorossije" # todo: NEW TRANSLATION
+ MLR_constituon_desc: "Musíme náš stát legislativně formalizovat. K tomu přijmeme vlastní ústavu" # todo: NEW TRANSLATION
+ MLR_fsb: "Spolupráce s FSB" # todo: NEW TRANSLATION
+ MLR_fsb_desc: "Bohužel zatím nemáme možnost vytvořit vlastní speciální služby, proto se budeme spoléhat na spolupráci s ruskou FSB" # todo: NEW TRANSLATION
+ MLR_mvd: "Podřídit místní ministerstvo vnitra" # todo: NEW TRANSLATION
+ MLR_mvd_desc: "Podřídíme místní orgány ministerstva vnitra, které byly pod ukrajinskou mocí" # todo: NEW TRANSLATION
+ MLR_ter_defence: "Územní obrana" # todo: NEW TRANSLATION
+ MLR_ter_defence_desc: "Z místní milice vytvoříme územní obranu" # todo: NEW TRANSLATION
+ MLR_contract_army: "Systém kontraktní armády" # todo: NEW TRANSLATION
+ MLR_contract_army_desc: "Naše armáda bude vytvořena podle kontraktního systému" # todo: NEW TRANSLATION
+ MLR_defence_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
+ MLR_defence_doctrine_desc: "Neútočíme na nikoho, naším úkolem je bránit hranice. Naše armáda přijme doktrínu obranných taktik" # todo: NEW TRANSLATION
+ MLR_nat_guard: "Národní garda Malorossije" # todo: NEW TRANSLATION
+ MLR_nat_guard_desc: "V 90. letech měla Ukrajina národní gardu. My ji znovu vytvoříme, tentokrát pod naším velením" # todo: NEW TRANSLATION
+ MLR_defence_prom: "Vojenský průmysl" # todo: NEW TRANSLATION
+ MLR_defence_prom_desc: "Investujeme značné prostředky do obnovy vojenského průmyslu na našem území. Potřebujeme silnou armádu" # todo: NEW TRANSLATION
+ MLR_rebuild_war_academy: "Vojenské školy" # todo: NEW TRANSLATION
+ MLR_rebuild_war_academy_desc: "Naši bojovníci musí mít nejlepší výcvik, aby bránili svou vlast. Proto obnovíme vojenské akademie na našem území" # todo: NEW TRANSLATION
+ MLR_no_corrupt_military: "Výrazně snížit korupci v armádě" # todo: NEW TRANSLATION
+ MLR_no_corrupt_military_desc: "Naše armáda je stále mladá, proto je snazší v ní korupci odstranit" # todo: NEW TRANSLATION
+ MLR_nation_quest: "Národní otázka" # todo: NEW TRANSLATION
+ MLR_nation_quest_desc: "Malorossiya byla a bude součástí Ruska, to je naše odpověď na národní otázku" # todo: NEW TRANSLATION
+ MLR_referendum: "Referendum o osudu Malorossije" # todo: NEW TRANSLATION
+ MLR_referendum_desc: "Nastal osudový okamžik, kdy se musíme rozhodnout, jakým směrem se naše země vydá. Stane se plnohodnotnou součástí Ruska jako republika, nebo zvolíme cestu Svazového státu?" # todo: NEW TRANSLATION
+ MLR_ruble: "Rubl jako státní měna" # todo: NEW TRANSLATION
+ MLR_ruble_desc: "Rubl se stane naší státní měnou, o tom nikdo nepochyboval" # todo: NEW TRANSLATION
+ MLR_corruption: "Boj proti korupci" # todo: NEW TRANSLATION
+ MLR_corruption_desc: "I přes to, že náš stát je ještě mladý, vyskytli se v něm korupční úředníci. Musíme s tím něco udělat" # todo: NEW TRANSLATION
+ MLR_rus_invest: "Ruské investice" # todo: NEW TRANSLATION
+ MLR_rus_invest_desc: "Rusko nás podporuje svými investicemi" # todo: NEW TRANSLATION
+ MLR_build_zavods: "Výstavba továren" # todo: NEW TRANSLATION
+ MLR_build_zavods_desc: "Země potřebuje továrny a průmysl, zajistíme našemu lidu vše potřebné" # todo: NEW TRANSLATION
+ MLR_social_invest: "Investice do sociální sféry" # todo: NEW TRANSLATION
+ MLR_social_invest_desc: "Naši občané by měli mít přístup k vysoce kvalitní zdravotní péči a všechny sociální záruky" # todo: NEW TRANSLATION
+ MLR_infrastructure: "Investice do infrastruktury" # todo: NEW TRANSLATION
+ MLR_infrastructure_desc: "Silnice jsou žilami našeho státu" # todo: NEW TRANSLATION
+ MLR_fight_oligarch: "Boj proti oligarchům" # todo: NEW TRANSLATION
+ MLR_fight_oligarch_desc: "I v našem mladém státě se objevili zkorumpovaní oligarchové, kteří ve válce vydělali spoustu peněz. Poraďme si s nimi" # todo: NEW TRANSLATION
+ MLR_it_invest: "Investice do IT" # todo: NEW TRANSLATION
+ MLR_it_invest_desc: "Budeme investovat do IT technologií pro úspěšný rozvoj naší země" # todo: NEW TRANSLATION
+ MLR_maloross_economy: "Ekonomika Malorossije" # todo: NEW TRANSLATION
+ MLR_maloross_economy_desc: "Naše ekonomická opatření vedla k růstu naší ekonomiky" # todo: NEW TRANSLATION
+ MLR_union_state: "Svazový stát" # todo: NEW TRANSLATION
+ MLR_union_state_desc: "Zvolili jsme cestu Svazového státu" # todo: NEW TRANSLATION
+ MLR_union_group_army: "Společné seskupení vojsk" # todo: NEW TRANSLATION
+ MLR_union_group_army_desc: "Naši vojáci se stanou součástí společného seskupení vojsk Svazového státu" # todo: NEW TRANSLATION
+ MLR_union_group_economic: "Investice Svazového státu" # todo: NEW TRANSLATION
+ MLR_union_group_economic_desc: "Členství ve Svazovém státě mělo pozitivní dopad na naši ekonomiku" # todo: NEW TRANSLATION
+ MLR_union_health_social: "Spolupráce v sociální a zdravotní oblasti" # todo: NEW TRANSLATION
+ MLR_union_health_social_desc: "Členové Svazového státu aktivně spolupracují v sociální a zdravotní oblasti" # todo: NEW TRANSLATION
+ MLR_republic_rf: "Jsme součástí Ruska" # todo: NEW TRANSLATION
+ MLR_republic_rf_desc: "Stali jsme se republikou Ruska, nyní je náš osud s ním spojen" # todo: NEW TRANSLATION
+ MLR_rus_regions: "Spolupráce s ruskými regiony" # todo: NEW TRANSLATION
+ MLR_rus_regions_desc: "Budeme aktivně spolupracovat s dalšími ruskými regiony" # todo: NEW TRANSLATION
+ MLR_rus_companies: "Spolupráce s ruskými společnostmi" # todo: NEW TRANSLATION
+ MLR_rus_companies_desc: "Ruské společnosti budou našimi hlavními partnery" # todo: NEW TRANSLATION
+ MLR_integrate_army: "Integrace do ruské armády" # todo: NEW TRANSLATION
+ MLR_integrate_army_desc: "Přizpůsobíme naši armádu standardům ruské armády" # todo: NEW TRANSLATION
+ russia.56.t: "Referendum o osudu Malorossije" # todo: NEW TRANSLATION
+ russia.56.d: "Naše země stojí před osudovým rozhodnutím. Kam se náš lid přikloní? S kým bude svázán jeho osud a jak jsme připraveni se vzdát nezávislosti. Zvolíme cestu Svazového státu, nebo se konečně staneme republikou Ruska?" # todo: NEW TRANSLATION
+ russia.56.a: "Připojíme se ke Svazovému státu" # todo: NEW TRANSLATION
+ russia.56.b: "Připojíme se k Rusku" # todo: NEW TRANSLATION
+ russia.57.t: "Osvobozenecká armáda Malorossije je s námi" # todo: NEW TRANSLATION
+ russia.57.d: "Naši bratři v osvobození Malé Rusi se k nám připojili" # todo: NEW TRANSLATION
+ russia.57.a: "Hurá!" # todo: NEW TRANSLATION
+ autonomy_union_state_mlr: "Svazový stát" # todo: NEW TRANSLATION
+ autonomy_republic_rf_mal: "Republika federálního významu" # todo: NEW TRANSLATION
+ MLR_ter_oborona_tt: "§YÚzemní obrana§! Malorossije bude vytvořena" # todo: NEW TRANSLATION
+ MLR_nat_gurad_tt: "§YNárodní garda§! Malorossije bude vytvořena" # todo: NEW TRANSLATION
+ MLR_manifest_decisions: "Manifest Malorossije" # todo: NEW TRANSLATION
+ MLR_manifest_decisions_desc: "Tyto země kdysi patřily Malorossije, prohlásíme je za naše a budeme bojovat za jejich návrat do domoviny" # todo: NEW TRANSLATION
+ MLR_kirov_core: "Nároky na Kirovgrad" # todo: NEW TRANSLATION
+ MLR_kiev_core: "Nároky na Kyjev" # todo: NEW TRANSLATION
+ MLR_poltava_core: "Nároky na Polvata" # todo: NEW TRANSLATION
+ MLR_reforming_army_like_rus: "Integrace do ruské armády" # todo: NEW TRANSLATION
+ SOV_moa_tt: "Najmout nové vojáky Malorossijské armády" # todo: NEW TRANSLATION

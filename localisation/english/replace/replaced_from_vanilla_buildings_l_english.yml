@@ -1,0 +1,69 @@
+﻿l_english:
+ industrial_complex: "Civilní průmysl" # todo: NEW TRANSLATION
+ industrial_complex_plural: "Civilní průmysly" # todo: NEW TRANSLATION
+ industrial_complex_desc: "Tato budova poskytuje státu průmysl pro výrobu civilního zboží nebo výstavbu nových budov. Lze ji v případě potřeby převést na vojenský průmysl.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y360K§!\nZákladní výstup HDP na §YCivilní průmysl§!: $§Y20 miliard§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ arms_factory: "Vojenský průmysl" # todo: NEW TRANSLATION
+ arms_factory_plural: "Vojenské průmysly" # todo: NEW TRANSLATION
+ arms_factory_desc: "Tato budova poskytuje státu průmysl pro výrobu nového vojenského vybavení. Lze ji v případě potřeby převést na civilní průmysl.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y25K§!\nZákladní výstup HDP na §YVojenský průmysl§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ infrastructure: "Infrastruktura" # todo: NEW TRANSLATION
+ infrastructure_plural: "Infrastruktura" # todo: NEW TRANSLATION
+ infrastructure_desc: "Tato budova poskytuje státu zlepšení infrastruktury. Zvyšuje vaši zásobovací sílu v strategických regionech a zvyšuje rychlost vašich divizí, stejně jako zvyšuje těžbu surovin." # todo: NEW TRANSLATION
+ internet_station: "Síťová infrastruktura" # todo: NEW TRANSLATION
+ internet_station_plural: "Síťová infrastruktura" # todo: NEW TRANSLATION
+ internet_station_desc: "Síťová infrastruktura jsou vysoké stavby používané v telekomunikační a rádiové komunikaci za účelem šíření přenosů na velké vzdálenosti nebo pro podzemní optické kabely a cloudové výpočetní systémy.\n\nKaždá úroveň §YSíťové infrastruktury§! zvyšuje rychlost růstu místní produktivity o §G+5.00%§!." # todo: NEW TRANSLATION
+ dockyard: "Loděnice" # todo: NEW TRANSLATION
+ dockyard_plural: "Loděnice" # todo: NEW TRANSLATION
+ dockyard_desc: "Tato budova poskytuje státu průmysl pro stavbu nových lodí.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y25K§!\nZákladní výstup HDP na §YLoděnici§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ air_base: "Letecká základna" # todo: NEW TRANSLATION
+ air_base_plural: "Letecké základny" # todo: NEW TRANSLATION
+ air_base_desc: "Tato budova poskytuje státu umístění pro vaše letectvo." # todo: NEW TRANSLATION
+ radar_station: "Radarová stanice" # todo: NEW TRANSLATION
+ radar_station_plural: "Radarové stanice" # todo: NEW TRANSLATION
+ radar_station_desc: "Radarové stanice vám umožňují získávat zpravodajské informace o nepřátelských vojscích v okolních státech. Skládají se z různých radarů a senzorů, stejně jako zpravodajských zdrojů a kapacit pro analýzu vyvíjející se situace.\nVyšší úroveň zvětší její efektivní dosah.\nJejí radary také zlepšují detekci nepřátelského letectva, což dává vašim letadlům lepší šanci se s nimi střetnout.\nNavíc radary zvyšují detekci nepřátelských flotil na moři." # todo: NEW TRANSLATION
+ RADAR_ONMAP_TOOLTIP: "§HRadarová stanice§! úroveň: $LVL|G$/$TOT|H$\nPatří: $WHO|H$" # todo: NEW TRANSLATION
+ RADAR_ONMAP_DAMAGED_TOOLTIP: "§HRadarová stanice§! úroveň: $LVL|R$/$TOT|H$\nPatří: $WHO|H$" # todo: NEW TRANSLATION
+ anti_air_building: "Stanoviště SAM" # todo: NEW TRANSLATION
+ anti_air_building_plural: "Stanoviště SAM" # todo: NEW TRANSLATION
+ anti_air_building_desc: "Stanoviště protivzdušných raket (SAM) jsou komplexy dlouho-dosažných protiletadlových raket. Díky dosahu jsou rakety těžší a nejsou příliš mobilní. Střely odpaluji na přilétávající nepřátelská letadla a chrání proti bombardování. Pokud jsou SAM nasazeny v této roli, poskytují raketovou obranu pro stát a sousední státy v dosahu." # todo: NEW TRANSLATION
+ missile_defense_station: "Základna ABM" # todo: NEW TRANSLATION
+ missile_defense_station_plural: "Základny ABM" # todo: NEW TRANSLATION
+ missile_defense_station_desc: "Základny ABM jsou opevněná podzemní zařízení používaná jako odpalovací základny pro pozemní protibalistické střely. Poskytují balistickou protiraketovou obranu pro stát a sousední státy v dosahu." # todo: NEW TRANSLATION
+ TEL_base: "TEL baterie" # todo: NEW TRANSLATION
+ TEL_base_plural: "TEL baterie" # todo: NEW TRANSLATION
+ TEL_base_desc: "TEL (Transporter Erector Launcher) baterie jsou stanoviště pro mobilní základny křižujících a balistických raket. Poskytují státu odpalovací místa pro §YIRBM§!, §YGLCM§! a §YHSCM§!." # todo: NEW TRANSLATION
+ missile_silo: "Silo balistických raket" # todo: NEW TRANSLATION
+ missile_silo_plural: "Sila balistických raket" # todo: NEW TRANSLATION
+ missile_silo_desc: "Sila balistických raket jsou opevněná podzemní zařízení používaná jako odpalovací základny pro pozemní balistické střely. Poskytují státu odpalovací místa pro §YICBM§! a §YIRBM§!" # todo: NEW TRANSLATION
+ nuclear_reactor: "Jaderný reaktor" # todo: NEW TRANSLATION
+ nuclear_reactor_plural: "Jaderné reaktory" # todo: NEW TRANSLATION
+ nuclear_reactor_desc: "Tato budova přeměňuje jadernou energii na elektrickou energii a při tom spotřebovává středně obohacený uran.\n\nPoskytuje státu:\nZákladní přírůstek výkonu: §G+2§! GW\n" # todo: NEW TRANSLATION
+ synthetic_refinery: "Infrastruktura obnovitelné energie" # todo: NEW TRANSLATION
+ synthetic_refinery_plural: "Infrastruktura obnovitelné energie" # todo: NEW TRANSLATION
+ synthetic_refinery_desc: "Infrastruktura obnovitelné energie je souhrnné označení pro všechny obnovitelné zdroje energie. Patří sem mimo jiné solární parky, větrné turbíny, rafinerie biopaliv, dřevěné uhlí, elektrárny na biopaliva a další. Využívá obnovitelné zdroje a vyrábí z nich palivo.\n\nPoskytuje státu:\nZákladní přírůstek výkonu: §G+0.5§! GW\n" # todo: NEW TRANSLATION
+ synthetic_refinery_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
+ synthetic_refinery_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION
+ fuel_silo: "Strategická palivová rezerva" # todo: NEW TRANSLATION
+ fuel_silo_plural: "Strategické palivové rezervy" # todo: NEW TRANSLATION
+ fuel_silo_desc: "Tato budova poskytuje vaší zemi větší kapacitu pro skladování §HPaliva§!." # todo: NEW TRANSLATION
+ offices: "Kancelářský sektor" # todo: NEW TRANSLATION
+ offices_plural: "Kancelářské sektory" # todo: NEW TRANSLATION
+ offices_desc: "Kancelářské sektory představují všechny ostatní odvětví ekonomiky mimo těžbu a těžký průmysl. Patří sem finanční služby, zákaznický servis, informační technologie, maloobchod a mnoho dalšího.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y630K§!\nZákladní výstup HDP na §YKancelářský sektor§!: $§Y50 miliard§!\nZákladní spotřeba energie: §R-0.2§! GW" # todo: NEW TRANSLATION
+ naval_base: "Námořní základna" # todo: NEW TRANSLATION
+ naval_base_plural: "Námořní základny" # todo: NEW TRANSLATION
+ naval_base_desc: "Zvyšuje dosah vaší flotily a poskytuje jí služby oprav. Umožňuje zásobování zámoří a vývoz surovin. Vyšší úrovně zvyšují propustnost zásobování." # todo: NEW TRANSLATION
+ bunker: "Pozemní pevnost" # todo: NEW TRANSLATION
+ bunker_plural: "Pozemní pevnosti" # todo: NEW TRANSLATION
+ bunker_desc: "Tato budova způsobuje útočníkovi penalizaci k útoku ve výši $VALUE|+%0$ za každou úroveň pevnosti v boji. Útok z více směrů sníží účinek pevností." # todo: NEW TRANSLATION
+ coastal_bunker: "Pobřežní pevnost" # todo: NEW TRANSLATION
+ coastal_bunker_plural: "Pobřežní pevnosti" # todo: NEW TRANSLATION
+ coastal_bunker_desc: "Tato budova způsobuje útočníkovi penalizaci k útoku ve výši $VALUE|+%0$ za každou úroveň pevnosti při námořním vylodění." # todo: NEW TRANSLATION
+ supply_node: "Zásobovací uzel" # todo: NEW TRANSLATION
+ supply_node_desc: "Zásobovací uzel je bod podél železnice, mimo stávající města, odkud lze čerpat zásoby." # todo: NEW TRANSLATION
+ rail_way: "Železnice" # todo: NEW TRANSLATION
+ rail_way_plural: "Železnice" # todo: NEW TRANSLATION
+ rail_way_desc: "Železnice slouží ke spojení zásobovacích uzlů, aby bylo možné čerpat zásoby daleko od vašeho hlavního města." # todo: NEW TRANSLATION
+ fossil_powerplant: "Elektrárna na fosilní paliva" # todo: NEW TRANSLATION
+ fossil_powerplant_plural: "Elektrárny na fosilní paliva" # todo: NEW TRANSLATION
+ fossil_powerplant_desc: "Elektrárna na fosilní paliva je souhrnné označení pro všechny fosilní tepelně elektrické zdroje energie. Patří sem mimo jiné uhlí, zemní plyn a ropu. §YElektrárny na fosilní paliva§! budou nečinné, pokud je výroba energie vyšší než spotřeba.\n\nPoskytuje státu:\nZákladní přírůstek výkonu: §G+1§! GW\n" # todo: NEW TRANSLATION
+ fossil_powerplant_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
+ fossil_powerplant_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION

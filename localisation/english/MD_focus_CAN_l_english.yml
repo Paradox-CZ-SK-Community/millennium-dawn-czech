@@ -1,0 +1,911 @@
+﻿l_english:
+ canada_focus: "Kanadský strom zaměření" # todo: NEW TRANSLATION
+ CAN_Canadian_Economy: "Kanadská ekonomika" # todo: NEW TRANSLATION
+ CAN_Canadian_Economy_desc: "Kanadská ekonomika je desátá největší na světě podle HDP. Převládá v ní sektor služeb, zaměstnávající zhruba tři čtvrtiny pracující populace. Navíc má třetí nejvyšší odhadovanou hodnotu přírodních zdrojů a třetí největší zásoby ropy na světě." # todo: NEW TRANSLATION
+ CAN_Prospects_Oil: "Ropné perspektivy" # todo: NEW TRANSLATION
+ CAN_Prospects_Oil_desc: "Ropa je zásadní zdroj dodatečných prostředků pro naši zemi. Dotace ropným společnostem v Kanadě či v zahraničí mohou posílit naši bilanci přírodních zdrojů." # todo: NEW TRANSLATION
+ CAN_National_Companies: "Národní společnosti" # todo: NEW TRANSLATION
+ CAN_National_Companies_desc: "Domácí firmy jsou pro naše cíle dostačující. Zaměstnávají pracující Kanaďany a udržují nás v prosperitě!" # todo: NEW TRANSLATION
+ CAN_Suncor_Energy: "Suncor Energy" # todo: NEW TRANSLATION
+ CAN_Suncor_Energy_desc: "Suncor se věnuje produkci syntetické ropné suroviny z ropných písků. Společnost je klíčovou součástí ropných oblastí Kanady a je na vzestupu od roku 1995, kdy přešla z privátní na veřejnou společnost." # todo: NEW TRANSLATION
+ CAN_Oil_Sands: "Ropné písky" # todo: NEW TRANSLATION
+ CAN_Oil_Sands_desc: "Ropné písky jsou typem ropného ložiska. Jedná se buď o volné písky, nebo částečně zpevněný pískovec obsahující přirozenou směs písku, jílu a vody nasáklou hustou viskózní formou ropy." # todo: NEW TRANSLATION
+ CAN_Alberta: "Alberta" # todo: NEW TRANSLATION
+ CAN_Alberta_desc: "Alberta je domovem Athabasca ropných písků. Region je bohatý na ropné písky a představuje jeden z hlavních přírodních zdrojů Alberty." # todo: NEW TRANSLATION
+ CAN_Athabasca_Oil_Refineries: "Rafinerie v Athabasce" # todo: NEW TRANSLATION
+ CAN_Athabasca_Oil_Refineries_desc: "Pokračující těžba a zpracování ropných písků v Athabasce může rozšířit kanadský vývoz ropy." # todo: NEW TRANSLATION
+ CAN_Saskatchewan: "Saskatchewan" # todo: NEW TRANSLATION
+ CAN_Saskatchewan_desc: "Saskatchewan je jedním z dvou hlavních regionů s ropnými písky v Kanadě. Silně závisí na rafinaci a přepravě tohoto zdroje." # todo: NEW TRANSLATION
+ CAN_Bakken_Shale_Refineries: "Rafinerie v bance Bakken" # todo: NEW TRANSLATION
+ CAN_Bakken_Shale_Refineries_desc: "Rafinace ropy z břidlice Bakken pomůže zlepšit naši ropnou nezávislost." # todo: NEW TRANSLATION
+ CAN_Keystone_Pipeline: "Ropovod Keystone" # todo: NEW TRANSLATION
+ CAN_Keystone_Pipeline_desc: "Ropovod Keystone je jeden z kontroverznějších ropovodů v dějinách Kanady a USA. Jeho plánované rozšíření by umožnilo rychlejší přepravu ropy na kratší vzdálenosti než současné trasy." # todo: NEW TRANSLATION
+ CAN_Imperial_Oil: "Imperial Oil" # todo: NEW TRANSLATION
+ CAN_Imperial_Oil_desc: "Imperial Oil je významná kanadská společnost zabývající se rafinací a průzkumem ropy. Je druhou největší integrovanou ropnou společností v zemi." # todo: NEW TRANSLATION
+ CAN_International_Companies: "Mezinárodní společnosti" # todo: NEW TRANSLATION
+ CAN_International_Companies_desc: "Nalákání zahraničních firem a uzavírání dohod s mezinárodními společnostmi by mělo prospět naší ropné průmyslové základně i jejich vlastním ekonomikám." # todo: NEW TRANSLATION
+ CAN_Exxon_Mobile: "ExxonMobil" # todo: NEW TRANSLATION
+ CAN_Exxon_Mobile_desc: "ExxonMobil je jednou z největších společností na světě. Exxon je největším přímým nástupcem Standard Oil Johna Rockefellera a vznikl v roce 1999 sloučením Exxon a Mobil. Společnost nadále roste a patří mezi světové ropné giganty." # todo: NEW TRANSLATION
+ CAN_NA_Oil_Treaty: "Severoamerická ropná smlouva" # todo: NEW TRANSLATION
+ CAN_NA_Oil_Treaty_desc: "Severoamerická ropná smlouva je rozšířením Severoamerické dohody o volném obchodu (NAFTA). Primárně řeší ropné dohody mezi USA a Kanadou." # todo: NEW TRANSLATION
+ CAN_Increase_Local_Refining: "Zvýšit domácí rafinaci" # todo: NEW TRANSLATION
+ CAN_Increase_Local_Refining_desc: "Zlepšení naší domácí rafinace nám umožní efektivněji zpracovávat \"špinavou\" ropu, kterou těžíme z břidlic a písků." # todo: NEW TRANSLATION
+ CAN_Mutual_Extraction_Research: "Společný výzkum těžby" # todo: NEW TRANSLATION
+ CAN_Mutual_Extraction_Research_desc: "Výzkum efektivnějších metod zpracování ropy může být pro naši zemi nesmírně přínosný. Je důležité zaměřit se na tento klíčový průmysl Kanady." # todo: NEW TRANSLATION
+ CAN_Saudi_Aramco: "Saudi Aramco" # todo: NEW TRANSLATION
+ CAN_Saudi_Aramco_desc: "Saudi Aramco je jedna z největších společností na světě podle tržeb a drží druhé největší ověřené zásoby ropy. Má také největší denní produkci ropy mezi těmi, kdo ji těží, čímž upevňuje pozici Saúdské Arábie jako jednoho z největších producentů." # todo: NEW TRANSLATION
+ CAN_european_military: "Vojenská struktura ve evropském stylu" # todo: NEW TRANSLATION
+ CAN_european_military_desc: "Další restrukturalizací naší armády směrem k decentralizovanému brigádnímu formátu, jaký mají některé evropské země, budeme efektivnější při rychlých zásazích." # todo: NEW TRANSLATION
+ CAN_american_canadian_military: "Americko-kanadská vojenská spolupráce" # todo: NEW TRANSLATION
+ CAN_american_canadian_military_desc: "Spolupráce s naším gigantickým sousedem na jihu může našim jednotkám předat nové postupy a zkušenosti." # todo: NEW TRANSLATION
+ CAN_Rosneft: "Rosneft" # todo: NEW TRANSLATION
+ CAN_Rosneft_desc: "Přestože menší než Gazprom, Rosneft je další velká ruská ropná společnost. Získala světové renomé jako třetí největší ruská společnost. V roce 2013 se stala jednou z největších veřejně obchodovaných ropných firem na světě." # todo: NEW TRANSLATION
+ CAN_Refineries_Abroad: "Rafinerie v zahraničí" # todo: NEW TRANSLATION
+ CAN_Refineries_Abroad_desc: "Investice do rafinerií v zahraničí posílí naši bilanci a zároveň prohloubí vztahy s těmi státy, s nimiž usilujeme o větší spolupráci." # todo: NEW TRANSLATION
+ CAN_Local_Investing: "Domácí investování" # todo: NEW TRANSLATION
+ CAN_Local_Investing_desc: "Ropná autarkie vytvoří cestu k větší ekonomické prosperitě. Zpracujme toto \"černé zlato\" doma a ukažme světu, co Kanada dokáže." # todo: NEW TRANSLATION
+ CAN_Abqaiq_Refineries: "Rafinerie v Abqaiq" # todo: NEW TRANSLATION
+ CAN_Abqaiq_Refineries_desc: "Partnerství se Saudi Aramco začíná přinášet ovoce. Investice do rafinerií v Abqaiq nám zajistí větší podíl na ziscích této obrovské společnosti!" # todo: NEW TRANSLATION
+ CAN_Volgograd_Refineries: "Rafinerie ve Volgogradu" # todo: NEW TRANSLATION
+ CAN_Volgograd_Refineries_desc: "Rafinerie Rosneftu potřebují modernizaci. Čím více je zafinancujeme v Rusku, tím větší zisk můžeme očekávat z našich zahraničních investic v regionu." # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Sands: "Zaměření na ropné písky" # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Sands_desc: "Orientace energetického výzkumu na ropné písky pomůže našim oddělením R&D vyvinout lepší metody těžby a rafinace." # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Shales: "Zaměření na ropné břidlice" # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Shales_desc: "Orientace energetického výzkumu na ropné břidlice pomůže našim oddělením R&D vyvinout lepší metody těžby a rafinace." # todo: NEW TRANSLATION
+ CAN_Efficient_Oil_Production: "Efektivní produkce ropy" # todo: NEW TRANSLATION
+ CAN_Efficient_Oil_Production_desc: "Zlepšení rafinačních procesů zvýší pouze celkovou ropnou produkci naší země." # todo: NEW TRANSLATION
+ CAN_Oil_Expansion_Expertise: "Ropní baroni Ameriky" # todo: NEW TRANSLATION
+ CAN_Oil_Expansion_Expertise_desc: "Na Kanadu nikdo nemá!" # todo: NEW TRANSLATION
+ CAN_Canadian_Infrastructure: "Kanadská infrastruktura" # todo: NEW TRANSLATION
+ CAN_Canadian_Infrastructure_desc: "Infrastruktura je životní tepna naší ekonomiky a neměli bychom se zdráhat investovat do ní potřebné prostředky." # todo: NEW TRANSLATION
+ CAN_Provincial_Funding_Of_Road_Infrastructure: "Provincionální financování silniční infrastruktury" # todo: NEW TRANSLATION
+ CAN_Provincial_Funding_Of_Road_Infrastructure_desc: "Kvalita infrastruktury se liší mezi provinciemi. Musíme udělat, co je v našich silách, abychom tyto regionální rozdíly zmírnili." # todo: NEW TRANSLATION
+ CAN_Federal_Gas_Tax_Fund: "Federální fond z daně z pohonných hmot" # todo: NEW TRANSLATION
+ CAN_Federal_Gas_Tax_Fund_desc: "Díky federálnímu fondu z daně z pohonných hmot můžeme využít příjmy z fosilních paliv k podpoře místních infrastrukturních projektů v oblastech včetně veřejné dopravy, nakládání s odpady a mitigace katastrof." # todo: NEW TRANSLATION
+ CAN_Provincial_Territorial_Base_Fund: "Provincionální a teritoriální základní fond" # todo: NEW TRANSLATION
+ CAN_Provincial_Territorial_Base_Fund_desc: "Pomocí tohoto fondu lze zajistit základní úroveň financování hlavních infrastrukturních priorit kanadských provincií a teritorií." # todo: NEW TRANSLATION
+ CAN_Building_Canada_Fund: "Fond Budování Kanady" # todo: NEW TRANSLATION
+ CAN_Building_Canada_Fund_desc: "V rámci plánu Budování Kanady může tento fond řešit infrastrukturní priority na národní, regionální i místní úrovni a naplňovat tři cíle: silnější ekonomiku, čistší prostředí a silné prosperující komunity." # todo: NEW TRANSLATION
+ CAN_Canada_Strategic_Infrastructure_Fund: "Kanadský fond strategické infrastruktury" # todo: NEW TRANSLATION
+ CAN_Canada_Strategic_Infrastructure_Fund_desc: "Některé druhy infrastruktury jsou zásadní pro správné fungování státu. Majetky jako železnice a vodohospodářská infrastruktura zaslouží zvláštní pozornost a proto samostatný fond." # todo: NEW TRANSLATION
+ CAN_P3_Projects: "Projekty PPP" # todo: NEW TRANSLATION
+ CAN_P3_Projects_desc: "S nárůstem soukromého sektoru stát už nemusí realizovat velké infrastrukturní projekty sám. Partnerství veřejného a soukromého sektoru mezi kanadskou vládou a průmyslem poskytují užitečné způsoby financování projektů v oblasti zdravotnictví, dopravy, životního prostředí, justice, rekreace a vzdělávání." # todo: NEW TRANSLATION
+ CAN_Trans_Canada_Highway_Expansion: "Rozšíření dálnice Trans-Canada" # todo: NEW TRANSLATION
+ CAN_Trans_Canada_Highway_Expansion_desc: "Jako mimořádně rozlehlá země spojit protilehlé konce Kanady není snadné. Dálnice Trans-Canada musí být vylepšena, aby se zvýšila vnitrostátní propojenost." # todo: NEW TRANSLATION
+ CAN_Heavy_Industries_Focus: "Zaměření na těžký průmysl" # todo: NEW TRANSLATION
+ CAN_Heavy_Industries_Focus_desc: "Pokud si Kanada chce udržet místo jedné z největších ekonomik světa, musíme učinit potřebné investice do domácího průmyslu." # todo: NEW TRANSLATION
+ CAN_Centralized_Industry: "Centralizovaný průmysl" # todo: NEW TRANSLATION
+ CAN_Centralized_Industry_desc: "Je důležité bedlivě sledovat ekonomické hybatele naší země." # todo: NEW TRANSLATION
+ CAN_AECON_Industries: "Aecon Industrial" # todo: NEW TRANSLATION
+ CAN_AECON_Industries_desc: "Aecon Industrial je divize Aecon Group Inc., která se specializuje na poskytování stavebních služeb veřejnému i soukromému sektoru v průmyslových oblastech." # todo: NEW TRANSLATION
+ CAN_Petrochemical_Industrialization: "Petrochemická industrializace" # todo: NEW TRANSLATION
+ CAN_Petrochemical_Industrialization_desc: "Vzhledem k rozsáhlým zásobám fosilních paliv v Kanadě je petrochemická výroba potenciálně výnosnou oblastí, na kterou se zaměřit." # todo: NEW TRANSLATION
+ CAN_Nuclear_Energy_Developments: "Rozvoj jaderné energie" # todo: NEW TRANSLATION
+ CAN_Nuclear_Energy_Developments_desc: "I když nám fosilní paliva přinesla mnoho, víme, že naše zásoby nejsou nekonečné. Musíme začít diverzifikovat zdroje energie a jádro je jednou z nejperspektivnějších alternativ." # todo: NEW TRANSLATION
+ CAN_Allow_Foreign_Companies: "Povolit zahraniční společnosti" # todo: NEW TRANSLATION
+ CAN_Allow_Foreign_Companies_desc: "Kanada byla vždy integrální součástí globálního kapitalismu a budeme v této roli pokračovat tím, že přivítáme zahraniční nadnárodní společnosti s otevřenou náručí." # todo: NEW TRANSLATION
+ CAN_Seek_US_Companies: "Přitáhnout americké společnosti" # todo: NEW TRANSLATION
+ CAN_Seek_US_Companies_desc: "Vzhledem k blízkosti Spojených států mají americké korporace zvláštní zájem o kanadský trh. A proč by ne?" # todo: NEW TRANSLATION
+ CAN_Strengthen_NA_Agreements: "Posílit severoamerické dohody" # todo: NEW TRANSLATION
+ CAN_Strengthen_NA_Agreements_desc: "Musíme konsolidovat vazby, které NAFTA a jiné formy spolupráce začaly vytvářet v Severní Americe." # todo: NEW TRANSLATION
+ CAN_Expand_Automobile_Manufactoring: "Rozšířit výrobu automobilů" # todo: NEW TRANSLATION
+ CAN_Expand_Automobile_Manufactoring_desc: "Po mnoho let zahraniční výrobci z USA, Japonska a dalších zemí vyráběli své produkty v kanadských závodech. Budování na této základně zajistí více kanadských pracovních míst a silnější ekonomiku." # todo: NEW TRANSLATION
+ CAN_seek_british_companies: "Přitáhnout britské společnosti" # todo: NEW TRANSLATION
+ CAN_seek_british_companies_desc: "Snažíme se udržet jeden nohu v Atlantiku; britské firmy rády hledají ekonomické příležitosti v naší zemi." # todo: NEW TRANSLATION
+ CAN_Strengthen_EU_Cooperations: "Posílit evropskou spolupráci" # todo: NEW TRANSLATION
+ CAN_Strengthen_EU_Cooperations_desc: "Ač jednotlivé evropské země možná nemají takovou ekonomickou váhu jako dříve, dohromady představují důležitou část světové ekonomiky, kterou si nemůžeme dovolit ignorovat." # todo: NEW TRANSLATION
+ CAN_Expand_Shipbuilding: "Rozšířit stavbu lodí" # todo: NEW TRANSLATION
+ CAN_Expand_Shipbuilding_desc: "Kanadský námořní průmysl přináší miliardy příjmů a dává práci více než 10 000 lidem; je to užitečný sektor, který lze dále rozvíjet." # todo: NEW TRANSLATION
+ CAN_Industrial_Expertise: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ CAN_Industrial_Expertise_desc: "Nyní, když jsme zlepšili kanadskou průmyslovou kapacitu, můžeme tvrdit, že máme v této oblasti odborné znalosti." # todo: NEW TRANSLATION
+ CAN_Focus_On_Political_Spectrum: "Zaměření na politické spektrum" # todo: NEW TRANSLATION
+ CAN_Focus_On_Political_Spectrum_desc: "Během kanadské politické historie převládaly liberální, egalitářské a umírněné hodnoty. Jak se však populistické síly probouzejí po světě a nové mocnosti chtějí měnit liberální konsenzus, udrží se tato tradice?" # todo: NEW TRANSLATION
+ CAN_Ministry_Of_Culture: "Ministerstvo kultury" # todo: NEW TRANSLATION
+ CAN_Ministry_Of_Culture_desc: "Department of Canadian Heritage je vládní rezort odpovědný za uchování a podporu kanadské kultury." # todo: NEW TRANSLATION
+ CAN_Two_Language_State: "Stát se dvěma jazyky" # todo: NEW TRANSLATION
+ CAN_Two_Language_State_desc: "Kanada vždy byla a vždy bude zemí, kde angličtina a francouzština mají stejný status." # todo: NEW TRANSLATION
+ CAN_maintain_the_status_quo: "Udržet status quo" # todo: NEW TRANSLATION
+ CAN_maintain_the_status_quo_desc: "Dvoujazyčnost je zakotvena v kanadské ústavě a je základem jednoty národa." # todo: NEW TRANSLATION
+ CAN_crush_anti_quebecois_movements: "Potlačit hnutí proti Québécois" # todo: NEW TRANSLATION
+ CAN_crush_anti_quebecois_movements_desc: "Obyvatelé Québecu jsou stále více odcizováni negativním vykreslováním v anglicky mluvících kanadských médiích. Měli bychom odradit toto \"bashování Québecu\", aby se naši québecští občané cítili v zemi vítáni." # todo: NEW TRANSLATION
+ CAN_educational_focuses: "Zlepšení kanadského školství" # todo: NEW TRANSLATION
+ CAN_educational_focuses_desc: "Abychom zmenšili propast mezi anglicky a francouzsky mluvícími Kanaďany, měli bychom investovat do vzdělávacího systému tak, aby se už od raného věku pěstoval pocit společné identity." # todo: NEW TRANSLATION
+ CAN_restore_quebec_to_glory: "Obnovit slávu Québecu" # todo: NEW TRANSLATION
+ CAN_restore_quebec_to_glory_desc: "Než Nová Francie padla do rukou Britů, byla impozantním opěrným bodem francouzské kultury v Americe. Québec by měl zdědit toto hrdé dědictví." # todo: NEW TRANSLATION
+ CAN_redraft_langauge_laws: "Přepracovat jazykové zákony" # todo: NEW TRANSLATION
+ CAN_redraft_langauge_laws_desc: "Naše současné jazykové zákony by měly být aktualizovány, aby skutečně odrážely dvojjazyčnou povahu naší země." # todo: NEW TRANSLATION
+ CAN_multi_language_forces: "Mnohojazyčný národ" # todo: NEW TRANSLATION
+ CAN_multi_language_forces_desc: "Naše země už nebude rozdělena na dvě části, které mluví odlišnými jazyky. Měli bychom usilovat o skutečně integrovaný vícejazyčný národ." # todo: NEW TRANSLATION
+ CAN_a_nation_of_culture: "Kulturní metropole" # todo: NEW TRANSLATION
+ CAN_a_nation_of_culture_desc: "Montreal je už dlouho považován za \"kulturní metropoli Kanady\". Měli bychom poskytnout městu vše, co potřebuje, aby zůstalo baštou kanadské kultury." # todo: NEW TRANSLATION
+ CAN_reoriented_vision: "Přeorientovaná vojenská vize" # todo: NEW TRANSLATION
+ CAN_reoriented_vision_desc: "Kanadské ozbrojené síly potřebují nové základní pojetí, aby co nejlépe reprezentovaly lidi nové Kanady, kterou se snažíme budovat." # todo: NEW TRANSLATION
+ CAN_a_nation_of_diversity: "Národ rozmanitosti" # todo: NEW TRANSLATION
+ CAN_a_nation_of_diversity_desc: "V dnešní Kanadě je odlišnost oslavována, nikoli posměchána. Všichni praví Kanaďané, bez ohledu na jazyk, kterým mluví, se zde mohou cítit vítáni." # todo: NEW TRANSLATION
+ CAN_federal_reorganization: "Federální reorganizace" # todo: NEW TRANSLATION
+ CAN_federal_reorganization_desc: "Přerozdělením moci, kterou mají provincie, můžeme dále snížit volání po nezávislém Québecu." # todo: NEW TRANSLATION
+ CAN_the_new_order: "Nová Kanada" # todo: NEW TRANSLATION
+ CAN_the_new_order_desc: "Díky našemu úsilí jsme vybudovali novou Kanadu, která sílí tím, že se vyrovnává se svou vnitřní rozmanitostí." # todo: NEW TRANSLATION
+ CAN_One_Language_State: "Stát jednoho jazyka" # todo: NEW TRANSLATION
+ CAN_One_Language_State_desc: "Současná dvojjazyčnost Kanady je receptem na nestabilitu a nakonec katastrofu. Jeden jazyk musí převládnout." # todo: NEW TRANSLATION
+ CAN_French_Government: "Francouzská vláda" # todo: NEW TRANSLATION
+ CAN_French_Government_desc: "Dlouho byli francouzsko-mluvící Kanaďané odsouváni a veršeni našimi arogantními anglofonními bratry. Allons-y citoyens! L'avenir du Canada est francophone!" # todo: NEW TRANSLATION
+ CAN_Glorification_Of_Quebec: "Glorifikace Québecu" # todo: NEW TRANSLATION
+ CAN_Glorification_Of_Quebec_desc: "Jako dědice odkazu Nové Francie si historie a kultura Québecu zaslouží čestné místo v kanadské národní identitě." # todo: NEW TRANSLATION
+ CAN_English_Government: "Anglická vláda" # todo: NEW TRANSLATION
+ CAN_English_Government_desc: "Subverzivní francouzsky mluvící prvky v Kanadě nám byly příliš dlouho trnem v oku. Je čas opustit fasádu dvojjazyčnosti, na které naši předchůdci lpěli, a přijmout anglickou identitu Kanady." # todo: NEW TRANSLATION
+ CAN_Integration_Of_Quebec: "Integrace Québecu" # todo: NEW TRANSLATION
+ CAN_Integration_Of_Quebec_desc: "Québec se musí přizpůsobit zbytku země. Měli bychom spustit reformy vedoucí k úplné integraci této neukázněné provincie." # todo: NEW TRANSLATION
+ CAN_Address_Native_Question: "Řešení otázky domorodých obyvatel" # todo: NEW TRANSLATION
+ CAN_Address_Native_Question_desc: "První národy jsou původními lidmi Kanady a dlouho si stěžovaly na diskriminaci, špatné socioekonomické podmínky a nedostatek respektu k právům na půdu." # todo: NEW TRANSLATION
+ CAN_Continue_Societal_Integration: "Pokračovat v sociální integraci" # todo: NEW TRANSLATION
+ CAN_Continue_Societal_Integration_desc: "Lidé z Prvních národů trpí řadou problémů, jako je nezaměstnanost a zdravotní potíže, které drží jejich životní úroveň na úrovni rozvojových zemí. Musíme napravit tyto nerovnosti a zlepšit životní úroveň domorodého obyvatelstva Kanady." # todo: NEW TRANSLATION
+ CAN_Native_Peoples_Act: "Zákon o domorodých národech" # todo: NEW TRANSLATION
+ CAN_Native_Peoples_Act_desc: "Nový zákon, který bude respektovat kulturu Prvních národů a předcházet diskriminaci, udělá pro domorodé obyvatele mnoho a ukáže jim, že jsou v dnešní Kanadě vítáni." # todo: NEW TRANSLATION
+ CAN_Focus_On_Canada: "Zaměřit se na Kanadu" # todo: NEW TRANSLATION
+ CAN_Focus_On_Canada_desc: "V čím dál chaotičtějším světě musíme dbát na vlastní zájmy. Kdo jiný ochrání Kanadu, pokud ne my sami?" # todo: NEW TRANSLATION
+ CAN_Canada_First: "Kanada především" # todo: NEW TRANSLATION
+ CAN_Canada_First_desc: "Mezinárodní záležitosti nejsou naší prioritou. Kanadský lid si zaslouží naši plnou a bezvýhradnou pozornost." # todo: NEW TRANSLATION
+ CAN_NA_Proposal: "Severoamerický návrh" # todo: NEW TRANSLATION
+ CAN_NA_Proposal_desc: "I když by nás neměly pohlcovat zahraniční záležitosti, nemůžeme ignorovat naši geografickou polohu. Měli bychom ujistit sousedy, že naše odvrácení od světa neohrozí vztahy." # todo: NEW TRANSLATION
+ CAN_Stand_Alone: "Samostatnost" # todo: NEW TRANSLATION
+ CAN_Stand_Alone_desc: "Nastal čas sundat pouta, která nás vážou k Evropě přes NATO. Kanada odmítá být vázána bezpečnostními zájmy států daleko za našimi břehy." # todo: NEW TRANSLATION
+ CAN_strength_at_home: "Síla doma" # todo: NEW TRANSLATION
+ CAN_strength_at_home_desc: "Abychom zvýšili naši soběstačnost, musíme investovat do vlastních ekonomických schopností." # todo: NEW TRANSLATION
+ CAN_a_neutral_rhetoric: "Neutralní rétorika" # todo: NEW TRANSLATION
+ CAN_a_neutral_rhetoric_desc: "Je stále zřejmější, že období po studené válce není tak unipolární, jak se dříve věřilo. Měli bychom začít prosazovat kanadskou neutralitu, aby nás nestrhla rostoucí rivalita velmocí." # todo: NEW TRANSLATION
+ CAN_shred_the_constitution_act: "Zrušit část Ústavního aktu" # todo: NEW TRANSLATION
+ CAN_shred_the_constitution_act_desc: "Článek 35 Ústavního aktu poskytuje speciální práva a ochrany domorodému obyvatelstvu. Tato práva musí být odebrána, chceme‑li plně vyřešit sociální problémy Prvních národů." # todo: NEW TRANSLATION
+ CAN_destroy_reservations: "Zrušit rezervace" # todo: NEW TRANSLATION
+ CAN_destroy_reservations_desc: "Navzdory stovkám tisíc dolarů vládních investic jsou takzvané \"indiánské rezervace\" v žalostném stavu. Nemáme jinou možnost než je trvale uzavřít." # todo: NEW TRANSLATION
+ CAN_discredit_western_identitiy: "Diskreditovat západní identitu" # todo: NEW TRANSLATION
+ CAN_discredit_western_identitiy_desc: "My Kanaďané bychom se neměli už ani identifikovat se \"Západem.\" Tento vágní, bezvýznamný pojem nás nutí do proamerické a proevropské zahraniční politiky, která nám nic nepřináší." # todo: NEW TRANSLATION
+ CAN_end_foriegn_entanglment: "Ukončit zahraniční zapojení" # todo: NEW TRANSLATION
+ CAN_end_foriegn_entanglment_desc: "Kanadská angažovanost v zahraničí je zbytečná a nákladná. Měli bychom se stáhnout a zaměřit se na zlepšení domácích podmínek." # todo: NEW TRANSLATION
+ CAN_military_autarky: "Vojenská soběstačnost" # todo: NEW TRANSLATION
+ CAN_military_autarky_desc: "Naše armáda je momentálně příliš závislá na bývalých \"spojencích.\" Měli bychom zvýšit vlastní kapacity, aby nás v případě války nikdo nemusel zachraňovat." # todo: NEW TRANSLATION
+ CAN_a_redefinition: "Předefinování" # todo: NEW TRANSLATION
+ CAN_a_redefinition_desc: "Kanadská identita musí být zásadně předefinována, chceme‑li se plně zavázat k naší nové zahraniční politice." # todo: NEW TRANSLATION
+ CAN_canadian_isolationism: "Kanadský izolacionismus" # todo: NEW TRANSLATION
+ CAN_canadian_isolationism_desc: "Stejně jako naši jižní sousedé bychom si měli umýt ruce od světových problémů a zamiřovat zrak dovnitř." # todo: NEW TRANSLATION
+ CAN_revised_foreign_policy: "Revidovaná zahraniční politika" # todo: NEW TRANSLATION
+ CAN_revised_foreign_policy_desc: "Nastal čas vyhlásit trvalou kanadskou neutralitu. Už nebudeme pěšáci ve velmocenských hrách jiných států." # todo: NEW TRANSLATION
+ CAN_industrial_might: "Průmyslová moc" # todo: NEW TRANSLATION
+ CAN_industrial_might_desc: "Nyní, když jsme se rozhodli upřednostnit kanadské zájmy, se můžeme soustředit na proměnu Kanady v ekonomickou velmoc." # todo: NEW TRANSLATION
+ CAN_bureaucracy: "Byrokracie" # todo: NEW TRANSLATION
+ CAN_bureaucracy_desc: "Tak velká země jako Kanada vyžaduje stejně rozvětvenou byrokracii, aby ji bylo možné efektivně spravovat." # todo: NEW TRANSLATION
+ CAN_domestic: "Domácí nezávislost" # todo: NEW TRANSLATION
+ CAN_domestic_desc: "Zahraniční zájmy uvnitř kanadských hranic jsou stále problematické. Musíme zajistit, aby tyto síly nemohly vyvíjet vliv na naši vládní politiku." # todo: NEW TRANSLATION
+ CAN_redistribution_of_balance: "Přepracovaný rozpočet" # todo: NEW TRANSLATION
+ CAN_redistribution_of_balance_desc: "Po snížení mezinárodních závazků máme nyní prostředky věnovat více na domácí programy." # todo: NEW TRANSLATION
+ CAN_tax_cuts: "Snížení daní" # todo: NEW TRANSLATION
+ CAN_tax_cuts_desc: "S naším omezeným mezinárodním zásahem už nemusíme Kanaďany tolik danit jako dříve." # todo: NEW TRANSLATION
+ CAN_State_Of_Terror: "Stát teroru" # todo: NEW TRANSLATION
+ CAN_State_Of_Terror_desc: "Naše kontroverzní politika vůči Prvním národům vyvolala roj problémů. Tato nestabilita vedla ke zvýšenému pocitu úzkosti v zemi, která byla dříve umírněná a stabilní." # todo: NEW TRANSLATION
+ CAN_Western_Shift: "Západní obrat" # todo: NEW TRANSLATION
+ CAN_Western_Shift_desc: "Měli bychom využít nedávných mezinárodních událostí k obnovení našeho závazku k západem vedenému liberálnímu mezinárodnímu řádu." # todo: NEW TRANSLATION
+ CAN_Strengthen_Ties_With_Nato: "Posílit vazby s NATO" # todo: NEW TRANSLATION
+ CAN_Strengthen_Ties_With_Nato_desc: "Postavení Kanady vždy bylo takové, že NATO je nepostradatelným pilířem mezinárodní bezpečnosti." # todo: NEW TRANSLATION
+ CAN_European_Investments: "Evropské investice" # todo: NEW TRANSLATION
+ CAN_European_Investments_desc: "Přátelské vazby mezi námi a našimi evropskými partnery lze posílit pomocí vítaných investic od štědrých investorů." # todo: NEW TRANSLATION
+ CAN_Propose_NAFTA_Improvements: "Navrhnout zlepšení NAFTA" # todo: NEW TRANSLATION
+ CAN_Propose_NAFTA_Improvements_desc: "NAFTA je solidním základem našich vztahů se severoamerickými sousedy, ale vždy je prostor pro zlepšení." # todo: NEW TRANSLATION
+ CAN_US_Investments: "Investice z USA" # todo: NEW TRANSLATION
+ CAN_US_Investments_desc: "Ekonomický gigant na jih od nás je ideálním zdrojem investic, které udrží naši ekonomiku v chodu." # todo: NEW TRANSLATION
+ CAN_Strengthen_Position_In_Nato: "Posílit pozici v NATO" # todo: NEW TRANSLATION
+ CAN_Strengthen_Position_In_Nato_desc: "Dosud Kanada převážně zaujímala rezervovanou roli v NATO a nechávala spojence dominovat. Měli bychom ukázat, že máme alianci co nabídnout." # todo: NEW TRANSLATION
+ CAN_nato_exercises: "Cvičení NATO" # todo: NEW TRANSLATION
+ CAN_nato_exercises_desc: "Měli bychom vyzvat k společným cvičením mezi členy NATO jako způsob přípravy na budoucí konflikty." # todo: NEW TRANSLATION
+ CAN_greater_military_cooperation: "Větší vojenská spolupráce" # todo: NEW TRANSLATION
+ CAN_greater_military_cooperation_desc: "Aby Kanada učinila výraznější závazek vůči NATO, měli bychom posílit naše ozbrojené síly." # todo: NEW TRANSLATION
+ CAN_investments_in_nato: "Investovat do NATO" # todo: NEW TRANSLATION
+ CAN_investments_in_nato_desc: "NATO by zůstalo v stagnaci a nakonec by upadlo, pokud nebudou do Aliance pravidelně investovány prostředky, které zajistí její relevanci a efektivitu." # todo: NEW TRANSLATION
+ CAN_reinforce_western_ideals: "Posílit západní ideály" # todo: NEW TRANSLATION
+ CAN_reinforce_western_ideals_desc: "Západní hodnoty byly vždy základem kanadské identity. Měli bychom si připomenout, co z nás dělá Kanadany." # todo: NEW TRANSLATION
+ CAN_study_american_war_doctrine: "Studovat americkou válečnou doktrínu" # todo: NEW TRANSLATION
+ CAN_study_american_war_doctrine_desc: "Rozsáhlé válečné zkušenosti USA jsou něco, z čeho bychom se měli poučit a využít získané lekce." # todo: NEW TRANSLATION
+ CAN_canadian_peacekeepers: "Kanadští mírotvorci" # todo: NEW TRANSLATION
+ CAN_canadian_peacekeepers_desc: "Jako střední moc byla Kanada vždy aktivní účastnicí mezinárodních snah, jako jsou mise OSN. Měli bychom posílit naše závazky v rámci mírových operací OSN, abychom ukázali svůj závazek k mezinárodnímu řádu." # todo: NEW TRANSLATION
+ CAN_support_the_mutual_defense: "Podpořit vzájemnou obranu" # todo: NEW TRANSLATION
+ CAN_support_the_mutual_defense_desc: "Článek 5 Smlouvy o NATO uvádí, že útok na jednoho je útokem na všechny. Musíme zajistit, aby důvěra v náš závazek ke vzájemné obraně neochabla." # todo: NEW TRANSLATION
+ CAN_draw_in_mexico: "Přilákat Mexiko" # todo: NEW TRANSLATION
+ CAN_draw_in_mexico_desc: "Jako atlantická a severoamerická země je Mexiko vhodným partnerem pro další rozšíření NATO." # todo: NEW TRANSLATION
+ CAN_Eastern_Shift: "Východní obrat" # todo: NEW TRANSLATION
+ CAN_Eastern_Shift_desc: "Kanada byla dlouho loajálním přítelem USA a západní Evropy. A proč? Bez ideologických rozporů z dob studené války mají znovu se prosazující Rusko a rostoucí Čína Kanadě co nabídnout." # todo: NEW TRANSLATION
+ CAN_Russian_Cooperationism: "Ruská spolupráce" # todo: NEW TRANSLATION
+ CAN_Russian_Cooperationism_desc: "Jako další arktická země bohatá na fosilní paliva je Rusko vhodným partnerem pro naši zemi do budoucna." # todo: NEW TRANSLATION
+ CAN_Chinese_Agreements: "Čínské dohody" # todo: NEW TRANSLATION
+ CAN_Chinese_Agreements_desc: "Vzestup Číny je nevyhnutelný. Proto bychom měli co nejdříve co nejvíce využít čínského obrovského trhu a finančních rezerv." # todo: NEW TRANSLATION
+ CAN_Investments_From_East: "Investice z Východu" # todo: NEW TRANSLATION
+ CAN_Investments_From_East_desc: "Ruské a čínské peníze zajistí orientaci Kanady směrem k těmto vznikajícím mocnostem a pomohou rozjet ekonomický růst naší země." # todo: NEW TRANSLATION
+ CAN_Expand_Arctic_Routes: "Rozšířit arktické trasy" # todo: NEW TRANSLATION
+ CAN_Expand_Arctic_Routes_desc: "Poté, co jsme získali spolupráci ostatních arktických národů, můžeme nyní těžit z rozšířených arktických námořních tras." # todo: NEW TRANSLATION
+ CAN_Russo_Canadian_Trade_Agreement: "Rusko-kanadská obchodní dohoda" # todo: NEW TRANSLATION
+ CAN_Russo_Canadian_Trade_Agreement_desc: "Obchod mezi Kanadou a Ruskou federací podpoří růst našeho průmyslu těžby fosilních paliv." # todo: NEW TRANSLATION
+ CAN_China_Canada_Commerce_Council: "Čínsko-kanadská obchodní rada" # todo: NEW TRANSLATION
+ CAN_China_Canada_Commerce_Council_desc: "Založením rady, která usnadní obchodní interakce mezi Kanadou a Čínou, můžeme výrazně zjednodušit podnikání pro firmy z obou zemí." # todo: NEW TRANSLATION
+ CAN_Russo_Chinese_Canadian_Sphere: "Rusko-čínsko-kanadská sféra" # todo: NEW TRANSLATION
+ CAN_Russo_Chinese_Canadian_Sphere_desc: "Prostřednictvím našich vztahů s Ruskem a Čínou se čím dál více formuje sféra společných zájmů napříč třemi kontinenty. Měli bychom její vznik uznat a konsolidovat." # todo: NEW TRANSLATION
+ CAN_Canadian_Armed_Forces: "Kanadské ozbrojené síly" # todo: NEW TRANSLATION
+ CAN_Canadian_Armed_Forces_desc: "Kanadské ozbrojené síly mají tři hlavní úkoly: obranu domovského území Kanady, obranu severoamerického kontinentu a zajištění mezinárodní bezpečnosti obecně. Abychom dosáhli těchto cílů, naše ozbrojené síly potřebují potřebnou podporu." # todo: NEW TRANSLATION
+ CAN_the_infantry: "Pěchota" # todo: NEW TRANSLATION
+ CAN_the_infantry_desc: "Musíme se soustředit na zlepšení schopností naší pěchoty v boji." # todo: NEW TRANSLATION
+ CAN_new_rifles: "Nové pušky" # todo: NEW TRANSLATION
+ CAN_new_rifles_desc: "Pěchota je nejdůležitější částí každé armády. Musíme zajistit, aby disponovala nejnovější a nejlepší technikou." # todo: NEW TRANSLATION
+ CAN_new_manufacturers: "Noví výrobci" # todo: NEW TRANSLATION
+ CAN_new_manufacturers_desc: "Musíme najít nové a efektivnější výrobce zbraní, kteří vyrobí naše nové řady vybavení." # todo: NEW TRANSLATION
+ CAN_manufacturer_companys: "Ruské zbrojní smlouvy" # todo: NEW TRANSLATION
+ CAN_manufacturer_companys_desc: "Rusové se ukázali jako životaschopný dodavatel, který může naší armádě poskytnout potřebné služební pušky." # todo: NEW TRANSLATION
+ CAN_manufacturer_companys_2: "Americké zbraňové platformy" # todo: NEW TRANSLATION
+ CAN_manufacturer_companys_2_desc: "Jsou dvě věci, které k sobě patří: zbraně a větší zbraně. Poskytnou nám nejlepší služební pušku." # todo: NEW TRANSLATION
+ CAN_rcaf: "Královské kanadské letectvo" # todo: NEW TRANSLATION
+ CAN_rcaf_desc: "Kdo ovládá nebe, ovládá bojiště. Musíme výrazně zlepšit naše letectvo, pokud chceme uplatnit naši sílu na bojišti." # todo: NEW TRANSLATION
+ CAN_navy: "Královské kanadské námořnictvo" # todo: NEW TRANSLATION
+ CAN_navy_desc: "Námořnictvo schopné operovat na otevřeném moři je jediné, které má skutečný význam. Musíme přesměrovat naše zdroje na vytvoření takového schopného námořnictva." # todo: NEW TRANSLATION
+ CAN_navy_carrier: "Plovoucí letiště" # todo: NEW TRANSLATION
+ CAN_navy_carrier_desc: "Letadlová loď je klíčová technologie pro každé námořnictvo; umožňuje rozsáhlé vojenské operace daleko od domova. Vlastnit vlastní by nás učinilo na bojišti nesmírně silnějšími." # todo: NEW TRANSLATION
+ CAN_air_focus: "Modely stíhaček" # todo: NEW TRANSLATION
+ CAN_air_focus_desc: "Musíme investovat do nových modelů stíhaček, které nahradí naše staré a zastaralé kusy." # todo: NEW TRANSLATION
+ CAN_air_model_us: "Americké návrhy" # todo: NEW TRANSLATION
+ CAN_air_model_us_desc: "Oslovíme Američany, aby nám pomohli vyvinout nové stíhačky." # todo: NEW TRANSLATION
+ CAN_air_model_uk: "Britské návrhy" # todo: NEW TRANSLATION
+ CAN_air_model_uk_desc: "Požádáme Brity o pomoc při vývoji nových proudových letounů." # todo: NEW TRANSLATION
+ CAN_air_factories: "Továrny na letadla" # todo: NEW TRANSLATION
+ CAN_air_factories_desc: "Musíme investovat do nových závodů na výrobu naší nové řady letadel." # todo: NEW TRANSLATION
+ CAN_new_helicopters: "Aktualizované vrtulníky" # todo: NEW TRANSLATION
+ CAN_new_helicopters_desc: "Spustíme výzkum a vývoj nové řady transportních a útočných vrtulníků." # todo: NEW TRANSLATION
+ CAN_international_wargames: "Roční vojenská cvičení" # todo: NEW TRANSLATION
+ CAN_international_wargames_desc: "Válečná cvičení hrají zásadní roli při udržování aktuálnosti vojenského plánování a strategie. Pozvání našich spojenců k účasti na společných cvičeních nám umožní dále rozvíjet naše dovednosti." # todo: NEW TRANSLATION
+ CAN_destroyers: "Torpédoborce" # todo: NEW TRANSLATION
+ CAN_destroyers_desc: "Torpédoborce jsou svaly každého námořnictva a čím jich budeme mít více, tím silnější bude naše převaha na moři." # todo: NEW TRANSLATION
+ CAN_ship_training: "Námořní cvičení" # todo: NEW TRANSLATION
+ CAN_ship_training_desc: "Provedeme rozsáhlá námořní cvičení, abychom zlepšili naše schopnosti s našimi novými loděmi." # todo: NEW TRANSLATION
+ CAN_naval_aircraft: "Letecká podpora kdekoli" # todo: NEW TRANSLATION
+ CAN_naval_aircraft_desc: "Letadlové lodě nám umožňují získat leteckou podporu kdekoli na světě; musíme toho využít ve svůj prospěch." # todo: NEW TRANSLATION
+ CAN_naval_doctrines: "Přehodnocené námořní taktiky" # todo: NEW TRANSLATION
+ CAN_naval_doctrines_desc: "Musíme upravit naše taktiky podle nového vybavení, abychom předešli úzkým místům." # todo: NEW TRANSLATION
+ CAN_naval_dockyards: "Halifaxské loděnice" # todo: NEW TRANSLATION
+ CAN_naval_dockyards_desc: "Postavíme nové loděnice v Halifaxu." # todo: NEW TRANSLATION
+ CAN_bluewater: "Námořnictvo otevřeného moře" # todo: NEW TRANSLATION
+ CAN_bluewater_desc: "S vytvořením námořnictva schopného působit na otevřeném moři můžeme uplatňovat naši námořní sílu kdekoliv, kde budeme chtít." # todo: NEW TRANSLATION
+ CAN_rus_training: "Sibiřská vojenská cvičení" # todo: NEW TRANSLATION
+ CAN_rus_training_desc: "Kanada i Rusko jsou mistry v boji a přežití v chladném klimatu. Zúčastníme se společných cvičení v Sibiři s ruskými silami, abychom dále zlepšili naše dovednosti a posílili nové spojenectví." # todo: NEW TRANSLATION
+ CAN_chinese_industry: "CCID" # todo: NEW TRANSLATION
+ CAN_chinese_industry_desc: "CCID neboli Chinese-Canadian Industry Development je společný projekt Kanady a Číny zaměřený na zlepšení průmyslového rozvoje obou zemí." # todo: NEW TRANSLATION
+ CAN_chinese_lavs: "Čínské vojenské závody" # todo: NEW TRANSLATION
+ CAN_chinese_lavs_desc: "Číňané nám pomohou rozvinout vojenský průmysl pro naši rostoucí armádu." # todo: NEW TRANSLATION
+ CAN_rus_dockyards: "Ruské návrhy ponorek" # todo: NEW TRANSLATION
+ CAN_rus_dockyards_desc: "Modelování některých našich nových návrhů podle ruských umožní našim ponorkám být efektivnější v Arktickém kruhu a dál." # todo: NEW TRANSLATION
+ CAN_bc_ports: "Pacifické přístavy" # todo: NEW TRANSLATION
+ CAN_bc_ports_desc: "Přístavy na západě jsou zásadní pro rozvoj Britské Kolumbie i pro průmysl těžby přírodních zdrojů." # todo: NEW TRANSLATION
+ CAN_naval_investments: "Námořní investice" # todo: NEW TRANSLATION
+ CAN_naval_investments_desc: "Díky Rusům můžeme využít nové technické znalosti k posílení našeho námořnictva." # todo: NEW TRANSLATION
+ CAN_naval_investments2: "Halifaxské loděnice" # todo: NEW TRANSLATION
+ CAN_naval_investments2_desc: "V Halifaxu sídlí jedno z největších kanadských loděnic. Můžeme vylepšit tento existující závod investicí potřebných zdrojů." # todo: NEW TRANSLATION
+ CAN_tank_facilities: "Továrny na tanky" # todo: NEW TRANSLATION
+ CAN_tank_facilities_desc: "S čínskou pomocí nyní můžeme posílit naše výrobní kapacity pro tanky." # todo: NEW TRANSLATION
+ CAN_heavy_industry: "Rozvojové projekty CCID" # todo: NEW TRANSLATION
+ CAN_heavy_industry_desc: "S pomocí CCID můžeme posílit průmyslovou produkci našich továren." # todo: NEW TRANSLATION
+ CAN_national: "Nacionalistický převrat" # todo: NEW TRANSLATION
+ CAN_national_desc: "S rostoucím napětím mezi demokratickou vládou a nacionalistickými stranami konečně něco vybuchlo. Jak se to bude dál vyvíjet?" # todo: NEW TRANSLATION
+ CAN_global_influence: "Vnitřní záležitosti" # todo: NEW TRANSLATION
+ CAN_global_influence_desc: "Nyní, když jsme zajistili kontrolu nad zemí, musíme konsolidovat naši moc tím, že se zaměříme na vnitřní záležitosti." # todo: NEW TRANSLATION
+ CAN_regional_diplomacy: "Regionální diplomacie" # todo: NEW TRANSLATION
+ CAN_regional_diplomacy_desc: "Před námi leží svět plný možností pro kanadskou expanzi. Bylo by nerozumné tyto možnosti ignorovat." # todo: NEW TRANSLATION
+ CAN_fortify_the_borders: "Posílit hranice" # todo: NEW TRANSLATION
+ CAN_fortify_the_borders_desc: "Naše úsilí nezůstane bez povšimnutí. Musíme se připravit na nevyhnutelnou odvetu vůči našim snahám posílit postavení naší země." # todo: NEW TRANSLATION
+ CAN_greenland: "Otázka Grónska" # todo: NEW TRANSLATION
+ CAN_greenland_desc: "Dánská nadvláda nad Grónskem je reliktem minulosti. Nastal čas, aby Kanada uplatnila svou nadvládu nad touto evropskou kolonií na našem prahu." # todo: NEW TRANSLATION
+ CAN_dominate_america: "Dominovat oběma Amerikám" # todo: NEW TRANSLATION
+ CAN_dominate_america_desc: "Příliš dlouho jsme hráli druhé housle vůči našim jižním sousedům. Nadešel čas, abychom zaujali své náležité místo jako dominantní mocnost na severoamerickém kontinentu." # todo: NEW TRANSLATION
+ CAN_opposition: "Rozdrtit opozici" # todo: NEW TRANSLATION
+ CAN_opposition_desc: "Ti, kdo se staví proti naší vládě, nejsou nic jiného než zrádci a zločinci. Odstraníme je z ulic a zavřeme do našich mnohých, rostoucích věznic." # todo: NEW TRANSLATION
+ CAN_nationlist_agenda: "Nacionalistická agenda" # todo: NEW TRANSLATION
+ CAN_nationlist_agenda_desc: "Poté, co jsme potlačili opozici proti naší vládě, můžeme nyní prosadit ambiciózní program nové vlády." # todo: NEW TRANSLATION
+ CAN_destroy_charter: "Zničit Chartu" # todo: NEW TRANSLATION
+ CAN_destroy_charter_desc: "Kanadská listina takzvaných \"práv a svobod\" není nic jiného než škrcící korzet, který brzdí kanadskou velikost. Musí být zrušena." # todo: NEW TRANSLATION
+ CAN_french_schools: "Francouzské školy" # todo: NEW TRANSLATION
+ CAN_french_schools_desc: "Od nynějška budou Kanaďané vzděláváni ve francouzštině. Anglicky mluvící Kanada už náš jazyk nebude považovat za okrajový a nevýznamný." # todo: NEW TRANSLATION
+ CAN_russian_military: "Ruská vojenská expertíza" # todo: NEW TRANSLATION
+ CAN_russian_military_desc: "Rusko má jednu z nejefektivnějších ozbrojených sil na světě. Udělali bychom dobře, kdybychom využili expertízu, kterou nabízí." # todo: NEW TRANSLATION
+ CAN_global_army: "Globální armáda" # todo: NEW TRANSLATION
+ CAN_global_army_desc: "S pomocí našich nových spojenců se kanadské vojsko stalo respektovaným a obávaným po celém světě." # todo: NEW TRANSLATION
+ CAN_railway_projects: "Masivní železniční projekt" # todo: NEW TRANSLATION
+ CAN_railway_projects_desc: "Číňané vynikají v financování rozsáhlých infrastrukturních projektů. Nyní, když jsme zajistili vztahy mezi našimi zeměmi, můžeme se pustit do ambiciózního projektu výstavby železnice." # todo: NEW TRANSLATION
+ CAN_industry_projects: "Zdvojnásobit průmysl" # todo: NEW TRANSLATION
+ CAN_industry_projects_desc: "Naše průmyslová kapacita roste exponenciálně díky rozsáhlým čínským investicím." # todo: NEW TRANSLATION
+ CAN_global_companys: "Globální společnosti" # todo: NEW TRANSLATION
+ CAN_global_companys_desc: "V globalizovaném finančním systému je snaha získat mocné nadnárodní společnosti, které přinášejí pracovní místa, investice a daňové příjmy, jednou z nejdůležitějších priorit každé vlády." # todo: NEW TRANSLATION
+ CAN_huawai: "Huawai" # todo: NEW TRANSLATION
+ CAN_huawai_desc: "Čínský technologický gigant má Kanadě co nabídnout. Ti, kdo si stěžují na obavy o \"národní bezpečnost\", nemají tušení, o čem mluví..." # todo: NEW TRANSLATION
+ CAN_hyundai: "Hyundai" # todo: NEW TRANSLATION
+ CAN_hyundai_desc: "Hyundai překonal své skromné začátky a stal se jedním z největších a nejpokročilejších výrobců automobilů na světě." # todo: NEW TRANSLATION
+ CAN_ak: "Kalashnikov" # todo: NEW TRANSLATION
+ CAN_ak_desc: "Ruský koncern Kalashnikov má dlouhou historii ve výrobě lehkých zbraní. Existuje důvod, proč je kalašnikov nejrozšířenější střelnou zbraní na světě." # todo: NEW TRANSLATION
+ CAN_weapons_expert: "Výroba speciálních zbraní" # todo: NEW TRANSLATION
+ CAN_weapons_expert_desc: "Expertíza Kalashnikova nespočívá jen v malých zbraních, ale i v dalších lehkých zbraních, které mohou posílit schopnosti našich čet." # todo: NEW TRANSLATION
+ CAN_airburst_weapons: "Zbraně s výbuchem ve vzduchu" # todo: NEW TRANSLATION
+ CAN_airburst_weapons_desc: "Zbraně s výbuchem ve vzduchu jsou rozvíjející se technologií, která dává jednotlivému vojáku možnost účinně čelit nepřátelům ukrytým za krytem." # todo: NEW TRANSLATION
+ CAN_vehicle_industry: "Výroba vozidel" # todo: NEW TRANSLATION
+ CAN_vehicle_industry_desc: "Díky odbornosti Hyundai můžeme zlepšit stávající schopnosti našeho průmyslu výroby vozidel." # todo: NEW TRANSLATION
+ CAN_advanced_ultility_vehicle: "Pokročilá užitková vozidla" # todo: NEW TRANSLATION
+ CAN_advanced_ultility_vehicle_desc: "Naše jednotky by mohly využít nová užitková vozidla k ochraně během přesunů." # todo: NEW TRANSLATION
+ CAN_sat_tech: "Satelitní technologie" # todo: NEW TRANSLATION
+ CAN_sat_tech_desc: "Pomoc Huawai nám může umožnit posunout kanadské satelity na novou, vylepšenou úroveň." # todo: NEW TRANSLATION
+ CAN_advanced_radar: "Pokročilé radarové systémy" # todo: NEW TRANSLATION
+ CAN_advanced_radar_desc: "Technologie Huawai budou užitečné při budování pokročilejších radarových systémů, aby naše jednotky měly co nejvyšší povědomí o bojišti." # todo: NEW TRANSLATION
+ CAN_secret_police: "Tajná policie" # todo: NEW TRANSLATION
+ CAN_secret_police_desc: "Přes naše snahy potlačit nesouhlas stále existují neloajální prvky mezi našimi lidmi. Měli bychom založit novou bezpečnostní agenturu, která tyto podvratné jedince vykoření." # todo: NEW TRANSLATION
+ CAN_isolation: "Projekt kanadského militarismu" # todo: NEW TRANSLATION
+ CAN_isolation_desc: "Musíme uspokojit ohnivého ducha kanadského lidu novými závazky k prosazování kanadské vojenské síly v zahraničí." # todo: NEW TRANSLATION
+ CAN_expel_us: "Mobilizovat naše vojsko" # todo: NEW TRANSLATION
+ CAN_expel_us_desc: "Válka je neodmyslitelnou součástí dějin národa. Musíme shromáždit naše jednotky, aby se připravily na nadcházející konflikt." # todo: NEW TRANSLATION
+ CAN_iron_curtain: "Digitální železná opona" # todo: NEW TRANSLATION
+ CAN_iron_curtain_desc: "Skutečnost, že Kanaďané nadále přistupují k alternativním zdrojům informací na internetu, podrývá autoritu naší vlády. Musíme zavést systematickou formu digitální cenzury, aby se náš lid izoloval od nebezpečného vlivu zbytku světa." # todo: NEW TRANSLATION
+ CAN_the_state: "Reformovat stát" # todo: NEW TRANSLATION
+ CAN_the_state_desc: "Nyní, když jsme dosáhli většiny našeho programu, jsme úspěšně přetvořili Kanadu v nový, mnohem silnější stát." # todo: NEW TRANSLATION
+ CAN_move_capital: "Přesunout hlavní město" # todo: NEW TRANSLATION
+ CAN_move_capital_desc: "Ottawa už nebude shlížet na náš lid a kulturu. Quebec a celá Kanada budou vládnuty z Quebec City!" # todo: NEW TRANSLATION
+ CAN_reclaim_canada: "Francouzská Kanada" # todo: NEW TRANSLATION
+ CAN_reclaim_canada_desc: "Finalement, le Canada sera français!" # todo: NEW TRANSLATION
+ CAN_new_charter: "Nová francouzská charta" # todo: NEW TRANSLATION
+ CAN_new_charter_desc: "Nová Kanada si žádá i novou Chartu." # todo: NEW TRANSLATION
+ CAN_quebec_conscription: "Quebecká branná povinnost" # todo: NEW TRANSLATION
+ CAN_quebec_conscription_desc: "Musíme brát mladé Quebečany, abychom napravili demografickou nerovnováhu v Kanadských ozbrojených silách. Ve snaze učinit z Kanady francouzskou zemi není žádná oběť příliš malá." # todo: NEW TRANSLATION
+ CAN_french_companies: "Podporovat francouzské společnosti" # todo: NEW TRANSLATION
+ CAN_french_companies_desc: "Francie vždy udržovala zvláštní vztah s naší zemí. Proto je správné, aby francouzské společnosti měly preferenční přístup na náš trh." # todo: NEW TRANSLATION
+ CAN_enforce_language: "Prosadit jeden jazyk" # todo: NEW TRANSLATION
+ CAN_enforce_language_desc: "Po nějakou dobu jsme tolerovali existenci angličtiny vedle francouzštiny. Tato tolerance byla však zneužita a špatně interpretována, a musí skončit." # todo: NEW TRANSLATION
+ CAN_tax_english_companies: "Zdanit anglické korporace" # todo: NEW TRANSLATION
+ CAN_tax_english_companies_desc: "Anglicky mluvící kanadské společnosti nadále vykazují velký vliv. Měly by být omezeny." # todo: NEW TRANSLATION
+ CAN_new_sectors: "Nové obchodní příležitosti" # todo: NEW TRANSLATION
+ CAN_new_sectors_desc: "Francouzsko-kanadským podnikům by měly být poskytnuty zvláštní příležitosti, aby mohly prosperovat a zaujmout zasloužené místo v čele naší národní ekonomiky." # todo: NEW TRANSLATION
+ CAN_nation_divided: "Národ v plamenech" # todo: NEW TRANSLATION
+ CAN_nation_divided_desc: "Je třeba přiznat, že naše snahy udělat z Kanady francouzskou neprobíhaly tak hladce, jak se očekávalo. Abychom zajistili naši novou Kanadu, musíme zabezpečit stát tak, aby kontroloval lidový nesouhlas a odvedl pozornost od počátečních problémů našeho nového státu." # todo: NEW TRANSLATION
+ CAN_french_industry: "Nové průmyslové komplexy" # todo: NEW TRANSLATION
+ CAN_french_industry_desc: "S vhodnými zdroji má Quebec vždy potenciál stát se průmyslovou velmocí Kanady." # todo: NEW TRANSLATION
+ CAN_discharge_generals: "Propustit anglické generály" # todo: NEW TRANSLATION
+ CAN_discharge_generals_desc: "Anglicky mluvící generálové nadále vykazují nepřiměřený vliv v armádě. Měli bychom je odvolat z jejich funkcí s tvrzením, že pozice lépe obsadí francouzsky mluvící důstojníci." # todo: NEW TRANSLATION
+ CAN_ccp_military: "Quebecký militarismus" # todo: NEW TRANSLATION
+ CAN_ccp_military_desc: "Náš projekt vybudování nové Kanady oživil nacionalistické cítění Quebečanů. Měli bychom tuto energii využít." # todo: NEW TRANSLATION
+ CAN_renewable_energy_projects: "Obnovitelné zdroje energie" # todo: NEW TRANSLATION
+ CAN_renewable_energy_projects_desc: "Fosilní paliva rychle ustupují do minulosti. Kanada by se měla obrátit na větrnou, solární a vodní energii, aby pokryla své energetické potřeby." # todo: NEW TRANSLATION
+ CAN_forced_integration: "Zničit quebeckou identitu" # todo: NEW TRANSLATION
+ CAN_forced_integration_desc: "Quebečané dlouho tvrdí, že usilujeme o zničení jejich kultury. Můžeme jednat podle jejich obvinění a jednou provždy vymazat nezávislou identitu, která dává quebeckému separatismu život." # todo: NEW TRANSLATION
+ CAN_treaty_of_quebec: "Smlouva o Quebecu" # todo: NEW TRANSLATION
+ CAN_treaty_of_quebec_desc: "Musíme pečlivě rozptýlit obavy, že se snažíme zničit quebeckou identitu. Nová Smlouva o Quebecu ujistí Quebečany, že i když jejich politická práva budou omezena, náš respekt k jejich identitě zůstane." # todo: NEW TRANSLATION
+ CAN_clean_energy: "Zákon o čisté energii" # todo: NEW TRANSLATION
+ CAN_clean_energy_desc: "Měli bychom náš závazek k čisté energii kodifikovat a předložit nové, ambiciózní zákony." # todo: NEW TRANSLATION
+ CAN_clean_vehicles: "Zákon o elektromobilech" # todo: NEW TRANSLATION
+ CAN_clean_vehicles_desc: "Elektromobily jsou důležitým krokem ke snížení závislosti na fosilních palivech. Výrobci těchto vozidel by měli dostat veškerou vládní podporu, kterou potřebují, aby mohli konkurovat svým neelektrickým rivalům." # todo: NEW TRANSLATION
+ CAN_co2_tax: "Daň z uhlíku" # todo: NEW TRANSLATION
+ CAN_co2_tax_desc: "Zdaněním emisí můžeme odradit korporátní znečišťovatele od otravování vzduchu budoucích kanadských generací." # todo: NEW TRANSLATION
+ CAN_carbon_negative: "Země s negativní uhlíkovou bilancí" # todo: NEW TRANSLATION
+ CAN_carbon_negative_desc: "Po prosazení našeho ambiciózního programu můžeme nyní prohlásit Kanadu nejen za uhlíkově neutrální, ale za zemí s negativní uhlíkovou bilancí." # todo: NEW TRANSLATION
+ CAN_increase_ship_production: "Rozšířené námořní dotace" # todo: NEW TRANSLATION
+ CAN_increase_ship_production_desc: "Rozšíření rozpočtu o více námořního výzkumu pomůže naší potýkající se námořní flotě." # todo: NEW TRANSLATION
+ CAN_nato_research: "Společný výzkum NATO" # todo: NEW TRANSLATION
+ CAN_nato_research_desc: "Abychom drželi krok s Čínou a Ruskem, členové NATO musí spojit své kolektivní odbornosti, aby urychlili výzkum a vývoj." # todo: NEW TRANSLATION
+ CAN_economy: "Kanada v zahraničí" # todo: NEW TRANSLATION
+ CAN_economy_desc: "Kanada má za sebou historii úzké spolupráce a pevných vazeb s národy z celého světa. Je důležité, abychom toto dědictví udrželi a dále rozvíjeli!" # todo: NEW TRANSLATION
+ CAN_economy_investments_global: "Globální investice" # todo: NEW TRANSLATION
+ CAN_economy_investments_global_desc: "Na mnoha místech po světě je potřeba investic a ekonomické pomoci. Nechť Kanada bude tím, kdo jim pomůže, když to budou potřebovat." # todo: NEW TRANSLATION
+ CAN_project_canadian_influence: "Projekt kanadského vlivu" # todo: NEW TRANSLATION
+ CAN_project_canadian_influence_desc: "Kanadská zahraniční politika často sleduje politiku našeho bratrského státu USA. Nicméně jsou i případy, kdy jsme odbočili a zaměřili se více na státy blíže domovu." # todo: NEW TRANSLATION
+ CAN_align_to_belize: "Ovlivnit Belize" # todo: NEW TRANSLATION
+ CAN_align_to_belize_desc: "Belize zaujímá strategickou pozici na Yucatánu s dobrým přístupem do zálivu a zároveň je rostoucí ekonomikou v regionu." # todo: NEW TRANSLATION
+ CAN_align_saint_kitts: "Ovlivnit Saint Kitts" # todo: NEW TRANSLATION
+ CAN_align_saint_kitts_desc: "Saint Kitts je menší stát v CARICOMu, s nímž Kanada má dobré vztahy a obchodní dohody. Udržení této spolupráce je důležité." # todo: NEW TRANSLATION
+ CAN_align_barbados: "Ovlivnit Barbados" # todo: NEW TRANSLATION
+ CAN_align_barbados_desc: "Barbados je jedním z největších příjemců kanadských přímých zahraničních investic. Vztah mezi oběma zeměmi často představuje blízkou obchodní a politicko-kulturní symbiózu." # todo: NEW TRANSLATION
+ CAN_align_grenada: "Ovlivnit Grenadu" # todo: NEW TRANSLATION
+ CAN_align_grenada_desc: "Kanada a Grenada mají významné vazby a obchod v hodnotě milionů dolarů. Měli bychom rozvíjet tento blízký vztah." # todo: NEW TRANSLATION
+ CAN_align_dominica: "Ovlivnit Dominiku" # todo: NEW TRANSLATION
+ CAN_align_dominica_desc: "Od doby, kdy Dominika získala v roce 1978 nezávislost, jsme s ní udržovali blízké diplomatické a obchodní vztahy." # todo: NEW TRANSLATION
+ CAN_align_guyana: "Ovlivnit Guyanu" # todo: NEW TRANSLATION
+ CAN_align_guyana_desc: "Kanada a Guyana udržují blízké vztahy díky společnému členství v Commonwealthu a významné guyaňské diaspoře v Kanadě." # todo: NEW TRANSLATION
+ CAN_align_jamaica: "Ovlivnit Jamajku" # todo: NEW TRANSLATION
+ CAN_align_jamaica_desc: "Kanada má blízké a rozsáhlé vztahy s Jamajkou v oblastech bezpečnosti, obchodu, rozvoje a cestovního ruchu. Jako jedna z největších karibských zemí je Jamajka vhodným partnerem pro další spolupráci." # todo: NEW TRANSLATION
+ CAN_align_saint_lucia: "Ovlivnit Saint Lucia" # todo: NEW TRANSLATION
+ CAN_align_saint_lucia_desc: "Dlouhodobé obchodní vazby se Saint Lucia lze rozvíjet a dále posílit náš vztah s touto zemí." # todo: NEW TRANSLATION
+ CAN_align_suriname: "Ovlivnit Surinam" # todo: NEW TRANSLATION
+ CAN_align_suriname_desc: "Bývalá nizozemská kolonie Surinam je zemí, kde můžeme dále rozšiřovat náš vliv." # todo: NEW TRANSLATION
+ CAN_align_st_vincent: "Ovlivnit St. Vincent" # todo: NEW TRANSLATION
+ CAN_align_st_vincent_desc: "Dlouhodobě jsme udržovali dobré vztahy se St. Vincentem, které usnadnil obchod a naše účast v mezinárodních organizacích. Tyto vztahy mají stále prostor pro další růst a zlepšení." # todo: NEW TRANSLATION
+ CAN_align_trindad: "Ovlivnit Trinidad" # todo: NEW TRANSLATION
+ CAN_align_trindad_desc: "Kanada a Trinidad a Tobago mají dlouhodobé vztahy pokrývající oblasti jako vzdělávání, obchod, věda, kultura, životní prostředí, sport a zdraví. Jelikož Trinidad a Tobago je největší a nejvíce diverzifikovanou ekonomikou v Karibiku, náš obchodní vztah je vysoce výnosný a zaslouží si pozornost." # todo: NEW TRANSLATION
+ CAN_align_cuba: "Ovlivnit Kubu" # todo: NEW TRANSLATION
+ CAN_align_cuba_desc: "Navzdory napjatým vztahům USA s Kubou má Kanada nepřerušené diplomatické vztahy s touto nejlidnatější karibskou zemí. Obchod a cestovní ruch jsou základem našeho vztahu, který by mohl těžit z další pozornosti." # todo: NEW TRANSLATION
+ CAN_align_haiti: "Ovlivnit Haiti" # todo: NEW TRANSLATION
+ CAN_align_haiti_desc: "Jako jediné nezávislé frankofonní země v Americe sdílejí Kanada a Haiti společné pouto. Zatímco naše vztahy s Haiti byly charakterizovány intervencemi a poskytováním pomoci, existuje potenciál pro hlubší a plodnější partnerství mezi našimi dvěma zeměmi." # todo: NEW TRANSLATION
+ CAN_align_the_bahamas: "Ovlivnit Bahamy" # todo: NEW TRANSLATION
+ CAN_align_the_bahamas_desc: "Bahamy jsou jedním z největších kanadských obchodních partnerů v Karibiku a naším druhým největším exportním trhem tam po Trinidadu a Tobagu. Měli bychom rozvíjet tento obchodní vztah i rozsáhlé osobní vazby, abychom upevnili naše přátelství s touto karibskou zemí." # todo: NEW TRANSLATION
+ CAN_strength_in_the_americas: "Síla v Americe" # todo: NEW TRANSLATION
+ CAN_strength_in_the_americas_desc: "Díky diplomatické ofenzívě jsme získali silnější postavení v Americe." # todo: NEW TRANSLATION
+ CAN_align_the_americans: "Ovlivnit Ameriku" # todo: NEW TRANSLATION
+ CAN_align_the_americans_desc: "Náš vztah s jižním sousedem je jedním z nejbližších a nejdůležitějších diplomatických vztahů. Měli bychom ukázat Spojeným státům, že jsme spojenec, kterého stojí za to mít." # todo: NEW TRANSLATION
+ CAN_europe_invest: "Evropské investice" # todo: NEW TRANSLATION
+ CAN_europe_invest_desc: "Kanada vždy měla úzké vztahy s evropským kontinentem. Naše společné členství v organizacích jako NATO a interakce s EU lze dále rozvíjet investicemi v Evropě." # todo: NEW TRANSLATION
+ CAN_asia_invest: "Asijské investice" # todo: NEW TRANSLATION
+ CAN_asia_invest_desc: "Jako pacifická země je správné, že Kanada udržuje blízké vztahy s rozvíjejícími se asijskými ekonomikami." # todo: NEW TRANSLATION
+ CAN_greece_invest: "Řecké projekty" # todo: NEW TRANSLATION
+ CAN_greece_invest_desc: "Přítomnost velké řecké diaspory v Kanadě a různorodé smlouvy a rozsáhlé obchodní vztahy tvoří základ silného vztahu mezi našimi dvěma zeměmi. Kanadské investice do řecké ekonomiky budou jistě vítány našimi přáteli v Aténách." # todo: NEW TRANSLATION
+ CAN_norway_invest: "Norské projekty" # todo: NEW TRANSLATION
+ CAN_norway_invest_desc: "Jako střední mocnosti s dlouhou historií interakcí a řadou společných zájmů jsou Kanada a Norsko blízkými spojenci. Můžeme našim norským přátelům nabídnout pomoc formou kanadských investic a tím upevnit naše přátelství." # todo: NEW TRANSLATION
+ CAN_estonian_invest: "Estonské projekty" # todo: NEW TRANSLATION
+ CAN_estonian_invest_desc: "Jako jedna z prvních zemí, která v roce 1991 uznala estonskou nezávislost, pokračují Kanada a Estonsko ve budování silného přátelství v rámci organizací jako NATO. Estonsko by mohlo těžit z další kanadské pomoci ve formě finančních investic." # todo: NEW TRANSLATION
+ CAN_vietnam_invest: "Vietnamské projekty" # todo: NEW TRANSLATION
+ CAN_vietnam_invest_desc: "Kanada a Vietnam sdílejí historii bývalých francouzských kolonií a náš vztah nebyl poškozen díky kanadskému rozhodnutí zůstat během vietnamské války neutrální. Dnešní Vietnam je živou, rostoucí ekonomikou, a proto by bylo rozumné v něj investovat." # todo: NEW TRANSLATION
+ CAN_southkor_invest: "Jihokorejské železnice" # todo: NEW TRANSLATION
+ CAN_southkor_invest_desc: "Jižní Korea vyrostla z chudé bývalé kolonie na jednu z nejvyspělejších ekonomik světa. Přesto má Kanada co nabídnout při investování do korejské železniční sítě." # todo: NEW TRANSLATION
+ CAN_indonesia_invest: "Indonéský průmysl" # todo: NEW TRANSLATION
+ CAN_indonesia_invest_desc: "Kanada dlouhodobě podporuje rozvoj jedné z největších ekonomik Asie. Měli bychom i nadále investovat do toho, co se jistě stane jedním z nejvýznamnějších ekonomických motorů regionu." # todo: NEW TRANSLATION
+ CAN_mining: "Kanadské hornictví" # todo: NEW TRANSLATION
+ CAN_mining_desc: "Náš těžební průmysl je jedním z největších na světě a přispívá 5 % HDP naší země." # todo: NEW TRANSLATION
+ CAN_mining_expansion: "Rozšířit doly" # todo: NEW TRANSLATION
+ CAN_mining_expansion_desc: "Rozšíření našeho těžebního průmyslu podpoří vývoz, zvýší daňové příjmy a poskytne tolik potřebná pracovní místa, zejména pro domorodé národy." # todo: NEW TRANSLATION
+ CAN_quebec_mines: "Rozšířit doly v Quebecu" # todo: NEW TRANSLATION
+ CAN_quebec_mines_desc: "Quebecké četné doly by neměly být vyloučeny z našich snah zlepšit těžební průmysl. Nicméně zaměřit se na Quebec na úkor ostatních provincií může mít nižší ekonomické výnosy, i když to uklidní místní obyvatele." # todo: NEW TRANSLATION
+ CAN_quebec_steel: "Quebecký ocelářský průmysl" # todo: NEW TRANSLATION
+ CAN_quebec_steel_desc: "Kvalita quebecké oceli bude známa po celém světě!" # todo: NEW TRANSLATION
+ CAN_quebec_aluminium: "Quebecký průmysl hliníku" # todo: NEW TRANSLATION
+ CAN_quebec_aluminium_desc: "Quebecké zásoby hliníku jsou ekonomickým zdrojem připraveným k využití." # todo: NEW TRANSLATION
+ CAN_quebec_steel_exports: "Export québecké oceli" # todo: NEW TRANSLATION
+ CAN_quebec_steel_exports_desc: "S ocelí, kterou jsme vytěžili v Quebecu, můžeme posílit vývoz naší země a přinést Kanadě bohatství a prestiž." # todo: NEW TRANSLATION
+ CAN_north_mines: "Rozšířit severní doly" # todo: NEW TRANSLATION
+ CAN_north_mines_desc: "Sever Kanady je považován za další hranici těžby a ukrývá mnoho slibných příležitostí." # todo: NEW TRANSLATION
+ CAN_north_tungsten: "Severní průmysl wolframu" # todo: NEW TRANSLATION
+ CAN_north_tungsten_desc: "Wolframové doly patří mezi nejvýnosnější v Kanadě a měly by být středem našeho současného úsilí." # todo: NEW TRANSLATION
+ CAN_north_steel: "Severní ocel" # todo: NEW TRANSLATION
+ CAN_north_steel_desc: "Ocel je důležitý zdroj, kterého je v severní Kanadě hojně." # todo: NEW TRANSLATION
+ CAN_north_steel_exports: "Exporty severní oceli" # todo: NEW TRANSLATION
+ CAN_north_steel_exports_desc: "Vývoz oceli, kterou jsme vytěžili, poskytne užitečný impuls kanadské ekonomice." # todo: NEW TRANSLATION
+ CAN_mine_expert: "Odbornost v hornictví" # todo: NEW TRANSLATION
+ CAN_mine_expert_desc: "Díky znalostem, které jsme nabyli při zlepšování těžebního průmyslu, jsme se stali světovými lídry v tomto sektoru." # todo: NEW TRANSLATION
+ CAN_mechanized: "Zaměření na mechanizaci" # todo: NEW TRANSLATION
+ CAN_mechanized_desc: "Navzdory vývoji nových technologií zůstává mechanizace naprosto klíčová pro moderní válčení a měla by být přijata naší armádou." # todo: NEW TRANSLATION
+ CAN_infantry_focus: "Zachovat zaměření na pěchotu" # todo: NEW TRANSLATION
+ CAN_infantry_focus_desc: "Jádrem ozbrojených sil bude vždy jednotlivý voják. Kanadská pěchota je spolehlivá, přizpůsobivá a to nejlepší, co naše ozbrojené síly mohou nabídnout." # todo: NEW TRANSLATION
+ CAN_specops: "Elitní speciální jednotky" # todo: NEW TRANSLATION
+ CAN_specops_desc: "Kanadské jednotky jako Joint Task Force 2 jsou po celém světě považovány za jedny z nejelitnějších speciálních sil. Měli bychom těmto jednotkám zajistit nejlepší dostupné vybavení." # todo: NEW TRANSLATION
+ CAN_recruits: "Náborové kampaně" # todo: NEW TRANSLATION
+ CAN_recruits_desc: "Kanadské armádě chybí personál. Měli bychom investovat do náborových kampaní, abychom rozšířili zásobu rekrutů." # todo: NEW TRANSLATION
+ CAN_profesional_army: "Profesionální armáda" # todo: NEW TRANSLATION
+ CAN_profesional_army_desc: "Zaměřením na pěchotu se naše armáda stala jednou z nejrespektovanějších na světě." # todo: NEW TRANSLATION
+ CAN_tanks: "Tanky světové třídy" # todo: NEW TRANSLATION
+ CAN_tanks_desc: "Tanky jsou silnou součástí každé armády a kanadské nebudou výjimkou." # todo: NEW TRANSLATION
+ CAN_motorized: "Mechanizovaná pěchota" # todo: NEW TRANSLATION
+ CAN_motorized_desc: "Přijetím mechanizované pěchoty budou naše jednotky na bojišti rychlejší a lépe chráněné." # todo: NEW TRANSLATION
+ CAN_armed: "Rolling Thunder" # todo: NEW TRANSLATION
+ CAN_armed_desc: "Nápor našich obrněných vozidel bude pohled, který si žádný protivník nepřeje spatřit." # todo: NEW TRANSLATION
+ CAN_nato_air: "Zachovat doktríny NATO" # todo: NEW TRANSLATION
+ CAN_nato_air_desc: "Měli bychom nadále následovat ortodoxii NATO a používat naše letectvo k poskytování leteckého krytí pro operace pozemních jednotek." # todo: NEW TRANSLATION
+ CAN_nato_train: "Společný letecký výcvik" # todo: NEW TRANSLATION
+ CAN_nato_train_desc: "Spolu s ostatními členy NATO může Kanadské letectvo dosáhnout nové úrovně odbornosti v leteckém boji." # todo: NEW TRANSLATION
+ CAN_us_planes: "Americké stíhačky" # todo: NEW TRANSLATION
+ CAN_us_planes_desc: "Americké stíhací letouny jsou nejpokročilejší na světě. Měli bychom čerpat z jejich zkušeností, abychom zlepšili naše vlastní stroje." # todo: NEW TRANSLATION
+ CAN_new_doctrine: "Nové doktríny" # todo: NEW TRANSLATION
+ CAN_new_doctrine_desc: "Nastal čas odejít od konvenční moudrosti NATO a přijmout nové způsoby vedení vzdušného boje." # todo: NEW TRANSLATION
+ CAN_russia_train: "Ruský výcvik" # todo: NEW TRANSLATION
+ CAN_russia_train_desc: "Ruští piloti patří mezi nejschopnější na světě. Měli bychom je pozvat, aby vycvičili naše piloty v jemnostech leteckého boje." # todo: NEW TRANSLATION
+ CAN_russia_planes: "Ruské bombardéry" # todo: NEW TRANSLATION
+ CAN_russia_planes_desc: "Ruské know-how ve výrobě bombardérů lze využít ke zlepšení naší vlastní flotily bombardérů." # todo: NEW TRANSLATION
+ CAN_air_force: "Profesionální letectvo" # todo: NEW TRANSLATION
+ CAN_air_force_desc: "Naše úsilí o zlepšení letectva vyvrcholilo flotilou letadel, která může dominovat prakticky libovolnému protivníkovi." # todo: NEW TRANSLATION
+ CAN_decimate_mexico: "Zdecimovat Mexiko" # todo: NEW TRANSLATION
+ CAN_decimate_mexico_desc: "Mexiko stojí v cestě našemu konečnému ovládnutí Severní Ameriky. Musí být zničeno!" # todo: NEW TRANSLATION
+ CAN_oil_prospects_idea: "Dotace průmyslu fosilních paliv" # todo: NEW TRANSLATION
+ CAN_oil_prospects_idea_desc: "Dotace průmyslu fosilních paliv mohou pomoci rozvoji našich ropných odvětví tak, aby lépe vyhovovala potřebám našeho státu." # todo: NEW TRANSLATION
+ CAN_national_companies_subsidies: "Dotace kanadských ropných společností" # todo: NEW TRANSLATION
+ CAN_national_companies_subsidies_desc: "Dotace našich ropných společností nejen podpoří těžbu, ale také nám umožní rozšířit a zvýšit náš podíl na světovém ropném trhu!" # todo: NEW TRANSLATION
+ CAN_national_companies_subsidies1: "Dotace kanadských ropných společností" # todo: NEW TRANSLATION
+ CAN_national_companies_subsidies1_desc: "Dotace našich ropných společností nejen podpoří těžbu, ale také nám umožní rozšířit a zvýšit náš podíl na světovém ropném trhu!" # todo: NEW TRANSLATION
+ na_oil_treaty_idea: "Severoamerická ropná smlouva" # todo: NEW TRANSLATION
+ CAN_beretta_company: "Beretta" # todo: NEW TRANSLATION
+ CAN_colt_company: "Colt" # todo: NEW TRANSLATION
+ CAN_international_companies_idea: "Mezinárodní společnosti" # todo: NEW TRANSLATION
+ CAN_build: "Fondy pro výstavbu Kanady" # todo: NEW TRANSLATION
+ CAN_oil: "Federální fond daně z pohonných hmot" # todo: NEW TRANSLATION
+ CAN_production: "Provincionální teritoriální základní fond" # todo: NEW TRANSLATION
+ CAN_infrastructure: "Fond strategické infrastruktury" # todo: NEW TRANSLATION
+ CAN_p3: "Projekty P3" # todo: NEW TRANSLATION
+ CAN_heavy: "Zaměření na těžký průmysl" # todo: NEW TRANSLATION
+ CAN_expertise: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ CAN_aecon: "AECON Industries" # todo: NEW TRANSLATION
+ CAN_petrochemicals: "Petrochemická industrializace" # todo: NEW TRANSLATION
+ CAN_nuclear: "Rozvoj jaderné energie" # todo: NEW TRANSLATION
+ CAN_energy_clean: "Čistá energie" # todo: NEW TRANSLATION
+ CAN_mines: "Kanadské hornictví" # todo: NEW TRANSLATION
+ CAN_exports_steel_quebec: "Export surovin z Quebecu" # todo: NEW TRANSLATION
+ CAN_exports_north: "Export surovin ze severu" # todo: NEW TRANSLATION
+ CAN_mines_experts_northern: "Odbornost v hornictví" # todo: NEW TRANSLATION
+ CAN_mines_experts_quebec: "Odbornost v hornictví" # todo: NEW TRANSLATION
+ CAN_infantry: "Pěchota" # todo: NEW TRANSLATION
+ CAN_recruit: "Náborové kampaně" # todo: NEW TRANSLATION
+ CAN_arm: "Silně ozbrojená armáda" # todo: NEW TRANSLATION
+ CAN_air: "Královské kanadské letectvo" # todo: NEW TRANSLATION
+ CAN_air_nato: "NATO letecké doktríny" # todo: NEW TRANSLATION
+ CAN_air_new: "Nové doktríny" # todo: NEW TRANSLATION
+ CAN_force_air: "Profesionální letectvo" # todo: NEW TRANSLATION
+ CAN_navy_idea: "Královské kanadské námořnictvo" # todo: NEW TRANSLATION
+ CAN_bluwater_navy: "Námořnictvo pro operace na otevřeném moři" # todo: NEW TRANSLATION
+ CAN_investments: "Vnitřní investice" # todo: NEW TRANSLATION
+ CAN_russian_training: "Ruský výcvik" # todo: NEW TRANSLATION
+ CAN_chi_industry: "Čínský průmysl" # todo: NEW TRANSLATION
+ CAN_chi_industry2: "Čínský průmysl" # todo: NEW TRANSLATION
+ CAN_huawei: "Huawei" # todo: NEW TRANSLATION
+ CAN_kalashnikov: "Kalashnikov" # todo: NEW TRANSLATION
+ CAN_rail_project: "Projekt železnice" # todo: NEW TRANSLATION
+ CAN_natives_act: "Zákon o domorodých národech" # todo: NEW TRANSLATION
+ CAN_terror: "Stát teroru" # todo: NEW TRANSLATION
+ CAN_curtain: "Digitální železná opona" # todo: NEW TRANSLATION
+ CAN_new_canada: "Nová Kanada" # todo: NEW TRANSLATION
+ CAN_glorification_of_quebec: "Glorifikace Quebecu" # todo: NEW TRANSLATION
+ CAN_quebec_conscripts: "Povinná vojenská služba v Quebecu" # todo: NEW TRANSLATION
+ CAN_charter: "Nová charta" # todo: NEW TRANSLATION
+ CAN_tax_english: "Zdanění anglických společností" # todo: NEW TRANSLATION
+ CAN_canada_first: "Kanada na prvním místě" # todo: NEW TRANSLATION
+ CAN_russian_arms_deal_idea: "Ruské zbrojní dohody" # todo: NEW TRANSLATION
+ CAN_russian_arms_deal_idea_desc: "" # todo: NEW TRANSLATION
+ CAN_american_arms_deal_idea: "Americké zbrojní dohody" # todo: NEW TRANSLATION
+ CAN_american_arms_deal_idea_desc: "" # todo: NEW TRANSLATION
+ CAN_ground_military_one: "Kanadské pozemní síly" # todo: NEW TRANSLATION
+ CAN_ground_military_one_desc: "" # todo: NEW TRANSLATION
+ CAN_ground_military_two_infantry: "Kanadské pozemní síly - zaměření na pěchotu" # todo: NEW TRANSLATION
+ CAN_ground_military_two_infantry_desc: "" # todo: NEW TRANSLATION
+ CAN_ground_military_three_infantry: "Kanadské pozemní síly - zaměření na pěchotu" # todo: NEW TRANSLATION
+ CAN_ground_military_three_infantry_desc: "" # todo: NEW TRANSLATION
+ CAN_ground_military_two_armored: "Kanadské pozemní síly - zaměření na obrněné jednotky" # todo: NEW TRANSLATION
+ CAN_ground_military_two_armored_desc: "" # todo: NEW TRANSLATION
+ CAN_ground_military_three_armored: "Kanadské pozemní síly - zaměření na obrněné jednotky" # todo: NEW TRANSLATION
+ CAN_ground_military_three_armored_desc: "" # todo: NEW TRANSLATION
+ CAN_overburdened_economy: "Přetížená ekonomika" # todo: NEW TRANSLATION
+ CAN_overburdened_economy_desc: "Na konci 90. let je kanadský rozpočet přetížen neefektivními dotacemi a nadměrnými výdaji. Revize starých politik a reorganizace dotací by měla tento problém zmírnit." # todo: NEW TRANSLATION
+ CAN_multi_ethnic_nation: "Multietnický národ" # todo: NEW TRANSLATION
+ CAN_multi_ethnic_nation_desc: "Kanada je jeden z mnoha multietnických národů na světě; byla kolonizována jak Spojeným královstvím, tak Francií, zahrnuje nesčetné domorodé kmeny a imigranty z celého světa. Nejvýraznější rozdíl panuje mezi obyvateli Quebecu a anglicky mluvící částí země. Pokud budeme nadále uzavírat tuto mezeru, náš národ zažije rozkvět pod naším vedením a připraví půdu pro novou Kanadu." # todo: NEW TRANSLATION
+ CAN_a_culture_shift: "Kulturní posun" # todo: NEW TRANSLATION
+ CAN_a_culture_shift_desc: "" # todo: NEW TRANSLATION
+ CAN_native_policy_idea: "Zastaralá politika vůči domorodým obyvatelům" # todo: NEW TRANSLATION
+ CAN_native_policy_idea_desc: "" # todo: NEW TRANSLATION
+ CAN_native_policy_society_idea: "Politika integrace domorodých obyvatel" # todo: NEW TRANSLATION
+ CAN_native_policy_society_idea_desc: "" # todo: NEW TRANSLATION
+ CAN_native_policy_destroy_idea: "Proti-domorodá politika" # todo: NEW TRANSLATION
+ CAN_native_policy_destroy_idea_desc: "" # todo: NEW TRANSLATION
+ CAN_true_neutrality: "Pravá neutralita" # todo: NEW TRANSLATION
+ CAN_true_neutrality_desc: "Švýcarsko to má špatně. Kanadský model neutrality je skutečná neutralita." # todo: NEW TRANSLATION
+ CAN_renewable_energy_focus: "Obnovitelná energie" # todo: NEW TRANSLATION
+ CAN_renewable_energy_focus_desc: "Kanada je země bohatá na přírodní zdroje a nevyužitý potenciál obnovitelných zdrojů energie, ať už solární, větrné, vodní nebo jaderné. Musíme dále růst a držet krok s dobou, abychom podpořili náš rostoucí průmysl investicemi do těchto strategických obnovitelných zdrojů." # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Sands_research_boost: "Zaměření na ropné písky" # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Sands_research_boost_desc: "Soustředili jsme úsilí na rozvoj nových nalezišť ropných písků. Tento rozvoj nám pomůže i v dalších oblastech." # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Shales_research_boost: "Zaměření na ropné břidlice" # todo: NEW TRANSLATION
+ CAN_Focus_Oil_Shales_research_boost_desc: "Soustředili jsme úsilí na rozvoj nových nalezišť ropných břidlic. Tento rozvoj nám pomůže i v dalších oblastech." # todo: NEW TRANSLATION
+ CAN_nato_research_research_boost: "Společný výzkum NATO" # todo: NEW TRANSLATION
+ CAN_nato_research_research_boost_desc: "Spojili jsme se s NATO, abychom vyvinuli nové taktiky." # todo: NEW TRANSLATION
+ CAN_rejected_quebec_proposal_flag: "Odmítnutí návrhu z Quebecu" # todo: NEW TRANSLATION
+ canada.0.t: "Přípravy na nadcházející volby" # todo: NEW TRANSLATION
+ canada.0.d: "Za téměř rok, v říjnu, se budou konat volby. Říká se, že to bude velmi tvrdé klání. Proto musíme zvážit, zda by bylo prospěšné zahájit kampaň nyní, nebo ji raději odložit do nadcházejícího jara." # todo: NEW TRANSLATION
+ canada.0.a: "Zahájit kampaň ihned" # todo: NEW TRANSLATION
+ canada.0.b: "Musíme to odložit až na jaro..." # todo: NEW TRANSLATION
+ canada.1.t: "Přípravy na nadcházející volby - jaro" # todo: NEW TRANSLATION
+ canada.1.d: "Za pár měsíců, v říjnu, se budou konat volby. Říká se, že to bude velmi tvrdé klání. Proto musíme zvážit, zda by bylo prospěšné zahájit kampaň nyní, nebo ji raději odložit do nadcházejícího léta." # todo: NEW TRANSLATION
+ canada.1.a: "Zahájit kampaň ihned" # todo: NEW TRANSLATION
+ canada.1.b: "Musíme to odložit až na léto..." # todo: NEW TRANSLATION
+ canada.2.t: "Přípravy na nadcházející volby - léto" # todo: NEW TRANSLATION
+ canada.2.d: "Za velmi krátkou dobu, v říjnu, se budou konat volby. Říká se, že to bude velmi tvrdé klání. Proto musíme zvážit, zda by bylo prospěšné zahájit kampaň nyní, nebo ji raději odložit na příchod jara." # todo: NEW TRANSLATION
+ canada.2.a: "Už to nemůžeme dál odkládat" # todo: NEW TRANSLATION
+ canada.3.t: "Financování stran" # todo: NEW TRANSLATION
+ canada.3.d: "Na nadcházející volby začíná mnoho stran získávat podporu a financování. Která strana má více podpory a peněz?" # todo: NEW TRANSLATION
+ canada.3.a: "Konzervativci mají navrch!" # todo: NEW TRANSLATION
+ canada.3.b: "Liberálové mají navrch!" # todo: NEW TRANSLATION
+ canada.3.c: "NDP mají navrch!" # todo: NEW TRANSLATION
+ canada.3.e: "Nikdo nemá navrch!" # todo: NEW TRANSLATION
+ canada.5.t: "Québečané jsou rozhořčeni!" # todo: NEW TRANSLATION
+ canada.5.d: "Québečané jsou rozhořčeni kroky ústřední vlády. Začali organizovat menší stávky v oblasti Quebecu a hrozí, že se rozšíří i do francouzsky mluvících enkláv v ostatních provinciích. Musíme to řešit dříve, než se problém zhorší." # todo: NEW TRANSLATION
+ canada.5.a: "Musíme se pokusit problém vyřešit!" # todo: NEW TRANSLATION
+ canada.5.b: "Nedělat nic" # todo: NEW TRANSLATION
+ canada.6.t: "Québečané protestují" # todo: NEW TRANSLATION
+ canada.6.d: "Francouzští Kanaďané začali protestovat proti krokům kanadské vlády. Co s tím uděláme?" # todo: NEW TRANSLATION
+ canada.6.a: "Chránit tyto protesty" # todo: NEW TRANSLATION
+ canada.6.b: "Zákázat tyto protesty" # todo: NEW TRANSLATION
+ canada.7.t: "Québečané povstávají" # todo: NEW TRANSLATION
+ canada.7.d: "Francouzští Kanaďané jsou na pokraji povstání. Co bychom s tím měli udělat?" # todo: NEW TRANSLATION
+ canada.7.a: "Snažit se situaci vyřešit." # todo: NEW TRANSLATION
+ canada.7.b: "Potlačit povstání!" # todo: NEW TRANSLATION
+ canada.8.t: "Francouzští Kanaďané žádají větší autonomii" # todo: NEW TRANSLATION
+ canada.8.d: "Francouzští Kanaďané cítí potřebu větší autonomie vůči naší vládě. Jak to vyřešíme?" # todo: NEW TRANSLATION
+ canada.8.a: "Dát jim více autonomie." # todo: NEW TRANSLATION
+ canada.8.b: "Neměli bychom..." # todo: NEW TRANSLATION
+ canada.20.t: "Nová severoamerická ropná dohoda" # todo: NEW TRANSLATION
+ canada.20.d: "Měli bychom přehodnotit část NAFTA, abychom zajistili příznivé ceny ropy s našimi severoamerickými partnery." # todo: NEW TRANSLATION
+ canada.20.a: "Poslat to USA" # todo: NEW TRANSLATION
+ canada.21.t: "Kanada nabízí dohodu" # todo: NEW TRANSLATION
+ canada.21.d: "Kanada nabídla novou ropnou obchodní dohodu k nahrazení ropných klauzulí v NAFTA. Měli bychom ji přijmout?" # todo: NEW TRANSLATION
+ canada.21.a: "Přijmout ji" # todo: NEW TRANSLATION
+ canada.21.b: "Odmítnout ji" # todo: NEW TRANSLATION
+ canada.22.t: "Amerika odmítá!" # todo: NEW TRANSLATION
+ canada.22.d: "Amerika odmítla naši novou ropnou dohodu.." # todo: NEW TRANSLATION
+ canada.22.a: "Sakra" # todo: NEW TRANSLATION
+ canada_news.1.t: "Severoamerická ropná smlouva" # todo: NEW TRANSLATION
+ canada_news.1.d: "Kanada a Amerika se dohodly na změnách ropných ustanovení v NAFTA tak, aby byly příznivější pro místní ropné společnosti." # todo: NEW TRANSLATION
+ canada_news.1.a: "Díky Americe!" # todo: NEW TRANSLATION
+ canada_news.1.b: "Mmm, ropa" # todo: NEW TRANSLATION
+ canada_news.1.c: "Dobře?" # todo: NEW TRANSLATION
+ canada.100.t: "Air Canada přebírá Canadian Airlines" # todo: NEW TRANSLATION
+ canada.100.d: "Canadian Airlines je kanadská letecká společnost v potížích, která kvůli ekonomickým obtížím už není schopna konkurovat svému rivalovi Air Canada.\n\nByrokrati v Air Canada nyní představili plán na integraci svého bývalého hlavního rivala do společnosti. Plán se jeví jako komplexní a měl by zachránit většinu pracovních míst ohrožených případným bankrotem Canadian Airlines - převzetí, které má být dohodnuto 4. ledna 2000, vstoupí v platnost 1. ledna 2001." # todo: NEW TRANSLATION
+ canada.100.a: "To zní jako dobrý návrh." # todo: NEW TRANSLATION
+ canada.100.b: "Měli bychom se vyvarovat monopolům." # todo: NEW TRANSLATION
+ canada.501.t: "Kanadské ministerstvo kultury" # todo: NEW TRANSLATION
+ canada.501.d: "Kanadské ministerstvo " # todo: NEW TRANSLATION
+ canada.501.a: "Výborně!" # todo: NEW TRANSLATION
+ canada.502.t: "Kanadské ropné dotace" # todo: NEW TRANSLATION
+ canada.502.d: "Po mnoho let jsme dotovali ropné společnosti po celé zemi. Parlament schválil další legislativu, která by potenciálně mohla dotovat různé národní společnosti jako Suncor nebo Imperial Oil" # todo: NEW TRANSLATION
+ canada.502.a: "Dotovat ropné společnosti!" # todo: NEW TRANSLATION
+ canada.502.b: "Vlastně bychom to měli přehodnotit" # todo: NEW TRANSLATION
+ canada.503.t: "Kanadská vláda dotuje ropu" # todo: NEW TRANSLATION
+ canada.503.d: "" # todo: NEW TRANSLATION
+ canada.503.a: "Skvělé" # todo: NEW TRANSLATION
+ canada.504.t: "Kanadská infrastruktura" # todo: NEW TRANSLATION
+ canada.504.d: "Obce vlastní klíčová infrastrukturní aktiva, která jsou zásadní pro kvalitu života Kanaďanů a konkurenceschopnost naší země. Téměř 60 % kanadské základní veřejné infrastruktury je vlastněno a udržováno obecními vládami. Podle výsledků průzkumu je celková hodnota těchto municipálních infrastrukturních aktiv odhadována na 1,1 bilionu dolarů, tedy přibližně 80 000 dolarů na domácnost. Musíme začít směřovat k novému federálnímu infrastrukturnímu systému." # todo: NEW TRANSLATION
+ canada.504.a: "Velké investice" # todo: NEW TRANSLATION
+ canada.504.b: "Střední investice" # todo: NEW TRANSLATION
+ canada.504.c: "Malé investice" # todo: NEW TRANSLATION
+ canada.510.t: "Dánské odmítnutí" # todo: NEW TRANSLATION
+ canada.510.d: "" # todo: NEW TRANSLATION
+ canada.510.a: "Tak tedy válka" # todo: NEW TRANSLATION
+ canada.510.b: "Ještě nejsme připraveni" # todo: NEW TRANSLATION
+ canada.511.t: "Dánové souhlasí" # todo: NEW TRANSLATION
+ canada.511.d: "" # todo: NEW TRANSLATION
+ canada.511.a: "Skvělé" # todo: NEW TRANSLATION
+ canada.520.t: "Přijetí status quo" # todo: NEW TRANSLATION
+ canada.520.d: "Od založení Kanady jako národa koexistují francouzská a anglická část země. Je důležité zachovat tento stav, pokud se stabilita našeho velkého státu nerozpadne a Kanada v současné podobě by nepřežila." # todo: NEW TRANSLATION
+ canada.520.a: "Je to správný krok" # todo: NEW TRANSLATION
+ canada.521.t: "Nová francouzská vláda" # todo: NEW TRANSLATION
+ canada.521.d: "Rozhodli jsme se, že je v našem nejlepším zájmu následovat vedení Quebecu a dovolit Québečanům hrát větší roli ve vládě." # todo: NEW TRANSLATION
+ canada.521.a: "Nová budoucnost" # todo: NEW TRANSLATION
+ canada.522.t: "Zmocnění anglicky mluvících" # todo: NEW TRANSLATION
+ canada.522.d: "Zmocněním anglicky mluvících částí vlády a omezováním práv francouzsky mluvící populace získáme větší kontrolu nad naší identitou. Zastavme je!" # todo: NEW TRANSLATION
+ canada.522.a: "Temná změna" # todo: NEW TRANSLATION
+ canada.600.t: "Americká recese zasahuje Kanadu" # todo: NEW TRANSLATION
+ canada.600.d: "Velká recese zasahuje Ameriku a její dopady se nyní projevují i v Kanadě." # todo: NEW TRANSLATION
+ canada.600.a: "Nešťastné" # todo: NEW TRANSLATION
+ canada.601.t: "Konec recese" # todo: NEW TRANSLATION
+ canada.601.d: "Kanada se konečně zotavila z recese způsobené v Americe. Je to slavný den pro naši silnou ekonomiku!" # todo: NEW TRANSLATION
+ canada.601.a: "Dobře" # todo: NEW TRANSLATION
+ canada.700.t: "Nepokoje v Quebecu" # todo: NEW TRANSLATION
+ canada.700.d: "Québečané začali vyvolávat nepokoje a požadovat ústupky od vlády. Nedávné politické změny centrální vlády způsobily mezi Québečany značné neklid." # todo: NEW TRANSLATION
+ canada.700.a: "Tvrdě zasáhnout" # todo: NEW TRANSLATION
+ canada.700.b: "Udělit ústupky" # todo: NEW TRANSLATION
+ canada.700.c: "Politické ústupky" # todo: NEW TRANSLATION
+ canada.701.t: "Pokojné protivládní protesty" # todo: NEW TRANSLATION
+ canada.701.d: "Québečané začali protestovat v Quebecu a Montrealu proti nedávným legislativním změnám." # todo: NEW TRANSLATION
+ canada.701.a: "Rozbít protesty" # todo: NEW TRANSLATION
+ canada.701.b: "Uplatit je" # todo: NEW TRANSLATION
+ canada.701.c: "Vyjádřit jim podporu" # todo: NEW TRANSLATION
+ canada.702.t: "Proti-vládní řečník" # todo: NEW TRANSLATION
+ canada.702.d: "Místní québecký řečník se objevil a snaží se podkopat vládu. Co s ním uděláme?" # todo: NEW TRANSLATION
+ canada.702.a: "Necháme ho mluvit, je docela zábavný" # todo: NEW TRANSLATION
+ canada.702.b: "Zatknout ho" # todo: NEW TRANSLATION
+ canada.703.t: "Pro-vládní řečník" # todo: NEW TRANSLATION
+ canada.703.d: "Místní řečník v Quebecu prohlásil, že Quebec potřebuje Kanadu stejně jako Kanada potřebuje Quebec. Zdůraznil symbiotický vztah. Měli bychom mu vyjít vstříc?" # todo: NEW TRANSLATION
+ canada.703.a: "Oficiálně ho podpořit" # todo: NEW TRANSLATION
+ canada.703.b: "Uznat ho" # todo: NEW TRANSLATION
+ canada.703.c: "Odmítnout jeho pošetilá tvrzení" # todo: NEW TRANSLATION
+ canada.704.t: "Quebec podporuje vládu" # todo: NEW TRANSLATION
+ canada.704.d: "Některé průzkumy ukázaly, že současná vláda má mezi obyvateli Quebecu vysokou podporu." # todo: NEW TRANSLATION
+ canada.704.a: "Dobrá zpráva" # todo: NEW TRANSLATION
+ keystonepipeline_can.0.t: "Začíná plánování ropovodu Keystone" # todo: NEW TRANSLATION
+ keystonepipeline_can.0.d: "Měli bychom začít plánovat výstavbu ropovodu. Požádáme USA o pomoc nebo to uděláme sami?" # todo: NEW TRANSLATION
+ keystonepipeline_can.0.a: "Použít americké plány" # todo: NEW TRANSLATION
+ keystonepipeline_can.0.b: "Měli bychom to udělat sami" # todo: NEW TRANSLATION
+ keystonepipeline_can.0.c: "Požádat Ameriku o pomoc s plánováním ropovodu" # todo: NEW TRANSLATION
+ keystonepipeline_can.1.t: "Projektované náklady ropovodu: 9 miliard" # todo: NEW TRANSLATION
+ keystonepipeline_can.1.d: "Bez americké pomoci se projekt odhaduje na přibližně 9 miliard dolarů. Uděláme to?" # todo: NEW TRANSLATION
+ keystonepipeline_can.1.a: "Měli bychom do toho jít!" # todo: NEW TRANSLATION
+ keystonepipeline_can.1.b: "Potřebujeme peníze jinde." # todo: NEW TRANSLATION
+ keystonepipeline_can.2.t: "Projektované náklady ropovodu: 2 miliardy" # todo: NEW TRANSLATION
+ keystonepipeline_can.2.d: "Díky dokončení amerického ropovodu budou náklady na dokončení kanadského ropovodu výrazně nižší. Odhaduje se, že dokončení bude stát kolem 2 miliard dolarů." # todo: NEW TRANSLATION
+ keystonepipeline_can.3.t: "Projektované náklady ropovodu: 5 miliard" # todo: NEW TRANSLATION
+ keystonepipeline_can.3.d: "Američané nám odpověděli! Souhlasili, že nám pomohou plánovat ropovod. Odhadujeme celkové náklady na dokončení ropovodu na 5 miliard dolarů. Předpokládáme, že nám Američané ušetřili zhruba 4 miliardy dolarů. Tyto peníze bychom mohli nyní použít třeba na nákup 114 milionů litrů javorového sirupu!" # todo: NEW TRANSLATION
+ keystonepipeline_can.4.t: "Ropovod Keystone je dokončen" # todo: NEW TRANSLATION
+ keystonepipeline_can.4.d: "Po velmi dlouhé a nákladné době jsme konečně dokončili ropovod." # todo: NEW TRANSLATION
+ keystonepipeline_can.4.a: "Konečně!" # todo: NEW TRANSLATION
+ keystonepipeline_usa.0.t: "Kanada žádá naši pomoc při plánování ropovodu" # todo: NEW TRANSLATION
+ keystonepipeline_usa.0.d: "Velmi špatný popis, který má vyvolat Strategy Gamer" # todo: NEW TRANSLATION
+ keystonepipeline_usa.0.a: "Měli bychom pomoci spojencům" # todo: NEW TRANSLATION
+ keystonepipeline_usa.0.b: "Zatím si nemůžeme dovolit uvolnit peníze z pokladny." # todo: NEW TRANSLATION
+ canada_md_politics.2.t: "Operace Žlutá stuha" # todo: NEW TRANSLATION
+ canada_md_politics.2.d: "Zdá se, že na Světové obchodní centrum v New Yorku byl proveden koordinovaný útok. Mohou hrozit i další útoky, a to vedlo Spojené státy k uzavření vzdušného prostoru. Musíme postupovat stejně, abychom předešli dalším útokům na potenciální cíle. Transport Canada a Nav Canada aktivují nouzová opatření k uzemnění všech letadel nad americkým i naším vzdušným prostorem. Piloti budou muset přistát na nejbližších možných letištích s výjimkou těch poblíž velkých měst. Každé letadlo musí být při přistání prohlédnuto a tisíce pasažérů projdou celnicí. Veřejná podpora je nezbytná, aby bylo možné poskytnout jídlo a přístřeší všem, kteří zůstali uvězněni. Bude to masivní úkol." # todo: NEW TRANSLATION
+ canada_md_politics.2.a: "Stojíme spolu" # todo: NEW TRANSLATION
+ canada_md_politics.2.b: "Pošleme USA vše, co můžeme postrádat!" # todo: NEW TRANSLATION
+ canada_md_politics.3.t: "Další spor o měkké dřevo" # todo: NEW TRANSLATION
+ canada_md_politics.3.d: "Zase to začíná — čtvrtý spor o měkké dřevo. Spojené státy opět napadají naši politiku. Podle nich naše provinciální vlády nesprávně dotují dřevařský průmysl. Lesy jsou v majetku provincií, takže ony určují ceny. Naše trhy fungují trochu jinak, než jsou na to Američané zvyklí. Mají však zákony, které jim umožňují uvalit na nás cla, aby „vyrovnali podmínky“. Můžeme to jednou provždy ukončit obrácením se na Světovou obchodní organizaci, ale to nese riziko rozhněvání Američanů a eskalace problému za rámec dřeva." # todo: NEW TRANSLATION
+ canada_md_politics.3.a: "Kontaktování WTO povede k snadnému vítězství." # todo: NEW TRANSLATION
+ canada_md_politics.3.b: "Můžeme se pokusit uzavřít s nimi novou dohodu místo vyvolání obchodní války." # todo: NEW TRANSLATION
+ canada_md_politics.4.t: "Ontario bez proudu" # todo: NEW TRANSLATION
+ canada_md_politics.4.d: "Zdá se, že 10 milionů obyvatel Ontaria a 45 milionů Američanů ztratilo dodávky elektřiny. Pokud se naše údaje sečtou správně, zdá se, že jde o druhý nejrozsáhlejší výpadek proudu v historii. Nicméně nyní musíme odložit statistiky stranou. Města od Windsoru po Ottawu potřebují pomoc. Toronto má obzvlášť velké problémy, protože veřejná doprava je v zástavě. Premiér Ernie Eves vyhlásil stav nouze a můžeme očekávat, že pomoc dorazí do postižených oblastí brzy. Naštěstí někteří slušní občané již převzali odpovědnost za řízení dopravy a zajištění bezpečí lidí, dokud nepřijde policie. Spolupracujeme se Spojenými státy na vyšetření příčin, ale zatím zůstává původ nejasný." # todo: NEW TRANSLATION
+ canada_md_politics.4.a: "To byli Američané" # todo: NEW TRANSLATION
+ canada_md_politics.4.b: "Opravdu musíme zlepšit naši infrastrukturu" # todo: NEW TRANSLATION
+ canada_md_politics.5.t: "Skandál se sponzorským programem" # todo: NEW TRANSLATION
+ canada_md_politics.5.d: "V roce 1996 zahájili liberálové program sponzoringu, který měl propagovat příspěvky kanadské vlády průmyslu v Quebecu, aby se zamezilo suverenitním náladám. Zdá se však, že peníze nebyly dobře využity. Generální účetní Sheila Fraser právě dokončila zprávu o programu a národu bylo odhaleno, že téměř polovina z programu za 250 milionů byla utracena u firem přátelských liberálům. Některé peníze dokonce končily jako dary zpět liberálům pro volební kampaně. Premiér Paul Martin dělá vše, co může, aby zmírnil dopad na popularitu své strany, ale zdá se, že další volby mohou být již rozhodnuty." # todo: NEW TRANSLATION
+ canada_md_politics.5.a: "Můžeme dosáhnout urovnání a přijmout zákony, které zakážou podobné programy." # todo: NEW TRANSLATION
+ canada_md_politics.5.b: "Liberálové se zdají být vždy zapleteni v nějakém skandálu." # todo: NEW TRANSLATION
+ canada_md_politics.6.t: "Americké jaderné ponorky v Severozápadním průjezdu" # todo: NEW TRANSLATION
+ canada_md_politics.6.d: "" # todo: NEW TRANSLATION
+ canada_md_politics.6.d: "Prý dorazila USS Charlotte do Virginie poté, co se vydala severní cestou z Pearl Harboru. Obvykle pro nás americké námořnictvo není hrozbou. Trasa této ponorky však prochází přímo Severozápadním průlivem. Považujeme tuto oblast za součást našich vnitřních vod, ale Spojené státy s tímto názorem nesouhlasí. To představuje problém, který se bude v budoucnu jen zvětšovat. Více zemí bude chtít Severozápadní průliv využívat jako obchodní cestu, jak se stane snazším k průjezdu. Naši severní rivalové, jako Rusko, se také mohou cítit oprávněni volně vstupovat do našich arktických vod. Tomu musí být učiněno přítrž." # todo: NEW TRANSLATION
+ canada_md_politics.6.a: "Přítomnost cizích států v našich domovských vodách nebude tolerována." # todo: NEW TRANSLATION
+ canada_md_politics.6.b: "Necháme to být." # todo: NEW TRANSLATION
+ canada_md_politics.7.t: "Skupina Toronto 18" # todo: NEW TRANSLATION
+ canada_md_politics.7.d: "V oblasti Velkého Toronta byl právě odhalen hrozný teroristický záměr. Protiteroristické razie zadržely 14 dospělých a 4 mladistvé, kteří byli označeni jako Toronto 18. Všichni jsou obviněni z plánování koordinovaných útoků po jižním Ontariu. Tyto útoky měly zahrnovat bombardování kulturních památek, střelbu do davů na ulicích Toronta, odstavení elektrických sítí, napadení Canadian Broadcasting Centre, vtrhnutí do sídla Canadian Security Intelligence Service a dokonce útok na Parliament Hill. Možná nejvíce znepokojovalo jejich vyhlížení setnutí premiéra a dalších politiků živě v televizi. Vždy veřejnost nabádáme, aby nepodlehla strachu. Nicméně možnost, že k takovému útoku dojde i jen vzdáleně, je děsivá." # todo: NEW TRANSLATION
+ canada_md_politics.7.a: "Odebrat těmto bezcitným příšerám občanství" # todo: NEW TRANSLATION
+ canada_md_politics.7.b: "Naše akce na Středním východě by tu doma mohly vést ke katastrofě." # todo: NEW TRANSLATION
+ canada_md_politics.8.t: "Operace Medusa začíná" # todo: NEW TRANSLATION
+ canada_md_politics.8.d: "Boje o provincii Kandahár v Afghánistánu pokračují a chystáme se vést největší pozemní bitvu v historii NATO. Vstupujeme do boje s našimi afghánskými, americkými, britskými, dánskými a nizozemskými spojenci. Tato operace bude jistě úspěšná, ale naše jednotky musí zůstat ostražité vůči Tálibánu. Proti nám stojí tisíce bojovníků připravených zemřít za tuto zemi. Je nepravděpodobné, že je dokážeme regionu úplně zbavit tak brzy. To mnoho Kanaďanů znepokojuje kvůli možným ztrátám na naší straně v tomto konfliktu. Koneckonců, počet obětí může jen stoupat. To, jak hladce operace proběhne, ovlivní veřejné vnímání války." # todo: NEW TRANSLATION
+ canada_md_politics.8.a: "Musíme tento boj dokončit, a to znamená vyhladit Tálibán." # todo: NEW TRANSLATION
+ canada_md_politics.8.b: "Odtud bude jen více kanadské krve na našich rukou." # todo: NEW TRANSLATION
+ canada_md_politics.9.t: "Quebecois Nation Motion" # todo: NEW TRANSLATION
+ canada_md_politics.9.d: "Premiér Stephen Harper předložil v Sněmovně reprezentantů návrh týkající se Québecu. Žádá, aby Sněmovna uznala, že Quebecois tvoří v Kanadě zvláštní společenství. Zdá se, že každý politický subjekt tomuto návrhu věnuje značnou podporu, ale kanadská veřejnost je na to rozdělena napůl. Někteří tvrdí, že to jen oživuje separatistické nálady a že Quebec si nezaslouží zvláštní zacházení. Jiní to vidí jako pozitivní krok ve vztazích Kanady s Quebecem tím, že se uznají věci, které dělají jejich provincii jedinečnou. Každopádně, návrhy ve Sněmovně nemají bez ohledu na výsledek skutečný právní dopad." # todo: NEW TRANSLATION
+ canada_md_politics.9.a: "Kanada je nedělitelná a Quebec je jako každá jiná provincie." # todo: NEW TRANSLATION
+ canada_md_politics.9.b: "Quebec musí mít své odlišnosti uznány a respektovány." # todo: NEW TRANSLATION
+ canada_md_politics.10.t: "Den akce domorodých obyvatel" # todo: NEW TRANSLATION
+ canada_md_politics.10.d: "Domorodé národy Kanady napříč zemí jsou stále více zklamány svým vztahem s federální vládou. Dnes vyhlásily první celonárodní den protestu, aby upozornily na problémy, jimž čelí. Hlavní dopravní trasy v mnoha velkých městech byly zablokovány. Aktivisté požadují řešení otázek pozemkových nároků, kvality života na rezervacích a dostupnosti sociálních služeb. Jedním z jejich naléhavých problémů je zrušení Kelowna Accord premiérem Stephenem Harperem. Šlo o soubor dohod mezi federální vládou a domorodými lidmi, které měly zlepšit vzdělání, zaměstnanost a životní podmínky prostřednictvím programů financovaných vládou. Dohoda nebyla právně závazná, ale přesto jde o krok zpět ve vztazích s domorodými komunitami." # todo: NEW TRANSLATION
+ canada_md_politics.10.a: "Vrátit Kelowna Accord a tentokrát se k němu zavázat." # todo: NEW TRANSLATION
+ canada_md_politics.10.b: "Tito lidé by měli prostě přijmout, že svět se změnil." # todo: NEW TRANSLATION
+ canada_md_politics.11.t: "Razie RCMP v sídle konzervativců" # todo: NEW TRANSLATION
+ canada_md_politics.11.d: "Konzervativci byli obviněni, že během posledních voleb nelegálně překročili limity výdajů na reklamu. V zákonech byly nalezeny skuliny ohledně toho, jak mají být transakce mezi různými organizacemi v rámci strany prováděny, a konzervativci je využili k přesměrování značných prostředků do místních reklam, které nebyly celostátního rozsahu. Elections Canada obvykle vrací část výdajů strany v každém obvodu na základě získaných hlasů, ale kvůli skandálu tuto refundaci zadržela. Dnes Královská kanadská jízdní policie (RCMP) provedla razii v centrále konzervativců a hledala dokumenty související s nelegálním financováním. Liberálové i NDP nyní tuto kauzu využívají jako příležitost k útočení na korupci spojenou s konzervativci." # todo: NEW TRANSLATION
+ canada_md_politics.11.a: "Rychle se domluvit s Elections Canada, abychom to dostali z očí veřejnosti." # todo: NEW TRANSLATION
+ canada_md_politics.11.b: "Tímto tempem nemáme šanci vyhrát příští volby." # todo: NEW TRANSLATION
+ canada_md_politics.13.t: "Zlatý gól" # todo: NEW TRANSLATION
+ canada_md_politics.13.d: "Je závěrečný den Zimních olympijských her 2010 a všechny oči jsou upřeny na závěrečný zápas. Kanadský mužský hokejový tým se dostal do finále. Jen Spojené státy stály v cestě za zlatem. Kanada měla silný začátek vedoucím 2:0, ale Američané srovnali skóre 25 sekund před koncem třetí třetiny. Stadion napjatě zadržoval dech, když začalo náhlé úmrtí. Nakonec Jarome Iginla přihrál Sidneymu Crosbymu, který vstřelil vítězný gól. Města po celé Kanadě okamžitě vybuchla jásotem, jako by se celá národ sjednotil." # todo: NEW TRANSLATION
+ canada_md_politics.13.a: "Něco do kronik dějin" # todo: NEW TRANSLATION
+ canada_md_politics.13.b: "Promrhané peníze" # todo: NEW TRANSLATION
+ canada_md_politics.14.t: "Nepokoje na summitu G20" # todo: NEW TRANSLATION
+ canada_md_politics.14.d: "G20 se poprvé sešla v Torontu na summitu v roce 2010 a vše mělo proběhnout hladce. Kanada se rychle zotavila z globální finanční krize, což nám během jednání přineslo mnohé příležitosti. Však mimo místo setkání se vyskytl masivní problém. Summity G20 přitahují pozornost mnoha politických aktivistů. Všichni nejvlivnější světoví lídři jsou pohromadě a je to šance pro protesty. Tisíce lidí vyšly do ulic, aby pokojně protestovaly proti domnělé nedostatečné transparentnosti a nerespektování veřejného mínění. Mezi demonstranty se však objevili výtržníci, kteří využili velkých davů k vandalismu budov, rabování obchodů a zapalování vozidel. K uklidnění anarchie byly nasazeny četné pořádkové jednotky, ale nedostatek vedení vedl k násilným střetům, do nichž se zapojili i nevinní kolemjdoucí. Bylo zadrženo přes tisíc lidí, což z toho činí největší hromadné zatýkání v kanadské historii." # todo: NEW TRANSLATION
+ canada_md_politics.14.a: "Trapné" # todo: NEW TRANSLATION
+ canada_md_politics.14.b: "Mohlo to být horší bez naší bezpečnosti" # todo: NEW TRANSLATION
+ canada_md_politics.15.t: "Stahujeme kandidaturu do Rady bezpečnosti" # todo: NEW TRANSLATION
+ canada_md_politics.15.d: "Kanada byla jedním ze zakládajících členů Organizace spojených národů a nadále patří mezi nejaktivnější. Toto angažmá dříve zahrnovalo rekord v úspěšnosti kandidatur na nepermanentní členství v Radě bezpečnosti OSN. Náš rekord byl právě zničen. V prvním kole nás drtivě porazilo Německo a ve druhém kole jsme prohráli s Portugalskem. Rozhodli jsme se odstoupit a členství Portugalska bylo v třetím kole potvrzeno. Mnoho Kanaďanů je touto ztrátou znepokojeno a vinu přisuzují zahraniční politice konzervativní vlády. V poslední době se Kanada angažovala více než obvykle na světové scéně po boku spojenců v NATO. Zejména jsme následovali USA do mnoha bojů na cizí půdě. Možná musíme změnit přístup." # todo: NEW TRANSLATION
+ canada_md_politics.15.a: "Bráníme naše hodnoty pro bezpečnější svět" # todo: NEW TRANSLATION
+ canada_md_politics.15.b: "To je útok na naši reputaci!" # todo: NEW TRANSLATION
+ canada_md_politics.16.t: "Oranžová vlna" # todo: NEW TRANSLATION
+ canada_md_politics.16.d: "Poslední průzkumy před nadcházejícími volbami naznačují, že NDP získala více podpory než Liberálové. Jejich strana byla od svého vzniku třetí, ale nyní se zdá, že by mohla sestavit vládu. Za tím stojí jejich charismatický vůdce Jack Layton. Je zastáncem progresivních hodnot a učinil svůj největší pokus stát se premiérem. Mnoho kandidátů NDP jsou zkušení politici z jiných stran, které jeho vize oslovila. Kanaďané po celé zemi také projevují rozsáhlou podporu jeho programu. Toto by mohla být první vláda v kanadské historii, která by nebyla tvořena konzervativci nebo liberály." # todo: NEW TRANSLATION
+ canada_md_politics.16.a: "Ignorujte tyto nadějné – soustřeďte se na skutečnou konkurenci!" # todo: NEW TRANSLATION
+ canada_md_politics.16.b: "Musíme jednat, než Layton získá moc!" # todo: NEW TRANSLATION
+ canada_md_politics.17.t: "200. výročí války roku 1812" # todo: NEW TRANSLATION
+ canada_md_politics.17.d: "Dnes uplynulo dvě stě let od chvíle, kdy Spojené státy vyhlásily válku Britskému impériu. Byla to válka, která pomohla formovat kanadskou národní identitu, a současná konzervativní vláda pod Harperem dělá vše pro to, aby Kanaďany na to neustále připomínala. Během posledních tří let bylo utraceno miliony dolarů na pamětní mince, historické rekonstrukce a propagační videa. Není mnoho těch, kteří by tvrdili, že vyučování mládeže o naší minulosti je špatné, ale vysoké náklady na bicenteniál ve srovnání s podobnými akcemi vzbuzují pozdvižení." # todo: NEW TRANSLATION
+ canada_md_politics.17.a: "Všichni si připomenou Kanaďany, kteří bránili naši svobodu" # todo: NEW TRANSLATION
+ canada_md_politics.17.b: "Ta válka za to ani nestála." # todo: NEW TRANSLATION
+ canada_md_politics.18.t: "Expedice 35 na Mezinárodní vesmírné stanici" # todo: NEW TRANSLATION
+ canada_md_politics.18.d: "Plukovník Chris Hadfield se vrátil z Mezinárodní vesmírné stanice. Byl prvním astronautem Kanadské kosmické agentury, který stanici velel. Nejenže je vysoce úspěšný, ale přitáhl si i obrovskou přítomnost na sociálních sítích. Hadfield často vysílal videa pro děti po celé zemi, aby jim ukázal, jaký je život ve vesmíru. Někdy pořádal online sezení, kde mu internet mohl klást otázky. Dokonce natočil hudební video na ISS, kde zpívá Space Oddity od Davida Bowieho. Nyní se chystá vydat autobiografii, v níž zmapuje své zážitky ze stanice, s vydáním plánovaným na později tento rok." # todo: NEW TRANSLATION
+ canada_md_politics.18.a: "Oceňme ho nejvyššími státními vyznamenáními za jeho službu a zakupme si kopii té knihy" # todo: NEW TRANSLATION
+ canada_md_politics.18.b: "Inspiroval další generaci kanadských astronautů." # todo: NEW TRANSLATION
+ canada_md_politics.19.t: "Ukončeny jednání s Evropskou unií o CETA" # todo: NEW TRANSLATION
+ canada_md_politics.19.d: "Naše úsilí o diverzifikaci seznamu obchodních partnerů přineslo mnoho nových příležitostí volného obchodu. Kompletní hospodářská a obchodní dohoda s EU by mohla být náš dosud největší obchodní kontrakt. Naše trhy se otevřou 28 státům, až bude dohoda ratifikována. Dohoda však není bez kontroverzí. Rostou obavy ohledně ustanovení týkajících se duševního vlastnictví, geneticky modifikovaných organismů a vízových omezení mezi oběma signatáři. Newfoundland a Labrador jsou zejména rozhořčeni způsobem, jak bude upraveno vynucování naší výlučné hospodářské zóny. Některá pravidla, která chránila rybolov v námořních oblastech, jsou nyní rušena, aby se uspokojili Evropané, a to bolí, když jsme s nimi v roce 1994 vedli Turbot War. Přesto jsme dokázali zajistit dobrý obchod vzhledem k ekonomické síle Evropské unie." # todo: NEW TRANSLATION
+ canada_md_politics.19.a: "Otevřít naši zemi evropským investicím" # todo: NEW TRANSLATION
+ canada_md_politics.19.b: "Vstupme na evropské trhy s vervou" # todo: NEW TRANSLATION
+ canada_md_politics.20.t: "Terror v kapitolu" # todo: NEW TRANSLATION
+ canada_md_politics.20.t: "Terror in the Capital" # todo: NEW TRANSLATION
+ canada_md_politics.20.d: "Ottawa je právě uzavřena poté, co osamělý střelec podnikl pokus o útok na vládu. Začalo to tím, že smrtelně zranil strážného jménem kaprál Nathan Cirilo u Národního válečného památníku. Poté se vydal do Parlamentu a vstoupil do Centrálního křídla hlavním vchodem pod Peace Tower. Mnozí členové parlamentu právě vedli schůzky a nacházeli se v místnostech, kterými střelec běžel. Premiér Stephen Harper byl v jedné z těchto místností a byl nucen ukrýt se ve skříni, zatímco jeho spolustraníci chytali vlajkové tyče, aby se bránili. Střelec vystřelil několik ran, když se přesouval chodbami, a jedna kulka zasáhla místnost, kde byli NDP. Nakonec se RCMP podařilo střelce zatlačit za sloup. Sergeant-at-Arms Kevin Vickers se vrhl kolem střelce, zatímco na něj střílel, a policejní strážník Curtis Barrett podlehl ráně, která byla údajně smrtelná. Zpravodajské stanice po celém světě už začaly tento incident senzacechtivě popisovat jako obléhání města. I klidnější reportéři zpochybňují nedostatek bezpečnosti na Parliament Hill. Možná měli Američané pravdu, když po vlastních teroristických útocích zvýšili dohled." # todo: NEW TRANSLATION
+ canada_md_politics.20.a: "Kanaďané nikdy nebyli známi tím, že by zamykali dveře, a teroristé to nezmění" # todo: NEW TRANSLATION
+ canada_md_politics.20.b: "Musíme chránit Kanaďany i když to bude stát některé svobody." # todo: NEW TRANSLATION
+ canada_md_politics.21.t: "Letecké údery v Iráku a Sýrii" # todo: NEW TRANSLATION
+ canada_md_politics.21.d: "Liberálové právě vyhráli volby s příslibem ukončit naše letecké údery na Islámský stát v Iráku a Sýrii. Místo toho chtějí více investovat do výcviku našich spojenců na zemi, aby se vybudovala efektivnější bojeschopná síla. Jedním z důvodů je, že to ušetří náklady, protože jsme již utratili stovky milionů za naše bojové operace. Dalším je, že Kanaďané by nemuseli riskovat své životy, pokud by místní síly zvládly vlastní boje. Obě argumenty mají něco do sebe, ale riskujeme, že rozhneváme naše spojence v NATO. Ostatní státy by mohly nabýt dojmu, že je nutíme táhnout těžší kus práce." # todo: NEW TRANSLATION
+ canada_md_politics.21.a: "Musíme zůstat věrní našim spojencům" # todo: NEW TRANSLATION
+ canada_md_politics.21.b: "Existují lepší způsoby, jak podpořit boj proti Islámskému státu" # todo: NEW TRANSLATION
+ canada_md_politics.22.t: "Případ Omara Khadra" # todo: NEW TRANSLATION
+ canada_md_politics.22.d: "Omar Khadr se stal v zemi značně rozporuplnou postavou. Jeho otec jej vzal do Afghánistánu jako chlapce a on se nakonec zapojil na straně Al-Káidy a dalších teroristických skupin během války. Byl zraněn v boji proti americkým jednotkám a údajně zabil seržanta 1. třídy Christophera Speera granátem. Později byl zajat a poslán do Guantánama, kde jej vyšetřovali američtí a kanadští zpravodajci. V roce 2010 se přiznal k válečným zločinům po osmi letech v zajetí. Vrátil se do Kanady, aby zde odsloužil zbytek trestu. Kontroverze vznikla kvůli jeho zacházení v Guantánamu. OSN zjistila, že je prvním člověkem od druhé světové války, který je souzen za válečné zločiny jako nezletilý. Obhájci lidských práv po celé zemi vyjádřili pohoršení nad činností našich zpravodajských služeb a Nejvyšší soud Kanady rozhodl, že byla porušena jeho lidská práva. Khadr byl propuštěn na kauci v roce 2015, ale konzervativci se snažili toto rozhodnutí napadnout. Nová liberální vláda nyní zvažuje stažení odvolání. Ať už to dopadne jakkoli, Kanaďané na to jistě zareagují negativně." # todo: NEW TRANSLATION
+ canada_md_politics.22.a: "Byl to jen chlapec, když jej otec vtáhl do náruče teroristů" # todo: NEW TRANSLATION
+ canada_md_politics.22.b: "Po všem, co udělal, mu nemůžeme dovolit volně chodit po našich ulicích." # todo: NEW TRANSLATION
+ canada_md_politics.23.t: "Osud Bombardier CSeries" # todo: NEW TRANSLATION
+ canada_md_politics.23.d: "Náš letecký průmysl má potíže, a to vedlo Bombardier k zoufalým krokům. Jejich nejnovější dopravní letadlo CSeries zaplňuje mezeru na trhu, která by jim mohla přinést bohatství. Nicméně málo společností tyto stroje kupuje. Bombardier v reakci výrazně snížil cenu každého kusu hluboko pod výrobní náklady, aby je učinil atraktivnějšími. Každé letadlo se prodává za 19 milionů dolarů, přestože jeho výroba stojí 33 milionů. Boeing se tomu vůbec nelíbil, protože to představovalo tvrdou konkurenci pro jejich MAX 7. Podali proti Bombardieru stížnost. Je poněkud pokrytecké, že jim vyčítají neférové ekonomické výhody, když sami získávají obrovské daňové úlevy od americké vlády. Přesto by to mohlo být smrtící pro náš letecký průmysl. K situaci nepomáhá ani fakt, že současná americká administrace nás obviňuje ze zneužívání obchodního vztahu. Naštěstí nám Evropané přišli na pomoc. Airbus chce získat většinový podíl v programu CSeries výměnou za výhradní výhody pro Kanadu. Evropští spojenci jsou důvěryhodní, ale nebudeme v tomto průmyslu téměř tak nezávislí, pokud nabídku přijmeme." # todo: NEW TRANSLATION
+ canada_md_politics.23.a: "Lépe spolupracovat s Evropany, než se klanět Američanům." # todo: NEW TRANSLATION
+ canada_md_politics.23.b: "Prodat se Evropě nic neřeší" # todo: NEW TRANSLATION
+ canada_md_politics.25.t: "Ani jednotný postoj nás nezmůže na Američany" # todo: NEW TRANSLATION
+ canada_md_politics.25.d: "Naše armáda a spojenci v NATO neustále žádají naši vládu o navýšení výdajů na bezpečnost. Mají dobrý argument. Naše ozbrojené síly se poslední dekády potýkají s udržováním kroku s dobou. Výzbroj je zastaralá a nábor klesá. Nasazujeme také naše jednotky do rostoucího počtu konfliktů v zahraničí. Naše suverenita na severu bude muset být také chráněna, jak se led bude dál tavit. Ministr obrany Harjit Sajjan předložil novou obrannou politiku, která má tyto problémy řešit. Požaduje přestavbu armády během následujících 20 let, včetně 73% nárůstu výdajů během příští dekády. Plán bude nákladný a není jasné, odkud pocházejí všechny potřebné zdroje." # todo: NEW TRANSLATION
+ canada_md_politics.25.a: "Kanada musí udělat více, aby chránila sebe i své spojence." # todo: NEW TRANSLATION
+ canada_md_politics.25.b: "Armáda je už dostatečně schopná." # todo: NEW TRANSLATION
+ canada_md_politics.26.t: "Oslavy Kanada 150" # todo: NEW TRANSLATION
+ canada_md_politics.26.d: "Uplynulo 150 let od kanadské konfederace. Federální i provinční vlády pořádají největší oslavy v dějinách země. Konají se představení, vstup do národních parků je zdarma a byly raženy pamětní mince. Také máme obří kachnu plující po Ontariu. Někteří naši přátelé ze světa poslali dary. Nizozemci vyšlechtili tulipán, který vypadá jako javorový list z naší vlajky. Přesto ne všichni dnes jásají. Někteří kritizují vysoké náklady na oslavy a raději by viděli peníze vložené jinde. Domorodé skupiny tvrdí, že sté padesátiny jen posilují stovky let koloniální nadvlády. Obě tyto připomínky vyvolaly mezi Kanaďany určité napětí." # todo: NEW TRANSLATION
+ canada_md_politics.26.a: "Jaký slavný den pro Kanadu, a tedy i pro svět." # todo: NEW TRANSLATION
+ canada_md_politics.26.b: "Zapomeňte na minulost!" # todo: NEW TRANSLATION
+ CAN_modify_french_happiness_tt: "§YFrench Canadian§! Spokojenost se mění o [?modify_que_happy|+0] (Aktuálně: [?CAN.french_happiness_var|Y0])\n" # todo: NEW TRANSLATION
+ CAN_invest_in_PREV_tt: "Kanada posílá investiční nabídky [PREV.GetNamewithFlag]." # todo: NEW TRANSLATION
+ CAN_oil_subsidies_tt: "Dotování ropného průmyslu v Kanadě bude zpočátku stát mezi §Y0.1 Billion Dollars§! a §Y0.5 Billion Dollars§!" # todo: NEW TRANSLATION
+ CAN_NA_Oil_Treaty_tt: "Pokud USA souhlasí,\n" # todo: NEW TRANSLATION
+ CAN_Refineries_Abroad_tt: "§REfekt tohoto zaměření závisí na tom, zda zvolíte Saudi Aramco a Rosneft\n§!" # todo: NEW TRANSLATION
+ CAN_oil_prospects_tt: "Vláda Kanady začne dotovat ropný průmysl. Odhaduje se, že náklady budou činit mezi §R$$1 a $$15 Billion§! ročně.\n" # todo: NEW TRANSLATION
+ CAN_economy_tt: "\nKaždá cesta v ekonomickém stromě může §Rozhněvat§! nebo §Upokojit§! francouzsko‑kanadské obyvatelstvo v Kanadě." # todo: NEW TRANSLATION
+ start_building_pipeline_tt: "Dokončení ropovodu potrvá přibližně 2 roky.\n\n" # todo: NEW TRANSLATION
+ keystonepipeline_can_0_tt: "§ROkamžitě začne plánování mezi různými poslanci v kanadském parlamentu.\n\n§!" # todo: NEW TRANSLATION
+ keystonepipeline_can_1_tt: "Protože Američané už svůj ropovod dokončili, výrazně to §Sníží§! financování potřebné k dokončení našeho úseku ropovodu!" # todo: NEW TRANSLATION
+ CAN_ndp_tt: "V případě podpory Nové demokratické strany Kanady se spokojenost francouzských Kanaďanů může §Rsnížit§!/§Vzrost§! mezi §R-2%§! a §G2%§!.\n" # todo: NEW TRANSLATION
+ CAN_conservatives_tt: "V případě podpory Konzervativní strany Kanady se spokojenost francouzských Kanaďanů má §Rsnížit§! mezi §R3%§! a §R12%§!.\n" # todo: NEW TRANSLATION
+ CAN_liberals_tt: "V případě podpory Liberální strany Kanady se spokojenost francouzských Kanaďanů má §Vzrost§! mezi §G1%§! a §G10%§!.\n" # todo: NEW TRANSLATION
+ CAN_c_helped_tt: "§RKonzervativní strana byla v posledních měsících nejvíce finančně podporována a věří se, že bude mít náskok před svými soupeři.§!" # todo: NEW TRANSLATION
+ CAN_l_helped_tt: "§GLiberální strana byla v posledních měsících nejvíce finančně podporována a věří se, že bude mít náskok před svými soupeři.§!" # todo: NEW TRANSLATION
+ CAN_n_helped_tt: "§GNová demokratická strana byla v posledních měsících nejvíce finančně podporována a věří se, že bude mít náskok před svými soupeři.§!" # todo: NEW TRANSLATION
+ CAN_helped_no_one_yet_tt: "§Všechny strany mají stejné množství podpory a žádná z nich zatím nebude mít rozhodující výhodu.§!" # todo: NEW TRANSLATION
+ CAN_try_fix_happiness_tt: "Pokud se vláda pokusí napravit vztahy s francouzsko‑kanadskou komunitou, jejich spokojenost má šanci §Vzros t§! mezi §G2%§! a §G12%§!." # todo: NEW TRANSLATION
+ CAN_did_nothing_happiness_tt: "Pokud se vláda nepokusí o usmíření, spokojenost francouzských Kanaďanů má šanci §Rsnížit§! mezi §H0%§! a §R-6%§!." # todo: NEW TRANSLATION
+ CAN_quebec_revolts_tt: "§RFrancouzsko‑kanadští nacionalisté povstali proti nám. Musíme je porazit!§!" # todo: NEW TRANSLATION
+ CAN_quebec_autonomous_tt: "Quebec bude §Rudě dán více autonomie§! tím, že bude propuštěn jako Autonomní provincie Kanady." # todo: NEW TRANSLATION
+ CAN_allow_campaigning_2019_tt: "Umožněním kampaně mohou strany nyní svobodně kampaňovat. \nČím dříve umožníte kampaňování, tím více to stojí. \n\n§CTím dříve to povolíte, tím více času budete mít na podporu stran podle svého výběru.§! \n\n§HKost:§! \nPřed §H30 Dec, 2018§!: \nPolitická síla: §R-200§! \n\nMezi §H31 Dec, 2018§! a §H30 Jan, 2019§!: \nPolitická síla: §R-175§! \n\nMezi §H31 Jan, 2019§! a §H27 Feb, 2019§!: \nPolitická síla: §R-150§! \n\nMezi §H28 Feb, 2019§! a §H30 Mar, 2019§!: \nPolitická síla: §R-125§! \n\nMezi §H31 Mar, 2019§! a §H29 Apr, 2019§!: \nPolitická síla: §R-100§! \n\nMezi §H30 Apr, 2019§! a §H30 May, 2019§!: \nPolitická síla: §R-75§! \n\nMezi §H31 May, 2019§! a §H29 Jun, 2019§!: \nPolitická síla: §R-50§! \n\nPo §H30 Jun, 2019§!: \nPolitická síla: §R-25§!" # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_alone_happiness_tt: "Plánováním ropovodu samotnými má spokojenost francouzských Kanaďanů šanci §Rsnížit§! mezi §H0%§! a §R-3%§!." # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_usa_happiness_tt: "\nPlánováním ropovodu společně s USA má spokojenost francouzských Kanaďanů šanci §Rsnížit§! mezi §H0%§! a §R-8%§!." # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_do_it_happiness_tt: "\nZahájením výstavby ropovodu má spokojenost francouzských Kanaďanů šanci §Rsnížit§! mezi §R-2%§! a §R-8%§!.\n\n" # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_use_money_elsewhere_happiness_tt: "\nZrušením ropovodu má spokojenost francouzských Kanaďanů šanci §Vzrost§! mezi §G2%§! a §G10%§!." # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_2_b_happiness_tt: "\nZahájením výstavby ropovodu má spokojenost francouzských Kanaďanů §H50%§! šanci §Rsnížit§! o §R-1%§!." # todo: NEW TRANSLATION
+ CAN_keystone_pipeline_5_b_happiness_tt: "\nZahájením výstavby ropovodu má spokojenost francouzských Kanaďanů §H50%§! šanci §Rsnížit§! o §R-2%§!." # todo: NEW TRANSLATION
+ CAN_canadian_investments_tt: "[CAN.GetNamewithFlag] investuje do §YInfrastruktury§! a §YCiv. průmyslu§! za tržní cenu." # todo: NEW TRANSLATION
+ CAN_modify_subsidy_changes_tt: "Kanadské §Yvládní dotace§! se mění o $$[?subsidy_change_tmp|-3] miliardy týdně (aktuální náklady: $$[?CAN_subsidy_total|R3] miliardy)\n" # todo: NEW TRANSLATION
+ CAN_remove_french_happiness_tt: "Odstraňte svou aktuální ideu s §YSpokojeností frankokanadských§!\n" # todo: NEW TRANSLATION
+ CAN_canadian_economy_dynamic_modifier: "Kanadská ekonomika" # todo: NEW TRANSLATION
+ CAN_canadian_economy_dynamic_modifier_tt: "Kanadská ekonomika je jednou z největších ekonomik na světě. Hlavním důvodem jsou její vývozy k jižnímu sousedovi, Spojeným státům. Jedno z jejích hlavních měst, Toronto, se v posledních desetiletích stalo významným finančním centrem a jeho význam stále roste.\n\nČím více ekonomických zaměření dokončíte, tím větší bude odměna této idey. Budete potřebovat velké množství peněz, abyste to udrželi.\n" # todo: NEW TRANSLATION
+ CAN_extremely_high_french_happiness: "Extrémně vysoká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_extremely_high_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou extrémně spokojeni." # todo: NEW TRANSLATION
+ CAN_very_high_french_happiness: "Velmi vysoká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_very_high_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou velmi spokojeni." # todo: NEW TRANSLATION
+ CAN_high_french_happiness: "Vysoká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_high_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou spokojeni." # todo: NEW TRANSLATION
+ CAN_medium_french_happiness: "Střední spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_medium_french_happiness_desc: "Frankokanadští obyvatelé jsou vůči kanadské vládě neutrální." # todo: NEW TRANSLATION
+ CAN_low_french_happiness: "Nízká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_low_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou nespokojeni." # todo: NEW TRANSLATION
+ CAN_very_low_french_happiness: "Velmi nízká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_very_low_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou velmi nespokojeni." # todo: NEW TRANSLATION
+ CAN_extremely_low_french_happiness: "Extrémně nízká spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_extremely_low_french_happiness_desc: "Frankokanadští obyvatelé jsou s kanadskou vládou extrémně nespokojeni." # todo: NEW TRANSLATION
+ CAN_canadian_economy_dynamic_modifier_modify_tt: "Mění §Y$CAN_canadian_economy_dynamic_modifier$§! následovně:\n" # todo: NEW TRANSLATION
+ CAN_change_military_capacity_factory_tt: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$ upraveno o [?CAN_value_change|+2%] (Aktuálně: [?CAN_industrial_capacity_factory_var|2%+])\n" # todo: NEW TRANSLATION
+ CAN_change_synthetic_oil_tt: "$MODIFIER_PRODUCTION_OIL_FACTOR$ upraveno o [?CAN_value_change|+2%] (Aktuálně: [?CAN_production_oil_var|2%+])\n" # todo: NEW TRANSLATION
+ CAN_change_stability_factor_tt: "$MODIFIER_STABILITY_FACTOR$ upraveno o [?CAN_value_change|+2%] (Aktuálně: [?CAN_stability_factor_var|2%+])\n" # todo: NEW TRANSLATION
+ CAN_change_infrastructure_tt: "$modifier_production_speed_infrastructure_factor$ upraveno o [?CAN_value_change|+2%] (Aktuálně: [?CAN_production_speed_infrastructure_factor_var|2%+])\n" # todo: NEW TRANSLATION
+ CAN_change_production_buildings_tt: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$ upraveno o [?CAN_value_change|+2%] (Aktuálně: [?CAN_production_speed_buildings_var|2%+])\n" # todo: NEW TRANSLATION
+ CAN_keystone_pipeline: "Ropovod Keystone" # todo: NEW TRANSLATION
+ CAN_Begin_Planning: "Začněte plánovat ropovod" # todo: NEW TRANSLATION
+ CAN_provincial_infrastructure: "Program provinční infrastruktury" # todo: NEW TRANSLATION
+ CAN_provincial_infrastructure_desc: "Některé části naší infrastruktury zaostávají za národními cíli v oblasti vysokorychlostních tratí a silnic." # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_759: "Rozšířit infrastrukturu provincie Newfoundland" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_760: "Rozšířit infrastrukturu provincie Nova Scotia" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_761: "Rozšířit infrastrukturu provincie New Brunswick" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_762: "Rozšířit infrastrukturu provincie Quebec" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_763: "Rozšířit infrastrukturu provincie Ontario" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_757: "Rozšířit infrastrukturu provincie Manitoba" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_756: "Rozšířit infrastrukturu provincie Saskatchewan" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_755: "Zlepšit železnice provincie Alberta" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_754: "Rozšířit silnice provincie British Columbia" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_753: "Zlepšit silnice provincie Northwest Territories" # todo: NEW TRANSLATION
+ CAN_improve_infrastructure_758: "Investovat do silnic provincie Nunavut" # todo: NEW TRANSLATION
+ CAN_canadian_subsidies_projects: "Kanadské ekonomické dotace" # todo: NEW TRANSLATION
+ CAN_canadian_subsidies_projects_desc: "Kanadská vláda historicky dotovala mnoho klíčových odvětví. Ropný průmysl, zemědělství, dřevařství, námořní doprava, letectví a mnohé další. Zachování tohoto systému dotací pomůže udržet naši živou ekonomiku. Vládní dotace budou vypláceny každé dva týdny.\n\nCelkové týdenní náklady na vládní dotace: §Y$$[?CAN.CAN_subsidy_total]§!\n\n§gTýdenní náklady lze najít v§! §Ysekci Dodatečné výdaje§! §grozpočtu§!\n" # todo: NEW TRANSLATION
+ CAN_subsidize_military_industry: "Dotovat vojenský průmysl" # todo: NEW TRANSLATION
+ CAN_subsidize_military_industry_desc: "Dotace vojenského průmyslu umožní rozšíření kapacit našeho vojenského průmyslu." # todo: NEW TRANSLATION
+ CAN_reduce_military_subsidies: "Snížit dotace pro vojenský průmysl" # todo: NEW TRANSLATION
+ CAN_reduce_military_subsidies_desc: "Snížení dotací vojenskému průmyslu pomůže zmírnit přetížený rozpočet." # todo: NEW TRANSLATION
+ CAN_construction_subsidies: "Dotace pro dodavatele" # todo: NEW TRANSLATION
+ CAN_construction_subsidies_desc: "Rozšíření daňových úlev a dalších výhod pro místní dodavatele umožní našim stavebním firmám růst a zvyšovat výrobní kapacity." # todo: NEW TRANSLATION
+ CAN_reduce_construction_subsidies: "Snížit dotace pro dodavatele" # todo: NEW TRANSLATION
+ CAN_reduce_construction_subsidies_desc: "Snížení dotací pro dodavatele bude široce nepopulární, ale je nutné ke zmírnění zátěže naší ekonomiky." # todo: NEW TRANSLATION
+ CAN_infrastructure_subsidies: "Dotace na infrastrukturu" # todo: NEW TRANSLATION
+ CAN_infrastructure_subsidies_desc: "Dotace na infrastrukturu budou prospěšné." # todo: NEW TRANSLATION
+ CAN_reduce_infrastructure_subsidies: "Snížit dotace na infrastrukturu" # todo: NEW TRANSLATION
+ CAN_reduce_infrastructure_subsidies_desc: "Snížení dotací pomůže zmírnit naše ekonomické problémy." # todo: NEW TRANSLATION
+ CAN_french_happiness: "Spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_french_happiness_desc: "Frankokanadští, nebo běžně v Québecu označovaní jako \"Québécois\", jsou etnickou skupinou v Kanadě, která sleduje svůj původ až k francouzským kolonistům z 17. století a dále. Frankokanadští tvoří přibližně dvacet dvě procenta kanadské populace. Québecký nacionalismus postupně utichl od 60. let, nicméně v Québecu stále přetrvává a mnozí se stále označují za Québečany spíše než za Kanaďany.\n\n§G60%§! nebo více = Vysoká spokojenost frankokanadských\n§Y50%§!-§Y60%§! = Neutrální spokojenost frankokanadských\n§R49%§! nebo méně = Nízká spokojenost frankokanadských\n\n§gSpokojenost frankokanadských:§! \n[CAN_color_of_variable]\n\n§gAktuální efekty:§! \n[CANGetFrenchHappinessEffects]" # todo: NEW TRANSLATION
+ CAN_analyse_french_happiness: "Analyzovat spokojenost frankokanadských" # todo: NEW TRANSLATION
+ CAN_greater_than_var: "§G[?CAN.french_happiness_var|0]%§!" # todo: NEW TRANSLATION
+ CAN_yellow_var: "§Y[?CAN.french_happiness_var|0]%§!" # todo: NEW TRANSLATION
+ CAN_less_than_var: "§R[?CAN.french_happiness_var|0]%§!" # todo: NEW TRANSLATION
+ CAN_extremely_high_french_happiness_effect: "Extrémně vysoká spokojenost:\n§HZisk politické síly:§! §G+25%§!\n§HStabilita:§! §G+15%§!\n" # todo: NEW TRANSLATION
+ CAN_very_high_french_happiness_effect: "Velmi vysoká spokojenost:\n§HZisk politické síly:§! §G+15%§!\n§HStabilita:§! §G+10%§!\n" # todo: NEW TRANSLATION
+ CAN_high_french_happiness_effect: "Vysoká spokojenost:\n§HZisk politické síly:§! §G+10%§!\n§HStabilita:§! §G+5%§!\n" # todo: NEW TRANSLATION
+ CAN_medium_french_happiness_effect: "Střední spokojenost:\n§HZisk politické síly:§! §G+5%§!\n" # todo: NEW TRANSLATION
+ CAN_low_french_happiness_effect: "Nízká spokojenost:\n§HStabilita:§! §R-5%§!\n" # todo: NEW TRANSLATION
+ CAN_very_low_french_happiness_effect: "Velmi nízká spokojenost:\n§HZisk politické síly:§! §R-25%§!\n§HStabilita:§! §R-10%§!\n" # todo: NEW TRANSLATION
+ CAN_extremely_low_french_happiness_effect: "Extrémně nízká spokojenost:\n§HZisk politické síly:§! §R-50%§!\n§HStabilita:§! §R-15%§!\n" # todo: NEW TRANSLATION
+ CAN_election_2019: "Federální volby 2019" # todo: NEW TRANSLATION
+ CAN_election_2019_desc: "Jedná se o 43. kanadské federální volby, jedny z nejnapínavějších voleb za poslední desetiletí." # todo: NEW TRANSLATION
+ CAN_allow_campaigning_2019_decision: "Povolit kampaňování" # todo: NEW TRANSLATION
+ CAN_help_conservatives_2019_decision: "Podpořit konzervativce" # todo: NEW TRANSLATION
+ CAN_help_liberals_2019_decision: "Podpořit liberály" # todo: NEW TRANSLATION
+ CAN_help_ndp_2019_decision: "Podpořit NDP" # todo: NEW TRANSLATION
+ CAN_canadian_influence: "Kanadské úsilí o vliv" # todo: NEW TRANSLATION

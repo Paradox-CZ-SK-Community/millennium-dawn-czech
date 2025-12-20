@@ -1,0 +1,685 @@
+﻿l_english:
+ WHILE_FOCUSING: "Během zaměření na toto budou následující efekty:\n$EFF$" # todo: NEW TRANSLATION
+ BUL_generic_political_effort: "Bulharská politika" # todo: NEW TRANSLATION
+ BUL_generic_political_effort_desc: "V roce 2000 došlo na bulharské politické scéně k dramatické změně, když konzervativní strana Unie demokratických sil (UDF) ztratila moc ve prospěch opoziční Bulharské socialistické strany (BSP). Tím skončilo osmileté vládnutí UDF a začalo období BSP. Nová vláda upřednostnila ekonomické reformy se zaměřením na zlepšení finanční stability země a přilákání zahraničních investic. Navzdory počáteční veřejné podpoře se reformy ukázaly být pomalé a kontroverzní." # todo: NEW TRANSLATION
+ BUL_steady: "Pokračovat v kurzu" # todo: NEW TRANSLATION
+ BUL_steady_desc: "Bulharsko od pádu komunismu v roce 1989 dosáhlo mnoha věcí, včetně zavedení demokratické vlády. Přesto se objevily nedávné diskuse o potřebě návratu k autoritářštější vládě. Existuje však několik důvodů, proč by Bulharsko mělo nadále zůstat demokracií, aby skutečně využilo ekonomického růstu a svobody našeho lidu." # todo: NEW TRANSLATION
+ BUL_generic_extra_tech_slot: "Zvýšená privatizace" # todo: NEW TRANSLATION
+ BUL_generic_extra_tech_slot_desc: "Bulharská ekonomika měla potíže s růstem od pádu komunismu a vláda zkoumá způsoby, jak zvýšit hospodářský růst. Jedním z možných řešení je zvýšit privatizaci majetku v zemi. Privatizace může přinést vyšší efektivitu, protože soukromé firmy bývají více orientovány na zisk a motivovány snižováním nákladů. To by zase mohlo přilákat zahraniční investice a vytvořit pracovní místa. Zvýšená privatizace také může snížit finanční zátěž vlády, protože již nebude muset majetek udržovat a spravovat." # todo: NEW TRANSLATION
+ BUL_generic_extra_tech_slot_3: "Reforma zdravotnictví" # todo: NEW TRANSLATION
+ BUL_generic_extra_tech_slot_3_desc: "Při vstupu Bulharska do nového tisíciletí byla naléhavá potřeba reformy zdravotnictví. Zdravotnický systém země byl zastaralý a nedostatečný, mnoho nemocnic postrádalo potřebné vybavení a personál. Pacienti často čelili dlouhým čekacím dobám a nedostatečné péči, což vedlo k frustraci a nespokojenosti. Musíme systém reformovat a zlepšit blaho našich občanů." # todo: NEW TRANSLATION
+ BUL_nato_joining: "Vstup do NATO" # todo: NEW TRANSLATION
+ BUL_nato_joining_desc: "Možnost členství Bulharska v NATO je předmětem významné debaty. Na jedné straně by členství poskytlo Bulharsku bezpečnostní záruky a ochranu proti možným vnějším hrozbám. Dalo by zemi přístup k rozsáhlým zdrojům NATO, včetně vojenského výcviku a pomoci, sdílení zpravodajských informací a pokročilých technologií. Kromě toho by členství posílilo postavení Bulharska na mezinárodní scéně." # todo: NEW TRANSLATION
+ BUL_fighting_immigration: "Zmítit opozici" # todo: NEW TRANSLATION
+ BUL_fighting_immigration_desc: "Nakonec by kroky bulharské vlády měly účinně umlčet opozici a soustředit moc do rukou vládnoucí strany na mnoho let dopředu. I když země postupně učinila pokrok směrem k větší demokracii a svobodě projevu, události politického chaosu by měly zůstat tvrdou připomínkou, jak snadno lze tyto zisky zvrátit." # todo: NEW TRANSLATION
+ BUL_elitism_question: "Otázky elitismu" # todo: NEW TRANSLATION
+ BUL_elitism_question_desc: "Na základě naléhavých potřeb bychom měli zlepšit fungování našeho zdravotního systému, aby všem vrstvám společnosti zajistil přístup k lékařské péči." # todo: NEW TRANSLATION
+ BUL_sheghen_question: "Hraniční dohody" # todo: NEW TRANSLATION
+ BUL_sheghen_question_desc: "Bulharsko by mělo uzavřít významné dohody s Evropskou unií (EU) týkající se regulace hranic a policejní spolupráce. Tyto dohody byly klíčové pro usnadnění přistoupení země k EU. Bulharsko uznalo důležitost efektivní kontroly hranic a řízení v zájmu zajištění míru, bezpečnosti a stability v regionu. Byla proto vypracována a realizována komplexní opatření ke zlepšení schopností řízení hranic. To zahrnovalo zlepšení sledovacích mechanismů, modernizaci infrastruktury a poskytování pokročilých školení pro hraniční personál." # todo: NEW TRANSLATION
+ BUL_energy_idea: "Energetický sektor" # todo: NEW TRANSLATION
+ BUL_energy_idea_desc: "Investice do našeho energetického sektoru mohou pomoci pokrýt naše požadavky v oblasti energie." # todo: NEW TRANSLATION
+ BUL_debt_refactoring_idea: "Refaktorizovaný dluh" # todo: NEW TRANSLATION
+ BUL_debt_refactoring_idea_desc: "Náš dluh byl nyní refaktorizován, což nám umožňuje větší finanční volnost při našem příjmu a výdajích." # todo: NEW TRANSLATION
+ BUL_high_emigration_1: "Snížit emigraci" # todo: NEW TRANSLATION
+ BUL_high_emigration_2: "Vysoká emigrace" # todo: NEW TRANSLATION
+ BUL_police_chaos_idea: "Rozpuštěná policie" # todo: NEW TRANSLATION
+ BUL_political_opposition: "Politická opozice" # todo: NEW TRANSLATION
+ BUL_political_opposition2: "Politická opozice" # todo: NEW TRANSLATION
+ BUL_political_opposition3: "Politická opozice" # todo: NEW TRANSLATION
+ BUL_equipment_effort_3_desc: "" # todo: NEW TRANSLATION
+ BUL_armor_effort: "Usilí o obrněné jednotky" # todo: NEW TRANSLATION
+ BUL_armor_effort_desc: "Měli bychom usilovat o silnější obrněné síly, protože protitankové a obrněné vybavení zlikviduje cokoli, co nebude dostatečně pevné." # todo: NEW TRANSLATION
+ BUL_special_forces: "Speciální jednotky" # todo: NEW TRANSLATION
+ BUL_special_forces_desc: "Investice do speciálních jednotek nám poskytnou silnou údernou sílu, na kterou se můžeme v případě nouze spolehnout. Koneckonců, každá větší moc má své speciální jednotky, proč by jich Bulharsko mělo mít méně?" # todo: NEW TRANSLATION
+ BUL_aviation_effort: "Bulharské letectvo" # todo: NEW TRANSLATION
+ BUL_aviation_effort_desc: "Jedna ze tří hlavních větví naší armády — naše letectvo zajistí ochranu nebes a odvrácení nepřátelského zásahu." # todo: NEW TRANSLATION
+ BUL_fighter_focus: "Nové stíhačky" # todo: NEW TRANSLATION
+ fighter_focus_desc: "Investice do nových stíhacích letounů nám pomohou udržet si vzdušnou nadvládu nad nepřáteli; pokud se nám podaří do nich investovat, významně to posílí leteckou sílu našeho státu." # todo: NEW TRANSLATION
+ BUL_fighter_focus_2: "Dohoda se Švýcarskem" # todo: NEW TRANSLATION
+ BUL_fighter_focus_2_desc: "Naši přátelé ve Švýcarsku mají dobré stíhačky; možná s nimi můžeme uzavřít dohodu a získat nějaké pro naše letectvo." # todo: NEW TRANSLATION
+ BUL_fighter_focus_3: "Běloruská nabídka" # todo: NEW TRANSLATION
+ BUL_fighter_focus_3_desc: "Bělorusko se zdá být vznikající mocností a zdá se, že má k dispozici některé ruské letouny na prodej; možná s nimi dokážeme uzavřít obchod?" # todo: NEW TRANSLATION
+ BUL_fighter_focus_4: "Nákup vrtulníků" # todo: NEW TRANSLATION
+ BUL_fighter_focus_4_desc: "Měli bychom zvážit nákup vrtulníků od zahraničních států, protože naše vlastní zásoby začínají zastarávat a jsou ve srovnání s ostatními slabé." # todo: NEW TRANSLATION
+ BUL_bomber_focus: "C-27J Spartan" # todo: NEW TRANSLATION
+ BUL_bomber_focus_desc: "Američané prodávají velmi užitečné bombardéry, které bychom nyní mohli dobře využít. Jejich pořízení umožní našemu letectvu napadat nepřátelské pozice z větší vzdálenosti." # todo: NEW TRANSLATION
+ BUL_aviation_effort_2: "Alenia Aeronautica" # todo: NEW TRANSLATION
+ BUL_aviation_effort_2_desc: "Americká transportní letadla jsou na trhu a velmi bychom je potřebovali. Pokud chceme bezpečně přesouvat naše muže, budeme potřebovat pokročilou techniku pro transport." # todo: NEW TRANSLATION
+ BUL_CAS_effort: "Protiraketová obrana" # todo: NEW TRANSLATION
+ BUL_CAS_effort_desc: "Investice do protiletecké obrany udrží naše základny a civilisty v bezpečí, protože jakákoli přilétající raketa nebo střela bude sestřelena. Stejně tak to platí pro jakékoli letadlo, které plánuje porušit bulharský vzdušný prostor." # todo: NEW TRANSLATION
+ BUL_rocket_effort: "Radarová obrana" # todo: NEW TRANSLATION
+ BUL_rocket_effort_desc: "Radary nám ukážou, kde se nachází nepřítel, když poruší naše hranice. Pokud chceme mít přehled o dění, měli bychom zvážit modernizaci radarových systémů." # todo: NEW TRANSLATION
+ BUL_NAV_effort: "Moderní drony" # todo: NEW TRANSLATION
+ BUL_NAV_effort_desc: "Drony jsou v poslední době velmi populární a jsou levným způsobem, jak útočit na nepřítele, aniž bychom riskovali naše vojáky. Pokud dokážeme pořídit moderní drony, dáme nepříteli opravdu hodně na starost." # todo: NEW TRANSLATION
+ BUL_naval_effort: "Bulharské námořnictvo" # todo: NEW TRANSLATION
+ BUL_naval_effort_desc: "Bulharské námořnictvo v posledních letech chátrá, a abychom drželi nepřátele na dálku, měli bychom námořnictvo znovu posílit." # todo: NEW TRANSLATION
+ BUL_flexible_navy: "Belgické lodě" # todo: NEW TRANSLATION
+ BUL_flexible_navy_desc: "Měli bychom koupit belgické schematy lodí, abychom případně rozšířili naše vlastní znalosti stavby lodí. Může to být také prostředek, jak se s nimi sblížit." # todo: NEW TRANSLATION
+ BUL_large_navy: "Dohoda s USA" # todo: NEW TRANSLATION
+ BUL_large_navy_desc: "Amerika má nejsilnější námořnictvo na světě; pokud chceme v této oblasti něčeho dosáhnout, měli bychom získat jejich podporu a navázat dohody." # todo: NEW TRANSLATION
+ BUL_submarine_effort: "Přístup v Libanonu" # todo: NEW TRANSLATION
+ BUL_submarine_effort_desc: "Získání přístupu v Libanonu by mohlo být užitečné pro rozmístění některých našich lodí na jihu." # todo: NEW TRANSLATION
+ BUL_cruiser_effort: "Úsilí o námořní výrobu" # todo: NEW TRANSLATION
+ BUL_cruiser_effort_desc: "Zvýšení námořní výroby nám umožní vyrábět více lodí rychleji, takže investice do technologií by nemusela být špatný nápad..." # todo: NEW TRANSLATION
+ BUL_destroyer_effort: "Úsilí o torpédoborce" # todo: NEW TRANSLATION
+ BUL_destroyer_effort_desc: "Torpédoborce patří mezi nejdůležitější lodě na moři. Bulharsko nebude výjimkou ve snaze nasadit některé torpédoborce a ovládat vlny." # todo: NEW TRANSLATION
+ BUL_capital_ships_effort: "Bulharské loděnice" # todo: NEW TRANSLATION
+ BUL_capital_ships_effort_desc: "K výrobě lodí potřebujeme loděnice, takže bychom měli zvážit stavbu některých na pobřeží, abychom získali více lodí na moři." # todo: NEW TRANSLATION
+ BUL_tewfv_fascism_influence: "Fašistický vliv" # todo: NEW TRANSLATION
+ BUL_generic_factory_1: "Reformované zdanění" # todo: NEW TRANSLATION
+ BUL_generic_factory_1_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_2: "Oslovit zemědělce" # todo: NEW TRANSLATION
+ BUL_generic_factory_2_desc: "Měli bychom oslovit zemědělce, získat jejich podporu a možná rozšířit naše zemědělské odvětví." # todo: NEW TRANSLATION
+ BUL_generic_factory_3: "Ruské investice" # todo: NEW TRANSLATION
+ BUL_generic_factory_3_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_3_6: "Připravit politické podmínky pro spolupráci" # todo: NEW TRANSLATION
+ BUL_generic_factory_3_6_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_3_5: "Provést investice z naší strany" # todo: NEW TRANSLATION
+ BUL_generic_factory_3_5_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_4: "Vyřešit problém s plynem" # todo: NEW TRANSLATION
+ BUL_generic_factory_4_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_6: "Bulharský internet" # todo: NEW TRANSLATION
+ BUL_generic_factory_6_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_factory_7: "Vládní ekonomický sektor" # todo: NEW TRANSLATION
+ BUL_generic_factory_7_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_resources_1: "Konečná opatření proti emigraci" # todo: NEW TRANSLATION
+ BUL_generic_resources_1_desc: "Úsilí v oblasti zdrojů" # todo: NEW TRANSLATION
+ BUL_generic_resources_2: "Těžba kovů" # todo: NEW TRANSLATION
+ BUL_generic_resources_2_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_resources_3: "Přijmout USAID" # todo: NEW TRANSLATION
+ BUL_generic_resources_3_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_resources_4: "Maritsa Iztok 2" # todo: NEW TRANSLATION
+ BUL_generic_resources_4_desc: "Maritsa Iztok 2" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_5: "TEP Varna" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_5_desc: "" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_6: "Maritsa Iztok 3" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_6_desc: "Maritsa Iztok 3" # todo: NEW TRANSLATION
+ BUL_generic_resources_5: "Euroinvestice" # todo: NEW TRANSLATION
+ BUL_generic_resources_6: "Rumunsko-bulharský ropovod" # todo: NEW TRANSLATION
+ BUL_generic_resources_7: "Úsilí v oblasti zdrojů VII" # todo: NEW TRANSLATION
+ BUL_generic_resources_7_desc: "Úsilí v oblasti zdrojů" # todo: NEW TRANSLATION
+ BUL_generic_state_focus: "Centralizovaný stát" # todo: NEW TRANSLATION
+ BUL_generic_state_focus_desc: "Centralizovaný stát, kde vláda je silně zapojena a kontroluje různé oblasti společnosti, je často považován za nejlepší možnost pro udržení pořádku a stability. Tento typ vlády umožňuje efektivní rozhodování a schopnost rychle zavádět politiky a zákony. Dále zajišťuje rovnoměrné rozdělení zdrojů po celé zemi, čímž vytváří pocit rovnosti mezi občany. Centralizovaný stát také lépe chrání své obyvatele před vnějšími hrozbami a pomáhá udržet silnou národní identitu." # todo: NEW TRANSLATION
+ BUL_generic_military_school: "Dobrovolnický sbor" # todo: NEW TRANSLATION
+ BUL_generic_military_school_desc: "Volný dobrovolnický vojenský sbor bude operovat nezávisle a spolupracovat s bulharskou armádou. Bude to jedinečný počin pro Bulharsko, protože poprvé v historii bude mít země dobrovolnickou vojenskou skupinu. Vláda rozumí rostoucímu zájmu mladých Bulharů vstoupit do armády a sloužit své zemi." # todo: NEW TRANSLATION
+ BUL_generic_faction_create: "Balkanský pakt" # todo: NEW TRANSLATION
+ BUL_generic_faction_create_desc: "Nová bulharská vláda oznámila vznik nové vojenské aliance nazvané Spojený balkánský pakt. Cílem paktu je posílit vojenské schopnosti balkánského regionu a zlepšit spolupráci mezi jeho členy." # todo: NEW TRANSLATION
+ BUL_generic_war_justify: "Reforma infrastruktury" # todo: NEW TRANSLATION
+ BUL_generic_war_justify_desc: "Nová vláda Bulharska musí dát prioritu reformám infrastruktury země. Po léta jsou silnice ve špatném stavu, veřejná doprava nespolehlivá a zastaralá a energetický sektor zoufale potřebuje modernizaci." # todo: NEW TRANSLATION
+ BUL_generic_militar_school: "Vojenská škola" # todo: NEW TRANSLATION
+ BUL_generic_justify_war_general: "Všichni pro válku" # todo: NEW TRANSLATION
+ BUL_generic_ethics_for_war: "Přijetí pravoslaví" # todo: NEW TRANSLATION
+ BUL_generic_ethics_for_war_desc: "Vláda chce ustanovit pravoslaví jako státní náboženství a obhajuje svůj návrh tím, že pravoslaví je integrální součástí bulharské kultury a národní identity. Tvrdí, že jiná náboženství, jako islám a judaismus, nemají v jejich zemi místo. Pravoslavná církev tento krok vítá a slíbila úzkou spolupráci s vládou na posílení vlivu církve ve společnosti. Nicméně organizace na ochranu lidských práv tento krok kritizují jako porušení základních práv, například svobody náboženství a vyznání." # todo: NEW TRANSLATION
+ ethics_for_war_BUL_generic: "Válečné časy" # todo: NEW TRANSLATION
+ BUL_generic_civil_factory_idea: "Síla průmyslu" # todo: NEW TRANSLATION
+ BUL_generic_civil_factory: "Síla průmyslu" # todo: NEW TRANSLATION
+ BUL_generic_civil_factory_desc: "Síla průmyslu" # todo: NEW TRANSLATION
+ BUL_generic_union_country: "Spojený národ" # todo: NEW TRANSLATION
+ BUL_generic_union_country_desc: "Spojený národ" # todo: NEW TRANSLATION
+ BUL_generic_national_unity: "Snížení daní" # todo: NEW TRANSLATION
+ BUL_generic_national_unity_desc: "Snížení daní" # todo: NEW TRANSLATION
+ BUL_generic_political_option: "Demokratická strana" # todo: NEW TRANSLATION
+ BUL_generic_influence_france: "Vyvážený přístup" # todo: NEW TRANSLATION
+ BUL_generic_influence_france_desc: "Vyvážený přístup" # todo: NEW TRANSLATION
+ BUL_generic_influence_uk: "Podpora investic" # todo: NEW TRANSLATION
+ BUL_generic_influence_uk_desc: "Podpora investic" # todo: NEW TRANSLATION
+ BUL_generic_military_exp: "Hraniční bezpečnost" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_2: "Kybernetická válka" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_2_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_3: "Nové uniformy" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_3_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_4: "Zahraniční licence" # todo: NEW TRANSLATION
+ BUL_generic_military_exp_4_desc: "" # todo: NEW TRANSLATION
+ opnion_democratic_influence: "Demokratický vliv" # todo: NEW TRANSLATION
+ BUL_industrial_effort: "Bulharská ekonomika" # todo: NEW TRANSLATION
+ BUL_industrial_effort_desc: "Bulharská ekonomika bude zásadní pro naše plány a prosperitu našeho lidu. Měli bychom vypracovat strategii, která rozhýbe průmyslové srdce národa." # todo: NEW TRANSLATION
+ BUL_construction_effort: "Vyvážený přístup" # todo: NEW TRANSLATION
+ BUL_construction_effort_desc: "Měli bychom vyvážit náš přístup k bulharské ekonomice; pokud se příliš přikloníme na jednu stranu, může dojít k nevyvážené produkci zboží." # todo: NEW TRANSLATION
+ BUL_bulgarian_debt_refactoring: "Refaktorizace bulharského dluhu" # todo: NEW TRANSLATION
+ BUL_bulgarian_debt_refactoring_desc: "Náš dluh se pro nás pomalu stává nesplatitelným. Pokud usilujeme o refaktorizaci dluhu a snížení celkové úrokové sazby, měli bychom být schopni vyřešit naše dluhové problémy dříve, než se stanou krizí." # todo: NEW TRANSLATION
+ BUL_production_effort: "Usilí o zbrojení" # todo: NEW TRANSLATION
+ BUL_production_effort_desc: "" # todo: NEW TRANSLATION
+ BUL_construction_effort_2: "Obchod s Ruskem" # todo: NEW TRANSLATION
+ BUL_construction_effort_2_desc: "" # todo: NEW TRANSLATION
+ BUL_construction_effort_3: "Privatizace elektráren" # todo: NEW TRANSLATION
+ BUL_construction_effort_3_desc: "" # todo: NEW TRANSLATION
+ BUL_construction_effort_4: "Reformy pro farmáře" # todo: NEW TRANSLATION
+ BUL_generic_factory_5: "Ropné rezervy" # todo: NEW TRANSLATION
+ BUL_construction_effort_5: "Reforma školství" # todo: NEW TRANSLATION
+ BUL_construction_effort_4_desc: "" # todo: NEW TRANSLATION
+ BUL_construction_effort_6: "Evropské investice" # todo: NEW TRANSLATION
+ BUL_construction_effort_6_desc: "" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_2: "Čínské investice" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_2_desc: "" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_3: "Restrukturalizace cestovního ruchu" # todo: NEW TRANSLATION
+ BUL_infrastructure_effort_3_desc: "" # todo: NEW TRANSLATION
+ BUL_extra_tech_slot: "Upevnit policii" # todo: NEW TRANSLATION
+ BUL_extra_tech_slot_desc: "" # todo: NEW TRANSLATION
+ BUL_extra_tech_slot_2: "Další výzkumné místo II" # todo: NEW TRANSLATION
+ BUL_extra_tech_slot_2_desc: "" # todo: NEW TRANSLATION
+ BUL_technology_sharing: "Vyčištění opozice" # todo: NEW TRANSLATION
+ BUL_technology_sharing_desc: "" # todo: NEW TRANSLATION
+ BUL_generic_extra_tech_slot_2: "Vládní reforma" # todo: NEW TRANSLATION
+ BUL_political_effort: "Politické úsilí" # todo: NEW TRANSLATION
+ BUL_political_effort_desc: "" # todo: NEW TRANSLATION
+ BUL_militarism: "Militarismus" # todo: NEW TRANSLATION
+ BUL_militarism_desc: "" # todo: NEW TRANSLATION
+ BUL_political_correctness: "Politická korektnost" # todo: NEW TRANSLATION
+ BUL_political_correctness_desc: "Politická korektnost" # todo: NEW TRANSLATION
+ BUL_neutrality_focus: "Unie demokratických sil" # todo: NEW TRANSLATION
+ BUL_neutrality_focus_desc: "Bulharská strana SDS znamená Unii demokratických sil a je to středopravicová politická strana v Bulharsku. Založena v roce 1989, SDS byla jedním z hlavních opozičních hnutí během přechodu Bulharska od komunistické vlády k demokracii. Program strany zdůrazňuje demokratické hodnoty, tržně orientované politiky a evropskou integraci. SDS byla součástí různých vládních koalic v Bulharsku od 90. let a zastávala funkce prezidenta i premiéra." # todo: NEW TRANSLATION
+ BUL_interventionism_focus: "Bulharská socialistická strana" # todo: NEW TRANSLATION
+ BUL_interventionism_focus_desc: "Bulharská socialistická strana (BSP) je politická strana se sídlem v Bulharsku. Byla založena v roce 1989 jako nástupce Bulharské komunistické strany. BSP je známá svými levicovými politikami a sociálně demokratickým programem. Její program se zaměřuje na snižování nerovností a boj proti korupci, stejně jako na prosazování práv pracovníků a ochranu životního prostředí. Strana držela významnou politickou moc a podílela se na několika koaličních vládách, zároveň však čelila kritice a kontroverzím, zejména kvůli svým komunistickým kořenům a blízkým vztahům s Ruskem." # todo: NEW TRANSLATION
+ BUL_military_youth: "Vojenská mládež" # todo: NEW TRANSLATION
+ BUL_military_youth_desc: "Bulharská vojenská mládež, také známá jako Народно Ополчение, je dobrovolnická organizace pro mladé Bulhary se zájmem o vojenskou službu a vlastenectví." # todo: NEW TRANSLATION
+ BUL_deterrence: "Ekonomický liberalismus" # todo: NEW TRANSLATION
+ BUL_deterrence_desc: "" # todo: NEW TRANSLATION
+ BUL_volunteer_corps: "Populární sociální agenda" # todo: NEW TRANSLATION
+ BUL_volunteer_corps_desc: "" # todo: NEW TRANSLATION
+ BUL_paramilitarism: "Paramilitarismus" # todo: NEW TRANSLATION
+ BUL_paramilitarism_desc: "Bulharský paramilitarismus označuje organizované skupiny vojenského typu, které působí mimo oficiální struktury bulharské armády nebo policie. Tyto skupiny se staly populárními v postkomunistickém období jako reakce na rostoucí kriminalitu a vnímané selhání vlády udržet zákon a pořádek." # todo: NEW TRANSLATION
+ BUL_indoctrination_focus: "Vojenský komunismus" # todo: NEW TRANSLATION
+ BUL_indoctrination_focus_desc: "" # todo: NEW TRANSLATION
+ BUL_foreign_expeditions: "Odbory" # todo: NEW TRANSLATION
+ BUL_foreign_expeditions_desc: "Odbory" # todo: NEW TRANSLATION
+ BUL_why_we_fight: "Naše stanovisko" # todo: NEW TRANSLATION
+ BUL_why_we_fight_desc: "" # todo: NEW TRANSLATION
+ BUL_political_commissars: "Politickí komisaři" # todo: NEW TRANSLATION
+ BUL_political_commissars_desc: "Politickí komisaři budou nezbytní v našem slavnostném snu o rudém Bulharsku." # todo: NEW TRANSLATION
+ BUL_ignite_nostalgia: "Rozdmýchat plameny!" # todo: NEW TRANSLATION
+ BUL_ignite_nostalgia_desc: "Měli bychom expandovat? Myslím, že ano. Každý chce expandovat, no, samozřejmě územně." # todo: NEW TRANSLATION
+ BUL_civil_expansion: "Expanze civilní ekonomiky" # todo: NEW TRANSLATION
+ BUL_civil_expansion_desc: "Potřebujeme rozšíření civilní části naší ekonomiky, protože tím můžeme nabídnout více pracovních míst." # todo: NEW TRANSLATION
+ BUL_ally_to_china: "Přiblížit se Číně" # todo: NEW TRANSLATION
+ BUL_ally_to_russia: "Ne tak sovětsky, ale bratři" # todo: NEW TRANSLATION
+ BUL_macedonia_in_flames: "Makedonie v plamenech!" # todo: NEW TRANSLATION
+ BUL_all_of_geo: "Spojený balkánský pakt" # todo: NEW TRANSLATION
+ BUL_our_irredenta: "Naše irredenta" # todo: NEW TRANSLATION
+ BUL_our_irredenta_desc: "Bylo hlášeno, že nová bulharská vláda podporuje bulharský irredentismus — přesvědčení, že Bulharsko by mělo rozšířit své hranice o území, která kdysi patřila pod jeho kontrolu. To vyvolalo kontroverze a obavy mezi sousedními zeměmi." # todo: NEW TRANSLATION
+ BUL_internationalist_nationalism: "Ukázat naši sílu" # todo: NEW TRANSLATION
+ BUL_internationalist_nationalism_desc: "Zavody, které byly v minulosti uzavřeny, budou nyní znovu uvedeny do provozu díky financování vlády. Vojenské kruhy se domnívají, že tento krok je pro Bulharsko důležitý vzhledem k současnému geopolitickému klimatu." # todo: NEW TRANSLATION
+ BUL_autocracy_political_power: "Skutečná autokracie" # todo: NEW TRANSLATION
+ BUL_anschluss_macedonia: "Makedonský anšlus" # todo: NEW TRANSLATION
+ BUL_anschluss_macedonia_desc: "Nová vláda věřila, že připojení Makedonie pod bulharskou kontrolu nejen posílí jejich národ, ale také pomůže obyvatelům Makedonie, kteří v posledních letech zápasili s politickou nestabilitou. Tvrdili, že Makedonie je přirozenou součástí Bulharska, sdílí společný jazyk, kulturu a historii, a že její začlenění podpoří jednotu a pokrok." # todo: NEW TRANSLATION
+ BUL_internationalism_focus: "Obnovení starého režimu" # todo: NEW TRANSLATION
+ BUL_internationalism_focus_desc: "Pád socialistického režimu přinesl Bulharsku jen absolutní chaos a irelevantní politickou agendu a zlomil sen o dosažení komunismu. Musíme tuto agendu vrátit zpět!" # todo: NEW TRANSLATION
+ BUL_nationalism_focus: "Podpořit Simeona II." # todo: NEW TRANSLATION
+ BUL_nationalism_focus_desc: "Simeon II. je překvapivě velmi populární politik a premiér v Bulharsku. Armáda by ho měla podpořit při svržení vlády a prosazení ho jako našeho monarchy!" # todo: NEW TRANSLATION
+ BUL_smuggling_weaponry: "Pašování zbraní" # todo: NEW TRANSLATION
+ BUL_smuggling_weaponry_desc: "Zdroje v bulharské armádě odhalily, že zásilky zbraní a munice byly opatřeny vysokými vládními činiteli a distribuovány rebelujícím skupinám působícím v Makedonii. Tyto skupiny, které vedou dlouholetý boj za autonomii, v posledních měsících zvýšily útoky, což vedlo k prudkému nárůstu násilí na hranici." # todo: NEW TRANSLATION
+ BUL_nationalist_diplomacy: "Nacionalistická diplomacie" # todo: NEW TRANSLATION
+ BUL_nationalist_diplomacy_desc: "Nová nacionalistická vláda Bulharska přislíbila podporu euroskepticismu a nacionalismu v Evropě. Ve svém inauguračním projevu náš vůdce uvedl, že Bulharsko bude úzce spolupracovat s dalšími nacionalistickými vůdci po celé Evropě, aby prosazovalo myšlenku národní suverenity a nezávislosti na institucích EU." # todo: NEW TRANSLATION
+ BUL_question_of_our_identity: "Naše budoucnost" # todo: NEW TRANSLATION
+ BUL_question_of_our_identity_desc: "Měli bychom rozhodnout, k čemu se přikloníme v naší politické agendě." # todo: NEW TRANSLATION
+ BUL_generic_generic_generic_genericism: "Bulharský cestovní ruch" # todo: NEW TRANSLATION
+ BUL_bulgarian_generic_generic_generic_computer: "Bulharské počítačové technologie" # todo: NEW TRANSLATION
+ BUL_generic_generic_bulgarian_vlaues: "Bulharské hodnoty" # todo: NEW TRANSLATION
+ BUL_generic_conservative_ecologism_generic: "Ecoglasnost" # todo: NEW TRANSLATION
+ BUL_simeon_prime_minister: "Simeon II." # todo: NEW TRANSLATION
+ BUL_red_balkan_dream: "Rudý sen o Balkánu" # todo: NEW TRANSLATION
+ BUL_ally_to_yugo: "Přátelit se s Jugoslávií" # todo: NEW TRANSLATION
+ BUL_ideological_fanaticism: "Ideologický fanatismus" # todo: NEW TRANSLATION
+ BUL_ideological_fanaticism_desc: "Naše politicky ustavené hodnoty a cíle stojí za to zemřít stejně jako jakákoli starodávná víra. Každý následovník by měl být připraven čelit smrti a ti, kdo odbočí, by měli být připraveni čelit smrti." # todo: NEW TRANSLATION
+ BUL_autocracy_political_power_desc: "Bulharsko vidělo vznik nové vlády, která projevila zájem o oživení staré bulharské organizace Zveno. Organizace Zveno, založená v roce 1927, byla známá svými autoritářskými postoji a zapojením do převratu v roce 1934, který svrhl tehdejší vládu. Nicméně Zveno sehrálo významnou roli při formování moderního bulharského státu, a proto mnozí Bulhaři považují Zveno za důležitou součást své historie." # todo: NEW TRANSLATION
+ BUL_generic_control_soldiers: "Pevná disciplína" # todo: NEW TRANSLATION
+ BUL_generic_control_soldiers_desc: "Naši vojáci jsou poněkud… neposlušní, mírně řečeno. Musíme je dát do latě, aby se na bojišti nezabíjeli vlastní vinou." # todo: NEW TRANSLATION
+ BUL_control_soldiers: "Metodika VMRO" # todo: NEW TRANSLATION
+ BUL_control_soldiers_desc: "Metody VMRO jsou některými vnímány jako problematický přístup k vládnutí, protože prosazují vysoce centralizovaný systém s malým ohledem na individuální svobody. Příznivci nové vlády však věří, že tyto metody jsou nutné k boji proti korupci a rychlým změnám." # todo: NEW TRANSLATION
+ BUL_controlism: "Přijmout monarchii" # todo: NEW TRANSLATION
+ BUL_controlism_desc: "Rozhodnutí nové vlády přijmout monarchii může být vnímáno jako způsob, jak oslovit národní nálady a podpořit pocit jednoty. Tento krok však byl také kritizován jako potenciálně rozdělovačný a odvádějící pozornost od naléhavějších politických otázek." # todo: NEW TRANSLATION
+ BUL_work_at_all: "Pracovat vše" # todo: NEW TRANSLATION
+ BUL_work_at_all_desc: "Aby společnost fungovala, každý bude muset pracovat — tak pojďte do práce!" # todo: NEW TRANSLATION
+ BUL_generic_war_industries: "Usilí pro válečný průmysl" # todo: NEW TRANSLATION
+ BUL_generic_war_industries_desc: "Válčíme s průmyslem, a abychom vyhráli, potřebujeme více pracovní síly, abychom naplnili naše továrny kvalifikovanými dělníky." # todo: NEW TRANSLATION
+ BUL_generic_war_industries_idea: "Usilí pro válečný průmysl" # todo: NEW TRANSLATION
+ BUL_generic_war_industries_idea_desc: "" # todo: NEW TRANSLATION
+ BUL_the_rule: "Tržní socialismus" # todo: NEW TRANSLATION
+ BUL_the_rule_desc: "Tržní socialismus je mezi některými velmi populární a mezi jinými méně, ale jisté je, že Bulharsko ho potřebuje a potřebuje ho nyní." # todo: NEW TRANSLATION
+ BUL_indoctrination_focus_2_the_rule: "Pravidlo nade vše" # todo: NEW TRANSLATION
+ BUL_indoctrination_focus_2_the_rule_desc: "Nad zákonem není nikdo a pravidla musí být vynucována, aby se naše společnost nezkorumpovala." # todo: NEW TRANSLATION
+ BUL_generic_army_effort: "Bulharská armáda" # todo: NEW TRANSLATION
+ BUL_generic_motorization_effort: "Společná jednotka ISAF" # todo: NEW TRANSLATION
+ BUL_generic_equipment_effort: "Modernizace palných zbraní" # todo: NEW TRANSLATION
+ BUL_generic_mechanization_effort: "Bulharské lehké kulomety" # todo: NEW TRANSLATION
+ BUL_generic_equipment_effort_2: "Reformovaná doktrína" # todo: NEW TRANSLATION
+ BUL_generic_equipment_effort_3: "Mise OSN v mírových operacích" # todo: NEW TRANSLATION
+ BUL_generic_armor_effort: "Doplňkové vybavení" # todo: NEW TRANSLATION
+ BUL_generic_special_forces: "Speciální jednotky" # todo: NEW TRANSLATION
+ BUL_generic_doctrine_effort: "Protitankové rakety" # todo: NEW TRANSLATION
+ BUL_generic_doctrine_effort_2: "Nákup podpůrného vybavení" # todo: NEW TRANSLATION
+ BUL_generic_doctrine_effort_3: "Cvičení bulharské armády" # todo: NEW TRANSLATION
+ BUL_generic_doctrine_effort_4: "Inovace doktríny" # todo: NEW TRANSLATION
+ BUL_Expansionism: "Bulharská expanze" # todo: NEW TRANSLATION
+ BUL_lack_of_gas: "Nedostatek plynu" # todo: NEW TRANSLATION
+ BUL_bulgarian_legacy: "Bulharské dědictví" # todo: NEW TRANSLATION
+ BUL_govern_bonus_2: "Reforma kabinetu" # todo: NEW TRANSLATION
+ BUL_govern_bonus_2_desc: "Reforma kabinetu" # todo: NEW TRANSLATION
+ BUL_governmental_change: "Reforma vládnutí" # todo: NEW TRANSLATION
+ BUL_governmental_change_desc: "Současná policie trpí neefektivitou a zastaralými postupy. Chybí moderní vybavení, školení jsou nedostatečná a personálu je málo. Policie je navíc často vnímána jako korupční a neodpovědná, což podkopává důvěru veřejnosti." # todo: NEW TRANSLATION
+ BUL_russian_question_nat: "Hej, Rusko?" # todo: NEW TRANSLATION
+ BUL_russian_question_nat_desc: "Hej, Rusko? Co s tebou máme dělat?" # todo: NEW TRANSLATION
+ BUL_yugoslavian_question: "Jugoslávská otázka" # todo: NEW TRANSLATION
+ BUL_yugoslavian_question_desc: "Je čas rozhodnout, co uděláme se státy bývalé Jugoslávie" # todo: NEW TRANSLATION
+ BUL_coop_afgan: "Vojensko-technická spolupráce s Afghánistánem" # todo: NEW TRANSLATION
+ BUL_coop_afgan_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_georgia: "Vojensko-technická spolupráce s Gruzií" # todo: NEW TRANSLATION
+ BUL_coop_georgia_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_iraq: "Vojensko-technická spolupráce s Irákem" # todo: NEW TRANSLATION
+ BUL_coop_iraq_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_india: "Vojensko-technická spolupráce s Indií" # todo: NEW TRANSLATION
+ BUL_coop_india_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_ukraine: "Vojensko-technická spolupráce s Ukrajinou" # todo: NEW TRANSLATION
+ BUL_coop_ukraine_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_azer: "Vojensko-technická spolupráce s Ázerbájdžánem" # todo: NEW TRANSLATION
+ BUL_coop_azer_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_arm: "Vojensko-technická spolupráce s Arménií" # todo: NEW TRANSLATION
+ BUL_coop_arm_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_indonesia: "Vojensko-technická spolupráce s Indonésií" # todo: NEW TRANSLATION
+ BUL_coop_indonesia_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ BUL_coop_mac_dac: "Vojensko-technická spolupráce se Severní Makedonií" # todo: NEW TRANSLATION
+ BUL_coop_mac_dac_desc: "Je čas pokusit se vyvážet zbraně do této země" # todo: NEW TRANSLATION
+ bulg.1.t: "Bulharsko žádá o investice" # todo: NEW TRANSLATION
+ bulg.1.d: "Bulharsko nás žádá, abychom investovali naše prostředky do bulharské ekonomiky." # todo: NEW TRANSLATION
+ bulg.1.a: "Jistě!" # todo: NEW TRANSLATION
+ bulg.1.b: "Ne." # todo: NEW TRANSLATION
+ bulg.2.t: "Odmítli investovat" # todo: NEW TRANSLATION
+ bulg.2.d: "Odmítli do nás investovat." # todo: NEW TRANSLATION
+ bulg.2.a: "Škoda." # todo: NEW TRANSLATION
+ bulg.3.t: "Budou do nás investovat" # todo: NEW TRANSLATION
+ bulg.3.d: "Naši ekonomičtí partneři investují do naší ekonomiky." # todo: NEW TRANSLATION
+ bulg.3.a: "Díky!" # todo: NEW TRANSLATION
+ bulgaria_tree: "Strom zaměření Bulharska" # todo: NEW TRANSLATION
+ bul_ACDI_Decline_tt: "Odmítneme jejich nabídku" # todo: NEW TRANSLATION
+ BUL_make_greeks_submit: "Přimět Řeky k podřízení" # todo: NEW TRANSLATION
+ BUL_ally_to_greece: "Sjednat alianci s Řeckem" # todo: NEW TRANSLATION
+ BUL_approach_armenia: "Dědictví Nzhdeh" # todo: NEW TRANSLATION
+ BUL_ally_to_turks: "Sjednat alianci s Tureckem" # todo: NEW TRANSLATION
+ BUL_albania_never_heard: "Albánie? Nikdy jsem o ní neslyšel" # todo: NEW TRANSLATION
+ BUL_ally_serbia: "Naši ortodoxní bratři" # todo: NEW TRANSLATION
+ BUL_bully_our_orthodox_bros: "Zničit pretendenty" # todo: NEW TRANSLATION
+ BUL_bosnian_friendship: "Ahoj... Bosno?" # todo: NEW TRANSLATION
+ BUL_bosnian: "Zničit Bosnu" # todo: NEW TRANSLATION
+ BUL_croatian_question: "Chorvatská otázka" # todo: NEW TRANSLATION
+ BUL_demand_slovenia: "Požadovat Slovinsko" # todo: NEW TRANSLATION
+ BUL_crush_turkey: "Převaha na Bosporu" # todo: NEW TRANSLATION
+ BUL_crush_romania: "Zničit Rumunsko" # todo: NEW TRANSLATION
+ bul_ACDI.1.t: "Bulharsko nabízí alianci" # todo: NEW TRANSLATION
+ bul_ACDI.1.d: "Bulharsko nám nabízí, abychom vstoupili do aliance s nimi, abychom zničili naše společné nepřátele." # todo: NEW TRANSLATION
+ bul_ACDI.1.a: "Budeme bojovat společně." # todo: NEW TRANSLATION
+ bul_ACDI.1.b: "Promiňte, ne." # todo: NEW TRANSLATION
+ bul_ACDI.1.c: "Můžeme nabídnout alternativní pomoc." # todo: NEW TRANSLATION
+ bul_ACDI.2.t: "Přijali naši nabídku." # todo: NEW TRANSLATION
+ bul_ACDI.2.d: "Připojí se k našemu paktu." # todo: NEW TRANSLATION
+ bul_ACDI.2.a: "Skvělé" # todo: NEW TRANSLATION
+ bul_ACDI.3.t: "Odmítli se připojit k našemu paktu." # todo: NEW TRANSLATION
+ bul_ACDI.3.d: "Odmítli se připojit k našemu paktu a bojovat po našem boku." # todo: NEW TRANSLATION
+ bul_ACDI.3.a: "Uf" # todo: NEW TRANSLATION
+ bul_ACDI.4.t: "Souhlasili, že nám poskytnou podporu." # todo: NEW TRANSLATION
+ bul_ACDI.4.d: "Poskytnou nám podporu, ale nepřipojí se k naší frakci." # todo: NEW TRANSLATION
+ bul_ACDI.4.a: "Děkujeme!" # todo: NEW TRANSLATION
+ bulg.11.t: "Náš postoj k Rusku" # todo: NEW TRANSLATION
+ bulg.11.d: "Rusko zaujímá velmi zvláštní postoj na světové geopolitické scéně. Jaký postoj bychom měli zaujmout ve vztahu k nim?" # todo: NEW TRANSLATION
+ bulg.11.a: "Poslat diplomatickou misi a pozdravy!" # todo: NEW TRANSLATION
+ bulg.11.b: "Nemáme s nimi nic společného." # todo: NEW TRANSLATION
+ bulg.12.t: "Otázka vedení" # todo: NEW TRANSLATION
+ bulg.12.d: "Poté, co jsme v Bulharsku ustanovili pravicovou vládu, někteří z vnitřních kruhů v zemi nechtějí, aby car měl plnou kontrolu nad zemí. Měli bychom zvážit jejich návrhy?" # todo: NEW TRANSLATION
+ bulg.12.a: "Car by měl zůstat u moci!" # todo: NEW TRANSLATION
+ bulg.12.b: "VMRO by mělo být u moci!" # todo: NEW TRANSLATION
+ bulg.12.c: "Obnova by měla vládnout!" # todo: NEW TRANSLATION
+ BUL_FYR_friendship: "Bulharsko-makedonská přátelská smlouva" # todo: NEW TRANSLATION
+ BUL_us_military_in_bul: "Americké vojsko v Bulharsku" # todo: NEW TRANSLATION
+ BUL_us_military_in_bul_desc: "Bulharsko je strategickým místem pro rozmístění amerických vojsk díky své geografické poloze v Evropě. Pokud Bulharsko dovolí rozmístění jednotek USA na svém území, pomůže to zajistit bezpečnost v regionu. Přítomnost amerických vojsk v Bulharsku bude sloužit jako odstrašující prostředek proti jakékoliv možné hrozbě či agresi vůči zemi. Také to přispěje ke zvýšení kolektivní bezpečnosti NATO, jehož členství si Bulharsko přeje." # todo: NEW TRANSLATION
+ BUL_novo_selo: "Letecké základny Novo Selo a Graf Ignatievo" # todo: NEW TRANSLATION
+ BUL_novo_selo_desc: "Bulharsko, země v balkánském regionu Evropy, by mělo vážně zvážit otevření amerických leteckých základen Novo Selo a Graf Ignatievo. Existuje mnoho důvodů pro podporu tohoto rozhodnutí. Především otevřením těchto základen Bulharsko posílí své strategické partnerství s USA. Toto partnerství nabídne Bulharsku obranné a bezpečnostní výhody, které pomohou ochránit zemi před vnějšími hrozbami." # todo: NEW TRANSLATION
+ BUL_befriend_greece_lib: "Přátelství s Řeckem" # todo: NEW TRANSLATION
+ BUL_befriend_greece_lib_desc: "Bulharsko-řecká spolupráce v oblasti vojenské a ekonomické se v posledních letech posílila. Obě země spolupracovaly na různých iniciativách jako společná vojenská cvičení, sdílení zpravodajských informací a zabezpečení hranic. Bulharsko a Řecko také sdílejí společný zájem o stabilitu na Balkáně a o zamezení regionálních hrozeb." # todo: NEW TRANSLATION
+ BUL_friendship_with_romania: "Spolupráce s Rumunskem" # todo: NEW TRANSLATION
+ BUL_friendship_with_romania_desc: "Bulharsko a Rumunsko po mnoho let těží z úzké spolupráce v oblasti vojenské i ekonomické. S ohledem na sdílenou historii a geografii spolupracují na společných vojenských cvičeních a strategických partnerstvích ke zvýšení své bezpečnosti a řešení regionálních výzev. Země také spolupracují na projektech ke zlepšení hospodářského růstu, zvýšení přeshraničních investic a obchodu a podpoře cestovního ruchu." # todo: NEW TRANSLATION
+ BUL_generic_political_pression: "Zlepšená správa" # todo: NEW TRANSLATION
+ BUL_generic_political_pression_desc: "Bulharsko by mělo projít reformou administrace zaměřenou na zvýšení efektivnosti a odpovědnosti jeho vládních institucí. Hlavním cílem je modernizovat systém veřejné správy a snížit byrokracii, která brzdila hospodářský růst a zahraniční investice." # todo: NEW TRANSLATION
+ BUL_liberty_ethos: "Demokratické Bulharsko" # todo: NEW TRANSLATION
+ BUL_liberty_ethos_desc: "Rok 2000 byl zlomovým bodem pro bulharskou společnost, která čelila četným politickým, ekonomickým a sociálním výzvám. Navzdory těmto obtížím není pochyb o tom, že demokratické směřování bylo pro zemi nejlepší volbou. Demokracie dává občanům možnost spolurozhodovat o vládě a účastnit se rozhodovacích procesů. To vytváří pocit vlastnictví a posiluje odpovědnost jednotlivců za společný osud. Demokratické společnosti také kladou důraz na individuální práva a svobody, které jsou klíčové pro osobní i společenský rozvoj." # todo: NEW TRANSLATION
+ BUL_collectivist_ethos: "Nové Bulharsko, staré způsoby" # todo: NEW TRANSLATION
+ BUL_collectivist_ethos_desc: "Rok 2000 znamenal počátek demokratického zřízení v Bulharsku. Nicméně mnoho lidí to vnímalo jako nejhorší politické vedení v dějinách země. Jedním z hlavních důvodů byla neschopnost vlády zatočit s rozsáhlou korupcí, která zemi sužovala. Dalším faktorem byl nedostatek pokroku a hospodářského růstu. Chudoba a nezaměstnanost zůstávaly rozšířené a životní úroveň se nezlepšovala. Rostla i politická nestabilita, která podrývala důvěru veřejnosti ve vládu." # todo: NEW TRANSLATION
+ bulg.4.t: "Monarchistický převrat v Bulharsku!" # todo: NEW TRANSLATION
+ bulg.4.d: "Bulharsko bylo postiženo monarchistickým převratem, který vrátil symboly bývalé monarchie. Převrat vedla frakce v rámci bulharského politického vedení, která usilovala o návrat ústavy podobné té z předkomunistické éry. Tento krok vyvolal smíšené reakce: někteří jej viděli jako pokus o přesun k autoritářství, jiní věřili, že obnova monarchie přinese stabilitu. Převrat byl úspěšný a nová ústava ustanovila monarchii jako ceremoniální hlavu státu. Bulharské královské rodině byla svěřena významná role v politickém a společenském životě a nadále má prominentní postavení. Vzhledem ke korupci a ekonomické nestabilitě současné vlády roste hnutí věnované obnovení monarchie. Toto hnutí vedou vlivní politici, vojenské vedení a loajálové bývalé královské rodiny, kteří usilují o vytvoření ústavní monarchie, jež podle nich přinese zemi stabilitu a prosperitu." # todo: NEW TRANSLATION
+ bulg.4.a: "Ať žije car!" # todo: NEW TRANSLATION
+ bulg.5.t: "Komunistická revanche v Bulharsku!" # todo: NEW TRANSLATION
+ bulg.5.d: "Bulharsko zažilo komunistický puč, při kterém se k moci dostala Bulharská socialistická strana (BSP). Šlo o zásadní politický obrat po letech demokratických reforem a liberalizace. Pro mnoho Bulharů to znamenalo krok zpět k režimu, proti kterému se dříve tolik zasazovali. BSP se dostala k moci prostřednictvím koalice s Hnutím za práva a svobody, což jí umožnilo ovládnout vládu a zavádět politiky připomínající komunistickou éru. Zaváděli větší státní kontrolu nad ekonomikou, omezovali soukromé podnikání a zvyšovali vládní výdaje na sociální programy." # todo: NEW TRANSLATION
+ bulg.5.a: "Sláva Rudému říjnu!" # todo: NEW TRANSLATION
+ bulg.6.t: "Volba, kým budeme..." # todo: NEW TRANSLATION
+ bulg.6.d: "Za co by se naše království mělo prohlásit?" # todo: NEW TRANSLATION
+ bulg.6.a: "Velké carství Bulharska" # todo: NEW TRANSLATION
+ bulg.6.b: "Čtvrtá Bulharská říše" # todo: NEW TRANSLATION
+ bulg.6.c: "Bulharsko-byzantská říše" # todo: NEW TRANSLATION
+ BUL_empire: "Čtvrtá Bulharská říše" # todo: NEW TRANSLATION
+ BUL_empire2: "Velké carství Bulharska" # todo: NEW TRANSLATION
+ BUL_empire3: "Bulharsko-byzantská říše" # todo: NEW TRANSLATION
+ BUL_generic_moving_towards_neutrality: "Směřování k neutralitě" # todo: NEW TRANSLATION
+ BUL_generic_moving_towards_neutrality_desc: "Bulharsko musí přejít k neutrálnímu politickému prostředí, aby si udrželo dobré vztahy s východním i západním blokem a získalo maximální výhody z konfliktu mezi oběma stranami." # todo: NEW TRANSLATION
+ BUL_generic_moving_towards_nothing_continue: "Není cesty zpět" # todo: NEW TRANSLATION
+ BUL_generic_moving_towards_nothing_continue_desc: "Bulharsko již zvolilo svou politickou a civilizační cestu, musíme v ní pokračovat a zabránit reakčním silám, aby získaly převahu v naší zemi!" # todo: NEW TRANSLATION
+ BUL_european_ideals: "Evropské ideály" # todo: NEW TRANSLATION
+ BUL_european_ideals_desc: "Přijetím hodnot demokracie, lidských práv a právního státu se Bulharsko dokázalo sladit s normami EU. Jedním z nejvýznamnějších přínosů členství v EU je přístup k finančním prostředkům, které jsou nezbytné pro hospodářský růst, investice do infrastruktury a sociální programy, jako je školství a zdravotnictví." # todo: NEW TRANSLATION
+ BUL_genric_ccich_boz: "Reforma vzdělávání" # todo: NEW TRANSLATION
+ BUL_genric_ccich_boz_desc: "V posledních letech se Bulharská sociálně-demokratická strana snaží o reformu vzdělávacího systému země. Cílem strany je zvýšit přístup ke kvalitnímu vzdělávání, poskytnout více prostředků učitelům a zlepšit celkové učební osnovy. K dosažení těchto cílů se zaměřili na zvýšení financování škol, podporu znevýhodněných žáků a snižování velikosti tříd. Zavádějí také nové programy, které pomáhají studentům rozvíjet dovednosti potřebné na moderním trhu práce." # todo: NEW TRANSLATION
+ BUL_prorussian_prime_minister: "Neutrální předseda vlády" # todo: NEW TRANSLATION
+ BUL_prorussian_minister_generic: "Multipolární předseda vlády" # todo: NEW TRANSLATION
+ BUL_prorussian_minister_generic_desc: "Koncept multipolarity v zahraniční politice znamená angažovanost státu s několika mezinárodními aktéry namísto spojení pouze s jedním dominantním mocenským centrem. Mít předsedu vlády s multipolární zahraniční politikou může být pro Bulharsko velmi přínosné z hlediska diverzifikace partnerství, což vede k stabilnější a bezpečnější zahraniční politice. Zároveň může posílit hospodářské vazby s různými obchodními partnery, což povede k hospodářskému růstu a tvorbě pracovních míst." # todo: NEW TRANSLATION
+ BUL_befriend_russia: "Navázat přátelství s Ruskem" # todo: NEW TRANSLATION
+ BUL_befriend_russia_desc: "Navázat přátelství s Ruskem" # todo: NEW TRANSLATION
+ BUL_befriend_serbia: "Srbská spolupráce" # todo: NEW TRANSLATION
+ BUL_befriend_serbia_desc: "Srbská spolupráce" # todo: NEW TRANSLATION
+ BUL_bosnian_cooperation: "Posílit bosenský pakt" # todo: NEW TRANSLATION
+ BUL_bosnian_cooperation_desc: "Posílit bosenský pakt" # todo: NEW TRANSLATION
+ BUL_KFOR_base: "Nasazení KFOR" # todo: NEW TRANSLATION
+ BUL_KFOR_base_desc: "Nasazení KFOR" # todo: NEW TRANSLATION
+ BUL_generic_simeon_prime_minister: "Simeon II. jako předseda vlády" # todo: NEW TRANSLATION
+ BUL_generic_simeon_prime_minister_desc: "Simeon II. jako předseda vlády" # todo: NEW TRANSLATION
+ BUL_appeal_to_farmers: "Zemědělská reforma" # todo: NEW TRANSLATION
+ BUL_appeal_to_farmers_desc: "Zemědělská reforma" # todo: NEW TRANSLATION
+ BUL_cult_of_past: "Kult minulosti" # todo: NEW TRANSLATION
+ BUL_cult_of_past_desc: "V neočekávaném zvratu událostí nově zvolená nacionalistická vláda Bulharska vyslovila podporu kontroverznímu vlasteneckému kultu známému jako \"Past\". Skupina, která tvrdí, že pochází od starověkých Thráků, byla dlouho společností odmítána kvůli svým extremistickým přesvědčením a násilným taktikám. Nyní však, díky podpoře vlády, se Past posílil a jeho členové v poslední době jednají stále agresivněji." # todo: NEW TRANSLATION
+ bulg.7.t: "Bulharská politika" # todo: NEW TRANSLATION
+ bulg.7.d: "V roce 2000 Bulharsko procházelo významnými změnami v politickém uspořádání. Země se stále zotavovala z ekonomických a politických otřesů 90. let a rostlo rozčarování obyvatel vůči vládě. Vládnoucí Bulharská socialistická strana (BSP) byla u moci od roku 1995 a čelila větší kritice za hospodaření a obvinění z korupce. Prezidentské volby v roce 2000 byly klíčovým momentem. Stávající prezident Petar Stojanov kandidoval jako nezávislý a sliboval pokračování proevropských a protržních reforem. Čelil silnému soupeři Georgi Parvanovovi z BSP, který sliboval návrat k socialistickým politikám a bližší vztahy s Ruskem. Nakonec Stojanov zvítězil těsným výsledkem, avšak Parvanovův silný výsledek naznačil posun v politickém klimatu." # todo: NEW TRANSLATION
+ bulg.7.a: "Zajímavé." # todo: NEW TRANSLATION
+ bulg.8.t: "Koho podpoříme?" # todo: NEW TRANSLATION
+ bulg.8.d: "Bulharští levicoví a pravicoví radikálové vystoupili proti prozápadnímu kurzu bulharské politické elity. Kdo by měl mít prioritu v protestech?" # todo: NEW TRANSLATION
+ bulg.8.a: "Nacionalisté by měli převzít protesty!" # todo: NEW TRANSLATION
+ bulg.8.b: "Levicoví by měli převzít vedení!" # todo: NEW TRANSLATION
+ bulg.9.t: "Regionální volby" # todo: NEW TRANSLATION
+ bulg.9.d: "Vzhledem k rozsáhlé kampani radikálů v zemi začíná souboj mezi pravicí a levicí v regionálních volbách. Kdo by měl převzít regionální vlády?" # todo: NEW TRANSLATION
+ bulg.9.a: "Dejme nacionalistům volnou ruku!" # todo: NEW TRANSLATION
+ bulg.9.b: "Odbory by měly lobbovat za levicové strany!" # todo: NEW TRANSLATION
+ bulg.10.t: "Srážky v parlamentu" # todo: NEW TRANSLATION
+ bulg.10.d: "V parlamentu vypukly frakční potyčky. Levicoví a pravicoví aktivisté se bijí kolem budovy parlamentu. Koho by měla policie rozehnat?" # todo: NEW TRANSLATION
+ bulg.10.a: "Rozdrťte nacionalistickou špínu!" # todo: NEW TRANSLATION
+ bulg.10.b: "Lepší mrtvý než rudý!" # todo: NEW TRANSLATION
+ BUL_MILLENNIUM_DAWN_DESC: "Bulharsko, které prošlo druhou světovou válkou a stalo se socialistickou republikou, se teprve nedávno proměnilo v demokratický stát. Nové tisíciletí přináší Bulharsku nové výzvy pro rostoucí demokracii na Balkáně... Teprve čas ukáže, čeho Bulharsko v novém, snad jasnějším století dosáhne." # todo: NEW TRANSLATION
+ bul_mech.7.t: "Probulharská propagační kampaň v Makedonii" # todo: NEW TRANSLATION
+ bul_mech.7.d: "Bulharsko zahájilo propagační kampaň v Makedonii, aby přesvědčilo zemi, aby se spojila se svým jižním sousedem. Kampaň zahrnovala billboardy a reklamy, které vyzývaly Makedonce, aby 'sjednotili se s bulharskými bratry' a tvrdily, že oba národy sdílejí společnou historii a kulturu. Mnoho Makedonců však kampaň vnímalo jako pokus o kulturní asimilaci a odmítli myšlenku připojení k Bulharsku. Nacionalisté v Makedonii obvinili Bulharsko z pokusu vymazat jejich identitu a jazyk a slíbili odpor proti propagační kampani." # todo: NEW TRANSLATION
+ bul_mech.7.a: "Zajímavé" # todo: NEW TRANSLATION
+ bul_mech.8.t: "Probulharské protesty v Makedonii" # todo: NEW TRANSLATION
+ bul_mech.8.d: "V poslední době došlo v Makedonii k protestům ohledně možnosti připojení země k Bulharsku. Zastánci této myšlenky tvrdí, že těsné vztahy s Bulharskem by přinesly větší ekonomické výhody a zlepšily životní úroveň makedonských občanů. Oponenti však věří, že by to podrývalo suverenitu a národní identitu Makedonie. Protesty proti připojení byly obzvláště silné mezi etnickými albánskými komunitami, které se obávají, že by jejich kulturní a politická práva byla za bulharské nadvlády omezena. Mezítím bulharští představitelé popřeli jakýkoli záměr anexe nebo pohlcení Makedonie a místo toho navrhli větší spolupráci a integraci mezi oběma zeměmi." # todo: NEW TRANSLATION
+ bul_mech.8.a: "Zajímavé" # todo: NEW TRANSLATION
+ bul_mech.9.t: "Pašování zbraní rebelům" # todo: NEW TRANSLATION
+ bul_mech.9.d: "Objevily se zprávy o pašování zbraní bulharskou vládou pro probulharské separatisty v Makedonii. To vyvolalo znepokojení mezinárodního společenství a otázky ohledně zapojení bulharské vlády do probíhajícího konfliktu v regionu." # todo: NEW TRANSLATION
+ bul_mech.9.a: "Snad to nenajdou." # todo: NEW TRANSLATION
+ bul_mech.10.t: "Bulharsko-makedonské diplomatické setkání!" # todo: NEW TRANSLATION
+ bul_mech.10.d: "V posledních letech se vztahy mezi Bulharskem a Severní Makedonií výrazně zlepšily. To dokázalo i nedávné přátelské diplomatické setkání mezi oběma zeměmi. Setkání se konalo v Sofii a zúčastnili se ho vysocí úředníci z obou zemí. Během schůzky byly projednávány otázky obchodu, bezpečnosti a kulturní spolupráce." # todo: NEW TRANSLATION
+ bul_mech.10.a: "Zajímavé." # todo: NEW TRANSLATION
+ bul_mech.11.t: "Bulharská nabídka" # todo: NEW TRANSLATION
+ bul_mech.11.d: "Bulharsko nám nabízí investice ze svého podnikatelského sektoru do naší ekonomiky. Může to zvýšit jejich vliv na nás, ale skutečně nám to pomůže překonat ekonomickou stagnaci." # todo: NEW TRANSLATION
+ bul_mech.11.a: "Jistě!" # todo: NEW TRANSLATION
+ bul_mech.11.b: "Ne, děkujeme." # todo: NEW TRANSLATION
+ bul_mech.12.t: "Makedonie chce investice" # todo: NEW TRANSLATION
+ bul_mech.12.d: "Makedonie přijala naši nabídku." # todo: NEW TRANSLATION
+ bul_mech.12.a: "Skvělé" # todo: NEW TRANSLATION
+ bul_mech.12.b: "Na druhou stranu..." # todo: NEW TRANSLATION
+ bul_mech.13.t: "Makedonie odmítá" # todo: NEW TRANSLATION
+ bul_mech.13.d: "Makedonie odmítla naši nabídku." # todo: NEW TRANSLATION
+ bul_mech.13.a: "To je špatné." # todo: NEW TRANSLATION
+ bul_mech.14.t: "Zásah proti radikálům" # todo: NEW TRANSLATION
+ bul_mech.14.d: "Bulharské a makedonské síly společně zahájily operaci proti radikálním makedonským separatistům. Operace byla úspěšná a řada osob napojených na extremistickou organizaci byla zadržena. Tento krok signalizuje snahu obou zemí čelit extremistické činnosti a udržet stabilitu v regionu. Zmiňovaná extremistická organizace usilovala o vytvoření Velké Makedonie, která by zahrnovala části Bulharska a Řecka. To vedlo k napětí mezi zeměmi a v minulosti podnítilo násilné incidenty. Spoluprací Bulharska a Makedonie vysílají zprávu, že takový radikalismus není vítán a nebude tolerován." # todo: NEW TRANSLATION
+ bul_mech.14.a: "Zajímavé." # todo: NEW TRANSLATION
+ bul_mech.16.t: "Naše agenda..." # todo: NEW TRANSLATION
+ bul_mech.16.d: "Chystáme brzy diplomatické setkání. Co by mělo být na našem programu?" # todo: NEW TRANSLATION
+ bul_mech.16.a: "Odsuďme jejich činnost!" # todo: NEW TRANSLATION
+ bul_mech.16.b: "Ukažme jim, jak je milujeme (kek)" # todo: NEW TRANSLATION
+ bul_mech.16.c: "Požádejme je o investice" # todo: NEW TRANSLATION
+ bul_mech.16.a1: "Prosazujme jazykovou otázku." # todo: NEW TRANSLATION
+ bul_mech.16.b2: "Uzavřme přátelskou smlouvu." # todo: NEW TRANSLATION
+ bul_mech.17.t: "Vojenské cvičení na hranici" # todo: NEW TRANSLATION
+ bul_mech.17.d: "Chceme uspořádat vojenské cvičení na bulharsko-makedonské hranici. Měli bychom pozvat naše sousedy?" # todo: NEW TRANSLATION
+ bul_mech.17.a: "Měli bychom cvičit sami." # todo: NEW TRANSLATION
+ bul_mech.17.a1: "Měli bychom cvičit sami." # todo: NEW TRANSLATION
+ bul_mech.17.b: "Pozvěme je!" # todo: NEW TRANSLATION
+ bul_mech.17.b1: "Pozvěme je!" # todo: NEW TRANSLATION
+ bul_mech.18.t: "Naši sousedé nás zvou na vojenská cvičení na hranici." # todo: NEW TRANSLATION
+ bul_mech.18.a: "Souhlasíme!" # todo: NEW TRANSLATION
+ bul_mech.18.b: "Promiňte, ne." # todo: NEW TRANSLATION
+ bul_mech.19.t: "Bulharsko nabízí přátelskou dohodu!" # todo: NEW TRANSLATION
+ bul_mech.19.d: "Bulharsko nabízí přátelskou dohodu mezi Makedonií a Bulharskem." # todo: NEW TRANSLATION
+ bul_mech.19.a: "Samozřejmě!" # todo: NEW TRANSLATION
+ bul_mech.19.b: "Promiňte, ne." # todo: NEW TRANSLATION
+ bul_mech.20.t: "Antibulharská propagační kampaň v Makedonii" # todo: NEW TRANSLATION
+ bul_mech.20.d: "V Makedonii byla zahájena antibulharská propagační kampaň, která se snažila odradit myšlenku připojení k Bulharsku. Kampaň obsahovala billboardy a reklamy, které zdůrazňovaly odlišnosti v historii a kultuře a varovaly před ztrátou národní identity. Mnoho Makedonců toto vnímalo jako obranu jejich suverenity a identitě. Nacionalisté v Makedonii obviňovali Bulharsko z vměšování do jejich vnitřních záležitostí a slíbili odpor proti jakémukoli pokusu o asimilaci." # todo: NEW TRANSLATION
+ bul_mech.20.a: "Zajímavé" # todo: NEW TRANSLATION
+ bul_mech.21.t: "Antibulharské protesty v Makedonii" # todo: NEW TRANSLATION
+ bul_mech.21.d: "V poslední době proběhly v Makedonii protesty týkající se možnosti připojení k Bulharsku. Zastánci tvrdí, že blízké vztahy s Bulharskem by přinesly ekonomické výhody a zlepšení životní úrovně. Oponenti se obávají, že by to ohrozilo suverenitu a národní identitu Makedonie. Protesty byly silné zejména mezi etnickými Albánci, kteří se obávají omezení svých kulturních a politických práv. Bulharští představitelé popřeli úmysl anexe a místo toho navrhovali větší spolupráci a integraci." # todo: NEW TRANSLATION
+ bul_mech.21.a: "Zajímavé" # todo: NEW TRANSLATION
+ BUL_focus_FYR_government_opinion_above_fifty_TT: "Názor makedonské vlády by měl být vysoký!" # todo: NEW TRANSLATION
+ BUL_focus_FYR_people_opinion_above_fifty_TT: "Názor makedonského lidu by měl být vysoký!" # todo: NEW TRANSLATION
+ BUL_focus_FYR_BUL_tensions_above_fifty_TT: "Napětí by mělo být vysoké!" # todo: NEW TRANSLATION
+ BUL_focus_FYR_BUL_tensions_below_fifty_TT: "Napětí by mělo být nízké!" # todo: NEW TRANSLATION
+ BUL_demcrat_maced_resolv: "Přátelská smlouva s Makedonií" # todo: NEW TRANSLATION
+ BUL_start_antibulgarian_propaganda: "Zahájit antibulharskou propagační kampaň" # todo: NEW TRANSLATION
+ BUL_arrange_a_anti_bulgarian_protest: "Zorganizovat antibulharský protest" # todo: NEW TRANSLATION
+ BUL_rebellion_category: "Makedonská krize" # todo: NEW TRANSLATION
+ BUL_rebellion_category_desc: " # todo: NEW TRANSLATION
+  # todo: NEW TRANSLATION
+ Sporné hranice mezi Bulharskem a Makedonií jsou dlouhodobým problémem sahajícím až k rozpadu Jugoslávie na počátku 90. let. Obě země se nemohly dohodnout na přesném vymezení hranic z historických a politických důvodů. Bulharsko tvrdí, že části národní identity a jazyka Republiky Severní Makedonie byly uměle vytvořeny, aby posílily její vlastní územní nároky. Severní Makedonie to však důsledně popírá a označuje taková tvrzení za neopodstatněná. V poslední době však obě strany projevily ochotu vyjednávat a Evropská unie sehrála důležitou roli při zprostředkování a podpoře jednání mezi oběma stranami. Řešení tohoto sporu by bylo klíčové pro další regionální spolupráci a snížení napětí mezi balkánskými státy. Makedonie by kvůli tomuto konfliktu mohla ztratit svou suverenitu..." # todo: NEW TRANSLATION
+ FYR_BUL_tensions_tt:0 "Napětí se změní o: $RIGHT|=-$" # todo: NEW TRANSLATION
+ FYR_government_opinion_tt:0 "Názor makedonské vlády se změní o: $RIGHT|=+$" # todo: NEW TRANSLATION
+ FYR_people_opinion_tt:0 "Názor makedonského lidu se změní o: $RIGHT|=+$" # todo: NEW TRANSLATION
+ BUL_start_probulgarian_propaganda: "Probulharská propagační kampaň" # todo: NEW TRANSLATION
+ BUL_arrange_a_pro_bulgarian_protest: "Zorganizovat probulharské shromáždění" # todo: NEW TRANSLATION
+ BUL_meeting_with_bulgarian_officials: "Setkání s vládními úředníky" # todo: NEW TRANSLATION
+ BUL_conduct_training_on_border: "Provádět vojenský výcvik na hranici" # todo: NEW TRANSLATION
+ BUL_friendship_diplomacy: "Zorganizovat přátelskou diplomatickou misi" # todo: NEW TRANSLATION
+ BUL_invest_in_macedonia: "Investovat do Makedonie" # todo: NEW TRANSLATION
+ BUL_send_weapons_to_separatists: "Poslat zbraně separatistům" # todo: NEW TRANSLATION
+ BUL_purge_nationalists_fyr: "Zátah na nacionalistické disidenty" # todo: NEW TRANSLATION
+ BUL_oligarchy: "Bulharská podnikatelská strana" # todo: NEW TRANSLATION
+ BUL_step_labour_union: "Žádná omezení pro podnikání!" # todo: NEW TRANSLATION
+ BUL_jorj_kgb: "Jorjyho KGB" # todo: NEW TRANSLATION
+ BUL_business_monopoly: "Antimonopolní monopolismus" # todo: NEW TRANSLATION
+ BUL_sports_promotion: "Šerm pro všechny" # todo: NEW TRANSLATION
+ BUL_george_in_action: "George v akci" # todo: NEW TRANSLATION
+ BUL_liberal_autocrat_populism: "Liberálně-autokratický populismus" # todo: NEW TRANSLATION
+ BUL_liberals_focus: "Demokratická strana" # todo: NEW TRANSLATION
+ BUL_christian_values: "Křesťanské hodnoty" # todo: NEW TRANSLATION
+ BUL_looking_to_germany: "Německý model" # todo: NEW TRANSLATION
+ BUL_like_angela_merkel: "Jako Angela Merkel" # todo: NEW TRANSLATION
+ BUL_corporativism_dem: "Křesťanský korporativismus" # todo: NEW TRANSLATION
+ BUL_respect_worker_rights: "Respektování práv pracovníků" # todo: NEW TRANSLATION
+ BUL_free_will_free_society: "Vůle naší společnosti" # todo: NEW TRANSLATION
+ BUL_free_economic_zones: "Volné ekonomické zóny" # todo: NEW TRANSLATION
+ BUL_businees_as_usual: "Byznys jako obvykle" # todo: NEW TRANSLATION
+ BUL_pipeline_greece: "Ropovod s Řeckem" # todo: NEW TRANSLATION
+ BUL_pipeline_russia: "Ropovod s Ruskem" # todo: NEW TRANSLATION
+ BUL_banking_crisis: "Bankovní krize" # todo: NEW TRANSLATION
+ BUL_banking_krakh: "Bankovní krize" # todo: NEW TRANSLATION
+ BUL_banking_rost: "Stabilní bankovní systém" # todo: NEW TRANSLATION
+ BUL_global_diplomacy: "Globální diplomacie" # todo: NEW TRANSLATION
+ BUL_align_to_nato: "Sblížit se s NATO" # todo: NEW TRANSLATION
+ BUL_eastern_alignment: "Sblížení na Východ" # todo: NEW TRANSLATION
+ BUL_the_country_of_brotherly_love: "Balkánské záležitosti" # todo: NEW TRANSLATION
+ BUL_the_international_mediator: "Balkánský mediátor" # todo: NEW TRANSLATION
+ BUL_strength_in_cooperation: "Síla ve spolupráci" # todo: NEW TRANSLATION
+ BUL_visit_every_country: "Mnohostranné návštěvy" # todo: NEW TRANSLATION
+ BUL_support_the_little_guys: "Podpořit naše přátele" # todo: NEW TRANSLATION
+ BUL_a_global_power: "Místní mocnost" # todo: NEW TRANSLATION
+ BUL_Economic_pertnership_with_eastern_europe: "Ekonomické partnerství se Východem" # todo: NEW TRANSLATION
+ BUL_eu_trading_deals: "Obchodní dohody s EU" # todo: NEW TRANSLATION
+ BUL_align_to_csto: "Vstoupit do CSTO" # todo: NEW TRANSLATION
+ BUL_align_to_nobody: "Po našem bulharském" # todo: NEW TRANSLATION
+ BUL_align_to_nato2: "Vstoupit do NATO" # todo: NEW TRANSLATION
+ BUL_SCO_partnership: "Partnerství se SCO" # todo: NEW TRANSLATION
+ BUL_joining_sco: "Žádost o členství ve SCO" # todo: NEW TRANSLATION
+ BUL_special_partnership: "Zvláštní partnerství s EAEU" # todo: NEW TRANSLATION
+ BUL_wto_deals: "Globální dohody WTO" # todo: NEW TRANSLATION
+ BUL_arms_deals: "Obchody se zbraněmi" # todo: NEW TRANSLATION
+ BUL_sanctions_avoid: "Vyhýbání se sankcím" # todo: NEW TRANSLATION
+ BUL_tourism: "Turismus v Bulharsku" # todo: NEW TRANSLATION
+ BUL_tourism_tt: "To nám vygeneruje příjem §G0.15$§!" # todo: NEW TRANSLATION
+ BUL_FYR_more_than_65_percent_influence_TT: "§Y[BUL.GetAdjective]§! Vliv v [FYR.GetNameWithFlag] přesahuje 65 %" # todo: NEW TRANSLATION
+ BUL_FYR_more_than_45_percent_influence_TT: "§Y[BUL.GetAdjective]§! Vliv v [FYR.GetNameWithFlag] přesahuje 45 %" # todo: NEW TRANSLATION
+ BUL_russia_agree_flag: "§YSouhlasili s investicí do naší ekonomiky§!" # todo: NEW TRANSLATION
+ BUL_Bolgarisation_category: "Čtvrté bulharské království" # todo: NEW TRANSLATION
+ BUL_Bolgarisation_category_desc: "Bulharsko bylo kdysi velkou a mocnou zemí. Vrátíme tuto velikost!" # todo: NEW TRANSLATION
+ BUL_133_return: "Nacionalizace Kosova" # todo: NEW TRANSLATION
+ BUL_133_return_desc: "Provedeme poměrně razantní politiku nacionalizace tohoto regionu" # todo: NEW TRANSLATION
+ BUL_132_return: "Nacionalizace Východního Srbska" # todo: NEW TRANSLATION
+ BUL_135_return: "Nacionalizace Západní Makedonie" # todo: NEW TRANSLATION
+ BUL_136_return: "Nacionalizace Východní Makedonie" # todo: NEW TRANSLATION
+ BUL_138_return: "Nacionalizace jižní Albánie" # todo: NEW TRANSLATION
+ BUL_137_return: "Nacionalizace severní Albánie" # todo: NEW TRANSLATION
+ BUL_134_return: "Nacionalizace Černé Hory" # todo: NEW TRANSLATION
+ BUL_131_return: "Nacionalizace Středního Srbska" # todo: NEW TRANSLATION
+ BUL_998_return: "Nacionalizace Západního Banátu" # todo: NEW TRANSLATION
+ BUL_130_return: "Nacionalizace Vojvodiny" # todo: NEW TRANSLATION
+ BUL_974_return: "Nacionalizace Západní Thrákie" # todo: NEW TRANSLATION
+ BUL_934_return: "Nacionalizace Východní Thrákie" # todo: NEW TRANSLATION
+ BUL_140_return: "Nacionalizace jižní Makedonie" # todo: NEW TRANSLATION
+ BUL_139_return: "Nacionalizace Thesálie" # todo: NEW TRANSLATION
+ BUL_Belarus_export_weapon_category: "Nákupy zbraní v Bělorusku" # todo: NEW TRANSLATION
+ BUL_Belarus_export_weapon_category_desc: "Bělorusko není hlavní vývozce zbraní, ale může nám poskytnout několik vzorků zbraní užitečných pro naši armádu" # todo: NEW TRANSLATION
+ BUL_Belarus_export_weapon_TT: "§YNyní budeme moci nakupovat zbraně v Bělorusku.§!" # todo: NEW TRANSLATION
+ BUL_demcrat_turks_compromis: "Kompromis s tureckou menšinou" # todo: NEW TRANSLATION
+ BUL_pirate_party: "Pirátská strana Bulharska" # todo: NEW TRANSLATION
+ BUL_freedom_for_all: "Svoboda pro všechny!" # todo: NEW TRANSLATION
+ BUL_free_media: "Svobodná média!" # todo: NEW TRANSLATION
+ BUL_minarchist_council: "Minarchismus" # todo: NEW TRANSLATION
+ BUL_no_copyright: "Žádné zákony o autorských právech" # todo: NEW TRANSLATION
+ BUL_freedom_for_communes: "Svoboda pro komuny" # todo: NEW TRANSLATION
+ BUL_crusade_on_propaganda: "Křížová výprava proti propagandě OSN" # todo: NEW TRANSLATION
+ BUL_support_from_us_party: "Podpora z USA" # todo: NEW TRANSLATION
+ BUL_lib_coal: "§GPozveme Zelenou stranu do koalice!§!" # todo: NEW TRANSLATION
+ BUL_gre_all_TT: "§GPozveme libertariány a socialisty do naší koalice!§!" # todo: NEW TRANSLATION
+ BUL_revit_TT: "§GOživení společnosti Arsenal bude stát peníze, ale zpřístupní ji jako výzkumnou organizaci!§!" # todo: NEW TRANSLATION
+ BUL_greens_focus: "Zelená strana Bulharska" # todo: NEW TRANSLATION
+ BUL_ecological_radicalism: "Ekologický radikalismus" # todo: NEW TRANSLATION
+ BUL_investing_in_eco_projects: "Zelené investice" # todo: NEW TRANSLATION
+ BUL_countering_ecological_reactionism: "Zadržení protiezelené reakce" # todo: NEW TRANSLATION
+ BUL_green_energy: "Obnovitelná energie" # todo: NEW TRANSLATION
+ BUL_glxin_bampem_zavodneri: "Nové standardy" # todo: NEW TRANSLATION
+ BUL_freash_bulgarian_air: "Čerstvý bulharský vzduch" # todo: NEW TRANSLATION
+ BUL_bulgarian_wine: "Investice do bulharského vína" # todo: NEW TRANSLATION
+ BUL_green_bulgaria: "Nové, zelené Bulharsko" # todo: NEW TRANSLATION
+ BUL_revitalizing_militar_industry: "Oživit zbrojovku ARSENAL" # todo: NEW TRANSLATION
+ BUL_contract_with_Kalashnikov: "Smlouva s Ižmašem" # todo: NEW TRANSLATION
+ BUL_new_licenses_ak: "Nové licence" # todo: NEW TRANSLATION
+ BUL_airburst_stuff: "Zvýšit výrobu palných zbraní" # todo: NEW TRANSLATION
+ BUL_airburst_stufff: "Rozvinout výrobu velitelského vybavení" # todo: NEW TRANSLATION
+ BUL_zenith_ka: "Protiletadlová děla" # todo: NEW TRANSLATION
+ BUL_zenith_kaa: "Protitanková děla" # todo: NEW TRANSLATION
+ BUL_karanatay_vvoz: "Bulharské kamiony" # todo: NEW TRANSLATION
+ BUL_expanding_arsenal: "Rozšíření závodu ARSENAL" # todo: NEW TRANSLATION
+ BUL_NATO_cooperation: "Spolupráce s NATO" # todo: NEW TRANSLATION
+ BUL_chi_industry: "Rozšíření Arsenalu" # todo: NEW TRANSLATION
+ BUL_chi_industry2: "Rozšíření Arsenalu" # todo: NEW TRANSLATION
+ BUL_eu_ask_invest: "Německé investice" # todo: NEW TRANSLATION
+ BUL_unsatisf_rurk_minority: "Nespokojená turecká menšina" # todo: NEW TRANSLATION
+ bulg.13.t: "Bulharský průmysl" # todo: NEW TRANSLATION
+ bulg.13.d: "Po devadesátých letech se Bulharsko stále zotavovalo z ekonomických a politických otřesů, které následovaly po rozpadu komunismu v roce 1989. Země zažila období hyperinflace na počátku 90. let, následované obdobím stabilizace a postupného ekonomického růstu. V roce 1996 postihla Bulharsko vážná ekonomická krize, která byla částečně výsledkem kolapsu bankovního systému a prudké depreciace národní měny. Do roku 2000 se bulharská ekonomika pomalu zotavovala z krize, ale stále čelila řadě výzev. HDP rostlo mírným tempem, ale nezaměstnanost zůstávala vysoká a chudoba byla významná. Vláda prováděla řadu ekonomických reforem zaměřených na snížení rozpočtového deficitu, zlepšení veřejných financí a podporu zahraničních investic." # todo: NEW TRANSLATION
+ bulg.13.a: "Zajímavé." # todo: NEW TRANSLATION
+ bulg.14.t: "Turecké protesty" # todo: NEW TRANSLATION
+ bulg.14.d: "Skupina aktivistů turecké menšiny uspořádala protest před bulharským parlamentem, požadující větší práva a konec diskriminace. Protest přerostl v násilnosti, když se policie pokusila rozptýlit dav, což vedlo ke střetům a zraněním na obou stranách. Turecká menšina v Bulharsku také kritizovala vládu za její politiku vůči jejich komunitě, včetně nuceného uzavírání turecky vyučovaných škol a omezení používání tureckých jmen. Volají po větší autonomii a uznání v rámci bulharského státu, včetně práva používat svůj jazyk v úředních kontextech." # todo: NEW TRANSLATION
+ bulg.14.a: "Ach!" # todo: NEW TRANSLATION
+ bulg.14.a: "Naštěstí jsme to vyřešili..." # todo: NEW TRANSLATION
+ Export_weapon_blr: "Ohlásit nákup zbraní" # todo: NEW TRANSLATION
+ BUL_india_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Indie§!" # todo: NEW TRANSLATION
+ BUL_iraq_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Iráku§!" # todo: NEW TRANSLATION
+ BUL_afgan_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Afghánistánu§!" # todo: NEW TRANSLATION
+ BUL_georgia_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Gruzie§!" # todo: NEW TRANSLATION
+ BUL_ukraine_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně na Ukrajinu§!" # todo: NEW TRANSLATION
+ BUL_azer_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Ázerbájdžánu§!" # todo: NEW TRANSLATION
+ BUL_arm_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Ázerbájdžánu§!" # todo: NEW TRANSLATION
+ BUL_indo_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Indonésie§!" # todo: NEW TRANSLATION
+ BUL_mac_export_weapon_flag: "§YZískali jsme povolení vyvážet zbraně do Severní Makedonie§!" # todo: NEW TRANSLATION
+ BUL_start_export_weapon_TT: "§YNyní budeme moci vyvážet naše zbraně do jiných zemí§!" # todo: NEW TRANSLATION
+ BUL_georgia_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Gruzie§!" # todo: NEW TRANSLATION
+ BUL_afgan_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Afghánistánu§!" # todo: NEW TRANSLATION
+ BUL_iraq_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Iráku§!" # todo: NEW TRANSLATION
+ BUL_india_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Indie§!" # todo: NEW TRANSLATION
+ BUL_ukraine_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně na Ukrajinu§!" # todo: NEW TRANSLATION
+ BUL_azer_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Ázerbájdžánu§!" # todo: NEW TRANSLATION
+ BUL_arm_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Arménie§!" # todo: NEW TRANSLATION
+ BUL_indo_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Indonésie§!" # todo: NEW TRANSLATION
+ BUL_mac_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Severní Makedonie§!" # todo: NEW TRANSLATION
+ BUL_serb_export_weapon_TT: "§YZískali jsme povolení vyvážet zbraně do Srbska§!" # todo: NEW TRANSLATION
+ BUL_Export_category: ""Arsenal" vývoz zbraní" # todo: NEW TRANSLATION
+ BUL_Export_category_desc: "Arsenal je bulharská soukromá společnost (akciová společnost), významný výrobce a vývozce střelných zbraní a munice. Nachází se ve městě Kazanlak. Je to nejstarší výrobce zbraní v Bulharsku. Právě skrze ni budeme schopni prodávat naše zbraně do zahraničí" # todo: NEW TRANSLATION
+ bulg_export.1.t: "Bulharsko nám nabízí nákup svých zbraní" # todo: NEW TRANSLATION
+ bulg_export.1.d: "Bulharská vláda, prostřednictvím své společnosti Arsenal, nám nabízí prodat určité typy zbraní, které vyrábějí. Souhlasíme?" # todo: NEW TRANSLATION
+ bulg_export.1.a: "Koupit protiletadlové vybavení" # todo: NEW TRANSLATION
+ bulg_export.1.b: "Koupit velitelsko-řídicí vybavení" # todo: NEW TRANSLATION
+ bulg_export.1.c: "Koupit pušky" # todo: NEW TRANSLATION
+ bulg_export.1.g: "Koupit protitankové vybavení" # todo: NEW TRANSLATION
+ bulg_export.1.e: "Neplánujeme pořizovat bulharské zbraně" # todo: NEW TRANSLATION
+ BUL_geo_export: "Prodej zbraní do [GEO.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_geo_export_desc: "Díky našim kontaktům se nám podařilo proniknout na gruzínský trh a nyní jsme připraveni nabídnout naše zbraně" # todo: NEW TRANSLATION
+ BUL_iraq_export: "Prodej zbraní do [IRQ.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_iraq_export_desc: "Irácká vláda by mohla mít zájem o naše zbraně" # todo: NEW TRANSLATION
+ BUL_afgan_export: "Prodej zbraní do [AFG.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_afgan_export_desc: "Afgánská vláda by mohla mít zájem o naše zbraně" # todo: NEW TRANSLATION
+ BUL_india_export: "Prodej zbraní do [RAJ.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_india_export_desc: "Indie se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_ukraine_export: "Prodej zbraní do [UKR.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_ukraine_export_desc: "Ukrajina se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_azer_export: "Prodej zbraní do [AZE.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_azer_export_desc: "Ázerbájdžán se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_arm_export: "Prodej zbraní do [ARM.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_arm_export_desc: "Arménie se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_serb_export: "Prodej zbraní do [SER.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_serb_export_desc: "Srbsko se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_indonesia_export: "Prodej zbraní do [IND.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_indonesia_export_desc: "Indonésie se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ BUL_mac_dac_export: "Prodej zbraní do [FYR.GetNamewithFlag]" # todo: NEW TRANSLATION
+ BUL_mac_dac_export_desc: "Severní Makedonie se může stát dobrým odběratelem našich zbraní" # todo: NEW TRANSLATION
+ CAN_airburstr_weapons: "Zlepšení velitelského vybavení" # todo: NEW TRANSLATION
+ BUL_whyareyouhere: "Ahoj, světe" # todo: NEW TRANSLATION
+ simeonII_trait: "Premiér Simeon II" # todo: NEW TRANSLATION
+ BUL_new_farms_market: "Nový trh pro farmy" # todo: NEW TRANSLATION
+ BUL_new_farms_market_desc: "S novými kontakty přicházejí nové trhy, takže jsme zajistili příjemné zvýšení pro zaostávající farmy." # todo: NEW TRANSLATION
+ BUL_trade_cooperation_idea: "Vsadit na spolupráci" # todo: NEW TRANSLATION
+ BUL_sports_develop1: "Rozvoj sportu" # todo: NEW TRANSLATION
+ BUL_sports_develop2: "Popularizace sportu" # todo: NEW TRANSLATION
+ BUL_idea_agrarian_reform: "Agrární reforma" # todo: NEW TRANSLATION
+ BUL_decommdify_the_basics_idea: "Odkomodifikovat základní potřeby" # todo: NEW TRANSLATION
+ BUL_decommdify_the_basics_idea_desc: "Základní věci by neměly být považovány za komoditu. Jsou to základ a měly by být tak i považovány." # todo: NEW TRANSLATION
+ BUL_black_market_controlled: "Kontrolovaný černý trh" # todo: NEW TRANSLATION
+ BUL_idea_rainforest_protectors: "Ochránci lesů" # todo: NEW TRANSLATION
+ BUL_new_farms_market: "Nový trh pro farmy" # todo: NEW TRANSLATION
+ BUL_new_farms_market_desc: "S novými kontakty přicházejí nové trhy, takže jsme zajistili příjemné zvýšení pro zaostávající farmy." # todo: NEW TRANSLATION
+ BUL_trade_isolationism_idea: "Izolacionismus" # todo: NEW TRANSLATION
+ BUL_trade_isolationism_idea_desc: "Nezajímáme se o problémy mimo Bulharsko. Budeme rozvíjet vlastní zemi sami. Samozřejmě to neznamená, že se úplně uzavřeme, ale směr naší politiky by měl být zaměřen především dovnitř." # todo: NEW TRANSLATION
+ BUL_liberal_economy: "Ekonomický liberalismus" # todo: NEW TRANSLATION
+ BUL_liberal_economy_desc: "Ekonomický liberalismus je nezbytný, pokud chceme, aby ekonomika rostla efektivněji, a proto ho musíme přijmout." # todo: NEW TRANSLATION
+ BUL_liberal_economy: "Ekonomický liberalismus" # todo: NEW TRANSLATION
+ BUL_liberal_economy_desc: "Ekonomický liberalismus je nezbytný, pokud chceme, aby ekonomika rostla efektivněji, a proto ho musíme přijmout." # todo: NEW TRANSLATION
+ BUL_idea_eu_research_agreement: "Výzkumná dohoda Bulharsko-EU" # todo: NEW TRANSLATION
+ BUL_idea_federalization_1: "Reformovaná vláda" # todo: NEW TRANSLATION
+ BUL_idea_federalization_2: "Reformovaná vláda" # todo: NEW TRANSLATION
+ BUL_idea_agrotech: "AgroTech" # todo: NEW TRANSLATION
+ BUL_expertise: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ BUL_idea_pro_farmers: "Politika pro zemědělce" # todo: NEW TRANSLATION
+ BUL_increased_privatization: "Zvýšená privatizace" # todo: NEW TRANSLATION
+ BUL_indoctrinate_youth: "Indoktrinace mládeže" # todo: NEW TRANSLATION
+ BUL_paramilitary_organization_idea: "Polomilitární organizace" # todo: NEW TRANSLATION
+ BUL_christian_state_2: "Silný křesťanský stát" # todo: NEW TRANSLATION
+ BUL_christian_state_2_desc: "Pravoslaví je naše státní náboženství. Vede nás v těžkých časech, ukazuje nám, co je dobré a co ne." # todo: NEW TRANSLATION
+ BUL_wild_unions: "Divoké odbory" # todo: NEW TRANSLATION
+ BUL_press_opposition: "Mediální opozice" # todo: NEW TRANSLATION
+ BUL_press_opposition_desc: "Média nás od doby, kdy jsme obnovili pořádek ve vládě, nezobrazují v nejlepším světle, ale je logické, že slabí se bojí silných." # todo: NEW TRANSLATION
+ BUL_one_party: "Jedna strana" # todo: NEW TRANSLATION
+ BUL_red_army_idea: "Rudá armáda" # todo: NEW TRANSLATION
+ BUL_red_army_idea_desc: "Vnesli jsme ideologický fanatismus nejen do řad naší armády, ale i do civilního obyvatelstva, čímž zajistíme dostatek personálu a loajality potřebné k vytvoření působivé armády." # todo: NEW TRANSLATION
+ BUL_com_resources_idea: "Praktická těžba" # todo: NEW TRANSLATION
+ BUL_true_market: "Řádný trh" # todo: NEW TRANSLATION
+ BUL_nato_research_research_boost: "Společný výzkum NATO" # todo: NEW TRANSLATION
+ BUL_nato_research_research_boost_desc: "Spojili jsme se s NATO, abychom vyvinuli nové taktiky" # todo: NEW TRANSLATION
+ BUL_kalashnikov: "Kalašnikov" # todo: NEW TRANSLATION
+ BUL_quantity_small_arms_idea: "Priorita množství palných zbraní" # todo: NEW TRANSLATION
+ BUL_quantity_small_arms_idea_desc: "Kvalita malých zbraní je uspokojivá a nedávné úsilí zvýšit jejich počet se začíná vyplácet." # todo: NEW TRANSLATION
+ BUL_small_ship_project: "Projekt malých lodí" # todo: NEW TRANSLATION
+ BUL_idea_eacu_cooperation: "Spolupráce s EACU" # todo: NEW TRANSLATION
+ BUL_idea_eacu_cooperation_desc: "Evrazijská celní unie (původně Evrazijské hospodářské společenství) podporuje ekonomické vazby mezi většinou postsovětských států. Unie uvaluje společné vnější clo na všechny zboží vstupující do unie a jedná jako jednotný subjekt při uzavírání obchodních dohod a vyjednávání." # todo: NEW TRANSLATION
+ BUL_idea_eacu_cooperation_2: "Integrovaná spolupráce s EACU" # todo: NEW TRANSLATION
+ BUL_idea_eacu_cooperation_2_desc: "Evrazijská celní unie (původně Evrazijské hospodářské společenství) podporuje ekonomické vazby mezi většinou postsovětských států. Unie uvaluje společné vnější clo na všechny zboží vstupující do unie a jedná jako jednotný subjekt při uzavírání obchodních dohod a vyjednávání." # todo: NEW TRANSLATION
+ BUL_idea_diplomatic_powerhouse: "Diplomatická velmoc" # todo: NEW TRANSLATION
+ BUL_idea_the_international_mediator: "Mezinárodní prostředník" # todo: NEW TRANSLATION
+ BUL_idea_a_global_power: "Globální mocnost" # todo: NEW TRANSLATION
+ BUL_idea_new_wave_ideas: "Nápady Nové vlny" # todo: NEW TRANSLATION

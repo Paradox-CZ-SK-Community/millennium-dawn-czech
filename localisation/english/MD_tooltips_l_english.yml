@@ -1,0 +1,710 @@
+﻿l_english:
+ TT_RIO_PACT: "§R[From.GetName] může svolat své spojence z Rio Pact, aby jim pomohli ve válce§!\n" # todo: NEW TRANSLATION
+ TT_CALL_NATO: "§R[From.GetName] může svolat své spojence z NATO, aby jim pomohli ve válce§!\n" # todo: NEW TRANSLATION
+ TT_JOIN_NATO: "Vstupujeme do NATO" # todo: NEW TRANSLATION
+ TT_LEAVE_NATO: "Opouštíme NATO" # todo: NEW TRANSLATION
+ TT_NATO_DISBANDED: "Frakce NATO je rozpuštěna" # todo: NEW TRANSLATION
+ TT_NO_MILITARY_INTERNAL_FACTION: "§HVojenská frakce§! není jednou z našich aktivních §HVnitřních frakcí§!" # todo: NEW TRANSLATION
+ TT_AT_LEAST_SMALL_MILITARY_SPENDING: "Musíme mít alespoň §HMalé vojenské výdaje§!" # todo: NEW TRANSLATION
+ TT_AT_LEAST_BASIC_POLICE: "Musíme mít alespoň §HZákladní financování policie a bezpečnosti§!" # todo: NEW TRANSLATION
+ TT_OKAY_CORRUPTION: "Naše §HÚroveň korupce§! musí být lepší než §H(6) Systematická korupce§!" # todo: NEW TRANSLATION
+ TT_ALL_NATO_MEMBERS_RATIFIED: "Všichni členové NATO musí ratifikovat náš vstup!" # todo: NEW TRANSLATION
+ TT_ATTACKER_CONTROLS_OUR_STATES: "Naši nepřátelé musí ovládat alespoň jeden z našich států" # todo: NEW TRANSLATION
+ Generic_demand_submission_tooltip: "§CCílová země je více ochotná přijmout podrobení, pokud naše vojenská síla ji výrazně převyšuje!§!" # todo: NEW TRANSLATION
+ demanded_subjugation: "Tlak na cizí podrobení" # todo: NEW TRANSLATION
+ LAUNCH_NUKE_TOOLTIP: "§GKlikněte§! pro svržení jaderné bomby" # todo: NEW TRANSLATION
+ LAUNCH_NUKE_TOOLTIP_DELAYED: "Požadavky:\n[GetNukeStatus]\n[GetNuclearStatus]\n[GerWarStatus]\n[GetBomberStatus]\n[GetPPStatus]\n\n§YJaderné zbraně zatím nejsou dostupné.§!" # todo: NEW TRANSLATION
+ has_nukes_TT: "Alespoň 1 jaderná zbraň ve skladu" # todo: NEW TRANSLATION
+ has_nukes_yes_TT: "£trigger_yes  Jaderné zbraně ve skladu" # todo: NEW TRANSLATION
+ has_nukes_no_TT: "£trigger_no  Jaderné zbraně ve skladu" # todo: NEW TRANSLATION
+ has_nuclear_idea: "£trigger_yes  Má myšlenku: §YJaderná energie§!" # todo: NEW TRANSLATION
+ not_has_nuclear_idea: "£trigger_no  Nemá myšlenku: §YJaderná energie§!" # todo: NEW TRANSLATION
+ has_war_TT: "£trigger_yes  §Y[This.GetName]§! je ovládán nepřátelskou zemí" # todo: NEW TRANSLATION
+ not_has_war_TT: "£trigger_no  §Y[This.GetName]§! je ovládán nepřátelskou zemí" # todo: NEW TRANSLATION
+ has_bombers_TT: "£trigger_yes  Alespoň §Y1 strategický bombardér§! v rezervě" # todo: NEW TRANSLATION
+ not_has_bombers_TT: "£trigger_no  Alespoň §Y1 strategický bombardér§! v rezervě" # todo: NEW TRANSLATION
+ has_pp: "£trigger_yes  Alespoň £pol_power_icon §Y100 politická síla§!" # todo: NEW TRANSLATION
+ not_has_pp: "£trigger_no  Alespoň £pol_power_icon §Y100 politická síla§!" # todo: NEW TRANSLATION
+ TT_game_over_warning: "§RHra skončí po výběru této možnosti§!\n" # todo: NEW TRANSLATION
+ modify_treasury_effect_tt: "[THIS.GetFlag][THIS.GetAdjective] §YPokladna§!: $$[?treasury_change|+] miliard\n" # todo: NEW TRANSLATION
+ has_more_than_temp_treasury_tt: "[THIS.GetFlag][THIS.GetAdjective] §YPokladna§! je větší než $$[?temp_treasury|+] (Aktuálně: $$[?treasury|3Y])\n" # todo: NEW TRANSLATION
+ modify_debt_effect_tt: "[THIS.GetFlag][THIS.GetAdjective] §YDluh§!: $$[?debt_change|-] miliard\n" # todo: NEW TRANSLATION
+ modify_international_investment_effect_tt: "[THIS.GetFlag][THIS.GetAdjective] §YMezinárodní investice§!: $$[?int_investment_change|+] miliard\n" # todo: NEW TRANSLATION
+ modify_corporate_tax_rate_effect_tt: "[THIS.GetFlag][THIS.GetAdjective] §YSazba korporátní daně§! se změní o [?corp_change|+0] (Aktuálně: [?THIS.corporate_tax_rate|Y0])\n" # todo: NEW TRANSLATION
+ modify_population_tax_rate_tt: "[THIS.GetFlag][THIS.GetAdjective] §YSazba daně z populace§! se změní o [?pop_change|+0] (Aktuálně: [?THIS.population_tax_rate|Y0])\n" # todo: NEW TRANSLATION
+ add_coalition_members_effect_TT: "§Y[add_coalition_scl]§! je přidán do naší vládnoucí koalice.\n" # todo: NEW TRANSLATION
+ remove_coalition_members_effect_TT: "§Y[add_coalition_scl]§! je odebrán z naší vládnoucí koalice.\n" # todo: NEW TRANSLATION
+ ruling_party_changed_tt: "§Y[add_coalition_scl]§! se stává vládnoucí stranou naší země.\n" # todo: NEW TRANSLATION
+ 10_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y10%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 20_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y20%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 30_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y30%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 40_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y40%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 50_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y50%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 60_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y60%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 70_percent_government_coalition_strength_tt: "Aktuální §YPopularita vlády§! > §Y70%§! (Aktuálně: [?government_coalition_strength|%1])" # todo: NEW TRANSLATION
+ 35_percent_communist_state_strength_tt: "§Y[Communist-State_L]§! má více než §Y35%§! (Aktuálně: [?party_pop_array^4|%1])" # todo: NEW TRANSLATION
+ 35_percent_neutral_communist_strength_tt: "§Y[Neutral_Communism_L]§! má více než §Y35%§! (Aktuálně: [?party_pop_array^19|%1])" # todo: NEW TRANSLATION
+ 35_percent_nationalist_nat_autocracy_popularity_tt: "§Y[Nat_Autocracy_L]§! má více než §Y35%§! (Aktuálně: [?party_pop_array^22|%1])" # todo: NEW TRANSLATION
+ 35_percent_nationalist_right_wing_populists_strength_tt: "§Y[Nat_Populism_L]§! má více než §Y35%§! (Aktuálně: [?party_pop_array^20|%1])" # todo: NEW TRANSLATION
+ 35_percent_nationalist_absolutist_monarchist_strength_tt: "§Y[Monarchist_L]§! má více než §Y35%§! (Aktuálně: [?party_pop_array^23|%1])" # todo: NEW TRANSLATION
+ 45_percent_nationalist_nat_autocracy_popularity_tt: "§Y[Nat_Autocracy_L]§! má více než §Y45%§! (Aktuálně: [?party_pop_array^22|%1])" # todo: NEW TRANSLATION
+ more_than_1_signed_trade_agreement: "§Y[SIN.GetNameWithFlag]§! má více než §G1§! §Yobchodní dohodu§! (Aktuálně: [?signed_trade_agreements|Y0])\n" # todo: NEW TRANSLATION
+ more_than_2_signed_trade_agreement: "§Y[SIN.GetNameWithFlag]§! má více než §G2§! §Yobchodní dohody§! (Aktuálně: [?signed_trade_agreements|Y0])\n" # todo: NEW TRANSLATION
+ more_than_3_signed_trade_agreement: "§Y[SIN.GetNameWithFlag]§! má více než §G3§! §Yobchodní dohody§! (Aktuálně: [?signed_trade_agreements|Y0])\n" # todo: NEW TRANSLATION
+ more_than_4_signed_trade_agreement: "§Y[SIN.GetNameWithFlag]§! má více než §G4§! §Yobchodní dohody§! (Aktuálně: [?signed_trade_agreements|Y0])\n" # todo: NEW TRANSLATION
+ more_than_5_signed_trade_agreement: "§Y[SIN.GetNameWithFlag]§! má více než §G5§! §Yobchodních dohod§! (Aktuálně: [?signed_trade_agreements|Y0])\n" # todo: NEW TRANSLATION
+ democratic_outlook_greater_than_0_tt: "§Y$democratic$§! má více podpory než 0%" # todo: NEW TRANSLATION
+ emerging_outlook_greater_than_0_tt: "§Y$communism$§! má více podpory než 0%" # todo: NEW TRANSLATION
+ fascism_outlook_greater_than_0_tt: "§Y$fascism$§! má více podpory než 0%" # todo: NEW TRANSLATION
+ neutrality_outlook_greater_than_9_tt: "§Y$neutrality$§! má více podpory než 0%" # todo: NEW TRANSLATION
+ nationalist_outlook_greater_than_0_tt: "§Y$nationalist$§! má více podpory než 0%" # todo: NEW TRANSLATION
+ ruling_party_popularity_change_focus_TT: "Změna popularity způsobená tímto efektem bude aplikována na vládnoucí stranu." # todo: NEW TRANSLATION
+ modify_election_threshold_tt: "[THIS.GetFlag][THIS.GetAdjective] §YVolební práh§! se změní o [?threshold_change|-0%] (Aktuálně: [?THIS.election_threshold|Y0%])\n" # todo: NEW TRANSLATION
+ has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! je u moci." # todo: NEW TRANSLATION
+ has_conservatism_government_TT: "§Y[conservatism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_liberalism_government_TT: "§Y[liberalism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_socialism_government_TT: "§Y[socialism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_communist_state_government_TT: "§Y[Communist-State_L]§! je u moci." # todo: NEW TRANSLATION
+ has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! je u moci." # todo: NEW TRANSLATION
+ has_autocracy_government_TT: "§Y[Autocracy_L]§! je u moci." # todo: NEW TRANSLATION
+ has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! je u moci." # todo: NEW TRANSLATION
+ has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! je u moci." # todo: NEW TRANSLATION
+ has_kingdom_government_TT: "§Y[Kingdom_L]§! je u moci." # todo: NEW TRANSLATION
+ has_caliphate_government_TT: "§Y[Caliphate_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_oligarchism_government_TT: "§Y[oligarchism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_green_government_TT: "§Y[Neutral_green_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_social_government_TT: "§Y[neutral_Social_L]§! je u moci." # todo: NEW TRANSLATION
+ has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_nat_populism_TT: "§Y[Nat_Populism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_fascist_government_TT: "§Y[Nat_Fascism_L]§! je u moci." # todo: NEW TRANSLATION
+ has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! je u moci." # todo: NEW TRANSLATION
+ has_monarchist_government_TT: "§Y[Monarchist_L]§! je u moci." # todo: NEW TRANSLATION
+ has_pro_western_autocrat_coalition_TT: "§Y[Western_Autocracy_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_conservatism_coalition_TT: "§Y[conservatism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_liberalism_coalition_TT: "§Y[liberalism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_socialism_coalition_TT: "§Y[socialism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_communist_state_coalition_TT: "§Y[Communist-State_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_anarchist_communism_coalition_TT: "§Y[anarchist_communism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_conserv_reactionary_coalition_TT: "§Y[Conservative_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_autocracy_coalition_TT: "§Y[Autocracy_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_mod_vilayat_e_faqih_coalition_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_vilayat_e_faqih_coalition_TT: "§Y[Vilayat_e_Faqih_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_kingdom_coalition_TT: "§Y[Kingdom_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_caliphate_coalition_TT: "§Y[Caliphate_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_muslim_brotherhood_coalition_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_autocracy_coalition_TT: "§Y[Neutral_Autocracy_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_conservatism_coalition_TT: "§Y[Neutral_conservatism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_oligarchism_coalition_TT: "§Y[oligarchism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_libertarian_coalition_TT: "§Y[Neutral_Libertarian_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_green_coalition_TT: "§Y[Neutral_green_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_social_coalition_TT: "§Y[neutral_Social_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_neutral_communism_coalition_TT: "§Y[Neutral_Communism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_nat_populism_coalition_TT: "§Y[Nat_Populism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_fascist_coalition_TT: "§Y[Nat_Fascism_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_nat_autocracy_coalition_TT: "§Y[Nat_Autocracy_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_monarchist_coalition_TT: "§Y[Monarchist_L]§! je v koalici." # todo: NEW TRANSLATION
+ has_socialist_government_TT: "Vládnoucí socialistická strana" # todo: NEW TRANSLATION
+ has_communist_government_TT: "Vládnoucí komunistická strana" # todo: NEW TRANSLATION
+ has_environmentalist_government_TT: "Vládnoucí environmentální strana" # todo: NEW TRANSLATION
+ has_liberal_government_TT: "Vládnoucí liberální strana" # todo: NEW TRANSLATION
+ has_conservative_government_TT: "Vládnoucí konzervativní strana" # todo: NEW TRANSLATION
+ has_reactionary_government_TT: "Vládnoucí reakční strana" # todo: NEW TRANSLATION
+ has_autocratic_government_TT: "Vládnoucí autokratická strana" # todo: NEW TRANSLATION
+ has_totalitarian_government_TT: "Vládnoucí totalitní strana" # todo: NEW TRANSLATION
+ has_socialist_in_coalition_TT: "Socialisté v koalici" # todo: NEW TRANSLATION
+ has_communist_in_coalition_TT: "Komunisté v koalici" # todo: NEW TRANSLATION
+ has_environmentalist_in_coalition_TT: "Environmentalisti v koalici" # todo: NEW TRANSLATION
+ has_liberal_in_coalition_TT: "Liberálové v koalici" # todo: NEW TRANSLATION
+ has_conservative_in_coalition_TT: "Konzervativci v koalici" # todo: NEW TRANSLATION
+ has_reactionary_in_coalition_TT: "Reakcionáři v koalici" # todo: NEW TRANSLATION
+ has_autocratic_in_coalition_TT: "Autokraté v koalici" # todo: NEW TRANSLATION
+ has_totalitarian_in_coalition_TT: "Totalitáři v koalici" # todo: NEW TRANSLATION
+ has_socialist_government_or_in_coalition_TT: "Socialistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_communist_government_or_in_coalition_TT: "Komunistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_environmentalist_government_or_in_coalition_TT: "Environmentalistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_liberal_government_or_in_coalition_TT: "Liberální koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_conservative_government_or_in_coalition_TT: "Má konzervativní vládnoucí stranu" # todo: NEW TRANSLATION
+ has_reactionary_government_or_in_coalition_TT: "Má reakční vládnoucí stranu" # todo: NEW TRANSLATION
+ has_autocratic_government_or_in_coalition_TT: "Autokratická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_totalitarian_government_or_in_coalition_TT: "Totalitáři v koalici" # todo: NEW TRANSLATION
+ not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_conservatism_government_TT: "§Y[conservatism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_liberalism_government_TT: "§Y[liberalism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_socialism_government_TT: "§Y[socialism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_communist_state_government_TT: "§Y[Communist-State_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_conservative_government_TT: "§Y[Conservative_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_autocracy_government_TT: "§Y[Autocracy_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_kingdom_government_TT: "§Y[Kingdom_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_caliphate_government_TT: "§Y[Caliphate_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! není u moci." # todo: NEW TRANSLATION
+ not_has_monarchist_government_TT: "§Y[Monarchist_L]§! není u moci." # todo: NEW TRANSLATION
+ western_autocrats_are_in_power_or_coalition_TT: "§Y[Western_Autocracy_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_conservatism_are_in_power_or_coalition_TT: "§Y[conservatism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_liberal_are_in_power_or_coalition_TT: "§Y[liberalism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_socialism_are_in_power_or_coalition_TT: "§Y[socialism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_communist_state_in_power_or_coalition_TT: "§Y[Communist-State_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_anarchist_communism_in_power_or_coalition_TT: "§Y[anarchist_communism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_conservative_in_power_or_coalition_TT: "§Y[Conservative_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_autocracy_in_power_or_coalition_TT: "§Y[Autocracy_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_mod_vilyat_e_faqih_in_power_or_coalition_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_vilayat_e_faqih_in_power_or_coalition_TT: "§Y[Vilayat_e_Faqih_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ salafist_kingdom_in_power_or_coalition_TT: "§Y[Kingdom_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ salafist_caliphate_in_power_or_coalition_TT: "§Y[Caliphate_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_muslim_brotherhood_in_power_or_coalition_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_autocracy_in_power_or_coalition_TT: "§Y[Neutral_Autocracy_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_conservatism_in_power_or_coalition_TT: "§Y[Neutral_conservatism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_oligarchism_in_power_or_coalition_TT: "§Y[oligarchism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_libertarian_in_power_or_coalition_TT: "§Y[Neutral_Libertarian_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_green_in_power_or_coalition_TT: "§Y[Neutral_green_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_social_in_power_or_coalition_TT: "§Y[neutral_Social_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_communism_in_power_or_coalition_TT: "§Y[Neutral_Communism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_right_wing_populists_are_in_power_or_coalition_tt: "§Y[Nat_Populism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_fascists_are_in_power_or_coalition_tt: "§Y[Nat_Fascism_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_military_junta_are_in_power_or_coalition_tt: "§Y[Nat_Autocracy_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_monarchists_are_in_power_or_coalition_tt: "§Y[Monarchist_L]§! je ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_autocrats_are_not_in_power_or_coalition_TT: "§Y[Western_Autocracy_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_conservative_are_not_in_power_or_coalition_TT: "§Y[conservatism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_liberal_are_not_in_power_or_coalition_TT: "§Y[liberalism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ western_socialism_are_not_in_power_or_coalition_TT: "§Y[socialism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_communist_state_not_in_power_or_coalition_TT: "§Y[Communist-State_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_anarchist_communism_not_in_power_or_coalition_TT: "§Y[anarchist_communism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_conservative_not_in_power_or_coalition_TT: "§Y[Conservative_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_autocracy_not_in_power_or_coalition_TT: "§Y[Autocracy_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_mod_vilyat_e_faqih_not_in_power_or_coalition_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ emerging_vilayat_e_faqih_not_in_power_or_coalition_TT: "§Y[Vilayat_e_Faqih_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ salafist_kingdom_not_in_power_or_coalition_TT: "§Y[Kingdom_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ salafist_caliphate_not_in_power_or_coalition_TT: "§Y[Caliphate_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_muslim_brotherhood_not_in_power_or_coalition_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_autocracy_not_in_power_or_coalition_TT: "§Y[Neutral_Autocracy_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutral_conservative_are_not_in_power_or_coalition_TT: "§Y[Neutral_conservatism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_oligarchism_not_in_power_or_coalition_TT: "§Y[oligarchism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_libertarian_not_in_power_or_coalition_TT: "§Y[Neutral_Libertarian_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_green_not_in_power_or_coalition_TT: "§Y[Neutral_green_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_social_not_in_power_or_coalition_TT: "§Y[neutral_Social_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ neutrality_neutral_communism_not_in_power_or_coalition_TT: "§Y[Neutral_Communism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_right_wing_populists_are_not_in_power_or_coalition_TT: "§Y[Nat_Populism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_fascists_are_not_in_power_or_coalition_tt: "§Y[Nat_Fascism_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_military_junta_are_not_in_power_or_coalition_tt: "§Y[Nat_Autocracy_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ nationalist_monarchists_are_not_in_power_or_coalition_tt: "§Y[Monarchist_L]§! není ve vládnoucí koalici." # todo: NEW TRANSLATION
+ has_socialist_government: "Aktuální vládnoucí strana je §YSocialistická§!." # todo: NEW TRANSLATION
+ has_communist_government: "Aktuální vládnoucí strana je §YKomunistická§!." # todo: NEW TRANSLATION
+ has_environmentalist_government: "Aktuální vládnoucí strana je §YEnvironmentalistická§!." # todo: NEW TRANSLATION
+ has_liberal_government: "Aktuální vládnoucí strana je §YLiberální§!." # todo: NEW TRANSLATION
+ has_conservative_government: "Aktuální vládnoucí strana je §YKonzervativní§!." # todo: NEW TRANSLATION
+ has_reactionary_government: "Aktuální vládnoucí strana je §YReakční§!." # todo: NEW TRANSLATION
+ has_autocratic_government: "Aktuální vládnoucí strana je §YAutokratická§!." # todo: NEW TRANSLATION
+ has_totalitarian_government: "Aktuální vládnoucí strana je §YTotalitní§!." # todo: NEW TRANSLATION
+ has_socialist_in_coalition: "Socialisté v koalici" # todo: NEW TRANSLATION
+ has_communist_in_coalition: "Komunisté v koalici" # todo: NEW TRANSLATION
+ has_environmentalist_in_coalition: "Environmentalisti v koalici" # todo: NEW TRANSLATION
+ has_liberal_in_coalition: "Liberálové v koalici" # todo: NEW TRANSLATION
+ has_conservative_in_coalition: "Konzervativci v koalici" # todo: NEW TRANSLATION
+ has_reactionary_in_coalition: "Reakcionáři v koalici" # todo: NEW TRANSLATION
+ has_autocratic_in_coalition: "Autokraté v koalici" # todo: NEW TRANSLATION
+ has_totalitarian_in_coalition: "Totalitáři v koalici" # todo: NEW TRANSLATION
+ has_socialist_government_or_in_coalition: "Socialistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_communist_government_or_in_coalition: "Komunistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_environmentalist_government_or_in_coalition: "Environmentalistická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_liberal_government_or_in_coalition: "Liberální koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_conservative_government_or_in_coalition: "Má konzervativní vládnoucí stranu" # todo: NEW TRANSLATION
+ has_reactionary_government_or_in_coalition: "Má reakční vládnoucí stranu" # todo: NEW TRANSLATION
+ has_autocratic_government_or_in_coalition: "Autokratická koalice nebo vládnoucí strana" # todo: NEW TRANSLATION
+ has_totalitarian_government_or_in_coalition: "Totalitáři v koalici" # todo: NEW TRANSLATION
+ opt_party12_tag_click_enabled: "[ROOT.GetName] smí podpořit §Y[Caliphate_L]§!\n" # todo: NEW TRANSLATION
+ opt_party13_tag_click_enabled: "[ROOT.GetName] smí podpořit §Y[Neutral_Muslim_Brotherhood_L]§!\n" # todo: NEW TRANSLATION
+ has_western_aligned_government_TT: "Má západně orientovanou vládu" # todo: NEW TRANSLATION
+ has_emerging_aligned_government_TT: "Má vládu spojenou s rozvíjejícími se mocnostmi" # todo: NEW TRANSLATION
+ has_neutral_aligned_government_TT: "Má neutrální vládu" # todo: NEW TRANSLATION
+ has_nationalist_aligned_government_TT: "Má nacionalistickou vládu" # todo: NEW TRANSLATION
+ has_salafist_aligned_government_TT: "Má salafistickou vládu" # todo: NEW TRANSLATION
+ has_economically_liberal_government: "Musí být pravda alespoň jedno z následujícího:\n\t§Y[conservatism_L]§! je u moci.\n\t§Y[liberalism_L]§! je u moci.\n\t§Y[Neutral_conservatism_L]§! je u moci.\n\t§Y[Neutral_Libertarian_L]§! je u moci.\n" # todo: NEW TRANSLATION
+ has_economically_liberal_in_coalition: "Musí být pravda alespoň jedno z následujícího:\n\t§Y[conservatism_L]§! je ve vládnoucí koalici.\n\t§Y[liberalism_L]§! je ve vládnoucí koalici.\n\t§Y[Neutral_conservatism_L]§! je ve vládnoucí koalici.\n\t§Y[Neutral_Libertarian_L]§! je ve vládnoucí koalici.\n" # todo: NEW TRANSLATION
+ has_economically_liberal_government_or_in_coalition: "$has_economically_liberal_in_coalition$" # todo: NEW TRANSLATION
+ western_autocrats_have_more_than_25_tt: "§Y[Western_Autocracy_L]§! mají více než §Y25%§! popularity (Aktuálně: [?party_pop_array^0|2%Y])\n" # todo: NEW TRANSLATION
+ nationalist_monarchists_have_more_than_25_tt: "§Y[Monarchist_L]§! mají více než §Y25%§! popularity (Aktuálně: [?party_pop_array^23|2%Y])\n" # todo: NEW TRANSLATION
+ econvent.from_booming_tt: "§RSníží§! náš ekonomický růst z úrovně §HBooming§!\n" # todo: NEW TRANSLATION
+ econvent.from_fast_growth_tt: "§RSníží§! náš ekonomický růst z úrovně §HRychlý růst§!\n" # todo: NEW TRANSLATION
+ econvent.from_stable_growth_tt: "§RSníží§! náš ekonomický růst z úrovně §HStabilní růst§!\n" # todo: NEW TRANSLATION
+ econvent.from_stagnation_tt: "§RSníží§! náš ekonomický růst z úrovně §HStagnace§!\n" # todo: NEW TRANSLATION
+ econvent.from_recession_tt: "§RSníží§! náš ekonomický růst z úrovně §HRecese§!\n" # todo: NEW TRANSLATION
+ econvent.from_recession2_tt: "§RSníží§! náš ekonomický růst z úrovně §HRecese§! na:\n" # todo: NEW TRANSLATION
+ econvent.list.fast_growth_tt: "§HRychlý růst§!" # todo: NEW TRANSLATION
+ econvent.list.stable_growth_tt: "§HStabilní růst§!" # todo: NEW TRANSLATION
+ econvent.list.stagnation_tt: "§HStagnace§!" # todo: NEW TRANSLATION
+ econvent.list.recession_tt: "§HRecese§!" # todo: NEW TRANSLATION
+ econvent.list.depression_tt: "§HDeprese§!" # todo: NEW TRANSLATION
+ econvent.list.no_effect_tt: "§HŽádná změna§!" # todo: NEW TRANSLATION
+ econvent.voodoo_economics_tt: "Snížením úrokových sazeb, tlačením bank k větším rizikům a rozšiřováním peněžní zásoby usnadňujeme získávání úvěrů, takže propad bude omezen. Kritici tomu říkají §H'Voodoo Economics'§!, protože to ztlumí ránu padajícímu trhu, ale nevyřeší základní problémy\n" # todo: NEW TRANSLATION
+ econvent.2.b_tt: "Když nic neuděláme, krach bude mnohem horší. Nicméně cesta k zotavení může být rychlejší – protože základní příčinou krachu bylo příliš mnoho peněz tekoucích do realitního trhu\n" # todo: NEW TRANSLATION
+ TT_NO_BUILDING_SLOTS: "Ve všech našich státech je 0 volných §Ystavebních slotů§!" # todo: NEW TRANSLATION
+ TT_MAX_1_BUILDING_SLOTS: "Ve všech našich státech je nejvýše 1 volný §Ystavební slot§!" # todo: NEW TRANSLATION
+ cyber_gdp_requirement_0_tt: "Má §Y4.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_gdp_requirement_1_tt: "Má §Y7.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_gdp_requirement_2_tt: "Má §Y15.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_gdp_requirement_3_tt: "Má §Y20.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_gdp_requirement_4_tt: "Má §Y30.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ gdp_requirement_10_tt: "Má §Y10.000$ HDP/na obyvatele§! nebo vyšší" # todo: NEW TRANSLATION
+ must_have_at_least_stable_growth_tt: "Musí mít alespoň §HStabilní růst§!\n" # todo: NEW TRANSLATION
+ disables_personal_tax_rate_change: "§RZakazuje§! změny §YSazby daně z populace§!\n" # todo: NEW TRANSLATION
+ enables_personal_tax_rate_change: "§GPovoluje§! změny §YSazby daně z populace§!\n" # todo: NEW TRANSLATION
+ disables_corporate_tax_rate_change: "§RZakazuje§! změny §YSazby korporátní daně§!\n" # todo: NEW TRANSLATION
+ enables_corporate_tax_rate_change: "§GPovoluje§! změny §YSazby korporátní daně§!\n" # todo: NEW TRANSLATION
+ per_tax_rate_at_least_3_tt: "Má §YSazbu daně z populace§! alespoň vyšší než §Y3%§!\n" # todo: NEW TRANSLATION
+ per_tax_rate_less_than_or_equals_50: "Má §YSazbu daně z populace§! menší nebo rovnou §Y50%§!\n" # todo: NEW TRANSLATION
+ has_tax_rate_5_at_least_45_less_tt: "Má §YSazbu daně§! alespoň §Y5%§!\nMá §YSazbu daně§! méně než §Y45%§!" # todo: NEW TRANSLATION
+ ETH_zera_yacob_returns_TT: "Zera Yacob se vrací do Etiopie!\n" # todo: NEW TRANSLATION
+ ETH_imperial_guard_TT: "§GKebur Zabagna byla císařova oficiální garda. Její obnovením zajistíme novému císaři bezpečnost i prestiž.§!" # todo: NEW TRANSLATION
+ 11_FortifyBangladesh_tt: "Přidejte úroveň 3 §YPevností§! podél bangladéšské hranice" # todo: NEW TRANSLATION
+ 11_FortifyThai_tt: "Přidejte úroveň 3 §YPevností§! podél thajské hranice" # todo: NEW TRANSLATION
+ 11_FortifyIndia_tt: "Přidejte úroveň 3 §YPevností§! podél indické hranice" # todo: NEW TRANSLATION
+ 11_FortifyChina_tt: "Přidejte úroveň 3 §YPevností§! podél čínské hranice" # todo: NEW TRANSLATION
+ 11_special_ops_tt: "Získejte jednu jednotku §YVelitelství speciálních operací§!" # todo: NEW TRANSLATION
+ 11_BRM_influence_0_tt: "§Y[BRM.GetNameWithFlag]§! má §Y0%§! vlivu v §Y[ROOT.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ 11_BRM_ambitious_demands_tt: "Budeme požadovat §Y10§! nezávislosti od barmského vlivu" # todo: NEW TRANSLATION
+ 11_BRM_moderate_demands_tt: "Budeme požadovat §Y5§! nezávislosti od barmského vlivu" # todo: NEW TRANSLATION
+ 11_BRM_NCA_tt: "Všechny strany konfliktu v [Root.GetNameDef] podepsaly §YDohodu o celostátním příměří§!" # todo: NEW TRANSLATION
+ 11_ASEAN_defence_tt: "§ROstatní členské státy nebudou podepisovat, pokud budou jejich vztahy s Čínou příliš silné§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_recruitment_6_tt: "§YÚroveň náboru dětských vojáků§! je §Y5§! nebo nižší" # todo: NEW TRANSLATION
+ 11_child_soldiers_recruitment_greater_tt: "§YÚroveň náboru dětských vojáků§! je vyšší než §Y0§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_recruitment_decrease_tt: "§YÚroveň náboru dětských vojáků§! se sníží o §Y1§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_recruitment_decrease_5_tt: "§YÚroveň náboru dětských vojáků§! se sníží o §Y5§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_greater_2000_tt: "§YPočet dětských vojáků§! přesahuje §Y2000§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_greater_10000_tt: "§YPočet dětských vojáků§! přesahuje §Y10000§!" # todo: NEW TRANSLATION
+ 11_has_child_soldiers_tt: "§YPočet dětských vojáků§! v našich ozbrojených silách je větší než §Y0§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_100_tt: "Snižuje náš aktuální §YPočet dětských vojáků§! o §G100§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_1000_tt: "Snižuje náš aktuální §YPočet dětských vojáků§! o §G1000§!" # todo: NEW TRANSLATION
+ 11_child_soldiers_5000_tt: "Snižuje náš aktuální §YPočet dětských vojáků§! o §G5000§!" # todo: NEW TRANSLATION
+ 11_sufficient_bureaucracy_tt: "Má alespoň §Yvelkou státní správu§! nebo vyšší" # todo: NEW TRANSLATION
+ 11_0_child_soldiers_tt: "§YPočet dětských vojáků§! je §Y0§!" # todo: NEW TRANSLATION
+ 11_0_child_soldiers_recruitment_tt: "§YÚroveň náboru dětských vojáků§! je §Y0§! nebo negativní" # todo: NEW TRANSLATION
+ cyber_police_requirement_tt: "Má §Yvysoké financování policie a zpravodajství§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_police_requirement_1_tt: "Má §Yzákladní financování policie a zpravodajství§! nebo vyšší" # todo: NEW TRANSLATION
+ cyber_superior_tank_technology_tt: "[FROM.GetnameDef] vyvinul lepší technologii §YMBT§!" # todo: NEW TRANSLATION
+ cyber_superior_mr_fighter_technology_tt: "[FROM.GetnameDef] vyvinul pokročilou technologii §Ystealth stíhačky§!" # todo: NEW TRANSLATION
+ cyber_democrats_tt: "Demokraté ztratí §Y2%§! své podpory ve prospěch Republikánů" # todo: NEW TRANSLATION
+ cyber_republicans_tt: "Republikáni ztratí §Y2%§! své podpory ve prospěch Demokratů" # todo: NEW TRANSLATION
+ launched_attack: "Kybernetický útok není zahajován" # todo: NEW TRANSLATION
+ superior_cyber_tt: "Naše výpočetní technologie nezaostává za technologií §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
+ CHI_technology_inferior_tt: "Bude možné zahájit kybernetické útoky na technologicky vyspělejší země" # todo: NEW TRANSLATION
+ cost_cyber_infrastructure: "Investujete do infrastruktury kybernetické bezpečnosti §Y$[?cybercostinv]§!" # todo: NEW TRANSLATION
+ two_thirds_tt: "Získal podporu dvou třetin všech členských států OSN\nSoučasný počet států: §Y[?ROOT.Granted_Recognition]§!\nPožadovaný počet států: §Y120§!" # todo: NEW TRANSLATION
+ security_council_support_tt: "Získal podporu všech 5 stálých členů Rady bezpečnosti OSN" # todo: NEW TRANSLATION
+ USA_recognition_BRM_tt: "§Y[USA.GetNamewithFlag]§! má o nás lepší názor než o §Y[BRM.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ ENG_recognition_BRM_tt: "§Y[ENG.GetNamewithFlag]§! má o nás lepší názor než o §Y[BRM.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ FRA_recognition_BRM_tt: "§Y[FRA.GetNamewithFlag]§! má o nás lepší názor než o §Y[BRM.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ SOV_recognition_BRM_tt: "§Y[SOV.GetNamewithFlag]§! má o nás lepší názor než o §Y[BRM.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ CHI_recognition_BRM_tt: "§Y[CHI.GetNamewithFlag]§! má o nás lepší názor než o §Y[BRM.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ USA_recognition_CHI_tt: "§Y[USA.GetNamewithFlag]§! má o nás lepší názor než o §Y[CHI.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ ENG_recognition_CHI_tt: "§Y[ENG.GetNamewithFlag]§! má o nás lepší názor než o §Y[CHI.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ FRA_recognition_CHI_tt: "§Y[FRA.GetNamewithFlag]§! má o nás lepší názor než o §Y[CHI.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ SOV_recognition_CHI_tt: "§Y[SOV.GetNamewithFlag]§! má o nás lepší názor než o §Y[CHI.GetNamewithFlag]§!" # todo: NEW TRANSLATION
+ CHI_influence_below_tt: "§Y[CHI.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ SOV_influence_below_tt: "§Y[SOV.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ USA_influence_below_tt: "§Y[USA.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ ENG_influence_below_tt: "§Y[ENG.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ FRA_influence_below_tt: "§Y[FRA.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ GER_influence_below_tt: "§Y[GER.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ RAJ_influence_below_tt: "§Y[RAJ.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ JAP_influence_below_tt: "§Y[JAP.GetNameWithFlag]§! není naším hlavním vlivem" # todo: NEW TRANSLATION
+ recognition_FSA: "Syrská národní koalice" # todo: NEW TRANSLATION
+ recognition_GNA: "Národní přechodní rada" # todo: NEW TRANSLATION
+ recognition_SYR: "Asadova vláda" # todo: NEW TRANSLATION
+ recognition_TAL: "vláda Tálibánu" # todo: NEW TRANSLATION
+ recognition_AFG: "Severní aliance" # todo: NEW TRANSLATION
+ recognition_generic: "Vláda [FROM.GetLeader]" # todo: NEW TRANSLATION
+ CHI_bribe_decisions_tt: "Odemkne rozhodnutí §YPodplatit taiwanské důstojníky§!\n" # todo: NEW TRANSLATION
+ CHI_increase_coup_support_tt: "Podpora převratu na Tchaj-wanu se zvyšuje\n" # todo: NEW TRANSLATION
+ TAI_decrease_coup_support_tt: "Podpora vlády se zvyšuje\n" # todo: NEW TRANSLATION
+ TAI_relative_support_tt: "Podpora vlády převyšuje podporu pučistů\n" # todo: NEW TRANSLATION
+ CHI_dropped_opposition_to_independence_tt: "Už nezíská válečný důvod proti §Y[TAI.Getnamewithflag]§!, pokud vyhlásí nezávislost\n" # todo: NEW TRANSLATION
+ CHI_recognize_TAI_tt: "§Y[CHI.Getnamewithflag]§! uznává nezávislost §Y[TAI.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ CHI_recognized_TAI_tt: "§Y[CHI.Getnamewithflag]§! uznal nezávislost §Y[TAI.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ TAI_CSSTA_540_tt: "Smlouva o obchodu služeb přes průliv bude ratifikována za 540 dní\n" # todo: NEW TRANSLATION
+ TAI_CSSTA_30_tt: "Smlouva o obchodu služeb přes průliv bude ratifikována za 30 dní\n" # todo: NEW TRANSLATION
+ TAI_loses_cores_tt: "§Y[TAI.Getnamewithflag]§! ztrácí domovská území na čínském území" # todo: NEW TRANSLATION
+ TAI_loses_all_cores_tt: "§Y[TAI.Getnamewithflag]§! ztrácí všechna stávající domovská území" # todo: NEW TRANSLATION
+ CHI_loses_cores_tt: "§Y[CHI.Getnamewithflag]§! ztrácí domovská území na tchajwanském území" # todo: NEW TRANSLATION
+ TAI_DPP_ruling_tt: "Současná vládnoucí strana je členem §GPan-Green koalice§!" # todo: NEW TRANSLATION
+ TAI_DPP_not_ruling_tt: "Současná vládnoucí strana je členem §CPan-Blue koalice§!" # todo: NEW TRANSLATION
+ TAI_DPP_75_tt: "§YCelková podpora§! pro §GPan-Green koalici§! je více než §Y75%§!" # todo: NEW TRANSLATION
+ TAI_DPP_25_tt: "§YCelková podpora§! pro §GPan-Green koalici§! je méně než §Y25%§!" # todo: NEW TRANSLATION
+ accepted_roadmap: "§Y[TAI.Getnamewithflag]§! §Gpřijala§! \"Plán k znovusjednocení\"" # todo: NEW TRANSLATION
+ rejected_roadmap: "§Y[TAI.Getnamewithflag]§! §Rodmítla§! \"Plán k znovusjednocení\"" # todo: NEW TRANSLATION
+ TAI_declared_independence_tt: "§Y[TAI.Getnamewithflag]§! vyhlásil nezávislost" # todo: NEW TRANSLATION
+ TAI_not_declared_independence_tt: "§Y[TAI.Getnamewithflag]§! nevyhlásil nezávislost" # todo: NEW TRANSLATION
+ TAI_reunification_more_likely_tt: "§Y[TAI.Getnamewithflag]§! je více nakloněný §Gpřijmout§! \"Plán k znovusjednocení\"\n" # todo: NEW TRANSLATION
+ TAI_reunification_less_likely_tt: "§Y[TAI.Getnamewithflag]§! je více nakloněný §Rodmítnout§! \"Plán k znovusjednocení\"\n" # todo: NEW TRANSLATION
+ TAI_influence_CHI_tt: "§Y[CHI.GetNameWithFlag]§! získá §Y20§! vlivu v §Y[TAI.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ anti_infiltration_bill_tt: "Snižuje schopnost Číny provádět propagační kampaně na našem území\n" # todo: NEW TRANSLATION
+ reunification: "§Y[CHI.GetNameWithFlag]§! neprohlásila, že §Y[HKG.GetNameWithFlag]§! se vrátí pod její kontrolu v roce 2047\n" # todo: NEW TRANSLATION
+ troops_deployed: "Čínské jednotky jsou rozmístěny\n" # todo: NEW TRANSLATION
+ CHI_shift_away_shanghai_clique_tt: "Moc §YShanghai Clique§! se sníží\n" # todo: NEW TRANSLATION
+ CHI_shift_away_youth_league_tt: "Moc §YCommunist Youth League§! se sníží\n" # todo: NEW TRANSLATION
+ CHI_open_nation_level_up_tt: "Efekty národního ducha §Yreformní vlády§! se zvýší\n" # todo: NEW TRANSLATION
+ CHI_censored_nation_level_up_tt: "Efekty národního ducha §Yrepresivní vlády§! se zvýší\n" # todo: NEW TRANSLATION
+ CHI_industrial_espionage_tt: "Odemkne rozhodnutí §YPrůmyslové špionáže§! v rámci §YKybernetické války§!.\n" # todo: NEW TRANSLATION
+ CHI_global_propaganda_tt: "Odemkne rozhodnutí §YGlobální propagandy§! v rámci §YKybernetické války§!.\n" # todo: NEW TRANSLATION
+ CHI_TIB_RAJ_tt: "Už nebude možné se zapojit do pohraničního konfliktu s §B[RAJ.GetNameDef]§! o §YArunachal.§!\n" # todo: NEW TRANSLATION
+ CHI_ETK_RAJ_tt: "Už nebude možné se zapojit do pohraničního konfliktu s §B[RAJ.GetNameDef]§! o §YAksai Chin.§!\n" # todo: NEW TRANSLATION
+ CHI_uighur_threat_less_50_tt: "§YHrozba Ujgurů§! je nižší než §Y50%§!\n" # todo: NEW TRANSLATION
+ CHI_modify_uighur_opinion_tt: "§YNázor Ujgurů§! se změní o [?modify_uighur_opinion|+0] (Aktuální: [?CHI.uighur_opinion|Y0])\n" # todo: NEW TRANSLATION
+ CHI_modify_uighur_threat_tt: "§YHrozba Ujgurů§! se změní o [?modify_uighur_threat|-0] (Aktuální: [?CHI.uighur_threat|Y0])\n" # todo: NEW TRANSLATION
+ CHI_modify_chinese_aggression_tt: "§YČínská agresivita§! se změní o [?modify_chinese_aggression|-0] (Aktuální: [?CHI.chinese_aggression|Y0])\n" # todo: NEW TRANSLATION
+ CHI_chinese_aggression_greater_than_10_tt: "§YČínská agresivita§! je vyšší než §R10§! (Aktuální: [?CHI.chinese_aggression|Y0])\n" # todo: NEW TRANSLATION
+ CHI_JAP_warcrimes_tt: "§Y[JAP.Getnamewithflag]§! se neomluvil za válečné zločiny" # todo: NEW TRANSLATION
+ CHI_JAP_influence_below_5_tt: "§Y[JAP.GetNameWithFlag]§! má méně než §G5%§! vlivu v §Y[TAI.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ CHI_USA_ventures_tt: "Snižuje budoucí náklady na spolupráci s §YAmerickými§! společnostmi\n" # todo: NEW TRANSLATION
+ CHI_GER_ventures_tt: "Snižuje budoucí náklady na spolupráci s §YNěmeckými§! společnostmi\n" # todo: NEW TRANSLATION
+ CHI_JAP_ventures_tt: "Snižuje budoucí náklady na spolupráci s §YJaponskými§! společnostmi\n" # todo: NEW TRANSLATION
+ CHI_KOR_ventures_tt: "Snižuje budoucí náklady na spolupráci s §YKorejskými§! společnostmi\n" # todo: NEW TRANSLATION
+ CHI_KAZ_railway_tt: "Úroveň infrastruktury na trase přes stát §Y[719.GetName]§! v §Y[KAZ.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_UZB_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[725.GetName]§! a §Y[726.GetName]§! v §Y[UZB.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_KYR_railway_tt: "Úroveň infrastruktury na trase přes stát §Y[720.GetName]§! v §Y[KYR.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_TRK_railway_tt: "Úroveň infrastruktury na trase přes stát §Y[728.GetName]§! v §Y[TRK.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_TAJ_railway_tt: "Úroveň infrastruktury na trase přes stát §Y[723.GetName]§! v §Y[TAJ.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_PER_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[402.GetName]§!, §Y[405.GetName]§! a §Y[407.GetName]§! v §Y[PER.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_TUR_railway_tt: "Úroveň infrastruktury na trase přes §Y[935.GetName]§! a §Y[159.GetName]§! v §Y[TUR.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_DJI_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[233.GetName]§!, §Y[234.GetName]§!, §Y[236.GetName]§! a §Y[230.GetName]§! v §Y[ETH.GetNamewithFlag]§! a §Y[DJI.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_KEN_railway_tt: "Úroveň infrastruktury na trase přes §Y[242.GetName]§! a §Y[241.GetName]§! v §Y[KEN.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_NIG_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[334.GetName]§!, §Y[337.GetName]§! a §Y[339.GetName]§! v §Y[NIG.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_PAK_railway_tt: "Úroveň infrastruktury v každém státě v §Y[PAK.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_BRM_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[930.GetName]§!, §Y[505.GetName]§!, §Y[504.GetName]§! a §Y[503.GetName]§! v §Y[BRM.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_LAO_railway_tt: "Úroveň infrastruktury na trase přes §Y[515.GetName]§! a §Y[516.GetName]§! v §Y[LAO.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_SIA_railway_tt: "Úroveň infrastruktury na trase přes státy §Y[506.GetName]§!, §Y[508.GetName]§!, §Y[509.GetName]§! a §Y[510.GetName]§! v §Y[SIA.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_MAY_railway_tt: "Úroveň infrastruktury na trase přes §Y[528.GetName]§! a §Y[527.GetName]§! v §Y[MAY.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ CHI_VIE_railway_tt: "Úroveň infrastruktury na trase přes §Y[524.GetName]§!, §Y[522.GetName]§!, §Y[521.GetName]§! a §Y[519.GetName]§! v §Y[VIE.GetNamewithFlag]§!, a §Y[514.GetName]§! a §Y[513.GetName]§! v §Y[CBD.GetNamewithFlag]§! byla zvýšena na úroveň §Y3§! díky čínským investicím" # todo: NEW TRANSLATION
+ signed_BRI: "Podepsal Iniciativu Pásu a Stezky" # todo: NEW TRANSLATION
+ AFG_NOR_tt: "Svrhl vládu Tálibánu" # todo: NEW TRANSLATION
+ CHI_Partnership_tt: "Změní §Ypartnerství§! pomocí §Yužitkového vozidla§!: £production_cost výrobní náklady §G-10.00%§!" # todo: NEW TRANSLATION
+ CHI_reduce_space_tt: "Snižuje náklady zaměření souvisejících s vesmírem\n" # todo: NEW TRANSLATION
+ south_china_sea_shared_vietnam_tt: "Veškerá ropa, kterou od nynějška objevíme, bude sdílena s §Y[VIE.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ south_china_sea_shared_malaysia_tt: "Veškerá ropa, kterou od nynějška objevíme, bude sdílena s §Y[MAY.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ south_china_sea_shared_philippines_tt: "Veškerá ropa, kterou od nynějška objevíme, bude sdílena s §Y[PHI.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ spratlys_deal_VIE: "Založil společnou zónu rozvoje s §Y[VIE.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ spratlys_deal_MAY: "Založil společnou zónu rozvoje s §Y[MAY.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ spratlys_deal_PHI: "Založil společnou zónu rozvoje s §Y[PHI.Getnamewithflag]§!\n" # todo: NEW TRANSLATION
+ CHI_island_building_tt: "§YSeverní Spratly§! přidá §Y1 pozemní pevnost§! v každé provincii.\n" # todo: NEW TRANSLATION
+ CHI_VIE_disputes_tt: "Územní spory s §Y[VIE.GetNamewithFlag]§! byly vyřešeny" # todo: NEW TRANSLATION
+ CHI_disputes_tt: "Územní spory s §Y[MAY.GetNamewithFlag]§!, §Y[PHI.GetNamewithFlag]§! a §Y[VIE.GetNamewithFlag]§! byly vyřešeny" # todo: NEW TRANSLATION
+ CHI_liquidate_evil: "Příprava likvidace Japonska" # todo: NEW TRANSLATION
+ CHI_top_influencer_koreas_tt: "§Y[CHI.GetNameWithFlag]§! je hlavním influencerem v §Y[KOR.GetNameWithFlag]§! a §Y[NKO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ CHI_NKO_military_tt: "§YKorejská lidová armáda§! - Sníží názor [NKO.GetLeader] o 5\n" # todo: NEW TRANSLATION
+ JAP_USA_call_tt: "§Y[JAP.GetName]§! může požádat své spojence o ochranu\n" # todo: NEW TRANSLATION
+ CSTO_all_emerging_tt: "Každý člen CSTO je §Yrozvíjející se§!" # todo: NEW TRANSLATION
+ CSTO_all_democratic_tt: "Každý člen CSTO je §Yprozápadní§!" # todo: NEW TRANSLATION
+ SCO_all_emerging_tt: "Každý člen SCO je §Yrozvíjející se§!" # todo: NEW TRANSLATION
+ SCO_all_democratic_tt: "Každý člen SCO je §Yprozápadní§!" # todo: NEW TRANSLATION
+ CHI_influence_central_asia_tt: "§Y[CHI.GetName]§! má větší vliv ve Střední Asii než §Y[SOV.GetName]§!" # todo: NEW TRANSLATION
+ USA_influence_lower_than_CHI_tt: "§Y[CHI.GetName]§! má větší vliv než §Y[USA.GetName]§! v afrických a asijských zemích" # todo: NEW TRANSLATION
+ USA_influence_lower_tt: "§Y[USA.GetName]§! už není hlavním vlivem v žádné africké nebo asijské zemi" # todo: NEW TRANSLATION
+ CHI_ending_hegemony_tt: "§Y[CHI.GetName]§! bude muset převýšit, spíše než pouze podkopávat, americký vliv v Africe a Asii, aby dokončil §YUkončení americké hegemonie§!\n§YUkončení americké hegemonie§! dá §Y[USA.GetName]§! možnost vyhlásit preventivní válku proti §Y[CHI.GetName]§!" # todo: NEW TRANSLATION
+ CHI_USA_demands_tt: "§Y[USA.GetName]§! bude méně schopný odmítnout jakékoliv požadavky, které učiníme" # todo: NEW TRANSLATION
+ SOV_CHI_war_tt: "Bude mít možnost vyhlásit preventivní válku proti §Y[CHI.GetName]§!\n" # todo: NEW TRANSLATION
+ CHI_development_assistance_tt: "Rozhodnutí 'Poskytnout rozvojovou pomoc' jsou dvakrát účinnější\n" # todo: NEW TRANSLATION
+ SCO_drills_effective_tt: "Rozhodnutí 'Hostit společná cvičení SCO' dává dvakrát více §YZkušenosti armády§!\n" # todo: NEW TRANSLATION
+ SCO_peace_tt: "Všichni členové SCO jsou v míru" # todo: NEW TRANSLATION
+ SCO_drills_tt: "Nezahájil vojenská cvičení se žádnými jinými zeměmi" # todo: NEW TRANSLATION
+ SCO_any_drills_tt: "Žádní členové SCO v současnosti neprovádějí vojenská cvičení" # todo: NEW TRANSLATION
+ CHI_SOV_decisions_locked_tt: "Už nebude možné zvolit rozhodnutí 'Hostit společná cvičení SCO' ani mít hlas při přijetí nových členů\n" # todo: NEW TRANSLATION
+ SOV_left_SCO_tt: "Odešel ze SCO\nRusko opustí SCO, pokud bude §YČínská agresivita§! dostatečně vysoká\n" # todo: NEW TRANSLATION
+ CHI_dominant_SCO_tt: "Má alespoň §Y30%§! vlivu v každém členu SCO" # todo: NEW TRANSLATION
+ CHI_aggression_less_20_tt: "§YČínská agresivita§! je §Y20§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_aggression_less_10_tt: "§YČínská agresivita§! je §Y10§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_aggression_less_5_tt: "§YČínská agresivita§! je §Y5§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_aggression_less_0_tt: "§YČínská agresivita§! je §Y0§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_aggression_less_-10_tt: "§YČínská agresivita§! je §Y-10§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_aggression_less_-20_tt: "§YČínská agresivita§! je §Y-20§! nebo nižší" # todo: NEW TRANSLATION
+ CHI_turkey_ask_patience_tt: "[CHI.GetFlag]§H[CHI.GetName]§! bude řečeno, že Varyag počká §HDva roky§!." # todo: NEW TRANSLATION
+ CHI_turkey_negotiates_tt: "Pokud [CHI.GetFlag]§H[CHI.GetName]§! souhlasí zaplatit:\n   Politická síla: §G+50§!\n   Přidat §H50 milionů§! do naší pokladny.\n   Varyag bude pokračovat v plavbě po §HDvou týdnech§!" # todo: NEW TRANSLATION
+ CHI_turkey_reckless_tt: "Varyag projde dnes.\n§RHrozí, že trup se převrhne a úplně zablokuje průliv!§!" # todo: NEW TRANSLATION
+ CHI_china_bribes_tt: "Pokud [TUR.GetFlag]§H[TUR.GetName]§! přijme naši nabídku:\n   Politická síla: §R-75§!\n   Varyag bude pokračovat v plavbě za §HŠest měsíců§!" # todo: NEW TRANSLATION
+ CHI_turkey_pressured_tt: "Úspěch nátlaku na [TUR.GetFlag]§H[TUR.GetName]§! bude záviset na tom, jak vysoký je náš vliv." # todo: NEW TRANSLATION
+ CHI_varyag_two_weeks_tt: "Varyag projde za §HDva týdny§!" # todo: NEW TRANSLATION
+ CHI_varyag_waits_tt: "Varyag počká §HDva roky§!" # todo: NEW TRANSLATION
+ CHI_varyag_five_months_tt: "Varyag dorazí do našich vod přibližně za §HPět měsíců§!." # todo: NEW TRANSLATION
+ CHI_varyag_six_months_tt: "Varyag počká §HŠest měsíců§!" # todo: NEW TRANSLATION
+ CHI_varyag_six_months_continue_tt: "Plavba bude pokračovat za §HŠest měsíců§!" # todo: NEW TRANSLATION
+ CHI_varyag_two_years_tt: "Varyag počká §HDva roky§!" # todo: NEW TRANSLATION
+ CHI_accept_pressure_tt: "Ustoupíme [CHI.GetFlag]§H[CHI.GetName]§! a:\n- Varyag bude pokračovat v plavbě za §HDva týdny§!\n- Zvyšuje vliv [CHI.GetFlag]§H[CHI.GetAdjective]§! v [TUR.GetFlag]§H[TUR.GetName]§! přibližně o §G~2%§!" # todo: NEW TRANSLATION
+ CHI_resist_pressure_tt: "Odmítneme požadavky [CHI.GetFlag]§H[CHI.GetAdjective]§! a:\n- Varyag bude pokračovat v plavbě za §HTři roky§!" # todo: NEW TRANSLATION
+ CHI_varyag_construction_tt: "Rozmístí letadlovou loď třídy §YLiaoning§! v námořní základně §YDalian§!.\n" # todo: NEW TRANSLATION
+ CHI_north_demands_cores_TT: "§YČína§! získá domovská území na všech bývalých severních územích." # todo: NEW TRANSLATION
+ CHI_khalkha_cores_TT: "§YČína§! získá domovská území v regionu Vnějšího Mongolska." # todo: NEW TRANSLATION
+ CHI_bhutan_cores_TT: "§YČína§! získá domovská území na území Bhútánu." # todo: NEW TRANSLATION
+ CHI_jebtsundamba_TT: "Odemkne rozhodnutí §YHledat 9. Jebtsundamba Khutuktu§!\n" # todo: NEW TRANSLATION
+ CHI_southwest_hydroelectricity_dev_TT: "Odemkne rozhodnutí §YVývoj jihozápadních hydroelektrických projektů§!\n" # todo: NEW TRANSLATION
+ CHI_jinshajiang_dam_TT: "§YHydroelektrický projekt v Khamu nám poskytne další energii:§! §G7.5§!" # todo: NEW TRANSLATION
+ CHI_yalongjiang_dam_TT: "§YHydroelektrický projekt v S'-čchuanu nám poskytne další energii:§! §G12.5§!" # todo: NEW TRANSLATION
+ CHI_wujiang_dam_TT: "§YHydroelektrický projekt v Guizhou nám poskytne další energii:§! §G2.5§!" # todo: NEW TRANSLATION
+ CHI_jialingjiang_dam_TT: "§YHydroelektrický projekt v Chongqingu nám poskytne další energii:§! §G5§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_TT: "§YOdemkne rozhodnutí §YVýstavba vysokorychlostní železnice§!\n§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_northern_TT: "§YVšechny státy v severní Číně by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_central_TT: "§YVšechny státy ve střední Číně by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_eastern_TT: "§YVšechny státy ve východní Číně by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_southern_TT: "§YVšechny státy v jižní Číně by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_western_TT: "§YVšechny státy v západní Číně by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_tibet_TT: "§YVšechny státy v tibetském regionu by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_mongolia_TT: "§YVšechny státy v regionu Vnějšího Mongolska by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_build_high_speed_railway_taiwan_TT: "§YVšechny státy v oblasti Tchaj-wanu by získaly bonus vysokorychlostní železnice.§!" # todo: NEW TRANSLATION
+ CHI_moonbase_chain_start_tt: "§YTím se spustí řetězec událostí výstavby měsíční základny.§!" # todo: NEW TRANSLATION
+ CHI_mars_city_building_chain_start_tt: "§YTím se spustí řetězec událostí výstavby měst na Marsu.§!" # todo: NEW TRANSLATION
+ CHI_arunachal_border_conflict_TT: "§YTím se umožní pohraniční konflikt o §YArunachal§! s §B[RAJ.GetName]§!" # todo: NEW TRANSLATION
+ arunachal_tension_TT: "Napětí je vyšší než 80" # todo: NEW TRANSLATION
+ arunachal_readiness_TT: "Naše připravenost je vyšší než 60" # todo: NEW TRANSLATION
+ arunachal_increase_readiness_TT: "§GToto zvýší naši připravenost§!" # todo: NEW TRANSLATION
+ arunachal_increase_tension_TT: "§YToto zvýší pohraniční napětí§!" # todo: NEW TRANSLATION
+ not_attacking_on_arunachal_TT: "Aktuálně útočí nebo připravuje útok" # todo: NEW TRANSLATION
+ more_than_50_arunachal_progress_TT: "Postup konfliktu více než 50" # todo: NEW TRANSLATION
+ more_than_80_arunachal_progress_TT: "Postup konfliktu více než 80" # todo: NEW TRANSLATION
+ arunachal_readiness_minus_10_TT: "§RToto sníží naši připravenost o 10§!" # todo: NEW TRANSLATION
+ Arunachal_war_increase_progress_10_TT: "§GToto zvýší náš postup o 10§!" # todo: NEW TRANSLATION
+ Arunachal_war_increase_progress_5_TT: "§RToto zvýší náš postup o 5§!" # todo: NEW TRANSLATION
+ Arunachal_war_decrease_progress_10_TT: "§RToto sníží náš postup o 10§!" # todo: NEW TRANSLATION
+ Arunachal_war_decrease_progress_5_TT: "§RToto sníží náš postup o 5§!" # todo: NEW TRANSLATION
+ Arunachal_war_decrease_progress_3_TT: "§RToto sníží náš postup o 3§!" # todo: NEW TRANSLATION
+ FRA_euro_investments_TT: "Tyto země obdrží nabídku od francouzských společností. Nabízejí kontrolu nad částmi průmyslu výměnou za návratnost investic. §YKaždá země, která přijme, sníží pokladnu o§! §R-1.0§! miliardy.\n" # todo: NEW TRANSLATION
+ FRA_euro_investments_accept_TT: "§BPřijetím tohoto umožníte růst francouzského vlivu§!\n" # todo: NEW TRANSLATION
+ FRA_euro_investments_cost_TT: "§YPřijali. Proto ztratíme přibližně 20 miliard dolarů za tuto dohodu§!\n" # todo: NEW TRANSLATION
+ FRA_european_investments2_TT: "Východoevropské dálnice a dopravní systémy jsou poněkud slabé. §Výměnou zaplatíme za rozvoj dálnic. Každá země, která přijme, sníží pokladnu o:§! §R-5.0§!\n" # todo: NEW TRANSLATION
+ FRA_euro_investments_2_cost_TT: "§YPřijali. Proto jsme ztratili přibližně 5 miliard dolarů pro tuto dohodu§!\n" # todo: NEW TRANSLATION
+ FRA_expanison_tooltip_TT: "§YTato zaměření neukáží své skutečné efekty, dokud nedokončíte komunistický nebo nacionalistický strom.§!\n" # todo: NEW TRANSLATION
+ FRA_competitive_education_TT: "§YBez ohledu na úroveň vzdělání bude toto zaměření zvýšit váš rozpočet na vzdělání.§!\n" # todo: NEW TRANSLATION
+ FRA_french_candian_TT1: "§YSpokojenost frankokanadských obyvatel se zvýší díky pomoci Francie kanadské vládě.§!\n" # todo: NEW TRANSLATION
+ FRA_french_candian_TT2: "§YSpokojenost frankokanadských obyvatel se sníží kvůli podpoře Quebecérů Francií.§!\n" # todo: NEW TRANSLATION
+ customs_union_tt: "§VVytvoří celní unii.§!\n" # todo: NEW TRANSLATION
+ common_market_tt: "§VVytvoří společný trh.§!\n" # todo: NEW TRANSLATION
+ economic_union_tt: "§VVytvoří hospodářskou unii.§!\n" # todo: NEW TRANSLATION
+ unasur_must_control_tt: "Každá země v Unasur musí:\n - Mít kompatibilní názory §YNEBO§! \n - Být ve stejné alianci §YNEBO§! \n - Být loutkami Brazílie. \n" # todo: NEW TRANSLATION
+ mercosur_must_control_tt: "Každá země v Mercosur musí:\n - Mít kompatibilní názory §YNEBO§! \n - Být ve stejné alianci §YNEBO§! \n - Být loutkami Brazílie. \n" # todo: NEW TRANSLATION
+ form_unasur_tt: "§YZaložit Federaci Unasur!§!\n" # todo: NEW TRANSLATION
+ form_mercosur_tt: "§YZaložit Federaci Mercosur!§! n" # todo: NEW TRANSLATION
+ common_market: "Společný trh" # todo: NEW TRANSLATION
+ consumption_economy_TT: "Zdroje na trh: §Y0%§!\n" # todo: NEW TRANSLATION
+ reset_internal_faction_opinion: "Resetuje názory všech vnitřních frakcí.\n" # todo: NEW TRANSLATION
+ set_full_internal_faction_opinions: "Nastaví názory všech vnitřních frakcí na §Gmaximální§! hodnotu" # todo: NEW TRANSLATION
+ airstrike_prepare_tooltip: "§R60%§! šance, že se vyrobí §R3§! rakety\n§G40%§! šance, že se vyrobí §G5§! raket" # todo: NEW TRANSLATION
+ airstrike_thingy_tooltip: "§R20%§! šance na neúspěch\nPokud je úspěch:\n§R20%§! šance na snížení síly PKK o §R2§!\n§G80%§! šance na snížení síly PKK o §G5§!\n\n§TToto rozhodnutí nám může také přinést větší popularitu strany a míru schválení!§!" # todo: NEW TRANSLATION
+ got_missiles: "Zásoby raket ještě nedošly" # todo: NEW TRANSLATION
+ stockpile_not_full: "Stále můžeme uložit více raket" # todo: NEW TRANSLATION
+ investment_propaganda_1_tooltip: "§ZDává hodnocení schválení a popularitu strany. Snižuje sílu PKK o 10 a maximální sílu o 5, pokud jsou stále aktivní.§!" # todo: NEW TRANSLATION
+ investment_propaganda_2_tooltip: "§ZDává více hodnocení schválení a popularity strany. Snižuje sílu PKK o 10 a maximální sílu o 5, pokud jsou stále aktivní.§!" # todo: NEW TRANSLATION
+ operation_thingy: "§GOdemyká rozhodnutí o útoku po dokončení.§!" # todo: NEW TRANSLATION
+ anti_bully_tooltip_L_NU.1: "§RZtratili jste podporu pro válku§!" # todo: NEW TRANSLATION
+ debates_agree_tt: "\n§VUstupky mohou zvýšit počet stoupenců zákona§!\n" # todo: NEW TRANSLATION
+ debates_disagree_tt: "\n§ROdmítnutí ústupků sníží počet stoupenců zákona§!\n" # todo: NEW TRANSLATION
+ mercosur_focus_tt: "Člen Mercosuru" # todo: NEW TRANSLATION
+ battle_for_kirkuk_tt: "Existuje jedna ze čtyř šancí, že vyhrajeme bitvu!" # todo: NEW TRANSLATION
+ tooltip_annexation: "Tato volba vede k vaší anexi a ukončí hru! \n" # todo: NEW TRANSLATION
+ muslim_brotherhood_crackdown_tt: "Bude uvaleno §RTvrdé potlačení§! na §HMuslimské bratrstvo§!\n" # todo: NEW TRANSLATION
+ tooltip_change_flag: "([ROOT.GetFlag]§Y[ROOT.GetName]§!) Změní vlajku tak, aby odpovídala [Root.GetRulingParty]\n" # todo: NEW TRANSLATION
+ JAP_new_emperor_TT: "Uvádí §Y[Monarchist_L]§! u moci, obnovuje naše staré způsoby monarchie a dobré dny Hirohita." # todo: NEW TRANSLATION
+ TT_korea_united_under_democracy: "Korea je sjednocena pod demokratickou vládou" # todo: NEW TRANSLATION
+ TT_china_united_under_democracy: "Čína je sjednocena pod demokratickou vládou" # todo: NEW TRANSLATION
+ no_building_construction_TT: "§RPro deklarovaný stát nejsou k dispozici volná pole. Bude přidáno do náhodného státu s volnými poli místo toho.§!" # todo: NEW TRANSLATION
+ UKR_referendum_results_implementation_TT: "§BVýsledky lze uplatnit pouze po referendu§!\n" # todo: NEW TRANSLATION
+ 30_billion_debt_tt: "Má dluh vyšší než §Y$30 miliard§!\n" # todo: NEW TRANSLATION
+ start_civil_war_against_the_strongest_opposition_tt: "§RSoučasná nejsilnější opoziční strana rozpoutá občanskou válku. Současná vládnoucí strana zůstane u moci.§!" # todo: NEW TRANSLATION
+ start_civil_war_as_the_strongest_opposition_tt: "§RSoučasná nejsilnější opoziční strana převezme vládu. Stará vládnoucí strana rozpoutá občanskou válku.§!" # todo: NEW TRANSLATION
+ SOV_more_than_30_support_for_united_russia_TT: "£SOV_emerging_reactionary §YUnited Russia§! má více než 30% podpory" # todo: NEW TRANSLATION
+ SOV_more_than_60_support_for_united_russia_TT: "£SOV_emerging_reactionary §YUnited Russia§! má více než 60% podpory" # todo: NEW TRANSLATION
+ SOV_NOV_more_than_80_percent_influence_TT: "§Y[SOV.GetAdjective]§! vliv v [NOV.GetNameWithFlag] je nad 80%" # todo: NEW TRANSLATION
+ SOV_more_than_30_support_for_nationals_TT: "£SOV_nationalist_right_wing_populist §YLDPR§! má více než 30% podpory" # todo: NEW TRANSLATION
+ SOV_more_than_30_support_for_commies_TT: "£SOV_emerging_communism §YCPRF§! má více než 30% podpory" # todo: NEW TRANSLATION
+ SOV_more_than_30_support_for_liberals_TT: "£SOV_western_liberal §YYabloko§! má více než 30% podpory" # todo: NEW TRANSLATION
+ SOV_ban_the_communist_party_TT: "Zakazuje £SOV_emerging_communism §YCPRF§!\n" # todo: NEW TRANSLATION
+ SOV_the_dictatorship_TT: "§GPozastavuje Dumu a zmocňuje Putina jako prezidenta na doživotí!§!\n" # todo: NEW TRANSLATION
+ SOV_secure_putins_position_TT: "Popularita £SOV_emerging_communism §YCPRF§! se sníží na polovinu a zbytek se přidá k £SOV_emerging_reactionary §YUnited Russia§!, protože jejich voliči přecházejí k Putinovi.\n" # todo: NEW TRANSLATION
+ SOV_root_out_the_nationalists_TT: "§YNacionalisté§! v zemi jsou vykořeněni a £SOV_nationalist_right_wing_populist §YLDPR§! je zakázána!" # todo: NEW TRANSLATION
+ SOV_baltic_econ_tooltip_TT: "Každý §Ypobaltský stát§!, který přijme, odebere z naší pokladny §Y$10 miliard§!.\n" # todo: NEW TRANSLATION
+ SOV_nationalize_oligarch_factories_toolie_TT: "Znárodní §Ypět továren§! od §Y[SOV.GetAdjective] podnikatelů§!.\n" # todo: NEW TRANSLATION
+ SOV_nationalize_foreign_industry_TT: "Znárodní §Ytři továrny§! od zahraničních podniků!\n" # todo: NEW TRANSLATION
+ SOV_end_of_republic_TT: "Ukončí §YDumu§! a jmenuje Žirinovského prezidentem na dobu neurčitou.\n" # todo: NEW TRANSLATION
+ SOV_claim_the_crown_TT: "§YŽirinovskij§! nárokuje korunu §YRuské říše§! a jmenuje se §Ycarem§! Ruska!\n" # todo: NEW TRANSLATION
+ SOV_ban_the_nationalist_party_TT: "Zakazuje £SOV_nationalist_right_wing_populist §YLDPR§!\n" # todo: NEW TRANSLATION
+ SOV_the_fifth_international_TT: "Může získat více potenciálních členů, čím více je zahraničních komunistů a čím lepší je jejich názor na nás." # todo: NEW TRANSLATION
+ SOV_territorial_demands_cores_TT: "§YSovětský svaz§! získává domovská území na všech bývalých republikách." # todo: NEW TRANSLATION
+ SOV_reduction_of_interest_rate_TT: "Jsou zavedeny balíčky na snížení úrokových sazeb.\n" # todo: NEW TRANSLATION
+ UKR_try_to_reach_an_agreement_TT: "§YTvoří koalici s komunisty.§!\n" # todo: NEW TRANSLATION
+ UKR_crimea_tooltip_TT: "§YTento fokus bude mít své účinky podle toho, jak se rozhodne Rusko§!\n" # todo: NEW TRANSLATION
+ UKR_reorganize_the_national_guard_focus_TT: "§YOdemkne rozhodnutí o reorganizaci Národní gardy Ukrajiny§!\n" # todo: NEW TRANSLATION
+ UKR_hyperloop_project_focus_TT: "Vybuduje maximální infrastrukturu od §YKyjeva§! po §YZáporoží§!\n" # todo: NEW TRANSLATION
+ UKR_infrastructure_project_TT: "Účinky se změní, jakmile budete mít §YInfrastrukturní projekty§! nebo §YInfrastrukturní projekty 2§!\n" # todo: NEW TRANSLATION
+ UKR_baltic_black_sea_dialogue_focus_TT: "§YTento fokus poskytne všem zemím, které podpoří Černomořsko-pobaltskou unii, vzájemné záruky§!\n" # todo: NEW TRANSLATION
+ UKR_decision_demand_the_return_of_the_crimea_TT: "Může vést k válce s Ruskem" # todo: NEW TRANSLATION
+ UKR_temp_focus_placeholder_until_tech_TT: "To jsou jen dočasné efekty, dokud nebude znovu přidána nukleární technologie" # todo: NEW TRANSLATION
+ UKR_nato_major_influence_greater_than_10_percent_TT: "Požaduje více než §Y10%§! vliv od §Y[ENG.GetNameWithFlag]§!, §Y[USA.GetNameWithFlag]§!, §Y[GER.GetNameWithFlag]§! nebo §Y[FRA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ UKR_east_major_influence_greater_than_10_perecnt_TT: "Požaduje více než §Y10%§! vliv od §Y[SOV.GetNameWithFlag]§! nebo §Y[CHI.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ ENG_fight_capitalism_TT: "§YKomunisté uchvátí moc, aby přenesli revoluci do zahraničí!§!\n" # todo: NEW TRANSLATION
+ consumes_more_than_produced_steel_tt: "[ROOT.GetNameWithFlag] spotřebovává více oceli než vyrobí." # todo: NEW TRANSLATION
+ consumes_more_than_produced_aluminium_tt: "[ROOT.GetNameWithFlag] spotřebovává více lehkých kovů než vyrobí." # todo: NEW TRANSLATION
+ consumes_more_than_produced_oil_tt: "[ROOT.GetNameWithFlag] spotřebovává více fosilních paliv než vyrobí." # todo: NEW TRANSLATION
+ consumes_more_than_produced_tungsten_tt: "[ROOT.GetNameWithFlag] spotřebovává více technologických kovů než vyrobí." # todo: NEW TRANSLATION
+ GER_more_than_30_support_for_nationals_TT: "£GER_nationalist_right_wing_populist §YAfD§! má více než 30% podpory" # todo: NEW TRANSLATION
+ AZE_start_aliev_cult_tt: "§BTímto se spustí kult Alijeva.§!\n" # todo: NEW TRANSLATION
+ AZE_stop_aliev_cult_tt: "§BTímto se kult Alijeva zastaví.§!\n" # todo: NEW TRANSLATION
+ AZE_aliev_cult_tt: "§YKult Alijeva§! se změní o [?modify_aliev_cult|+0] (Aktuálně: [?AZE.aliev_cult|Y0])\n" # todo: NEW TRANSLATION
+ AZE_increase_readiness_tt: "§GToto zvýší naši válečnou připravenost§!\n" # todo: NEW TRANSLATION
+ AZE_decrease_readiness_tt: "§RToto sníží naši válečnou připravenost§!\n" # todo: NEW TRANSLATION
+ AZE_increase_tension_tt: "§YTímto se zvýší napětí v Náhorním Karabachu§!\n" # todo: NEW TRANSLATION
+ AZE_decrease_tension_tt: "§YTímto se sníží napětí v Náhorním Karabachu§!\n" # todo: NEW TRANSLATION
+ AZE_final_solution_tt: "§GTímto se přiblížíme o krok k míru§!\n" # todo: NEW TRANSLATION
+ AZE_doomsday_fund_tt: "§GTímto vytvoříme fond na horší časy, který použijeme v krajních situacích.§!" # todo: NEW TRANSLATION
+ AZE_investments_tt: "§GTímto převedeme peníze z naší pokladny do investic.§!" # todo: NEW TRANSLATION
+ AZE_indian_ports_TT: "§GTímto získáme stabilní zdroj týdenního příjmu, odhadovaně asi 0,25 miliardy týdně§!" # todo: NEW TRANSLATION
+ AZE_ban_aliev_party_tt: "§GTímto zakážeme diktátorovu stranu [conservatism_L]§!\n" # todo: NEW TRANSLATION
+ AZE_stop_election_tt: "§YTímto se přeruší veškeré volby§!\n" # todo: NEW TRANSLATION
+ AZE_investments_tt: "§GTímto převedeme peníze na zahraniční investice.§!" # todo: NEW TRANSLATION
+ AZE_allied_funding_TT: "§GTímto my i naši spojenci získáme solidní peněžní stimul.§!" # todo: NEW TRANSLATION
+ AZE_allied_pipelines_TT: "§GTímto poskytneme našim přátelským sousedům rafinerie k zpracování našeho paliva.§!" # todo: NEW TRANSLATION
+ Aze_hunta_possible_TT: "§YToto bude dostupné, pokud a kdy se naši generálové stanou nespolehlivými.§!" # todo: NEW TRANSLATION
+ aze_nato_TT: "§GTímto získáme status přidruženého člena NATO.§!" # todo: NEW TRANSLATION
+ AZE_GUAM_cooperation_TT: "§GTímto posílíme naše vazby na členy GUAM.§!" # todo: NEW TRANSLATION
+ NKR_main_cycle_tt: "§YNáš stupeň válečné připravenosti a úroveň regionálního napětí budou aktualizovány§!\n" # todo: NEW TRANSLATION
+ NKR_gamble_tt: "§YMůžeme získat nebo ztratit připravenost v závislosti na akcích nepřítele§!\n" # todo: NEW TRANSLATION
+ NKR_war_TT: "§RBude válka. Není cesty zpět.§!\n" # todo: NEW TRANSLATION
+ NKR_low_tension_trigger_TT: "§YTato akce vyžaduje napětí vyšší než nízké§!\n" # todo: NEW TRANSLATION
+ NKR_medium_tension_trigger_TT: "§YTato akce vyžaduje napětí vyšší než střední§!\n" # todo: NEW TRANSLATION
+ NKR_lower_then_high_trigger_TT: "§YTato akce vyžaduje napětí nižší než vysoké§!\n" # todo: NEW TRANSLATION
+ NKR_lower_then_medium_trigger_TT: "§YTato akce vyžaduje napětí nižší než střední§!\n" # todo: NEW TRANSLATION
+ NKR_lower_then_low_trigger_TT: "§YTato akce vyžaduje napětí nižší než nízké§!\n" # todo: NEW TRANSLATION
+ NKR_higher_then_high_TT: "§YTato akce vyžaduje napětí vyšší než vysoké!\n" # todo: NEW TRANSLATION
+ conducted_activity: "§YZatím jsme neprovedli žádné akce§!\n" # todo: NEW TRANSLATION
+ AZE_aliev_cult_mission_TT: "§YZískáme zprávy, abychom zjistili popularitu kultu Alijeva§!\n" # todo: NEW TRANSLATION
+ attract_voters_pos.0: "[Western_Autocracy_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.1: "[conservatism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.2: "[liberalism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.3: "[socialism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.4: "[Communist-State_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.5: "[anarchist_communism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.6: "[Conservative_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.7: "[Autocracy_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.8: "[Mod_Vilayat_e_Faqih_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.9: "[Vilayat_e_Faqih_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.10: "[Kingdom_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.11: "[Caliphate_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.12: "[Neutral_Muslim_Brotherhood_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.13: "[Neutral_Autocracy_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.14: "[Neutral_conservatism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.15: "[oligarchism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.16: "[Neutral_Libertarian_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.17: "[Neutral_green_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.18: "[neutral_Social_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.19: "[Neutral_Communism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.20: "[Nat_Populism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.21: "[Nat_Fascism_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.22: "[Nat_Autocracy_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ attract_voters_pos.23: "[Monarchist_L] ztrácí §R1%§! popularity\n" # todo: NEW TRANSLATION
+ TT_ADD_RELATIVE_PARTY_POPULARITY: "[party_index_L] popularita se změní o [?party_popularity_increase|+%]\n" # todo: NEW TRANSLATION
+ TT_TRIGGER_ENOUGH_BUILDING_SLOTS: "Musíme mít dostatek volných stavebních polí" # todo: NEW TRANSLATION
+ GAME_RULE_eu_disabled: "Evropská unie je zakázána kvůli herním pravidlům" # todo: NEW TRANSLATION
+ add_to_investment_array_tooltip_already_in: "§GJiž jsme jedním z §Ycílů investic§! pro [THIS.GetFlag]§Y[THIS.GetNameDef]§!§!" # todo: NEW TRANSLATION
+ add_to_investment_array_tooltip: "Staneme se možným §Ycílem investic§! pro [THIS.GetFlag]§Y[THIS.GetNameDef]§!" # todo: NEW TRANSLATION
+ change_permanent_investment_target_tt: "[?var:adding_nation.GetFlag]§Y[?var:adding_nation.GetNameDef]§! se stane možným §Ycílem investic§! pro [?var:target_nation.GetFlag]§Y[?var:target_nation.GetNameDef]§!" # todo: NEW TRANSLATION
+ change_permanent_investment_target_remove_tt: "[?var:adding_nation.GetFlag]§Y[?var:adding_nation.GetNameDef]§! bude odstraněn jako možný §Ycíl investic§! pro [?var:target_nation.GetFlag]§Y[?var:target_nation.GetNameDef]§!" # todo: NEW TRANSLATION
+ set_partyall_banned_tt: "Zakáže všechny strany kromě §Y[show_ruling_party]§!\n" # todo: NEW TRANSLATION
+ set_partyall_allowed_tt: "Zruší zákaz všech stran v naší zemi\n" # todo: NEW TRANSLATION
+ May_increase_radicalisation_TT: "§RToto zvýší radikalizaci§!\n" # todo: NEW TRANSLATION
+ May_decrease_radicalisation_TT: "§GToto sníží radikalizaci§!\n" # todo: NEW TRANSLATION
+ Will_decrease_strength_TT: "§GTo sníží sílu protestů§!\n" # todo: NEW TRANSLATION
+ Increase_radicalisation_TT: "§RToto zvýší radikalizaci§!\n" # todo: NEW TRANSLATION
+ Increase_radicalisation_decrease_strength_TT: "§YToto mírně zvýší radikalizaci, ale sníží sílu protestů§!\n" # todo: NEW TRANSLATION
+ Increase_radicalisation_considerably_TT: "§RToto výrazně zvýší radikalizaci§!\n" # todo: NEW TRANSLATION
+ civil_war_protest_TT: "§RProtestující rozpoutají občanskou válku§!\n" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_5_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y5%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_5_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y5%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_10_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y10%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_10_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y10%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_15_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y15%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_15_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y15%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_20_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y20%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_20_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y20%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_25_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y25%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_25_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y25%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_30_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y30%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_30_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y30%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_35_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y35%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_35_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y35%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_40_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y40%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_40_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y40%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_45_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y45%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_45_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y45%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_50_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y50%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_50_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y50%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_55_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y55%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_55_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y55%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_60_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y60%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_60_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y60%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_65_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y65%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_65_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y65%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_70_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y70%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_70_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y70%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_75_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y75%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_75_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y75%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_80_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y80%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_80_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y80%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_85_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y85%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_85_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y85%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_90_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y90%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_90_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y90%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_95_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y95%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_95_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y95%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_100_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y100%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_100_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y100%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_105_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y105%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_105_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y105%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_110_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y110%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_110_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y110%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_115_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y115%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_115_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y115%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_120_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y120%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_120_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y120%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_125_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y125%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_125_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y125%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_130_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y130%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_130_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y130%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_135_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y135%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_135_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y135%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_140_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y140%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_140_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y140%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_145_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y145%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_145_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y145%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_150_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y150%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_150_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y150%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_155_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y155%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_155_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y155%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_160_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y160%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_160_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y160%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_165_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y165%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_165_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y165%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_170_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y170%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_170_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y170%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_175_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y175%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_175_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y175%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_180_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y180%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_180_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y180%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_185_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y185%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_185_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y185%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_190_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y190%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_190_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y190%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_195_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y195%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_195_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y195%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_lower_200_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je nižší než §Y200%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION
+ gdp_debt_ratio_higher_200_tt: "[THIS.GetNameWithFlag] poměr §Ydluh k HDP§! je vyšší než §Y200%§! (Aktuálně:[?THIS.debt_ratio|-1%])" # todo: NEW TRANSLATION

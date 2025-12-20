@@ -1,0 +1,629 @@
+﻿l_english:
+ flat_productivity_change_effect_TT: "§YProduktivita§!: [?temp_productivity_change|3+]\n" # todo: NEW TRANSLATION
+ HIDE_MONEY_TOOLTIP: "Kliknutím skryjete rozhraní peněz" # todo: NEW TRANSLATION
+ SHOW_MONEY_TOOLTIP: "Kliknutím zobrazíte rozhraní peněz" # todo: NEW TRANSLATION
+ TREASURY_TOOLTIP: "V pokladně máme $[?treasury] §Hbillion§!.\nNáš týdenní zůstatek je $[?treasury_rate|+3] §Hbillion§!." # todo: NEW TRANSLATION
+ TREASURY_TOOLTIP_DELAYED: "Naše pokladna odráží množství peněz, které máme k dispozici, a lze je použít na nákupy a investice. Pokud pokladna klesne do mínusu, bude každý týden automaticky vydán dluh, aby zůstal kladný." # todo: NEW TRANSLATION
+ AC_TREASURY_TOOLTIP: "V pokladně máme $[?ROOT.treasury] §Hbillion§!.\nNáš týdenní zůstatek je $[?treasury_rate|+] §Hbillion§!." # todo: NEW TRANSLATION
+ AC_TREASURY_TOOLTIP_DELAYED: "Peníze v naší pokladně jsou peníze, které můžeme utratit. Používají se na nákupy a investice. Pokud se dostanou do záporných hodnot, bude automaticky čerpán dluh, aby zůstatek zůstal kladný." # todo: NEW TRANSLATION
+ INT_INVESTMENTS_TOOLTIP: "Máme $[?int_investments] §Hbillion§! v mezinárodních investicích.\nRočně z toho získáme [?roi_rate|%0] §HNávratnost investice§!, což nám dává týdně [int_investment_rate_color] §Hbillion§! v §Hpříjmech z investic§! do pokladny.\nAktuálně aktivních §Yinvestičních projektů§!: [?active_projects]/15" # todo: NEW TRANSLATION
+ INT_INVESTMENTS_TOOLTIP_DELAYED: "£shift_texticon  + £left_mouse_texticon §YShift L Click§! pro povolení/zakázání automatického reinvestování §Hpříjmů z investic§! do našich §YMezinárodních investic§! (Když je reinvestice povolena, hodnota §Ypříjmů z mezinárodních investic§! se v obrazovce Ekonomického náhledu zbarví žlutě.)\n\n£GFX_ctrl_texticon + £left_mouse_texticon §YControl L Click§! pro povolení/zakázání automatického odmítání investic. To znamená, že automaticky odmítnete VŠECHNY příchozí nabídky investic.\n\n£GFX_right_mouse_texticon §YR Click§! pro prodej $1 billion v zahraničních investicích. Z této sumy lze získat pouze 60 %. £GFX_ctrl_texticon §YCtrl§! (10x) nebo £shift_texticon §YShift§!(100x) pro zvýšení množství prodaného.\n\n[int_reinvestment_toggled]\n[int_auto_rejection_toggled]" # todo: NEW TRANSLATION
+ AC_INT_INVESTMENTS_TOOLTIP: "Máme $[?ROOT.int_investments] §Hbillion§! v mezinárodních investicích.\nTýdně z toho získáváme $[?ROOT.int_investments_rate] §Hbillion§! v §Hpříjmech z investic§! do pokladny." # todo: NEW TRANSLATION
+ DEBT_TOOLTIP: "Celkový dluh: [?debt|3]\n\nNaše §Yúroková sazba§! je [?interest_rate|2]%\nMáme poměr §YDluh k HDP§!: §Y[?debt_ratio|-%1]§!\nTento týden jsme zaplatili $[?debt_rate|-3] §Ybillion§! na §Yúrocích z dluhu§!.\nDopad idey na §Yúrokovou sazbu§!: [?interest_rate_multiplier|-0] (procentní body)" # todo: NEW TRANSLATION
+ DEBT_TOOLTIP_DELAYED: "£left_mouse_texticon §YL Click§! pro manuální půjčení, £GFX_right_mouse_texticon §YR Click§! pro splacení, §YAlt R Click§! pro splacení maximálně.\nVýchozí: $1 §Hbillion§! (Držením £GFX_ctrl_texticon §YCtrl§!(10x) nebo £shift_texticon §YShift§!(100x) pro větší částky. Pokud nemůžete zaplatit celou částku, zaplatí se zbytkem.)\n\n1% poplatek na manuální i automatické půjčky, přičtený navíc k půjčenému dluhu.\n§YÚroková sazba§! vyšší než §Y10%§! vám poskytne přístup k mimořádným rozhodnutím k řešení rostoucího dluhu.\nPokud §Yúroková sazba§! překročí §Y15%§!, naše ekonomika se začne §Rzpomalovat§! a začneme trpět dalšími §Rnegativními efekty§!.\n§!V tomto bodě budeme mít možnost vyhlásit platební neschopnost, ale za vysokou cenu.\nPokud naše §Yúroková sazba§! překročí §Y20%§!, bude naše zadlužování omezeno a budeme moci přijímat půjčky pouze na krytí rozpočtového deficitu.\nPokud naše §Yúroky z dluhu§! kdykoli překročí naše §Yhrubé příjmy§!, naše země §Rzkolabuje!§!" # todo: NEW TRANSLATION
+ REFRESH_TAX_RATE: "Obnovit" # todo: NEW TRANSLATION
+ REFRESH_TAX_RATES_TOOLTIP: "Kliknutím na toto tlačítko aktualizujete své příjmy a výdaje." # todo: NEW TRANSLATION
+ F_DEBT_TOOLTIP: "Mají $[?debt] §Hbillion§! v §Rdluhu§!.\nAktuálně mají §Húrokovou sazbu§! [?interest_rate]%.\n\n$§R[?debt_rate|-3]§! §Hbillion§! bude každý týden odebráno z jejich pokladny na obsluhu dluhu.[literacy_rate_tooltip]" # todo: NEW TRANSLATION
+ F_TREASURY_TOOLTIP: "HDP §Y[THIS.GetName]§!: $§U[?gdp_total|0]§!b\nHDP na obyvatele §Y[THIS.GetName]§!: $§U[?gdp_per_capita]§!k\n---------\nMají $[?treasury] §Hbillion§! v pokladně.\nJejich týdenní zůstatek je $[?treasury_rate|+] §Hbillion§!." # todo: NEW TRANSLATION
+ F_INT_INVESTMENTS_TOOLTIP: "Mají $[?int_investments] §Hbillion§! v investicích v jiných zemích.\nTýdně z toho získávají $[?int_investments_rate] §Hbillion§! v §Hpříjmech z investic§!." # todo: NEW TRANSLATION
+ F_EXPENSE_GAIN_TOOLTIP: "Každý týden ztrácí $[?display_expense] §Hbillion§! na výdaje." # todo: NEW TRANSLATION
+ F_EXPENSE_GAIN_TOOLTIP_DELAYED: "§CByrokracie:§! $§R[?bureaucracy_gain|-3]§!\n§OObrana:§! $§R[?defence_gain|-3]§!\n§UVnitřní bezpečnost:§! $§R[?security_gain|-3]§!\n§VVzdělávání:§! $§R[?education_gain|-3]§!\n§PZdravotnictví:§! $§R[?health_gain|-3]§!\n§BSociální zabezpečení:§! $§R[?welfare_gain|-3]§!\n§RÚroky z dluhu:§! $§R[?debt_rate|-3]§!\n§HDalší výdaje:§! $§R[?additional_expenses_rate|-3]§!\n\nCelkové výdaje: $§R[?display_expense]§!" # todo: NEW TRANSLATION
+ F_TAX_RATE_TOOLTIP: "Jejich §HPrůměrná daňová sazba§! je [?tax_rate]%.\n\n§YKorporátní daň:§! [?corporate_tax_rate]%\n§YSazba daně pro obyvatele:§! [?population_tax_rate]%\n" # todo: NEW TRANSLATION
+ F_TAX_GAIN_TOOLTIP: "Získávají $[?display_income] §Hbillion§! každý týden na příjmech." # todo: NEW TRANSLATION
+ F_TAX_GAIN_TOOLTIP_DELAYED: "HDP §Y[THIS.GetName]§!: $§U[?THIS.gdp_total|0]§!b\nHDP na obyvatele §Y[THIS.GetName]§!: $§U[?THIS.gdp_per_capita]§!k\n---------\n§CPříjmy obyvatel:§! $§G[?population_tax|+3]§!\n§LKorporátní příjmy:§! $§G[?corporate_tax|+3]§!\n§GMezinárodní investice:§! $§G[?int_investments_rate|+3]§!\n§VVývoz surovin:§! $§G[?resource_sale_rate|+3]§!\n§HDalší příjmy:§! $§G[?additional_income_rate|+3]§!\n\nHrubé příjmy: $§G[?display_income]§!" # todo: NEW TRANSLATION
+ OPEN_ECONOMY_BUTTON: "Otevřít ekonomické okno" # todo: NEW TRANSLATION
+ OPEN_ECONOMY_BUTTON_TT: "Otevře ekonomické okno, které zobrazuje výdaje a příjmy. Obsahuje také tlačítko pro aktualizaci vašich příjmů/výdajů. Dále zobrazí HDP a HDP na obyvatele." # todo: NEW TRANSLATION
+ GDP_TOTAL: "HDP" # todo: NEW TRANSLATION
+ GDP_TOTAL_DESC: "Náš hrubý domácí produkt (HDP) je měřítko hodnoty všech produktů a služeb vyprodukovaných v zemi. Millennium Dawn používá HDP upravený podle PPP (parita kupní síly), protože tato hodnota bere v úvahu místní ekonomické podmínky, což činí srovnání zemí užitečnější." # todo: NEW TRANSLATION
+ NUM_GDP_TOTAL: "$$§U[?ROOT.gdp_total|1]§!b" # todo: NEW TRANSLATION
+ NUM_GDP_TOTAL_DESC: "Náš HDP je v současnosti $§U[?ROOT.gdp_total|3]§! miliard" # todo: NEW TRANSLATION
+ NUM_GDP_TOTAL_DELAYED_DESC: "Přibližný podíl průmyslových odvětví podle procent:\n§PCivilní továrny§!: [?ROOT.civil_fac_percent|%]\n§OVojenské továrny§!: [?ROOT.military_fac_percent|%]\n§BNámořní loděnice§!: [?ROOT.dockyard_fac_percent|%]\n§CKancelářské parky§!: [?ROOT.office_fac_percent|%]\n§GAgriculture§!: [?ROOT.agriculture_percent|%]\n§GVýroba surovin§!: [?ROOT.resources_percent|%]\n" # todo: NEW TRANSLATION
+ GDP_PER_CAPITA: "HDP na obyvatele" # todo: NEW TRANSLATION
+ GDP_PER_CAPITA_DESC: "Toto číslo představuje náš HDP na obyvatele (HDP/obyvatele). Udává produkci na každou osobu v zemi." # todo: NEW TRANSLATION
+ GDP_PER_CAPITA_DELAYED_DESC: "Aktuální dopad HDP na obyvatele na naši zemi:\nRychlost výstavby: [?production_speed_buildings_factor_gdp_modifier|%+]\nMěsíční přírůstek populace: [?monthly_population_gdp_modifier|%+1]\nRychlost výzkumu: [?research_speed_factor_gdp_modifier|%+]\nStabilita: [?stability_factor_gdp_modifier|%+]\nCelková pracovní síla: [?total_workforce_gdp_c_modifier_var|%+]\nRychlost výstavby fosilních elektráren: [?fossil_pp_construction_gdp_c_modifier_var|%+]\n" # todo: NEW TRANSLATION
+ NUM_GDP_PER_CAPITA: "$$§U[?ROOT.gdp_per_capita]§!k" # todo: NEW TRANSLATION
+ NUM_GDP_PER_CAPITA_DESC: "Náš HDP na obyvatele je aktuálně $§U[?ROOT.gdp_per_capita|3]§! tisíc" # todo: NEW TRANSLATION
+ PRODUCTIVITY: "Produktivita" # todo: NEW TRANSLATION
+ PRODUCTIVITY_DESC: "Toto číslo reprezentuje §Yproduktivitu§! naší země." # todo: NEW TRANSLATION
+ NUM_PRODUCTIVITY_DELAYED_DESC: "Aktuální měsíční růst produktivity: [?productivity_growth_scaled|3+]\n\nDopad produktivity:\n§YVýstup továren:§! [?productivity_tax_effect_display|%+1]\n§YVýstup doků:§! [?productivity_tax_effect_display|%+1]\n§YRychlost výstavby:§! [?productivity_tax_effect_display|%+1]\n§YKorporátní daň:§! [?productivity_tax_effect_display|%+1]" # todo: NEW TRANSLATION
+ NUM_PRODUCTIVITY: "§U[?ROOT.overall_productivity|3]§!" # todo: NEW TRANSLATION
+ NUM_PRODUCTIVITY_DESC: "§YProduktivita§! je hodnota, která určuje produkci v naší zemi. Hodnota vzniká jako agregát produktivity každého státu dělený populací národa. §YProduktivita§! je multiplikátor vůči všem zdrojům hrubého domácího produktu (HDP), korporátní dani a výstupu každé továrny. Pokud je vaše §YProduktivita§! vyšší než 1000, uvidíte větší bonusy posilující ekonomický růst a výstup všech vašich budov. §YProduktivita§! roste nebo klesá každý měsíc pasivně; růst je ovlivněn ekonomickým cyklem, technologiemi a národními spiritmi a dále škálován na základě §YGlobální průměrné produktivity§!. Země pod globálním průměrem budou svou §YProduktivitu§! zvyšovat rychleji, zatímco země nad průměrem pomaleji.\n\n§YGlobální průměrná produktivita§! je aktuálně §U[?global.average_world_productivity|3]§!\nNaše §YProduktivita§! je aktuálně §U[?ROOT.overall_productivity|3]§!\n" # todo: NEW TRANSLATION
+ PRODUCTIVITY_STATE_DESC: "§YProduktivita státu§! se mění na základě růstu produktivity vlastníka a ve vztahu k §Yglobální průměrné produktivitě§!" # todo: NEW TRANSLATION
+ NUM_STATE_PRODUCTIVITY: "§U[?productivity_state_var]§!" # todo: NEW TRANSLATION
+ NUM_STATE_PRODUCTIVITY_DESC: "Tato produktivita státu je: §U[?productivity_state_var|3]§!" # todo: NEW TRANSLATION
+ NUM_STATE_PRODUCTIVITY_DELAYED_DESC: "Měsíční růst produktivity tohoto státu je: §U[?state_productivity_growth_scaled|3+]§!\n\nRůst produktivity státu se škáluje vzhledem k globální průměrné hodnotě produktivity; státy pod průměrem porostou rychleji." # todo: NEW TRANSLATION
+ BUDGET_TITLE: "Ekonomický přehled" # todo: NEW TRANSLATION
+ EXPENSES: "Výdaje" # todo: NEW TRANSLATION
+ INCOMES: "Příjmy" # todo: NEW TRANSLATION
+ PROJECTS: "Projekty" # todo: NEW TRANSLATION
+ LEASING: "Leasing" # todo: NEW TRANSLATION
+ EMPLOYMENT: "Zaměstnanost" # todo: NEW TRANSLATION
+ PERSONAL_INCOME_TAXES: "§CPříjmy obyvatel:§!" # todo: NEW TRANSLATION
+ PERSONAL_INCOME_RATE: "$$§G[?population_tax|+3]§!" # todo: NEW TRANSLATION
+ PERSONAL_INCOME_TAXES_TOOLTIP: "Příjmy z daní obyvatel" # todo: NEW TRANSLATION
+ PERSONAL_INCOME_TAXES_TOOLTIP_DELAYED: "Populační daně jsou různé daně, které vybíráme od našich občanů. Patří sem DPH, daň z příjmů, daň z majetku a osobní kapitálové zisky. Výše daňových příjmů závisí na naší populaci a na §YSazbě daně pro obyvatele§!. §YPříjmy z populace§! jsou ovlivněny hlavně naším §YEkonomickým cyklem§! a §Yúrovní korupce§!. Příjmy mohou být také ovlivněny různými nápady.\n\nKaždé §Y1%§! populační daně snižuje naši stabilitu o §R-1%§!, protože lidé očekávají služby na oplátku za daňové zatížení.\n\nZákony, nápady a technologie ovlivňují §Yvšechny daňové příjmy§!: [?tax_gain_multiplier_display|+%0]\nZákony, nápady a technologie ovlivňují §YPříjmy z populace§!: [?modifier@population_tax_income_multiplier_modifier|+%0]\n" # todo: NEW TRANSLATION
+ CORPORATE_INCOME_TAXES: "§LKorporátní příjmy:§!" # todo: NEW TRANSLATION
+ CORPORATE_INCOME_RATE: "$$§G[?corporate_tax|+3]§!" # todo: NEW TRANSLATION
+ CORPORATE_INCOME_TAXES_TOOLTIP: "Příjmy z korporátních daní:\n$[?agriculture_tax_gain|+3] z §YZemědělství§!\n$[?civil_fac_tax|+3] z §YCivilních továren§!\n$[?military_fac_tax|+3] z §YVojenských továren§!\n$[?dockyard_tax|+3] z §YNámořních loděnic§!\n$[?office_tax|+3] z §YKancelářských sektorů§!" # todo: NEW TRANSLATION
+ CORPORATE_INCOME_TAXES_TOOLTIP_DELAYED: "Korporátní daně jsou daně, které vybíráme od podniků působících v naší zemi. Příklady jsou DPH, daně z pozemků a samozřejmě daně zisků. Výše daní závisí na počtu §YCivilních továren§!, §YVojenských továren§!, §YNámořních loděnic§! a §YKancelářských sektorů§! v naší zemi a na §YSazbě korporátní daně§!. §LKorporátní příjmy§! jsou ovlivněny hlavně naším §YEkonomickým cyklem§! a §Yúrovní korupce§!. Příjmy mohou být také ovlivněny různými nápady.\n \nKorporátní daň určuje naši §YCenou daně§! (kolik §YCivilních továren§! nemáme k dispozici pro výstavbu) a také ovlivňuje, kolik peněz musí jiné země zaplatit za investice do našich států\n\nZákony, nápady a technologie ovlivňují §Yvšechny daňové příjmy§!: [?tax_gain_multiplier_display|+%0]\nZákony, nápady a technologie ovlivňují §YKorporátní daňové příjmy§!: [?modifier@corporate_tax_income_multiplier_modifier|+%0]\nVliv produktivity na §YKorporátní daňové příjmy§!: [?productivity_tax_effect_display|+%]\nZákony, nápady a technologie ovlivňují §YPříjmy z kancelářských sektorů§!: [?modifier@office_park_income_tax_modifier|+%0]\nZákony, nápady a technologie ovlivňují §YPříjmy z námořních loděnic§!: [?modifier@dockyard_income_tax_modifier|+%0]\nZákony, nápady a technologie ovlivňují §YPříjmy z civilních továren§!: [?modifier@civilian_industry_tax_modifier|+%0]\nZákony, nápady a technologie ovlivňují §YPříjmy z vojenských továren§!: [?modifier@military_industry_tax_modifier|+%0]\n" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_THRESHOLD: "§YHranice nezaměstnanosti:§! [?ROOT.unemployment_threshold_display_var|%0]" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_THRESHOLD_TT: "§YHranice vysoké nezaměstnanosti§! je hodnota §Ynezaměstnanosti§!, které může vaše země dosáhnout, aniž by začala trpět negativními efekty z §Yvysoké nezaměstnanosti§!. Překročením této hodnoty začnete trpět nárůstem £social_cost_multiplier_modifier_texticon §YNákladů na sociální výdaje§! a poklesem £stability_texticon  Stability." # todo: NEW TRANSLATION
+ EMPLOYMENT_TOOLTIP: "Rozpis pracovní síly" # todo: NEW TRANSLATION
+ EMPLOYMENT_TOOLTIP_DELAYED: "Celková pracovní síla:§Y[?ROOT.workforce_total_display|3]§!\nPodíl populace v pracovní síle:§Y[?ROOT.workforce_total_percentage_display|%]§!\n\nMilionů pracovníků podle sektoru:\n§VVojenské továrny§!: [?ROOT.workers_in_mil_facs|3]\n§BNámořní továrny§!: [?ROOT.workers_in_dockyards|3]\n§OCivilní továrny§!: [?ROOT.workers_in_civ_facs|3]\n§CKanceláře§!: [?ROOT.workers_in_offices|3]\n§GZemědělství§!: [?ROOT.agriculture_workers|3]\n§CVýroba surovin§!: [?ROOT.resource_sector_workers|3]\n§RNezaměstnaní & živobytí§!: [?ROOT.total_unemployed|3]\n\nAktuální nezaměstnanost: §R[?ROOT.total_unemployed_percentage_display|%]§!\nNaplnění pracovních míst:\nCivilní továrny: §Y[?ROOT.civilian_factories_manpower_fulfillment|%]§!\nVojenské továrny: §Y[?ROOT.military_factories_manpower_fulfillment|%]§!\nNámořní továrny: §Y[?ROOT.naval_factories_manpower_fulfillment|%]§!\nKanceláře: §Y[?ROOT.offices_manpower_fulfillment|%]§!\n\n§YHranice vysoké nezaměstnanosti§! je hodnota §Ynezaměstnanosti§!, které může vaše země dosáhnout, aniž by začala trpět negativními efekty z §Yvysoké nezaměstnanosti§!. Překročením této hodnoty začnete trpět nárůstem £social_cost_multiplier_modifier_texticon §YNákladů na sociální výdaje§! a poklesem £stability_texticon  Stability.\n\n§YHranice vysoké nezaměstnanosti:§! [?ROOT.unemployment_threshold_display_var|%0]\n\n§YModifikátory z vysoké nezaměstnanosti§!\n£stability_texticon  Stabilita: [?ROOT.high_unemployment_modifier_var|%+]\n£social_cost_multiplier_modifier_texticon §YNáklady na sociální výdaje§! Násobitel: [?ROOT.high_unemployment_modifier_var_2|%-]" # todo: NEW TRANSLATION
+ UNEMPLOYMENT: "§YMíra nezaměstnanosti:§! [?ROOT.total_unemployed_percentage_display|%0]" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT: "§GMezinárodní investice:§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_RATE: "[int_investment_rate_color]" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_RATE_1: "$$§G[?int_investments_rate|3]§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_RATE_2: "$$§Y[?int_investments_rate|3]§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_RATE_YES: "Reinvestování mezinárodních investic: §GPOVOLENO§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_RATE_NO: "Reinvestování mezinárodních investic: §YZAKÁZÁNO§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_REJECT_YES: "Automatické odmítání mezinárodních investic: §GPOVOLENO§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_REJECT_NO: "Automatické odmítání mezinárodních investic: §YZAKÁZÁNO§!" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_TOOLTIP: "Příjmy z mezinárodních investic" # todo: NEW TRANSLATION
+ GOVERNMENT_INVESTMENT_TOOLTIP_DELAYED: "Mezinárodní investice jsou aktiva, která vláda drží, jako jsou akcie ve společnostech, fondy a podobně. Mezinárodní investice poskytují roční §YNávratnost investice (ROI)§!, která je přidána přímo do našeho rozpočtu. Obvykle je tato sazba 6 %, ale může se v průběhu hry změnit. Většina našich §Ymezinárodních investic§! vznikne použitím prostředků z naší §YPokladny§! na investice do výstavby v jiných zemích.\n\nNaše současná §YNávratnost investice§! je [?roi_rate|%0]\n\nPokud je funkce reinvestování §Ymezinárodních investic§! povolena, tyto prostředky nebudou přidány do našeho týdenního příjmu.\n\n[int_reinvestment_toggled]\n[int_auto_rejection_toggled]" # todo: NEW TRANSLATION
+ TRADE_INCOME_REVENUES: "§VVývoz surovin:§!" # todo: NEW TRANSLATION
+ TRADE_INCOME_RATE: "$$§G[?resource_sale_rate|+3]§!" # todo: NEW TRANSLATION
+ TRADE_INCOME_REVENUES_TOOLTIP: "Příjmy z vývozu surovin:\n$[?oil_exports|+3] z §Yfosilních paliv§!\n$[?aluminium_exports|+3] z §Ylehkých kovů§!\n$[?rubber_exports|+3] z §YGumy§!\n$[?tungsten_exports|+3] z §Ytechnologických kovů§!\n$[?steel_exports|+3] z §YOceli§!\n$[?chromium_exports|+3] z §YZvácných kovů§!" # todo: NEW TRANSLATION
+ TRADE_INCOME_REVENUES_TOOLTIP_DELAYED: "Suroviny, které vyvážíme na trh, generují dodatečné příjmy. Každá surovina má svou vlastní cenu, přičemž ropa je nejcennější za jednotku. Pokud některé z našich surovin kupují jiné země, naše peněžní příjmy ze surovin se sníží, protože dovážející země platí za surovinu pomocí §YCivilních továren§!.\n\nZákony, nápady a technologie ovlivňují §Yvývoz surovin§!: [?resource_export_multiplier_display|+%0]\nZákony, nápady a technologie ovlivňují §Yvývoz fosilních paliv§!: [?ROOT.modifier@oil_export_multiplier_modifier|%+3]\nZákony, nápady a technologie ovlivňují §Yvývoz oceli§!: [?ROOT.modifier@steel_export_multiplier_modifier|%+3]\nZákony, nápady a technologie ovlivňují §Yvývoz lehkých kovů§!: [?ROOT.modifier@aluminium_export_multiplier_modifier|%+3]\nZákony, nápady a technologie ovlivňují §Yvývoz technologických kovů§!: [?ROOT.modifier@tungsten_export_multiplier_modifier|%+3]\nZákony, nápady a technologie ovlivňují §Yvývoz vzácných kovů§!: [?ROOT.modifier@chromium_export_multiplier_modifier|%+3]\nZákony, nápady a technologie ovlivňují §Yvývoz gumy§!: [?ROOT.modifier@rubber_export_multiplier_modifier|%+3]" # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME_REVENUES: "§HDalší příjmy:§!" # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME_RATE: "$$§G[?additional_income_rate|+3]§!" # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME_REVENUES_TOOLTIP: "Další příjmy zahrnují všechny ostatní různé zdroje příjmů pro naši vládu. Tyto dodatečné příjmy mohou pocházet z probíhajících rozhodnutí a národních nápadů." # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME_REVENUES_TOOLTIP_DELAYED: "Další příjmy zahrnují všechny ostatní různé zdroje příjmů pro naši vládu. Tyto dodatečné příjmy mohou pocházet z probíhajících rozhodnutí a národních nápadů." # todo: NEW TRANSLATION
+ BUREAUCRACY_EXPENSE: "§CByrokracie:§!" # todo: NEW TRANSLATION
+ BUREAU_RATE: "$$§R[?bureaucracy_gain|-3]§!" # todo: NEW TRANSLATION
+ BUREAUCRACY_EXPENSE_TOOLTIP: "Výdaje na byrokracii" # todo: NEW TRANSLATION
+ BUREAUCRACY_EXPENSE_TOOLTIP_DELAYED: "Výdaje na byrokracii jsou částkou, kterou používáme na provoz administrativy země. Základní náklad na byrokracii je založen na celkové populaci země a každá úroveň §YAdministrace§! zvyšuje náklady.\n\nVliv HDP/obyvatele na §Yvýdaje na byrokracii§!: [?education_cost_gdp_multiplier_display|-%0]\nZákony, nápady a technologie ovlivňují §Yvýdaje na byrokracii§!: [?bureaucracy_cost_multiplier_display|-%0]" # todo: NEW TRANSLATION
+ DEFENCE_SPENDING: "§OObrana:§!" # todo: NEW TRANSLATION
+ DEFENCE_RATE: "$$§R[?defence_gain|-3]§!" # todo: NEW TRANSLATION
+ DEFENCE_SPENDING_TOOLTIP: "Rozpis výdajů na obranu:\n$[?defence_breakdown_industry|-3] je vynaloženo jako §YPrůmyslové náklady§!\n$[?defence_breakdown_land|-3] je vynaloženo jako §YProvozní náklady armády§!\n$[?defence_breakdown_navy|-3] je vynaloženo jako §YProvozní náklady námořnictva§!\n$[?defence_breakdown_airforce|-3] je vynaloženo jako §YProvozní náklady letectva§!" # todo: NEW TRANSLATION
+ DEFENCE_SPENDING_TOOLTIP_DELAYED: "Výdaje na obranu jsou částkou, kterou používáme na financování našeho vojenského aparátu. Výdaje na obranu se skládají ze dvou komponent: §YPrůmyslových nákladů§! a §YProvozních nákladů§!. §YPrůmyslové náklady§! jsou to, kolik peněz vydáváme na udržení našeho obranného průmyslu. Základní náklad na každou vojenskou továrnu a námořní loděnici je založen na našem zákonu o §Yvojenských výdajích§!. Vyšší zákon bude stát více. Také náš §YHDP na obyvatele§! zvyšuje náklady. Také se přičítají náklady na §YProtiopatření letecké a protiraketové obrany§!.\n\n§YProvozní náklady§! jsou založeny na množství praporů, lodí a letadel, které máme nasazené, a na vybavení a letadlech v zásobě. Tyto náklady jsou pak modifikovány naším §YZákonem o branné povinnosti§!, §YZákonem o výcviku důstojníků§! a §YHDP na obyvatele§!.\n\nVliv HDP/obyvatele na §YPrůmyslové náklady§!: [?defence_breakdown_industry_gdp_modifier|-%0]\nVliv HDP/obyvatele na §YZaměstnanecké náklady§!: [?defence_breakdown_personnel_gdp_modifier|-%0]\nZákony, nápady a technologie ovlivňují §YZaměstnanecké náklady§!: [?defence_breakdown_personnel_modifier|-%0]" # todo: NEW TRANSLATION
+ POLICE_SPENDING: "§UVnitřní bezpečnost:§!" # todo: NEW TRANSLATION
+ POLICE_RATE: "$$§R[?security_gain|-3]§!" # todo: NEW TRANSLATION
+ POLICE_SPENDING_TOOLTIP: "Výdaje na vnitřní bezpečnost" # todo: NEW TRANSLATION
+ POLICE_SPENDING_TOOLTIP_DELAYED: "Výdaje na vnitřní bezpečnost jsou prostředky, které používáme na policii a na vnější zabezpečení ve formě zpravodajských služeb. Základní náklad na vnitřní bezpečnost je založen na celkové populaci země a každá úroveň §YVnitřní bezpečnosti§! zvyšuje náklady.\n\nVliv HDP/obyvatele na §Yvýdaje na vnitřní bezpečnost§!: [?education_cost_gdp_multiplier_display|-%0]\nZákony, nápady a technologie ovlivňují §Yvýdaje na vnitřní bezpečnost§!: [?police_cost_multiplier_display|-%0]" # todo: NEW TRANSLATION
+ EDUCATION_EXPENSE: "§JVzdělávání:§!" # todo: NEW TRANSLATION
+ EDUCATION_RATE: "$$§R[?education_gain|-3]§!" # todo: NEW TRANSLATION
+ EDUCATION_EXPENSE_TOOLTIP: "Výdaje na vzdělávání" # todo: NEW TRANSLATION
+ EDUCATION_EXPENSE_TOOLTIP_DELAYED: "Výdaje na vzdělávání jsou částkou, kterou používáme na financování veřejného i soukromého školství, výzkumu a vzdělávání. Základní náklady vzdělávání jsou založeny na celkové populaci země a každá úroveň §Yrozpočtu na vzdělávání§! zvyšuje náklady.\n\nVliv HDP/obyvatele na §Yvýdaje na vzdělávání§!: [?education_cost_gdp_multiplier_display|-%0]\nZákony, nápady a technologie ovlivňují §Yvýdaje na vzdělávání§!: [?education_cost_multiplier_display|-%0]\nPočet výzkumných slotů ovlivňuje §Yvýdaje na vzdělávání§!: [?research_slot_modifier|-%0]" # todo: NEW TRANSLATION
+ HEALTHCARE_EXPENSE: "§PZdravotnictví:§!" # todo: NEW TRANSLATION
+ HEALTHCARE_RATE: "$$§R[?health_gain|-3]§!" # todo: NEW TRANSLATION
+ HEALTHCARE_EXPENSE_TOOLTIP: "Výdaje na zdravotnictví" # todo: NEW TRANSLATION
+ HEALTHCARE_EXPENSE_TOOLTIP_DELAYED: "Výdaje na zdravotnictví jsou částkou, kterou používáme na financování veřejného zdravotnictví, nákladů na pojištění, subvencí na léky a podobně. Základní náklady na zdravotnictví jsou založeny na celkové populaci země a každá úroveň §Yrozpočtu na zdravotnictví§! zvyšuje náklady.\n\nVliv HDP/obyvatele na §Yvýdaje na zdravotnictví§!: [?education_cost_gdp_multiplier_display|-%0]\nZákony, nápady a technologie ovlivňují §Yvýdaje na zdravotnictví§!: [?health_cost_multiplier_display|-%0]" # todo: NEW TRANSLATION
+ WELFARE_EXPENSE: "§BSociální zabezpečení:§!" # todo: NEW TRANSLATION
+ WELFARE_RATE: "$$§R[?welfare_gain|-3]§!" # todo: NEW TRANSLATION
+ WELFARE_EXPENSE_TOOLTIP: "Výdaje na sociální zabezpečení" # todo: NEW TRANSLATION
+ WELFARE_EXPENSE_TOOLTIP_DELAYED: "Výdaje na sociální zabezpečení jsou částka, kterou utrácíme za různé sociální programy, jako jsou podpory v nezaměstnanosti, důchody a různé jiné dávky, které nesouvisí se zdravotnictvím nebo vzděláním. Základní náklady na sociální zabezpečení jsou odvozeny od celkové populace země a každá úroveň §YSociální výdaje§! zvyšuje náklady.\n\nVliv HDP/obyvatele na §YVýdaje na sociální zabezpečení§!: [?education_cost_gdp_multiplier_display|-%0]\nVliv zákonů, idejí a technologií na §YVýdaje na sociální zabezpečení§!: [?social_cost_multiplier_display|-%0]" # todo: NEW TRANSLATION
+ INTEREST_EXPENSE: "§RÚrok z dluhu:§!" # todo: NEW TRANSLATION
+ INTEREST_EXPENSE_TOOLTIP: "Zaplacený úrok" # todo: NEW TRANSLATION
+ INTEREST_EXPENSE_TOOLTIP_DELAYED: "Musíme platit úroky z dluhu, který naše země nashromáždila. Naše úroková sazba je převážně určena naším §Ypoměrem dluhu k HDP§!. Čím vyšší je tento poměr, tím méně důvěry mají různé finanční instituce v naší schopnost dluh splatit, což vede k vyšší úrokové sazbě. Naši úrokovou sazbu mohou ovlivnit různé §YNárodní ideje§!.\n\nPokud bude §Yúroková sazba§! vyšší než §Y10%§!, budou nám zpřístupněna nouzová rozhodnutí pro řešení rostoucího dluhu. Po překročení §Y15%§! začne naše ekonomika zpomalovat a utrpíme další nepříznivé dopady. V tomto okamžiku budeme mít možnost úmyslně nesplatit dluh (s velkými následky). Jakmile náš §Yúrok§! přesáhne §Y20%§!, nebudeme schopni ručně vzít další dluh. Pokud náš §Yúrok z dluhu§! přesáhne náš §YHrubý příjem§!, naše země zkolabuje.\n\nNaše současná §Yúroková sazba§! je [?interest_rate|3]%\n\nNáš současný poměr dluhu k HDP: §Y[?debt_ratio|%1]§!\n\nVliv idejí na §Yúrokovou sazbu§!: [?interest_rate_multiplier|-0] (procentní body)" # todo: NEW TRANSLATION
+ DEBT_RATE: "$$§R[?debt_rate|-3]§!" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSES: "§HDalší výdaje:§!" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSES_RATE: "$$§R[?additional_expenses_rate|-3]§!" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSES_TOOLTIP: "Další výdaje:\n[additional_expense_summary_iraq_war_compensation_half_billion][additional_expense_summary_iraq_war_compensation_one_billion][additional_expense_summary_iraq_war_compensation_two_billion][additional_expenses_canada_subsidy][display_military_leasing_costs][display_civilian_leasing_costs][display_naval_leasing_costs][additional_expense_summary_syria_agricultural_subsidies][display_industrial_projects_costs][display_infrastructure_projects_costs][display_arms_factory_projects_costs][service_constructions_projects_costs][display_dockyard_projects_costs][western_propaganda_campaign_costs][emerging_propaganda_campaign_costs][nonaligned_propaganda_campaign_costs][nationalists_propaganda_campaign_costs][salafist_propaganda_campaign_costs][propaganda_campaign_decision_costs][additional_expense_summary_occupation_of_lebanon][additional_expense_summary_al_jazeera][additional_expense_summary_EU_contribution][additional_expense_summary_BOT_coal_focused_energy][additional_expense_summary_BOT_renewable_focused_energy][additional_expense_summary_LIC_foreign_workers][additional_expense_large_company_subsidies][additional_expense_farmer_subsidies][ITA_additional_expense_display][additional_expense_pmc_salary][china_travel_ban_expenses][AdditionalExpenseMaritimeIndustryEventSubsidies][additional_expense_anti_cartel_propaganda_var][additional_expense_summary_tiba_car][additional_expense_summary_runna_car][additional_expense_summary_207_sd_car][additional_expense_summary_cerato_car][additional_expense_GER_war_debt][additional_expense_market_costs]" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSES_TOOLTIP_DELAYED: "Další výdaje jsou různé průběžné náklady, které má naše vláda a které nespadají do jiných kategorií výdajů. Sem patří například náklady vyplývající ze spouštěných rozhodnutí." # todo: NEW TRANSLATION
+ TOTAL_EXPENDITURE: "Celkové výdaje:" # todo: NEW TRANSLATION
+ TOTAL_EXPENDITURE_RATE: "$$§R[?display_expense]§!" # todo: NEW TRANSLATION
+ GROSS_INCOME: "Hrubý příjem:" # todo: NEW TRANSLATION
+ GROSS_INCOME_RATE: "$$§G[?display_income]§!" # todo: NEW TRANSLATION
+ POPULATION_TAX_RATE: "Sazba daně pro obyvatele" # todo: NEW TRANSLATION
+ POPULATION_TAX_RATE_TT: "Sazba daně pro obyvatele zahrnuje všechny daně ukládané veřejnosti. To může zahrnovat, ale není omezeno na, daň z příjmu, DPH, daň z prodeje a daň z nemovitosti.\n\n§YZměny ze sazeb daně pro obyvatele:§!\n£stability_texticon  Stabilita: [?stability_factor_from_population_tax|%+]" # todo: NEW TRANSLATION
+ CORPORATE_TAX_RATE: "Sazba korporátní daně" # todo: NEW TRANSLATION
+ CORPORATE_TAX_RATE_TT: "Sazba korporátní daně zahrnuje všechny daně ukládané korporacím. Hodnota zahrnuje daně z příjmu právnických osob, odvody zaměstnavatelů a další.\n\n§YZměny ze sazeb korporátních daní:§!\n£consumer_goods_texticon  Náklady na daně: [?consumer_goods_from_corporate_tax|%Y]\n£receiving_investment_cost_modifier_texticon §YZměna nákladů na přijímání zahraničních investic§!: [?receiving_investment_cost_form_corporate_tax|%-]" # todo: NEW TRANSLATION
+ maritime_subsidies_event_tt: "$$[?additional_expense_maritime_industry|3R] z $MAR_industry_subsidies$ (Zbývá dní: [?MAR_industry_subsidies:days_left|Y0])\n" # todo: NEW TRANSLATION
+ min_export_text_tt: "[?ROOT.modifier@min_export|Y%0]" # todo: NEW TRANSLATION
+ min_export_text_tooltip_tt: "£traded_goods_texticon Zdroje na trh: [?ROOT.modifier@min_export|Y%0]\n\nTato hodnota představuje počet surovin, které jsou uvedeny na trh." # todo: NEW TRANSLATION
+ total_civilian_factories_amount_tt: "Tato hodnota představuje celkový počet §YCivilních průmyslových podniků§! v naší zemi." # todo: NEW TRANSLATION
+ total_civilian_factories_amount_tt_delayed: "Tato budova poskytuje státu průmysl pro výrobu civilního zboží nebo výstavbu nových budov. Lze ji převést na vojenský průmysl podle potřeby.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y360K§!\nZákladní výstup HDP na §YCivilní průmysl§!: $§Y20 miliard§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ total_military_factories_amount_tt: "Tato hodnota představuje celkový počet §YVojenských průmyslových závodů§! v naší zemi." # todo: NEW TRANSLATION
+ total_military_factories_amount_tt_delayed: "Tato budova poskytuje státu průmysl pro výrobu nového vojenského vybavení. Lze ji podle potřeby převést na civilní průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní výstup HDP na §YVojenský průmyslový závod§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ total_naval_yard_amount_tt: "Tato hodnota představuje celkový počet §YLoděnic§! v naší zemi." # todo: NEW TRANSLATION
+ total_naval_yard_amount_tt_delayed: "Tato budova poskytuje státu průmysl pro stavbu nových lodí.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní výstup HDP na §YLoděnici§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
+ total_offices_amount_tt: "Tato hodnota představuje celkový počet §YKancelářských sektorů§! v naší zemi." # todo: NEW TRANSLATION
+ total_offices_amount_tt_delayed: "Kancelářské sektory představují všechny ostatní odvětví ekonomiky nad rámec těžby a těžkého průmyslu. Patří sem finance, zákaznické služby, informační technologie, maloobchodní služby a mnoho dalšího.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y630K§!\nZákladní výstup HDP na §YKancelářský sektor§!: $§Y50 miliard§!\nZákladní spotřeba energie: §R-0.2§! GW" # todo: NEW TRANSLATION
+ increases_population_tax_tooltip: "Toto tlačítko zvýší §YSazbu daně pro obyvatele§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_personal_tax_laws]" # todo: NEW TRANSLATION
+ increases_population_tax_delayed_tooltip: "£left_mouse_texticon §YL Kliknutí§! pro zvýšení §YSazby daně pro obyvatele§! o 1%.\n£shift_texticon + £left_mouse_texticon §YShift L Kliknutí§! pro zvýšení §YSazby daně pro obyvatele§! o 5% (£pol_power_icon [?tax_rate_change_5])\n" # todo: NEW TRANSLATION
+ decreases_population_tax_tooltip: "Toto tlačítko sníží §YSazbu daně pro obyvatele§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_personal_tax_laws]" # todo: NEW TRANSLATION
+ decreases_population_tax_delayed_tooltip: "£left_mouse_texticon §YL Kliknutí§! pro snížení §YSazby daně pro obyvatele§! o 1%.\n£shift_texticon + £left_mouse_texticon §YShift L Kliknutí§! pro snížení §YSazby daně pro obyvatele§! o 5% (£pol_power_icon [?tax_rate_change_5])\n" # todo: NEW TRANSLATION
+ increases_corporate_tax_tooltip: "Toto tlačítko zvýší §YSazbu korporátní daně§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_corporate_tax_laws]" # todo: NEW TRANSLATION
+ increases_corporate_tax_delayed_tooltip: "£left_mouse_texticon §YL Kliknutí§! pro zvýšení §YSazby korporátní daně§! o 1%.\n£shift_texticon + £left_mouse_texticon §YShift L Kliknutí§! pro zvýšení §YSazby korporátní daně§! o 5% (£pol_power_icon [?tax_rate_change_5])\n" # todo: NEW TRANSLATION
+ decreases_corporate_tax_tooltip: "Toto tlačítko sníží §YSazbu korporátní daně§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_corporate_tax_laws]" # todo: NEW TRANSLATION
+ decreases_corporate_tax_delayed_tooltip: "£left_mouse_texticon §YL Kliknutí§! pro snížení §YSazby korporátní daně§! o 1%.\n£shift_texticon + £left_mouse_texticon §YShift L Kliknutí§! pro snížení §YSazby korporátní daně§! o 5% (£pol_power_icon [?tax_rate_change_5])\n" # todo: NEW TRANSLATION
+ tax_action_button_req_enable_TT: "£trigger_yes  [?tax_rate_change]£pol_power_icon" # todo: NEW TRANSLATION
+ tax_action_button_req_disable_TT: "£trigger_no  [?tax_rate_change]£pol_power_icon" # todo: NEW TRANSLATION
+ tax_action_button_per_enabled_TT: "£trigger_yes Povoleno upravovat §YSazby osobních daní§!" # todo: NEW TRANSLATION
+ tax_action_button_per_disabled_TT: "£trigger_no Povoleno upravovat §YSazby osobních daní§! (Zbývá dní: [?no_personal_tax_rate_change:days_left|Y0])" # todo: NEW TRANSLATION
+ tax_action_button_corp_enabled_TT: "£trigger_yes Povoleno upravovat §YSazby korporátních daní§!" # todo: NEW TRANSLATION
+ tax_action_button_corp_disabled_TT: "£trigger_no Povoleno upravovat §YSazby korporátních daní§! (Zbývá dní: [?no_corporate_tax_rate_change:days_left|Y0])" # todo: NEW TRANSLATION
+ no_corporate_tax_rate_change: "Povolení upravovat sazby korporátních daní" # todo: NEW TRANSLATION
+ no_personal_tax_rate_change: "Povolení upravovat sazby osobních daní" # todo: NEW TRANSLATION
+ print_money_button_tooltip: "§YTisknutí peněz§!\n§gVláda se ocitla v těžkých časech a potřebuje rychle získat prostředky. Místo spoléhání se na zdanění nebo prodej dluhopisů můžeme vydat peníze na pokrytí potřeb.§!\n\nVydáním tohoto příkazu vytiskneme dvě týdny vládních příjmů, které se přidají do pokladny. To však sníží produktivitu našich lidí, protože jejich výstup se znehodnotí následkem inflace způsobené tímto krokem. Pokles produktivity se s dalším tiskem zhoršuje, avšak pouze postupně se rok od roku zlepšuje.\n\n§YPočet tisků peněz:§! [?printing_money_var|0Y]\n\n§YPožadavky:§!\n[!print_money_button_click_enabled]\n§YEfekty:§!\n[!print_money_button_click]" # todo: NEW TRANSLATION
+ printed_money_recently_one_tt: "V poslední době nebyly tisknuty peníze (Zbývá dní: [?printed_money_recently:days_left|0Y])\n" # todo: NEW TRANSLATION
+ printed_money_recently_two_tt: "V poslední době nebyly tisknuty peníze\n" # todo: NEW TRANSLATION
+ NET_RATE: "Čistý příjem/Schodek:" # todo: NEW TRANSLATION
+ NET_RATE_NUM: "$$[?treasury_rate|+3]" # todo: NEW TRANSLATION
+ gdp_per_capita_country_modifiers: "HDP na obyvatele" # todo: NEW TRANSLATION
+ 2_per_capita_or_more_tt: "Více než $$§Y2.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 3_per_capita_or_more_tt: "Více než $$§Y3.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 4_per_capita_or_more_tt: "Více než $$§Y4.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 5_per_capita_or_more_tt: "Více než $$§Y5.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 6_per_capita_or_more_tt: "Více než $$§Y6.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 7_per_capita_or_more_tt: "Více než $$§Y7.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 8_per_capita_or_more_tt: "Více než $$§Y8.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 9_per_capita_or_more_tt: "Více než $$§Y9.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 10_per_capita_or_more_tt: "Více než $$§Y10.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 15_per_capita_or_more_tt: "Více než $$§Y15.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 20_per_capita_or_more_tt: "Více než $$§Y20.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 25_per_capita_or_more_tt: "Více než $$§Y25.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 30_per_capita_or_more_tt: "Více než $$§Y30.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 40_per_capita_or_more_tt: "Více než $$§Y40.000§!k HDP na obyvatele (Aktuální: $$§Y[?ROOT.gdp_per_capita]§!k)" # todo: NEW TRANSLATION
+ 7_total_gdp_tt: "Více než $$§Y7000§!b celkového HDP (Aktuální: $$§Y[?ROOT.gdp_total]§!b)" # todo: NEW TRANSLATION
+ full_control_of_suez_TT: "$$[?additional_income_suez|+3] z §Y$full_control_of_suez$§!\n" # todo: NEW TRANSLATION
+ BOS_united_nations_aid_TT: "$$[?Bosnia_united_nations_aid|+3] z §YWorld Bank, USAID, UNDP and CARDS§!\nBude §Rzrušeno§! pokud mezinárodní podpora odejde" # todo: NEW TRANSLATION
+ BOS_EUFOR_aid_money: "$$[?BOS_EUFOR_aid_money|+3] z §YCARDS Program Funding§!\n" # todo: NEW TRANSLATION
+ BOS_cards_programs: "$$[?BOS_cards_programs|+3] z §YCARDS Program Funding§!\n" # todo: NEW TRANSLATION
+ partial_control_of_suez_TT: "$$[?additional_income_suez_partial|+3] z §Y$partial_control_of_suez$§!\n" # todo: NEW TRANSLATION
+ full_control_of_panama_TT: "$$[?additional_income_panama|+3] z §Y$full_control_of_panama$§!\n" # todo: NEW TRANSLATION
+ saudi_aid_TT: "$$[?additional_income_saudi_aid|+3] z §Y$saudi_aid$§!\n" # todo: NEW TRANSLATION
+ iranian_aid_TT: "$$[?additional_income_iranian_aid|+3] z §Y$iranian_aid$§!\n" # todo: NEW TRANSLATION
+ iranian_aid_custom_TT: "$$[?additional_income_iranian_aid_custom|+3] z §Y$iranian_aid_custom$§!\n" # todo: NEW TRANSLATION
+ afghan_opium_TT: "$$[?additional_income_AFG_idea_state_sponsored_opium_industry|+3] z §Y$AFG_idea_state_sponsored_opium_industry$§!\n" # todo: NEW TRANSLATION
+ afghan_opium_economy_TT: "$$[?additional_income_AFG_idea_Opium_Economy|+3] z §Y$AFG_idea_Opium_Economy$§!\n" # todo: NEW TRANSLATION
+ afghan_opium_barons_TT: "$$[?additional_income_AFG_idea_Opium_barons|+3] z §Y$AFG_idea_Opium_barons$§!\n" # todo: NEW TRANSLATION
+ blood_diamond_trade_TT: "$$[?additional_income_blood_diamond_trade|+3] z §Y$blood_diamond_trade$§!\n" # todo: NEW TRANSLATION
+ USA_usaid_TT: "$$[?additional_income_USA_usaid|+3] z §Y$USA_usaid$§!\n" # todo: NEW TRANSLATION
+ WAA_Narcotics_Producer_TT: "$$[?additional_income_WAA_Narcotics_Producer|+3] z §Y$WAA_Narcotics_Producer$§!\n" # todo: NEW TRANSLATION
+ NKO_outsource_international_animation_TT: "$$[?additional_income_NKO_outsource_international_animation|+3] z §Y$NKO_idea_outsource_international_animation$§!\n" # todo: NEW TRANSLATION
+ DPRK_Exporting_Workforce_TT: "$$[?additional_income_DPRK_Exporting_Workforce|+3] z §Y$DPRK_Exporting_Workforce$§!\n" # todo: NEW TRANSLATION
+ Ryugyong_Hotel_TT: "$$[?additional_income_Ryugyong_Hotel|+3] z §Y$Ryugyong_Hotel$§!\n" # todo: NEW TRANSLATION
+ western_propaganda_additional_expense: "$$[?promote_outlook_western_costs|-3] z §Y$promote_outlook_decision_support_pro_western_parties$§!\n" # todo: NEW TRANSLATION
+ emerging_propaganda_additional_expense: "$$[?promote_outlook_emerging_costs|-3] z §Y$promote_outlook_decision_support_emerging_parties$§!\n" # todo: NEW TRANSLATION
+ nonaligned_propaganda_additional_expense: "$$[?promote_outlook_nonaligned_costs|-3] z §Y$promote_outlook_decision_support_the_non_aligned_parties$§!\n" # todo: NEW TRANSLATION
+ nationalists_propaganda_additional_expense: "$$[?promote_outlook_nationalist_costs|-3] z §Y$promote_outlook_decision_support_the_nationalists$§!\n" # todo: NEW TRANSLATION
+ salafist_propaganda_additional_expense: "$$[?promote_outlook_salafist_costs|-3] z §Y$promote_outlook_decision_support_the_salafists$§!\n" # todo: NEW TRANSLATION
+ propaganda_campaign_decision_additional_expense: "$$[?propaganda_campaign_influence_decision_costs|-3] z §Y$propaganda_campaign_decision$§!\n" # todo: NEW TRANSLATION
+ industrial_projects_additional_expense: "$$[?project_decisions_cost|-3] z §Y$industrial_projects_tt$§!\n" # todo: NEW TRANSLATION
+ infrastructure_projects_additional_expense: "$$[?project_decisions_cost|-3] z §Y$infrastructure_investiture_tt$§!\n" # todo: NEW TRANSLATION
+ arms_factory_projects_additional_expense: "$$[?project_decisions_cost|-3] z §Y$arms_industry_stipends_tt$§!\n" # todo: NEW TRANSLATION
+ dockyard_projects_additional_expense: "$$[?project_decisions_cost|-3] z §Y$retool_shipyards_tt$§!\n" # todo: NEW TRANSLATION
+ services_construction_additional_expense: "$$[?project_decisions_cost|-3] z §Y$service_constructions_tt$§!\n" # todo: NEW TRANSLATION
+ lease_mils_additional_expense: "$$[?lease_military_factories_cost|-3] z §Y$lease_military_factories_tt$§!\n" # todo: NEW TRANSLATION
+ lease_civs_additional_expense: "$$[?lease_civilian_factories_cost|-3] z §Y$lease_civilian_factories_tt$§!\n" # todo: NEW TRANSLATION
+ lease_navs_additional_expense: "$$[?lease_naval_factories_cost|-3] z §Y$lease_naval_dockyards_tt$§!\n" # todo: NEW TRANSLATION
+ canadian_subsidy_TT: "$$[?CAN_subsidy_total|-3] z §YEconomic Subsidies§!\n" # todo: NEW TRANSLATION
+ syria_agricultural_subsidies_TT: "$$[?additional_expense_syria_agricultural_subsidies|-3] z §YAgricultural Subsidies§!\n" # todo: NEW TRANSLATION
+ occupation_of_lebanon_TT: "$$[?additional_expense_occupation_of_lebanon|-3] z §Y$occupation_of_lebanon_dynamic_modifier$§!\n" # todo: NEW TRANSLATION
+ al_jazeera_TT: "$$[?additional_expense_al_jazeera|-3] z §Y$al_jazeera$§!\n" # todo: NEW TRANSLATION
+ EU_budget_contribution_weekly_TT: "$$[?EU_budget_contribution_weekly|-3] z §YEU Budget Contribution§!\n" # todo: NEW TRANSLATION
+ EU_budget_subsidies_weekly_TT: "$$[?EU_subsidies|+3] z §YEU Budget Contribution§!\n" # todo: NEW TRANSLATION
+ summary_BOT_coal_focused_energy_TT: "$$[?additional_expense_BOT_coal_focused_energy|-3] z §Y$BOT_coal_focused_energy$§!\n" # todo: NEW TRANSLATION
+ summary_BOT_renewable_focused_energy_TT: "$$[?additional_expense_BOT_renewable_focused_energy|-3] z §Y$BOT_renewable_focused_energy$§!\n" # todo: NEW TRANSLATION
+ summary_BOT_coal_focused_energy_small_profit_TT: "$$[?additional_income_BOT_coal_focused_energy_small_profit|+3] z §Y$BOT_coal_focused_energy_small_profit$§!\n" # todo: NEW TRANSLATION
+ summary_BOT_coal_focused_energy_rich_TT: "$$[?additional_income_BOT_coal_focused_energy_rich|+3] z §Y$BOT_coal_focused_energy_rich$§!\n" # todo: NEW TRANSLATION
+ summary_BOT_renewable_focused_energy_small_profit_TT: "$$[?additional_income_BOT_renewable_focused_energy_small_profit|+3] z §Y$BOT_renewable_focused_energy_small_profit$§!\n" # todo: NEW TRANSLATION
+ summary_BOT_renewable_focused_energy_rich_TT: "$$[?additional_income_BOT_renewable_focused_energy_rich|+3] z §Y$BOT_renewable_focused_energy_rich$§!\n" # todo: NEW TRANSLATION
+ BRA_plano_real_idea_TT: "$$[?additional_income_BRA_plano_real|+3] z §YPlano Real Reform's§!\n" # todo: NEW TRANSLATION
+ large_company_subsidies: "$$[?large_company_subsidies|-3] z §Y$small_medium_business_owners$§! dotací (Zbývá dní: [?large_company_subsidies:days_left|Y0])\n" # todo: NEW TRANSLATION
+ farmer_subsidies: "$$[?farmer_subsidies|-3] z §Y$farmers$§! dotací (Zbývá dní: [?farmer_subsidies:days_left|Y0])\n" # todo: NEW TRANSLATION
+ anti_cartel_propaganda_var_tt: "$$[?anti_cartel_propaganda_var|-3] z §Y$anti_cartel_propaganda_decision$§! (Zbývá dní: [?anti_cartel_propaganda_flag:days_left|Y0])\n" # todo: NEW TRANSLATION
+ SPR_tourist_industry_1_TT: "$$[?SPR_tourism_1_effect|+3] z §YTurestický průmysl§!\n" # todo: NEW TRANSLATION
+ SPR_tourist_industry_2_TT: "$$[?SPR_tourism_2_effect|+3] z §YTurestický průmysl§!\n" # todo: NEW TRANSLATION
+ SPR_tourist_industry_3_TT: "$$[?SPR_tourism_3_effect|+3] z §YTurestický průmysl§!\n" # todo: NEW TRANSLATION
+ pmc_expenses_loc: "$$[?pmc_expenses|-3] z §YNákladů PMC§!\n" # todo: NEW TRANSLATION
+ pmc_income_loc: "$$[?pmc_profits|+3] z §YPříjmů z pronájmu PMC jiným zemím§!\n" # todo: NEW TRANSLATION
+ AZE_indian_ports_gain_loc: "$$[?AZE_indian_ports_idea_gain|+3] z příjmů z indických přístavů." # todo: NEW TRANSLATION
+ irgc_black_market_income_tt: "$$[?additional_income_irgc_black_market|+3] z §Y$PER_irgc_black_market_exploits$§!\n" # todo: NEW TRANSLATION
+ PER_redirecting_money_from_proxies_tt: "$$[?PER_redirecting_money_from_proxies|+3] z §Y$PER_redirecting_money_from_proxies_tt$§!\n" # todo: NEW TRANSLATION
+ VEN_iron_control_vdp_TT: "$$[?additional_income_iron_control_vdp|+3] z §Y$VEN_iron_control_vdp$§!\n" # todo: NEW TRANSLATION
+ GER_russian_buddies_income_tt: "$$[?additional_income_GER_russian_buddies|+3] z §Y$GER_russian_buddies$§!\n" # todo: NEW TRANSLATION
+ TUR_taxing_bosphorus: "$$[?TUR_taxing_bosphorus|+3] z §Y$Taxing the Strait$§!\n" # todo: NEW TRANSLATION
+ BLR_Kommunarka_invest_gain_loc: "$$[?BLR_Kommunarka_invest_gain|+3] z §YPříjmů z prodejů v Rusku§!\n" # todo: NEW TRANSLATION
+ BLR_Kommunarka_invest_cis_gain_loc: "$$[?BLR_Kommunarka_invest_cis_gain|+3] z §YPříjmů z prodejů v SNS§!\n" # todo: NEW TRANSLATION
+ BLR_minotor_servise_blr_gain_loc: "$$[?BLR_minotor_servise_blr_gain_loc|+3] z dohody s Minotor Service!\n" # todo: NEW TRANSLATION
+ BLR_minotor_servise_sov_gain_loc: "$$[?BLR_minotor_servise_sov_gain_loc|+3] z dohody s Minotor Service!\n" # todo: NEW TRANSLATION
+ grodnoazot_income_loc: "$$[?additional_income_azot|+3] z §YObchodu s hnojivy§!\n" # todo: NEW TRANSLATION
+ BLR_tourism_income_loc: "$$[?additional_income_BLR_tourism|+3] z §YTurestického průmyslu§!\n" # todo: NEW TRANSLATION
+ BLR_tourism3_income_loc: "$$[?additional_income_BLR_tourism3|+3] z §YTurestického průmyslu§!\n" # todo: NEW TRANSLATION
+ BLR_tourism4_income_loc: "$$[?additional_income_BLR_tourism4|+3] z §YTurestického průmyslu§!\n" # todo: NEW TRANSLATION
+ BLR_tourism5_income_loc: "$$[?additional_income_BLR_tourism5|+3] z §YTurestického průmyslu§!\n" # todo: NEW TRANSLATION
+ BLR_minotor_servise_blr_income_loc: "$$[?additional_income_BLR_minotor_servise_blr|+3] z §YMinotor Service§!\n" # todo: NEW TRANSLATION
+ BLR_mzkt_contract_blr_income_loc: "$$[?additional_income_BLR_mzkt_contract_blr|+3] z §YMZKT§!\n" # todo: NEW TRANSLATION
+ DPR_rf_money_income_loc: "$$[?additional_income_DPR_rf_money|+3] z §YRuska§!\n" # todo: NEW TRANSLATION
+ china_travel_ban_additional_expenses: "$$[?additional_expense_china_travel_ban|-3] z §Y$china_travel_ban$§!\n" # todo: NEW TRANSLATION
+ iran_war_compensation_half_billion_TT: "$$[?additional_income_iran_war_compensation_half|+3] z §YNáhrady od Iráku§!\n" # todo: NEW TRANSLATION
+ iran_war_compensation_one_billion_TT: "$$[?additional_income_iran_war_compensation_one|+3] z §YNáhrady od Iráku§!\n" # todo: NEW TRANSLATION
+ iran_war_compensation_two_billion_TT: "$$[?additional_income_iran_war_compensation_two|+3] z §YNáhrady od Iráku§!\n" # todo: NEW TRANSLATION
+ tiba_car_expense_TT: "$$[?additional_expense_tiba_car|-3] z §YTiba Car§!\n" # todo: NEW TRANSLATION
+ runna_car_expense_TT: "$$[?additional_expense_runna_car|-3] z §YRunna Car§!\n" # todo: NEW TRANSLATION
+ 207_sd_car_expense_TT: "$$[?additional_expense_207_sd_car|-3] z §Y207 SD Car§!\n" # todo: NEW TRANSLATION
+ cerato_car_expense_TT: "$$[?additional_expense_cerato_car|-3] z §YCerato Car§!\n" # todo: NEW TRANSLATION
+ tiba_car_expense_effect_TT: "Týdenní výdaje $§R0.070§! z §YTiba Car§!\n" # todo: NEW TRANSLATION
+ runna_car_expense_effect_TT: "Týdenní výdaje $§R0.130§! z §YRunna Car§!\n" # todo: NEW TRANSLATION
+ 207_sd_car_expense_effect_TT: "Týdenní výdaje $§R0.200§! z §Y207 SD Car§!\n" # todo: NEW TRANSLATION
+ cerato_car_expense_effect_TT: "Týdenní výdaje $§R0.350§! z §YCerato Car§!\n" # todo: NEW TRANSLATION
+ iraq_war_compensation_half_billion_TT: "$$[?additional_expense_iraq_war_compensation_half|-3] z §YNáhrad pro Írán§!\n" # todo: NEW TRANSLATION
+ iraq_war_compensation_one_billion_TT: "$$[?additional_expense_iraq_war_compensation_one|-3] z §YNáhrad pro Írán§!\n" # todo: NEW TRANSLATION
+ iraq_war_compensation_two_billion_TT: "$$[?additional_expense_iraq_war_compensation_two|-3] z §YNáhrad pro Írán§!\n" # todo: NEW TRANSLATION
+ CARTEL_deal_with_the_devil_tt: "$$[?cartel_deal_with_the_devil|+3] z $CARTEL_deal_with_the_devil_flag$" # todo: NEW TRANSLATION
+ gulf_exploitation_income_tt: "$$[?additional_income_gulf_exploitation|+3] z §Y$gulf_exploitation$§!\n" # todo: NEW TRANSLATION
+ SYR_syrian_bakadash_tt: "$$[?syria_bakdash_income|+3] z §Y$syria_bakdash$§!\n" # todo: NEW TRANSLATION
+ HEZ_hezbollah_sell_weapons_income_TT: "$$[?hezbollah_weekly_income_from_sold_weapons_variable|+3] z §YProdeje zbraní§!\n" # todo: NEW TRANSLATION
+ HEZ_hezbollah_iranian_business_TT: "$$[?HEZ_iranian_business_income|+3] z §YIránského obchodu§!\n" # todo: NEW TRANSLATION
+ HEZ_hezbollah_lebanese_support_TT: "$$[?HEZ_lebanese_support_money|+3] z §YLibanonské podpory§!\n" # todo: NEW TRANSLATION
+ HEZ_hezbollah_iranian_support_TT: "$$[?HEZ_iranian_support_money|+3] z §YÍránské podpory§!\n" # todo: NEW TRANSLATION
+ HEZ_unkown_funds_TT: "$$[?HEZ_unknown_funds_income|+3] z §YNeznámých zdrojů§!\n" # todo: NEW TRANSLATION
+ market_purchase_expense_tt: "\n$$§R[?market_purchase_factories_cost_track]§! z §YTržních kontraktů§!\n" # todo: NEW TRANSLATION
+ market_sold_income_tt: "\n$$§G[?market_sold_value_track]§! z §YTržních kontraktů§!\n" # todo: NEW TRANSLATION
+ open_contract_money_screen: "Otevřít přehled nákladů kontraktů" # todo: NEW TRANSLATION
+ open_contract_money_screen_desc: "Otevře obrazovku nákladů pro mezinárodní trh." # todo: NEW TRANSLATION
+ al_jazeera_idea_TT: "Další výdaje: $§R0.020§!\n" # todo: NEW TRANSLATION
+ china_travel_ban_idea_tt: "Další výdaje: $§R0.500§!" # todo: NEW TRANSLATION
+ SIN_singaporean_trade_strength_TT: "$$[?SIN_tariff_income|+3] z §Y$SIN_singaporean_trade_strength$§!\n" # todo: NEW TRANSLATION
+ gulf_exploitation_tt: "Dodatečný příjem: $§G[?additional_income_gulf_exploitation|+3]§!" # todo: NEW TRANSLATION
+ has_int_investments_tt: "Má §YM»Mezinárodní investice§! větší než §Y0§! (Aktuální hodnota:[?int_investments])\n" # todo: NEW TRANSLATION
+ bankruptcy_no_longer_looming_TT: "Náš §YZaplacený úrok z dluhu§! už není vyšší než §Yhranice bankrotu§!\n" # todo: NEW TRANSLATION
+ apply_int_investments_to_debt_5_tt: "§YMezinárodní investice§! jsou §Rsníženy§! o §R5%§! a výnosy se použijí na náš současný §Ydluh§!\n(Aktuálně ztracené investice pokud použito: §Y$$§!§R[?investment_reducer]§! miliard)" # todo: NEW TRANSLATION
+ interest_rate_greater_than_8_tt: "§YÚroková sazba§! je alespoň §R8%§!" # todo: NEW TRANSLATION
+ interest_rate_greater_than_13_tt: "§YÚroková sazba§! je alespoň §R13%§!" # todo: NEW TRANSLATION
+ interest_rate_less_than_3_5_tt: "§YÚroková sazba§! je méně než §Y3.5%§! (Aktuální:[?interest_rate|3]%)" # todo: NEW TRANSLATION
+ additional_expense_rate_percent_tt: "§YDalší výdaje§! se zvyšují o $$[?additional_expense_change|R3]" # todo: NEW TRANSLATION
+ additional_income_rate_percent_tt: "§YDalší příjmy§! se zvyšují o $$[?additional_income_change|G3]" # todo: NEW TRANSLATION
+ bankruptcy_treasury_tt: "[bankruptcy_treasury_scl]" # todo: NEW TRANSLATION
+ has_less_than_2_tt: "Má méně než §Y$$§!2 miliardy v §YPokladně§!\n" # todo: NEW TRANSLATION
+ has_less_than_5_tt: "Má méně než §Y$$§!5 miliard v §YPokladně§!\n" # todo: NEW TRANSLATION
+ has_less_than_10_tt: "Má méně než §Y$$§!10 miliard v §YPokladně§!\n" # todo: NEW TRANSLATION
+ has_less_than_15_tt: "Má méně než §Y$$§!15 miliard v §YPokladně§!\n" # todo: NEW TRANSLATION
+ has_less_than_20_tt: "Má méně než §Y$$§!20 miliard v §YPokladně§!\n" # todo: NEW TRANSLATION
+ has_less_than_25_tt: "Má méně než §Y$$§!25 miliard v §YPokladně§!\n" # todo: NEW TRANSLATION
+ commit_to_debt_reduction_tt: "Zavázat se ke snížení §Ynacionálního dluhu§! o §G5%§!\nPožadovaná úroveň dluhu, pokud se zavážeme: [?ROOT.reduce_debt_by_5]\n\nMáte §Y180 dní§!, abyste dodrželi závazek, pokud se rozhodnete dluh snížit." # todo: NEW TRANSLATION
+ jailed_the_speaker_tt: "Uvěznění předsedy způsobí nepokoje v zemi. Je pravděpodobné, že více lidí bude mluvit proti vládě." # todo: NEW TRANSLATION
+ passed_desired_amount_tt: "Aby byly dodrženy vaše sliby, musí se stát následující:\n§YDluh§! je pod závaznou úrovní. (Současný dluh: §Y$$§![?debt] Požadovaná úroveň: §Y$$§![?reduce_debt_by_5])" # todo: NEW TRANSLATION
+ committed_to_reducing_debt: "Zavázáno ke snižování dluhu" # todo: NEW TRANSLATION
+ choice_stuck_for_60_days_tt: "Nebudete moci měnit zákony po dobu §Y60 dnů§!." # todo: NEW TRANSLATION
+ reduce_interest_rate: "Dočasná opatření týkající se úrokové sazby" # todo: NEW TRANSLATION
+ reduce_interest_rate_desc: "Můžeme dočasně požádat o nižší sazbu, aby se zmírnily naše problémy s dluhem. Žádost platí pouze tři měsíce, poté se sazba vrátí na původní úroveň." # todo: NEW TRANSLATION
+ bankruptcy_decisions: "Státní dluh" # todo: NEW TRANSLATION
+ bankruptcy_decisions_desc: "Naše vláda si právě nabírá stále více a více §Ydluhu§!. Nedávno jsme dosáhli milníku a nyní platíme více než §R10%§! úrok z našeho současného §Ydluhu§!\n\nPoznámka pro hráče: Jakmile se tato kategorie rozhodnutí aktivuje, začnete dostávat události, které ovlivní dluh vaší země. Může se jednat o negativní dopady nebo i malé pozitivní efekty, jako je dočasné refinancování.\n\n§YÚroková sazba§! je [?interest_rate|1]%               Poměr dluhu k HDP: §Y[?debt_ratio|-%1]§!\n§YÚrok placený z dluhu§! je §Y$$§! [?debt_rate|-3]\nDopad ideí na §Yúrokovou sazbu§!: [?interest_rate_multiplier|-0] (procentní body)\n\nMít vyšší §Yúrokovou sazbu§! než §Y10%§! nám otevře přístup k nouzovým rozhodnutím na řešení rostoucího dluhu. Poté, co úrok stoupne nad §Y15%§!, se naše ekonomika začne zpomalovat a utrpíme další nepříznivé efekty. V tu chvíli budeme mít možnost prohlásit platební neschopnost (za velkou cenu). Jakmile naše §Yúroková sazba§! překročí §Y20%§!, nebudeme moci manuálně přijímat další dluhy. Pokud náš §Yúrok z dluhu§! překročí náš §Yhrubý příjem§!, naše země zkolabuje." # todo: NEW TRANSLATION
+ bankruptcy_cheap_loans_from_imf: "Získat levné půjčky od MMF" # todo: NEW TRANSLATION
+ bankruptcy_cheap_loans_from_imf_desc: "Jako rozvinutá země můžeme vyjednat s MMF půjčku s nízkým úrokem. S touto novou levnou půjčkou splatíme část našich dřívějších dluhů a dočasně snížíme celkové úroky. Je to však pouze dočasné opatření — za rok se naše úrokové sazby vrátí do normálu" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_biggest_influencer: "Požádat o odpuštění dluhu u [?var:FROM.influence_array^0.GetNameWithFlag]" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_biggest_influencer_desc: "Můžeme požádat naše velké ekonomické podporovatele, aby nám odlehčili část dluhu a některou i odpustili. Samozřejmě to poskytne dárci značný vliv nad námi." # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_second_biggest_influencer: "Požádat o odpuštění dluhu u [?var:FROM.influence_array^1.GetNameWithFlag]" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_second_biggest_influencer_desc: "Můžeme požádat naše velké ekonomické podporovatele, aby nám odlehčili část dluhu a některou i odpustili. Samozřejmě to poskytne dárci značný vliv nad námi." # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_neighbour: "Požádat o odpuštění dluhu od našeho souseda [FROM.GetNameWithFlag]" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_neighbour_desc: "Část peněz, které dlužíme, pochází od našeho bohatšího souseda [FROM.GetNameDef]. Jako přátelský soused bychom je mohli požádat, aby nás zachránili?" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_overlord: "Požádat o odpuštění dluhu od našeho suzeréna [?overlord.GetNameWithFlag]" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_overlord_desc: "Jelikož velká část naší politiky je ovládána naším suzerénem, dává smysl, že nesou i odpovědnost za část našich financí. Musíme je požádat o pomoc." # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_imf: "Požádat o odpuštění dluhu od MMF" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_imf_desc: "Jako poslední možnost můžeme požádat MMF o oddlužení. Jelikož MMF zastupuje množství finančních institucí po celém světě, jsou velmi přísní v nakládání s penězi. Budou po nás požadovat změny finanční politiky, aby se zajistilo, že v budoucnu budeme schopni splácet dluhy." # todo: NEW TRANSLATION
+ bankruptcy_incoming_collapse: "Blížící se finanční kolaps" # todo: NEW TRANSLATION
+ bankruptcy_incoming_collapse_desc: "Je to teď zřejmé. Úrok, který vláda platí za svůj dluh, narostl do takové míry, že zastíní naše celkové příjmy. Je to noční můra a přesvědčit naše obyvatelstvo, že máme situaci pod kontrolou, bude velmi těžké" # todo: NEW TRANSLATION
+ bankruptcy_default_on_debts: "Prohlásit platební neschopnost vůči dluhům" # todo: NEW TRANSLATION
+ bankruptcy_default_on_debts_desc: "Prohlášením platební neschopnosti dáme věřitelům najevo, že není reálné, abychom uhradili veškerý svůj dluh. Je to poslední možnost, kterou má vysoce zadlužená země ke zvládnutí dluhové krize. Obvykle část našeho dluhu bude vyrovnána (odpuštěna) věřiteli, protože raději získají něco než o všechno přijít při úplném kolapsu. To se však neobejde bez politických ústupků. Prohlášení platební neschopnosti a žádné kompenzace věřitelům může být velmi nebezpečné." # todo: NEW TRANSLATION
+ cheap_loans_from_imf_tt: "Náš §Ydluh§! se zvýší o $§R[?debt_addition|0]§! §Ymiliard§!, ale naše §Yúroková sazba§! bude snížena o §G-2%§! na jeden rok" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_biggest_influencer_tt: "Požádáme [?var:FROM.influence_array^0.GetNameDef], aby se ujal §Y$[?debt_bailout_temp|3] miliard§! našeho dluhu. Zaplatí tři čtvrtiny částky a zbytek bude odpuštěn. Ochota [?var:FROM.influence_array^0.GetNameDef] dluh zaplatit bude záviset na jejich vlastní finanční situaci.\n\nPokud s dohodou souhlasí, získají §R15%§! vliv na nás!\n\n" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_second_biggest_influencer_tt: "Požádáme [?var:FROM.influence_array^1.GetNameDef], aby se ujal §Y$[?debt_bailout_temp|3] miliard§! našeho dluhu. Zaplatí dvě třetiny částky a zbytek bude odpuštěn. Ochota [?var:FROM.influence_array^1.GetNameDef] dluh zaplatit bude záviset na jejich vlastní finanční situaci.\n\nPokud s dohodou souhlasí, získají §R10%§! vliv na nás!\n\n" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_neighbour_tt: "Požádáme [FROM.GetNameDef], aby se ujal §Y$[?debt_bailout_temp|3] miliard§! našeho dluhu. Zaplatí polovinu částky a zbytek bude odpuštěn. Ochota [FROM.GetNameDef] dluh zaplatit bude záviset na jejich vlastní finanční situaci.\n\nPokud s dohodou souhlasí, získají §R5%§! vliv na nás!\n\n" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_overlord_tt: "Požádáme [?overlord.GetNameDef], aby se ujal §Y$[?debt_bailout_temp|3] miliard§! našeho dluhu. Zaplatí polovinu částky a zbytek bude odpuštěn. Ochota [?overlord.GetNameDef] dluh zaplatit bude záviset na jejich vlastní finanční situaci.\n\nPokud s dohodou souhlasí, získají §R5%§! vliv na nás!\n\n" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_imf_tt: "Kontaktujeme MMF a požádáme je, aby vyrovnali §Y$[?debt_bailout_temp|3] miliard§! našeho dluhu a poskytli nám nižší úrokovou sazbu na rok. Na oplátku budou po nás požadovat změny finanční politiky. §ROdmítnutí jejich požadavků bude potrestáno dočasně vyšší úrokovou sazbou!§!\n\n" # todo: NEW TRANSLATION
+ bankruptcy_seek_bailout_from_imf_low_gdp_per_capita_tt: "§RJelikož je náš HDP na obyvatele nižší než $5k, obdržíme přísnější požadavky než obvykle!§!" # todo: NEW TRANSLATION
+ bankruptcy_incoming_collapse_complete_trigger: "Náš §Yúrok z dluhu§! je nižší než náš §Yhrubý příjem§!" # todo: NEW TRANSLATION
+ bankruptcy_default_on_debts_tt: "§Y25%§! našeho dluhu bude vyrovnáno okamžitě. §Y50%§! našeho dluhu bude převedeno do platební neschopnosti. Budeme mít §Y360 dní§! na nalezení řešení, jak se zbavit tohoto nesplaceného dluhu. §RPokud včas nevyřešíme situaci, naši vlivní věřitelé mohou zkusit peníze vymáhat násilím§!\n\n" # todo: NEW TRANSLATION
+ debt_default_cancel_int_investments: "Naše §Ymezinárodní investice§! a §Ypokladna§! jsou nastaveny na §Y$0§!\n" # todo: NEW TRANSLATION
+ interest_rate_higher_than_10: "Naše §Yúroková sazba§! je vyšší než §Y10%§! (Aktuálně §Y[?interest_rate|1]%§!)" # todo: NEW TRANSLATION
+ interest_rate_lower_than_15: "Naše §Yúroková sazba§! je nižší než §Y15%§! (Aktuálně §Y[?interest_rate|1]%§!)" # todo: NEW TRANSLATION
+ treasury_less_than_5: "Naše §Ypokladna§! je nižší než §Y$$5 miliard§! (Aktuálně §Y$$[?treasury] miliard§!)" # todo: NEW TRANSLATION
+ debt_default_decisions: "Platební neschopnost" # todo: NEW TRANSLATION
+ debt_default_decisions_desc: "Musíme najít způsob, jak vyrovnat zbylý nesplacený dluh.\n\nZbývající nesplacený dluh: §Y$[?debt_default_left] miliard§!" # todo: NEW TRANSLATION
+ debt_default_main_mission: "Splatit naše nesplacené dluhy" # todo: NEW TRANSLATION
+ debt_default_main_mission_desc: "Musíme najít způsob, jak vyrovnat, uhradit nebo zaplatit zbývající dluh, který jsme nespláceli" # todo: NEW TRANSLATION
+ debt_default_pay_10_from_treasury: "Zaplatit $10 miliard z naší pokladny" # todo: NEW TRANSLATION
+ debt_default_pay_10_from_treasury_desc: "Jedním ze způsobů, jak zaplatit staré dluhy, je vzít nové dluhy a použít je na splacení těch starých. Věřitelé to samozřejmě nepřijmou jen proto, aby nám umožnili znovu naběhnout do vysokého zadlužení" # todo: NEW TRANSLATION
+ debt_default_pay_50_from_treasury: "Zaplatit $50 miliard z naší pokladny" # todo: NEW TRANSLATION
+ debt_default_pay_50_from_treasury_desc: "Jedním ze způsobů, jak zaplatit staré dluhy, je vzít nové dluhy a použít je na splacení těch starých. Věřitelé to samozřejmě nepřijmou jen proto, aby nám umožnili znovu naběhnout do vysokého zadlužení" # todo: NEW TRANSLATION
+ debt_default_concessions_to_the_imf: "Politické ústupky MMF" # todo: NEW TRANSLATION
+ debt_default_concessions_to_the_imf_desc: "MMF požaduje, abychom přijali razantní úsporná opatření, aby se zajistilo, že se nepropadneme do stejné pasti jako dříve. Jejich podmínky jsou tvrdé, ale odmítají vyrovnat naše dluhy, pokud nebudeme dělat, co nám nařídí" # todo: NEW TRANSLATION
+ debt_default_political_concessions_to_biggest_influencer: "Politické ústupky [?var:FROM.influence_array^0.GetNameWithFlag]" # todo: NEW TRANSLATION
+ debt_default_political_concessions_to_biggest_influencer_desc: "Pokud souhlasíme s poskytnutím politických ústupků [?var:FROM.influence_array^0.GetAdjective], jsou ochotni vyrovnat část našeho dluhu" # todo: NEW TRANSLATION
+ debt_default_political_concessions_to_second_biggest_influencer: "Politické ústupky [?var:FROM.influence_array^1.GetNameWithFlag]" # todo: NEW TRANSLATION
+ debt_default_political_concessions_to_second_biggest_influencer_desc: "Pokud souhlasíme s poskytnutím politických ústupků [?var:FROM.influence_array^1.GetAdjective], jsou ochotni vyrovnat část našeho dluhu" # todo: NEW TRANSLATION
+ debt_default_sell_civilian_factories: "Prodat státní průmyslové podniky" # todo: NEW TRANSLATION
+ debt_default_sell_civilian_factories_desc: "Abychom získali prostředky na vyrovnání nesplaceného dluhu, musíme rozebrat a prodat část státem řízeného primárního sektoru, jako jsou stavební firmy, elektrárny a provozovatelé sítí. Je to tvrdý zásah do naší ekonomiky, ale musí se to udělat" # todo: NEW TRANSLATION
+ debt_default_dismantle_military_factories: "Rozebrat vojenský průmysl" # todo: NEW TRANSLATION
+ debt_default_dismantle_military_factories_desc: "Některé naše závody vyrábějící vojenskou techniku by měly být uzavřeny, aby se zaplatil nesplacený dluh. Jakékoliv nářadí a zařízení jistě bude zajímat jiné země a můžeme prodat zásoby jako náhradní díly" # todo: NEW TRANSLATION
+ debt_default_scrap_dockyard: "Sešrotovat loděnice" # todo: NEW TRANSLATION
+ debt_default_scrap_dockyard_desc: "Máme rozestavěné lodě. Pokud výstavbu zastavíme a sešrotujeme nedokončené plavidlo, získáme tak finance. Měli bychom do toho prodat i zbylé vybavení loděnice" # todo: NEW TRANSLATION
+ debt_default_cut_down_government_services: "Škrty ve státní správě" # todo: NEW TRANSLATION
+ debt_default_cut_down_government_services_desc: "Je potřeba omezit výdaje na vládní služby a zrušit nevyužité kancelářské prostory" # todo: NEW TRANSLATION
+ debt_default_main_mission_complete_trigger: "Zbývající nesplacený dluh je $0" # todo: NEW TRANSLATION
+ debt_default_pay_from_treasury_trigger_tooltip: "Naše §Yúroková sazba§! je nižší než 5% (Aktuálně [?interest_rate]%)" # todo: NEW TRANSLATION
+ debt_default_pay_10_from_treasury_tt: "Použít §Y$$10 miliard§! z naší §Ypokladny§! na splacení části starých dluhů\nZbývající nesplacený dluh: §G-$10§! miliard" # todo: NEW TRANSLATION
+ debt_default_pay_50_from_treasury_tt: "Použít §Y$$50 miliard§! z naší §Ypokladny§! na splacení části starých dluhů\nZbývající nesplacený dluh: §G-$50§! miliard" # todo: NEW TRANSLATION
+ debt_default_concessions_to_the_imf_tt: "Zbývající nesplacený dluh: §G-$[?debt_default_reduction]§!" # todo: NEW TRANSLATION
+ debt_default_political_concessions_to_biggest_influencer_tt: "Zbývající nesplacený dluh: §G-$[?debt_default_reduction]§!" # todo: NEW TRANSLATION
+ sell_10_billion_factory: "Zbývající nesplacený dluh: §G-$10§! miliard" # todo: NEW TRANSLATION
+ sell_15_billion_factory: "Zbývající nesplacený dluh: §G-$15§! miliard" # todo: NEW TRANSLATION
+ military_factory_employment_button_tt: "§YZaměstnanost v vojenských továrnách§!" # todo: NEW TRANSLATION
+ military_factory_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být užitečné v určitých situacích zvýšit nebo snížit, kolik pracovníků přidělujeme do jednotlivých sektorů (továrny/kanceláře), aby mohli více pracovníků přejít do jiných sektorů.\n\npolitická síla: §R-20§!\n\n£left_mouse_texticon §YL Klikněte§! pro snížení úrovně zaměstnanosti vojenských továren.\n£right_mouse_texticon §YR Klikněte§! pro zvýšení.\n\nAktuální cílová úroveň zaměstnanosti je: §Y[?ROOT.military_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ civilian_factory_employment_button_tt: "§YZaměstnanost v civilních továrnách§!" # todo: NEW TRANSLATION
+ civilian_factory_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být užitečné v určitých situacích zvýšit nebo snížit, kolik pracovníků přidělujeme do jednotlivých sektorů (továrny/kanceláře), aby mohli více pracovníků přejít do jiných sektorů.\n\npolitická síla: §R-20§!\n\n£left_mouse_texticon §YL Klikněte§! pro snížení úrovně zaměstnanosti civilních továren.\n£right_mouse_texticon §YR Klikněte§! pro zvýšení.\n\nAktuální cílová úroveň zaměstnanosti je: §Y[?ROOT.civilian_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ naval_factory_employment_button_tt: "§YZaměstnanost v loděnicích§!" # todo: NEW TRANSLATION
+ naval_factory_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být užitečné v určitých situacích zvýšit nebo snížit, kolik pracovníků přidělujeme do jednotlivých sektorů (továrny/kanceláře), aby mohli více pracovníků přejít do jiných sektorů.\n\npolitická síla: §R-20§!\n\n£left_mouse_texticon §YL Klikněte§! pro snížení úrovně zaměstnanosti v loděnicích.\n£right_mouse_texticon §YR Klikněte§! pro zvýšení.\n\nAktuální cílová úroveň zaměstnanosti je: §Y[?ROOT.naval_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ office_employment_button_tt: "§YZaměstnanost v kancelářích§!" # todo: NEW TRANSLATION
+ office_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být užitečné v určitých situacích zvýšit nebo snížit, kolik pracovníků přidělujeme do jednotlivých sektorů (továrny/kanceláře), aby mohli více pracovníků přejít do jiných sektorů.\n\npolitická síla: §R-20§!\n\n£left_mouse_texticon §YL Klikněte§! pro snížení úrovně zaměstnanosti kanceláří.\n£right_mouse_texticon §YR Klikněte§! pro zvýšení.\n\nAktuální cílová úroveň zaměstnanosti je: §Y[?ROOT.office_employment_var|%]§!" # todo: NEW TRANSLATION
+ lease_military_factories_tt: "§YPronajmout vojenské továrny§!" # todo: NEW TRANSLATION
+ lease_military_factories_delayed_tt: "Autarkická výroba vojenského zboží je už minulostí. Můžeme si najmout a pronajmout vojenské továrny ze zahraničí, aby vyráběly zboží, které potřebujeme.\n\n§YDalší výdaje:§! $§R[?lease_military_factories_cost]§!\n\nTyto továrny nám nevytvoří §YHDP§! ani §YPříjmy firem§!\nAktuálně pronajaté továrny: §Y[?leased_military_factories]§!\n\n[!lease_military_factories_click]\n§RKlikněte pravým tlačítkem pro snížení počtu pronajatých§!" # todo: NEW TRANSLATION
+ lease_civilian_factories_tt: "§YPronajmout civilní podniky§!" # todo: NEW TRANSLATION
+ lease_civilian_factories_delayed_tt: "Zaměstnání zahraničních stavebních a výrobních společností nám umožní rozvíjet vlastní průmysl.\n\n§YDalší výdaje:§! $§R[?lease_civilian_factories_cost]§!\n\nTyto továrny nám nevytvoří §YHDP§! ani §YPříjmy firem§!\nAktuálně pronajaté továrny: §Y[?leased_civilian_factories]§!\n\n[!lease_civilian_factories_click]\n§RKlikněte pravým tlačítkem pro snížení počtu pronajatých§!" # todo: NEW TRANSLATION
+ lease_naval_dockyards_tt: "§YPronajmout suché doky§!" # todo: NEW TRANSLATION
+ lease_naval_dockyards_delayed_tt: "Můžeme zaměstnat a najmout zahraniční loděnické společnosti k rozšíření naší námořní síly.\n\n§YDalší výdaje:§! $§R[?lease_naval_factories_cost]§!\n\nTyto továrny nám nevytvoří §YHDP§! ani §YPříjmy firem§!\nAktuálně pronajaté továrny: §Y[?leased_dockyards]§!\n\n[!lease_naval_dockyards_click]\n§RKlikněte pravým tlačítkem pro snížení počtu pronajatých§!" # todo: NEW TRANSLATION
+ industrial_projects_tt: "§YPrůmyslové projekty§!" # todo: NEW TRANSLATION
+ industrial_projects_tt: "§YPrůmyslové projekty§!" # todo: NEW TRANSLATION
+ industrial_projects_delayed_tt: "Investice do místních průmyslových projektů mohou pomoci zvýšit HDP a lokální ekonomickou hodnotu.\n\n[!industrial_projects_click]" # todo: NEW TRANSLATION
+ service_constructions_tt: "§YBudování sektoru služeb§!" # todo: NEW TRANSLATION
+ service_constructions_delayed_tt: "Investice do sektoru služeb pomohou řešit naše problémy se stagnující ekonomikou.\n\n[!service_constructions_click]" # todo: NEW TRANSLATION
+ infrastructure_investiture_tt: "§YInvestice do infrastruktury§!" # todo: NEW TRANSLATION
+ infrastructure_investiture_delayed_tt: "Dobré silnice = šťastní lidé\n\n[!infrastructure_investiture_click]" # todo: NEW TRANSLATION
+ arms_industry_stipends_tt: "§YPříspěvky pro zbrojařský průmysl§!" # todo: NEW TRANSLATION
+ arms_industry_stipends_delayed_tt: "Podpora vzniku místních zbrojařských společností může opravdu nastartovat rozvoj!\n\n[!arms_industry_stipends_click]" # todo: NEW TRANSLATION
+ retool_shipyards_tt: "§YPřestavět loděnice§!" # todo: NEW TRANSLATION
+ retool_shipyards_delayed_tt: "Přestavba civilních loděnic může pomoci naší armádě stavět více válečných plavidel k použití proti nepřátelům.\n\n[!retool_shipyards_click]" # todo: NEW TRANSLATION
+ treasury_loss_projects_TT: "Další výdaje: §R0.1%§! HDP\n\n§YNáklad projektu§! Modifikátor: [?ROOT.modifier@projects_cost_modifier|-2%]\n" # todo: NEW TRANSLATION
+ MICROSTATE_fix_tt: "§YDodatečný příjem:§! $§G0.500§!" # todo: NEW TRANSLATION
+ MICROSTATE_fix_additional_income: "$$[?additional_income_microstate_fix_var|+3] z §Y$MICROSTATE_fix$§!\n" # todo: NEW TRANSLATION
+ num_of_offices_more_than_0: "Více kanceláří než §Y0§!" # todo: NEW TRANSLATION
+ bankruptcy_timer: "Čas do prohlášení platební neschopnosti" # todo: NEW TRANSLATION
+ bankruptcy_timer_desc: "Pokud to doběhne, vyhlásíme platební neschopnost u našich půjček...\n" # todo: NEW TRANSLATION
+ apply_investments_to_debt: "Likvidovat mezinárodní investice" # todo: NEW TRANSLATION
+ apply_investments_to_debt_desc: "Je čas zlikvidovat některé z našich méně výnosných pozic, abychom mohli použít výtěžek na snížení dluhu. Každopádně prodělávaly!" # todo: NEW TRANSLATION
+ money_printer_go_brrt: "Tisknout peníze" # todo: NEW TRANSLATION
+ money_printer_go_brrt_desc: "Tisk peněz je dobré krátkodobé řešení pro použití volných prostředků na náš dluh." # todo: NEW TRANSLATION
+ seek_additional_bailouts: "Požádat o zahraniční záchrany" # todo: NEW TRANSLATION
+ seek_additional_bailouts_desc: "Požádání o zahraniční záchrany může pomoci naší zoufalé situaci." # todo: NEW TRANSLATION
+ bankruptcy.1.t: "[From.GetNameWithFlag] žádá o záchranu dluhu" # todo: NEW TRANSLATION
+ bankruptcy.1.d: "[From.GetName]'s debt problem has gotten so bad, that they realistically have no chance of either paying it down or even meeting running interest payments. With the real possibility of bankruptcy, it was under desperate circumstances that [From.GetAdjective] leader [From.GetLeader] had traveled to [Root.GetName] to plead for [Root.GetLeader]'s help.\n\n[From.GetNameWithFlag] is asking us to handle a debt portion of $[?FROM.debt_bailout|0] §Ybillion§! by paying 75% of it and forgiving the rest. If we do it, it would calm other international lenders, reducing drastically [From.GetName]'s lending costs, making their large debt manageable.\n\nThough we will lose money from doing this, they will seriously be in our debt, with our influence over them increasing significantly." # todo: NEW TRANSLATION
+ bankruptcy.1.a: "Poskytnout [From.GetNameWithFlag] záchranu" # todo: NEW TRANSLATION
+ bankruptcy.1.b: "Promiňte, nemůžeme si to dovolit" # todo: NEW TRANSLATION
+ bankruptcy_bailout_sum_TT: "Pokladna: §R-$[?our_cost|3] miliard§!\n" # todo: NEW TRANSLATION
+ bankruptcy_bailout_influence_TT: "[From.GetNameWithFlag]: [Root.GetNameWithFlag] §YVliv§! se zvýší o §G15%§!" # todo: NEW TRANSLATION
+ bankruptcy.2.t: "[From.GetNameWithFlag] žádá o záchranu dluhu" # todo: NEW TRANSLATION
+ bankruptcy.2.d: "[From.GetName]'s debt problem has gotten so bad, they realistically have no chance of either paying it down or even meeting running interest payments. With the real possibility of bankruptcy, it was under desperate circumstances that [From.GetAdjective] leader [From.GetLeader] had traveled to [Root.GetName] to plead for [Root.GetLeader]'s help.\n\n[From.GetNameWithFlag] is asking us to handle a debt portion of $[?FROM.debt_bailout|0] §Ybillion§! by paying two thirds of it and forgiving the rest. If we do it, it would calm other international lenders, reducing drastically [From.GetName]'s lending costs, making their large debt manageable.\n\nThough we will lose money from doing this, they will seriously be in our debt, with our influence over them increasing significantly." # todo: NEW TRANSLATION
+ bankruptcy.2.a: "Poskytnout [From.GetNameWithFlag] záchranu" # todo: NEW TRANSLATION
+ bankruptcy.2.b: "Promiňte, nemůžeme si to dovolit" # todo: NEW TRANSLATION
+ bankruptcy_bailout_influence_second_biggest_TT: "[From.GetNameWithFlag]: [Root.GetNameWithFlag] §YVliv§! se zvýší o §G10%§!" # todo: NEW TRANSLATION
+ bankruptcy.3.t: "[From.GetNameWithFlag] žádá o záchranu dluhu" # todo: NEW TRANSLATION
+ bankruptcy.3.d: "[From.GetName]'s debt problem has gotten so bad, they realistically have no chance of either paying it down or even meeting running interest payments. With the real possibility of bankruptcy, it was under desperate circumstances that [From.GetAdjective] leader [From.GetLeader] had traveled to [Root.GetName] to plead for [Root.GetLeader]'s help.\n\n[From.GetNameWithFlag] is asking us to handle a debt portion of $[?FROM.debt_bailout|0] §Ybillion§! by paying half of it and forgiving the rest. If we do it, it would calm other international lenders, reducing drastically [From.GetName]'s lending costs, making their large debt manageable.\n\nThough we will lose money from doing this, they will seriously be in our debt, with our influence over them increasing significantly." # todo: NEW TRANSLATION
+ bankruptcy.3.a: "Poskytnout [From.GetNameWithFlag] záchranu" # todo: NEW TRANSLATION
+ bankruptcy.3.b: "Promiňte, nemůžeme si to dovolit" # todo: NEW TRANSLATION
+ bankruptcy_bailout_influence_neighbour_TT: "[From.GetNameWithFlag]: [Root.GetNameWithFlag] §YVliv§! se zvýší o §G5%§!" # todo: NEW TRANSLATION
+ bankruptcy.4.t: "[From.GetNameWithFlag] nám zamítá záchranu!" # todo: NEW TRANSLATION
+ bankruptcy.4.d: "Na včerejším vrcholovém setkání v [From.GetName] mezi [From.GetLeader] a [Root.GetLeader] byli [From.GetAdjective] zcela nesympatičtí k našim potřebám a odmítli nás zachránit. Ačkoli nám [From.GetName] v pravém slova smyslu nic nedlužil, jejich odmítnutí poškodilo naše vnímání jejich jako spolehlivého partnera." # todo: NEW TRANSLATION
+ bankruptcy.4.a: "Dobře" # todo: NEW TRANSLATION
+ bankruptcy.5.t: "[From.GetNameWithFlag] žádá o záchranu dluhu" # todo: NEW TRANSLATION
+ bankruptcy.5.d: "[From.GetName]'s debt problem has gotten so bad, they realistically have no chance of either paying it down or even meeting running interest payments. With the real possibility of bankruptcy, it was under desperate circumstances that [From.GetAdjective] leader [From.GetLeader] had traveled to [Root.GetName] to plead for [Root.GetLeader]'s help.\n\n[From.GetNameWithFlag] is asking us to handle a debt portion of $[?FROM.debt_bailout|0] §Ybillion§! by paying half of it and forgiving the rest. If we do it, it would calm other international lenders, reducing drastically [From.GetName]'s lending costs, making their large debt manageable.\n\nThough we will lose money from doing this, they will seriously be in our debt, with our influence over them increasing significantly." # todo: NEW TRANSLATION
+ bankruptcy.5.a: "Poskytnout [From.GetNameWithFlag] záchranu" # todo: NEW TRANSLATION
+ bankruptcy.5.b: "Promiňte, nemůžeme si to dovolit" # todo: NEW TRANSLATION
+ bankruptcy.10.t: "Opozice požaduje volby" # todo: NEW TRANSLATION
+ bankruptcy.10.d: "Několik vůdců opozičních stran dnes vydalo společné prohlášení, že vláda [ROOT.GetLeader] a [show_ruling_party] vede zemi k finančnímu zániku. Požadují okamžité volby, aby vznikla nová vláda s mandátem lidu a schopná opravit finanční propad země. Podle našich zpravodajských zpráv má tento návrh značnou podporu veřejnosti. Pokus udržet se u moci v takové krizi by mohl být katastrofální." # todo: NEW TRANSLATION
+ bankruptcy.10.a: "Musíme uspořádat nové volby" # todo: NEW TRANSLATION
+ bankruptcy.10.b: "Volby uspořádáme až po konci našeho volebního období, ne dříve" # todo: NEW TRANSLATION
+ bankruptcy.11.t: "Protestující se pokoušejí vniknout do parlamentu" # todo: NEW TRANSLATION
+ bankruptcy.11.d: "Poté, co [ROOT.GetLeader] oznámil, že nebudou nové volby, lidé v [ROOT.GetName] téměř okamžitě vyšli do ulic. Skupina protestujících vedená předsedou hlavní opoziční strany zamířila k budově parlamentu s požadavky, aby [ROOT.GetLeader] odstoupil (nebo horšími záměry).\n\nMístní policii se nepodařilo protestující zastavit, kteří jsou právě v procesu obsazování parlamentu. Co máme udělat?" # todo: NEW TRANSLATION
+ bankruptcy.11.a: "Počkejte chviličku, hned si obrátím kabát..." # todo: NEW TRANSLATION
+ bankruptcy.11.b: "Rozkažte armádě zasáhnout a zatknout tyto rebelanty!" # todo: NEW TRANSLATION
+ bankruptcy.11.a_tt: "§GNejvětší opoziční strana mírumilovně přebírá moc§!" # todo: NEW TRANSLATION
+ bankruptcy.11.b_tt: "§GSoučasná vládnoucí strana si udržuje moc§!" # todo: NEW TRANSLATION
+ bankruptcy.12.t: "Opozice požaduje, aby [show_ruling_party] odstoupila" # todo: NEW TRANSLATION
+ bankruptcy.12.d: "Několik vůdců opozičních stran dnes vydalo společné prohlášení, že vláda [ROOT.GetLeader] a [show_ruling_party] vede zemi k finančnímu zániku. Požadují, aby [show_ruling_party] odstoupila z moci a umožnila legitimnější politické straně sestavit novou vládu s mandátem lidu a schopnou napravit finanční propad. Podle našich zpravodajských zpráv má tato myšlenka značnou podporu veřejnosti. Pokus se udržet u moci v takové krizi může být katastrofální." # todo: NEW TRANSLATION
+ bankruptcy.12.a: "Musíme odstoupit" # todo: NEW TRANSLATION
+ bankruptcy.12.b: "Nemají právo si takové požadavky klást" # todo: NEW TRANSLATION
+ bankruptcy.13.t: "[FROM.GetNameDef] ruší svůj dluh!" # todo: NEW TRANSLATION
+ bankruptcy.13.d: "Před rokem [FROM.GetNameDef] oznámil(a), že nebude schopen(a) splatit své dluhy, a zahájil(a) proces odstoupení od závazků. Dohodou zamýšleli dluh splatit nebo vyrovnat. Místo nalezení řešení však jednoduše zrušili svůj starý dluh bez úmyslu ho nějak kompenzovat. Co máme dělat?" # todo: NEW TRANSLATION
+ bankruptcy.13.a: "Do války, proboha!" # todo: NEW TRANSLATION
+ bankruptcy.13.b: "Koho to zajímá?" # todo: NEW TRANSLATION
+ bankruptcy.100.t: "MMF požaduje méně byrokracie" # todo: NEW TRANSLATION
+ bankruptcy.100.d: "Po analýze naší finanční situace dospěl MMF k závěru, že za naše ekonomické a finanční potíže může nadměrná byrokracie v zemi. Papírování je třeba omezit, aby podniky měly větší zájem působit v zemi a aby finanční instituce mohly řídit svůj aparát podle vlastních představ.\n\nPodle MMF je toto omezení administrativy naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.100.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.100.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.101.t: "MMF požaduje zmenšení armády" # todo: NEW TRANSLATION
+ bankruptcy.101.d: "Po analýze naší finanční situace dospěl MMF k závěru, že za naše ekonomické a finanční potíže může vysoké vojenské financování země. Miliardy jsou vynakládány na financování armády a nákup vybavení. To podle MMF odvádí zemi prostředky, které by mohly být použity rozumněji. Navíc vysoké financování armády mnoho podnikatelů znepokojuje, protože se obávají možného zásahu ozbrojených sil a destabilizace politického systému.\n\nPodle MMF je okamžité snížení vojenských výdajů naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.101.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.101.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.102.t: "MMF požaduje zmenšení policie" # todo: NEW TRANSLATION
+ bankruptcy.102.d: "Po analýze naší finanční situace dospěl MMF k závěru, že bezpečnostní aparát je příliš velkou zátěží pro naši zemi. I když chápou potřebu bezpečnosti, podle nich by odnímání financí policii a rozumnější využití těchto prostředků přineslo více bezpečí.\n\nPodle MMF musí být naše vnitřní bezpečnostní složky výrazně škrtány, aby bylo možné reorganizovat náš dluh." # todo: NEW TRANSLATION
+ bankruptcy.102.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.102.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.103.t: "MMF požaduje snížení podpory veřejného školství" # todo: NEW TRANSLATION
+ bankruptcy.103.d: "Po analýze naší finanční situace dospěl MMF k závěru, že úroveň, jakou podporujeme vzdělávání našich občanů, je příliš vysoká. Doporučují snížit státní podporu vysokého školství a různé výzkumné granty. Místo podpory studentů bychom měli zvýšit jejich závislost na soukromých studentských půjčkách.\n\nPodle MMF je toto omezení vzdělávání naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.103.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.103.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.104.t: "MMF požaduje privatizaci zdravotnictví" # todo: NEW TRANSLATION
+ bankruptcy.104.d: "Po analýze naší finanční situace dospěl MMF k závěru, že poskytujeme příliš vysokou úroveň zdravotní péče zdarma vzhledem k naší ekonomické situaci. Navrhují, aby bylo alespoň několik nemocnic privatizováno a aby se rozšířil sektor soukromého zdravotního pojištění.\n\nPodle MMF je zefektivnění zdravotnických služeb naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.104.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.104.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.105.t: "MMF požaduje škrty v sociálních službách" # todo: NEW TRANSLATION
+ bankruptcy.105.d: "Po analýze naší finanční situace dospěl MMF k závěru, že naše sociální síť podpory je příliš rozsáhlá. Nepotřebně vysoké důchody, štědré podpory v nezaměstnanosti, dlouhé rodičovské; to vše přispívá k populaci, která není motivována najít práci, když by měla.\n\nPodle MMF je omezování sociálních služeb a zajištění, aby lidé pracovali pro obživu, naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.105.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.105.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.106.t: "MMF požaduje otevřenější trhy" # todo: NEW TRANSLATION
+ bankruptcy.106.d: "Po analýze naší finanční situace dospěl MMF k závěru, že naše zdroje nejsou využívány naplno. Mnoho zdrojů je využíváno ve prospěch státu. Podle nich by měly být otevřeny konkurenci a volnému trhu.\n\nPodle MMF je liberalizace trhu se zdroji naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.106.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.106.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.107.t: "Kontakt přes MMF zadními vrátky" # todo: NEW TRANSLATION
+ bankruptcy.107.d: "Obdrželi jsme zvláštní nabídku od někoho, kdo pracuje, nebo alespoň tvrdí, že pracuje v MMF. Tvrdí, že sympatizuje s naší záležitostí a mohl by snadno zajistit program úlevy dluhu, pokud bychom jej potřebovali. Vše, co od nás chtějí, je obsadit několik vládních a administrativních pozic pár jejich přáteli. Vzkaz hovořil o krytí zad a vzájemně výhodném vyrovnání." # todo: NEW TRANSLATION
+ bankruptcy.107.a: "Myslím, že můžeme zatahat za pár provazů" # todo: NEW TRANSLATION
+ bankruptcy.107.b: "Korupce? U mě v [ROOT.GetName]?" # todo: NEW TRANSLATION
+ bankruptcy.108.t: "MMF požaduje pozemkovou reformu" # todo: NEW TRANSLATION
+ bankruptcy.108.d: "Po analýze naší finanční situace dospěl MMF k závěru, že současné využití půdy je velmi neefektivní. Mnoho pozemků není využíváno k rozvoji a některé naše pozemkové záznamy jsou zřejmě zcela zastaralé.\n\nPodle MMF je pozemková reforma naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.108.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.108.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.109.t: "MMF požaduje větší kontrolu nad financemi" # todo: NEW TRANSLATION
+ bankruptcy.109.d: "Po analýze naší finanční situace dospěl MMF k závěru, že náš současný personál prostě nestačí k řízení našich finančních institucí. Dobře vycvičený a zkušený personál z MMF by měl být nasazen v různých ministerstvech a v centrální bance, aby bylo zajištěno, že naši finance řídí profesionálové.\n\nPodle MMF je zbavení se veškerého mrtvého závaží pracovníků naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.109.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.109.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.110.t: "MMF útočí na duchovenstvo" # todo: NEW TRANSLATION
+ bankruptcy.110.d: "Po analýze naší finanční situace dospěl MMF k závěru, že duchovní vrstva do značné míry přivádí finance z veřejných prostředků. MMF neschvaluje myšlenku, že tolik peněz jde na financování náboženských institucí. Tento tok peněz by měl být zastaven a některé prostředky vráceny státu.\n\nPodle MMF je přesun prostředků pryč od náboženských institucí naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.110.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.110.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.111.t: "MMF požaduje rozmontování vojenského průmyslu" # todo: NEW TRANSLATION
+ bankruptcy.111.d: "Po analýze naší finanční situace dospěl MMF k závěru, že státem dotované vojenské továrny jsou pro národní zdroje zátěží. Tyto továrny by měly být rozpuštěny a zdroje přesměrovány efektivněji.\n\nPodle MMF je zrušení zbytečného vojenského rozvoje naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.111.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.111.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.112.t: "MMF požaduje privatizaci přístavů" # todo: NEW TRANSLATION
+ bankruptcy.112.d: "Po analýze naší finanční situace dospěl MMF k závěru, že státem dotovaná námořní opravárenská doku jsou zátěží pro národní rozpočet. Sloužilo by zemi lépe, kdyby byla privatizována a vyňata z rukou vlády.\n\nPodle MMF je převod našich přístavů do soukromých rukou naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.112.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.112.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.113.t: "MMF požaduje zvýšení daní" # todo: NEW TRANSLATION
+ bankruptcy.113.d: "Po analýze naší finanční situace dospěl MMF k závěru, že naši populaci zdaňujeme příliš málo. Aby vláda mohla efektivně fungovat, měla by dočasně zavedena vyšší daňová sazba. Jinak vláda nikdy nesežene prostředky na splácení úroků.\n\nPodle MMF je zvýšení daní naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.113.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.113.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.114.t: "MMF požaduje likvidaci aktiv" # todo: NEW TRANSLATION
+ bankruptcy.114.d: "Po analýze naší finanční situace dospěl MMF k závěru, že si držíme značné množství hodnotných aktiv a odmítáme je prodat. MMF nabízí, že odkoupí naše aktiva z mezinárodních investic za vyšší než obvyklou cenu a použije tyto prostředky jako přídavek ke splácení dluhu.\n\nPodle MMF je nejprve prodat vlastní aktiva naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.114.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.114.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.114_low_gdp_tt: "MMF odkoupí naše §YInternational Investments§! za 70 % jejich hodnoty!" # todo: NEW TRANSLATION
+ bankruptcy.114_tt: "MMF odkoupí naše §YInternational Investments§! za 80 % jejich hodnoty!" # todo: NEW TRANSLATION
+ bankruptcy.115.t: "MMF požaduje privatizaci státních podniků" # todo: NEW TRANSLATION
+ bankruptcy.115.d: "Po analýze naší finanční situace dospěl MMF k závěru, že existují některé vládou provozované služby, které by bylo možné privatizovat a zefektivnit.\n\nPodle MMF je zbavit se části státních podniků naprostou nutností pro reorganizaci našeho dluhu." # todo: NEW TRANSLATION
+ bankruptcy.115.a: "Nemáme na výběr, musíme to přijmout" # todo: NEW TRANSLATION
+ bankruptcy.115.b: "To je příliš přísné" # todo: NEW TRANSLATION
+ bankruptcy.200.t: "[Western_Autocracy_L] Silák se posmívá vládě" # todo: NEW TRANSLATION
+ bankruptcy.200.d: "'...a proto spadnou. [ROOT.GetLeader] je slabý vůdce a jejich neschopnost rozhodovat je to, co hodí [ROOT.GetNameDef] do chaosu. Musíme pracovat blíže s MMF a našimi západními spojenci, abychom měli efektivně řízenou ekonomiku.'\n\nSlova vůdce [Western_Autocracy_L] jsou přivítána jásotem davu, který skanduje jméno lídra strany. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.200.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.200.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.201.t: "[conservatism_L] Vzpomínky na staré dobré časy" # todo: NEW TRANSLATION
+ bankruptcy.201.d: "'Pamatujete, když byla země řádně řízena? Když ekonomika prosperovala a celé země se dařilo ještě lépe. [ROOT.GetLeader] se odklonil od starých způsobů a nyní všichni platíme cenu...'\n\nSlova vůdce [conservatism_L] jsou přivítána jásotem davu, okouzleného nostalgií. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.201.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.201.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.202.t: "[liberalism_L] Volá po sociálně odpovědné fiskální politice" # todo: NEW TRANSLATION
+ bankruptcy.202.d: "'Současné politiky [ROOT.GetLeader] ženou lidi do chudoby. Stále více peněz je vysáváno z kapes nejslabších, aby byl financován nekonečný dluh, který [show_ruling_party] dál nashromažďuje...'\n\nSlova vůdce [liberalism_L] jsou přivítána jásotem davu, který čeká ve frontě u kuchyně pro chudé. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.202.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.202.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.203.t: "[socialism_L] Shromažďuje odbory" # todo: NEW TRANSLATION
+ bankruptcy.203.d: "'Jak dlouho máme nést břemeno špatných fiskálních politik? My, páteř této země? My tvrdě pracující vždy nakonec platíme za chyby [show_ruling_party]...'\n\nSlova vůdce [socialism_L] jsou přivítána jásotem davu na shromáždění odborů. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.203.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.203.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.204.t: "[Communist-State_L] Vůdce podněcuje dělníky ve fabrice" # todo: NEW TRANSLATION
+ bankruptcy.204.d: "'Nevidíte řetězy, kterými vás svázali? Vaše děti a vnuci budou navěky otroky bankéřů. Toto okrádání dělnické třídy musí přestat, nebo my ho zastavíme!'\n\nSlova vůdce [Communist-State_L] jsou přivítána jásotem davu ve fabrice. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.204.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.204.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.205.t: "[anarchist_communism_L] Pořádá studentské shromáždění" # todo: NEW TRANSLATION
+ bankruptcy.205.d: "'Všichni víme, že [ROOT.GetLeader] a současná vláda [show_ruling_party] jsou u moci jen proto, aby narvali peníze do kapes 1 %. Tomu podlézání kapitalistickému světovému řádu musí skončit!'\n\nSlova vůdce [anarchist_communism_L] jsou přivítána jásotem mladých studentů na univerzitě. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.205.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.205.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.206.t: "[Conservative_L] Lídr se setkává s politiky z rozvojových zemí" # todo: NEW TRANSLATION
+ bankruptcy.206.d: "Na setkání s cizími politiky jeden z vůdců [Conservative_L] zmínil, že by se mělo něco udělat pro špatnou ekonomickou situaci [ROOT.GetNameDef], i když to bude vyžadovat sesazení [ROOT.GetLeader].\n\nNaše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.206.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.206.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.207.t: "[Autocracy_L] Silák shromažďuje podporu" # todo: NEW TRANSLATION
+ bankruptcy.207.d: "'Naši politici nechávají imperialisty, aby nás využívali a ničili náš řád. Kvůli nespravedlivým půjčkám je naše země tlačena k bankrotu. Musíme hledat alternativy financování vlády...'\n\nSlova vůdce [Autocracy_L] jsou přivítána jásotem davu volajícího po sesazení [ROOT.GetLeader]. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.207.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.207.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.208.t: "[Mod_Vilayat_e_Faqih_L] Klerik má vášnivou kázání" # todo: NEW TRANSLATION
+ bankruptcy.208.d: "'Sionističtí psi a jejich takfírští potomci používají prokleté dolary Velkého Satana, aby podkopali naši ekonomiku. Jejich cíl je zotročit nás oddané muslimy! [ROOT.GetLeader] a jejich sionističtí pánové musí být svrhnuti!'\n\nSlova klerika [Mod_Vilayat_e_Faqih_L] jsou přivítána chválou jeho následovníků v místní mešitě. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.208.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.208.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.209.t: "[Vilayat_e_Faqih_L] Klerik má vášnivou kázání" # todo: NEW TRANSLATION
+ bankruptcy.209.d: "'Sionističtí psi a jejich takfírští potomci používají prokleté dolary Velkého Satana, aby podkopali naši ekonomiku. Jejich cíl je zotročit nás oddané muslimy! [ROOT.GetLeader] a jejich sionističtí pánové musí být svrhnuti!'\n\nSlova klerika [Vilayat_e_Faqih_L] jsou přivítána chválou jeho následovníků v místní mešitě. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.209.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.209.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.210.t: "[Kingdom_L] Klerik požaduje náboženské vedení" # todo: NEW TRANSLATION
+ bankruptcy.210.d: "'Naše země je ničena našimi současnými vůdci! Potřebujeme silného a zbožného vládce, který s pomocí Alláha, chvála jemu, stabilizuje a povede zemi k velké budoucnosti'\n\nSlova klerika [Kingdom_L] jsou přivítána chválou jeho následovníků v místní mešitě. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.210.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.210.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.211.t: "[Caliphate_L] Vůdce volá po džihádu" # todo: NEW TRANSLATION
+ bankruptcy.211.d: "'Nevěřící psi [ROOT.GetLeader] a jejich přátelé v [show_ruling_party] se posmívají Alláhovi, chvála jemu, tím, že se klanějí sionistickému světovému řádu a svým bankéřům...'\n\nVčera se na YouPipe začalo šířit špatné kvalitní video očividně natočené v jeskyni, kde mluvčí [Caliphate_L] přenášel poslední bludné názory jejich vůdce. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.211.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.211.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.212.t: "[Neutral_Muslim_Brotherhood_L] Zdůrazňuje islámské hodnoty" # todo: NEW TRANSLATION
+ bankruptcy.212.d: "'Vidíte, jak západní hodnoty zkorumpovaly naše vůdce? Půjčují si peníze a utrácejí je, jako by nebylo zítřka. Toto chování je proti vůli Boží...'\n\nSlova vůdce [Neutral_Muslim_Brotherhood_L] jsou přivítána chválou jeho následovníků v místním kulturním centru. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.212.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.212.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.213.t: "[Neutral_Autocracy_L] Silák se posmívá vládě" # todo: NEW TRANSLATION
+ bankruptcy.213.d: "'...a proto spadnou. [ROOT.GetLeader] je slabý vůdce a jejich neschopnost rozhodovat je to, co hodí [ROOT.GetNameDef] do chaosu. Musíme se popadnout za vlastní majetek a přijít s novými řešeními, abychom měli efektivně řízenou ekonomiku.'\n\nSlova vůdce [Neutral_Autocracy_L] jsou přivítána jásotem davu, který skanduje jméno lídra strany. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.213.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.213.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.214.t: "[Neutral_conservatism_L] Vzpomínky na staré dobré časy" # todo: NEW TRANSLATION
+ bankruptcy.214.d: "'Pamatujete, když byla země řádně řízena? Když ekonomika prosperovala a celé země se dařilo ještě lépe. [ROOT.GetLeader] se odklonil od starých způsobů a nyní všichni platíme cenu...'\n\nSlova vůdce [Neutral_conservatism_L] jsou přivítána jásotem davu, okouzleného nostalgií. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.214.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.214.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.215.t: "[oligarchism_L] Politik kritizuje výdaje" # todo: NEW TRANSLATION
+ bankruptcy.215.d: "'Vláda utrácí všechny naše cenné daňové peníze na banality. Měla by utáhnout rozpočet a upřednostnit podporu místních podniků. A netvrdím to proto, že jsem poctivý podnikatel, ale protože moji přátelé a voliči jsou poctiví podnikatelé taky...'\n\nSlova politika [oligarchism_L_L] jsou přivítána jásotem davu na podnikatelské konferenci. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.215.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.215.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.216.t: "[Neutral_Libertarian_L] Politik kritizuje výdaje" # todo: NEW TRANSLATION
+ bankruptcy.216.d: "'Vláda by, víte, neměla utrácet žádné peníze, kámo', říká politik [Neutral_Libertarian_L], zatímco si přidává další nadechnutí z podezřele ručně svinuté cigarety. Jak fouká mračno kouře, v místnosti se rozléhá opatrná notička. 'Představte si, že by nebyly žádné peníze, kámo. Úroky nemůžeš platit, když peníze neexistují,' pokračuje a poklepává si prstem na spánek.\n\n[ROOT.GetLeader] si není jistý, jak se ocitl na této akci..." # todo: NEW TRANSLATION
+ bankruptcy.216.a: "Fajn, kámo" # todo: NEW TRANSLATION
+ bankruptcy.216.b: "Blázni..." # todo: NEW TRANSLATION
+ bankruptcy.217.t: "[Neutral_green_L] Nazývá vládu 'nezodpovědnou'" # todo: NEW TRANSLATION
+ bankruptcy.217.d: "'Vláda utrácí všechny peníze na zbraně a zadlužuje naši zemi. Peníze by měly být investovány do výroby udržitelné energie a zvýšení inkluzivity naší společnosti...'\n\nSlova vůdce [Neutral_green_L] jsou přivítána jásotem davu na shromáždění v jednom z parků v hlavním městě. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.217.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.217.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.218.t: "[neutral_Social_L] Shromažďuje odbory" # todo: NEW TRANSLATION
+ bankruptcy.218.d: "'Jak dlouho máme nést břemeno špatných fiskálních politik? My, páteř této země? My tvrdě pracující vždy nakonec platíme za chyby [show_ruling_party]'...'\n\nSlova vůdce [neutral_Social_L] jsou přivítána jásotem davu na shromáždění odborů. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.218.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.218.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.219.t: "[Neutral_Communism_L] Vůdce podněcuje dělníky ve fabrice" # todo: NEW TRANSLATION
+ bankruptcy.219.d: "'Nevidíte řetězy, kterými vás svázali? Vaše děti a vnuci budou navěky otroky bankéřů. Toto okrádání dělnické třídy musí přestat, nebo my ho zastavíme!'\n\nSlova vůdce [Neutral_Communism_L] jsou přivítána jásotem davu ve fabrice. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.219.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.219.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.220.t: "[Nat_Populism_L] Nadává na globalisty" # todo: NEW TRANSLATION
+ bankruptcy.220.d: "'Elity a globalisté ovládají naši zemi. Mají pevnou kontrolu nad našimi médii a brání jakémukoli nesouhlasu a skrývají pravdu. Když se podíváte na tyto statistiky, které jsem vytiskl z vládních stránek, uvidíte ten směšný dluh, který naše země nashromáždila! Vláda se snaží tuto informaci cenzurovat a umlčet nás kritiky...'\n\nPolitik [Nat_Populism_L] dnes v národní síti řval na naši vládu. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.220.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.220.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.221.t: "[Nat_Fascism_L] Pořádá velké shromáždění" # todo: NEW TRANSLATION
+ bankruptcy.221.d: "'Nenecháme se nahradit! Vláda nás zadlužuje, aby nás sionističtí ještěři prodali Iluminátům!'\n\nSlova vůdce [Nat_Fascism_L] byla přijata bouřlivým potleskem. Projev pokračoval delší dobu a některý obsah byl těžko postřehnutelný kvůli křiku. Na konci proslovu bylo několik vlnících rukou a vypadalo to, že skupina šesti lidí se sešla na parkovišti u nákupního centra jen, aby odvedla dopravu. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.221.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.221.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.222.t: "[Nat_Autocracy_L] Generál si stěžuje na nedostatek peněz" # todo: NEW TRANSLATION
+ bankruptcy.222.d: "'Jak má naše armáda bránit zemi, když nám pořád docházejí peníze? Včera jsem viděl vojáky mávat košťaty a křičet 'prásk', protože nemáme náboje. Den předtím se museli navzájem tlačit v nákupních vozících, prdět do úst a házet kameny jen proto, aby si procvičili jízdu v tanku. To je směšné.'\n\nSlova generála v dnešním novinovém článku líčí smutný obraz naší armády. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.222.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.222.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ bankruptcy.223.t: "[Monarchist_L] Pretendent vydal královské prohlášení" # todo: NEW TRANSLATION
+ bankruptcy.223.d: "'Šlechtici [ROOT.GetLeader] se stydí za stav, v jakém se naše země nachází. Minulý týden jsem měl dlouhou diskusi s manželem. Po dlouhém hovoru jsme se s mým bratranem rozhodli vydat toto prohlášení požadující zrušení demokracie. Zjevně selhala náš lid. Pouze království může v tuto chvíli zajistit stabilitu.'\n\nSlova královského pretendentu z [Monarchist_L] adresovaná [ROOT.GetAdjective] koruně zveřejnila královské prohlášení dnes a volají po obnovení monarchie. Naše špatná finanční situace slouží jako dokonalý nástroj pro opoziční strany k získání podpory." # todo: NEW TRANSLATION
+ bankruptcy.223.a: "Sakra" # todo: NEW TRANSLATION
+ bankruptcy.223.b: "Spusťte protikampaň" # todo: NEW TRANSLATION
+ News_bankruptcy.1.t: "[From.GetNameWithFlag] poskytuje záchranný balíček" # todo: NEW TRANSLATION
+ News_bankruptcy.1.d: "Včerejším jednání na nejvyšší úrovni v [From.GetName] mezi [From.GetLeader] a [Root.GetLeader] [From.GetAdjective] slíbil, že nám poskytne záchranný balíček. Nicméně při záchraně před bankrotem budeme nuceni dát [From.GetName] dlouhý seznam politických ústupků." # todo: NEW TRANSLATION
+ News_bankruptcy.1.a: "OK" # todo: NEW TRANSLATION
+ bailout_given_tt: "Náš §Ydluh§! je snížen o §G[?debt_bailout|0]§! §Ymiliard§!" # todo: NEW TRANSLATION
+ News_bankruptcy.2.t: "[From.GetNameWithFlag] poskytuje záchranný balíček" # todo: NEW TRANSLATION
+ News_bankruptcy.2.d: "Včerejším jednání na nejvyšší úrovni v [From.GetName] mezi [From.GetLeader] a [Root.GetLeader] [From.GetAdjective] slíbil, že nám poskytne záchranný balíček. Nicméně při záchraně před bankrotem budeme nuceni dát [From.GetName] dlouhý seznam politických ústupků." # todo: NEW TRANSLATION
+ News_bankruptcy.2.a: "OK" # todo: NEW TRANSLATION
+ News_bankruptcy.3.t: "[From.GetNameWithFlag] poskytuje záchranný balíček" # todo: NEW TRANSLATION
+ News_bankruptcy.3.d: "Včerejším jednání na nejvyšší úrovni v [From.GetName] mezi [From.GetLeader] a [Root.GetLeader] [From.GetAdjective] slíbil, že nám poskytne záchranný balíček. Nicméně při záchraně před bankrotem budeme nuceni dát [From.GetName] dlouhý seznam politických ústupků." # todo: NEW TRANSLATION
+ News_bankruptcy.3.a: "OK" # todo: NEW TRANSLATION
+ News_bankruptcy.4.t: "[FROM.GetNameDef] se připravuje na nové volby" # todo: NEW TRANSLATION
+ News_bankruptcy.4.d: "Po protestech proti špatným finančním politikám a rostoucímu dluhu se [FROM.GetAdjective] vůdce [FROM.GetLeader] dohodl s opozičními stranami, že vyhoví jejich požadavkům a vyhlásí nové volby. Zůstane otázkou, zda bude mít [FROM.GetLeader] dostatečnou podporu veřejnosti pro pokračování ve funkci, nebo zda se nová strana pokusí zachránit zemi před finančním propadem." # todo: NEW TRANSLATION
+ News_bankruptcy.4.a: "Zajímavé" # todo: NEW TRANSLATION
+ News_bankruptcy.5.t: "Radikální politický obrat v [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ News_bankruptcy.5.d: "Po protestech proti špatným finančním politikám a rostoucímu dluhu se staré vedení [FROM.GetNameDef] dohodlo ustoupit požadavkům opozice a odstoupit. Situace eskalovala, když demonstranti vtrhli do parlamentu. Lídr opozice [FROM.GetLeader] slíbil vést zemi k finančnímu zotavení v čele přechodné vlády." # todo: NEW TRANSLATION
+ News_bankruptcy.5.a: "Zajímavé" # todo: NEW TRANSLATION
+ News_bankruptcy.6.t: "Finanční kolaps vede ke konfliktu v [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ News_bankruptcy.6.d: "Po protestech proti špatným finančním politikám a rostoucímu dluhu [FROM.GetAdjective] vůdce [FROM.GetLeader] přikázal armádě rozehnat a zatknout skupinu demonstrantů snažících se vniknout do parlamentu. Při zásahu bylo několik lidí zabito a brzy se několik jednotek armády přidalo k demonstrantům na protest proti násilným metodám [FROM.GetLeader]. Než se situace stihla uklidnit, přišlo hlášení o bojích mezi jednotkami loajálními vládě a silami opozice.\n\nZdá se, že občané [FROM.GetNameDef] budou muset k obavám z špatných veřejných financí připočíst i občanskou válku." # todo: NEW TRANSLATION
+ News_bankruptcy.6.a: "Zajímavé" # todo: NEW TRANSLATION
+ IMF_debt_relief_received: "IMF: Úleva v dluhu přijata" # todo: NEW TRANSLATION
+ IMF_debt_relief_received_desc: "Souhlasili jsme s doporučenými finančními reformami MMF výměnou za reorganizaci dluhu" # todo: NEW TRANSLATION
+ IMF_debt_relief_received_tt: "Úroková sazba: §G-2%§!" # todo: NEW TRANSLATION
+ IMF_debt_relief_rejected: "IMF: Úleva v dluhu odmítnuta" # todo: NEW TRANSLATION
+ IMF_debt_relief_rejected_desc: "Odmítli jsme doporučené finanční reformy MMF výměnou za reorganizaci dluhu" # todo: NEW TRANSLATION
+ IMF_debt_relief_rejected_tt: "Úroková sazba: §R+2%§!" # todo: NEW TRANSLATION
+ very_high_interest_country_modifiers: "Velmi vysoká úroková sazba" # todo: NEW TRANSLATION
+ very_high_interest_country_modifiers_desc: "Velmi vysoká úroková sazba" # todo: NEW TRANSLATION
+ very_high_interest_country_modifiers_tt: "Stále rostoucí úrokové sazby podkopávají důvěru, kterou mají občané a finanční instituce ve vládu. Pokud situaci brzy neřešíme, věci se budou jen zhoršovat.\n\n" # todo: NEW TRANSLATION
+ debt_default_ecomomic_boom: "Hospodářský boom po defaultu" # todo: NEW TRANSLATION
+ debt_default_ecomomic_boom_desc: "Po tom, co země zkolabovala po nesplacení dluhů, místní měna ztratila hodnotu, inflace vystřelila, nezaměstnanost prudce vzrostla a burza se zhroutila. Nyní, když jsme stabilizovali situaci, mnoho zahraničních aktérů nás považuje za levnou investici — náklady na práci, zboží a nemovitosti jsou na historickém minimu. To krátkodobě posílí naši ekonomiku, protože do země proudí zahraniční peníze." # todo: NEW TRANSLATION
+ population_tax_stability_hit: "£pol_idea Daň z obyvatelstva" # todo: NEW TRANSLATION
+ corporate_tax_consumer_goods_hit: "£pol_idea Náklady korporační daně:" # todo: NEW TRANSLATION
+ resources_manpower_fulfillment_modifier: "Obsazení pracovní síly v sektoru zdrojů" # todo: NEW TRANSLATION
+ set_improved_trade_agreement_tt: "Vytvoří obchodní dohodu mezi §Y[?var:sender_nation.GetNameWithFlag]§! a §Y[?var:receiver_nation.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ remove_improved_trade_agreement_tt: "Odstraní obchodní dohodu mezi §Y[?var:sender_nation.GetNameWithFlag]§! a §Y[?var:receiver_nation.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION

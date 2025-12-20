@@ -1,0 +1,163 @@
+﻿l_english:
+ decision_category_energy: "Kategorie rozhodnutí: Energie" # todo: NEW TRANSLATION
+ decision_category_energy_desc: "Každá země musí udržovat určitou úroveň naplnění energetických potřeb, aby její funkce a služby nekolabovaly. Pokud nedokážeme uspokojit neustále rostoucí energetické požadavky naší ekonomiky, můžeme utrpět obrovské následky a úplné ekonomické zastavení." # todo: NEW TRANSLATION
+ block_all_reactor_grade_purchases: "Zablokovat nákupy materiálu reaktorové kvality" # todo: NEW TRANSLATION
+ block_all_reactor_grade_purchases_desc: "Pokud nemáte zájem prodávat materiál reaktorové kvality, můžete nabídky vypnout kliknutím na toto rozhodnutí." # todo: NEW TRANSLATION
+ unblock_all_reactor_grade_purchases: "Povolit nákupy materiálu reaktorové kvality" # todo: NEW TRANSLATION
+ unblock_all_reactor_grade_purchases_desc: "Pokud si přejete prodávat materiál reaktorové kvality, můžete nabídky povolit kliknutím na toto rozhodnutí." # todo: NEW TRANSLATION
+ energy_buy_reactor_grade_material: "Koupit materiál reaktorové kvality od [FROM.GetNameWithFlag]" # todo: NEW TRANSLATION
+ energy_buy_reactor_grade_material_desc: "Máme nedostatek materiálu reaktorové kvality. Může stát za to zakoupit nějaký materiál reaktorové kvality pro naše jaderné reaktory." # todo: NEW TRANSLATION
+ energy_building_enrichment_facilities: "Výstavba obohacovacích zařízení" # todo: NEW TRANSLATION
+ energy_building_enrichment_facilities_desc: "Zvolili jsme cestu jaderné energetiky. Je čas začít stavět zařízení potřebná pro naši zemi." # todo: NEW TRANSLATION
+ canceled_our_enrichment_facility_construction: "Zastavili jsme výstavbu obohacovacího zařízení" # todo: NEW TRANSLATION
+ limited_to_heu_materials_only: "Omezeno na materiál LEU" # todo: NEW TRANSLATION
+ ignored_our_request_to_cease: "Ignorovali naši žádost o zastavení" # todo: NEW TRANSLATION
+ HEADER_TEXT_TITLE: "§YENERGIE§!" # todo: NEW TRANSLATION
+ energy_dynamic_modifier: "Národní elektrická síť" # todo: NEW TRANSLATION
+ energy_dynamic_modifier_TT: "Tento Spirit zobrazuje součet spotřeby paliva z fosilních elektráren a přímé spotřeby paliva z neelektrických zdrojů, stejně jako případné penalizace, které vzniknou, pokud by spotřeba elektřiny nebyla uspokojena výrobou." # todo: NEW TRANSLATION
+ no_fuel_penalties_modifier: "Postihy za nedostatek paliva" # todo: NEW TRANSLATION
+ no_fuel_penalties_modifier_TT: "Tento Spirit zobrazuje postihy, které vzniknou, pokud země spotřebuje všechny své zásoby paliva, a nezůstane žádné pro obyvatelstvo." # todo: NEW TRANSLATION
+ hydroelectric_infrastructure_in_state: "Hydroelektrická infrastruktura" # todo: NEW TRANSLATION
+ hydroelectric_infrastructure_in_state_TT: "Hydroelektrická infrastruktura zahrnuje všechny přehrady, zásobování a další prvky související s hydroenergií. Modifikátor ve státě zahrnuje celkovou vyrobenou energii i množství skladování, které může pojmout. Přispívá k vaší celkové výrobě energie a tím pomáhá uspokojit energetické potřeby průmyslu a populace." # todo: NEW TRANSLATION
+ geothermal_infrastructure_in_state: "Geotermální infrastruktura" # todo: NEW TRANSLATION
+ geothermal_infrastructure_in_state_TT: "Geotermální infrastruktura zahrnuje všechny geotermální elektrárny a podobnou infrastrukturu. Přispívá k vaší celkové výrobě energie a tím pomáhá uspokojit energetické potřeby průmyslu a populace." # todo: NEW TRANSLATION
+ renewable_capacity_factor_dyn_mod: "Místo příznivé pro obnovitelnou energii" # todo: NEW TRANSLATION
+ renewable_capacity_factor_dyn_mod_TT: "Toto místo má zvlášť příznivé podmínky pro generaci obnovitelné energie, buď díky stabilně silným větrům, nebo velmi vysokému průměrnému počtu hodin slunečního svitu ročně. Zvyšuje to kapacitní faktor obnovitelných parků postavených v tomto státě, takže v průměru fungují blíže své maximální kapacitě." # todo: NEW TRANSLATION
+ heavy_power_restrictions_spirit: "Přísná omezení spotřeby energie" # todo: NEW TRANSLATION
+ some_power_restrictions_spirit: "Mírná omezení spotřeby energie" # todo: NEW TRANSLATION
+ some_additional_consumption_spirit: "Mírné pobídky ke zvýšené spotřebě energie" # todo: NEW TRANSLATION
+ heavy_additional_consumption_spirit: "Silné pobídky ke zvýšené spotřebě energie" # todo: NEW TRANSLATION
+ energy_build_fossil_powerplant_TT: "Změní počet §Yelektráren na fosilní paliva§! o [?temp_change|0+] v [ROOT.GetNameWithFlag] (Aktuálně: [?number_of_fossil_pps|Y0])" # todo: NEW TRANSLATION
+ build_battery_park_effect_TT: "Změní počet §Yparků baterií§! o [?temp_change|0+] v [ROOT.GetNameWithFlag] (Aktuálně: [?number_of_battery_parks|Y0])" # todo: NEW TRANSLATION
+ build_enrichment_facilities_effect_tt: "Změní počet §Yobohacovacích zařízení§! o [?temp_change|0+] v [ROOT.GetNameWithFlag] (Aktuálně: [?enrichment_facilities|Y0])" # todo: NEW TRANSLATION
+ synthetic_refinery_energy_tt: "Zisk energie: §G500§!" # todo: NEW TRANSLATION
+ currently_considering_an_offer: "[FROM.GetNameWithFlag] aktuálně zvažuje nabídku\n" # todo: NEW TRANSLATION
+ has_nuclear_reactors_tt: "[THIS.GetNameWithFlag] má alespoň 1 §Y$nuclear_reactor$§! (Aktuálně: [?nuclear_reactors|Y0])\n" # todo: NEW TRANSLATION
+ has_enrichment_facilities_tt: "[THIS.GetNameWithFlag] má alespoň 1 §Yobohacovací zařízení§! (Aktuálně: [?enrichment_facilities|Y0])\n" # todo: NEW TRANSLATION
+ has_reactor_material_stockpile_tt: "[THIS.GetNameWithFlag] má alespoň 500 §Ymateriálu reaktorové kvality§! (Aktuálně: [?THIS.var_reactor_material_stockpile|Y0])\n" # todo: NEW TRANSLATION
+ change_reactor_grade_material_effect_tt: "Změní zásoby §Ymateriálu reaktorové kvality§! o [?change_resource|0+] v [THIS.GetNameWithFlag] (Aktuálně: [?THIS.var_reactor_material_stockpile|Y0])\n" # todo: NEW TRANSLATION
+ change_weapons_grade_material_effect_tt: "Změní zásoby §Ymateriálu zbraňové kvality§! o [?change_resource|0+] v [THIS.GetNameWithFlag] (Aktuálně: [?THIS.var_nuclear_material_stockpile|Y0])\n" # todo: NEW TRANSLATION
+ limits_to_heu_production_only_tt: "Omezuje naši výrobu pouze na materiály LEU na dva roky.\nPokud se rozhodneme vyrábět materiál HEU, může po tomto rozhodnutí zasáhnout jiný stát..." # todo: NEW TRANSLATION
+ cannot_produce_heu_tt: "Omezené obohacování na LEU (Dny zbývající do konce dohody: [?only_leu_materials:days_left|Y0])" # todo: NEW TRANSLATION
+ recently_built_enrichment_facility_tt: "Nedávno postavené §Yobohacovací zařízení§!. (Dny zbývající: [?recently_built_enrichment_facility:days_left|0Y])" # todo: NEW TRANSLATION
+ recently_bought_fuel_tt: "Nedávno zakoupené palivo na trhu. (Dny zbývající: [?recently_bought_fuel:days_left|0Y])" # todo: NEW TRANSLATION
+ building_fossil_fuel_powerplant_tt: "Elektrárna na fosilní paliva bude postavena přibližně za 90 dní" # todo: NEW TRANSLATION
+ early_renewables: "Základní solární panely" # todo: NEW TRANSLATION
+ early_renewables_desc: "Vývoj základních solárních panelů umožňuje zemím využívat sluneční světlo a přeměňovat ho na elektřinu, což znamená první krok směrem k zavádění obnovitelné energie." # todo: NEW TRANSLATION
+ renewables: "Vylepšení větrných turbín" # todo: NEW TRANSLATION
+ renewables_desc: "Technologická vylepšení v oblasti aerodynamiky a materiálů umožňují stavbu efektivnějších větrných turbín, čímž se zvyšuje jejich výkon." # todo: NEW TRANSLATION
+ improved_renewables: "Fotovoltaika s vysokou účinností" # todo: NEW TRANSLATION
+ improved_renewables_desc: "Významné pokroky v technologii fotovoltaických článků vedou k vyšším konverzním poměrům solární energie, díky čemuž jsou solární panely produktivnější a ekonomičtější." # todo: NEW TRANSLATION
+ advanced_renewables: "Kompozitní lopatky větrných turbín" # todo: NEW TRANSLATION
+ advanced_renewables_desc: "Využitím lehkých, ale pevných kompozitních materiálů se lopatky větrných turbín stávají efektivnějšími a odolnějšími, čímž zachytí více energie z větru." # todo: NEW TRANSLATION
+ modern_renewables: "Technologie tenkovrstvých solárních panelů" # todo: NEW TRANSLATION
+ modern_renewables_desc: "Zavedení tenkovrstvých solárních panelů revolucionalizuje solární průmysl, nabízí flexibilitu a lepší přizpůsobivost instalacím a zároveň zvyšuje celkovou účinnost." # todo: NEW TRANSLATION
+ improved_modern_renewables: "Větrné farmy na moři" # todo: NEW TRANSLATION
+ improved_modern_renewables_desc: "Země začínají stavět větrné farmy v pobřežních lokalitách, těží z silnějších a stabilnějších větrů, čímž se otevírá cesta pro rozsáhlé projekty větrné energie." # todo: NEW TRANSLATION
+ advanced_modern_renewables: "Oboustranné solární panely" # todo: NEW TRANSLATION
+ advanced_modern_renewables_desc: "Přicházejí oboustranné solární panely schopné zachytit světlo z obou stran, čímž se zvyšuje výtěžnost energie díky odraženému světlu z blízkého okolí." # todo: NEW TRANSLATION
+ early_futuristic_renewables: "Pokročilé řízení větrných turbín" # todo: NEW TRANSLATION
+ early_futuristic_renewables_desc: "Špičkové řídicí systémy optimalizují výkon větrných turbín úpravou úhlu listů a natočení, aby získaly maximum energie za měnících se větrných podmínek." # todo: NEW TRANSLATION
+ futuristic_renewables: "Perovskitové solární články" # todo: NEW TRANSLATION
+ futuristic_renewables_desc: "Perovskitové solární články se stávají komerčně životaschopnými, nabízejí vyšší účinnost a nižší výrobní náklady, čímž dále urychlují rozšíření solární energie." # todo: NEW TRANSLATION
+ futuristic_oil_refining: "Pokročilé rafinování paliv" # todo: NEW TRANSLATION
+ futuristic_oil_refining_desc: "Další změny v destilaci bionafty a paliv obecného použití nám mohou umožnit získat více paliva, které hoří čistěji a účinněji." # todo: NEW TRANSLATION
+ fuel_efficiency: "Pokročilé spalovací inženýrství" # todo: NEW TRANSLATION
+ fuel_efficiency_desc: "Inovace ve spalovacím inženýrství nám umožňují získat více energie z fosilních paliv při současném snížení spotřeby, což nastavuje standard pro budoucnost výroby energie z fosilních zdrojů." # todo: NEW TRANSLATION
+ fuel_efficiency2: "Integrovaný zplyňovací kombinovaný cyklus" # todo: NEW TRANSLATION
+ fuel_efficiency2_desc: "Přeměnou uhlí a dalších uhlíkatých paliv na plyn využíváme potenciál čistší a efektivnější výroby energie, což znamená velký pokrok v možnostech našich fosilních elektráren." # todo: NEW TRANSLATION
+ fuel_efficiency3: "Technologie s vysokou účinností a nízkými emisemi" # todo: NEW TRANSLATION
+ fuel_efficiency3_desc: "Přijetím HELE technologií zajistíme, že naše fosilní elektrárny dosáhnou vyšší účinnosti s nižšími emisemi, čímž skloubíme cíle energetické produkce a ochrany životního prostředí." # todo: NEW TRANSLATION
+ fuel_efficiency4: "Integrace zachycování a ukládání uhlíku (CCS)" # todo: NEW TRANSLATION
+ fuel_efficiency4_desc: "S rostoucími obavami o emise CO2 integrace CCS do našich elektráren umožňuje zachytit a uložit emise CO2, čímž se fosilní paliva stávají silnými i ekologičtějšími." # todo: NEW TRANSLATION
+ fuel_efficiency5: "Optimalizace a monitorování řízené AI" # todo: NEW TRANSLATION
+ fuel_efficiency5_desc: "Využitím síly umělé inteligence naše elektrárny dynamicky upravují provoz v reálném čase, čímž zajišťují optimální spotřebu paliva a výkon při minimalizaci dopadů na životní prostředí." # todo: NEW TRANSLATION
+ fuel_efficiency6: "Fosilní elektrárny s téměř nulovými emisemi" # todo: NEW TRANSLATION
+ fuel_efficiency6_desc: "Díky nejmodernějším technologiím a postupům nyní naše fosilní elektrárny fungují s výrazně sníženými emisemi, představují vrchol efektivní výroby energie." # todo: NEW TRANSLATION
+ energy_efficiency: "Základy termodynamiky" # todo: NEW TRANSLATION
+ energy_efficiency_desc: "Aplikací základních termodynamických principů lze okamžitě snížit ztráty energie v továrnách a kancelářích." # todo: NEW TRANSLATION
+ energy_efficiency2: "Použití tepelné izolace" # todo: NEW TRANSLATION
+ energy_efficiency2_desc: "Velká část národních energetických nákladů plyne z vytápění a chlazení budov. Použití tepelné izolace může tyto náklady snížit a uvolněnou energii využít jinde." # todo: NEW TRANSLATION
+ energy_efficiency3: "Pokročilá integrace řízení" # todo: NEW TRANSLATION
+ energy_efficiency3_desc: "Integrací základních algoritmů do termostatů a řídicích systémů lze dále zlepšit účinnost a dosáhnout dalších energetických úspor." # todo: NEW TRANSLATION
+ energy_efficiency4: "Vysokohustotní izolace" # todo: NEW TRANSLATION
+ energy_efficiency4_desc: "Použitím modernějších materiálů lze zvýšit hustotu izolace a dosáhnout ještě vyšších úspor energie." # todo: NEW TRANSLATION
+ energy_efficiency5: "Elektrárny vybavené termoelektrickými generátory (TEG)" # todo: NEW TRANSLATION
+ energy_efficiency5_desc: "Mnoho moderních elektráren stále využívá teplo k přeměně vody na páru. I když se účinnost zlepšila, vzniká mnoho odpadu ve formě odpadního tepla. Termoelektrické generátory lze flexibilně použít k získání dalšího napětí z odpadního tepla. To se projeví snížením celkové spotřeby paliva továren." # todo: NEW TRANSLATION
+ energy_efficiency6: "Izolátory z nanovláken" # todo: NEW TRANSLATION
+ energy_efficiency6_desc: "Nedávný vývoj v technologii nanovláken umožňuje použití některých z nejpokročilejších a nejhustších izolací současnosti. To výrazně zlepší energetickou účinnost." # todo: NEW TRANSLATION
+ energy_efficiency7: "Široká integrace TEG" # todo: NEW TRANSLATION
+ energy_efficiency7_desc: "Jít dál než jen izolovat budovy, termoelektrické generátory lze využít k získání energie, která by byla ztracena i přes moderní tepelnou izolaci." # todo: NEW TRANSLATION
+ energy_efficiency8: "Mikrogenerátory" # todo: NEW TRANSLATION
+ energy_efficiency8_desc: "Instalace malých generátorových turbín do výfuků a vedení termoelektrických kabelů přes okna posouvá zpětné získávání energie na další úroveň." # todo: NEW TRANSLATION
+ energy_efficiency9: "Supravodivé termoelektrické generátory" # todo: NEW TRANSLATION
+ energy_efficiency9_desc: "Využití teplotních extrémů a fyzikálních vlastností Seebeckova efektu je jedna věc, ale kombinace s supravodivými vlastnostmi nedávno vyvinutých slitin a nanovláken umožňuje, aby účinnost přiblížila koncept téměř bez ztrát." # todo: NEW TRANSLATION
+ TOTAL_GENERATION_ENERGY: "§HCelková výroba§!: [?energy_sum|G2] GW" # todo: NEW TRANSLATION
+ ENERGY_GENERATION_TOTAL_TT: "Následující hodnoty tvoří úplný přehled, odkud pochází vyrobená energie. §YFossil Fuel Powerplants§! přejdou do nečinnosti, pokud vyrábíte více energie, než spotřebováváte. Nečinné §YFossil Fuel Powerplants§! nespotřebovávají §YFuel§!.\n----------\n§YVýroba z fosilních paliv§!: [?fossil_pp_energy_generation|G2] GW\n§YVýkon nečinných fosilních elektráren§!: [?free_fossil_powerplants_power|Y2] GW\n§YVýroba hydroelektrické energie§!: [?hydroelectric_energy_generation|G2] GW\n§YGeotermální výroba§!: [?geothermal_energy_generation|G2] GW\n§YJaderná výroba§!: [?nuclear_energy_generation|G2] GW\n§YVýroba ze solárních a větrných zdrojů§!: [?renewable_energy_display_var|G2] GW\n§YOstatní zdroje§!: [?other_energy_generation|G2] GW\n§YVýběr ze skladované energie§!: [?energy_withdrawal_from_storage|G2] GW\n\n§YModifikátory§!:\nZákony, myšlenky a technologie ovlivňují §Ycelkovou výrobu energie§!: [?modifier@energy_gain_multiplier|+%]\nZákony, myšlenky a technologie ovlivňují §Yvýrobu z obnovitelných zdrojů§!: [?modifier@renewable_energy_gain_multiplier|%+]\nZákony, myšlenky a technologie ovlivňují §Yvýrobu z fosilních elektráren§!: [?modifier@fossil_pp_energy_generation_modifier|%+]\nZákony, myšlenky a technologie ovlivňují §Yvýrobu jaderné energie§!: [?modifier@nuclear_energy_generation_modifier|%+]" # todo: NEW TRANSLATION
+ TOTAL_CONSUMPTION_ENERGY: "§HCelková spotřeba:§!: [?energy_consumption|R2] GW" # todo: NEW TRANSLATION
+ TOTAL_CONSUMPTION_ENERGY_TT: "Následující hodnoty tvoří úplný přehled, odkud pochází spotřeba energie.\n----------\n§YSpotřeba energie obyvatelstvem§!: [?population_energy_use_display_var|R2] GW\n§YCelková spotřeba energie budov§!: [?energy_use_buildings_total_display_var|R2] GW\n§YOstatní spotřeba energie§!: [?other_energy_use_display_var|R2] GW\n----------\n§YSpotřeba energie v budovách podle typu:§!\n§YSpotřeba energie civilních továren§!: [?energy_use_civs_total_display_var|R2]\n§YSpotřeba energie kanceláří§!: [?energy_use_offices_total_display_var|R2]\n§YSpotřeba energie vojenských továren a námořních loděnic§!: [?energy_use_mils_total_display_var|R2]\n\n§YModifikátory§!:\nZákony, myšlenky a technologie ovlivňují §Ycelkovou spotřebu energie§!: [?modifier@energy_use_multiplier|-%]\nZákony, myšlenky a technologie ovlivňují §Yspotřebu energie obyvatelstvem§!: [?modifier@pop_energy_use_multiplier|-%]\nZákony, myšlenky a technologie ovlivňují §Yspotřebu energie civilních továren§!: [?modifier@energy_use_modifier_civs|-%]\nZákony, myšlenky a technologie ovlivňují §Yspotřebu energie kancelářských komplexů§!: [?modifier@energy_use_modifier_offices|-%]\nZákony, myšlenky a technologie ovlivňují §Yspotřebu energie vojenských továren a loděnic§!: [?modifier@energy_use_modifier_mils|-%]\n" # todo: NEW TRANSLATION
+ MISSING_FULFILLMENT_VALUE: "§HNeuspokojená spotřeba§!: [?unfulfilled_energy_demand_var|%+]" # todo: NEW TRANSLATION
+ MISSING_FULFILLMENT_VALUE_TT: "Tato hodnota je procento naší požadované §Yenergetické poptávky§!, které není momentálně uspokojeno.\n\n§YDopad neuspokojené spotřeby§!\n£construction_speed_texticon Rychlost výstavby: [?unfulfilled_energy_demand_dynmod_var|+%]\n£research_speed_texticon  Rychlost výzkumu: [?unfulfilled_energy_demand_dynmod_var|+%] \n£tax_gain_multiplier_modifier_texticon §YDaňové příjmy§! násobitel: [?unfulfilled_energy_demand_dynmod_var_3|+%]\n£factory_output_texticon Výstup továren: [?unfulfilled_energy_demand_dynmod_var|+%]\n£dockyard_output_texticon Výstup loděnic: [?unfulfilled_energy_demand_dynmod_var|+%] \n£stability_texticon  Stabilita: [?unfulfilled_energy_demand_dynmod_var_2|+%]" # todo: NEW TRANSLATION
+ TOTAL_FOSSIL_FUEL_POWERPLANTS: "Provozní elektrárny na fosilní paliva: [?number_of_fossil_pps|0Y]" # todo: NEW TRANSLATION
+ TOTAL_FOSSIL_FUEL_POWERPLANTS_TT: "Elektrárna na fosilní paliva je souhrnný pojem pro všechny tepelně elektrárenské zdroje založené na fosilních palivech. Patří sem mimo jiné uhlí, zemní plyn a ropa.\n\nPoskytuje státu:\nZákladní zisk výkonu: §G+1§! GW\n" # todo: NEW TRANSLATION
+ TOTAL_NUCLEAR_REACTOR: "Jaderné reaktory: [?nuclear_reactors|0Y]" # todo: NEW TRANSLATION
+ TOTAL_NUCLEAR_REACTOR_TT: "Tato budova přeměňuje jadernou energii na elektrickou energii a při tom spotřebovává středně obohacený uran.\n\nPoskytuje státu:\nZákladní zisk výkonu: §G+2§! GW\n" # todo: NEW TRANSLATION
+ TOTAL_RENEWABLE_PARKS: "Parky obnovitelných zdrojů: [?biofuel_refineries|0Y]" # todo: NEW TRANSLATION
+ TOTAL_RENEWABLE_PARKS_TT: "Infrastruktura obnovitelných zdrojů je souhrnný pojem pro všechny obnovitelné zdroje energie. Patří sem mimo jiné solární parky, větrné turbíny, rafinerie bionafty, uhlíkové pece, elektrárny na biomasu a další. Využívá obnovitelné zdroje a také produkuje palivo z těchto zdrojů.\n\nPoskytuje státu:\nZákladní zisk výkonu: §G+0.5§! GW\n" # todo: NEW TRANSLATION
+ TOTAL_HOURLY_FUEL_CONSUMPTION_VALUES: "Denní spotřeba paliva elektrárnami: [?fossil_pp_fuel_display|0R]" # todo: NEW TRANSLATION
+ TOTAL_HOURLY_FUEL_CONSUMPTION_VALUES_TT: "Tato hodnota představuje celkové denní množství paliva spotřebovaného všemi našimi aktivními §Yelektrárnami na fosilní paliva§!. §YFosilní elektrárny§! začnou být nečinné, když je vaše celková výrobní kapacita větší než celková spotřeba.\n\n§YModifikátory§!:\nZákony, myšlenky a technologie ovlivňují §Yspotřebu paliva fosilních elektráren§!: [?modifier@fossil_pp_fuel_consumption_modifier|-%]" # todo: NEW TRANSLATION
+ TOTAL_HOURLY_POPULATION_FUEL_CONSUMPTION_VALUES: "Denní spotřeba paliva obyvatelstvem: [?non_electric_fuel_display|0R]" # todo: NEW TRANSLATION
+ TOTAL_HOURLY_POPULATION_FUEL_CONSUMPTION_VALUES_TT: "Tato hodnota představuje celkové denní množství paliva spotřebovaného naším §Yobyvatelstvem§!.\n\n§YModifikátory§!:\nZákony, myšlenky a technologie ovlivňují §Yspotřebu neelektrického paliva§!: [?modifier@non_electric_fuel_consumption_modifier|-%]" # todo: NEW TRANSLATION
+ TOTAL_WEEKLY_NUCLEAR_MATERIAL_CONSUMPTION: "Týdenní spotřeba jaderného paliva: [?nuclear_fuel_consumption|0R] Kg" # todo: NEW TRANSLATION
+ TOTAL_WEEKLY_NUCLEAR_MATERIAL_CONSUMPTION_TT: "Tato hodnota představuje týdenní spotřebu §Ymateriálu reaktorové kvality§! pro naše §Yjaderné reaktory§!.\n\n§YZásoba materiálu reaktorové kvality§!: £GFX_nuclear_material_texticon  §G[?var_reactor_material_stockpile]§! Kg\n§YTýdenní výroba materiálu reaktorové kvality§!: [?var_nuke_nuclear_reactor_prod|G2] §Gkg§!\n\n§YModifikátory§!:\nZákony, myšlenky a technologie ovlivňují §Yspotřebu paliva jaderných reaktorů§!: [?modifier@nuclear_fuel_consumption_modifier|-%]" # todo: NEW TRANSLATION
+ TOTAL_STORED_ENERGY: "Uložená energie: [?stored_energy|3Y] GWh z [?max_stored_energy|3Y] GWh maximální kapacity" # todo: NEW TRANSLATION
+ TOTAL_STORED_ENERGY_TT: "Zobrazuje aktuální množství přebytečné energie, kterou máme uloženou, a také maximální kapacitu, kterou jsme schopni pojmout. Více §Ymaximální kapacity§! lze získat výstavbou dalších §Yparků baterií§!." # todo: NEW TRANSLATION
+ OPEN_ENERGY_BUTTON: "Otevřít energetické okno" # todo: NEW TRANSLATION
+ OPEN_ENERGY_BUTTON_TT: "Otevře energetické rozhraní, kde můžete vidět spotřebu, výrobu a uspokojení energetických potřeb vaší země." # todo: NEW TRANSLATION
+ heavy_power_restrictions_button_tt: "§YPřísná omezení spotřeby energie§!\nNaše spotřeba energie převyšuje naši výrobu. Dočasným řešením může být rychlé omezení elektrické spotřeby obyvatelstva, dokud nestavíme další elektrárny, obnovitelné zdroje a další kapacity k uklidnění této rostoucí krize. Zavedení přísných omezení způsobí výrazné snížení ekonomického růstu, spotřeby energie a politické projekce." # todo: NEW TRANSLATION
+ heavy_power_restrictions_button_delayed_tt: "§YPožadavky:§!\n[!heavy_power_restrictions_button_click_enabled]\n§YÚčinky:§!\n[!heavy_power_restrictions_button_click]" # todo: NEW TRANSLATION
+ some_power_restrictions_button_tt: "§YMírná omezení spotřeby energie§!\nNaše spotřeba energie převyšuje naši výrobu. Dočasným řešením může být rychlé omezení elektrické spotřeby obyvatelstva, dokud nezačneme stavět další elektrárny, obnovitelné zdroje a další kapacity k řešení této rostoucí krize. Zavedení některých omezení způsobí malé snížení ekonomického růstu, spotřeby energie a politické projekce." # todo: NEW TRANSLATION
+ some_power_restrictions_button_delayed_tt: "§YPožadavky:§!\n[!some_power_restrictions_button_click_enabled]\n§YÚčinky:§!\n[!some_power_restrictions_button_click]" # todo: NEW TRANSLATION
+ no_power_restrictions_button_tt: "§YŽádná omezení spotřeby energie§!\nStatus quo je obvykle nejběžnější scénář pro ekonomiku naší země a politickou bezpečnost naší strany. Neomezujeme spotřebu obyvatel ani nepodporujeme dodatečnou spotřebu." # todo: NEW TRANSLATION
+ no_power_restrictions_button_delayed_tt: "§YPožadavky:§!\n[!no_power_rules_button_click_enabled]\n§YÚčinky:§!\n[!no_power_rules_button_click]" # todo: NEW TRANSLATION
+ some_additional_consumption_button_tt: "§YMírně zvýšená spotřeba§!\nV současnosti vyrábíme více energie, než potřebujeme. Měli bychom povzbudit určité zvýšení spotřeby, abychom využili náš nadbytek. Podpora mírně zvýšené spotřeby nám dá malý bonus k rychlosti výstavby a politické síle, přičemž mírně zvýší spotřebu energie obyvatel." # todo: NEW TRANSLATION
+ some_additional_consumption_button_delayed_tt: "§YPožadavky:§!\n[!some_additional_consumption_button_click_enabled]\n§YÚčinky:§!\n[!some_additional_consumption_button_click]" # todo: NEW TRANSLATION
+ heavy_additional_consumption_button_tt: "§YSilně zvýšená spotřeba§!\nV současnosti vyrábíme více energie, než potřebujeme. Měli bychom povzbudit silné zvýšení spotřeby, abychom využili náš nadbytek. Podpora silně zvýšené spotřeby nám dá velký bonus k rychlosti výstavby a politické síle, zatímco dramaticky zvýší spotřebu energie obyvatel." # todo: NEW TRANSLATION
+ heavy_additional_consumption_button_delayed_tt: "§YPožadavky:§!\n[!heavy_additional_consumption_button_click_enabled]\n§YÚčinky:§!\n[!heavy_additional_consumption_button_click]" # todo: NEW TRANSLATION
+ build_enrichment_facility_button_tt: "§YPostavit obohacovací zařízení§!\nObohacovací zařízení slouží k produkci jaderného materiálu pro naše reaktory a jaderné zbraně. Pokud chcete jít jadernou cestou, budete potřebovat alespoň jedno z těchto zařízení, abyste vyrobili dostatek materiálu k podpoře svých cílů. Pokud již obohacovací zařízení nemáte, některé země mohou zasáhnout do vaší země nebo požadovat určité ústupky..." # todo: NEW TRANSLATION
+ build_enrichment_facility_button_delayed_tt: "§YPožadavky:§!\n[!build_enrichment_facility_button_click_enabled]\n§YÚčinky:§!\n[!build_enrichment_facility_button_click]\nMůžeme zařadit do fronty skupinu §YTří obohacovacích zařízení§! najednou pomocí £shift_texticon + £left_mouse_texticon §YShift + levé kliknutí§!.\n§YPožadavky:§!\n[!build_enrichment_facility_button_shift_click_enabled]\n§YÚčinky:§!\n[!build_enrichment_facility_button_shift_click]" # todo: NEW TRANSLATION
+ build_battery_park_button_tt: "§YPostavit park baterií§!\n§YPark baterií§! je velká drahá stavba, která může uložit §Y100 GWh§! přebytečné vyrobené energie každá. Může být užitečné tyto zařízení stavět k ukládání energie pro období, kdy nemůžeme vyrobit dostatek energie pro pokrytí spotřeby, zejména při použití obnovitelných zdrojů kvůli jejich nestabilnímu výkonu." # todo: NEW TRANSLATION
+ build_battery_park_button_delayed_tt: "§YPožadavky:§!\n[!build_battery_park_button_click_enabled]\n§YÚčinky:§!\n[!build_battery_park_button_click]" # todo: NEW TRANSLATION
+ buy_fuel_for_money_button_tt: "§YKoupit palivo na trhu§!\nNěkteří prodejci po celém světě nabízejí palivo za peníze. Nákup paliva může v tísni udržet naše fosilní elektrárny a armádu v chodu." # todo: NEW TRANSLATION
+ buy_fuel_for_money_button_delayed_tt: "§YPožadavky:§!\n[!buy_fuel_for_money_button_click_enabled]\n§YÚčinky:§!\n[!buy_fuel_for_money_button_click]" # todo: NEW TRANSLATION
+ energy.1.t: "Žádost o nákup materiálu reaktorové kvality" # todo: NEW TRANSLATION
+ energy.1.d: "[FROM.GetNameWithFlag] se snaží koupit od nás materiál reaktorové kvality pro své jaderné reaktory. Máme jejich navrženou dohodu přijmout?" # todo: NEW TRANSLATION
+ energy.1.a: "Přijmout dohodu" # todo: NEW TRANSLATION
+ energy.1.b: "Odmítnout dohodu" # todo: NEW TRANSLATION
+ energy.2.t: "[FROM.GetNameWithFlag] potvrdil prodej" # todo: NEW TRANSLATION
+ energy.2.d: "Úředníci z [FROM.GetName] potvrdili prodej jaderného paliva k napájení našich reaktorů. Zásilka je na cestě a měla by dorazit brzy." # todo: NEW TRANSLATION
+ energy.2.a: "Nákup dokončen" # todo: NEW TRANSLATION
+ energy.3.t: "[FROM.GetNameWithFlag] odmítl prodej" # todo: NEW TRANSLATION
+ energy.3.d: "Bohužel úředníci z [FROM.GetName] odmítli naši nabídku na koupi jaderného paliva. Vypadá to, že budeme muset pro napájení našich reaktorů hledat jiné možnosti." # todo: NEW TRANSLATION
+ energy.3.a: "Nákup zamítnut" # todo: NEW TRANSLATION
+ energy.4.t: "Nové obohacovací zařízení" # todo: NEW TRANSLATION
+ energy.4.d: "[FROM.GetNameWithFlag] právě staví své první obohacovací zařízení. Jak máme postupovat? Můžeme požadovat, aby přestali." # todo: NEW TRANSLATION
+ energy.4.a: "Požadovat zastavení" # todo: NEW TRANSLATION
+ energy.4.b: "Dovolit výstavbu" # todo: NEW TRANSLATION
+ energy.5.t: "Zastavit výstavbu obohacovacího zařízení" # todo: NEW TRANSLATION
+ energy.5.d: "Byli jsme požádáni [FROM.GetName], abychom zastavili výstavbu našeho obohacovacího zařízení. Máme stavbu zastavit? Můžeme se také omezit na materiály LEU poté, co bude zařízení dokončeno, abychom mohli vyrábět vlastní jaderné palivo, nebo je můžeme prostě ignorovat. Kdo ví?" # todo: NEW TRANSLATION
+ energy.5.a: "Zastavit stavbu" # todo: NEW TRANSLATION
+ energy.5.b: "Omezit na LEU" # todo: NEW TRANSLATION
+ energy.5.c: "Ignorovat požadavky" # todo: NEW TRANSLATION
+ energy.6.t: "[FROM.GetNameWithFlag] Přijal naše požadavky" # todo: NEW TRANSLATION
+ energy.6.d: "Přijali naše požadavky a zastavili svou výstavbu." # todo: NEW TRANSLATION
+ energy.6.a: "Výborně" # todo: NEW TRANSLATION
+ energy.7.t: "[FROM.GetNameWithFlag] Omezení materiálů pro reaktory" # todo: NEW TRANSLATION
+ energy.7.d: "Omezili se na materiály určené pro reaktory. To by jim mělo zabránit stát se plnohodnotnou jadernou mocností." # todo: NEW TRANSLATION
+ energy.7.a: "Hodné úsilí" # todo: NEW TRANSLATION
+ energy.8.t: "[FROM.GetNameWithFlag] Ignoroval naše požadavky" # todo: NEW TRANSLATION
+ energy.8.d: "Řekli nám, abychom se s nátlakem vypořádali sami." # todo: NEW TRANSLATION
+ energy.8.a: "Děkuji" # todo: NEW TRANSLATION
+ energy.9.t: "[FROM.GetNameWithFlag] Umožnil výstavbu" # todo: NEW TRANSLATION
+ energy.9.d: "Povolili nám to a sponzorují naši výstavbu. Žádná jiná moc nás nezastaví." # todo: NEW TRANSLATION
+ energy.9.a: "Děkuji" # todo: NEW TRANSLATION

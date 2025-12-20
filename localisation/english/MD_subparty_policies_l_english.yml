@@ -1,0 +1,185 @@
+﻿l_english:
+ subparty_policies_category: "Ideologický souboj" # todo: NEW TRANSLATION
+ subparty_policies_category_desc: "Naše strana je definována naší ideologií. Způsob, jakým vnímáme svět, nám dává jedinečné přístupy k jeho řešení." # todo: NEW TRANSLATION
+ generic_initiate_5_year_plan: "Zahájit pětiletý plán" # todo: NEW TRANSLATION
+ generic_initiate_5_year_plan_desc: "Rozhodli jsme se, čemu chceme věnovat následujících pět let. Je čas zorganizovat dělníky a přinést pokrok velkému [Root.GetAdjective] proletariátu!" # todo: NEW TRANSLATION
+ generic_focus_on_civilian_sector: "Zaměřit se na civilní sektor" # todo: NEW TRANSLATION
+ generic_focus_on_civilian_sector_desc: "Největší úsilí by mělo být věnováno výrobě základního spotřebního zboží, zařízení a služeb pro dobro našeho lidu. Pokud rozšíříme naše přístavy, můžeme také prodávat naše produkty špinavým kapitalistům a ukrást peníze těmto imperialistům." # todo: NEW TRANSLATION
+ generic_focus_on_military_infrastructure: "Zaměřit se na vojenskou infrastrukturu" # todo: NEW TRANSLATION
+ generic_focus_on_military_infrastructure_desc: "Boj za dělníky je věčná válka. Můžeme být kdykoli napadeni kapitalistickými prasaty a musíme připravit naši zemi tak, aby maximalizovala efektivitu našich vojenských operací." # todo: NEW TRANSLATION
+ generic_focus_on_military_production: "Zaměřit se na výrobu zbraní" # todo: NEW TRANSLATION
+ generic_focus_on_military_production_desc: "Dělníci a pracovníci se bez zbraní neubrání! Musíme postavit více zbrojních továren, aby každý vlastenecký občan mohl bojovat proti našim nepřátelům." # todo: NEW TRANSLATION
+ generic_focus_on_naval_expansion: "Zaměřit se na posílení námořnictva" # todo: NEW TRANSLATION
+ generic_focus_on_naval_expansion_desc: "Dokonce i chudého rybáře je třeba chránit! Bez řádné pobřežní obrany by nepřítel mohl nepozorovaně vplížit na naše břehy a ukrást všechny naše přírodní bohatství." # todo: NEW TRANSLATION
+ generic_focus_on_resource_exploitation: "Zaměřit se na těžbu zdrojů" # todo: NEW TRANSLATION
+ generic_focus_on_resource_exploitation_desc: "Matka vlast nabízí své zdroje dělníkům. Musíme vykopat každý centimetr země a využít co nejvíce těchto surovin." # todo: NEW TRANSLATION
+ generic_admit_5_year_plan_failure: "Přiznat neúspěch pětiletého plánu" # todo: NEW TRANSLATION
+ generic_admit_5_year_plan_failure_desc: "Musíme přiznat, že plány, které jsme udělali pro náš pompézní pětiletý plán, byly poněkud příliš ambiciózní, abychom byli milosrdní. Přiznání toho je rozhodně těžké k polknutí a ukáže to světu naši slabost. Pro mnoho členů strany to rozhodně nebude přijatelné řešení." # todo: NEW TRANSLATION
+ generic_nationalise_biggest_influencer_industries: "Znárodnit investice [?var:influence_array^0.GetFlag][?var:influence_array^0.GetAdjective]" # todo: NEW TRANSLATION
+ generic_nationalise_biggest_influencer_industries_desc: "[?var:influence_array^0.GetFlag][?var:influence_array^0.GetName] protéká naší zemí velké množství peněz. Vydírají náš lid za kapitalistické zisky a to musí být zastaveno. Měli bychom znárodnit některá [?var:influence_array^0.GetAdjective] aktiva v naší zemi." # todo: NEW TRANSLATION
+ generic_nationalise_second_biggest_influencer_industries: "Znárodnit investice [?var:influence_array^1.GetFlag][?var:influence_array^1.GetAdjective]" # todo: NEW TRANSLATION
+ generic_nationalise_second_biggest_influencer_industries_desc: "[?var:influence_array^1.GetFlag][?var:influence_array^1.GetName] protéká naší zemí velké množství peněz. Vydírají náš lid za kapitalistické zisky a to musí být zastaveno. Měli bychom znárodnit některá [?var:influence_array^1.GetAdjective] aktiva v naší zemi." # todo: NEW TRANSLATION
+ generic_form_paramilitary_units: "Založit polovojenské jednotky pro mládež" # todo: NEW TRANSLATION
+ generic_form_paramilitary_units_desc: "Naše mládež se stává línou a dekadentní. Musíme vytvořit polovojenské organizace, které je naučí užitečným životním a vojenským dovednostem, a samozřejmě loajalitě ke straně." # todo: NEW TRANSLATION
+ generic_give_research_grants: "Poskytnout výzkumné granty" # todo: NEW TRANSLATION
+ generic_give_research_grants_desc: "Mnoho našich domácích společností průběžně provozuje výzkum a vývoj. Měli bychom těmto společnostem poskytnout vládní financování, aby podpořily své snahy." # todo: NEW TRANSLATION
+ generic_give_startup_subsidies: "Roztáhnout startovní finance" # todo: NEW TRANSLATION
+ generic_give_startup_subsidies_desc: "[ROOT.GetName] je plná vynalézavých a pracovitých lidí, kteří jen potřebují trochu peněz, aby začali své podnikatelské sny. Měli bychom pomoci našim lidem založit tyto firmy." # todo: NEW TRANSLATION
+ generic_give_military_procurement_funds: "Přidělit extra prostředky na vojenské zakázky" # todo: NEW TRANSLATION
+ generic_give_military_procurement_funds_desc: "Musíme přidělit nějaké extra prostředky ministerstvu obrany, aby se urychlily některé naše projekty zadávání zakázek." # todo: NEW TRANSLATION
+ generic_give_ship_building_funds: "Dotovat stavbu lodí" # todo: NEW TRANSLATION
+ generic_give_ship_building_funds_desc: "Musíme vložit více zdrojů do rozšíření naší schopnosti stavět lodě. Jako země s pobřežím je to důležitý průmyslový sektor." # todo: NEW TRANSLATION
+ generic_subsidise_resource_extraction: "Podpořit těžbu surovin" # todo: NEW TRANSLATION
+ generic_subsidise_resource_extraction_desc: "Naše země je závislá na produkci vzácných materiálů. Musíme udělit více licencí našim společnostem k těžbě surovin z naší půdy." # todo: NEW TRANSLATION
+ TT_HAS_CHOSEN_5_YEAR_FOCUS: "Zvolili jsme alespoň jednu oblast, na kterou se zaměříme v našem pětiletém plánu" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_CURRENT_EFFECTS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.five_year_plan_political_power_factor|%=+0]\n§Y$infrastructure$§! rychlost výstavby: [?THIS.five_year_plan_infra_factor|%=+2]\n§Y$air_base$§! rychlost výstavby: [?THIS.five_year_plan_air_base_factor|%=+2]\n§Y$anti_air_building$§! rychlost výstavby: [?THIS.five_year_plan_anti_air_factor|%=+2]\n§Y$fuel_silo$§! rychlost výstavby: [?THIS.five_year_plan_fuel_reserve_factor|%=+2]\n§Y$radar_station$§! rychlost výstavby: [?THIS.five_year_plan_intelligence_station_factor|%=+2]\n§Y$internet_station$§! rychlost výstavby: [?THIS.five_year_plan_mobile_radio_mast_factor|%=+2]\n§Y$arms_factory$§! rychlost výstavby: [?THIS.five_year_plan_MIC_factor|%=+2]\n§Y$industrial_complex$§! rychlost výstavby: [?THIS.five_year_plan_CIC_factor|%=+2]\n§Y$offices$§! rychlost výstavby: [?THIS.five_year_plan_office_factor|%=+2]\n§Y$dockyard$§! rychlost výstavby: [?THIS.five_year_plan_NIC_factor|%=+2]\n§Y$synthetic_refinery$§! rychlost výstavby: [?THIS.five_year_plan_refinery_factor|%=+2]\n§Y$naval_base$§! rychlost výstavby: [?THIS.five_year_plan_naval_base_factor|%=+2]\n§Y$bunker$§! rychlost výstavby: [?THIS.five_year_plan_land_bunker_factor|%=+2]\n§Y$coastal_bunker$§! rychlost výstavby: [?THIS.five_year_plan_coastal_bunker_factor|%=+2]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.five_year_plan_resources_factor|%=+2]" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_CIVILIAN_FOCUS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n§Y$infrastructure$§! rychlost výstavby: §G+15.00%§!\n§Y$air_base$§! rychlost výstavby: §R-7.50%§!\n§Y$anti_air_building$§! rychlost výstavby: §R-7.50%§!\n§Y$fuel_silo$§! rychlost výstavby: §R-7.50%§!\n§Y$radar_station$§! rychlost výstavby: §R-7.50%§!\n§Y$internet_station$§! rychlost výstavby: §G+15.00%§!\n§Y$arms_factory$§! rychlost výstavby: §R-7.50%§!\n§Y$industrial_complex$§! rychlost výstavby: §G+15.00%§!\n§Y$offices$§! rychlost výstavby: §G+15.00%§!\n§Y$dockyard$§! rychlost výstavby: §R-7.50%§!\n§Y$synthetic_refinery$§! rychlost výstavby: §R-7.50%§!\n§Y$naval_base$§! rychlost výstavby: §G+15.00%§!\n§Y$bunker$§! rychlost výstavby: §R-7.50%§!\n§Y$coastal_bunker$§! rychlost výstavby: §R-7.50%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-7.50%§!\n" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_MILITARY_INFRASTRUCTURE_FOCUS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n§Y$infrastructure$§! rychlost výstavby: §G+15.00%§!\n§Y$air_base$§! rychlost výstavby: §G+15.00%§!\n§Y$anti_air_building$§! rychlost výstavby: §G+15.00%§!\n§Y$fuel_silo$§! rychlost výstavby: §G+15.00%§!\n§Y$radar_station$§! rychlost výstavby: §G+15.00%§!\n§Y$internet_station$§! rychlost výstavby: §R-7.50%§!\n§Y$arms_factory$§! rychlost výstavby: §R-7.50%§!\n§Y$industrial_complex$§! rychlost výstavby: §R-7.50%§!\n§Y$offices$§! rychlost výstavby: §R-7.50%§!\n§Y$dockyard$§! rychlost výstavby: §R-7.50%§!\n§Y$synthetic_refinery$§! rychlost výstavby: §R-7.50%§!\n§Y$naval_base$§! rychlost výstavby: §G+15.00%§!\n§Y$bunker$§! rychlost výstavby: §G+15.00%§!\n§Y$coastal_bunker$§! rychlost výstavby: §G+15.00%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-7.50%§!\n" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_MILITARY_PRODUCTION_FOCUS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n§Y$infrastructure$§! rychlost výstavby: §R-7.50%§!\n§Y$air_base$§! rychlost výstavby: §R-7.50%§!\n§Y$anti_air_building$§! rychlost výstavby: §G+15.00%§!\n§Y$fuel_silo$§! rychlost výstavby: §R-7.50%§!\n§Y$radar_station$§! rychlost výstavby: §R-7.50%§!\n§Y$internet_station$§! rychlost výstavby: §R-7.50%§!\n§Y$arms_factory$§! rychlost výstavby: §G+15.00%§!\n§Y$industrial_complex$§! rychlost výstavby: §R-7.50%§!\n§Y$offices$§! rychlost výstavby: §R-7.50%§!\n§Y$dockyard$§! rychlost výstavby: §G+15.00%§!\n§Y$synthetic_refinery$§! rychlost výstavby: §R-7.50%§!\n§Y$naval_base$§! rychlost výstavby: §R-7.50%§!\n§Y$bunker$§! rychlost výstavby: §R-7.50%§!\n§Y$coastal_bunker$§! rychlost výstavby: §R-7.50%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-7.50%§!\n" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_NAVAL_EXPANSION_FOCUS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n§Y$infrastructure$§! rychlost výstavby: §R-7.50%§!\n§Y$air_base$§! rychlost výstavby: §R-7.50%§!\n§Y$anti_air_building$§! rychlost výstavby: §R-7.50%§!\n§Y$fuel_silo$§! rychlost výstavby: §R-7.50%§!\n§Y$radar_station$§! rychlost výstavby: §R-7.50%§!\n§Y$internet_station$§! rychlost výstavby: §R-7.50%§!\n§Y$arms_factory$§! rychlost výstavby: §R-7.50%§!\n§Y$industrial_complex$§! rychlost výstavby: §R-7.50%§!\n§Y$offices$§! rychlost výstavby: §R-7.50%§!\n§Y$dockyard$§! rychlost výstavby: §G+15.00%§!\n§Y$synthetic_refinery$§! rychlost výstavby: §R-7.50%§!\n§Y$naval_base$§! rychlost výstavby: §G+15.00%§!\n§Y$bunker$§! rychlost výstavby: §R-7.50%§!\n§Y$coastal_bunker$§! rychlost výstavby: §G+15.00%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §R-7.50%§!\n" # todo: NEW TRANSLATION
+ TT_5_YEAR_PLAN_RESOURCE_EXPLOITATION_FOCUS: "To ovlivní pětiletý plán následujícími modifikátory:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-5%§!\n§Y$infrastructure$§! rychlost výstavby: §G+15.00%§!\n§Y$air_base$§! rychlost výstavby: §R-7.50%§!\n§Y$anti_air_building$§! rychlost výstavby: §R-7.50%§!\n§Y$fuel_silo$§! rychlost výstavby: §G+15.00%§!\n§Y$radar_station$§! rychlost výstavby: §R-7.50%§!\n§Y$internet_station$§! rychlost výstavby: §R-7.50%§!\n§Y$arms_factory$§! rychlost výstavby: §R-7.50%§!\n§Y$industrial_complex$§! rychlost výstavby: §R-7.50%§!\n§Y$offices$§! rychlost výstavby: §R-7.50%§!\n§Y$dockyard$§! rychlost výstavby: §R-7.50%§!\n§Y$synthetic_refinery$§! rychlost výstavby: §G+15.00%§!\n§Y$naval_base$§! rychlost výstavby: §R-7.50%§!\n§Y$bunker$§! rychlost výstavby: §R-7.50%§!\n§Y$coastal_bunker$§! rychlost výstavby: §R-7.50%§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+15.00%§!\n" # todo: NEW TRANSLATION
+ TT_ABANDON_5_YEAR_PLAN: "§H[Root.GetLeader]§! záhadně zmizel.\nNaštěstí je zde někdo z §H[show_ruling_party]§!, kdo je velmi dychtivý sloužit jako vůdce\n\n" # todo: NEW TRANSLATION
+ TT_HAS_20_INFLUENCE: "Cíl má alespoň 20% vlivu na nás" # todo: NEW TRANSLATION
+ TT_HAS_INVESTMENTS: "Cíl má §YMezinárodní investice§!" # todo: NEW TRANSLATION
+ TT_CASH_BONUS: "Získáme $[?cash_bonus|+3] §Ymiliard§! v zlikvidovaných aktivech" # todo: NEW TRANSLATION
+ TT_SUBSIDY_COST_WITH_INVESTMENT: "Investujeme §Y$[?subsidy_size|3] miliard§! na podporu domácích společností. 25% této částky bude přesunuto do našich §YMezinárodních investic§!" # todo: NEW TRANSLATION
+ TT_SUBSIDY_COST: "Investujeme §Y$[?subsidy_size|3] miliard§! do tohoto projektu" # todo: NEW TRANSLATION
+ generic_five_year_plan_dynamic_modifier: "Pětiletý plán" # todo: NEW TRANSLATION
+ IP_spread_the_revolution: "Šířit revoluci" # todo: NEW TRANSLATION
+ IP_paralyzing_corruption_pp_bonus: "Bonus politické síly za paralyzující korupci" # todo: NEW TRANSLATION
+ IP_crippling_corruption_pp_bonus: "Bonus politické síly za paralyzující korupci" # todo: NEW TRANSLATION
+ IP_rampant_corruption_pp_bonus: "Bonus politické síly za rozšířenou korupci" # todo: NEW TRANSLATION
+ IP_unrestrained_corruption_pp_bonus: "Bonus politické síly za nekontrolovanou korupci" # todo: NEW TRANSLATION
+ IP_systematic_corruption_pp_bonus: "Bonus politické síly za systematickou korupci" # todo: NEW TRANSLATION
+ IP_widespread_corruption_pp_bonus: "Bonus politické síly za rozšířenou korupci" # todo: NEW TRANSLATION
+ IP_medium_corruption_pp_bonus: "Bonus politické síly za střední korupci" # todo: NEW TRANSLATION
+ IP_modest_corruption_pp_bonus: "Bonus politické síly za skromnou korupci" # todo: NEW TRANSLATION
+ IP_slight_corruption_pp_bonus: "Bonus politické síly za mírnou korupci" # todo: NEW TRANSLATION
+ IP_negligible_corruption_pp_bonus: "Bonus politické síly za zanedbatelnou korupci" # todo: NEW TRANSLATION
+ IP_emergency_powers: "Neomezená moc" # todo: NEW TRANSLATION
+ IP_paramilitary_units_formed: "[ROOT.GetAdjective] Mládežnická garda" # todo: NEW TRANSLATION
+ IP_paramilitary_units_formed_desc: "Byla vytvořena polovojenská jednotka pro [ROOT.GetAdjective], aby si zvykla na vojenský život." # todo: NEW TRANSLATION
+ IP_good_old_days: "Dobré staré časy" # todo: NEW TRANSLATION
+ IP_stable_society: "Stabilní společnost" # todo: NEW TRANSLATION
+ IP_patriotism: "Patriotismus" # todo: NEW TRANSLATION
+ IP_patriotism_religious: "Patriotismus" # todo: NEW TRANSLATION
+ IP_homefront_first: "[ROOT.GetName] na prvním místě!" # todo: NEW TRANSLATION
+ IP_welfare_state: "Sociální stát" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_isolation_bonus: "Mírová diplomacie - izolace" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_local_security_bonus: "Mírová diplomacie - místní bezpečnost" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_limited_interventionism_bonus: "Mírová diplomacie - omezený intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_regional_interventionism_penalty: "Mírová diplomacie - regionální intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_global_interventionism_penalty: "Mírová diplomacie - globální intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_neoimperialism_penalty: "Mírová diplomacie - neoironismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_isolation_bonus_green: "Mírová diplomacie - izolace" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_local_security_bonus_green: "Mírová diplomacie - místní bezpečnost" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_limited_interventionism_bonus_green: "Mírová diplomacie - omezený intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_regional_interventionism_penalty_green: "Mírová diplomacie - regionální intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_global_interventionism_penalty_green: "Mírová diplomacie - globální intervencionismus" # todo: NEW TRANSLATION
+ IP_peaceful_diplomacy_neoimperialism_penalty_green: "Mírová diplomacie - neoironismus" # todo: NEW TRANSLATION
+ IP_naive_worldview: "Naivní pohled na svět" # todo: NEW TRANSLATION
+ IP_invisible_hand: "Neviditelná ruka" # todo: NEW TRANSLATION
+ IP_keep_it_in_the_family: "Udržet to v rodině" # todo: NEW TRANSLATION
+ IP_for_king_and_queen: "Pro krále a královnu" # todo: NEW TRANSLATION
+ IP_religious_law_emerging: "Šaría" # todo: NEW TRANSLATION
+ IP_religious_law_salafist: "Šaría" # todo: NEW TRANSLATION
+ IP_nationalist_liberation_movements: "Nacionalistická osvobozenecká hnutí" # todo: NEW TRANSLATION
+ IP_anti_military: "Protivojenský" # todo: NEW TRANSLATION
+ IP_yes_men_army: "Armáda povolných" # todo: NEW TRANSLATION
+ IP_outdated_ideals: "Zastaralé ideály" # todo: NEW TRANSLATION
+ IP_international_pariah: "Mezinárodní parias" # todo: NEW TRANSLATION
+ subparty_policies.0.t: "Likvidace aktiv úspěšná" # todo: NEW TRANSLATION
+ subparty_policies.0.desc: "Rychlou akcí se nám podařilo zajistit finance cizí mocnosti. Zmrazením zahraničních účtů, konfiskací materiálu a majetku a převodem finančních instrumentů na vládní účty jsme významně zvýšili bohatství našeho národa." # todo: NEW TRANSLATION
+ subparty_policies.0.a: "Paráda." # todo: NEW TRANSLATION
+ subparty_policies.1.t: "Stát přebírá kontrolu nad zahraniční továrnou" # todo: NEW TRANSLATION
+ subparty_policies.1.desc: "Vůdce [ROOT.GetAdjective] [ROOT.GetLeader] dnes oznámil, že aktiva velké společnosti se sídlem mimo naši zemi budou státou donuceně odkoupena. Má to zabránit 'možnému přesunu průmyslové výroby jinam' a 'ukončit vykořisťování [ROOT.GetAdjective] dělníků', jak uvedl náš velký vůdce. Pro dotyčnou společnost jde o šok. Generální ředitel prohlásil, že 'je to čisté šílenství, že by stát měl pravomoc nad poctivou a renomovanou firmou'." # todo: NEW TRANSLATION
+ subparty_policies.1.a: "Paráda." # todo: NEW TRANSLATION
+ subparty_policies.2.t: "Stát obsazuje zbrojní továrnu" # todo: NEW TRANSLATION
+ subparty_policies.2.desc: "Brzy ráno [ROOT.GetAdjective] vojenská policie vstoupila na pozemky továrny na vojenské vybavení provozované mezinárodní obrannou společností. Společnost byla prohlášena za porušitelskou mezinárodního práva a je podezřelá z dodávek zbraní pro kapitalistické války proti lidstvu. Z tohoto důvodu byl veškerý majetek společnosti zabaven [Root.GetAdjective] vládou. Veškerá vojenská výroba v továrně bude pokračovat okamžitě, abychom mohli provést důkladné přezkoumání, jak nelidské tyto zbraně vlastně jsou." # todo: NEW TRANSLATION
+ subparty_policies.2.a: "Paráda." # todo: NEW TRANSLATION
+ subparty_policies.3.t: "Stát si podmaňuje loděnici" # todo: NEW TRANSLATION
+ subparty_policies.3.desc: "Brzy ráno [ROOT.GetAdjective] pobřežní stráž zablokovala vjezd do loděnice hlídkovými čluny. Loděnice je podezřelá z toho, že slouží jako krytí pro pašeráctví. Z tohoto důvodu pobřežní stráž spolu s [ROOT.GetAdjective] námořnictvem umístily oblast pod vojenskou kontrolu. Mluvčí mezinárodní stavební společnosti, která loděnici pronajímá a provozuje, popřel obvinění a uvedl, že [ROOT.GetAdjective] orgány s firmou v žádném případě nebyly v kontaktu." # todo: NEW TRANSLATION
+ subparty_policies.3.a: "Paráda." # todo: NEW TRANSLATION
+ subparty_policies.4.t: "Znárodnění selhalo" # todo: NEW TRANSLATION
+ subparty_policies.4.desc: "Zdá se, že naše plány na znárodnění zahraničních aktiv unikly cíli. Než jsme stačili zareagovat, bankovní účty byly uzavřeny a peníze přesunuty na offshore účty. Je možné, že někdo v naší administrativě se stal příliš přátelským s cizími mocnostmi, což vedlo k úniku." # todo: NEW TRANSLATION
+ subparty_policies.4.a: "Paráda." # todo: NEW TRANSLATION
+ subparty_policies.5.t: "Společnost přesouvá továrny z [ROOT.GetName]" # todo: NEW TRANSLATION
+ subparty_policies.5.desc: "Zdá se, že naše plány na znárodnění zahraničních aktiv unikly cíli. V důsledku toho se mezinárodní společnost rozhodla náhle přesunout jedno ze svých výrobních zařízení ze země ze strachu ze ztráty všech svých aktiv. Jde o velkou ránu pro [ROOT.GetAdjective] ekonomiku." # todo: NEW TRANSLATION
+ subparty_policies.5.a: "To je hrozné." # todo: NEW TRANSLATION
+ subparty_policies.6.t: "Převzetí technologické společnosti" # todo: NEW TRANSLATION
+ subparty_policies.6.desc: "Multinacionální technologická společnost dnes oznámila, že utrpěla masivní kybernetický útok. Ve vstřícné reakci dorazily na místo [ROOT.GetAdjective] zpravodajské služby, aby poskytly pomoc. Došlo k závěru, že společnost byla pod kyberútokem z nepřátelské země. Ve jménu národní bezpečnosti byla aktiva společnosti dočasně umístěna pod kontrolu zpravodajských služeb." # todo: NEW TRANSLATION
+ subparty_policies.6.a: "Paráda." # todo: NEW TRANSLATION
+ IP_TITLE: "Ideologické síly" # todo: NEW TRANSLATION
+ IP_MAIN_BUTTON_TT_delayed: "Každá ideologie má své jedinečné schopnosti a herní prvky. Klikněte sem pro zobrazení plného seznamu a toho, ke kterým máte právě přístup." # todo: NEW TRANSLATION
+ IP_communist_category_desc: "§YKomunisté§!\nSchopnosti dostupné pro:\n[Communist-State_L]\n[Neutral_Communism_L]" # todo: NEW TRANSLATION
+ IP_communist_category_desc_delayed: "§LKomunisté obvykle následují nějakou formu marxismu-leninismu nebo podobnou ideologii. Jako zastánci státem řízené ekonomiky mají snazší cestu k industrializaci prostřednictvím znárodňování zahraničních průmyslů a svých pětiletých plánů. Také mohou účinněji podpořit svůj vlastní vliv pomocí svých špionů.§!" # todo: NEW TRANSLATION
+ IP_communist_spread_the_revolution: "§YŠířit revoluci§!\nZvýšit účinky misí pro šíření ideologie: §G+25%§!" # todo: NEW TRANSLATION
+ IP_communist_spread_the_revolution_delayed: "§LDělníci světa, spojte se! Náš proletářský bratr je vykořisťován kapitalistickou buržoazií. Nemůžeme odpočívat, dokud celý svět nebude osvobozen z jejich řetězů!§!" # todo: NEW TRANSLATION
+ IP_communist_five_year_plans: "§YPětileté plány§!\nMůže implementovat své vlastní §YPětileté plány§! pomocí §YRozhodnutí§!" # todo: NEW TRANSLATION
+ IP_communist_five_year_plans_delayed: "§LEkonomika musí být přísně řízena státem. To je jediný způsob, jak maximalizovat produktivitu našich dělníků. Plánováním celé produkce na pět let dopředu se můžeme soustředit a předpovědět přesné zdroje, které budeme mít po dokončení plánu.§!" # todo: NEW TRANSLATION
+ IP_communist_means_of_production: "§YSprostředky výroby§!\nMůže §YZnárodnit§! aktiva velkých zahraničních vlivových subjektů pomocí §YRozhodnutí§!" # todo: NEW TRANSLATION
+ IP_communist_means_of_production_delayed: "§LSprostředky výroby patří lidu! Cizí mocnosti použijí své peníze a moc k získání kontroly nad částmi naší ekonomiky. Musíme se těmto imperialistům postavit zuby nehty!§!" # todo: NEW TRANSLATION
+ IP_communist_incompatible_economy: "§YNeslučitelná ekonomika§!\n§YNáklady na zahraniční investice§!: §R+50%§!" # todo: NEW TRANSLATION
+ IP_communist_incompatible_economy_delayed: "§LBohužel (nebo bohužel pro ostatní) náš pohled na ekonomiku přesně neodpovídá globálně ustálenému kapitalistickému systému. To značně ztěžuje provázání naší ekonomiky s jinými zeměmi. A opravdu je těžké vysvětlit našim občanům, proč jsou naši politici zaneřáděni bohatstvím z privatního podnikání.§!" # todo: NEW TRANSLATION
+ IP_autocrat_category_desc: "§YAUTORITÁŘI§!\nSchopnosti dostupné pro:\n[Western_Autocracy_scripted_loc]\n[Autocracy_L]\n[Neutral_Autocracy_L]\n[oligarchism_L]\n[Nat_Fascism_L]\n[Nat_Autocracy_L]" # todo: NEW TRANSLATION
+ IP_autocrat_category_desc_delayed: "§LSilní vůdci (a v raritních případech silné ženy) běžně řídí zemi. Demagogové se nebojí používat pochybné metody a dohody v zákulisí, aby dosáhli svého. Autoritáři budou mít snazší udržení vysoké korupce a držení kontroly nad národem železnou pěstí.§!" # todo: NEW TRANSLATION
+ IP_autocrat_scratch_my_back: "§YKýčování§!\nDenní zisk politické síly: §G+0.3§! za §Yúroveň korupce§! nad §YZanedbatelnou korupcí§!" # todo: NEW TRANSLATION
+ IP_autocrat_scratch_my_back_delayed: "§LUmístění blízkých přátel a příbuzných na důležitá místa ve vládě zajistí snadnější uzavírání dohod. Někteří tomu říkají korupce, my tomu říkáme zajištění loajality.§!" # todo: NEW TRANSLATION
+ IP_autocrat_good_connections: "§YDobrá spojení§!\nZvyšování §YNázoru§! vnitřních frakcí je účinnější\n\nPokud vládne [oligarchism_L], tento bonus je nahrazen:\nDaňové příjmy z civilních průmyslů: §G+10%§!" # todo: NEW TRANSLATION
+ IP_autocrat_good_connections_delayed: "§LNáš režim je zajištěn silnými podporovateli. Tajné skupiny jsou dokonale spokojené s vědomím, že má vláda jejich záda.§!" # todo: NEW TRANSLATION
+ IP_autocrat_emergency_powers: "§YNeomezená moc§!\nNáklady na vojenského poradce: §G-25%§!\n\nPokud vládne [Nat_Fascism_L], tento bonus je nahrazen:\nMůže vytvořit §Ypolovojenské jednotky§! pomocí §YRozhodnutí§!" # todo: NEW TRANSLATION
+ IP_autocrat_emergency_powers_delayed: "§LJako silní vládci naší země nemusíme procházet byrokracií a byrokratickým formalismem parlamentu nebo senátu. Věci se dějí, když chceme.§!" # todo: NEW TRANSLATION
+ IP_autocrat_yes_men_army: "§YArmáda povolných§!\nZískávání zkušeností armády: §R-15.0%§!\nZískávání zkušeností námořnictva: §R-15.0%§!\nZískávání zkušeností letectva: §R-15.0%§!" # todo: NEW TRANSLATION
+ IP_autocrat_yes_men_army_delayed: "§LSilný důraz na loajální důstojnický sbor je jádrem udržení moci, ale obklopení se pochlebovači může vést k tomu, že budeme úplně špatně informováni o kvalitě naší armády. Ukazuje se, že lidé, kteří se bojí o práci nebo horší, lžou, aby zachránili vlastní kůži.§!" # todo: NEW TRANSLATION
+ IP_conservative_category_desc: "§YKonservativci§!\nSchopnosti dostupné pro:\n[conservatism_L]\n[Conservative_L]\n[Mod_Vilayat_e_Faqih_L]\n[Neutral_Muslim_Brotherhood_L]\n[Neutral_conservatism_L]\n[Nat_Populism_L]" # todo: NEW TRANSLATION
+ IP_conservative_category_desc_delayed: "§LKonservativci obvykle chtějí, aby země zůstala jak je, nebo dokonce aby se vrátily některé progresivní zákony. Konzervatismus často přichází s nádechem nacionalismu a hlubokých náboženských přesvědčení. Z tohoto důvodu mají konzervativní země snazší cestu k politické a národní stabilitě, protože radikální změny jsou vzácné.§!" # todo: NEW TRANSLATION
+ IP_conservative_good_old_days: "§YDobré staré časy§!\nMultiplikátor obrany proti §YZahraničnímu vlivu§!: §G+15%§!" # todo: NEW TRANSLATION
+ IP_conservative_good_old_days_delayed: "§LNechuť k novotám je mocný nástroj. Každý ví, že dříve bylo lépe než nyní. Musíme udělat vše pro to, aby nedošlo k dalším změnám a zavádění nových myšlenek, které by zemi zničily.§!" # todo: NEW TRANSLATION
+ IP_conservative_stable_society: "§YStabilní společnost§!\nStabilita: §G+15.00%§!" # todo: NEW TRANSLATION
+ IP_conservative_stable_society_delayed: "§LNáš lid ví, že když jsme u moci, nic nečekaného se nestane. Nemusejí se bát a mohou nám plně důvěřovat.§!" # todo: NEW TRANSLATION
+ IP_conservative_patriotism: "§YPatriotismus§!\nPodpora války: §G+15.00%§!\n\nPokud vládne [Mod_Vilayat_e_Faqih_L] nebo [Neutral_Muslim_Brotherhood_L], tento bonus je nahrazen:\nRychlost růstu poslušnosti: §G+15%§!" # todo: NEW TRANSLATION
+ IP_conservative_patriotism_delayed: "§LNárod jsme všichni z jednoho těsta. Musíme podporovat společné ideály a hodnoty, aby lidé byli ochotni dát státu to nejlepší.§!" # todo: NEW TRANSLATION
+ IP_conservative_homefront_first: "§Y[ROOT.GetName] na prvním místě!§!\nMultiplikátor §YZahraničního vlivu§!: §R-15.00%§!" # todo: NEW TRANSLATION
+ IP_conservative_homefront_first_delayed: "§LNáš elektorát očekává, že dáme naší zemi přednost. To ztěžuje posílání zahraniční pomoci a zaplétání se do politiky jiných zemí. Pokud ovšem musíme jít do války, naši podporovatelé to milují. Pokud vyhrajete, znamená to jasně, že jste první.§!" # todo: NEW TRANSLATION
+ IP_socialist_category_desc: "§YSocialisté§!\nSchopnosti dostupné pro:\n[socialism_L]\n[anarchist_communism_L]\n[Neutral_green_L]\n[neutral_Social_L]" # todo: NEW TRANSLATION
+ IP_socialist_category_delayed: "§LSocialisté kombinují prvky tržního i státního kapitalismu s progresivismem. Velmi často se jejich pozornost soustředí na investování veškerého vládního úsilí do vlastní země. Socialisté mají snadnou cestu ke zlepšení vnitřní situace své země prostřednictvím sociálních politik a zásahů vlády do ekonomiky.§!" # todo: NEW TRANSLATION
+ IP_socialist_welfare_state: "§YWelfare State§!\nNáklady na změnu vládních výdajů: §G-25%§!" # todo: NEW TRANSLATION
+ IP_socialist_welfare_state_delayed: "§LNejlepším využitím daní vybraných od obyvatel je investovat tyto peníze zpět do lidí. Jen vláda má moc poskytovat obyvatelstvu dostupné a kvalitní služby. A pokud budeme muset z fiskálních důvodů snížit naše výdaje, naši občané nám mohou důvěřovat, že je znovu zvýšíme, jakmile se situace zlepší.§!" # todo: NEW TRANSLATION
+ IP_socialist_economic_intervention: "§YEkonomický intervencionismus§!\nMůžeme investovat peníze doma prostřednictvím §YRozhodnutí§! výměnou za různé bonusy" # todo: NEW TRANSLATION
+ IP_socialist_economic_intervention_delayed: "§LNěkdy ekonomika potřebuje trochu popostrčit. Musíme použít pevnou ruku vlády, abychom nasměrovali naši společnost a ekonomiku správným směrem. Nechat kapitalismus běžet samovolně by bylo příliš nebezpečné.§!" # todo: NEW TRANSLATION
+ IP_socialist_pacifism: "§YPeaceful Diplomacy§!\nRychlost výstavby: §G+25.00%§! za každou úroveň §YZákona o zahraniční intervenci§! pod úrovní §YOmezeného intervencionismu§!\n\nPokud vládne [Neutral_green_L], tento bonus je nahrazen:\nZískávání politické síly: §G+15%§! za každou úroveň §YZákona o zahraniční intervenci§! pod úrovní §YOmezeného intervencionismu§!\n\nZa každou úroveň nad §YOmezeným intervencionismem§! trpíte §R-15%§! penalizací k Rychlosti výstavby nebo Získávání politické síly" # todo: NEW TRANSLATION
+ IP_socialist_pacifism_delayed: "§LNejsme jako kapitalisté, kteří používají sílu jen k vykořisťování jiných zemí. A nejsme jako naši komunističtí bratři, kteří násilně šíří své ideje. Soustředíme se na spolupráci. Budeme ovlivňovat svět laskavými slovy a diplomacií, ne silou.§!" # todo: NEW TRANSLATION
+ IP_socialist_naive_worldview: "§YNaivní pohled na svět§!\n§YObrana proti zahraničnímu vlivu§! Násobitel: §R-15%§!" # todo: NEW TRANSLATION
+ IP_socialist_naive_worldview_delayed: "§LVybrat cestu diplomacie je těžká volba. Být naivní a věřit, že ostatní jsou jako my, může skončit tím, že si sami ublížíme. Určitě diktátor, který pózuje útokem na jinou zemi, je jen prázdné gesto. Koneckonců oni jen chtějí náš respekt, že?§!" # todo: NEW TRANSLATION
+ IP_liberal_category_desc: "§YLiberálové§!\nMoci dostupné pro:\n[liberalism_L]\n[Neutral_Libertarian_L]\n[technocrats_scripted_loc]" # todo: NEW TRANSLATION
+ IP_liberal_category_desc_delayed: "§LLiberálové mají tendenci prosazovat myšlenky svobody, i když některé strany přijímají více progresivní (sociálně liberální) přístup k otázkám. Základem většiny liberálních stran je myšlenka volného trhu s velmi omezeným zásahem vlády.§!" # todo: NEW TRANSLATION
+ IP_liberal_high_risk_investment: "§YInvestice s vysokým rizikem§!\n§YZisk z investice§! je 8% místo 6%" # todo: NEW TRANSLATION
+ IP_liberal_high_risk_investment_delayed: "§LMnoho vlád zaujímá zdrženlivý přístup k tomu, do čeho investují, mluví o věcech jako 'udržitelnost' a 'etika'. Budeme investovat naše peníze do toho, co přinese největší zisk. Koneckonců to je celý smysl investování.§!" # todo: NEW TRANSLATION
+ IP_liberal_invisible_hand: "§YNeviditelná ruka§!\nNáklady na změnu ekonomických cyklů (§Ypolitická síla§! a §YPeníze§!): §G-15%§!\nMěsíční růst produktivity: §G0.05§!" # todo: NEW TRANSLATION
+ IP_liberal_invisible_hand_delayed: "§LVelká neviditelná ruka řídí ekonomiku. S velmi omezenými změnami v měnové politice a vládními investicemi do ekonomiky můžeme snadno zlepšit hospodaření bez socialistických fíglů.§!" # todo: NEW TRANSLATION
+ IP_liberal_business_friendly_environment: "§YPřátelské k podnikání§!\nDaňové příjmy z úřadů: §G+10%§!" # todo: NEW TRANSLATION
+ IP_liberal_business_friendly_environment_delayed: "§LJsme přátelé korporací a ony to vědí. Právní úpravy zaměřené na podnikání přilákají do naší země spoustu obchodů.§!" # todo: NEW TRANSLATION
+ IP_liberal_anti_military: "§YAntivojenské§!\nVýstup vojenského průmyslu: §R-25.00%§!\nVýstup loděnic: §R-25.00%§!" # todo: NEW TRANSLATION
+ IP_liberal_anti_military_delayed: "§LVálka je špatná pro byznys a proto by se jí mělo za každou cenu vyhýbat. Je lepší se soustředit na civilní sektor a tvorbu bohatství. Proč svrhovat diktátora se strašným přístupem k lidským právům, když s ním můžete vydělávat zneužíváním těchto práv?§!" # todo: NEW TRANSLATION
+ IP_monarchist_category_desc: "§YMonarchisté§!\nMoci dostupné pro:\n[Kingdom_L]\n[Monarchist_L]" # todo: NEW TRANSLATION
+ IP_monarchist_category_desc_delayed: "§LMonarchisté spoléhají na rodovou linii a slávu, aby vládli zemím. Soustředění moci do jedné rodiny má své výhody. Tato rodina přináší moc a monarchové jsou dobří v inspirování svého lidu.§!" # todo: NEW TRANSLATION
+ IP_monarchist_keep_it_in_the_family: "§YZůstaňme v rodině§!\nNáklady na změnu korupce: §G-15%§!\nNáklady na změnu vnitřní frakce: §G-15%§!" # todo: NEW TRANSLATION
+ IP_monarchist_keep_it_in_the_family_delayed: "§LNaplňování politických postů příbuznými má své výhody. Nikdo nám nebude klást otázky, když vyhodíme neefektivní úředníky nebo zkorumpované jedince, a nemusíme se obávat mocenské dynamiky, když všichni důležití lidé projeví loajalitu krví.§!" # todo: NEW TRANSLATION
+ IP_monarchist_for_king_and_queen: "§YPro krále a královnu§!\nObrana divize v domovském území: §G+10.0%§!\nÚtok divize v domovském území: §G+10.0%§!" # todo: NEW TRANSLATION
+ IP_monarchist_for_king_and_queen_delayed: "§L[IP_monarch_name] inspiruje náš lid a vojáky k boji i když je situace zoufalá. Ti, kdo jsou hodni, budou odměněni, ať už na Zemi nebo v nebi.§!" # todo: NEW TRANSLATION
+ IP_monarchist_crown_estate: "§YKrálovský majetek§!\nDaňové příjmy od populace: §G+10%§!" # todo: NEW TRANSLATION
+ IP_monarchist_crown_estate_delayed: "§LKrálovská rodina vlastní v [ROOT.GetName] mnoho pozemků. Využití těchto pozemků přináší státu obrovské peněžní zisky a možná i do kapes [IP_monarch_name].§!" # todo: NEW TRANSLATION
+ IP_monarchist_outdated_ideals: "§YZastaralé ideály§!\nStabilita: §R-15.00%§!" # todo: NEW TRANSLATION
+ IP_monarchist_outdated_ideals_delayed: "§LMonarchie není zrovna poslední módou ve vládnutí. Lidé dnes touží po jiných možnostech než absolutní monarchii. Musel bys být Dán nebo něco podobného, abys si myslel, že monarchie jsou pořád cool.§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_symbol_desc: "§YFundamentalisté§!\nMoci dostupné pro:\n[Vilayat_e_Faqih_L]\n[Caliphate_L]" # todo: NEW TRANSLATION
+ IP_fundamentalist_symbol_desc_delayed: "§LFundamentalisté jsou tvrdí konzervativci následující radikální, ultrakonzervativní formu islámu. Jejich hlavním cílem je šířit tyto konzervativní názory i do ostatních zemí.§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_religious_law: "§YŠaría§!\nDenní podpora výhledu: §G+0.05§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_religious_law_delayed: "§LNaše justice a právní systém jsou silně ovlivněny učením šaríi, tedy islámským právem. Používáním Koránu jako základu našich institucí můžeme zbavit obyvatelstvo dekadentních myšlenek.§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_recruitment_campaign: "§YZahraniční bojovníci§!\nMůžeme §YNábor cizinců§! do naší armády prostřednictvím §YRozhodnutí§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_recruitment_campaign_delayed: "§LSvět je plný znevýhodněných mladých muslimů. Měli bychom je nalákat k nám, aby se připojili k naší armádě. Jsou pracovití, loajální a dají se snadno přesvědčit, aby uvěřili naší věci.§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_national_liberation_movements: "§YNacionalistická osvobozenecká hnutí§!\nLimit napětí pro vyslání intervenční síly: §G-10.0%§!\nLimit napětí pro vojenskou pomoc: §G-10.0%§!\nMaximální počet divizí intervenční síly: §G+2§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_national_liberation_movements_delayed: "§LExistuje několik skupin bojujících proti sionistickým utlačovatelům. Jako zbožní muslimové je naší povinností pomoci těmto skupinám proti jejich utlačovatelům!§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_international_pariah: "§YMezinárodní vyvrhel§!\nProdej surovin na trh: §Y-50%§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_international_pariah_delayed: "§LBýt extrémní může být obtížné, protože je těžké najít země, které by s námi chtěly obchodovat. Možná lidé prostě chápou frázi \"teokracie jsou radikální\" jinak než my?§!" # todo: NEW TRANSLATION
+ IP_monarch_name_monarch: "Monarcha" # todo: NEW TRANSLATION
+ IP_monarch_name_current_leader: "[ROOT.GetLeader]" # todo: NEW TRANSLATION

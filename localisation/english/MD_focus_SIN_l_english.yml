@@ -1,0 +1,578 @@
+﻿l_english:
+ GOH_CHOK_TONG_DESC: "Goh Chok Tong byl poprvé zvolen premiérem v roce 1990, vítězstvím s pohodlnou většinou. Tongův nástup do úřadu a jeho první roky jako premiéra jsou poseté anomáliemi. Goh se stal premiérem poté, co Lee Kuan Yew odstoupil koncem roku 1990. Goh pak vyhlásil předčasné volby. Pro PAP to byla drtivá výhra a umožnila Gohovi získat nový mandát.\n\nI když není tak výrazný jako jeho předchůdce Lee Kuan Yew, Goh udělal pokrok se svými politikami, které podporovaly 'malé bohémy' uvnitř města." # todo: NEW TRANSLATION
+ SIN_government_of_singapore: "Zarovnání Singapuru" # todo: NEW TRANSLATION
+ SIN_government_of_singapore_desc: "[SIN.GetName] je na křižovatce. Sedíme u ústí jedné z nejziskovějších námořních tras světa. Jsme jedním z předních finančních center světa a masivní expanze, kterou jsme za poslední desetiletí zažili, je ve světovém měřítku bezprecedentní. To také přitáhlo zájem mnoha sil ze zahraničí..\n" # todo: NEW TRANSLATION
+ SIN_replace_centralized_education_system: "Zavést centralizovaný vzdělávací systém" # todo: NEW TRANSLATION
+ SIN_replace_centralized_education_system_desc: "Centralizovaný vzdělávací systém bylo dobré slib. Může být nezbytné nahradit tuto politiku, abychom nadále získávali její výhody." # todo: NEW TRANSLATION
+ SIN_repeal_centralized_education_system: "Zrušit centralizovaný vzdělávací systém" # todo: NEW TRANSLATION
+ SIN_repeal_centralized_education_system_desc: "Vzdělávací systém by měl být zrušen. Není hoden Singapuru a kontrola vzdělávání jen brzdí větší dobro." # todo: NEW TRANSLATION
+ SIN_singaporean_foreign_aid_target_decisions: "Balení zahraniční pomoci v [FROM.GetNameWithFlag]" # todo: NEW TRANSLATION
+ SIN_singaporean_foreign_aid_target_decisions_desc: "Doručení balíčku zahraniční pomoci do [FROM.GetNameWithFlag] zlepší vztahy a také jim ekonomicky pomůže, zatímco se potýkají s potížemi." # todo: NEW TRANSLATION
+ western_alignment_title: "§HZápadní klika§!" # todo: NEW TRANSLATION
+ neutral_alignment_title: "§HNeutrální klika§!" # todo: NEW TRANSLATION
+ eastern_alignment_title: "§HVýchodní klika§!" # todo: NEW TRANSLATION
+ western_clique_strength: "§C[?SIN.party_pop_array^1|%1]§!" # todo: NEW TRANSLATION
+ eastern_clique_strength: "§C[?SIN.party_pop_array^7|%1]§!" # todo: NEW TRANSLATION
+ neutral_clique_strength: "§C[?SIN.party_pop_array^13|%1]§!" # todo: NEW TRANSLATION
+ SIN_western_pressure_tt: "Podporovat [conservatism_L]\n\n§CZápadní klika§! bude tlačit na větší spolupráci se Spojenými státy a ostatními hlavními západními mocnostmi." # todo: NEW TRANSLATION
+ SIN_western_pressure_delayed_tt: "§YPožadavky:§!\n[!western_pressure_click_enabled]\n§YÚčinky:§!\n[!western_pressure_click]\n" # todo: NEW TRANSLATION
+ SIN_eastern_pressure_tt: "Podporovat [Autocracy_L]\n\n§GVýchodní klika§! v rámci PAP usiluje o větší vazby s PRC a Ruskem, stejně jako s dalšími rostoucími mocnostmi." # todo: NEW TRANSLATION
+ SIN_eastern_pressure_delayed_tt: "§YPožadavky:§!\n[!eastern_pressure_click_enabled]\n§YÚčinky:§!\n[!eastern_pressure_click]\n" # todo: NEW TRANSLATION
+ SIN_neutrality_pressure_tt: "Podporovat [Neutral_Autocracy_L]\n\n§RNezařazená klika§! se soustředí hlavně na ASEAN a postavení Singapuru bez zahraničního vměšování. Obvykle tvoří největší část ze tří klík." # todo: NEW TRANSLATION
+ SIN_neutarlity_pressure_delayed_tt: "§YPožadavky:§!\n[!reduce_foreign_pressure_click_enabled]\n§YÚčinky:§!\n[!reduce_foreign_pressure_click]\n" # todo: NEW TRANSLATION
+ SIN_fund_western_clique_tt: "Financovat [conservatism_L]\n\nFinancování [conservatism_L] je spolehlivý způsob, jak zajistit, že zůstanou hlavní klika v naší politice. " # todo: NEW TRANSLATION
+ SIN_fund_western_clique_delayed_tt: "§YPožadavky:§!\n[!fund_western_clique_click_enabled]\n§YÚčinky:§!\n[!fund_western_clique_click]\n" # todo: NEW TRANSLATION
+ SIN_fund_eastern_clique_tt: "Financovat [Autocracy_L]\n\nFinancování [Autocracy_L] nám umožní prosazovat více... agresivní politiky. Možná že jim trochu peněz nasměrovat je způsob, jak je povzbudit k dosažení moci.\n" # todo: NEW TRANSLATION
+ SIN_fund_eastern_clique_delayed_tt: "§YPožadavky:§!\n[!fund_eastern_clique_click_enabled]\n§YÚčinky:§!\n[!fund_eastern_clique_click]\n" # todo: NEW TRANSLATION
+ SIN_fund_neutral_clique_tt: "Financovat [Neutral_Autocracy_L]\n\nOdklon od kterékoliv kliky nám umožní skutečně dosáhnout samosprávy.\n" # todo: NEW TRANSLATION
+ SIN_fund_neutral_clique_delayed_tt: "§YPožadavky:§!\n[!fund_neutral_clique_click_enabled]\n§YÚčinky:§!\n[!fund_neutral_clique_click]\n" # todo: NEW TRANSLATION
+ SIN_applied_support_clique: "V nedávné době nebyla podpořena žádná klika (zbývá dní: [?SIN_applied_support_clique:days_left|Y0])" # todo: NEW TRANSLATION
+ SIN_funded_a_clique_flag: "V nedávné době nebyla financována žádná klika (zbývá dní: [?SIN_funded_a_clique_flag:days_left|Y0])" # todo: NEW TRANSLATION
+ singaporean_alignment_help_button_tt: "§YPomoc se zarovnáním Singapuru§!" # todo: NEW TRANSLATION
+ SIN_government_help_tooltip_tt: "Pokud potřebujete pomoc, klikněte sem!" # todo: NEW TRANSLATION
+ SIN_expand_the_entreport_decision_categories: "Rozšířit entrepót" # todo: NEW TRANSLATION
+ SIN_expand_the_entreport_decision_categories_desc: "Singapur stojí jako jedno z nejdůležitějších přístavních měst světa. Město po staletí stojí na živé obchodní dráze z východu na západ, což z něj činí zosobnění entrepótu. Možná jeho rozšíření je způsob, jak pokračovat v růstu Singapuru jako národa.\n\n" # todo: NEW TRANSLATION
+ SIN_facilitate_trade_expansion: "Usnadnit rozšíření obchodu" # todo: NEW TRANSLATION
+ SIN_facilitate_trade_expansion_desc: "Rozšíření obchodu s [FROM.GetNameWithFlag] přinese dodatečné výhody a prosperitu oběma našim zemím." # todo: NEW TRANSLATION
+ SIN_extend_finance_western_projects: "Prodloužené financování projektů" # todo: NEW TRANSLATION
+ SIN_extend_finance_western_projects_desc: "Prodloužení daňových úlev a finančních výhod pro projekty bude i nadále čistým přínosem." # todo: NEW TRANSLATION
+ SIN_repeal_decentralization_protocol_decision: "Zrušit protokol decentralizace" # todo: NEW TRANSLATION
+ SIN_repeal_decentralization_protocol_decision_desc: "Zákony o decentralizaci, které jsme nedávno přijali, se staly pro naši vládu příliš zatěžujícími na správu." # todo: NEW TRANSLATION
+ SIN_enact_decentralization_protocol_decision: "Uplatnit protokol decentralizace" # todo: NEW TRANSLATION
+ SIN_enact_decentralization_protocol_decision_desc: "Protokol decentralizace, který byl nedávno zrušen, je stále na pořadu... měli bychom jej znovu zavést?" # todo: NEW TRANSLATION
+ SIN_riau_islands_crisis_mission: "Krize Riauských ostrovů" # todo: NEW TRANSLATION
+ SIN_riau_islands_crisis_mission_desc: "Nedávné rozhovory ohledně Riauských ostrovů eskalují. Pokud neustoupíme, je pravděpodobné, že vypukne válka." # todo: NEW TRANSLATION
+ SIN_repeal_the_migrant_worker_policy: "Zrušit politiku migrujících pracovníků" # todo: NEW TRANSLATION
+ SIN_repeal_the_migrant_worker_policy_desc: "Zrušení politik týkajících se migrujících pracovníků pomůže zmírnit některé problémy s rozdělením, které v naší zemi nadále rostou." # todo: NEW TRANSLATION
+ SIN_entrepot_trade: "Entrepót Malacky" # todo: NEW TRANSLATION
+ SIN_entrepot_trade_desc: "Poloha Singapuru z něj činí globální obchodní centrum již od koloniálních časů. Leží v jedné z nejstrategičtějších obchodních tras ve směru Malackého průlivu. Čím více ovládáme tok obchodu z východu na západ i opačně, tím větší zisky můžeme získat.\n" # todo: NEW TRANSLATION
+ SIN_singaporean_bull: "Singapurský býk" # todo: NEW TRANSLATION
+ SIN_singaporean_bull_desc: "Ekonomika Singapuru ROSTE. Je nutné, abychom nadále udržovali tuto expanzi!\n\nHospodářství lze rozšiřovat rozhodnutími, které přidávají další čas k tomuto modifikátoru. Avšak pokud to uděláte vícekrát, může to způsobit krach na trhu kvůli příliš agresivnímu růstu.\n" # todo: NEW TRANSLATION
+ SIN_precious_metal_trade_boom: "Obchod s drahými kovy" # todo: NEW TRANSLATION
+ SIN_precious_metal_trade_boom_desc: "Obchod s drahými kovy ve východní Asii proudí přes Singapur. Monopolizovat tento tok kovů se ukáže jako výnosné a posílí naši pozici jako obchodního centra východní Asie.\n" # todo: NEW TRANSLATION
+ SIN_support_for_the_workers: "Moc pro dělníky" # todo: NEW TRANSLATION
+ SIN_support_for_the_workers_desc: "Dělníci jsou nejdůležitějším ozubeným kolečkem v naší ekonomice. Tvrdění, že se o ně vláda nestará, je absurdní. Měli bychom usilovat o změnu této mentality a zmocnit naše dělníky!" # todo: NEW TRANSLATION
+ SIN_support_for_the_business: "Propodnikatelská mentalita" # todo: NEW TRANSLATION
+ SIN_support_for_the_business_desc: "Obchodníci a podnikatelé v Singapuru by měli být podporováni více než zemědělci. Velký byznys = dobrý byznys!" # todo: NEW TRANSLATION
+ SIN_centralized_education_idea: "Centralizovaný vzdělávací systém" # todo: NEW TRANSLATION
+ SIN_centralized_education_idea_desc: "Vzdělávací systém Singapuru je centralizovaný a přísně sledovaný vládnoucí koalicí. To nám dává efektivnější výukové metody, ale astronomicky to zvýšilo náklady na vzdělávání." # todo: NEW TRANSLATION
+ SIN_reeducation_idea: "Reedukační kampaň" # todo: NEW TRANSLATION
+ SIN_reeducation_idea_desc: "Naše armáda udržuje kontrolu, ale stále jsou zde odpůrci. Je čas zavést reedukační kampaň." # todo: NEW TRANSLATION
+ SIN_migrant_workers: "Migrující pracovníci" # todo: NEW TRANSLATION
+ SIN_migrant_workers_desc: "Velké množství tranzitních pracovníků v Singapuru jsou migrující pracovníci. Pracují za vyšší mzdu v Singapuru a posílají peníze domů. To je horké téma jak pro místní Malajce, Číňany a Indy, tak pro majitele podniků, kteří preferují tuto pracovní sílu před místními Singapurany." # todo: NEW TRANSLATION
+ SIN_trade_influence_idea: "Náš obchodní vliv" # todo: NEW TRANSLATION
+ SIN_trade_influence_idea_desc: "Rozšiřování našeho obchodního vlivu daleko a široko nám poskytne stále více zdrojů doma." # todo: NEW TRANSLATION
+ SIN_global_investment_idea: "Globální investice" # todo: NEW TRANSLATION
+ SIN_global_investment_idea_desc: "Čím více budeme investovat do globálních fondů a cenných papírů, tím více nás to posune vpřed." # todo: NEW TRANSLATION
+ SIN_defence_strategy_loc: "Obranná strategie" # todo: NEW TRANSLATION
+ SIN_defence_strategy_loc_desc: "Naše obranná strategie je strukturovaná tak, aby zajistila, že vydržíme co nejdéle." # todo: NEW TRANSLATION
+ SIN_loose_censorship_idea: "Mírné cenzurní zákony" # todo: NEW TRANSLATION
+ SIN_medium_censorship_idea: "Střední cenzurní zákony" # todo: NEW TRANSLATION
+ SIN_harsh_censorship_idea: "Přísné cenzurní zákony" # todo: NEW TRANSLATION
+ SIN_extreme_censorship_idea: "Extrémní cenzurní zákony" # todo: NEW TRANSLATION
+ SIN_police_funding_expenditure: "Zvýšené financování policie" # todo: NEW TRANSLATION
+ SIN_police_funding_expenditure_desc: "Další investice do naší policie nám mohou pomoci odhalit politické disidenty a zahraniční špiony." # todo: NEW TRANSLATION
+ SIN_finance_western_projects_idea: "Financované projekty" # todo: NEW TRANSLATION
+ SIN_finance_western_projects_idea_desc: "Více financovaných západních projektů znamená větší vlastní investice." # todo: NEW TRANSLATION
+ SIN_volunteer_expansion_idea: "Přestavba dobrovolnické služby" # todo: NEW TRANSLATION
+ SIN_volunteer_expansion_idea_desc: "Přestavba naší armády na skutečnou dobrovolnickou službu místo branného systému je nesmírně důležitá pro naše budoucí cíle." # todo: NEW TRANSLATION
+ SIN_conscription_expansion_idea: "Rozšíření branné povinnosti" # todo: NEW TRANSLATION
+ SIN_conscription_expansion_idea_desc: "Spoléhat se na to, že se lidé ze Singapuru přihlásí do armády je nespolehlivé. Rozšíření požadavků na brannou povinnost je naší první prioritou." # todo: NEW TRANSLATION
+ SIN_punching_above_our_weight_idea: "Vystupovat nad svou váhu" # todo: NEW TRANSLATION
+ SIN_punching_above_our_weight_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_singaporean_special_treatment: "Zvláštní zacházení" # todo: NEW TRANSLATION
+ SIN_singaporean_special_treatment_desc: " " # todo: NEW TRANSLATION
+ SIN_anti_opposition_laws_idea: "Zákony proti opozici" # todo: NEW TRANSLATION
+ SIN_anti_opposition_laws_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_conservative_singapore_idea: "Konzervativní Singapur" # todo: NEW TRANSLATION
+ SIN_conservative_singapore_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_singaporean_identity_idea: "Singapurská identita" # todo: NEW TRANSLATION
+ SIN_singaporean_identity_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_spy_agency_expansion_idea: "Rozšíření špionážní agentury" # todo: NEW TRANSLATION
+ SIN_spy_agency_expansion_idea_desc: "Rozšíření naší špionážní agentury a jejích schopností nám umožní působit dále po celém světě." # todo: NEW TRANSLATION
+ SIN_global_diplomacy_idea: "Globální diplomacie" # todo: NEW TRANSLATION
+ SIN_global_diplomacy_idea_desc: "Uplatňování nátlaku v zahraniční politice je cestou vpřed pro naši zemi." # todo: NEW TRANSLATION
+ SIN_economic_champion_idea: "Hospodářský šampion" # todo: NEW TRANSLATION
+ SIN_economic_champion_idea_desc: "Nejsme velká země žádným způsobem; avšak naše ekonomická síla nás posune směrem k dominanci v Tichomoří a Indickém oceánu." # todo: NEW TRANSLATION
+ SIN_the_invasion_of_sumatra_idea: "Invaze na Sumatru" # todo: NEW TRANSLATION
+ SIN_the_invasion_of_sumatra_idea_desc: "Sumatra je hned za Malackým průlivem. Je čas dobýt ostrov a přinést naší zemi slávu." # todo: NEW TRANSLATION
+ SIN_the_invasion_of_malaysia_idea: "Invaze do Malajsie" # todo: NEW TRANSLATION
+ SIN_the_invasion_of_malaysia_idea_desc: "Vláda Malajsie je slabá a musí být poražena." # todo: NEW TRANSLATION
+ SIN_expanded_freight_transport: "Rozšířená nákladní doprava" # todo: NEW TRANSLATION
+ SIN_expanded_freight_transport_desc: "Rozšíření nákladní dopravy by nám mělo přinést dodatečné prostředky." # todo: NEW TRANSLATION
+ SIN_decentralize_the_government_idea: "Decentralizovat vládu" # todo: NEW TRANSLATION
+ SIN_decentralize_the_government_idea_desc: "Povaha Singapuru bude navždy vysoce centralizovanou zemí." # todo: NEW TRANSLATION
+ SIN_administrative_reforms_idea: "Administrativní reformy" # todo: NEW TRANSLATION
+ SIN_administrative_reforms_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_economic_reform_idea: "Hospodářské reformy" # todo: NEW TRANSLATION
+ SIN_economic_reform_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_setting_our_sights_idea: "Stanovení cílů" # todo: NEW TRANSLATION
+ SIN_setting_our_sights_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_liberties_for_stability_idea: "Svobody pro stabilitu" # todo: NEW TRANSLATION
+ SIN_liberties_for_stability_idea_desc: " " # todo: NEW TRANSLATION
+ SIN_the_arms_export_idea: "Vývozce zbraní" # todo: NEW TRANSLATION
+ SIN_the_arms_export_idea_desc: "Singapur je jedním z největších vývozců zbraní a výrobců vojenského materiálu na světě. Země je téměř zcela soběstačná ve své vojenské produkci a tyto přebytky vyváží do jiných zemí po celém světě." # todo: NEW TRANSLATION
+ SIN_bankers_of_asia_idea_1: "Bankéři jihovýchodní Asie" # todo: NEW TRANSLATION
+ SIN_bankers_of_asia_idea_1_desc: "Singapur je hlavní silou v bankovním sektoru jihovýchodní Asie a jako takový bychom toho měli využít." # todo: NEW TRANSLATION
+ SIN_energy_efforts: "Nové úsilí v energetice" # todo: NEW TRANSLATION
+ SIN_energy_efforts_desc: "" # todo: NEW TRANSLATION
+ SIN_singaporean_trade_strength: "Síla z obchodu" # todo: NEW TRANSLATION
+ SIN_singaporean_trade_strength_desc: "Postavení Singapuru jako významného obchodního uzlu lze dále posílit vytvářením rozsáhlých obchodních sítí. Podepisování dalších obchodních dohod nám pouze pomůže vzkvétat.\n\n§CHint: Podepsání dalších obchodních dohod zvýší váš modifikátor zahraničního vlivu a vaše byrokratické náklady. Také získáte dodatečný příjem z cel.§!\n" # todo: NEW TRANSLATION
+ SIN_the_republic_tt: "§Y[SIN.GetNameWithFlag]§! funguje jako efektivní jedné-stranický stát. Většina politických stran proti hlavní straně, People’s Action Party, je zakázána nebo nesmí účastnit voleb. Několik jich je povoleno účastnit se voleb, ale jsou vzácné. Skutečné jádro v různých politických ideologiích pochází z klik v rámci PAP. Existují tři hlavní kliky, se kterými je třeba počítat:\n- [conservatism_L]\n- [Autocracy_L]\n- [Neutral_Autocracy_L]\n\nKaždá z nich bude podporovat své vlastní politické směry. [conservatism_L] je z těchto tří nejvýraznější a bude většinovou silou v systému, pokud se věci nezmění.\n" # todo: NEW TRANSLATION
+ SIN_centralized_education_idea_tt: "Nesmí snížit §Y$education_budget$§! pod §Y$edu_03$§!\n" # todo: NEW TRANSLATION
+ SIN_centralized_education_idea_trigger_tt: "§Y[SIN.GetNameWithFlag]§! nemůže snížit §Y$education_budget$§! pod §Y$edu_03$§! zatímco §Y$SIN_centralized_education_idea$§! je v platnosti.\n" # todo: NEW TRANSLATION
+ SIN_tariff_income_tt: "Aktivně podepsané obchodní dohody: [?SIN.signed_trade_agreements|Y0]\nPříjem z cel: $$[?SIN_tariff_income|+3]\n" # todo: NEW TRANSLATION
+ SIN_singaporean_aid_tooltip: "Každá §Yobchodní dohoda§!, kterou podepíšeme s jinou zemí, nám umožní poslat §Ybalíček zahraniční pomoci§! v hodnotě §G5%§! jejich §Yhrubého domácího produktu (HDP)§!.\n\nAktivně podepsané obchodní dohody: [?SIN.signed_trade_agreements|Y0]\n" # todo: NEW TRANSLATION
+ SIN_support_for_the_workers_tt: "§G+10§! Názor pro §Y$SIN_labour_unions$§!" # todo: NEW TRANSLATION
+ SIN_support_for_the_business_tt: "§G+10§! Názor pro §Y$landowners$§!" # todo: NEW TRANSLATION
+ SIN_decentralize_the_government_idea_trigger_tt: "§Y[SIN.GetNameWithFlag]§! nemůže zvýšit §Y$bureaucracy$§! nad §Y$bureau_03$§! zatímco §Y$SIN_decentralize_the_government_idea$§! je v platnosti.\n" # todo: NEW TRANSLATION
+ SIN_decentralize_the_government_idea_tt: "Nesmí zvýšit §Y$bureaucracy$§! nad §Y$bureau_03$§!\n" # todo: NEW TRANSLATION
+ SPR_harsher_state_tt: "Zakazuje všechny strany kromě [conservatism_L], [Autocracy_L], [Neutral_Autocracy_L] a [Nat_Autocracy_L].\n" # todo: NEW TRANSLATION
+ SIN_strength_of_trade_agreements_mechanic_tt: "§Y[SIN.GetNameWithFlag]§! získává mechaniku §Y$SIN_singaporean_trade_strength$§! po podepsání první obchodní dohody. Čím více obchodních dohod podepíšete s jinými státy, tím více příjmu z cel získáte tempem $$§G0.075§! miliardy a $foreign_influence_modifier$ se zvyšuje tempem §G2%§! s každou další dohodou. Naopak se také zvyšuje $bureaucracy_cost_multiplier_modifier$ tempem §R2%§!.\n\n" # todo: NEW TRANSLATION
+ SIN_encourage_migration_tt: "To způsobí, že §Yvzpoury zahraničních pracovníků§! budou §Rhůře§!." # todo: NEW TRANSLATION
+ SIN_encourage_migration_worse_tt: "To způsobí, že §Yvzpoury zahraničních pracovníků§! budou ještě §Rhůře§!." # todo: NEW TRANSLATION
+ singapore_focus: "Strom zaměření Singapuru" # todo: NEW TRANSLATION
+ SIN_tiger_of_the_peninsula: "Tygr poloostrova" # todo: NEW TRANSLATION
+ SIN_tiger_of_the_peninsula_desc: "Singapur je jednou ze čtyř tygřých ekonomik východní Asie. Je nezbytné, abychom udrželi tento ekonomický status pro nadcházející roky.\n" # todo: NEW TRANSLATION
+ SIN_business_is_booming: "Podnikání vzkvétá" # todo: NEW TRANSLATION
+ SIN_business_is_booming_desc: "Obchod v Singapuru vzkvétá! Je čas udržet trh v chodu a zachovat velký singapurský boom!" # todo: NEW TRANSLATION
+ SIN_expand_the_entrepot: "Rozšířit entrepót" # todo: NEW TRANSLATION
+ SIN_expand_the_entrepot_desc: "Od dávných dob umožnila pozice Singapuru stát se masivním entrepótem a centrálním uzlem pro obchod z Asie do ostatních částí světa. Je v našem nejlepším zájmu pokračovat v rozšiřování našeho entrepótu, abychom si udrželi naše základní ekonomické zájmy.\n" # todo: NEW TRANSLATION
+ SIN_bankers_of_asia: "Bankéři Asie" # todo: NEW TRANSLATION
+ SIN_bankers_of_asia_desc: "V posledních letech se Singapur stal finančním centrem soupeřícím s Hongkongem, Šanghají a Tokiem. Nízké daně a podnikatelské pobídky tento růst urychlily. Musíme si udržet schopnost být bankéři Asie\n" # todo: NEW TRANSLATION
+ SIN_build_the_safety_net: "Financovat Central Provident Fund" # todo: NEW TRANSLATION
+ SIN_build_the_safety_net_desc: "Central Provident Fund (CPF) byl vytvořen jako odpověď k zajištění dodatečných výhod pro obyvatele Singapuru. Funguje jako národní systém sociálního zabezpečení poskytující výhody mladým, chudým a starým, aby byla jejich životní úroveň zachována. Možná stojí za to poskytnout CPF další financování." # todo: NEW TRANSLATION
+ SIN_the_singaporean_bull: "Singapurský býk" # todo: NEW TRANSLATION
+ SIN_the_singaporean_bull_desc: "Náš růst v posledních letech po velké finanční krizi byl působivý. Měli bychom se snažit udržet býčí trh a udržet Singapurského býka v pohybu.\n" # todo: NEW TRANSLATION
+ SIN_mouth_of_malay: "Ústí Malackého průlivu" # todo: NEW TRANSLATION
+ SIN_mouth_of_malay_desc: "Malacký průliv je jednou z primárních námořních tras světa. Jeho poloha umožňuje rychlý přístup přes indonéský souostroví a umožňuje plavbě relativně bez překážek na cestě z Indického oceánu do Tichého. Singapur sedí u ústí průlivu a tato pozice nám umožnila rozšířit podnikání entrepótu a nadále podporovat a podněcovat růst. Musíme si toto postavení udržet a nadále být centrem obchodu.\n" # todo: NEW TRANSLATION
+ SIN_extreme_financing: "Požádat o stranické finance" # todo: NEW TRANSLATION
+ SIN_extreme_financing_desc: "PAP má rozsáhlé vazby ve všech vrstvách společnosti v Singapuru. Měli bychom požádat o některé z těchto zdrojů, abychom získali volné prostředky výměnou za laskavosti nebo větší práva v zemi.\n" # todo: NEW TRANSLATION
+ SIN_human_rights: "Lidská práva v Singapuru" # todo: NEW TRANSLATION
+ SIN_human_rights_desc: "Ačkoli je Singapur majákem demokracie a svobody v regionu, náš systém má stále několik nedostatků, zvláště v oblasti pracovních práv. S rozvojem ekonomiky a naší živobytí by měla přijít také zlepšení práv lidí a občanských svobod." # todo: NEW TRANSLATION
+ SIN_entice_foreign_investment: "Lákat zahraniční investice" # todo: NEW TRANSLATION
+ SIN_entice_foreign_investment_desc: "Naše ekonomika je postavena především na obchodu se zbytkem světa a to je stále klíč k udržení naší stability. Nicméně s nástupem nových ekonomických mocností v uplynulých desetiletích bychom nyní měli rozhodnout, s kterým regionem světa bychom měli rozšířit naše partnerství." # todo: NEW TRANSLATION
+ SIN_continue_the_rise: "Pokračovat v růstu" # todo: NEW TRANSLATION
+ SIN_continue_the_rise_desc: "S nedávným růstem naší ekonomiky přichází mnoho nových výhod. Měli bychom tento růst povzbudit a prodloužit, abychom z něj mohli ještě více těžit!" # todo: NEW TRANSLATION
+ SIN_labour_rights: "Práva pracovníků" # todo: NEW TRANSLATION
+ SIN_labour_rights_desc: "Navzdory našim reformám se dělníci stále cítí utlačováni korporacemi. Měli bychom uzavřít nové dohody s vlastníky podniků, aby byly zajištěny lepší pracovní podmínky a větší svoboda odborů v naší zemi." # todo: NEW TRANSLATION
+ SIN_eyeing_the_west: "Oči upřeny na Západ" # todo: NEW TRANSLATION
+ SIN_eyeing_the_west_desc: "USA a Evropa jsou přece majákem kapitalismu a svobody. Zajištění lepších vztahů se Západem nám garantuje přístup na stabilnější a rozmanitější trhy." # todo: NEW TRANSLATION
+ SIN_sino_singaporean_discussion: "Čínsko-singapurská diskuse" # todo: NEW TRANSLATION
+ SIN_sino_singaporean_discussion_desc: "Rychle se rozvíjející čínská ekonomika z nich činí nového významného partnera pro naši ekonomiku a možná i šanci snížit vliv západních mocností v Singapuru. Je čas, aby dvě velmoci Asie navázaly nové přátelství nového století." # todo: NEW TRANSLATION
+ SIN_the_worker: "Moc pro dělníky" # todo: NEW TRANSLATION
+ SIN_the_worker_desc: "Je na čase přijmout kulturu dělnické třídy a učinit odbory svobodnými a zmocněnými. S novými pracovními zákony a lepšími podmínkami pro dělníky se zvýší produktivita našeho lidu." # todo: NEW TRANSLATION
+ SIN_the_business: "Upřednostnit korporace" # todo: NEW TRANSLATION
+ SIN_the_business_desc: "Je nutné dát dělníkům lepší pracovní podmínky a lepší zajištění budoucnosti, ale je nebezpečné dát jim příliš mnoho ekonomické moci. Korporace a podnikatelé znají fungování trhu a jak maximalizovat zisk. Měli by zůstat páteří naší hospodářské politiky a směrování." # todo: NEW TRANSLATION
+ SIN_expand_the_maritime_industry: "Rozšíření námořního průmyslu" # todo: NEW TRANSLATION
+ SIN_expand_the_maritime_industry_desc: "Přestože jsme námořním obchodním uzlem, naše domácí námořní výrobní kapacity jak pro civilní, tak vojenské lodě zaostávají. Měli bychom začít stavět nové loděnice, abychom zvýšili výrobu lodí." # todo: NEW TRANSLATION
+ SIN_expand_the_shipyards: "Rozšířit loděnici Jurong" # todo: NEW TRANSLATION
+ SIN_expand_the_shipyards_desc: "Loděnice Jurong je jedním z nejstarších a největších zařízení námořního průmyslu v Singapuru. Její rozšíření a modernizace nám velmi pomůže v našem úsilí vybudovat silný námořní stát v regionu." # todo: NEW TRANSLATION
+ SIN_machinery_improvements: "Investovat do Singapore Machinery Co" # todo: NEW TRANSLATION
+ SIN_machinery_improvements_desc: "Rozšíření našeho průmyslu strojního zařízení nám pomůže udržet naše průmyslové komplexy v chodu a zisku. A také nám dá šanci vyvážet tyto produkty do méně industrializovaných států v regionu." # todo: NEW TRANSLATION
+ SIN_precious_metal_trade: "Obchod Degussy" # todo: NEW TRANSLATION
+ SIN_precious_metal_trade_desc: "Degussa Goldhandel GmbH je obchodní pobočkou německé banky Degussa. Pozváním je, aby si v Singapuru založili nové operační centrum, můžeme využít jejich pomoc k zahájení našich projektů těžby zlata." # todo: NEW TRANSLATION
+ SIN_improved_exporting_processes: "Zlepšení exportních procesů" # todo: NEW TRANSLATION
+ SIN_improved_exporting_processes_desc: "S nedávným rozšířením našeho průmyslu za poslední roky se Singapur stane nejen obchodním a obchodním centrem světa, ale také velkým průmyslovým a výrobním uzlem. Musíme hledat nové trhy po celém světě, abychom rozšířili export různých zboží a ještě více posílili naši ekonomiku." # todo: NEW TRANSLATION
+ SIN_port_of_singapore: "Světový přístav" # todo: NEW TRANSLATION
+ SIN_port_of_singapore_desc: "Singapur je skutečně jedním z největších přístavů a obchodních uzlů na světě, ale abychom drželi krok s ostatními obřími obchodními regiony, musíme udržovat a rozšiřovat námořní průmysl a infrastrukturu." # todo: NEW TRANSLATION
+ SIN_intermediate_part_production: "Výroba polotovarů" # todo: NEW TRANSLATION
+ SIN_intermediate_part_production_desc: "Po rozšíření našeho strojírenského průmyslu je dalším krokem rozšíření kapacit výroby těžkých strojů, abychom nebyli jen soběstační při zajišťování nástrojů pro náš průmysl, ale také mohli tyto jedinečné a drahé nástroje vyvážet po celém světě." # todo: NEW TRANSLATION
+ SIN_restrict_the_market: "Omezení trhu" # todo: NEW TRANSLATION
+ SIN_restrict_the_market_desc: "I když je to v rozporu s naší starou cestou zachování volného trhu a nízkých daní v naší zemi, potřebujeme některá omezení proti zahraničním metalurgickým a stavebním společnostem, aby náš místní průmysl měl šanci soutěžit a přežít na trhu." # todo: NEW TRANSLATION
+ SIN_dominate_the_gold_trade: "Pán zlata" # todo: NEW TRANSLATION
+ SIN_dominate_the_gold_trade_desc: "S pomocí našich nových německých partnerů a dostatečného financování je náš projekt těžby zlata nyní v závěrečné fázi a máme nový zdroj příjmů pro naši zemi." # todo: NEW TRANSLATION
+ SIN_energy_efforts: "Úsilí v oblasti energie" # todo: NEW TRANSLATION
+ SIN_energy_efforts_desc: "Budoucnost našeho města závisí na zabezpečení naší nejdůležitější infrastruktury. Energie je jednou z těch otázek, které musíme vyřešit a zajistit, aby se naše děti už nikdy nemusely obávat." # todo: NEW TRANSLATION
+ SIN_fossil_power_plants: "Rozšířit elektrárny na fosilní paliva" # todo: NEW TRANSLATION
+ SIN_fossil_power_plants_desc: "Rozšíření elektráren na fosilní paliva ve městě pomůže kompenzovat některé z opakujících se problémů, kterým bychom mohli čelit." # todo: NEW TRANSLATION
+ SIN_fossil_fuel_efficiency: "Zlepšit účinnost elektráren" # todo: NEW TRANSLATION
+ SIN_fossil_fuel_efficiency_desc: "Zlepšení účinnosti našich elektráren na fosilní paliva by mohlo být mimořádně výhodné pro naše omezené zdroje." # todo: NEW TRANSLATION
+ SIN_reinforce_our_infrastructure: "Posílit elektrickou infrastrukturu" # todo: NEW TRANSLATION
+ SIN_reinforce_our_infrastructure_desc: "Posílení elektrické infrastruktury může pomoci zajistit, aby naše síť nikdy nezkolabovala." # todo: NEW TRANSLATION
+ SIN_nuclear_reactor: "První reaktor" # todo: NEW TRANSLATION
+ SIN_nuclear_reactor_desc: "Je čas se etablovat jako země, která vidí hodnotu ve výstavbě jaderné energie." # todo: NEW TRANSLATION
+ SIN_total_defence: "Celková obrana" # todo: NEW TRANSLATION
+ SIN_total_defence_desc: "Celková obrana je název komplexní obranné strategie Singapuru. Rámec celkové obrany zahrnuje šest základních pilířů singapurské společnosti – vojenskou, civilní, hospodářskou, sociální, psychologickou a digitální obranu. Tato všeobecná strategie se osvědčila v 80. a 90. letech." # todo: NEW TRANSLATION
+ SIN_st_kinetics_investments: "ST Kinetics" # todo: NEW TRANSLATION
+ SIN_st_kinetics_investments_desc: "ST Engineering je jediný domácí dodavatel ozbrojených sil Singapuru, který poskytuje naší armádě pušky a samopaly až po obrněné transportéry a bojová vozidla pěchoty. Rozšíření jeho výrobních závodů nám pomůže dodávat našim ozbrojeným silám více domácího vybavení v kratším čase." # todo: NEW TRANSLATION
+ SIN_city_defenses: "Městské obrany" # todo: NEW TRANSLATION
+ SIN_city_defenses_desc: "Jelikož je naše země velmi malá, ochrana každého centimetru našeho území je pro nás nesmírně důležitá. Musíme vybudovat nové obranné linie po celém státním území, abychom měli větší šanci zastavit postup potenciálních nepřátel dříve, než dosáhnou našeho hlavního města." # todo: NEW TRANSLATION
+ SIN_singaporean_armor: "Singapurské obrněné síly" # todo: NEW TRANSLATION
+ SIN_singaporean_armor_desc: "Jednou z mála oblastí, ve které našim ozbrojeným silám technologicky chybí, je obrněné vedení války. Musíme získat a prostudovat moderní zahraniční typy tanků a nakonec vyvinout domácí hlavní bitevní tank, který by mohl vstoupit do služby." # todo: NEW TRANSLATION
+ SIN_outsourced_military_industry: "Zadání vojenského průmyslu externím dodavatelům" # todo: NEW TRANSLATION
+ SIN_outsourced_military_industry_desc: "Kapacity našeho vojenského průmyslu jsou omezené kvůli velikosti státu a malé populaci. Můžeme tedy umístit výrobní linky v jiných zemích nebo nechat zahraniční výrobce dodat části svých průmyslových kapacit výměnou za naše peníze." # todo: NEW TRANSLATION
+ SIN_shorad_anti_air: "SHORAD protiletadlová obrana" # todo: NEW TRANSLATION
+ SIN_shorad_anti_air_desc: "Systémy SHORAD (Short Range Air Defense) jsou účinné proti nízkoletícím letadlům, která cílí na naše vojáky a průmyslové kapacity. Musíme získat nové protiletadlové baterie, abychom měli větší taktickou výhodu proti lehčím, ale rychlejším nepřátelským bombardérům." # todo: NEW TRANSLATION
+ SIN_mechanized_combined_arms: "Mechanizované kombinované zbraně" # todo: NEW TRANSLATION
+ SIN_mechanized_combined_arms_desc: "Od té doby, co jsme přijali doktrínu kombinovaných zbraní, jsme převedli většinu naší běžné pěchoty na mechanizovanou. S vývojem nových modelů tanků musíme také vyvinout nové modely obrněných bojových vozidel, aby držely krok s tanky a lépe chránily naše vojáky při nástupu na bojiště." # todo: NEW TRANSLATION
+ SIN_expanded_military_research: "Rozšířený vojenský výzkum" # todo: NEW TRANSLATION
+ SIN_expanded_military_research_desc: "S rozšířením naší vojenské a průmyslové kapacity musíme rovněž rozšířit naše centra výzkumu a vývoje, aby naše armáda držela krok s nejlepšími technologickými pokroky." # todo: NEW TRANSLATION
+ SIN_arms_exporter: "Vývozce zbraní" # todo: NEW TRANSLATION
+ SIN_arms_exporter_desc: "Rozšíření domácího vojenského průmyslu nám také poskytne přebytek moderního vybavení, který můžeme vyvážet do jiných zemí výměnou za zisk." # todo: NEW TRANSLATION
+ SIN_defensive_force: "Obranná armáda" # todo: NEW TRANSLATION
+ SIN_defensive_force_desc: "Naše ozbrojené síly mají jeden hlavní cíl: bránit vlast. Proto by měl být náš vrchní velení i nižší důstojníci vyškoleni k provádění lepších obranných strategií." # todo: NEW TRANSLATION
+ SIN_air_investments: "Investice do letectva" # todo: NEW TRANSLATION
+ SIN_air_investments_desc: "Po rozšíření tankových a mechanizovaných sil máme nyní kapacity na modernizaci našich starých letadel a výrobu nových domácích verzí, které lépe vyhovují našim potřebám." # todo: NEW TRANSLATION
+ SIN_coastal_navy: "Pobřežní námořnictvo" # todo: NEW TRANSLATION
+ SIN_coastal_navy_desc: "Stejně jako naše pozemní síly má naše námořnictvo hlavní úkol – bránit pobřeží Singapuru. Naše námořní doktrína by proto měla být založena na menších plavidlech, abychom měli větší šanci chránit naši pobřežní linii." # todo: NEW TRANSLATION
+ SIN_the_conscription_question: "Otázka branné povinnosti" # todo: NEW TRANSLATION
+ SIN_the_conscription_question_desc: "V mysli lidí stále zní velká otázka: máme přeměnit naše ozbrojené síly na malou, ale moderní a profesionální armádu, nebo musíme rozšířit personál armády, abychom dohnali velikost našich sousedů?" # todo: NEW TRANSLATION
+ SIN_entrenched_singapore: "Opevněný městský stát" # todo: NEW TRANSLATION
+ SIN_entrenched_singapore_desc: "Druhá fáze rozšíření potřebného pro obranné linie v naší zemi, abychom měli šanci i po počátečním průlomu naší první obranné linie." # todo: NEW TRANSLATION
+ SIN_commission_frigates: "Objednat fregaty" # todo: NEW TRANSLATION
+ SIN_commission_frigates_desc: "Musíme začít vyrábět nové moderní fregaty, aby naše námořní síly měly lepší palebnou sílu a větší šanci bránit naše pobřeží." # todo: NEW TRANSLATION
+ SIN_expand_the_draft: "Rozšíření branné povinnosti" # todo: NEW TRANSLATION
+ SIN_expand_the_draft_desc: "Naše armáda rozhodně trpí nedostatkem personálu. Jelikož už máme brannou povinnost pro muže, musíme také zavést brannou povinnost pro ženy a svěřit jim služby v zázemí, aby se více mužů mohlo dostat na frontu." # todo: NEW TRANSLATION
+ SIN_volunteer_service: "Armáda na dobrovolné bázi" # todo: NEW TRANSLATION
+ SIN_volunteer_service_desc: "Singapurské ozbrojené síly již mají technologickou převahu potřebnou k vítězství v případné válce se sousedy. Musíme začít přechod na profesionální dobrovolnou armádu, aby více našich mladých lidí mohlo pracovat v průmyslu." # todo: NEW TRANSLATION
+ SIN_expansionary_military_policy: "Expanzivní vojenská politika" # todo: NEW TRANSLATION
+ SIN_expansionary_military_policy_desc: "Zvýšení branné povinnosti nestačí, proto musíme také navýšit vojenský rozpočet, abychom financovali náš nový náborový program." # todo: NEW TRANSLATION
+ SIN_deduction_policy: "Politika škrtů" # todo: NEW TRANSLATION
+ SIN_deduction_policy_desc: "S redukcí velikosti armády zůstává velká část jejího rozpočtu nevyužitá. Možná je lepší přesunout tyto přebytečné prostředky do jiných oblastí naší země." # todo: NEW TRANSLATION
+ SIN_army_of_many: "Armáda mnoha" # todo: NEW TRANSLATION
+ SIN_army_of_many_desc: "Mít tak velkou armádu branců nám sice nemusí zajistit nejlepší kvalitu vojáků, ale je to skvělý způsob, jak posílit pocit bratrství mezi našimi vojáky z různých etnik." # todo: NEW TRANSLATION
+ SIN_military_discipline: "Vojenská disciplína" # todo: NEW TRANSLATION
+ SIN_military_discipline_desc: "Malá, ale profesionální armáda je trendem 21. století. Když budeme mít v armádě jen ty nejlepší z nejlepších, můžeme zajistit, že v době války budou naši velitelé a vojáci provádět své plány s maximální dokonalostí." # todo: NEW TRANSLATION
+ SIN_punching_above_our_weight: "Bít nad svou váhu" # todo: NEW TRANSLATION
+ SIN_punching_above_our_weight_desc: "Na první pohled by cizinci mohli považovat Singapur za slabý a zranitelný vůči nepřátelské agresi, ale budou překvapeni, až uvidí naše slavné ozbrojené síly v akci. Ať žije vlast!" # todo: NEW TRANSLATION
+ SIN_sinister_ideas: "Zlověstné myšlenky" # todo: NEW TRANSLATION
+ SIN_sinister_ideas_desc: "Armáda se dere do popředí, aby prosadila něco více. Vláda je slabá a vojsko nás může vést tam, kam se nabubřelí diplomaté a byrokraté nedokážou." # todo: NEW TRANSLATION
+ SIN_a_new_march: "Nový pochod" # todo: NEW TRANSLATION
+ SIN_a_new_march_desc: "Armáda loajální vládě začala budovat jakousi obranu kolem hlavního města. To jsou těžké časy..." # todo: NEW TRANSLATION
+ SIN_military_politicians: "Vojenská politická reprezentace" # todo: NEW TRANSLATION
+ SIN_military_politicians_desc: "Puč uspěl. Sbor generálů začíná být dosazován na klíčová místa ve vládě." # todo: NEW TRANSLATION
+ SIN_propaganda_campaigns: "Propagační kampaně" # todo: NEW TRANSLATION
+ SIN_propaganda_campaigns_desc: "Lidé stále věří, že si zaslouží zastoupení. Zastoupení se získává vojenskou službou. Vtiskněte jim to do jejich tenkých hlav." # todo: NEW TRANSLATION
+ SIN_reeducation: "Převychovaný Singapur" # todo: NEW TRANSLATION
+ SIN_reeducation_desc: "Přechod Singapuru k nové vojenské juntě byl dokončen. Puč je urovnán a je čas začít znovu náš velký pochod vpřed." # todo: NEW TRANSLATION
+ SIN_the_republic: "Republika" # todo: NEW TRANSLATION
+ SIN_the_republic_desc: "Republika Singapur byla založena v roce 1965 během dekolonizace Britského impéria. Dříve byla součástí velké malajské kolonie, ale oddělila se a stala se moderním státem Singapur. Její vládnoucí strana People's Action Party zůstává pevně u moci v národní vládě posledních osmdesát let a efektivně zde ustanovila jednopartijní stát." # todo: NEW TRANSLATION
+ SIN_centralized_education: "Centralizované vzdělávání" # todo: NEW TRANSLATION
+ SIN_centralized_education_desc: "Vzdělávání v Singapuru je většinou řízeno vládou, ale existuje i určité místní rozhodování. Odstranění tohoto mnohostranného systému nám poskytne dostatečnou příležitost efektivněji rozhodovat o tom, jak bude vypadat vzdělání našich občanů." # todo: NEW TRANSLATION
+ SIN_decentralize_the_government: "Protokol decentralizace" # todo: NEW TRANSLATION
+ SIN_decentralize_the_government_desc: "Zaměření na naše ozbrojené síly a směrování prostředků do singapurské obrany je vždy bezpečná volba. Zajistí, že naše hranice a vody budou chráněny před těmi, kdo nám chtějí ublížit." # todo: NEW TRANSLATION
+ SIN_reinforce_the_state: "Posílit stát" # todo: NEW TRANSLATION
+ SIN_reinforce_the_state_desc: "Posílení státu je prvním krokem k provedení administrativních reforem." # todo: NEW TRANSLATION
+ SIN_reform_the_monetary_system: "Reforma měnového systému" # todo: NEW TRANSLATION
+ SIN_reform_the_monetary_system_desc: "Reforma měnového systému Singapuru by měla umožnit větší ekonomický rozvoj." # todo: NEW TRANSLATION
+ SIN_military_budget_amendment: "Úprava vojenského rozpočtu" # todo: NEW TRANSLATION
+ SIN_military_budget_amendment_desc: "Zvýšení vojenského rozpočtu by nám mělo umožnit dále zlepšit naši armádu a postavení v jihovýchodní Asii." # todo: NEW TRANSLATION
+ SIN_faith_in_the_establishment: "Důvěra v establishment" # todo: NEW TRANSLATION
+ SIN_faith_in_the_establishment_desc: "Lidé mají důvěru v naši vládu. Je nesmírně důležité tuto důvěru nadále monopolizovat a dělat to nejlepší pro obyvatele Singapuru." # todo: NEW TRANSLATION
+ SIN_administrative_reforms: "Administrativní reformy" # todo: NEW TRANSLATION
+ SIN_administrative_reforms_desc: "Odstranění byrokratických překážek a optimalizace administrativních procesů zlepší fungování naší vlády." # todo: NEW TRANSLATION
+ SIN_economic_equality: "Hospodářská rovnost" # todo: NEW TRANSLATION
+ SIN_economic_equality_desc: "Zajištění hospodářské rovnosti pro obyvatele naší země je nezbytné." # todo: NEW TRANSLATION
+ SIN_the_status_quo: "Stagnace volebního procesu" # todo: NEW TRANSLATION
+ SIN_the_status_quo_desc: "Volební proces v Singapuru je v stagnaci. People's Action Party nadále udržuje železnou kontrolu nad národem." # todo: NEW TRANSLATION
+ SIN_electoral_reform: "Reforma procesu" # todo: NEW TRANSLATION
+ SIN_electoral_reform_desc: "Náš volební proces je zmanipulovaný a povolení většího počtu zástupců třetích stran v parlamentu zahájí cestu k novému zítřku." # todo: NEW TRANSLATION
+ SIN_defence_strategy: "Obranná strategie" # todo: NEW TRANSLATION
+ SIN_defence_strategy_desc: "Je to trochu jednoduché. Obrana je naší prioritou." # todo: NEW TRANSLATION
+ SIN_conservative_singapore: "Konzervativní Singapur" # todo: NEW TRANSLATION
+ SIN_conservative_singapore_desc: "Pokrok je fasáda. Singapur je nejlepší, když směřujeme ke konzervatismu." # todo: NEW TRANSLATION
+ SIN_anti_corruption_measures: "Opatření proti korupci" # todo: NEW TRANSLATION
+ SIN_anti_corruption_measures_desc: "Snížení korupce v naší zemi se ukáže jako trvalý prospěch pro naše občany i pro stát." # todo: NEW TRANSLATION
+ SIN_fair_and_free: "Spravedlivé a svobodné" # todo: NEW TRANSLATION
+ SIN_fair_and_free_desc: "Zajištění spravedlivých a svobodných voleb je klíčem k novému Singapuru." # todo: NEW TRANSLATION
+ SIN_support_the_opposition: "Podpořit opozici" # todo: NEW TRANSLATION
+ SIN_support_the_opposition_desc: "Ač se to může zdát protichůdné, podpora opozice vůči naší vládě je klíčovým krokem k postupu vpřed." # todo: NEW TRANSLATION
+ SIN_expand_the_total_defence_strategy: "Rozšířená strategie celkové obrany" # todo: NEW TRANSLATION
+ SIN_expand_the_total_defence_strategy_desc: "Strategie Celkové obrany nám po desetiletí od jejího zavedení výborně sloužila. Rozšíření této strategie je jedním z nejlepších kroků, které můžeme učinit." # todo: NEW TRANSLATION
+ SIN_maintain_singapore: "Udržet Singapur" # todo: NEW TRANSLATION
+ SIN_maintain_singapore_desc: "Stabilita je mnohem přínosnější než neustálé měnění vlády." # todo: NEW TRANSLATION
+ SIN_increase_police_funding: "Navýšení financování policie" # todo: NEW TRANSLATION
+ SIN_increase_police_funding_desc: "Policejní složky jsou jednou z nejdůležitějších struktur v naší vládě, vzhledem k tomu, že jsme městský stát. Investice a navýšení přidělených prostředků jim nakonec pomůže všem obyvatelům." # todo: NEW TRANSLATION
+ SIN_encourage_the_multi_party_system: "Podpora systému více stran" # todo: NEW TRANSLATION
+ SIN_encourage_the_multi_party_system_desc: "Uvolnění omezení vůči menším stranám a podpora jejich větší účasti ve vládě je přesně cesta kupředu." # todo: NEW TRANSLATION
+ SIN_liberalization: "Liberalizace" # todo: NEW TRANSLATION
+ SIN_liberalization_desc: "Liberální otevření politické sféry je jednou z možností." # todo: NEW TRANSLATION
+ SIN_autocracy_for_democracy: "Autokracie pro demokracii" # todo: NEW TRANSLATION
+ SIN_autocracy_for_democracy_desc: "Autokracie je nejdokonalejším prostředkem pro demokracii." # todo: NEW TRANSLATION
+ SIN_new_singapore: "Nový Singapur" # todo: NEW TRANSLATION
+ SIN_new_singapore_desc: "Snížení volebního prahu v Singapuru je prvním krokem k novému Singapuru." # todo: NEW TRANSLATION
+ SIN_impose_harder_censorship: "Uvalit přísnější cenzuru" # todo: NEW TRANSLATION
+ SIN_impose_harder_censorship_desc: "V Singapuru nebude žádné médium šířeno, pokud nebude posouzeno jako vhodné. Přísnější cenzura něco stojí, ale stabilita je nade vše." # todo: NEW TRANSLATION
+ SIN_greater_control: "Větší kontrola" # todo: NEW TRANSLATION
+ SIN_greater_control_desc: "Nastolení stále větší kontroly nad lidmi a jejich životy je cestou kupředu." # todo: NEW TRANSLATION
+ SIN_liberties_for_stability: "Svobody za stabilitu" # todo: NEW TRANSLATION
+ SIN_liberties_for_stability_desc: "Lidé jsou ochotni obětovat pár svobod výměnou za národní stabilitu, že ano?" # todo: NEW TRANSLATION
+ SIN_expand_freedom_of_press: "Rozšířit svobodu tisku" # todo: NEW TRANSLATION
+ SIN_expand_freedom_of_press_desc: "Svoboda tisku je nezbytná pro odklon od naší autokratické minulosti." # todo: NEW TRANSLATION
+ SIN_grant_lgbtq_rights: "Uznat práva LGBTQ" # todo: NEW TRANSLATION
+ SIN_grant_lgbtq_rights_desc: "Práva LGBTQ v Singapuru byla vždy pochybována a existovaly zákony proti nim. Zrušení těchto zákonů a zavedení ochrany práv je nezbytné." # todo: NEW TRANSLATION
+ SIN_address_human_rights: "Řešit porušování lidských práv" # todo: NEW TRANSLATION
+ SIN_address_human_rights_desc: "Porušování lidských práv mezi migranty a chudšími vrstvami musí být řešeno." # todo: NEW TRANSLATION
+ SIN_the_alignment: "Singapurské zaměření" # todo: NEW TRANSLATION
+ SIN_the_alignment_desc: "Směřování naší strany nakonec rozhodne o naší budoucnosti." # todo: NEW TRANSLATION
+ SIN_western_identity: "Západní identita" # todo: NEW TRANSLATION
+ SIN_western_identity_desc: "Prosazování více západně orientované politiky a zahraniční diplomacie nám pomůže vyhnout se vlivu Číny a Východního bloku. Je zásadní, abychom dál tuto naraci podporovali, abychom zůstali na správné cestě." # todo: NEW TRANSLATION
+ SIN_singapore_alone: "Samostatný Singapur" # todo: NEW TRANSLATION
+ SIN_singapore_alone_desc: "Singapur historicky zvolil konzistentní cestu prozápadní politiky s neutrálními prvky. Pokud tuto cestu zachováme, můžeme nadále udržet silné postavení v jihovýchodní Asii." # todo: NEW TRANSLATION
+ SIN_strength_in_asia: "Síla v Asii" # todo: NEW TRANSLATION
+ SIN_strength_in_asia_desc: "Je čas přehodnotit naši zahraniční politiku. Prosadit se do popředí zajistí, že vítězství bude naše. Singapur se stane novou silou v Asii. Vůdcem pro znepokojené, když najdeme nové místo." # todo: NEW TRANSLATION
+ SIN_soften_citizenship: "Zmírnit požadavky na občanství" # todo: NEW TRANSLATION
+ SIN_soften_citizenship_desc: "Požadavky na občanství v Singapuru jsou proslulé svou přísností. Jejich zmírnění by mělo zajistit pokračující nárůst populace." # todo: NEW TRANSLATION
+ SIN_allow_foreign_media: "Povolit zahraniční média" # todo: NEW TRANSLATION
+ SIN_allow_foreign_media_desc: "Zahraniční média nikdy nebyla v Singapuru zcela zakázána. Musí se však řídit přísnými pravidly, což způsobuje problémy, kdy jsou určitá místa v Singapuru zablokována. Zrušení některých z těchto přísnějších pravidel by mohlo umožnit vysílání více médií ve městském státě." # todo: NEW TRANSLATION
+ SIN_strength_in_straits: "Síla v průlivech" # todo: NEW TRANSLATION
+ SIN_strength_in_straits_desc: "Síla v průlivech" # todo: NEW TRANSLATION
+ SIN_nationalize_foreign_companies: "Nacionalizovat zahraniční společnosti" # todo: NEW TRANSLATION
+ SIN_nationalize_foreign_companies_desc: "Zahraniční společnosti v naší zemi nejsou způsobilé fungovat bez pevnější ruky naší vlády. Měli bychom tyto firmy znárodnit a zajistit si úplnou kontrolu nad jejich záležitostmi." # todo: NEW TRANSLATION
+ SIN_return_from_flawed_democracy: "Návrat z nedokonalé demokracie" # todo: NEW TRANSLATION
+ SIN_return_from_flawed_democracy_desc: "Je čas, aby se Singapur vymanil z nedokonalé demokracie. Lidé si zaslouží právo volit stranu, kterou podporují." # todo: NEW TRANSLATION
+ SIN_finance_western_projects: "Financovat západní projekty" # todo: NEW TRANSLATION
+ SIN_finance_western_projects_desc: "Západní země nabízejí projekty a nápady pro rozvoj v naší zemi. Nicméně jsme zodpovědní za financování těchto projektů." # todo: NEW TRANSLATION
+ SIN_singaporean_identity: "Singapurská identita" # todo: NEW TRANSLATION
+ SIN_singaporean_identity_desc: "Identita Singapuru je jasná. Je důležité zajistit, aby naše identita nezmizela." # todo: NEW TRANSLATION
+ SIN_befriend_the_sco: "Sblížit se se ŠOS" # todo: NEW TRANSLATION
+ SIN_befriend_the_sco_desc: "Sblížení se se členy Šanghajské organizace pro spolupráci (ŠOS) se ukáže jako velmi přínosné." # todo: NEW TRANSLATION
+ SIN_anti_opposition_laws: "Zákony proti opozici" # todo: NEW TRANSLATION
+ SIN_anti_opposition_laws_desc: "Je nezbytné přijmout zákony, které zajistí, že opozice za žádnou cenu nevstoupí do moci." # todo: NEW TRANSLATION
+ SIN_european_democracy: "Evropská demokracie" # todo: NEW TRANSLATION
+ SIN_european_democracy_desc: "Přijetí evropského modelu demokracie umožní větší zastoupení dalších stran v našem parlamentu." # todo: NEW TRANSLATION
+ SIN_greater_ties_with_europe: "Hlubší vazby s Evropou" # todo: NEW TRANSLATION
+ SIN_greater_ties_with_europe_desc: "Hlubší vazby s eurozónou a Evropou by nám měly přinést větší prosperitu a sílu. Pokud chceme stát se silnějším finančním centrem než Londýn, měli bychom to podporovat čím dál více." # todo: NEW TRANSLATION
+ SIN_the_pap: "PAP" # todo: NEW TRANSLATION
+ SIN_the_pap_desc: "People's Action Party je dominantní stranou v tomto malém městském státě. Zajištění dominance strany nám umožní dosáhnout a udržet stabilitu v našem městě." # todo: NEW TRANSLATION
+ SIN_the_chinese_media_model: "Čínský mediální model" # todo: NEW TRANSLATION
+ SIN_the_chinese_media_model_desc: "Je načase si vzít příklad z Číny. Je čas uplatnit v Singapuru čínský mediální model." # todo: NEW TRANSLATION
+ SIN_harsher_state: "Přísnější stát" # todo: NEW TRANSLATION
+ SIN_harsher_state_desc: "Zákaz všech stran, které se postaví proti People's Action Party a armádě, zajistí stabilní režim." # todo: NEW TRANSLATION
+ SIN_global_initiative: "Globální iniciativa" # todo: NEW TRANSLATION
+ SIN_global_initiative_desc: "Je čas, aby národ zahájil novou globální iniciativu; Singapur navěky." # todo: NEW TRANSLATION
+ SIN_singapore_on_the_rise: "Singapur na vzestupu" # todo: NEW TRANSLATION
+ SIN_singapore_on_the_rise_desc: "Měkká síla je novým způsobem, jak uplatňovat naši sílu a vliv v zahraničí." # todo: NEW TRANSLATION
+ SIN_pressure_the_south_asian_seas: "Vyvíjet tlak v jihoasijských mořích" # todo: NEW TRANSLATION
+ SIN_pressure_the_south_asian_seas_desc: "Singapurské ozbrojené síly touží po boji. Nové singapurské impérium poroste a bude se rozšiřovat." # todo: NEW TRANSLATION
+ SIN_operation_enticement: "Operace Lákání" # todo: NEW TRANSLATION
+ SIN_operation_enticement_desc: "Využitím naší nadřazené rozvědky můžeme přilákat státy, aby se přiblížily naší politické ideologii." # todo: NEW TRANSLATION
+ SIN_political_maneuvering: "Politické manévry" # todo: NEW TRANSLATION
+ SIN_political_maneuvering_desc: "Politické manévry a lichocení jsou vynikajícím způsobem, jak z jednání získat to, co chceme." # todo: NEW TRANSLATION
+ SIN_demand_special_treatment: "Ekonomické priority" # todo: NEW TRANSLATION
+ SIN_demand_special_treatment_desc: "Ekonomika je zde ve městě to nejdůležitější. Pokud neudržíme naši prosperitu, nikdy nedosáhneme velikosti, kterou si zasloužíme." # todo: NEW TRANSLATION
+ SIN_economic_champion: "Hospodářský šampion" # todo: NEW TRANSLATION
+ SIN_economic_champion_desc: "Hospodářský šampion" # todo: NEW TRANSLATION
+ SIN_demand_malaysian_concessions: "Vojenské investice" # todo: NEW TRANSLATION
+ SIN_demand_malaysian_concessions_desc: "Investice do naší armády a vojenské infrastruktury by měly umožnit větší expanzivitu." # todo: NEW TRANSLATION
+ SIN_the_archipelago: "Souostroví" # todo: NEW TRANSLATION
+ SIN_the_archipelago_desc: "Riauovy ostrovy jsou zralé k obsazení. Indonésané jednoduše neví, že je pro ně lepší tyto ostrovy opustit." # todo: NEW TRANSLATION
+ SIN_prioritize_diplomacy: "Upřednostnit diplomacii" # todo: NEW TRANSLATION
+ SIN_prioritize_diplomacy_desc: "Upřednostnění diplomacie před konfliktem je nezbytné. Je to způsob, jak prosadit náš vliv v zahraničí a vtisknout singapurskou nadřazenost." # todo: NEW TRANSLATION
+ SIN_condemn_aggression: "Odsoudit agresi" # todo: NEW TRANSLATION
+ SIN_condemn_aggression_desc: "Nyní je oficiální politikou odsuzovat agresi jakéhokoli státního aktéra, který šikanuje jiného." # todo: NEW TRANSLATION
+ SIN_require_unfair_treaties: "Banka jihovýchodní Asie" # todo: NEW TRANSLATION
+ SIN_require_unfair_treaties_desc: "Držení aktiv jiných států nám pouze poslouží k posílení naší moci." # todo: NEW TRANSLATION
+ SIN_nationalistic_rise: "Nárůst nacionalismu" # todo: NEW TRANSLATION
+ SIN_nationalistic_rise_desc: "Příliv na našich březích začíná přinášet něco neobvyklého. Nacionalismus v zemi se začíná dostávat do popředí naší politiky. V ulicích Singapuru začíná být slyšet nový řev." # todo: NEW TRANSLATION
+ SIN_seize_the_peninsula: "Obsadit poloostrov" # todo: NEW TRANSLATION
+ SIN_seize_the_peninsula_desc: "Invaze na Malajský poloostrov nám přinese zdroje, podporu a množství dalších možností k expanzi. Obsazení poloostrova je prvním krokem ke slávě." # todo: NEW TRANSLATION
+ SIN_invade_sumatra: "Obsadit Sumatru" # todo: NEW TRANSLATION
+ SIN_invade_sumatra_desc: "Sumatra má spoustu rozmanitých zdrojů a obyvatelstvo navíc. Jsou blíže naší vládě než vládě v Jakartě. Zaberte ostrov a připravte se na budoucí dobývání Indonésie." # todo: NEW TRANSLATION
+ SIN_singapore_for_peace: "Singapur za mír" # todo: NEW TRANSLATION
+ SIN_singapore_for_peace_desc: "Válka je marný podnik. Singapur usiluje o trvalý mír ve světě." # todo: NEW TRANSLATION
+ SIN_economic_empire: "Ekonomické impérium" # todo: NEW TRANSLATION
+ SIN_economic_empire_desc: "Naše impérium vzroste, ale ne v tradičním smyslu. Země začne budovat impérium ekonomické dominance napříč regionem." # todo: NEW TRANSLATION
+ SIN_set_our_sights: "Zaměřit se na cíle" # todo: NEW TRANSLATION
+ SIN_set_our_sights_desc: "Je čas zaměřit se na další dobytí a expanzi. Zaměřme naše cíle do zahraničí." # todo: NEW TRANSLATION
+ SIN_restrict_migration: "Omezit migranty" # todo: NEW TRANSLATION
+ SIN_restrict_migration_desc: "Omezení příchodu migrantů znamená, že tato pracovní místa mohou být přidělena místním obyvatelům." # todo: NEW TRANSLATION
+ SIN_encourage_migration: "Podporovat migraci" # todo: NEW TRANSLATION
+ SIN_encourage_migration_desc: "Migrační pracovníci jsou páteří naší výstavby a pracovních sil. Je nezbytné tuto migraci podporovat." # todo: NEW TRANSLATION
+ SIN_singaporeans_first: "Singapurci především" # todo: NEW TRANSLATION
+ SIN_singaporeans_first_desc: "Lidé Singapuru přicházejí na prvním místě." # todo: NEW TRANSLATION
+ SIN_restrictive_citizenship: "Konec migrantům" # todo: NEW TRANSLATION
+ SIN_restrictive_citizenship_desc: "Další omezení migrantů a větší spoléhání se na místní obyvatelstvo by mohlo pokračovat ve zaměření." # todo: NEW TRANSLATION
+ SIN_import_cheap_labour: "Dovoz levné pracovní síly" # todo: NEW TRANSLATION
+ SIN_import_cheap_labour_desc: "Pracovní síla v Singapuru je mnohem dražší než dovoz migrantů. Tito mohou vykonávat práci mnohem levněji." # todo: NEW TRANSLATION
+ SIN_singapore_south_east_asia: "Obchodní centrum jihovýchodní Asie" # todo: NEW TRANSLATION
+ SIN_singapore_south_east_asia_desc: "Singapur je významným finančním a obchodním přístavem mezi západem a východem. Leží na životně důležitém Malackém průlivu, a zajištění většího objemu obchodu přes Singapur přinese prosperitu jak jemu, tak okolním zemím." # todo: NEW TRANSLATION
+ SIN_asean_commentary: "Komentář ASEAN" # todo: NEW TRANSLATION
+ SIN_asean_commentary_desc: "Dialog s členskými státy ASEANu bude jen prospěšný. Příprava stále větší podpory pro ně a konečné posílení regionální spolupráce." # todo: NEW TRANSLATION
+ SIN_expand_trade_with_india: "Rozšířit obchod s Indií" # todo: NEW TRANSLATION
+ SIN_expand_trade_with_india_desc: "Indie je jedním z největších dovozců a vývozců zboží v jihoasijském regionu. Zajištění vhodných obchodních tras s Indií nám umožní získat více příjmů a zisků." # todo: NEW TRANSLATION
+ SIN_south_asian_countries: "Jihoasijské země" # todo: NEW TRANSLATION
+ SIN_south_asian_countries_desc: "Zlepšení vztahů s ostatními jihoasijskými státy by mohlo zvýšit naši ekonomickou sílu." # todo: NEW TRANSLATION
+ SIN_influence_the_members: "Ovlivnit členy" # todo: NEW TRANSLATION
+ SIN_influence_the_members_desc: "Připravování pro-singapurské propagandy a její šíření mezi státy ASEANu by nás mělo udržet na vrcholu." # todo: NEW TRANSLATION
+ SIN_trade_with_sri_lanka: "Obchod s Srí Lankou" # todo: NEW TRANSLATION
+ SIN_trade_with_sri_lanka_desc: "Obchod mezi Srí Lankou a Singapurem je menší částí celkových obchodních dohod; obchod ze Singapuru do Srí Lanky je nicméně ziskový." # todo: NEW TRANSLATION
+ SIN_singaporean_foreign_aid: "Singapurská zahraniční pomoc" # todo: NEW TRANSLATION
+ SIN_singaporean_foreign_aid_desc: "Příprava balíčků zahraniční pomoci pro státy, s nimiž máme obchodní dohody, pouze prospěje naší síti přátel a spojenců." # todo: NEW TRANSLATION
+ SIN_madagascan_trade_routes: "Obchodní trasy s Madagaskarem" # todo: NEW TRANSLATION
+ SIN_madagascan_trade_routes_desc: "Singapur a Madagaskar udržují historicky přátelské vztahy už mnoho let i v koloniálních dobách. Dnes mají oba zdravý a ziskový obchodní vztah." # todo: NEW TRANSLATION
+ SIN_the_philippines: "Filipíny" # todo: NEW TRANSLATION
+ SIN_the_philippines_desc: "Filipíny jsou jedním z největších obchodních partnerů Singapuru; Filipíny a Singapur si užívají rozsáhlou spolupráci. Poskytují si navzájem finanční a politickou podporu v rámci ASEANu." # todo: NEW TRANSLATION
+ SIN_demand_asean_concessions: "Požadovat ústupky od ASEANu" # todo: NEW TRANSLATION
+ SIN_demand_asean_concessions_desc: "Je čas, aby byl Singapur považován za národ, jaký si zasloužíme být. Požadování ústupků a zvláštního zacházení je cestou, jak vyrosteme." # todo: NEW TRANSLATION
+ SIN_control_the_straits: "Ovládnout průlivy" # todo: NEW TRANSLATION
+ SIN_control_the_straits_desc: "Prosazení naší síly v průlivech a zajištění jejich kontroly je naší cestou ke slávě." # todo: NEW TRANSLATION
+ SIN_global_free_trade: "Globální volný obchod" # todo: NEW TRANSLATION
+ SIN_global_free_trade_desc: "Zlepšení obchodních vztahů a politických kontaktů se sousedy znamená více obchodu, což nakonec přináší více peněz nám." # todo: NEW TRANSLATION
+ SIN_dictate_trade_agreements: "Nastavovat obchodní dohody" # todo: NEW TRANSLATION
+ SIN_dictate_trade_agreements_desc: "Singapur je ten, kdo vypracuje obchodní dohody." # todo: NEW TRANSLATION
+ SIN_strong_arm_the_asean: "Donutit ASEAN" # todo: NEW TRANSLATION
+ SIN_strong_arm_the_asean_desc: "Tím, že dáme ASEANu ruku za záda, zajistíme Singapuru pevnější postavení v asociaci." # todo: NEW TRANSLATION
+ SIN_japanese_free_trade_agreement: "Japonská dohoda o volném obchodu" # todo: NEW TRANSLATION
+ SIN_japanese_free_trade_agreement_desc: "Podepsání obchodní dohody s Japonskem má strategický význam." # todo: NEW TRANSLATION
+ SIN_usa_singaporean_agreements: "USA–singapurské dohody" # todo: NEW TRANSLATION
+ SIN_usa_singaporean_agreements_desc: "USA a Singapur v minulosti podepsaly několik obchodních dohod, včetně obchodních a finančních smluv." # todo: NEW TRANSLATION
+ SIN_singaporean_trade_influence: "Singapurský obchodní vliv" # todo: NEW TRANSLATION
+ SIN_singaporean_trade_influence_desc: "Rozšíření našeho obchodního vlivu je jistý způsob, jak upevnit naši ekonomickou sílu." # todo: NEW TRANSLATION
+ SIN_pressure_the_japanese: "Nacionalizovat japonská aktiva" # todo: NEW TRANSLATION
+ SIN_pressure_the_japanese_desc: "Japonsko vlastní v naší zemi značné množství aktiv. Pokud jejich aktiva převezmeme a začleníme do státní správy, můžeme lépe nastavit chod státu." # todo: NEW TRANSLATION
+ SIN_global_investment: "Globální investice" # todo: NEW TRANSLATION
+ SIN_global_investment_desc: "Čím více globálních investic uskutečníme, tím silnější bude naše ekonomika. Pokud budeme pokračovat touto cestou a prosazovat hlubší investice v zahraničí, budeme zaznamenávat stále vyšší zisky." # todo: NEW TRANSLATION
+ SIN_regional_investment: "Rozšířené globální investice" # todo: NEW TRANSLATION
+ SIN_regional_investment_desc: "Nové investiční plány byly ziskové; další a další investice budou pro město jen prospěšné." # todo: NEW TRANSLATION
+ SIN_expand_foreign_reserve: "Rozšířit zahraniční rezervy" # todo: NEW TRANSLATION
+ SIN_expand_foreign_reserve_desc: "Zahraniční pokladny jsou trochu prázdné; další získávání prostředků od obyvatel pro rozšíření rezerv nám prospěje." # todo: NEW TRANSLATION
+ singapore.0.t: "Tygr jihovýchodní Asie" # todo: NEW TRANSLATION
+ singapore.0.d: "Nacházíme se na jedné z nejstrategičtějších geografických pozic v jihovýchodní Asii. Obchod u nás volně proudí a postupně jsme se vyvinuli v jedno z největších finančních center světa. Je čas, aby Singapur dostál svému jménu a skutečně se stal tygrem, kterým má být!" # todo: NEW TRANSLATION
+ singapore.0.a: "Uslyší náš řev" # todo: NEW TRANSLATION
+ singapore.3.t: "Nové singapurské pochodování" # todo: NEW TRANSLATION
+ singapore.3.d: "Naše ozbrojené síly pochodují ulicemi města a získávají podporu z řad všech vrstev obyvatel. Obrněná vozidla a silně vyzbrojené vojenské jednotky se rozmístily před budovou parlamentu. Nad shromážděným davem se rozléhal povzbudivý projev. Během vstupu části sil do budovy zaznívaly bujaré ovace i pískot. Vojáci zadrželi politiky a úředníky při pohybu po budově parlamentu.\n\nJak by měla naše nová vláda postupovat? Měla by armáda dovolit People's Action Party spolupracovat s novou vládou?" # todo: NEW TRANSLATION
+ singapore.3.a: "Armáda uchvátí moc" # todo: NEW TRANSLATION
+ singapore.3.b: "Spolupráce s PAP" # todo: NEW TRANSLATION
+ singapore.4.t: "Pochod singapurské armády" # todo: NEW TRANSLATION
+ singapore.4.d1: "Singapurská armáda převzala kontrolu nad městským státem a nyní rychle uchvacuje plnou moc nad zbytkem vlády a odpůrci. [SIN.GetLeader] má nyní plnou kontrolu nad městem." # todo: NEW TRANSLATION
+ singapore.4.d2: "Dohoda mezi frakcemi People's Action Party a armádou umožnila změnu vlády v Singapuru. Armáda a malá frakce PAP převzaly kontrolu nad parlamentem a nyní připravují vládu." # todo: NEW TRANSLATION
+ singapore.4.a: "Nová cesta Singapuru" # todo: NEW TRANSLATION
+ singapore.5.t: "Singapur požaduje [627.GetName]" # todo: NEW TRANSLATION
+ singapore.5.d: "Riauské ostrovy jsou souostroví nedaleko pobřeží Singapuru. Mají přírodní zdroje a stavební prostor, kterého v městském státě rychle ubývá. Navíc jde o území, které bylo naše po staletí. Měli bychom tomuto strategicky důležitému souostroví ustoupit?" # todo: NEW TRANSLATION
+ singapore.5.a: "Přenechat ostrovy" # todo: NEW TRANSLATION
+ singapore.5.b: "Odmítnout požadavek" # todo: NEW TRANSLATION
+ singapore.6.t: "Indonésie přenechává ostrovy" # todo: NEW TRANSLATION
+ singapore.6.d: "Indonésie nám přenechala [627.GetName]. Je to velké vítězství pro Singapur a jeho obyvatele." # todo: NEW TRANSLATION
+ singapore.6.a: "Skvělé" # todo: NEW TRANSLATION
+ singapore.7.t: "Indonésie odmítá ustoupení" # todo: NEW TRANSLATION
+ singapore.7.d: "Indonésie odmítla přenechání souostroví. Můžeme se stáhnout nebo eskalovat konflikt." # todo: NEW TRANSLATION
+ singapore.7.a: "Začíná krize Riauských ostrovů..." # todo: NEW TRANSLATION
+ singapore.8.t: "Riauské ostrovy mění majitele" # todo: NEW TRANSLATION
+ singapore.8.d: "Indonésie přenechala ostrovy vládě Singapuru." # todo: NEW TRANSLATION
+ singapore.8.a: "Zajímavý vývoj" # todo: NEW TRANSLATION
+ singapore.9.t: "Začíná krize Riauských ostrovů" # todo: NEW TRANSLATION
+ singapore.9.d: "Indonésie odmítla požadavky vlády Singapuru. Čas ukáže, co přesně z této hrozby v jihovýchodní Asii vzejde." # todo: NEW TRANSLATION
+ singapore.9.a: "Znepokojující..." # todo: NEW TRANSLATION
+ singapore.101.t: "Let Singapore Airlines 006" # todo: NEW TRANSLATION
+ singapore.101.d: "Před několika hodinami havaroval let 006 společnosti Singapore Airlines, při němž zemřelo osmdesát jedna z 179 cestujících. Tchajwanské úřady jsou na místě v Tchaj-peji, vyšetřují příčinu a provádějí záchranné operace pro přeživší." # todo: NEW TRANSLATION
+ singapore.101.a: "Vyšetřit leteckou společnost" # todo: NEW TRANSLATION
+ singapore.101.b: "Koho to zajímá?" # todo: NEW TRANSLATION
+ singapore.101.c: "Poslat finanční pomoc obětem" # todo: NEW TRANSLATION
+ singapore.101.e: "Poslat prostředky na Tchaj-wan na opravu letiště" # todo: NEW TRANSLATION
+ singapore.102.t: "Plán útoku na singapurské ambasády" # todo: NEW TRANSLATION
+ singapore.102.d: "Singapurská policie odhalila plán Jemaah Islamiyah na odpálení bomb v budovách velvyslanectví USA, Velké Británie, Austrálie a Izraele. Plán byl odhalen před několika týdny na základě udání informátora. V souvislosti s tímto spiknutím bylo zadrženo patnáct lidí." # todo: NEW TRANSLATION
+ singapore.102.a: "Popravit skupinu" # todo: NEW TRANSLATION
+ singapore.102.b: "Doživotní vězení" # todo: NEW TRANSLATION
+ singapore.103.t: "Spor o Pedra Branca" # todo: NEW TRANSLATION
+ singapore.103.d: "Pedra Branca je malý žulový výběžek v teritoriálních vodách Malajsie s majákem, který spravuje Singapur. Menší spory o suverenitu ostrova vedly v 90. letech k soudnímu řízení u Mezinárodního soudního dvora. Po téměř deseti letech se spory o Pedra Branca konečně uzavírají po mnoha kolech jednání a soudních přelíčení. Maják i ostrov jednoznačně patří Singapuru." # todo: NEW TRANSLATION
+ singapore.103.a: "Slavný den pro diplomacii" # todo: NEW TRANSLATION
+ singapore.104.t: "Tropická bouře Vamei" # todo: NEW TRANSLATION
+ singapore.104.d: "Tropická bouře Vamei přešla přes město. Infrastruktura byla většinou nepoškozena; letiště však utrpěla drobné škody a došlo k narušení řízení letového provozu." # todo: NEW TRANSLATION
+ singapore.104.d1: "Bouře Vamei se prohnala Malajským poloostrovem. V okolí Singapuru jsou škody: několik kilometrů od Kuala Lumpuru jsou oblasti zatopené a s poškozenými stromy." # todo: NEW TRANSLATION
+ singapore.104.a: "Opravit škody" # todo: NEW TRANSLATION
+ singapore.104.b: "Poskytnout další pomoc" # todo: NEW TRANSLATION
+ singapore.105.t: "Divadlo Esplanade" # todo: NEW TRANSLATION
+ singapore.105.d: "Dnes se koná slavnostní otevření divadla Esplanade. Komplex zahrnuje koncertní síň s kapacitou 1600 a divadlo pro 2000 diváků určené pro umělecká představení. Esplanade byl zadán Ministerstvem umění a kultury za účelem rozvoje kultury ve městě." # todo: NEW TRANSLATION
+ singapore.105.a: "Navštívit divadlo" # todo: NEW TRANSLATION
+ singapore.105.b: "Naplánovat akce" # todo: NEW TRANSLATION
+ singapore.106.t: "Vypuknutí viru SARS" # todo: NEW TRANSLATION
+ singapore.106.d: "V minulém týdnu se v našich nemocnicích objevil relativně nový nemoc. Virus SARS se rozšířil v nemocnici Tan Tock Seng a zasáhl několik set lidí. Brzy byl potlačen a jeho dopad byl krátce po vypuknutí omezen. Před tím, než se podařilo situaci zvládnout, si vyžádal několik úmrtí." # todo: NEW TRANSLATION
+ singapore.106.a: "Financovat nemocnici" # todo: NEW TRANSLATION
+ singapore.106.b: "Vyhlásit karanténu" # todo: NEW TRANSLATION
+ singapore.106.c: "Roušky jsou pro poražené" # todo: NEW TRANSLATION
+ singapore.107.t: "Otevření výzkumného centra Biopolis" # todo: NEW TRANSLATION
+ singapore.107.d: "Biopolis je výzkumné a vývojové centrum biomedicínských věd, které bylo otevřeno v oblasti one-North Buona Vista. Leží velmi blízko Národní univerzity Singapuru a dalších významných výzkumných a vývojových center. Kampus je věnován poskytování prostoru pro biomedicínský výzkum a vývoj ve městě." # todo: NEW TRANSLATION
+ singapore.107.a: "Skvělý den pro vědu" # todo: NEW TRANSLATION
+ singapore.107.b: "Další dotace výzkumnému centru" # todo: NEW TRANSLATION
+ singapore.108.t: "Goh Chok Tong odstupuje" # todo: NEW TRANSLATION
+ singapore.108.d: "Goh Chok Tong se rozhodl odstoupit z funkce premiéra a předat vedení Lee Hsien Loongovi. Lee Hsien Loong je syn bývalého premiéra Lee Kuan Yewa a je kariérním politikem. Přechod moci od Goh Chok Tonga k Lee Hsien Loongovi má vytvořit nový precedens v řízení Singapuru." # todo: NEW TRANSLATION
+ singapore.108.a: "Velký vůdce odstupuje" # todo: NEW TRANSLATION
+ singapore.109.t: "Zřícení na Nicoll Highway" # todo: NEW TRANSLATION
+ singapore.109.d: "Dnes došlo k nehodě na stavbě, při které se zhroutil tunel pro linku MRT. Nosné konstrukce v tunelu selhaly a propad zasáhl šest jízdních pruhů na Nicoll Highway. Při zřícení bylo hlášeno čtyři úmrtí a tři nezávažná zranění." # todo: NEW TRANSLATION
+ singapore.109.a: "Vyšetřit stavební firmu" # todo: NEW TRANSLATION
+ singapore.109.b: "Nic nedělat" # todo: NEW TRANSLATION
+ singapore.109.c: "Poskytnout prostředky pozůstalým a zavést přísnější dohled" # todo: NEW TRANSLATION
+ singapore.110.t: "Plovoucí plošina Marina Bay" # todo: NEW TRANSLATION
+ singapore.110.d: "Plovoucí plošina Marina Bay byla letos oficiálně otevřena pro pořádání sportovních a dalších akcí pro město. Ačkoliv měla být původně dočasná, zdá se, že se pomalu stává stálou." # todo: NEW TRANSLATION
+ singapore.110.a: "Odstranit financování plovoucí plošiny" # todo: NEW TRANSLATION
+ singapore.110.b: "Sponzorovat další akce" # todo: NEW TRANSLATION
+ singapore.110.c: "Hurá pro kulturu!" # todo: NEW TRANSLATION
+ singapore.111.t: "Poprava dvou Afričanů" # todo: NEW TRANSLATION
+ singapore.111.d: "Dva Afričané byli odsouzeni k trestu smrti za pašování drog. Mezinárodní výzvy o milost zůstaly nevyslyšeny, protože Singapur nadále prosazuje politiku trestání smrtí těch, kteří přivážejí drogy do města. Je to další ukázka autoritářství v zemi. Měli bychom těmto mužům udělit milost?" # todo: NEW TRANSLATION
+ singapore.111.a: "Udělte milost" # todo: NEW TRANSLATION
+ singapore.111.b: "Zákon je zákon" # todo: NEW TRANSLATION
+ singapore.112.t: "Singapurské Grand Prix" # todo: NEW TRANSLATION
+ singapore.112.d: "Singapurské Grand Prix se nekonalo od závodů Formula Libre v roce 1973. Letos se Grand Prix vrátilo do Singapuru. Singapore Tourism Board podepsal pětiletou smlouvu, aby závody zůstaly a vrátily Singapur do cyklu F1." # todo: NEW TRANSLATION
+ singapore.112.a: "F1 přináší zločin, přináší drogy." # todo: NEW TRANSLATION
+ singapore.112.b: "Skvělé! Více akcí ve městě!" # todo: NEW TRANSLATION
+ singapore.113.t: "Útěk Mas Selamat Kastari" # todo: NEW TRANSLATION
+ singapore.113.d: "Mas Selamat Kastari, údajný vůdce Jemaah Islamiyah, dnes unikl z detenčního centra Whitley Road. Příčina útěku je zahalena tajemstvím. Kastariho rodina ho v době útěku navštěvovala a on si poté řekl, že chce na záchod. Utekl strážím a nakonec uprchl. Gurkha Contingent, policie i armáda mu zatím nedokázaly nalézt stopu." # todo: NEW TRANSLATION
+ singapore.113.a: "Selhání policie..." # todo: NEW TRANSLATION
+ singapore.114.t: "50 let samosprávy" # todo: NEW TRANSLATION
+ singapore.114.d: "V roce 1965 se Singapur oddělil od Malajské federace. Letos uplynulo padesát let od tohoto rozdělení a Singapur může slavit půlkulaté výročí samosprávy. Je to skvělý den pro Singapur i pro všechny menší státy po celém světě." # todo: NEW TRANSLATION
+ singapore.114.a: "Lví město zůstává silné" # todo: NEW TRANSLATION
+ singapore.115.t: "Případ City Harvest Church" # todo: NEW TRANSLATION
+ singapore.115.d: "Případ City Harvest Church je největším trestním případem zpronevěry v Singapuru od začátku 21. století. Zakladatel Kong Hee byl shledán vinným z nesprávného použití zhruba padesáti milionů singapurských dolarů za pomoci klíčových církevních představitelů. Asi 24 milionů bylo investováno do falešných dluhopisů, aby financovalo popovou hudební kariéru jeho manželky. Zneužití prostředků vedlo k zatčení a odsouzení mnoha lidí za podvody a falšování účtů." # todo: NEW TRANSLATION
+ singapore.115.a: "Zasáhnout a získat si podíl" # todo: NEW TRANSLATION
+ singapore.115.b: "Den pro spravedlnost" # todo: NEW TRANSLATION
+ singapore.116.t: "Alan Shadrake odsouzen" # todo: NEW TRANSLATION
+ singapore.116.d: "Alan Shadrake je britský autor, který byl odsouzen za pohrdání soudem za očerňování singapurského soudního systému ve svých publikacích. Kniha `Singapore Justice in the Dock` útočila na a kritizovala singapurský soudní systém. Mezinárodně panuje názor, že bychom měli Alana propustit. Jak máme postupovat?" # todo: NEW TRANSLATION
+ singapore.116.a: "Propustit Alana" # todo: NEW TRANSLATION
+ singapore.116.b: "Uvalit na něj přísnější trest" # todo: NEW TRANSLATION
+ singapore.116.c: "Nechat rozhodnout porotu" # todo: NEW TRANSLATION
+ singapore.117.t: "Stávka čínských řidičů autobusů" # todo: NEW TRANSLATION
+ singapore.117.d: "Dnes vyvrcholilo rasové napětí první stávkou za posledních pětadvacet let. Čínští imigranti pracující jako řidiči autobusů protestují proti diskriminaci ve srovnání se svými malajskými a singapurskými kolegy. Tvrdí, že dostávají o třicet procent nižší mzdu než jejich protějšky. Stávka narušuje veřejnou dopravu ve městě a způsobuje čisté ztráty pro mnoho Singapurců." # todo: NEW TRANSLATION
+ singapore.117.a: "Poslat Gurkhy" # todo: NEW TRANSLATION
+ singapore.117.b: "Poskytnout podpůrné prostředky" # todo: NEW TRANSLATION
+ singapore.117.c: "Nic nedělat" # todo: NEW TRANSLATION
+ singapore.118.t: "Nepokoje v Little India" # todo: NEW TRANSLATION
+ singapore.118.d: "Nepokoje vypukly po smrtelné nehodě na křižovatce Race Course Road a Hampshire Road v oblasti Little India v Singapuru. K potlačení nepokojů byli nasazeni příslušníci Special Operations Command a Gurkha Contingent. Měli bychom postupovat tvrději, nebo nechat nasazení pokračovat tak, jak probíhá?" # todo: NEW TRANSLATION
+ singapore.118.a: "Vojenský zásah" # todo: NEW TRANSLATION
+ singapore.118.b: "Povolit policii použití smrtící síly" # todo: NEW TRANSLATION
+ singapore.118.c: "Nic nedělat" # todo: NEW TRANSLATION
+ singapore.119.t: "Nepokoje zahraničních pracovníků" # todo: NEW TRANSLATION
+ singapore.119.d: "Vládní rozhodnutí uvolnit kritéria pro udělení občanství migrujícím pracovníkům mělo vážné následky. Singapurci zahájili rozsáhlejší stávky a nepokoje proti vládě. Jak máme postupovat?" # todo: NEW TRANSLATION
+ singapore.119.a: "Důsledky mých činů" # todo: NEW TRANSLATION
+ singapore.119.b: "Zrušit migrační zákony" # todo: NEW TRANSLATION
+ singapore.120.t: "Demonstrace proti zahraničním pracovníkům" # todo: NEW TRANSLATION
+ singapore.120.d: "Vláda představila nový plán na zvýšení populace města uvolněním požadavků na občanství pro migrující pracovníky. Teoreticky by to zvýšilo migraci do městského státu, ale mohlo by to zatížit domorodé obyvatele Singapuru. Tisíce vyšly do ulic v pokojných protestech. Měli bychom ustoupit od našeho postoje?" # todo: NEW TRANSLATION
+ singapore.120.a: "Ustoupit" # todo: NEW TRANSLATION
+ singapore.120.b: "Pokračovat v nastavené cestě" # todo: NEW TRANSLATION
+ singapore.121.t: "Pomluva ohledně CPF" # todo: NEW TRANSLATION
+ singapore.121.d: "Singapurský premiér [SIN.GetLeader] podal žalobu na blogera Roy Ngernga za jeho kritické příspěvky. Je to poprvé, co město podalo právní žalobu proti online kritikovi. Blog obvinil [SIN.GetLeader] z pochybení v souvislosti se správou prostředků Centrálního penzijního fondu (CPF). CPF je centrální spoření na důchod pro Singapur a účast je povinná. Měli bychom kritika umlčet, nebo mu dovolit zveřejňovat?" # todo: NEW TRANSLATION
+ singapore.121.a: "Dovolit mu psát" # todo: NEW TRANSLATION
+ singapore.121.b: "Uvěznit ho" # todo: NEW TRANSLATION
+ singapore.122.t: "Stavba linky MRT" # todo: NEW TRANSLATION
+ singapore.122.d: "MRT Line je navrhovaná vysokokapacitní nákladní trať ke zmírnění přetížení stávající East West Line a měla by začínat v Changi na východním pobřeží Singapuru. Procházela by hlavními východními městskými částmi včetně Pasir Ris, Hougang a Ang Mo Kio. Trať měla být naplánována na 50 kilometrů a otevřena v roce 2030. Náklady pro město se odhadují na 57 miliard dolarů. Trať by však díky zvýšenému průtoku materiálu měla přinést čistý zisk až do výše 80 miliard dolarů." # todo: NEW TRANSLATION
+ singapore.122.a: "Zamítnout projekt" # todo: NEW TRANSLATION
+ singapore.122.b: "Schválit projekt" # todo: NEW TRANSLATION
+ singapore.123.t: "Smrt Lee Kuan Yewa" # todo: NEW TRANSLATION
+ singapore.123.d: "Lee Kuan Yew, první premiér Singapuru, dnes zemřel. Lee Kuan Yew podlehl těžké pneumonii poté, co se s ní téměř měsíc potýkal. [SIN.GetLeader] učinil oficiální prohlášení oznamující tuto ztrátu. Pohřeb bude v následujících týdnech organizován a hrazen státem. Očekává se, že se pohřbu zúčastní tisíce lidí ze všech částí města." # todo: NEW TRANSLATION
+ singapore.123.a: "Hrdina Singapuru" # todo: NEW TRANSLATION
+ singapore.124.t: "Podezřelí militantní členové Jemaah Islamiyah" # todo: NEW TRANSLATION
+ singapore.124.d: "Dnes bylo zadrženo patnáct podezřelých militantů z teroristické skupiny Jemaah Islamiyah. Měli u sebe zbraně, hotovost a další předměty, které naznačovaly přípravy na útok proti singapurské vládě. Jak máme postupovat?" # todo: NEW TRANSLATION
+ singapore.124.a: "Popravit je" # todo: NEW TRANSLATION
+ singapore.124.b: "Doživotní vězení" # todo: NEW TRANSLATION
+ singapore.125.t: "Snížení počtu zakázaných knih" # todo: NEW TRANSLATION
+ singapore.125.d: "V nepředvídaném kroku se Singapur rozhodl snížit počet zakázaných publikací ze 257 na 17. Změna povoluje některá komunistická a dospělá témata, ale nadále zakazuje publikace svědků Jehovových. Mezi některé z těchto knih patří \"Fanny Hill\" nebo \"The Long March\"." # todo: NEW TRANSLATION
+ singapore.125.a: "Zrušit zákaz všech" # todo: NEW TRANSLATION
+ singapore.125.b: "Parlament má pravdu" # todo: NEW TRANSLATION
+ singapore.126.t: "Zadržení osmi Bangladéšanů" # todo: NEW TRANSLATION
+ singapore.126.d: "Dnes ministerstvo vnitra zadrželo osm mužů z Bangladéše. Muži byli zatčeni v souvislosti s organizací Islamic State in Bangladesh (ISB) s úmyslem spáchat teroristické útoky v Bangladéši, případně svrhnout bangladéšskou vládu. Nebyly zjištěny plány na útok v Singapuru." # todo: NEW TRANSLATION
+ singapore.126.a: "Uložit trest smrti" # todo: NEW TRANSLATION
+ singapore.126.b: "Vydat do Bangladéše" # todo: NEW TRANSLATION
+ singapore.127.t: "Protest proti Halimah Yacob" # todo: NEW TRANSLATION
+ singapore.127.d: "Singapurci vyšly do ulic po nedávných prezidentských volbách. Halimah Yacob kandidovala bez protikandidáta, a proto mnozí věří, že se dostala k moci za korupčních okolností. Čtyři další potenciální kandidáti se ucházeli, ale byli odmítnuti. Moc úřadů v městském státě je již příliš dlouho nekontrolovaná." # todo: NEW TRANSLATION
+ singapore.127.a: "Nepodložené" # todo: NEW TRANSLATION
+ singapore.127.b: "Vyšetřit volební podvod" # todo: NEW TRANSLATION
+ singapore_alignment_help.0.t: "Nápověda k politickému zaměření Singapuru" # todo: NEW TRANSLATION
+ singapore_alignment_help.0.d: "Mechanika politického zaměření Singapuru má simulovat rozdělení mezi třemi různými frakcemi v rámci £SIN_conservatism People's Action Party (PAP). Níže uvedené interakce vám umožní ovlivnit zaměření strany. Různé zaměření vám otevře jedinečné rozhodnutí a možnosti v událostech během hraní za Singapur. Skriptované uživatelské rozhraní obsahuje nápovědy, které vysvětlují, co jednotlivé akce dělají." # todo: NEW TRANSLATION
+ singapore_alignment_help.0.a: "Dobře" # todo: NEW TRANSLATION
+ singapore_elections.0.t: "[GetYear] volby skončily" # todo: NEW TRANSLATION
+ singapore_elections.0.desc: "Další rok, další volby v tom skvělém městě Singapur." # todo: NEW TRANSLATION
+ singapore_elections.0.a: "Prozápadní klika zvítězila" # todo: NEW TRANSLATION
+ singapore_elections.0.b: "Vznikající klika zvítězila" # todo: NEW TRANSLATION
+ singapore_elections.0.c: "Nezařazená klika zvítězila" # todo: NEW TRANSLATION
+ singapore_elections.0.d: "Volby skončily" # todo: NEW TRANSLATION

@@ -1,0 +1,32 @@
+﻿l_english:
+ PRODUCTION_OPERATIONAL_ARMS_FACTORIES_LABEL: "Vojenské průmyslové provozy" # todo: NEW TRANSLATION
+ PRODUCTION_OPERATIONAL_FACTORIES_LABEL: "Civilní průmyslové provozy" # todo: NEW TRANSLATION
+ PRODUCTION_AVAILABLE_ARMS_FACTORIES_LABEL: "Dostupné vojenské průmyslové provozy" # todo: NEW TRANSLATION
+ PRODUCTION_AVAILABLE_FACTORIES_LABEL: "Dostupné civilní průmyslové provozy" # todo: NEW TRANSLATION
+ PRODUCTION_PRODUCING_NO_FACTORIES: "§RŽádné průmyslové provozy nepřiřazeny§!" # todo: NEW TRANSLATION
+ PRODUCTION_EFFICIENCY_DESC: "§TPřůměrná efektivita produkce průmyslu.\nEfektivita výroby se zvýší o $VALUE|H=2$% za jednotku vyrobenou, rovnoměrně rozdělena mezi aktivní průmyslové provozy.§!" # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_OIL: "Fosilní paliva" # todo: NEW TRANSLATION
+ oil_desc: "Fosilní paliva jsou nezbytná pro úspěch každé rozvinuté moderní ekonomiky. Zajištění tohoto zdroje je zásadní pro země 21. století." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_ALUMINIUM: "Lehké kovy" # todo: NEW TRANSLATION
+ aluminium_desc: "Lehké kovy jsou důležité pro stavbu specializovaných vozidel a letadel. Hliník je preferovaný hlavní kov používaný u vrtulníků a letadel, aby překonal gravitaci." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_RUBBER: "Guma" # todo: NEW TRANSLATION
+ rubber_desc: "Guma je důležitá pro stavbu většiny vozidel. Elastické vlastnosti jsou skvělé pro výrobu pneumatik a jiné průmyslové aplikace." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_TUNGSTEN: "Technologické kovy" # todo: NEW TRANSLATION
+ tungsten_desc: "Technologické kovy jsou hlavní surovinou pro výrobu pokročilých technologií. Nejmodernější zbraňové systémy a vybavení často rozhodují výsledek bitvy." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_STEEL: "Ocel" # todo: NEW TRANSLATION
+ steel_desc: "Ocel je primárním kovem pro většinu typů vojenské techniky, ať už jde o pozemní vozidla nebo lodě. Dlouhotrvající konflikty bez přístupu k tomuto zdroji učiní vaše vojenské průmyslové provozy téměř bezcennými." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_CHROMIUM: "Vzácné kovy" # todo: NEW TRANSLATION
+ chromium_desc: "Vzácné kovy, minerály a jiné vzácné prvky plní kritické role v moderních technologiích. Zlato, stříbro a diamanty jsou obzvlášť důležité jako zdroj příjmů pro destabilizované rozvojové regiony." # todo: NEW TRANSLATION
+ PRODUCTION_VEHICLES_BUTTON_NO_FACTORIES_DISABLED: "Máme §Ržádné vojenské průmyslové provozy!§!" # todo: NEW TRANSLATION
+ PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED: "Máme §Ržádné vojenské průmyslové provozy!§!" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS: "Daňové náklady" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS_LABEL: "§HDaňové náklady§!" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS_DESC: "Kvůli daním a různým politikám je $PERCENTAGE|H0%$ naší celkové ekonomiky (civilních průmyslových provozů) nedostupných. Zůstává nám $OPERATIONAL|H$ průmyslových provozů, z nichž $TRADE_USABLE|H$ lze použít pro obchod." # todo: NEW TRANSLATION
+ PRODUCTION_CIV_AND_MIL_FACTORIES: "Civilní a vojenské průmyslové provozy: $KEY|H$" # todo: NEW TRANSLATION
+ PRODUCTION_REQ_CONSUMER_GOODS_FACTORIES: "Požadovaný civilní průmysl: $KEY|H$" # todo: NEW TRANSLATION
+ PRODUCTION_WORKING_FACTORIES: "Toto je počet průmyslových provozů, které momentálně pracují na jedné z vašich výrobních linek." # todo: NEW TRANSLATION
+ PRODICTION_MIC_TRANSFERED: "$AMOUNT|Y$ našich průmyslových provozů využívá $OVERLORD|Y$." # todo: NEW TRANSLATION
+ PRODICTION_MIC_RECEIVED_FROM_SUBJECT: "$AMOUNT|Y$ vojenských průmyslových provozů je přijímáno od našich subjektů." # todo: NEW TRANSLATION
+ PRODICTION_MIC_SENT_TO_OVERLORD: "$AMOUNT|R$ našich vojenských průmyslových provozů bylo dáno našemu suzerénovi, a zůstalo nám pouze $LEFT|H$." # todo: NEW TRANSLATION
+ PRODUCTION_OUTPUT_EXPLAIN: "Naše $FACTORIES|Y$ £factory_item vojenské průmyslové provozy přispívají $OUTPUT|Y$ £production_cost.\n$ITEM|Y$ stojí $ITEM_COST|2Y$ £production_cost, což znamená, že můžeme vyrobit $PERTIMEPERIOD$.\n" # todo: NEW TRANSLATION
+ PRODUCTION_FILTER_ARMS_FACTORIES: "Použité vojenské průmyslové provozy" # todo: NEW TRANSLATION

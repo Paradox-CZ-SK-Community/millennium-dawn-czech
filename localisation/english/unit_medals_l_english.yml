@@ -1,331 +1,206 @@
 ﻿l_english:
- ADD_MEDAL_DESC: "Chcete udělit následující vyznamenání?\n\n$MEDAL_NAME|H$\n\nBude to stát £pol_power $COST|H$."
- ADD_MEDAL_TITLE: "Udělit vyznamenání"
- AIRFIELD_HISTORY: "Zajistil letiště v $PROVINCE$."
- ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HZískávání zkušeností polního důstojníka§!\nPolní důstojník získává zkušenosti rychlostí $MULT|%H$ oproti obvyklé.\n\nKaždé vyznamenání udělené této divizi zvyšuje zisk zkušeností o $PER_MEDAL|%H$."
- ASSIGN_MEDAL_TOOLTIP: "§HUdělit vyznamenání§!\n\nKliknutím udělíte veliteli této jednotky vyznamenání za tuto akci."
- AUS_medal_1: "Kruckenkreuz"
- AVAILABLE_TRAITS_BUT_CANNOT_HAS: "Pokud by měl alespoň $REQUIRED|H0$ zkušeností (nyní: $CURRENT|R0$), získal by při povýšení jednu z následujících vlastností:\n$LIST|H$\n\nMůžete jej povýšit i tak, ale §Rnebude udělena žádná vlastnost§!."
- AVAILABLE_TRAITS_CAN_HAS: "Pokud bude povýšen, získá jednu z následujících vlastností:\n$LIST|H$"
- BASE_MEDAL_TYPE: "Kliknutím udělte §H $TYPE$§! vyznamenání veliteli této divize. Pokud bude povýšen z jednotky, vyznamenání s ním půjdou."
- CANNOT_AWARD_TO_EXPEDITIONARY: "Tuto akci nelze provést u expedčních jednotek"
- CAPITAL_HISTORY: "Účastnil se okupace $PROVINCE$, bývalého sídla vlády $SUBJECT$."
- CHL_orden_el_sol_del_peru: "Orden El Sol del Perú"
- CHOOSE_DIVISIONAL_LEADER: "Polní důstojníci"
- COMBINED_MEDAL_EFFECTS: "Naše $TYPE|H$ vyznamenání nám přinášejí:"
- COMBINED_MEDAL_EFFECTS_LEADER: "§HPolní vyznamenání§!\n\n"
- COMMANDER_PROMOTED_HISTORY: "Velitel $SUBJECT$ byl povýšen v poli v $PROVINCE$."
- COMMANDER_ROSTER_DIVISION_BUTTON: "Důstojníci"
- COMMANDER_ROSTER_DIVISION_TOOLTIP: "§HDůstojníci§!"
- COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci v poli vedou jednotky pod vaším velením. Mohou být povýšeni na generály, jakmile oni i jejich jednotka dosáhnou určité §HZkušenostní§! úrovně."
- COMMANDER_TITLE_TEXT_DIVISION: "Důstojník"
- COMMANDING_DIVISION: "$UNIT$"
- CONQUERED_PROVINCE_HISTORY: "Zajistil $PROVINCE$ před $SUBJECT$ jednotkami."
- CORE_LIBERATED_HISTORY: "Napochodoval do $PROVINCE$ a osvobodil naše lidi od útlaku $SUBJECT$."
- DETAILS_ENTRIES: "Detaily"
- DETAILS_ENTRIES_VALUE: "Detaily ($VALUE$)"
- DIVISIONAL_COMMAND_DIVISION_PENALTY: "Veteránství této divize bude sníženo o $RESULT|%H$."
- DIVISIONAL_COMMAND_EXTRA_EXPERIENCE: "Získává $VALUE|H0$ zkušenosti při povýšení.\n\n"
- DIVISIONAL_COMMAND_PROMOTE_COST: "\nTato akce by stála £command_power $COST|H$."
- DIVISION_COMMANDER_EXPERIENCE_SORT: "Zkuš."
- DIVISION_COMMANDER_GENERAL_CACHE_TOOLTIP: ""
- DIVISION_COMMANDER_MEDALS_SORT: "Vyznamenání"
- DIVISION_COMMANDER_NOT_AT_MAX_RANK: "£trigger_no Divize musí mít alespoň zkušenostní hodnost $RANK$."
- DIVISION_COMMANDER_NOT_ENOUGH_COMMAND_POWER: "\n£trigger_no Nedostatek velitelské síly."
- DIVISION_COMMANDER_NOT_WHEN_VOLUNTEERS: "£trigger_no Tuto akci nelze provést u dobrovolníků."
- DIVISION_COMMANDER_TOTAL_EXPERIENCE_SORT: "Zkušenost"
- DIVISION_COMMANDER_TYPE_SORT: "Typ"
- DIVISION_DETAILS: "Detaily"
- DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Brigádní generál"
- DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Brigádní generál"
- DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Generálmajor"
- DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Generálmajor"
- DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Generálporučík"
- DIVISION_EXPERIENCE_TITLE_DEFAULT: "Důstojník"
- DIV_COMMAND_ITEM_DETAILS: "$COMMANDER|H$\nVelí $UNIT|g$\n\n"
- DIV_COMMAND_XP_TOOLTIP: "§HZkušenost důstojníka§!\n\nTento velitel by získal $XP|H0$ XP, kdyby byl povýšen na armádního generála."
- ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Asmacc"
- ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Grasmacc"
- ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Cagnasasmacc"
- ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Fitaurari"
- ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Degiacc"
- ETH_gold_medal: "Zlatá medaile"
- ETH_military_medal_democratic_communist: "Vojenská záslužná medaile"
- ETH_military_medal_gugsa: "Vojenská záslužná medaile Haile Selassie Gugsu"
- ETH_military_medal_haile_selassie: "Vojenská záslužná medaile císaře Haile Selassieho I."
- ETH_military_medal_haymanot: "Vojenská záslužná medaile krále Hailu Tekle Haymanota"
- ETH_military_medal_jofir: "Vojenská záslužná medaile sultána Abba Jofira"
- ETH_order_of_st_george: "Vojenský řád za zásluhy sv. Jiří"
- ETH_order_of_the_grand_star: "Řád Velké hvězdy cti socialistické Etiopie"
- ETH_silver_medal: "Stříbrná medaile"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Prikaatikenraali"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Prikaatikenraali"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Kenraalimajuri"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Kenraalimajuri"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Kenraaliluutnantti"
- FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Gen de Brigade"
- FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Gen de Brigade"
- FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Gen de Division"
- FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Gen de Division"
- FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Gen de Corps d'Armée"
- FROM_EFFECTS_DIVC: "\nZa udělení medaile:"
- FURTHER_MULT_DIVC: "Následující modifikátory jsou pak aplikovány:"
- GAINED_XP_DIVC: "$VALUE|0$"
- GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Generalmajor"
- GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Generalmajor"
- GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Generalleutnant"
- GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Generalleutnant"
- GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Gen. der Waffengatung"
- GER_eben_emael_entry: "Účastnil se německého nájezdu na Eben Emael"
- GRANT_CITATION: "§HUdělit vyznamenání§!\n\nKlikněte pro výběr vyznamenání, které udělíte veliteli."
- HIGH_VP_HISTORY: "Účastnil se obléhání $PROVINCE$."
- HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Opravdu chcete povýšit $CHARACTER$ do hodnosti generála?\n\nTím se resetuje zkušenost této divize a bude nás to stát\n$COST|H$ £command_power."
- HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Povýšit důstojníka v poli"
- HISTORY_ENTRY_LABEL: "Historie velení"
- HISTORY_EXPERIENCE_COUNT_TEXT: "Zkušenost důstojníka: $VALUE|H0$"
- HISTORY_KILL_COUNT_TEXT: "Utrpěné ztráty: $VALUE|R$"
- HISTORY_PROVINCE_LIST_TWO_ITEMS: "$FIRST$ a $SECOND$"
- HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_LATTER_SEPARATOR: ", a "
- HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR: ", "
- HUN_medal_10: "Maďarská stříbrná vojenská záslužná medaile s meči"
- HUN_medal_1: "Medaile za statečnost"
- HUN_medal_2: "Magyar Szent István Rend"
- HUN_medal_3: "Řád svatého Štěpána"
- HUN_medal_4: "Řád za zásluhy Maďarska"
- HUN_medal_5: "Vojenský řád Marie Terezie"
- HUN_medal_6: "Rytíř Zlaté ostruhy"
- HUN_medal_7: "Pamětní medaile na Transylvánii"
- HUN_medal_8: "Stříbrná záslužná medaile Miklóse Toldiho"
- HUN_medal_9: "Maďarská velká zlatá vojenská záslužná medaile"
- INSTANCED_MEDALS: "Vyznamenání:"
- INVASION_SUCCESS_HISTORY: "Jako první vstoupil na pláže při vylodění v $PROVINCE$."
- ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Gen di Brigata"
- ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Gen di Divisione"
- ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Gen di Divisione"
- ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Gen di Corpo d'Armata"
- ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Generale d'Armata"
- JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Rikugun-šóšó"
- JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Rikugun-šóšó"
- JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Rikugun-čúdžó"
- JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Rikugun-čúdžó"
- JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Rikugun-čúdžó"
- LEADER_MODIFIER_MEDALS: "Pokud §Hgenerál§!:"
- MEDAL_COMBINED_DESCRIPTION: "$DESC|L$"
- MEDAL_COMBINED_NAME: "$TYPE$\n§LUděleno za akci v $LOCATION$§!"
- MEDAL_COMBINED_NAME_CASUALTIES: "Statečný $TYPE$"
- MEDAL_COST_ADDITIONAL_PER_MEDAL: "Toto se vynásobí počtem $VALUE|H$ vyznamenání."
- MEDAL_COST_BASE: "Základní cena: £pol_power $VALUE|H$"
- MEDAL_COST_TITLE: "§HCena udělení medaile§!\n"
- MEDAL_COST_TOTAL: "Celková cena: £pol_power $VALUE|H$\n\nRozpis:"
- MEDAL_COST_UI_NEG: "£pol_power $VALUE|R$"
- MEDAL_COST_UI_POS: "£pol_power $VALUE|H$"
- MEDAL_EFFECTS_TOOLTIP_DELAYED: "Účinky udělení více medailí stejného typu se snižují vlivem klesajících výnosů."
- MEDAL_NAME_TITLE: "§H$TITLE$§!"
- NEW_COMMANDER_HISTORY: "$SUBJECT$ byl jmenován novým velitelem."
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Brigader"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Brigader"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Generalmajor"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Generalmajor"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Generalløytnant"
- NO_AVAILABLE_TRAITS: "Tento velitel nemůže získat žádné platné rysy při povýšení."
- NO_AWARDABLE_HISTORY_ENTRIES: "Nejsou platné záznamy historie, za které by bylo možné udělit vyznamenání"
- NUM_OF_MEDALS_UI: "x$VALUE$"
- PARADROP_HISTORY: "Úspěšně provedl výsadek v $PROVINCE$ před hlavním nasazením."
- PROMOTE: "Povýšit"
- PROMOTED_FROM_TOOLTIP_DESC: "$NAME$ byl povýšen do hodnosti generála po úspěšné polní kariéře při velení $DATA$."
- PROVINCE_LIBERATED_HISTORY: "Osvobodil $PROVINCE$ jménem $TARGET_COUNTRY$."
- RAID_HISTORY: "Účastnil se nájezdu na $PROVINCE$"
- RECEIVED_MANY_CASUALTIES_HISTORY: "Udržela postavení navzdory obrovským ztrátám při plnění povinností."
- SHOW_UNIT_MEDALS_TOGGLE: "§HDivizní vyznamenání§!\n\nTato postava získala vyznamenání během velení divizi v poli. Klikněte sem pro zobrazení."
- SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "General-major"
- SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "General-lejtenant"
- SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "General-lejtenant"
- SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "General-polkovnik"
- SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Maršal rodu vojsk"
- SWE_medal_1: "Záslužná medaile"
- SWE_winter_drill_entry: "Zúčastnil se švédského zimního cvičení"
- UNIT_KILL_HISTORY: "Dovedl k kapitulaci $SUBJECT$ během bitvy o $PROVINCE$."
- UNIT_MEDALS: "Polní vyznamenání"
- UNIT_MODIFIER_MEDALS: "Pokud §Hvelitel jednotky§!:"
- UNIT_RENAMED_HISTORY: "Změnil označení pluku na $SUBJECT$."
- UNIT_STATS_HISTORY_TAB: "Historie"
- UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HPovýšit důstojníka v poli§!\n\n"
- USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Brigádní generál"
- USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Brigádní generál"
- WAS_ON_OPERATION_EXCELLED_HISTORY: "Vyznamenán za mimořádnou odvahu v $SUBJECT$."
- WAS_ON_OPERATION_HISTORY: "Byla vyznamenána za dlouhodobé působení v $SUBJECT$."
- battle_merit_medal: "Medaile za bojové zásluhy"
- bronze_star: "Bronzová hvězda"
- carabineros_medal_of_chile: "Medaile Carabineros de Chile"
- chilean_medal_of_valor: "Medaile za statečnost"
- chilean_order_of_merit: "Řád za zásluhy Chile - hodnost velkodůstojníka"
- combatants_cross: "Kříž bojovníka"
- communist_grand_star: "Velká hvězda"
- communist_hero_of_revolution: "Hrdina revoluce"
- communist_medallion: "Medaile"
- communist_merit_medal: "Medaile za vojenské zásluhy"
- communist_pin: "Odznak"
- communist_red_star: "Rudá hvězda"
- communist_service_medal: "Medaile za záslužnou službu"
- communist_star: "Rudá hvězda"
- cross: "Kříž"
- cross_of_liberty: "Kříž svobody"
- cross_of_military_valor: "Kříž za vojenskou statečnost"
- deltagermedaljen: "Deltagermedaljen"
- democratic_cross: "Kříž"
- democratic_gallantry: "Medaile za chrabrost"
- democratic_honor: "Řád čestné legie"
- democratic_lion: "Řád lva"
- democratic_medal: "Medaile"
- democratic_red_cross: "Kříž za statečnost"
- democratic_star: "Hvězda"
- democratic_war_cross: "Válečný kříž"
- dispatches_oak_leaves: "Dubové listy (za zmínku ve zprávách)"
- distinguished_service_cross: "Kříž za záslužnou službu"
- distinguished_service_order: "Řád za záslužnou službu"
- fascism_bravery: "Medaile za statečnost"
- fascism_cross: "Kříž"
- fascism_heroism: "Kříž za hrdinství"
- fascism_iron_cross: "Železný kříž"
- fascism_medal: "Medaile"
- fascism_merit: "Vojenský záslužný kříž"
- fascism_order_brave: "Řád statečných"
- fascism_star: "Hvězda"
- folketskors: "Norský lidový kříž"
- golden_kite: "Řád Zlatého draka"
- grand_cross: "Velkokříž"
- haakon_viis_70arsmedalje: "Pamětní medaile k 70. narozeninám krále Haakona VII."
- haakon_viis_frihetskors: "Kříž svobody Haakona VII."
- haakon_viis_frihetsmedalje: "Medaile svobody Haakona VII."
- hero_of_the_soviet_union: "Hrdina Sovětského svazu"
- iron_cross: "Železný kříž"
- iron_cross_second_class: "Železný kříž II. třídy"
- knight_cross_of_the_southern_constellation: "Rytířský kříž řádu Jižního souhvězdí"
- knights_cross: "Rytířský kříž"
- knights_cross_oak_leaves: "Rytířský kříž (s dubovými listy)"
- knights_cross_of_the_legion_of_the_southern_constellation: "Rytířský kříž legie řádu Jižního souhvězdí"
- knights_cross_swords_and_diamonds: "Rytířský kříž (s meči a brilianty)"
- krigskorset: "Krigskorset"
- krigsmedaljen: "Krigsmedaljen"
- legion_of_honor: "Řád čestné legie"
- legion_of_merit_of_chile: "Řád za zásluhy Chile"
- mannerheim_cross: "Mannerheimův kříž"
- medal: "Medaile"
- medal_of_honor: "Medaile cti"
- medalla_combatiente_pu_mapuche: "Medaile bojovníka Weychafe Pu Mapuche"
- medalla_meli_witran_mapu: "Medaile Meli Witran Mapu"
- medallion: "Medaile"
- military_medal_of_honor: "Vojenská medaile cti"
- neutral_bravery: "Kříž za statečnost"
- neutral_military_order: "Vojenský řád"
- neutral_sword: "Řád meče"
- neutral_virtue: "Řád vojenské ctnosti"
- noble_and_royal_order_of_the_southern_star: "Komandérský kříž Ušlechtilého a královského řádu Jižní hvězdy"
- norgeskors: "Norgeskors"
- norwegian_defense_cross_of_honor: "Norský obranný kříž cti"
- order_british_empire: "Řád britského impéria"
- order_of_bernardo_o_higgins: "Řád Bernarda O'Higginse"
- order_of_chrysanthemum: "Řád chryzantémy"
- order_of_kutuzov: "Řád Kutuzova"
- order_of_liberation: "Řád osvobození"
- order_of_savoy_fifth: "Řád savojský V. třídy"
- order_of_savoy_first: "Řád savojský I. třídy"
- order_of_the_civil_union: "Hrdina dánské občanské unie"
- order_of_the_dannebrog: "Řád Dannebrog"
- order_of_the_lion: "Řád lva"
- order_of_the_red_banner: "Řád rudého praporu"
- order_of_the_red_star_finland: "Řád rudé hvězdy"
- order_of_the_white_rose: "Řád bílé růže"
- royal_order_of_the_steel_crown: "Komandérský kříž Královského řádu ocelové koruny"
- sacred_treasure: "Řád posvátného pokladu"
- silver_star: "Stříbrná hvězda"
- st_olavsmedaljen: "Řád svatého Olava"
- star: "Hvězda"
- victoria_cross: "Viktoriin kříž"
- war_cross: "Válečný kříž"
- war_merit_cross: "Válečný záslužný kříž"
- yug_extreme_bravery: "Medaile za mimořádnou statečnost"
- CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- HBC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- HBC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- HBC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- HBC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- HBC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- SND_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- SND_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- SND_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- SND_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- SND_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- SHX_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- SHX_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- SHX_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- SHX_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- SHX_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- NXM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- NXM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- NXM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- NXM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- NXM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- GSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- GSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- GSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- GSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- GSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- XSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- XSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- XSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- XSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- XSM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- KHM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- KHM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- KHM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- KHM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- KHM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- SIK_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- SIK_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- SIK_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- SIK_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- SIK_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- KUM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- KUM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- KUM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- KUM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- KUM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- XIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- XIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- XIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- XIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- XIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- SIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- SIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- SIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- SIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- SIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- YUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- YUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- YUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- YUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- YUN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- GXC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- GXC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- GXC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- GXC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- GXC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Šaosiao"
- GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Čung-siao"
- GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Šang-siao"
- GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Šao-ťiang"
- GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Čung-ťiang"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Ředitel politického oddělení"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Politický komisař"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Náčelník štábu"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Hlavní politický komisař"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Vrchní velitel"
- great_east_asia_war_medal: "Medaile Velké východoasijské války"
- order_of_the_rising_sun: "Řád vycházejícího slunce"
- order_of_the_paulownia_flowers: "Řád paulovniových květů"
- genghis_khan_military_merit_badge: "Vyznamenání Čingischána za vojenské zásluhy"
+ DIVISION_EXPERIENCE_TITLE_DEFAULT:0 "Důstojník" # todo: NEW TRANSLATION
+ DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Brigádní generál" # todo: NEW TRANSLATION
+ DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generálmajor" # todo: NEW TRANSLATION
+ DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generálporučík" # todo: NEW TRANSLATION
+ DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Generál" # todo: NEW TRANSLATION
+ USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Brigádní generál" # todo: NEW TRANSLATION
+ USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generálmajor" # todo: NEW TRANSLATION
+ USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generálporučík" # todo: NEW TRANSLATION
+ USA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Generál" # todo: NEW TRANSLATION
+ GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Brigádní generál" # todo: NEW TRANSLATION
+ GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generálmajor" # todo: NEW TRANSLATION
+ GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generálporučík" # todo: NEW TRANSLATION
+ GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Generál" # todo: NEW TRANSLATION
+ FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Brigádní generál" # todo: NEW TRANSLATION
+ FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generál divize" # todo: NEW TRANSLATION
+ FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generál sboru" # todo: NEW TRANSLATION
+ FRA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Generál armády" # todo: NEW TRANSLATION
+ JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Ittō rikusa" # todo: NEW TRANSLATION
+ JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Rikushō-ho" # todo: NEW TRANSLATION
+ JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Rikushō" # todo: NEW TRANSLATION
+ JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Rikushō" # todo: NEW TRANSLATION
+ JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Bakuryōchō-taru-rikushō" # todo: NEW TRANSLATION
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Generálmajor" # todo: NEW TRANSLATION
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generálporučík" # todo: NEW TRANSLATION
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generálplukovník" # todo: NEW TRANSLATION
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Maršál rodu vojsk" # todo: NEW TRANSLATION
+ ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Plukovník" # todo: NEW TRANSLATION
+ ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Brigádní generál" # todo: NEW TRANSLATION
+ ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Generál divize" # todo: NEW TRANSLATION
+ ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Generál sboru" # todo: NEW TRANSLATION
+ ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Generál armády" # todo: NEW TRANSLATION
+ CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Shang xiao" # todo: NEW TRANSLATION
+ CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Da xiao" # todo: NEW TRANSLATION
+ CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Shao jiang" # todo: NEW TRANSLATION
+ CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Zhong jiang" # todo: NEW TRANSLATION
+ CHI_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Shang jiang" # todo: NEW TRANSLATION
+ UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE:0 "§HPovýšit polního důstojníka§!\n\n" # todo: NEW TRANSLATION
+ HIRED_NEW_DIVISIONAL_GENERAL_TITLE:0 "Povýšit polního důstojníka" # todo: NEW TRANSLATION
+ HIRED_NEW_DIVISIONAL_GENERAL_DESC:0 "Opravdu chcete povýšit $CHARACTER$ na hodnost generála?\n\nTím se resetuje zkušenost této divize a bude nás to stát\n$COST|H$ £command_power." # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_NOT_AT_MAX_RANK:0 "£trigger_no Divize musí mít minimálně zkušenostní hodnost $RANK$." # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_NOT_WHEN_VOLUNTEERS:0 "£trigger_no Tuto akci nelze provést na dobrovolnících." # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_NOT_ENOUGH_COMMAND_POWER:0 "\n£trigger_no Nedostatek příkazové síly." # todo: NEW TRANSLATION
+ COMMANDING_DIVISION:0 "$UNIT$" # todo: NEW TRANSLATION
+ CHOOSE_DIVISIONAL_LEADER:0 "Polní důstojníci" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_DIVISION_BUTTON:0 "Důstojníci" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_DIVISION_TOOLTIP:0 "§HDůstojníci§!" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED:0 "Důstojníci jsou ti, kteří velejí jednotkám pod vaším velením. Mohou být povýšeni na generály, jakmile oni a jejich jednotka dosáhnou určité hranice §Hzkušeností§!." # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_EXPERIENCE_SORT:0 "Zkuš." # todo: NEW TRANSLATION
+ PROMOTED_FROM_TOOLTIP_DESC:0 "$NAME$ byl povýšen do hodnosti generála po úspěšné polní kariéře vedení $DATA$." # todo: NEW TRANSLATION
+ NO_AVAILABLE_TRAITS:0 "Tento velitel při povýšení nezíská žádné platné rysy." # todo: NEW TRANSLATION
+ AVAILABLE_TRAITS_BUT_CANNOT_HAS:0 "S alespoň $REQUIRED|H0$ zkušenostmi (Současné: $CURRENT|R0$) by při povýšení získal jeden z následujících:\n$LIST|H$\n\nStále je možné povýšit, ale §Ržádný rys nebude udělen§!." # todo: NEW TRANSLATION
+ AVAILABLE_TRAITS_CAN_HAS:0 "Při povýšení získá jeden z následujících:\n$LIST|H$" # todo: NEW TRANSLATION
+ DIVISIONAL_COMMAND_PROMOTE_COST:0 "\nTato akce by stála £command_power $COST|H$." # todo: NEW TRANSLATION
+ COMMANDER_TITLE_TEXT_DIVISION:0 "Důstojník" # todo: NEW TRANSLATION
+ PROMOTE:0 "Povýšit" # todo: NEW TRANSLATION
+ UNIT_STATS_HISTORY_TAB:0 "Historie" # todo: NEW TRANSLATION
+ HISTORY_ENTRY_LABEL:0 "Historie velení" # todo: NEW TRANSLATION
+ CONQUERED_PROVINCE_HISTORY:0 "Zajistil $PROVINCE$ od sil $SUBJECT$." # todo: NEW TRANSLATION
+ UNIT_KILL_HISTORY:0 "Zorganizoval kapitulaci $SUBJECT$ během bitvy o $PROVINCE$." # todo: NEW TRANSLATION
+ COMMANDER_PROMOTED_HISTORY:0 "Velící důstojník $SUBJECT$ obdržel polní povýšení v $PROVINCE$." # todo: NEW TRANSLATION
+ NEW_COMMANDER_HISTORY:0 "$SUBJECT$ byl jmenován novým velícím důstojníkem." # todo: NEW TRANSLATION
+ INVASION_SUCCESS_HISTORY:0 "Byl první na plážích při vylodění v $PROVINCE$." # todo: NEW TRANSLATION
+ PROVINCE_LIBERATED_HISTORY:0 "Osvobodil $PROVINCE$ jménem $TARGET_COUNTRY$." # todo: NEW TRANSLATION
+ CORE_LIBERATED_HISTORY:0 "Vkročil do $PROVINCE$ a osvobodil naše lidi od útlaku $SUBJECT$." # todo: NEW TRANSLATION
+ HIGH_VP_HISTORY:0 "Podílel se na obléhání $PROVINCE$." # todo: NEW TRANSLATION
+ HISTORY_KILL_COUNT_TEXT:0 "Utrpěné ztráty: $VALUE|R$" # todo: NEW TRANSLATION
+ AIRFIELD_HISTORY:0 "Obsadil letiště v $PROVINCE$." # todo: NEW TRANSLATION
+ CAPITAL_HISTORY:0 "Podílel se na okupaci $PROVINCE$, bývalého sídla vlády $SUBJECT$." # todo: NEW TRANSLATION
+ PARADROP_HISTORY:0 "Úspěšně provedl výsadek padáky do $PROVINCE$ před hlavním nasazením." # todo: NEW TRANSLATION
+ UNIT_RENAMED_HISTORY:0 "Změnil označení pluku na $SUBJECT$." # todo: NEW TRANSLATION
+ WAS_ON_OPERATION_HISTORY:0 "Byl oceněn za pokračující činnost v $SUBJECT$." # todo: NEW TRANSLATION
+ WAS_ON_OPERATION_EXCELLED_HISTORY:0 "Oceněn za výjimečnou statečnost v $SUBJECT$." # todo: NEW TRANSLATION
+ DIVISION_DETAILS:0 "Podrobnosti" # todo: NEW TRANSLATION
+ MEDAL_COMBINED_NAME:0 "$TYPE$\n§LUdělena za akci v $LOCATION$§!" # todo: NEW TRANSLATION
+ MEDAL_COMBINED_DESCRIPTION:0 "$DESC|L$" # todo: NEW TRANSLATION
+ INSTANCED_MEDALS:0 "Ocenění:" # todo: NEW TRANSLATION
+ ASSIGN_MEDAL_TOOLTIP:0 "§H Udělit ocenění§!\n\nKlikněte pro udělení ocenění velícímu této jednotky za tuto akci." # todo: NEW TRANSLATION
+ BASE_MEDAL_TYPE:0 "Klikněte pro udělení §H$TYPE$§! ocenění velícímu této divize. Pokud budou povýšeni z jednotky, medaile si odnesou s sebou." # todo: NEW TRANSLATION
+ DETAILS_ENTRIES_VALUE:0 "Podrobnosti ($VALUE$)" # todo: NEW TRANSLATION
+ DETAILS_ENTRIES:0 "Podrobnosti" # todo: NEW TRANSLATION
+ UNIT_MEDALS:0 "Polní ocenění" # todo: NEW TRANSLATION
+ MEDAL_NAME_TITLE:0 "§H$TITLE$§!" # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_MEDALS_SORT:0 "Ocenění" # todo: NEW TRANSLATION
+ MEDAL_COST_BASE:0 "Základní cena: £pol_power $VALUE|H$" # todo: NEW TRANSLATION
+ MEDAL_COST_ADDITIONAL_PER_MEDAL:0 "To se následně vynásobí $VALUE|H$ vzhledem k aktuálnímu počtu medailí." # todo: NEW TRANSLATION
+ MEDAL_COST_TOTAL:0 "Celkové náklady: £pol_power $VALUE|H$\n\nRozpis:" # todo: NEW TRANSLATION
+ MEDAL_COST_UI_POS:0 "£pol_power $VALUE|H$" # todo: NEW TRANSLATION
+ MEDAL_COST_UI_NEG:0 "£pol_power $VALUE|R$" # todo: NEW TRANSLATION
+ ADD_MEDAL_TITLE:0 "Udělit ocenění" # todo: NEW TRANSLATION
+ ADD_MEDAL_DESC:0 "Chcete udělit následující ocenění?\n\n$MEDAL_NAME|H$\n\nBude nás to stát £pol_power $COST|H$." # todo: NEW TRANSLATION
+ MEDAL_COST_TITLE:0 "§HNáklady na udělení medaile§!\n" # todo: NEW TRANSLATION
+ SHOW_UNIT_MEDALS_TOGGLE:0 "§HDivizní ocenění§!\n\nTento velitel získal ocenění při velení divizi v poli. Klikněte sem pro zobrazení." # todo: NEW TRANSLATION
+ UNIT_MODIFIER_MEDALS:0 "Pokud §Hvelitel jednotky§!:" # todo: NEW TRANSLATION
+ LEADER_MODIFIER_MEDALS:0 "Pokud §Hgenerál§!:" # todo: NEW TRANSLATION
+ NUM_OF_MEDALS_UI:0 "x$VALUE$" # todo: NEW TRANSLATION
+ COMBINED_MEDAL_EFFECTS:0 "Naše $TYPE|H$ ocenění nám udělují:" # todo: NEW TRANSLATION
+ MEDAL_EFFECTS_TOOLTIP_DELAYED:0 "Modifikátory za udělení více výskytů stejného typu ocenění podléhají klesajícím výnosům." # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_GENERAL_CACHE_TOOLTIP:0 "" # todo: NEW TRANSLATION
+ COMBINED_MEDAL_EFFECTS_LEADER:0 "§HPolní ocenění§!\n\n" # todo: NEW TRANSLATION
+ CANNOT_AWARD_TO_EXPEDITIONARY:0 "Tuto akci nelze provést na expedičních jednotkách" # todo: NEW TRANSLATION
+ NO_AWARDABLE_HISTORY_ENTRIES:0 "Žádné platné záznamy z historie pro udělení ocenění" # todo: NEW TRANSLATION
+ star:0 "Hvězda" # todo: NEW TRANSLATION
+ cross:0 "Kříž" # todo: NEW TRANSLATION
+ medallion:0 "Medailon" # todo: NEW TRANSLATION
+ iron_cross:0 "Železný kříž" # todo: NEW TRANSLATION
+ medal:0 "Medaile" # todo: NEW TRANSLATION
+ grand_cross:0 "Velkokříž" # todo: NEW TRANSLATION
+ fascism_medal:0 "Medaile" # todo: NEW TRANSLATION
+ fascism_cross:0 "Kříž" # todo: NEW TRANSLATION
+ fascism_star:0 "Hvězda" # todo: NEW TRANSLATION
+ fascism_iron_cross:0 "Železný kříž" # todo: NEW TRANSLATION
+ democratic_star:0 "Hvězda" # todo: NEW TRANSLATION
+ democratic_medal:0 "Medaile" # todo: NEW TRANSLATION
+ democratic_cross:0 "Kříž" # todo: NEW TRANSLATION
+ democratic_red_cross:0 "Kříž statečnosti" # todo: NEW TRANSLATION
+ communist_medallion:0 "Medailon" # todo: NEW TRANSLATION
+ communist_pin:0 "Odznak" # todo: NEW TRANSLATION
+ communist_grand_star:0 "Velká hvězda" # todo: NEW TRANSLATION
+ communist_star:0 "Červená hvězda" # todo: NEW TRANSLATION
+ deployment_medal:0 "Pamětní medaile nasazení německých ozbrojených sil" # todo: NEW TRANSLATION
+ combat_action:0 "Medaile za bojové akce Bundeswehru" # todo: NEW TRANSLATION
+ badge_of_honor:0 "Odznak cti Bundeswehru" # todo: NEW TRANSLATION
+ cross_of_valor:0 "Kříž cti Bundeswehru za statečnost" # todo: NEW TRANSLATION
+ bronze_star:0 "Bronzová hvězda" # todo: NEW TRANSLATION
+ silver_star:0 "Stříbrná hvězda" # todo: NEW TRANSLATION
+ distinguished_service_cross:0 "Kříž za vynikající službu" # todo: NEW TRANSLATION
+ medal_of_honor:0 "Medaile cti" # todo: NEW TRANSLATION
+ battle_merit_medal:0 "Medaile za bojové zásluhy" # todo: NEW TRANSLATION
+ order_of_kutuzov:0 "Řád Kutuzova" # todo: NEW TRANSLATION
+ order_of_saint_george:0 "Řád svatého Jiří" # todo: NEW TRANSLATION
+ hero_of_the_soviet_union:0 "Hrdina Sovětského svazu" # todo: NEW TRANSLATION
+ hero_of_the_russia:0 "Hrdina Ruské federace" # todo: NEW TRANSLATION
+ order_of_the_butcher:0 "Řád Žukova" # todo: NEW TRANSLATION
+ dispatches_oak_leaves:0 "Dubové listy (zmínky v hlášení)" # todo: NEW TRANSLATION
+ order_british_empire:0 "Řád britského impéria" # todo: NEW TRANSLATION
+ distinguished_service_order:0 "Řád za vynikající službu" # todo: NEW TRANSLATION
+ victoria_cross:0 "Viktoriin kříž" # todo: NEW TRANSLATION
+ combatants_cross:0 "Kříž bojovníka" # todo: NEW TRANSLATION
+ war_cross:0 "Válečný kříž" # todo: NEW TRANSLATION
+ order_of_liberation:0 "Řád osvobození" # todo: NEW TRANSLATION
+ legion_of_honor:0 "Řád čestné legie" # todo: NEW TRANSLATION
+ war_merit_cross:0 "Kříž válečných zásluh" # todo: NEW TRANSLATION
+ cross_of_military_valor:0 "Kříž vojenské statečnosti" # todo: NEW TRANSLATION
+ order_of_savoy_fifth:0 "Řád Savojů (5. třída)" # todo: NEW TRANSLATION
+ order_of_savoy_first:0 "Řád Savojů (1. třída)" # todo: NEW TRANSLATION
+ military_medal_of_honor:0 "Vojenská medaile cti" # todo: NEW TRANSLATION
+ sacred_treasure:0 "Řád posvátného pokladu" # todo: NEW TRANSLATION
+ golden_kite:0 "Řád Zlatého draka" # todo: NEW TRANSLATION
+ order_of_chrysanthemum:0 "Řád chryzantémy" # todo: NEW TRANSLATION
+ za_otvagy:0 "Za statečnost" # todo: NEW TRANSLATION
+ za_myzestvo:0 "Za odvahu" # todo: NEW TRANSLATION
+ za_crov_i_hrabrost:0 "Za krev a statečnost" # todo: NEW TRANSLATION
+ krov_chest_rodina_otvaga:0 "Za krev, čest, vlast a statečnost" # todo: NEW TRANSLATION
+ hero_of_the_pmc_wagner:0 "Hrdina PMC Wagner" # todo: NEW TRANSLATION
+ national_defense_service:0 "Pamětní medaile za službu národní obrany" # todo: NEW TRANSLATION
+ august_first_medal:0 "Medaile 1. srpna" # todo: NEW TRANSLATION
+ republic_medal:0 "Republiková medaile" # todo: NEW TRANSLATION
+ democratic_gallantry:0 "Medaile za statečnost" # todo: NEW TRANSLATION
+ democratic_honor:0 "Čestný řád" # todo: NEW TRANSLATION
+ democratic_war_cross:0 "Válečný kříž" # todo: NEW TRANSLATION
+ democratic_lion:0 "Řád lva" # todo: NEW TRANSLATION
+ communist_service_medal:0 "Medaile za službu" # todo: NEW TRANSLATION
+ communist_red_star:0 "Červená hvězda" # todo: NEW TRANSLATION
+ communist_merit_medal:0 "Medaile vojenských zásluh" # todo: NEW TRANSLATION
+ communist_hero_of_revolution:0 "Hrdina revoluce" # todo: NEW TRANSLATION
+ fascism_bravery:0 "Medaile za statečnost" # todo: NEW TRANSLATION
+ fascism_merit:0 "Kříž vojenských zásluh" # todo: NEW TRANSLATION
+ fascism_order_brave:0 "Řád odvážných" # todo: NEW TRANSLATION
+ fascism_heroism:0 "Kříž hrdinství" # todo: NEW TRANSLATION
+ nat_bravery:0 "Medaile za statečnost" # todo: NEW TRANSLATION
+ nat_merit:0 "Kříž vojenských zásluh" # todo: NEW TRANSLATION
+ nat_order_brave:0 "Řád odvážných" # todo: NEW TRANSLATION
+ nat_heroism:0 "Kříž hrdinství" # todo: NEW TRANSLATION
+ neutral_bravery:0 "Kříž statečnosti" # todo: NEW TRANSLATION
+ neutral_military_order:0 "Vojenský řád" # todo: NEW TRANSLATION
+ neutral_sword:0 "Řád meče" # todo: NEW TRANSLATION
+ neutral_virtue:0 "Řád vojenské ctnosti" # todo: NEW TRANSLATION
+ per_medal_1:0 "Bojovník" # todo: NEW TRANSLATION
+ per_medal_2:0 "Dobyvatel (bronz)" # todo: NEW TRANSLATION
+ per_medal_3:0 "Dobyvatel (stříbro)" # todo: NEW TRANSLATION
+ per_medal_4:0 "Dobyvatel (zlato)" # todo: NEW TRANSLATION
+ per_medal_5:0 "Oddanec" # todo: NEW TRANSLATION
+ per_medal_6:0 "Zulfiqar" # todo: NEW TRANSLATION
+ HISTORY_PROVINCE_LIST_TWO_ITEMS:0 "$FIRST$ a $SECOND$" # todo: NEW TRANSLATION
+ HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR:0 ", " # todo: NEW TRANSLATION
+ HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_LATTER_SEPARATOR:0 ", a " # todo: NEW TRANSLATION
+ HISTORY_EXPERIENCE_COUNT_TEXT:0 "Zkušenosti důstojníka: $VALUE|H0$" # todo: NEW TRANSLATION
+ DIVISIONAL_COMMAND_EXTRA_EXPERIENCE:0 "Při povýšení získá $VALUE|H0$ zkušeností.\n\n" # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_TOTAL_EXPERIENCE_SORT:0 "Zkušenosti" # todo: NEW TRANSLATION
+ GAINED_XP_DIVC:0 "$VALUE|0$" # todo: NEW TRANSLATION
+ FROM_EFFECTS_DIVC:0 "\nPři udělení ocenění:" # todo: NEW TRANSLATION
+ RECEIVED_MANY_CASUALTIES_HISTORY:0 "Držel pozice navzdory značným ztrátám při plnění služby." # todo: NEW TRANSLATION
+ MEDAL_COMBINED_NAME_CASUALTIES:0 "Statečný $TYPE$" # todo: NEW TRANSLATION
+ DIVISION_COMMANDER_TYPE_SORT:0 "Typ" # todo: NEW TRANSLATION
+ DIV_COMMAND_ITEM_DETAILS:0 "$COMMANDER|H$\nVelící $UNIT|g$\n\n" # todo: NEW TRANSLATION
+ GRANT_CITATION:0 "§HUdělit ocenění§!\n\nKlikněte pro výběr ocenění, které udělíte tomuto veliteli." # todo: NEW TRANSLATION
+ DIV_COMMAND_XP_TOOLTIP:0 "§HZkušenosti důstojníka§!\n\nTento velitel získá $XP|H0$ XP při povýšení na armádního generála." # todo: NEW TRANSLATION
+ ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP:0 "§HZisk zkušeností polního důstojníka§!\nZkušenosti polního důstojníka se získávají rychlostí $MULT|%H$ obvyklé míry.\n\nKaždá medaile udělená této divizi zvyšuje získávání o $PER_MEDAL|%H$." # todo: NEW TRANSLATION
+ DIVISIONAL_COMMAND_DIVISION_PENALTY:0 "Veteránství této divize bude sníženo o $RESULT|%H$." # todo: NEW TRANSLATION
+ FURTHER_MULT_DIVC:0 "Následující modifikátory jsou poté aplikovány:" # todo: NEW TRANSLATION

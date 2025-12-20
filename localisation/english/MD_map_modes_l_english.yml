@@ -1,0 +1,46 @@
+﻿l_english:
+ MAPMODE_EU_MAP_MODE_NAME: "EU" # todo: NEW TRANSLATION
+ MAPMODE_EU_MAP_MODE: "EU" # todo: NEW TRANSLATION
+ MAPMODE_EU_MAP_MODE_DESCRIPTION: "Členské státy (tmavě) a potenciální členské státy (světlé) EU." # todo: NEW TRANSLATION
+ EU_map_mode_tooltip: "EU" # todo: NEW TRANSLATION
+ EU_map_mode_tooltip_delayed: "Členské státy jsou tmavší modře a potenciální členské státy světlou modrou.\n\nFunkcionáři:\nTmavě červená - Předseda Evropské komise, Předseda Evropské rady a Předseda Evropského parlamentu\nHnědá - Generální tajemník EuroNavy\nTmavě zelená - Generální tajemník EuroArmy\nTyrkysová - Vysoký představitel Unie pro zahraniční věci a bezpečnostní politiku\nFialová - Evropský ministr hospodářství a financí\nŽlutá - Prezident Evropské centrální banky\nSvětle zelená - Ředitel Frontexu\nOranžová - Velvyslanec EU při OSN\nRůžová - Prezident Evropské federace" # todo: NEW TRANSLATION
+ MAPMODE_MISSILES_MAP_MODE_NAME: "Raketové systémy" # todo: NEW TRANSLATION
+ MAPMODE_MISSILES_MAP_MODE: "Raketové systémy" # todo: NEW TRANSLATION
+ MAPMODE_MISSILES_MAP_MODE_DESCRIPTION: "Odpalovací body (zelené) a cílové body (červené) raket vybrané země (GUI odpalování raket, vybraná země)." # todo: NEW TRANSLATION
+ missiles_map_mode_tooltip: "Raketové systémy" # todo: NEW TRANSLATION
+ missiles_map_mode_tooltip_delayed: "Odpalovací body (zelené) a cílové body (červené) raket vybrané země (GUI odpalování raket, vybraná země)." # todo: NEW TRANSLATION
+ MAPMODE_GDP_C_MAP_MODE_NAME: "HDP na obyvatele" # todo: NEW TRANSLATION
+ MAPMODE_GDP_C_MAP_MODE: "HDP na obyvatele" # todo: NEW TRANSLATION
+ MAPMODE_GDP_C_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje HDP na obyvatele dané země." # todo: NEW TRANSLATION
+ gdp_c_map_mode_tooltip: "HDP na obyvatele [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
+ gdp_c_map_mode_tooltip_delayed: "HDP na obyvatele §Y[FROM.CONTROLLER.GetNameWithFlag]§! je: $[?FROM.CONTROLLER:gdp_per_capita|Y]K.\nTento režim mapy zobrazuje HDP na obyvatele dané země. Je to ukazatel, jak velká je ekonomika země [FROM.CONTROLLER.GetName]. Tento režim mapy se aktualizuje týdně s ekonomickým týdenním tikem nebo když je ručně obnoven.\n" # todo: NEW TRANSLATION
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_NAME: "Nesplněná poptávka po energii" # todo: NEW TRANSLATION
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE: "Nesplněná poptávka po energii" # todo: NEW TRANSLATION
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální procento nesplněné poptávky po energii v zemích." # todo: NEW TRANSLATION
+ energy_consumption_map_mode_tooltip: "Nesplněná poptávka po energii [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
+ energy_consumption_map_mode_tooltip_delayed: "Nesplněná poptávka po energii [FROM.CONTROLLER.GetNameWithFlag] je: [?FROM.CONTROLLER:unfulfilled_energy_demand_var|%+]\n" # todo: NEW TRANSLATION
+ MAPMODE_PRODUCTIVITY_MAP_MODE_NAME: "Produktivita" # todo: NEW TRANSLATION
+ MAPMODE_PRODUCTIVITY_MAP_MODE: "Produktivita" # todo: NEW TRANSLATION
+ MAPMODE_PRODUCTIVITY_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální produktivitu jednotlivých států." # todo: NEW TRANSLATION
+ productivity_map_mode_tooltip: "Produktivita ve státě, [FROM.GetName]" # todo: NEW TRANSLATION
+ productivity_map_mode_tooltip_delayed: "Produktivita ve státě, [FROM.GetName], je: [?FROM.productivity_state_var|Y]\n" # todo: NEW TRANSLATION
+ MAPMODE_INFLUENCE_MAP_MODE_NAME: "Vliv" # todo: NEW TRANSLATION
+ MAPMODE_INFLUENCE_MAP_MODE: "Vliv" # todo: NEW TRANSLATION
+ MAPMODE_INFLUENCE_MAP_MODE_DESCRIPTION: "Tento režim mapy ukazuje země, které jste ovlivnili, které byly nedávno ovlivněny, nebo které jsou nastaveny na měsíční automatické ovlivňování.\n--------------\n§HLegenda:§!\nHráč - §GZelená§!\n1. ovlivňovatel: §CAzurová§!\n2./3. ovlivňovatel: §lSvětle modrá§!\n4. až 7. ovlivňovatel: §nTmavě modrá§!\nZemě s automatickým ovlivňováním: §9Oranžová§!\nZemě s časovým omezením šíření vlivu: §RČervená§!\n\nRežim mapy se aktualizuje týdně." # todo: NEW TRANSLATION
+ influence_map_mode_tooltip: "Vliv" # todo: NEW TRANSLATION
+ influence_map_mode_tooltip_delayed: "Tento režim mapy ukazuje země, které jste ovlivnili, které byly nedávno ovlivněny, nebo které jsou nastaveny na měsíční automatické ovlivňování.\n--------------\n§HLegenda:§!\nHráč - §GZelená§!\n1. ovlivňovatel: §CAzurová§!\n2./3. ovlivňovatel: §lSvětle modrá§!\n4. až 7. ovlivňovatel: §nTmavě modrá§!\nZemě s automatickým ovlivňováním: §9Oranžová§!\nZemě s časovým omezením šíření vlivu: §RČervená§!\n\nRežim mapy se aktualizuje týdně." # todo: NEW TRANSLATION
+ MAPMODE_GCC_MAP_MODE_NAME: "GCC" # todo: NEW TRANSLATION
+ MAPMODE_GCC_MAP_MODE: "GCC" # todo: NEW TRANSLATION
+ MAPMODE_GCC_MAP_MODE_DESCRIPTION: "Členské státy (tmavě zelené) a potenciální členské státy (světle zelené) GCC." # todo: NEW TRANSLATION
+ GCC_map_mode_tooltip: "GCC" # todo: NEW TRANSLATION
+ GCC_map_mode_tooltip_delayed: "Členské státy jsou tmavší zeleně a potenciální členské státy světle zeleně." # todo: NEW TRANSLATION
+ MAPMODE_ECOWAS_MAP_MODE_NAME: "ECOWAS" # todo: NEW TRANSLATION
+ MAPMODE_ECOWAS_MAP_MODE: "ECOWAS" # todo: NEW TRANSLATION
+ MAPMODE_ECOWAS_MAP_MODE_DESCRIPTION: "Členské státy (tmavě zelené) ECOWAS." # todo: NEW TRANSLATION
+ ECOWAS_map_mode_tooltip: "ECOWAS" # todo: NEW TRANSLATION
+ ECOWAS_map_mode_tooltip_delayed: "Členské státy jsou tmavší zeleně." # todo: NEW TRANSLATION
+ MAPMODE_SCO_MAP_MODE_NAME: "SCO" # todo: NEW TRANSLATION
+ MAPMODE_SCO_MAP_MODE: "SCO" # todo: NEW TRANSLATION
+ MAPMODE_SCO_MAP_MODE_DESCRIPTION: "Členské státy (červené), pozorovatelé (růžoví) a potenciální členské státy (světle červené) SCO." # todo: NEW TRANSLATION
+ SCO_map_mode_tooltip: "SCO" # todo: NEW TRANSLATION
+ SCO_map_mode_tooltip_delayed: "Členské státy červeně, pozorovatelé růžově a potenciální členské státy světle červeně." # todo: NEW TRANSLATION

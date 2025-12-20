@@ -1,0 +1,316 @@
+﻿l_english:
+ strength_of_cartels: "§YSíla kartelů§!" # todo: NEW TRANSLATION
+ political_influence_of_cartels: "§YPolitický vliv kartelů§!" # todo: NEW TRANSLATION
+ modify_cartel_strength_effect_tt: "$strength_of_cartels$ se změní o [?cart_strength_change|-0] (Současná síla: §Y[?strength_of_cartels|0Y]§!)\n" # todo: NEW TRANSLATION
+ modify_cartel_political_influence_effect_tt: "$political_influence_of_cartels$ se změní o [?cart_influence_change|-0] (Současný politický vliv: §Y[?cartel_political_influence|0Y]§!)\n" # todo: NEW TRANSLATION
+ while_cartel_money_laundering_active_tt: "Dokud je rozhodnutí §Y$target_cartel_money_laundering_decision$§! aktivní:\nÚspěšnost těchto rozhodnutí je ovlivněna $political_influence_of_cartels$. Pokud mají vysoký politický vliv, je pravděpodobnější, že tato vyšetřování selžou.\n\n" # todo: NEW TRANSLATION
+ while_cartel_drug_attacking_active_tt: "Dokud je rozhodnutí §Y$target_cartel_drug_running_decision$§! aktivní:\nÚspěšnost těchto rozhodnutí je ovlivněna $strength_of_cartels$. Pokud mají vysoký politický vliv, tato vyšetřování mohou selhat.\n\n" # todo: NEW TRANSLATION
+ investigating_decisions_police_tt: "Dokud je rozhodnutí §Y$police_investments_decision$§! aktivní:\n§YVšechna rozhodnutí kartelů§! mají o §Y15%§! vyšší šanci na úspěch.\n" # todo: NEW TRANSLATION
+ investigating_decisions_military_tt: "Dokud je rozhodnutí §Y$utilize_the_military_decisions$§! aktivní:\n§YVšechna rozhodnutí kartelů§! mají o §Y25%§! vyšší šanci na úspěch.\n" # todo: NEW TRANSLATION
+ investigate_good_results_tt: "§YNaše vyšetřování bylo§! §Gúspěšné§!. Pokud bude naše vyšetřování úspěšné, může nastat následující:\n\n" # todo: NEW TRANSLATION
+ investigate_bad_results_tt: "§YNaše vyšetřování§! §Rselhalo§!. Pokud naše vyšetřování selže, může nastat následující:\n\n" # todo: NEW TRANSLATION
+ political_influence_over_80_tt: "$political_influence_of_cartels$ je nad §Y80%§! (Současný politický vliv: §Y[?cartel_political_influence|0Y]§!)\n" # todo: NEW TRANSLATION
+ strength_over_80_tt: "$strength_of_cartels$ je nad §Y80%§! (Současná síla: §Y[?strength_of_cartels|0Y]§!)\n" # todo: NEW TRANSLATION
+ political_influence_under_80_tt: "$political_influence_of_cartels$ je méně než §Y80%§! (Současný politický vliv: §Y[?cartel_political_influence|0Y]§!)\n" # todo: NEW TRANSLATION
+ strength_under_80_tt: "$strength_of_cartels$ je méně než §Y80%§! (Současná síla: §Y[?strength_of_cartels|0Y]§!)\n" # todo: NEW TRANSLATION
+ CARTEL_deal_with_the_devil_flag: "§YSmlouva s ďáblem§! (Zbývá dní: [?CARTEL_deal_with_the_devil_flag:days_left|Y0])" # todo: NEW TRANSLATION
+ CAR_additional_income_drug_trade_tt: "§YPříjmy z drog§!: $$[?CARTEL_drug_trade_money|G3]" # todo: NEW TRANSLATION
+ CARTEL_narco_wars_triggered: "Vypukly narco války" # todo: NEW TRANSLATION
+ cartels_equipment_theft_small_tt: "Existuje šance, že ztratíme malé množství vybavení." # todo: NEW TRANSLATION
+ cartels_equipment_theft_large_tt: "Existuje šance, že ztratíme velké množství vybavení." # todo: NEW TRANSLATION
+ random_celebrity_death_opinion: "Celebrita zabitá zločinci" # todo: NEW TRANSLATION
+ random_oligarchy_opinion: "Zabavený majetek oligarchy" # todo: NEW TRANSLATION
+ random_denied_our_demands: "Odmítnuto naše požadavky na hraniční kontrolu." # todo: NEW TRANSLATION
+ seized_a_contraband_ship: "Zabavená nákladní loď" # todo: NEW TRANSLATION
+ seized_a_contraband_container: "Zabavený kontejner s pašovaným zbožím" # todo: NEW TRANSLATION
+ cartel_penalties: "Kartely" # todo: NEW TRANSLATION
+ cartel_penalties_desc: "Násilí spojené s drogami a činnost gangů tvoří velkou část kriminální aktivity v naší zemi. Tyto mocné zločinecké organizace působí po celé zemi a mnozí obyvatelé se obávají, že se situace pouze zhorší. V závislosti na naší vládě je však možné proměnit toto omezení v nástroj." # todo: NEW TRANSLATION
+ has_cartels_tt: "Má ideu §Y$cartel_penalties$§!\n" # todo: NEW TRANSLATION
+ defeated_the_cartels: "Konec kartelů" # todo: NEW TRANSLATION
+ hard_drug_trade_restrictions: "Přísně regulovaná spolupráce s kartely" # todo: NEW TRANSLATION
+ light_drug_trade_restrictions: "Volně regulovaná spolupráce s kartely" # todo: NEW TRANSLATION
+ narco_state_bonuses: "Narkostát" # todo: NEW TRANSLATION
+ narco_state_bonuses_desc: "Roky boje postupně utichly, protože kartely převzaly kontrolu nad státem." # todo: NEW TRANSLATION
+ CARTEL_defeated_the_cartels: "Porazili naše kartely" # todo: NEW TRANSLATION
+ crime_syndicate_1: "Kriminální syndikát" # todo: NEW TRANSLATION
+ mafia_state: "Mafiánský stát" # todo: NEW TRANSLATION
+ narcos_state: "Stát Narcos" # todo: NEW TRANSLATION
+ narcos_state_desc: "Po mnoha letech boje nyní Narcos ovládají samotný státní aparát." # todo: NEW TRANSLATION
+ cartels_decision_category: "Kriminalita" # todo: NEW TRANSLATION
+ cartels_decision_category_desc: "Kriminální organizace se v naší zemi šíří bez omezení. Mafia, drogové kartely a gangy pravidelně usilují o moc a vliv s malým ohledem na to, kdo to odnese nebo bude zabit. Pokud zůstane situace nekontrolovaná a neřízená, náš stát by se mohl změnit v druh anarcho-kriminálních režimů, jaké známe jen z amerických noirů nebo z De Vaqueros.\n\nPolitický vliv kartelů reprezentuje jejich schopnost využívat naši korupci jako zbraň proti nám. Čím vyšší je jejich politický vliv, tím méně pravděpodobné je, že dokážeme provádět vyšetřování.\nSíla kartelů reprezentuje jejich schopnost použít násilí proti nám a našim občanům. Čím vyšší je jejich síla, tím méně pravděpodobné je, že dokážeme provádět razie.\nPokud se síla nebo vliv stanou příliš vysokými, kartely se mohou pokusit převzít kontrolu nad naší zemí.\n\n$political_influence_of_cartels$: [?ROOT.cartel_political_influence]\n$strength_of_cartels$: [?ROOT.strength_of_cartels]\n" # todo: NEW TRANSLATION
+ narcos_crisis: "Krize Narcos" # todo: NEW TRANSLATION
+ narcos_crisis_desc: "Schopnost naší vlády vynucovat zákony a monopolizovat násilí byla oslabena rostoucí korupcí a kriminální činností. Je pravděpodobné, že brzy čelíme puči ze strany vojenských složek spřízněných s kartely nebo masovému povstání samotných kartelů." # todo: NEW TRANSLATION
+ mafia_crisis: "Krize mafie" # todo: NEW TRANSLATION
+ mafia_crisis_desc: "Schopnost naší vlády vynucovat zákony a monopolizovat násilí byla oslabena rostoucí korupcí a kriminální činností. Je pravděpodobné, že brzy čelíme puči ze strany vojenských složek spřízněných s mafií nebo masovému povstání samotné mafie." # todo: NEW TRANSLATION
+ mexican_cartel_war: "Mexická kartelová válka" # todo: NEW TRANSLATION
+ mexican_cartel_war_desc: "Schopnost naší vlády vynucovat zákony a monopolizovat násilí byla oslabena rostoucí korupcí a kriminální činností. Naše armáda i politická infrastruktura byly zcela kompromitovány a nelze už říci, komu lze důvěřovat. Chaos brzy dosáhne vrcholu a ocitneme se uprostřed nové občanské války." # todo: NEW TRANSLATION
+ anti_cartel_propaganda_decision: "Protikartelová propaganda" # todo: NEW TRANSLATION
+ anti_cartel_propaganda_decision_desc: "Vždy existoval narůstající mýtus, že kartely jsou jako bandité z romantizované minulosti. Roztomilí gauneři, kteří možná dělají špatné věci, ale dělají je pro dobro svého lidu. Jako u všech mýtů, je to výmysl. Každý, kdo žije pod vlivem kartelů, ví, že je to nepravda. Odhalením hrůz, které páchají na svých vlastních, v celostátní mediální kampani, můžeme pracovat na vyvrácení tohoto mýtu jednou provždy." # todo: NEW TRANSLATION
+ police_investments_decision: "Investice do policie" # todo: NEW TRANSLATION
+ police_investments_decision_desc: "Bez ohledu na to, co kdo říká o zločineckých organizacích jako kartely, jsou dobře organizované, dobře financované a dobře ozbrojené. Nejsou to stádo ovcí, které lze rozehnat několika výstřely přes varování. Proti tomuto organizovanému nepříteli je naše policie první obrannou linií, a často je tato linie málo připravená na násilí, které jim bylo a může být uštědřeno. Přestože militarizace policie má své nevýhody, jen díky lepšímu vybavení, taktikám a personálu se může stát pilířem, kterého potřebujeme. A k tomu všemu potřebuje více peněz." # todo: NEW TRANSLATION
+ utilize_the_military_decisions: "Využít armádu" # todo: NEW TRANSLATION
+ utilize_the_military_decisions_desc: "I kdyby se naše policie vyzbrojila stejně jako armádní složky, jejich personální zásoby a organizační struktura budou vždy omezené místními zdroji a byrokracií. Nasazením naší armády přímo získáme pomoc ještě lépe vyzbrojeného prvku s komplexnější velením a výrazně širším personálním fondem, přičemž se vyhneme místní byrokracii a stávající místní korupci. Nasazení armády však není populární mezi občany — může docházet k omezování práv, přesahům vůči policejním útvarům a poškozování infrastruktury úředníků. V podstatě to, co získáme na palebné síle, ztratíme na veřejné podpoře." # todo: NEW TRANSLATION
+ target_cartel_money_laundering_decision: "Zacílit operace praní špinavých peněz" # todo: NEW TRANSLATION
+ target_cartel_money_laundering_decision_desc: "Aby si kartely mohly své nelegálně získané peníze použít k nákupu legálních aktiv, zapojují se do praní špinavých peněz — hotovost je vložena do finančního systému, oddělena od zdroje přesouváním a následně integrována do legálních aktiv praní, která mohou být použita k legálním nákupům nebo k úplatkům politiků a jiných úředníků. Abychom zabránili korupci a zdecimovali jejich právní infrastrukturu, můžeme zaútočit na druhý a třetí krok v procesu praní peněz. To zahrnuje vyšetřování a uzavírání bank a firem, které peníze přijímají a přesouvají. Selhání v těchto krocích se nám však může vrátit, protože kartely budou při útocích na jejich peněžní toky pravděpodobně více agresivní." # todo: NEW TRANSLATION
+ investigate_the_casinos: "Vyšetřit kasina" # todo: NEW TRANSLATION
+ investigate_the_casinos_desc: "Kasina, která často působí jako pololegální podniky snažící se obcházet zákony a předpisy, jsou často prvním místem, kam vstupují peníze do finančního systému, protože příliv hotovosti v kasinech se zřídka zkoumá a může působit anonymně či nevinně. Můžeme začít tím, že identifikujeme kasina navštěvovaná známými členy kartelů a prošetříme jejich peněžní toky na přítomnost špinavých peněz. Jakmile najdeme špinavé peníze a prokážeme spojení s kartely, můžeme podniky uzavřít a zabavit jejich majetek." # todo: NEW TRANSLATION
+ investigates_the_banks: "Vyšetřit banky" # todo: NEW TRANSLATION
+ investigates_the_banks_desc: "Ačkoli jsou banky častěji legitimní, jsou nezbytným mezistanicí pro každé praní peněz. Vyšetřováním klíčových bankovních úředníků a manipulátorů s penězi a prohlížením finančních záznamů můžeme zachytit transakce předtím, než se uskuteční nebo uzavřou. Dohodováním se na správném načasování můžeme cílit na největší transakce, když se peníze blíží ke svému cíli. To způsobí největší škodu těmto subjektům a odstraní co nejvíce peněz z jejich ekosystému. Sledování je ale těžké udržet, protože společnosti a taktiky se přizpůsobí našemu zásahu. A také uzavření bank je politicky nemožné." # todo: NEW TRANSLATION
+ investigate_shell_companies: "Vyšetřit schránkové společnosti" # todo: NEW TRANSLATION
+ investigate_shell_companies_desc: "Často střední a závěrečné kroky schématu praní špinavých peněz, schránkové společnosti drží jak legální aktiva, tak peníze jménem zločineckých organizací a občas tyto prostředky přesměrovávají k finálnímu cíli. Jsou obtížnějším cílem, protože prokázání spojení mezi nimi a kriminální organizací je složitější, ale mohou dramaticky ovlivnit činnost organizace. Při těchto zajištěních se zřídka jedná přímo o hotovost, protože převody jsou často vedeny v menších částkách, ale opakovaně. Namísto toho se projevují jako fyzická aktiva, například nemovitosti, vozidla nebo dokonce legálně koupené zbraně." # todo: NEW TRANSLATION
+ target_cartel_drug_running_decision: "Zacílit operace pašování drog" # todo: NEW TRANSLATION
+ target_cartel_drug_running_decision_desc: "Největším nelegálním zdrojem příjmů pro kartely jsou jejich operace pašování drog. Zatímco některé kartely pěstují drogy samy, mnoho z nich vydělává tím, že posunuje rafinované nebo nerafinované drogy po dodavatelském řetězci. Přímým cílením a sledováním tras, jimiž drogy putují, můžeme určit výchozí, cílové i mezilehlé body. To nám otevírá cestu k raziím na sklady vybavení, rafinerie, plantáže, drogové sklady a operační základny. Alternativně můžeme zaútočit na zásilky během přepravy. Proti větším operacím je to obvykle neúčinné, ale může to výrazně oslabit menší skupiny, které mají méně zdrojů na náhradu ztrát." # todo: NEW TRANSLATION
+ raid_drug_convoys_decision: "Razia na konvoje drog" # todo: NEW TRANSLATION
+ raid_drug_convoys_decision_desc: "Raziemi na konvoje drog během přepravy můžeme rychle odstranit drogy z oběhu s malými náklady z naší strany. Větší kartely však typicky nebudou těmito raziemi výrazně postiženy a rychle se přizpůsobí našim monitorovacím systémům. Pro menší kartely může takový útok jejich provoz paralyzovat, protože ztratí zásadní peněžní toky a po zásahu se mezi sebou mohou pustit do boje." # todo: NEW TRANSLATION
+ raid_cartel_hideouts_decision: "Razia na skrýše kartelů" # todo: NEW TRANSLATION
+ raid_cartel_hideouts_decision_desc: "Raziemi na silná stanoviště kartelů a zásobovací sklady můžeme omezit jejich schopnost přepravovat drogy, organizovat se a odolávat vpádům na jejich území. To se obvykle projeví zabavením vozidel a zbraní, které by mohly být použity proti nám nebo jejich protivníkům. Toto může mít dodatečný efekt, nebo nevýhodu, v tom, že kartely se mohou pustit do válek se svými oslabenými rivaly." # todo: NEW TRANSLATION
+ raid_distribution_centres_decision: "Razia distribučních center" # todo: NEW TRANSLATION
+ raid_distribution_centres_decision_desc: "Raziemi na distribuční centra kartelů, jako jsou drogové domy a sklady, můžeme odstranit velké množství drog z trhu. Má to také přínos v omezení budoucí distribuce drog díky zabavení velkých částek špinavých peněz a zatčení dealerů. Tento druh razie však s sebou nese vysoké riziko odvetného útoku, protože neomezuje schopnost kartelu uplatnit násilí." # todo: NEW TRANSLATION
+ raid_refinement_centres_decision: "Razia na centra zpracování drog" # todo: NEW TRANSLATION
+ raid_refinement_centres_decision_desc: "Raziemi na drogové laboratoře, plantáže nebo pěstírny můžeme omezit schopnost kartelu vytvářet nové drogy k distribuci a způsobit jim značné ztráty. Tento zásah obvykle stačí, aby jejich produkci narušil na měsíce, zatímco se budou snažit ztráty nahradit. Zároveň je méně pravděpodobné, že vyvolá odvetný útok, protože většina prostředků kartelu je soustředěna na zabezpečení jejich území." # todo: NEW TRANSLATION
+ target_local_cartel_leaders_decision: "Zacílit místní vůdce kartelů" # todo: NEW TRANSLATION
+ target_local_cartel_leaders_decision_desc: "Stejně jako každá organizace, i kartely potřebují vůdcovskou strukturu k udržení provozu. Zatčením nebo zajištěním zmizení místních vůdců kartelů můžeme vážně poškodit tuto strukturu. To znamená méně rekrutů, méně operací a vnitřní boje o to, kdo obsadí volná místa. Tyto zatčení a úmrtí mají navíc mediální přínos v tom, že když jeden z těchto padouchů konečně dostane, co si zaslouží, stane se to mimořádně populárním tématem." # todo: NEW TRANSLATION
+ MEX_baja_california_sinaloa_cartel: "Omezit vliv Sinaloa Cartelu" # todo: NEW TRANSLATION
+ MEX_baja_california_sinaloa_cartel_desc: "Sinaloa Cartel sílí, musíme omezit jejich vliv v Baja California" # todo: NEW TRANSLATION
+ MEX_baja_california_tierra_cartel: "Omezit vliv Tierra Caliente" # todo: NEW TRANSLATION
+ MEX_baja_california_tierra_cartel_desc: "Tierra Caliente sílí, musíme omezit jejich vliv v Baja California" # todo: NEW TRANSLATION
+ MEX_sonora_sinaloa_cartel: "Omezit vliv Sinaloa Cartelu" # todo: NEW TRANSLATION
+ MEX_sonora_sinaloa_cartel_desc: "Sinaloa Cartel sílí, musíme omezit jejich vliv v Sonora" # todo: NEW TRANSLATION
+ MEX_chihuahua_sinola_cartel: "Omezit vliv Sinaloa Cartelu" # todo: NEW TRANSLATION
+ MEX_chihuahua_sinola_cartel_desc: "Sinaloa Cartel sílí, musíme omezit jejich vliv v Chihuahua" # todo: NEW TRANSLATION
+ MEX_sinola_durango_sinola_cartel: "Omezit vliv Sinaloa Cartelu" # todo: NEW TRANSLATION
+ MEX_sinola_durango_sinola_cartel_desc: "Sinaloa Cartel sílí, musíme omezit jejich vliv v Sinaloa Durango" # todo: NEW TRANSLATION
+ MEX_coahuila_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_coahuila_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Coahuila" # todo: NEW TRANSLATION
+ MEX_guanajuato_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_guanajuato_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Guanajuato" # todo: NEW TRANSLATION
+ MEX_nuevo_leon_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_nuevo_leon_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Nuevo Leon" # todo: NEW TRANSLATION
+ MEX_jalisco_tierra_cartel: "Omezit vliv Tierra Caliente" # todo: NEW TRANSLATION
+ MEX_jalisco_tierra_cartel_desc: "Tierra Caliente sílí, musíme omezit jejich vliv v Jalisco" # todo: NEW TRANSLATION
+ MEX_guerrero_oaxaco_tierra_cartel: "Omezit vliv Tierra Caliente" # todo: NEW TRANSLATION
+ MEX_guerrero_oaxaco_tierra_cartel_desc: "Tierra Caliente sílí, musíme omezit jejich vliv v Guerrero Oaxaca" # todo: NEW TRANSLATION
+ MEX_mexico_tierra_cartel: "Omezit vliv Tierra Caliente" # todo: NEW TRANSLATION
+ MEX_mexico_tierra_cartel_desc: "Tierra Caliente sílí, musíme omezit jejich vliv v Mexico City" # todo: NEW TRANSLATION
+ MEX_mexico_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_mexico_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Mexico City" # todo: NEW TRANSLATION
+ MEX_mexico_sinaloa_cartel: "Omezit vliv Sinaloa Cartelu" # todo: NEW TRANSLATION
+ MEX_mexico_sinaloa_cartel_desc: "Sinaloa Cartel sílí, musíme omezit jejich vliv v Mexico City" # todo: NEW TRANSLATION
+ MEX_veracruz_tierra_cartel: "Omezit vliv Tierra Caliente" # todo: NEW TRANSLATION
+ MEX_veracruz_tierra_cartel_desc: "Tierra Caliente sílí, musíme omezit jejich vliv v Veracruz" # todo: NEW TRANSLATION
+ MEX_veracruz_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_veracruz_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Veracruz" # todo: NEW TRANSLATION
+ MEX_chiapas_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_chiapas_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Chiapas" # todo: NEW TRANSLATION
+ MEX_yucatan_tamaulpas_cartel: "Omezit vliv Tamaulpas" # todo: NEW TRANSLATION
+ MEX_yucatan_tamaulpas_cartel_desc: "Tamaulpas sílí, musíme omezit jejich vliv v Yucatan" # todo: NEW TRANSLATION
+ MEX_already_attacking_cartels_flag: "Již omezujeme vliv kartelů" # todo: NEW TRANSLATION
+ flag_mexico_cartel_war: "Mexická kartelová válka" # todo: NEW TRANSLATION
+ reduce_cartel_influece_sinola_TT: "Ve státě byl omezen vliv Sinaloa Cartelu." # todo: NEW TRANSLATION
+ reduce_cartel_influece_tierra_TT: "Ve státě byl omezen vliv Tierra Caliente." # todo: NEW TRANSLATION
+ reduce_cartel_influece_tamaulpas_TT: "Ve státě byl omezen vliv Tamaulpas." # todo: NEW TRANSLATION
+ cartel_event.1.t: "Konec kartelů" # todo: NEW TRANSLATION
+ cartel_event.1.d: "Vliv hlavních kartelů v naší zemi se zmenšil natolik, že můžeme vážně uvažovat o zahájení zpětného obsazování venkova. Stačí už jen vydat rozkaz k postupu." # todo: NEW TRANSLATION
+ cartel_event.1.a: "Los Narcos zaplatí za své zločiny!" # todo: NEW TRANSLATION
+ cartel_event.3.t: "Osud Mexika" # todo: NEW TRANSLATION
+ cartel_event.3.d: "Naše snahy zbavit se kartelů nezůstaly bez povšimnutí a oni se chopili zbraní proti mexické vládě. Válka proti drogám v Mexiku vstoupila do závěrečné fáze." # todo: NEW TRANSLATION
+ cartel_event.3.a: "Přidat se k Sinaloa Cartelu." # todo: NEW TRANSLATION
+ cartel_event.3.b: "Přidat se k Tierra Caliente." # todo: NEW TRANSLATION
+ cartel_event.3.c: "Přidat se k Tamaulpas Cartelu." # todo: NEW TRANSLATION
+ cartel_event.3.e: "Ať žije Mexiko navždy!" # todo: NEW TRANSLATION
+ cartel_event.10.t: "Konec války proti drogám" # todo: NEW TRANSLATION
+ cartel_event.10.d: "Po měsících bojů v ulicích našich velkých měst, v džunglích, rovinách i pouštích jsme dokázali zlikvidovat všechna hlavní stanoviště a trasy kartelů, zadržet nebo zabít všechny důležité vůdce kartelů. Konec se blíží pro Narcos a brzy se Mexiko znovu nadechne svobody." # todo: NEW TRANSLATION
+ cartel_event.10.a: "Noční můra se chýlí ke konci." # todo: NEW TRANSLATION
+ cartel_event.12.t: "Kartely udeří zpět" # todo: NEW TRANSLATION
+ cartel_event.12.d: "Kartely nehodlají sedět bez hnutí, zatímco my narušujeme jejich operace a útočíme na jejich členy. V reakci zahájily sérii bombových útoků a odvetných úderů proti našim místním silám." # todo: NEW TRANSLATION
+ cartel_event.12.a: "Zatracení Narcos!" # todo: NEW TRANSLATION
+ cartel_event.15.t: "Chybějící pušky a munice" # todo: NEW TRANSLATION
+ cartel_event.15.d: "Při nedávném auditu našich vojenských základen v rámci opatření omezujícího přechod vybavení na černý trh byl zjištěn značný nedostatek lehkých zbraní a munice. I když existuje možnost, že jde o číselnou chybu, je pravděpodobnější, že vybavení bylo odvezeno na černý trh nebo se tak děje. Naštěstí je problém ohraničen na jednu vojenskou základnu, kde můžeme nasadit veškeré naše síly." # todo: NEW TRANSLATION
+ cartel_event.15.a: "Omezit aktivity na základně." # todo: NEW TRANSLATION
+ cartel_event.15.b: "Již jsme příliš vytíženi." # todo: NEW TRANSLATION
+ cartel_event.16.t: "Chybějící užitková vozidla" # todo: NEW TRANSLATION
+ cartel_event.16.d: "Při nedávném auditu našich vojenských základen v rámci opatření omezujícího přechod vybavení na černý trh byl zjištěn značný nedostatek nákladních vozidel a jejich náhradních dílů. I když existuje možnost, že jde o číselnou chybu, je pravděpodobnější, že vozidla byla odvezena na černý trh nebo se tak děje. Naštěstí je problém ohraničen na jednu vojenskou základnu, kde můžeme nasadit veškeré naše síly." # todo: NEW TRANSLATION
+ cartel_event.16.a: "Omezit aktivity na základně." # todo: NEW TRANSLATION
+ cartel_event.16.b: "Již jsme příliš vytíženi." # todo: NEW TRANSLATION
+ cartel_event.17.t: "Chybějící vrtulníky" # todo: NEW TRANSLATION
+ cartel_event.17.d: "Při nedávném auditu našich vojenských základen v rámci opatření omezujícího přechod vybavení na černý trh byl zjištěn značný nedostatek vrtulníků a jejich náhradních dílů. I když existuje možnost, že jde o číselnou chybu, je pravděpodobnější, že vrtulníky byly odvezeny na černý trh nebo se tak děje. Naštěstí je problém ohraničen na jednu vojenskou základnu, kde můžeme nasadit veškeré naše síly." # todo: NEW TRANSLATION
+ cartel_event.17.a: "Omezit aktivity na základně." # todo: NEW TRANSLATION
+ cartel_event.17.b: "Již jsme příliš vytíženi." # todo: NEW TRANSLATION
+ cartel_event.18.t: "V přístavu zabavené tanky" # todo: NEW TRANSLATION
+ cartel_event.18.d: "V jednom z našich hlavních přístavů celní úřad odhalil zásilku zastaralých, ale plně fungujících sovětských tanků T-55 spolu s náhradními díly a municí. Ačkoli nemůžeme určit jejich původ ani cíl, absence dokladů naznačuje, že jde o nelegální zboží. Naštěstí je jejich konečný osud zcela v našich rukou." # todo: NEW TRANSLATION
+ cartel_event.18.a: "Prodat je jako šrot." # todo: NEW TRANSLATION
+ cartel_event.18.b: "Zařadit je do služby." # todo: NEW TRANSLATION
+ cartel_event.18.c: "Předat je našim spojencům." # todo: NEW TRANSLATION
+ cartel_event.19.t: "Nález hromady těl se dostal do národních zpráv" # todo: NEW TRANSLATION
+ cartel_event.19.d: "Nešťastný objev velké hromady těl v jednom z našich velkých měst byl převzat médii a objevuje se na všech obrazovkách i v rozhlase. Naše příležitost znovu převzít kontrolu nad informačním proudem se ztrácí. Pokud nic neuděláme, strach zvítězí nad naším lidem a snadněji podlehnou monstrům, kteří to způsobili." # todo: NEW TRANSLATION
+ cartel_event.19.a: "Získat zpět kontrolu nad vyprávěním." # todo: NEW TRANSLATION
+ cartel_event.19.b: "Již jsme příliš vytíženi." # todo: NEW TRANSLATION
+ cartel_event.20.t: "Zavražděna zahraniční celebrita" # todo: NEW TRANSLATION
+ cartel_event.20.d: "Během uplynulého týdne byla celebrita ze země [?var:foreign_celeb_country.GetName] zavražděna místním mužem. Povrchové vyšetřování vraha odhalilo vazby na jednu z největších kriminálních organizací v naší zemi. Již čelíme vnějšímu tlaku, abychom nějakým způsobem převzali odpovědnost za zabití. Bylo navrženo několik opatření, přičemž nejméně rušivým řešením bylo podpořit jednu z charit, kterou celebrita podporovala." # todo: NEW TRANSLATION
+ cartel_event.20.a: "Podpořit charitu." # todo: NEW TRANSLATION
+ cartel_event.20.b: "Neměli se stýkat s kriminálníky." # todo: NEW TRANSLATION
+ cartel_event.21.t: "Kartely dovážejí exotická zvířata" # todo: NEW TRANSLATION
+ cartel_event.21.d: "Záliba v exotických zvířatech se rozšířila mezi nejvyšší členy kartelů v naší zemi. Obvykle získávaná nelegálně jsou tato zvířata používána jako symboly moci a postavení, občas spojené s krutými vraždami. Zpřísněním kontroly dovozu zvířat bychom mohli odhalit směšnost těch, kteří se do toho pouštějí, tím, že uměle zvýšíme cenu těchto zvířat. I když může být tygr děsivý, utratit za něj deset milionů dolarů je zjevný projev okázalosti." # todo: NEW TRANSLATION
+ cartel_event.21.a: "Zlikvidovat tento obchod." # todo: NEW TRANSLATION
+ cartel_event.21.b: "Ignorovat obchod." # todo: NEW TRANSLATION
+ cartel_event.22.t: "Místní střety gangů" # todo: NEW TRANSLATION
+ cartel_event.22.d: "V ulicích jednoho z našich větších měst propukla gangová válka, která škodí místní ekonomice, bere životy a obyvatele děsí natolik, že se bojí opustit domovy. Naši analytici předpokládají, že násilí dlouho nepotrvá, veřejnost však pravděpodobně nebude spokojena s nápadem pasivně to vyčkat. Zásah policejních sil by mohl krizi předčasně ukončit, ale přinesl by vysoké náklady a možné ztráty na životech." # todo: NEW TRANSLATION
+ cartel_event.22.a: "Poslat policii." # todo: NEW TRANSLATION
+ cartel_event.22.b: "Již jsme příliš vytíženi." # todo: NEW TRANSLATION
+ cartel_event.23.t: "USA požadují vydání" # todo: NEW TRANSLATION
+ cartel_event.23.d: "Spojené státy americké požadují vydání drogového bosse, kterého jsme nedávno dokázali uvěznit. Abychom si udrželi jejich přízeň s výhledem na budoucí pomoc proti dalším drogovým bossům, bylo by pro nás výhodné souhlasit. Americké vměšování do našeho právního systému však nevyhnutelně sníží naši vlastní samostatnost." # todo: NEW TRANSLATION
+ cartel_event.23.a: "Můžou si ho vzít." # todo: NEW TRANSLATION
+ cartel_event.23.b: "My si poradíme s vlastními zločinci." # todo: NEW TRANSLATION
+ cartel_event.24.t: "Informátor získal nabídku na film" # todo: NEW TRANSLATION
+ cartel_event.24.d: "Jeden z našich informátorů, bývalý člen největší kriminální organizace v naší zemi, byl osloven filmovým producentem, který se o jeho životě dozvěděl ústně a chce z těchto příběhů natočit film. Náš informátor je nadšený, že nabídku přijme, ale mohlo by to ohrozit jeho život. Můžeme se rozhodnout dohodu podpořit a umožnit natáčení filmu, nebo v blízké budoucnosti nadějím na něj učinit přítrž." # todo: NEW TRANSLATION
+ cartel_event.24.a: "Schválit filmovou dohodu." # todo: NEW TRANSLATION
+ cartel_event.24.b: "Je to příliš nebezpečné." # todo: NEW TRANSLATION
+ cartel_event.25.t: "Informátor vydává paměti" # todo: NEW TRANSLATION
+ cartel_event.25.d: "Zdá se, že nedávný kontakt našeho informátora s filmovým producentem ho povzbudil k tomu, aby svůj příběh zveřejnil. Během uplynulých týdnů spolupracoval s několika spisovateli a vládními úředníky na sadě pamětí, které lze vydat anonymně. Podle všech zúčastněných jsou paměti velmi poutavé a ukazují skutečnou, hrůznou realitu života v kartelách." # todo: NEW TRANSLATION
+ cartel_event.25.a: "Zajímalo by mě, jestli se to stane bestsellerem." # todo: NEW TRANSLATION
+ cartel_event.26.t: "Informátor zavražděn na natáčení" # todo: NEW TRANSLATION
+ cartel_event.26.d: "Tělo našeho informátora bylo nalezeno na natáčecím místě po návštěvě, při které dohlížel na důležitou scénu. Podle stavu těla bylo zjištěno, že vražda byla odplatou členů kartelu. Produkční tým filmu, oprávněně se obávající o své životy, se rozhodl natáčení zastavit." # todo: NEW TRANSLATION
+ cartel_event.26.a: "To je škoda." # todo: NEW TRANSLATION
+ cartel_event.27.t: "Film podporuje trestnou činnost" # todo: NEW TRANSLATION
+ cartel_event.27.d: "Zdá se, že v důsledku nedorozumění je nový film o životě našeho informátora vnímán spíše jako film De Vaqueros než jako drsná kriminální tragédie. To vedlo ke zvýšení náboru v mnoha našich kriminálních organizacích, protože mladí muži doufají, že budou napodobovat karikatury z filmu." # todo: NEW TRANSLATION
+ cartel_event.27.a: "Bohužel." # todo: NEW TRANSLATION
+ cartel_event.28.t: "Film odrazuje od trestné činnosti" # todo: NEW TRANSLATION
+ cartel_event.28.d: "Film, na jehož výrobě se náš informátor podílel, získal během prvního týdne od svého vydání uznání kritiků. Navíc realistické zobrazení hrůz kartelů povzbudilo větší odpor vůči nim. Zdá se, že naši mladí lidé nyní raději vyrostou a budou bojovat proti kartelům, než by se k nim přidali." # todo: NEW TRANSLATION
+ cartel_event.28.a: "Výborně." # todo: NEW TRANSLATION
+ cartel_event.29.t: "Kartely provedly masivní přechod hranic" # todo: NEW TRANSLATION
+ cartel_event.29.d: "Kartel v jedné z našich sousedních zemí provedl rozsáhlé překročení hranic, proti kterému se žádná z našich hraničních kontrolních agentur nepokusila zasáhnout, takže tíha odpovědnosti padá na druhou stranu. To vedlo v naší politické struktuře k požadavkům na zpřísnění hranic našeho souseda, protože to nemůže být celé jen naše vina." # todo: NEW TRANSLATION
+ cartel_event.29.a: "Požadovat od souseda přísnější hraniční kontrolu." # todo: NEW TRANSLATION
+ cartel_event.29.b: "Může to poškodit naše vztahy, pokud budeme požadovat." # todo: NEW TRANSLATION
+ cartel_event.30.t: "Soused požaduje hraniční kontrolu" # todo: NEW TRANSLATION
+ cartel_event.30.d: "Po nedávném překročení hranic ze strany kartelu z naší země do země [FROM.GetName] náš soused požaduje, abychom zvýšili naši hraniční bezpečnost. Doposud to vedlo k mnoha sporům v našem diplomatickém úřadu." # todo: NEW TRANSLATION
+ cartel_event.30.a: "Dobře, zvýšíme bezpečnost." # todo: NEW TRANSLATION
+ cartel_event.30.b: "Proč nezvýší oni svou hraniční bezpečnost?" # todo: NEW TRANSLATION
+ cartel_event.31.t: "Soused vyhovuje požadavkům" # todo: NEW TRANSLATION
+ cartel_event.31.d: "Náš soused, [FROM.GetName], vyhověl našim požadavkům na zpřísnění hraniční kontroly. Není pochyb, že náš voličský základ bude tímto vítězstvím velmi potěšen." # todo: NEW TRANSLATION
+ cartel_event.31.a: "Výborně." # todo: NEW TRANSLATION
+ cartel_event.32.t: "Soused ignoruje naše požadavky" # todo: NEW TRANSLATION
+ cartel_event.32.d: "Náš soused, [FROM.GetName], ignoroval naše požadavky na zpřísnění hraniční kontroly. Již nás média ostře kritizují za naše politické selhání." # todo: NEW TRANSLATION
+ cartel_event.32.a: "Bohužel." # todo: NEW TRANSLATION
+ cartel_event.33.t: "Podezřelé převody spojené s oligarchou" # todo: NEW TRANSLATION
+ cartel_event.33.d: "Během jednoho z našich nedávných vyšetřování jsme odhalili podezřelé, ač ne nezákonné, peněžní převody z fondu jistého oligarchy v naší zemi. Snadno by se dalo politicky zařídit, aby byli zapleteni do našeho vyšetřování. Nicméně takový přehmat by bezpochyby naštval jak zahraniční, tak domácí oligarchy." # todo: NEW TRANSLATION
+ cartel_event.33.a: "Zabavit jejich majetek." # todo: NEW TRANSLATION
+ cartel_event.33.b: "Nechat je být." # todo: NEW TRANSLATION
+ cartel_event.34.t: "Zaznamenán tank kartelu" # todo: NEW TRANSLATION
+ cartel_event.34.d: "Během nedávného neúspěšného nájezdu na cíl kartelu byl pozorován tank používaný kartely. Vypadal jako silně upravený sovětský T-34, tank byl dokonce schopen pálit z hlavního kanónu." # todo: NEW TRANSLATION
+ cartel_event.34.a: "Měli bychom s tím něco udělat." # todo: NEW TRANSLATION
+ cartel_event.35.t: "Tank kartelu zničen" # todo: NEW TRANSLATION
+ cartel_event.35.d: "Během nedávného úspěšného nájezdu na cíl kartelu se našim agentům podařilo najít a zničit T-34, který byl spatřen během jednoho z našich nedávných neúspěchů. Vítězství, obzvlášť protože bylo dosaženo bez protitankových zbraní, se stalo široce medializovaným." # todo: NEW TRANSLATION
+ cartel_event.35.a: "Díky Bohu a našim statečným mužům." # todo: NEW TRANSLATION
+ cartel_event.36.t: "Tank kartelu použit při útoku" # todo: NEW TRANSLATION
+ cartel_event.36.d: "Po jednom z našich nedávných nájezdů provedly kartely odvetu proti jedné z našich policejních stanic. Zdemolovaly budovu, použily nedávno spatřený T-34 k prolomení plotu a bez rozlišování střílely do budovy. To vedlo k značnému počtu obětí a incident se dostal na celostátní zprávy." # todo: NEW TRANSLATION
+ cartel_event.36.a: "Měli bychom s tím něco udělat." # todo: NEW TRANSLATION
+ cartel_event.37.t: "Přepravní schránková společnost" # todo: NEW TRANSLATION
+ cartel_event.37.d: "Při hodnocení majetku jedné ze společností, které jsme nedávno zabavili, si někdo všiml, že jedna byla registrována s velkým počtem bývalých vojenských 6x6 nákladních vozidel. Po krátkém pátrání byla vozidla nalezena v skladu vlastněném společností. Vozidla se nyní běžně používají na farmách a v různých průmyslových odvětvích, ale stále jsou používána i v některých zastaralých rolích v naší armádě." # todo: NEW TRANSLATION
+ cartel_event.37.a: "Zařadit je do vojenské služby." # todo: NEW TRANSLATION
+ cartel_event.37.b: "Prodat tyto nákladní vozy civilním firmám." # todo: NEW TRANSLATION
+ cartel_event.38.t: "Šéf zločinecké organizace omylem zatčen" # todo: NEW TRANSLATION
+ cartel_event.38.d: "Nedávná série zatčení lidí, kteří byli považováni pouze za nízkopostavené členy kartelu, se ukázala jako omyl - omylem byl zadržen významný zločinecký boss. Ačkoliv si zpočátku skrýval identitu, byl rozpoznán policistou, který ho znal. Nyní požaduje propuštění a nabízí zaplatit vysokou kauci." # todo: NEW TRANSLATION
+ cartel_event.38.a: "Ach ano, vše součást plánu." # todo: NEW TRANSLATION
+ cartel_event.38.b: "Omlouvám se, pane." # todo: NEW TRANSLATION
+ cartel_event.39.t: "Úřady narazily na plantáž drog" # todo: NEW TRANSLATION
+ cartel_event.39.d: "Během rutinní hlídky na venkově naší země místní policie narazila na to, co považují za plantáž drog. Podle protokolu to nahlásili výše a nyní čekají na posily nebo instrukce, jak postupovat." # todo: NEW TRANSLATION
+ cartel_event.39.a: "Spálit pole a zničit vybavení." # todo: NEW TRANSLATION
+ cartel_event.39.b: "Zajistit veškeré důkazy a vybavení." # todo: NEW TRANSLATION
+ cartel_event.39.c: "Nechat plantáž být." # todo: NEW TRANSLATION
+ cartel_event.40.t: "Anonimní tip" # todo: NEW TRANSLATION
+ cartel_event.40.d: "Dostali jsme anonymní tip na zranitelný předpost kartelu. Pokud budeme jednat rychle, můžeme pozici přepadnout. Může to ale být žert nebo lest kartelů, jak nás vyvést z pozice a přepadnout." # todo: NEW TRANSLATION
+ cartel_event.40.a: "Jednat podle tipu, každá šance se počítá!" # todo: NEW TRANSLATION
+ cartel_event.40.b: "Ignorovat tip, pravděpodobně je to žert." # todo: NEW TRANSLATION
+ cartel_event.41.t: "Místní podniky spolupracují s kartely" # todo: NEW TRANSLATION
+ cartel_event.41.d: "Několik podniků v jednom z našich okrajových měst bylo odhaleno jako spolupracující s kartely, někdy dokonce otevřeně. Nechat to pokračovat vysílá jasný signál našim lidem, že nejsme ochotni nebo schopni vládnout. Pro kartely to však znamená, že respektujeme jejich autoritu." # todo: NEW TRANSLATION
+ cartel_event.41.a: "Pokárat majitele za jejich činy." # todo: NEW TRANSLATION
+ cartel_event.41.b: "Přimhouřit nad tím oči." # todo: NEW TRANSLATION
+ cartel_event.42.t: "Průmyslové konglomeráty ukrývají pašované zboží" # todo: NEW TRANSLATION
+ cartel_event.42.d: "Dostal se k nám nedávno tip, že mnohé z našich největších podniků umožňují kartelům používat své sklady k uskladnění pašovaného zboží. Zatímco to může být známka zjevné korupce, je možné, že šlo o výsledek vydírání. V každém případě je nutná naše odezva. Jinak zadavatel tipu pravděpodobně půjde s informací do médií." # todo: NEW TRANSLATION
+ cartel_event.42.a: "Zabavit sklady a pokutovat konglomeráty!" # todo: NEW TRANSLATION
+ cartel_event.42.b: "Zajistit pašované zboží a podnikům dát jen napomenutí." # todo: NEW TRANSLATION
+ cartel_event.42.c: "Jsou to jejich sklady, ale teď už to ví každý." # todo: NEW TRANSLATION
+ cartel_event.43.t: "Zkorumpovaní úředníci" # todo: NEW TRANSLATION
+ cartel_event.43.d: "Nedávno jsme obdrželi anonymní tip, který vedl k krátkému vyšetřování investic jednoho z našich místních politiků do kampaně. Vyšetřování odhalilo, že většina prostředků na kampaň pocházela od osob a společností spojených s kartelovou činností. Mnoho indicií ve vyšetřování také ukazuje na složitou síť jmenovaných představitelů, investorů a politických spojenců." # todo: NEW TRANSLATION
+ cartel_event.43.a: "Odvolat co nejvíce z úřadů, to nemůžeme tolerovat." # todo: NEW TRANSLATION
+ cartel_event.43.b: "Investice do kampaní od soukromých osob nejsou naší věcí." # todo: NEW TRANSLATION
+ cartel_event.44.t: "Přístavní úřad nalezl pašované zboží" # todo: NEW TRANSLATION
+ cartel_event.44.d: "V jednom z našich hlavních přístavů přístavní úřad při rutinní kontrole objevil kontejner plný pašovaného zboží. V souladu s protokolem dočasně zadrželi loď a předali rozhodnutí o dalším postupu nám." # todo: NEW TRANSLATION
+ cartel_event.44.a: "Zabavit loď za spolupráci v obchodování s drogami." # todo: NEW TRANSLATION
+ cartel_event.44.b: "Zabavit kontejner, je to tu jediné nelegální." # todo: NEW TRANSLATION
+ cartel_event.44.c: "Přimhouřit oči, obchod je obchod." # todo: NEW TRANSLATION
+ cartel_event.45.t: "Bankéři přivírají oči" # todo: NEW TRANSLATION
+ cartel_event.45.d: "Dostali jsme anonymní tip, že několik vysokých bankéřů přivírá oči nad činností kartelů a někdy se jí dokonce účastní. Pokud s těmito informacemi nic neuděláme, zadavatel tipu je pravděpodobně prozradí médiím." # todo: NEW TRANSLATION
+ cartel_event.45.a: "Uvěznit dotyčné bankéře a zahájit vyšetřování." # todo: NEW TRANSLATION
+ cartel_event.45.b: "Není to v našich rukou..." # todo: NEW TRANSLATION
+ cartel_event.46.t: "Nabídka úplatků od kartelu" # todo: NEW TRANSLATION
+ cartel_event.46.d: "Několik členů naší politické elity bylo nedávno osloveno zajímavou nabídkou. Chováme se k kartelům jako k jiným zájmovým skupinám, dáváme jim prostor k působení a oni financují několik důležitých nadcházejících voleb. Ti z našich členů, kteří jsou ideologicky ohebnější, hledají u nás vedení." # todo: NEW TRANSLATION
+ cartel_event.46.a: "Samozřejmě! Jsme rádi, že spolupracujeme s tak důležitou zájmovou skupinou." # todo: NEW TRANSLATION
+ cartel_event.46.b: "Skandální! Nepředstavují zájmy lidu." # todo: NEW TRANSLATION
+ cartel_event.47.t: "Dohody s ďáblem" # todo: NEW TRANSLATION
+ cartel_event.47.d: "Několik vysoce postavených členů naší politické elity bylo nedávno pozváno na schůzku s vůdci jednoho z největších kartelů v naší zemi. Během schůzky dali vůdci kartelu jasně najevo své úmysly. Nemusejí být našimi nepřáteli, ve skutečnosti bychom mohli být politickými spojenci. Už nabídli značný podíl zisku za naši spolupráci a slibují další, jak bude partnerství pokračovat." # todo: NEW TRANSLATION
+ cartel_event.47.a: "Daně jsou důležitou součástí schopnosti státu fungovat." # todo: NEW TRANSLATION
+ cartel_event.47.b: "Nesmíme těm ďáblům ani dovolit vkročit." # todo: NEW TRANSLATION
+ cartel_event.48.t: "Regulovat obchod s drogami" # todo: NEW TRANSLATION
+ cartel_event.48.d: "Několik větších kartelů nedávno předložilo nabídku ke spolupráci na snížení nekartelové kriminality, která začala snižovat jejich ziskové marže. Na oplátku nabídli spolupráci při zajištění, aby jejich přidružené podniky vykazovaly přesnější zisky. A také udělat jejich obchod humánnějším, ať už to znamená cokoli." # todo: NEW TRANSLATION
+ cartel_event.48.a: "Vyjednat přísně regulovanou spolupráci státu s kartely." # todo: NEW TRANSLATION
+ cartel_event.48.b: "Vyjednat volněji regulovanou spolupráci státu s kartely." # todo: NEW TRANSLATION
+ cartel_event.48.c: "S kriminálníky nejednáme." # todo: NEW TRANSLATION
+ cartel_event.49.t: "Mládež ztrácí víru" # todo: NEW TRANSLATION
+ cartel_event.49.d: "Jedna z nejvíce ovlivnitelných skupin v naší populaci je mládež, a stav naší země s kartely je začíná odklánět od naší politické elity. Zatímco průzkumy ukazují, že mnozí plánují odejít, až budou schopni, ti, kteří zůstanou, mají záměr hlasovat proti nám v příštích volbách. Snažíme se o program oslovení, který má nasměrovat nejenergičtější z nich k tomu, aby spolu s námi napravili svou vlast." # todo: NEW TRANSLATION
+ cartel_event.49.a: "Podat jim ruku prostřednictvím programu oslovení." # todo: NEW TRANSLATION
+ cartel_event.49.b: "Nechme je v jejich sebelítosti, nepotřebujeme je." # todo: NEW TRANSLATION
+ cartel_event.53.t: "Odvetný útok kartelu" # todo: NEW TRANSLATION
+ cartel_event.53.d: "Po jednom z našich nedávných nájezdů provedly kartely odvetný útok na jednu z našich policejních stanic. Podařilo se jim prolomit perimetr a zahnat naše důstojníky z města, zanechávajíc za sebou stopu zkázy. To vedlo k několika obětem a incident se dostal na celostátní zprávy." # todo: NEW TRANSLATION
+ cartel_event.53.a: "Bohužel." # todo: NEW TRANSLATION
+ cartel_event.54.t: "Neúspěšný odvetný útok kartelu" # todo: NEW TRANSLATION
+ cartel_event.54.d: "Po jednom z našich nedávných nájezdů provedly kartely odvetný útok na jednu z našich policejních stanic. Naši důstojníci statečně vzdorovali a utrpěli jen několik ztrát. Po několika hodinách přišly posily a podařilo se rozprášit kartely. Incident se stal symbolem odporu proti kartelům v celostátních zprávách." # todo: NEW TRANSLATION
+ cartel_event.54.a: "Výborně." # todo: NEW TRANSLATION
+ cartel_event.55.t: "Kartely sestřelily vrtulník" # todo: NEW TRANSLATION
+ cartel_event.55.d: "Během nedávného nájezdu byl jeden z našich policejních vrtulníků sestřelen kartely. Přezkum incidentu ukázal, že bludný projektil zasáhl pilota do krku, což vedlo ke katastrofické havárii, když kopilot nestihl včas převzít kontrolu. Ztráta tak důležitého kusu vybavení, nemluvě o jeho posádce, je škoda." # todo: NEW TRANSLATION
+ cartel_event.55.a: "Bohužel." # todo: NEW TRANSLATION
+ cartel_event.56.t: "Přeživší poprav kartelu" # todo: NEW TRANSLATION
+ cartel_event.56.d: "Nalezen dobrosrdečným člověkem a odvezen do nemocnice leží muž z jedné z oblastí infikovaných kartely a nyní se nachází na tom, co se brzy může ukázat být jeho smrtelnou postelí. Nicméně máme příležitost mu pomoci. Musí být převezen do nemocnice s lepším zázemím, což by mohl zajistit jeden z našich nedalekých vojenských vrtulníků." # todo: NEW TRANSLATION
+ cartel_event.56.a: "Stane se z něj náš nový El Fusilado!" # todo: NEW TRANSLATION
+ cartel_event.56.b: "Je škoda, že naši lékaři ho nemohli zachránit..." # todo: NEW TRANSLATION
+ cartel_event.50.t1: "Úspěšné vyšetřování v kasinu" # todo: NEW TRANSLATION
+ cartel_event.50.d1: "Po týdnech plánování a dohledu vstoupily naše policejní síly do jednoho z kasin v naší zemi, zajistily miliony dolarů špinavých peněz, shromáždily důležité fyzické důkazy a zatkly klíčové hráče v praní špinavých peněz kartelu. Na základě zjištěných důkazů jsme zablokovali veškerý legitimní majetek spojený s kasinem a jeho provozovateli. Tímto úderem jsme odstranili důležitou součást infrastruktury a ztížili jim schopnost získávat použitelné prostředky." # todo: NEW TRANSLATION
+ cartel_event.50.t2: "Úspěšné vyšetřování bank" # todo: NEW TRANSLATION
+ cartel_event.50.d2: "Po týdnech čekání a monitorování převodů peněz jsme dnes zmrazili aktiva půl tuctu společností a jednotlivců, kteří byli spojeni s kartelovým praním špinavých peněz. Byly vydány zatykače a zahájeno několik menších vyšetřování podezřelých převodů mezi některými společnostmi a nízkopostavenými politiky a úředníky. I když se kartely nevyhnutelně zotaví, ztráta tolika prostředků najednou bude pro jejich infrastrukturu tvrdý zásah." # todo: NEW TRANSLATION
+ cartel_event.50.t3: "Úspěšné vyšetřování schránkových společností" # todo: NEW TRANSLATION
+ cartel_event.50.d3: "Po týdnech vyšetřování jsme uzavřeli několik podezřelých společností a při tom zabavili jejich majetek. Přestože bylo sesbíráno jen velmi málo peněz, zabavili jsme velké množství nemovitostí, civilních vozidel a dalšího zboží. To by mělo být tvrdým úderem nejen pro jejich praní špinavých peněz, ale i pro jejich schopnost udržovat veškeré operace." # todo: NEW TRANSLATION
+ cartel_event.50.t4: "Neúspěšné vyšetřování v kasinu" # todo: NEW TRANSLATION
+ cartel_event.50.d4: "Navzdory našemu nejlepšímu úsilí se našim analytikům nepodařilo navázat spojení mezi kartely a kasinem, které bylo předmětem našeho vyšetřování. Co je horší, lidé začali klást otázky, kam šly peníze použité ve vyšetřování, což vedlo k úspěšným politickým útokům opozice na naše kandidáty. Aby toho nebylo málo, kartely pokračují ve svých operacích neomezeně." # todo: NEW TRANSLATION
+ cartel_event.50.t5: "Neúspěšné vyšetřování bank" # todo: NEW TRANSLATION
+ cartel_event.50.d5: "Navzdory týdnům, které naši agenti strávili u počítačů a monitorováním bankovních převodů, jsme nenašli žádnou jasnou příležitost zasadit úder proti kartelům. Co je horší, lidé začali klást otázky, kam šly peníze z vyšetřování, což vedlo k úspěšným politickým útokům opozice na naše kandidáty. Aby toho nebylo málo, kartely pokračují ve svých operacích neomezeně." # todo: NEW TRANSLATION
+ cartel_event.50.t6: "Neúspěšné vyšetřování schránkových společností" # todo: NEW TRANSLATION
+ cartel_event.50.d6: "Navzdory času a penězům vloženým do našich vyšetřování jsme odhalili jen fondy na zabezpečení po rozvodu a schémata na ochranu odpovědnosti. Co je horší, při tom jsme dokázali šlápnout na paty právě tolika lidem, že naše vyšetřování bylo odhaleno v celostátních zprávách. Takové ztrapnění pravděpodobně poškodilo naše šance v příštích volbách. A aby toho nebylo málo, kartely pokračují ve svých operacích bez omezení." # todo: NEW TRANSLATION
+ cartel_event.50.a: "Vyšetřování ukončeno" # todo: NEW TRANSLATION
+ cartel_event.51.t1: "Úspěšný nájezd na konvoj drog" # todo: NEW TRANSLATION
+ cartel_event.51.d1: "Při nedávném úderu podél známé trasy pašování drog jsme dokázali zajistit stovky kilogramů drog, zatknout několik nízkopostavených členů kartelu a zabavit několik civilních vozidel při malých ztrátách na životech. To by mělo na krátkou dobu zastavit obchod, ale tyto ztráty může snadno absorbovat každý dostatečně velký kartel." # todo: NEW TRANSLATION
+ cartel_event.51.t2: "Úspěšný nájezd na skrýš kartelu" # todo: NEW TRANSLATION
+ cartel_event.51.d2: "Při nedávném úderu na známé silné stanoviště kartelu se nám podařilo zabít nebo zatknout desítky členů kartelu a zajistit nebo zničit několik kusů použitelné vojenské techniky a improvizovaných zbraní. Tento úder by mohl mít následný efekt, když se jiné organizace pokusí využít momentální slabosti." # todo: NEW TRANSLATION
+ cartel_event.51.t3: "Úspěšný nájezd na distribuční centrum" # todo: NEW TRANSLATION
+ cartel_event.51.d3: "Při nedávném úderu na známé distribuční centrum se nám podařilo zajistit pašované peníze a drogy v hodnotě stovek tisíc dolarů. Také jsme začali zatýkat řadu dealerů spojených s tímto místem, což vážně ztížilo jejich schopnost dodávat drogy na trh a vydělávat. Navzdory našemu úspěchu bychom měli být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.t4: "Úspěšný nájezd na rafinační centrum" # todo: NEW TRANSLATION
+ cartel_event.51.d4: "Při nedávném úderu na známé rafinační centrum se nám podařilo zničit vybavení a drogy v hodnotě stovek tisíc dolarů. Také se nám podařilo zatknout mnoho lidí zapojených do rafinace, což je v budoucnu oslabí při výrobě dalších drog. Navzdory našemu úspěchu bychom měli být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.t5: "Neúspěšný nájezd na konvoj drog" # todo: NEW TRANSLATION
+ cartel_event.51.d5: "Při nedávném pokusu o úder podél známé trasy pašování drog byly naše síly přemoženy a byly nuceny ustoupit, přičemž zůstalo několik obětí. Informace o události již unikly na veřejnost a snižují důvěru v naši vládu. Měli bychom být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.t6: "Neúspěšný nájezd na skrýš kartelu" # todo: NEW TRANSLATION
+ cartel_event.51.d6: "Při nedávném pokusu o úder na známé silné stanoviště kartelu byly naše síly přemoženy a byly nuceny ustoupit, přičemž zůstalo několik obětí. Informace o události již unikly na veřejnost a snižují důvěru v naši vládu. Měli bychom být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.t7: "Neúspěšný nájezd na distribuční centrum" # todo: NEW TRANSLATION
+ cartel_event.51.d7: "Při nedávném pokusu o úder na známé distribuční centrum kartelu byly naše síly přemoženy a byly nuceny ustoupit, přičemž zůstalo několik obětí. Informace o události již unikly na veřejnost a snižují důvěru v naši vládu. Všichni spjatí s místem se mezitím rozprchli. Měli bychom být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.t8: "Neúspěšný nájezd na rafinační centrum" # todo: NEW TRANSLATION
+ cartel_event.51.d8: "Při nedávném pokusu o úder na známé rafinační centrum byly naše síly přemoženy a byly nuceny ustoupit, přičemž zůstalo několik obětí. Informace o události již unikly na veřejnost a snižují důvěru v naši vládu. Měli bychom být ostražití vůči možnosti odvetného útoku." # todo: NEW TRANSLATION
+ cartel_event.51.a: "Nájezd skončil" # todo: NEW TRANSLATION
+ cartel_event.52.t: "Konec kartelů" # todo: NEW TRANSLATION
+ cartel_event.52.d: "Po dekádách bojů a obětech mnohých jsme vyhladili všechny pozůstatky kartelů z naší země. Nicméně stále nejsme v bezpečí před jejich vlivem. Jiné země v našem regionu stále trpí vládou těchto monster a nyní se stává, že máme bohaté zkušenosti v lovu monster." # todo: NEW TRANSLATION
+ cartel_event.52.a: "To je nová éra pro [ROOT.GetName]." # todo: NEW TRANSLATION
+ cartel_event.100.t: "[FROM.GetName] porazil své kartely" # todo: NEW TRANSLATION
+ cartel_event.100.d: "Dostaly se zprávy z [FROM.GetName], že uspěli proti svým kartelům. Stabilita a mír se vrátily do regionu." # todo: NEW TRANSLATION
+ cartel_event.100.a: "Nový trh?" # todo: NEW TRANSLATION
+ cartel_event.100.b: "Stabilita v [FROM.GetName]" # todo: NEW TRANSLATION
+ cartel_event.101.t: "[FROM.GetAdjective] narkové války" # todo: NEW TRANSLATION
+ cartel_event.101.d: "V přípravě" # todo: NEW TRANSLATION
+ cartel_event.101.a: "V přípravě" # todo: NEW TRANSLATION
+ cartel_event.101.b: "V přípravě" # todo: NEW TRANSLATION

@@ -1,0 +1,39 @@
+﻿l_english:
+ cc_leader:0 "Generálporučík" # todo: NEW TRANSLATION
+ fm_leader:0 "Generál" # todo: NEW TRANSLATION
+ field_marshal_traits:0 "Vlastnosti generálů" # todo: NEW TRANSLATION
+ assignable_traits:1 "Vlastnosti generálporučíků" # todo: NEW TRANSLATION
+ TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS:0 "Vlastnosti generálů lze přiřadit pouze generálům.\n" # todo: NEW TRANSLATION
+ FIELD_MARSHAL_TRAITS_DESC:0 "Vlastnosti generálů lze přiřadit pouze generálům. Generálové také mohou používat běžné vlastnosti, ale jejich účinky budou sníženy, pokud velí více než jedné armádě." # todo: NEW TRANSLATION
+ ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS:0 "Velitel již má maximální počet přiřaditelných vlastností.\n" # todo: NEW TRANSLATION
+ SKILL_ATTACK:0 "§HÚtok§!" # todo: NEW TRANSLATION
+ SKILL_ATTACK_DESC:0 "§LDovednost Útok zvyšuje útočné statistiky jednotek, které velí tento velitel.§!" # todo: NEW TRANSLATION
+ SKILL_DEFENSE:0 "§HObrana§!" # todo: NEW TRANSLATION
+ SKILL_DEFENSE_DESC:0 "§LDovednost Obrana zvyšuje obranné statistiky jednotek, které velí tento velitel.§!" # todo: NEW TRANSLATION
+ SKILL_PLANNING:0 "§HPlánování§!" # todo: NEW TRANSLATION
+ SKILL_PLANNING_DESC:0 "§LDovednost Plánování zvyšuje rychlost plánování jednotek, které velí tento velitel.§!" # todo: NEW TRANSLATION
+ SKILL_LOGISTICS:0 "§HLogistika§!" # todo: NEW TRANSLATION
+ SKILL_LOGISTICS_DESC:0 "§LDovednost Logistika snižuje spotřebu zásob jednotkami, které velí tento velitel.§!" # todo: NEW TRANSLATION
+ SKILL_LEVEL_MAX:0 "Velitel je již na maximální úrovni." # todo: NEW TRANSLATION
+ SKILL_LEVEL_NEXT_AMOUNT:0 "Váš velitel potřebuje $VALUE|H$ zkušeností pro postup na další úroveň." # todo: NEW TRANSLATION
+ SKILL_LEVEL_CURRENT_PROGRESS:0 "Aktuální pokrok: $VALUE|H%0$" # todo: NEW TRANSLATION
+ SKILL_LEVEL_DETAILS:0 "Po postupu o úroveň velitel získá 3 náhodné body do statistik. Typ vlastností, které velitel má, zvyšuje šance na získání bodu do příslušných statistik." # todo: NEW TRANSLATION
+ ASSIGNABLE_TRAITS_DESC:1 "Vlastnosti velitele jsou vlastnosti, které lze ručně přiřadit veliteli. Každý velitel má maximální počet vlastností, které mu lze přiřadit." # todo: NEW TRANSLATION
+ TERRAIN_TRAITS_DESC:0 "Terénní vlastnosti dávají velitelům bonusy při boji v konkrétních terénech. Mohou být přiřazeny ručně nebo získány zkušenostmi stejně jako základní vlastnosti." # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT:0 "Přiřadit vlastnost veliteli" # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC:0 "Opravdu chcete přiřadit $TRAIT|H$ veliteli $LEADER|H$?" # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING:0 "Po přiřazení této vlastnosti budete mít $NUM|H$ dalších volných míst pro vlastnosti u tohoto velitele." # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE:0 "Po přiřazení této vlastnosti budete mít §Ržádná§! volná místa pro přiřazení vlastností tomuto veliteli." # todo: NEW TRANSLATION
+ torpedo_expert:0 "Expert na střely" # todo: NEW TRANSLATION
+ torpedo_expert_desc:0 "§LZasáhnout loď plující rychlostí 25 uzlů pod relativním úhlem 72 stupňů na vzdálenost 8 kilometrů je ve skutečnosti jen trochu jednoduché počítání.§!" # todo: NEW TRANSLATION
+ dive_bomber:0 "Expert na STOL" # todo: NEW TRANSLATION
+ dive_bomber_desc:0 "Odborník na obsluhu letadel se zkráceným vzletem a přistáním." # todo: NEW TRANSLATION
+ torpedo_bomber:0 "Expert na VTOL" # todo: NEW TRANSLATION
+ torpedo_bomber_desc:0 "Odborník na obsluhu letadel s vertikálním vzletem a přistáním." # todo: NEW TRANSLATION
+ loading_drill_master:0 "Mistr nakládání" # todo: NEW TRANSLATION
+ loading_drill_master_desc:0 "§L\"Střílejte do nich znovu, ještě nejsou mrtví!\"§!" # todo: NEW TRANSLATION
+ lancer:0 "Lancer" # todo: NEW TRANSLATION
+ lancer_desc:0 "§LTento důstojník zná střely jako žádný jiný a dokáže z nich vytěžit maximum.§!" # todo: NEW TRANSLATION
+ cavalary_ratio_over_40:1 "Poměr mechanizované a obrněné pěchoty > §Y50%§!" # todo: NEW TRANSLATION
+ infantry_ratio_over_80:0 "Poměr pěchoty a motorizované pěchoty > §Y50%§!" # todo: NEW TRANSLATION
+ armored_ratio_over_40:0 "Poměr tanků > §Y50%§!" # todo: NEW TRANSLATION

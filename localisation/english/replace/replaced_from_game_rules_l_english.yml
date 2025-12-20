@@ -1,0 +1,63 @@
+﻿l_english:
+ RULE_GROUP_COVERT_ACTIONS: "Tajné akce" # todo: NEW TRANSLATION
+ RULE_ALLOW_COUPS: "Puče" # todo: NEW TRANSLATION
+ RULE_ALLOW_COUPS_FREE_DESC: "Země mohou bez omezení připravovat a provádět puče." # todo: NEW TRANSLATION
+ RULE_ALLOW_COUPS_AI_ONLY_DESC: "Země mohou připravovat a provádět puče pouze proti zemím, které nejsou ovládány člověkem." # todo: NEW TRANSLATION
+ RULE_ALLOW_COUPS_BLOCKED_DESC: "Země nesmějí v žádné zemi připravovat ani provádět puče." # todo: NEW TRANSLATION
+ RULE_ALLOW_PARTY_BOOSTING_FREE_DESC: "Země mohou zvyšovat popularitu politických stran v jakékoli jiné zemi." # todo: NEW TRANSLATION
+ RULE_ALLOW_PARTY_BOOSTING_AI_ONLY_DESC: "Země mohou zvyšovat popularitu politických stran pouze v zemích, které nejsou ovládány člověkem." # todo: NEW TRANSLATION
+ RULE_ALLOW_PARTY_BOOSTING_PLAYER_ONLY_DESC: "Země mohou zvyšovat popularitu politických stran pouze v zemích ovládaných člověkem." # todo: NEW TRANSLATION
+ RULE_ALLOW_PARTY_BOOSTING_BLOCKED_DESC: "Země nesmějí zvyšovat popularitu politických stran v žádné zemi." # todo: NEW TRANSLATION
+ RULE_MAXIMUM_FORT_LEVEL: "Maximální úroveň opevnění" # todo: NEW TRANSLATION
+ RULE_MAXIMUM_FORT_LEVEL_NORMAL_DESC: "Země mohou stavět pozemní a pobřežní opevnění podle běžných omezení." # todo: NEW TRANSLATION
+ RULE_MAXIMUM_FORT_LEVEL_DESC: "Země mohou stavět pozemní a pobřežní opevnění pouze do vybrané úrovně. Opevnění přítomná na začátku hry nejsou tímto ovlivněna. Budovy získané dokončením národních zaměření, rozhodnutí a událostí mohou překračovat vybranou úroveň." # todo: NEW TRANSLATION
+ RULE_GROUP_GAMEPLAY: "Pravidla hry" # todo: NEW TRANSLATION
+ RULE_OPTION_YES: "Ano" # todo: NEW TRANSLATION
+ RULE_OPTION_NO: "Ne" # todo: NEW TRANSLATION
+ RULE_OPTION_1: "Úroveň 1" # todo: NEW TRANSLATION
+ RULE_OPTION_2: "Úroveň 2" # todo: NEW TRANSLATION
+ RULE_OPTION_3: "Úroveň 3" # todo: NEW TRANSLATION
+ RULE_OPTION_4: "Úroveň 4" # todo: NEW TRANSLATION
+ RULE_OPTION_5: "Úroveň 5" # todo: NEW TRANSLATION
+ RULE_OPTION_6: "Úroveň 6" # todo: NEW TRANSLATION
+ RULE_OPTION_7: "Úroveň 7" # todo: NEW TRANSLATION
+ RULE_OPTION_8: "Úroveň 8" # todo: NEW TRANSLATION
+ RULE_OPTION_9: "Úroveň 9" # todo: NEW TRANSLATION
+ RULE_GROUP_AI_BEHAVIOR: "Chování AI" # todo: NEW TRANSLATION
+ RULE_OPTION_DEFAULT: "Výchozí" # todo: NEW TRANSLATION
+ RULE_OPTION_DEFAULT_AI_DESC: "AI bude přijímat rozhodnutí na základě ostatních herních nastavení, například možnosti vynutit historická zaměření a další herní scénáře. Toto chování je stejné jako ve verzi 1.5 a dřívějších." # todo: NEW TRANSLATION
+ RULE_GROUP_COUNTRY_SPECIFIC: "Pravidla hry specifická pro zemi" # todo: NEW TRANSLATION
+ RULE_GROUP_GENERAL_FOREIGN_POLICY: "Zahraniční politika" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS: "Válečné cíle" # todo: NEW TRANSLATION
+ RULE_OPTION_ALWAYS_FREE: "Vždy povoleno" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_ALWAYS_FREE_DESC: "Neomezené pro jakoukoli ideologii bez ohledu na úroveň světového napětí." # todo: NEW TRANSLATION
+ RULE_OPTION_LIMITED: "Omezeno" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_LIMITED_DESC: "Generování válečných cílů je omezeno ideologiemi a limity světového napětí." # todo: NEW TRANSLATION
+ RULE_OPTION_FREE_25: "Volné při 25 % světového napětí" # todo: NEW TRANSLATION
+ RULE_OPTION_FREE_50: "Volné při 50 % světového napětí" # todo: NEW TRANSLATION
+ RULE_OPTION_FREE_75: "Volné při 75 % světového napětí" # todo: NEW TRANSLATION
+ RULE_OPTION_FREE_100: "Volné při 100 % světového napětí" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FREE_25_DESC: "Generování válečných cílů je zakázáno pod 25 % světového napětí, ale poté je dostupné pro všechny země. To přepisuje jakákoli ideologická omezení, ale stále umožňuje získání válečných cílů prostřednictvím zaměření." # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FREE_50_DESC: "Generování válečných cílů je zakázáno pod 50 % světového napětí, ale poté je dostupné pro všechny země. To přepisuje jakákoli ideologická omezení, ale stále umožňuje získání válečných cílů prostřednictvím zaměření." # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FREE_75_DESC: "Generování válečných cílů je zakázáno pod 75 % světového napětí, ale poté je dostupné pro všechny země. To přepisuje jakákoli ideologická omezení, ale stále umožňuje získání válečných cílů prostřednictvím zaměření." # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FREE_100_DESC: "Generování válečných cílů je zakázáno pod 100 % světového napětí, ale poté je dostupné pro všechny země. To přepisuje jakákoli ideologická omezení, ale stále umožňuje získání válečných cílů prostřednictvím zaměření." # todo: NEW TRANSLATION
+ RULE_OPTION_FOCUSES_ONLY: "Pouze zaměření" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FOCUSES_ONLY_DESC: "Válečné cíle lze získat pouze prostřednictvím národních zaměření, událostí a rozhodnutí." # todo: NEW TRANSLATION
+ RULE_OPTION_FOCUSES_ONLY_38: "Pouze zaměření (do roku 1938)" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FOCUSES_ONLY_38_DESC: "Válečné cíle lze získat pouze prostřednictvím národních zaměření, událostí a rozhodnutí do roku 1938." # todo: NEW TRANSLATION
+ RULE_OPTION_FOCUSES_ONLY_39: "Pouze zaměření (do roku 1939)" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FOCUSES_ONLY_39_DESC: "Válečné cíle lze získat pouze prostřednictvím národních zaměření, událostí a rozhodnutí do roku 1939." # todo: NEW TRANSLATION
+ RULE_OPTION_FOCUSES_ONLY_40: "Pouze zaměření (do roku 1940)" # todo: NEW TRANSLATION
+ RULE_ALLOW_WARGOALS_FOCUSES_ONLY_40_DESC: "Válečné cíle lze získat pouze prostřednictvím národních zaměření, událostí a rozhodnutí do roku 1940." # todo: NEW TRANSLATION
+ RULE_ALLOW_MILITARY_ACCESS: "Vojenský přístup a práva přístavování" # todo: NEW TRANSLATION
+ RULE_ALLOW_LICENSING: "Výrobní licence" # todo: NEW TRANSLATION
+ RULE_ALLOW_LICENSING_FREE_DESC: "Země mohou získávat výrobní licence od jakékoli země." # todo: NEW TRANSLATION
+ RULE_ALLOW_LICENSING_SAME_IDEOLOGY_DESC: "Země mohou získávat výrobní licence pouze od zemí, které sdílejí stejné vládnoucí ideologii." # todo: NEW TRANSLATION
+ RULE_ALLOW_LICENSING_SAME_FACTION_DESC: "Země mohou získávat výrobní licence pouze od zemí ve stejné frakci." # todo: NEW TRANSLATION
+ RULE_ALLOW_LICENSING_BLOCKED_DESC: "Země nikdy nesmí získat výrobní licence mimo speciální rozhodnutí a události." # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE: "Lend-Lease" # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE_FREE_DESC: "Země mohou lend-leaseovat vybavení komukoli při jakékoli úrovni světového napětí." # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "Lend-Lease je omezeno úrovní světového napětí a ideologickými pravidly." # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Země mohou lend-lease vybavení poskytovat pouze zemím se stejnou vládnoucí ideologií." # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Země mohou lend-lease vybavení poskytovat pouze zemím ve stejné frakci." # todo: NEW TRANSLATION
+ RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Země nikdy nesmí lend-lease vybavení jiné zemi." # todo: NEW TRANSLATION

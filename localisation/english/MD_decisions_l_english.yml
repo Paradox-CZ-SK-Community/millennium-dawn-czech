@@ -1,0 +1,814 @@
+﻿l_english:
+ jihadist_decisions: "Džihád!" # todo: NEW TRANSLATION
+ jihadist_decisions_desc: "Byl vyhlášen džihád naším velkým chalífou." # todo: NEW TRANSLATION
+ allow_foreign_recruitment: "Povolit zahraniční nábor" # todo: NEW TRANSLATION
+ allow_foreign_recruitment_desc: "Povolení zahraničního náboru nám dá šanci posílit naše řady, abychom mohli pokračovat v boji za Alláha. Tento krok však bude nepříjemný pro některé z našich více xenofobních džihádistů." # todo: NEW TRANSLATION
+ draw_in_foreign_recruits: "Přitáhnout rekruty" # todo: NEW TRANSLATION
+ draw_in_foreign_recruits_desc: "Jelikož [ROOT.GetLeader] nám dovolil čerpat rekruty mimo naše území, měli bychom začít přitahovat další rekruty kdekoliv a kdykoliv to půjde. Objevuje se však jeden problém. Náš velký chalífát začne postupně integrovat myšlenky těchto rekrutů, pokud nebudou oddaní své věci." # todo: NEW TRANSLATION
+ JAP_spirit_of_the_warrior: "Vyhlásit Ducha válečníka" # todo: NEW TRANSLATION
+ JAP_spirit_of_the_warrior_desc: "Nejdříve musíme podrobit celé Číny, pak ovládneme svět!" # todo: NEW TRANSLATION
+ ALB_nationalist_claims_FYR: "Nárokovat naše země zpět od [FYR.GetNameWithFlag]" # todo: NEW TRANSLATION
+ ALB_nationalist_claims_FYR_desc: "Měli bychom sjednotit všechny Albánce do velké a jednotné Albánie." # todo: NEW TRANSLATION
+ ALB_nationalist_claims_KOS: "Nárokovat Kosovo" # todo: NEW TRANSLATION
+ ALB_nationalist_claims_KOS_desc: "Měli bychom sjednotit všechny Albánce do velké a jednotné Albánie." # todo: NEW TRANSLATION
+ ALB_nationalist_claims_SER: "Nárokovat Kosovo" # todo: NEW TRANSLATION
+ ALB_nationalist_claims_SER_desc: "Měli bychom sjednotit všechny Albánce do velké a jednotné Albánie." # todo: NEW TRANSLATION
+ AUS_nationalist_claims_ITA: "Nárokovat Südtirol" # todo: NEW TRANSLATION
+ AUS_nationalist_claims_ITA_desc: "Südtirol je právem rakouský. Je načase si ho vzít zpět." # todo: NEW TRANSLATION
+ DEN_nationalist_claims_GER: "Nárokovat Schleswig-Holstein" # todo: NEW TRANSLATION
+ DEN_nationalist_claims_GER_desc: "Historicky a kulturně dánský, příliš dlouho jsme nechávali dánský lid v Schleswig-Holsteinu být utlačován [GER.GetNameWithFlag]." # todo: NEW TRANSLATION
+ DEN_nationalist_claims_SWE: "Nárokovat Skåne" # todo: NEW TRANSLATION
+ DEN_nationalist_claims_SWE_desc: "Historicky a kulturně dánské, příliš dlouho jsme nechávali náš lid ve Skåne být utlačován [SWE.GetNameWithFlag]." # todo: NEW TRANSLATION
+ FRA_nationalist_claims_BEL: "Nárokovat Valonsko od [BEL.GetNameWithFlag]" # todo: NEW TRANSLATION
+ FRA_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] je umělý útvar. Je nám jedno, co vláda ve Flandrech dělá se zbytky. Ale jedna věc je jistá - frankofonní region Valonsko musí být vrácen [FRA.GetNameWithFlag]." # todo: NEW TRANSLATION
+ FRA_nationalist_claims_SWI: "Nárokovat francouzsky mluvící oblast Švýcarska" # todo: NEW TRANSLATION
+ FRA_nationalist_claims_SWI_desc: "Jsme přesvědčeni, že francouzští lidé ve Švýcarsku by byli mnohem šťastnější jako součást [FRA.GetNameWithFlag]." # todo: NEW TRANSLATION
+ HOL_nationalist_claims_BEL: "Nárokovat Vlaanderen a Brabant" # todo: NEW TRANSLATION
+ HOL_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] je umělý útvar. Příliš dlouho se vláda ve Flandrech snažila o sjednocení s [FRA.GetNameWithFlag]. Je čas to uskutečnit." # todo: NEW TRANSLATION
+ HUN_nationalist_claims_ROM: "Nárokovat maďarské části Transylvánie" # todo: NEW TRANSLATION
+ HUN_nationalist_claims_ROM_desc: "Útlak maďarského obyvatelstva v Rumunsku trvá příliš dlouho. Musíme usilovat o jejich navrácení do vlastní Maďarské vlasti." # todo: NEW TRANSLATION
+ HUN_nationalist_claims_UKR: "Nárokovat Maďarskou Karpatia" # todo: NEW TRANSLATION
+ HUN_nationalist_claims_UKR_desc: "Maďarské obyvatelstvo na Ukrajině trpělo příliš dlouho. Musíme usilovat o znovusjednocení s nimi." # todo: NEW TRANSLATION
+ NOR_nationalist_claims_DEN: "Nárokovat zpět Grønland a Færøyene" # todo: NEW TRANSLATION
+ NOR_nationalist_claims_DEN_desc: "Vždy historické části Norska, naše území byly nezákonně předány [DEN.GetNameWithFlag] [SWE.GetNameWithFlag]. Není to fér. Je samozřejmé, že je chceme zpět." # todo: NEW TRANSLATION
+ NOR_nationalist_claims_ENG: "Nárokovat Shetlandy" # todo: NEW TRANSLATION
+ NOR_nationalist_claims_ENG_desc: "Shetlandy jsou kulturně blíže Norsku než Skotsku nebo [ENG.GetNameWithFlag]. Byli by šťastnější pod námi." # todo: NEW TRANSLATION
+ NOR_nationalist_claims_SCO: "Nárokovat Shetlandy" # todo: NEW TRANSLATION
+ NOR_nationalist_claims_SCO_desc: "Shetlandy jako součást nezávislého [SCO.GetNameWithFlag] jsou krutý vtip. Lidé tam touží po dni, kdy budou sjednoceni se svými vikingskými bratry." # todo: NEW TRANSLATION
+ NOR_nationalist_claims_ICE: "Nárokovat [ICE.GetNameWithFlag]" # todo: NEW TRANSLATION
+ NOR_nationalist_claims_ICE_desc: "[ICE.GetNameWithFlag] byla osídlena Nory a po dlouhou dobu byla součástí Království Norska, než byla nezákonně předána [DEN.GetNameWithFlag] [SWE.GetNameWithFlag] jako součást uspořádání po napoleonských válkách. Ačkoliv je [ICE.GetNameWithFlag] nyní nezávislé, známe jejich preferenci - Norsko." # todo: NEW TRANSLATION
+ SWE_nationalist_claims_FIN: "Nárokovat Åland od [FIN.GetNameWithFlag]" # todo: NEW TRANSLATION
+ SWE_nationalist_claims_FIN_desc: "Åland je etnicky švédský, a méněcenní Finové by ho měli okamžitě vydat, nebo čelit následkům!" # todo: NEW TRANSLATION
+ generic_coalition_politics_desicions: "[Root.GetAdjective] politická rozhodnutí" # todo: NEW TRANSLATION
+ generic_coalition_politics_desicions_desc: "Politické zákony:\n\nMá volby: [has_elections_check]\nHranice voleb: [?election_threshold|%0] [term_limit_text]" # todo: NEW TRANSLATION
+ term_limit_text: "\nLimit období: [?term_limit]\nAktuální období: [?current_term]" # todo: NEW TRANSLATION
+ has_election_no: "Ne" # todo: NEW TRANSLATION
+ has_election_yes: "Ano" # todo: NEW TRANSLATION
+ remove_usaid: "Ukončit USAID" # todo: NEW TRANSLATION
+ remove_usaid_desc: "Je čas postavit se odvážně proti Americe a odmítnout jejich pomoc. Nepotřebujeme ji a nikdy ji potřebovat nebudeme. Stojíme pevně jako národ a jako lid proti zasahování západních mocností do naší země." # todo: NEW TRANSLATION
+ GEN_remove_saudi_aid: "Zastavit saúdské financování mešit" # todo: NEW TRANSLATION
+ GEN_remove_saudi_aid_desc: "Saúdské financování mešit v naší zemi je zcela zbytečné a je načase eliminovat jejich přítomnost v naší velké zemi." # todo: NEW TRANSLATION
+ GEN_crack_down_on_muslim_broterhood: "Potlačit Muslimské bratrstvo" # todo: NEW TRANSLATION
+ GEN_stop_crackdowns: "Zastavit zásahy proti Muslimskému bratrstvu" # todo: NEW TRANSLATION
+ GEN_allow_al_jazeera: "Povolit Al-Džazíru" # todo: NEW TRANSLATION
+ GEN_ban_al_jazeera: "Zakázat Al-Džazíru" # todo: NEW TRANSLATION
+ retire_current_leader: "[Root.GetLeader]: Odejít z funkce vůdce" # todo: NEW TRANSLATION
+ retire_current_leader_desc: "Ač by to jistě bylo šokující, stálo by to vysokou politickou cenu a navždy by to vyloučilo možnost návratu [Root.GetLeader] do politiky, existuje možnost odejít do důchodu, trávit více času s rodinou a vyhnout se politickému útrapám.\n\n§WEfekt:§!\n§H[Root.GetLeader]§! §Wodejde z funkce vůdce [Root.GetName]§!\n§H[show_ruling_party]§! §Wsi vybere nového vůdce ze svých řad.§!" # todo: NEW TRANSLATION
+ hold_reelections: "Uskutečnit nové mimořádné volby" # todo: NEW TRANSLATION
+ hold_reelections_desc: "Uskuteční se nové volby za 14 dnů. Vzhledem k jejich mimořádné povaze budou následující volby i tak konány v plánovaném budoucím termínu." # todo: NEW TRANSLATION
+ permanently_suspend_elections: "Trvale pozastavit volby" # todo: NEW TRANSLATION
+ permanently_suspend_elections_desc: "Jelikož jsme vláda nakloněná autokracii, bylo by pošetilé znovu kdy pořádat volby, které by mohly ohrozit náš úchop moci." # todo: NEW TRANSLATION
+ return_democracy: "Umožnit demokracii a volby v [Root.GetName]" # todo: NEW TRANSLATION
+ return_democracy_desc: "Můžeme se rozhodnout demokratizovat zemi a začít pořádat skutečné volby. Nicméně, i když zatím zůstaneme u moci, může být nebezpečné nechat lid rozhodovat." # todo: NEW TRANSLATION
+ demobilize_after_warfare_mission: "Demobilizovat zemi" # todo: NEW TRANSLATION
+ demobilize_after_warfare_mission_desc: "Naše válečné dny skončily a nyní je čas stáhnout naše vojenské výdaje." # todo: NEW TRANSLATION
+ fascism_extremist_civil_war: "[Nat_Fascism_L] ([?party_pop_array^21|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ fascism_extremist_civil_war_desc: "Extremistické síly na extrémní pravici, v čele s [Nat_Fascism_L], nabírají sílu. Oblíbené mezi vojáky a některými vojenskými veliteli, začínají kolovat zvěsti o povstání s cílem uchopit moc. \n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ fascism_20_tt: "[Nat_Fascism_L] ([?party_pop_array^21|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ nat_autocracy_extremist_civil_war: "[Nat_Autocracy_L] ([?party_pop_array^22|%0]) zahájí vojenský puč k sesazení vlády" # todo: NEW TRANSLATION
+ nat_autocracy_civil_war_desc: "Vojenské složky získávají vliv ve vládě. Pod vedením [Nat_Autocracy_L] je pravděpodobné, že mnoho částí armády by podpořilo povstání proti vládě s cílem zřídit juntu. \n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ nat_autocracy_20_tt: "[Nat_Autocracy_L] ([?party_pop_array^22|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ monarchist_extremist_civil_war: "[Monarchist_L] ([?party_pop_array^23|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ monarchist_extremist_civil_war_desc: "Monarchistické síly, prosazující absolutní monarchii, nabírají sílu pod praporem [Monarchist_L]. Oblíbené mezi vojáky a některými vojenskými veliteli, začínají kolovat zvěsti o povstání s cílem uchopit moc. \n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ monarchist_20_tt: "[Monarchist_L] ([?party_pop_array^23|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ caliphate_extremist_civil_war: "[Caliphate_L] ([?party_pop_array^11|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ caliphate_extremist_civil_war_desc: "Salafistický džihádismus se stal významnou silou v [Root.GetName]. Díky těsné organizaci a fanatické náboženské motivaci jsou více než ochotni bojovat dlouhou a vyčerpávající válku, aby porazili \"zkorumpovanou a proti-islámskou vládu\" a zřídili svůj Chalífát.\n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ caliphate_20_tt: "[Caliphate_L] ([?party_pop_array^11|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ communist_state_extremist_civil_war: "[Communist-State_L] ([?party_pop_array^4|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ communist_state_extremist_civil_war_desc: "Komunisté [Communist-State_L] mají dost pouhého pochodu v ulicích a rozdávání letáků. Tentokrát to nejsou jen řeči. Se podporou napříč společností se konečně zdá, že jsou připraveni zahájit ozbrojenou revoluci třídního boje, svrhnout buržoazně-imperialistickou vládu [Root.GetName] a konečně ustanovit diktaturu proletariátu, po které utlačované masy touží! Duch Lenina a Maa je stále živý - Viva la revolución!\n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ communist_state_20_tt: "[Communist-State_L] ([?party_pop_array^4|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ neutral_communist_extremist_civil_war: "[Neutral_Communism_L] ([?party_pop_array^19|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ neutral_communist_extremist_civil_war_desc: "Komunisté [Neutral_Communism_L] mají dost pouhého pochodu v ulicích a rozdávání letáků. Tentokrát to nejsou jen řeči. Se širokou podporou ve společnosti se zdá, že jsou připraveni zahájit ozbrojenou revoluci třídního boje, svrhnout buržoazně-imperialistickou vládu [Root.GetName] a ustanovit diktaturu proletariátu, po které utlačované masy touží! Duch Lenina a Maa je stále živý - Viva la revolución!\n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ neutral_communist_20_tt: "[Neutral_Communism_L] ([?party_pop_array^19|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ vilayat_e_faqih_extremist_civil_war: "[Vilayat_e_Faqih_L] ([?party_pop_array^9|%0]) zahájí povstání za sesazení vlády" # todo: NEW TRANSLATION
+ vilayat_e_faqih_extremist_civil_war_desc: "Inspirováni Íránskou islámskou revolucí z roku 1979 a s ideologickou podporou sil Osy odporu jsou [Vilayat_e_Faqih_L] údajně připraveni svrhnout vládu, i kdyby to pro většinu z nich znamenalo \"ochutnat sladkou šťávu mučednictví\". Díky těsné organizaci a silným ideologickým a náboženským základům usilují o založení \"Vládního systému islámské jurisprudence\", který bude oporou proti sionismu a západnímu vlivu.\n\nEfekt:\n§HZahájit občanskou válku: 50% síla§!\n\n§SPo spuštění toho převezmete kontrolu nad povstáním§!" # todo: NEW TRANSLATION
+ vilayat_e_faqih_20_tt: "[Vilayat_e_Faqih_L] ([?party_pop_array^9|%1]) > 20% Popularity" # todo: NEW TRANSLATION
+ promote_outlook_decision_category: "Podpora názorů" # todo: NEW TRANSLATION
+ promote_outlook_decision_category_desc: "Existují určité frakce v zemi, které můžeme podporovat." # todo: NEW TRANSLATION
+ promote_outlook_decision_support_pro_western_parties: "Prozápadní propagační kampaň" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_pro_western_parties_desc: "Pomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Každá taková kampaň však bude účinná jen po omezenou dobu, protože zájem veřejnosti postupně opadá.\n\n§YNáklady na propagační kampaň§! Modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady pro prozápadní kampaň§! Modifikátor: [?ROOT.modifier@western_outlook_campaign_cost_modifier|-2%]" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_emerging_parties: "Propagandistická kampaň pro vznikající směry" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_emerging_parties_desc: "Pomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Každá taková kampaň bude účinná jen po omezenou dobu, protože lidé po čase ztrácejí zájem.\n\n§YNáklady na propagační kampaň§! Modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady pro kampaň pro vznikající směry§! Modifikátor: [?ROOT.modifier@emerging_outlook_campaign_cost_modifier|-2%]" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_non_aligned_parties: "Propagandistická kampaň Nezařazených" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_non_aligned_parties_desc: "Pomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Nicméně každá taková kampaň bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady na propagační kampaň§! Modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady pro kampaň Nezařazených§! Modifikátor: [?ROOT.modifier@nonaligned_outlook_campaign_cost_modifier|-2%]" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_nationalists: "Nacionalistická propagační kampaň" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_nationalists_desc: "Pomocí informační války můžeme ovlivnit veřejné mínění o světové situaci tak, aby ji vnímalo nacionalisticky. Nicméně každá taková kampaň bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady na propagační kampaň§! Modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady pro nacionalistickou kampaň§! Modifikátor: [?ROOT.modifier@nationalist_outlook_campaign_cost_modifier|-2%]" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_salafists: "Salafistická indoktrinační kampaň" # todo: NEW TRANSLATION
+ promote_outlook_decision_support_the_salafists_desc: "Pomocí informační války, propagace ultrakonzervativních duchovních a podobně, můžeme ovlivnit a radikalizovat veřejné mínění v prospěch salafismu. Nicméně každá taková kampaň bude účinná jen omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady na propagační kampaň§! Modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady salafistické indoktrinační kampaně§! Modifikátor: [?ROOT.modifier@salafist_outlook_campaign_cost_modifier|-2%]" # todo: NEW TRANSLATION
+ rebuild_bosphorus_strait: "Opravit Bospor" # todo: NEW TRANSLATION
+ rebuild_bosphorus_strait_desc: "Bospor je zablokován masivním vrakem lodi a jeho vyčištění bude vyžadovat značný čas." # todo: NEW TRANSLATION
+ propaganda_campaign_costs_tt: "Další výdaje: §R0,10%§! HDP\n" # todo: NEW TRANSLATION
+ coalition_countdown: "Sestavit novou vládu" # todo: NEW TRANSLATION
+ coalition_countdown_desc: "Abychom předešli nebezpečné mocenské vakuum, budeme muset co nejdříve sestavit novou vládu." # todo: NEW TRANSLATION
+ has_formed_coalition_TT: "Vládní koalice ([?government_coalition_strength_elect|%1]) > Prahová většina ([?majority_threshold|%1])" # todo: NEW TRANSLATION
+ AI_form_government_TT: "AI sestaví vládu za vás\n" # todo: NEW TRANSLATION
+ coalition_decisions: "Sestavit novou vládu" # todo: NEW TRANSLATION
+ coalition_decisions_desc: "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) nezískali potřebnou většinu ve volbách, aby sami sestavili vládu. Musíme pozvat jiné strany, aby se připojily.\n\nStrany, které získaly více hlasů než my, nebudou mít zájem se připojit. Cena v politické síle za přidání strany do vlády závisí na její velikosti a politické vzdálenosti od nás.\n\n§Zatím naše koalice se skládá z:§!\n[show_ruling_party] ([show_ruling_elect_percentage])[L_coal_elect_percent_0][L_coal_elect_percent_1][L_coal_elect_percent_2][L_coal_elect_percent_3][L_coal_elect_percent_4][L_coal_elect_percent_5][L_coal_elect_percent_6][L_coal_elect_percent_7][L_coal_elect_percent_8][L_coal_elect_percent_9][L_coal_elect_percent_10][L_coal_elect_percent_11][L_coal_elect_percent_12][L_coal_elect_percent_13][L_coal_elect_percent_14][L_coal_elect_percent_15][L_coal_elect_percent_16][L_coal_elect_percent_17][L_coal_elect_percent_18][L_coal_elect_percent_19][L_coal_elect_percent_20][L_coal_elect_percent_21][L_coal_elect_percent_22][L_coal_elect_percent_23]\n\n§Síla současné koalice:§! [?government_coalition_strength_elect|%1]. \n§RPožadovaná síla pro sestavení většinové vlády:§! [?majority_threshold|%1]\nNáš práh §H[?election_threshold|%0]§! činí strany, které získaly méně hlasů než toto, nezpůsobilými.\n" # todo: NEW TRANSLATION
+ give_up_coalition_0: "Vzdat se: [show_biggest_party_elect] se pokusí místo nás" # todo: NEW TRANSLATION
+ give_up_coalition_0_desc: "Přiznat neúspěch [Root.GetLeader] a [show_ruling_party] v sestavení vlády. Funkci nyní převezme [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\n75% politické síly utracené dosud na sestavení současné koalice bude vráceno." # todo: NEW TRANSLATION
+ give_up_coalition_1: "Vzdat se: [show_second_biggest_party_elect] se pokusí místo nás" # todo: NEW TRANSLATION
+ give_up_coalition_1_desc: "Přiznat neúspěch [Root.GetLeader] a [show_ruling_party] v sestavení vlády. Funkci nyní převezme [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]).\n\n75% politické síly utracené dosud na sestavení současné koalice bude vráceno." # todo: NEW TRANSLATION
+ USA_dems_reps_tt: "[USA_dem_rep_loc]" # todo: NEW TRANSLATION
+ USA_dems_reps_tt2: " [USA.GetNameWithFlag]: £USA_conservatism_small Republikáni a £USA_democratic_party Demokraté se nemohou navzájem připojit" # todo: NEW TRANSLATION
+ bigger_than_ruling_tt: " NE: > [show_ruling_party] ([show_ruling_elect_percentage])" # todo: NEW TRANSLATION
+ is_biggest_party: " NE: Je největší stranou v [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
+ is_second_biggest_party: " NE: Je druhou největší stranou v [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
+ election_threshold_max: " NE: Hranice voleb již na maximu (10%)" # todo: NEW TRANSLATION
+ election_threshold_min: " NE: Hranice voleb již na minimu (1%)" # todo: NEW TRANSLATION
+ mutual_Neutral_conservatism_20_tt: "[mutual_Neutral_conservatism_20_tt_loc]" # todo: NEW TRANSLATION
+ mutual_Neutral_conservatism_20_tt2: " NE: Ona a [Neutral_conservatism_L] mají obě > 20%." # todo: NEW TRANSLATION
+ mutual_conservatism_20_tt: "[mutual_conservatism_20_tt_loc]" # todo: NEW TRANSLATION
+ mutual_conservatism_20_tt2: " NE: Ona a [conservatism_L] mají obě > 20%." # todo: NEW TRANSLATION
+ mutual_conservatism_25_tt: "[mutual_conservatism_25_tt_loc]" # todo: NEW TRANSLATION
+ mutual_conservatism_25_tt2: " NE: Ona a [conservatism_L] mají obě > 25%." # todo: NEW TRANSLATION
+ mutual_socialism_20_tt: "[mutual_socialism_20_tt_loc]" # todo: NEW TRANSLATION
+ mutual_socialism_20_tt2: " NE: Ona a [socialism_L] mají obě > 20%." # todo: NEW TRANSLATION
+ mutual_socialism_25_tt: "[mutual_socialism_25_tt_loc]" # todo: NEW TRANSLATION
+ mutual_socialism_25_tt2: " NE: Ona a [socialism_L] mají obě > 25%." # todo: NEW TRANSLATION
+ mutual_neutral_Social_20_tt: "[mutual_neutral_Social_20_tt_loc]" # todo: NEW TRANSLATION
+ mutual_neutral_Social_20_tt2: " NE: Ona a [neutral_Social_L] mají obě > 20%." # todo: NEW TRANSLATION
+ Western_Autocracy_invite: "Pozvat [Western_Autocracy_L] ([?party_pop_elect_array^0|%0])" # todo: NEW TRANSLATION
+ Western_Autocracy_invite_desc: "Otevřít vyjednávání s [Western_Autocracy_L].[Western_Autocracy_cannot_invite]" # todo: NEW TRANSLATION
+ Western_Autocracy_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Communist-State_valid][anarchist_communism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Caliphate_valid][Neutral_Communism_valid][Nat_Fascism_valid]" # todo: NEW TRANSLATION
+ Western_Autocracy_remove: "Odstranit [Western_Autocracy_L] ([?party_pop_elect_array^0|%0])" # todo: NEW TRANSLATION
+ Western_Autocracy_remove_desc: "Vládní koalice: Odstranit [Western_Autocracy_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ conservatism_invite: "Pozvat [conservatism_L] ([?party_pop_elect_array^1|%1])" # todo: NEW TRANSLATION
+ conservatism_invite_desc: "Otevřít vyjednávání s [conservatism_L].[conservatism_cannot_invite]" # todo: NEW TRANSLATION
+ conservatism_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Communist-State_valid][anarchist_communism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Caliphate_valid][Neutral_Communism_valid][Nat_Fascism_valid] také." # todo: NEW TRANSLATION
+ conservatism_remove: "Odstranit [conservatism_L] ([?party_pop_elect_array^1|%1])" # todo: NEW TRANSLATION
+ conservatism_remove_desc: "Vládní koalice: Odstranit [conservatism_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ liberalism_invite: "Pozvat [liberalism_L] ([?party_pop_elect_array^2|%1])" # todo: NEW TRANSLATION
+ liberalism_invite_desc: "Otevřít vyjednávání s [liberalism_L].[liberalism_cannot_invite]" # todo: NEW TRANSLATION
+ liberalism_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Communist-State_valid][anarchist_communism_valid][Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Neutral_Communism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ liberalism_remove: "Odstranit [liberalism_L] ([?party_pop_elect_array^2|%1])" # todo: NEW TRANSLATION
+ liberalism_remove_desc: "Vládní koalice: Odstranit [liberalism_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ socialism_invite: "Pozvat [socialism_L] ([?party_pop_elect_array^3|%1])" # todo: NEW TRANSLATION
+ socialism_invite_desc: "Otevřít vyjednávání s [socialism_L].[socialism_cannot_invite]" # todo: NEW TRANSLATION
+ socialism_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Neutral_conservatism_valid][Neutral_Libertarian_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ socialism_remove: "Odstranit [socialism_L] ([?party_pop_elect_array^3|%1])" # todo: NEW TRANSLATION
+ socialism_remove_desc: "Vládní koalice: Odstranit [socialism_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ Communist-State_invite: "Pozvat [Communist-State_L] ([?party_pop_elect_array^4|%1])" # todo: NEW TRANSLATION
+ Communist-State_invite_desc: "Otevřít vyjednávání s [Communist-State_L].[Communist-State_cannot_invite]" # todo: NEW TRANSLATION
+ Communist-State_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Western_Autocracy_valid][conservatism_valid][liberalism_valid][Conservative_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Neutral_conservatism_valid][Neutral_Libertarian_valid][Nat_Populism_valid][Nat_Fascism_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Communist-State_remove: "Odstranit [Communist-State_L] ([?party_pop_elect_array^4|%1])" # todo: NEW TRANSLATION
+ Communist-State_remove_desc: "Vládní koalice: Odstranit [Communist-State_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ anarchist_communism_invite: "Pozvat [anarchist_communism_L] ([?party_pop_elect_array^5|%1])" # todo: NEW TRANSLATION
+ anarchist_communism_invite_desc: "Otevřít vyjednávání s [anarchist_communism_L].[anarchist_communism_cannot_invite]" # todo: NEW TRANSLATION
+ anarchist_communism_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[Western_Autocracy_valid][conservatism_valid][liberalism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Neutral_conservatism_valid][Neutral_Libertarian_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ anarchist_communism_remove: "Odstranit [anarchist_communism_L] ([?party_pop_elect_array^5|%1])" # todo: NEW TRANSLATION
+ anarchist_communism_remove_desc: "Vládní koalice: Odstranit [anarchist_communism_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ Conservative_invite: "Pozvat [Conservative_L] ([?party_pop_elect_array^6|%1])" # todo: NEW TRANSLATION
+ Conservative_invite_desc: "Otevřít vyjednávání s [Conservative_L].[Conservative_cannot_invite]" # todo: NEW TRANSLATION
+ Conservative_invite_extra: "\n\n§ROdmítnou být součástí koalice, kde se účastní kdokoli z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Kingdom_valid][Caliphate_valid][Neutral_Muslim_Brotherhood_valid][Neutral_Libertarian_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Conservative_remove: "Odstranit [Conservative_L] ([?party_pop_elect_array^6|%1])" # todo: NEW TRANSLATION
+ Conservative_remove_desc: "Vládní koalice: Odstranit [Conservative_L].\n\n75% politické síly utracené za jejich začlenění bude vráceno." # todo: NEW TRANSLATION
+ Autocracy_invite: "Pozvat [Autocracy_L] ([?party_pop_elect_array^7|%1])" # todo: NEW TRANSLATION
+ Autocracy_invite_desc: "Otevřít vyjednávání s [Autocracy_L].[Autocracy_cannot_invite]" # todo: NEW TRANSLATION
+ Autocracy_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Neutral_Muslim_Brotherhood_valid][Neutral_Libertarian_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Autocracy_remove: "Odebrat [Autocracy_L] ([?party_pop_elect_array^7|%1])" # todo: NEW TRANSLATION
+ Autocracy_remove_desc: "Vládní koalice: Odebrat [Autocracy_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Mod_Vilayat_e_Faqih_invite: "Pozvat [Mod_Vilayat_e_Faqih_L] ([?party_pop_elect_array^8|%1])" # todo: NEW TRANSLATION
+ Mod_Vilayat_e_Faqih_invite_desc: "Zahájí jednání s [Mod_Vilayat_e_Faqih_L].[Mod_Vilayat_e_Faqih_cannot_invite]" # todo: NEW TRANSLATION
+ Mod_Vilayat_e_Faqih_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Western_Autocracy_valid][conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][Kingdom_valid][Caliphate_valid][Neutral_Libertarian_valid][Neutral_green_valid][Neutral_Communism_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Mod_Vilayat_e_Faqih_remove: "Odebrat [Mod_Vilayat_e_Faqih_L] ([?party_pop_elect_array^8|%1])" # todo: NEW TRANSLATION
+ Mod_Vilayat_e_Faqih_remove_desc: "Vládní koalice: Odebrat [Mod_Vilayat_e_Faqih_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Vilayat_e_Faqih_invite: "Pozvat [Vilayat_e_Faqih_L] ([?party_pop_elect_array^9|%1])" # todo: NEW TRANSLATION
+ Vilayat_e_Faqih_invite_desc: "Zahájí jednání s [Vilayat_e_Faqih_L].[Vilayat_e_Faqih_cannot_invite]" # todo: NEW TRANSLATION
+ Vilayat_e_Faqih_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Western_Autocracy_valid][conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][Kingdom_valid][Caliphate_valid][Neutral_Libertarian_valid][Neutral_green_valid][Neutral_Communism_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Vilayat_e_Faqih_remove: "Odebrat [Vilayat_e_Faqih_L] ([?party_pop_elect_array^9|%1])" # todo: NEW TRANSLATION
+ Vilayat_e_Faqih_remove_desc: "Vládní koalice: Odebrat [Vilayat_e_Faqih_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Kingdom_invite: "Pozvat [Kingdom_L] ([?party_pop_elect_array^10|%1])" # todo: NEW TRANSLATION
+ Kingdom_invite_desc: "Zahájí jednání s [Kingdom_L].[Kingdom_cannot_invite]" # todo: NEW TRANSLATION
+ Kingdom_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Neutral_Muslim_Brotherhood_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Kingdom_remove: "Odebrat [Kingdom_L] ([?party_pop_elect_array^10|%1])" # todo: NEW TRANSLATION
+ Kingdom_remove_desc: "Vládní koalice: Odebrat [Kingdom_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Caliphate_invite: "Pozvat [Caliphate_L] ([?party_pop_elect_array^11|%1])" # todo: NEW TRANSLATION
+ Caliphate_invite_desc: "Zahájí jednání s [Caliphate_L].[Caliphate_cannot_invite]" # todo: NEW TRANSLATION
+ Caliphate_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Conservative_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Neutral_conservatism_valid][oligarchism_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid][Nat_Populism_valid][Nat_Fascism_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Caliphate_remove: "Odebrat [Caliphate_L] ([?party_pop_elect_array^11|%1])" # todo: NEW TRANSLATION
+ Caliphate_remove_desc: "Vládní koalice: Odebrat [Caliphate_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_Muslim_Brotherhood_invite: "Pozvat [Neutral_Muslim_Brotherhood_L] ([?party_pop_elect_array^12|%1])" # todo: NEW TRANSLATION
+ Neutral_Muslim_Brotherhood_invite_desc: "Zahájí jednání s [Neutral_Muslim_Brotherhood_L].[Neutral_Muslim_Brotherhood_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_Muslim_Brotherhood_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Western_Autocracy_valid][liberalism_valid][socialism_valid][Communist-State_valid][Autocracy_valid][Kingdom_valid][Neutral_Autocracy_valid][Neutral_Libertarian_valid][Neutral_green_valid][Neutral_Communism_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Neutral_Muslim_Brotherhood_remove: "Odebrat [Neutral_Muslim_Brotherhood_L] ([?party_pop_elect_array^12|%1])" # todo: NEW TRANSLATION
+ Neutral_Muslim_Brotherhood_remove_desc: "Vládní koalice: Odebrat [Neutral_Muslim_Brotherhood_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_Autocracy_invite: "Pozvat [Neutral_Autocracy_L] ([?party_pop_elect_array^13|%1])" # todo: NEW TRANSLATION
+ Neutral_Autocracy_invite_desc: "Zahájí jednání s [Neutral_Autocracy_L].[Neutral_Autocracy_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_Autocracy_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Neutral_Muslim_Brotherhood_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Neutral_Autocracy_remove: "Odebrat [Neutral_Autocracy_L] ([?party_pop_elect_array^13|%1])" # todo: NEW TRANSLATION
+ Neutral_Autocracy_remove_desc: "Vládní koalice: Odebrat [Neutral_Autocracy_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_conservatism_invite: "Pozvat [Neutral_conservatism_L] ([?party_pop_elect_array^14|%1])" # todo: NEW TRANSLATION
+ Neutral_conservatism_invite_desc: "Zahájí jednání s [Neutral_conservatism_L].[Neutral_conservatism_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_conservatism_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[socialism_valid][Communist-State_valid][anarchist_communism_valid][Kingdom_valid][Caliphate_valid][neutral_Social_valid][Neutral_Communism_valid][Nat_Fascism_valid][Nat_Autocracy_valid]" # todo: NEW TRANSLATION
+ Neutral_conservatism_remove: "Odebrat [Neutral_conservatism_L] ([?party_pop_elect_array^14|%1])" # todo: NEW TRANSLATION
+ Neutral_conservatism_remove_desc: "Vládní koalice: Odebrat [Neutral_conservatism_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ oligarchism_invite: "Pozvat [oligarchism_L] ([?party_pop_elect_array^15|%1])" # todo: NEW TRANSLATION
+ oligarchism_invite_desc: "Zahájí jednání s [oligarchism_L].[oligarchism_cannot_invite]" # todo: NEW TRANSLATION
+ oligarchism_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ oligarchism_remove: "Odebrat [oligarchism_L] ([?party_pop_elect_array^15|%1])" # todo: NEW TRANSLATION
+ oligarchism_remove_desc: "Vládní koalice: Odebrat [oligarchism_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_Libertarian_invite: "Pozvat [Neutral_Libertarian_L] ([?party_pop_elect_array^16|%1])" # todo: NEW TRANSLATION
+ Neutral_Libertarian_invite_desc: "Zahájí jednání s [Neutral_Libertarian_L].[Neutral_Libertarian_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_Libertarian_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Neutral_Libertarian_remove: "Odebrat [Neutral_Libertarian_L] ([?party_pop_elect_array^16|%1])" # todo: NEW TRANSLATION
+ Neutral_Libertarian_remove_desc: "Vládní koalice: Odebrat [Neutral_Libertarian_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_green_invite: "Pozvat [Neutral_green_L] ([?party_pop_elect_array^17|%1])" # todo: NEW TRANSLATION
+ Neutral_green_invite_desc: "Zahájí jednání s [Neutral_green_L].[Neutral_green_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_green_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Neutral_green_remove: "Odebrat [Neutral_green_L] ([?party_pop_elect_array^17|%1])" # todo: NEW TRANSLATION
+ Neutral_green_remove_desc: "Vládní koalice: Odebrat [Neutral_green_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ neutral_Social_invite: "Pozvat [neutral_Social_L] ([?party_pop_elect_array^18|%1])" # todo: NEW TRANSLATION
+ neutral_Social_invite_desc: "Zahájí jednání s [neutral_Social_L].[neutral_Social_cannot_invite]" # todo: NEW TRANSLATION
+ neutral_Social_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ neutral_Social_remove: "Odebrat [neutral_Social_L] ([?party_pop_elect_array^18|%1])" # todo: NEW TRANSLATION
+ neutral_Social_remove_desc: "Vládní koalice: Odebrat [neutral_Social_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Neutral_Communism_invite: "Pozvat [Neutral_Communism_L] ([?party_pop_elect_array^19|%1])" # todo: NEW TRANSLATION
+ Neutral_Communism_invite_desc: "Zahájí jednání s [Neutral_Communism_L].[Neutral_Communism_cannot_invite]" # todo: NEW TRANSLATION
+ Neutral_Communism_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[Conservative_valid][Autocracy_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Nat_Populism_valid][Nat_Fascism_valid][Nat_Autocracy_valid][Monarchist_valid]" # todo: NEW TRANSLATION
+ Neutral_Communism_remove: "Odebrat [Neutral_Communism_L] ([?party_pop_elect_array^19|%1])" # todo: NEW TRANSLATION
+ Neutral_Communism_remove_desc: "Vládní koalice: Odebrat [Neutral_Communism_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Nat_Populism_invite: "Pozvat [Nat_Populism_L] ([?party_pop_elect_array^20|%1])" # todo: NEW TRANSLATION
+ Nat_Populism_invite_desc: "Zahájí jednání s [Nat_Populism_L].[Nat_Populism_cannot_invite]" # todo: NEW TRANSLATION
+ Nat_Populism_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[socialism_valid][Communist-State_valid][anarchist_communism_valid][Kingdom_valid][Caliphate_valid][Neutral_Muslim_Brotherhood_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Nat_Populism_remove: "Odebrat [Nat_Populism_L] ([?party_pop_elect_array^20|%1])" # todo: NEW TRANSLATION
+ Nat_Populism_remove_desc: "Vládní koalice: Odebrat [Nat_Populism_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Nat_Fascism_invite: "Pozvat [Nat_Fascism_L] ([?party_pop_elect_array^21|%1])" # todo: NEW TRANSLATION
+ Nat_Fascism_invite_desc: "Zahájí jednání s [Nat_Fascism_L].[Nat_Fascism_cannot_invite]" # todo: NEW TRANSLATION
+ Nat_Fascism_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Caliphate_valid][Neutral_Muslim_Brotherhood_valid][Neutral_conservatism_valid][oligarchism_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Nat_Fascism_remove: "Odebrat [Nat_Fascism_L] ([?party_pop_elect_array^21|%1])" # todo: NEW TRANSLATION
+ Nat_Fascism_remove_desc: "Vládní koalice: Odebrat [Nat_Fascism_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Nat_Autocracy_invite: "Pozvat [Nat_Autocracy_L] ([?party_pop_elect_array^22|%1])" # todo: NEW TRANSLATION
+ Nat_Autocracy_invite_desc: "Zahájí jednání s [Nat_Autocracy_L].[Nat_Autocracy_cannot_invite]" # todo: NEW TRANSLATION
+ Nat_Autocracy_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[conservatism_valid][liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Neutral_Muslim_Brotherhood_valid][Neutral_conservatism_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Nat_Autocracy_remove: "Odebrat [Nat_Autocracy_L] ([?party_pop_elect_array^22|%1])" # todo: NEW TRANSLATION
+ Nat_Autocracy_remove_desc: "Vládní koalice: Odebrat [Nat_Autocracy_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ Monarchist_invite: "Pozvat [Monarchist_L] ([?party_pop_elect_array^23|%1])" # todo: NEW TRANSLATION
+ Monarchist_invite_desc: "Zahájí jednání s [Monarchist_L].[Monarchist_cannot_invite]" # todo: NEW TRANSLATION
+ Monarchist_invite_extra: "\n\n§ROdmítnou být součástí koalice, pokud se v ní bude účastnit některý z následujících:§!\n[liberalism_valid][socialism_valid][Communist-State_valid][anarchist_communism_valid][Mod_Vilayat_e_Faqih_valid][Vilayat_e_Faqih_valid][Kingdom_valid][Neutral_Muslim_Brotherhood_valid][Neutral_Libertarian_valid][Neutral_green_valid][neutral_Social_valid][Neutral_Communism_valid]" # todo: NEW TRANSLATION
+ Monarchist_remove: "Odebrat [Monarchist_L] ([?party_pop_elect_array^23|%1])" # todo: NEW TRANSLATION
+ Monarchist_remove_desc: "Vládní koalice: Odebrat [Monarchist_L].\n\n75 % politické síly vynaložené na jejich zařazení bude vráceno." # todo: NEW TRANSLATION
+ EPinfo_0_1: "" # todo: NEW TRANSLATION
+ EPinfo_0_1_blocked: "" # todo: NEW TRANSLATION
+ EPinfo_0_1_tooltip: "(Prodávající obdrží 75 % kupní ceny)" # todo: NEW TRANSLATION
+ cost_0_05: "£treasury 0.05" # todo: NEW TRANSLATION
+ cost_0_05_blocked: "£treasury §R0.05§!" # todo: NEW TRANSLATION
+ cost_0_05_tooltip: "Tento nákup bude stát 0.05 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_08: "£treasury 0.08" # todo: NEW TRANSLATION
+ cost_0_08_blocked: "£treasury §R0.08§!" # todo: NEW TRANSLATION
+ cost_0_08_tooltip: "Tento nákup bude stát 0.08 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_1: "£treasury 0.1" # todo: NEW TRANSLATION
+ cost_0_1_blocked: "£treasury §R0.1§!" # todo: NEW TRANSLATION
+ cost_0_1_tooltip: "Tento nákup bude stát 0.1 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_12: "£treasury 0.12" # todo: NEW TRANSLATION
+ cost_0_12_blocked: "£treasury §R0.12§!" # todo: NEW TRANSLATION
+ cost_0_12_tooltip: "Tento nákup bude stát 0.12 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_125: "£treasury 0.125" # todo: NEW TRANSLATION
+ cost_0_125_blocked: "£treasury §R0.125§!" # todo: NEW TRANSLATION
+ cost_0_125_tooltip: "Tento nákup bude stát 0.125 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_13: "£treasury 0.13" # todo: NEW TRANSLATION
+ cost_0_13_blocked: "£treasury §R0.13§!" # todo: NEW TRANSLATION
+ cost_0_13_tooltip: "Tento nákup bude stát 0.13 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_14: "£treasury 0.14" # todo: NEW TRANSLATION
+ cost_0_14_blocked: "£treasury §R0.14§!" # todo: NEW TRANSLATION
+ cost_0_14_tooltip: "Tento nákup bude stát 0.14 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_15: "£treasury 0.15" # todo: NEW TRANSLATION
+ cost_0_15_blocked: "£treasury §R0.15§!" # todo: NEW TRANSLATION
+ cost_0_15_tooltip: "Tento nákup bude stát 0.15 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_16: "£treasury 0.16" # todo: NEW TRANSLATION
+ cost_0_16_blocked: "£treasury §R0.16§!" # todo: NEW TRANSLATION
+ cost_0_16_tooltip: "Tento nákup bude stát 0.16 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_175: "£treasury 0.175" # todo: NEW TRANSLATION
+ cost_0_175_blocked: "£treasury §R0.175§!" # todo: NEW TRANSLATION
+ cost_0_175_tooltip: "Tento nákup bude stát 0.175 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_18: "£treasury 0.18" # todo: NEW TRANSLATION
+ cost_0_18_blocked: "£treasury §R0.18§!" # todo: NEW TRANSLATION
+ cost_0_18_tooltip: "Tento nákup bude stát 0.18 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_2: "£treasury 0.2" # todo: NEW TRANSLATION
+ cost_0_2_blocked: "£treasury §R0.2§!" # todo: NEW TRANSLATION
+ cost_0_2_tooltip: "Tento nákup bude stát 0.2 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_25: "£treasury 0.25" # todo: NEW TRANSLATION
+ cost_0_25_blocked: "£treasury §R0.25§!" # todo: NEW TRANSLATION
+ cost_0_25_tooltip: "Tento nákup bude stát 0.25 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_3: "£treasury 0.3" # todo: NEW TRANSLATION
+ cost_0_3_blocked: "£treasury §R0.3§!" # todo: NEW TRANSLATION
+ cost_0_3_tooltip: "Tento nákup bude stát 0.3 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_35: "£treasury 0.35" # todo: NEW TRANSLATION
+ cost_0_35_blocked: "£treasury §R0.35§!" # todo: NEW TRANSLATION
+ cost_0_35_tooltip: "Tento nákup bude stát 0.35 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_4: "£treasury 0.4" # todo: NEW TRANSLATION
+ cost_0_4_blocked: "£treasury §R0.4§!" # todo: NEW TRANSLATION
+ cost_0_4_tooltip: "Tento nákup bude stát 0.4 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_5: "£treasury 0.5" # todo: NEW TRANSLATION
+ cost_0_5_blocked: "£treasury §R0.5§!" # todo: NEW TRANSLATION
+ cost_0_5_tooltip: "Tento nákup bude stát 0.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_7: "£treasury 0.7" # todo: NEW TRANSLATION
+ cost_0_7_blocked: "£treasury §R0.7§!" # todo: NEW TRANSLATION
+ cost_0_7_tooltip: "Tento nákup bude stát 0.7 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_0_75: "£treasury 0.75" # todo: NEW TRANSLATION
+ cost_0_75_blocked: "£treasury §R0.75§!" # todo: NEW TRANSLATION
+ cost_0_75_tooltip: "Tento nákup bude stát 0.75 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_1_0: "£treasury 1.0" # todo: NEW TRANSLATION
+ cost_1_0_blocked: "£treasury §R1.0§!" # todo: NEW TRANSLATION
+ cost_1_0_tooltip: "Tento nákup bude stát 1.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_1_5: "£treasury 1.5" # todo: NEW TRANSLATION
+ cost_1_5_blocked: "£treasury §R1.5§!" # todo: NEW TRANSLATION
+ cost_1_5_tooltip: "Tento nákup bude stát 1.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_1_7: "£treasury 1.7" # todo: NEW TRANSLATION
+ cost_1_7_blocked: "£treasury §R1.7§!" # todo: NEW TRANSLATION
+ cost_1_7_tooltip: "Tento nákup bude stát 1.7 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_2_0: "£treasury 2.0" # todo: NEW TRANSLATION
+ cost_2_0_blocked: "£treasury §R2.0§!" # todo: NEW TRANSLATION
+ cost_2_0_tooltip: "Tento nákup bude stát 2.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_2_1: "£treasury 2.1" # todo: NEW TRANSLATION
+ cost_2_1_blocked: "£treasury §R2.1§!" # todo: NEW TRANSLATION
+ cost_2_1_tooltip: "Tento nákup bude stát 2.1 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_2_2: "£treasury 2.2" # todo: NEW TRANSLATION
+ cost_2_2_blocked: "£treasury §R2.2§!" # todo: NEW TRANSLATION
+ cost_2_2_tooltip: "Tento nákup bude stát 2.2 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_2_5: "£treasury 2.5" # todo: NEW TRANSLATION
+ cost_2_5_blocked: "£treasury §R2.5§!" # todo: NEW TRANSLATION
+ cost_2_5_tooltip: "Tento nákup bude stát 2.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_2_7: "£treasury 2.7" # todo: NEW TRANSLATION
+ cost_2_7_blocked: "£treasury §R2.7§!" # todo: NEW TRANSLATION
+ cost_2_7_tooltip: "Tento nákup bude stát 2.7 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_3_0: "£treasury 3.0" # todo: NEW TRANSLATION
+ cost_3_0_blocked: "£treasury §R3.0§!" # todo: NEW TRANSLATION
+ cost_3_0_tooltip: "Tento nákup bude stát 3.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_3_5: "£treasury 3.5" # todo: NEW TRANSLATION
+ cost_3_5_blocked: "£treasury §R3.5§!" # todo: NEW TRANSLATION
+ cost_3_5_tooltip: "Tento nákup bude stát 3.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_3_75: "£treasury 3.75" # todo: NEW TRANSLATION
+ cost_3_75_blocked: "£treasury §R3.75§!" # todo: NEW TRANSLATION
+ cost_3_75_tooltip: "Tento nákup bude stát 3.75 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_3_8: "£treasury 3.8" # todo: NEW TRANSLATION
+ cost_3_8_blocked: "£treasury §R3.8§!" # todo: NEW TRANSLATION
+ cost_3_8_tooltip: "Tento nákup bude stát 3.8 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_4_0: "£treasury 4.0" # todo: NEW TRANSLATION
+ cost_4_0_blocked: "£treasury §R4.0§!" # todo: NEW TRANSLATION
+ cost_4_0_tooltip: "Tento nákup bude stát 4.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_4_1: "£treasury 4.1" # todo: NEW TRANSLATION
+ cost_4_1_blocked: "£treasury §R4.1§!" # todo: NEW TRANSLATION
+ cost_4_1_tooltip: "Tento nákup bude stát 4.1 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_4_5: "£treasury 4.5" # todo: NEW TRANSLATION
+ cost_4_5_blocked: "£treasury §R4.5§!" # todo: NEW TRANSLATION
+ cost_4_5_tooltip: "Tento nákup bude stát 4.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_5_0: "£treasury 5.0" # todo: NEW TRANSLATION
+ cost_5_0_blocked: "£treasury §R5.0§!" # todo: NEW TRANSLATION
+ cost_5_0_tooltip: "Tento nákup bude stát 5.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_5_5: "£treasury 5.5" # todo: NEW TRANSLATION
+ cost_5_5_blocked: "£treasury §R5.5§!" # todo: NEW TRANSLATION
+ cost_5_5_tooltip: "Tento nákup bude stát 5.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_6_0: "£treasury 6.0" # todo: NEW TRANSLATION
+ cost_6_0_blocked: "£treasury §R6.0§!" # todo: NEW TRANSLATION
+ cost_6_0_tooltip: "Tento nákup bude stát 6.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_7_0: "£treasury 7.0" # todo: NEW TRANSLATION
+ cost_7_0_blocked: "§R7.0§!£treasury" # todo: NEW TRANSLATION
+ cost_7_0_tooltip: "Tento nákup bude stát 7.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_7_5: "£treasury 7.5" # todo: NEW TRANSLATION
+ cost_7_5_blocked: "£treasury §R7.5§!" # todo: NEW TRANSLATION
+ cost_7_5_tooltip: "Tento nákup bude stát 7.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_8_0: "£treasury 8.0" # todo: NEW TRANSLATION
+ cost_8_0_blocked: "£treasury §R8.0§!" # todo: NEW TRANSLATION
+ cost_8_0_tooltip: "Tento nákup bude stát 8.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_9_0: "£treasury 9.0" # todo: NEW TRANSLATION
+ cost_9_0_blocked: "£treasury §R9.0§!" # todo: NEW TRANSLATION
+ cost_9_0_tooltip: "Tento nákup bude stát 9.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_10_0: "£treasury 10.0" # todo: NEW TRANSLATION
+ cost_10_0_blocked: "£treasury §R10.0§!" # todo: NEW TRANSLATION
+ cost_10_0_tooltip: "Tento nákup bude stát 10.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_12_0: "£treasury 12.0" # todo: NEW TRANSLATION
+ cost_12_0_blocked: "£treasury §R12.0§!" # todo: NEW TRANSLATION
+ cost_12_0_tooltip: "Tento nákup bude stát 12.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_12_5: "£treasury 12.50" # todo: NEW TRANSLATION
+ cost_12_5_blocked: "£treasury §R12.50§!" # todo: NEW TRANSLATION
+ cost_12_5_tooltip: "Tento nákup bude stát 12.50 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_15_0: "£treasury 15.0" # todo: NEW TRANSLATION
+ cost_15_0_blocked: "£treasury §R15.0§!" # todo: NEW TRANSLATION
+ cost_15_0_tooltip: "Tento nákup bude stát 15.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_17_5: "£treasury 17.5" # todo: NEW TRANSLATION
+ cost_17_5_blocked: "£treasury §R17.5§!" # todo: NEW TRANSLATION
+ cost_17_5_tooltip: "Tento nákup bude stát 17.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_18_0: "£treasury 18.0" # todo: NEW TRANSLATION
+ cost_18_0_blocked: "£treasury §R18.0§!" # todo: NEW TRANSLATION
+ cost_18_0_tooltip: "Tento nákup bude stát 18.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_20_0: "£treasury 20.0" # todo: NEW TRANSLATION
+ cost_20_0_blocked: "£treasury §R20.0§!" # todo: NEW TRANSLATION
+ cost_20_0_tooltip: "Tento nákup bude stát 20.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_22_5: "£treasury 22.5" # todo: NEW TRANSLATION
+ cost_22_5_blocked: "£treasury §R22.5§!" # todo: NEW TRANSLATION
+ cost_22_5_tooltip: "Tento nákup bude stát 22.5 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_25_0: "£treasury 25.0" # todo: NEW TRANSLATION
+ cost_25_0_blocked: "£treasury §R25.0§!" # todo: NEW TRANSLATION
+ cost_25_0_tooltip: "Tento nákup bude stát 25.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_27_5: "£treasury 27.50" # todo: NEW TRANSLATION
+ cost_27_5_blocked: "£treasury §R27.50§!" # todo: NEW TRANSLATION
+ cost_27_5_tooltip: "Tento nákup bude stát 27.50 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_30_0: "£treasury 30.0" # todo: NEW TRANSLATION
+ cost_30_0_blocked: "£treasury §R30.0§!" # todo: NEW TRANSLATION
+ cost_30_0_tooltip: "Tento nákup bude stát 30.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_35_0: "£treasury 35.0" # todo: NEW TRANSLATION
+ cost_35_0_blocked: "£treasury §R35.0§!" # todo: NEW TRANSLATION
+ cost_35_0_tooltip: "Tento nákup bude stát 35.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_40_0: "£treasury 40.0" # todo: NEW TRANSLATION
+ cost_40_0_blocked: "£treasury §R40.0§!" # todo: NEW TRANSLATION
+ cost_40_0_tooltip: "Tento nákup bude stát 40.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_45_0: "£treasury 45.0" # todo: NEW TRANSLATION
+ cost_45_0_blocked: "£treasury §R45.0§!" # todo: NEW TRANSLATION
+ cost_45_0_tooltip: "Tento nákup bude stát 45.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_50_0: "£treasury 50.0" # todo: NEW TRANSLATION
+ cost_50_0_blocked: "£treasury §R50.0§!" # todo: NEW TRANSLATION
+ cost_50_0_tooltip: "Tento nákup bude stát 50.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_55_0: "£treasury 55.0" # todo: NEW TRANSLATION
+ cost_55_0_blocked: "£treasury §R55.0§!" # todo: NEW TRANSLATION
+ cost_55_0_tooltip: "Tento nákup bude stát 55.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_60_0: "£treasury 60.0" # todo: NEW TRANSLATION
+ cost_60_0_blocked: "£treasury §R60.0§!" # todo: NEW TRANSLATION
+ cost_60_0_tooltip: "Tento nákup bude stát 60.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_75_0: "£treasury 75.0" # todo: NEW TRANSLATION
+ cost_75_0_blocked: "£treasury §R75.0§!" # todo: NEW TRANSLATION
+ cost_75_0_tooltip: "Tento nákup bude stát 75.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_80_0: "£treasury 80.0" # todo: NEW TRANSLATION
+ cost_80_0_blocked: "£treasury §R80.0§!" # todo: NEW TRANSLATION
+ cost_80_0_tooltip: "Tento nákup bude stát 80.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_90_0: "£treasury 90.0" # todo: NEW TRANSLATION
+ cost_90_0_blocked: "£treasury §R90.0§!" # todo: NEW TRANSLATION
+ cost_90_0_tooltip: "Tento nákup bude stát 90.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_100_0: "£treasury 100.0" # todo: NEW TRANSLATION
+ cost_100_0_blocked: "£treasury §R100.0§!" # todo: NEW TRANSLATION
+ cost_100_0_tooltip: "Tento nákup bude stát 100.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_110_0: "£treasury 110.0" # todo: NEW TRANSLATION
+ cost_110_0_blocked: "£treasury §R110.0§!" # todo: NEW TRANSLATION
+ cost_110_0_tooltip: "Tento nákup bude stát 110.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_135_0: "£treasury 135.0" # todo: NEW TRANSLATION
+ cost_135_0_blocked: "£treasury §R135.0§!" # todo: NEW TRANSLATION
+ cost_135_0_tooltip: "Tento nákup bude stát 135.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_150_0: "£treasury 150.0" # todo: NEW TRANSLATION
+ cost_150_0_blocked: "£treasury §R150.0§!" # todo: NEW TRANSLATION
+ cost_150_0_tooltip: "Tento nákup bude stát 150.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_175_0: "£treasury 175.0" # todo: NEW TRANSLATION
+ cost_175_0_blocked: "£treasury §R175.0§!" # todo: NEW TRANSLATION
+ cost_175_0_tooltip: "Tento nákup bude stát 175.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_180_0: "£treasury 180.0" # todo: NEW TRANSLATION
+ cost_180_0_blocked: "£treasury §R180.0§!" # todo: NEW TRANSLATION
+ cost_180_0_tooltip: "Tento nákup bude stát 180.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_200_0: "£treasury 200.0" # todo: NEW TRANSLATION
+ cost_200_0_blocked: "£treasury §R200.0§!" # todo: NEW TRANSLATION
+ cost_200_0_tooltip: "Tento nákup bude stát 200.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_230_0: "£treasury 230.0" # todo: NEW TRANSLATION
+ cost_230_0_blocked: "£treasury §R230.0§!" # todo: NEW TRANSLATION
+ cost_230_0_tooltip: "Tento nákup bude stát 230.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_260_0: "£treasury 260.0" # todo: NEW TRANSLATION
+ cost_260_0_blocked: "£treasury §R260.0§!" # todo: NEW TRANSLATION
+ cost_260_0_tooltip: "Tento nákup bude stát 260.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_270_0: "£treasury 270.0" # todo: NEW TRANSLATION
+ cost_270_0_blocked: "£treasury §R270.0§!" # todo: NEW TRANSLATION
+ cost_270_0_tooltip: "Tento nákup bude stát 270.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_280_0: "£treasury 280.0" # todo: NEW TRANSLATION
+ cost_280_0_blocked: "£treasury §R280.0§!" # todo: NEW TRANSLATION
+ cost_280_0_tooltip: "Tento nákup bude stát 280.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_300_0: "£treasury 300.0" # todo: NEW TRANSLATION
+ cost_300_0_blocked: "£treasury §R300.0§!" # todo: NEW TRANSLATION
+ cost_300_0_tooltip: "Tento nákup bude stát 300.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_350_0: "£treasury 350.0" # todo: NEW TRANSLATION
+ cost_350_0_blocked: "£treasury §R350.0§!" # todo: NEW TRANSLATION
+ cost_350_0_tooltip: "Tento nákup bude stát 350.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_460_0: "£treasury 460.0" # todo: NEW TRANSLATION
+ cost_460_0_blocked: "£treasury §R460.0§!" # todo: NEW TRANSLATION
+ cost_460_0_tooltip: "Tento nákup bude stát 460.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_520_0: "£treasury 520.0" # todo: NEW TRANSLATION
+ cost_520_0_blocked: "£treasury §R520.0§!" # todo: NEW TRANSLATION
+ cost_520_0_tooltip: "Tento nákup bude stát 520.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_615_0: "£treasury 615.0" # todo: NEW TRANSLATION
+ cost_615_0_blocked: "£treasury §R615.0§!" # todo: NEW TRANSLATION
+ cost_615_0_tooltip: "Tento nákup bude stát 615.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ cost_700_0: "£treasury 700.0" # todo: NEW TRANSLATION
+ cost_700_0_blocked: "£treasury §R700.0§!" # todo: NEW TRANSLATION
+ cost_700_0_tooltip: "Tento nákup bude stát 700.0 §Hmiliard§!" # todo: NEW TRANSLATION
+ command_power_more_than_145: "£command_power §H145§!" # todo: NEW TRANSLATION
+ command_power_more_than_145_blocked: "£command_power §R145§!" # todo: NEW TRANSLATION
+ command_power_more_than_125: "£command_power §H125§!" # todo: NEW TRANSLATION
+ command_power_more_than_125_blocked: "£command_power §R125§!" # todo: NEW TRANSLATION
+ command_power_more_than_100: "§H100§!£command_power" # todo: NEW TRANSLATION
+ command_power_more_than_100_blocked: "£command_power §R100§!" # todo: NEW TRANSLATION
+ command_power_more_than_75: "£command_power §H75§!" # todo: NEW TRANSLATION
+ command_power_more_than_75_blocked: "£command_power §R75§!" # todo: NEW TRANSLATION
+ command_power_more_than_50: "£command_power §H50§!" # todo: NEW TRANSLATION
+ command_power_more_than_50_blocked: "£command_power §R50§!" # todo: NEW TRANSLATION
+ command_power_more_than_40: "£command_power §H40§!" # todo: NEW TRANSLATION
+ command_power_more_than_40_blocked: "£command_power §R40§!" # todo: NEW TRANSLATION
+ command_power_more_than_35: "£command_power §H35§!" # todo: NEW TRANSLATION
+ command_power_more_than_35_blocked: "£command_power §R35§!" # todo: NEW TRANSLATION
+ command_power_more_than_25: "£command_power §H25§!" # todo: NEW TRANSLATION
+ command_power_more_than_25_blocked: "£command_power §R25§!" # todo: NEW TRANSLATION
+ command_power_more_than_20: "£command_power §H20§!" # todo: NEW TRANSLATION
+ command_power_more_than_20_blocked: "£command_power §R20§!" # todo: NEW TRANSLATION
+ command_power_more_than_10: "£command_power §H10§!" # todo: NEW TRANSLATION
+ command_power_more_than_10_blocked: "£command_power §R10§!" # todo: NEW TRANSLATION
+ cyber_cost_small: "§Y$§! [?treasury_cyber_small|2]" # todo: NEW TRANSLATION
+ cyber_cost_medium: "§Y$§! [?treasury_cyber_medium|2]" # todo: NEW TRANSLATION
+ cyber_cost_large: "§Y$§! [?treasury_cyber_large|2]" # todo: NEW TRANSLATION
+ ARG_falklands_question_category: "Falklandská otázka" # todo: NEW TRANSLATION
+ ARG_falklands_question_category_desc: "Islas Malvinas jsou naše dědictví a naše suverénní území. Nezapomeneme krev, kterou naši bratři prolili na našich ostrovech pro vlast. \nJe čas získat naše území zpět od čajově pijících imperialistů!" # todo: NEW TRANSLATION
+ ARG_second_falklands_war: "Získat Falklandy zpět!" # todo: NEW TRANSLATION
+ ARG_second_falklands_war_desc: "§RToto povede k válce s [ENG.GetName] po uplynutí 120 dnů.§!" # todo: NEW TRANSLATION
+ TUR_SYR: "Syrská občanská válka" # todo: NEW TRANSLATION
+ TUR_SYR_desc: "Syrská občanská válka je probíhající vícestranný ozbrojený konflikt v Sýrii, vedený především mezi vládou prezidenta Bašára al-Asada a jejími spojenci na jedné straně a různými silami odporujícími se vládě na straně druhé. Nepokoje v Sýrii, součást širší vlny protestů Arabského jara 2011, vyrostly z nespokojenosti s režimem Asada a eskalovaly v ozbrojený konflikt poté, co byly protesty volající po jeho odstranění násilně potlačeny." # todo: NEW TRANSLATION
+ tur_intervene_SYR: "Zasáhnout do syrské občanské války" # todo: NEW TRANSLATION
+ tur_intervene_SYR_desc: "Historicky Turecko podporovalo Svobodnou syrskou armádu." # todo: NEW TRANSLATION
+ terror_decisions: "Teroristická rozhodnutí" # todo: NEW TRANSLATION
+ terror_decisions_desc: "Pravděpodobnost teroru: [?Root.terror_ods]" # todo: NEW TRANSLATION
+ embrace_terrorism: "Přijmout terorismus" # todo: NEW TRANSLATION
+ infiltrate_decision: "Infiltrovat" # todo: NEW TRANSLATION
+ weapon_requirement_tt: "Požadované zbraně" # todo: NEW TRANSLATION
+ manpower_requirement_tt: "Požadovaný personál" # todo: NEW TRANSLATION
+ SOV_crimea: "Oznámit plány na znovuzískání Krymu" # todo: NEW TRANSLATION
+ SOV_crimea_desc: "Je čas na malé zelené muže" # todo: NEW TRANSLATION
+ SOV_crimea2: "Nasadit malé zelené muže" # todo: NEW TRANSLATION
+ SOV_crimea2_desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_crimea_d: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_crimea_d_desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_crimea_d2: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_crimea_d2_desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ usa_intervene_SYR: "Operace Inherent Resolve" # todo: NEW TRANSLATION
+ usa_intervene_SYR_desc: "Historicky Spojené státy podporovaly Rojavu." # todo: NEW TRANSLATION
+ usa_intervene_YEM: "Operace Restoring Hope" # todo: NEW TRANSLATION
+ usa_intervene_YEM_desc: "Historicky Spojené státy podporovaly jemenskou vládu." # todo: NEW TRANSLATION
+ usa_intervene_AFG: "Operace Freedom's Sentinel" # todo: NEW TRANSLATION
+ usa_intervene_AFG_desc: "Historicky Spojené státy podporovaly afghánskou vládu." # todo: NEW TRANSLATION
+ usa_intervene_SOM: "OEF – Roh Afriky" # todo: NEW TRANSLATION
+ usa_intervene_SOM_desc: "Historicky Spojené státy podporovaly somálskou vládu." # todo: NEW TRANSLATION
+ usa_intervene_desc: "Historicky Spojené státy podporovaly somálskou vládu." # todo: NEW TRANSLATION
+ usa_intervene_GNA: "Operace Falcon Freedom" # todo: NEW TRANSLATION
+ usa_intervene_GNA_desc: "Historicky Spojené státy podporovaly Vládu národního usmíření." # todo: NEW TRANSLATION
+ SAU_YEM: "Jemenská občanská válka" # todo: NEW TRANSLATION
+ SAU_YEM_desc: "Jemenská občanská válka je probíhající konflikt, který začal v roce 2015 mezi dvěma frakcemi, z nichž každá tvrdí, že představuje jemenskou vládu, spolu se svými podporovateli a spojenci. Al-Káida na Arabském poloostrově (AQAP) a Islámský stát ovládají úseky území ve vnitrozemí i podél pobřeží." # todo: NEW TRANSLATION
+ sau_intervene_YEM: "Operace Restoring Hope" # todo: NEW TRANSLATION
+ sau_intervene_YEM_desc: "Historicky Saúdská Arábie podporovala jemenskou vládu." # todo: NEW TRANSLATION
+ SOV_SYR: "Syrská občanská válka" # todo: NEW TRANSLATION
+ SOV_SYR_desc: "Syrská občanská válka je probíhající vícestranný ozbrojený konflikt v Sýrii, vedený především mezi vládou prezidenta Bašára al-Asada a jejími spojenci na jedné straně a různými silami odporujícími se vládě na straně druhé. Nepokoje v Sýrii, součást širší vlny protestů Arabského jara 2011, vyrostly z nespokojenosti s režimem Asada a eskalovaly v ozbrojený konflikt poté, co byly protesty volající po jeho odstranění násilně potlačeny." # todo: NEW TRANSLATION
+ sov_intervene_SYR: "Zasáhnout do syrské občanské války" # todo: NEW TRANSLATION
+ sov_intervene_SYR_desc: "Historicky Rusko podporovalo syrskou vládu." # todo: NEW TRANSLATION
+ SOV_HOR: "Libyjská občanská válka" # todo: NEW TRANSLATION
+ SOV_HOR_desc: "Libyjská občanská válka odkazuje na probíhající konflikty v Libyi, počínaje protesty Arabského jara v roce 2011, které vedly k první libyjské občanské válce, zahraniční vojenské intervenci a sesazení a smrti Muammara Kaddáfího. Následky občanské války a množení ozbrojených skupin vedly k násilí a nestabilitě po celé zemi, což vyústilo v obnovení občanského konfliktu v roce 2014." # todo: NEW TRANSLATION
+ sov_intervene_HOR: "Zasáhnout do libyjské občanské války" # todo: NEW TRANSLATION
+ sov_intervene_HOR_desc: "Historicky Rusko podporovalo Dům reprezentantů." # todo: NEW TRANSLATION
+ SOV_CHE: "Integrovat Čečensko" # todo: NEW TRANSLATION
+ SOV_CHE_desc: "Konečně jsme získali Čečensko a můžeme ho plně integrovat." # todo: NEW TRANSLATION
+ sov_CHE: "Integrace Čečenska" # todo: NEW TRANSLATION
+ sov_CHE_desc: "Historicky bylo Čečensko vždy součástí Ruska a můžeme ho opět plně začlenit." # todo: NEW TRANSLATION
+ SOV_Propaganda: "Rozběhněme propagandistický stroj!" # todo: NEW TRANSLATION
+ SOV_Propaganda_desc: "Máme velmi nízkou popularitu a existuje pravděpodobnost, že prohrajeme volby v roce 2004. Měli bychom rozběhnout náš propagandistický stroj!" # todo: NEW TRANSLATION
+ SOV_Propaganda_1: "Získat kontrolu nad NTV" # todo: NEW TRANSLATION
+ SOV_Propaganda_1_desc: "NTV je nezávislý opoziční kanál. A musíme získat kontrolu nad ním." # todo: NEW TRANSLATION
+ SOV_Propaganda_2: "Získat kontrolu nad RTR" # todo: NEW TRANSLATION
+ SOV_Propaganda_2_desc: "RTR je nezávislý opoziční kanál. A musíme získat kontrolu nad ním." # todo: NEW TRANSLATION
+ SOV_Propaganda_3: "Získat kontrolu nad ORT" # todo: NEW TRANSLATION
+ SOV_Propaganda_3_desc: "ORT je nejvíce sledovaný kanál, takže získání kontroly nad ním nám přinese velkou popularitu." # todo: NEW TRANSLATION
+ SOV_crush_da_opositon: "Zničit opozici!" # todo: NEW TRANSLATION
+ SOV_crush_da_opositon_desc: "Opozice je dost silná na to, aby odstranila naši zkorumpovanou vládu; pokud utratíme nějaké peníze, přestanou se ozývat." # todo: NEW TRANSLATION
+ SOV_tv_1: "Dejte peníze Solovjevovi." # todo: NEW TRANSLATION
+ SOV_tv_1_desc: "Solovjev je jedním z Putinových odpůrců, ale za peníze se stane jedním z jeho stoupenců." # todo: NEW TRANSLATION
+ SOV_tv_2: "Dejte peníze Kiselevovi." # todo: NEW TRANSLATION
+ SOV_tv_2_desc: "Kiselev je také opozičník, ale za peníze bude ve Vesti (zprávy) a přiláká lidi k volbě Putina." # todo: NEW TRANSLATION
+ SOV_tv_3: "Zrušit opoziční televizní pořad 'Kukly' na NTV" # todo: NEW TRANSLATION
+ SOV_tv_3_desc: "Kukly byla týdenní ruská televizní satirická show, produkovaná Vasilijem Grigorjevem a vysílaná v sobotu na stanici NTV. Používala loutky k znázornění celebrit, převážně předních politiků. Byla inspirována britskou show Spitting Image z 80.–90. let." # todo: NEW TRANSLATION
+ TAI_category: "Tchajwanská rozhodnutí" # todo: NEW TRANSLATION
+ TAI_category_desc: "Rozhodnutí týkající se státu Tchaj-wanu." # todo: NEW TRANSLATION
+ TAI_coast_guard: "Zřídit správu pobřežní stráže" # todo: NEW TRANSLATION
+ TAI_kaoshiung_university: "Otevřít Národní univerzitu Kaohsiung" # todo: NEW TRANSLATION
+ IRQ_MOBILIZE: "Šíitské milice" # todo: NEW TRANSLATION
+ IRQ_MOBILIZE_DESC: "Všechna rozhodnutí týkající se šíitských milic v Iráku." # todo: NEW TRANSLATION
+ MOBILIZE_SHIA_MILITIA: "Mobilizovat šíitské milice" # todo: NEW TRANSLATION
+ MOBILIZE_SHIA_MILITIA_DESC: "Naše vybavení a personál jsou vyčerpány bojem s ISIL; musíme mobilizovat šíitské milice!" # todo: NEW TRANSLATION
+ Anti_Bully: "Veřejná únava z války" # todo: NEW TRANSLATION
+ Anti_Bully_desc: "Naše země je nyní ve válce. Problémy spojené s konfliktem jsou nyní velmi důležité. Nejefektivnějším způsobem, jak vyhrát válku, je udržet podporu lidu. Jakmile lidé ztratí podporu konfliktu, prohráli jsme již.\n\n§YPoznámka: Lidé neschvalují dlouhé války. Čím rozhodnější válka, tím méně penalizuje válka.§!\n\nAktuální penalizace podpory války: [?war_support_factor_var|R0%]\n" # todo: NEW TRANSLATION
+ AB_offer_stalemate_Atk: "Nabídnout příměří" # todo: NEW TRANSLATION
+ AB_offer_stalemate_Atk_desc: "Válka se táhne příliš dlouho. Boje se zvrhly v prodlouženou patovou situaci. Byla to obrovská porážka a nejlepší možností pro nás je usilovat o mír." # todo: NEW TRANSLATION
+ AB_offer_stalemate_Def: "Nabídnout příměří" # todo: NEW TRANSLATION
+ AB_offer_stalemate_Def_desc: "Útočník stojí u bran naší civilizace. Přestal tlačit a naše jednotky jsou nyní rozmístěny proti sobě. Měli bychom usilovat o mír." # todo: NEW TRANSLATION
+ AB_war_support_campaigns: "Kampaň na podporu války" # todo: NEW TRANSLATION
+ AB_war_support_campaigns_desc: "Lidé ztrácejí důvěru v naši vládu a začínají přestávat podporovat válku. Dejme jim trochu motivace." # todo: NEW TRANSLATION
+ AB_promises_of_pecae: "Sliby míru" # todo: NEW TRANSLATION
+ AB_promises_of_pecae_desc: "Válka si vybírá svou daň u obyvatel. Měli bychom zahájit kampaně k projednání možností míru." # todo: NEW TRANSLATION
+ Civil_war_decisions: "Občanská válka" # todo: NEW TRANSLATION
+ Civil_war_decisions_desc: "Naše země je pohlcena občanskou válkou. To nám umožňuje použít některé neetické způsoby jednání. Metody jsou extrémní, ale nezbytné." # todo: NEW TRANSLATION
+ confiscate_civilian_vehicles: "Konfiskovat civilní vozidla" # todo: NEW TRANSLATION
+ confiscate_civilian_vehicles_desc: "Můžeme konfiskovat a přeměnit civilní vozidla na techniky a obrněné transportéry. I přes válku jsou civilní vozidla stále hojné a nové lze snadno pašovat přes hranice." # todo: NEW TRANSLATION
+ foreign_recruitment_campaign: "Zahraniční náborová kampaň" # todo: NEW TRANSLATION
+ foreign_recruitment_campaign_desc: "Velká část našich bojovníků pochází z jiných zemí. Můžeme spustit dočasnou náborovou kampaň, abychom získali více možných vojáků pro naše armády." # todo: NEW TRANSLATION
+ smuggle_small_arms: "Pašovat malé zbraně" # todo: NEW TRANSLATION
+ smuggle_small_arms_desc: "Kromě výroby vlastních malých zbraní v místních dílnách se můžeme pokusit zatáhnout za správné nitky a pašovat zbraně ze zahraničí." # todo: NEW TRANSLATION
+ smuggle_heavy_weapons: "Pašovat těžké zbraně" # todo: NEW TRANSLATION
+ smuggle_heavy_weapons_desc: "Kromě výroby vlastních těžkých zbraní v místních dílnách se můžeme pokusit zatáhnout za nitky a pašovat zbraně ze zahraničí. Samozřejmě, pašování raket přes hranice je o něco těžší než pašování pušek." # todo: NEW TRANSLATION
+ Conscripting_Child_Soldiers: "Povolávání dětských vojáků" # todo: NEW TRANSLATION
+ force_conscript_children: "Nucený nábor dětských vojáků" # todo: NEW TRANSLATION
+ force_conscript_children_desc: "Můžeme začít brát děti do naší armády. V mnoha asymetrických konfliktech jsou děti násilně odvedeny do povstaleckých skupin a otupeny vůči násilí. Osud těchto dětí je deprimující — trvale traumatizované, mnohé se později uchylují k dalšímu násilí, alkoholu a drogám.\n\nNucený nábor dětí posílí naše síly, ale často tito mladí chlapci slouží jen jako lidské štíty." # todo: NEW TRANSLATION
+ buy_fuel_from_black_market: "Nakoupit palivo na černém trhu" # todo: NEW TRANSLATION
+ buy_fuel_from_black_market_desc: "Naše situace ztěžuje legální získávání paliva. Existuje však mnoho způsobů, jak palivo koupit nelegálně." # todo: NEW TRANSLATION
+ PER_space_missions: "Íránská kosmická agentura" # todo: NEW TRANSLATION
+ PER_prepare_reforms: "Připravit reformy" # todo: NEW TRANSLATION
+ decisions_ENG: "Rozhodnutí Spojeného království" # todo: NEW TRANSLATION
+ falkland_policy: "Falklandská politika" # todo: NEW TRANSLATION
+ SER_rename_nation: "Přejmenovat na Srbsko a Černou Horu" # todo: NEW TRANSLATION
+ SER_rename_nation_desc: "Jugoslávie se rozpustila v roce 1989 a o několik let později, v roce 1991, prošla krvavou válkou. Naše země je stále pojmenována podle té země, přesto ovládáme pouze Srbsko a Černou Horu." # todo: NEW TRANSLATION
+ game_rule_toggle_cheat_decisions: "§Y[show_cheat_decision_status_3] Podvodná rozhodnutí §Rglobálně§!" # todo: NEW TRANSLATION
+ game_rule_toggle_cheat_decisions_desc: "§YPOZNÁMKA:§! Jakákoli země na světě může přepnout Podvodná rozhodnutí a efekty jsou §Rglobální§!. Objeví se událost oznamující, která země je přepnula.\n§YMěli byste se ujistit, že je povoleno používat toto rozhodnutí ve hře pro více hráčů!§!" # todo: NEW TRANSLATION
+ cheat_decisions_disabled_TT: "Cheaty: §RVypnuto§!" # todo: NEW TRANSLATION
+ cheat_decisions_enabled_TT: "Cheaty: §GZapnuto§!" # todo: NEW TRANSLATION
+ cheat_decisions_disabled_2_TT: "vypnuto" # todo: NEW TRANSLATION
+ cheat_decisions_enabled_2_TT: "zapnuto" # todo: NEW TRANSLATION
+ cheat_decisions_disabled_3_TT: "Zapnout" # todo: NEW TRANSLATION
+ cheat_decisions_enabled_3_TT: "Vypnout" # todo: NEW TRANSLATION
+ cheat_decisions_enabled_4_TT: "Aktuální stav [show_cheat_decision_status]\n§YPOZNÁMKA:§! Jakákoli země na světě může přepnout Cheaty a efekty jsou §Rglobální.§!\n\nObjeví se událost oznamující, která země je přepnula.\n§YMěli byste se ujistit, že je povoleno používat toto rozhodnutí ve hře pro více hráčů!§!" # todo: NEW TRANSLATION
+ cheat_decisions_disabled_4_TT: "" # todo: NEW TRANSLATION
+ cheat_decision_categories: "Podvodná rozhodnutí" # todo: NEW TRANSLATION
+ cheat_decision_categories_desc: "[show_cheat_decision_status_4]" # todo: NEW TRANSLATION
+ open_cheat_decisions: "§YPřepnout podvodná rozhodnutí§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_factions: "§YPřepnout cheaty frakcí§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_outlook: "§YPřepnout cheaty ideologie§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_parties: "§YPřepnout cheaty stran§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_money: "§YPřepnout cheaty peněz§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_manpower: "§YPřepnout cheaty personálu§!" # todo: NEW TRANSLATION
+ open_cheat_decisions_operatives: "§YPřepnout cheaty operativců§!" # todo: NEW TRANSLATION
+ cheat_decisions_dismantle_all_factions: "Zrušit všechny frakce" # todo: NEW TRANSLATION
+ cheat_decisions_dismantle_russian_faction: "Zrušit ruskou frakci" # todo: NEW TRANSLATION
+ cheat_decisions_dismantle_nato: "Zrušit NATO" # todo: NEW TRANSLATION
+ cheat_decisions_dismantle_iranian_faction: "Zrušit íránskou frakci" # todo: NEW TRANSLATION
+ cheat_decisions_dismantle_saudi_faction: "Zrušit saúdskou frakci" # todo: NEW TRANSLATION
+ cheat_decisions_outlook_nationalist: "Změnit na nacionalistickou ideologii" # todo: NEW TRANSLATION
+ cheat_decisions_outlook_neutrality: "Změnit na neutralitu" # todo: NEW TRANSLATION
+ cheat_decisions_outlook_fascism: "Změnit na salafistický postoj" # todo: NEW TRANSLATION
+ cheat_decisions_outlook_democratic: "Změnit na západní postoj" # todo: NEW TRANSLATION
+ cheat_decisions_outlook_communism: "Změnit na rozvíjející se orientaci" # todo: NEW TRANSLATION
+ cheat_decisions_party_Western_Autocracy: "Nastavit vládnoucí stranu: [Western_Autocracy_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_conservatism: "Nastavit vládnoucí stranu: [conservatism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_liberalism: "Nastavit vládnoucí stranu: [liberalism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_socialism: "Nastavit vládnoucí stranu: [socialism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Communist_State: "Nastavit vládnoucí stranu: [Communist-State_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_anarchist_communism: "Nastavit vládnoucí stranu: [anarchist_communism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Conservative: "Nastavit vládnoucí stranu: [Conservative_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Autocracy: "Nastavit vládnoucí stranu: [Autocracy_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Mod_Vilayat_e_Faqih: "Nastavit vládnoucí stranu: [Mod_Vilayat_e_Faqih_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Vilayat_e_Faqih: "Nastavit vládnoucí stranu: [Vilayat_e_Faqih_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Kingdom: "Nastavit vládnoucí stranu: [Kingdom_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Caliphate: "Nastavit vládnoucí stranu: [Caliphate_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_Muslim_Brotherhood: "Nastavit vládnoucí stranu: [Neutral_Muslim_Brotherhood_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_Autocracy: "Nastavit vládnoucí stranu: [Neutral_Autocracy_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_conservatism: "Nastavit vládnoucí stranu: [Neutral_conservatism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_oligarchism: "Nastavit vládnoucí stranu: [oligarchism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_Libertarian: "Nastavit vládnoucí stranu: [Neutral_Libertarian_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_green: "Nastavit vládnoucí stranu: [Neutral_green_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_neutral_Social: "Nastavit vládnoucí stranu: [neutral_Social_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Neutral_Communism: "Nastavit vládnoucí stranu: [Neutral_Communism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Nat_Populism: "Nastavit vládnoucí stranu: [Nat_Populism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Nat_Fascism: "Nastavit vládnoucí stranu: [Nat_Fascism_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Nat_Autocracy: "Nastavit vládnoucí stranu: [Nat_Autocracy_L]" # todo: NEW TRANSLATION
+ cheat_decisions_party_Monarchist: "Nastavit vládnoucí stranu: [Monarchist_L]" # todo: NEW TRANSLATION
+ cheat_decisions_money_1_billion: "Přidat 1 miliardu do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_2_billion: "Přidat 2 miliardy do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_5_billion: "Přidat 5 miliard do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_10_billion: "Přidat 10 miliard do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_50_billion: "Přidat 50 miliard do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_100_billion: "Přidat 100 miliard do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_500_billion: "Přidat 500 miliard do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_money_1_trillion: "Přidat 1 bilion do pokladny" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_1000: "Přidat 1000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_10000: "Přidat 10000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_50000: "Přidat 50000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_100000: "Přidat 100000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_250000: "Přidat 250000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_500000: "Přidat 500000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_manpower_1000000: "Přidat 1000000 personálu" # todo: NEW TRANSLATION
+ cheat_decisions_add_1_operative: "Přidat 1 Operativec" # todo: NEW TRANSLATION
+ cheat_decisions_add_5_operative: "Přidat 5 Operativeců" # todo: NEW TRANSLATION
+ cheat_decisions_add_10_operative: "Přidat 10 Operativeců" # todo: NEW TRANSLATION
+ cheat_decisions_max_internal_faction_opinion: "Maximální názor vnitřní frakce" # todo: NEW TRANSLATION
+ child_soldiers_category: "Dětscí vojáci" # todo: NEW TRANSLATION
+ child_soldiers_category_desc: "Různé mezinárodní právní prameny, včetně Ženevských úmluv, zakazují nábor dětí do armád. Zatímco používání dětských vojáků pomáhá našemu válečnému úsilí tím, že nám zajišťuje personál, narušuje to efektivitu našich ozbrojených sil a poškozuje naši mezinárodní legitimitu.\n\n§YÚroveň náboru dětských vojáků§! určuje rychlost, jakou jsou noví dětscí vojáci nabíráni do našich řad. Pokud se stane zápornou, více dětských vojáků opustí armádu, než do ní vstoupí.\n\nPočet dětských vojáků: §Y[?Root.child_soldiers]§!\nÚroveň náboru dětských vojáků: §Y[?Root.child_soldiers_recruitment]§!" # todo: NEW TRANSLATION
+ Small_Scale_Demobilization: "Malá demobilizace dětských vojáků" # todo: NEW TRANSLATION
+ Small_Scale_Demobilization_desc: "Identifikovali jsme malé množství dětských vojáků v naší armádě, které bychom měli rychle vrátit jejich rodinám." # todo: NEW TRANSLATION
+ Child_Soldier_Demobilization: "Demobilizovat dětské vojáky" # todo: NEW TRANSLATION
+ Child_Soldier_Demobilization_desc: "Identifikovali jsme významný počet dětských vojáků v naší armádě, které bychom měli rychle vrátit jejich rodinám." # todo: NEW TRANSLATION
+ Large_Scale_Demobilization: "Velká demobilizace dětských vojáků" # todo: NEW TRANSLATION
+ Large_Scale_Demobilization_desc: "Identifikovali jsme velké množství dětských vojáků v naší armádě, které bychom měli rychle vrátit rodinám." # todo: NEW TRANSLATION
+ Punish_Recruiters: "Potrestat náboráře" # todo: NEW TRANSLATION
+ Punish_Recruiters_desc: "Pokud potrestáme náboráře dětských vojáků, odradíme náborové důstojníky od nátlaku na nezletilé, aby se připojili k ozbrojeným silám." # todo: NEW TRANSLATION
+ Subsidize_Reintegration: "Dotovat programy reintegrace" # todo: NEW TRANSLATION
+ Subsidize_Reintegration_desc: "Demobilizace dětských vojáků je jedna věc. Zajistit jejich rehabilitaci a zabránit tomu, aby se znovu uchylovali k ozbrojenému boji, je věc druhá. Ženské dětské vojáky zejména čekají při návratu do společnosti značné těžkosti. Pomoc neziskovým organizacím při reintegraci bývalých dětských vojáků do společnosti povzbudí stávající dětské vojáky, aby odložili zbraně." # todo: NEW TRANSLATION
+ Strengthen_Legislation_and_Regulation: "Posílit legislativu a regulace" # todo: NEW TRANSLATION
+ Strengthen_Legislation_and_Regulation_desc: "Zatímco demobilizace dětských vojáků a trestání jejich náborářů pomůže v krátkodobém a střednědobém horizontu, abychom tyto snahy skutečně konsolidovali, měli bychom vybudovat a udržovat robustní systém pravidel, který zabrání náboru dětských vojáků." # todo: NEW TRANSLATION
+ Confirm_an_End_to_Child_Soldier_Recruitment: "Potvrdit ukončení náboru dětských vojáků" # todo: NEW TRANSLATION
+ cyber_warfare_category: "Kybernetická válka" # todo: NEW TRANSLATION
+ cyber_warfare_category_desc: "Války 21. století se čím dál více nevedou jen na vzduchu, moři nebo zemi, ale v kyberprostoru. Měli bychom činit rozumná rozhodnutí, abychom nezaostali v této kritické oblasti moderního boje." # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure: "Malé investice do kybernetické bezpečnostní infrastruktury" # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure_desc: "Abychom zabránili prolomení našich systémů a odcizení důležitých informací, měli bychom zlepšit naši kybernetickou bezpečnostní infrastrukturu." # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure_1: "Střední investice do kybernetické bezpečnostní infrastruktury" # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure_1_desc: "Abychom zabránili prolomení našich systémů a odcizení důležitých informací, měli bychom zlepšit naši kybernetickou bezpečnostní infrastrukturu." # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure_2: "Velké investice do kybernetické bezpečnostní infrastruktury" # todo: NEW TRANSLATION
+ invest_in_cyber_security_infrastructure_2_desc: "Abychom zabránili prolomení našich systémů a odcizení důležitých informací, měli bychom zlepšit naši kybernetickou bezpečnostní infrastrukturu." # todo: NEW TRANSLATION
+ cyber_attack: "Ukrást [FROM.GetAdjective] státní tajemství" # todo: NEW TRANSLATION
+ cyber_attack_desc: "Abychom se připravili na případné střetnutí s touto zemí, měli bychom prolomit jejich vojenské, vládní a zpravodajské sítě a zajistit informace o jejich schopnostech." # todo: NEW TRANSLATION
+ steal_tank_designs: "Ukrást [FROM.GetAdjective] návrhy tanků" # todo: NEW TRANSLATION
+ steal_tank_designs_desc: "Obranný průmysl [FROM.GetAdjective] pokročil za ten náš. Můžeme využít kybernetickou válku k získání znalostí, které nám pomohou dohnat ztrátu." # todo: NEW TRANSLATION
+ steal_aircraft_designs: "Ukrást návrhy [FROM.GetAdjective] stealth stíhaček" # todo: NEW TRANSLATION
+ steal_aircraft_designs_desc: "Obranný průmysl [FROM.GetAdjective] pokročil za ten náš. Můžeme využít kybernetickou válku k získání znalostí, které nám pomohou dohnat ztrátu." # todo: NEW TRANSLATION
+ targeted_propaganda: "Zacílit propagandu na [FROM.GetAdjective] občany" # todo: NEW TRANSLATION
+ targeted_propaganda_desc: "Tím, že na internetu specificky a nenápadně zacílenou propagandu zaměříme na [FROM.GetAdjective] občany, bychom tam měli být schopni poněkud zvýšit náš vliv." # todo: NEW TRANSLATION
+ statehood_category: "Mezinárodní uznání" # todo: NEW TRANSLATION
+ statehood_category_desc: "Abychom dosáhli plného státního statusu, je nezbytné získat podporu mezinárodního společenství pro náš status nezávislého státu. K tomu musíme získat klíčové vlivné země, které spustí kaskádu uznání našeho státu." # todo: NEW TRANSLATION
+ boost_national_sentiment: "Posílit národní cítění" # todo: NEW TRANSLATION
+ boost_national_sentiment_desc: "Pořádáním mítinků a přehlídek, pronášením projevů a celkovým zdůrazněním pocitu národní sounáležitosti můžeme z nejednotného lidu vytvořit sjednocený stát." # todo: NEW TRANSLATION
+ show_recognised_countries: "Ukázat země, které nás uznaly" # todo: NEW TRANSLATION
+ show_recognised_countries_desc: "Kombinací sympatie k naší věci a naší vášnivé kampaně v zahraničí některé země začínají udělovat mezinárodní uznání nám." # todo: NEW TRANSLATION
+ show_non_recognised_countries: "Ukázat země, které nás neuznaly" # todo: NEW TRANSLATION
+ show_non_recognised_countries_desc: "Stále existují země, které nám neposkytly mezinárodní uznání. Abyste je získali na svou stranu, měli bychom buď zlepšit vztahy s těmito jednotlivými zeměmi, nebo získat podporu regionálních mocností, které by pro ně mohly být vzorem. Také bychom se měli snažit co nejvíce dodržovat mezinárodní právo a rozvážně zvolit mezinárodní orientaci a formu vlády." # todo: NEW TRANSLATION
+ campaign_for_recognition_USA: "Kampaň za uznání v USA" # todo: NEW TRANSLATION
+ campaign_for_recognition_USA_desc: "Jako stálý člen Rady bezpečnosti je americká podpora zásadní pro schválení našeho členství v OSN a tím i pro vstup do mezinárodního společenství. Navíc USA vykonávají značný vliv nad mnoha západně orientovanými státy po celém světě, které budou mnohem ochotnější podpořit naše přijetí s americkým doporučením." # todo: NEW TRANSLATION
+ campaign_for_recognition_ENG: "Kampaň za uznání ve Spojeném království" # todo: NEW TRANSLATION
+ campaign_for_recognition_ENG_desc: "I když Spojené království nemusí být takovou supervelmocí jako kdysi, jeho mezinárodní vliv je zachován členstvím v Radě bezpečnosti OSN. Také má vliv v mnoha svých bývalých koloniích, které by mohly následovat, pokud by nám Spojené království udělilo uznání." # todo: NEW TRANSLATION
+ campaign_for_recognition_FRA: "Kampaň za uznání ve Francii" # todo: NEW TRANSLATION
+ campaign_for_recognition_FRA_desc: "Francie je důležitý stát v Evropě a frankofonním světě. Tato skutečnost spolu s jejím stálým členstvím v Radě bezpečnosti OSN činí její podporu pro naši kampaň za mezinárodní uznání zásadní." # todo: NEW TRANSLATION
+ campaign_for_recognition_SOV: "Kampaň za uznání v Rusku" # todo: NEW TRANSLATION
+ campaign_for_recognition_SOV_desc: "Podpora Ruska pro nás bude neocenitelná při získávání těch částí světa, které vzdorují americkému vlivu nebo mají blízké kulturní a geografické vazby na Rusko. Navíc členství Ruska jako stálého člena Rady bezpečnosti OSN znamená, že by mohli naši snahu o uznání zamítnout jednoduchým použitím veta." # todo: NEW TRANSLATION
+ campaign_for_recognition_CHI: "Kampaň za uznání v Číně" # todo: NEW TRANSLATION
+ campaign_for_recognition_CHI_desc: "Čína má obrovskou ekonomickou sílu v Asii i mimo ni, což znamená, že podpora Číny by pravděpodobně získala podporu velké části zemí, které jsou na Číně nějak ekonomicky závislé. Navíc si nemůžeme dovolit, aby jeden z permanentních členů Rady bezpečnosti OSN zůstal proti naší státnosti." # todo: NEW TRANSLATION
+ become_a_UN_member_state: "Stát se členem OSN" # todo: NEW TRANSLATION
+ become_a_UN_member_state_desc: "Konečně! Podařilo se nám získat podporu pro náš státní status od všech 5 stálých členů Rady bezpečnosti OSN a dostatek států, abychom získali dvoutřetinovou většinu v Valném shromáždění. Vstup do Organizace spojených národů konečně vtáhne náš stát do širšího mezinárodního společenství jako právního rovnocenného partnera." # todo: NEW TRANSLATION
+ recognition_category: "Mezinárodní uznání" # todo: NEW TRANSLATION
+ recognition_category_desc: "Existují některé neuznané státy, které si přejí vstoupit do mezinárodního společenství. Musíme zvážit, zda jim chceme poskytnout naši podporu v jejich kampani. Pokud tyto státy získají dostatečnou podporu od členských států OSN, mohou být přijaty do OSN, ztratit svůj neuznaný status a nevýhody, které s ním souvisejí. Můžeme pomoci kampaním států, které jsme uznali, tím, že ovlivníme členské státy OSN, které je dosud neuznaly." # todo: NEW TRANSLATION
+ switch_recognition: "Uznat [recognition_target]" # todo: NEW TRANSLATION
+ switch_recognition_desc: "V současnosti uznáváme rivalitu této vlády jako legitimního zástupce jejího lidu, ale může být v našem zájmu a v souladu s našimi hodnotami přesměrovat naše uznání na tuto vládu. V současnosti [?FROM.Granted_Recognition] států uznává tuto vládu." # todo: NEW TRANSLATION
+ grant_recognition: "Uznat nezávislost [From.Getname]" # todo: NEW TRANSLATION
+ grant_recognition_desc: "Měli bychom zvážit, zda je udělení uznání [From.GetnameDef] v našem národním zájmu a zda je považujeme za hodného člena mezinárodního společenství. V současnosti jim uznání udělilo [?FROM.Granted_Recognition] států." # todo: NEW TRANSLATION
+ rescind_recognition: "Odvolat naše uznání [From.GetnameDef]" # todo: NEW TRANSLATION
+ rescind_recognition_desc: "Měli bychom zvážit, zda pokračování v uznávání nezávislosti [From.GetnameDef] je v našem nejlepším zájmu. V současnosti jim uznání udělilo [?FROM.Granted_Recognition] států." # todo: NEW TRANSLATION
+ pressure_countries_to_recognize: "Vyvíjet nátlak na země, které ovlivňujeme, aby uznaly [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ pressure_countries_to_recognize_desc: "Lidé v [FROM.GetNameDef] si zaslouží nezávislý stát. Měli bychom využít náš vliv, abychom jim pomohli tohoto cíle dosáhnout." # todo: NEW TRANSLATION
+ move_embassy_to_jerusalem: "Přesunout naši ambasádu do Jeruzaléma" # todo: NEW TRANSLATION
+ karabakh_decisions_category: "Konflikt Náhorního Karabachu" # todo: NEW TRANSLATION
+ karabakh_decisions_category_desc: "Po vítězství §YArménie§! v §YPrvní válce v Artsachu§! hraniční konflikty pokračují dodnes. Můžeme se pokusit konflikt deeskalovat a otočit ho v náš prospěch.\n\nBudeme muset zvýšit napětí a připravenost na budoucí konflikt. V tom případě by byla klíčová i podpora války.\n\n[karabakh_tension_loc][karabakh_readiness_loc][karabakh_control_loc]" # todo: NEW TRANSLATION
+ karabakh_support_decisions_category: "Řešení konfliktu v Náhorním Karabachu" # todo: NEW TRANSLATION
+ karabakh_support_decisions_category_desc: "Mnoho lidí v naší zemi říká, že bychom se měli snažit konflikt NKR řešit mírněji. Můžeme s naším nepřítelem férově vyjednávat, nebo jejich diplomacii svést k úplné submisivitě vůči nám." # todo: NEW TRANSLATION
+ speak_up_against_silence: "Postavit se mlčení" # todo: NEW TRANSLATION
+ conduct_military_raid: "Provést vojenský nájezd" # todo: NEW TRANSLATION
+ conduct_artillery_barrage: "Provést dělostřeleckou palbu" # todo: NEW TRANSLATION
+ conduct_recon_mission: "Provést průzkumnou misi" # todo: NEW TRANSLATION
+ conduct_dig_in: "Vybudovat zákopy" # todo: NEW TRANSLATION
+ conduct_question_locals: "Začít vyslýchat místní obyvatele" # todo: NEW TRANSLATION
+ conduct_aerial_recon: "Provést letecký průzkum" # todo: NEW TRANSLATION
+ conduct_unmanned_aerial_recon: "Provést bezpilotní letecký průzkum" # todo: NEW TRANSLATION
+ make_local_investments: "Investovat v NKR" # todo: NEW TRANSLATION
+ bail_out: "Zachránit" # todo: NEW TRANSLATION
+ prepare_for_war: "Připravit se na válku" # todo: NEW TRANSLATION
+ the_war: "Vyhlásit válku" # todo: NEW TRANSLATION
+ the_halt: "Ukončení" # todo: NEW TRANSLATION
+ the_halt_desc: "Každá válka jednou skončí, jsme omezeni časem." # todo: NEW TRANSLATION
+ karabakh_main_countdown_mission: "Situace v Karabachu" # todo: NEW TRANSLATION
+ propose_peace_solution: "Navrhnout mírové řešení" # todo: NEW TRANSLATION
+ wind_of_change: "Vítr změn" # todo: NEW TRANSLATION
+ brutal_repressions: "Brutální represe" # todo: NEW TRANSLATION
+ mp_decision_category: "MP optimalizace" # todo: NEW TRANSLATION
+ mp_annex_south_america: "Anektovat Jižní Ameriku" # todo: NEW TRANSLATION
+ mp_annex_africa: "Anektovat Afriku" # todo: NEW TRANSLATION
+ mp_annex_asia: "Anektovat Asii" # todo: NEW TRANSLATION
+ mp_annex_north_america: "Anektovat Severní Ameriku" # todo: NEW TRANSLATION
+ mp_annex_middle_east: "Anektovat Blízký východ" # todo: NEW TRANSLATION
+ mp_annex_russia_and_caucasus: "Anektovat Rusko a Kavkaz" # todo: NEW TRANSLATION
+ mp_nzl_annex_oceania: "Anektovat Oceánii" # todo: NEW TRANSLATION
+ mp_annex_europe: "Anektovat Evropu" # todo: NEW TRANSLATION
+ mp_hide_decisions: "Skrýt rozhodnutí o anexi (nelze vrátit zpět)" # todo: NEW TRANSLATION
+ mp_generate_tension: "Generovat světové napětí" # todo: NEW TRANSLATION
+ mp_create_faction_a: "Vytvořit frakci A" # todo: NEW TRANSLATION
+ mp_join_faction_a: "Připojit se k frakci A" # todo: NEW TRANSLATION
+ mp_create_faction_b: "Vytvořit frakci B" # todo: NEW TRANSLATION
+ mp_join_faction_b: "Připojit se k frakci B" # todo: NEW TRANSLATION
+ mp_create_faction_c: "Vytvořit frakci C" # todo: NEW TRANSLATION
+ mp_join_faction_c: "Připojit se k frakci C" # todo: NEW TRANSLATION
+ mp_create_faction_d: "Vytvořit frakci D" # todo: NEW TRANSLATION
+ mp_join_faction_d: "Připojit se k frakci D" # todo: NEW TRANSLATION
+ mp_allow_to_join_factions: "Povolit připojení k jiným frakcím" # todo: NEW TRANSLATION
+ mp_delete_units: "Smazat všechny jednotky na mapě" # todo: NEW TRANSLATION
+ mp_set_tech_to_usa: "Nastavit technologickou úroveň na standard USA" # todo: NEW TRANSLATION
+ mp_factories_decision_category: "MP - Extra továrny" # todo: NEW TRANSLATION
+ mp_factories_decision_category_desc: "Buďte si vědomi, že můžete vybrat pouze jednu možnost a jednou." # todo: NEW TRANSLATION
+ add_one_offmap: "Přidat 1 mimo-mapový" # todo: NEW TRANSLATION
+ add_one_offmap_desc: "Přidá jednu civilní mimo-mapovou a jednu vojenskou mimo-mapovou továrnu" # todo: NEW TRANSLATION
+ add_two_offmap: "Přidat 2 mimo-mapové" # todo: NEW TRANSLATION
+ add_two_offmap_desc: "Přidá dvě civilní mimo-mapové a dvě vojenské mimo-mapové továrny" # todo: NEW TRANSLATION
+ add_three_offmap: "Přidat 3 mimo-mapové" # todo: NEW TRANSLATION
+ add_three_offmap_desc: "Přidá tři civilní mimo-mapové a tři vojenské mimo-mapové továrny" # todo: NEW TRANSLATION
+ add_five_offmap: "Přidat 5 mimo-mapových" # todo: NEW TRANSLATION
+ add_five_offmap_desc: "Přidá pět civilních mimo-mapových a pět vojenských mimo-mapových továren" # todo: NEW TRANSLATION
+ army_xp_50: "£army_experience §H50§!" # todo: NEW TRANSLATION
+ army_xp_50_blocked: "£army_experience §R50§!" # todo: NEW TRANSLATION
+ army_xp_50_tooltip: "K přijetí rozhodnutí stojí £army_experience 50." # todo: NEW TRANSLATION
+ protests_decision_category: "Očekávané vládní výdaje" # todo: NEW TRANSLATION
+ protests_decision_category_desc: "Musíme naplnit očekávání našich občanů, abychom se vyhnuli protestům a dalším negativním společenským jevům.\n\nAktuální síla protestů: [protest_strength_TT]\nAktuální radikalizace protestů: [protest_radicalisation_TT][fuel_protests_TT]\n\n\nJak číst zprávu:\n§GZelené§! čtverce představují úroveň výdajů požadovaných našimi občany a pokrytých našimi současnými výdaji\n§RČervené§! čtverce představují úroveň výdajů požadovaných našimi občany a NEPOKRYTÝCH našimi současnými výdaji - to je zdroj nárůstu protestů\n§BModré§! čtverce představují úroveň výdajů, které nejsou požadovány našimi občany, ale jsou pokryty našimi současnými výdaji\nBílé čtverce představují možné úrovně výdajů, které nejsou pokryty ani očekávány" # todo: NEW TRANSLATION
+ give_in_to_protestors: "Ustoupit protestujícím" # todo: NEW TRANSLATION
+ give_in_to_protestors_desc: "Musíme udělat některé ústupky i když tím ztratíme tvář a část podpory. Alternativa by byla příliš drahá." # todo: NEW TRANSLATION
+ army_xp_20: "£army_experience    §H20§!" # todo: NEW TRANSLATION
+ army_xp_20_blocked: "£army_experience    §R20§!" # todo: NEW TRANSLATION
+ army_xp_20_tooltip: "K přijetí rozhodnutí stojí £army_experience 20." # todo: NEW TRANSLATION
+ air_xp_20: "£air_experience     §H20§!" # todo: NEW TRANSLATION
+ air_xp_20_blocked: "£air_experience    §R20§!" # todo: NEW TRANSLATION
+ air_xp_20_tooltip: "K přijetí rozhodnutí stojí £air_experience 20." # todo: NEW TRANSLATION

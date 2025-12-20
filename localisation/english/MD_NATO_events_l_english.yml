@@ -1,0 +1,80 @@
+﻿l_english:
+ NATO_decisions: "Členství v NATO" # todo: NEW TRANSLATION
+ NATO_decisions_desc: "NATO, tedy Severoatlantická smluvní organizace, je vojenské spojenectví mezi několika severoamerickými a evropskými státy. NATO představuje systém kolektivní obrany, kdy se jeho nezávislé členské státy dohodnou na vzájemné obraně v případě útoku ze strany externí síly." # todo: NEW TRANSLATION
+ leave_NATO: "Opustit NATO" # todo: NEW TRANSLATION
+ leave_NATO_desc: "Už nemáme zájem být součástí NATO." # todo: NEW TRANSLATION
+ denounce_Status_As_Major_Non_NATO_Ally: "Zrušit status Hlavního ne‑NATO spojence" # todo: NEW TRANSLATION
+ denounce_Status_As_Major_Non_NATO_Ally_desc: "Už nemáme zájem být spojeni s aliancí NATO." # todo: NEW TRANSLATION
+ become_NATO_aspirant: "Stát uchazeč o členství v NATO" # todo: NEW TRANSLATION
+ become_NATO_aspirant_desc: "Státy uchazeči o NATO jsou státy, které projevily zájem o členství v NATO. Po projevení zájmu nám bude přidělen Plán činnosti pro členství, který nám stanoví cíle, jichž musíme dosáhnout předtím, než nám bude dovoleno vstoupit. Jakmile budou cíle splněny, můžeme zahájit jednání o přistoupení, která vyžadují schválení všech stávajících členů NATO." # todo: NEW TRANSLATION
+ finish_NATO_membership_action_plan: "Dokončit Plán činnosti pro členství" # todo: NEW TRANSLATION
+ finish_NATO_membership_action_plan_desc: "Dokončením Plánu činnosti pro členství přiděleného NATO můžeme zahájit jednání o přistoupení se stávajícími členy. Každý stávající člen NATO musí schválit naši žádost. Náš status zůstane jako žadatel o členství v NATO, dokud všichni členové naši žádost neschválí." # todo: NEW TRANSLATION
+ ratify_country_accession: "Ratifikovat přistoupení [From.GetName] k NATO" # todo: NEW TRANSLATION
+ ratify_country_accession_desc: "[From.GetName] dokončil svůj Plán činnosti pro členství. Nyní zbývá pouze nám a ostatním členům NATO ratifikovat jejich přistoupení, po čemž se stanou plnoprávným členem NATO." # todo: NEW TRANSLATION
+ join_NATO: "Vstoupit do NATO" # todo: NEW TRANSLATION
+ join_NATO_desc: "Všichni ostatní členové NATO ratifikovali naše přistoupení k NATO. Nyní se můžeme stát plnoprávným členem aliance." # todo: NEW TRANSLATION
+ show_non_ratified_countries: "Zobrazit neratifikované země" # todo: NEW TRANSLATION
+ show_non_ratified_countries_desc: "Zde můžete vidět seznam zemí, které dosud neratifikovaly naše přistoupení. Můžete přimět země k ratifikaci zlepšením vzájemných vztahů." # todo: NEW TRANSLATION
+ call_nato_to_arms: "Vyzvat NATO ke zbraním!" # todo: NEW TRANSLATION
+ call_nato_to_arms_desc: "Jsme napadeni cizí mocností. Nyní můžeme uplatnit Článek 5 Severoatlantické smlouvy, což znamená, že naši spojenci se musí postavit na naši obranu." # todo: NEW TRANSLATION
+ nato_enhance_forward_presence_brigade: "Nasadit brigádu NATO E" # todo: NEW TRANSLATION
+ nato_enhance_forward_presence_brigade_desc: "Nedávná krymská krize postavila Spojené státy do prekérní pozice. Nasazení brigády E by mělo napomoci odradit další agresi ze strany Ruska." # todo: NEW TRANSLATION
+ nato_deply_turkish_brigade: "Nasadit brigádu NATO S" # todo: NEW TRANSLATION
+ nato_deply_turkish_brigade_desc: "Turecko nadále potvrzuje svou oddanost NATO. Měli bychom projevit vděčnost nasazením nové brigády v regionu." # todo: NEW TRANSLATION
+ RULE_CANT_LEAVE_NATO: "§RNemůžeme opustit NATO, když jsme pod útokem!§!" # todo: NEW TRANSLATION
+ RULE_CANT_KICK_OUT_OF_NATO: "§RNemůžeme vyřadit země z NATO!§!" # todo: NEW TRANSLATION
+ RULE_CANT_ASSUME_LEADERSHIP_OF_NATO: "§RVedení NATO v době války je uzamčeno pro původního vůdce!§!" # todo: NEW TRANSLATION
+ NATO.1.t: "[From.GetNameDef] a NATO" # todo: NEW TRANSLATION
+ NATO.1.d: "[From.GetNameDef] je členem NATO. Pokud jim vyhlásíme válku, budou mít možnost přivolat do války další členy NATO. To znamená, že je velice pravděpodobné, že skončíme ve válce s většinou NATO." # todo: NEW TRANSLATION
+ NATO.1.a: "Bereme na vědomí" # todo: NEW TRANSLATION
+ NATO.2.t: "Vyzvat NATO ke zbraním?" # todo: NEW TRANSLATION
+ NATO.2.d: "Byli jsme napadeni cizí mocností. Jako člen NATO můžeme uplatnit Článek 5 smlouvy, který by vyžadoval asistenci od ostatních zemí NATO." # todo: NEW TRANSLATION
+ NATO.2.a: "Vyzvat NATO" # todo: NEW TRANSLATION
+ NATO.2.b: "Zvládneme to sami" # todo: NEW TRANSLATION
+ NATO.3.t: "[From.GetNameDef] volá o pomoc!" # todo: NEW TRANSLATION
+ NATO.3.d: "[From.GetNameDef] byl napaden jinou zemí a uplatnil Článek 5 NATO. To znamená, že jim musíme pomoci v jejich válce." # todo: NEW TRANSLATION
+ NATO.3.a: "Musíme pomoci našim spojencům!" # todo: NEW TRANSLATION
+ NATO.3.b: "Možná do toho nezasahovat?" # todo: NEW TRANSLATION
+ NATO.4.t: "Demobilizace NATO" # todo: NEW TRANSLATION
+ NATO.4.d: "Teď, když byla hrozba proti členu NATO odstraněna, může být vojenské spojenectví mezi těmito zeměmi rozpuštěno. NATO se znovu zmobilizuje, pokud bude další člen napaden." # todo: NEW TRANSLATION
+ NATO.4.a: "Dobře" # todo: NEW TRANSLATION
+ NATO.5.t: "NATO se demobilizuje" # todo: NEW TRANSLATION
+ NATO.5.d: "Nyní, když byla hrozba vůči členskému státu NATO zažehnána, lze vojenské spojenectví mezi těmito zeměmi rozpustit. NATO se znovu mobilizuje v případě útoku na jiného člena." # todo: NEW TRANSLATION
+ NATO.5.a: "Dobře" # todo: NEW TRANSLATION
+ NATO.6.t: "[From.GetNameDef] opouští NATO" # todo: NEW TRANSLATION
+ NATO.6.d: "Vláda [From.GetNameDef] oznámila, že opouští NATO. Uvedli, že jim aliance již nenaplňuje potřeby a necítí se pohodlně ve spolupráci se svými starými spojenci." # todo: NEW TRANSLATION
+ NATO.6.a: "Zajímavé" # todo: NEW TRANSLATION
+ NATO.7.t: "[From.GetNameDef] usiluje o členství v NATO" # todo: NEW TRANSLATION
+ NATO.7.d: "[From.GetNameDef] projevil zájem stát se členem NATO. Bude mu přidělen Plán činnosti pro členství, po jehož splnění bude potřebovat souhlas všech stávajících členů NATO, aby se stal novým členem." # todo: NEW TRANSLATION
+ NATO.7.a: "Noví spojenci?" # todo: NEW TRANSLATION
+ NATO.8.t: "[From.GetNameDef] vstupuje do NATO" # todo: NEW TRANSLATION
+ NATO.8.d: "[From.GetNameDef] byl přijat k členství v NATO. Nyní jsou součástí vojenské aliance a budou se podílet na obraně svých spojenců, kteří na oplátku jsou ochotni bránit je." # todo: NEW TRANSLATION
+ NATO.8.a: "Zajímavé" # todo: NEW TRANSLATION
+ NATO_join_tt: "Bude přidán vzájemný §Ybonus k názoru§! mezi vámi a všemi ostatními členy §BNATO§!.\nBude přidán vzájemný §Yvojenský přístup§! se všemi členy §BNATO§!.\n" # todo: NEW TRANSLATION
+ NATO_leave_tt: "Vzájemný §Ybonus k názoru§! mezi vámi a ostatními zeměmi bude odstraněn a ztratíte §Yvojenský přístup§! ke všem ostatním členům §BNATO§!.\nVšichni členové §BNATO§! budou mít o vás horší §Ynázor§!.\n" # todo: NEW TRANSLATION
+ NATO.9.t: "Pozvánka do NATO" # todo: NEW TRANSLATION
+ NATO.9.d: "Spojené státy a jejich spojenci nás oslovili a vyzvali, abychom se kvůli ochraně svobody a světového míru připojili k NATO pro vzájemný prospěch." # todo: NEW TRANSLATION
+ NATO.9.a: "Přijímáme!" # todo: NEW TRANSLATION
+ NATO.9.b: "Na to nemáme čas." # todo: NEW TRANSLATION
+ NATO.10.t: "[From.GetNameDef] vstupuje do NATO!" # todo: NEW TRANSLATION
+ NATO.10.d: "Úředníci z [From.GetNameDef] kontaktovali naše velvyslance a potvrdili, že se brzy připojí k NATO." # todo: NEW TRANSLATION
+ NATO.10.a: "Pro svobodný svět!" # todo: NEW TRANSLATION
+ NATO.11.t: "[From.GetNameDef] odmítá členství v NATO" # todo: NEW TRANSLATION
+ NATO.11.d: "[From.GetNameDef] nás informoval, že členství v NATO není v souladu s jejich zájmy a že se do aliance v dohledné době nepřipojí." # todo: NEW TRANSLATION
+ NATO.11.o1: "To je škoda." # todo: NEW TRANSLATION
+ NATO.13.t: "[Root.GetNameDef] vstupuje do NATO" # todo: NEW TRANSLATION
+ NATO.13.d: "Vedení NATO dnes potvrdilo, že rozhovory o přistoupení mezi členskými státy NATO a [Root.GetNameDef] byly úspěšně završeny a že [From.GetAdjective] ozbrojené síly budou brzy integrovány do společné velitelské struktury." # todo: NEW TRANSLATION
+ NATO.13.o1: "Významný vývoj." # todo: NEW TRANSLATION
+ NATO.14.t: "[From.GetNameDef] usiluje o členství v NATO" # todo: NEW TRANSLATION
+ NATO.14.d: "Delegáti z [From.GetNameDef] stále častěji naznačují, že jejich domovská země je ochotná vstoupit do Severoatlantické smluvní organizace. Dosud jsme je odsunovali prázdnými sliby, zatímco Kongres je zaneprázdněn nesmírně důležitými politickými záležitostmi, ale nyní musíme informovat výbory pro zahraniční politiku, zda máme podat NATO žádost o přijetí [From.GetName] do našich řad." # todo: NEW TRANSLATION
+ NATO.14.a: "Tady začíná zábava." # todo: NEW TRANSLATION
+ NATO.14.b: "To není v našem zájmu." # todo: NEW TRANSLATION
+ NATO.15.t: "[USA.GetNameDef] odmítá žádost o vstup do NATO" # todo: NEW TRANSLATION
+ NATO.15.d: "[USA.GetNameDef] zamítl naši žádost o vstup do NATO." # todo: NEW TRANSLATION
+ NATO.15.a: "Zklamání." # todo: NEW TRANSLATION
+ NATO.16.t: "[From.GetName] opouští NATO!" # todo: NEW TRANSLATION
+ NATO.16.d: "Vůdce [From.GetNameDef], [From.GetLeader], dnes oznámil záměr země okamžitě vystoupit ze Severoatlantické smlouvy a přidružených aliancí. To oslabí vojenský pakt." # todo: NEW TRANSLATION
+ NATO.16.o1: "Dobrá volba." # todo: NEW TRANSLATION
+ NATO.16.o2: "Zajímavé" # todo: NEW TRANSLATION
+ NATO.17.t: "Posun v politice" # todo: NEW TRANSLATION
+ NATO.17.d: "Náš nedávný posun k méně než demokratické politice způsobil, že nás NATO opustilo. Už nesplňujeme jejich směšné požadavky na takzvanou demokracii. Odmítáme tento pojem a budeme na tom lépe bez NATO a jejich falešné ochrany!" # todo: NEW TRANSLATION

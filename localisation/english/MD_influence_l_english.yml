@@ -1,0 +1,128 @@
+﻿l_english:
+ influence_desicions: "[ROOT.GetAdjective] [GetYear] Zpráva o zahraničním vlivu" # todo: NEW TRANSLATION
+ influence_desicions_desc: "Zpravodajské služby [ROOT.GetNameDef] připravily zprávu o vlivu, který na naši zemi vykonávají zahraniční vlády. Pro zachování naší suverenity musíme snažit o omezení tohoto vlivu. Pokud nás bude ovládat jediná země, může se snažit zasahovat do vlády a našeho způsobu života.\n\n§HNásledující země mají na nás vliv:§!\n[position_1_var_n] [new_position_1] [position_1_var_integer]\n[position_2_var_n] [new_position_2] [position_2_var_integer]\n[position_3_var_n] [new_position_3] [position_3_var_integer]\n[position_4_var_n] [new_position_4] [position_4_var_integer]\n[position_5_var_n] [new_position_5] [position_5_var_integer]\n[position_6_var_n] [new_position_6] [position_6_var_integer]\n[position_7_var_n] [new_position_7] [position_7_var_integer]\n\nTo nám dává úroveň nezávislosti na zahraničním vlivu [?domestic_influence_amount|H%%].\nVaší země $foreign_influence_modifier$: [?modifier@foreign_influence_modifier|%+]\nVaší země $foreign_influence_defense_modifier$: [?modifier@foreign_influence_defense_modifier|%+]\nVaší země $foreign_influence_auto_influence_cap_modifier$: [?auto_influence_cap|+0]\n\n§YAktuálně automaticky ovlivňované země:§!\n[auto_influence_nation_0][auto_influence_nation_1][auto_influence_nation_2][auto_influence_nation_3][auto_influence_nation_4][auto_influence_nation_5][auto_influence_nation_6][auto_influence_nation_7][auto_influence_nation_8][auto_influence_nation_9]" # todo: NEW TRANSLATION
+ combat_foreign_influence: "Boj proti zahraničnímu vlivu" # todo: NEW TRANSLATION
+ combat_foreign_influence_desc: "Prosazení naší nezávislosti na zahraničním vlivu je klíčové pro zachování naší země." # todo: NEW TRANSLATION
+ propaganda_campaign_decision: "Propagační kampaň" # todo: NEW TRANSLATION
+ propaganda_campaign_decision_desc: "Velká propagační kampaň o návratu k našim hodnotám je pro vládu důležitá. Vyhlásíme novou kampaň, aby se lidé vrátili k naší identitě!" # todo: NEW TRANSLATION
+ combat_biggest_influencer_decision: "Útok na vliv [?var:FROM.influence_array^0.GetNameWithFlag]" # todo: NEW TRANSLATION
+ combat_biggest_influencer_decision_desc: "Vliv [?var:FROM.influence_array^0.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas ukázat našim lidem jejich pravé cesty a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
+ combat_second_influencer_decision: "Útok na vliv [?var:FROM.influence_array^1.GetNameWithFlag]" # todo: NEW TRANSLATION
+ combat_second_influencer_decision_desc: "Vliv [?var:FROM.influence_array^1.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas ukázat našim lidem jejich pravé cesty a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
+ combat_third_influencer_decision: "Útok na vliv [?var:FROM.influence_array^2.GetNameWithFlag]" # todo: NEW TRANSLATION
+ combat_third_influencer_decision_desc: "Vliv [?var:FROM.influence_array^2.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas ukázat našim lidem jejich pravé cesty a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
+ influence_for_autonomy_decision: "Snížit autonomii v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ influence_for_autonomy_decision_desc: "Snížení naší autonomie v [FROM.GetName] bude nepopulární a začneme ztrácet vliv v regionu. Nicméně je to pomalý proces, kterým je přivedeme blíže do sféry vlivu..." # todo: NEW TRANSLATION
+ influence_for_autonomy_decision_autonomy: "Suzerén snížil naši autonomii" # todo: NEW TRANSLATION
+ enable_auto_influence_notification_decision: "Povolit měsíční zprávu o automatickém ovlivňování" # todo: NEW TRANSLATION
+ disable_auto_influence_notification_decision: "Zakázat měsíční zprávu o automatickém ovlivňování" # todo: NEW TRANSLATION
+ DOMESTIC_INFLUENCE_TOOLTIP: "§H[FROM.GetNameWithFlag]§! má úroveň nezávislosti na zahraničním vlivu [?domestic_influence_amount|H%%]." # todo: NEW TRANSLATION
+ INFLUENCER1_TOOLTIP: "[new_position_1] má v [FROM.GetName] [position_1_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER2_TOOLTIP: "[new_position_2] má v [FROM.GetName] [position_2_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER3_TOOLTIP: "[new_position_3] má v [FROM.GetName] [position_3_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER4_TOOLTIP: "[new_position_4] má v [FROM.GetName] [position_4_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER5_TOOLTIP: "[new_position_5] má v [FROM.GetName] [position_5_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER6_TOOLTIP: "[new_position_6] má v [FROM.GetName] [position_6_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER7_TOOLTIP: "[new_position_7] má v [FROM.GetName] [position_7_var_integer] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER1_AMOUNT_TOOLTIP: "1. - [new_position_1]: [?influence_array_val^0|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER2_AMOUNT_TOOLTIP: "2. - [new_position_2]: [?influence_array_val^1|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER3_AMOUNT_TOOLTIP: "3. - [new_position_3]: [?influence_array_val^2|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER4_AMOUNT_TOOLTIP: "4. - [new_position_4]: [?influence_array_val^3|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER5_AMOUNT_TOOLTIP: "5. - [new_position_5]: [?influence_array_val^4|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER6_AMOUNT_TOOLTIP: "6. - [new_position_6]: [?influence_array_val^5|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCER7_AMOUNT_TOOLTIP: "7. - [new_position_7]: [?influence_array_val^6|Y%%] vlivu." # todo: NEW TRANSLATION
+ INFLUENCE_TOOLTIP_DELAYED: "Vliv měří vliv a dominanci, jakou jedna země drží nad jinou. Vliv lze rozšířit investicemi do staveb, dary, vojenskou pomocí a použitím politické síly. Ostatní země budou soupeřit o vliv a hostitelská země se pokusí prosadit svou suverenitu.\n\nPokud váš vliv bude dostatečně vysoký, můžete donutit zemi podepsat výhodné obchodní dohody nebo ji udělat subjektem. Kromě pomalého posunu k vašemu Světovému názoru může být vliv použit jako měna k manipulaci jejich politiky ve váš prospěch." # todo: NEW TRANSLATION
+ influence_action_button_TT: "§Šířit vliv§!\n£left_mouse_texticon §YL Klik§! pro nastavení nebo odstranění §Y[FROM.GetNameWithFlag]§! jako země, kterou chceme automaticky ovlivňovat. Automatické ovlivňování sníží £pol_power §YDenní přírůstek politické síly§! §R-1.50§! každý den za každou zemi, kterou automaticky ovlivňujete. §YVliv§! z automatického ovlivňování se uplatní na konci každého měsíce. Automatické ovlivňování se zruší, pokud je vaše £pol_power politická síla menší než §R-100§!. Po nastavení automatického ovlivňovače musíte počkat 30 dní před jeho zrušením. Můžete použít §YRežim mapy vlivu§! k zobrazení, koho právě ovlivňujete. (Aktuální §Ydenní cena politické síly§!: §R[?ROOT.auto_influence_cost|2]§!)\n\n(£shift_texticon + £left_mouse_texticon §YShift L Klik§!)  §YY vyčistit všechny aktuálně automaticky ovlivňované země§!\n£right_mouse_texticon §YR Klik§! pro manuální §Yovlivnění§! §Y[FROM.GetNameWithFlag]§! za £pol_power §R50§! politické síly" # todo: NEW TRANSLATION
+ influence_action_button_delayed_TT: "§HNároky:§!\n[!opt_influence_action_button_click_enabled]\n§HEfekt:§!\n[!opt_influence_action_button_click]\n(£shift_texticon + £left_mouse_texticon §YShift L Klik§!)  §YY vyčistit všechny aktuálně automaticky ovlivňované země§!\n\n(£right_mouse_texticon §YR Klik§!) §6Manuální akce ovlivnění§!:\n\n§HNároky:§!\n[!opt_influence_action_button_right_click_enabled]\n§HEfekt:§!\n[!opt_influence_action_button_right_click]\n\n[spread_influence_cooldown_limits]" # todo: NEW TRANSLATION
+ influence_spread_influence_TT: "V §H[PREV.GetNameWithFlag]§! jsme nedávno nešířili vliv.\n" # todo: NEW TRANSLATION
+ influence_auto_spread_in_this_nation_TT: "§H[PREV.GetNameWithFlag]§! je aktuálně automaticky ovlivňována. (Aktuálně: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)" # todo: NEW TRANSLATION
+ must_wait_30_days_to_cancel_tt: "§H[ROOT.GetNameWithFlag]§! nenastavil §H[PREV.GetNameWithFlag]§! jako automatického ovlivňovače v posledních 30 dnech" # todo: NEW TRANSLATION
+ influence_spread_has_slot_available_TT: "§H[ROOT.GetNameWithFlag]§! má volné místo pro automatického ovlivňovače. (Aktuálně: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)\n" # todo: NEW TRANSLATION
+ influence_create_new_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! bude automaticky ovlivňovat §H[PREV.GetNameWithFlag]§!, dokud je automatické ovlivňování povoleno.\n" # todo: NEW TRANSLATION
+ influence_remove_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! již nebude automaticky ovlivňovat §H[PREV.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
+ auto_influencer_cost_effect: "Denní cena automatického ovlivňovače" # todo: NEW TRANSLATION
+ aid_button_TT: "§HPoskytnout ekonomickou pomoc§!\nPošleme jednorázový peněžní dar §H[FROM.GetNameWithFlag]§! výměnou za vliv a posílení vztahů. Dar je §Y5%§! dluhu §H[FROM.GetAdjective]§!.\n\nPokud je AI v dobré pozici, odmítne pomoc.\n" # todo: NEW TRANSLATION
+ aid_button_delayed_TT: "§HNároky:§!\n[!opt_aid_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HPoskytnout pomoc§!\n\nEkonomickou pomoc lze poslat jednou za §H30§! dní v této zemi.\n" # todo: NEW TRANSLATION
+ influence_aid_button_TT: "V §H[PREV.GetNameWithFlag]§! jsme v poslední době neodeslali ekonomickou pomoc.\n" # todo: NEW TRANSLATION
+ aid_military_button_TT: "§HVojenská pomoc§!\nMůžeme poslat jednorázovou zásilku zbraní nebo jiného vybavení §H[FROM.GetNameWithFlag]§! výměnou za vliv a zlepšení vztahů. To však negativně ovlivní náš vztah k jejich nepřátelům. Vojenskou pomoc lze poslat jednou za šedesát dní.\n\nPOZNÁMKA: Můžete posílat pouze APC/IFV a pěchotní vybavení, dokud nenajdeme lepší způsob, jak systém navrhnout. Omlouváme se!" # todo: NEW TRANSLATION
+ aid_military_button_delayed_TT: "§HNároky:§!\n[!opt_aid_military_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí §HVydat vojenskou pomoc§! událost" # todo: NEW TRANSLATION
+ influence_military_aid_TT: "V §H[PREV.GetNameWithFlag]§! jsme v poslední době neodeslali vojenskou pomoc.\n" # todo: NEW TRANSLATION
+ target_other_button_TT: "§HCílit na jiný vliv§!\nMůžeme se rozhodnout podkopat jiné hlavní ovlivňovatele v §H[PREV.GetNameWithFlag]§! nebo cílit na jejich nezávislost na zahraničním vlivu." # todo: NEW TRANSLATION
+ target_other_button_delayed_TT: "§HNároky:§!\n[!opt_target_other_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí §HCílit na jiného ovlivňovatele v [PREV.GetNameWithFlag]§! událost" # todo: NEW TRANSLATION
+ manipulate_politics_button_TT: "§HManipulovat politikou§!\nPoužijeme náš vliv k posílení našeho názoru a vládnoucí strany v §H[FROM.GetNameWithFlag]§!. Pokud se naše názory liší, vztahy utrpí.\n\nSíla posunu je určena úrovní korupce v zemi a dále je modifikována modifikátorem zahraničního vlivu ovlivňující země. Tuto akci lze provést jednou za měsíc.\n\n§HModifikátory:§!\n§H[ROOT.GetNameWithFlag]§! Modifikátor zahraničního vlivu: [?ROOT.modifier@foreign_influence_modifier|%+]\n§H[THIS.GetNameWithFlag]§! Modifikátor obrany proti zahraničnímu vlivu: [?modifier@foreign_influence_defense_modifier|%-]" # todo: NEW TRANSLATION
+ manipulate_politics_button_delayed_TT: "§HNároky:§!\n[!opt_manipulate_politics_button_click_enabled]\n§HEfekt:§!\n[!opt_manipulate_politics_button_click]" # todo: NEW TRANSLATION
+ influence_manipulate_politics_TT: "V §H[PREV.GetNameWithFlag]§! jsme v poslední době nemanipulovali s politikou.\n" # todo: NEW TRANSLATION
+ coup_button_TT: "§HPokus o převrat§!\nPokusíme se o převrat v §H[FROM.GetNameWithFlag]§!. Převrat může být úspěšný, být odhalen a selhat, nebo vyústit v občanskou válku. Pravděpodobnost závisí na vašem vlivu, popularitě vašeho Světového názoru a vládnoucí strany v §H[FROM.GetNameWithFlag]§!, stejně jako na dalších faktorech jako je jejich stabilita." # todo: NEW TRANSLATION
+ coup_button_delayed_TT: "§HNároky:§!\n[!opt_coup_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí §HPokus o převrat§! událost" # todo: NEW TRANSLATION
+ economic_exploitation_button_TT: "§HEkonomické vykořisťování§!\nPoužijeme část našeho vlivu k vykořisťování ekonomiky §H[FROM.GetNameWithFlag]§!. Poskytne to volný průmysl a levné suroviny, ale poškodí vztahy." # todo: NEW TRANSLATION
+ economic_exploitation_button_delayed_TT: "§HNároky:§!\n[!opt_economic_exploitation_button_click_enabled]\n§HEfekt:§!\n[!opt_economic_exploitation_button_click]" # todo: NEW TRANSLATION
+ country_exploited: "V §H[PREV.GetNameWithFlag]§! jsme jej v poslední době nevykořisťovali!" # todo: NEW TRANSLATION
+ make_puppet_button_TT: "§HPřeměnit na loutkový stát§!\nPokud máme v §H[FROM.GetNameWithFlag]§! dostatek vlivu a sdílí s námi stejný světový názor, můžeme je učinit naším loutkovým státem. To poškodí vztahy s jejich sousedy a vytvoří světové napětí." # todo: NEW TRANSLATION
+ make_puppet_button_delayed_TT: "§HNároky:§!\n[!opt_make_puppet_button_click_enabled]\n§HEfekt:§!\n[!opt_make_puppet_button_click]" # todo: NEW TRANSLATION
+ influence_0_TT: "§HTrezor§!: -$$[?FROM.gift_sum] miliard\n" # todo: NEW TRANSLATION
+ influence_from_0_TT: "§HTrezor§!: +$$[?gift_sum] miliard\n" # todo: NEW TRANSLATION
+ created_puppet_loc: "Zřídit loutkový režim" # todo: NEW TRANSLATION
+ domestic_influence_six_months_TT: "Z této akce můžeme získat Domácí nezávislost jednou za šest měsíců.\n" # todo: NEW TRANSLATION
+ domestic_timer_military_aid_tt: "[?refused_military_aid:days_left] dní do doby, kdy můžeme z této akce opět získat Domácí nezávislost.\n" # todo: NEW TRANSLATION
+ change_domestic_influence_percentage_tt: "Domácí nezávislost se změní o [?percent_change|+%%]\n" # todo: NEW TRANSLATION
+ change_index_influencer_tt: "Mění [?var:influence_array^influencer_index.GetFlag]§Y[?var:influence_array^influencer_index.GetAdjective]§! vliv o [?percent_change|-%%]\n" # todo: NEW TRANSLATION
+ change_influencer_tt: "Mění [?var:tag_index.GetFlag]§Y[?var:tag_index.GetAdjective]§! vliv v §Y[?var:influence_target.GetNameWithFlag]§! o [?percent_change|Y%%]\n" # todo: NEW TRANSLATION
+ is_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je ovlivňovatel v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ is_top_three_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je jeden ze tří největších ovlivňovatelů v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ is_top_five_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je mezi pěti největšími ovlivňovateli v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ top_three_twenty_percent_influencer_tt: "Všechny z následujících podmínek musí být pravdivé:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je jeden ze tří největších ovlivňovatelů v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ top_three_thirty_percent_influencer_tt: "Všechny z následujících podmínek musí být pravdivé:\n§H[ROOT.GetNameWithFlag]§! > 30% vlivu\n§H[ROOT.GetNameWithFlag]§! je jeden ze tří největších ovlivňovatelů v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ is_top_influencer_fifty_percent: "Všechny z následujících podmínek musí být pravdivé:\n§H[ROOT.GetNameWithFlag]§! > 50% vlivu\n§H[ROOT.GetNameWithFlag]§! je hlavní ovlivňovatel v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ is_top_influencer_eighty_percent: "Všechny z následujících podmínek musí být pravdivé:\n§H[ROOT.GetNameWithFlag]§! > 80% vlivu\n§H[ROOT.GetNameWithFlag]§! je hlavní ovlivňovatel v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ is_top_influencer_twenty_percent: "Všechny z následujících podmínek musí být pravdivé:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je hlavní ovlivňovatel v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ gdp_greater_than_other: "Náš HDP/ob. (Aktuálně: [?ROOT.gdp_per_capita]k) > §Y[FROM.GetNameWithFlag]§! HDP/ob. (Aktuálně: [?FROM.gdp_per_capita]k)" # todo: NEW TRANSLATION
+ more_civs_than_other: "§H[ROOT.GetNameWithFlag]§! (Aktuálně: [?ROOT.num_of_civilian_factories|Y0]) má více §H$industrial_complex$§! než §H[FROM.GetNameWithFlag]§! (Aktuálně: [?FROM.num_of_civilian_factories|Y0])" # todo: NEW TRANSLATION
+ influence_higher_5_tt: "§H[ROOT.GetNameWithFlag]§! má více než 5% vlivu" # todo: NEW TRANSLATION
+ influence_higher_10_tt: "§H[ROOT.GetNameWithFlag]§! má více než 10% vlivu" # todo: NEW TRANSLATION
+ influence_higher_15_tt: "§H[ROOT.GetNameWithFlag]§! má více než 15% vlivu" # todo: NEW TRANSLATION
+ influence_higher_20_tt: "§H[ROOT.GetNameWithFlag]§! má více než 20% vlivu" # todo: NEW TRANSLATION
+ influence_higher_25_tt: "§H[ROOT.GetNameWithFlag]§! má více než 25% vlivu" # todo: NEW TRANSLATION
+ influence_higher_30_tt: "§H[ROOT.GetNameWithFlag]§! má více než 30% vlivu" # todo: NEW TRANSLATION
+ influence_higher_40_tt: "§H[ROOT.GetNameWithFlag]§! má více než 40% vlivu" # todo: NEW TRANSLATION
+ influence_higher_50_tt: "§H[ROOT.GetNameWithFlag]§! má více než 50% vlivu" # todo: NEW TRANSLATION
+ influence_higher_60_tt: "§H[ROOT.GetNameWithFlag]§! má více než 60% vlivu" # todo: NEW TRANSLATION
+ influence_higher_70_tt: "§H[ROOT.GetNameWithFlag]§! má více než 70% vlivu" # todo: NEW TRANSLATION
+ influence_higher_90_tt: "§H[ROOT.GetNameWithFlag]§! má více než 90% vlivu" # todo: NEW TRANSLATION
+ influence_less_10_tt: "má méně než 10% vlivu" # todo: NEW TRANSLATION
+ influence_less_20_tt: "má méně než 20% vlivu" # todo: NEW TRANSLATION
+ influence_less_30_tt: "má méně než 30% vlivu" # todo: NEW TRANSLATION
+ influence_less_40_tt: "má méně než 40% vlivu" # todo: NEW TRANSLATION
+ influence_less_60_tt: "má méně než 60% vlivu" # todo: NEW TRANSLATION
+ influence_less_70_tt: "má méně než 70% vlivu" # todo: NEW TRANSLATION
+ 1_pos_diplo: "1." # todo: NEW TRANSLATION
+ 2_pos_diplo: "2." # todo: NEW TRANSLATION
+ 3_pos_diplo: "3." # todo: NEW TRANSLATION
+ 4_pos_diplo: "4." # todo: NEW TRANSLATION
+ 5_pos_diplo: "5." # todo: NEW TRANSLATION
+ 6_pos_diplo: "6." # todo: NEW TRANSLATION
+ 7_pos_diplo: "7." # todo: NEW TRANSLATION
+ accept_money: "Pokud přijmete, obdržíte následující v [THIS.GetName]:\n" # todo: NEW TRANSLATION
+ has_foreign_influence: "Přítomný zahraniční vliv\n" # todo: NEW TRANSLATION
+ influence_drift_modifier: "Zahraniční vliv na nás" # todo: NEW TRANSLATION
+ spread_influence_14_days_tooltip: "Můžete §Hšířit vliv§! jednou za §H14§! dní v této zemi.\n" # todo: NEW TRANSLATION
+ spread_influence_30_days_tooltip: "Můžete §Hšířit vliv§! jednou za §H30§! dní v této zemi.\n" # todo: NEW TRANSLATION
+ spread_influence_60_days_tooltip: "Můžete §Hšířit vliv§! jednou za §H60§! dní v této zemi.\n" # todo: NEW TRANSLATION
+ spread_influence_4_percent_change: "4" # todo: NEW TRANSLATION
+ spread_influence_3_percent_change: "3" # todo: NEW TRANSLATION
+ spread_influence_0_5_percent_change: "0.5" # todo: NEW TRANSLATION
+ spread_influence_2_percent_change: "2" # todo: NEW TRANSLATION
+ cooldown_influence_limit_14_tooltip: "Získáte §Hvliv§! jednou v §H14§! denním období z jakékoli přijaté investiční nabídky v této zemi.\n" # todo: NEW TRANSLATION
+ cooldown_influence_limit_30_tooltip: "Získáte §Hvliv§! jednou v §H30§! denním období z jakékoli přijaté investiční nabídky v této zemi.\n" # todo: NEW TRANSLATION
+ recently_refused_economic_aid_tt: "Nedávno jsme odmítli nějakou pomoc. [?recently_refused_aid:days_left|Y0] dní zbývá, než znovu můžeme získat politickou sílu z odmítnutí.\n" # todo: NEW TRANSLATION
+ influence_on_neighbors_tt: "Získáme §Yvliv§! na všechny naše sousedy.\n" # todo: NEW TRANSLATION
+ AI_is_threatened: "§H[PREV.GetName]§! je v současnosti ohrožen." # todo: NEW TRANSLATION
+ auto_influence_nation_0_tt: "[?var:ROOT.auto_influence_array^0.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_1_tt: "[?var:ROOT.auto_influence_array^1.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_2_tt: "[?var:ROOT.auto_influence_array^2.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_3_tt: "[?var:ROOT.auto_influence_array^3.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_4_tt: "[?var:ROOT.auto_influence_array^4.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_5_tt: "[?var:ROOT.auto_influence_array^5.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_6_tt: "[?var:ROOT.auto_influence_array^6.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_7_tt: "[?var:ROOT.auto_influence_array^7.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_8_tt: "[?var:ROOT.auto_influence_array^8.GetNameWithFlag]\n" # todo: NEW TRANSLATION
+ auto_influence_nation_9_tt: "[?var:ROOT.auto_influence_array^9.GetNameWithFlag]\n" # todo: NEW TRANSLATION

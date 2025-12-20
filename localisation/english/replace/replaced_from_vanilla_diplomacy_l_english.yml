@@ -1,0 +1,154 @@
+﻿l_english:
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_MILACC:0 "Založena zámořská vojenská základna" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_MILACC:0 "\nNaše žádost o zřízení vojenské základny byla §Gschválena§! zemí §Y$COUNTRY$§!.\n\nNyní můžeme rozmístit vojska v jejich hranicích." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_MILACC:0 "Vojenská základna odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_MILACC:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! naši žádost o zřízení vojenské základny na jejich území!" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE:0 "Vojenská pomoc přijata" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE:0 "\n§Y$COUNTRY|U$§! §Gschválila§! naši vojenskou pomoc.\n\nNaše materiální podpora jim pomůže v jejich úsilí." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE:0 "Vojenská pomoc odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! naši vojenskou pomoc!\n\nNebudou mít naši materiální podporu." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING:0 "Upravená vojenská pomoc přijata" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING:0 "\n§Y$COUNTRY|U$§! §Gschválila§! naši upravenou vojenskou pomoc.\n\nNaše pokračující materiální podpora jim pomůže v jejich úsilí." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING:0 "Upravená vojenská pomoc odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! naši upravenou vojenskou pomoc!\n\nUž nebudou mít naši materiální podporu." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SEND_VOLUNTEERS:0 "Intervenční síla povolena" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SEND_VOLUNTEERS:0 "\n§Y$COUNTRY|U$§! nám §Gumožnil§! vyslat intervenční sílu z naší země, aby se podílela na jejich konfliktu.\n\nNaše jednotky jsou na cestě, aby zajistily mezinárodní mír a bezpečnost." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SEND_VOLUNTEERS:0 "Intervenční síla odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SEND_VOLUNTEERS:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! povolit vstup naší intervenční síly na jejich území.\n\nNaši mírotvůrci budou muset stáhnout své jednotky." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE:0 "Odpověď na žádost o vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_HEADER:0 "$COUNTRY|UH$ odpověděl na naši žádost o vojenskou pomoc." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_SOMETHING:0 "Vojenská pomoc je nyní:" # todo: NEW TRANSLATION
+ DIPLOMACY_MILACC_TITLE:0 "Zřídit vojenskou základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_MILACC_DESC:0 "Vojenské základny nám umožňují projekci síly zámořně a poskytují nám privilegovaný vojenský přístup k našim spojencům." # todo: NEW TRANSLATION
+ DIPLOMACY_MILACC_ACTION_DESC:0 "Požádejte o povolení zřídit vojenské základny na jejich území." # todo: NEW TRANSLATION
+ DIPLOMACY_MILACC_REQUEST_DESC:0 "$COUNTRY|UY$ chce povolení zřídit vojenské základny na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_MILACC:0 "Zřídit vojenskou základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_MILACC_TITLE:0 "Uzavřít vojenské základny" # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_MILACC_DESC:0 "Přiveďme naše vojáky domů." # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_MILACC_ACTION_DESC:0 "Uzavřít vojenské základny" # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_MILACC_TITLE:0 "Nabídnout vojenskou základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_MILACC_DESC:0 "Nabídka využití vojenských základen by poskytla jejich ozbrojeným silám přístup do naší země." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_MILACC_ACTION_DESC:0 "Nabídnout povolení zřídit vojenské základny na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_MILACC_REQUEST_DESC:0 "$COUNTRY|UY$ naznačuje, že naše jednotky by byly umístěny na jejich území." # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_OFFER_MILACC_TITLE:0 "Vypovědět jejich jednotky" # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_OFFER_MILACC_ACTION_DESC:0 "Uzavřít jejich vojenské základny na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_CREATE_FACTION_DESC:0 "Vytvoří vojenský spojenectví s $COUNTRY|Y$. Obě země budou moci vyhlásit válku jedna druhé. Pokud mezi námi byly vyslány nebo přijaty intervenční síly, budou vráceny." # todo: NEW TRANSLATION
+ DIPLOMACY_CREATE_FACTION_REQUEST_DESC:0 "$COUNTRY|UY$ chce, abychom podpořili vytvoření frakce: $FACTION|Y$.\nPokud mezi námi byly vyslány nebo přijaty intervenční síly, budou vráceny." # todo: NEW TRANSLATION
+ DIPLOMACY_JOIN_FACTION_REQUEST_DESC:0 "$COUNTRY|UY$ se chce připojit k naší frakci $FACTION|Y$.\nPokud mezi členy frakce byly vyslány nebo přijaty intervenční síly, budou vráceny.\nInscenované puče mezi $COUNTRY|H$ a námi budou automaticky zrušeny." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_JOIN_FACTION_DESC:0 "Pozvat $COUNTRY|UH$, aby se připojil k $FACTION|H$. To vám umožní vyvolávat vzájemné válečné závazky. Vůdcem frakce je $LEADER|H$.\nPokud mezi členy frakce byly vyslány nebo přijaty intervenční síly, budou vráceny." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_JOIN_FACTION_REQUEST_DESC:0 "$COUNTRY|UH$ chce, abychom se připojili k jejich frakci: $FACTION|Y$.\nPokud mezi členy frakce byly vyslány nebo přijaty intervenční síly, budou vráceny.\nInscenované puče mezi $COUNTRY|H$ a námi budou automaticky zrušeny." # todo: NEW TRANSLATION
+ DIPLOMACY_JOIN_FACTION_DESC:0 "Požádejte $COUNTRY|H$, aby se připojil k $FACTION|H$. To vám umožní vyvolávat vzájemné válečné závazky. Vůdcem frakce je $LEADER|H$.\nPokud jste poslali intervenční síly členům frakce, budou vráceny." # todo: NEW TRANSLATION
+ DIPLOMACY_SUPPORT_ENEMIES:0 "Podporujeme jejich nepřátele intervenčními silami nebo pobočníky: $LIST$" # todo: NEW TRANSLATION
+ NO_WAR_WIL_ACC:0 "Při míru nejsou potřeba vojenské základny" # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_TITLE:0 "Zahájit vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_EXISTING_TITLE:0 "Upravit vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_CANCEL_TITLE:0 "Zrušit vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_DEAL_DECLINE_POSTFIX:0 "§ROdmítnutí§! zastaví jakoukoli vojenskou pomoc od $ACTOR$" # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_CONVOYS_REQUERD:0 "Tato vojenská pomoc bude vyžadovat $VALUE|H$ konvojů." # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_REASON_ENEMY:0 "Nemůžeme posílat vojenskou pomoc našim nepřátelům." # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_REASON_TARGET_AT_WAR:0 "Abychom mohli poslat vojenskou pomoc, @$TAG$$WHO|H$ musí být ve válce." # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_REASON_PUPPET:0 "Vždy můžeme posílat vojenskou pomoc našim loutkám." # todo: NEW TRANSLATION
+ DIPLOMACY_LEND_LEASE_NO_EQUIPMENT_CATEGORY:0 "Žádné vybavení pro vojenskou pomoc dostupné v této kategorii" # todo: NEW TRANSLATION
+ LEND_LEASE_VEHICLES_BUTTON:0 "§Poslat obrněná vozidla§!" # todo: NEW TRANSLATION
+ LEND_LEASE_INFANTRY_BUTTON:0 "§Poslat vybavení pro pěchotu a dělostřelectvo§!" # todo: NEW TRANSLATION
+ LEND_LEASE_AIRCRAFT_BUTTON:0 "§TPoslat letadla§!" # todo: NEW TRANSLATION
+ LEND_LEASE_NAVAL_BUTTON:0 "§TPoslat konvoje§!" # todo: NEW TRANSLATION
+ LEND_LEASE_CURRENT_HEADER:0 "Aktuální vojenská pomoc:" # todo: NEW TRANSLATION
+ LEND_LEASE_CURRENT_NONE:0 "Žádná aktuální vojenská pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_TITLE:0 "Požádat o vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE:0 "Upravit příchozí vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE:0 "Zrušit příchozí vojenskou pomoc" # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY:0 "Nemůžeme žádat o vojenskou pomoc od našich nepřátel." # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR:0 "Abychom mohli žádat o vojenskou pomoc, musíme být ve válce." # todo: NEW TRANSLATION
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET:0 "Vždy můžeme žádat o vojenskou pomoc od svého pána." # todo: NEW TRANSLATION
+ military_access:0 "Vojenské základny" # todo: NEW TRANSLATION
+ lend_lease:0 "Vojenská pomoc" # todo: NEW TRANSLATION
+ military_access_active:0 "založil vojenské základny v" # todo: NEW TRANSLATION
+ offer_military_access_active:0 "hostí vojenské základny pro" # todo: NEW TRANSLATION
+ docking_rights_active:0 "založil námořní základny v" # todo: NEW TRANSLATION
+ offer_docking_rights_active:0 "hostí námořní základny pro" # todo: NEW TRANSLATION
+ similar_ruling_party:0 "Stejný názor" # todo: NEW TRANSLATION
+ different_party_types:0 "Jiný názor" # todo: NEW TRANSLATION
+ DR_FACTION_WRONG_IDEOLOGY:0 "Jiný názor: " # todo: NEW TRANSLATION
+ DR_FACTION_MATCHING_MAJOR:0 "§Y$THEM|U$§! je velmoc se stejným názorem: " # todo: NEW TRANSLATION
+ DIPLOMACY_SEND_VOLUNTEERS_ACTION_DESC:0 "Můžeme vyslat intervenční síly do této země, abychom zajistili mezinárodní mír a bezpečnost, pokud nejsou naším spojencem. Tato síla bude dodržovat mezinárodní humanitární právo a použije minimální potřebnou úroveň síly k dosažení svých cílů." # todo: NEW TRANSLATION
+ SEND_VOL_TARGET_IS_ALLY:0 "Jsme spojeni s @$TAG$$WHO|H$. Posílání intervenčních sil spojenectví není možné. Připojte se k jejich válce a pošlete expediční síly místo toho." # todo: NEW TRANSLATION
+ SEND_VOL_TARGET_AT_WAR:0 "Abychom mohli vyslat intervenční sílu, @$TAG$$WHO|H$ musí být ve válce." # todo: NEW TRANSLATION
+ SEND_VOL_WE_NOT_AT_WAR:1 "Musíme být v míru, abychom mohli vyslat intervenční sílu." # todo: NEW TRANSLATION
+ SEND_VOL_SENT_VOL_TO_ENEMY:1 "Již jsme poslali intervenční sílu nebo obdrželi letecké svolení od nepřítele @$TAG$$WHO|H$" # todo: NEW TRANSLATION
+ SEND_VOL_NOT_ENOUGH_DIVISIONS:0 "Potřebujeme alespoň $NUM|H$ divizí, abychom mohli vyslat intervenční sílu." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION:0 "Poslat $SEND|H$ divizí.\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS:0 "§RMusíte vybrat jednu nebo více armád k odeslání nabídky.§!\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS_BUT_PLANES:0 "§RMusíte vybrat jednu nebo více armád nebo vybrat letecké jednotky k odeslání nabídky.§!\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION_TOO_MANY_DIVISIONS:0 "§RVybrali jste více divizí ($SEND$), než můžete poslat. Zrušte výběr některých armád nebo rozdělte armády na menší.§!\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT_BUT_PLANES_AVAILABLE:0 "§Již jste poslali tolik divizí, kolik aktuálně můžete.§!\n§GPosílání leteckých jednotek je dostupné§!\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT:0 "§RJiž jste poslali tolik divizí, kolik aktuálně můžete.§!\nV intervenční síle máte $CURRENT|H$ divizí a váš maximální celkový limit je $MAX|H$ (omezeno $LIMITREASON$)." # todo: NEW TRANSLATION
+ CAN_SEND_VOLUNTEERS:0 "Může zasahovat v zahraničních konfliktech" # todo: NEW TRANSLATION
+ SEND_VOL_RULES_DONT_ALLOW:0 "Vaší zemi není dovoleno zasahovat v zahraničních konfliktech." # todo: NEW TRANSLATION
+ SEND_VOLUNTEER_REQUEST:0 "$FROM|UH$ chce poslat $COUNT|H$ divizí, aby zasáhl do našeho konfliktu." # todo: NEW TRANSLATION
+ SEND_VOLUNTEER_REQUEST_PLANES:0 "$FROM|UH$ chce poslat své letky, aby zasáhl do našeho konfliktu." # todo: NEW TRANSLATION
+ SEND_VOLUNTEER_REQUEST_UNITS_AND_PLANES:0 "$FROM|UH$ chce poslat $COUNT|H$ divizí a své letky, aby zasáhl do našeho konfliktu." # todo: NEW TRANSLATION
+ REQUEST_AIR_VOLUNTEERS:0 "Požádat o povolení až pro $COUNT|H$ našich letadel zasahovat do konfliktu." # todo: NEW TRANSLATION
+ REQUEST_AIR_VOLUNTEERS_SENT:0 "§RPovolení letecké kampaně již obdrženo!§!" # todo: NEW TRANSLATION
+ DIPLOMACY_BOOST_PARTY_POPULARTIY_NO_BOOSTABLE_PARTY:0 "Nemůžete podporovat popularitu jiných názorů a popularita vašeho názoru nemůže být zvýšena." # todo: NEW TRANSLATION
+ DIPLOMACY_BOOST_PARTY_POPULARITY_NO_PARTY_SELECTED:0 "Vyberte názor, jehož popularitu chcete zvýšit" # todo: NEW TRANSLATION
+ DIPLOMACY_BOOST_PARTY_POPULARITY_DESC:0 "Denní posun $DAILYDRIFT|Y$ bude stát $DAILYCOST|Y$ politické síly denně" # todo: NEW TRANSLATION
+ DIPLOMACY_STAGE_COUP_ACTION_DESC:0 "Pokusit se uskutečnit puč jménem politické strany v této zemi. \nSíla puče je určena podporou názoru v cílové zemi." # todo: NEW TRANSLATION
+ DIPLOMACY_CIVIL_WAR_INSTANT_FAILED:0 "Nepodařilo se to kvůli nízké politické podpoře našeho názoru" # todo: NEW TRANSLATION
+ COUP_STRENGTH_TOOLTIP:0 "§HSíla puče§! je určena popularitou podporovaného názoru v cílové zemi. \n\nPokus o puč bude silnější, čím nižší je £stability_texticon §YStability§! cíle, a slabší, pokud se vám nepodaří poslat veškeré potřebné vybavení." # todo: NEW TRANSLATION
+ COUP_SMALL_TOOLTIP:0 "V malé zemi puč automaticky uspěje bez vyvolání občanské války, pokud má názor alespoň $POPULARITY|%1H$ podpory. Při menší podpoře puč selže. Aktuální podpora je $CURRENT$" # todo: NEW TRANSLATION
+ DIPLOMACY_BOOST_PARTY_POPULARITY:0 "Podpora názoru" # todo: NEW TRANSLATION
+ VOLUNTEER_MESSAGE_REINFORCEMENTS_ARRIVED:0 "$COUNT|H$ divizí, které vám $SENDER|H$ slíbil, dorazilo do $LOCATION|H$, aby vynutily mír!" # todo: NEW TRANSLATION
+ VOLUNTEER_MESSAGE_RETURNED:0 "Intervenční síla vyslaná do $SENDER|H$ se vrátila domů v $LOCATION|H$." # todo: NEW TRANSLATION
+ VOLUNTEERS_ARRIVED_TITLE:0 "Intervenční síla připravena!" # todo: NEW TRANSLATION
+ VOLUNTEER_REINFORCEMENTS_TITLE:0 "Intervenční síla přichází vynutit mír!" # todo: NEW TRANSLATION
+ SEND_VOLUNTEER_THREAT:0 "Posláno $COUNT$ divizí do $TARGET$" # todo: NEW TRANSLATION
+ DYPLOMACY_FILTER_IDEOLOGIES:0 "Názory" # todo: NEW TRANSLATION
+ DIPLOMACY_RELATION_IMPROVEMENT_DEFAULT_DESC:0 "To bude také vyžadovat denní náklad £pol_power $VALUE|1H$.\nProtože @$TAG1$$COUNTRY1|H$ a @$TAG2$$COUNTRY2|H$ patří do různých skupin názorů, náklady na zlepšení vztahů jsou vyšší." # todo: NEW TRANSLATION
+ volunteers_initiator_desc:0 "$COUNTRY|UY$ má intervenční síly vyslané do jiných zemí" # todo: NEW TRANSLATION
+ volunteers_initiator_extended_desc:0 "$COUNTRY2|UY$ má intervenční sílu od $COUNTRY1|Y$." # todo: NEW TRANSLATION
+ volunteers_receiver_desc:0 "$COUNTRY|UY$ má intervenční síly od jiných zemí" # todo: NEW TRANSLATION
+ volunteers_receiver_extended_desc:0 "$COUNTRY2|UY$ má intervenční sílu vyslanou z $COUNTRY1|Y$." # todo: NEW TRANSLATION
+ military_access_initiator_desc:0 "$COUNTRY|UY$ má vojenské základny v jiných zemích" # todo: NEW TRANSLATION
+ military_access_initiator_extended_desc:0 "$COUNTRY1|UY$ má vojenské základny v $COUNTRY2|Y$" # todo: NEW TRANSLATION
+ military_access_receiver_desc:0 "$COUNTRY|UY$ hostí vojenské základny jiných zemí" # todo: NEW TRANSLATION
+ military_access_receiver_extended_desc:0 "$COUNTRY1|UY$ má vojenské základny v $COUNTRY2|Y$" # todo: NEW TRANSLATION
+ offer_military_access_initiator_desc:0 "$COUNTRY|UY$ hostí vojenské základny jiných zemí" # todo: NEW TRANSLATION
+ offer_military_access_initiator_extended_desc:0 "$COUNTRY2|UY$ má vojenské základny v $COUNTRY1|Y$" # todo: NEW TRANSLATION
+ offer_military_access_receiver_desc:0 "$COUNTRY|UY$ má vojenské základny v jiných zemích" # todo: NEW TRANSLATION
+ offer_military_access_receiver_extended_desc:0 "$COUNTRY2|UY$ má vojenské základny v $COUNTRY1|Y$" # todo: NEW TRANSLATION
+ lend_lease_initiator_desc:0 "$COUNTRY|UY$ posílá vojenskou pomoc do jiných zemí" # todo: NEW TRANSLATION
+ lend_lease_initiator_extended_desc:0 "$COUNTRY1|UY$ podporuje $COUNTRY2|Y$ vojenskou pomocí" # todo: NEW TRANSLATION
+ lend_lease_receiver_desc:0 "$COUNTRY|UY$ je podporován vojenskou pomocí z jiných zemí" # todo: NEW TRANSLATION
+ lend_lease_receiver_extended_desc:0 "$COUNTRY1|UY$ podporuje $COUNTRY2|Y$ vojenskou pomocí" # todo: NEW TRANSLATION
+ WARGOAL_COST_VOLUNTEERS_VALUE:0 "$COUNTRY|UY$ posílá intervenční sílu našim nepřátelům: $VALUE|G$" # todo: NEW TRANSLATION
+ DIPLOMACY_OPINION_SENT_VOLUNTEERS:0 "$COUNT|H$ intervenční síla: $VALUE|+=$" # todo: NEW TRANSLATION
+ DIPLOMACY_DOCKING_RIGHTS:0 "Zřídit námořní základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_DOCKING_RIGHTS_TITLE:0 "Zřídit námořní základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_DOCKING_RIGHTS_DESC:0 "Námořní základny umožňují našim lodím doplňovat zásoby a provádět opravy na jejich území." # todo: NEW TRANSLATION
+ DIPLOMACY_DOCKING_RIGHTS_ACTION_DESC:0 "Požádejte o povolení zřídit námořní základny na jejich území." # todo: NEW TRANSLATION
+ DIPLOMACY_DOCKING_RIGHTS_REQUEST_DESC:1 "$COUNTRY|UY$ chce zřídit námořní základny v našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_DOCKING_RIGHTS_TITLE:0 "Uzavřít námořní základny" # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_DOCKING_RIGHTS_ACTION_DESC:0 "Uzavřít námořní základny" # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_DOCKING_RIGHTS_TITLE:0 "Nabídnout námořní základnu" # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_DOCKING_RIGHTS_DESC:0 "Nabídka námořních základen by umožnila jejich námořnictvu doplňovat zásoby na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_DOCKING_RIGHTS_ACTION_DESC:0 "Nabídnout povolení zřídit námořní základny na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_OFFER_DOCKING_RIGHTS_REQUEST_DESC:1 "$COUNTRY|UY$ nám nabízí využití námořních základen ve svém území." # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_OFFER_DOCKING_RIGHTS_TITLE:0 "Vypovědět jejich námořní síly" # todo: NEW TRANSLATION
+ DIPLOMACY_REVOKE_OFFER_DOCKING_RIGHTS_ACTION_DESC:0 "Uzavřít jejich námořní základny na našem území." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_DOCKING_RIGHTS:0 "Námořní základna zřízena" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_DOCKING_RIGHTS:1 "\nNaše žádost o zřízení námořní základny byla §Gschválena§! zemí §Y$COUNTRY$§!.\n\nNyní můžeme umisťovat naše lodě na jejich území pro zásobování a opravy." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_DOCKING_RIGHTS:0 "Námořní základna odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_DOCKING_RIGHTS:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! naši žádost o zřízení námořní základny!" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0 "Námořní základna zřízena" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_OFFER_DOCKING_RIGHTS:1 "\nNaše nabídka, aby §Y$COUNTRY$§! zřídila námořní základnu, byla §Gschválena§! zemí §Y$COUNTRY$§!.\n\nMohou nyní umisťovat své lodě na našem území pro zásobování a opravy." # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0 "Námořní základna odmítnuta" # todo: NEW TRANSLATION
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0 "\n§Y$COUNTRY|U$§! §Rodmítla§! naši žádost, aby zřídili námořní základnu na našem území!" # todo: NEW TRANSLATION
+ docking_rights_initiator_desc:1 "$COUNTRY|UY$ má námořní základny v jiných zemích" # todo: NEW TRANSLATION
+ docking_rights_initiator_extended_desc:1 "$COUNTRY1|UY$ má námořní základny v $COUNTRY2|Y$" # todo: NEW TRANSLATION
+ docking_rights_receiver_desc:1 "$COUNTRY|UY$ hostí námořní základny pro jiné země" # todo: NEW TRANSLATION
+ docking_rights_receiver_extended_desc:1 "$COUNTRY1|UY$ má námořní základny v $COUNTRY2|Y$" # todo: NEW TRANSLATION
+ offer_docking_rights_initiator_desc:1 "$COUNTRY|UY$ hostí námořní základny pro jiné země" # todo: NEW TRANSLATION
+ offer_docking_rights_initiator_extended_desc:1 "$COUNTRY2|UY$ má námořní základny v $COUNTRY1|Y$" # todo: NEW TRANSLATION
+ offer_docking_rights_receiver_desc:1 "$COUNTRY|UY$ má námořní základny v jiných zemích" # todo: NEW TRANSLATION
+ offer_docking_rights_receiver_extended_desc:1 "$COUNTRY2|UY$ má námořní základny v $COUNTRY1|Y$" # todo: NEW TRANSLATION

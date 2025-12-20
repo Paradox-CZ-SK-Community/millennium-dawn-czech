@@ -1,0 +1,104 @@
+﻿l_english:
+ operation_usa_soleimani: "Zlikvidovat Qasema Soleimaniho" # todo: NEW TRANSLATION
+ operation_usa_soleimani_desc: "Qasem Soleimani je jedním z nejvýznamnějších generálů Íránu, našeho regionálního protivníka na Blízkém východě. Desítky let soupeří Saúdská Arábie a Írán o vliv v zemích Blízkého východu a Soleimani podporuje mnohá proíránská povstání v regionu. Pokud ho odstraníme, můžeme zajistit dominanci vlivu Saúdské Arábie v této oblasti." # todo: NEW TRANSLATION
+ usa_soleimani_infiltration: "Proniknout na současné místo pobytu Soleimaniho" # todo: NEW TRANSLATION
+ usa_soleimani_infiltration_desc: "Naše agentura studovala předchozí místa pobytu Soleimaniho a infiltrovala íránské komunikační kanály; dokázali jsme odhadnout místo, kam se Soleimani vydá příště." # todo: NEW TRANSLATION
+ usa_soleimani_infiltration_outcome: "Úspěšně jsme pronikli na místo pobytu Soleimaniho díky předchozím zpravodajským informacím poskytovaným naší agenturou." # todo: NEW TRANSLATION
+ usa_soleimani_infiltration_fail: "Oblast, kterou naše agentura 'objevila', je pustá poušť, nikdo tam není." # todo: NEW TRANSLATION
+ usa_soleimani_attack: "Nařídit útok dronů" # todo: NEW TRANSLATION
+ usa_soleimani_attack_desc: "Útoky dronů jsou efektivní moderní způsob odstranění cíle; použitím alespoň 50 dronů můžeme zabít Soleimaniho bez potřeby rozsáhlých pozemních sil." # todo: NEW TRANSLATION
+ usa_soleimani_attack_outcome: "Rozkaz dronům zasáhl cíl ve správný čas na správném místě." # todo: NEW TRANSLATION
+ usa_soleimani_attack_fail: "Naše drony minuly cíl, úspěšně uprchl bez vážného zranění a jeho kampaně po celém Blízkém východě budou pokračovat." # todo: NEW TRANSLATION
+ usa_soleimani_exfiltration: "Exfiltrace přes iráckou hranici" # todo: NEW TRANSLATION
+ usa_soleimani_exfiltration_desc: "Irák by měl být nyní nejbezpečnějším místem, odkud se naši agenti mohou dostat z Íránu. Můžeme vystoupit přes Mehran a pokračovat přímo do Bagdádu, odkud můžeme odletět bezpečným letadlem do USA." # todo: NEW TRANSLATION
+ usa_soleimani_exfiltration_outcome: "Podařilo se nám uniknout za pomoci amerických základen v Iráku u irácko-íránské hranice." # todo: NEW TRANSLATION
+ usa_soleimani_exfiltration_fail: "Iránská policie nás dopadla, když jsme se přibližovali k hranici." # todo: NEW TRANSLATION
+ track_HVTs: "Vystopovat vysoce hodnotné cíle" # todo: NEW TRANSLATION
+ track_HVTs_desc: "[FROM.GetName] teroristické aktivity závisí na vedení několika prominentních velitelů. Abyste tyto velitele eliminovali, musíme nejprve nasadit zpravodajské operativce, kteří přesně určí jejich polohu." # todo: NEW TRANSLATION
+ OPERATION_TOKEN_HVT: "Poloha HVT" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_HVT_DESC: "Byla zjištěna poloha vysoce hodnotného cíle." # todo: NEW TRANSLATION
+ ct_track_HVTs: "Zlokalizovat vysoce hodnotné cíle" # todo: NEW TRANSLATION
+ ct_track_HVTs_desc: "Naši agenti použijí kombinaci místních informátorů a signálního zpravodajství, aby vystopovali džihádistické velitele. Tyto informace budou poté přeposlány velitelsví jako příprava na budoucí operaci." # todo: NEW TRANSLATION
+ ct_track_HVTs_outcome: "Našim agentům se podařilo získat polohu významného džihádistického velitele díky místním informátorům a úspěšnému monitorování džihádistických komunikací." # todo: NEW TRANSLATION
+ ct_track_HVTs_outcome_fail: "§RDžihádisté se dozvěděli o operaci našich agentů a přepadli je na odlehlém místě dříve, než mohli zlokalizovat nějaké významné velitele. Ztratili jsme kontakt s našimi agenty, když přepad začal.§!" # todo: NEW TRANSLATION
+ decapitation_strike: "Koordinovat dekapitační úder" # todo: NEW TRANSLATION
+ decapitation_strike_desc: "Nyní, když byl zlokalizován [FROM.GetAdjective] velitel, můžeme použít agenty na zemi k navedení precizního leteckého úderu k jeho eliminaci. Letecké údery jsou pro naše operativce méně rizikové než nájezdy speciálních sil, ale neposkytují zpravodajské informace a mají větší pravděpodobnost zmeškání cíle a způsobení civilních obětí." # todo: NEW TRANSLATION
+ ct_drone_strike: "Přivolat útok dronů" # todo: NEW TRANSLATION
+ ct_drone_strike_desc: "Naši operativci se přesunou na pozorovací stanoviště s výhledem na místo, kde se cíl nachází. Jakmile bude objekt pozitivně identifikován, naši agenti označí cíl laserem a přivolají útok. Bezpilotní letoun odletí z jedné z našich blízkých základen na místo a zlikviduje cíl." # todo: NEW TRANSLATION
+ ct_drone_strike_outcome: "Naši agenti objekt pozitivně identifikovali a úspěšně přivolali letecký úder. Operátor dronu odpálil několik raket a poté se vrátil na základnu." # todo: NEW TRANSLATION
+ ct_drone_strike_outcome_fail: "§RNež se naši agenti stačili dostat na pozorovací stanoviště, byli zaútočeni džihádistickými militanty a ztratili kontakt s velením.§!" # todo: NEW TRANSLATION
+ ct_helicopter_strike: "Přivolat útok vrtulníkem" # todo: NEW TRANSLATION
+ ct_helicopter_strike_desc: "Naši operativci se přesunou na pozorovací stanoviště s výhledem na místo, kde se cíl nachází. Jakmile bude objekt pozitivně identifikován, naši agenti označí cíl a přivolají úder. Útočný vrtulník odletí z jedné z našich blízkých základen na místo a zlikviduje cíl." # todo: NEW TRANSLATION
+ ct_helicopter_strike_outcome: "Naši agenti objekt pozitivně identifikovali a úspěšně přivolali letecký úder. Pilot vrtulníku odpálil několik raket a poté se vrátil na základnu." # todo: NEW TRANSLATION
+ ct_helicopter_strike_outcome_fail: "§RNež se naši agenti stačili dostat na pozorovací stanoviště, byli zaútočeni džihádistickými militanty a ztratili kontakt s velením.§!" # todo: NEW TRANSLATION
+ ct_fighter_strike: "Přivolat útok stíhačkou" # todo: NEW TRANSLATION
+ ct_fighter_strike_desc: "Naši operativci se přesunou na pozorovací stanoviště s výhledem na místo, kde se cíl nachází. Jakmile bude objekt pozitivně identifikován, naši agenti označí cíl a přivolají úder. Stíhací letoun odletí z jedné z našich blízkých základen na místo a zlikviduje cíl." # todo: NEW TRANSLATION
+ ct_fighter_strike_outcome: "Naši agenti objekt pozitivně identifikovali a úspěšně přivolali letecký úder. Pilot stíhačky odpálil několik raket a poté se vrátil na základnu." # todo: NEW TRANSLATION
+ ct_fighter_strike_outcome_fail: "§RNež se naši agenti stačili dostat na pozorovací stanoviště, byli zaútočeni džihádistickými militanty a ztratili kontakt s velením.§!" # todo: NEW TRANSLATION
+ terror.17.t: "Velitel [FROM.FROM.GetName] zabit při [FROM.GetAdjective] leteckém útoku" # todo: NEW TRANSLATION
+ terror.17.d1: "[FROM.GetAdjective] letadla za asistence našich zpravodajských služeb dokázala lokalizovat a odstranit prominentního [FROM.FROM.GetAdjective] džihádistického vůdce. Naši analytici se domnívají, že jeho eliminace významně omezí aktivity [FROM.FROM.GetNameDef] a sníží hrozbu radikálního fundamentalistického teroru v regionu." # todo: NEW TRANSLATION
+ terror.17.d2: "S těžkým srdcem se musíme rozloučit s naším statečným velitelem, který padl za oběť zbabělému leteckému útoku. Nikdy nezapomeneme jeho oběť, ani darebáky, kteří ho vzali z tohoto světa." # todo: NEW TRANSLATION
+ terror.17.a: "Mise splněna." # todo: NEW TRANSLATION
+ terror.17.b: "Ať odpočívá v pokoji!" # todo: NEW TRANSLATION
+ kia_tt: "Padl v boji.\n" # todo: NEW TRANSLATION
+ terror.18.t: "Chybná identifikace vede k civilním obětem" # todo: NEW TRANSLATION
+ terror.18.d: "Zatímco naši operativci hlásili úspěšné odstranění cíle, nedávné zprávy naznačují, že tomu tak není. Kombinace chybných zpravodajských informací a neschopnosti vedla k úmrtí několika civilistů, kteří se prostě nacházeli na špatném místě ve špatný čas. Tato chyba nevyhnutelně povede k větší sympatii místní populace pro džihádistickou věc, ale domácí dopady lze zmírnit popřením našeho zapojení." # todo: NEW TRANSLATION
+ terror.18.a: "Přijmout odpovědnost." # todo: NEW TRANSLATION
+ terror.18.b: "Popřít zapojení." # todo: NEW TRANSLATION
+ potential_leak_tt: "§RInformace o našem ututlání tohoto incidentu by se mohla dostat na veřejnost a poškodit naši popularitu více, než kdybychom přijali odpovědnost.§!" # todo: NEW TRANSLATION
+ kill_or_capture_raid: "Provést nájezd za účelem zabití nebo zajetí" # todo: NEW TRANSLATION
+ kill_or_capture_raid_desc: "Nyní, když jsme zlokalizovali vysoce postaveného [FROM.GetAdjective] džihádistu, můžeme vyslat elitní jednotku speciálních sil, aby velitele buď zabily, nebo zajaly. Zajmutí HVT nám poskytne užitečné zpravodajské informace o aktivitách džihádistů, jako je například poloha dalšího cíle." # todo: NEW TRANSLATION
+ helicopter_infiltration: "Helikoptérová infiltrace" # todo: NEW TRANSLATION
+ helicopter_infiltration_desc: "Naši operativci nastoupí do vrtulníků na jedné z našich vojenských základen, které pak zamíří na cílové místo. Operativci sestoupí pomocí techniky fast-rope na zem a poté se vydají k objektu." # todo: NEW TRANSLATION
+ helicopter_infiltration_outcome: "Naši operativci byli úspěšně vysazeni z vrtulníkových transportů na odlehlém místě a postoupili směrem k cíli." # todo: NEW TRANSLATION
+ helicopter_infiltration_outcome_failure: "Naši operativci se při pokusu o vysazení z vrtulníků dostali pod palbu nepřítele a ztratili kontakt s velením." # todo: NEW TRANSLATION
+ helicopter_exfiltration: "Helikoptérová exfiltrace" # todo: NEW TRANSLATION
+ helicopter_exfiltration_desc: "Naši operativci se dostaví na předem určenou přistávací zónu a zapálí dýmové signály, aby oznámili svou pozici. Transportní vrtulníky poté operativce vyzvednou a vrátí se na základnu." # todo: NEW TRANSLATION
+ helicopter_exfiltration_outcome: "Naši operativci úspěšně zajistili přistávací zónu a signalizovali pilotům vrtulníků, kteří je vyzvedli a vrátili se na základnu." # todo: NEW TRANSLATION
+ helicopter_exfiltration_outcome_failure: "Naši piloti vrtulníků byli před dosažením přistávací zóny varováni našimi operativci a záchranná akce byla následně zrušena. Je vysoce pravděpodobné, že k tomu došlo proto, že přistávací zóna byla kompromitována nepřítelem." # todo: NEW TRANSLATION
+ raid_compound: "Útok na komplex" # todo: NEW TRANSLATION
+ raid_compound_desc: "Pod rouškou tmy naši agenti spolu s operátory speciálních sil zaútočí na komplex, kde se nachází vysoce hodnotný cíl. Jejich úkolem bude, pokud to bude možné, HVT zajmout, nebo ho zabít." # todo: NEW TRANSLATION
+ raid_compound_outcome: "Naši operátoři úspěšně přepadli komplex, zabili mnoho podezřelých militantů a neutrpěli žádné ztráty." # todo: NEW TRANSLATION
+ raid_compound_outcome_failure: "Džihádisté byli na náš útok varováni a připravili past na naše operativce. Operátoři speciálních sil nebyli schopni v chaosu najít agenty, kteří je doprovázeli, a byli džihádistickým protiútokem donuceni ustoupit bez nich." # todo: NEW TRANSLATION
+ captured_tt: "Je zajat a držen k výslechu." # todo: NEW TRANSLATION
+ terror.19.t: "Velitel [FROM.FROM.GetName] vyřazen po [FROM.GetAdjective] nájezdu" # todo: NEW TRANSLATION
+ terror.19.d1: "Naše speciální operace potvrdily, že se jim podařilo zajmout významného [FROM.FROM.GetAdjective] velitele. To zasáhlo [FROM.FROM.GetNameDef] značnou ránu, které se údajně snaží vyrovnat s absencí velitele. Navíc náš vězeň již poskytl užitečné informace o aktivitách své organizace." # todo: NEW TRANSLATION
+ terror.19.d2: "Naší věci se přihodila katastrofa, když byl jeden z našich velitelů zajat nepřítelem. I když důvěřujeme loajalitě našich bojovníků k věci, nesmíme vyloučit možnost, že byl donucen vydat informace o naší organizaci, které by nepřítel mohl použít proti nám." # todo: NEW TRANSLATION
+ terror.19.d3: "Naše speciální operace potvrdily, že [FROM.FROM.GetAdjective] HVT padl v boji. Smrt velitele zasadila [FROM.FROM.GetNameDef] významnou ránu, které se údajně snaží vyrovnat s jeho absencí. Nicméně se nám nepodařilo získat další zpravodajské informace, které bychom možná získali jeho zajetím zaživa." # todo: NEW TRANSLATION
+ terror.19.d4: "Naší věci se přihodila katastrofa, když byl jeden z našich velitelů zabit nepřítelem. Náš statečný velitel se údajně raději zabil, než aby padl do rukou nepřítele — chvályhodný čin, za který bude nepochybně odměněn v posmrtném životě." # todo: NEW TRANSLATION
+ terror.19.b: "Doufejme, že bude mlčet..." # todo: NEW TRANSLATION
+ terror.20.d: "Stává se čím dál jasnějším, že nájezd našich speciálních sil selhal ve svém cíli. Mnozí z mrtvých se ukázali být civilisty místo džihádistických militantů a cíl, který měl být nájezdem odstraněn, nebyl nikde k nalezení. Tato chyba nevyhnutelně povede k větší sympatii místní populace pro džihádistickou věc, ale domácí odezvu lze zmírnit popřením našeho zapojení." # todo: NEW TRANSLATION
+ terror.21.t: "Úniky odhalují ututlání neúspěšné protiteroristické operace" # todo: NEW TRANSLATION
+ terror.21.d: "Informátor v armádě předal prominentní mediální organizaci v naší zemi informace o naší neúspěšné operaci před půl rokem. Veřejnost reagovala rozhořčeně kvůli ututlání zámořské operace, která si vyžádala několik civilních obětí." # todo: NEW TRANSLATION
+ terror.21.a: "Přežijeme tuto kontroverzi?" # todo: NEW TRANSLATION
+ locate_arms_caches: "Zlokalizovat skrýše se zbraněmi" # todo: NEW TRANSLATION
+ locate_arms_caches_desc: "[FROM.GetNameDef] má po celém území, které ovládá, ukryté sklady zbraní, jež usnadňují její teroristické aktivity. Mnoho z těchto skrýší není viditelných ze vzduchu, takže jejich nalezení vyžaduje práci agentů v terénu, kteří využijí místní informátory a signální zpravodajství." # todo: NEW TRANSLATION
+ OPERATION_TOKEN_ARMS_CACHE: "Poloha skrýše se zbraněmi" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_ARMS_CACHE_DESC: "Byla zjištěna poloha skryté skrýše se zbraněmi." # todo: NEW TRANSLATION
+ strike_arms_caches: "Koordinovat úder na skrýše se zbraněmi" # todo: NEW TRANSLATION
+ strike_arms_caches_desc: "Nyní, když byla zjištěna poloha [FROM.GetAdjective] skrýše se zbraněmi, můžeme použít agenty na zemi k navedení precizního leteckého úderu k její likvidaci. Letecké útoky jsou pro naše operativce méně rizikové než nájezdy speciálních sil, ale neposkytují zpravodajské informace a mají větší pravděpodobnost zmeškání cíle a způsobení civilních obětí." # todo: NEW TRANSLATION
+ raid_arms_caches: "Provést nájezd na skrýše se zbraněmi" # todo: NEW TRANSLATION
+ raid_arms_caches_desc: "Nyní, když jsme zlokalizovali skrytou [FROM.GetAdjective] skrýš se zbraněmi, můžeme vyslat elitní jednotku speciálních sil, aby ji zničila. Skrýš se zbraněmi může také obsahovat užitečné zpravodajské informace o aktivitách džihádistů, například polohu dalšího cíle." # todo: NEW TRANSLATION
+ terror.22.t: "[FROM.FROM.GetAdjective] skrýš se zbraněmi zničena při [FROM.GetAdjective] leteckém útoku" # todo: NEW TRANSLATION
+ terror.22.d1: "[FROM.GetAdjective] letadla za asistence našich zpravodajských služeb dokázala lokalizovat a zničit důležitou džihádistickou skrýš se zbraněmi. Naši analytici se domnívají, že její zničení oslabí aktivity [FROM.FROM.GetNameDef] a sníží hrozbu radikálního fundamentalistického teroru v regionu." # todo: NEW TRANSLATION
+ terror.22.d2: "Jeden z našich skladů zbraní byl zničen nepřátelským leteckým útokem, čímž byla omezena činnost naší organizace." # todo: NEW TRANSLATION
+ terror.22.b: "Náš boj pokračuje..." # todo: NEW TRANSLATION
+ terror.23.t: "[FROM.FROM.GetAdjective] skrýš se zbraněmi zničena při [FROM.GetAdjective] nájezdu" # todo: NEW TRANSLATION
+ terror.23.d1: "Naše speciální operace potvrdily, že se jim podařilo zničit velkou [FROM.FROM.GetAdjective] skrýš se zbraněmi. To zasadilo významnou ránu válečnému úsilí [FROM.FROM.GetNameDef]. Bohužel se našim operativcům nepodařilo získat žádné použitelné zpravodajské informace z této skrýše." # todo: NEW TRANSLATION
+ terror.23.d2: "Nepřátelské síly zničily jednu z našich skrytých skrýší se zbraněmi, což zasáhlo naše válečné úsilí. Naštěstí se zdá, že před jejím zničením nebyli schopni získat žádné užitečné zpravodajské informace." # todo: NEW TRANSLATION
+ terror.23.d3: "Naše speciální operace potvrdily, že se jim podařilo zničit velkou [FROM.FROM.GetAdjective] skrýš se zbraněmi. To zasadilo významnou ránu válečnému úsilí [FROM.FROM.GetNameDef]. Navíc se našim operativcům podařilo získat použitelné zpravodajské informace ze skrýše." # todo: NEW TRANSLATION
+ terror.23.d4: "Nepřátelské síly zničily jednu z našich skrytých skrýší se zbraněmi, což zasáhlo naše válečné úsilí. Co je ještě horší, zdá se, že před jejím zničením se jim podařilo získat užitečné zpravodajské informace ze skrýše. Měli bychom se připravit na další [FROM.GetAdjective] operace proti nám." # todo: NEW TRANSLATION
+ raid_cache: "Nájezd na skrýš se zbraněmi" # todo: NEW TRANSLATION
+ raid_cache_desc: "Naši agenti budou doprovázet jednotky speciálních operací při nájezdu na džihádistickou skrýš se zbraněmi. Očekáváme minimální odpor. Jakmile naši operátoři převezmou kontrolu nad skrýší, prohledají ji pro získání použitelného zpravodajského materiálu a poté ji zničí výbušninami." # todo: NEW TRANSLATION
+ raid_cache_outcome: "Naši operativci přepadli vesnici, v níž se údajně skrýš nacházela, a zabili několik podezřelých džihádistů." # todo: NEW TRANSLATION
+ raid_cache_outcome_failure: "Naši operativci čelili neočekávanému množství odporu džihádistických militantů, než se dostali ke skrýši, což donutilo naše speciální síly prudce ustoupit. V zmatku operátoři ztratili kontakt s agenty, kteří je doprovázeli." # todo: NEW TRANSLATION
+ increase_corrutiption: "Zvýšit korupci" # todo: NEW TRANSLATION
+ increase_corrutiption_desc: "Naše operace za účelem zvýšení vlivu v [FROM.GetName] se ukázaly být časově náročné a drahé; možná kdyby byli více ochotni přijímat úplatky, šlo by to rychleji..." # todo: NEW TRANSLATION
+ sabotage_aramco: "Sabotovat Aramco" # todo: NEW TRANSLATION
+ sabotage_aramco_desc: "Využijeme náš vliv v Jemenu a na Arabském poloostrově, abychom zasadili tvrdý úder saúdské ekonomice." # todo: NEW TRANSLATION
+ blow_nahariya_weapon_storage: "Zničit sklad zbraní v Nahariya" # todo: NEW TRANSLATION
+ blow_nahariya_weapon_storage_desc: "Náš zpravodajský vliv v sionistickém režimu se zvýšil, je čas jim ukázat, kdo vyhraje tuto válku..." # todo: NEW TRANSLATION
+ blow_turkey_iraqi_base: "Zničit turecko-iráckou základnu" # todo: NEW TRANSLATION
+ blow_turkey_iraqi_base_desc: "Náš zpravodajský vliv v Turecku se zvýšil; můžeme to využít k poškození jejich jednotek." # todo: NEW TRANSLATION
+ blow_baku_gas_canals: "Zničit plynovody v Baku" # todo: NEW TRANSLATION
+ blow_baku_gas_canals_desc: "Náš zpravodajský vliv v Ázerbájdžánu se zvýšil; můžeme to využít k poškození jejich ekonomiky." # todo: NEW TRANSLATION

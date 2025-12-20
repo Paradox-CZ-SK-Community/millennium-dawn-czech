@@ -1,0 +1,393 @@
+﻿l_english:
+ mio_header_inf_eq_header: "Lehké pěchotní vybavení" # todo: NEW TRANSLATION
+ mio_header_reseach_and_production: "Výzkum a výroba" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_infantry_manufacturer: "Univerzální výrobce pěchotního vybavení" # todo: NEW TRANSLATION
+ generic_mio_general_tank_org: "Výrobce obrněných vozidel" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_tank_manufacturer: "Univerzální výrobce obrněných vozidel" # todo: NEW TRANSLATION
+ generic_naval_equipment_organization: "Výrobce námořní techniky" # todo: NEW TRANSLATION
+ generic_mio_general_naval_org: "Výrobce námořní techniky" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_naval_manufacturer: "Univerzální námořní výrobce" # todo: NEW TRANSLATION
+ generic_air_equipment_organization: "Výrobce letecké techniky" # todo: NEW TRANSLATION
+ generic_mio_general_air_org: "Výrobce letecké techniky" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_air_manufacturer: "Univerzální letecký výrobce" # todo: NEW TRANSLATION
+ generic_mio_general_spec_tank_org: "Výrobce těžkých obrněných vozidel" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_specialized_tank_manufacturer: "Výrobce obrnění" # todo: NEW TRANSLATION
+ generic_aa_at_equipment_organization: "Výrobce protiletadlového a protiobrněného vybavení" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_at_aa_manufacturer: "Výrobce raketových systémů" # todo: NEW TRANSLATION
+ generic_mio_general_sub_org: "Výrobce ponorek" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_sub_manufacturer: "Výroba ponorek" # todo: NEW TRANSLATION
+ generic_mio_general_aa_at_org: "Výrobce protiletadlového a protiobrněného vybavení" # todo: NEW TRANSLATION
+ generic_mio_general_light_naval_org: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_light_naval_manufacturer: "Výrobce detekčního vybavení" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_org: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_fixed_wing_manufacturer: "Vývoj letadel s pevným křídlem" # todo: NEW TRANSLATION
+ generic_mio_light_aircraft_org: "Výrobce lehkých letadel" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_light_aircraft_manufacturer: "Návrh lehkých letadel" # todo: NEW TRANSLATION
+ mio_header_air_eq_header: "Lehké letouny a helikoptéry" # todo: NEW TRANSLATION
+ mio_header_air_2_eq_header: "Střední letouny" # todo: NEW TRANSLATION
+ mio_header_air_3_eq_header: "Strategické letouny" # todo: NEW TRANSLATION
+ mio_header_air_4_eq_header: "Lehké letouny" # todo: NEW TRANSLATION
+ mio_header_naval_eq_header: "Ponorky" # todo: NEW TRANSLATION
+ mio_header_naval_2_eq_header: "Doprovodní lodě" # todo: NEW TRANSLATION
+ mio_header_naval_3_eq_header: "Hlavní lodě" # todo: NEW TRANSLATION
+ mio_header_tank_eq_header: "Lehká vozidla" # todo: NEW TRANSLATION
+ mio_header_tank_2_eq_header: "Těžká vozidla" # todo: NEW TRANSLATION
+ generic_mio_general_inf_org: "Výrobce lehkého výzbroje" # todo: NEW TRANSLATION
+ mio_header_heli_header: "Helikoptéry" # todo: NEW TRANSLATION
+ mio_header_fixed_wing_header: "Letadla s pevným křídlem" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_inf_rel: "Průmyslové standardy" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_art_stats: "Výroba pokročilých dělových hlavní" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_art_cost: "Hromadná výroba dělových hlavní" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_art_rel: "Návrh odolný proti oděru" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_spaa_rel: "Vybavení otestované v terénu" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_spaa_stats: "Pokročilé zaměřovací systémy" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_support_spaa: "Munice pro pozemní útoky" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_spaa_cost: "Hromadně vyráběná munice" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_inf_eq_cost: "Hromadná výroba pěchotního vybavení" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_inf_eq_stats: "Výroba kvalitního pěchotního vybavení" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_util_eq_cost: "Zvýšená výroba vozidel" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_util_eq_stats: "Vylepšený návrh IMV" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_inf_eq_stats_2: "Vylepšená výroba pěchotního vybavení" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_support_art: "Výroba podpůrných dělostřeleckých nábojů" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_resource_dec: "Výroba využívající úspor z rozsahu" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_cnc_prod_cost: "Hromadná výroba elektronických čipů" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_at_stats: "Tandemové náboje" # todo: NEW TRANSLATION
+ generic_mio_inf_trait_aa_stats: "Optimalizované radarové sledování" # todo: NEW TRANSLATION
+ generic_mio_inf_prod_eff: "Moderní výrobní linky" # todo: NEW TRANSLATION
+ generic_mio_inf_at_ap: "Vylepšení proti obrněným cílům" # todo: NEW TRANSLATION
+ generic_mio_inf_at_support: "Řízené protitankové střely proti pěchotě" # todo: NEW TRANSLATION
+ generic_mio_inf_cnc_org: "Vývoj odolné elektroniky" # todo: NEW TRANSLATION
+ generic_mio_inf_cnc_org_2: "Zjednodušené uživatelské rozhraní" # todo: NEW TRANSLATION
+ generic_mio_inf_cnc_rel: "Tým pro architekturu obvodů" # todo: NEW TRANSLATION
+ generic_mio_inf_prod_cost_dec: "Optimalizované výrobní řetězce" # todo: NEW TRANSLATION
+ generic_mio_inf_reass_buff: "Provize zástupce společnosti" # todo: NEW TRANSLATION
+ generic_mio_inf_research_buff: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_inf_production: "Komise pro průmyslová spojení" # todo: NEW TRANSLATION
+ generic_mio_inf_xp_gain: "Oddělení náboru a školení" # todo: NEW TRANSLATION
+ generic_mio_inf_capacity: "Škálování výroby" # todo: NEW TRANSLATION
+ generic_mio_inf_research_prod: "Rozvoj zdrojů" # todo: NEW TRANSLATION
+ generic_mio_inf_capacity_2: "Škálování výroby 2" # todo: NEW TRANSLATION
+ generic_mio_inf_bunch_of_buffs: "Průmyslové zkušenosti" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_veh_rel: "Sekce lehkých vozidel" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_speed: "Výroba motorů" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_def: "Opatření proti minám" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_eff: "Vylepšené výrobní linky" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_util_stats: "Výroba zbraňových stanic" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_apc_stats: "Tým pro návrh APC" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_veh_cost: "Škálovaná výroba" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_light_res_cost: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_veh_rel: "Sekce těžkých vozidel" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_tank_stats: "Tým pro návrh tanků" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_ifv_stats: "Tým pro návrh IFV" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_prod_eff: "Moderní těžké nástroje" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_tank_stats_2: "Moderní tankové technologie" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_ifv_stats_2: "Moderní technologie IFV" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_lt_stats: "Přepracovaný lehký tank" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_mbt_cost: "Optimalizované výrobní linky vozidel" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_brk_main: "Modernizace podpůrného vybavení" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_heavy_stats_main: "Výzkum moderních zbraní" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_prod_growth: "Zkušené týmy" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_research: "Tým VaV (R&D)" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_capacity: "Rozšířená výroba" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_production: "Řízení výroby" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_resource_decr: "Optimalizace zdrojů" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_bonuses: "Restrukturalizace aktiv" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_capacity_2: "Univerzální výroba" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_research_2: "Experimentální střelnice" # todo: NEW TRANSLATION
+ generic_mio_tank_trait_reliability: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_cost: "Výroba ponorek" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_vis: "Materiály povlaků" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_attack: "Vývoj torpéd" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_range: "Oddělení podpůrných motorů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_speed: "Optimalizované výrobní linky motorů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_shore: "Námořně-pevninské zbraně" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_buf: "Vylepšený návrh ponorek" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_cost_2: "Optimalizovaná výroba v dokách" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_visibility_2: "Návrh stealth ponorek" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_cost: "Výroba doprovodních lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_la: "Výroba automatických kanónů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_torpedo: "Řízené zbraně proti lodím" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_speed: "Vylepšení motorů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_detection: "Modernizace sonarů a radarů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_aa: "Vývoj námořních protiletadlových raket" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_range: "Zlepšená ergonomie" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_stats: "Moderní návrh doprovodních lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_strength: "Návrh odolný vůči poškození" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_strength_2: "Návrh odolný vůči poškození" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_anti_missile_gun: "Protiraketová děla" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_prod_buff: "Optimalizace loděnic" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_cost_2: "Víceúčelové moduly" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_detection_2: "Moderní radarové technologie" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_cost: "Výroba těžkých lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_cost_2: "Výroba těžkých lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_str: "Investice do odolnosti" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_la: "Oddělení lehkých zbraní" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_ha: "Podpora pozemních bojů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_aa: "Protiletadlové baterie" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_range: "Zlepšená ergonomie těžkých lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_armor: "Moderní těžké pancéřování" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_detection: "Radarová technologie velkého rozsahu" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_heavy_dominance: "Optimalizovaná výroba" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_missile_hit_chance: "Pokročilý naváděcí systém" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_missile_damage: "Vylepšené hlavice" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_guns_hit_chance: "Vylepšené zaměřování" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_sub_asw: "Vylepšené sonary" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_research: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_xp: "Zaměření na výzkum a vývoj" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_buffs: "Průmyslové zkušenosti" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_capacity: "Rozšířená kapacita" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_cost: "Komunikace úřadu s doky" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_research_2: "Optimalizované řízení" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_ind_capacity_2: "Výroba vysokého objemu" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_rel: "Výroba lehkých letadel" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_agility: "Modelování křídel" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_attack: "Výroba samostatných kanónů" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heli_stats: "Výrobní závody helikoptér" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_pc: "Víceúčelová letadla" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_strk: "Návrhy lehkých útočných letounů" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_stats: "Moderní design" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_range: "Efektivní motory" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_prod: "Zjednodušené návrhy" # todo: NEW TRANSLATION
+ generic_mio_air_trait_light_speed: "Výroba přídavných spalovacích komor" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_rel: "Výroba letadel" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_speed: "Konfigurace pro supercruise" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_agility: "Přepracovaná konfigurace křídel" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_defense: "Obranné komponenty" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_attack: "Vzduch-vzduch zbraně" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_buildic: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_bombing: "Přímá komunikace" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_superiority: "Rozšířená realita" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_res: "Výroba uhlíkových dílů" # todo: NEW TRANSLATION
+ generic_mio_air_trait_med_cost: "Optimalizovaná výroba" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_rel: "Výroba těžkých letadel" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_cas: "Oddělení koordinace pěchoty" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_bombing: "Moderní bombardovací zaměřovače" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_naval: "Námořní radarová technologie" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_def: "Obranná protiopatření" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_bombing_2: "Klouzavé pumy" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_resource: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_cost: "Optimalizovaný stavební proces" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_cost_2: "Optimalizovaný stavební proces" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_stats: "Přímá satelitní komunikace" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_def_stats: "Zkušené týmy návrhářů" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_xp: "Univerzitní granty" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_reass: "Flexibilní přiřazení týmů" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_conv: "Tým pro průmyslovou komunikaci" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_research: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_air_trait_heavy_capacity: "Zvýšený rozpočet na výrobu" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_prod: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_research_xp: "Nepřetržité vývojové cykly" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_eff: "Výrobní úsilí" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_capacity: "Světově známý koncern" # todo: NEW TRANSLATION
+ generic_mio_air_trait_ind_rel_cost: "Zaměření na spolehlivost" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_veh_rel: "Sekce těžkých vozidel" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_tank_stats: "Tým pro návrh tanků" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_ifv_stats: "Tým pro návrh IFV" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_prod_eff: "Moderní těžké nástroje" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_tank_stats_2: "Moderní tankové technologie" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_heavy_ifv_stats_2: "Moderní technologie IFV" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_armor_stat: "Výroba strukturovaných slitin" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_piercing_stat: "APFSDS náboje z vyčerpaného uranu" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_main_stats: "Vývoj bojových stanic nové generace" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_cost: "Moderní výrobní linky" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_resources: "Uhlíkové materiály" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_small_stats: "Nano-slitinové pancéřování" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_production_2: "Plně automatizovaná výrobní linka" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_prod_growth: "Zkušené týmy" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_research: "Tým VaV (R&D)" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_capacity: "Rozšířená výroba" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_production: "Řízení výroby" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_resource_decr: "Optimalizace zdrojů" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_bonuses: "Restrukturalizace aktiv" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_capacity_2: "Univerzální výroba" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_research_2: "Experimentální střelnice" # todo: NEW TRANSLATION
+ generic_mio_spec_tank_trait_reliability: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ generic_mio_at_aa_trait_rel: "Kontrolní procesy" # todo: NEW TRANSLATION
+ generic_mio_at_aa_trait_at_stats: "Tandemové náboje" # todo: NEW TRANSLATION
+ generic_mio_at_aa_trait_aa_stats: "Optimalizované radarové sledování" # todo: NEW TRANSLATION
+ generic_mio_at_aa_prod_eff: "Moderní výrobní linky" # todo: NEW TRANSLATION
+ generic_mio_at_aa_aa_air_attack: "Pokročilá avionika střel" # todo: NEW TRANSLATION
+ generic_mio_at_aa_at_ap: "Vylepšení proti obrněným cílům" # todo: NEW TRANSLATION
+ generic_mio_at_aa_at_support: "Řízené protitankové střely proti pěchotě" # todo: NEW TRANSLATION
+ generic_mio_at_aa_aa_support: "Dvouúčelové protiletadlové rakety" # todo: NEW TRANSLATION
+ generic_mio_at_aa_resources: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_at_aa_cost: "Vylepšené výrobní postupy" # todo: NEW TRANSLATION
+ generic_mio_at_aa_research_buff: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_at_aa_production: "Komise pro průmyslová spojení" # todo: NEW TRANSLATION
+ generic_mio_at_aa_xp_gain: "Oddělení náboru a školení" # todo: NEW TRANSLATION
+ generic_mio_at_aa_capacity: "Škálování výroby" # todo: NEW TRANSLATION
+ generic_mio_at_aa_research_prod: "Rozvoj zdrojů" # todo: NEW TRANSLATION
+ generic_mio_at_aa_capacity_2: "Škálování výroby 2" # todo: NEW TRANSLATION
+ generic_mio_at_aa_bunch_of_buffs: "Průmyslové zkušenosti" # todo: NEW TRANSLATION
+ generic_mio_at_aa_reass_buff: "Provize zástupce společnosti" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_cost: "Výroba ponorek" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_vis: "Materiály povlaků" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_attack: "Vývoj torpéd" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_range: "Oddělení podpůrných motorů" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_speed: "Optimalizované výrobní linky motorů" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_shore: "Námořně-pevninské zbraně" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_buf: "Vylepšený návrh ponorek" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_cost_2: "Optimalizovaná výroba v dokách" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_visibility_2: "Návrh stealth ponorek" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_research: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_xp: "Zaměření na zdroje a rozvoj" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_buffs: "Průmyslové zkušenosti" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_capacity: "Rozšířená kapacita" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_cost: "Komunikace úřadu s doky" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_research_2: "Optimalizované řízení" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_ind_capacity_2: "Výroba vysokého objemu" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_resource: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_prod_buf: "Výroba dronů" # todo: NEW TRANSLATION
+ generic_mio_sub_trait_sub_buf_2: "Návrh složité elektroniky" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_cost: "Výroba doprovodních lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_la: "Výroba automatických kanónů" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_torpedo: "Řízené zbraně proti lodím" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_speed: "Vylepšení motorů" # todo: NEW TRANSLATION
+ generic_mio_nav_trait_light_speed_2: "Vylepšená hydrodynamika" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_detection: "Modernizace sonarů a radarů" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_aa: "Vývoj námořních protiletadlových raket" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_range: "Zlepšená ergonomie" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_stats: "Moderní návrh doprovodních lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_strength: "Návrh odolný vůči poškození" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_research: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_xp: "Zaměření na zdroje a rozvoj" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_buffs: "Průmyslové zkušenosti" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_capacity: "Rozšířená kapacita" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_visibility: "Materiály pro stealth" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_visibility_2: "Elektronická protiopatření" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_fuel: "Elektrické podpůrné motory" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_armor: "Moderní kompozitní pancéřování" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_strength: "Přizpůsobitelný systém řízení palby" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_light_detection_2: "Moderní radarové technologie" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_cost: "Komunikace úřadu s doky" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_ind_research_2: "Optimalizované řízení" # todo: NEW TRANSLATION
+ generic_mio_nav_light_light_trait_ind_capacity_2: "Výroba vysokého objemu" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_cost: "Výroba těžkých lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_str: "Investice do odolnosti" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_la: "Oddělení lehkých zbraní" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_ha: "Tradiční dělostřelectvo" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_aa: "Protiletadlové baterie" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_aa_2: "Vylepšené protiletadlové schopnosti" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_aa_3: "Odepření vzdušného prostoru" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_range: "Zlepšená ergonomie těžkých lodí" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_armor: "Moderní těžké pancéřování" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_detection: "Radarová technologie velkého rozsahu" # todo: NEW TRANSLATION
+ generic_mio_nav_light_trait_heavy_dominance: "Optimalizovaná výroba" # todo: NEW TRANSLATION
+ generic_mio_nav_submarine_attack: "Vylepšené protiponorkové schopnosti" # todo: NEW TRANSLATION
+ generic_mio_general_spec_heli_org: "Výrobce helikoptér" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_md_specialized_helicopter_manufacturer: "Výrobce letecké kavalérie" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_heavy_veh_rel: "Návrh moderních motorů" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_heavy_tank_stats: "Integrovaný systém řízení palby (FCS)" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_heavy_prod_eff: "Zjednodušená výroba" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_heavy_tank_stats_2: "Vzduchem odpalované ATGM" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_armor_stat: "Výroba termobarické munice" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_armor_stat_2: "Ochrana malokaliberních zbraní" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_armor_stat_3: "Vylepšená protiopatření" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_rockets: "Vylepšené raketové kontejnery" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_cost: "Průmyslové řízení" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_resources: "Optimalizace zdrojů" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_small_stats: "Myšlení návrhářů nové generace" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_production_2: "Dvouúčelové motory" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_research: "Tým VaV (R&D)" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_capacity: "Rozšířená výroba" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_production: "Řízení výroby" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_resource_decr: "Optimalizace zdrojů" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_bonuses: "Restrukturalizace aktiv" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_capacity_2: "Univerzální výroba" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_research_2: "Experimentální střelnice" # todo: NEW TRANSLATION
+ generic_mio_spec_heli_trait_reliability: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_rel: "Výroba letadel" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_speed: "Konfigurace přídavného spalování" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_agility: "Přepracovaná konfigurace křídel" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_defense: "Obranné komponenty" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_attack: "Vzduch-vzduch zbraně" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_buildic: "Moderní materiály" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_bombing: "Přímá komunikace" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_superiority: "Rozšířená realita" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_cost: "Efektivní výrobní linky" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_med_res: "Opatření ke snížení spotřeby zdrojů" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_xp: "Univerzitní granty" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_heavy_reass: "Flexibilní přiřazení týmů" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_heavy_conv: "Tým pro průmyslovou komunikaci" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_heavy_research: "Oddělení výzkumu" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_heavy_capacity: "Zvýšený rozpočet na výrobu" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_prod: "Průmyslová odbornost" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_research_xp: "Nepřetržité vývojové cykly" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_eff: "Výrobní úsilí" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_capacity: "Světově známý koncern" # todo: NEW TRANSLATION
+ generic_mio_fixed_wing_trait_ind_rel_cost: "Zaměření na spolehlivost" # todo: NEW TRANSLATION
+ generic_mio_light_aircraft_trait_med_rel: "Výroba letadel" # todo: NEW TRANSLATION
+ mio_policy_general_ruthless_contracts: "Nemilosrdný obchodní model" # todo: NEW TRANSLATION
+ ITA_iveco_defence_vehicles_name: "IVECO Obranná vozidla" # todo: NEW TRANSLATION
+ ITA_beretta_name: "Beretta" # todo: NEW TRANSLATION
+ ITA_fincantieri_name: "Fincantieri" # todo: NEW TRANSLATION
+ ITA_alenia_aeronautica_name: "Alenia Aeronautica" # todo: NEW TRANSLATION
+ ITA_selenia_name: "Selenia" # todo: NEW TRANSLATION
+ ITA_aermacchi_name: "Aermacchi" # todo: NEW TRANSLATION
+ ITA_alenia_aermacchi_name: "Alenia Aermacchi" # todo: NEW TRANSLATION
+ ITA_finmeccanica_name: "Finmeccanica" # todo: NEW TRANSLATION
+ ITA_leonardo_name: "Leonardo" # todo: NEW TRANSLATION
+ ITA_agusta_westland_name: "Agusta Westland Helicopters" # todo: NEW TRANSLATION
+ fincantieri_vulcano_munition: "Munice Vulcano" # todo: NEW TRANSLATION
+ fincantieri_dart_munition: "Munice DART" # todo: NEW TRANSLATION
+ mio_header_fincantieri_1: "Orizzonte Naval Systems" # todo: NEW TRANSLATION
+ mio_header_fincantieri_2: "Fincantieri Hlavní lodě" # todo: NEW TRANSLATION
+ mio_header_fincantieri_3: "Průmyslový rozvoj" # todo: NEW TRANSLATION
+ fincantieri_strategic_company: "Strategická společnost" # todo: NEW TRANSLATION
+ fincantieri_sub_focus_name: "Zaměření na ponorky" # todo: NEW TRANSLATION
+ fincantieri_ship_focus_name: "Zaměření na povrchové lodě" # todo: NEW TRANSLATION
+ fincantieri_commercial_manufacturer_name: "Výroba civilních lodí" # todo: NEW TRANSLATION
+ iveco_hitfist_turret_trait_name: "Vývoj věží HITFIST" # todo: NEW TRANSLATION
+ oto_melara_guns_trait_name: "Výroba děl OTO Melara" # todo: NEW TRANSLATION
+ iveco_hitrole_turret_trait_name: "Vývoj věží HITROLE" # todo: NEW TRANSLATION
+ ansaldo_train_manufacturing: "Ansaldo vlaky" # todo: NEW TRANSLATION
+ leonardo_initial_trait: "Univerzální výrobce obranné techniky" # todo: NEW TRANSLATION
+ aermacchi_light_planes: "Aermacchi lehké letouny" # todo: NEW TRANSLATION
+ alenia_medium_planes: "Alenia střední letouny" # todo: NEW TRANSLATION
+ alenia_heavy_planes: "Alenia těžké letouny" # todo: NEW TRANSLATION
+ selex_sistemi_integrati: "Selex Integrated Systems" # todo: NEW TRANSLATION
+ agusta_westland_helicopters: "Agusta Westland Helicopters" # todo: NEW TRANSLATION
+ fully_integrate_aermacchi_name: "Plná integrace Aermacchi" # todo: NEW TRANSLATION
+ fully_integrate_alenia_name: "Plná integrace Alenia Aeronautica" # todo: NEW TRANSLATION
+ fully_integrate_selex_name: "Plná integrace Selex" # todo: NEW TRANSLATION
+ fully_integrate_finmeccanica_name: "Plná integrace Finmeccanica" # todo: NEW TRANSLATION
+ fully_integrate_agusta_westland_name: "Plná integrace Agusta Westland" # todo: NEW TRANSLATION
+ GER_dynamit_nobel_name: "Dynamit Nobel" # todo: NEW TRANSLATION
+ GER_blohm_and_voss_name: "Blohm & Voss" # todo: NEW TRANSLATION
+ GER_artec_name: "Artec GmbH" # todo: NEW TRANSLATION
+ GER_BMW_name: "BMW" # todo: NEW TRANSLATION
+ GER_Mercedes_Benz_name: "Mercedes-Benz" # todo: NEW TRANSLATION
+ GER_generic_utility_vehicle_manufacturer: "Výrobce užitkových vozidel" # todo: NEW TRANSLATION
+ GER_mio_trait_enhanced_fire_package: "Vylepšený palebný balík" # todo: NEW TRANSLATION
+ GER_generic_small_arms_manufacturer: "Výrobce ručních zbraní" # todo: NEW TRANSLATION
+ GER_mio_header_util_2_eq_header: "Užitkové vybavení" # todo: NEW TRANSLATION
+ GER_mio_header_smallarm_2_eq_header: "Vybavení pro ruční zbraně" # todo: NEW TRANSLATION
+ GER_mio_header_reseach_and_production: "Výzkum a výroba" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_rel: "Vylepšení motoru" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_soft1: "Vylepšený lehký kulomet" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_hard1: "Vylepšený těžký kulomet" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_brkthr1: "Vylepšený granátový kulomet" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_armor1: "Modul klecového pancéřování" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_armor2: "Konstrukce s V-trupem" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_armor3: "Vylepšení kompozitního pancéřování" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_weapon1: "Zbraňový systém CROWS" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_ammo1: "Zápalná munice" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_ammo2: "Protipancéřová munice" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_def1: "Aktivní ochranný systém (APS)" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_cheap1: "Nákladově efektivní výroba" # todo: NEW TRANSLATION
+ GER_mio_spec_Utility_trait_light_exp_cheap2: "Více výrobních linek" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_improv1: "Vylepšený spoušťový mechanismus" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_improv2: "Polymerové kompozitní tělo a pažby" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_improv3: "Vylepšené drážkování" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_firerate: "Zvýšená kadence" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_reload1: "Prodlužovaný zásobník" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_reload2: "Rychlý zásobník Magpul" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_cheap1: "Nákladově efektivní výroba" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_cheap2: "Více výrobních linek" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_team: "Experimentální designový tým" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_ammo1: "Experimentální munice" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_ammo2: "Větší ráže" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_ammo3: "Vylepšená výroba munice" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_ammo4: "Protipancéřové náboje" # todo: NEW TRANSLATION
+ GER_mio_spec_smallarm_trait_light_exp_access: "Vylepšené optiky a příslušenství" # todo: NEW TRANSLATION
+ mio_policy_land_heavy_gantry_cranes_land: "Těžké portálové jeřáby" # todo: NEW TRANSLATION

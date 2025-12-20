@@ -1,0 +1,17 @@
+﻿l_english:
+ education_dynamic_modifier: "Dynamický modifikátor míry gramotnosti" # todo: NEW TRANSLATION
+ education_dynamic_modifier_desc: "Se zvýšeným financováním, pevnou rukou u kormidla a trochou trpělivosti může tato země očekávat zvýšení §YMíry gramotnosti§!.\n\nSnížení míry gramotnosti však může mít své výhody, pokud má země §YEkonomiku založenou na zemědělství§!, například..." # todo: NEW TRANSLATION
+ education_category: "Míra gramotnosti v [ROOT.GetNameWithFlag]" # todo: NEW TRANSLATION
+ education_category_desc: "Jako země, která se potýká s tím, aby svému obyvatelstvu zajistila potřebné vzdělání, musí [ROOT.GetName] efektivně spravovat svůj rozpočet na vzdělávání, aby snížil negativní dopady §Y$education_dynamic_modifier$§!, budete dostávat roční zprávu o §YMíře gramotnosti§! přibližně na konci školního roku.\n§YUdálosti§!, §YRozhodnutí§! a volby učiněné ve §YStromu zaměření§! mohou tuto míru zvýšit (nebo snížit).\n\nPři §YMíře gramotnosti§! 95 % přestane tento mechanismus pro [ROOT.GetName] fungovat; mechanismus se vrátí, pokud §YMíra gramotnosti§! klesne pod 90 %, což se může stát z různých důvodů.\n\nSoučasná §YMíra gramotnosti§! [ROOT.GetNameWithFlag]: [?ROOT.literacy_rate|%2]" # todo: NEW TRANSLATION
+ literacy_rate_change_TT: "§YMíra gramotnosti§! se mění o [?LR_change|+%2]" # todo: NEW TRANSLATION
+ literacy_rate_change_event_TT: "§YMíra gramotnosti§! se mění o [?literacy_change_stored|+%2]" # todo: NEW TRANSLATION
+ lit_rate_TT_yes: "\n\n[FROM.GetName] má aktuálně §YMíru gramotnosti§! [?FROM.literacy_rate|Y%2], toto ovlivní §YMíru gramotnosti§! [ROOT.GetName], pokud dojde k anexi!" # todo: NEW TRANSLATION
+ education.1.t: "Ministr školství hlásí vysokou míru gramotnosti!" # todo: NEW TRANSLATION
+ education.1.d: "Naše obezřetné financování školství a odborně spravované učební osnovy se zdají nést ovoce — s mírou gramotnosti nad 95 % se nyní můžeme nazývat vysoce vzdělanou společností s minimálním odporem od odpůrců doma i v zahraničí. Po dosažení tohoto monumentálního cíle již nebudeme dostávat roční zprávy o míře gramotnosti." # todo: NEW TRANSLATION
+ education.1.A: "Dostanu ještě své denní jablko?" # todo: NEW TRANSLATION
+ education.2.t: "Ministr školství hlásí klesající míru gramotnosti!" # todo: NEW TRANSLATION
+ education.2.d: "Navzdory našemu nejlepšímu úsilí se zdá, že míra gramotnosti klesla — zda je to kvůli kolísající podpoře financování vzdělávacího systému, nebo kvůli masivnímu přílivu méně gramotného obyvatelstva, nelze přesně říci. Znovu tak budeme dostávat roční zprávy o míře gramotnosti naší země." # todo: NEW TRANSLATION
+ education.2.A: "Kde jsou mé abecední knížky?" # todo: NEW TRANSLATION
+ education_literacy_pulse.1.t: "Škola má prázdniny!" # todo: NEW TRANSLATION
+ education_literacy_pulse.1.d: "Během letních prázdnin doufáme, že naši studenti vzdají hold vlajce, i když to může být ubíjející. Zprávy dorazily a výsledky zkoušek byly sečteny — ať už dopadnou jakkoli, doufejme, že se budou umět užitečně uplatnit." # todo: NEW TRANSLATION
+ education_literacy_pulse.1.A: "Doufám, že naše známky jsou dobré." # todo: NEW TRANSLATION

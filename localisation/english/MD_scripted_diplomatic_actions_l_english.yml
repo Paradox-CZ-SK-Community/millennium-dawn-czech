@@ -1,0 +1,51 @@
+﻿l_english:
+ EMBARGO_COUNTRY_TITLE: "Embargo" # todo: NEW TRANSLATION
+ EMBARGO_COUNTRY_ACTION_DESC: "Uvalení embarga na tuto zemi způsobí, že s ní nadále nebudeme udržovat obchodní ani jiné ekonomické vztahy." # todo: NEW TRANSLATION
+ EMBARGO_TOOLTIP: "Nejsme v embargu vůči §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ EMBARGO_SEND_DESC: "[Root.EMBARGO_SCRIPTED_LOCALIZATION]" # todo: NEW TRANSLATION
+ EMBARGO_SEND_DESC_USA: "Uvalení embarga na §Y[This.GetNameWithFlag]§! sníží obchodní vliv vůči §Y[This.GetNameWithFlag]§! a jejich názor na nás o §R100§!. Pokud zároveň disponují §YUSAID§!, bude tento program zrušen.\n\nToto však nezabraňuje zemi získávat suroviny jinými prostředky..." # todo: NEW TRANSLATION
+ EMBARGO_SEND_DESC_EVERYONE: "Uvalení embarga na §Y[This.GetNameWithFlag]§! sníží obchodní vliv vůči §Y[This.GetNameWithFlag]§! a jejich názor o §R100§!.\n\nToto však nezabraňuje zemi získávat suroviny jinými prostředky..." # todo: NEW TRANSLATION
+ LIFT_EMBARGO_COUNTRY_TITLE: "Zrušit embargo" # todo: NEW TRANSLATION
+ LIFT_EMBARGO_COUNTRY_ACTION_DESC: "Zrušení embarga nad touto zemí nám umožní normalizovat ekonomické vztahy a obchodní vazby." # todo: NEW TRANSLATION
+ LIFT_EMBARGO_TOOLTIP: "Zruší embargo vůči §Y[This.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ LIFT_EMBARGO_SEND_DESC: "Zrušení embarga vůči §Y[This.GetNameWithFlag]§! zvýší obchodní vliv a vztahy o §G100§!. Nicméně §Y[This.GetNameWithFlag]§! obdrží §R-50§! k názoru kvůli nedávnému embargu.\n" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TITLE: "Odvolat intervenční síly" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_ACTION_DESC: "Můžeme kdykoli odvolat naši intervenční sílu." # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rmusí mít aktivní intervenční síly od nás, které můžeme stáhnout.§!" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! musí mít aktivní intervenční síly od nás, které můžeme stáhnout." # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_SEND_DESC: "Boj, ve kterém se §Y[This.GetNameWithFlag]§! nachází, už není naším bojem. Je načase stáhnout naše síly z konfliktu.\n\n§YTato akce stáhne naše intervenční síly z §Y[This.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ base_trade_condition: "Základní neochota vůči obchodní dohodě" # todo: NEW TRANSLATION
+ condition_two: "Neochota kvůli typu vlády" # todo: NEW TRANSLATION
+ condition_three: "Neochota z důvodu názoru" # todo: NEW TRANSLATION
+ condition_four: "Neochota z důvodu, že oba jsou členy NATO" # todo: NEW TRANSLATION
+ condition_five: "Neochota z důvodu, že oba jsou členy EU" # todo: NEW TRANSLATION
+ condition_six: "Neochota z důvodu společného členství ve frakci" # todo: NEW TRANSLATION
+ trade_condition_has_same_government: "Státy mají stejný typ vlády" # todo: NEW TRANSLATION
+ trade_has_positive_relations: "Má pozitivní vztahy" # todo: NEW TRANSLATION
+ condition_seven: "Je subjektem [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
+ condition_eight: "[Root.GetNameWithFlag] ovlivňuje [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+ condition_nine: "Aktuální úroková sazba [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_TITLE: "Navrhnout obchodní dohodu" # todo: NEW TRANSLATION
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_ACTION_DESC: "Navrhnout obchodní dohodu s touto zemí by mělo být oboustranně výhodné. Přinese větší prosperitu jak naší zemi, tak i jim. Pokud země hledá investice, mít obchodní dohodu také zvyšuje šanci na získání investic.\n\nNásledující faktory ovlivní, jak bude AI reagovat na dohodu:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO.\n" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_TOOLTIP: "Momentálně nemáme obchodní dohodu s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ PROPOSAL_MISSING_TOOLTIP: "Momentálně neprojednáváme nabídku od §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_DESC: "Obchodní dohoda mezi našimi dvěma zeměmi zvýší obchodní vliv o §G100§! a názor vůči §Y[This.GetNameWithFlag]§! o §G25§!, pokud bude přijata. Obě země také získají přibližně §G~1%§! vlivu jedna nad druhou." # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_TT: "[THIS.GetNameWithFlag] přijal dohodu!" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijal dohodu, která přináší následující efekty:\n\nZvýšení obchodního vlivu o §G50§!\nZvýšení názoru o §G25§!\nZvýšení vlivu přibližně o §G~1%§!\n" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_REJECT_TT: "[THIS.GetNameWithFlag] odmítl dohodu!" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_REJECT_DESC: "Bohužel [THIS.GetNameWithFlag] naši obchodní dohodu odmítl. Možná jindy budeme moci dohodu podepsat." # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_TITLE: "Ukončit obchodní dohodu" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_ACTION_DESC: "Ukončení obchodní dohody s touto zemí způsobí napětí mezi našimi zeměmi." # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_TOOLTIP: "Aktuálně máme obchodní dohodu s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_DESC: "Ukončení obchodní dohody má následující efekty:\n\nObchodní vliv se sníží o §R50§!\nNázor se sníží o §R25§! s postupným modifikátorem názoru §R15§! kvůli porušení dohody\n" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_RECIEVING_TT: "Zpráva od [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_RECIEVING_DESC: "Zpráva od §Y[Root.GetNameWithFlag]§! mění jejich diplomatický status vůči nám: Ukončení obchodní dohody" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_TITLE: "Převzít dluh" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACTION_DESC: "Můžeme převzít dluh jiné země, abychom zmírnili její současné ekonomické potíže. Pokud nabídku přijmou, získáme malé množství vlivu a názoru a převezmeme 25% jejich dluhu. Částka je nejprve odečtena z naší pokladny." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_DESC: "Můžeme převzít dluh jiné země, abychom zmírnili její současné ekonomické potíže. Pokud nabídku přijmou, získáme malé množství vlivu a názoru a převezmeme 25% jejich dluhu. Částka je nejprve odečtena z naší pokladny." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACCEPT: "[THIS.GetNameWithFlag] přijal!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijal převzetí dluhu. Převzali jsme dvacet pět procent jejich aktuálního dluhu. Čímž jsme zmírnili část břemene [THIs.GetNameWithFlag]." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_REJECT: "[THIS.GetNameWithFlag] odmítl!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_REJECT_DESC: "Bohužel [THIS.GetNameWithFlag] odmítl naše převzetí dluhu. Možná jindy uzavřeme dohodu." # todo: NEW TRANSLATION
+ treasury_more_than_25_debt_tt: "Odhadovaný aktuální dluh k převzetí: $[?tmp|-]b\n" # todo: NEW TRANSLATION
+ base_assume_debt_condition: "Základní neochota" # todo: NEW TRANSLATION

@@ -1,0 +1,412 @@
+﻿l_english:
+ CHI_small_medium_business_owners: "Čínští podnikatelé" # todo: NEW TRANSLATION
+ NIG_small_medium_business_owners: "Nigerijské soukromé společnosti" # todo: NEW TRANSLATION
+ CSA_small_medium_business_owners: "Jižní podnikatelé" # todo: NEW TRANSLATION
+ BHR_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ KUW_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ OMA_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ QAT_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ SAU_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ UAE_small_medium_business_owners: "Obchodnická třída" # todo: NEW TRANSLATION
+ small_medium_business_owners: "Majitelé malých a středních podniků" # todo: NEW TRANSLATION
+ small_medium_business_owners_desc: "Malé a střední podniky jsou páteří většiny ekonomik. Když spolupracují, aby uplatnily politický vliv, představují sílu, se kterou je třeba počítat." # todo: NEW TRANSLATION
+ small_medium_business_owners_dynamic_modifier: "£pol_idea $small_medium_business_owners$" # todo: NEW TRANSLATION
+ business_owners_opinion_tt: "Názor §Y$small_medium_business_owners$§!: [SMBO_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.SMBO_stability_factor|%+]\n$modifier_production_speed_industrial_complex_factor$: [?THIS.SMBO_production_speed_industrial_complex_factor|%+]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?THIS.SMBO_consumer_goods_factor_var|Y%]\n$civilian_industry_tax_modifier$: [?THIS.SMBO_civilian_industry_tax_modifier_var|+%]\n$modifier_production_speed_internet_station_factor$: [?THIS.SMBO_production_speed_internet_station_factor_var|+%]\n$civilian_factories_productivity$: [?THIS.SMBO_civilian_factories_productivity_var|+%]\n" # todo: NEW TRANSLATION
+ positive_smbo_tt: "§G[?THIS.small_medium_business_owners_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_smbo_tt: "§R[?THIS.small_medium_business_owners_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_smbo_tt: "§Y[?THIS.small_medium_business_owners_opinion|0]§!" # todo: NEW TRANSLATION
+ display_small_medium_business_owners_opinion: "Názor §Y$small_medium_business_owners$§! se mění o [?temp_opinion|+0] (Aktuální: [SMBO_opinion_display])\n" # todo: NEW TRANSLATION
+ display_small_medium_business_owners_status_tt: "§Y$small_medium_business_owners$§! [election_status]\n" # todo: NEW TRANSLATION
+ international_bankers: "Mezinárodní bankéři" # todo: NEW TRANSLATION
+ international_bankers_desc: "Když se velké banky a finanční průmysl dokážou začlenit do každodenního života občanů, stanou se klíčovými pro ekonomický růst a stabilitu. Díky vlivu na populaci si nadnárodní finanční podniky vybudují významnou politickou moc nad vládní politikou a regulacemi." # todo: NEW TRANSLATION
+ international_bankers_dynamic_modifier: "£pol_idea $international_bankers$" # todo: NEW TRANSLATION
+ international_bankers_opinion_tt: "Názor §Y$international_bankers$§!: [INTB_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_offices_factor$: [?THIS.INTB_psof_var|%+]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.INTB_local_resources_factor_var|%+]\n$MODIFIER_TRADE_OPINION_FACTOR$: [?THIS.INTB_trade_opinion_factor_var|%Y]\n$democratic_drift$: [?THIS.INTB_democratic_drift_var|G]\n$democratic_acceptance$: [?THIS.INTB_democratic_acceptance_factor_var|+]\n$investment_duration_modifier$: [?THIS.INTB_investment_duration_var|%-]\n$investment_cost_modifier$: [?THIS.INTB_investment_cost_var|%-]\n$office_park_income_tax_modifier$: [?THIS.INTB_office_park_income_tax_modifier_var|+%]\n" # todo: NEW TRANSLATION
+ positive_intb_tt: "§G[?THIS.international_bankers_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_intb_tt: "§R[?THIS.international_bankers_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_intb_tt: "§Y[?THIS.international_bankers_opinion|0]§!" # todo: NEW TRANSLATION
+ display_international_bankers_opinion: "Názor §Y$international_bankers$§! se mění o [?temp_opinion|+0] (Aktuální: [INTB_opinion_display])\n" # todo: NEW TRANSLATION
+ VEN_fossil_fuel_industry: "PDVSA" # todo: NEW TRANSLATION
+ BRM_fossil_fuel_industry: "Myanmar Oil and Gas Enterprise" # todo: NEW TRANSLATION
+ NIG_fossil_fuel_industry: "[NIG.GetAdjective] Oil Companies" # todo: NEW TRANSLATION
+ SOV_fossil_fuel_industry: "[SOV.GetAdjective] Energy Enterprises" # todo: NEW TRANSLATION
+ SAU_fossil_fuel_industry: "Saudi Aramco" # todo: NEW TRANSLATION
+ UAE_fossil_fuel_industry: "Abu Dhabi National Oil Company" # todo: NEW TRANSLATION
+ BHR_fossil_fuel_industry: "Bahrain Petroleum Company" # todo: NEW TRANSLATION
+ KUW_fossil_fuel_industry: "Kuwait Oil Company" # todo: NEW TRANSLATION
+ QAT_fossil_fuel_industry: "Qatar Petroleum" # todo: NEW TRANSLATION
+ OMA_fossil_fuel_industry: "Oman Oil Company" # todo: NEW TRANSLATION
+ fossil_fuel_industry: "Průmysl fosilních paliv" # todo: NEW TRANSLATION
+ fossil_fuel_industry_desc: "Když jsou odvětví těžby zdrojů v zemi velmi velká, jejich samotná velikost a ziskovost mohou vyvinout obrovský vliv na vnitřní i zahraniční politiku." # todo: NEW TRANSLATION
+ fossil_fuel_industry_dynamic_modifier: "£pol_idea $fossil_fuel_industry$" # todo: NEW TRANSLATION
+ fossil_fuel_industry_opinion_tt: "Názor §Y$fossil_fuel_industry$§!: [FFI_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.FFI_local_resource_factor_var|%+]\n$MODIFIER_BASE_FUEL_GAIN_ADD$: [?THIS.FFI_fuel_gain_factor_var|%+]\n$MODIFIER_JUSTIFY_WAR_GOAL_TIME$: [?THIS.FFI_justify_war_goal_time_var|%-]\n$oil_export_multiplier_modifier$: [?THIS.FFI_oil_export_multiplier_modifier_var|+%]\n$modifier_production_speed_fuel_silo_factor$: [?THIS.FFI_production_speed_fuel_silo_factor_var|+%]\n" # todo: NEW TRANSLATION
+ positive_ffi_tt: "§G[?THIS.fossil_fuel_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_ffi_tt: "§R[?THIS.fossil_fuel_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_ffi_tt: "§Y[?THIS.fossil_fuel_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ display_fossil_fuel_industry_opinion: "Názor §Y$fossil_fuel_industry$§! se mění o [?temp_opinion|+0] (Aktuální: [FFI_opinion_display])\n" # todo: NEW TRANSLATION
+ CHI_industrial_conglomerates: "Státní podniky" # todo: NEW TRANSLATION
+ industrial_conglomerates: "Průmyslové konglomeráty" # todo: NEW TRANSLATION
+ industrial_conglomerates_desc: "Obrovské společnosti, ať už soukromé nebo státem vlastněné, mohou mít značnou vyjednávací sílu nad politikou, regulacemi a nastavením státu." # todo: NEW TRANSLATION
+ allowed_internal_faction_mass_privitazation_IFT: "Nyní umožňuje §Ymasovou privatizaci§!" # todo: NEW TRANSLATION
+ industrial_conglomerates_dynamic_modifier: "£pol_idea $industrial_conglomerates$" # todo: NEW TRANSLATION
+ industrial_conglomerates_opinion_tt: "Názor §Y$industrial_conglomerates$§!: [IND_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_infrastructure_factor$: [?THIS.ICL_psifra_factor_var|%+]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.ICL_local_resources_factor_var|%+]\n$communism_drift$: [?THIS.ICL_communism_drift|+]\n$communism_acceptance$: [?THIS.ICL_communism_acceptance_factor_var|+]\n$civilian_industry_tax_modifier$: [?THIS.ICL_civilian_industry_tax_modifier_var|+%]\n" # todo: NEW TRANSLATION
+ positive_ind_tt: "§G[?THIS.industrial_conglomerates_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_ind_tt: "§R[?THIS.industrial_conglomerates_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_ind_tt: "§Y[?THIS.industrial_conglomerates_opinion|0]§!" # todo: NEW TRANSLATION
+ display_industrial_conglomerates_opinion: "Názor §Y$industrial_conglomerates$§! se mění o [?temp_opinion|+0] (Aktuální: [IND_opinion_display])\n" # todo: NEW TRANSLATION
+ industrial_conglomerates_at_least_enthusiastic_tt: "§Y$industrial_conglomerates$§! názor alespoň 80 (Aktuální: [IND_opinion_display])" # todo: NEW TRANSLATION
+ NIG_oligarchs: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ SOV_oligarchs: "[SOV.GetAdjective] podnikatelé" # todo: NEW TRANSLATION
+ CSA_oligarchs: "Konfederační velkostatkáři" # todo: NEW TRANSLATION
+ oligarchs: "Oligarchové" # todo: NEW TRANSLATION
+ oligarchs_desc: "Oligarchové jsou několik mocných podnikatelů, kteří ovládli téměř všechny průmyslové odvětví v zemi. Udržují velmi úzké vazby na politické establishmenty, což jim umožňuje zachovávat bohatství a prosazovat politiky ve svém zájmu." # todo: NEW TRANSLATION
+ oligarchs_dynamic_modifier: "£pol_idea $oligarchs$" # todo: NEW TRANSLATION
+ oligarchs_opinion_tt: "Názor §Y$oligarchs$§!: [OLI_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_industrial_complex_factor$: [?THIS.OLI_psic_factor_var|%+]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.OLI_local_resources_factor_var|%+]\n$communism_drift$: [?THIS.OLI_communism_drift_var|+]\n$communism_acceptance$: [?THIS.OLI_communism_acceptance_factor_var|+]\n" # todo: NEW TRANSLATION
+ positive_oli_tt: "§G[?THIS.oligarchs_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_oli_tt: "§R[?THIS.oligarchs_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_oli_tt: "§Y[?THIS.oligarchs_opinion|0]§!" # todo: NEW TRANSLATION
+ display_oligarchs_opinion: "Názor §Y$oligarchs$§! se mění o [?temp_opinion|+0] (Aktuální: [OLI_opinion_display])\n" # todo: NEW TRANSLATION
+ oli_at_least_positive_tt: "§Y$oligarchs$§! názor alespoň 60 (Aktuální: [OLI_opinion_display])" # todo: NEW TRANSLATION
+ defense_industry: "Vojensko-průmyslový komplex" # todo: NEW TRANSLATION
+ defense_industry_desc: "Vojensko-průmyslový komplex popisuje vztah mezi armádou a zbrojním průmyslem, který ji zásobuje. Díky vlivu vládních zakázek a schvalování vytváří obranný průmysl a jeho subdodavatelé neformální alianci s politickými představiteli. Vojenský růst pro jednoho je ekonomický růst pro druhého." # todo: NEW TRANSLATION
+ defense_industry_dynamic_modifier: "£pol_idea Military-Industrial Complex" # todo: NEW TRANSLATION
+ defense_industry_opinion_tt: "Názor §Y$defense_industry$§!: [DEF_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: [?THIS.DEF_factory_efficiency_gain_factor_var|+%]\n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: [?THIS.DEF_factory_base_efficiency_factor_var|+%]\n$modifier_production_speed_arms_factory_factor$: [?THIS.DEF_military_factory_speed_factor_var|+%]\n$military_factories_productivity$: [?THIS.DEF_military_factories_productivity_var|+%]\n$military_industry_tax_modifier$: [?THIS.DEF_military_industry_tax_modifier_var|+%]\n£trigger_yes Může investovat do zahraničních §Y$arms_factory_plural$§!\n" # todo: NEW TRANSLATION
+ positive_def_tt: "§G[?THIS.defense_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_def_tt: "§R[?THIS.defense_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_def_tt: "§Y[?THIS.defense_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ display_defense_industry_opinion: "Názor §Y$defense_industry$§! se mění o [?temp_opinion|+0] (Aktuální: [DEF_opinion_display])\n" # todo: NEW TRANSLATION
+ GER_maritime_industry: "Deutsche Marine" # todo: NEW TRANSLATION
+ maritime_industry: "Námořní průmysl" # todo: NEW TRANSLATION
+ maritime_industry_desc: "V zemích, které se tradičně živí mořem, loděnice, rybolov, akvakultura a pobřežní těžba často tvoří pilíře ekonomiky a ovlivňují tak vnitřní politiku." # todo: NEW TRANSLATION
+ maritime_industry_dynamic_modifier: "£pol_idea Maritime Industry" # todo: NEW TRANSLATION
+ maritime_industry_opinion_tt: "Názor §Y$maritime_industry$§!: [MAR_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_dockyard_factor$: [?THIS.MRI_dockyard_factor_var|+%]\n$modifier_production_speed_naval_base_factor$: [?THIS.MRI_psvb_factor_var|+%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?THIS.MRI_industrial_capacity_dockyard_var|+%]\n$MODIFIER_NAVY_MAX_RANGE_FACTOR$: [?THIS.MRI_navy_max_range_factor_var|+%]\n$dockyard_productivity$: [?THIS.MRI_dockyard_productivity_var|+%]\n$dockyard_income_tax_modifier$: [?THIS.MRI_dockyard_income_tax_modifier_var|+%]\n£trigger_yes Může investovat do zahraničních §Y$dockyard_plural$§!\n" # todo: NEW TRANSLATION
+ positive_mar_tt: "§G[?THIS.maritime_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_mar_tt: "§R[?THIS.maritime_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_mar_tt: "§Y[?THIS.maritime_industry_opinion|0]§!" # todo: NEW TRANSLATION
+ display_maritime_industry_opinion: "Názor §Y$maritime_industry$§! se mění o [?temp_opinion|+0] (Aktuální: [MAR_opinion_display])\n" # todo: NEW TRANSLATION
+ BRM_the_military: "The Tatmadaw" # todo: NEW TRANSLATION
+ CHI_the_military: "Lidová osvobozenecká armáda" # todo: NEW TRANSLATION
+ KAC_the_military: "The Kachin Independence Army" # todo: NEW TRANSLATION
+ KAR_the_military: "The Karen National Liberation Army" # todo: NEW TRANSLATION
+ KOR_the_military: "The Republic of Korea Armed Forces" # todo: NEW TRANSLATION
+ NKO_the_military: "The Korean People's Army" # todo: NEW TRANSLATION
+ SHN_the_military: "The Shan State Army" # todo: NEW TRANSLATION
+ GER_the_military: "The Bundeswehr" # todo: NEW TRANSLATION
+ NHN_the_military: "The North Shan State Army" # todo: NEW TRANSLATION
+ WAA_the_military: "The United Wa State Army" # todo: NEW TRANSLATION
+ SOV_the_military: "[SOV.GetAdjective] Armed Forces" # todo: NEW TRANSLATION
+ CSA_the_military: "Army of the Confederacy" # todo: NEW TRANSLATION
+ BHR_the_military: "Bahrain Defence Force" # todo: NEW TRANSLATION
+ KUW_the_military: "Kuwait Military Forces" # todo: NEW TRANSLATION
+ OMA_the_military: "Omani Armed Forces" # todo: NEW TRANSLATION
+ QAT_the_military: "Qatar Armed Forces" # todo: NEW TRANSLATION
+ SAU_the_military: "Armed Forces of [SAU.GetNameDef]" # todo: NEW TRANSLATION
+ PER_the_military: "Artesh-e Irân" # todo: NEW TRANSLATION
+ UAE_the_military: "[UAE.GetName] Armed Forces" # todo: NEW TRANSLATION
+ the_military: "Vojenské síly" # todo: NEW TRANSLATION
+ the_military_desc: "V průběhu dějin měla armáda obrovský vliv na politiku mnoha zemí. Když se generálové a admirálové ocitnou v pozicích civilního vedení, dávají armádě nebývalou kontrolu nad zemí." # todo: NEW TRANSLATION
+ the_military_dynamic_modifier: "£pol_idea $the_military$" # todo: NEW TRANSLATION
+ the_military_opinion_tt: "Názor §Y$the_military$§!: [MILI_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_air_base_factor$: [?THIS.MILI_air_base_production_factor_var|+%]\n$MODIFIER_ARMY_ORG_FACTOR$: [?THIS.MILI_army_org_factor_var|+%]\n$MODIFIER_ARMY_MORALE_FACTOR$: [?THIS.MILI_army_morale_factor_var|+%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?THIS.MILI_training_time_factor_var|Y%]\n$personnel_cost_multiplier_modifier$: [?THIS.MILI_personnel_cost_multiplier_modifier_var|-%]" # todo: NEW TRANSLATION
+ positive_mili_tt: "§G[?THIS.the_military_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_mili_tt: "§R[?THIS.the_military_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_mili_tt: "§Y[?THIS.the_military_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_military_opinion: "Názor §Y$the_military$§! se mění o [?temp_opinion|+0] (Aktuální: [MILI_opinion_display])\n" # todo: NEW TRANSLATION
+ military_at_least_enthusiastic_tt: "§Y$the_military$§! názor alespoň 80 (Aktuální: [MILI_opinion_display])" # todo: NEW TRANSLATION
+ military_at_least_positive_tt: "§Y$the_military$§! názor alespoň 60 (Aktuální: [MILI_opinion_display])" # todo: NEW TRANSLATION
+ GER_intelligence_community: "Bundesnachrichtendienst" # todo: NEW TRANSLATION
+ CHI_intelligence_community: "Ministry of State Security" # todo: NEW TRANSLATION
+ SOV_intelligence_community: "Federal Security Service of the Russian Federation" # todo: NEW TRANSLATION
+ BLR_intelligence_community: "State Security Committee of the Republic of Belarus" # todo: NEW TRANSLATION
+ USA_intelligence_community: "Central Intelligence Agency" # todo: NEW TRANSLATION
+ BHR_intelligence_community: "National Security Agency" # todo: NEW TRANSLATION
+ KUW_intelligence_community: "Kuwait National Security Bureau" # todo: NEW TRANSLATION
+ OMA_intelligence_community: "Internal Security Service" # todo: NEW TRANSLATION
+ QAT_intelligence_community: "Qatar State Security" # todo: NEW TRANSLATION
+ SAU_intelligence_community: "General Intelligence Presidency" # todo: NEW TRANSLATION
+ UAE_intelligence_community: "State Security Agency" # todo: NEW TRANSLATION
+ KOR_intelligence_community: "National Intelligence Service" # todo: NEW TRANSLATION
+ PER_intelligence_community: "Sâzmân-e Etelâ'ât" # todo: NEW TRANSLATION
+ intelligence_community: "Zpravodajské služby" # todo: NEW TRANSLATION
+ intelligence_community_desc: "Zpravodajské agentury mohou držet značný vliv na politickou scénu země a pomáhat řídit zahraniční i vnitřní politiku prostřednictvím přímého lobbingu a zákulisních manévrů." # todo: NEW TRANSLATION
+ intelligence_community_dynamic_modifier: "£pol_idea $intelligence_community$" # todo: NEW TRANSLATION
+ intelligence_community_opinion_tt: "Názor §Y$intelligence_community$§!: [INTC_opinion_display]\n\n§YEfekty názoru:§!\n$modifier_production_speed_radar_station_factor$: [?THIS.INTC_radar_station_factor_var|+%]\n[INTC_intel_display]\n$MODIFIER_FOREIGN_SUBVERSIVE_ACTIVITIES$: [?THIS.INTC_foreign_subversive_activies_var|-%]\n$MODIFIER_SUBVERSIVE_ACTIVITES_UPKEEP$: [?THIS.INTC_foreign_subversive_activies_upkeep_var|-%]\n$foreign_influence_modifier$: [?THIS.INTC_foreign_influence_modifier|+%]\n" # todo: NEW TRANSLATION
+ positive_intc_tt: "§G[?THIS.intelligence_community_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_intc_tt: "§R[?THIS.intelligence_community_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_intc_tt: "§Y[?THIS.intelligence_community_opinion|0]§!" # todo: NEW TRANSLATION
+ display_intelligence_community_opinion: "Názor §Y$intelligence_community$§! se mění o [?temp_opinion|+0] (Aktuální: [INTC_opinion_display])\n" # todo: NEW TRANSLATION
+ INTC_intel_display_lar_tt: "$MODIFIER_CIVILIAN_INTEL_FACTOR$: [?THIS.INTC_civilian_intel_factor_var|+%]\n$MODIFIER_ARMY_INTEL_FACTOR$: [?THIS.INTC_army_intel_factor_var|+%]\n$MODIFIER_NAVY_INTEL_FACTOR$: [?THIS.INTC_navy_intel_factor_var|+%]\n$MODIFIER_AIRFORCE_INTEL_FACTOR$: [?THIS.INTC_airforce_intel_factor_var|+%]\n" # todo: NEW TRANSLATION
+ INTC_intel_display_tt: "$MODIFIER_DECRYPTION_FACTOR$: [?THIS.INTC_decryption_factor_var|+%]\n$MODIFIER_ENCRYPTION_FACTOR$: [?THIS.INTC_encryption_factor_var|+%]\n" # todo: NEW TRANSLATION
+ intc_at_least_positive_tt: "§Y$intelligence_community$§! názor alespoň 60 (Aktuální: [INTC_opinion_display])" # todo: NEW TRANSLATION
+ ADO_labour_unions: "Andorrské odbory" # todo: NEW TRANSLATION
+ ALB_labour_unions: "Konfederace odborů" # todo: NEW TRANSLATION
+ ALG_labour_unions: "Generální svaz alžírských dělníků" # todo: NEW TRANSLATION
+ ARM_labour_unions: "Konfederace odborů Arménie" # todo: NEW TRANSLATION
+ AST_labour_unions: "Australian Council of Trade Unions" # todo: NEW TRANSLATION
+ AUS_labour_unions: "Rakouská konfederace odborů" # todo: NEW TRANSLATION
+ AZE_labour_unions: "Konfederace odborů Ázerbájdžánu" # todo: NEW TRANSLATION
+ BAH_labour_unions: "Kongres odborů Commonwealthu Baham" # todo: NEW TRANSLATION
+ BAN_labour_unions: "Bangladéšský svobodný svaz odborů" # todo: NEW TRANSLATION
+ BAR_labour_unions: "Kongres odborů a zaměstnaneckých svazů Barbadosu" # todo: NEW TRANSLATION
+ BEL_labour_unions: "Konfederace křesťanských odborů" # todo: NEW TRANSLATION
+ BLR_labour_unions: "Běloruský kongres demokratických odborů" # todo: NEW TRANSLATION
+ BLZ_labour_unions: "Národní kongres odborů Belize" # todo: NEW TRANSLATION
+ BHR_labour_unions: "Generální federace pracovních odborů v Bahrajnu" # todo: NEW TRANSLATION
+ BEN_labour_unions: "Generální konfederace dělníků Beninu" # todo: NEW TRANSLATION
+ BHU_labour_unions: "Federace bhútánských odborů" # todo: NEW TRANSLATION
+ BOL_labour_unions: "Bolívijské pracovní centrum" # todo: NEW TRANSLATION
+ BOT_labour_unions: "Botswanská federace odborů" # todo: NEW TRANSLATION
+ BUL_labour_unions: "Konfederace nezávislých odborů Bulharska" # todo: NEW TRANSLATION
+ BFA_labour_unions: "Národní konfederace pracovníků Burkiny" # todo: NEW TRANSLATION
+ BUR_labour_unions: "Konfederace odborů Burundi" # todo: NEW TRANSLATION
+ BRA_labour_unions: "Central de Trabalhadores Unificada" # todo: NEW TRANSLATION
+ CAR_labour_unions: "Svaz pracovníků Středoafrické republiky" # todo: NEW TRANSLATION
+ CBD_labour_unions: "Svobodné odbory království Kambodže" # todo: NEW TRANSLATION
+ CAM_labour_unions: "Svaz svobodných odborů Kamerunu" # todo: NEW TRANSLATION
+ CAN_labour_unions: "Kanadský kongres odborů" # todo: NEW TRANSLATION
+ CHA_labour_unions: "Svaz odborů Čadu" # todo: NEW TRANSLATION
+ CHL_labour_unions: "Unie spojení dělníků Chile" # todo: NEW TRANSLATION
+ CHI_labour_unions: "Všečínská federace odborů" # todo: NEW TRANSLATION
+ COL_labour_unions: "Konfederace kolumbijských dělníků" # todo: NEW TRANSLATION
+ CNG_labour_unions: "Kongres konžských odborů" # todo: NEW TRANSLATION
+ DEN_labour_unions: "Dánská konfederace odborů" # todo: NEW TRANSLATION
+ DJI_labour_unions: "Svaz pracovníků Džibuti" # todo: NEW TRANSLATION
+ KOR_labour_unions: "Korejská konfederace odborů" # todo: NEW TRANSLATION
+ EGU_labour_unions: "Svaz pracovníků Rovníkové Guineje" # todo: NEW TRANSLATION
+ ERI_labour_unions: "Národní konfederace eritrejských dělníků" # todo: NEW TRANSLATION
+ EGY_labour_unions: "Egyptská svaz odborů" # todo: NEW TRANSLATION
+ ENG_labour_unions: "Trade Unions Congress" # todo: NEW TRANSLATION
+ EST_labour_unions: "Konfederace estonských odborů" # todo: NEW TRANSLATION
+ ETH_labour_unions: "Konfederace etiopských odborů" # todo: NEW TRANSLATION
+ FIN_labour_unions: "Centrální organizace finských odborů" # todo: NEW TRANSLATION
+ FRA_labour_unions: "Francouzská demokratická konfederace práce" # todo: NEW TRANSLATION
+ FYR_labour_unions: "Federace odborů Makedonie" # todo: NEW TRANSLATION
+ GAB_labour_unions: "Gabonská konfederace svobodných odborů" # todo: NEW TRANSLATION
+ GAM_labour_unions: "Odborový svaz Gambie" # todo: NEW TRANSLATION
+ GAH_labour_unions: "Trades Union Congress of Ghana" # todo: NEW TRANSLATION
+ GEO_labour_unions: "Gruzínská konfederace odborů" # todo: NEW TRANSLATION
+ GER_labour_unions: "Německá konfederace odborů" # todo: NEW TRANSLATION
+ GRA_labour_unions: "Rady odborů Grenady" # todo: NEW TRANSLATION
+ GRE_labour_unions: "Generální konfederace řeckých dělníků" # todo: NEW TRANSLATION
+ IND_labour_unions: "Konfederace všech indonéských pracovníků" # todo: NEW TRANSLATION
+ IRE_labour_unions: "Irský kongres odborů" # todo: NEW TRANSLATION
+ ISR_labour_unions: "Histadrut" # todo: NEW TRANSLATION
+ ITA_labour_unions: "Italská generální konfederace práce" # todo: NEW TRANSLATION
+ JOR_labour_unions: "Generální federace jordánských odborů" # todo: NEW TRANSLATION
+ JAP_labour_unions: "Generální svaz" # todo: NEW TRANSLATION
+ KUW_labour_unions: "Kuvajtská federace odborů" # todo: NEW TRANSLATION
+ KAZ_labour_unions: "Konfederace práce Kazachstánu" # todo: NEW TRANSLATION
+ KEN_labour_unions: "Centrální organizace odborů" # todo: NEW TRANSLATION
+ KYR_labour_unions: "Federace odborů Kyrgyzstánu" # todo: NEW TRANSLATION
+ LAO_labour_unions: "Laoská federace odborů" # todo: NEW TRANSLATION
+ LAT_labour_unions: "Svobodná obchodní konfederace Lotyšska" # todo: NEW TRANSLATION
+ LIB_labour_unions: "Libérijská federace pracovních odborů" # todo: NEW TRANSLATION
+ LEB_labour_unions: "Generální konfederace libanonských dělníků" # todo: NEW TRANSLATION
+ LUX_labour_unions: "Generální konfederace práce Lucemburska" # todo: NEW TRANSLATION
+ MAD_labour_unions: "Konfederace madagaskarských dělníků" # todo: NEW TRANSLATION
+ MAL_labour_unions: "Národní odborový svaz Mali" # todo: NEW TRANSLATION
+ MLW_labour_unions: "Malawijský kongres odborů" # todo: NEW TRANSLATION
+ MLV_labour_unions: "Konfederace odborů" # todo: NEW TRANSLATION
+ MEX_labour_unions: "Konfederace mexických dělníků" # todo: NEW TRANSLATION
+ MON_labour_unions: "Konfederace mongolských odborů" # todo: NEW TRANSLATION
+ NZL_labour_unions: "Rada odborů Nového Zélandu" # todo: NEW TRANSLATION
+ PER_labour_unions: "Iranian Workers' Solidarity Network" # todo: NEW TRANSLATION
+ RAJ_labour_unions: "All India Trade Union Congress" # todo: NEW TRANSLATION
+ SAF_labour_unions: "Kongres jihoafrických odborů" # todo: NEW TRANSLATION
+ SIE_labour_unions: "Konfederace odborů Sierra Leone" # todo: NEW TRANSLATION
+ SIN_labour_unions: "Národní obchodní kongres" # todo: NEW TRANSLATION
+ SPR_labour_unions: "Workers' Commissions" # todo: NEW TRANSLATION
+ SOV_labour_unions: "Federace nezávislých odborů Ruska" # todo: NEW TRANSLATION
+ TIM_labour_unions: "Konfederace odborů Východního Timoru" # todo: NEW TRANSLATION
+ TUR_labour_unions: "Konfederace tureckých odborů" # todo: NEW TRANSLATION
+ UKR_labour_unions: "Konfederace svobodných odborů Ukrajiny" # todo: NEW TRANSLATION
+ USA_labour_unions: "AFL-CIO" # todo: NEW TRANSLATION
+ VER_labour_unions: "Rada svobodných pracovních odborů" # todo: NEW TRANSLATION
+ labour_unions: "Odbory" # todo: NEW TRANSLATION
+ labour_unions_desc: "Když jsou vysoce organizované, aktivní a vlivné v politice, odbory zastupující dělníky ovlivní vnitřní politiku země, much to the rozhořčení podnikatelů a průmyslových konglomerátů." # todo: NEW TRANSLATION
+ labour_unions_dynamic_modifier: "£pol_idea $labour_unions$" # todo: NEW TRANSLATION
+ labour_unions_opinion_tt: "Názor §Y$labour_unions$§!: [LBU_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: [?THIS.LBU_production_start_effiency_factor_var|+%]\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: [?THIS.LBU_production_factory_efficiency_gain_factor_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.LBU_political_power_factor_var|+%]\n$health_cost_multiplier_modifier$: [?THIS.LBU_health_cost_multiplier_modifier_var|+%]\n$social_cost_multiplier_modifier$: [?THIS.LBU_social_cost_multiplier_modifier_var|+%]\n" # todo: NEW TRANSLATION
+ positive_lbu_tt: "§G[?THIS.labour_unions_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_lbu_tt: "§R[?THIS.labour_unions_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_lbu_tt: "§Y[?THIS.labour_unions_opinion|0]§!" # todo: NEW TRANSLATION
+ display_labour_unions_opinion: "Názor §Y$labour_unions$§! se mění o [?temp_opinion|+0] (Aktuální: [LBU_opinion_display])\n" # todo: NEW TRANSLATION
+ CHI_landowners: "Politická elita" # todo: NEW TRANSLATION
+ HKG_landowners: "Heung Yee Kuk" # todo: NEW TRANSLATION
+ KUW_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ BHR_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ OMA_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ QAT_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ SAU_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ UAE_landowners: "Kmenoví vůdci" # todo: NEW TRANSLATION
+ landowners: "Pozemkáři" # todo: NEW TRANSLATION
+ landowners_desc: "Bohatí vlastníci půdy představují mocnou menšinu, která vlastní většinu zemědělské půdy v zemi. Využívají svou pozici pro státní dotace a podporu a mají silný vliv na byrokracii v opačném směru proti pozemkové reformě, čímž zajišťují trvání status quo." # todo: NEW TRANSLATION
+ landowners_dynamic_modifier: "£pol_idea $landowners$" # todo: NEW TRANSLATION
+ landowners_opinion_tt: "Názor §Y$landowners$§!: [LAND_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.LAND_local_resources_factor_var|+%]\n$MODIFIER_CONSCRIPTION_FACTOR$: [?THIS.LAND_conscription_factor_var|+%]\n$modifier_production_speed_industrial_complex_factor$: [?THIS.LAND_psic_factor_var|+%]\n$office_park_income_tax_modifier$: [?THIS.LAND_office_park_income_tax_modifier_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.LAND_political_power_factor_var|+%]\n" # todo: NEW TRANSLATION
+ positive_land_tt: "§G[?THIS.landowners_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_land_tt: "§R[?THIS.landowners_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_land_tt: "§Y[?THIS.landowners_opinion|0]§!" # todo: NEW TRANSLATION
+ display_landowners_opinion: "Názor §Y$landowners$§! se mění o [?temp_opinion|+0] (Aktuální: [LAND_opinion_display])\n" # todo: NEW TRANSLATION
+ BRA_farmers: "[BRA.GetAdjective] Farmers" # todo: NEW TRANSLATION
+ farmers: "Rolníci" # todo: NEW TRANSLATION
+ farmers_desc: "Ve většině rozvojových zemí jsou farmáři a jejich rodiny daleko nejpočetnější skupinou v národu. Ačkoli jednotlivě nemají moc, jako celek musí být jejich potřeby a požadavky pečlivě zváženy, pokud má být zachována stabilita." # todo: NEW TRANSLATION
+ farmers_dynamic_modifier: "£pol_idea $farmers$" # todo: NEW TRANSLATION
+ farmers_opinion_tt: "Názor §Y$farmers$§!: [FARM_opinion_display]\n\n§YEfekty názoru:§!\n$MODIFIER_CONSCRIPTION_FACTOR$: [?THIS.FARM_conscription_factor_var|+%]\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?THIS.FARM_monthly_pop_var|+%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?THIS.FARM_consumer_goods_factor_var|Y%]\n$agricolture_productivity_modifier$: [?THIS.FARM_productivity_modifier_var|+%]\n$agriculture_tax_modifier$: [?THIS.FARM_agriculture_income_modifier_var|+%]\n" # todo: NEW TRANSLATION
+ positive_farm_tt: "§G[?THIS.farmers_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_farm_tt: "§R[?THIS.farmers_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_farm_tt: "§Y[?THIS.farmers_opinion|0]§!" # todo: NEW TRANSLATION
+ display_farmers_opinion: "Názor §Y$farmers$§! se mění o [?temp_opinion|+0] (Aktuální: [FARM_opinion_display])\n" # todo: NEW TRANSLATION
+ SOV_communist_cadres: "The [SOV.GetAdjective] Communists" # todo: NEW TRANSLATION
+ communist_cadres: "Kádry Komunistické strany" # todo: NEW TRANSLATION
+ communist_cadres_desc: "Střední a nižší vedení Komunistické strany tvoří administrativní byrokratickou elitu, která má velký vliv na provádění vládních politik." # todo: NEW TRANSLATION
+ communist_cadres_dynamic_modifier: "£pol_idea $communist_cadres$" # todo: NEW TRANSLATION
+ communist_cadres_opinion_tt: "Názor §Y$communist_cadres$§!: [COM_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_ARMY_ORG_REGAIN$: [?THIS.COM_army_org_regain_var|+%]\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: [?THIS.COM_army_core_defence_factor_var|+%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?THIS.COM_consumer_good_factor_var|Y%]\n$MODIFIER_MOBILIZATION_SPEED$: [?THIS.COM_mobilization_speed_var|+%]\n$bureaucracy_cost_multiplier_modifier$: [?THIS.COM_bureaucracy_cost_multiplier_modifier_var|-+]" # todo: NEW TRANSLATION
+ positive_com_tt: "§G[?THIS.communist_cadres_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_com_tt: "§R[?THIS.communist_cadres_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_com_tt: "§Y[?THIS.communist_cadres_opinion|0]§!" # todo: NEW TRANSLATION
+ display_communist_cadres_opinion: "Názor §Y$communist_cadres$§! se mění o [?temp_opinion|+0] (Aktuální: [COM_opinion_display])\n" # todo: NEW TRANSLATION
+ communist_cadres_at_least_enthusiastic_tt: "§Y$communist_cadres$§! názor alespoň 80 (Aktuální: [COM_opinion_display])\n" # todo: NEW TRANSLATION
+ communist_cadres_at_least_positive_tt: "§Y$communist_cadres$§! názor alespoň 60 (Aktuální: [COM_opinion_display])\n" # todo: NEW TRANSLATION
+ BRM_the_priesthood: "The Sangha" # todo: NEW TRANSLATION
+ the_priesthood: "Kněžstvo" # todo: NEW TRANSLATION
+ the_priesthood_desc: "Mnichové a náboženští vůdci mohou mít významný vliv na domácí politiku země. Zatímco někteří to mohou vnímat jako formu teokracie, jiní to vidí jako vedoucí hlas a inspiraci pro vládní programy." # todo: NEW TRANSLATION
+ the_priesthood_dynamic_modifier: "£pol_idea $the_priesthood$" # todo: NEW TRANSLATION
+ the_priesthood_opinion_tt: "Názor §Y$the_priesthood$§!: [PRIEST_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.PRIEST_stability_factor_var|+%]\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?THIS.PRIEST_monthly_population_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.PRIEST_political_power_var|+%]\n$education_cost_multiplier_modifier$: [?THIS.PRIEST_education_cost_multiplier_modifier_var|-%]" # todo: NEW TRANSLATION
+ positive_priest_tt: "§G[?THIS.the_priesthood_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_priest_tt: "§R[?THIS.the_priesthood_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_priest_tt: "§Y[?THIS.the_priesthood_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_priesthood_opinion: "Názor §Y$the_priesthood$§! se mění o [?temp_opinion|+0] (Aktuální: [PRIEST_opinion_display])\n" # todo: NEW TRANSLATION
+ the_priesthood_at_least_enthusiastic_tt: "§Y$the_priesthood$§! názor alespoň 80 (Aktuální: [PRIEST_opinion_display])\n" # todo: NEW TRANSLATION
+ the_priesthood_at_least_indifferent_tt: "§Y$the_priesthood$§! názor alespoň 50 (Aktuální: [PRIEST_opinion_display])\n" # todo: NEW TRANSLATION
+ the_ulema: "Islámská ulema" # todo: NEW TRANSLATION
+ the_ulema_desc: "Islámské duchovenstvo často získává značnou podporu v kruzích vedení země tam, kde je jejich náboženství hojně praktikováno. Využijí svůj vliv k formování vládních programů způsobem odpovídajícím náboženskému dogmatu." # todo: NEW TRANSLATION
+ the_ulema_dynamic_modifier: "£pol_idea $the_ulema$" # todo: NEW TRANSLATION
+ the_ulema_opinion_tt: "Názor §Y$the_ulema$§!: [ULE_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.ULE_stability_factor_var|+%]\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?THIS.ULE_monthly_population_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.ULE_political_power_var|+%]\n$education_cost_multiplier_modifier$: [?THIS.ULE_education_cost_multiplier_modifier_var|-%]" # todo: NEW TRANSLATION
+ positive_ule_tt: "§G[?THIS.the_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_ule_tt: "§R[?THIS.the_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_ule_tt: "§Y[?THIS.the_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_ulema_opinion: "Názor §Y$the_ulema$§! se mění o [?temp_opinion|+0] (Aktuální: [ULE_opinion_display])\n" # todo: NEW TRANSLATION
+ ule_at_least_positive_tt: "§Y$the_ulema$§! názor alespoň 60 (Aktuální: [ULE_opinion_display])\n" # todo: NEW TRANSLATION
+ HLS_the_clergy: "Kolegium kardinálů" # todo: NEW TRANSLATION
+ CSA_the_clergy: "Jižní baptisté" # todo: NEW TRANSLATION
+ the_clergy: "Duchovenstvo" # todo: NEW TRANSLATION
+ the_clergy_desc: "Křesťanské duchovenstvo může mít silný vliv na vnitřní záležitosti zemí, které mají mnoho oddaných stoupenců. Vládní představitelé by byli moudří naslouchat radám jeho členů." # todo: NEW TRANSLATION
+ the_clergy_dynamic_modifier: "£pol_idea $the_clergy$" # todo: NEW TRANSLATION
+ the_clergy_opinion_tt: "Názor §Y$the_clergy$§!: [CLER_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.CLER_stability_factor_var|+%]\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?THIS.CLER_monthly_population_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.CLER_political_power_var|+%]\n$education_cost_multiplier_modifier$: [?THIS.CLER_education_cost_multiplier_modifier_var|-%]" # todo: NEW TRANSLATION
+ positive_cler_tt: "§G[?THIS.the_clergy_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_cler_tt: "§R[?THIS.the_clergy_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_cler_tt: "§Y[?THIS.the_clergy_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_clergy_opinion: "Názor §Y$the_clergy$§! se mění o [?temp_opinion|+0] (Aktuální: [CLER_opinion_display])\n" # todo: NEW TRANSLATION
+ wahabi_ulema: "Wahhábská ulema" # todo: NEW TRANSLATION
+ wahabi_ulema_desc: "Fundamentalističtí wahhábští duchovní často získávají značnou podporu v zemích, které následují salafismus, ultrakonzervativní reformní hnutí v rámci sunnitského islámu. Vroucně neústupní a netolerantní budou velmi odolní vůči sociálním reformám a odhodlaní šířit svou doktrínu v zahraničí." # todo: NEW TRANSLATION
+ wahabi_ulema_dynamic_modifier: "£pol_idea $wahabi_ulema$" # todo: NEW TRANSLATION
+ wahabi_ulema_opinion_tt: "Názor §Y$wahabi_ulema$§!: [WAHULE_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.WAHULE_stability_factor_var|+%]\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?THIS.WAHULE_monthly_population_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.WAHULE_political_power_var|+%]\n$education_cost_multiplier_modifier$: [?THIS.WAHULE_education_cost_multiplier_modifier_var|-%]" # todo: NEW TRANSLATION
+ positive_wahule_tt: "§G[?THIS.wahabi_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_wahule_tt: "§R[?THIS.wahabi_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_wahule_tt: "§Y[?THIS.wahabi_ulema_opinion|0]§!" # todo: NEW TRANSLATION
+ display_wahabi_ulema_opinion: "Názor §Y$wahabi_ulema$§! se mění o [?temp_opinion|+0] (Aktuální: [WAHULE_opinion_display])\n" # todo: NEW TRANSLATION
+ wahule_at_least_positive_tt: "§Y$wahabi_ulema$§! názor alespoň 60 (Aktuální: [WAHULE_opinion_display])\n" # todo: NEW TRANSLATION
+ the_donju: "The Donju" # todo: NEW TRANSLATION
+ the_donju_desc: "Jak Severní Korea postupně umožnila trhu a kapitalismu fungovat uvnitř svých hranic, vznikla nová třída pašeráků a podnikatelů, která se etablovala jako velmi vlivná vyšší střední třída." # todo: NEW TRANSLATION
+ the_donju_dynamic_modifier: "£pol_idea $the_donju$" # todo: NEW TRANSLATION
+ the_donju_opinion_tt: "Názor §Y$the_donju$§!: [DONJU_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.DONJU_stability_factor|+%]\n$modifier_production_speed_industrial_complex_factor$: [?THIS.DONJU_production_speed_industrial_complex_factor|+%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?THIS.DONJU_consunmer_goods_factor_var|Y%]\n$modifier_production_speed_infrastructure_factor$: [?THIS.DONJU_infrastructure_production_speed_var|+%]\n" # todo: NEW TRANSLATION
+ positive_donju_tt: "§G[?THIS.the_donju_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_donju_tt: "§R[?THIS.the_donju_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_donju_tt: "§Y[?THIS.the_donju_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_donju_opinion: "Názor §Y$the_donju$§! se mění o [?temp_opinion|+0] (Aktuální: [DONJU_opinion_display])\n" # todo: NEW TRANSLATION
+ has_the_donju_tt: "$the_donju$" # todo: NEW TRANSLATION
+ the_bazaar: "Bazar" # todo: NEW TRANSLATION
+ the_bazaar_desc: "Íránské malé a střední podniky vystupují pod tradičním názvem bazar. S téměř bezkonkurenčním vlivem je uspokojit jejich zájmy vždy jednou z hlavních priorit." # todo: NEW TRANSLATION
+ the_bazaar_dynamic_modifier: "£pol_idea $the_bazaar$" # todo: NEW TRANSLATION
+ the_bazaar_opinion_tt: "Názor §Y$the_bazaar$§!: [TBAZ_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.TBAZ_stability_factor|+%]\n$modifier_production_speed_industrial_complex_factor$: [?THIS.TBAZ_production_speed_industrial_complex_factor|+%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?THIS.TBAZ_consunmer_goods_factor_var|Y%]\n" # todo: NEW TRANSLATION
+ positive_tbaz_tt: "§G[?THIS.the_bazaar_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_tbaz_tt: "§R[?THIS.the_bazaar_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_tbaz_tt: "§Y[?THIS.the_bazaar_opinion|0]§!" # todo: NEW TRANSLATION
+ display_the_bazaar_opinion: "Názor §Y$the_bazaar$§! se mění o [?temp_opinion|+0] (Aktuální: [TBAZ_opinion_display])\n" # todo: NEW TRANSLATION
+ has_the_bazaar_tt: "$the_bazaar$" # todo: NEW TRANSLATION
+ saudi_royal_family: "Rozšířená královská rodina" # todo: NEW TRANSLATION
+ saudi_royal_family_desc: "Gulfské monarchie mají všechny královské rodiny s tisíci členy, kteří si užívají obrovských finančních výhod. S různými klany očekávajícími, že obdrží mocné pozice a vliv nad strategickými rozhodnutími vlády, je politika této země do značné míry mimo ruce obyčejných občanů." # todo: NEW TRANSLATION
+ saudi_royal_family_dynamic_modifier: "£pol_idea $saudi_royal_family$" # todo: NEW TRANSLATION
+ saudi_royal_family_opinion_tt: "Názor §Y$saudi_royal_family$§!: [SARF_opinion_display]\n\n§YÚčinky z názoru:§!\n$MODIFIER_STABILITY_FACTOR$: [?THIS.SARF_stability_factor_var|+%]\n$MODIFIER_DRIFT_DEFENCE_FACTOR$: [?THIS.SARF_ideology_drift_defense_var|+%]\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?THIS.SARF_political_power_factor_var|+%]\n" # todo: NEW TRANSLATION
+ positive_sarf_tt: "§G[?THIS.saudi_royal_family_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_sarf_tt: "§R[?THIS.saudi_royal_family_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_sarf_tt: "§Y[?THIS.saudi_royal_family_opinion|0]§!" # todo: NEW TRANSLATION
+ display_saudi_royal_family_opinion: "Názor §Y$saudi_royal_family$§! se mění o [?temp_opinion|+0] (Aktuální: [SARF_opinion_display])\n" # todo: NEW TRANSLATION
+ sarf_at_least_positive_tt: "§Y$saudi_royal_family$§! názor alespoň 60 (Aktuální: [SARF_opinion_display])\n" # todo: NEW TRANSLATION
+ sarf_at_least_indifferent_tt: "§Y$saudi_royal_family$§! názor alespoň 50 (Aktuální: [SARF_opinion_display])\n" # todo: NEW TRANSLATION
+ irgc: "Sepâh-e Pâsdârân" # todo: NEW TRANSLATION
+ irgc_desc: "Hlavní rolí Islámských revolučních gard (IRGC) je chránit systém Islámské republiky v zemi. Má vlastní zpravodajské agentury, zahraniční legii, milice (síly Basídž), stavební odnož a velké podíly v ekonomice. Její Quds Force (Speciální jednotka) operuje v zahraničí, školí přátelské milice a provádí tajné operace." # todo: NEW TRANSLATION
+ irgc_dynamic_modifier: "£pol_idea $irgc$" # todo: NEW TRANSLATION
+ irgc_opinion_tt: "§Y$irgc$§! Aktuální názor: [IRGC_opinion_display]\n\n§YÚčinky názoru:§!\nDenní vznikající podpora: [?THIS.IRGC_commmunist_drift_var|+]\nModifikátor útočného vlivu: [?THIS.IRGC_offence_influence_var|+]%\n" # todo: NEW TRANSLATION
+ positive_irgc_tt: "§G[?THIS.irgc_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_irgc_tt: "§R[?THIS.irgc_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_irgc_tt: "§Y[?THIS.irgc_opinion|0]§!" # todo: NEW TRANSLATION
+ display_irgc_opinion: "Názor §Y$irgc$§! se mění o [?temp_opinion|+0] (Aktuální: [IRGC_opinion_display])\n" # todo: NEW TRANSLATION
+ iranian_quds_force: "Sepâh-e Qods" # todo: NEW TRANSLATION
+ iranian_quds_force_desc: "Íránská jednotka Sepâh-e Qods (Quds Force) je elitní speciální jednotka, která je součástí Islámských revolučních gard (IRGC). Je velmi aktivní ve výcviku milic, radách generálům a politikům, poskytování zpravodajských informací, likvidaci oponentů a prosazování íránského vlivu v jiné zemi." # todo: NEW TRANSLATION
+ iranian_quds_force_dynamic_modifier: "£pol_idea $iranian_quds_force$" # todo: NEW TRANSLATION
+ iranian_quds_force_opinion_tt: "Názor §Y$iranian_quds_force$§!: [IRQF_opinion_display]\n\n§YÚčinky z názoru:§!\n$communism_drift$: [?THIS.IRGC_commmunist_drift_var|+]\n" # todo: NEW TRANSLATION
+ positive_irqf_tt: "§G[?THIS.iranian_quds_force_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_irqf_tt: "§R[?THIS.iranian_quds_force_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_irqf_tt: "§Y[?THIS.iranian_quds_force_opinion|0]§!" # todo: NEW TRANSLATION
+ display_iranian_quds_force_opinion: "Názor §Y$iranian_quds_force$§! se mění o [?temp_opinion|+0] (Aktuální: [IRQF_opinion_display])\n" # todo: NEW TRANSLATION
+ ISI_foreign_jihadis: "Allahovi věrní" # todo: NEW TRANSLATION
+ foreign_jihadis: "Zahraniční džihádisté" # todo: NEW TRANSLATION
+ foreign_jihadis_desc: "Se silnou ideologickou motivací se zahraniční džihádisté z celého světa shromažďují, aby bojovali ve jménu wahhábského islámu. Přestože přinášejí neocenitelné přínosy a oběti, jejich touhy a chování se často střetávají s místními bojovníky a civilním obyvatelstvem." # todo: NEW TRANSLATION
+ foreign_jihadis_dynamic_modifier: "£pol_idea $foreign_jihadis$" # todo: NEW TRANSLATION
+ foreign_jihadis_opinion_tt: "Názor §Y$foreign_jihadis$§!: [JIHAD_opinion_display]\n\n§YÚčinky z názoru:§!\n$fascism_drift$: [?THIS.JIHAD_fascism_drift_var|+]\n$MODIFIER_GLOBAL_NON_CORE_MANPOWER$: [?THIS.JIHAD_non_core_manpower_var|+%]\n$MODIFIER_SPECIAL_FORCES_CAP$: [?THIS.JIHAD_special_forces_cap_var|+%]\n" # todo: NEW TRANSLATION
+ positive_jihad_tt: "§G[?THIS.foreign_jihadis_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_jihad_tt: "§R[?THIS.foreign_jihadis_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_jihad_tt: "§Y[?THIS.foreign_jihadis_opinion|0]§!" # todo: NEW TRANSLATION
+ display_foreign_jihadis_opinion: "Názor §Y$foreign_jihadis$§! se mění o [?temp_opinion|+0] (Aktuální: [JIHAD_opinion_display])\n" # todo: NEW TRANSLATION
+ vevak: "VEVAK" # todo: NEW TRANSLATION
+ vevak_desc: "Ministerstvo zpravodajství Islámské republiky Írán je jedním ze tří suverénních ministerských orgánů Íránu a je odpovědné za zpravodajské operace a atentáty doma i v zahraničí. Na rozdíl od jiných zpravodajských agentur musí být jeho vůdce doktorem islámu." # todo: NEW TRANSLATION
+ vevak_force_dynamic_modifier: "£pol_idea $vevak$" # todo: NEW TRANSLATION
+ vevak_opinion_tt: "Názor §Y$vevak$§!: [VEVAK_opinion_display]\n\n§YÚčinky z názoru:§!\n[VEVAK_intel_display]\n$modifier_production_speed_radar_station_factor$: [?THIS.VEVAK_radar_station_factor_var|+%]\n$MODIFIER_SUBVERSIVE_ACTIVITES_UPKEEP$: [?THIS.VEVAK_subversive_activies_upkeep_var|+%]\n$MODIFIER_FOREIGN_SUBVERSIVE_ACTIVITIES$: [?THIS.VEVAK_foreign_subversive_activites_var|+%]\n" # todo: NEW TRANSLATION
+ positive_vevak_tt: "§G[?THIS.vevak_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_vevak_tt: "§R[?THIS.vevak_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_vevak_tt: "§Y[?THIS.vevak_opinion|0]§!" # todo: NEW TRANSLATION
+ display_vevak_opinion: "Názor §Y$vevak$§! se mění o [?temp_opinion|+0] (Aktuální: [VEVAK_opinion_display])\n" # todo: NEW TRANSLATION
+ VEVAK_intel_display_lar_tt: "$MODIFIER_CIVILIAN_INTEL_FACTOR$: [?THIS.VEVAK_civilian_intel_factor_var|+%]\n$MODIFIER_ARMY_INTEL_FACTOR$: [?THIS.VEVAK_army_intel_factor_var|+%]\n$MODIFIER_NAVY_INTEL_FACTOR$: [?THIS.VEVAK_navy_intel_factor_var|+%]\n$MODIFIER_AIRFORCE_INTEL_FACTOR$: [?THIS.VEVAK_airforce_intel_factor_var|+%]\n" # todo: NEW TRANSLATION
+ VEVAK_intel_display_tt: "$MODIFIER_DECRYPTION_FACTOR$: [?THIS.VEVAK_decryption_factor_var|+%]\n$MODIFIER_ENCRYPTION_FACTOR$: [?THIS.VEVAK_encryption_factor_var|+%]\n" # todo: NEW TRANSLATION
+ isi_pakistan: "ISI" # todo: NEW TRANSLATION
+ isi_pakistan_desc: "Pákistánská zpravodajská agentura Inter-Services Intelligence (ISI) je jednou z nejsilnějších a nej schopnějších zpravodajských agentur na světě a má neúměrný vliv jak na zahraniční politiku, tak na domácí politiku. Agentura se specializuje na HUMINT, protizpravodajství a využívání teroristických organizací jako zástupců pákistánské zahraniční politiky, tajné akce v zahraničí a kontrolu domácích záležitostí." # todo: NEW TRANSLATION
+ isi_pakistan_dynamic_modifier: "£pol_idea $isi_pakistan$" # todo: NEW TRANSLATION
+ isi_pakistan_opinion_tt: "Názor §Y$isi_pakistan$§!: [ISI_opinion_display]\n\n§YÚčinky z názoru:§!\n[ISI_intel_display]\n$modifier_production_speed_radar_station_factor$: [?THIS.ISI_radar_station_factor_var|+%]\n$MODIFIER_SUBVERSIVE_ACTIVITES_UPKEEP$: [?THIS.ISI_subversive_activies_upkeep_var|+%]\n$MODIFIER_FOREIGN_SUBVERSIVE_ACTIVITIES$: [?THIS.ISI_foreign_subversive_activites_var|+%]\n" # todo: NEW TRANSLATION
+ positive_isi_tt: "§G[?THIS.isi_pakistan_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_isi_tt: "§R[?THIS.isi_pakistan_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_isi_tt: "§Y[?THIS.isi_pakistan_opinion|0]§!" # todo: NEW TRANSLATION
+ display_isi_pakistan_opinion: "Názor §Y$isi_pakistan$§! se mění o [?temp_opinion|+0] (Aktuální: [ISI_opinion_display])\n" # todo: NEW TRANSLATION
+ ISI_intel_display_lar_tt: "$MODIFIER_CIVILIAN_INTEL_FACTOR$: [?THIS.ISI_civilian_intel_factor_var|+%]\n$MODIFIER_ARMY_INTEL_FACTOR$: [?THIS.ISI_army_intel_factor_var|+%]\n$MODIFIER_NAVY_INTEL_FACTOR$: [?THIS.ISI_navy_intel_factor_var|+%]\n$MODIFIER_AIRFORCE_INTEL_FACTOR$: [?THIS.ISI_airforce_intel_factor_var|+%]\n" # todo: NEW TRANSLATION
+ ISI_intel_display_tt: "$MODIFIER_DECRYPTION_FACTOR$: [?THIS.ISI_decryption_factor_var|+%]\n$MODIFIER_ENCRYPTION_FACTOR$: [?THIS.ISI_encryption_factor_var|+%]\n" # todo: NEW TRANSLATION
+ wall_street: "Wall Street" # todo: NEW TRANSLATION
+ wall_street_desc: "Osmi-bloková ulice v New Yorku se stala symbolem amerického finančního sektoru a globálního kapitalismu jako takového. Domov dvou největších burz na světě, New York Stock Exchange a NASDAQ, jejichž ekonomická moc a vliv by neměly být podceňovány." # todo: NEW TRANSLATION
+ wall_street_interest_tt: "§YÚroková sazba:§! §G-1%§!\n" # todo: NEW TRANSLATION
+ wall_street_dynamic_modifier: "£pol_idea $wall_street$" # todo: NEW TRANSLATION
+ wall_street_opinion_tt: "Názor §Y$wall_street$§!: [WALL_opinion_display]\n\n§YÚčinky z názoru:§!\n$modifier_production_speed_industrial_complex_factor$: [?THIS.WALL_psic_factor_var|%+]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.WALL_local_resources_factor_var|%+]\n$MODIFIER_TRADE_OPINION_FACTOR$: [?THIS.WALL_trade_opinion_factor_var|%Y]\n$office_park_income_tax_modifier$: [?THIS.WALL_office_park_income_tax_modifier_var|+%]\n$investment_cost_modifier$: [?THIS.WALL_investment_cost_var|-%]\n$investment_duration_modifier$: [?THIS.WALL_investment_duration_var|-%]" # todo: NEW TRANSLATION
+ positive_wall_tt: "§G[?THIS.wall_street_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_wall_tt: "§R[?THIS.wall_street_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_wall_tt: "§Y[?THIS.wall_street_opinion|0]§!" # todo: NEW TRANSLATION
+ display_wall_street_opinion: "Názor §Y$wall_street$§! se mění o [?temp_opinion|+0] (Aktuální: [WALL_opinion_display])\n" # todo: NEW TRANSLATION
+ chaebols: "Chaeboly" # todo: NEW TRANSLATION
+ chaebols_desc: "Chaebol je jihokorejská forma obchodního konglomerátu. Jsou to globální nadnárodní korporace, které vlastní řadu mezinárodních podniků. Hyundai, Samsung, LG a SK Group jsou největšími z nich. Jihokorejské chaeboly jsou ve srovnání s velikostí domácí ekonomiky jedny z největších společností na světě a sehrály nezastupitelnou roli v národním rozvoji Jižní Koreje." # todo: NEW TRANSLATION
+ chaebols_dynamic_modifier: "£pol_idea The Chaebols" # todo: NEW TRANSLATION
+ chaebol_opinion_tt: "Názor §Y$chaebols$§!: [CHAE_opinion_display]\n\n§YÚčinky z názoru:§!\n$modifier_production_speed_infrastructure_factor$: [?THIS.CHAE_psinfra_factor_avr|%+]\n$modifier_production_speed_industrial_complex_factor$: [?THIS.CHAE_psic_factor_var|%+]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?THIS.CHAE_local_resouces_factor|%+]\n" # todo: NEW TRANSLATION
+ positive_chae_tt: "§G[?THIS.chaebols_opinion|0]§!" # todo: NEW TRANSLATION
+ negative_chae_tt: "§R[?THIS.chaebols_opinion|0]§!" # todo: NEW TRANSLATION
+ neutral_chae_tt: "§Y[?THIS.chaebols_opinion|0]§!" # todo: NEW TRANSLATION
+ display_chaebols_opinion: "Názor §Y$chaebols$§! se mění o [?temp_opinion|+0] (Aktuální: [CHAE_opinion_display])\n" # todo: NEW TRANSLATION
+ has_the_ulema_tt: "$the_ulema$" # todo: NEW TRANSLATION
+ has_the_clergy_tt: "$the_clergy$" # todo: NEW TRANSLATION
+ has_the_priesthood_tt: "$the_priesthood$" # todo: NEW TRANSLATION
+ has_oligarchs_tt: "Má vnitřní frakci §Y$oligarchs$§!" # todo: NEW TRANSLATION
+ has_farmers_tt: "Má vnitřní frakci §Y$farmers$§!" # todo: NEW TRANSLATION
+ has_defense_industry_tt: "Má vnitřní frakci §Y$defense_industry$§!" # todo: NEW TRANSLATION
+ decision_category_internal_factions: "Interakce vnitřních frakcí" # todo: NEW TRANSLATION
+ decision_category_internal_factions_desc: "[ROOT.GetName] má v zemi několik frakcí. Jsou to mocné frakce, které mohou naši zemi značně zatížit. Nicméně čím více s těmito skupinami zasahujeme, tím větší problémy nám to může v budoucnu způsobit." # todo: NEW TRANSLATION
+ tax_labour_unions_decision: "Zdanit odbory" # todo: NEW TRANSLATION
+ tax_labour_unions_decision_desc: "Odbory si už příliš dlouho užívají příliš mnoho výhod. Měli bychom začít zvyšovat daně z odborů v zemi." # todo: NEW TRANSLATION
+ raise_wages_labour_unions_decision: "Zvýšit mzdy" # todo: NEW TRANSLATION
+ raise_wages_labour_unions_decision_desc: "Zvýšení mezd v zemi učiní odborové skupiny spokojenějšími s naší vládou." # todo: NEW TRANSLATION
+ display_internal_faction_election_effects: "Frakce v naší zemi nám poskytují různé úrovně podpory, které ovlivní výsledek rozhodnutí během voleb." # todo: NEW TRANSLATION
+ has_economic_faction_TT: "Ekonomická vnitřní frakce" # todo: NEW TRANSLATION
+ has_religious_faction_TT: "Náboženská vnitřní frakce" # todo: NEW TRANSLATION
+ labour_unions_minus_15_tt: "§YOdbory§! Názor §R-15§!\n" # todo: NEW TRANSLATION
+ labour_unions_plus_10_tt: "§YOdbory§! Názor §G+15§!\n" # todo: NEW TRANSLATION
