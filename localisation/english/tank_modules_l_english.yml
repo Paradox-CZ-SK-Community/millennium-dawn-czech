@@ -638,6 +638,8 @@
   afv_machine_gun_3_desc: "Rozpad Sovětského svazu umožnil některým zemím zaměřit se na kvalitu, ne kvantitu - to je to, o čem tato nová generace je." # todo: NEW TRANSLATION
   afv_machine_gun_4: "Budoucí HMG" # todo: NEW TRANSLATION
   afv_machine_gun_4_desc: "Plastové pláště, sledovací technologie. HMG jsou dnes smrtelnější než kdy dřív." # todo: NEW TRANSLATION
+  afv_assault_gun: "Útočný kanón z raného období studené války" # todo: CHANGED
+  afv_assault_gun_desc: "Dělostřelectvo vyzbrojené lehkými tanky bývá obvykle nízkorychlostný kanón, který dosahuje velké palebné síly na úkor nízkého zpětného rázu." # todo: NEW TRANSLATION
   afv_assault_gun_2: "Pozdní studená válka útočná kanóna" # todo: NEW TRANSLATION
   afv_assault_gun_2_desc: "Vylepšená balistika, lepší FRAG projektily oproti návrhům po druhé světové válce." # todo: NEW TRANSLATION
   afv_assault_gun_3: "Moderní útočná kanóna" # todo: NEW TRANSLATION
@@ -994,11 +996,11 @@
   ENG_tank_composite_armor_gen2_desc: "Dorchester pancíř je nejnovější varianta původního Chobham pancíře a je aktuálně používán na tancích Abrams a Challenger 2. Vylepšená verze nabízí lepší ochranu proti palbě nepřítele.\n\n§GDesigner Hint: Kompozitní pancíř je standardní volba pro moderní hlavní bojové tanky§!" # todo: NEW TRANSLATION
   SOV_tank_small_cannon: "76,2mm D-56T" # todo: NEW TRANSLATION
   SOV_afv_machine_gun: "7,62mm SGMT" # todo: NEW TRANSLATION
-  SOV_afv_machine_gun_desc: "SG-43/SGMT Goryunov (Russian: Станковый пулемёт системы Горюнова, Stankovyy pulyemyot sistyemy Goryunova, meaning \"Mounted machinegun, Goryunov design\") byl sovětský střední kulomet, který byl zaveden během Druhé světové války. Byl komorován pro náboj 7.62×54mmR a byl uveden v roce 1943 jako náhrada za starší Maxim M1910." # todo: NEW TRANSLATION
+  SOV_afv_machine_gun_desc: "The SG-43/SGMT Goryunov (v ruštině: Станковый пулемёт системы Горюнова, Stankovyy pulyemyot sistyemy Goryunova, znamená \"Montovaný kulomet, konstrukce Goryunova\") byl sovětský střední kulomet, který byl představen během druhé světové války. Byl nabíjen náboji ráže 7.62x54mmR a byl uveden v roce 1943 jako náhrada za starší kulomety Maxim M1910." # todo: CHANGED
   SOV_afv_machine_gun_2: "14,5mm KPVT" # todo: NEW TRANSLATION
-  SOV_afv_machine_gun_2_desc: "The KPVT heavy machinegun  is a Soviet designed 14.5×114mm-caliber heavy machine gun, which first entered service as an infantry weapon (designated PKP) in 1949. In the 1960s, the infantry version was taken out of production because it was too large and heavy. It was later use in BTR series" # todo: NEW TRANSLATION
+  SOV_afv_machine_gun_2_desc: "Těžký kulomet KPVT je sovětského návrhu ráže 14.5x114mm, který poprvé vstoupil do služby jako pěchotní zbraň (označená PKP) v roce 1949. V 60. letech byla pěchotní verze stažena z výroby, protože byla příliš velká a těžká. Později byl použit v sérii BTR." # todo: CHANGED
   SOV_afv_coax_machine_gun: "7,62mm PKT" # todo: NEW TRANSLATION
-  SOV_afv_coax_machine_gun_desc: "The PKT (Russian: Пулемёт Калашникова, transliterated as Pulemyot Kalashnikova, or \"Kalashnikov's machine gun\"), is a belt-fed general-purpose machine gun, chambered for the 7.62×54mmR rimmed cartridge derived of the PK/PKM machinegun" # todo: NEW TRANSLATION
+  SOV_afv_coax_machine_gun_desc: "PKT (v ruštině: Пулемёт Калашникова, transliterováno jako Pulemyot Kalashnikova, neboli \"Kalashnikovův kulomet\") je pásový univerzální kulomet nabíjený okrajovým nábojem ráže 7.62x54mmR, odvozeným z kulometu PK/PKM." # todo: CHANGED
   SOV_afv_atgm_gen1: "9M14 Malyutka" # todo: NEW TRANSLATION
   SOV_afv_atgm_gen1_desc: "(NATO name AT-3 Sanger) Byl to první ručně nesená protitanková řízená střela sovětského svazu a je pravděpodobně nejvíce vyráběnou ATGM všech dob" # todo: NEW TRANSLATION
   SOV_afv_assault_gun: "73mm 2A28 Grom" # todo: NEW TRANSLATION
@@ -1150,14 +1152,6 @@
   chassis_wheeled_afv_gen4: "Wheeled AFV Chassis V" # todo: NEW TRANSLATION
   chassis_tracked_afv_gen4: "Tracked AFV Chassis V" # todo: NEW TRANSLATION
   chassis_light_tank_gen4: "Light Tank Chassis V" # todo: NEW TRANSLATION
-  afv_assault_gun: "Vysokokalibrový nízkorychlostný kanón I" # todo: NEW TRANSLATION
-  afv_assault_gun_desc: "Dělostřelectvo vyzbrojené lehkými tanky bývá obvykle nízkorychlostný kanón, který dosahuje velké palebné síly na úkor nízkého zpětného rázu." # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_2: "Vysokokalibrový nízkorychlostný kanón II" # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_2_desc: "Dělostřelectvo vyzbrojené lehkými tanky bývá obvykle nízkorychlostný kanón, který dosahuje velké palebné síly na úkor nízkého zpětného rázu." # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_3: "Vysokokalibrový nízkorychlostný kanón III" # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_3_desc: "Dělostřelectvo vyzbrojené lehkými tanky bývá obvykle nízkorychlostný kanón, který dosahuje velké palebné síly na úkor nízkého zpětného rázu." # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_4: "Vysokokalibrový nízkorychlostný kanón IV" # todo: NEW TRANSLATION
-  light_tank_low_velocity_gun_4_desc: "Dělostřelectvo vyzbrojené lehkými tanky bývá obvykle nízkorychlostný kanón, který dosahuje velké palebné síly na úkor nízkého zpětného rázu." # todo: NEW TRANSLATION
   chassis_wheeled_afv_gen0_desc: "Inspirováno ranými kolovými průzkumnými vozidly, jako je Panhard AML, tento podvozek klade důraz na rychlé nasazení a terénní všestrannost, což umožňuje rychlé zapojení s hospodárností." # todo: NEW TRANSLATION
   chassis_tracked_afv_gen0_desc: "Opírá se o odkaz vozidel jako M113 APC a BMP-1, tento vyvážený podvozek nabízí jak obranu, tak průlomové schopnosti za střední výrobní náklady." # todo: NEW TRANSLATION
   chassis_light_tank_gen0_desc: "Evokuje návrhy PT-76 a M551 Sheridan, tento podvozek nabízí kombinaci obrany a průlomových schopností vhodných pro různorodé scénáře." # todo: NEW TRANSLATION

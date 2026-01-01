@@ -163,14 +163,14 @@
   MD_nuclear_energy.1.t: "Varování k jaderné energii" # todo: NEW TRANSLATION
   MD_nuclear_energy.1.d: "Ověřte, že máte zapnutý nápad na generování jaderné energie před stavbou reaktorů. Jinak reaktory budou stát neaktivně a neposkytnou žádnou energii vaší zemi." # todo: NEW TRANSLATION
   MD_nuclear_energy.1.a: "OK" # todo: NEW TRANSLATION
-  disable_raid_notifs_TT: "§CPoznámka:\n - Můžete vypnout notifikace o událostech ohledně nájezdu v menu rozhodnutí 'Hlášení o vlivu ze zahraničí'\n - Stále budete dostávat notifikace o nájezdech na naše území§!" # todo: NEW TRANSLATION
+  disable_raid_notifs_TT: "§CPoznámka:\n - Můžete vypnout oznámení o událostech týkajících se nájezdů v nabídce rozhodnutí §H'[ROOT.GetFlag][ROOT.GetAdjective] Zpráva o zahraničním vlivu'§!\n - Nadále budete dostávat oznámení o nájezdech na našem území§!" # todo: CHANGED
   has_modern_landing_craft_TT: "Protože nemáme prozkoumané §HModerní výsadkové lodě§!, naše nájezdy jsou omezeny pouze na náš kontinent" # todo: NEW TRANSLATION
   has_spec_ops_4_TT: "Protože nemáme prozkoumané §HZbraně vybraných speciálních sil§!, naše nájezdy jsou omezeny pouze na náš kontinent" # todo: NEW TRANSLATION
   MD_timed_raid_TT: "§RBudeme mít 270 dní na reakci s nižšími náklady na nájezdy!§!" # todo: NEW TRANSLATION
   MD_reparation_TT: "§HZaplatíme:§!" # todo: NEW TRANSLATION
   MD_reparation2_TT: "§HOni slíbili, že nám po dobu roku neprovedou útok!§!\n§RPokud je napadneme, nebudou nám důvěřovat dlouho§!" # todo: NEW TRANSLATION
   nation_on_same_continent: "Cílová země musí být na stejné pevnině." # todo: NEW TRANSLATION
-  MD_sanctioned_TT: "Adds §HMezinárodní sankce§! Národní duch" # todo: NEW TRANSLATION
+  MD_sanctioned_TT: "Přidává národní ideu §HMezinárodní sankce§!" # todo: CHANGED
   RAID_war_instantly_TT: "§ROkamžitě vyvolá válku!§!" # todo: NEW TRANSLATION
   has_nuclear_weapons_in_arsenal_tt: "Nejméně §Y[?temp_check|0]§! §Yjaderně schopné zbraně§! (ICBMs or IRBMs) musí být ve naší zásobě." # todo: NEW TRANSLATION
   is_able_to_launch_a_strike_type_tt: "Náš §Njaderný stav§! umožňuje §Yútočné použití§! z našeho §Njaderného arzenálu§! nebo §Y[?var:target_state.GetName]§! je vlastněno nebo nárokováno [ROOT.GetNameWithFlag] a [ROOT.GetNameWithFlag] má více než §Y50%§! Pokrok v kapitulaci." # todo: NEW TRANSLATION
@@ -179,4 +179,4 @@
   guided_missile: "Klouzavá střela" # todo: NEW TRANSLATION
   nuclear_ballistic_missile: "NIRBM" # todo: NEW TRANSLATION
   raiding_economic_sanctions: "Mezinárodní sankce" # todo: NEW TRANSLATION
-  raiding_economic_sanctions_desc: "V důsledku provedení nájezdu na jiný stát uvalilo mezinárodní společenství na nás sankce. V důsledku toho budeme čelit následkům. Pokaždé, když provedeme nájezd a proti nám je zahájeno řízení, sankce budou trvat déle a budou přísnější.\n§W--------------§!\nTento národní duch bude §ROdstraněn§! za [?refused_payment_got_sanctioned_no_raids:days_left|Y0] dní, pokud neprovedeme žádné nájezdy." # todo: NEW TRANSLATION
+  raiding_economic_sanctions_desc: "V důsledku provedení nájezdu na jiný stát se mezinárodní společenství rozhodlo na nás uvalit sankce. V důsledku toho nás čekají určité následky. Pokaždé, když provedeme nájezd a proti nám je zahájeno řízení, sankce potrvají déle a budou nést přísnější postihy.\n§W--------------§!\nTato národní idea bude §ROdstraněna§! za [?refused_payment_got_sanctioned_no_raids:days_left|Y0] dní, pokud neprovedeme žádné nájezdy." # todo: CHANGED

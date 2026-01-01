@@ -1544,15 +1544,15 @@
   SPR_unban_the_monarchy_decision: "Obnovit monarchii" # todo: NEW TRANSLATION
   SPR_unban_the_monarchy_decision_desc: "Naše působení pod komunismem vedlo k zrušení monarchie. Můžeme nabídnout návrat monarchům, pokud si to zvolíme." # todo: NEW TRANSLATION
   SPR_conservatism_policy_replacer_decision: "Vraťte politiku §Y[conservatism_L]§!" # todo: NEW TRANSLATION
-  SPR_conservatism_policy_replacer_decision_desc: "Vrátili jsme se k naší konzervativní formě vlády. Znovuzavedení politiky co nejdříve bude velkým krokem pro naši zemi.\n\n§CTooto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních duchů.§!\n" # todo: NEW TRANSLATION
+  SPR_conservatism_policy_replacer_decision_desc: "Vrátili jsme se k naší konzervativní formě vlády. Obnovení této politiky co nejdříve bude pro naši zemi skvělým krokem.\n\n§CToto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních idejí.§!\n" # todo: CHANGED
   SPR_rwp_policy_replacer_decisions: "Vraťte politiku §Y[Nat_Populism_L]§!" # todo: NEW TRANSLATION
-  SPR_rwp_policy_replacer_decisions_desc: "[Nat_Populism_L] se vrátila zpět do vládnoucí třídy naší země. Jejich politiky byly nedávno předmětem mnoha debat, ale bylo by zajímavé je znovu představit.\n\n§CTooto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních duchů.§!\n" # todo: NEW TRANSLATION
+  SPR_rwp_policy_replacer_decisions_desc: "[Nat_Populism_L] se znovu dostal do vládnoucí vrstvy naší země. Jejich politiky byly v poslední době předmětem rozsáhlých debat, ale bylo by zajímavé je opět představit.\n\n§CToto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních idejí.§!\n" # todo: CHANGED
   SPR_falangists_policy_replacer_decision: "Vraťte politiku §Y[Nat_Fascism_L]§!" # todo: NEW TRANSLATION
-  SPR_falangists_policy_replacer_decision_desc: "Falangisté pod [[Nat_Fascism_L] se znovu vetřeli do žil moci. Jejich politiky čekají na přeformulování do zákona.\n\n§CTooto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních duchů.§!\n" # todo: NEW TRANSLATION
+  SPR_falangists_policy_replacer_decision_desc: "Falangisté pod [[Nat_Fascism_L] se znovu vplížili do žil moci. Jejich politiky čekají na opětovné zakotvení v zákonech.\n\n§CToto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních idejí.§!\n" # todo: CHANGED
   SPR_communist_policy_replacer_decision: "Vraťte politiku §Y[Communist-State_L]§!" # todo: NEW TRANSLATION
-  SPR_communist_policy_replacer_decision_desc: "[Communist-State_L] se znovu dostala k moci. Návrat jejich politiky bude pro národ velmi prospěšný.\n\n§CThis decision is to allow you to return policies of former governments. Essentially reclaiming lost national spirits.§!\n" # todo: NEW TRANSLATION
+  SPR_communist_policy_replacer_decision_desc: "[Communist-State_L] se opět dostal k moci. Obnovení jejich politiky bude pro zemi velmi přínosné.\n\n§CToto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních idejí.§!\n" # todo: CHANGED
   SPR_socialism_policy_replacer_decision: "Vraťte politiku §Y[socialism_L]§!" # todo: NEW TRANSLATION
-  SPR_socialism_policy_replacer_decision_desc: "[socialism_L] se opět vrátil(a) k vládnutí v naší zemi.\n\n§CThis decision is to allow you to return policies of former governments. Essentially reclaiming lost national spirits.§!\n" # todo: NEW TRANSLATION
+  SPR_socialism_policy_replacer_decision_desc: "[socialism_L] se znovu vrátili k vládnutí země.\n\n§CToto rozhodnutí vám umožní vrátit politiky bývalých vlád. V podstatě znovuzískání ztracených národních idejí.§!\n" # todo: CHANGED
   SPR_expand_the_huelva_copper_mine: "Rozšířit Riotinto Copper Project" # todo: NEW TRANSLATION
   SPR_expand_the_huelva_copper_mine_desc: "Projekt Riotinto Copper Project se sídlem v Huelvě je jedním z největších dolů ve Španělsku. Roční produkce překračuje devět milionů metrických tun, z nichž většinu tvoří měď, a přesahuje dvacet tisíc tun. Rozšíření tohoto projektu nám dále umožní stát se soběstačnými a nezávislými na dovozu surovin ze zahraničí." # todo: NEW TRANSLATION
   SPR_expand_the_los_santos_mine: "Rozšířit doly Los Santos" # todo: NEW TRANSLATION
@@ -1603,7 +1603,7 @@
   SPR_add_15_landowners_opinion_tt: "§YPozemkoví vlastníci§! Názor §G+15§!\n" # todo: NEW TRANSLATION
   SPR_increase_5_mil_opinion_tt: "§Vojenské síly§! Názor §G+5§!\n" # todo: NEW TRANSLATION
   SPR_increase_15_mil_opinion_tt: "§Vojenské síly§! Názor §G+15§!\n" # todo: NEW TRANSLATION
-  SPR_increases_the_military_opinion_by_10_tt: "§Vojenské síly§! Názor se zvyšuje o §G+10§! prostřednictvím §Y$SPR_pride_of_the_army_idea$§! Národního ducha\n" # todo: NEW TRANSLATION
+  SPR_increases_the_military_opinion_by_10_tt: "§YArmáda§! Názor se zvýší o §G+10§! díky §Y$SPR_pride_of_the_army_idea$§! národní ideji\n" # todo: CHANGED
   SPR_the_new_elections_tt: "Království přepracovalo politický systém Španělska. Umožní určité politické strany a hnutí vládnout jménem.\n\nMožné spoluvládní strany:\n§Y[Nat_Fascism_L]§!\n§Y[conservatism_L]§!\n§Y[Nat_Populism_L]§!\n§Y[socialism_L]§!\n\n\nZvolením jedné z výše uvedených stran do vaší koalice odemkne jejich příslušný strom zaměření. Můžete mít jen jednu stranu najednou a pokud ji ze své koalice vyřadíte, ztratíte veškeré buffy či debuffy, které jste získali jejich zapojením do koalice.\n" # todo: NEW TRANSLATION
   SPR_carlists_ascend_to_throne_tt: "Carlisté vystoupí na trůn §YCarlists§! \n" # todo: NEW TRANSLATION
   SPR_monarchs_unbanned_tt: "§Y[Western_Autocracy_L]§! a §Y[Monarchist_L]§! jsou opět povoleni a mohou znovu nabýt moci.\n" # todo: NEW TRANSLATION

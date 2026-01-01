@@ -108,7 +108,7 @@
   is_top_five_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je jedním z pěti nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
   is_top_five_influencer_ct_tt: "§H[ROOT.GetNameWithFlag]§! je jedním z pěti nejvlivnějších" # todo: NEW TRANSLATION
   top_three_twenty_percent_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  top_three_thirty_percent_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 30% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+  top_three_thirty_percent_variable_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[?var:temp_country.GetNameWithFlag]§! > 30% vlivu\n§H[?var:temp_country.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
   is_top_influencer_fifty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 50% vlivu\n§H[ROOT.GetNameWithFlag]§! je nejvlivnějším v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
   is_top_influencer_eighty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 80% vlivu\n§H[ROOT.GetNameWithFlag]§! je nejvlivnějším v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
   is_top_influencer_twenty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním z nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION

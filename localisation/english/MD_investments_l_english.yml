@@ -123,6 +123,7 @@
   AC_construction_NUCLEAR_REACTOR_delayed: "§YPředpoklady§!:\n[!AC_building_nuclear_reactor_button_click_enabled]" # todo: NEW TRANSLATION
   AC_construction_AGRICULTURE_DISTRICT: "§YKomerční zemědělský distrikt§!\nKomerční zemědělský distrikt představuje souhrn všech nek výdajových zemědělských praktik v naší zemi. Zahrnuje agro-průmysl, obdělávané půdy, obilní sila, jatky a další.\n\n§YZákladní cena za strukturu:§! §R$[?global.BUILD_COST_AGRICULTURE_DISTRICT]§! miliard" # todo: NEW TRANSLATION
   AC_construction_AGRICULTURE_DISTRICT_delayed: "§YPředpoklady§!:\n[!AC_building_agriculture_district_button_click_enabled]" # todo: NEW TRANSLATION
+  modifier_production_cost_agriculture_district_factor: "§YZkomercializované zemědělské čtvrti§! Výrobní náklady" # todo: NEW TRANSLATION
   AC_down_arrow_tt: "Skrýt rozhraní §YInvestice§!" # todo: NEW TRANSLATION
   AC_up_arrow_tt: "Zobrazit rozhraní §YInvestice§!" # todo: NEW TRANSLATION
   AC_build_amount_green: "[?ROOT.project_build_amount^-1]" # todo: NEW TRANSLATION

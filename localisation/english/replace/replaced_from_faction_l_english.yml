@@ -159,31 +159,11 @@
   VIE_RAJPACT: "Revoluční pakt" # todo: NEW TRANSLATION
   Northern_Alliance: "Severní aliance" # todo: NEW TRANSLATION
   imperial_Union: "Impériální unie" # todo: NEW TRANSLATION
+  anti_zombie_coalition: "Koalice proti zombie" # todo: NEW TRANSLATION
   TEAM_A: "Tým A" # todo: NEW TRANSLATION
   TEAM_B: "Tým B" # todo: NEW TRANSLATION
   TEAM_C: "Tým C" # todo: NEW TRANSLATION
   TEAM_D: "Tým D" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_1: "Organizace pro mezinárodní bezpečnost" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_2: "Smlouva o světové obraně" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_3: "Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_4: "Předběžná obrana $CONTINENT$ smlouva" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_5: "$CONTINENT_ADJ$ Koalice" # todo: NEW TRANSLATION
-  FACTION_NAME_DEMOCRATIC_6: "$CONTINENT_ADJ$ Federace" # todo: NEW TRANSLATION
-  FACTION_NAME_COMMUNIST_1: "Iniciativa míru" # todo: NEW TRANSLATION
-  FACTION_NAME_COMMUNIST_2: "Liga sebeurčení" # todo: NEW TRANSLATION
-  FACTION_NAME_COMMUNIST_3: "Kolektivní $CONTINENT_ADJ$ Obranný pakt" # todo: NEW TRANSLATION
-  FACTION_NAME_COMMUNIST_4: "Pakt sebeurčení $CONTINENT_ADJ$" # todo: NEW TRANSLATION
-  FACTION_NAME_COMMUNIST_5: "Kompakt $LEADER_COUNTRY_ADJ$" # todo: NEW TRANSLATION
-  FACTION_NAME_FASCIST_1: "$CONTINENT_ADJ$ Kalifát" # todo: NEW TRANSLATION
-  FACTION_NAME_FASCIST_2: "Islámský kalifát $CONTINENT$" # todo: NEW TRANSLATION
-  FACTION_NAME_FASCIST_3: "$LEADER_COUNTRY_ADJ$ Ummah" # todo: NEW TRANSLATION
-  FACTION_NAME_FASCIST_4: "Následovníci $LEADER_COUNTRY$" # todo: NEW TRANSLATION
-  FACTION_NAME_FASCIST_5: "Cesta spravedlnosti $CONTINENT_ADJ$" # todo: NEW TRANSLATION
-  FACTION_NAME_NONALIGNED_1: "Nevázané $CONTINENT_ADJ$ státy" # todo: NEW TRANSLATION
-  FACTION_NAME_NONALIGNED_2: "Nevázaná $CONTINENT_ADJ$ Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
-  FACTION_NAME_NONALIGNED_3: "The $CONTINENT$ Aliance" # todo: NEW TRANSLATION
-  FACTION_NAME_NONALIGNED_4: "Konfederované $CONTINENT_ADJ$ národy" # todo: NEW TRANSLATION
-  FACTION_NAME_NONALIGNED_5: "Koalice $LEADER_COUNTRY$" # todo: NEW TRANSLATION
   FACTION_NAME_NATIONALIST_1: "Národní obranná liga" # todo: NEW TRANSLATION
   FACTION_NAME_NATIONALIST_2: "Pakt obran $LEADER_COUNTRY_ADJ$" # todo: NEW TRANSLATION
   FACTION_NAME_NATIONALIST_3: "$LEADER_COUNTRY_ADJ$ Pakt národní obnovy" # todo: NEW TRANSLATION
@@ -224,6 +204,28 @@
   call_to_war_rule_never: "Žádný válečný zásah" # todo: NEW TRANSLATION
   nato_defeat_taliban: "Porazit terorismus v Afghánistánu" # todo: NEW TRANSLATION
   nato_defeat_taliban_desc: "V důsledku rozsáhlých teroristických útoků na USA musí být NATO připraveno tuto hrozbu zničit dříve, než způsobí další škody." # todo: NEW TRANSLATION
+  secure_central_asia_name: "Zajistit Střední Asii" # todo: NEW TRANSLATION
+  secure_central_asia_desc: "Zatímco se Organizace Smlouvy o kolektivní bezpečnosti většinou konsolidovala v regionu Střední Asie, některé státy stále visí těsně mimo naši sféru vlivu. Přivedením zbývajících států pod naši ochranu budeme schopni plně prosadit naši autoritu v regionu." # todo: NEW TRANSLATION
+  secure_crimea_name: "Zajistit Krym" # todo: NEW TRANSLATION
+  secure_crimea_desc: "Krym leží na strategicky důležité části regionu, kde by kontrola obchodních a námořních cest mohla snadno rozhodnout hru. S Krymem pod naší kontrolou by naše aliance lépe prosazovala kontrolu nad moři." # todo: NEW TRANSLATION
+  bring_georgia_into_orbit_name: "Přivést Gruzii do naší sféry" # todo: NEW TRANSLATION
+  bring_georgia_into_orbit_desc: "Gruzie se stále více vyskytuje na pomezí východní a západní politiky. Nejlepší je přivést ji pod naši ochranu dříve, než bude příliš pozdě." # todo: NEW TRANSLATION
+  bring_ukraine_into_orbit_name: "Inkorporovat Ukrajinu" # todo: NEW TRANSLATION
+  bring_ukraine_into_orbit_desc: "Ukrajinci se rychle stávají regionálním hráčem, což z nich dělá hodnotnou investici pro naše protivníky jako odrazový můstek proti nám. Je nejlepší přiblížit Ukrajinu k našemu vlivu dříve, než bude pozdě." # todo: NEW TRANSLATION
+  goal_global_hegemony_name: "Globální hegemonie" # todo: NEW TRANSLATION
+  goal_global_hegemony_desc: "Vzestup americké říše ohrožuje samotnou existenci našeho státu. Je tedy nutné vypořádat se s touto hrozbou a ustanovit globální hegemonii." # todo: NEW TRANSLATION
+  incorporate_syria_name: "Inkorporovat Sýrii" # todo: NEW TRANSLATION
+  incorporate_syria_desc: "Syřané jsou na pokraji pádu do západního imperialismu. Jejich křehká politická situace je vystavuje zahraničnímu vykořisťování a musíme zasáhnout dříve, než bude pozdě." # todo: NEW TRANSLATION
+  control_lebanon_name: "Zajistit Libanon" # todo: NEW TRANSLATION
+  control_lebanon_desc: "Libanon je jedním z hlavních center šíitské aktivity a jako takový je neustále terčem útoků našich nepřátel. Nejlepší je vzít je pod naši ochranu... aby byli, samozřejmě, v bezpečí." # todo: NEW TRANSLATION
+  houthis_in_yemen_name: "Hútíjský Jemen" # todo: NEW TRANSLATION
+  houthis_in_yemen_desc: "Jemenská vláda dlouho zanedbávala základní práva své ší'itské populace a naším povinností je chránit tyto bezzázemné lidi." # todo: NEW TRANSLATION
+  control_hormuz_name: "Kontrolovat Hormuz" # todo: NEW TRANSLATION
+  control_hormuz_desc: "Hormuzský průliv je jedním z nejdůležitějších uzlů na Zemi; bez něj by se naše role ve světě rychle zmenšila. Je nezbytné, abychom nad ním uplatnili totální kontrolu, abychom ochránili schopnost projekce síly globálně." # todo: NEW TRANSLATION
+  liberate_the_quds_name: "Osvobození al-Quds" # todo: NEW TRANSLATION
+  liberate_the_quds_desc: "Sionisté příliš dlouho ovládali al-Quds, nastal čas, aby Osa odporu jednou provždy přetvarovala region." # todo: NEW TRANSLATION
+  faction_rule_modifier_nato_doctrine_tt: "§G20%§! snížení nákladů pro §HNáboje ideologie§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_csto_doctrine_tt: "§G90%§! snížení nákladů pro §UObsadit nároky§! mírovou akci" # todo: NEW TRANSLATION
   SHORT_TERM: "Krátkodobé" # todo: NEW TRANSLATION
   MEDIUM_TERM: "Střednědobé" # todo: NEW TRANSLATION
   LONG_TERM: "Dlouhodobé" # todo: NEW TRANSLATION
@@ -235,10 +237,13 @@
   joining_rule_israel_or_neighbors_states: "Izrael nebo sousední státy" # todo: NEW TRANSLATION
   joining_rule_baltic_black_sea_union: "Balticko-Černomořská unie" # todo: NEW TRANSLATION
   faction_peace_nato_doctrine: "Doktrína NATO" # todo: NEW TRANSLATION
+  faction_peace_csto_doctrine: "Doktrína CSTO" # todo: NEW TRANSLATION
   war_declaration_claimed_state: "Nárokovaný stát" # todo: NEW TRANSLATION
   rule_group_war_declaration_geography: "Geografie" # todo: NEW TRANSLATION
   war_declaration_european: "Evropský" # todo: NEW TRANSLATION
   call_to_war_rule_defensive_only: "Pouze obranné" # todo: NEW TRANSLATION
+  joining_rule_commonwealth_nation_only: "Člen Commonwealthu národů" # todo: NEW TRANSLATION
+  joining_rule_muslim_brotherhood_nations_only: "Moc Muslimského bratrstva" # todo: NEW TRANSLATION
   industrial_warfare: "Průmyslová válka" # todo: NEW TRANSLATION
   industrial_warfare_desc: "Války v moderních stoletích se rychle vyvíjejí; zbraně se přesunuly ze ruční výroby na průmyslové výrobní linky. V důsledku tohoto vývoje jsou státy schopny vyrobit větší množství výzbroje pro podporu vojáků na frontě." # todo: NEW TRANSLATION
   bosporus_controlled: "Bospor pod kontrolou" # todo: NEW TRANSLATION
@@ -247,3 +252,751 @@
   not_in_a_locked_faction_TT: "Není členem uzamčené frakce" # todo: NEW TRANSLATION
   not_in_a_locked_faction_TT_NOT: "Je v současné době členem uzamčené frakce" # todo: NEW TRANSLATION
   nato_25_per_capita_or_more_tt: "Všechny členy NATO mají HDP na obyvatele alespoň 25 tisíc" # todo: NEW TRANSLATION
+  FACTION_LEADER: "Vůdce frakce: §Y$COUNTRY$§!" # todo: NEW TRANSLATION
+  FACTION_MEMBER: "Člen frakce: §Y$COUNTRY$§!" # todo: NEW TRANSLATION
+  FACTION_CREATED_UNDER_MASTER_TITLE: "Připojeno k frakci Mistra" # todo: NEW TRANSLATION
+  FACTION_CREATED_UNDER_MASTER_MESSAGE: "Připojili jsme se společně k $FACTION|H$ frakci pod naším mistrem" # todo: NEW TRANSLATION
+  FACTION_NAME_GER_fascism: "Osa" # todo: NEW TRANSLATION
+  FACTION_NAME_GER_none: "Osa" # todo: NEW TRANSLATION
+  FACTION_NAME_IDEOLOGY_DEFAULT: "Stoupenci $IDEOLOGY$" # todo: NEW TRANSLATION
+  french_alliance: "Francouzská aliance" # todo: NEW TRANSLATION
+  the_berlin_moscow_axis: "Berlínsko-moskevská osa" # todo: NEW TRANSLATION
+  domination_francaise: "Domination Française" # todo: NEW TRANSLATION
+  french_entente_alliance: "Francouzsko-Ententní aliance" # todo: NEW TRANSLATION
+  daitoa_kyoeiken: "Daitoa Kyoeiken" # todo: NEW TRANSLATION
+  italy_empire_faction: "Novus Imperium Romanum" # todo: NEW TRANSLATION
+  chinese_united_front: "Čínská sjednocená fronta" # todo: NEW TRANSLATION
+  faction_template_wang_front: "Nanjingské fronty" # todo: NEW TRANSLATION
+  miedzymorze_faction: "Międzymorze" # todo: NEW TRANSLATION
+  Allies: "Spojenci" # todo: NEW TRANSLATION
+  Axis: "Osa" # todo: NEW TRANSLATION
+  Comintern: "Komintern" # todo: NEW TRANSLATION
+  western_pacific_sphere: "Západopacifická sféra" # todo: NEW TRANSLATION
+  south_west_pacific_initiative: "Iniciativa jihozápadního Pacifiku" # todo: NEW TRANSLATION
+  north_american_alliance: "Severoamerická aliance" # todo: NEW TRANSLATION
+  northern_sovereignty_coalition: "Koalice severní suverenity" # todo: NEW TRANSLATION
+  SAF_faction_uotap: "Africká lidová unie" # todo: NEW TRANSLATION
+  ROM_BALKAN_FACTION: "Bukurešťské dohody" # todo: NEW TRANSLATION
+  HUN_BALKAN_FACTION: "Balkánský pakt" # todo: NEW TRANSLATION
+  HUN_PACT_OF_ROME_FACTION: "Pakt z Říma" # todo: NEW TRANSLATION
+  ROM_CORDON_SANITAIRE_FACTION: "Cordon Sanitaire" # todo: NEW TRANSLATION
+  BALKAN_ENTENTE_FACTION: "Balkánská entente" # todo: NEW TRANSLATION
+  CZE_little_entente: "Česká entente" # todo: NEW TRANSLATION
+  GER_central_powers_faction: "Centrální mocnosti" # todo: NEW TRANSLATION
+  GER_anti_communist_bloc: "Proti-komunistický blok" # todo: NEW TRANSLATION
+  JAP_the_old_alliance: "Starý svaz" # todo: NEW TRANSLATION
+  JAP_the_new_international: "Nový mezinárodní svaz" # todo: NEW TRANSLATION
+  CHI_the_peoples_front: "Lidový front" # todo: NEW TRANSLATION
+  PRC_mao_faction: "Blok vzájemné pomoci" # todo: NEW TRANSLATION
+  USA_hemisphere_defense_faction: "Smlouva o vzájemné pomoci" # todo: NEW TRANSLATION
+  ENG_commonwealth_of_nations: "Společenství národů" # todo: NEW TRANSLATION
+  ENG_british_communist_alternative: "Britská komunistická alternativa" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_1: "Organizace pro mezinárodní bezpečnost" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_2: "Smlouva o světové obraně" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_3: "Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_4: "Předběžná obrana $CONTINENT$ smlouva" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_5: "$CONTINENT_ADJ$ Koalice" # todo: NEW TRANSLATION
+  FACTION_NAME_DEMOCRATIC_6: "$CONTINENT_ADJ$ Federace" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_1: "Iniciativa míru" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_2: "Liga sebeurčení" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_3: "Kolektivní $CONTINENT_ADJ$ Obranný pakt" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_4: "Pakt sebeurčení $CONTINENT_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_COMMUNIST_5: "Kompakt $LEADER_COUNTRY_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_1: "$CONTINENT_ADJ$ Kalifát" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_2: "Islámský kalifát $CONTINENT$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_3: "$LEADER_COUNTRY_ADJ$ Ummah" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_4: "Následovníci $LEADER_COUNTRY$" # todo: NEW TRANSLATION
+  FACTION_NAME_FASCIST_5: "Cesta spravedlnosti $CONTINENT_ADJ$" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_1: "Nevázané $CONTINENT_ADJ$ státy" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_2: "Nevázaná $CONTINENT_ADJ$ Organizace pro mír a stabilitu" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_3: "The $CONTINENT$ Aliance" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_4: "Konfederované $CONTINENT_ADJ$ národy" # todo: NEW TRANSLATION
+  FACTION_NAME_NONALIGNED_5: "Koalice $LEADER_COUNTRY$" # todo: NEW TRANSLATION
+  HOL_benelux: "Benelux" # todo: NEW TRANSLATION
+  european_union: "Evropská unie" # todo: NEW TRANSLATION
+  MTG_USA_NORTH_AMERICAN_DOMINION_FACTION: "Koalice" # todo: NEW TRANSLATION
+  anglo_italian_pact: "Anglo-italský pakt" # todo: NEW TRANSLATION
+  ENG_coalition_of_free_commonwealth_states: "Koalice svobodných států Commonwealthu" # todo: NEW TRANSLATION
+  FRA_stresa_front: "Frontal Stresa" # todo: NEW TRANSLATION
+  FRA_legitimist_faction: "Legitimistická aliance" # todo: NEW TRANSLATION
+  FRA_communist_faction: "Pařížské dohody" # todo: NEW TRANSLATION
+  SPA_latin_bloc: "Latinský blok" # todo: NEW TRANSLATION
+  SPC_international_bureau_of_revolutionary_socialist_unity: "Mezinárodní úřad revoluční socialistické jednoty" # todo: NEW TRANSLATION
+  POR_popular_front_bloc: "Blok lidového frontu" # todo: NEW TRANSLATION
+  POR_royal_iberian_alliance: "Královská iberská aliance" # todo: NEW TRANSLATION
+  FRA_confederation_of_the_rhine: "Confédération du Rhin" # todo: NEW TRANSLATION
+  FRA_continental_system: "Kontinentální systém" # todo: NEW TRANSLATION
+  FRA_orleanist_faction: "Proti-fašistický blok" # todo: NEW TRANSLATION
+  BUL_greater_bulgarian_federation: "Větší bulharská federace" # todo: NEW TRANSLATION
+  BUL_balkan_federation_democratic: "Liga balkánských konfederací" # todo: NEW TRANSLATION
+  GRE_argos_alliance: "Aliance Argos" # todo: NEW TRANSLATION
+  GRE_corfu_cooperative: "Korfu kooperativa" # todo: NEW TRANSLATION
+  TUR_balkan_pact: "Balkánská entente" # todo: NEW TRANSLATION
+  TUR_covenant_of_the_mediterranean: "Smlouva Středomoří" # todo: NEW TRANSLATION
+  TUR_anti_bolshevik_accord: "Dohoda proti bolševikům" # todo: NEW TRANSLATION
+  spazio_vitale: "Spazio Vitale" # todo: NEW TRANSLATION
+  the_smyrna_friendship_pact: "Smyrnský pakt" # todo: NEW TRANSLATION
+  the_saadabad_concordat: "Saadabádský konkorát" # todo: NEW TRANSLATION
+  POL_GER_ALLIANCE: "Listopadová aliance" # todo: NEW TRANSLATION
+  BROTHERHOOD: "Baltské bratrstvo" # todo: NEW TRANSLATION
+  BALTIC_ENTENTE_FACTION: "Baltská entente" # todo: NEW TRANSLATION
+  POL_baltic_alliance: "Baltská aliance" # todo: NEW TRANSLATION
+  FINNO_ESTONIAN_SUPREMACY_LEAGUE: "Ligaa finské nadřazenosti" # todo: NEW TRANSLATION
+  POL_habsburg_pact: "Habsburský pakt" # todo: NEW TRANSLATION
+  POL_LIT_SUPREMACY_LEAGUE: "Liga nadřazenosti Commonwealthu" # todo: NEW TRANSLATION
+  COMMONWEALTH_FACTION: "Aliance Commonwealthu" # todo: NEW TRANSLATION
+  NPTO: "Organizace severního pacifiku" # todo: NEW TRANSLATION
+  TRIPLE_ENTENTE: "Trojná entente" # todo: NEW TRANSLATION
+  ETH_organization_of_african_unity_faction: "Organizace africké jednoty" # todo: NEW TRANSLATION
+  ITA_united_socialist_front: "Jednotný socialistický front" # todo: NEW TRANSLATION
+  ITA_italian_confederation: "Italská konfederace" # todo: NEW TRANSLATION
+  ITA_free_states_of_europe: "Svobodné státy Evropy" # todo: NEW TRANSLATION
+  ITA_italian_league: "Italská liga" # todo: NEW TRANSLATION
+  scandinavian_defense_union: "Skandinávská obranná unie" # todo: NEW TRANSLATION
+  FIN_northern_defense_front_faction: "Severní obranný front" # todo: NEW TRANSLATION
+  FIN_finnish_supremacy_league: "Liga finské nadřazenosti" # todo: NEW TRANSLATION
+  NOR_northern_international: "Severní internacionala" # todo: NEW TRANSLATION
+  DEN_nordic_cooperation_alliance: "Aliance nordické spolupráce" # todo: NEW TRANSLATION
+  DEN_northern_national_front: "Severní národní fronta" # todo: NEW TRANSLATION
+  DEN_northern_security_pact: "Severní bezpečnostní pakt" # todo: NEW TRANSLATION
+  BRA_socialist_latin_american_cooperative: "Latinskoamerická socialistická kooperativa" # todo: NEW TRANSLATION
+  AUS_royal_alliance: "Královská imperiální aliance" # todo: NEW TRANSLATION
+  AUS_danubian_federation: "Dunajská federace" # todo: NEW TRANSLATION
+  AUS_danubian_bloc: "Dunajský blok" # todo: NEW TRANSLATION
+  AUS_alpine_federation: "Alpská federace" # todo: NEW TRANSLATION
+  AUS_central_european_alliance: "Aliance střední Evropy" # todo: NEW TRANSLATION
+  AUS_habsburg_alliance: "Habsburská aliance" # todo: NEW TRANSLATION
+  BEL_pride_of_the_golden_lion: "Pýcha zlatého lva" # todo: NEW TRANSLATION
+  BEL_european_union: "Evropská unie" # todo: NEW TRANSLATION
+  AFG_turko_persian_union: "Turecko-perská unie" # todo: NEW TRANSLATION
+  BEL_benelux_union_faction: "Beneluxská unie" # todo: NEW TRANSLATION
+  BEL_SPR_alliance: "Belgicko-španělská aliance" # todo: NEW TRANSLATION
+  PER_communist_faction: "Zálivová aliance" # todo: NEW TRANSLATION
+  eurasian_communist_bloc: "Svaz eurasijských sovětů" # todo: NEW TRANSLATION
+  PER_islamic_faction: "Islámské bratrství" # todo: NEW TRANSLATION
+  IRQ_arab_league_faction: "Liga arabských států" # todo: NEW TRANSLATION
+  IRQ_meto: "Středovýchodní smlouva o bezpečnosti" # todo: NEW TRANSLATION
+  SSB_faction: "Saadabádská aliance" # todo: NEW TRANSLATION
+  MAN_popular_front: "Lidový front" # todo: NEW TRANSLATION
+  PRC_the_peoples_front: "Lidový front" # todo: NEW TRANSLATION
+  PRC_asian_democratic_union_faction: "Asijská demokratická unie" # todo: NEW TRANSLATION
+  defensive_democratic_faction: "Defenzivní demokratická frakce" # todo: NEW TRANSLATION
+  regional_faction: "Regionální obranná smlouva" # todo: NEW TRANSLATION
+  coalition_of_liberty_faction: "Koalice svobody" # todo: NEW TRANSLATION
+  world_revolution_faction: "Světová revoluce" # todo: NEW TRANSLATION
+  bulwark_pact_faction: "Záštitný pakt" # todo: NEW TRANSLATION
+  industrial_powerhouse_faction: "Průmyslová charta" # todo: NEW TRANSLATION
+  african_unity_faction: "Africká jednota" # todo: NEW TRANSLATION
+  pan_american_faction: "Organizace amerických států" # todo: NEW TRANSLATION
+  PHI_hispanic_coalition: "Hispánská koalice" # todo: NEW TRANSLATION
+  european_unity_faction: "Evropská jednota" # todo: NEW TRANSLATION
+  asian_dominance_faction: "Asijské fronty" # todo: NEW TRANSLATION
+  middle_east_dominance_faction: "Středomořský pakt" # todo: NEW TRANSLATION
+  regional_anti_communist_faction: "Štít proti rudé hrozbě" # todo: NEW TRANSLATION
+  regional_anti_democratic_faction: "Železný pakt" # todo: NEW TRANSLATION
+  european_dominance_faction: "Evropské fronty" # todo: NEW TRANSLATION
+  FACTION_TITLE: "Frakce" # todo: NEW TRANSLATION
+  RULE_TYPE_ITEM_TOOLTIP: "Typ pravidla: $RULE_TYPE|H$" # todo: NEW TRANSLATION
+  RULE_MODIFIER_TOOLTIP: "Udílí modifier:\n$MODIFIER$" # todo: NEW TRANSLATION
+  FACTION_GOAL_ITEM_TOOLTIP: "Cíl frakce: $FACTION_GOAL|H$" # todo: NEW TRANSLATION
+  FACTION_GOAL_PROGRESS_TOOLTIP: "Progres: $PROGRESS|%0$" # todo: NEW TRANSLATION
+  unlock_faction_goal_effect_tt: "Odemkne cíl frakce §Y$GOALNAME$§!" # todo: NEW TRANSLATION
+  FACTION_PROGRESS_SECTION_DESC: "$NAME|Y$\n§gKdyž je progres mezi:§! $MIN|%Y$ §ga§! $MAX|%Y$§g:§!\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$" # todo: NEW TRANSLATION
+  usa_commonwealth_faction: "Americký Commonwealth" # todo: NEW TRANSLATION
+  joining_rules_applicability: "§gKdyž je aktivní, do naší Frakce se mohou přidat pouze země splňující následující podmínky:§!" # todo: NEW TRANSLATION
+  joining_rule_non_fascist: "Pouze nenacionalistické země" # todo: NEW TRANSLATION
+  joining_rule_non_democratic: "Pouze nedemokratické země" # todo: NEW TRANSLATION
+  joining_rule_non_communist: "Pouze ne-vznikající země" # todo: NEW TRANSLATION
+  joining_rule_fascist_only: "Pouze salafisté" # todo: NEW TRANSLATION
+  joining_rule_same_continent_only: "Pouze země na stejném kontinentu" # todo: NEW TRANSLATION
+  joining_rule_africa_only: "Pouze země v Africe" # todo: NEW TRANSLATION
+  joining_rule_americas_only: "Pouze země v Americe" # todo: NEW TRANSLATION
+  joining_rule_same_ideology: "Pouze se stejnou ideologií jako vůdce frakce" # todo: NEW TRANSLATION
+  joining_rule_all_the_world: "Celý svět" # todo: NEW TRANSLATION
+  joining_rule_china_only: "Pouze země v rámci Číny" # todo: NEW TRANSLATION
+  joining_rule_east_asia_only: "Pouze země ve Východní Asii" # todo: NEW TRANSLATION
+  joining_rule_puppets_only: "Pouze naše subjekty" # todo: NEW TRANSLATION
+  has_chinese_capital_state_tt: "Země s hlavním státem v Číně" # todo: NEW TRANSLATION
+  joining_rule_neighbors_only: "Pouze sousední země" # todo: NEW TRANSLATION
+  joining_rule_has_no_war: "Země v míru" # todo: NEW TRANSLATION
+  joining_rule_has_no_offensive_war: "Země bez útočných válek" # todo: NEW TRANSLATION
+  joining_rule_no_war_restriction: "Žádná válečná omezení" # todo: NEW TRANSLATION
+  joining_rule_asia_pacific_ocenania_only: "Pouze země v Asii a Oceánii" # todo: NEW TRANSLATION
+  joining_rule_asia_only: "Pouze země v Asii" # todo: NEW TRANSLATION
+  joining_rule_communist_only: "Pouze vznikající země" # todo: NEW TRANSLATION
+  joining_rule_democratic_non_aligned: "Demokratické nebo ne-zarovnané země" # todo: NEW TRANSLATION
+  joining_rule_support_percentage: "Stejná ideologie jako členové frakce" # todo: NEW TRANSLATION
+  joining_rule_nordics_only: "Pouze země v severských zemích" # todo: NEW TRANSLATION
+  has_nordic_capital_state_tt: "Hlavní stát se nachází v severských zemích" # todo: NEW TRANSLATION
+  joining_rule_baltics_only: "Pouze země v Pobaltí" # todo: NEW TRANSLATION
+  has_baltic_capital_state_tt: "Hlavní stát se nachází v Pobaltí" # todo: NEW TRANSLATION
+  joining_rule_islamic_only: "Islámské země" # todo: NEW TRANSLATION
+  is_islamic_country_tt: "Je islámskou zemí" # todo: NEW TRANSLATION
+  joining_rule_balkans_only: "Pouze země na Balkáně" # todo: NEW TRANSLATION
+  has_balkan_capital_state_tt: "Země s hlavním státem na Balkáně" # todo: NEW TRANSLATION
+  joining_rule_hispanic_only: "Hispánské země" # todo: NEW TRANSLATION
+  is_hispanic_country_tt: "Je hispánskou zemí" # todo: NEW TRANSLATION
+  war_declaration_rules_applicability: "§gKdyž je aktivní, války lze vyhlašovat pouze vůči zemím splňujícím následující podmínky:§!" # todo: NEW TRANSLATION
+  war_declaration_rule_any_country: "Jakákoli země" # todo: NEW TRANSLATION
+  war_declaration_rule_independent_countries_only: "Vyhlašující země je nezávislá" # todo: NEW TRANSLATION
+  war_declaration_rule_faction_leader_only: "Vyhlašující země je vůdce frakce" # todo: NEW TRANSLATION
+  war_declaration_rule_major_only: "Vyhlašující země je považována za velmoc" # todo: NEW TRANSLATION
+  war_declaration_generated_tension_10: "Cílová země vytvořila alespoň 10% světového napětí" # todo: NEW TRANSLATION
+  war_declaration_generated_tension_25: "Cílová země vytvořila alespoň 25% světového napětí" # todo: NEW TRANSLATION
+  war_declaration_threat_75: "Světové napětí je alespoň 75%" # todo: NEW TRANSLATION
+  war_declaration_threat_50: "Světové napětí je alespoň 50%" # todo: NEW TRANSLATION
+  war_declaration_threat_25: "Světové napětí je alespoň 25%" # todo: NEW TRANSLATION
+  generate_wargoal_threat_reduction_20: "Snížení hrozby pro ospravedlnění válečného cíle 20%" # todo: NEW TRANSLATION
+  generate_wargoal_threat_reduction_40: "Snížení hrozby pro ospravedlnění válečného cíle 40%" # todo: NEW TRANSLATION
+  call_to_war_rules_applicability: "§gKdyž je aktivní, pouze země splňující následující podmínky mohou volat členy frakce do války:§!" # todo: NEW TRANSLATION
+  call_to_war_rule_faction_leader_only: "Jen vůdce frakce" # todo: NEW TRANSLATION
+  call_to_war_rule_major_only: "Jen velmoci" # todo: NEW TRANSLATION
+  call_to_war_rule_independent_only: "Jen nezávislé země" # todo: NEW TRANSLATION
+  guarantee_threat_reduction_15: "Snížení napětí z garance 15%" # todo: NEW TRANSLATION
+  guarantee_threat_reduction_40: "Snížení napětí z garance 40%" # todo: NEW TRANSLATION
+  faction_peace_rule_puppeting_focus: "Instalovat loutky" # todo: NEW TRANSLATION
+  faction_peace_rule_liberation_focus: "Osvobodit ostatní" # todo: NEW TRANSLATION
+  faction_peace_rule_no_puppeting: "Odrazovat loutky" # todo: NEW TRANSLATION
+  faction_peace_take_claimed_focus: "Obnovit naše nároky" # todo: NEW TRANSLATION
+  faction_peace_rule_ideology_focus: "Rozšířit naši ideologii" # todo: NEW TRANSLATION
+  faction_peace_rule_conquest_focus: "Rozšířit naše území" # todo: NEW TRANSLATION
+  faction_peace_china_focus: "Rozšířit Čínu" # todo: NEW TRANSLATION
+  government_in_exile_allowed: "Vlády v exilu povoleny" # todo: NEW TRANSLATION
+  government_in_exile_not_allowed: "Vlády v exilu zakázány" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_liberate_tt: "§G20%§! snížení nákladů pro §YOsvobodit§! mírovou akci\n§R5%§! zvýšení nákladů pro §ZObsadit státy§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_puppet_tt: "§G20%§! snížení nákladů pro §YLoutka§! mírovou akci\n§R5%§! zvýšení nákladů pro §ZObsadit státy§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_discourage_puppet_tt: "§R100%§! zvýšení nákladů pro §YLoutka§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_force_government_tt: "§G20%§! snížení nákladů pro §YNucená změna vlády§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_take_states_tt: "§G10%§! snížení nákladů pro §ZObsadit státy§! mírovou akci\n§R5%§! zvýšení nákladů pro §YOsvobodit§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_take_claimed_states_tt: "§G20%§! snížení nákladů pro §ZObsadit státy§! mírovou akci na nárokovaných státech\n§R5%§! zvýšení nákladů pro §YLoutka§! mírovou akci" # todo: NEW TRANSLATION
+  faction_rule_modifier_encourage_chinese_states_tt: "§G5%§! snížení nákladů pro §ZObsadit státy§! a §YLoutka§! mírové akce na čínských jádrových státech" # todo: NEW TRANSLATION
+  manpower_contribution_disabled: "Bez požadavku na posily pro posádky" # todo: NEW TRANSLATION
+  manpower_contribution_small: "Omezený požadavek na posádky" # todo: NEW TRANSLATION
+  manpower_contribution_medium: "Střední požadavek na posádky" # todo: NEW TRANSLATION
+  manpower_contribution_high: "Vysoký požadavek na posádky" # todo: NEW TRANSLATION
+  dismissal_rules_applicability: "§gKdyž je aktivní, pouze země splňující jednu z následujících podmínek mohou být vyloučeny z naší Frakce:§!" # todo: NEW TRANSLATION
+  dismissal_rule_ideology_not_democratic: "Nedemokratické země" # todo: NEW TRANSLATION
+  dismissal_rule_ideology_not_communism: "Ne-vznikající země" # todo: NEW TRANSLATION
+  dismissal_rule_ideology_communist: "Vznikající země" # todo: NEW TRANSLATION
+  dismissal_rule_ideology_fascist: "Fašistické země" # todo: NEW TRANSLATION
+  dismissal_rule_ideology_democratic: "Demokratické země" # todo: NEW TRANSLATION
+  dismissal_rule_world_tension: "Ohrožující země" # todo: NEW TRANSLATION
+  dismissal_rule_offensive_war: "Země vedoucí nezávislé války" # todo: NEW TRANSLATION
+  change_leader_rules_applicability: "§gKdyž je aktivní, pouze země splňující následující podmínky mohou být způsobilé k vedení frakce:§!" # todo: NEW TRANSLATION
+  change_leader_rule_manifest_below_35: "Manifest frakce pod 35%" # todo: NEW TRANSLATION
+  change_leader_rule_never: "Nelze změnit vůdce" # todo: NEW TRANSLATION
+  change_leader_rule_manpower: "Kandidát převyšuje vůdce v lidské síle" # todo: NEW TRANSLATION
+  change_leader_rule_industry: "Kandidát převyšuje vůdce v průmyslu" # todo: NEW TRANSLATION
+  change_leader_rule_influence: "Kandidát převyšuje vůdce v influenci frakce" # todo: NEW TRANSLATION
+  ADD_FACTION_RULE_EFFECT: "Přidat pravidlo $RULE|H$ do $FACTION|H$" # todo: NEW TRANSLATION
+  REMOVE_FACTION_RULE_EFFECT: "Odebrat pravidlo $RULE|H$ z $FACTION|H$" # todo: NEW TRANSLATION
+  SET_FACTION_RULE_EFFECT: "Nastavit pravidlo frakce: $RULE|H$ pro $FACTION|H$" # todo: NEW TRANSLATION
+  SET_FACTION_MEMBER_UPGRADE_MIN: "Nastavit $UPGRADENAME|H$ na alespoň: $MIN|%H$ pro $FACTION|H$" # todo: NEW TRANSLATION
+  SET_FACTION_UPGRADE: "Nastavit $UPGRADENAME|H$ pro $FACTIONNAME|H$" # todo: NEW TRANSLATION
+  SET_FACTION_UPGRADE_NO_FACTION: "Nastavit $UPGRADENAME|H$ pro frakci" # todo: NEW TRANSLATION
+  SET_FACTION_MEMBER_UPGRADE: "Nastavit $UPGRADENAME|H$ pro $COUNTRYNAME|H$" # todo: NEW TRANSLATION
+  SET_FACTION_MEMBER_UPGRADE_NO_FACTION: "Nastavit $UPGRADENAME|H$ pro $COUNTRYNAME|H$" # todo: NEW TRANSLATION
+  SET_FACTION_MANIFEST_EFFECT: "Změnit manifest $FACTION|H$ na $GOAL|H$" # todo: NEW TRANSLATION
+  ADD_FACTION_GOAL_EFFECT: "Přidat cíl frakce $GOAL|H$ do $FACTION|H$" # todo: NEW TRANSLATION
+  REMOVE_FACTION_GOAL_EFFECT: "Odebrat $GOAL|H$ z $FACTION|H$" # todo: NEW TRANSLATION
+  ADD_FACTION_INITIATIVE_EFFECT: "Přidat $AMOUNT|H0$ iniciativy frakce pro $FACTION|H$" # todo: NEW TRANSLATION
+  ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Frakce získá $AMOUNT|H0$ iniciativních bodů" # todo: NEW TRANSLATION
+  ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Přidat $VAL$ §YVliv frakce§! při pobytu ve frakci k $COUNTRY|H$" # todo: NEW TRANSLATION
+  ADD_FACTION_INFLUENCE_EFFECT: "Zvýší §YVliv frakce§! pro $COUNTRY|H$ o $VAL$ ve $FACTION|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_VALUE: "$VAL|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_RATIO: "$VAL|H%$" # todo: NEW TRANSLATION
+  FACTION_RATIO: "$VAL|H%$" # todo: NEW TRANSLATION
+  ADD_FACTION_POWER_PROJECTION_EFFECT: "Přidat $VAL|H0$ projekce síly frakce v $FACTION|H$" # todo: NEW TRANSLATION
+  ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "Přidat $VAL|H0$ projekce síly frakce" # todo: NEW TRANSLATION
+  FACTION_ADD_EXTRA_GOAL_SLOT: "Přidat $VAL|+0$ slot pro cíl $CATEGORY|H$ do $FACTION|H$" # todo: NEW TRANSLATION
+  FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Přidat $VAL|+0$ slot pro cíl $CATEGORY|H$ do vaší frakce" # todo: NEW TRANSLATION
+  TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$ je ve frakci $FACTION|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$ není ve frakci $FACTION|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ překonává současného vůdce frakce a jeho subjekty v nasazené lidské síle. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ nepřekonává současného vůdce frakce a jeho subjekty v nasazené lidské síle. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ má více vlivu ve frakci než vůdce frakce. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ nemá více vlivu ve frakci než vůdce frakce. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ převyšuje vůdce frakce v počtu továren. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ nepřevyšuje vůdce frakce v počtu továren. $MISSING_EXPL$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_FACTION_TAB_UNLOCKED: "Odemkl $TAB|H$ ve své frakci" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_FACTION_TAB_UNLOCKED: "Nemá odemčené $TAB|H$ ve své frakci" # todo: NEW TRANSLATION
+  TRIGGER_MISSING_EXPL: "Aktuálně: $CURRENT|H*$, Minimálně potřebné: $MIN_NEED|H*$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ má cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ nemá cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ dokončil cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ nedokončil cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+  TRIGGER_HAS_POLITICAL_SUPPORT: "$COUNTRY|H$ má stejnou ideologii $IDEOLOGY|H$ jako vůdce." # todo: NEW TRANSLATION
+  TRIGGER_HAS_NOT_POLITICAL_SUPPORT: "$COUNTRY|H$ nemá stejnou ideologii $IDEOLOGY|H$ jako vůdce." # todo: NEW TRANSLATION
+  FACTION_MANIFEST_FULFILLMENT_LESS_THAN: "Plnění manifestu frakce je menší než $VALUE|%0H$" # todo: NEW TRANSLATION
+  FACTION_MANIFEST_FULFILLMENT_MORE_THAN: "Plnění manifestu frakce je větší než $VALUE|%0H$" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_LESS_THAN: "Má méně než $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_MORE_THAN: "Má více než $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_UPGRADE_EQUALS: "Má $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_MEMBER_UPGRADE_LESS_THAN: "$COUNTRYNAME|H$ má méně než $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_MEMBER_UPGRADE_MORE_THAN: "$COUNTRYNAME|H$ má více než $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_MEMBER_UPGRADE_EQUALS: "$COUNTRYNAME|H$ má $UPGRADENAME|H$ ve frakci" # todo: NEW TRANSLATION
+  FACTION_GOAL_FULFILLMENT_IN_RANGE: "Plnění $GOAL|H$ je mezi $MIN|%0H$ a $MAX|%0H$" # todo: NEW TRANSLATION
+  FACTION_GOAL_FULFILLMENT_NOT_IN_RANGE: "Plnění $GOAL|H$ je menší než $MIN|%0H$ nebo větší než $MAX|%0H$" # todo: NEW TRANSLATION
+  FACTION_GOAL_FULFILLMENT_LESS_THAN: "Plnění $GOAL|H$ je menší než $VALUE|%0H$" # todo: NEW TRANSLATION
+  FACTION_GOAL_FULFILLMENT_MORE_THAN: "Plnění $GOAL|H$ je větší než $VALUE|%0H$" # todo: NEW TRANSLATION
+  FACTION_POWER_PROJECTION_LESS_THAN: "Projekce síly frakce je menší než $VALUE|H$" # todo: NEW TRANSLATION
+  FACTION_POWER_PROJECTION_MORE_THAN: "Projekce síly frakce je větší než $VALUE|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_LESS_THAN: "Vliv frakce je menší než $VALUE|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_MORE_THAN: "Vliv frakce je větší než $VALUE|H$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_RANK_LESS_THAN: "Pořadí vlivu frakce je menší než $VALUE|H0$" # todo: NEW TRANSLATION
+  FACTION_INFLUENCE_RANK_MORE_THAN: "Pořadí vlivu frakce je větší než $VALUE|H0$" # todo: NEW TRANSLATION
+  guardians_of_peace_been_at_war_flag: "Byl ve válce" # todo: NEW TRANSLATION
+  rule_group_geographical: "Geografické" # todo: NEW TRANSLATION
+  rule_group_ideology_allies: "Spojenci" # todo: NEW TRANSLATION
+  rule_group_ideology: "Ideologie" # todo: NEW TRANSLATION
+  rule_group_war: "Válka a mír" # todo: NEW TRANSLATION
+  rule_group_war_declaration: "Vyhlášení války" # todo: NEW TRANSLATION
+  rule_group_war_declaration_declarer: "Vyhlašující země" # todo: NEW TRANSLATION
+  rule_group_war_declaration_target: "Cílová země" # todo: NEW TRANSLATION
+  rule_group_war_declaration_situation: "Světová situace" # todo: NEW TRANSLATION
+  rule_group_generate_wargoal_threat: "Ospravedlnění" # todo: NEW TRANSLATION
+  rule_group_member_rules: "Pravidla členství" # todo: NEW TRANSLATION
+  rule_group_manpower: "Lidská síla" # todo: NEW TRANSLATION
+  manpower_contribution_rule: "Příspěvek lidské síly" # todo: NEW TRANSLATION
+  contribution_rule: "Jaké limity příspěvků bychom měli nastavit?" # todo: NEW TRANSLATION
+  contribution_rule_applicability: "" # todo: NEW TRANSLATION
+  rule_group_dismissal_ideology: "Ideologie" # todo: NEW TRANSLATION
+  rule_group_dismissal_actions: "Akce" # todo: NEW TRANSLATION
+  rule_group_call_to_war: "Volající" # todo: NEW TRANSLATION
+  rule_group_guarantee: "Snížení napětí z garance" # todo: NEW TRANSLATION
+  rule_group_war_relation: "Válečné vztahy" # todo: NEW TRANSLATION
+  rule_group_peace_rules: "Pravidla míru" # todo: NEW TRANSLATION
+  rule_group_leader_faction: "Požadavky na vůdce frakce" # todo: NEW TRANSLATION
+  rule_group_leader_industry: "Průmyslové požadavky na vůdce" # todo: NEW TRANSLATION
+  rule_group_leader_manpower: "Požadavky na lidskou sílu vůdce" # todo: NEW TRANSLATION
+  rule_group_gie_rules: "Vláda v exilu" # todo: NEW TRANSLATION
+  war_declaration_rules: "Kdy můžeme vyhlásit válku?" # todo: NEW TRANSLATION
+  member_rules: "Podporujeme obsazené členy?" # todo: NEW TRANSLATION
+  member_rules_applicability: "" # todo: NEW TRANSLATION
+  joining_rules: "Kdo se může přidat do frakce?" # todo: NEW TRANSLATION
+  call_to_war_rules: "Kdo může svolat členy do války?" # todo: NEW TRANSLATION
+  peace_conference_rules: "Jak se máme chovat při mírových konferencích?" # todo: NEW TRANSLATION
+  peace_conference_rules_applicability: "" # todo: NEW TRANSLATION
+  dismissal_rules: "Kdo může být odstraněn z frakce?" # todo: NEW TRANSLATION
+  change_leader_rules: "Kdy může být změněn náš vůdce?" # todo: NEW TRANSLATION
+  low_progress: "Nízký postup" # todo: NEW TRANSLATION
+  medium_progress: "Střední postup" # todo: NEW TRANSLATION
+  high_progress: "Vysoký postup" # todo: NEW TRANSLATION
+  manifest_fulfilled: "Manifest splněn" # todo: NEW TRANSLATION
+  GLOBAL_RESOURCE_EXTRACTED_TOTAL_DESC: "Celkové množství zdrojů vytěžených celosvětově" # todo: NEW TRANSLATION
+  FACTION_RESOURCE_EXTRACTED_TOTAL_DESC: "Celkové množství zdrojů vytěžených členy frakce" # todo: NEW TRANSLATION
+  defense_of_democracy_goal_name: "Obrana demokracie" # todo: NEW TRANSLATION
+  defense_of_democracy_goal_desc: "Demokracie je ohrožena. Musíme spolupracovat, aby demokratické země na světě nepadaly jedna po druhé." # todo: NEW TRANSLATION
+  containment_of_communism_goal_name: "Zadržení světového vznikajícího hnutí" # todo: NEW TRANSLATION
+  containment_of_communism_goal_desc: "Svět nemůže být v bezpečí, dokud nebude potlačena hrozba vznikajícího." # todo: NEW TRANSLATION
+  suppress_regional_fascism_goal_name: "Potlačit fašismus" # todo: NEW TRANSLATION
+  suppress_regional_fascism_goal_desc: "Fašismus se šíří jako požár. Čím více zemí padne do jeho spárů, tím nebezpečnější bude situace kolem nás." # todo: NEW TRANSLATION
+  suppress_regional_communism_goal_name: "Potlačit komunismus v [ROOT.GetCountryContinent]" # todo: NEW TRANSLATION
+  suppress_regional_communism_goal_desc: "Musíme udělat cokoliv, co je potřeba, abychom udrželi co nejvíce z [ROOT.GetCountryContinent] svobodné od komunistického jha." # todo: NEW TRANSLATION
+  regional_expansionism_goal_name: "Expanze v [ROOT.GetCountryContinent]" # todo: NEW TRANSLATION
+  regional_expansionism_goal_desc: "Naše frakce by měla převzít vedení a dominovat v [ROOT.GetCountryContinent]" # todo: NEW TRANSLATION
+  suppress_regional_democracy_goal_name: "Potlačit demokracii" # todo: NEW TRANSLATION
+  suppress_regional_democracy_goal_desc: "Takzvané demokratické státy jsou největší hrozbou pro naše ideály. Musíme zajistit, aby kontrolovaly pouze menšinu [ROOT.GetCountryContinent]." # todo: NEW TRANSLATION
+  between_the_seas_goal_name: "Mezi moři" # todo: NEW TRANSLATION
+  between_the_seas_goal_desc: "Vytvořením pevné zdi spojeneckých území od Černého moře po Baltské moře můžeme odolat jakékoli možné hrozbě." # todo: NEW TRANSLATION
+  little_entente_goal_name: "Prosadit pařížské mírové smlouvy" # todo: NEW TRANSLATION
+  little_entente_goal_desc: "Pařížské mírové smlouvy vymezily hranice [GER.GetName], [HUN.GetName], [BUL.GetName] a [AUS.GetName]. Naším hlavním cílem je zajistit, aby tyto země nezačaly anektovat příhraniční území a znovu neničit mír v Evropě." # todo: NEW TRANSLATION
+  china_territorial_integrity_goal_name: "Územní celistvost" # todo: NEW TRANSLATION
+  china_territorial_integrity_goal_desc: "Čína by měla být osvobozena a sjednocena pod jednou vládnoucí stranou. Pouze znovuzískáním kontroly nad našimi teritorii od vnějších a vnitřních nepřátel můžeme vrátit Číně slávu." # todo: NEW TRANSLATION
+  china_chinese_consolidation_goal_name: "Čínská konsolidace" # todo: NEW TRANSLATION
+  china_wang_front_expansion_name: "Vítězství nad imperialismem" # todo: NEW TRANSLATION
+  china_wang_front_expansion_desc: "Je čas čelit vlivu koloniálních mocností ve Východní Asii. Musíme vybudovat vlastní mocenský blok v regionu, aby nás již nikdy nikdo nedominoval." # todo: NEW TRANSLATION
+  china_asian_democratic_union_name: "$china_wang_front_expansion_name$" # todo: NEW TRANSLATION
+  china_asian_democratic_union_desc: "$china_wang_front_expansion_desc$" # todo: NEW TRANSLATION
+  strength_in_unity_goal_name: "Síla v jednotě" # todo: NEW TRANSLATION
+  strength_in_unity_goal_desc: "Země v našem koutě světa by měly stát spolu. Vytvořením silné frakce máme nejlepší šanci zůstat nezávislí a neutrální." # todo: NEW TRANSLATION
+  conquest_of_territory_goal_name: "Dobytí a dominace" # todo: NEW TRANSLATION
+  conquest_of_territory_goal_desc: "V nepřátelském světě je expanze nezbytná pro přežití. Expanzí vytváříme nárazníkové zóny a získáváme přístup k většímu množství zdrojů." # todo: NEW TRANSLATION
+  spread_of_communism_goal_name: "Světová revoluce" # todo: NEW TRANSLATION
+  spread_of_communism_goal_desc: "Nastal čas, aby se masy vzbouřily. Tam, kde se masa nemůže vzbouřit sama, musíme jí pomoci silou zbraní." # todo: NEW TRANSLATION
+  control_of_the_balkans_goal_name: "Bezpečnost Balkánu" # todo: NEW TRANSLATION
+  control_of_the_balkans_goal_desc: "Vnější mocnosti se vždy snažily rozšířit svůj vliv na Balkán. Musíme zajistit, že stojíme pevně spolu a čelíme jakýmkoli zahraničním vniknutím do regionu." # todo: NEW TRANSLATION
+  african_decolonization_goal_name: "Dekolonizace Afriky" # todo: NEW TRANSLATION
+  african_decolonization_goal_desc: "Nastal čas, aby Afrika vstala proti svým protihráčům a utlačovatelům. Musíme kontinent osvobodit, pokud bude třeba i silou!" # todo: NEW TRANSLATION
+  habsburg_hegemony_goal_name: "Habsburská hegemonie" # todo: NEW TRANSLATION
+  habsburg_hegemony_goal_desc: "Rodina je nejdůležitější částí jakéhokoli svazu a naše aliance není výjimkou. Musíme zajistit koruny Evropy a rozšířit náš vliv napříč kontinenty." # todo: NEW TRANSLATION
+  indifference_is_a_threat_goal_name: "Lhostejnost je hrozba" # todo: NEW TRANSLATION
+  indifference_is_a_threat_goal_desc: "S velkým konfliktem téměř nevyhnutelným v Evropě musíme zajistit, že nebude žádné překvapení. Jakákoli země, která odmítá zaujmout stranu, musí být odstraněna." # todo: NEW TRANSLATION
+  security_through_expansion_goal_name: "Bezpečnost prostřednictvím expanze" # todo: NEW TRANSLATION
+  security_through_expansion_goal_desc: "Musíme vytvořit štít kolem našeho území a zajistit prsten států kolem našich hranic." # todo: NEW TRANSLATION
+  an_iron_curtain_goal_name: "Železná opona" # todo: NEW TRANSLATION
+  an_iron_curtain_goal_name_desc: "Abychom lépe chránili vlast, musíme vytvořit závěs loutkových států kolem nás, aby odrutli nežádoucí návštěvníky." # todo: NEW TRANSLATION
+  eastern_european_security_goal_name: "Bezpečnost východní Evropy" # todo: NEW TRANSLATION
+  eastern_european_security_goal_desc: "Abychom lépe chránili naše zájmy ve východní Evropě, musíme zasáhnout a nastolit režimy podobného smýšlení na našem západě." # todo: NEW TRANSLATION
+  mare_nostrum_goal_name: "Mare Nostrum" # todo: NEW TRANSLATION
+  mare_nostrum_goal_desc: "Vždycky bylo snem našeho lidu proměnit Středozemní moře v naše vnitrozemské moře. Nastal čas proměnit tento sen v realitu!" # todo: NEW TRANSLATION
+  pax_romana_goal_name: "Pax Romana" # todo: NEW TRANSLATION
+  pax_romana_goal_desc: "Vždycky bylo snem našeho lidu vrátit slávu Římské říše. Nastal čas proměnit tento sen v realitu!" # todo: NEW TRANSLATION
+  building_up_guam_goal_name: "Rozšířit námořní základnu na Guamu" # todo: NEW TRANSLATION
+  building_up_guam_goal_desc: "Musíme zajistit spojení s [PHI.GetNameDef], pro případ konfliktu s [JAP.GetName]. Navíc by bylo výhodné mít blíže umístěný odrazový bod pro naše námořnictvo, pokud bychom někdy vstoupili do války s [JAP.GetAdjective]. [638.GetName] se k tomu perfektně hodí." # todo: NEW TRANSLATION
+  the_two_seas_goal_name: "Zajistit přítomnost v Baltském a Černém moři" # todo: NEW TRANSLATION
+  the_two_seas_goal_desc: "Musíme zajistit silnou námořní přítomnost jak v Baltském, tak i v Černém moři." # todo: NEW TRANSLATION
+  one_germany_goal_name: "Sjednotit německé státy" # todo: NEW TRANSLATION
+  one_germany_goal_desc: "Abychom vybudovali silnou a jednotnou mocenskou bázi, musíme nejdříve zajistit, že Německo bude silné a jednotné. Pařížské mírové dohody zakazovaly jakékoli sjednocení Německa. Nyní je čas dokázat, že nejsme svázáni zbytečnými smlouvami." # todo: NEW TRANSLATION
+  guardians_of_peace_goal_name: "Udržet globální mír" # todo: NEW TRANSLATION
+  guardians_of_peace_goal_desc: "Na obzoru se tvoří bouřková mračna. Musíme zabránit tomu, aby válka vypukla příliš brzy, aby naše aliance měla čas se řádně připravit na nevyhnutelný konflikt." # todo: NEW TRANSLATION
+  growing_the_faction: "Rozšiřovat frakci" # todo: NEW TRANSLATION
+  growing_the_faction_desc: "Naše frakce musí mít více členů, chceme-li být bráni vážně na geopolitické scéně." # todo: NEW TRANSLATION
+  a_large_faction_goal_name: "Pozvat více zemí do naší frakce" # todo: NEW TRANSLATION
+  a_large_faction_goal_desc: "Tím, že vyrosteme ještě více, bude naše frakce schopna prosazovat svůj vliv ještě dál." # todo: NEW TRANSLATION
+  preemptive_strike_on_fascism_goal_name: "Zahájit preventivní úder proti fašistické zemi" # todo: NEW TRANSLATION
+  preemptive_strike_on_fascism_goal_desc: "Neměli bychom čekat, až nás zasáhnou. Musíme zajistit, že máme iniciativu." # todo: NEW TRANSLATION
+  a_great_fortress_goal_name: "Vybudovat silnější opevnění" # todo: NEW TRANSLATION
+  a_great_fortress_goal_desc: "Připravenost je klíčová. Zajištěním hraničních regionů a klíčových bodů moderními opevněními zajistíme, že nepřítel nás nemůže porazit." # todo: NEW TRANSLATION
+  aggressive_defense_goal_name: "Uštědřit rány agresorům" # todo: NEW TRANSLATION
+  aggressive_defense_goal_desc: "Nevzdáme ani palec nepříteli. Naši vojáci musí být přesvědčeni, že klíčem není umírat za vlast, ale přinutit nepřítele umírat za svou." # todo: NEW TRANSLATION
+  war_on_communism_goal_name: "Vyhlásit válku vznikajícím" # todo: NEW TRANSLATION
+  war_on_communism_goal_desc: "Musíme zabránit šíření vznikající doktríny za každou cenu." # todo: NEW TRANSLATION
+  war_on_democracy_goal_name: "Vyhlásit válku demokracii" # todo: NEW TRANSLATION
+  war_on_democracy_goal_desc: "Musíme udeřit na naše ideologické nepřátele." # todo: NEW TRANSLATION
+  defeat_of_communism_goal_name: "Porazit vznikající" # todo: NEW TRANSLATION
+  defeat_of_communism_goal_desc: "Abychom porazili světový vznikající proud, musíme začít doma a eradikovat vznikající v naší části světa." # todo: NEW TRANSLATION
+  defeat_of_fascism_goal_name: "Porazit fašismus" # todo: NEW TRANSLATION
+  defeat_of_fascism_goal_desc: "Abychom zastavili šíření fašismu jednou provždy, musíme začít doma a eradikovat fašismus v naší části světa." # todo: NEW TRANSLATION
+  defeat_of_anti_communists_goal_name: "Porazit kontrarevolucionáře" # todo: NEW TRANSLATION
+  defeat_of_anti_communists_goal_desc: "Prvním krokem k světové revoluci je úspěšné přesvědčení regionálních mocností, které se jí stavějí na odpor. Proto musíme nejdříve odstranit jakékoli hrozby na našem kontinentu." # todo: NEW TRANSLATION
+  defeat_of_anti_fascists_goal_name: "Šířit fašismus na kontinentu" # todo: NEW TRANSLATION
+  defeat_of_anti_fascists_goal_desc: "Musíme si klást za cíl zničit proti-fašistické vlády na našem kontinentu." # todo: NEW TRANSLATION
+  defeating_our_enemies_goal_name: "Vyhrát válku" # todo: NEW TRANSLATION
+  defeating_our_enemies_goal_desc: "Časy jsou nejisté a válka je nevyhnutelná. Musíme zajistit, že ať přijde jakkoli, skončíme na vítězné straně." # todo: NEW TRANSLATION
+  is_victor_in_pc_tt: "Je na vítězné straně v mírové konferenci" # todo: NEW TRANSLATION
+  a_military_base_goal_name: "Rozšířit vojenský průmysl" # todo: NEW TRANSLATION
+  a_military_base_goal_desc: "Křížová výprava proti vznikajícím vyžaduje zbraně. Abychom mohli vyrábět zbraně ve velkém, potřebujeme silný vojenský průmysl." # todo: NEW TRANSLATION
+  a_military_base_tech_bonus: "$a_military_base_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  resource_control_goal_name: "Zabezpečit strategické zdroje" # todo: NEW TRANSLATION
+  resource_control_goal_desc: "Frakce musí zajistit, že má zdroje potřebné k čelení jakékoli hrozbě ve světě" # todo: NEW TRANSLATION
+  secure_european_continent_goal_name: "Zřídit Pevninu Evropa" # todo: NEW TRANSLATION
+  secure_european_continent_goal_desc: "Musíme zajistit, že evropský kontinent je v souznění s naší věcí. [faction.GetName] by měla vládnout Evropě." # todo: NEW TRANSLATION
+  secure_north_africa_goal_name: "Zajistit severní Afriku" # todo: NEW TRANSLATION
+  secure_north_africa_goal_desc: "Měli bychom usilovat o dominanci nejen v Evropě, ale také zajistit, že získáme víc než jen oporu v severní Africe." # todo: NEW TRANSLATION
+  an_armored_fist_goal_name: "Rozšířit naše obrněné síly" # todo: NEW TRANSLATION
+  an_armored_fist_goal_desc: "Nové doby vytvářejí příležitosti pro novou válku. Tanky jsou budoucnost. Musíme zajistit, že jako frakce jich máme dost, abychom dominovali bojišti." # todo: NEW TRANSLATION
+  an_infantry_army_goal_name: "Rozšířit naše pěší síly" # todo: NEW TRANSLATION
+  an_infantry_army_goal_desc: "Základ každé armády tvoří pěchota. Potřebujeme značnou pěchotu, která podpoří naše nároky diplomacii i na bojišti." # todo: NEW TRANSLATION
+  high_seas_fleet_goal_name: "Rozšířit flotilu kapitálních lodí" # todo: NEW TRANSLATION
+  high_seas_fleet_goal_desc: "Zajištění, že naši nepřátelé nekontrolují Severní Atlantik, je zásadní pro naše operace. Pokud to narušíme, nejen že neproděláme účinky námořní blokády, ale naše flotily se také budou moci volně pohybovat." # todo: NEW TRANSLATION
+  high_seas_fleet_tech_bonus: "$high_seas_fleet_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  control_the_chinese_coast_goal_name: "Udržet kontrolu nad pobřežím" # todo: NEW TRANSLATION
+  control_the_chinese_coast_goal_desc: "Pokud budeme napadeni, měli bychom usilovat o zachování přístupu k moři co nejdéle. Naše přežití souvisí s možností přijímat zásilky z přes moře." # todo: NEW TRANSLATION
+  guerilla_expansion_goal_name: "Organizovat odpor" # todo: NEW TRANSLATION
+  guerilla_expansion_goal_desc: "Možná nebudeme schopni soupeřit s vetřelci na jejich podmínky, proto s nimi budeme soutěžit na našich vlastních podmínkách." # todo: NEW TRANSLATION
+  industrial_expansion_goal_name: "Průmyslová expanze" # todo: NEW TRANSLATION
+  industrial_expansion_goal_desc: "Nejlepší způsob, jak vytvořit silnou frakci, je mít silnou průmyslovou základnu. Musíme zajistit průmyslovou sílu potřebnou stát se důležitou mocností." # todo: NEW TRANSLATION
+  industrial_domination_goal_name: "Rozšířit civilní průmysl" # todo: NEW TRANSLATION
+  industrial_domination_goal_desc: "Moderní válka je o výrobních kapacitách. Zajistěme, abychom měli největší průmyslové možnosti, jaké svět kdy viděl." # todo: NEW TRANSLATION
+  industrial_expansion_tech_bonus: "$industrial_expansion_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  industrial_research_goal_name: "Výzkum $construction4$" # todo: NEW TRANSLATION
+  industrial_research_goal_desc: "Abychom se stali dominantním hráčem, musíme zajistit, že v rámci frakce máme průmyslové know-how." # todo: NEW TRANSLATION
+  secure_chinese_waters_goal_name: "Zajistit čínské vody" # todo: NEW TRANSLATION
+  secure_chinese_waters_goal_desc: "Můžeme dominovat na souši, ale s dlouhým pobřežím je nejvyšší prioritou zajistit, aby nás nikdo nemohl napadnout. Tato bezpečnost začíná daleko na moři." # todo: NEW TRANSLATION
+  faction_goal_subjugate_the_faction_name: "Podrobit frakci" # todo: NEW TRANSLATION
+  faction_goal_subjugate_the_faction_desc: "Jediný způsob, jak odolat náporu cizích vetřelců, je předvést jednotné fronty se silným vedením. Z mnoha hlasů zazní velký sbor." # todo: NEW TRANSLATION
+  faction_goal_north_subjugated_name: "Podrobit sever" # todo: NEW TRANSLATION
+  faction_goal_north_subjugated_desc: "Kdybychom se intenzivně snažili integrovat tuto část naší frakce, zbytek vojenských velitelů pochopí, kterým směrem vítr vane, a zařadí se." # todo: NEW TRANSLATION
+  faction_goal_west_subjugated_name: "Podrobit západ" # todo: NEW TRANSLATION
+  faction_goal_west_subjugated_desc: "Kdybychom se intenzivně snažili integrovat tuto část naší frakce, zbytek vojenských velitelů pochopí, kterým směrem vítr vane, a zařadí se." # todo: NEW TRANSLATION
+  faction_goal_south_subjugated_name: "Podrobit jih" # todo: NEW TRANSLATION
+  faction_goal_south_subjugated_desc: "Kdybychom se intenzivně snažili integrovat tuto část naší frakce, zbytek vojenských velitelů pochopí, kterým směrem vítr vane, a zařadí se." # todo: NEW TRANSLATION
+  faction_goal_no_japanese_in_china_name: "Vyhnat vetřelce" # todo: NEW TRANSLATION
+  faction_goal_no_japanese_in_china_desc: "Příliš dlouho Japonsko utlačovalo náš lid. Už jim nesmí být dovoleno zůstat v Číně." # todo: NEW TRANSLATION
+  faction_goal_the_northern_mandate_name: "Ovládnout východní Sibiř" # todo: NEW TRANSLATION
+  faction_goal_the_northern_mandate_desc: "Aby se náš lid mohl prospívat, potřebujeme území a zdroje, které lze nalézt na Sibiři. Současná kontrola je není schopna řádně využít, takže na ně máme nárok." # todo: NEW TRANSLATION
+  faction_goal_the_southern_mandate_name: "Ovládnout jihovýchodní Asii" # todo: NEW TRANSLATION
+  faction_goal_the_southern_mandate_desc: "V zářné minulosti jsme uplatňovali vliv v oblastech na jih od nás a uděláme to znovu. Bohatství v této oblasti nám umožní mnoho věcí." # todo: NEW TRANSLATION
+  faction_goal_the_greater_game_name: "Ovládnout Střední Asii" # todo: NEW TRANSLATION
+  faction_goal_the_greater_game_desc: "Císařství se snažila uvalit svou vůli na Střední Asii a byla odražena. Naše hodina přišla, abychom znovu postupovali na západ a přes stepi." # todo: NEW TRANSLATION
+  suppress_asian_communism_goal_name: "Potlačit asijský vznikající" # todo: NEW TRANSLATION
+  suppress_asian_communism_goal_desc: "Vznikající je hrozba pro tradiční způsoby života, pro přirozený řád věcí. Musíme se sjednotit a porazit vznikající kdekoliv se ukáže." # todo: NEW TRANSLATION
+  strategic_resource_control_goal_name: "Kontrola strategických zdrojů" # todo: NEW TRANSLATION
+  strategic_resource_control_goal_desc: "Ten, kdo ovládá strategické zdroje světa, ovládá politiku světa." # todo: NEW TRANSLATION
+  align_china_goal_name: "Zarovnat Čínu" # todo: NEW TRANSLATION
+  align_china_goal_desc: "Čínské frakce a hrozba, kterou představují, je třeba dostat pod kontrolu. Nejlepší řešení je nahradit je příznivě nakloněným režimem." # todo: NEW TRANSLATION
+  control_the_chinese_capitals_goal_name: "Ovládnout čínská hlavní města" # todo: NEW TRANSLATION
+  control_the_chinese_capitals_goal_desc: "Jestliže získáme kontrolu nad historickými hlavními městy Číny, odpor vůči našim plánům se jistě zmenší." # todo: NEW TRANSLATION
+  war_on_communism_in_asia_goal_name: "Vyhlásit válku vznikajícím v Asii" # todo: NEW TRANSLATION
+  war_on_communism_in_asia_goal_desc: "Existuje jen jeden způsob, jak skutečně porazit vznikající; silou zbraní. Musíme vymýtit vznikající v celé Asii, chceme-li být někdy v bezpečí před jeho vlivem." # todo: NEW TRANSLATION
+  coastal_security_goal_name: "Kontrola pobřeží" # todo: NEW TRANSLATION
+  coastal_security_goal_desc: "Měli bychom zajistit úplnou kontrolu celého pobřeží Východní a Jihovýchodní Asie. Tak můžeme zajistit, aby západní imperialisté neměli oporu v našem regionu." # todo: NEW TRANSLATION
+  secure_the_oil_supply_goal_name: "Zajistit zásobování ropou" # todo: NEW TRANSLATION
+  secure_the_oil_supply_goal_desc: "Pokud chceme vést dlouhou válku, musíme jakýmkoliv způsobem zajistit dostatek ropy pro její udržení." # todo: NEW TRANSLATION
+  secure_the_oil_supply_tech_bonus: "Bonus cíle Zajistit zásobování ropou" # todo: NEW TRANSLATION
+  protector_of_peace_goal_name: "Ochránce míru" # todo: NEW TRANSLATION
+  protector_of_peace_goal_desc: "Naším úkolem není vměšovat se do válek v Evropě nebo jinde. Měli bychom usilovat o udržení míru a povzbudit ostatní státy k rychlému mírovému vyřešení sporů." # todo: NEW TRANSLATION
+  african_domination_goal_name: "Dominance v Africe" # todo: NEW TRANSLATION
+  african_domination_goal_desc: "Naším konečným cílem musí být vždy zajistit žádný zahraniční vliv v Africe. Ti, kdo nejsou s námi, jsou proti nám a musí být podřízeni." # todo: NEW TRANSLATION
+  contain_japanese_expansion_asia_goal_name: "Zadržet japonskou expanzi" # todo: NEW TRANSLATION
+  contain_japanese_expansion_asia_goal_desc: "Musíme udělat vše, co můžeme, aby se omezila územní expanze [JAP.GetName]" # todo: NEW TRANSLATION
+  pan_americanism_goal_name: "Panamerikanismus" # todo: NEW TRANSLATION
+  pan_americanism_goal_desc: "Celé Ameriky by měly být sjednoceny. Zapojením všech můžeme zabezpečit naši část světa a vytvořit jednotný front proti vnějším silám." # todo: NEW TRANSLATION
+  amerindian_liberation_goal_name: "Osvobození Amerindianů" # todo: NEW TRANSLATION
+  amerindian_liberation_goal_desc: "Původní obyvatelé Ameriky musí být osvobozeni od cizích utlačovatelů, kteří je v současnosti ovládají." # todo: NEW TRANSLATION
+  islamic_brotherhood_goal_name: "Islámské bratrství" # todo: NEW TRANSLATION
+  islamic_brotherhood_goal_desc: "Islámské národy světa se musí sjednotit, aby se postavily těm, kteří je chtějí podrobit." # todo: NEW TRANSLATION
+  baltic_security_goal_name: "Chránit Pobaltí" # todo: NEW TRANSLATION
+  baltic_security_goal_desc: "Abychom zajistili budoucnost našich občanů a civilistů, musíme s veškerým úsilím chránit pobaltský region. Pouze držením pod kontrolou budou jeho lidé moci prosperovat." # todo: NEW TRANSLATION
+  nordic_defence_goal_name: "Bránit severské země" # todo: NEW TRANSLATION
+  nordic_defence_goal_desc: "Abychom zajistili budoucnost našich občanů a civilistů, musíme s veškerým úsilím chránit severský region. Pouze udržením mocných impérií mimo něj budeme moci prosperovat." # todo: NEW TRANSLATION
+  european_dominance_goal_name: "Zajistit evropskou dominanci" # todo: NEW TRANSLATION
+  european_dominance_goal_desc: "Pokud dokážeme sjednotit většinu Evropy pod jednou vlajkou, vytvoříme alianci dost silnou, aby čelila i největším hrozbám." # todo: NEW TRANSLATION
+  asian_dominance_goal_name: "Zajistit asijskou dominanci" # todo: NEW TRANSLATION
+  asian_dominance_goal_desc: "S většinou Asie pod naší kontrolou bude naše frakce silou, se kterou je třeba počítat." # todo: NEW TRANSLATION
+  middle_east_dominance_goal_name: "Ovládnout Blízký východ" # todo: NEW TRANSLATION
+  middle_east_dominance_goal_desc: "Od Arabského poloostrova a Levanty po afghánské hory musíme spojit síly a ustanovit totální kontrolu. Tento region by mohl hrát hlavní roli, pokud zajistíme, že všichni spolupracují." # todo: NEW TRANSLATION
+  the_arteries_of_trade_goal_name: "Chránit tepny obchodu" # todo: NEW TRANSLATION
+  the_arteries_of_trade_goal_desc: "Hlavní námořní trasy musí být pod naší kontrolou, abychom zajistili přežití našich členských zemí." # todo: NEW TRANSLATION
+  the_atomic_race_goal_name: "Postavit první atomovou bombu" # todo: NEW TRANSLATION
+  the_atomic_race_goal_desc: "Musíme zajistit, že naši nepřátelé, současní i budoucí, nezískají přístup k jaderným zbraním dříve než my. Jen být první nám zaručí, že žádná jiná mocnost nám nedokáže čelit." # todo: NEW TRANSLATION
+  the_atomic_race_complete_trigger: "Člen [ROOT.GetFactionName] je první zemí, která dokončila $sp_nuclear_bomb$" # todo: NEW TRANSLATION
+  the_atomic_race_complete_trigger_fail: "Země, která není členem [ROOT.GetFactionName], je první zemí, která dokončila $sp_nuclear_bomb$" # todo: NEW TRANSLATION
+  rule_the_waves_goal_name: "Vládnout vlnám" # todo: NEW TRANSLATION
+  rule_the_waves_goal_desc: "Abychom skutečně dominovali oceánu, je potřeba velká flotila, a klíčovou složku grand flotily tvoří kapitální lodě." # todo: NEW TRANSLATION
+  eliminate_the_twin_threats_goal_name: "Eliminovat dvojí hrozby" # todo: NEW TRANSLATION
+  eliminate_the_twin_threats_goal_desc: "Dokud [SOV.GetNameDef] a [GER.GetNameDef] nebudou srovnáni, nikdy nebudeme v bezpečí." # todo: NEW TRANSLATION
+  disarm_aggression_central_powers_goal_name: "Stlumit agresivní země" # todo: NEW TRANSLATION
+  disarm_aggression_central_powers_goal_desc: "Demokracie zřídka napadají jiné země. Abychom zajistili Evropu pro budoucí generace, musíme zajistit, aby tyto agresivní země byly buď přeměněny na demokracie, nebo odstraněny úplně." # todo: NEW TRANSLATION
+  rule_the_waves_tech_bonus: "Bonus cíle Vládnout vlnám" # todo: NEW TRANSLATION
+  imperial_glory_goal_name: "Bránit důležitá impériální aktiva" # todo: NEW TRANSLATION
+  imperial_glory_goal_desc: "Klíčové opěrné body našeho impéria a impéria našich spojenců musí vydržet. Zachováním kontroly nad držbami po celém světě v časech války můžeme ukázat, že zůstáváme silou, s níž je třeba počítat." # todo: NEW TRANSLATION
+  production_quotas_goal_name: "Dosáhnout produkčních kvót" # todo: NEW TRANSLATION
+  production_quotas_goal_desc: "Potřebujeme obrovský arzenál zbraní, abychom zajistili integritu [ROOT.GetFactionName] a byli připraveni čelit jakýmkoliv hrozbám." # todo: NEW TRANSLATION
+  stall_the_fascist_threat_goal_name: "Zdržet fašistickou hrozbu" # todo: NEW TRANSLATION
+  stall_the_fascist_threat_goal_desc: "Musíme zpomalit šíření fašismu ve světě. Španělsko pravděpodobně padne, ale musíme udělat svou část, abychom to oddálili, dokud nebudeme připraveni. Zatažením nepřátelských vojsk do konfliktu ve Španělsku jim znesnadníme zaměřit se jinde a koupíme si cenný čas." # todo: NEW TRANSLATION
+  the_red_tide_goal_name: "Rozšířit rudé armády" # todo: NEW TRANSLATION
+  the_red_tide_goal_desc: "Nejdůležitější jsou boty na zemi. Potřebujeme armádu deset milionů mužů. Tím je přežití skutečně zajištěno." # todo: NEW TRANSLATION
+  military_infrastructure_goal_name: "Budovat vojenskou infrastrukturu" # todo: NEW TRANSLATION
+  military_infrastructure_goal_desc: "Dobře vyvinutá infrastruktura je kritická pro zajištění zásobovacích linek našich hraničních obranných sil." # todo: NEW TRANSLATION
+  ensure_military_r_d_goal_name: "Vybudovat vojenské výzkumné zařízení" # todo: NEW TRANSLATION
+  ensure_military_r_d_goal_desc: "Musíme zajistit, že naše vojenská technologie bude na úrovni, budováním zařízení věnovaných výzkumu a vývoji pokročilých prototypů a nových konceptů." # todo: NEW TRANSLATION
+  spy_master_goal_name: "Jmenovat mistra špionáže" # todo: NEW TRANSLATION
+  spy_master_goal_desc: "Měli bychom specializovat jednoho z našich členů na umění špionáže a sběru zpravodajských informací, aby dohlížel a řídil operace aliančních zpravodajských služeb." # todo: NEW TRANSLATION
+  develop_mexican_oil_goal_name: "Rozvíjet mexickou ropu" # todo: NEW TRANSLATION
+  develop_mexican_oil_goal_desc: "Rozšíření těžby mexických ropných rezerv by zajistilo dostatečné zásoby paliva pro průmyslové a vojenské požadavky." # todo: NEW TRANSLATION
+  develop_curacao_oil_goal_name: "Rozvíjet ropu z Curaçaa" # todo: NEW TRANSLATION
+  develop_curacao_oil_goal_desc: "Rafinérie Curaçaa jsou zásadní pro zpracování venezuelské ropy. Rozšířením těžby by se udržil přístup aliance k rafinovaným ropným produktům." # todo: NEW TRANSLATION
+  develop_venezuelan_oil_goal_name: "Rozvíjet venezuelskou ropu" # todo: NEW TRANSLATION
+  develop_venezuelan_oil_goal_desc: "Těžba ropy ve Venezuele může být dále rozšířena, aby poskytla alianci energetické zdroje potřebné pro její vojenské aktivity." # todo: NEW TRANSLATION
+  develop_guyanan_bauxite_goal_name: "Rozvíjet guyanskou bauxitovou těžbu" # todo: NEW TRANSLATION
+  develop_guyanan_bauxite_goal_desc: "Rozšířený rozvoj bauxitových ložisek Guyany by poskytl suroviny nezbytné pro výrobu letadel ve velkém měřítku." # todo: NEW TRANSLATION
+  develop_suriname_bauxite_goal_name: "Rozvíjet surinamskou bauxitovou těžbu" # todo: NEW TRANSLATION
+  develop_suriname_bauxite_goal_desc: "Rozšířený rozvoj bohatých bauxitových nalezišť Surinamu by zajistil suroviny potřebné pro rostoucí letecký průmysl aliance." # todo: NEW TRANSLATION
+  develop_lappland_metals_goal_name: "Rozvíjet ložiska v Laponsku" # todo: NEW TRANSLATION
+  develop_lappland_metals_goal_desc: "Rozšířená těžba Laponských nerostných bohatství by posílila zásoby aliance železa a wolframu, podporujících náš zbrojní průmysl." # todo: NEW TRANSLATION
+  develop_ploiesti_oil_fields_goal_name: "Rozvíjet ropná pole v Ploiești" # todo: NEW TRANSLATION
+  develop_ploiesti_oil_fields_goal_desc: "Jelikož jsou to jediné ropná pole v Evropě, musí být ropná pole Ploiești řádně využita, aby aliance měla palivo potřebné pro pokračující vojenské operace." # todo: NEW TRANSLATION
+  develop_baku_oil_fields_goal_name: "Rozvíjet ropná pole v Baku" # todo: NEW TRANSLATION
+  develop_baku_oil_fields_goal_desc: "Rozvoj ropného regionu Baku by poskytl rozsáhlé rafinované ropné produkty nezbytné pro vojenské operace." # todo: NEW TRANSLATION
+  develop_iraqi_oil_goal_name: "Rozvíjet iráckou ropu" # todo: NEW TRANSLATION
+  develop_iraqi_oil_goal_desc: "Rozšíření irácké ropné produkce by mohlo být klíčové pro zajištění palivových potřeb naší armády." # todo: NEW TRANSLATION
+  develop_persian_oil_goal_name: "Rozvíjet perskou ropu" # todo: NEW TRANSLATION
+  develop_persian_oil_goal_desc: "Rozšíření perzských ropných polí a rafinační kapacity by zajistilo kontinuální tok paliva pro operační potřeby." # todo: NEW TRANSLATION
+  develop_chinese_metals_goal_name: "Rozvíjet čínské kovy" # todo: NEW TRANSLATION
+  develop_chinese_metals_goal_desc: "Bohatství Číny v různých kritických kovech by bylo možno těžit více, aby se zásobila vojensko-průmyslová základna aliance potřebnými surovinami." # todo: NEW TRANSLATION
+  develop_malayan_riches_goal_name: "Rozvíjet malajské bohatství" # todo: NEW TRANSLATION
+  develop_malayan_riches_goal_desc: "Rozvoj wolframových a gumárenských zdrojů Malajska by výrazně posílil materiální základnu aliance, zajišťující klíčové vstupy pro výrobu a vojenskou logistiku." # todo: NEW TRANSLATION
+  develop_indonesian_riches_goal_name: "Rozvíjet indonéské bohatství" # todo: NEW TRANSLATION
+  expand_newfoundland_bases_goal_name: "Rozšířit základny na Newfoundlandu" # todo: NEW TRANSLATION
+  expand_newfoundland_bases_goal_desc: "Rozšíření našich základen na Newfoundlandu by nám umožnilo lépe kontrolovat konvoje v Severním Atlantiku a projekci letecké a námořní síly přes důležité námořní trasy." # todo: NEW TRANSLATION
+  expand_bermuda_bases_goal_name: "Rozšířit základny na Bermudách" # todo: NEW TRANSLATION
+  expand_bermuda_bases_goal_desc: "Rozšíření našich základen na Bermudách by nám umožnilo efektivněji hlídat střední Atlantik a udržet bezpečnější zásobovací linky mezi kontinenty." # todo: NEW TRANSLATION
+  expand_bahamas_bases_goal_name: "Rozšířit základny na Bahamách" # todo: NEW TRANSLATION
+  expand_bahamas_bases_goal_desc: "Rozšíření našich základen na Bahamách by umožnilo efektivnější monitorování karibských námořních tras a ochranu námořních přístupů do Severní a Jižní Ameriky." # todo: NEW TRANSLATION
+  fortify_panama_canal_goal_name: "Opevnit Panamský průplav" # todo: NEW TRANSLATION
+  expand_trinidad_bases_goal_name: "Rozšířit základny na Trinidadu" # todo: NEW TRANSLATION
+  expand_azores_bases_goal_name: "Rozšířit základny na Azorech" # todo: NEW TRANSLATION
+  expand_iceland_bases_goal_name: "Rozšířit základny na Islandu" # todo: NEW TRANSLATION
+  expand_iceland_bases_goal_desc: "Rozšíření základen na Islandu by nám umožnilo lépe zabezpečit Dánský průliv a uplatňovat větší vliv nad koridorem Severního Atlantiku." # todo: NEW TRANSLATION
+  expand_faroese_bases_goal_name: "Rozšířit základny na Faerských ostrovech" # todo: NEW TRANSLATION
+  expand_narvik_bases_goal_name: "Rozšířit základny v Narviku" # todo: NEW TRANSLATION
+  expand_narvik_bases_goal_desc: "Rozšíření základen v Narviku by umožnilo lepší udržení přístupu k zásilkám důležité rudy železa a kontrolu arktických zásobovacích tras." # todo: NEW TRANSLATION
+  fortify_danish_belts_goal_name: "Opevnit dánské pásy" # todo: NEW TRANSLATION
+  fortify_danish_belts_goal_desc: "Opevnění Kattegatu by nám umožnilo lépe uplatnit výhradní kontrolu nad námořním přístupem mezi Baltským a Severním mořem." # todo: NEW TRANSLATION
+  fortify_danish_belts_tooltip: "Každá provincie v §YJylland§!, §YFyn§! a §YSjaelland§!, která ovládá průliv §YDanish Belts§!, má úroveň 1 §YPobřežního opevnění§! a je obsazena jednou divizí." # todo: NEW TRANSLATION
+  fortify_gibraltar_goal_name: "Opevnit Gibraltar" # todo: NEW TRANSLATION
+  fortify_gibraltar_goal_desc: "Opevnění naší strategické základny u Gibraltarského průlivu by nám umožnilo lépe uplatňovat kontrolu nad námořním pohybem mezi Středozemním a Atlantickým oceánem." # todo: NEW TRANSLATION
+  expand_maltese_bases_goal_name: "Rozšířit základny na Maltě" # todo: NEW TRANSLATION
+  expand_maltese_bases_goal_desc: "Rozšíření našich základen na Maltě by umožnilo lepší narušování nepřátelských zásobovacích linek a projekci síly v centrálním Středomoří." # todo: NEW TRANSLATION
+  expand_cretan_bases_goal_name: "Rozšířit základny na Krétě" # todo: NEW TRANSLATION
+  expand_cretan_bases_goal_desc: "Rozšíření našich základen na Krétě by nám umožnilo lépe dominovat nad východním Středomořím a usnadnit operace v Egejském moři a severní Africe." # todo: NEW TRANSLATION
+  expand_cypriot_bases_goal_name: "Rozšířit základny na Kypru" # todo: NEW TRANSLATION
+  expand_cypriot_bases_goal_desc: "Rozšíření základen na Kypru by nám umožnilo lépe podporovat operace ve východním Středomoří a zabezpečit důležité letové trasy do a z Blízkého východu." # todo: NEW TRANSLATION
+  fortify_bosporus_goal_name: "Opevnit Bospor" # todo: NEW TRANSLATION
+  fortify_bosporus_goal_desc: "Opevnění Bosporu by zajistilo naši kontrolu nad veškerým námořním přístupem mezi Černým mořem a Středomořím." # todo: NEW TRANSLATION
+  fortify_bosporus_tooltip: "Každá provincie v §YIstanbul§!, která ovládá průliv §YBospor§!, má úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YZemního opevnění§!, a je obsazena jednou divizí." # todo: NEW TRANSLATION
+  fortify_dardanelles_goal_name: "Opevnit Dardanely" # todo: NEW TRANSLATION
+  fortify_dardanelles_goal_desc: "Opevnění Dardanel by posílilo naši schopnost diktovat pohyb flotily a obchodu z Černého moře." # todo: NEW TRANSLATION
+  fortify_dardanelles_tooltip: "Každá provincie v §YEdirne§! a §YBursa§!, která ovládá průliv §YDardanelles§!, má úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YZemního opevnění§!, a je obsazena jednou divizí." # todo: NEW TRANSLATION
+  fortify_suez_canal_goal_name: "Opevnit Suezský průplav" # todo: NEW TRANSLATION
+  fortify_suez_canal_goal_desc: "Pokračující držení Suezského průplavu je nezbytné, abychom zajistili naši jedinečnou kontrolu nad hlavní dopravní tepnou mezi Evropou a Asií." # todo: NEW TRANSLATION
+  fortify_suez_tooltip: "Každá provincie v §YSuez§!, která ovládá průliv §YSuez§!, má úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YZemního opevnění§!, a je obsazena jednou divizí." # todo: NEW TRANSLATION
+  expand_gulf_of_aden_bases_goal_name: "Rozšířit základny v Adenu" # todo: NEW TRANSLATION
+  fortify_strait_of_hormuz_goal_name: "Opevnit průliv Hormuz" # todo: NEW TRANSLATION
+  fortify_strait_of_hormuz_goal_desc: "Opevnění strategických základen na Hormuzu by nám umožnilo lépe uplatnit kontrolu nad přístupem k důležité perské a irácké ropě." # todo: NEW TRANSLATION
+  fortify_strait_of_hormuz_tooltip: "Každá provincie v §YMusandam§! a §YFars§!, která ovládá průliv §YHormuz§!, má úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YZemního opevnění§!, a je obsazena jednou divizí." # todo: NEW TRANSLATION
+  expand_ceylonese_bases_goal_name: "Rozšířit základny na Ceylonu" # todo: NEW TRANSLATION
+  expand_ceylonese_bases_goal_desc: "Rozšíření našich základen na Ceylonu by posílilo naši dominanci nad Indickým oceánem a usnadnilo ochranu důležitých námořních tras mezi Blízkým východem a Jihovýchodní Asií." # todo: NEW TRANSLATION
+  expand_singapore_naval_base_goal_name: "Rozšířit námořní základnu v Singapuru" # todo: NEW TRANSLATION
+  expand_singapore_naval_base_goal_desc: "Monumentální opevněná námořní základna Singapuru kontroluje průliv Malakka a reguluje pohyb mezi Indickým a Tichým oceánem. Měla by být ještě posílena." # todo: NEW TRANSLATION
+  fortify_manila_bay_goal_name: "Opevnit Manilský záliv" # todo: NEW TRANSLATION
+  fortify_manila_bay_goal_desc: "Opevnění obranyschopného Manilského zálivu by zlepšilo naši projekci síly v západním Pacifiku a zajistilo přístup k Východním Indiím a Jihočínskému moři." # todo: NEW TRANSLATION
+  fortify_manila_tooltip: "Provincie §YManila§! má úroveň 2 §YPobřežního opevnění§! a úroveň 7 §YNámořní základny§!, a stát §YManila§! má úroveň 8 §Yletecké základny§!." # todo: NEW TRANSLATION
+  fortify_okinawa_goal_name: "Opevnit Okinawu" # todo: NEW TRANSLATION
+  fortify_okinawa_goal_desc: "Opevnění Okinawy by kontrolovalo přístupy k japonským domácím ostrovům a ustanovilo silné obranné pásmo v Pacifiku." # todo: NEW TRANSLATION
+  fortify_okinawa_tooltip: "§YOkinawa§! má úroveň 1 §YProtivzdušné obrany§! a úroveň 5 §Yletecké základny§!, a provincie §YNaha§! má úroveň 2 §YPobřežního opevnění§!." # todo: NEW TRANSLATION
+  fortify_iwo_jima_goal_name: "Opevnit Iwo Jima" # todo: NEW TRANSLATION
+  fortify_iwo_jima_goal_desc: "Opevnění Iwo Jimy by kontrolovalo přístupy k japonským domácím ostrovům a vytvořilo silné obranné pásmo v Pacifiku." # todo: NEW TRANSLATION
+  expand_caroline_islands_bases_goal_name: "Rozšířit základny v Karolínách" # todo: NEW TRANSLATION
+  expand_caroline_islands_bases_goal_desc: "Rozšíření našich základen na Karolínách a atol Truk by usnadnilo udržitelnou námořní a leteckou kampaň přes centrální Pacifik." # todo: NEW TRANSLATION
+  expand_guadalcanal_bases_goal_name: "Rozšířit základny na Guadalcanalu" # todo: NEW TRANSLATION
+  expand_guadalcanal_bases_goal_desc: "Rozšíření našich základen na Guadalcanalu by nám umožnilo lépe kontrolovat námořní operace v jižním Pacifiku a přístupové trasy k a z Austrálie." # todo: NEW TRANSLATION
+  expand_wake_island_bases_goal_name: "Rozšířit základny na Wake" # todo: NEW TRANSLATION
+  expand_midway_island_bases_goal_name: "Rozšířit základny na Midway" # todo: NEW TRANSLATION
+  expand_midway_island_bases_goal_desc: "Rozvoj našich základen na Midway by zajistil bezpečnost přístupů centrálního Pacifiku a poskytl klíčovou základnu pro transoceanické operace." # todo: NEW TRANSLATION
+  undoing_brest_litowsk_goal_name: "Pomstít smlouvu z Brestu-Litovska" # todo: NEW TRANSLATION
+  undoing_brest_litowsk_goal_desc: "Hanebný mír v Brestu-Litovsku nebyl nikdy plně zrušen. Je čas vymazat poslední části této hanebné kapitoly naší historie." # todo: NEW TRANSLATION
+  marine_corps_goal_name: "Zřídit námořní sbory" # todo: NEW TRANSLATION
+  marine_corps_goal_desc: "Rozšíření našich amfibických sil výrazně zvýší naše útočné schopnosti a množství nepřátelského území, které můžeme ohrozit." # todo: NEW TRANSLATION
+  marine_corps_tech_bonus: "$marine_corps_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  submarine_force_goal_name: "Rozšířit ponorkovou flotilu" # todo: NEW TRANSLATION
+  submarine_force_goal_desc: "Vhodná ponorková síla je klíčová k narušování nepřátelských zásobovacích linek." # todo: NEW TRANSLATION
+  submarine_force_tech_bonus: "$submarine_force_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  convoy_escort_force_goal_name: "Hlídky konvojů po oceánech" # todo: NEW TRANSLATION
+  convoy_escort_force_goal_desc: "Abychom zabezpečili naše zásobovací linky, musíme zajistit dostatečný počet eskortních plavidel." # todo: NEW TRANSLATION
+  convoy_escort_force_tech_bonus: "$convoy_escort_force_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  air_superiority_goal_name: "Udržet vzdušnou nadvládu" # todo: NEW TRANSLATION
+  air_superiority_goal_desc: "Kontrola vzduchu rozhoduje úspěch na zemi i na moři. Musíme mít dostatečný počet stíhacích letadel k zajištění našeho leteckého panství." # todo: NEW TRANSLATION
+  air_superiority_tech_bonus: "$air_superiority_goal_name$ Bonus cíle" # todo: NEW TRANSLATION
+  control_mexican_oil_goal_name: "Ovládnout mexickou ropu" # todo: NEW TRANSLATION
+  control_mexican_oil_goal_desc: "Zajištění mexických ropných rezerv by zajistilo dostatečné zásoby paliva pro průmyslové a vojenské požadavky." # todo: NEW TRANSLATION
+  control_curacao_oil_goal_name: "Ovládnout ropu Curaçaa" # todo: NEW TRANSLATION
+  control_curacao_oil_goal_desc: "Rafinérie Curaçaa jsou zásadní pro zpracování venezuelské ropy. Kontrola nad nimi by poskytla alianci spolehlivý přístup k rafinovaným ropným produktům." # todo: NEW TRANSLATION
+  control_venezuelan_oil_goal_name: "Ovládnout venezuelskou ropu" # todo: NEW TRANSLATION
+  control_venezuelan_oil_goal_desc: "Velké ropné rezervy Venezuely by poskytly alianci energetický přístup potřebný k podpoře vojenských aktivit." # todo: NEW TRANSLATION
+  control_guyanan_bauxite_goal_name: "Ovládnout guyanskou bauxitovou zásobu" # todo: NEW TRANSLATION
+  control_guyanan_bauxite_goal_desc: "Kontrola nad bauxitovými ložisky Guyany by rozšířila aluminium produkci aliance, zásadní pro výrobu letadel." # todo: NEW TRANSLATION
+  control_suriname_bauxite_goal_name: "Ovládnout surinamskou bauxitovou zásobu" # todo: NEW TRANSLATION
+  control_suriname_bauxite_goal_desc: "Držení bohatých bauxitových nalezišť Surinamu by poskytlo suroviny potřebné pro rostoucí letecký průmysl aliance." # todo: NEW TRANSLATION
+  control_lappland_metals_goal_name: "Ovládnout ložiska v Laponsku" # todo: NEW TRANSLATION
+  control_lappland_metals_goal_desc: "Přístup k laponským nerostným bohatstvím by posílil zásoby železa a wolframu aliance a podporoval zbrojní průmysl." # todo: NEW TRANSLATION
+  control_ploiesti_oil_fields_goal_name: "Ovládnout ropná pole Ploiești" # todo: NEW TRANSLATION
+  control_ploiesti_oil_fields_goal_desc: "Jako jediná ropná pole v Evropě jsou ropná pole Ploiești neocenitelná pro zajištění paliva potřebného pro pokračující vojenské operace." # todo: NEW TRANSLATION
+  control_baku_oil_fields_goal_name: "Ovládnout ropná pole Baku" # todo: NEW TRANSLATION
+  control_baku_oil_fields_goal_desc: "Zajištění ropného regionu Baku by poskytlo přístup k rozsáhlým ropným rezervám vitálním pro vojenské operace." # todo: NEW TRANSLATION
+  control_iraqi_oil_goal_name: "Ovládnout iráckou ropu" # todo: NEW TRANSLATION
+  control_iraqi_oil_goal_desc: "Irácká ropná produkce může být rozhodující pro uspokojení palivových potřeb naší armády." # todo: NEW TRANSLATION
+  control_persian_oil_goal_name: "Ovládnout perskou ropu" # todo: NEW TRANSLATION
+  control_persian_oil_goal_desc: "Kontrola nad perzskými ropnými poli a rafinační kapacitou by zajistila stálý tok paliva pro operační potřeby." # todo: NEW TRANSLATION
+  control_chinese_metals_goal_name: "Ovládnout čínské kovy" # todo: NEW TRANSLATION
+  control_chinese_metals_goal_desc: "Bohatství Číny v kritických kovech by mohlo zásobit vojensko-průmyslovou bázi aliance potřebnými surovinami." # todo: NEW TRANSLATION
+  control_malayan_riches_goal_name: "Ovládnout malajské bohatství" # todo: NEW TRANSLATION
+  control_malayan_riches_goal_desc: "Kontrola nad wolframovými a gumovými zdroji Malajska by výrazně posílila materiální základnu aliance, zajišťující klíčové vstupy pro výrobu a vojenskou logistiku." # todo: NEW TRANSLATION
+  control_indonesian_riches_goal_name: "Ovládnout indonéské bohatství" # todo: NEW TRANSLATION
+  control_indonesian_riches_goal_desc: "Rozmanité přírodní bohatství Indonésie, včetně ropy, gumy a nerostů, je neocenitelné pro podporu naší průmyslové základny a zajištění surovinové nezávislosti aliance." # todo: NEW TRANSLATION
+  control_newfoundland_bases_goal_name: "Ovládnout základny na Newfoundlandu" # todo: NEW TRANSLATION
+  control_newfoundland_bases_goal_desc: "Zabezpečení základen na Newfoundlandu by nám umožnilo kontrolu nad konvoji Severního Atlantiku a projekci letecké a námořní síly přes důležité námořní trasy." # todo: NEW TRANSLATION
+  control_bermuda_goal_name: "Ovládnout Bermudy" # todo: NEW TRANSLATION
+  control_bermuda_goal_desc: "Základny na Bermudách by nám umožnily efektivněji hlídat střední Atlantik a udržet bezpečnější zásobovací linky mezi kontinenty." # todo: NEW TRANSLATION
+  control_bahamas_bases_goal_name: "Ovládnout základny na Bahamách" # todo: NEW TRANSLATION
+  control_bahamas_bases_goal_desc: "Držení základen na Bahamách by umožnilo efektivnější sledování karibských námořních tras a ochranu přístupů do Severní a Jižní Ameriky." # todo: NEW TRANSLATION
+  control_panama_canal_goal_name: "Ovládnout Panamský průplav" # todo: NEW TRANSLATION
+  control_panama_canal_goal_desc: "Kontrola Panamského průplavu je klíčová pro umožnění rychlého přesunu flot mezi Atlantikem a Tichým oceánem, což zajišťuje strategickou pružnost přes oba oceány." # todo: NEW TRANSLATION
+  control_trinidad_goal_name: "Ovládnout Trinidad" # todo: NEW TRANSLATION
+  control_trinidad_goal_desc: "Strategická poloha Trinidadu z něj činí klíčový prvek pro kontrolu karibských zásob ropy a slouží jako strategický odrazový bod na severním pobřeží Jižní Ameriky." # todo: NEW TRANSLATION
+  control_azores_goal_name: "Ovládnout Azory" # todo: NEW TRANSLATION
+  control_azores_goal_desc: "Strategická poloha Azor umožňuje delší dosah napříč středním Atlantikem, uzavírá mezeru pro ponorkové i protiponorkové krytí a zajišťuje nepřetržitý letecký dohled nad konvoji." # todo: NEW TRANSLATION
+  control_iceland_goal_name: "Ovládnout Island" # todo: NEW TRANSLATION
+  control_iceland_goal_desc: "Kontrola základen na Islandu by umožnila zabezpečit Dánský průliv a uplatnit vliv nad koridorem Severního Atlantiku." # todo: NEW TRANSLATION
+  control_faroe_islands_goal_name: "Ovládnout Faerské ostrovy" # todo: NEW TRANSLATION
+  control_faroe_islands_goal_desc: "Faerské ostrovy leží na strategickém místě, které umožňuje kontrolu severních námořních tras a podporu námořních operací směrem k Británii, Skandinávii a Arktidě." # todo: NEW TRANSLATION
+  control_narvik_goal_name: "Ovládnout Narvik" # todo: NEW TRANSLATION
+  control_narvik_goal_desc: "Zajištění Narviku by umožnilo udržet přístup k důležitým zásilkám železné rudy a kontrolovat arktické zásobovací trasy." # todo: NEW TRANSLATION
+  control_danish_belts_goal_name: "Ovládnout dánské pásy" # todo: NEW TRANSLATION
+  control_danish_belts_goal_desc: "Obsazení Kattegatu by nám umožnilo uplatňovat výlučnou kontrolu nad námořním přístupem mezi Baltským a Severním mořem." # todo: NEW TRANSLATION
+  control_brittany_bases_goal_name: "Ovládnout základny v Bretani" # todo: NEW TRANSLATION
+  control_brittany_bases_goal_desc: "Strategické základny podél břehů Bretaně by umožnily širší ponorkové a letecké operace do Atlantiku a zabezpečení přístupu na evropský kontinent." # todo: NEW TRANSLATION
+  control_gibraltar_goal_name: "Ovládnout Gibraltar" # todo: NEW TRANSLATION
+  control_gibraltar_goal_desc: "Strategická základna u Gibraltarského průlivu by nám umožnila kontrolovat námořní pohyb mezi Středozemním a Atlantickým oceánem." # todo: NEW TRANSLATION
+  control_malta_goal_name: "Ovládnout Maltu" # todo: NEW TRANSLATION
+  control_malta_goal_desc: "Držení Malty by umožnilo narušovat nepřátelské zásobovací linky a projekci síly v centrálním Středomoří." # todo: NEW TRANSLATION
+  control_crete_goal_name: "Ovládnout Krétu" # todo: NEW TRANSLATION
+  control_crete_goal_desc: "Kontrola ostrova Kréta by umožnila dominovat východnímu Středomoří a usnadnit operace v Egejském moři a severní Africe." # todo: NEW TRANSLATION
+  control_cyprus_goal_name: "Ovládnout Kypr" # todo: NEW TRANSLATION
+  control_cyprus_goal_desc: "Ovládnutí Kypru by umožnilo podporovat operace ve východním Středomoří a zajistit důležité letecké trasy do a z Blízkého východu." # todo: NEW TRANSLATION
+  control_bosporus_goal_name: "Ovládnout Bospor" # todo: NEW TRANSLATION
+  control_bosporus_goal_desc: "Zajetí průlivu Bospor by nám umožnilo kontrolovat veškerý námořní přístup mezi Černým mořem a Středomořím." # todo: NEW TRANSLATION
+  control_dardanelles_goal_name: "Ovládnout Dardanely" # todo: NEW TRANSLATION
+  control_dardanelles_goal_desc: "Držení Dardanel by umožnilo diktovat pohyb flotil a obchod z Černého moře." # todo: NEW TRANSLATION
+  control_suez_canal_goal_name: "Ovládnout Suezský průplav" # todo: NEW TRANSLATION
+  control_suez_canal_goal_desc: "Držení životně důležitého Suezského průplavu by nám poskytlo výlučnou kontrolu nad hlavní dopravní tepnou mezi Evropou a Asií, zajišťující rychlý přesun sil a zdrojů." # todo: NEW TRANSLATION
+  control_gulf_of_aden_bases_goal_name: "Ovládnout základny v Zálivu Aden" # todo: NEW TRANSLATION
+  control_gulf_of_aden_bases_goal_desc: "Strategické základny podél zálivu Aden umožňují ochranu přístupů k Rudému moři a zabezpečení námořních tras spojujících Evropu, Afriku a Asii." # todo: NEW TRANSLATION
+  control_strait_of_hormuz_goal_name: "Ovládnout průliv Hormuz" # todo: NEW TRANSLATION
+  control_strait_of_hormuz_goal_desc: "Strategické základny na průlivu Hormuz by umožnily uplatňovat kontrolu nad přístupem k důležité perské a irácké ropě." # todo: NEW TRANSLATION
+  control_ceylon_goal_name: "Ovládnout Ceylon" # todo: NEW TRANSLATION
+  control_ceylon_goal_desc: "Zajištění CeYlonu by umožnilo dominovat Indickému oceánu a chránit životně důležité námořní trasy mezi Blízkým východem a Jihovýchodní Asií." # todo: NEW TRANSLATION
+  control_singapore_goal_name: "Ovládnout Singapur" # todo: NEW TRANSLATION
+  control_singapore_goal_desc: "Monumentální opevněná námořní základna Singapuru kontroluje průliv Malakka a reguluje pohyb mezi Indickým a Tichým oceánem. Měla by být naše." # todo: NEW TRANSLATION
+  control_manila_goal_name: "Ovládnout Manilu" # todo: NEW TRANSLATION
+  control_manila_goal_desc: "Držení obranného Manilského zálivu by umožnilo projekci síly přes západní Pacifik a zajistit přístup k Východním Indiím a Jihočínskému moři." # todo: NEW TRANSLATION
+  control_okinawa_goal_name: "Ovládnout Okinawu" # todo: NEW TRANSLATION
+  control_okinawa_goal_desc: "Ovládnutí Okinawy by umožnilo zahajovat operace proti japonským domácím ostrovům a vytvořit silné obranné pásmo v Pacifiku." # todo: NEW TRANSLATION
+  control_iwo_jima_goal_name: "Ovládnout Iwo Jimu" # todo: NEW TRANSLATION
+  control_iwo_jima_goal_desc: "Zajištění Iwo Jimy by umožnilo podporu dálkových leteckých operací nad Japonskem a rozšíření našeho dosahu do centrálního Pacifiku." # todo: NEW TRANSLATION
+  control_caroline_islands_goal_name: "Ovládnout Karolíny" # todo: NEW TRANSLATION
+  control_caroline_islands_goal_desc: "Dominance nad Karolínami a atolem Truk by umožnila udržitelnou námořní a leteckou kampaň přes centrální Pacifik." # todo: NEW TRANSLATION
+  control_guadalcanal_goal_name: "Ovládnout Guadalcanal" # todo: NEW TRANSLATION
+  control_guadalcanal_goal_desc: "Zajištění Guadalcanalu by nám umožnilo kontrolovat námořní operace v jižním Pacifiku a přístupové trasy k a z Austrálie." # todo: NEW TRANSLATION
+  control_wake_island_goal_name: "Ovládnout Wake" # todo: NEW TRANSLATION
+  control_wake_island_goal_desc: "Držení Wake by umožnilo rozšířit průzkum a letecké krytí přes centrální pacifické trasy." # todo: NEW TRANSLATION
+  control_midway_island_goal_name: "Ovládnout Midway" # todo: NEW TRANSLATION
+  control_midway_island_goal_desc: "Kontrola Midway by umožnila zabezpečit přístupy centrálního Pacifiku a poskytnout klíčovou základnu pro transoceanické operace." # todo: NEW TRANSLATION
+  control_hawaii_goal_name: "Ovládnout Havaj" # todo: NEW TRANSLATION
+  control_hawaii_goal_desc: "Obsazení Pearl Harboru by umožnilo ukotvit pacifické operace a koordinovat logistiku přes celý oceánský teát, stejně jako otevřít přístup k americkému pacifickému pobřeží." # todo: NEW TRANSLATION
+  control_attu_island_goal_name: "Ovládnout Attu" # todo: NEW TRANSLATION
+  control_attu_island_goal_desc: "Zajištění ostrova Attu by umožnilo ovládat severní pacifické námořní trasy a umožnit operace podél Aleutského řetězce směrem na Aljašku a americké pacifické pobřeží." # todo: NEW TRANSLATION
+  undo_versailles_goal_name: "Pomstít smlouvu z Versailles" # todo: NEW TRANSLATION
+  undo_versailles_goal_desc: "Je na čase zrušit toto 'diktátum'. Vezmeme si zpět naše spravedlivé území!" # todo: NEW TRANSLATION
+  strategic_bombing_campaign_goal_name: "Udržitelná strategická bombardovací kampaň" # todo: NEW TRANSLATION
+  strategic_bombing_campaign_goal_desc: "Velkoplošná strategická kampaň bombardování systematicky oslabí nepřátelskou průmyslovou kapacitu, což nám umožní postupně zničit jejich síly." # todo: NEW TRANSLATION
+  liberate_territory_goal_name: "Osvobodit naše území" # todo: NEW TRANSLATION
+  liberate_territory_goal_desc: "Nepřítel drží naše území. Osvobození by mělo být naším prvním cílem." # todo: NEW TRANSLATION
+  great_offensive_goal_name: "Provést velkou ofenzívu" # todo: NEW TRANSLATION
+  great_offensive_goal_desc: "Velká ofenzíva zabírající nepřátelské území by měla být naším prvním krokem k definitivnímu ukončení války." # todo: NEW TRANSLATION
+  FACTION_NAME: "§Y[ROOT.GetFactionName]§!" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS: "§YKaždý člen frakce:§!" # todo: NEW TRANSLATION
+  THE_FACTION_LEADER: "§YVůdce frakce:§!" # todo: NEW TRANSLATION
+  THE_SPY_MASTER: "§YMistr špionáže:§!" # todo: NEW TRANSLATION
+  TARGET_STATE_CONTROLLERS: "§YOvládači cílových států:§!" # todo: NEW TRANSLATION
+  FACTION_CONTROLLED_STATES: "§YStáty pod kontrolou frakce:§!" # todo: NEW TRANSLATION
+  INFLUENCE_TOP_THREE: "§Y3 členové frakce§! s nejvyšším vlivem:" # todo: NEW TRANSLATION
+  INFLUENCE_TOP_TWO: "§Y2 členové frakce§! s nejvyšším vlivem:" # todo: NEW TRANSLATION
+  INFLUENCE_ABOVE_30_PERCENT: "§YKaždý člen frakce§! s alespoň 30% vlivem:" # todo: NEW TRANSLATION
+  AT_LEAST_70_OIL: "§YKaždý člen frakce§! s alespoň 70 ropy:" # todo: NEW TRANSLATION
+  AT_LEAST_50_CIVS: "§YKaždý člen frakce§! s alespoň §Y50 $industrial_complex$§!" # todo: NEW TRANSLATION
+  AT_LEAST_50_MILS: "§YKaždý člen frakce§! s alespoň §Y50 $arms_factory$§!" # todo: NEW TRANSLATION
+  AT_LEAST_100_MILS_CIVS: "§YKaždý člen frakce§! s alespoň §Y100 $arms_factory$§!" # todo: NEW TRANSLATION
+  AT_LEAST_500_FACTORIES: "§YKaždý člen frakce§! který kontroluje alespoň celkem §Y500 $arms_factory$, $industrial_complex$, a $dockyard$§!" # todo: NEW TRANSLATION
+  GUERILLA_TOTAL_ABOVE_THRESHOLD: "Guerrillové aktivity zahájeny ve více než 4 státech" # todo: NEW TRANSLATION
+  GUERILLA_ABOVE_THRESHOLD: "Každý člen frakce, který zahájil alespoň 2 guerillové aktivity:" # todo: NEW TRANSLATION
+  OWNS_LISTED_STATE: "Každý člen frakce, který vlastní jeden z uvedených států:" # todo: NEW TRANSLATION
+  HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT: "§YKaždý člen frakce§! s alespoň 5000 $infantry_equipment$ skladem" # todo: NEW TRANSLATION
+  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YKaždý člen frakce§! s alespoň 5 miliony nasazené lidské síly" # todo: NEW TRANSLATION
+  ONE_PANZER_GENERAL: "§YJeden generál§! s buď §Y$panzer_leader$§! nebo §Y$panzer_expert$§! rysem:" # todo: NEW TRANSLATION
+  ONE_INFANTRY_GENERAL: "§YJeden generál§! s buď §Y$infantry_leader$§! nebo §Y$infantry_expert$§! rysem:" # todo: NEW TRANSLATION
+  ONE_ADMIRAL: "§YJeden admirál§!:" # todo: NEW TRANSLATION
+  ONE_GENERAL: "§YJeden generál§!:" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_WITH_1_MARINE: "§YKaždý člen frakce§! mající alespoň 1 divizi §YMarines§!" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_WITH_25_SUBMARINES: "§YKaždý člen frakce§! mající alespoň 25 §YPonorek§!" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS: "§YKaždý člen frakce§! mající alespoň 25 §YOchranných plavidel§!" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_WITH_250_FIGHTERS: "§YKaždý člen frakce§! mající alespoň 250 §YStíhačů§!" # todo: NEW TRANSLATION
+  ALL_FACTION_MEMBERS_WITH_50_BOMBERS: "§YKaždý člen frakce§! mající alespoň 50 §YStrategických bombardérů§!" # todo: NEW TRANSLATION
+  ENEMY_FACTION_STATES_BOMBED: "§YJádrové státy nepřátelské frakce§! bombardovány za posledních 30 dní" # todo: NEW TRANSLATION
+  FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YJádrové státy frakce§! nejsou plně kontrolovány §Yčleny frakce§!" # todo: NEW TRANSLATION
+  ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YJádrové státy nepřátelské frakce§! kontrolované č%" # todo: NEW TRANSLATION
+  SHORT_TERM: "Krátkodobé" # todo: NEW TRANSLATION
+  MEDIUM_TERM: "Střednědobé" # todo: NEW TRANSLATION
+  LONG_TERM: "Dlouhodobé" # todo: NEW TRANSLATION

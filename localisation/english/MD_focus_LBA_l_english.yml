@@ -149,8 +149,6 @@
   libya_gaddafi_family_deploy_military: "Nasadit Revoluční gardový sbor" # todo: NEW TRANSLATION
   libya_gaddafi_family_deploy_military_desc: "Musíme nasadit Revoluční gardový sbor, abychom se vypořádali s protestujícími. Musíme co nejdříve uhasit plameny revoluce." # todo: NEW TRANSLATION
   libya_gaddafi_family_deploy_military_tt: "§RPokud protesty povedou k občanské válce, povstalci budou silnější! Použití síly proti protestujícím by mohlo vést k zahraniční intervenci!§!" # todo: NEW TRANSLATION
-  libya_gaddafi_family_anti_government_protests_join_rebels: "Přidejte se k rebelům" # todo: NEW TRANSLATION
-  libya_gaddafi_family_anti_government_protests_join_rebels_desc: "Dole s Gaddáfím! Přinesl naší zemi jen utrpení. Jeho režim musí být okamžitě svržen!" # todo: NEW TRANSLATION
   muhammad_muammar_gaddafi_not_exiled: "§Y[ROOT.LBA_muhammad_muammar_gaddafi_dummy.GetName]§! není §YExiled§!" # todo: NEW TRANSLATION
   saif_al_islam_gaddafi_not_exiled: "§Y[ROOT.LBA_saif_al_islam_gaddafi_dummy.GetName]§! není §YExiled§!" # todo: NEW TRANSLATION
   al_saadi_gaddafi_not_exiled: "§Y[ROOT.LBA_al_saadi_gaddafi_dummy.GetName]§! není §YExiled§!" # todo: NEW TRANSLATION
@@ -255,6 +253,11 @@
   libya_anti_colonial_start_revolution_desc: "Dekadní vláda [FROM.GetNameDef] utlačuje svůj lid. Jsou pouhým sluhou Západu a musí být svržena ve jménu svobody a svobody." # todo: NEW TRANSLATION
   libya_anti_colonial_start_revolution_tt_1: "§R[FROM.GetNameWithFlag] může na nás útočit preventivně!§!\n" # todo: NEW TRANSLATION
   libya_anti_colonial_start_revolution_tt_2: "§GVzbouřenecká strana se připojí k naší frakci!§!" # todo: NEW TRANSLATION
+  aozou_strip_occupation_decisions: "Obsazení Aouzou Strip" # todo: NEW TRANSLATION
+  aozou_strip_occupation_decisions_desc: "S Aouzou Strip jako spornou oblastí mezi námi a naším sousedem chaos, který tam panuje, by nám mohl umožnit převzít kontrolu nad oblastí." # todo: NEW TRANSLATION
+  generic_occupy_aouzou_strip: "Obsadit Aouzou Strip" # todo: NEW TRANSLATION
+  generic_occupy_aouzou_strip_desc: "Stav [580.owner.GetNameDef] je takový, že není schopen efektivně rozšířit kontrolu nad [580.GetName]. Měli bychom poslat malý kontingent vojáků k zajištění oblasti. Není pravděpodobné, že [580.owner.GetName] odolá." # todo: NEW TRANSLATION
+  generic_occupy_aouzou_strip_tt: "§R[580.owner.GetNameDef] by nám mohl vyhlásit válku!§!" # todo: NEW TRANSLATION
   libya_oil_nationalisation_dynamic_modifier: "Ropná nacionalizace" # todo: NEW TRANSLATION
   TT_libya_oil_nationalisation_dynamic_modifier: "Úroveň nacionalizace: §Y[?lba_oil_nationalisation|%0]§!\nDalší příjem: $$[?oil_nationalisation_income|+3] miliard za §Yropa vytěžená§!\n" # todo: NEW TRANSLATION
   libya_oil_nationalisation_dynamic_modifier_desc: "Většina ropné produkce v Libyi je kontrolována Národní ropnou korporací. Ačkoli je to pro stát prospěšné, mezinárodní investice ze zahraničních firem jsou omezené. Vyšší úroveň nacionalizace poškodí náš růst produktivity a ztíží vývoj nových ropných polí." # todo: NEW TRANSLATION
@@ -445,11 +448,6 @@
   LBA_emancipator_of_women_desc: "Gaddáfího poslední přednáška o islámu pro skupinu žen v Itálii vyvolala masovou konverzi žen k islámu a migraci do Líbie." # todo: NEW TRANSLATION
   LBA_oppressor_of_women: "Utlačovatel žen" # todo: NEW TRANSLATION
   LBA_oppressor_of_women_desc: "Gaddáfího poslední přednáška o islámu pro skupinu žen v Itálii vedla lidi k vidění velkého vůdce jako jen utlačovatele žen. Lidé opouštějí Líbií ve velkém, protože nechtějí žít v zemi řízené takovým mužem." # todo: NEW TRANSLATION
-  aozou_strip_occupation_decisions: "Obsazení Aouzou Strip" # todo: NEW TRANSLATION
-  aozou_strip_occupation_decisions_desc: "S Aouzou Strip jako spornou oblastí mezi námi a naším sousedem chaos, který tam panuje, by nám mohl umožnit převzít kontrolu nad oblastí." # todo: NEW TRANSLATION
-  generic_occupy_aouzou_strip: "Obsadit Aouzou Strip" # todo: NEW TRANSLATION
-  generic_occupy_aouzou_strip_desc: "Stav [580.owner.GetNameDef] je takový, že není schopen efektivně rozšířit kontrolu nad [580.GetName]. Měli bychom poslat malý kontingent vojáků k zajištění oblasti. Není pravděpodobné, že [580.owner.GetName] odolá." # todo: NEW TRANSLATION
-  generic_occupy_aouzou_strip_tt: "§R[580.owner.GetNameDef] by nám mohl vyhlásit válku!§!" # todo: NEW TRANSLATION
   LBA_revise_green_book_current_reform_value: "Aktuální hodnota §YReforma§!: [?libya_green_book_reform]" # todo: NEW TRANSLATION
   lba_increase_reform_tt: "§YReforma§!: +1 (Aktuální hodnota §YReforma§!: §Y[?libya_green_book_reform]§!)" # todo: NEW TRANSLATION
   lba_decrease_reform_tt: "§YReforma§!: -1 (Aktuální hodnota §YReforma§!: §Y[?libya_green_book_reform]§!)" # todo: NEW TRANSLATION

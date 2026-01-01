@@ -3,22 +3,8 @@
   KAZ_centralasia: "Kazachstán Zaměření stromu" # todo: NEW TRANSLATION
   UZB_centralasia: "Uzbeckistán Zaměření stromu" # todo: NEW TRANSLATION
   KYR_centralasia: "Kyrgyzstán Zaměření stromu" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_up_1: "§Hkarakalpakstans§! Názor bude §Gzvýšen§! o §H1§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_up_2: "§Hkarakalpakstans§! Názor bude §Gzvýšen§! o §H2§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_up_3: "§Hkarakalpakstans§! Názor bude §Gzvýšen§! o §H3§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_up_5: "§Hkarakalpakstans§! Názor bude §Gzvýšen§! o §H5§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_down_1: "§Hkarakalpakstans§! Názor se sníží o §H1§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_down_2: "§Hkarakalpakstans§! Názor se sníží o §H2§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_down_3: "§Hkarakalpakstans§! Názor se sníží o §H3§!" # todo: NEW TRANSLATION
-  UZB_karakalpakstans_down_5: "§Hkarakalpakstans§! Názor se sníží o §H5§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_up_1: "§HUzbeks§! Názor bude §Gzvýšen§! o §H1§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_up_2: "§HUzbeks§! Názor bude §Gzvýšen§! o §H2§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_up_3: "§HUzbeks§! Názor bude §Gzvýšen§! o §H3§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_up_5: "§HUzbeks§! Názor bude §Gzvýšen§! o §H5§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_down_1: "§HUzbeks§! Názor se sníží o §H1§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_down_2: "§HUzbeks§! Názor se sníží o §H2§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_down_3: "§HUzbeks§! Názor se sníží o §H3§!" # todo: NEW TRANSLATION
-  UZB_uzbeks_down_5: "§HUzbeks§! Názor se sníží o §H5§!" # todo: NEW TRANSLATION
+  UZB_modify_karakalpakstan_opinion_effect_tt: "Změnit §HKarakalpakstán§! Vztah o §H[?temp_change]§! (Aktuální vztah: [?UZB.UZB_karakalpakstans_opinion|0])\n" # todo: NEW TRANSLATION
+  UZB_modify_uzbeks_opinion_effect_tt: "Změnit §HUzbekové§! Vztah o §H[?temp_change]§! (Aktuální vztah: [?UZB.UZB_uzbeks_opinion|0])\n" # todo: NEW TRANSLATION
   uzbek_karap_tt_effect: "§RZmění se jejich názor na nás§!" # todo: NEW TRANSLATION
   UZB_karakalpakstan_category: "Karakalpakstánská otázka" # todo: NEW TRANSLATION
   UZB_karakalpakstan_category_desc: "Karakalpakštanský separatismus v Uzbekistánu odkazuje na historické a probíhající regionální hnutí zaměřené na touhu po větší autonomii nebo dokonce nezávislosti pro autonomní republiku Karakalpakštán v rámci Uzbekistánu. Karakalpakštán, nacházející se na severozápadě Uzbekistánu, je převážně obýván Karakalpaky, kteří mají odlišné kulturní, jazykové a historické vazby na tuto oblast.\n\nNázor Karakalpakštánu: §Y[?UZB_karakalpakstans_opinion]§!\nNázor Uzbeků: §Y[?UZB_uzbeks_opinion]§!\n" # todo: NEW TRANSLATION
@@ -587,7 +573,7 @@
   ces_nationalist_9_tt: "$ces_nationalist_tt_intro$ \n£political_power_texticon  Zisk politické moci: §G+5%§!\n\n" # todo: NEW TRANSLATION
   ces_nationalist_10_tt: "$ces_nationalist_tt_intro$ \n£political_power_texticon  Zisk politické moci: §G+4%§!\n\n" # todo: NEW TRANSLATION
   nationalists.1.t: "Návrh vojenské spolupráce" # todo: NEW TRANSLATION
-  nationalists.1.d: "Vzhledem k našim společným geopolitickým zájmům na světové scéně před našimi vládami vyvstala otázka možnosti vojenské spolupráce. Věříme, že taková spolupráce posílí náš národní duch, protože se ještě více sblížíme s našimi středněasijskými turkickými bratry." # todo: NEW TRANSLATION
+  nationalists.1.d: "Vzhledem k našim společným geopolitickým zájmům na světové scéně před našimi vládami vyvstala otázka možnosti vojenské spolupráce. Domníváme se, že taková spolupráce posílí naši národní myšlenku, protože se ještě více sblížíme s našimi turkickými bratry ve Střední Asii." # todo: CHANGED
   nationalists.1.a: "Historický okamžik pro naše národy. Turkické národy budou ještě silnější!" # todo: NEW TRANSLATION
   nationalists.1.b: "Střední Asie? Co to je?" # todo: NEW TRANSLATION
   CES_nationalist_policy: "Nacionalistická politika" # todo: NEW TRANSLATION
@@ -662,7 +648,7 @@
   CES_no_other_lang: "Žádné jiné jazyky" # todo: NEW TRANSLATION
   CES_no_other_lang_desc: "Rusko již dlouho vyčerpalo naše země a využívalo naše lidi ve zbytečných a krvavých válkách daleko od domova. Už nepovolíme jejich přítomnost v naší zemi." # todo: NEW TRANSLATION
   CES_embrace_traditions: "Přijměte tradice" # todo: NEW TRANSLATION
-  CES_embrace_traditions_desc: "Musíme udržet naše tradice naživu, abychom posílili národní ducha." # todo: NEW TRANSLATION
+  CES_embrace_traditions_desc: "Musíme udržovat naše tradice při životě, abychom posílili naši národní myšlenku." # todo: CHANGED
   CES_paramilitar_stuff: "Paramilitární organizace" # todo: NEW TRANSLATION
   CES_paramilitar_stuff_desc: "Udržováním militaristického způsobu myšlení ve společnosti budeme moci prosazovat naši agendu s větším úspěchem." # todo: NEW TRANSLATION
   CES_milyouth_nat: "Vojenský mládežnický nacionalismus" # todo: NEW TRANSLATION

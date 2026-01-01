@@ -120,7 +120,6 @@
   missile_prod_12_dynamic_modifier: "Výroba COMSAT" # todo: NEW TRANSLATION
   missile_prod_13_dynamic_modifier: "Výroba SPYSAT" # todo: NEW TRANSLATION
   missile_prod_14_dynamic_modifier: "Výroba KILLSAT" # todo: NEW TRANSLATION
-  missile_prod_15_dynamic_modifier: "Výroba Rodů" # todo: NEW TRANSLATION
   GNSS_system: "Globální navigační satelitní systém" # todo: NEW TRANSLATION
   GNSS_system_desc: "Globální navigační satelitní systém:\nTyto modifikátory určují a spravují vojenský a civilní Globální navigační satelitní systém a přístup k Globálním navigačním satelitním systémům ostatních zemí.\nSystémy můžete spravovat v záložce §YSatelitní systémy§! v rozhraní pro rakety. Diplomatickými kroky můžete získat přístup k systémům ostatních zemí a můžete ostatním zemím poskytnout přístup k vašim systémům." # todo: NEW TRANSLATION
   COMSAT_system: "Satelitní komunikační systém" # todo: NEW TRANSLATION
@@ -295,7 +294,6 @@
   PAYLOAD_TYPE_HEADER: "Užitečné zatížení" # todo: NEW TRANSLATION
   ASAT_TYPE_HEADER: "Raketa proti satelitům" # todo: NEW TRANSLATION
   KILLSAT_TYPE_HEADER: "Zabijácký satelit" # todo: NEW TRANSLATION
-  RODS_TYPE_HEADER: "Kinetický bombardér" # todo: NEW TRANSLATION
   KINETIC_BOMBARDMENT_BUTTON: "Kinetický bombardér" # todo: NEW TRANSLATION
   ACTIVATE_KILLSAT_BUTTON: "Aktivovat Zabijácký satelit" # todo: NEW TRANSLATION
   ASAT_BUTTON: "Vypustit ASAT" # todo: NEW TRANSLATION
@@ -309,8 +307,6 @@
   KILLSAT_salvo_trigger_1_TT: "KILLSAT salva > 0" # todo: NEW TRANSLATION
   KILLSAT_salvo_trigger_2_TT: "§YKILLSAT§! na oběžné dráze §! větší nebo rovno §YKILLSAT salva§!." # todo: NEW TRANSLATION
   KINETIC_BOMBARDMENT_BUTTON_TT: "[!kinetic_bombardment_button_click_enabled]" # todo: NEW TRANSLATION
-  has_RODS_orbit_target_TT: "Má vybraný Rods (§Y[RODS_name_selected_loc]§!) na oběžné dráze." # todo: NEW TRANSLATION
-  RODS_has_target_TT: "Má vybraný §Ycílový stát§!." # todo: NEW TRANSLATION
   OLV_MODEL_NAME: "[OLV_name_loc]" # todo: NEW TRANSLATION
   OLV_SELECTED_MODEL_NAME: "[OLV_name_selected_loc]" # todo: NEW TRANSLATION
   SAT_PAYLOAD_MODEL_NAME: "[sat_payload_name_loc]" # todo: NEW TRANSLATION
@@ -341,14 +337,6 @@
   KILLSAT_SALVO: "[?var_KILLSAT_salvo|C0]" # todo: NEW TRANSLATION
   KILLSAT_MODEL_NAME: "[KILLSAT_name_loc]" # todo: NEW TRANSLATION
   KILLSAT_ORBIT: "£GFX_KILL_satellite_texticon  [?KILL_satellite_array^i]" # todo: NEW TRANSLATION
-  RODS_SELECTED_MODEL_NAME: "[RODS_name_selected_loc]" # todo: NEW TRANSLATION
-  RODS_MODEL_NAME: "[RODS_name_loc]" # todo: NEW TRANSLATION
-  RODS_ORBIT: "£GFX_RODS_satellite_texticon  [?RODS_satellite_array^i]" # todo: NEW TRANSLATION
-  RODS_SEARCH_TARGET_BUTTON_TT: "Klikněte pro skrytí a zobrazení §YSatelitní oběžné dráže§!." # todo: NEW TRANSLATION
-  RODS_SEARCH_TARGET_BUTTON_delayed_TT: "Skrýt §gPohled na satelitní oběžnou dráhu§! pro vyhledání cílů pro §YKinetický bombardér§! (£GFX_RODS_satellite_texticon  ) na mapě." # todo: NEW TRANSLATION
-  RODS_TARGET_TOOLTIP: "[!MD_missiles_rods_target_button_click_enabled]" # todo: NEW TRANSLATION
-  MD_missiles_rods_target_button_TT: "Má vybraný £GFX_RODS_satellite_texticon  pro §YKinetický bombardér§!" # todo: NEW TRANSLATION
-  MD_missiles_rods_target_button_TT2: "Žádný cílový stát nebyl vybrán." # todo: NEW TRANSLATION
   KINETIC_BOMBARDMENT_STATS_BUTTON_TT: "[kinetic_bombardment_stats_button_loc]" # todo: NEW TRANSLATION
   kinetic_bombardment_stats_button_2_loc_key: "Klikněte pro deaktivaci popup výsledků pro §YKinetický bombardér§!." # todo: NEW TRANSLATION
   kinetic_bombardment_stats_button_1_loc_key: "Klikněte pro zobrazení všech §YKinetický bombardér§! výsledků jako popup zpráv. Zprávy v Událostech a Rozhodnutí musí být aktivovány, aby bylo možné tuto funkci využívat." # todo: NEW TRANSLATION
@@ -357,7 +345,6 @@
   has_SPP_inventory_TT: "Má §Y[spp_payload_name_loc]§! v inventáři." # todo: NEW TRANSLATION
   has_ASAT_inventory_TT: "Má §Y[ASAT_name_loc]§! v inventáři." # todo: NEW TRANSLATION
   has_KILLSAT_orbit_TT: "Má §Y[KILLSAT_name_loc]§! na oběžné dráze." # todo: NEW TRANSLATION
-  has_RODS_orbit_TT: "Má §Y[RODS_name_loc]§! na oběžné dráze." # todo: NEW TRANSLATION
   OLV_WIN_BUTTON_TT: "[!OLV_type_button_click_enabled]" # todo: NEW TRANSLATION
   OLV_WIN_BUTTON_TT_delayed: "§YSpuštění§!:\nHmotnost nákladu: [?global.OLV_payload_mass_stat_array^OLV_display_array^i|Y0] kg\nSpolehlivost: [?global.OLV_reliability_stat_array^OLV_display_array^i|Y0%]\n\n§YProdukce§!:\nCena za jednotku: $[?global.missile_price_unit_array^OLV_display_array^i|Y4] miliarda\nCivilní průmysl na jednotku: [?global.missile_CIC_unit_array^OLV_display_array^i|Y0]\nDny výroby na jednotku: [?global.missile_duration_unit_array^OLV_display_array^i|Y0]" # todo: NEW TRANSLATION
   SAT_WIN_BUTTON_TT: "[!sat_payload_type_button_click_enabled]" # todo: NEW TRANSLATION
@@ -368,6 +355,9 @@
   ASAT_WIN_BUTTON_TT: "[!ASAT_type_button_click_enabled]" # todo: NEW TRANSLATION
   ASAT_WIN_BUTTON_TT_delayed: "§YProti-satelitní zbraň§!:\nPřesnost: [?global.ASAT_accuracy_stat_array^ASAT_display_array^i|Y0%]\n\n§YProdukce§!:\nCena za jednotku: $[?global.missile_price_unit_array^ASAT_display_array^i|Y4] miliarda\nCivilní průmysl na jednotku: [?global.missile_CIC_unit_array^ASAT_display_array^i|Y0]\nDny výroby na jednotku: [?global.missile_duration_unit_array^ASAT_display_array^i|Y0]" # todo: NEW TRANSLATION
   SAT_ORBIT_TITLE: "Oběžná dráha satelitu" # todo: NEW TRANSLATION
+  SELECTED_COUNTRY_VIEW_TT: "Vybraná země" # todo: NEW TRANSLATION
+  COUNTRY_VIEW_FLAG_TT: "Aktuálně vybraná země je [?var:orbit_selected_TAG.GetNameWithFlag]\n\nChcete-li přepnout na jinou zemi, £click_left §YL Klikněte§!, čímž se otevře §YVýběr země§!. £click_right §YR Klikněte§! nastaví zobrazení vybrané satelitní oběžné dráhy zpět na vaši zemi." # todo: NEW TRANSLATION
+  COUNTRY_LIST_FLAG_BUTTON_TT: "[?ROOT.temp_countries^i.GetNameWithFlag]" # todo: NEW TRANSLATION
   TOTAL_SAT_NUM: "£GFX_Satellite_texticon  [total_sat_num_loc]" # todo: NEW TRANSLATION
   TOTAL_SAT_NUM_TT: "Celkový počet satelitů na oběžné dráze." # todo: NEW TRANSLATION
   TOTAL_SAT_NUM_TT_DELAYED: "Existuje celkový limit 3000 satelitů na oběžné dráze. Pokud je tento limit dosažen, nelze vyslat nové satelity, dokud ostatní nebudou zničeni." # todo: NEW TRANSLATION
@@ -413,12 +403,6 @@
   KILL_SATELLITES_ORBIT_TT3: "[?temp_KILL_3]" # todo: NEW TRANSLATION
   KILL_SATELLITES_ORBIT_TT4: "[?temp_KILL_4]" # todo: NEW TRANSLATION
   KILL_SATELLITES_ORBIT_TT5: "[?temp_KILL_5]" # todo: NEW TRANSLATION
-  RODS_SATELLITES_ORBIT: "£GFX_RODS_satellite_texticon  [RODS_sat_total]" # todo: NEW TRANSLATION
-  RODS_SATELLITES_ORBIT_TT: "§Y[RODS1_model_sat_orbit_loc]§! [RODS_SATELLITES_ORBIT_TT0_loc]\n§Y[RODS2_model_sat_orbit_loc]§! [RODS_SATELLITES_ORBIT_TT1_loc]\n§Y[RODS3_model_sat_orbit_loc]§! [RODS_SATELLITES_ORBIT_TT2_loc]" # todo: NEW TRANSLATION
-  RODS_sat_total_loc_key: "[?temp_RODS_total]" # todo: NEW TRANSLATION
-  RODS_SATELLITES_ORBIT_TT0: "[?temp_RODS_0]" # todo: NEW TRANSLATION
-  RODS_SATELLITES_ORBIT_TT1: "[?temp_RODS_1]" # todo: NEW TRANSLATION
-  RODS_SATELLITES_ORBIT_TT2: "[?temp_RODS_2]" # todo: NEW TRANSLATION
   SELECTED_SAT: "§gVybraný satelit§!\n£GFX_sat_amount_texticon  [?var_selected_sat]\n[selected_sat_type_loc]" # todo: NEW TRANSLATION
   ADD_TARGET_TT: "Přidat vybraný satelit do seznamu cílů." # todo: NEW TRANSLATION
   CLEAR_TARGET_TT: "Vymazat seznam cílů." # todo: NEW TRANSLATION
@@ -486,9 +470,6 @@
   KILLSAT4_selected_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT4_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
   KILLSAT5_selected_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT5_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
   KILLSAT6_selected_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT6_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
-  RODS1_selected_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS1_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
-  RODS2_selected_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS2_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
-  RODS3_selected_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS3_model_sat_orbit_loc]§!" # todo: NEW TRANSLATION
   GNSS1_target_sat_type_loc_key: "£GFX_GNSS_satellite_texticon  §Y[GNSS1_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
   GNSS2_target_sat_type_loc_key: "£GFX_GNSS_satellite_texticon  §Y[GNSS2_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
   GNSS3_target_sat_type_loc_key: "£GFX_GNSS_satellite_texticon  §Y[GNSS3_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
@@ -519,14 +500,10 @@
   KILLSAT4_target_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT4_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
   KILLSAT5_target_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT5_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
   KILLSAT6_target_sat_type_loc_key: "£GFX_KILL_satellite_texticon  §Y[KILLSAT6_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
-  RODS1_target_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS1_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
-  RODS2_target_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS2_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
-  RODS3_target_sat_type_loc_key: "£GFX_RODS_satellite_texticon  §Y[RODS3_model_sat_orbit_target_loc]§!" # todo: NEW TRANSLATION
   GNSS_target_sat_type_icon_loc_key: "£GFX_GNSS_satellite_texticon" # todo: NEW TRANSLATION
   COM_target_sat_type_icon_loc_key: "£GFX_COM_satellite_texticon" # todo: NEW TRANSLATION
   SPY_target_sat_type_icon_loc_key: "£GFX_SPY_satellite_texticon" # todo: NEW TRANSLATION
   KILL_target_sat_type_icon_loc_key: "£GFX_KILL_satellite_texticon" # todo: NEW TRANSLATION
-  RODS_target_sat_type_icon_loc_key: "£GFX_RODS_satellite_texticon" # todo: NEW TRANSLATION
   SAT_ACCESS: "§YSatellite Access§!" # todo: NEW TRANSLATION
   GNSS_MIL_ACCESS: "£GFX_GNSS_satellite_texticon  §YVojenský GNSS§!" # todo: NEW TRANSLATION
   GNSS_CIV_ACCESS: "£GFX_GNSS_satellite_texticon  §YCivilní GNSS§!" # todo: NEW TRANSLATION

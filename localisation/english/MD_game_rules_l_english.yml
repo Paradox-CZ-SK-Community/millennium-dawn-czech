@@ -36,7 +36,7 @@
   RULE_DISABLE_FIGHTING_AUTONOMY_FOCUS_DESC: "AI již nebude bojovat proti vaší autonomii pomocí kontinuálního zaměření §YZlepšit autonomii§!." # todo: NEW TRANSLATION
   RULE_ALLOW_MD_ANNEX: "Povolit úklid border gore" # todo: NEW TRANSLATION
   RULE_OPTION_MD_ANNEX_NO_DESC: "Nebude mít vliv na hranice po mírové dohodě a zůstanou tak, jak byly nakresleny na konferenci." # todo: NEW TRANSLATION
-  RULE_OPTION_MD_ANNEX_YES_DESC: "Po mírové dohodě, pokud existuje více instancí téhož tagu, budou všechny zbývající tagy integrovány do tagu s nejsilnějším suzerénem. Síla suzeréna bude určena podle jejich pořadí síly národního ducha. Úklid po válce může trvat až 14 dní." # todo: NEW TRANSLATION
+  RULE_OPTION_MD_ANNEX_YES_DESC: "Po mírové dohodě, pokud existuje více instancí stejného tagu, budou všechny zbývající tagy integrovány do toho, který má nejsilnějšího overlorda. Síla overlorda bude určena jeho národní ideou odpovídající pořadí síly. Úklid po válce může trvat až 14 dní." # todo: CHANGED
   RULE_ALLOW_CHAOTIC_PEACE_CONFERENCE: "Povolit chaotické mírové dohody" # todo: NEW TRANSLATION
   RULE_OPTION_CHAOTIC_PC_NO: "Ne" # todo: NEW TRANSLATION
   RULE_OPTION_CHAOTIC_PC_NO_DESC: "Tato volba by měla zřejmě zastavit, aby si všichni hráči AI nedělali nároky na území během mírových konferencí.\nToto omezuje, kdo může nárokovat státy na velmoci a vůdce frakcí. (Toto ovlivní pouze AI, hráč ne.)" # todo: NEW TRANSLATION
@@ -73,7 +73,7 @@
   HOL_POPULIST_RULE_AI_DESC: "Nizozemsko bude následovat populistický směr, s LPF nebo PVV, vedený národní suverenitou, přímou demokracií a silnou rétorikou proti zavedené politice.\n" # todo: NEW TRANSLATION
   HOL_MONARCHY_VOC_RULE: "Verenigde Oost-Indische Compagnie" # todo: NEW TRANSLATION
   HOL_MONARCHY_VOC_RULE_AI_DESC: "Nizozemsko znovu obnoví V.O.C. (Verenigde Oost-Indische Compagnie), která bude moci působit jako suverénní námořní moc. Území v Asii a dále budou opět spravována prostřednictvím korporační nadvlády nebo dobytí." # todo: NEW TRANSLATION
-  HOL_MONARCHY_WIC_RULE: "West-Indische Copagnie" # todo: NEW TRANSLATION
+  HOL_MONARCHY_WIC_RULE: "West-Indische Compagnie" # todo: CHANGED
   HOL_MONARCHY_WIC_RULE_AI_DESC: "Nizozemsko znovu oživí Západoindickou společnost (WIC), která bude mít pravomoc nad atlantskými držbami. Prostřednictvím směsi obchodu a dobytí znovu prosadí vliv Nizozemska v Americe a Africe pod koronou." # todo: NEW TRANSLATION
   HOL_NVU_RULE: "Nederlandse Volks-Unie" # todo: NEW TRANSLATION
   HOL_NVU_RULE_AI_DESC: "Nizozemsko spadá pod vládu NVU, radikální ultranacionalistické hnutí s ambicemi vytvořit sjednocené germánské impérium. Prostřednictvím militarismu, kulturní asimilace a agresivního expanzionismu bude holandský stát usilovat o vedení pan-germánského osudu — ať to stojí cokoli." # todo: NEW TRANSLATION
@@ -342,9 +342,6 @@
   PER_FIRE_HAS_NO_FRIENDS_IRAN_DESC: "MEK získá moc v Íránu ve snaze o vytvoření lidové republiky." # todo: NEW TRANSLATION
   PER_NO_REVOULT_IRAN: "Žádné revoluce" # todo: NEW TRANSLATION
   PER_NO_REVOULT_IRAN_DESC: "Írán se bude vyvíjet mírumilovně a bez revolucí." # todo: NEW TRANSLATION
-  RULE_PER_ZOROASTRIAN_STATE: "@PER Zoroastrian Resurgence" # todo: NEW TRANSLATION
-  RULE_PER_ZOROASTRIAN_STATE_ALLOWED_DESC: "Během zoroastrijského vzestupu by mohla být hratelná frakce." # todo: NEW TRANSLATION
-  RULE_PER_ZOROASTRIAN_STATE_BLOCKED_DESC: "Zoroastrijové se neobjeví" # todo: NEW TRANSLATION
   GEO_AI_BEHAVIOR: "@GEO Georgia" # todo: NEW TRANSLATION
   GEO_NATIONALIST_behavior: "@GEO Nationalist's behavior" # todo: NEW TRANSLATION
   GEO_help_CHE_behavior: "@GEO Help for Chechens" # todo: NEW TRANSLATION
@@ -463,6 +460,10 @@
   CZE_HISTORICAL_DESC: "Česká republika bude následovat historický volební program, co nejdříve začne exportovat vozy Škoda a pokusí se o invazi do Iráku. Petr Pavel zůstane v demokratické České republice a dokončí standardní mise." # todo: NEW TRANSLATION
   CZE_COMMUNISM: "Vítězství KSČM" # todo: NEW TRANSLATION
   CZE_COMMUNISM_DESC: "KSČM, komunistická strana, vyhraje volby a zahájí alternativní historickou cestu, kde bude usilovat o nárokování sporných území od jiných zemí." # todo: NEW TRANSLATION
+  CZE_MONARCHY_KING: "Obnovení monarchie (král)" # todo: NEW TRANSLATION
+  CZE_MONARCHY_KING_DESC: "Monarchistická strana se stane aktivnější a vyhraje volby, čímž obnoví českou monarchii pod habsburskou dynastií." # todo: NEW TRANSLATION
+  CZE_MONARCHY_PRESIDENT: "Obnovení monarchie (prezident)" # todo: NEW TRANSLATION
+  CZE_MONARCHY_PRESIDENT_DESC: "Monarchistická strana se stane aktivnější a vyhraje volby, čímž obnoví českou monarchii v rámci demokratického systému." # todo: NEW TRANSLATION
   GER_AI_BEHAVIOR: "@GER Spolková republika Německo" # todo: NEW TRANSLATION
   RULE_OPTION_GER_CONSERVATIVE: "Konzervativní" # todo: NEW TRANSLATION
   RULE_OPTION_GER_CONSERVATIVE_DESC: "Německo bude usilovat o konzervativní cestu." # todo: NEW TRANSLATION
@@ -518,6 +519,8 @@
   RULE_YES_DISABLE_EU_DESC: "Všechny země budou z Evropské unie odstraněny." # todo: NEW TRANSLATION
   RULE_NO_DISABLE_EU_DESC: "Evropská unie bude existovat tak, jak je." # todo: NEW TRANSLATION
   RULE_EUROPEAN_VOTING_COOLDOWN_LIMIT: "Doba mezi volbami Evropské unie" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE: "1 den" # todo: NEW TRANSLATION
+  RULE_OPTION_EU_ONE_DESC: "§RPro testovací účely.§! Doba čekání na hlasování v Evropském parlamentu a Evropské radě bude nastavena na jeden den místo výchozích sto osmdesáti dnů." # todo: NEW TRANSLATION
   RULE_OPTION_EU_SIXTY: "60 dní" # todo: NEW TRANSLATION
   RULE_OPTION_EU_SIXTY_DESC: "Doba odkladu hlasování Evropských Parlamentu a Evropské rady bude nastavena na 60 dní namísto výchozích 180 dní." # todo: NEW TRANSLATION
   RULE_OPTION_EU_NINETY: "90 dní" # todo: NEW TRANSLATION
@@ -605,8 +608,8 @@
   RULE_ALLOW_ENABLE_LEDGER_YES_DESC: "MD účetní deník je povolen. (Některé informace z La Resistance intel ledger mohou být redundantní. Vypněte tuto funkci, pokud chcete těžší hru.)" # todo: NEW TRANSLATION
   RULE_ALLOW_ENABLE_LEDGER_NO_DESC: "Vypne MD účetní deník. To je lepší pro uživatele, kteří preferují autentičtější zážitek a chtějí využít La Resistance k získání důležitých informací." # todo: NEW TRANSLATION
   RULE_HISTORIC_EVENTS: "Spouštění historických událostí" # todo: NEW TRANSLATION
-  RULE_HISTORIC_EVENTS_NO: "Historické události se nebudou spouštět náhodně. Většina událostí se bude i nadále spouštět náhodně, avšak určité události budou zaručeně spouštěny v měsíci odpovídajícím jejich historickému datu, aby se snížila šance na jejich výrazné zpoždění." # todo: NEW TRANSLATION
-  RULE_HISTORIC_EVENTS_YES: "Historické události se spouštějí." # todo: NEW TRANSLATION
+  RULE_HISTORIC_EVENTS_YES: "Historické události se nebudou spouštět zcela náhodně. Většina událostí se bude stále spouštět náhodně, nicméně určité události budou zaručeně spuštěny v měsíci jejich historického data, aby se snížila šance na jejich výrazné zpoždění. To neznamená, že budete mít dokonale historickou hru. Pouze to pomáhá nasměrovat hru historickým směrem." # todo: CHANGED
+  RULE_HISTORIC_EVENTS_NO: "Historické události se budou spouštět náhodně. Toto je normální nastavení hry." # todo: CHANGED
   RULE_ALLOW_HELP_GUI: "Povolit MD Nápověd GUI" # todo: NEW TRANSLATION
   RULE_ALLOW_HELP_GUI_YES: "To povolí MD Nápovědu GUI." # todo: NEW TRANSLATION
   RULE_ALLOW_HELP_GUI_NO: "Toto zakáže MD Nápovědu GUI." # todo: NEW TRANSLATION
@@ -650,6 +653,8 @@
   RULE_ENERGY_DIFFICULTY_HARD_DESC_AI: "§YZisk energie AI:§!§R -25%§!\n§YSpotřeba energie AI:§!§R +25%§!" # todo: NEW TRANSLATION
   RULE_ENERGY_DIFFICULTY_VERY_HARD_DESC_AI: "§YZisk energie AI:§!§R -50%§!\n§YSpotřeba energie AI:§!§R +50%§!" # todo: NEW TRANSLATION
   RULE_INTERNAL_FACTION_TICK_AMOUNT: "§YVnitřní frakce§! Názor měsíční počet bodů názoru" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_00: "0.00 názorů měsíčně" # todo: NEW TRANSLATION
+  RULE_OPTION_IF_POINT_00_DESC: "Rychlost měsíčního přírůstku názoru §YVnitřní frakce§! bude nastavena na 0.00 místo výchozích 0.50. Vlastní úspěchy Millennium Dawn budou s tímto nastavením deaktivovány." # todo: NEW TRANSLATION
   RULE_OPTION_IF_POINT_10: "0.10 Názor měsíčně" # todo: NEW TRANSLATION
   RULE_OPTION_IF_POINT_10_DESC: "Rychlost měsíčního tiků názoru vnitřní frakce bude nastavena na 0.10 namísto výchozí hodnoty 0.50. Millennium Dawn's custom achievements will be disabled with this setting." # todo: NEW TRANSLATION
   RULE_OPTION_IF_POINT_25: "0.25 Názor měsíčně" # todo: NEW TRANSLATION
@@ -670,15 +675,15 @@
   RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_CIVIL_WAR_DESC: "Sýrie zajistí, že si zvolí možnosti, pokud Arabské jaro přijde a bude nutit k historické občanské válce." # todo: NEW TRANSLATION
   RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_ISIS_SPAWN: "Vznik ISIS" # todo: NEW TRANSLATION
   RULE_SYRIA_ARAB_SPRING_CHOICE_HISTORICAL_ISIS_SPAWN_DESC: "Sýrie bude po celou dobu Arabského jara volit tyto možnosti, aby zajistila vznik historického Islámského státu (ISIS). To také zaručuje, že dojde k historické občanské válce." # todo: NEW TRANSLATION
-  RULE_ALLOW_CHANGING_LEGACY_DOCTRINES: "Povolit změnu legacy pozemních doktrín" # todo: NEW TRANSLATION
-  RULE_YES_ALLOW_CHANGING_LEGACY_DOCTRINES_DESC: "Můžete změnit své legacy pozemní doktríny." # todo: NEW TRANSLATION
-  RULE_NO_ALLOW_CHANGING_LEGACY_DOCTRINES_DESC: "Nelze měnit své legacy pozemní doktríny. Toto je výchozí možnost." # todo: NEW TRANSLATION
   RULE_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR: "Zakázat občanskou válku Muslimského bratrstva" # todo: NEW TRANSLATION
   RULE_YES_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR_DESC: "Občanská válka Muslimského bratrstva bude zakázána." # todo: NEW TRANSLATION
   RULE_NO_DISABLE_MUSLIM_BROTHERHOOD_CIVIL_WAR_DESC: "Občanská válka Muslimského bratrstva bude povolena." # todo: NEW TRANSLATION
   RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Povolit odvolání intervenčních sil" # todo: NEW TRANSLATION
-  RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTE: Toto není vyvážené a slouží jen jako dočasné opatření pro to, co chcete dělat. Jakékoli problémy se dobrovolníky a jinak nejsou na nás.§! Umožňuje vám odvolat intervenční síly z zemí.\n" # todo: NEW TRANSLATION
-  RULE_NO_ALLOW_INTERVENTION_FORCES: "§YDefault§!. Neumožňuje odvolat intervenční síly z cizích konfliktů." # todo: NEW TRANSLATION
+  RULE_YES_ALLOW_INTERVENTION_FORCES: "§YVýchozí§!. Umožňuje vám stáhnout intervenční síly z jiných zemí." # todo: CHANGED
+  RULE_NO_ALLOW_INTERVENTION_FORCES: "Neumožňuje vám stáhnout intervenční síly z cizích konfliktů." # todo: CHANGED
+  RULE_ALLOW_FORCING_A_WHITE_PEACE: "Povolit vynucení bílého míru" # todo: NEW TRANSLATION
+  RULE_YES_FORCING_A_WHITE_PEACE: "Umožňuje vám vynutit bílý mír s národem, který vede útočnou válku." # todo: NEW TRANSLATION
+  RULE_NO_FORCING_A_WHITE_PEACE: "Neumožňuje vám vynutit bílý mír s národem, který vede útočnou válku." # todo: NEW TRANSLATION
   RULE_OPTION_MD_DEFAULT: "Výchozí chování AI" # todo: NEW TRANSLATION
   RULE_OPTION_MD_DEFAULT_AI_DESC: "AI bude vybírat zaměření náhodně s mírným důrazem na historické volby. Stav světa a status zemí budou volby mírně ovlivňovat." # todo: NEW TRANSLATION
   AI_CHAOS: "Chaotické AI chování" # todo: NEW TRANSLATION

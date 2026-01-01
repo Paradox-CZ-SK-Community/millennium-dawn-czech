@@ -8,6 +8,8 @@
   base_mutual_investment_treaty_condition: "Základní neochota vůči §YDohoda o vzájemných investicích§!" # todo: NEW TRANSLATION
   base_propose_subsidies_to_subject_condition: "Základní neochota vůči §YOverlord Subsidies§!" # todo: NEW TRANSLATION
   base_assume_debt_condition: "Základní neochota vůči §YPřevzetí dluhu§!" # todo: NEW TRANSLATION
+  base_negotiate_operative_release: "Základní neochota vůči §YVyjednání propuštění operativce§!" # todo: NEW TRANSLATION
+  base_enforce_peace_option: "Základní neochota vůči §YProsazení míru§!" # todo: NEW TRANSLATION
   condition_two: "Nátlak typu vlády" # todo: NEW TRANSLATION
   condition_three: "Nátlak z názoru" # todo: NEW TRANSLATION
   condition_four: "Nátlak z obou členství v NATO" # todo: NEW TRANSLATION
@@ -19,6 +21,7 @@
   condition_eight: "[Root.GetNameWithFlag] Ovlivňuje [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
   condition_nine: "Aktuální úroková sazba [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
   condition_ten: "[THIS.GetNameWithFlag] z žebříčku moci" # todo: NEW TRANSLATION
+  difference_in_power_ranking: "Rozdíl v hodnocení síly" # todo: NEW TRANSLATION
   base_desire: "Základní touha" # todo: NEW TRANSLATION
   opinion_condition: "Názor" # todo: NEW TRANSLATION
   friends_condition: "Přátelé" # todo: NEW TRANSLATION
@@ -73,11 +76,19 @@
   DIPLO_ACTION_CANCEL_OVERLORD_SUBSIDIES: "Dotační program §YOverlord Subsidies§! mezi [ROOT.GetNameWithFlag] a [THIS.GetNameWithFlag] byl zrušen. Převod prostředků skončí po tomto týdnu." # todo: NEW TRANSLATION
   overlord_subsidies: "Nadvláda subvencuje naši zemi." # todo: NEW TRANSLATION
   NEGOTIATE_OPERATIVE_RELEASE_TITLE: "Vyjednávat o propuštění operativce" # todo: NEW TRANSLATION
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_DESC: "Nedávno byl v [THIS.GetName] zadržán jeden z našich operativců. Můžeme jednat s vládou o jejich propuštění a zaplatit malou náhradu, nebo se vrátit k naší skryté činnosti." # todo: NEW TRANSLATION
+  NEGOTIATE_OPERATIVE_RELEASE_ACTION_DESC: "Můžeme navrhnout vyjednávání o propuštění jednoho z našich zajatých §Yoperativců§! výměnou za $§Y2 miliardy§! s [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_DESC: "Nedávno byl v této zemi zajat jeden z našich operativců. Můžeme jednat s vládou o jeho propuštění a zaplatit malou náhradu, nebo se můžeme vrátit k našim utajeným postupům." # todo: CHANGED
   DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GPřijalo§! §YPropuštění operativce§!" # todo: NEW TRANSLATION
   DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasilo s propuštěním zajatého operativce, který byl v jejich rukou. Zaplatili jsme jim §Y$2 miliardy§! jako náhradu." # todo: NEW TRANSLATION
   DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_TITLE: "[THIS.GetNameWithFlag] §ROdmítlo§! k §YOperative Release§!" # todo: NEW TRANSLATION
   DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_DESC: "[THIS.GetNameWithFlag] odmítlo propuštění zajatého operativce v jejich držení. Takže jdeme na plán B." # todo: NEW TRANSLATION
+  ENFORCE_PEACE_OPTION_TITLE: "Prosadit mír" # todo: NEW TRANSLATION
+  ENFORCE_PEACE_OPTION_ACTION_DESC: "Můžeme se pokusit prosadit mír v této zemi, abychom zastavili aktivní a probíhající konflikty, za cenu značného množství vlivu a sympatií." # todo: NEW TRANSLATION
+  DIPLO_ACTION_ENFORCE_PEACE_OPTION_DESC: "[THIS.GetNameWithFlag] je momentálně v útočné válce a je v našem zájmu pokusit se jim vynutit mír. Měli bychom jim říct, aby přestali bojovat ve svých současných útočných válkách." # todo: NEW TRANSLATION
+  DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GSouhlasil§! s §YProsazením míru§!" # todo: NEW TRANSLATION
+  DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasil s okamžitým podepsáním příměří se svými současnými válečnými nepřáteli. Ztratili jsme velké množství vlivu v této zemi." # todo: NEW TRANSLATION
+  DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_TITLE: "[THIS.GetNameWithFlag] §GOdmítl§! §YProsazení míru§!" # todo: NEW TRANSLATION
+  DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_DESC: "[THIS.GetNameWithFlag] odmítl podmínky, které jsme předložili pro okamžité příměří... Asi přichází na řadu plán B." # todo: NEW TRANSLATION
   REQUEST_MIL_GNSS_ACCESS_TITLE: "Přístup k vojenskému GNSS" # todo: NEW TRANSLATION
   REQUEST_MIL_GNSS_ACCESS_ACTION_DESC: "Požadovat přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
   REQUEST_MIL_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k vojenské GNSS" # todo: NEW TRANSLATION

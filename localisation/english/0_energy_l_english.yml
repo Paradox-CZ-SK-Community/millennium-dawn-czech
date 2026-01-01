@@ -9,6 +9,10 @@
   energy_buy_reactor_grade_material_desc: "Dochází nám materiál reaktorové třídy. Bylo by vhodné zakoupit nějaký materiál pro naše jaderné reaktory." # todo: NEW TRANSLATION
   energy_building_enrichment_facilities: "§YBudování§! Obohacovacích zařízení" # todo: NEW TRANSLATION
   energy_building_enrichment_facilities_desc: "Zvolili jsme cestu jaderné energetiky. Je čas začít budovat materiály potřebné pro naši zemi." # todo: NEW TRANSLATION
+  energy_building_battery_parks: "§YVýstavba§! Bateriového parku" # todo: NEW TRANSLATION
+  energy_building_battery_parks_desc: "Rozhodli jsme se pro cestu obnovitelných zdrojů. Je čas začít budovat zařízení potřebná, aby naše země mohla ukládat energii vyrobenou naší obnovitelnou infrastrukturou." # todo: NEW TRANSLATION
+  energy_automatic_fuel_purchase: "Automatický §YNákup paliva§!" # todo: NEW TRANSLATION
+  energy_automatic_fuel_purchase_desc: "Aktuálně nakupujeme palivo za tržní cenu každých 28 dní." # todo: NEW TRANSLATION
   auto_accept_all_reactor_grade_purchases: "§YAutomaticky přijímat§! Nákupy materiálu reaktorové třídy" # todo: NEW TRANSLATION
   auto_accept_all_reactor_grade_purchases_desc: "Automaticky přijímat všechny nákupy materiálu reaktorové třídy ze zahraničních zemí." # todo: NEW TRANSLATION
   stop_auto_accept_all_reactor_grade_purchases: "Stop §YAutomatickému přijímání§! Nákupů materiálu reaktorové třídy" # todo: NEW TRANSLATION
@@ -126,10 +130,10 @@
   DISABLE_NUCLEAR_PRODUCTION_BUTTON: "VYPNOUT" # todo: NEW TRANSLATION
   total_ffp_amount_number: "[?number_of_fossil_pps]" # todo: NEW TRANSLATION
   total_ffp_amount_tt: "T tato hodnota představuje celkový počet §Yfosilních palivových elektráren§! v naší zemi." # todo: NEW TRANSLATION
-  total_ffp_amount_tt_delayed: "§YFosilní palivové elektrárny§! jsou souhrnem všech fosilně založených tepelných elektráren. Patří sem zejména; uhlí, zemní plyn a ropa. §YFosilní palivové elektrárny§! budou idle, pokud je výroba energie vyšší než spotřeba.\n\nPoskytuje stát základní: Zisk energie: §G+1§! GW\n" # todo: NEW TRANSLATION
+  total_ffp_amount_tt_delayed: "§YFosilní elektrárny§! jsou souhrnným pojmem pro všechny fosilní termoelektrické zdroje energie. Patří sem mimo jiné uhlí, zemní plyn a ropa. §YFosilní elektrárny§! budou nečinné, pokud je výroba energie vyšší než spotřeba.\n\nPoskytuje státu:\nZákladní přírůstek výkonu: §G+1§! GW\n\nAktuální §YZisk výkonu na elektrárnu§!: [?fossil_pp_energy_per_plant_display|+2]" # todo: CHANGED
   total_nuclear_reactor_amount: "[?nuclear_reactors]" # todo: NEW TRANSLATION
   total_nuclear_reactor_amount_tt: "Tato hodnota představuje celkový počet §YJaderný reaktor§! v naší zemi." # todo: NEW TRANSLATION
-  total_nuclear_reactor_amount_tt_delayed: "Tento objekt převádí jadernou energii na elektrickou energii, při tom spotřebovává mírně obohacený uran.\n\nPoskytuje státu:\nZákladní zisk energie: §G+2§! GW\n" # todo: NEW TRANSLATION
+  total_nuclear_reactor_amount_tt_delayed: "Tato budova přeměňuje jadernou energii na elektrickou energii, přičemž spotřebovává středně obohacený uran.\n\nPoskytuje státu:\nZákladní přírůstek výkonu: §G+2§! GW\n\nAktuální §YZisk výkonu na reaktor§!: [?nuclear_energy_per_reactor_display|+2]" # todo: CHANGED
   total_renewable_energy_amount_tt: "Tato hodnota představuje celkový počet §YInfrastruktury obnovitelné energie§! v naší zemi." # todo: NEW TRANSLATION
   total_renewable_energy_amount_tt_delayed: "§YInfrastruktura obnovitelné energie§! je souhrn všech obnovitelných zdrojů energie. Sem patří sluneční parky, větrné turbíny, biopalivové refineries, dřevěné uhlí a další. Používá obnovitelné zdroje a vyrábí palivo z těchto zdrojů.\n\nPoskytuje státu:\nZákladní Zisk energie: §G+0.5§! GW\n" # todo: NEW TRANSLATION
   total_fuel_silo_amount_tt: "Tato hodnota představuje celkový počet §YStrategická palivová rezerva§! v naší zemi." # todo: NEW TRANSLATION
@@ -147,9 +151,9 @@
   build_enrichment_facility_button_tt: "§YPostavit zařízení na obohacování§!\nZařízení na obohacování se používá k výrobě jaderného materiálu pro naše reaktory a naše jaderné zbraně. Pokud chcete jít jaderně v jakémkoli ohledu, budete potřebovat alespoň jedno z těchto zařízení, abyste vyrobili dostatek materiálu pro podporu vašich cílů. Pokud již nemáte zařízení na obohacování, některé země mohou být ochotny zasahovat do vaší země nebo požadovat určité ústupky..." # todo: NEW TRANSLATION
   build_enrichment_facility_button_delayed_tt: "§YPožadavky:§!\n[!build_enrichment_facility_button_click_enabled]\n§YDopady:§!\n[!build_enrichment_facility_button_click]\nMůžeme zařadit skupinu §YTři zařízení na obohacování§! najednou stisknutím klávesy £key_shift + £click_left §YShift L Klik§!.\n§YPožadavky:§!\n[!build_enrichment_facility_button_shift_click_enabled]\n§YDopady:§!\n[!build_enrichment_facility_button_shift_click]" # todo: NEW TRANSLATION
   build_battery_park_button_tt: "§YPostavit Bateriový park§!\n§YBateriový park§! je velká a drahá stavba, která může uložit §Y100GWh§! z přebytečné energetické produkce. Může být užitečné tyto zařízení vybudovat, aby pomohla ukládat energii pro časy, kdy nemůžeme vyrobit dostatek na pokrytí spotřeby, zvláště při využívání obnovitelných zdrojů kvůli jejich nestabilní výrobě." # todo: NEW TRANSLATION
-  build_battery_park_button_delayed_tt: "§YPožadavky:§!\n[!build_battery_park_button_click_enabled]\n§YDopady:§!\n[!build_battery_park_button_click]" # todo: NEW TRANSLATION
+  build_battery_park_button_delayed_tt: "§YPožadavky:§!\n[!build_battery_park_button_click_enabled]\n§YEfekty:§!\n[!build_battery_park_button_click]\nMůžeme do fronty zařadit skupinu §YTří bateriových parků§! najednou stisknutím £key_shift + £click_left §YShift + levé kliknutí§!.\n§YPožadavky:§!\n[!build_battery_park_button_shift_click_enabled]\n§YEfekty:§!\n[!build_battery_park_button_shift_click]" # todo: CHANGED
   buy_fuel_for_money_button_tt: "§YKoupit palivo z trhu§!\nNěkteří prodejci po celém světě nabízejí palivo za peníze. Nákup paliva může pomoci udržet naše elektrárny na fosilní paliva a naši vojenskou sílu v nouzi." # todo: NEW TRANSLATION
-  buy_fuel_for_money_button_delayed_tt: "§YPožadavky:§!\n[!buy_fuel_for_money_button_click_enabled]\n§YDopady:§!\n[!buy_fuel_for_money_button_click]" # todo: NEW TRANSLATION
+  buy_fuel_for_money_button_delayed_tt: "§YPožadavky:§!\n[!buy_fuel_for_money_button_click_enabled]\n§YEfekty:§!\n[!buy_fuel_for_money_button_click]\nMůžeme zařadit automatický nákup §YPaliva§! stisknutím £key_shift + £click_left §YShift + levé kliknutí§!" # todo: CHANGED
   enable_nuclear_reactor_fuel_production_tt: "§YPovolit jaderné obohacování§!\nMůžeme vyrábět vlastní palivo pro jaderné reaktory, pokud máme k tomu potřebné zařízení. Proces je nákladný a časově náročný, ale je důležitý pro to, aby naše jaderné reaktory mohly pokračovat ve provozu." # todo: NEW TRANSLATION
   enable_nuclear_reactor_fuel_production_delayed_tt: "§YPožadavky:§!\n[!enable_nuclear_reactor_fuel_production_click_enabled]\n§YDopady:§!\n[!enable_nuclear_reactor_fuel_production_click]" # todo: NEW TRANSLATION
   URANIUM_ENRICHMENT: "Výroba jaderného paliva" # todo: NEW TRANSLATION

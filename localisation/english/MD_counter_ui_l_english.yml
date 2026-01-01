@@ -72,6 +72,7 @@
   TOPBAR_ARMY_STRENGTH_TOOLTIP: "Síla armády" # todo: NEW TRANSLATION
   TOPBAR_ENERGY_BALANCE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie)" # todo: NEW TRANSLATION
   TOPBAR_ENERGY_BALANCE_PERCENTAGE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie v procentech)" # todo: NEW TRANSLATION
+  TOPBAR_ENERGY_STORED_ENERGY_TOOLTIP: "Celková uložená energie v §Ybateriových parcích§!." # todo: NEW TRANSLATION
   TOPBAR_WEEKLY_BALANCE_TOOLTIP: "Týdenní bilance (týdenní příjmy/výdaje)" # todo: NEW TRANSLATION
   TOPBAR_INTEREST_RATE_TOOLTIP: "Úroková sazba (procentuální částka placená na dluh)" # todo: NEW TRANSLATION
   TOPBAR_NAVY_STRENGTH_TOOLTIP: "Námořní síla" # todo: NEW TRANSLATION
@@ -111,6 +112,7 @@
   TOPBAR_delay_parliament_council: "[?delay_player_next_council_vote:days_left|0Y]" # todo: NEW TRANSLATION
   TOPBAR_energy_total_balance: "[?energy_balance|2+]" # todo: NEW TRANSLATION
   TOPBAR_energy_total_percentage: "[energy_total_net_energy_balance]" # todo: NEW TRANSLATION
+  TOPBAR_stored_energy_balance: "[?stored_energy|3Y]" # todo: NEW TRANSLATION
   TOPBAR_economy_treasury_rate: "[?treasury_rate|3+]" # todo: NEW TRANSLATION
   TOPBAR_economy_interest_rate: "[?interest_rate|2]%" # todo: NEW TRANSLATION
   TOPBAR_foreign_investment_active_projects: "[?active_projects|0Y]/15" # todo: NEW TRANSLATION

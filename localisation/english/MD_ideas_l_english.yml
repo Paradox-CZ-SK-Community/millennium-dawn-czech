@@ -74,14 +74,14 @@
   buddism_desc: "§YSpeciální pravidlo:§! §WMůže zakázat umírněné islamistické strany.§!\n\nBuddhismus je náboženství a dharma, které zahrnuje řadu tradic, přesvědčení a duchovních praktik převážně založených na učení Buddhy. Buddhismus vznikl ve starověké Indii někdy mezi 6. a 4. stoletím př. n. l., odkud se rozšířil do velké části Asie a v Indii upadl během středověku." # todo: NEW TRANSLATION
   hindu: "Hinduismus" # todo: NEW TRANSLATION
   hindu_desc: "§YSpeciální pravidlo:§! §WMůže zakázat umírněné islamistické strany.§!\n\nHinduismus je náboženství, nebo způsob života, široce praktikovaný na indickém subkontinentu. Hinduismus byl nazýván nejstarším nábožením na světě a někteří praktikující a vědci mu říkají Sanátana Dharma, „věčný řád“ nebo „věčný způsob“, nad lidskou historií." # todo: NEW TRANSLATION
-  christian: "Křesťanství" # todo: NEW TRANSLATION
-  christian_desc: "§YSpeciální pravidlo:§! §WMůže zakázat umírněné islamistické strany.§!\n\nKřesťanství je abrahámovské monoteistické náboženství založené na životě a učení Ježíše Krista, který slouží jako ústřední postava křesťanské víry. Je to největší světové náboženství s více než 2,4 miliardami následovníků, nebo 33 % celosvětové populace, známých jako křesťané." # todo: NEW TRANSLATION
+  christian: "Západní křesťanství" # todo: CHANGED
+  christian_desc: "§YSpeciální pravidlo:§! §WMůže zakázat umírněné islamistické strany.§!\n\nZápadní křesťanství je abrahámovské monoteistické náboženství založené na životě a učení Ježíše Krista, který slouží jako ústřední postava západních křesťanských vyznání. Zahrnuje mnoho sekt křesťanství, jako je protestantismus, katolicismus a luteránství, které dohromady mají více než 2,4 miliardy stoupenců, tedy 33 % světové populace." # todo: CHANGED
   orthodox_christian: "Pravoslavný křesťan" # todo: NEW TRANSLATION
   orthodox_christian_desc: "§YSpeciální pravidlo:§! §WMůže zakázat umírněné islamistické strany.§!\n\nVýchodní církev pravoslavná, také známá jako Pravoslavná církev, oficiálně jako Pravoslavná katolická církev, je druhou největší křesťanskou církví a jednou z nejstarších dosud existujících náboženských institucí na světě. Pravoslavná církev učí, že je Jedna, Svatá, Katolická a Apoštolská Církev, kterou založil Ježíš Kristus ve Velké posvátné misi pro apoštoly. Praktikuje to, co chápe jako původní křesťanskou víru a udržuje posvátnou tradici předávanou od apoštolů." # todo: NEW TRANSLATION
   zoroastrian: "Zoroastrianismus" # todo: NEW TRANSLATION
   zoroastrian_desc: "Zoroastrismus je nejstarší monoteistické náboženství na světě a jeho učení vychází z íránského proroka Zoroastro; vyučuje dualitu dobra a zla ve světě. Tři hlavní principy Zoroastrismu jsou Dobré myšlenky, Dobré skutky a Dobrá slova." # todo: NEW TRANSLATION
   assianism: "Assianismus" # todo: NEW TRANSLATION
-  assianism_desc: "Assianismus je lidové náboženství odvozené z tradiční mytologie Ossetů, moderních potomků Skythů z klanu Alánů, považované za pokračování starověkého skytického náboženství. Náboženství je mezi rusky mluvícími vyznavači známé jako „Assianismus“, nebo jednoduše Iron Din Ossetů v jejich vlastním jazyce. Začalo být vědomě znovu organizováno během 80. let 20. století jako etnické náboženství mezi Ossety." # todo: NEW TRANSLATION
+  assianism_desc: "Assianismus je lidové náboženství odvozené z tradiční mytologie Osetinců, současných potomků Skythů z alanských kmenů, považované za pokračování starověkého skythského náboženství. Mezi rusky mluvícími přívrženci je toto náboženství známo jako „Assianism“, nebo prostě jako Iron Din v osetštině. Začalo být vědomě reorganizováno v 80. letech jako etnické náboženství mezi Osetinci." # todo: CHANGED
   pluralist: "Pluralista" # todo: NEW TRANSLATION
   pluralist_desc: "Jako název světového názoru, podle kterého jedno náboženství není jediným a výlučným zdrojem pravdy, a tedy uznání, že alespoň některé pravdy a skutečné hodnoty existují i v jiných náboženstvích." # todo: NEW TRANSLATION
   EU_member: "Člen Evropské unie" # todo: NEW TRANSLATION
@@ -194,6 +194,8 @@
   massive_power_projection_desc: "Tato země je globální supervelmocí s obrovskou sítí vojenských základen po celém světě. Je schopna okamžitě vyslat své jednotky kamkoli na světě." # todo: NEW TRANSLATION
   the_rubber_baron_of_africa: "Gumový baron Afriky" # todo: NEW TRANSLATION
   the_rubber_baron_of_africa_desc: "[CDI.GetName] sedí na pokladu nerostných surovin, a jednou z takových surovin jsou gumovníkové stromy v naší velké zemi. Vyrábíme většinu gumy v Africe a musíme nadále monopolizovat takový životaschopný zdroj pro naše lidi. To jenom pomůže naší velké zemi růst a prosperovat." # todo: NEW TRANSLATION
+  HLS_idea_holy_see: "Svatý stolec" # todo: NEW TRANSLATION
+  HLS_idea_holy_see_desc: "Vatikán je střediskem veškerého katolicismu. Obyvatelstvo Vatikánu je osobně vybíráno papežem a jeho poradci. Proto nemůže být země nikdy řízena nikým jiným než papežem." # todo: NEW TRANSLATION
   party_commands_gun: "Strana řídí zbraně" # todo: NEW TRANSLATION
   party_commands_gun_desc: "Nejdůležitější loajalita Ozbrojené lidové armády patří Komunistické straně Číny. Tato loajalita je zajišťována důsledným ideologickým výcvikem a politickými kádry majícími nejvyšší posty v ozbrojených silách." # todo: NEW TRANSLATION
   party_commands_gun_new_era: "Strana řídí zbraně" # todo: NEW TRANSLATION
@@ -207,21 +209,21 @@
   chastity_paifang: "Pokojné soužití" # todo: NEW TRANSLATION
   chastity_paifang_desc: "Od založení Čínské lidové republiky byla zahraniční politika řízena pěti principy pokojného soužití. Tyto principy zahrnují vzájemný respekt k suverenitě a územní integritě, vzájemnou neútočnost, nezasahování do vnitřních záležitostí jiných států, rovnost a vzájemný prospěch a pokojné soužití. V důsledku těchto principů si Čína udržela anti-intervenční postoj a zároveň hájí Vestfálskou suverenitu států." # todo: NEW TRANSLATION
   one_child_policy: "Politika jednoho dítěte" # todo: NEW TRANSLATION
-  one_child_policy_desc: "Zamýšlena jako způsob omezení růstu čínské populace, politika jednoho dítěte je kontroverzní a ambiciózní pokus čínské vlády kontrolovat velikost čínské populace. Ačkoli přesný rozsah toho, jak moc politika omezila růst populace, je předmětem sporů, její dopady na čínskou společnost jsou nepopiratelné." # todo: NEW TRANSLATION
+  one_child_policy_desc: "Politika jednoho dítěte, vymyšlená jako způsob omezení růstu populace Číny, je kontroverzní a ambiciózní pokus čínské vlády kontrolovat velikost čínské populace. Zatímco přesný rozsah, do jakého politika zpomalila populační růst, je sporný, zásadní dopady této politiky na čínskou společnost jsou nepopiratelné." # todo: CHANGED
   two_child_policy: "Politika dvou dětí" # todo: NEW TRANSLATION
   two_child_policy_desc: "Po téměř třiceti letech politiky jednoho dítěte Čína prožívá pokles porodnosti. Aby tento trend rychle řešila a vrátila porodnost na normální úroveň, vláda plánuje mírně uvolnit omezení narození." # todo: NEW TRANSLATION
   factional_politics_balanced: "Frakční politika - Vyvážená" # todo: NEW TRANSLATION
-  factional_politics_balanced_desc: "Mocenský souboj mezi populisty z venkovských provincií a elitisty z urbanizovanějších a rozvinutějších oblastí Číny ustoupil a členové obou táborů se shodují, že kompromis je nejlepším způsobem, jak zajistit budoucnost Číny." # todo: NEW TRANSLATION
+  factional_politics_balanced_desc: "Boje o moc mezi populisty pocházejícími z venkovských provincií a elitáři z více urbanizovaných, zastavěných oblastí Číny utichly a členové obou stran se shodují, že kompromis je nejlepší cesta vpřed k zajištění budoucnosti Číny." # todo: CHANGED
   factional_politics_populist: "Frakční politika - Dominance mládežnické ligy" # todo: NEW TRANSLATION
   factional_politics_populist_desc: "Zastánci populistických politik, například absolventi Komunistické mládežnické ligy, dnes určují národní politiku Číny. To zpochybňuje zavedené zájmy ve prospěch venkovské chudiny, ale nepodporuje hospodářský růst." # todo: NEW TRANSLATION
   factional_politics_elitist: "Frakční politika - Dominance Šanghajské kliky" # todo: NEW TRANSLATION
   factional_politics_elitist_desc: "Členové frakce více pro byznys a rozvoj drží otěže moci. To pomáhá růstu a rozvoji, ale ztěžuje získání podpory mezi venkovskou chudinou a bojuje proti korupci." # todo: NEW TRANSLATION
   three_represents: "Tři reprezentace" # todo: NEW TRANSLATION
-  three_represents_desc: "Tři reprezentace je teorie o tom, za co Komunistická strana Číny odpovídá, kterou prosadil Jiang Zemin. Teorie uvádí, že Komunistická strana Číny musí být reprezentativní pro vyspělé výrobní síly, vyspělou kulturu a zájmy většiny. Důsledky této teorie zahrnují větší akceptaci čínské rostoucí obchodní třídy ze strany Komunistické strany, což bývá kritizováno v některých oblastech za odklon od marxismu a maoismu." # todo: NEW TRANSLATION
+  three_represents_desc: "„Tři zastupování“ je teorie toho, co Komunistická strana zastupuje, kterou předložil Jiang Zemin. Teorie uvádí, že Komunistická strana musí zastupovat pokročilé společenské produktivní síly, pokročilou kulturu a zájmy většiny. Důsledkem této teorie je větší přijetí rostoucí čínské podnikatelské třídy Komunistickou stranou, což vedlo k její kritice v některých oblastech za odklon od marxismu a učení Mao Ce-tunga." # todo: CHANGED
   scientific_outlook_on_development: "Vědecký pohled na rozvoj" # todo: NEW TRANSLATION
-  scientific_outlook_on_development_desc: "V mnoha ohledech jde o odpor Hu Jintaa vůči růstově orientovanému zaměření Jiang Zeminova „Třech představitelů“, „Vědecký pohled na rozvoj“ je teoretickým pilířem Huovy vlády, který se zaměřuje na udržitelný růst, jenž minimalizuje environmentální znečištění a socioekonomickou nerovnost." # todo: NEW TRANSLATION
+  scientific_outlook_on_development_desc: "V mnoha ohledech jako protiúder Hu Jintao proti růstově orientovanému zaměření Jiang Zemina v „Třech zastupováních“ je „Vědecký pohled na rozvoj“ teoretickým základem Huovy vlády, který se soustředí na udržitelný růst minimalizující znečištění životního prostředí a socioekonomickou nerovnost." # todo: CHANGED
   zeng_qinghong_thought: "Zeng Qinghongovo myšlení" # todo: NEW TRANSLATION
-  zeng_qinghong_thought_desc: "Navazující na Jiang Zeminovy „Tři představitele“, Zeng formuloval novou ideologickou podstatu pro KS Číny, která zdůrazňuje povinnost strany reprezentovat většinu čínského lidu. Zeng Qinghongovo myšlení volá po odpovědnější a transparentnější straně, kterou mohou občané Číny vnímat jako více reprezentativní a legitimní. Klíčem k této teorii je myšlenka „pohledu lidí“ a jak mohou stranické úředníci maximalizovat zájmy země jen při práci pod tímto dohledem." # todo: NEW TRANSLATION
+  zeng_qinghong_thought_desc: "Navazujíc na Jiang Zeminova „Tři zastupování“ formuloval Zeng novou ideologickou bázi pro Komunistickou stranu Číny, která zdůrazňuje povinnost strany zastupovat většinu čínského lidu. Myšlenky Zeng Qinghonga požadují zodpovědnější a transparentnější stranu, kterou mohou čínští lidé vnímat jako více reprezentativní a legitimní. Klíčová pro tuto teorii je myšlenka „pohledu lidu“ a to, že straníčtí představitelé mohou maximalizovat zájmy země pouze tehdy, když jednají pod tímto pohledem." # todo: CHANGED
   xi_jinping_thought: "Xi Jinpingovo myšlení" # todo: NEW TRANSLATION
   xi_jinping_thought_desc: "Xi Jinpingův příspěvek k teoretickému základu vlády KS Číny je ten, který stanovuje řadu vznešených cílů pro stranu a zemi do budoucna. To, co odlišuje tento konkrétní teoretický rámec od většiny Xiho předchůdců, je míra, do které je dodržování této ideologie spojeno s loajalitou. Loajalita k straně, loajalita k zemi, ale také významně, loajalita samotnému Xi Jinpingovi." # todo: NEW TRANSLATION
   chongqing_model: "Chongqingský model" # todo: NEW TRANSLATION
@@ -327,6 +329,7 @@
   SCO_development_assistance_2_desc: "Získali jsme potřebnou rozvojovou pomoc Čínou pod záštitou Šanghajské organizace pro spolupráci." # todo: NEW TRANSLATION
   SCO_joint_drill: "Společná cvičení ŠAO" # todo: NEW TRANSLATION
   CHI_Invigorate_Country_Through_STE1: "Oživit zemi prostřednictvím STE" # todo: NEW TRANSLATION
+  CHI_Invigorate_Country_Through_STE1_tt: "Roční technologický bonus k výpočetním nebo internetovým technologiím" # todo: NEW TRANSLATION
   CHI_promoting_innovation: "Podpora inovací" # todo: NEW TRANSLATION
   CHI_promoting_innovation_desc: "Inovace je první hnací silou rozvoje." # todo: NEW TRANSLATION
   CHI_improving_rd: "Zlepšování výzkumu a vývoje" # todo: NEW TRANSLATION
@@ -485,16 +488,6 @@
   ISI_islamic_state_early_offensive_idea_desc: "Islámský stát zahájil ofenzivu v Sýrii a Iráku." # todo: NEW TRANSLATION
   ISI_islamic_state_failure_idea: "Selhání při obraně proti Islámskému státu" # todo: NEW TRANSLATION
   ISI_islamic_state_failure_idea_desc: "Chalífát zahájil svou ofenzivu a my nejsme připraveni se bránit. Musíme posílit obranu a připravit se na to nejhorší." # todo: NEW TRANSLATION
-  major_western_influence: "Hlavní západní vliv" # todo: NEW TRANSLATION
-  minor_western_influence: "Mírný západní vliv" # todo: NEW TRANSLATION
-  major_emerging_influence: "Hlavní vznikající vliv" # todo: NEW TRANSLATION
-  minor_emerging_influence: "Mírný vznikající vliv" # todo: NEW TRANSLATION
-  major_nonaligned_influence: "Hlavní nezařazený vliv" # todo: NEW TRANSLATION
-  minor_nonaligned_influence: "Mírný nezařazený vliv" # todo: NEW TRANSLATION
-  major_nationalist_influence: "Hlavní nacionalistický vliv" # todo: NEW TRANSLATION
-  minor_nationalist_influence: "Mírný nacionalistický vliv" # todo: NEW TRANSLATION
-  major_salafist_influence: "Hlavní salafistický vliv" # todo: NEW TRANSLATION
-  minor_salafist_influence: "Mírný salafistický vliv" # todo: NEW TRANSLATION
   isis_sleeper_cell_idea: "Spící buňky ISIS" # todo: NEW TRANSLATION
   isis_sleeper_cell_idea_desc: "Zatracení teroristé se do naší země nějak prosadili a způsobují potíže. Musíme je zničit dříve, než způsobí více krve, slz a utrpení." # todo: NEW TRANSLATION
   israel_new_intifada: "Nová intifáda" # todo: NEW TRANSLATION
@@ -650,6 +643,8 @@
   pragmatism_focus_desc: "Ve světovém názoru pragmatismu se objekty oceňují podle jejich praktické použitelnosti. V politice je to důležité a nemůžeme dělat věci jen proto, že jsme je vždy dělali, nebo protože to od nás očekávají." # todo: NEW TRANSLATION
   economic_autonomy: "Ekonomická autonomie" # todo: NEW TRANSLATION
   economic_autonomy_desc: "Jednou z největších hrozeb pro zemi je vydání naší ekonomiky cizí moci. Náš lid není jejich, aby byl utlačován, ale náš." # todo: NEW TRANSLATION
+  emerging_outlook: "Posun nově vznikajícího výhledu" # todo: NEW TRANSLATION
+  emerging_outlook_desc: "" # todo: NEW TRANSLATION
   flexible_diplomacy: "Flexible diplomacy" # todo: NEW TRANSLATION
   flexible_diplomacy_desc: "Jakákoli země může být naším spojencem či nepřítelem. Musíme hledat oboje – jak výhody, tak nevýhody." # todo: NEW TRANSLATION
   idea_generic_reaching_to_the_global_market: "Dosažení globálního trhu" # todo: NEW TRANSLATION
@@ -773,7 +768,7 @@
   asian_crisis: "Asijská finanční krize 1997" # todo: NEW TRANSLATION
   asian_crisis_desc: "Ekonomická krize zasáhla rozvíjející se východní a jihovýchodní Asii a zničila desetiletí růstu. Ztráta důvěry v národní měny dodnes sužuje centrální banky. Veřejný i soukromý dluh vzrostl.\n\nTěžké ponaučení byla naučena, dřívější nežádoucí ekonomické reformy jsou v plném proudu. Každá země byla zasažena jinak a každá má své řešení.\n\nPříliv investic do postižených zemí býval polovinou celosvětové částky, nyní však míří do [CHI.GetFlag]Číny a dále." # todo: NEW TRANSLATION
   int_investment_china: "Přísun mezinárodních investic" # todo: NEW TRANSLATION
-  int_investment_china_desc: "Po asijské ekonomické krizi investoři zvolili odklon svých investic na jiné trhy a hlavně k nám.\n§W--------------§!\nTento Národní duch bude §Rodstraněn§! pokud budeme v §HVále§!." # todo: NEW TRANSLATION
+  int_investment_china_desc: "Po asijské ekonomické krizi se investoři rozhodli přesunout své investice na jiné trhy, především k nám.\n§W--------------§!\nTento národní nápad bude §ROdstraněn§! pokud budeme ve §HVálce§!." # todo: CHANGED
   mp_optimization_idea: "Optimalizace MP AI" # todo: NEW TRANSLATION
   mp_optimization_idea_desc: "Zabraňuje AI dělat podivné věci." # todo: NEW TRANSLATION
   low_level_of_aids: "Nízký výskyt HIV" # todo: NEW TRANSLATION
