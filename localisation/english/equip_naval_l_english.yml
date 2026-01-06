@@ -1,22 +1,26 @@
 ﻿l_english:
-  naval_equipment: "Lodě" # todo: NEW TRANSLATION
-  corvette: "Korveta" # todo: NEW TRANSLATION
-  corvette_desc: "Nejmenší třída plavidel považovaných za válečné lodě. Korvety jsou levné a snáze nahraditelné než jejich větší protějšky." # todo: NEW TRANSLATION
-  frigate: "Fregata" # todo: NEW TRANSLATION
-  frigate_desc: "Tvoří jádro mnoha moderních námořnictev; fregaty mohou být používány jako součást oceánských námořních sil." # todo: NEW TRANSLATION
-  destroyer: "Torpédoborec" # todo: NEW TRANSLATION
-  destroyer_desc: "Určeny k eskortě větších plavidel ve flotile, tyto rychlé, obratné a s dlouhou výdrží válečné lodě jsou rovněž schopné samostatné operace." # todo: NEW TRANSLATION
-  stealth_destroyer: "Maskovací torpédoborce" # todo: NEW TRANSLATION
-  stealth_destroyer_desc: "Rané maskovací lodě navržené k dopravení palebné síly na místo při minimalizaci schopnosti nepřítele plavidlo detekovat a zasáhnout." # todo: NEW TRANSLATION
-  cruiser: "Křižník" # todo: NEW TRANSLATION
-  cruiser_desc: "Typicky největší útočná plavidla v moderní flotile; tato silná plavidla dokážou operovat na oceánech a mořích po celém světě." # todo: NEW TRANSLATION
-  helicopter_operator: "Nosiče vrtulníků" # todo: NEW TRANSLATION
-  helicopter_operator_desc: "" # todo: NEW TRANSLATION
-  submarine: "Ponorka" # todo: NEW TRANSLATION
-  submarine_desc: "" # todo: NEW TRANSLATION
-  stealth_frigate: "Maskovaná fregata" # todo: NEW TRANSLATION
-  stealth_frigate_desc: "Pokročilé konstrukce, postavené tak, aby využily technologie obcházející radar, což námořnictvu umožňuje mnohem větší svobodu manévru v boji." # todo: NEW TRANSLATION
-  stealth_corvette: "Maskovaná korveta" # todo: NEW TRANSLATION
-  stealth_corvette_desc: "Pokročilý maskovací návrh korvety ke zlepšení přeživatelnosti." # todo: NEW TRANSLATION
-  carrier: "Letadlová loď" # todo: NEW TRANSLATION
-  carrier_desc: "Velké plavidlo navržené k přepravě a startu letadel. Letadlové lodě jsou páteří moderní námořní síly." # todo: NEW TRANSLATION
+  naval_equipment: "Lodě"
+  corvette: "Korveta"
+  corvette_desc: "Nejmenší třída plavidel považovaných za válečné lodě. Korvety jsou levné na výrobu a provoz a jsou spotřebnější než jejich větší protějšky."
+  frigate: "Fregata"
+  frigate_desc: "Páteř mnoha moderních námořnictev. Fregaty mohou být nasazeny jako součást oceánských („blue water“) námořních sil."
+  destroyer: "Torpédoborec"
+  destroyer_desc: "Rychlé, obratné válečné lodě s dlouhým dosahem, určené k doprovodu větších plavidel flotily, ale schopné i samostatného nasazení."
+  stealth_destroyer: "Stealth torpédoborce"
+  stealth_destroyer_desc: "Raně stealthové lodě navržené k nasazení palebné síly při minimalizaci možnosti nepřítele plavidlo odhalit a napadnout."
+  cruiser: "Křižník"
+  cruiser_desc: "Obvykle největší útočné lodě moderní flotily. Tyto mocné jednotky jsou schopny operovat na všech oceánech a mořích světa."
+  helicopter_operator: "Vrtulníkové lodě"
+  helicopter_operator_desc: ""
+  submarine: "Ponorka"
+  submarine_desc: ""
+  stealth_frigate: "Stealth fregata"
+  stealth_frigate_desc: "Pokročilé konstrukce využívající technologie snižující radarovou zjistitelnost, které dávají námořnictvu větší volnost manévru v boji."
+  stealth_corvette: "Stealth korveta"
+  stealth_corvette_desc: "Pokročilý stealthový návrh korvety zaměřený na zvýšení její přežitíschopnosti."
+  carrier: "Letadlová loď"
+  carrier_desc: "Velká loď určená k přepravě a nasazení letadel. Letadlové lodě jsou páteří moderní námořní síly."
+  attack_submarine: "Útočná ponorka"
+  attack_submarine_desc: ""
+  missile_submarine: "Raketová ponorka"
+  missile_submarine_desc: ""

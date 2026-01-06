@@ -1592,6 +1592,7 @@
   Sweden_foci.4.o1: "Pořídit Panzerhaubitze 2000 z Německa" # todo: NEW TRANSLATION
   Sweden_foci.4.o2: "Pořídit 2S19 Msta z Ruska" # todo: NEW TRANSLATION
   Sweden_foci.4.o3: "Spolupracovat s Norskem na Archer Artillery System" # todo: NEW TRANSLATION
+  Sweden_foci.4.o4: "Na to nemáme prostředky."
   Sweden_foci.4001.t: "Odezva na Švédskou žádost o pořízení dělostřelectva" # todo: NEW TRANSLATION
   Sweden_foci.4001.d1: "Německo obdrželo žádost Švédska o pořízení Panzerhaubitze 2000. Schválení této žádosti by posílilo obranné vazby mezi oběma zeměmi a posílilo regionální bezpečnost." # todo: NEW TRANSLATION
   Sweden_foci.4001.d2: "Rusko obdrželo žádost Švédska o pořízení samohybných houfnic 2S19 Msta. Schválení této žádosti by mohlo otevřít cesty k vojenské spolupráci a ovlivnit budoucí vztahy." # todo: NEW TRANSLATION
@@ -1613,6 +1614,7 @@
   Sweden_foci.5.o1: "Pořídit vrtulníky MH-60L Black Hawk ze Spojených států" # todo: NEW TRANSLATION
   Sweden_foci.5.o2: "Pořídit vrtulníky Mi-26 z Ruska" # todo: NEW TRANSLATION
   Sweden_foci.5.o3: "Pořídit vrtulníky AS532 Cougar z Francie" # todo: NEW TRANSLATION
+  Sweden_foci.5.o4: "Na to nemáme prostředky"
   Sweden_foci.5001.t: "Reakce na Švédskou žádost o pořízení transportních vrtulníků." # todo: NEW TRANSLATION
   Sweden_foci.5001.d1: "Právě jsme obdrželi Švédskou žádost o pořízení MH-60L Black Hawk. Schválení této žádosti by posílilo obranné vazby mezi oběma zeměmi a zlepšilo taktické transportní schopnosti Švédska." # todo: NEW TRANSLATION
   Sweden_foci.5001.d2: "Právě jsme obdrželi švédskou žádost o pořízení vrtulníků Mi-26. Schválení této žádosti by mohlo otevřít cesty pro vojenskou spolupráci a významně posílit švédskou kapacitu pro těžké přepravy." # todo: NEW TRANSLATION
@@ -1662,6 +1664,7 @@
   Sweden_foci.7.o1: "Pořídit korvety MEKO A-100 z Německa" # todo: NEW TRANSLATION
   Sweden_foci.7.o2: "Pořídit Tarantul-Class korvet z Ruska" # todo: NEW TRANSLATION
   Sweden_foci.7.o3: "Pořiďte Hamina-třídní korvety z Finska" # todo: NEW TRANSLATION
+  Sweden_foci.7.o4: "Zahájit vlastní projekty"
   Sweden_foci.70.t: "Naše cíle vojenské spolupráce byly úspěšně dosaženy." # todo: NEW TRANSLATION
   Sweden_foci.70.d: "Naše úsilí se vyplatilo a učinili jsme další velký krok na cestě k světovému míru." # todo: NEW TRANSLATION
   Sweden_foci.70.b: "Dnes je náš šťastný den." # todo: NEW TRANSLATION
@@ -1980,6 +1983,8 @@
   SWE_idea_the_neutral_act_desc: "Švédsko potvrzuje svou geopolitickou neutralitu prostřednictvím zákona, který kodifikuje neangažovanost, omezuje vojenské závislosti a prosazuje budování míru jako národní ctnost." # todo: NEW TRANSLATION
   SWE_non_allied_block: "Koordinační fórum nezařazených států" # todo: NEW TRANSLATION
   SWE_non_allied_block_desc: "Švédsko koordinuje s ostatními neutrálními či nezařazenými státy, aby vytvořilo volnou, ale cílevědomou diplomatickou síť. Toto fórum si klade za cíl zprostředkovávat mezinárodní krize a odolávat polarizaci velmocí." # todo: NEW TRANSLATION
+  SWE_idea_no_hijab: "Zákaz hidžábu"
+  SWE_idea_no_hijab_desc: "Hidžáb je symbolem náboženského extremismu a v Švédsku není pro náboženský extremismus místo."
   SWE_idea_rassism: "Skrytý rasismus" # todo: NEW TRANSLATION
   SWE_idea_rassism_desc: "Navzdory pokrokovému obrazu se Švédsko potýká se strukturálními a kulturními problémy souvisejícími s etnickým vylučováním, sociálním rozvrstvením a politickou marginalizací. Tato napětí ohrožují národní soudržnost a legitimitu." # todo: NEW TRANSLATION
   SWE_idea_pluralism: "Demokratický pluralismus" # todo: NEW TRANSLATION
@@ -1998,7 +2003,7 @@
   SWE_idea_philip_desc: "Princ Carl Philip, vyučený jako vojenský důstojník a aktivní v veřejné prezentaci, spojuje tradici a modernitu. Ztělesňuje loajalitu, disciplínu a službu vlasti. Jeho spojení s ozbrojenými silami a závazek vůči veteránům a veřejným akcím posiluje symbolickou jednotu mezi korunou a vojenským duchem." # todo: NEW TRANSLATION
   SWE_idea_royal_cultural_institutes: "Královské kulturní instituce" # todo: NEW TRANSLATION
   SWE_idea_royal_cultural_institutes_desc: "Královská rodina aktivně podporuje muzea, akademie a kulturní diplomacii. Tyto instituce uchovávají národní dědictví a posilují švédskou měkkou sílu v zahraničí." # todo: NEW TRANSLATION
-  SWE_idea_nationalize_royal_foundation: "Nacionalizovat Královskou nadaci" # todo: NEW TRANSLATION
+  SWE_idea_nationalize_royal_foundation: "Znárodnit Královskou nadaci" # todo: NEW TRANSLATION
   SWE_idea_nationalize_royal_foundation_desc: "V symbolickém, avšak strukturálním kroku byla Královská nadace postavena pod dohledem státu. Tento akt směřuje zdroje na veřejné vzdělávání, sociální péči a inkluzivní kulturu." # todo: NEW TRANSLATION
   SWE_no_royal_privileges: "Zrušit královské výsady" # todo: NEW TRANSLATION
   SWE_no_royal_privileges_desc: "Královské výsady, z nichž byly vyňaty zákony, zdanění a odpovědnost, byly zrušeny. V novém Švédsku nestojí žádná rodina nad občany, ani samotná koruna." # todo: NEW TRANSLATION
@@ -2008,6 +2013,10 @@
   SWE_no_nobelman_desc: "Všechny šlechtické tituly a výsady byly zbaveny právního významu. Švédská republika neuznává aristokracii; uznává jen občany, rovné v právech a povinnostech." # todo: NEW TRANSLATION
   SWE_idea_workforce: "Mobilizovaná pracovní síla" # todo: NEW TRANSLATION
   SWE_idea_workforce_desc: "Prostřednictvím vzdělávání, reformy povolání a inkluzivních pracovních politik Švédsko aktivovalo svůj plný výrobní potenciál. Pracovní síla není jen mobilizována, je ceněna." # todo: NEW TRANSLATION
+  SWE_idea_foi: "Totalförsvarets forskningsinstitut"
+  SWE_idea_foi_desc: "Totalförsvarets forskningsinstitut posune obranný výzkum našeho státu do nové éry."
+  SWE_science_nordic_idea: "Severská vědecká spolupráce"
+  SWE_science_nordic_idea_desc: "Když se spojíme, budeme silnější."
   SWE_marxist_reeducation_idea: "Marxistická reedukace" # todo: NEW TRANSLATION
   SWE_marxist_reeducation_idea_desc: "Systematický ideologický program přeformuje sociální vědomí prostřednictvím vzdělávání, školení v rámci strany a kultury orientované na třídu. Staré struktury moci musí být rozloženy nejen fyzicky, ale i mentálně." # todo: NEW TRANSLATION
   SWE_seeherrschaft: "Nad Baltským mořem" # todo: NEW TRANSLATION
@@ -2260,8 +2269,11 @@
   SWE_Riga_legacy_desc: "Historický vliv švédské říše v Rigě dodnes rezonuje v jejích institucích a infrastruktuře. Toto dědictví podporuje místní rozvoj a stabilitu." # todo: NEW TRANSLATION
   SWE_southafrica_metals: "Jižně africká dohoda o strategických kovů" # todo: NEW TRANSLATION
   SWE_southafrica_metals_desc: "Prostřednictvím bilaterální dohody se Jižní Afrikou Švédsko zajistilo spolehlivý přístup k vzácným a strategickým kovům klíčovým pro obranu a vyspělé technologie." # todo: NEW TRANSLATION
+  SWE_riksglans: "Riksglans"
+  SWE_riksglans_desc: "Ať žije země."
   SAF_swe_metals_investment: "Švédské investice do těžebního sektoru" # todo: NEW TRANSLATION
   SAF_swe_metals_investment_desc: "Švédské investice posilují jihoafrickou těžební infrastrukturu, uvádějí do praxe moderní technologie a posilují průmyslovou produkci v klíčových strategických sektorech." # todo: NEW TRANSLATION
+  SWE_change_royal_modifier_tt: "Upravuje §Y$SWE_monarchy_modifier$§! o "  
   SWE_royal_stability_factor_tt: "Upravuje §YZisk stability§! pro §Hšvédskou monarchii§! o [?SWE_royal_stability_factor_change|+%] (Current: [?SWE_royal_stability_factor|Y%])" # todo: NEW TRANSLATION
   SWE_royal_war_support_factor_tt: "Upravuje §YVálečná podpora§! pro §Hšvédskou monarchii§! o [?SWE_royal_war_support_factor_change|+%] (Current: [?SWE_royal_war_support_factor|Y%])" # todo: NEW TRANSLATION
   SWE_royal_surrender_limit_tt: "Upravuje §YLimit kapitulace§! pro §Hšvédskou monarchii§! o [?SWE_royal_surrender_limit_change|1+] (Current: [?SWE_royal_surrender_limit|Y%])" # todo: NEW TRANSLATION
@@ -2660,6 +2672,7 @@
   SWE_Saab_Bofors_Dynamics_manufacturer: "Saab Bofors Dynamics" # todo: NEW TRANSLATION
   SWE_saab_ab_aircraft_manufacturer: "Saab Aeronautics" # todo: NEW TRANSLATION
   SWE_saab_ab_materiel_manufacturer: "Saab AB" # todo: NEW TRANSLATION
+  SWE_saab_bofors_dynamics_materiel_manufacturer: "Saab Bofors Dynamics"
   SWE_Saab_Bofors_Dynamics_FFV: "Saab Bofors Dynamics - Gevärsfaktoriet" # todo: NEW TRANSLATION
   SWE_kockums_ab_naval_manufacturer: "Kockums Båtvarv" # todo: NEW TRANSLATION
   SWE_kockums_ab_naval_manufacturer2: "Kockums Ubåtsvarv" # todo: NEW TRANSLATION

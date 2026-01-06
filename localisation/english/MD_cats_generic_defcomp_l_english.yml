@@ -1,263 +1,84 @@
 ﻿l_english:
-  Defense_companies: "Obranné společnosti" # todo: NEW TRANSLATION
-  Generic_naval_manufacturer: "Obecná lodní společnost" # todo: NEW TRANSLATION
-  Generic_naval_manufacturer2: "Obecná ponorková společnost" # todo: NEW TRANSLATION
-  Generic_tank_manufacturer: "Obecná společnost pro vozidla" # todo: NEW TRANSLATION
-  Generic_materiel_manufacturer: "Obecná společnost pro pěchotní zbraně" # todo: NEW TRANSLATION
-  Generic_tank_manufacturer2: "Obecná vrtulníková společnost" # todo: NEW TRANSLATION
-  Generic_aircraft_manufacturer: "Obecná letecká společnost" # todo: NEW TRANSLATION
-  naval_manufacturer: "Námořní společnosti" # todo: NEW TRANSLATION
-  tank_manufacturer: "Obranné společnosti pro vozidla" # todo: NEW TRANSLATION
-  materiel_manufacturer: "Obranné společnosti pro pěchotní zbraně" # todo: NEW TRANSLATION
-  aircraft_manufacturer: "Letecká obranná společnost" # todo: NEW TRANSLATION
-  CAT_naval_all_1: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_2: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_3: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_4: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_5: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_6: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_7: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_8: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_9: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_naval_all_10: "Výrobce námořních lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship: "Vybavení povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_research: "Výzkum povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_1: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_2: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_3: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_4: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_5: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_6: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_7: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_8: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_9: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_surface_ship_10: "Výrobce povrchových lodí" # todo: NEW TRANSLATION
-  CAT_carrier: "Letadlová loď" # todo: NEW TRANSLATION
-  CAT_carrier_research: "Výzkum letadlové lodi" # todo: NEW TRANSLATION
-  CAT_carrier_1: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_2: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_3: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_5: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_6: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_7: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_8: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_9: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  CAT_carrier_10: "Výrobce letadlové lodě" # todo: NEW TRANSLATION
-  Cat_NAVAL_ESCORT_1: "Výrobce eskortních lodí" # todo: NEW TRANSLATION
-  Cat_TRANS_SHIP: "Přepravní loď" # todo: NEW TRANSLATION
-  Cat_TRANS_SHIP_research: "Výzkum přepravních lodí" # todo: NEW TRANSLATION
-  CAT_transport_ships: "Výrobce transportních lodí" # todo: NEW TRANSLATION
-  CAT_sub: "Ponorkové vybavení" # todo: NEW TRANSLATION
-  CAT_sub_research: "Výzkum ponorek" # todo: NEW TRANSLATION
-  CAT_sub_1: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_2: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_3: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_4: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_5: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_6: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_7: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_8: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_9: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_sub_10: "Výrobce ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub: "Jaderná ponorka" # todo: NEW TRANSLATION
-  CAT_nuke_sub_research: "Výzkum jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_1: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_2: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_3: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_4: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_5: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_6: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_7: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_8: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_9: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_nuke_sub_10: "Výrobce jaderných ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub: "Raketová ponorka" # todo: NEW TRANSLATION
-  CAT_d_sub_research: "Výzkum raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_1: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_2: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_3: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_4: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_5: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_6: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_7: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_8: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_9: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_d_sub_10: "Výrobce raketových ponorek" # todo: NEW TRANSLATION
-  CAT_atk_sub: "Útočná ponorka" # todo: NEW TRANSLATION
-  CAT_atk_sub_research: "Výzkum útočných ponorek" # todo: NEW TRANSLATION
-  CAT_armor: "Pancéřové vybavení" # todo: NEW TRANSLATION
-  CAT_armor_research: "Výzkum pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_1: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_2: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_3: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_4: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_5: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_6: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_7: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_8: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_9: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_armor_10: "Výrobce pancéřování" # todo: NEW TRANSLATION
-  CAT_afv: " Obrněné bojové vozidlo" # todo: NEW TRANSLATION
-  CAT_afv_research: "Výzkum obrněných bojových vozidel" # todo: NEW TRANSLATION
-  CAT_afv_1: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_2: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_3: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_4: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_5: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_6: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_7: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_8: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_9: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_afv_10: "Výrobce obrněného bojového vozidla" # todo: NEW TRANSLATION
-  CAT_tanks: "Tanky" # todo: NEW TRANSLATION
-  CAT_tanks_research: "Výzkum tanků" # todo: NEW TRANSLATION
-  CAT_tanks_1: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_2: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_3: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_4: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_5: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_6: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_7: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_8: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_9: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_tanks_10: "Výrobce tanků" # todo: NEW TRANSLATION
-  CAT_util: "Užitková vozidla" # todo: NEW TRANSLATION
-  CAT_util_1: "Výrobce užitkových vozidel" # todo: NEW TRANSLATION
-  CAT_apc: "Pancéřované transportéry" # todo: NEW TRANSLATION
-  CAT_apc_research: "Výzkum pancéřovaných transportérů" # todo: NEW TRANSLATION
-  CAT_apc_1: "Výrobce pancéřovaných transportérů" # todo: NEW TRANSLATION
-  CAT_mbt_research: "Výzkum hlavního bojového tanku" # todo: NEW TRANSLATION
-  CAT_artillery: "Dělostřelecké vybavení" # todo: NEW TRANSLATION
-  CAT_artillery_research: "Výzkum dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_1: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_2: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_3: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_4: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_5: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_6: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_7: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_8: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_9: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  CAT_artillery_10: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
-  Cat_ART_MUNITIONS_1: "Výrobce dělostřelecké munice" # todo: NEW TRANSLATION
-  CAT_inf: "Pěchotní vybavení" # todo: NEW TRANSLATION
-  CAT_inf_research: "Výzkum pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_1: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_2: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_3: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_4: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_5: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_6: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_7: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_8: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_9: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_inf_10: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
-  CAT_aa: "Protiletecké vybavení" # todo: NEW TRANSLATION
-  CAT_aa_research: "Výzkum protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_1: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_2: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_3: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_4: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_5: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_6: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_7: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_8: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_9: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_10: "Výrobce protileteckého vybavení" # todo: NEW TRANSLATION
-  CAT_aa_CnC_1: "Výrobce elektroniky" # todo: NEW TRANSLATION
-  CAT_at: "Protipancéřové vybavení" # todo: NEW TRANSLATION
-  CAT_at_research: "Výzkum protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_1: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_2: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_3: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_4: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_5: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_6: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_7: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_8: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_9: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_at_10: "Výrobce protitankového vybavení" # todo: NEW TRANSLATION
-  CAT_inf_wep_research: "Výzkum pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_1: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_2: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_3: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_4: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_5: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_6: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_7: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_8: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_9: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_inf_wep_10: "Výrobce pěchotních zbraní" # todo: NEW TRANSLATION
-  CAT_cnc_1: "Výrobce pěchotní elektroniky" # todo: NEW TRANSLATION
-  CAT_heli: "Vrtulníky" # todo: NEW TRANSLATION
-  CAT_heli_research: "Výzkum vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_1: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_2: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_3: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_4: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_5: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_6: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_7: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_8: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_9: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_heli_10: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_1: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_2: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_3: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_4: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_5: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_6: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_7: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_8: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_9: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  Cat_soft_HELI_10: "Výrobce vrtulníků" # todo: NEW TRANSLATION
-  CAT_fixed_wing: "Letadla s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_research: "Výzkum letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_1: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_2: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_3: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_4: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_5: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_6: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_7: "Výrobce letadel s pevným křídlem" # todo: NEW TRANSLATION
-  CAT_fixed_wing_8: "Výrobce pevnokřídlých letadel" # todo: NEW TRANSLATION
-  CAT_fixed_wing_9: "Výrobce pevnokřídlých letadel" # todo: NEW TRANSLATION
-  CAT_fixed_wing_10: "Výrobce pevnokřídlých letadel" # todo: NEW TRANSLATION
-  CAT_h_air: "Těžká letadla" # todo: NEW TRANSLATION
-  CAT_h_air_research: "Výzkum těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_1: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_2: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_3: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_4: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_5: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_6: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_7: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_8: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_9: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_h_air_10: "Výrobce těžkých letadel" # todo: NEW TRANSLATION
-  CAT_SUPPORT_PLANES_1: "Výrobce podpůrných letadel" # todo: NEW TRANSLATION
-  CAT_trans_plane_research: "Výzkum dopravních letadel" # todo: NEW TRANSLATION
-  CAT_fighter: "Stíhací letouny" # todo: NEW TRANSLATION
-  CAT_fighter_research: "Výzkum stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_1: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_2: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_3: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_4: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_5: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_6: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_7: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_8: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_9: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_fighter_10: "Výrobce stíhacích letounů" # todo: NEW TRANSLATION
-  CAT_l_fighter: "Lehké úderná/tréninková letadla" # todo: NEW TRANSLATION
-  CAT_l_fighter_research: "Výzkum lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_1: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_2: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_3: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_4: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_5: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_6: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_7: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_8: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_9: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
-  CAT_l_fighter_10: "Výrobce lehkých úderných/tréninkových letadel" # todo: NEW TRANSLATION
+ defense_companies: "Obranné společnosti"
+ Generic_naval_manufacturer: "Obecná loděnice"
+ Generic_naval_manufacturer2: "Obecný výrobce ponorek"
+ Generic_tank_manufacturer: "Obecný výrobce vozidel"
+ Generic_materiel_manufacturer: "Obecný výrobce pěchotních zbraní"
+ Generic_tank_manufacturer2: "Obecný výrobce vrtulníků"
+ Generic_aircraft_manufacturer: "Obecný výrobce letadel"
+ naval_manufacturer: "Námořní obranné společnosti"
+ tank_manufacturer: "Obranné společnosti pro vozidla"
+ materiel_manufacturer: "Obranné společnosti pro pěchotní výzbroj"
+ aircraft_manufacturer: "Letecká obranná společnost"
+ CAT_naval_all_5: "Výrobce námořních lodí"
+ CAT_surface_ship: "Hladinová plavidla"
+ CAT_surface_ship_research: "Výzkum hladinových plavidel"
+ CAT_surface_ship_5: "Výrobce hladinových plavidel"
+ CAT_carrier: "Letadlové lodě"
+ CAT_carrier_research: "Výzkum letadlových lodí"
+ CAT_carrier_5: "Výrobce letadlových lodí"
+ Cat_NAVAL_ESCORT_1: "Výrobce doprovodních lodí"
+ Cat_TRANS_SHIP: "Transportní lodě"
+ Cat_TRANS_SHIP_research: "Výzkum transportních lodí"
+ CAT_transport_ships: "Výrobce transportních lodí"
+ CAT_sub: "Ponorková technika"
+ CAT_sub_research: "Výzkum ponorek"
+ CAT_sub_5: "Výrobce ponorek"
+ CAT_nuke_sub: "Jaderné ponorky"
+ CAT_nuke_sub_research: "Výzkum jaderných ponorek"
+ CAT_nuke_sub_5: "Výrobce jaderných ponorek"
+ CAT_d_sub: "Raketové ponorky"
+ CAT_d_sub_research: "Výzkum raketových ponorek"
+ CAT_d_sub_5: "Výrobce raketových ponorek"
+ CAT_atk_sub: "Útočné ponorky"
+ CAT_atk_sub_research: "Výzkum útočných ponorek"
+ CAT_armor: "Obrněná technika"
+ CAT_armor_research: "Výzkum obrněné techniky"
+ CAT_armor_5: "Výrobce obrněné techniky"
+ CAT_afv: "Bojová obrněná vozidla"
+ CAT_afv_research: "Výzkum bojových obrněných vozidel"
+ CAT_afv_5: "Výrobce bojových obrněných vozidel"
+ CAT_tanks: "Tanky"
+ CAT_tanks_research: "Výzkum tanků"
+ CAT_tanks_5: "Výrobce tanků"
+ CAT_util: "Užitková vozidla"
+ CAT_util_1: "Výrobce užitkových vozidel"
+ CAT_apc: "Obrněné transportéry"
+ CAT_apc_research: "Výzkum obrněných transportérů"
+ CAT_apc_1: "Výrobce obrněných transportérů"
+ CAT_mbt_research: "Výzkum hlavních bojových tanků"
+ CAT_artillery: "Dělostřelecká technika"
+ CAT_artillery_research: "Výzkum dělostřelectva"
+ CAT_artillery_5: "Výrobce dělostřelectva"
+ Cat_ART_MUNITIONS_1: "Výrobce dělostřelecké munice"
+ CAT_inf: "Pěchotní výstroj"
+ CAT_inf_research: "Výzkum pěchotní výstroje"
+ CAT_inf_5: "Výrobce pěchotní výstroje"
+ CAT_aa: "Protiletadlová technika"
+ CAT_aa_research: "Výzkum protiletadlové obrany"
+ CAT_aa_5: "Výrobce protiletadlové techniky"
+ CAT_aa_CnC_1: "Výrobce elektroniky"
+ CAT_at: "Protitanková technika"
+ CAT_at_research: "Výzkum protitankových zbraní"
+ CAT_at_5: "Výrobce protitankové techniky"
+ CAT_inf_wep_research: "Výzkum pěchotních zbraní"
+ CAT_inf_wep_5: "Výrobce pěchotních zbraní"
+ CAT_cnc_1: "Výrobce pěchotní elektroniky"
+ CAT_heli: "Vrtulníky"
+ CAT_heli_research: "Výzkum vrtulníků"
+ CAT_heli_5: "Výrobce vrtulníků"
+ Cat_soft_HELI_5: "Výrobce vrtulníků"
+ CAT_fixed_wing: "Letouny s pevným křídlem"
+ CAT_fixed_wing_research: "Výzkum letounů s pevným křídlem"
+ CAT_fixed_wing_5: "Výrobce letounů s pevným křídlem"
+ CAT_h_air: "Těžká letadla"
+ CAT_h_air_research: "Výzkum těžkých letadel"
+ CAT_h_air_5: "Výrobce těžkých letadel"
+ CAT_SUPPORT_PLANES_1: "Výrobce podpůrných letadel"
+ CAT_trans_plane_research: "Výzkum transportních letadel"
+ CAT_fighter: "Stíhačky"
+ CAT_fighter_research: "Výzkum stíhaček"
+ CAT_fighter_5: "Výrobce stíhaček"
+ CAT_l_fighter: "Lehké útočné / cvičné letouny"
+ CAT_l_fighter_research: "Výzkum lehkých útočných / cvičných letounů"
+ CAT_l_fighter_5: "Výrobce lehkých útočných / cvičných letounů"
