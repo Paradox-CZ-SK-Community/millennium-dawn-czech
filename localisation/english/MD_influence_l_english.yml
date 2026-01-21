@@ -1,187 +1,170 @@
 ﻿l_english:
-  influence_decisions: "[ROOT.GetFlag][ROOT.GetAdjective] [GetYear] Zpráva o zahraničním vlivu" # todo: NEW TRANSLATION
-  influence_decisions_desc: "§YSlužby pro zpravodajské záležitosti [ROOT.GetFlag][ROOT.GetNameDef]§! připravily zprávu o vlivu, jaký cizí vlády naší [ROOT.GetFlag]§Yzemě§! působí. Pro naši §Ysuverenita§! musíme omezit tento §Yvliv§!. Pokud nás ovládá jen jedna země, mohou se snažit zasahovat do vlády a našeho způsobu života.\n\n[current_nations_influencing_us]\n\nToto nám dává §Yúroveň nezávislosti§! na zahraničním vlivu [?domestic_influence_amount|H%%].\n\n[foreign_influence_modifier_display] [auto_influence_nation_display]" # todo: NEW TRANSLATION
-  foreign_influence_modifier_display_tt: "§YVaše země §$foreign_influence_modifier$: [?modifier@foreign_influence_modifier|%+]\n[ROOT.GetFlag]Vaše země §$foreign_influence_defense_modifier$: [?modifier@foreign_influence_defense_modifier|%-]\n[ROOT.GetFlag]Vliv vůdcovství §$influence_coup_modifier$: [?modifier@influence_coup_modifier|%+]\n[ROOT.GetFlag]Modifikátor automatického vlivu §$foreign_influence_auto_influence_cap_modifier$: [?auto_influence_cap|+0]\n[ROOT.GetFlag]Modifikátor kontinentálního vlivu §$foreign_influence_continent_modifier$: [?modifier@foreign_influence_continent_modifier|%+]\n[ROOT.GetFlag]Modifikátor domovského kontinentu §$foreign_influence_home_continent_modifier$: [?modifier@foreign_influence_home_continent_modifier|+%]\n[ROOT.GetFlag]Modifikátor měsíčního domácího nezávislosti (monthly): §?modifier@foreign_influence_monthly_domestic_independence_gain_modifier|+%]\n[ROOT.GetFlag]Faktor měsíčního domestického vlivu: [?modifier@foreign_influence_monthly_domestic_independence_gain_factor|+%]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_display_tt: "§YAktuální národy s automatickým vlivem:§!\n[auto_influence_nation_0][auto_influence_nation_1][auto_influence_nation_2][auto_influence_nation_3][auto_influence_nation_4][auto_influence_nation_5][auto_influence_nation_6][auto_influence_nation_7][auto_influence_nation_8][auto_influence_nation_9]" # todo: NEW TRANSLATION
-  current_nations_influencing_us_tt: "§HNásledující země mají nad námi vliv:§!\n[decision_influencer_1][decision_influencer_2][decision_influencer_3][decision_influencer_4][decision_influencer_5][decision_influencer_6][decision_influencer_7]" # todo: NEW TRANSLATION
-  current_nations_influencing_us_none_tt: "§HNyní nemáme žádné zahraniční země, které by na nás měly vliv.§!" # todo: NEW TRANSLATION
-  decision_influencer_1_tt: "[position_1_var_n] [new_position_1] [position_1_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_2_tt: "[position_2_var_n] [new_position_2] [position_2_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_3_tt: "[position_3_var_n] [new_position_3] [position_3_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_4_tt: "[position_4_var_n] [new_position_4] [position_4_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_5_tt: "[position_5_var_n] [new_position_5] [position_5_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_6_tt: "[position_6_var_n] [new_position_6] [position_6_var_integer]\n" # todo: NEW TRANSLATION
-  decision_influencer_7_tt: "[position_7_var_n] [new_position_7] [position_7_var_integer]\n" # todo: NEW TRANSLATION
-  combat_foreign_influence: "§YBoj proti zahraničnímu vlivu§! (Combat) §!" # todo: NEW TRANSLATION
-  combat_foreign_influence_desc: "Prosazování naší nezávislosti na zahraničním vlivu je klíčové pro zachování naší země." # todo: NEW TRANSLATION
-  propaganda_campaign_decision: "§YPropagační kampaň§! Kampan" # todo: NEW TRANSLATION
-  propaganda_campaign_decision_desc: "Skvělá propaganda kampaň o návratu k našim hodnotám je důležitá pro naši vládu. Vyhlašujeme novou kampaň pro lidi, aby vrátila naši identitu!" # todo: NEW TRANSLATION
-  combat_biggest_influencer_decision: "§RAttack§! Vliv od §Y[?var:FROM.influence_array^0.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  combat_biggest_influencer_decision_desc: "[?var:FROM.influence_array^0.GetNameWithFlag] vliv v naší zemi trvá již příliš dlouho. Je na čase ukázat našim lidem jejich skutečné způsoby a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
-  combat_second_influencer_decision: "§RAttack§! Vliv od §Y[?var:FROM.influence_array^1.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  combat_second_influencer_decision_desc: "[?var:FROM.influence_array^1.GetNameWithFlag] vliv v naší zemi trvá již příliš dlouho. Je na čase ukázat našim lidem jejich skutečné způsoby a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
-  combat_third_influencer_decision: "§RAttack§! Vliv od §Y[?var:FROM.influence_array^2.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  combat_third_influencer_decision_desc: "[?var:FROM.influence_array^2.GetNameWithFlag] vliv v naší zemi trvá již příliš dlouho. Je na čase ukázat našim lidem jejich skutečné způsoby a jak musí být jejich vliv na naši vládu uvolněn!" # todo: NEW TRANSLATION
-  influence_for_autonomy_decision: "§YOmezit§! Autonomie ve §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  influence_for_autonomy_decision_desc: "Redukce naší autonomie ve [FROM.GetName] bude nepopulární a ztratíme vliv v regionu. Přesto je pomalu jevtáhneme do naší sféry..." # todo: NEW TRANSLATION
-  influence_for_autonomy_decision_autonomy: "Suzerén Snížil Naši Autonomii" # todo: NEW TRANSLATION
-  enable_raid_notification_decision: "§GPovolit§! Oznámení o nájezdech" # todo: NEW TRANSLATION
-  enable_raid_notification_decision_desc: "Události o nájezdech mezi zeměmi se objeví znovu, jak tomu bylo původně." # todo: NEW TRANSLATION
-  enable_auto_influence_notification_decision: "§GPovolit§! Měsíční zprávu o automatickém vlivu" # todo: NEW TRANSLATION
-  enable_auto_influence_notification_decision_desc: "Umožňuje měsíční zprávu o automatickém vlivu, která ukazuje, kdo je měsíčně ovlivňován." # todo: NEW TRANSLATION
-  disable_raid_notification_decision: "§RZakázat§! Oznámení o nájezdech" # todo: NEW TRANSLATION
-  disable_raid_notification_decision_desc: "Zakáže události o nájezdech zemí na sebe. Tím se také zakážou události o nájezdech vašich spojenců a sousedů. Události o nájezdech na vás se budou nadále objevovat." # todo: NEW TRANSLATION
-  disable_auto_influence_notification_decision: "§RZakázat§! Měsíční zprávu o automatickém vlivu" # todo: NEW TRANSLATION
-  disable_auto_influence_notification_decision_desc: "Zakáže Měsíční zprávu o automatickém vlivu, která zobrazuje měsíční seznam vlivů." # todo: NEW TRANSLATION
-  hide_foreign_influencer_modifier_decision: "§RSkrýt§! Modifikátory zahraničního vlivu" # todo: NEW TRANSLATION
-  hide_foreign_influencer_modifier_decision_desc: "Skrývá modifikátory zahraničního vlivu z rozhodnutí." # todo: NEW TRANSLATION
-  show_foreign_influencer_modifier_decision: "§GZobrazit§! Modifikátory zahraničního vlivu" # todo: NEW TRANSLATION
-  show_foreign_influencer_modifier_decision_desc: "Zobrazuje dříve skryté modifikátory zahraničního vlivu z rozhodnutí." # todo: NEW TRANSLATION
-  recruit_difficulty_tt: "Zakáže měsíční §YDomácí nezávislost§! Zaškrtněte" # todo: NEW TRANSLATION
-  rebellion_in_azerbaijan: "Vyzbrojit povstalce v [SAZ.GetFlag] Jižní Ázerbájdžán" # todo: NEW TRANSLATION
-  rebellion_in_azerbaijan_desc: "Máme schopnost vyvolat potíže v Íránu vyzbrojením lidí Jižního Ázerbájdžánu, aby bojovali proti íránské vládě." # todo: NEW TRANSLATION
-  rebellion_in_balochistan: "Vyzbrojit povstalce v [BLC.GetFlag] Balochistánu" # todo: NEW TRANSLATION
-  rebellion_in_balochistan_desc: "Máme schopnost rozdmýchat napětí v Íránu vyzbrojením lidí Balochistánu, aby bojovali proti íránské vládě." # todo: NEW TRANSLATION
-  rebellion_in_arabistan: "Vyzbrojit povstalce v [ARA.GetFlag] Arabistánu" # todo: NEW TRANSLATION
-  rebellion_in_arabistan_desc: "Máme schopnost rozdmýchat napětí v Íránu vyzbrojením lidí Arabistánu, aby bojovali proti íránské vládě." # todo: NEW TRANSLATION
-  rebellion_in_kurdistan: "Vyzbrojit povstalce v [IKR.GetFlag] Íránském Kurdistánu" # todo: NEW TRANSLATION
-  rebellion_in_kurdistan_desc: "Máme schopnost rozdmýchat napětí v Íránu vyzbrojením lidí Íránského Kurdistánu, aby bojovali proti íránské vládě." # todo: NEW TRANSLATION
-  SOV_separatism_for_autonomy_decision: "§YSnížit§! Separatismus ve §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOV_separatism_for_autonomy_decision_desc: "Začneme potlačovat separatismus v [FROM.GetName], což pravděpodobně povede ke ztrátě našeho vlivu v ní, ale je lepší, než aby se vzbouřili a rozdělili naši velkou zemi." # todo: NEW TRANSLATION
-  SOV_separatism_for_autonomy_decision_autonomy: "[SOV.GetName] Snížil Náš Separatismus" # todo: NEW TRANSLATION
-  DOMESTIC_INFLUENCE_TOOLTIP: "[FROM.GetNameWithFlag] má úroveň nezávislosti na zahraničním vlivu [?domestic_influence_amount|H%%]." # todo: NEW TRANSLATION
-  INFLUENCER1_TOOLTIP: "[new_position_1] má [position_1_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER2_TOOLTIP: "[new_position_2] má [position_2_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER3_TOOLTIP: "[new_position_3] má [position_3_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER4_TOOLTIP: "[new_position_4] má [position_4_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER5_TOOLTIP: "[new_position_5] má [position_5_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER6_TOOLTIP: "[new_position_6] má [position_6_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER7_TOOLTIP: "[new_position_7] má [position_7_var_integer] vlivu v [FROM.GetName]." # todo: NEW TRANSLATION
-  INFLUENCER1_AMOUNT_TOOLTIP: "1. - [new_position_1]: [?influence_array_val^0|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER2_AMOUNT_TOOLTIP: "2. - [new_position_2]: [?influence_array_val^1|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER3_AMOUNT_TOOLTIP: "3. - [new_position_3]: [?influence_array_val^2|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER4_AMOUNT_TOOLTIP: "4. - [new_position_4]: [?influence_array_val^3|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER5_AMOUNT_TOOLTIP: "5. - [new_position_5]: [?influence_array_val^4|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER6_AMOUNT_TOOLTIP: "6. - [new_position_6]: [?influence_array_val^5|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCER7_AMOUNT_TOOLTIP: "7. - [new_position_7]: [?influence_array_val^6|Y%%] Vliv." # todo: NEW TRANSLATION
-  INFLUENCE_TOOLTIP_DELAYED: "Vliv měří vliv a nadvládu, kterou jedna země má nad jinou. Vliv lze rozšiřovat investicemi do staveb, darováním, vojenskou pomocí a využitím politické moci. Ostatní země budou soutěžit o vliv a hostitelská země se bude snažit prosadit svou suverenitu, pokud to půjde. Pokud je váš vliv dost vysoký, můžete donutit zemi k podepsání výhodných obchodních dohod nebo ji učinit vaším podřízeným státem. Kromě postupného posunu směrem k vašemu světovému názoru lze vliv využít i jako měnu k ovlivňování jejich politik ve váš prospěch." # todo: NEW TRANSLATION
-  influence_action_button_TT: "§HŠíření vlivu§!\nKlikněte na „L“ pro nastavení nebo odebrání §Y[FROM.GetNameWithFlag]§! jako země, kterou budete automaticky ovlivňovat. Automatické ovlivňování bude měnit £pol_power §YDenní Politický Zisk§! §R-1.50§! každý den pro každou zemi, kterou automaticky ovlivňujete. Vliv z automatického ovlivňování se aplikuje na konci každého měsíce. Automatické ovlivňování bude zrušeno, pokud bude vaše £pol_power Politická Síla nižší než §R-100§!. Jakmile nastavíte auto-influencer, musíte počkat 30 dní na jeho zrušení. Můžete použít režim mapy vlivu §YInfluence Map Mode§!, abyste viděli, koho aktuálně ovlivňujete. (Aktuální §YDenní Politické Náklady§!: §R[?ROOT.auto_influence_cost|2]§!)\n\n(£key_shift + £click_left §YShift L Click§!)  §YVymazat všechny aktuálně auto-ovlivňované národy§!\n£click_right §YR Click§! pro ruční §YOvlivnění§! §Y[FROM.GetNameWithFlag]§! pro £pol_power §R50§! Politickou Sílu" # todo: NEW TRANSLATION
-  influence_action_button_delayed_TT: "§HPožadováno:§!\n[!opt_influence_action_button_click_enabled]\n§HDopad:§!\n[!opt_influence_action_button_click]\n(£key_shift + £click_left §YShift L Click§!)  §YVymazat všechny aktuálně auto-ovlivňované národy§!\n\n(£click_right §YR Click§!) §6Ruční akce vlivu§!:\n\n§HPožadováno:§!\n[!opt_influence_action_button_right_click_enabled]\n§HDopad:§!\n[!opt_influence_action_button_right_click]\n\n[spread_influence_cooldown_limits]" # todo: NEW TRANSLATION
-  influence_spread_influence_TT: "Has not recently spread influence in §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  influence_auto_spread_in_this_nation_TT: "§H[PREV.GetNameWithFlag]§! is currently being auto-influenced. (Current: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)" # todo: NEW TRANSLATION
-  must_wait_30_days_to_cancel_tt: "§H[ROOT.GetNameWithFlag]§! has not set §H[PREV.GetNameWithFlag]§! as an auto influencer in the last 30 Days" # todo: NEW TRANSLATION
-  influence_spread_has_slot_available_TT: "§H[ROOT.GetNameWithFlag]§! has an auto-influencer slot available. (Current: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)" # todo: NEW TRANSLATION
-  influence_create_new_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! will auto-influence §H[PREV.GetNameWithFlag]§! as long as auto-influence is enabled.\n" # todo: NEW TRANSLATION
-  influence_remove_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! will no longer auto-influence §H[PREV.GetNameWithFlag]§!.\n" # todo: NEW TRANSLATION
-  auto_influencer_cost_effect: "Auto-Influencer Daily Cost" # todo: NEW TRANSLATION
-  aid_button_TT: "§HPoskytnout ekonomickou pomoc§!\nPošleme jednorázový finanční dar §H[FROM.GetNameWithFlag]§! výměnou za vliv a zlepšení vztahů. Dar bude představovat §Y5%§!, §Y10%§! nebo §Y15%§! z HDP §H[FROM.GetAdjective]§!.\n\nPokud bude AI v dobré pozici, tuto pomoc odmítnou.\n" # todo: NEW TRANSLATION
-  aid_button_delayed_TT: "§HPožadováno:§!\n[!opt_aid_button_click_enabled]\n§HDopad:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HPoskytnout pomoc§!\n\nMůžete poslat §HEkonomickou pomoc§! jednou za §H30§! dní v této zemi.\n" # todo: NEW TRANSLATION
-  influence_aid_button_TT: "Has not recently sent economic aid to §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  aid_military_button_TT: "§HMilitární pomoc§!\nMůžeme se rozhodnout poslat jednorázovou dodávku zbraní nebo jiného vybavení §H[FROM.GetNameWithFlag]§! militantním skupinám, které se spojily s pro-§H[ROOT.GetFlag] [ROOT.GetAdjective]§! zájmy. Tato akce oslabí naši pozici u jejich nepřátel. Můžete poslat vojenskou pomoc jednou za šedesát dní.\n\nPOZNÁMKA: Můžete posílat pouze APC/IFV a výbavu pro pěchotu, dokud nenajdeme lepší způsob, jak systém navrhnout. Omlouváme se!" # todo: NEW TRANSLATION
-  aid_military_button_delayed_TT: "§HPožadováno:§!\n[!opt_aid_military_button_click_enabled]\n§HDopad:§!\n§H[ROOT.GetNameWithFlag]§!: Spuštění události §HPoskytnout vojenskou pomoc§!" # todo: NEW TRANSLATION
-  influence_military_aid_TT: "Has not recently sent military aid to §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  influence_military_supply_TT: "Has not recently sent military supplies to §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  military_supply_button_TT: "§HSměšovat vojenské zásoby§!\nMůžeme zásobovat zbraněmi, raketami a municí skupiny, které jsou spojeny s pro-§H[ROOT.GetFlag] [ROOT.GetAdjective]§! zájmy. Tato akce destabilizuje stát a může svrhnout vládu §H[FROM.GetFlag] [FROM.GetAdjective]§!. Zásoby budou rozdělovány podle síly skupiny nebo pokud určíme primárního příjemce. Můžeme přepravovat zbraně po pozemních koridorech nebo je pašovat námořními cestami, pokud jsou k dispozici. Výměnou za vliv na úkor zhoršení vztahů s §H[FROM.show_ruling_party]§!. Pokud bude vláda svržena, získáme vliv na novou vládu." # todo: NEW TRANSLATION
-  opt_military_supply_button_TT: "Has not recently shipped military supplies to §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  target_other_button_TT: "§HTarget Other Influence§!\nMůžeme zvolit subverzi jiných hlavních influencerů v §H[PREV.GetNameWithFlag]§! nebo cílit na jejich nezávislost od zahraničního vlivu." # todo: NEW TRANSLATION
-  target_other_button_delayed_TT: "§HPožadováno:§!\n[!opt_target_other_button_click_enabled]\n§HDopad:§!\n§H[ROOT.GetNameWithFlag]§!: Spuštění události §HTarget Another Influencer in [PREV.GetNameWithFlag]§! událost" # todo: NEW TRANSLATION
-  manipulate_politics_button_TT: "§HManipulovat politiku§!\nVyužijeme náš vliv k posílení našeho výhledu a vládnoucí strany v §H[FROM.GetNameWithFlag]§!. Pokud se naše názory liší, vztahy budou trpět.\n\nSíla posunu je určována úrovní korupce dané země a dále ji upravuje modifikátor zahraničního vlivu ovlivňující země. Můžeme to dělat jednou za měsíc.\n\n§HModifikátory:§!\n§H[ROOT.GetNameWithFlag]§! Zahraniční vliv Modifikátor: [?ROOT.modifier@foreign_influence_modifier|%+]\n§H[THIS.GetNameWithFlag]§! Obranný modifikátor zahraničního vlivu: [?modifier@foreign_influence_defense_modifier|%-]" # todo: NEW TRANSLATION
-  manipulate_politics_button_delayed_TT: "§HPožadováno:§!\n[!opt_manipulate_politics_button_click_enabled]\n§HDopad:§!\n[!opt_manipulate_politics_button_click]" # todo: NEW TRANSLATION
-  influence_manipulate_politics_TT: "Has not recently Manipulated Politics in §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  coup_button_TT: "§HAttempt Coup§!\nWill attempt a coup in §H[FROM.GetNameWithFlag]§!. Coup can be successful, be discovered and fail, or lead to Civil War. The probability for each is determined by your influence, the popularity of your Outlook and Ruling Party in §H[FROM.GetNameWithFlag]§! as well as other factors such as their stability." # todo: NEW TRANSLATION
-  coup_button_delayed_TT: "§HPožadováno:§!\n[!opt_coup_button_click_enabled]\n§HDopad:§!\n§H[ROOT.GetNameWithFlag]§!: Spuštění události §HAttempt Coup§!" # todo: NEW TRANSLATION
-  economic_exploitation_button_TT: "§HEkonomické vykořisťování§!\nBudeme využívat část našeho vlivu k vykořisťování ekonomiky §H[FROM.GetNameWithFlag]§!. Získáme volný průmysl a levné zdroje, ale poškodíme vztahy." # todo: NEW TRANSLATION
-  economic_exploitation_button_delayed_TT: "§HPožadováno:§!\n[!opt_economic_exploitation_button_click_enabled]\n§HDopad:§!\n[!opt_economic_exploitation_button_click]" # todo: NEW TRANSLATION
-  country_exploited: "Nedávno jsme nevykořisťovali §H[PREV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  make_puppet_button_TT: "§HVytvořit loutku§!\nPokud máme dostatek vlivu v §H[FROM.GetNameWithFlag]§! a oni mají stejný světový názor jako my, můžeme z nich učinit naši loutku. To poškodí vztahy s jejich sousedy a vyvolá světovou tenzi." # todo: NEW TRANSLATION
-  make_puppet_button_delayed_TT: "§HPožadováno:§!\n[!opt_make_puppet_button_click_enabled]\n§HDopad:§!\n[!opt_make_puppet_button_click]" # todo: NEW TRANSLATION
-  economic_aid_influence_value_TT: "§HTreasury§!: $$[?temp_amount_gift_sum|+] miliard\n" # todo: NEW TRANSLATION
-  created_puppet_loc: "Zřídit Pupo Regime" # todo: NEW TRANSLATION
-  domestic_influence_six_months_TT: "Můžeme získat Domácí nezávislost jednou za šest měsíců touto akcí.\n" # todo: NEW TRANSLATION
-  domestic_timer_military_aid_tt: "[?refused_military_aid:days_left] days left until we can gain Domestic Independence from this action.\n" # todo: NEW TRANSLATION
-  change_domestic_influence_percentage_tt: "Domácí nezávislost se mění o [?percent_change|+%%]\n" # todo: NEW TRANSLATION
-  change_index_influencer_tt: "Změny [?var:influence_array^influencer_index.GetFlag]§Y[?var:influence_array^influencer_index.GetAdjective]§! vlivu o [?percent_change|-%%]\n" # todo: NEW TRANSLATION
-  change_influencer_tt: "Změny [?var:tag_index.GetFlag]§Y[?var:tag_index.GetAdjective]§! vliv v §Y[?var:influence_target.GetNameWithFlag]§! o [?percent_change|Y%%]\n" # todo: NEW TRANSLATION
-  change_influencer_tt_error: "CHYBA: Ovlivňovatel a cílová osoba jsou stejní. Informujte prosím vývojáře, pokud uvidíte tuto zprávu. To by se nemělo stát." # todo: NEW TRANSLATION
-  is_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je ovlivňovatel v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_three_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_five_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je jedním z pěti nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_five_influencer_ct_tt: "§H[ROOT.GetNameWithFlag]§! je jedním z pěti nejvlivnějších" # todo: NEW TRANSLATION
-  top_three_twenty_percent_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  top_three_thirty_percent_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 30% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  top_three_thirty_percent_variable_influencer_tt: "Všechny následující podmínky musí být splněny:\n§H[?var:temp_country.GetNameWithFlag]§! > 30% vlivu\n§H[?var:temp_country.GetNameWithFlag]§! je jedním ze tří nejvlivnějších v §Y[THIS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_influencer_fifty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 50% vlivu\n§H[ROOT.GetNameWithFlag]§! je nejvlivnějším v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_influencer_eighty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 80% vlivu\n§H[ROOT.GetNameWithFlag]§! je nejvlivnějším v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  is_top_influencer_twenty_percent: "Všechny následující podmínky musí být splněny:\n§H[ROOT.GetNameWithFlag]§! > 20% vlivu\n§H[ROOT.GetNameWithFlag]§! je jedním z nejvlivnějších v §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  gdp_greater_than_other: "Naše HDP na obyvatele (Aktuální: [?ROOT.gdp_per_capita]k) > §Y[FROM.GetNameWithFlag]§! HDP na obyvatele (Aktuální: [?FROM.gdp_per_capita]k)" # todo: NEW TRANSLATION
-  more_civs_than_other: "§H[ROOT.GetNamewithFlag]§! (Aktuálně: [?ROOT.num_of_civilian_factories|Y0]) má více §H$industrial_complex$§! než §H[FROM.GetNameWithFlag]§! (Aktuálně: [?FROM.num_of_civilian_factories|Y0])" # todo: NEW TRANSLATION
-  gdp_total_cannot_be_double_ours: "HDP cílové země nemůže překročit naše HDP (Aktuální HDP: $$[?ROOT.gdp_total|Y0]b) dvojnásobně. (Současné HDP země: $$[?FROM.gdp_total|Y0]b)" # todo: NEW TRANSLATION
-  influence_higher_5_tt: "§H[ROOT.GetNameWithFlag]§! má více než 5% vlivu" # todo: NEW TRANSLATION
-  influence_higher_10_tt: "§H[ROOT.GetNameWithFlag]§! má více než 10% vlivu" # todo: NEW TRANSLATION
-  influence_higher_15_tt: "§H[ROOT.GetNameWithFlag]§! má více než 15% vlivu" # todo: NEW TRANSLATION
-  influence_higher_20_tt: "§H[ROOT.GetNameWithFlag]§! má více než 20% vlivu" # todo: NEW TRANSLATION
-  influence_higher_25_tt: "§H[ROOT.GetNameWithFlag]§! má více než 25% vlivu" # todo: NEW TRANSLATION
-  influence_higher_30_tt: "§H[ROOT.GetNameWithFlag]§! má více než 30% vlivu" # todo: NEW TRANSLATION
-  influence_higher_35_tt: "§H[ROOT.GetNameWithFlag]§! má více než 35% vlivu" # todo: NEW TRANSLATION
-  influence_higher_40_tt: "§H[ROOT.GetNameWithFlag]§! má více než 40% vlivu" # todo: NEW TRANSLATION
-  influence_higher_50_tt: "§H[ROOT.GetNameWithFlag]§! má více než 50% vlivu" # todo: NEW TRANSLATION
-  influence_higher_60_tt: "§H[ROOT.GetNameWithFlag]§! má více než 60% vlivu" # todo: NEW TRANSLATION
-  influence_higher_70_tt: "§H[ROOT.GetNameWithFlag]§! má více než 70% vlivu" # todo: NEW TRANSLATION
-  influence_higher_75_tt: "§H[ROOT.GetNameWithFlag]§! má více než 75% vlivu" # todo: NEW TRANSLATION
-  influence_higher_80_tt: "§H[ROOT.GetNameWithFlag]§! má více než 80% vlivu" # todo: NEW TRANSLATION
-  influence_higher_90_tt: "§H[ROOT.GetNameWithFlag]§! má více než 90% vlivu" # todo: NEW TRANSLATION
-  influence_less_10_tt: "má méně než 10% vlivu" # todo: NEW TRANSLATION
-  influence_less_20_tt: "má méně než 20% vlivu" # todo: NEW TRANSLATION
-  influence_less_30_tt: "má méně než 30% vlivu" # todo: NEW TRANSLATION
-  influence_less_40_tt: "má méně než 40% vlivu" # todo: NEW TRANSLATION
-  influence_less_60_tt: "má méně než 60% vlivu" # todo: NEW TRANSLATION
-  influence_less_70_tt: "má méně než 70% vlivu" # todo: NEW TRANSLATION
-  position_1_var_integer_tt: "[?influence_array_val^0|Y%%]" # todo: NEW TRANSLATION
-  position_2_var_integer_tt: "[?influence_array_val^1|Y%%]" # todo: NEW TRANSLATION
-  position_3_var_integer_tt: "[?influence_array_val^2|Y%%]" # todo: NEW TRANSLATION
-  position_4_var_integer_tt: "[?influence_array_val^3|Y%%]" # todo: NEW TRANSLATION
-  position_5_var_integer_tt: "[?influence_array_val^4|Y%%]" # todo: NEW TRANSLATION
-  position_6_var_integer_tt: "[?influence_array_val^5|Y%%]" # todo: NEW TRANSLATION
-  position_7_var_integer_tt: "[?influence_array_val^6|Y%%]" # todo: NEW TRANSLATION
-  1_pos_diplo: "1." # todo: NEW TRANSLATION
-  2_pos_diplo: "2." # todo: NEW TRANSLATION
-  3_pos_diplo: "3." # todo: NEW TRANSLATION
-  4_pos_diplo: "4." # todo: NEW TRANSLATION
-  5_pos_diplo: "5." # todo: NEW TRANSLATION
-  6_pos_diplo: "6." # todo: NEW TRANSLATION
-  7_pos_diplo: "7." # todo: NEW TRANSLATION
-  accept_money: "Pokud akceptujete, obdržíte následující v [THIS.GetName]:\n" # todo: NEW TRANSLATION
-  has_foreign_influence: "Zahraniční vliv je přítomen\n" # todo: NEW TRANSLATION
-  influence_drift_modifier: "Zahraniční vliv na nás" # todo: NEW TRANSLATION
-  spread_influence_14_days_tooltip: "Můžete §HŠířit vliv§! jednou za §H14§! dní v této zemi.\n" # todo: NEW TRANSLATION
-  spread_influence_30_days_tooltip: "Můžete §HŠířit vliv§! jednou za §H30§! dní v této zemi.\n" # todo: NEW TRANSLATION
-  spread_influence_60_days_tooltip: "Můžete §HŠířit vliv§! jednou za §H60§! dní v této zemi.\n" # todo: NEW TRANSLATION
-  spread_influence_4_percent_change: "4" # todo: NEW TRANSLATION
-  spread_influence_3_percent_change: "3" # todo: NEW TRANSLATION
-  spread_influence_0_5_percent_change: "0.5" # todo: NEW TRANSLATION
-  spread_influence_2_percent_change: "2" # todo: NEW TRANSLATION
-  cooldown_influence_limit_14_tooltip: "Získáte §Hvliv§! jednou v období §H14§! dní z jakékoli přijatelné nabídky investic v této zemi.\n" # todo: NEW TRANSLATION
-  cooldown_influence_limit_30_tooltip: "Získáte §Hvliv§! jednou v období §H30§! dní z jakékoli přijatelné nabídky investic v této zemi.\n" # todo: NEW TRANSLATION
-  recently_refused_economic_aid_tt: "Nedávno jsme odmítli určitou formu pomoci. [?recently_refused_aid:days_left|Y0] dní zbývá, dokud z odmítnutí opět nezískáme politickou moc.\n" # todo: NEW TRANSLATION
-  influence_on_neighbors_tt: "Získáte §Yvliv§! na všech našich sousedech.\n" # todo: NEW TRANSLATION
-  AI_is_threatened: "§H[PREV.GetName]§! je v současné době ohrožen." # todo: NEW TRANSLATION
-  auto_influence_nation_0_tt: "[?var:ROOT.auto_influence_array^0.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_1_tt: "[?var:ROOT.auto_influence_array^1.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_2_tt: "[?var:ROOT.auto_influence_array^2.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_3_tt: "[?var:ROOT.auto_influence_array^3.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_4_tt: "[?var:ROOT.auto_influence_array^4.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_5_tt: "[?var:ROOT.auto_influence_array^5.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_6_tt: "[?var:ROOT.auto_influence_array^6.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_7_tt: "[?var:ROOT.auto_influence_array^7.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_8_tt: "[?var:ROOT.auto_influence_array^8.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_nation_9_tt: "[?var:ROOT.auto_influence_array^9.GetNameWithFlag]\n" # todo: NEW TRANSLATION
-  auto_influence_target_0_tt: "[?var:ROOT.auto_influence_array^0.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_0_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_1_tt: "[?var:ROOT.auto_influence_array^1.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_1_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_2_tt: "[?var:ROOT.auto_influence_array^2.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_2_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_3_tt: "[?var:ROOT.auto_influence_array^3.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_3_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_4_tt: "[?var:ROOT.auto_influence_array^4.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_4_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_5_tt: "[?var:ROOT.auto_influence_array^5.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_5_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_6_tt: "[?var:ROOT.auto_influence_array^6.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_6_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_7_tt: "[?var:ROOT.auto_influence_array^7.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_7_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_8_tt: "[?var:ROOT.auto_influence_array^8.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_8_val|2]%)\n" # todo: NEW TRANSLATION
-  auto_influence_target_9_tt: "[?var:ROOT.auto_influence_array^9.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_9_val|2]%)\n" # todo: NEW TRANSLATION
+  influence_decisions: "[ROOT.GetFlag][ROOT.GetAdjectiveCap] zpráva o zahraničním vlivu za rok [GetYear]"
+  influence_decisions_desc: "§YZpravodajské služby [ROOT.GetFlag][ROOT.GetNameDef]§! připravily zprávu o vlivu, který zahraniční vlády uplatňují na náš [ROOT.GetFlag]§Ystát§!. V zájmu naší §Ysuverenity§! musíme usilovat o omezení tohoto §Yvlivu§!. Pokud nás ovládne jediný stát, může se pokusit zasahovat do vlády i našeho způsobu života.\n\n[current_nations_influencing_us]\n\nTo nám poskytuje §Yúroveň nezávislosti§! na zahraničním vlivu ve výši [?domestic_influence_amount|H%%].\n\n[foreign_influence_modifier_display] [auto_influence_nation_display]"
+  foreign_influence_modifier_display_tt: "[ROOT.GetFlag]$foreign_influence_modifier$ naší země: [?modifier@foreign_influence_modifier|%+]\n[ROOT.GetFlag]$foreign_influence_defense_modifier$ naší země: [?modifier@foreign_influence_defense_modifier|%+]\n[ROOT.GetFlag]$influence_coup_modifier$ naší země: [?modifier@influence_coup_modifier|%+]\n[ROOT.GetFlag]$foreign_influence_auto_influence_cap_modifier$ naší země: [?auto_influence_cap|+0]\n[ROOT.GetFlag]$foreign_influence_continent_modifier$ naší země: [?modifier@foreign_influence_continent_modifier|%+]\n[ROOT.GetFlag]$foreign_influence_home_continent_modifier$ naší země: [?modifier@foreign_influence_home_continent_modifier|+%]\n[ROOT.GetFlag]$foreign_influence_monthly_domestic_independence_gain_modifier$ naší země: [?modifier@foreign_influence_monthly_domestic_independence_gain_modifier|+]\n[ROOT.GetFlag]$foreign_influence_monthly_domestic_independence_gain_factor$ naší země: [?modifier@foreign_influence_monthly_domestic_independence_gain_factor|+%]\n\n"
+  auto_influence_nation_display_tt: "§YAktuálně automaticky ovlivňované státy:§!\n[auto_influence_nation_0][auto_influence_nation_1][auto_influence_nation_2][auto_influence_nation_3][auto_influence_nation_4][auto_influence_nation_5][auto_influence_nation_6][auto_influence_nation_7][auto_influence_nation_8][auto_influence_nation_9]"
+  current_nations_influencing_us_tt: "§HNásledující státy nad námi uplatňují vliv:§!\n[decision_influencer_1][decision_influencer_2][decision_influencer_3][decision_influencer_4][decision_influencer_5][decision_influencer_6][decision_influencer_7]"
+  current_nations_influencing_us_none_tt: "§HAktuálně nad námi nepůsobí žádný zahraniční stát.§!"
+  decision_influencer_1_tt: "[position_1_var_n] [new_position_1] [position_1_var_integer]\n"
+  decision_influencer_2_tt: "[position_2_var_n] [new_position_2] [position_2_var_integer]\n"
+  decision_influencer_3_tt: "[position_3_var_n] [new_position_3] [position_3_var_integer]\n"
+  decision_influencer_4_tt: "[position_4_var_n] [new_position_4] [position_4_var_integer]\n"
+  decision_influencer_5_tt: "[position_5_var_n] [new_position_5] [position_5_var_integer]\n"
+  decision_influencer_6_tt: "[position_6_var_n] [new_position_6] [position_6_var_integer]\n"
+  decision_influencer_7_tt: "[position_7_var_n] [new_position_7] [position_7_var_integer]\n"
+  combat_foreign_influence: "§YPotírat§! zahraniční vliv"
+  combat_foreign_influence_desc: "Prosazování naší nezávislosti na zahraničním vlivu je klíčové pro zachování našeho státu."
+  propaganda_campaign_decision: "§YPropagandistická§! kampaň"
+  propaganda_campaign_decision_desc: "Rozsáhlá propagandistická kampaň zaměřená na návrat k našim hodnotám je pro vládu zásadní. Vyhlásíme novou kampaň, která lidem pomůže znovu nalézt naši identitu."
+  combat_biggest_influencer_decision: "§RNapadnout§! vliv státu §Y[?var:FROM.influence_array^0.GetNameWithFlag]§!"
+  combat_biggest_influencer_decision_desc: "Vliv státu [?var:FROM.influence_array^0.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas ukázat našim lidem jejich skutečné úmysly a zlomit jejich vliv na naši vládu!"
+  combat_second_influencer_decision: "§RNapadnout§! vliv státu §Y[?var:FROM.influence_array^1.GetNameWithFlag]§!"
+  combat_second_influencer_decision_desc: "Vliv státu [?var:FROM.influence_array^1.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas jej omezit."
+  combat_third_influencer_decision: "§RNapadnout§! vliv státu §Y[?var:FROM.influence_array^2.GetNameWithFlag]§!"
+  combat_third_influencer_decision_desc: "Vliv státu [?var:FROM.influence_array^2.GetNameWithFlag] v naší zemi trvá příliš dlouho. Je čas jej omezit."
+  influence_for_autonomy_decision: "§YSnížit§! autonomii v §Y[FROM.GetNameWithFlag]§!"
+  influence_for_autonomy_decision_desc: "Snížení autonomie v [FROM.GetName] bude nepopulární a povede ke ztrátě vlivu v regionu. Postupně je však přivedeme blíže k nám."
+  influence_for_autonomy_decision_autonomy: "Vládce snížil naši autonomii"
+  enable_raid_notification_decision: "§GPovolit§! oznámení o nájezdech"
+  enable_raid_notification_decision_desc: "Události týkající se nájezdů mezi státy se znovu budou zobrazovat."
+  enable_auto_influence_notification_decision: "§GPovolit§! měsíční zprávu o automatickém vlivu"
+  enable_auto_influence_notification_decision_desc: "Povolí měsíční zprávu o tom, které státy jsou automaticky ovlivňovány."
+  disable_raid_notification_decision: "§RZakázat§! oznámení o nájezdech"
+  disable_raid_notification_decision_desc: "Zakáže události o nájezdech mezi státy. Nájezdy proti vám se však budou zobrazovat nadále."
+  disable_auto_influence_notification_decision: "§RZakázat§! měsíční zprávu o automatickém vlivu"
+  disable_auto_influence_notification_decision_desc: "Zakáže měsíční zprávu o automatickém vlivu."
+  hide_foreign_influencer_modifier_decision: "§RSkrýt§! modifikátory zahraničního vlivu"
+  hide_foreign_influencer_modifier_decision_desc: "Skryje modifikátory zahraničního vlivu v rozhodnutích."
+  show_foreign_influencer_modifier_decision: "§GZobrazit§! modifikátory zahraničního vlivu"
+  show_foreign_influencer_modifier_decision_desc: "Zobrazí dříve skryté modifikátory zahraničního vlivu."
+  recruit_difficulty_tt: "Zakazuje měsíční přírůstek §Ydomácí nezávislosti§!"
+  rebellion_in_azerbaijan: "Vyzbrojit rebely v [SAZ.GetFlag] Jižním Ázerbájdžánu"
+  rebellion_in_azerbaijan_desc: "Máme možnost vyvolat nepokoje v Íránu vyzbrojením obyvatel Jižního Ázerbájdžánu."
+  rebellion_in_balochistan: "Vyzbrojit rebely v [BLC.GetFlag] Balúčistánu"
+  rebellion_in_balochistan_desc: "Máme možnost vyvolat nepokoje v Íránu vyzbrojením obyvatel Balúčistánu."
+  rebellion_in_arabistan: "Vyzbrojit rebely v [ARA.GetFlag] Arabistánu"
+  rebellion_in_arabistan_desc: "Máme možnost vyvolat nepokoje v Íránu vyzbrojením obyvatel Arabistánu."
+  rebellion_in_kurdistan: "Vyzbrojit rebely v [IKR.GetFlag] Íránském Kurdistánu"
+  rebellion_in_kurdistan_desc: "Máme možnost vyvolat nepokoje v Íránu vyzbrojením obyvatel íránského Kurdistánu."
+  DOMESTIC_INFLUENCE_TOOLTIP: "[FROM.GetNameWithFlag] má úroveň nezávislosti na zahraničním vlivu [?domestic_influence_amount|H%%]."
+  INFLUENCE_TOOLTIP_DELAYED: "Vliv představuje míru moci a dominance, kterou jeden stát uplatňuje nad jiným. Vliv lze rozšiřovat investicemi do budov, dary, vojenskou pomocí a využíváním politické moci. O vliv soupeří více států a hostitelská země se jej bude snažit omezit.\n\nPokud je váš vliv dostatečně vysoký, můžete si vynutit výhodné obchodní dohody nebo ze země učinit svůj subjekt. Kromě ideologického posunu lze vliv využít jako nástroj k manipulaci politiky ve váš prospěch."
+  influence_action_button_TT: "§HŠířit vliv§!\n£click_left §YL klik§! pro nastavení nebo odebrání §Y[FROM.GetNameWithFlag]§! jako státu, který bude automaticky ovlivňován. Automatické ovlivňování upravuje £pol_power §Ydenní politický zisk§! o §R-1,50§! za každý den a za každý stát, který je automaticky ovlivňován. §YVliv§! z automatického ovlivňování se aplikuje na konci každého měsíce. Automatické ovlivňování se zruší, pokud vaše £pol_power politická moc klesne pod §R-100§!. Po nastavení automatického ovlivňování je nutné vyčkat 30 dní, než jej lze zrušit. Pomocí §Ymapového režimu vlivu§! lze zobrazit, koho aktuálně ovlivňujete. (Aktuální §Ydenní politické náklady§!: §R[?ROOT.auto_influence_cost|2]§!)\n\n(£key_shift + £click_left §YShift + levý klik§!) §YZrušit automatické ovlivňování všech států§!\n£click_right §YPravý klik§! pro ruční §Yovlivnění§! §Y[FROM.GetNameWithFlag]§! za £pol_power §R50§! politické moci"
+  influence_action_button_delayed_TT: "§HPožadavky:§!\n[!opt_influence_action_button_click_enabled]\n§HEfekt:§!\n[!opt_influence_action_button_click]\n(£key_shift + £click_left §YShift + levý klik§!) §YZrušit automatické ovlivňování všech států§!\n\n(£click_right §YPravý klik§!) §6Ruční akce vlivu§!:\n\n§HPožadavky:§!\n[!opt_influence_action_button_right_click_enabled]\n§HEfekt:§!\n[!opt_influence_action_button_right_click]\n\n[spread_influence_cooldown_limits]"
+  influence_spread_influence_TT: "V poslední době nebyl šířen vliv v §H[PREV.GetNameWithFlag]§!\n"
+  influence_auto_spread_in_this_nation_TT: "§H[PREV.GetNameWithFlag]§! je aktuálně automaticky ovlivňován. (Aktuálně: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)"
+  must_wait_30_days_to_cancel_tt: "§H[ROOT.GetNameWithFlag]§! nenastavil §H[PREV.GetNameWithFlag]§! jako automaticky ovlivňovaný stát v posledních 30 dnech"
+  influence_spread_has_slot_available_TT: "§H[ROOT.GetNameWithFlag]§! má k dispozici slot pro automatické ovlivňování. (Aktuálně: §Y[?ROOT.auto_influence_users]§!/§Y[?ROOT.auto_influence_cap]§!)\n"
+  influence_create_new_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! bude automaticky ovlivňovat §H[PREV.GetNameWithFlag]§!, dokud je automatické ovlivňování povoleno.\n"
+  influence_remove_auto_request_TT: "§H[ROOT.GetNameWithFlag]§! již nebude automaticky ovlivňovat §H[PREV.GetNameWithFlag]§!.\n"
+  auto_influencer_cost_effect: "Denní náklady automatického ovlivňování"
+  aid_button_TT: "§HPoskytnout ekonomickou pomoc§!\nZašleme jednorázový finanční dar státu §H[FROM.GetNameWithFlag]§! výměnou za vliv a zlepšení vztahů. Výše daru činí §Y5 %§!, §Y10 %§! nebo §Y15 %§! §H[FROM.GetAdjective]§! HDP.\n\nPokud je AI v dobré pozici, pomoc odmítne.\n"
+  aid_button_delayed_TT: "§HPožadavky:§!\n[!opt_aid_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HPoskytnout pomoc§!\n\n§HEkonomickou pomoc§! lze poskytnout jednou za §H30§! dní v tomto státě.\n"
+  influence_aid_button_TT: "V poslední době nebyla poskytnuta ekonomická pomoc státu §H[PREV.GetNameWithFlag]§!\n"
+  aid_military_button_TT: "§HVojenská pomoc§!\nMůžeme odeslat jednorázovou zásilku zbraní či jiného vybavení státu §H[FROM.GetNameWithFlag]§! výměnou za vliv a zlepšení vztahů. Tato akce však negativně ovlivní naše vztahy s jejich nepřáteli. Vojenskou pomoc lze poskytnout jednou za šedesát dní.\n\nPOZNÁMKA: Aktuálně lze zasílat pouze APC/IFV a pěchotní výstroj.\n"
+  aid_military_button_delayed_TT: "§HPožadavky:§!\n[!opt_aid_military_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HPoskytnout vojenskou pomoc§!"
+  influence_military_aid_TT: "V poslední době nebyla poskytnuta vojenská pomoc státu §H[PREV.GetNameWithFlag]§!\n"
+  influence_military_supply_TT: "V poslední době nebyly pašovány vojenské zásoby do §H[PREV.GetNameWithFlag]§!\n"
+  military_supply_button_TT: "§HPašovat vojenské zásoby§!\nMůžeme dodávat zbraně, rakety a munici militantním skupinám ve státě §H[FROM.GetNameWithFlag]§!, které jsou nakloněny pro-§H[ROOT.GetFlag] [ROOT.GetAdjective]§! zájmům. Tato akce destabilizuje stát a může svrhnout §H[FROM.GetFlag] [FROM.GetAdjective]§! vládu. Zásoby budou rozděleny podle síly skupin, případně lze určit hlavního příjemce. Zbraně lze přepravovat pozemními koridory nebo pašovat po moři, pokud je to možné. Na oplátku získáme vliv, avšak za cenu zhoršení vztahů s §H[FROM.show_ruling_party]§!. Pokud dojde ke svržení vlády, získáme páku na nový režim."
+  opt_military_supply_button_TT: "V poslední době nebyly odeslány vojenské zásoby do §H[PREV.GetNameWithFlag]§!\n"
+  target_other_button_TT: "§HZaměřit jiný vliv§!\nMůžeme se pokusit podkopat ostatní hlavní influencery ve státě §H[PREV.GetNameWithFlag]§! nebo cílit na jejich nezávislost na zahraničním vlivu."
+  target_other_button_delayed_TT: "§HPožadavky:§!\n[!opt_target_other_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HZaměřit jiného influencera ve státě [PREV.GetNameWithFlag]§!"
+  manipulate_politics_button_TT: "§HManipulovat politiku§!\nVyužijeme náš vliv k posílení našeho světového postoje a vládnoucí strany ve státě §H[FROM.GetNameWithFlag]§!. Pokud se naše postoje liší, vztahy se zhorší.\n\nSíla posunu je určena úrovní korupce daného státu a je dále upravena modifikátorem zahraničního vlivu ovlivňující země. Tuto akci lze provést jednou měsíčně.\n\n§HModifikátory:§!\n§H[ROOT.GetNameWithFlag]§! – Modifikátor zahraničního vlivu: [?ROOT.modifier@foreign_influence_modifier|%+]\n§H[THIS.GetNameWithFlag]§! – Obrana proti zahraničnímu vlivu: [?modifier@foreign_influence_defense_modifier|%-]"
+  manipulate_politics_button_delayed_TT: "§HPožadavky:§!\n[!opt_manipulate_politics_button_click_enabled]\n§HEfekt:§!\n[!opt_manipulate_politics_button_click]"
+  influence_manipulate_politics_TT: "V poslední době nebyla manipulována politika ve státě §H[PREV.GetNameWithFlag]§!\n"
+  coup_button_TT: "§HPokus o převrat§!\nPokusíme se o převrat ve státě §H[FROM.GetNameWithFlag]§!. Převrat může uspět, být odhalen a selhat, nebo vyústit v občanskou válku. Pravděpodobnost jednotlivých výsledků závisí na vašem vlivu, popularitě vašeho světového postoje a vládnoucí strany ve státě §H[FROM.GetNameWithFlag]§! a na dalších faktorech, jako je stabilita."
+  coup_button_delayed_TT: "§HPožadavky:§!\n[!opt_coup_button_click_enabled]\n§HEfekt:§!\n§H[ROOT.GetNameWithFlag]§!: Spustí událost §HPokus o převrat§!"
+  economic_exploitation_button_TT: "§HEkonomické vykořisťování§!\nVyužijeme část našeho vlivu k vykořisťování ekonomiky státu §H[FROM.GetNameWithFlag]§!. Získáme bezplatný průmysl a levné suroviny, avšak vztahy se zhorší."
+  economic_exploitation_button_delayed_TT: "§HPožadavky:§!\n[!opt_economic_exploitation_button_click_enabled]\n§HEfekt:§!\n[!opt_economic_exploitation_button_click]"
+  country_exploited: "V poslední době nebyl vykořisťován stát §H[PREV.GetNameWithFlag]§!"
+  make_puppet_button_TT: "§HUčinit loutkovým státem§!\nPokud máme ve státě §H[FROM.GetNameWithFlag]§! dostatečný vliv a sdílí stejný světový postoj, můžeme jej učinit naším loutkovým státem. Tím se zhorší vztahy s jeho sousedy a vzroste světové napětí."
+  make_puppet_button_delayed_TT: "§HPožadavky:§!\n[!opt_make_puppet_button_click_enabled]\n§HEfekt:§!\n[!opt_make_puppet_button_click]"
+  economic_aid_influence_value_TT: "§HPokladna§!: $$[?temp_amount_gift_sum|+] miliard\n"
+  created_puppet_loc: "Zřídit loutkový režim"
+  domestic_influence_six_months_TT: "Z této akce můžeme získat §YDomácí nezávislost§! jednou za šest měsíců.\n"
+  domestic_timer_military_aid_tt: "Zbývá [?refused_military_aid:days_left] dní, než z této akce budeme moci znovu získat §YDomácí nezávislost§!.\n"
+  change_domestic_influence_percentage_tt: "Domácí nezávislost se změní o [?percent_change|+%%]\n"
+  change_index_influencer_tt: "Mění vliv [?var:influence_array^influencer_index.GetFlag]§Y[?var:influence_array^influencer_index.GetAdjective]§! o [?percent_change|-%%]\n"
+  change_influencer_tt: "Mění vliv [?var:tag_index.GetFlag]§Y[?var:tag_index.GetAdjective]§! ve státě §Y[?var:influence_target.GetNameWithFlag]§! o [?percent_change|Y%%]\n"
+  change_influencer_tt_error: "CHYBA: Ovlivňující a ovlivňovaný jsou totožní. Pokud tuto zprávu vidíte, informujte vývojáře. Toto by se nemělo stát."
+  is_influencer_tt: "§H[ROOT.GetNameWithFlag]§! je influencerem ve státě §Y[FROM.GetNameWithFlag]§!"
+  is_top_three_influencer_tt: "§H[ROOT.GetNameWithFlag]§! patří mezi tři největší influencery ve státě §Y[FROM.GetNameWithFlag]§!"
+  is_top_five_influencer_tt: "§H[ROOT.GetNameWithFlag]§! patří mezi pět největších influencerů ve státě §Y[FROM.GetNameWithFlag]§!"
+  is_top_five_influencer_ct_tt: "§H[ROOT.GetNameWithFlag]§! patří mezi pět největších influencerů"
+  top_three_twenty_percent_influencer_tt: "Musí platit vše následující:\n§H[ROOT.GetNameWithFlag]§! > 20 % vlivu\n§H[ROOT.GetNameWithFlag]§! patří mezi tři největší influencery ve státě §Y[FROM.GetNameWithFlag]§!"
+  top_three_thirty_percent_influencer_tt: "Musí platit vše následující:\n§H[ROOT.GetNameWithFlag]§! > 30 % vlivu\n§H[ROOT.GetNameWithFlag]§! patří mezi tři největší influencery ve státě §Y[FROM.GetNameWithFlag]§!"
+  top_three_thirty_percent_variable_influencer_tt: "Musí platit vše následující:\n§H[?var:temp_country.GetNameWithFlag]§! > 30 % vlivu\n§H[?var:temp_country.GetNameWithFlag]§! patří mezi tři největší influencery ve státě §Y[THIS.GetNameWithFlag]§!"
+  is_top_influencer_fifty_percent: "Musí platit vše následující:\n§H[ROOT.GetNameWithFlag]§! > 50 % vlivu\n§H[ROOT.GetNameWithFlag]§! je největším influencerem ve státě §Y[FROM.GetNameWithFlag]§!"
+  is_top_influencer_eighty_percent: "Musí platit vše následující:\n§H[ROOT.GetNameWithFlag]§! > 80 % vlivu\n§H[ROOT.GetNameWithFlag]§! je největším influencerem ve státě §Y[FROM.GetNameWithFlag]§!"
+  is_top_influencer_twenty_percent: "Musí platit vše následující:\n§H[ROOT.GetNameWithFlag]§! > 20 % vlivu\n§H[ROOT.GetNameWithFlag]§! je největším influencerem ve státě §Y[FROM.GetNameWithFlag]§!"
+  gdp_greater_than_other: "Naše HDP na obyvatele (aktuálně: [?ROOT.gdp_per_capita]k) > HDP na obyvatele §Y[FROM.GetNameWithFlag]§! (aktuálně: [?FROM.gdp_per_capita]k)"
+  more_civs_than_other: "§H[ROOT.GetNamewithFlag]§! (aktuálně: [?ROOT.num_of_civilian_factories|Y0]) má více §H$industrial_complex$§! než §H[FROM.GetNameWithFlag]§! (aktuálně: [?FROM.num_of_civilian_factories|Y0])"
+  gdp_total_cannot_be_double_ours: "HDP cílového státu nesmí přesáhnout dvojnásobek našeho HDP (aktuální HDP: $$[?ROOT.gdp_total|Y0]b). (Aktuální HDP §H[FROM.GetName]§!: $$[?FROM.gdp_total|Y0]b)"
+  influence_higher_5_tt: "§H[ROOT.GetNameWithFlag]§! má více než 5 % vlivu"
+  influence_higher_10_tt: "§H[ROOT.GetNameWithFlag]§! má více než 10 % vlivu"
+  influence_higher_15_tt: "§H[ROOT.GetNameWithFlag]§! má více než 15 % vlivu"
+  influence_higher_20_tt: "§H[ROOT.GetNameWithFlag]§! má více než 20 % vlivu"
+  influence_higher_25_tt: "§H[ROOT.GetNameWithFlag]§! má více než 25 % vlivu"
+  influence_higher_30_tt: "§H[ROOT.GetNameWithFlag]§! má více než 30 % vlivu"
+  influence_higher_35_tt: "§H[ROOT.GetNameWithFlag]§! má více než 35 % vlivu"
+  influence_higher_40_tt: "§H[ROOT.GetNameWithFlag]§! má více než 40 % vlivu"
+  influence_higher_50_tt: "§H[ROOT.GetNameWithFlag]§! má více než 50 % vlivu"
+  influence_higher_60_tt: "§H[ROOT.GetNameWithFlag]§! má více než 60 % vlivu"
+  influence_higher_70_tt: "§H[ROOT.GetNameWithFlag]§! má více než 70 % vlivu"
+  influence_higher_75_tt: "§H[ROOT.GetNameWithFlag]§! má více než 75 % vlivu"
+  influence_higher_80_tt: "§H[ROOT.GetNameWithFlag]§! má více než 80 % vlivu"
+  influence_higher_90_tt: "§H[ROOT.GetNameWithFlag]§! má více než 90 % vlivu"
+  influence_less_10_tt: "má méně než 10 % vlivu"
+  influence_less_20_tt: "má méně než 20 % vlivu"
+  influence_less_30_tt: "má méně než 30 % vlivu"
+  influence_less_40_tt: "má méně než 40 % vlivu"
+  influence_less_60_tt: "má méně než 60 % vlivu"
+  influence_less_70_tt: "má méně než 70 % vlivu"
+  position_1_var_integer_tt: "[?influence_array_val^0|Y%%]"
+  position_2_var_integer_tt: "[?influence_array_val^1|Y%%]"
+  position_3_var_integer_tt: "[?influence_array_val^2|Y%%]"
+  position_4_var_integer_tt: "[?influence_array_val^3|Y%%]"
+  position_5_var_integer_tt: "[?influence_array_val^4|Y%%]"
+  position_6_var_integer_tt: "[?influence_array_val^5|Y%%]"
+  position_7_var_integer_tt: "[?influence_array_val^6|Y%%]"
+  1_pos_diplo: "1."
+  2_pos_diplo: "2."
+  3_pos_diplo: "3."
+  4_pos_diplo: "4."
+  5_pos_diplo: "5."
+  6_pos_diplo: "6."
+  7_pos_diplo: "7."
+  accept_money: "Pokud bude přijato, obdržíte ve státě [THIS.GetName] následující:\n"
+  has_foreign_influence: "Je přítomen zahraniční vliv\n"
+  influence_drift_modifier: "Zahraniční vliv na nás"
+  spread_influence_14_days_tooltip: "§HŠířit vliv§! lze v tomto státě jednou za §H14§! dní.\n"
+  spread_influence_30_days_tooltip: "§HŠířit vliv§! lze v tomto státě jednou za §H30§! dní.\n"
+  spread_influence_60_days_tooltip: "§HŠířit vliv§! lze v tomto státě jednou za §H60§! dní.\n"
+  spread_influence_4_percent_change: "4"
+  spread_influence_3_percent_change: "3"
+  spread_influence_0_5_percent_change: "0,5"
+  spread_influence_2_percent_change: "2"
+  cooldown_influence_limit_14_tooltip: "§HVliv§! lze získat jednou za §H14§! dní z jakékoli přijaté investiční nabídky v tomto státě.\n"
+  cooldown_influence_limit_30_tooltip: "§HVliv§! lze získat jednou za §H30§! dní z jakékoli přijaté investiční nabídky v tomto státě.\n"
+  recently_refused_economic_aid_tt: "Nedávno jsme odmítli nějaký druh pomoci. Zbývá [?recently_refused_aid:days_left|Y0] dní, než z odmítnutí znovu získáme politickou moc.\n"
+  influence_on_neighbors_tt: "Získáváme §Yvliv§! na všechny naše sousedy.\n"
+  AI_is_threatened: "§H[PREV.GetName]§! je aktuálně ohrožen."
+  auto_influence_nation_0_tt: "[?var:ROOT.auto_influence_array^0.GetNameWithFlag]\n"
+  auto_influence_nation_1_tt: "[?var:ROOT.auto_influence_array^1.GetNameWithFlag]\n"
+  auto_influence_nation_2_tt: "[?var:ROOT.auto_influence_array^2.GetNameWithFlag]\n"
+  auto_influence_nation_3_tt: "[?var:ROOT.auto_influence_array^3.GetNameWithFlag]\n"
+  auto_influence_nation_4_tt: "[?var:ROOT.auto_influence_array^4.GetNameWithFlag]\n"
+  auto_influence_nation_5_tt: "[?var:ROOT.auto_influence_array^5.GetNameWithFlag]\n"
+  auto_influence_nation_6_tt: "[?var:ROOT.auto_influence_array^6.GetNameWithFlag]\n"
+  auto_influence_nation_7_tt: "[?var:ROOT.auto_influence_array^7.GetNameWithFlag]\n"
+  auto_influence_nation_8_tt: "[?var:ROOT.auto_influence_array^8.GetNameWithFlag]\n"
+  auto_influence_nation_9_tt: "[?var:ROOT.auto_influence_array^9.GetNameWithFlag]\n"
+  auto_influence_target_0_tt: "[?var:ROOT.auto_influence_array^0.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_0_val|2] %)\n"
+  auto_influence_target_1_tt: "[?var:ROOT.auto_influence_array^1.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_1_val|2] %)\n"
+  auto_influence_target_2_tt: "[?var:ROOT.auto_influence_array^2.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_2_val|2] %)\n"
+  auto_influence_target_3_tt: "[?var:ROOT.auto_influence_array^3.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_3_val|2] %)\n"
+  auto_influence_target_4_tt: "[?var:ROOT.auto_influence_array^4.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_4_val|2] %)\n"
+  auto_influence_target_5_tt: "[?var:ROOT.auto_influence_array^5.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_5_val|2] %)\n"
+  auto_influence_target_6_tt: "[?var:ROOT.auto_influence_array^6.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_6_val|2] %)\n"
+  auto_influence_target_7_tt: "[?var:ROOT.auto_influence_array^7.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_7_val|2] %)\n"
+  auto_influence_target_8_tt: "[?var:ROOT.auto_influence_array^8.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_8_val|2] %)\n"
+  auto_influence_target_9_tt: "[?var:ROOT.auto_influence_array^9.GetNameWithFlag] (Aktuální vliv: [?auto_influence_target_9_val|2] %)\n"
