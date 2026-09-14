@@ -1,51 +1,40 @@
 ﻿l_english:
-  infantry_weapons2: "Lehké zbraně 1985" # todo: NEW TRANSLATION
-  infantry_weapons2_desc: "Lehké zbraně představují vybavení používané střeleckými četami, jako jsou útočné pušky, pušky pro přesnou střelbu, odstřelovací pušky, granátomety, bezzákluzová děla, lehké kulomety a tělové brnění." # todo: NEW TRANSLATION
-  support_folder: "Podpůrné prapory" # todo: NEW TRANSLATION
-  armour_folder: "Vozidla" # todo: NEW TRANSLATION
-  armour_folder_desc: "Obrněná vozidla, tanky a jejich varianty." # todo: NEW TRANSLATION
-  naval_folder: "Povrchová plavidla" # todo: NEW TRANSLATION
-  naval_folder_desc: "Povrchová plavidla" # todo: NEW TRANSLATION
-  carrier_folder: "Letadlové lodě" # todo: NEW TRANSLATION
-  carrier_folder_desc: "Letadlové lodě" # todo: NEW TRANSLATION
-  submarine_folder: "Ponorky" # todo: NEW TRANSLATION
-  submarine_folder_desc: "Ponorky" # todo: NEW TRANSLATION
-  air_techs_folder: "Vrtulníky" # todo: NEW TRANSLATION
-  air_techs_folder_desc: "Útočné a transportní vrtulníky." # todo: NEW TRANSLATION
-  fixed_wing_folder: "Letadla s pevným křídlem" # todo: NEW TRANSLATION
-  fixed_wing_folder_desc: "Jednomotorová a dvoumotorová bojová letadla založená na víceúčelových proudových stíhačích." # todo: NEW TRANSLATION
-  bomber_folder: "Bombardovací letadla" # todo: NEW TRANSLATION
-  bomber_folder_desc: "Specializovaná bojová letadla pro strategické operace, nasazení proti námořním cílům nebo vyhrazené útoky v rámci blízké letecké podpory." # todo: NEW TRANSLATION
-  TITLE_BATTLEFIELD_SUPPORT: "Podpora na bojišti" # todo: NEW TRANSLATION
-  BATTLEFIELD_SUPPORT_DESC: "Podle standardní doktríny NATO považujeme letectvo za hlavní prostředek poskytování flexibilní a ničivé podpory na bojišti, zasahující frontu i zadní pásmo nepřítele a ničící jejich síly, soudržnost a komunikaci." # todo: NEW TRANSLATION
-  TITLE_OPERATIONAL_INTEGRITY: "Ničení strategických zdrojů" # todo: NEW TRANSLATION
-  OPERATIONAL_INTEGRITY_DESC: "Naše letectvo je zaměřeno na ničení nepřátelských průmyslových zařízení a zničení nepřátelské flotily v porto v přístavech i na moři, aby jim byla odepřena schopnost obchodovat a vyrábět válečné zbraně." # todo: NEW TRANSLATION
-  TITLE_LOCAL_DEFENSE: "Obrana místního vzdušného prostoru" # todo: NEW TRANSLATION
-  LOCAL_DEFENSE_DESC: "Hlavní je bránit náš vlastní vzdušný prostor, abychom nepříteli znemožnili provádět vlastní operace, čímž ochráníme naše bojové síly a průmyslové kapacity nutné k pokračování v boji." # todo: NEW TRANSLATION
-  sof_airmobile: "Airmobilní doktrína" # todo: NEW TRANSLATION
-  sof_marine: "Doktrína námořní pěchoty" # todo: NEW TRANSLATION
-  sof_para: "Výsadková doktrína" # todo: NEW TRANSLATION
-  special_forces_airborne_doctrine_folder: "Výsadková doktrína" # todo: NEW TRANSLATION
-  special_forces_airborne_doctrine_folder_desc: "Výsadková doktrína, jak bojují vaši výsadkáři." # todo: NEW TRANSLATION
-  special_forces_marine_doctrine_folder: "Doktrína námořní pěchoty" # todo: NEW TRANSLATION
-  special_forces_marine_doctrine_folder_desc: "Doktrína námořní pěchoty, jak bojují vaši mariňáci." # todo: NEW TRANSLATION
-  special_forces_airmobile_doctrine_folder: "Airmobilní doktrína" # todo: NEW TRANSLATION
-  special_forces_airmobile_doctrine_folder_desc: "Airmobilní doktrína, jak bojují vaše vrtulníkem přesunované útočné pěší jednotky." # todo: NEW TRANSLATION
-  INFANTRY_TITLE_MOTORISED: "MOTORIZOVANÉ" # todo: NEW TRANSLATION
-  NAVAL_TITLE_CRUISERS: "KŘIŽNÍK" # todo: NEW TRANSLATION
-  NAVAL_TITLE_SUBMARINE: "PONORKA" # todo: NEW TRANSLATION
-  SF_PARAS_combat_effect_tt: "Divize nepřítele ve státech, do kterých provedeme §HParadrop§!, budou mít sníženou svou aktuální §HOrganization§!.\n\n$PARA_EFFECT_TIMER$" # todo: NEW TRANSLATION
-  SF_PARAS_sabotage_effect_tt: "Státy ovládané nepřítelem, do kterých provedeme §HParadrop§!, utrpí poškození §HAir Bases§!, §HRadar Sites§!, §HRailways§! a §HSupply Depots§!.\n\n$PARA_EFFECT_TIMER$" # todo: NEW TRANSLATION
-  PARA_EFFECT_TIMER: "Tento efekt může nastat v každém státě jednou každých §H30§! dní." # todo: NEW TRANSLATION
-  SF_MARINE_logi_raiding_effect_tt: "Po úspěšném vylodění bude v daném státě sabotována nepřátelská infrastruktura a zásobníky paliva." # todo: NEW TRANSLATION
-  CAT_computing_tech: "Výpočetní technologie" # todo: NEW TRANSLATION
-  CAT_air_doctrine: "Letecké doktríny" # todo: NEW TRANSLATION
-  CAT_land_doctrine: "Pozemní doktríny" # todo: NEW TRANSLATION
-  CAT_industry: "Průmysl" # todo: NEW TRANSLATION
-  CAT_fortifications: "Opevnění" # todo: NEW TRANSLATION
-  CAT_encryption_tech: "Šifrovací technologie" # todo: NEW TRANSLATION
-  CAT_decryption_tech: "Dešifrovací technologie" # todo: NEW TRANSLATION
-  CAT_Civilian: "£civ_factory Technologie civilních továren" # todo: NEW TRANSLATION
-  CAT_Civilian_research: "£research_bonus_texticon Rychlost výzkumu technologií civilních továren" # todo: NEW TRANSLATION
-  CAT_Military: "£factory_output_texticon Technologie vojenských továren" # todo: NEW TRANSLATION
-  CAT_Military_research: "£research_bonus_texticon Rychlost výzkumu technologií vojenských továren" # todo: NEW TRANSLATION
+ support_folder: "Podpůrné prapory" # todo: NEW TRANSLATION
+ armour_folder: "Vozidla" # todo: NEW TRANSLATION
+ armour_folder_desc: "Obrněná vozidla, tanky a jejich varianty." # todo: NEW TRANSLATION
+ naval_folder: "Technologie námořních lodí" # todo: CHANGED
+ naval_folder_desc: "Všechny technologie, které můžeme zkoumat za účelem vylepšení trupů našich lodí" # todo: CHANGED
+ naval_module_folder: "Technologie námořních modulů" # todo: NEW TRANSLATION
+ naval_module_folder_desc: "Všechny technologie pro vylepšení našeho námořního vybavení" # todo: NEW TRANSLATION
+ carrier_folder: "Letadlové lodě" # todo: NEW TRANSLATION
+ carrier_folder_desc: "Letadlové lodě" # todo: NEW TRANSLATION
+ submarine_folder: "Ponorky" # todo: NEW TRANSLATION
+ submarine_folder_desc: "Ponorky" # todo: NEW TRANSLATION
+ air_techs_folder: "Vrtulníky" # todo: NEW TRANSLATION
+ air_techs_folder_desc: "Útočné a transportní vrtulníky." # todo: NEW TRANSLATION
+ fixed_wing_folder: "Letadla s pevným křídlem" # todo: NEW TRANSLATION
+ fixed_wing_folder_desc: "Jednomotorová a dvoumotorová bojová letadla založená na víceúčelových proudových stíhačích." # todo: NEW TRANSLATION
+ bomber_folder: "Bombardovací letadla" # todo: NEW TRANSLATION
+ bomber_folder_desc: "Specializovaná bojová letadla pro strategické operace, nasazení proti námořním cílům nebo vyhrazené útoky v rámci blízké letecké podpory." # todo: NEW TRANSLATION
+ TITLE_BATTLEFIELD_SUPPORT: "Podpora na bojišti" # todo: NEW TRANSLATION
+ BATTLEFIELD_SUPPORT_DESC: "Podle standardní doktríny NATO považujeme letectvo za hlavní prostředek poskytování flexibilní a ničivé podpory na bojišti, zasahující frontu i zadní pásmo nepřítele a ničící jejich síly, soudržnost a komunikaci." # todo: NEW TRANSLATION
+ TITLE_OPERATIONAL_INTEGRITY: "Ničení strategických zdrojů" # todo: NEW TRANSLATION
+ OPERATIONAL_INTEGRITY_DESC: "Naše letectvo je zaměřeno na ničení nepřátelských průmyslových zařízení a zničení nepřátelské flotily v porto v přístavech i na moři, aby jim byla odepřena schopnost obchodovat a vyrábět válečné zbraně." # todo: NEW TRANSLATION
+ TITLE_LOCAL_DEFENSE: "Obrana místního vzdušného prostoru" # todo: NEW TRANSLATION
+ LOCAL_DEFENSE_DESC: "Hlavní je bránit náš vlastní vzdušný prostor, abychom nepříteli znemožnili provádět vlastní operace, čímž ochráníme naše bojové síly a průmyslové kapacity nutné k pokračování v boji." # todo: NEW TRANSLATION
+ sof_para: "Speciální jednotky" # todo: CHANGED
+ special_forces_doctrine: "Doktrína speciálních jednotek" # todo: NEW TRANSLATION
+ special_forces_doctrine_folder: "Doktrína speciálních jednotek" # todo: NEW TRANSLATION
+ special_forces_doctrine_folder_desc: "Doktrína speciálních jednotek pro organizaci způsobu, jakým vaše speciální jednotky bojují." # todo: NEW TRANSLATION
+ INFANTRY_TITLE_MOTORISED: "MOTORIZOVANÉ" # todo: NEW TRANSLATION
+ PARA_EFFECT_TIMER: "Tento efekt může nastat v každém státě jednou každých §H30§! dní." # todo: NEW TRANSLATION
+ CAT_computing_tech: "Výpočetní technologie" # todo: NEW TRANSLATION
+ CAT_air_doctrine: "Letecké doktríny" # todo: NEW TRANSLATION
+ CAT_land_doctrine: "Pozemní doktríny" # todo: NEW TRANSLATION
+ CAT_industry: "Průmysl" # todo: NEW TRANSLATION
+ CAT_encryption_tech: "Šifrovací technologie" # todo: NEW TRANSLATION
+ CAT_decryption_tech: "Dešifrovací technologie" # todo: NEW TRANSLATION
+ CAT_Civilian: "£civ_factory Civilní technologie" # todo: CHANGED
+ CAT_Civilian_research: "£research_bonus_texticon Rychlost výzkumu civilních technologií" # todo: CHANGED
+ CAT_Military: "£factory_output_texticon Vojenská technologie" # todo: CHANGED
+ CAT_Military_research: "£research_bonus_texticon Rychlost výzkumu vojenských technologií" # todo: CHANGED

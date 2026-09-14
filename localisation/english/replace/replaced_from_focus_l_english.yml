@@ -1,64 +1,68 @@
 ﻿l_english:
-  WHILE_FOCUSING: "Při zaměření na toto budou následující efekty:\n$EFF$" # todo: NEW TRANSLATION
-  generic_focus: "Národní fokus" # todo: NEW TRANSLATION
-  NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE: "Větve jsou vzájemně se vylučující." # todo: NEW TRANSLATION
-  NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Vzájemně se vylučuje s" # todo: NEW TRANSLATION
-  NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$FOCUS|Y$" # todo: NEW TRANSLATION
-  NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Tento fokus momentálně nemá žádný efekt. Změny ve světové situaci to mohou ovlivnit." # todo: NEW TRANSLATION
-  continuous_naval_production: "Námořní výroba" # todo: NEW TRANSLATION
-  continuous_naval_production_desc: "Zaměřením zdrojů na naše loděnice a osvobozením zkušených lodních stavitelů od vojenské služby můžeme výrazně zkrátit dobu výroby lodí." # todo: NEW TRANSLATION
-  continuous_air_production: "Letecká výroba" # todo: NEW TRANSLATION
-  continuous_air_production_desc: "Můžeme přeorganizovat náš letecký průmysl, odstranit zbytečné plýtvání a zefektivnit výrobu." # todo: NEW TRANSLATION
-  continuous_non_factory_construct: "Stavební inženýrství" # todo: NEW TRANSLATION
-  continuous_non_factory_construct_desc: "V našem stavebnictví je stále mnoho volných kapacit. Pokud se na něj zaměříme, můžeme dosáhnout výrazného zrychlení výstavby. Bohužel se výroba obráběcích strojů ukázala jako hlavní úzké místo při rozšiřování našeho těžkého průmyslu, takže z těchto opatření nebudou mít prospěch." # todo: NEW TRANSLATION
-  continuous_reduce_training_time: "Armádní výcvik" # todo: NEW TRANSLATION
-  continuous_reduce_training_time_desc: "Vytvořením specializovaných pokročilých výcvikových jednotek v každé divizi můžeme nasadit i ty divize, které by dříve musely zůstat v záloze, aby dokončily výcvik." # todo: NEW TRANSLATION
-  continuous_suppression: "Potlačování odboje" # todo: NEW TRANSLATION
-  continuous_suppression_desc: "Infiltrací hlavních odbojových skupin na okupovaném území a získáním jejich vůdců na naši stranu můžeme výrazně snížit škody, které mohou způsobit." # todo: NEW TRANSLATION
-  continuous_repair: "Stavební opravy" # todo: NEW TRANSLATION
-  continuous_repair_desc: "Sestavíme specializované opravárenské týmy z továrních a stavebních dělníků a centrálně budeme řídit jejich nasazení, aby se zlepšila obnova poškozené infrastruktury." # todo: NEW TRANSLATION
-  continuous_tech_share: "Sdílení technologií" # todo: NEW TRANSLATION
-  continuous_tech_share_desc: "Povzbudíme naše výzkumné ústavy a univerzity, aby navazovaly kontakty s protějšky v spojeneckých zemích. Získáme tím bonus ke sdílení technologií." # todo: NEW TRANSLATION
-  continuous_boost_freedom: "Zvýšení autonomie" # todo: NEW TRANSLATION
-  continuous_boost_freedom_desc: "Přeorganizováním naší koloniální byrokracie a náborem domorodých administrátorů se časem budeme moci převzít řízení vlastních záležitostí." # todo: NEW TRANSLATION
-  continuous_restrict_freedom: "Potlačit poddané" # todo: NEW TRANSLATION
-  continuous_restrict_freedom_desc: "Naši koloniální poddaní si vypěstovali poměrně pošetilé představy o věcech jako \"právo na sebeurčení\" nebo \"národní nezávislost\". Je čas je z těchto představ vyvést." # todo: NEW TRANSLATION
-  continuous_debt_consolidation: "Konsolidace dluhu" # todo: NEW TRANSLATION
-  continuous_debt_consolidation_desc: "Vláda přijala sérii opatření ke konsolidaci svých dluhů a zlepšení finančního postavení země." # todo: NEW TRANSLATION
-  continuous_increased_taxation_levies: "Zvýšené daňové odvody" # todo: NEW TRANSLATION
-  continuous_increased_taxation_levies_desc: "Rychlým způsobem, jak vyrovnat ztráty z našich výdajů, je dočasné zvýšení daňového zatížení. Čím déle v tom budeme pokračovat, tím více to oslabí stabilitu naší země." # todo: NEW TRANSLATION
-  continuous_bread_and_circuses: "Chléb a hry" # todo: NEW TRANSLATION
-  continuous_bread_and_circuses_desc: "Pokud znovu investujeme do našich lidí a naší stability, můžeme pozorovat zvýšení produktivity obyvatel." # todo: NEW TRANSLATION
-  continuous_family_planning: "Plánování rodiny" # todo: NEW TRANSLATION
-  continuous_family_planning_desc: "Vždy je možnost nabídnout plánování rodiny mladým rodinám, aby se zvýšil počet obyvatel v naší zemi." # todo: NEW TRANSLATION
-  continuous_foreign_investments: "Podpora zahraničních investic" # todo: NEW TRANSLATION
-  continuous_foreign_investments_desc: "Naléhavě potřebujeme zahraniční investice, které by podpořily naši ekonomiku." # todo: NEW TRANSLATION
-  continuous_temporary_agents: "Dočasní zpravodajští agenti" # todo: NEW TRANSLATION
-  continuous_temporary_agents_desc: "Měli bychom povzbudit naši zpravodajskou službu, aby najala další operativce." # todo: NEW TRANSLATION
-  continuous_nuclear_energy_investments: "Investice do jaderné energie" # todo: NEW TRANSLATION
-  continuous_nuclear_energy_investments_desc: "Investice do výroby jaderné energie jsou správnou cestou, jak zajistit, že budeme mít vždy k dispozici energii." # todo: NEW TRANSLATION
-  continuous_economy_research: "Ekonomika a výzkum" # todo: NEW TRANSLATION
-  continuous_economy_research_desc: "" # todo: NEW TRANSLATION
-  continuous_population_management: "Řízení populace" # todo: NEW TRANSLATION
-  continuous_population_management_desc: "" # todo: NEW TRANSLATION
-  continuous_military_management: "Vojenské řízení" # todo: NEW TRANSLATION
-  continuous_military_management_desc: "" # todo: NEW TRANSLATION
-  unlocks_decision: "Odemkne rozhodnutí:" # todo: NEW TRANSLATION
-  confirm_cancel_national_focus: "Zrušit národní fokus" # todo: NEW TRANSLATION
-  confirm_cancel_national_focus_progress_loss_singular: "Ztratíte §R$LOST_DAYS$§! den pokroku." # todo: NEW TRANSLATION
-  confirm_cancel_national_focus_progress_loss_plural: "Ztratíte §R$LOST_DAYS$§! dnů pokroku." # todo: NEW TRANSLATION
-  confirm_cancel_national_focus_desc: "Jste si jisti, že chcete zrušit národní fokus §H$FOCUS_NAME$§!?" # todo: NEW TRANSLATION
-  available_political_advisor: "§GDostupný§! jako §Ypolitický poradce§!:\n" # todo: NEW TRANSLATION
-  available_chief_of_army: "§GDostupný§! jako §Yvrchní velitel armády§!:\n" # todo: NEW TRANSLATION
-  available_chief_of_navy: "§GDostupný§! jako §Yvrchní velitel námořnictva§!:\n" # todo: NEW TRANSLATION
-  available_chief_of_airforce: "§GDostupný§! jako §Yvrchní velitel letectva§!:\n" # todo: NEW TRANSLATION
-  available_military_high_command: "§GDostupný§! jako §YVysoké velení armády§!:\n" # todo: NEW TRANSLATION
-  available_theorist: "§GDostupný§! jako §Yteoretik§!:\n" # todo: NEW TRANSLATION
-  available_designer: "§GDostupný§! jako §YDesignová společnost§!:\n" # todo: NEW TRANSLATION
-  available_industrial_concern: "§GDostupný§! jako §Yprůmyslový podnik§!:\n" # todo: NEW TRANSLATION
-  remove_political_advisor: "§ROdstranit§! jako §Ypolitický poradce§!:\n" # todo: NEW TRANSLATION
-  remove_chief_of_army: "§ROdstranit§! jako §Yvrchní velitel armády§!:\n" # todo: NEW TRANSLATION
-  remove_chief_of_navy: "§ROdstranit§! jako §Yvrchní velitel námořnictva§!:\n" # todo: NEW TRANSLATION
-  remove_chief_of_airforce: "§ROdstranit§! jako §Yvrchní velitel letectva§!:\n" # todo: NEW TRANSLATION
-  remove_military_high_command: "§ROdstranit§! jako §YVysoké velení armády§!:\n" # todo: NEW TRANSLATION
-  remove_theorist: "§ROdstranit§! jako §Yteoretik§!:\n" # todo: NEW TRANSLATION
+ WHILE_FOCUSING: "Při zaměření na toto budou následující efekty:\n$EFF$" # todo: NEW TRANSLATION
+ generic_focus: "Národní fokus" # todo: NEW TRANSLATION
+ NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE: "Větve jsou vzájemně se vylučující." # todo: NEW TRANSLATION
+ NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Vzájemně se vylučuje s" # todo: NEW TRANSLATION
+ NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$FOCUS|Y$" # todo: NEW TRANSLATION
+ NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Tento fokus momentálně nemá žádný efekt. Změny ve světové situaci to mohou ovlivnit." # todo: NEW TRANSLATION
+ continuous_naval_production: "Námořní výroba" # todo: NEW TRANSLATION
+ continuous_naval_production_desc: "Zaměřením zdrojů na naše loděnice a osvobozením zkušených lodních stavitelů od vojenské služby můžeme výrazně zkrátit dobu výroby lodí." # todo: NEW TRANSLATION
+ continuous_air_production: "Letecká výroba" # todo: NEW TRANSLATION
+ continuous_air_production_desc: "Můžeme přeorganizovat náš letecký průmysl, odstranit zbytečné plýtvání a zefektivnit výrobu." # todo: NEW TRANSLATION
+ continuous_non_factory_construct: "Stavební inženýrství" # todo: NEW TRANSLATION
+ continuous_non_factory_construct_desc: "V našem stavebnictví je stále mnoho volných kapacit. Pokud se na něj zaměříme, můžeme dosáhnout výrazného zrychlení výstavby. Bohužel se výroba obráběcích strojů ukázala jako hlavní úzké místo při rozšiřování našeho těžkého průmyslu, takže z těchto opatření nebudou mít prospěch." # todo: NEW TRANSLATION
+ continuous_reduce_training_time: "Armádní výcvik" # todo: NEW TRANSLATION
+ continuous_reduce_training_time_desc: "Vytvořením specializovaných pokročilých výcvikových jednotek v každé divizi můžeme nasadit i ty divize, které by dříve musely zůstat v záloze, aby dokončily výcvik." # todo: NEW TRANSLATION
+ continuous_suppression: "Potlačování odboje" # todo: NEW TRANSLATION
+ continuous_suppression_desc: "Infiltrací hlavních odbojových skupin na okupovaném území a získáním jejich vůdců na naši stranu můžeme výrazně snížit škody, které mohou způsobit." # todo: NEW TRANSLATION
+ continuous_repair: "Stavební opravy" # todo: NEW TRANSLATION
+ continuous_repair_desc: "Sestavíme specializované opravárenské týmy z továrních a stavebních dělníků a centrálně budeme řídit jejich nasazení, aby se zlepšila obnova poškozené infrastruktury." # todo: NEW TRANSLATION
+ continuous_tech_share: "Sdílení technologií" # todo: NEW TRANSLATION
+ continuous_tech_share_desc: "Povzbudíme naše výzkumné ústavy a univerzity, aby navazovaly kontakty s protějšky v spojeneckých zemích. Získáme tím bonus ke sdílení technologií." # todo: NEW TRANSLATION
+ continuous_boost_freedom: "Zvýšení autonomie" # todo: NEW TRANSLATION
+ continuous_boost_freedom_desc: "Přeorganizováním naší koloniální byrokracie a náborem domorodých administrátorů se časem budeme moci převzít řízení vlastních záležitostí." # todo: NEW TRANSLATION
+ continuous_restrict_freedom: "Potlačit poddané" # todo: NEW TRANSLATION
+ continuous_restrict_freedom_desc: "Naši koloniální poddaní si vypěstovali poměrně pošetilé představy o věcech jako \"právo na sebeurčení\" nebo \"národní nezávislost\". Je čas je z těchto představ vyvést." # todo: NEW TRANSLATION
+ continuous_debt_consolidation: "Konsolidace dluhu" # todo: NEW TRANSLATION
+ continuous_debt_consolidation_desc: "Vláda přijala sérii opatření ke konsolidaci svých dluhů a zlepšení finančního postavení země." # todo: NEW TRANSLATION
+ continuous_increased_taxation_levies: "Zvýšené daňové odvody" # todo: NEW TRANSLATION
+ continuous_increased_taxation_levies_desc: "Rychlým způsobem, jak vyrovnat ztráty z našich výdajů, je dočasné zvýšení daňového zatížení. Čím déle v tom budeme pokračovat, tím více to oslabí stabilitu naší země." # todo: NEW TRANSLATION
+ continuous_bread_and_circuses: "Chléb a hry" # todo: NEW TRANSLATION
+ continuous_bread_and_circuses_desc: "Pokud znovu investujeme do našich lidí a naší stability, můžeme pozorovat zvýšení produktivity obyvatel." # todo: NEW TRANSLATION
+ continuous_family_planning: "Plánování rodiny" # todo: NEW TRANSLATION
+ continuous_family_planning_desc: "Vždy je možnost nabídnout plánování rodiny mladým rodinám, aby se zvýšil počet obyvatel v naší zemi." # todo: NEW TRANSLATION
+ continuous_foreign_investments: "Podpora zahraničních investic" # todo: NEW TRANSLATION
+ continuous_foreign_investments_desc: "Naléhavě potřebujeme zahraniční investice, které by podpořily naši ekonomiku." # todo: NEW TRANSLATION
+ continuous_temporary_agents: "Dočasní zpravodajští agenti" # todo: NEW TRANSLATION
+ continuous_temporary_agents_desc: "Měli bychom povzbudit naši zpravodajskou službu, aby najala další operativce." # todo: NEW TRANSLATION
+ continuous_nuclear_energy_investments: "Investice do jaderné energie" # todo: NEW TRANSLATION
+ continuous_nuclear_energy_investments_desc: "Investice do výroby jaderné energie jsou správnou cestou, jak zajistit, že budeme mít vždy k dispozici energii." # todo: NEW TRANSLATION
+ continuous_economy_research: "Ekonomika a výzkum" # todo: NEW TRANSLATION
+ continuous_economy_research_desc: "" # todo: NEW TRANSLATION
+ continuous_population_management: "Řízení populace" # todo: NEW TRANSLATION
+ continuous_population_management_desc: "" # todo: NEW TRANSLATION
+ continuous_military_management: "Vojenské řízení" # todo: NEW TRANSLATION
+ continuous_military_management_desc: "" # todo: NEW TRANSLATION
+ unlocks_decision: "Odemkne rozhodnutí:" # todo: NEW TRANSLATION
+ confirm_cancel_national_focus: "Zrušit národní fokus" # todo: NEW TRANSLATION
+ confirm_cancel_national_focus_progress_loss_singular: "Ztratíte §R$LOST_DAYS$§! den pokroku." # todo: NEW TRANSLATION
+ confirm_cancel_national_focus_progress_loss_plural: "Ztratíte §R$LOST_DAYS$§! dnů pokroku." # todo: NEW TRANSLATION
+ confirm_cancel_national_focus_desc: "Jste si jisti, že chcete zrušit národní fokus §H$FOCUS_NAME$§!?" # todo: NEW TRANSLATION
+ available_political_advisor: "§GDostupný§! jako §Ypolitický poradce§!:\n" # todo: NEW TRANSLATION
+ available_chief_of_army: "§GDostupný§! jako §Yvrchní velitel armády§!:\n" # todo: NEW TRANSLATION
+ available_chief_of_navy: "§GDostupný§! jako §Yvrchní velitel námořnictva§!:\n" # todo: NEW TRANSLATION
+ available_chief_of_airforce: "§GDostupný§! jako §Ynáčelník letectva§!:\n" # todo: CHANGED
+ available_military_high_command: "§GDostupný§! jako §YVysoké velení armády§!:\n" # todo: NEW TRANSLATION
+ available_theorist: "§GDostupný§! jako §Yteoretik§!:\n" # todo: NEW TRANSLATION
+ available_designer: "§GDostupný§! jako §YDesignová společnost§!:\n" # todo: NEW TRANSLATION
+ available_industrial_concern: "§GDostupný§! jako §Yprůmyslový podnik§!:\n" # todo: NEW TRANSLATION
+ remove_political_advisor: "§ROdstranit§! jako §Ypolitický poradce§!:\n" # todo: NEW TRANSLATION
+ remove_chief_of_army: "§ROdstranit§! jako §Yvrchní velitel armády§!:\n" # todo: NEW TRANSLATION
+ remove_chief_of_navy: "§ROdstranit§! jako §Yvrchní velitel námořnictva§!:\n" # todo: NEW TRANSLATION
+ remove_chief_of_airforce: "§ROdebrat§! jako §Ynáčelník letectva§!:\n" # todo: CHANGED
+ remove_military_high_command: "§ROdstranit§! jako §YVysoké velení armády§!:\n" # todo: NEW TRANSLATION
+ remove_theorist: "§ROdstranit§! jako §Yteoretik§!:\n" # todo: NEW TRANSLATION
+ militarism_desc: "Militarismus je myšlenka, že země má disponovat silnou armádou, která je využívána k zajištění a ochraně národních zájmů doma i v zahraničí." # todo: MOVED KEY
+ militarism: "Militarismus" # todo: MOVED KEY
+ singapore_focus: "Singapurský strom zaměření" # todo: NEW TRANSLATION # todo: MOVED KEY
+ or_tt: "§YOro:§!" # todo: NEW TRANSLATION # todo: MOVED KEY

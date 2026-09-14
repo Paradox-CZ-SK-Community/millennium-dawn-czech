@@ -1,0 +1,192 @@
+﻿l_english:
+ TRADE_TAB: "Obchod" # todo: NEW TRANSLATION
+ ECONOMY_TAB: "Ekonomika" # todo: NEW TRANSLATION
+ ECONOMY_TITLE: "Přehled" # todo: NEW TRANSLATION
+ REFRESH_ECONOMYVIEW_TOOLTIP: "£click_left §YL Klikněte§! pro obnovení přehledu ekonomiky." # todo: NEW TRANSLATION
+ BALANCE_TITLE: "Bilance" # todo: NEW TRANSLATION
+ BALANCE_VALUE: "§Y[?treasury_rate|+3]§!" # todo: NEW TRANSLATION
+ BALANCE_TOOLTIP: "Naše týdenní bilance činí $[?treasury_rate|+3] §Hmiliard§!." # todo: NEW TRANSLATION
+ BALANCE_TOOLTIP_DELAYED: "Bilance představuje čistou týdenní změnu naší pokladny, která se rovná celkovým příjmům minus celkové výdaje. Záporná bilance vyčerpává pokladnu a po jejím vyčerpání si vynucuje vydávání týdenního dluhu." # todo: NEW TRANSLATION
+ TREASURY_TITLE: "Pokladna" # todo: NEW TRANSLATION
+ TREASURY_VALUE: "§Y[?treasury|3]§!" # todo: NEW TRANSLATION
+ TREASURY_TOOLTIP: "V pokladně máme $[?treasury] §Hmld.§!.\nNaše týdenní saldo činí $[?treasury_rate|+3] §Hmld.§!." # todo: MOVED KEY
+ TREASURY_TOOLTIP_DELAYED: "Pokladna představuje množství peněz, které máme k dispozici na výdaje, a lze ji využít k nákupům a investicím. Pokud se pokladna dostane do záporných hodnot, bude automaticky každý týden vydán dluh, aby zůstala kladná.\n\n£click_left §YL Klik§! otevře obrazovku §YEkonomický přehled§!." # todo: MOVED KEY
+ DEBT_TITLE: "Dluh" # todo: NEW TRANSLATION
+ DEBT_VALUE: "§R[?debt|3]§!" # todo: NEW TRANSLATION
+ INVESTMENTS_TITLE: "Investice" # todo: NEW TRANSLATION
+ INVESTMENTS_VALUE: "§G[?int_investments|3]§!" # todo: NEW TRANSLATION
+ STATS_TITLE: "Statistiky" # todo: NEW TRANSLATION
+ GDP_TOTAL: "HDP" # todo: MOVED KEY
+ GDP_TOTAL_DESC: "Náš §Yhrubý domácí produkt§! (HDP) představuje hodnotu veškerého zboží a služeb vyprodukovaných v zemi. Millennium Dawn používá HDP upravený o paritu kupní síly (PPP), protože lépe zohledňuje místní ekonomické podmínky a umožňuje přesnější porovnání zemí." # todo: MOVED KEY
+ NUM_GDP_TOTAL: "$$§Y[?ROOT.gdp_total|1]§! mld." # todo: MOVED KEY
+ NUM_GDP_TOTAL_DESC: "Naše §YHDP§! aktuálně činí $§Y[?ROOT.gdp_total|3]§! mld.\n\nNedávné §Yčtvrtletní tempo růstu HDP§!: [?last_quarter_gdp_growth_rate|%Y].\n\nTip: Čím vyšší je §Yčtvrtletní tempo růstu HDP§!, tím větší je šance na pozitivní ekonomické události." # todo: MOVED KEY
+ NUM_GDP_TOTAL_DELAYED_DESC: "Přibližný podíl jednotlivých odvětví (v procentech):\n§PCivilní továrny§!: [?ROOT.civil_fac_percent|%]\n§OVojenské továrny§!: [?ROOT.military_fac_percent|%]\n§BNámořní loděnice§!: [?ROOT.dockyard_fac_percent|%]\n§CKancelářské komplexy§!: [?ROOT.office_fac_percent|%]\n§GNekomerční zemědělství§!: [?ROOT.agriculture_percent|%]\n§YKomerční zemědělské distrikty§!: [?ROOT.agriculture_district_fac_percent|%]\n§GTěžba surovin§!: [?ROOT.resources_percent|%]\n" # todo: MOVED KEY
+ GDP_PER_CAPITA: "HDP / obyv." # todo: MOVED KEY
+ GDP_PER_CAPITA_DESC: "Tato hodnota představuje §YHDP na obyvatele§! (HDP/obyv.). Vyjadřuje ekonomický výkon připadající na jednoho obyvatele." # todo: MOVED KEY
+ GDP_PER_CAPITA_DELAYED_DESC: "Aktuální dopad §YHDP na obyvatele§! na naši zemi:\nRychlost výstavby: [?production_speed_buildings_factor_gdp_modifier|%+]\nMěsíční přírůstek populace: [?monthly_population_gdp_modifier|%+1]\nRychlost výzkumu: [?research_speed_factor_gdp_modifier|%+]\nStabilita: [?stability_factor_gdp_modifier|%+]\nCelková pracovní síla: [?total_workforce_gdp_c_modifier_var|%+]\nRychlost výstavby fosilních elektráren: [?fossil_pp_construction_gdp_c_modifier_var|%+]\n" # todo: MOVED KEY
+ NUM_GDP_PER_CAPITA: "$$§Y[?ROOT.gdp_per_capita]§! tis." # todo: MOVED KEY
+ NUM_GDP_PER_CAPITA_DESC: "Naše §YHDP na obyvatele§! aktuálně činí $§Y[?ROOT.gdp_per_capita|3]§! tis." # todo: MOVED KEY
+ PRODUCTIVITY: "Produktivita" # todo: MOVED KEY
+ PRODUCTIVITY_DESC: "Tato hodnota představuje §Yproduktivitu§! naší země." # todo: MOVED KEY
+ NUM_PRODUCTIVITY_DELAYED_DESC: "Aktuální měsíční růst produktivity: [?productivity_growth_scaled|3+]\n\nVliv produktivity:\n§YVýstup továren:§! [?productivity_tax_effect_display|%+1]\n§YVýstup loděnic:§! [?productivity_tax_effect_display|%+1]\n§YRychlost výstavby:§! [?productivity_tax_effect_display|%+1]\n§YDaň z příjmů firem:§! [?productivity_tax_effect_display|%+1]\n§Y£construction_speed_texticon Rychlost výstavby komerčních zemědělských distriktů§!: [?agriculture_district_output_var|%+1]" # todo: MOVED KEY
+ NUM_PRODUCTIVITY: "§Y[?ROOT.overall_productivity|3]§!" # todo: MOVED KEY
+ NUM_PRODUCTIVITY_DESC: "§YProduktivita§! určuje celkový výkon ekonomiky země. Vypočítává se jako agregovaná hodnota produktivity jednotlivých států vydělená populací. §YProduktivita§! působí jako násobitel všech zdrojů HDP, daně z příjmů firem a výstupu továren. Pokud je §Yproduktivita§! vyšší než 1000, získáte výraznější bonusy k ekonomickému růstu a výstupu budov. Produktivita se měsíčně mění v závislosti na ekonomickém cyklu, technologiích a národních idejích a je dále škálována podle §Yglobální průměrné produktivity§!.\n\nAktuální §Yglobální průměrná produktivita§!: §Y[?global.average_world_productivity|3]§!\nNaše §Yproduktivita§!: §Y[?ROOT.overall_productivity|3]§!\n" # todo: MOVED KEY
+ INFLATION: "Inflace" # todo: NEW TRANSLATION
+ INFLATION_DESC: "Toto číslo představuje §Yinflaci§! našeho národa." # todo: NEW TRANSLATION
+ NUM_INFLATION: "§Y[?ROOT.inflation_rate_var|%]§!" # todo: NEW TRANSLATION
+ NUM_INFLATION_DESC: "§YInflace§! je hodnota určující, jak se zvyšuje nebo snižuje kupní síla vašeho národa. Čím vyšší inflace je, tím menší kupní sílu mají vaši lidé i vláda, protože vaše peníze ztrácejí hodnotu. Inflace se vypočítává jako průměr posledních 4 čtvrtletí §Yčtvrtletní míry růstu HDP na obyvatele§!, vynásobený průměrnou §Ydaňovou sazbou§!, a dále upravený podle §Yekonomických cyklů§!, §Ytištění peněz§!, §Yúrokové sazby centrální banky§! a dalších ekonomických událostí.\n\nČím vyšší je vaše průměrná §Yčtvrtletní míra růstu HDP na obyvatele§! a čím větší je váš §YHDP na obyvatele§!, tím vyšší bude vaše míra inflace. Vyšší §Ydaňová sazba§! inflaci sníží, zatímco nižší sazba ji zvýší. Vyšší §Yúroková sazba centrální banky§! inflaci sníží, ale zvýší §Rúroky z dluhu§!, zatímco nižší sazba bude mít opačný účinek.\n\n§YEkonomické cykly§! nad úrovní §Ystabilního růstu§! zvýší vaši §Yinflaci§!, což simuluje zvýšenou poptávku po zboží a výdajích, zatímco §Yekonomické cykly§! pod úrovní §Ystabilního růstu§! vaši §Yinflaci§! sníží, což simuluje menší množství peněz na utrácení a nižší poptávku po spotřebním zboží.\n\n§YDeflace§! může nastat, pokud vaše §Yinflace§! klesne do záporných hodnot. §YDeflace§! může pomoci snížit vládní výdaje, ale může také způsobit hospodářský pokles, protože lidé přestanou utrácet a čekají na další pokles cen. Pokud deflace probíhá příliš rychle nebo ve velkém rozsahu, může způsobit §Rselhání§! trhů a podniků." # todo: NEW TRANSLATION
+ NUM_INFLATION_DELAYED_DESC: "§HPoslední 4 čtvrtletí:§! [?ROOT.year_quarter_inflation_tracker^0|%] · [?ROOT.year_quarter_inflation_tracker^1|%] · [?ROOT.year_quarter_inflation_tracker^2|%] · [?ROOT.year_quarter_inflation_tracker^3|%]\n\nZobrazená sazba je §Yklouzavý čtyřčtvrtletní průměr§!, který představuje průměrnou roční inflaci. Toto číslo se používá pro všechny ekonomické účinky." # todo: NEW TRANSLATION
+ total_civilian_factories_amount_tt: "Tato hodnota představuje celkový počet §YCivilních továren§! v naší zemi." # todo: MOVED KEY
+ total_civilian_factories_amount_tt_delayed: "Tato budova poskytuje státu průmysl pro výrobu civilního zboží nebo výstavbu nových budov. V případě potřeby ji lze přeměnit na vojenský průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y345 tis.§!\nZákladní výstup HDP na §YCivilní továrnu§!: $§Y20 mld.§!\nZákladní spotřeba energie: §R-0.4§! GW\n\nVliv produktivity na §Ypracovní sílu civilních továren§!: [?worker_requirement_productivity_multiplier_display|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu všech budov§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu civilních továren§!: [?modifier@civ_facs_worker_requirement_modifier|-%0]\n\nPožadovaný počet pracovníků na §YCivilní továrnu§!: [?workers_per_civ_fac_display] tis.\n" # todo: MOVED KEY
+ total_military_factories_amount_tt: "Tato hodnota představuje celkový počet §YVojenských továren§! v naší zemi." # todo: MOVED KEY
+ total_military_factories_amount_tt_delayed: "Tato budova poskytuje státu průmysl pro výrobu nového vojenského vybavení. V případě potřeby ji lze přeměnit na civilní průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25 tis.§!\nZákladní výstup HDP na §YVojenskou továrnu§!: $§Y1 mld.§!\nZákladní spotřeba energie: §R-0.4§! GW\n\nVliv zákonů, idejí a technologií na §Ypracovní sílu všech budov§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu vojenských továren a loděnic§!: [?modifier@mil_facs_worker_requirement_modifier|-%0]\n\nPožadovaný počet pracovníků na §YVojenskou továrnu§!: [?workers_per_mil_fac_display] tis.\n" # todo: MOVED KEY
+ total_naval_yard_amount_tt: "Tato hodnota představuje celkový počet §YNámořních loděnic§! v naší zemi." # todo: MOVED KEY
+ total_naval_yard_amount_tt_delayed: "§YNámořní loděnice§! představují schopnost státu vyrábět vojenská plavidla všech typů - od §Yhlídkových člunů§! a §Ykonvojů§! až po §Ytorpédoborce§!, §Yletadlové lodě§! a další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25 tis.§!\nZákladní výstup HDP na §YNámořní loděnici§!: $§Y1 mld.§!\nZákladní spotřeba energie: §R-0.4§! GW\n\nVliv zákonů, idejí a technologií na §Ypracovní sílu všech budov§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu vojenských továren a loděnic§!: [?modifier@mil_facs_worker_requirement_modifier|-%0]\n\nPožadovaný počet pracovníků na §YNámořní loděnici§!: [?workers_per_dockyard_display] tis.\n" # todo: MOVED KEY
+ total_offices_amount_tt: "Tato hodnota představuje celkový počet §YKancelářských sektorů§! v naší zemi." # todo: MOVED KEY
+ total_offices_amount_tt_delayed: "§YKancelářské sektory§! zahrnují veškerá ostatní odvětví ekonomiky mimo těžbu a těžký průmysl. Patří sem finance, zákaznické služby, informační technologie, maloobchodní služby a další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y630 tis.§!\nZákladní výstup HDP na §YKancelářský sektor§!: $§Y50 mld.§!\nZákladní spotřeba energie: §R-0.25§! GW\n\nVliv produktivity na §Ypracovní sílu kancelářských sektorů§!: [?worker_requirement_productivity_multiplier_display|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu všech budov§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu kancelářských sektorů§!: [?modifier@offices_worker_requirement_modifier|-%0]\n\nPožadovaný počet pracovníků na §YKancelářský sektor§!: [?workers_per_office_display] tis.\n" # todo: MOVED KEY
+ total_agriculture_district_amount_tt: "Tato hodnota představuje celkový počet §YKomerčních zemědělských distriktů§! v naší zemi." # todo: MOVED KEY
+ total_agriculture_district_amount_tt_delayed: "§YKomerční zemědělské distrikty§! představují souhrn veškerého ne-samozásobitelského zemědělství v zemi. Zahrnují agroprůmysl, ornou půdu, obilné silosy, jatka a další zařízení.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y250 tis.§!\nZákladní výstup HDP na §YKomerční zemědělský distrikt§!: $§Y25 mld.§!\nZákladní spotřeba energie: §R-0.10§! GW\n§YZisk paliva§! ze států: 8\n§YMístní zásobování§!: 1.5 %\n\nVliv produktivity na §Ypracovní sílu komerčních zemědělských distriktů§!: [?worker_requirement_productivity_multiplier_display|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu všech budov§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, idejí a technologií na §Ypracovní sílu komerčních zemědělských distriktů§!: [?modifier@agriculture_district_worker_requirement_modifier|-%0]\n\nPožadovaný počet pracovníků na §YKomerční zemědělský distrikt§!: [?workers_per_agriculture_district_display] tis.\n" # todo: MOVED KEY
+ total_microchips_factories_amount_tt: "Tato hodnota představuje celkový počet §Ymikročipových závodů§! v našem národě." # todo: NEW TRANSLATION
+ total_microchips_factories_amount_tt_delayed: "§YMikročipové závody§! představují výrobu polovodičů a drobné elektroniky v našem národě.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y37,5 tis.§!\nZákladní výstup HDP na §Ymikročipový závod§!: $§Y32 miliard§!\nZákladní spotřeba energie: §R-0,75§! GW\n\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu ve všech budovách§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu mikročipových závodů§!: [?modifier@microchip_plant_worker_requirement_modifier|-%0]\n\nPočet pracovníků na §Ymikročipový závod§!: [?workers_per_microchip_plant_display|2] tis.\n" # todo: NEW TRANSLATION
+ total_composites_factories_amount_tt: "Tato hodnota představuje celkový počet §Yzávodů na výrobu kompozitů§! v našem národě." # todo: NEW TRANSLATION
+ total_composites_factories_amount_tt_delayed: "§YZávody na výrobu kompozitů§! představují zařízení na výrobu pokročilých materiálů, včetně keramických pancířů, vyztužených polymerů a vysoce výkonných konstrukčních materiálů.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y37,5 tis.§!\nZákladní výstup HDP na §Yzávod na výrobu kompozitů§!: $§Y28 miliard§!\nZákladní spotřeba energie: §R-0,8§! GW\n\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu ve všech budovách§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu závodů na výrobu kompozitů§!: [?modifier@composite_plant_worker_requirement_modifier|-%0]\n\nPočet pracovníků na §Yzávod na výrobu kompozitů§!: [?workers_per_composite_plant_display|2] tis.\n" # todo: NEW TRANSLATION
+ total_refineries_amount_tt: "Tato hodnota představuje celkový počet §Ysyntetických rafinerií§! v našem národě." # todo: NEW TRANSLATION
+ total_refineries_amount_tt_delayed: "§YSyntetické rafinerie§! představují průmyslová zařízení zodpovědná za výrobu syntetického kaučuku a souvisejících chemických materiálů nezbytných pro průmysl a logistiku.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y184 tis.§!\nZákladní výstup HDP na §Ysyntetickou rafinerii§!: $§Y10 miliard§!\nZákladní spotřeba energie: §R-0,2§! GW\n\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu ve všech budovách§!: [?modifier@buildings_worker_requirement_modifier|-%0]\nVliv zákonů, národních duchů a technologií na §Ypracovní sílu syntetických rafinerií§!: [?modifier@synthetic_refinery_worker_requirement_modifier|-%0]\n\nPočet pracovníků na §Ysyntetickou rafinerii§!: [?workers_per_synthetic_refinery_display|2] tis.\n" # todo: NEW TRANSLATION
+ POPULATION_TAX_RATE: "Daň. sazba obyvatel" # todo: MOVED KEY
+ POPULATION_TAX_RATE_TT: "Daňová sazba obyvatel zahrnuje všechny daně uvalené na veřejnost. Patří sem mimo jiné daň z příjmů, DPH, spotřební daně a majetkové daně.\n\n§YVliv daní obyvatel:§!\n£stability_texticon  Stabilita: [?stability_factor_from_population_tax|%+]" # todo: MOVED KEY
+ CORPORATE_TAX_RATE: "Daň. sazba firem" # todo: MOVED KEY
+ CORPORATE_TAX_RATE_TT: "Daňová sazba firem zahrnuje všechny daně uvalené na společnosti. Hodnota zahrnuje daně ze zisku, odvody zaměstnavatelů a další.\n\n§YVliv daní firem:§!\n£consumer_goods_texticon  Daňové náklady: [?consumer_goods_from_corporate_tax|%Y]\n£receiving_investment_cost_modifier_texticon §YNáklady na přijímání zahraničních investic§!: [?receiving_investment_cost_form_corporate_tax|%-]\nMěsíční růst produktivity: [?productivity_growth_modifier_from_corporate_tax|+3]\n" # todo: MOVED KEY
+ CB_POLICY_RATE: "Úroková sazba centrální banky" # todo: NEW TRANSLATION
+ CB_POLICY_RATE_TT: "§YÚroková sazba centrální banky§! je referenční úroková sazba stanovená centrální bankou. Řídí náklady na půjčky v celé ekonomice.\n\n§YZvýšení sazby§! zpřísňuje nabídku peněz, potlačuje inflaci, ale zvyšuje náklady na státní dluh a zpomaluje hospodářskou aktivitu.\n§YSnížení sazby§! podporuje půjčky a investice, ale umožňuje volnější růst inflace.\n\nKaždá úprava stojí §Y25§! £pol_power_icon a má §Y60denní§! obnovovací dobu.\n\n§YSoučasná sazba:§! [?cb_policy_rate]%\n§YČtvrtletní potlačení inflace:§! [?cb_policy_rate|+0]% × 0,003 za čtvrtletí\n§YPřirážka úroků z dluhu:§! [?cb_policy_rate|+0]% × 0,5 procentního bodu přidaného k §Yúrokové sazbě§!" # todo: NEW TRANSLATION
+ increases_population_tax_tooltip: "Toto tlačítko zvyšuje §Ydaňovou sazbu obyvatel§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_personal_tax_laws]" # todo: MOVED KEY
+ increases_population_tax_delayed_tooltip: "£click_left §YL Klik§! zvýší §Ydaňovou sazbu obyvatel§! o 1 %.\n£key_shift + £click_left §YShift + levý klik§! zvýší §Ydaňovou sazbu obyvatel§! o 5 % (£pol_power_icon [?tax_rate_change_5])\n" # todo: MOVED KEY
+ decreases_population_tax_tooltip: "Toto tlačítko snižuje §Ydaňovou sazbu obyvatel§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_personal_tax_laws]" # todo: MOVED KEY
+ decreases_population_tax_delayed_tooltip: "£click_left §YL Klik§! sníží §Ydaňovou sazbu obyvatel§! o 1 %.\n£key_shift + £click_left §YShift + levý klik§! sníží §Ydaňovou sazbu obyvatel§! o 5 % (£pol_power_icon [?tax_rate_change_5])\n" # todo: MOVED KEY
+ increases_corporate_tax_tooltip: "Toto tlačítko zvyšuje §Ydaňovou sazbu firem§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_corporate_tax_laws]" # todo: MOVED KEY
+ increases_corporate_tax_delayed_tooltip: "£click_left §YL Klik§! zvýší §Ydaňovou sazbu firem§! o 1 %.\n£key_shift + £click_left §YShift + levý klik§! zvýší §Ydaňovou sazbu firem§! o 5 % (£pol_power_icon [?tax_rate_change_5])\n" # todo: MOVED KEY
+ decreases_corporate_tax_tooltip: "Toto tlačítko snižuje §Ydaňovou sazbu firem§! v naší zemi.\n\n§YPožadavky:§!\n[tax_button_req]\n\n[allowed_to_adjust_corporate_tax_laws]" # todo: MOVED KEY
+ decreases_corporate_tax_delayed_tooltip: "£click_left §YL Klik§! sníží §Ydaňovou sazbu firem§! o 1 %.\n£key_shift + £click_left §YShift + levý klik§! sníží §Ydaňovou sazbu firem§! o 5 % (£pol_power_icon [?tax_rate_change_5])\n" # todo: MOVED KEY
+ increases_cb_rate_tooltip: "Zvýšit §Yúrokovou sazbu centrální banky§! o 1 procentní bod a zpřísnit měnové podmínky.\n\n§YÚčinky:§!\nČtvrtletní inflace potlačena o dalších §G0,3 %§!\nÚroková sazba státního dluhu zvýšena o §R0,5 procentního bodu§!\n\n§YPožadavky:§!\n£pol_power_icon §Y25§! politické moci\nÚroková sazba centrální banky pod 20 %\nŽádná změna sazby během posledních 60 dnů" # todo: NEW TRANSLATION
+ decreases_cb_rate_tooltip: "Snížit §Yúrokovou sazbu centrální banky§! o 1 procentní bod a uvolnit měnové podmínky.\n\n§YÚčinky:§!\nČtvrtletní inflace potlačena o §R0,3 %§! méně\nÚroková sazba státního dluhu snížena o §G0,5 procentního bodu§!\n\n§YPožadavky:§!\n£pol_power_icon §Y25§! politické moci\nÚroková sazba centrální banky nad 0 %\nŽádná změna sazby během posledních 60 dnů" # todo: NEW TRANSLATION
+ tax_action_button_req_enable_TT: "£trigger_yes  [?tax_rate_change]£pol_power_icon" # todo: MOVED KEY
+ tax_action_button_req_disable_TT: "£trigger_no  [?tax_rate_change]£pol_power_icon" # todo: MOVED KEY
+ tax_action_button_per_enabled_TT: "£trigger_yes Povolena úprava §Ydaně obyvatel§!" # todo: MOVED KEY
+ tax_action_button_per_disabled_TT: "£trigger_no Povolena úprava §Ydaně obyvatel§! (Zbývající dny: [?no_personal_tax_rate_change:days_left|Y0])" # todo: MOVED KEY
+ tax_action_button_corp_enabled_TT: "£trigger_yes Povolena úprava §Ydaně firem§!" # todo: MOVED KEY
+ tax_action_button_corp_disabled_TT: "£trigger_no Povolena úprava §Ydaně firem§! (Zbývající dny: [?no_corporate_tax_rate_change:days_left|Y0])" # todo: MOVED KEY
+ no_corporate_tax_rate_change: "Povolena úprava daně firem" # todo: MOVED KEY
+ no_personal_tax_rate_change: "Povolena úprava daně obyvatel" # todo: MOVED KEY
+ print_money_button_tooltip: "§YTisk peněz§!\n§gVláda se ocitla v obtížné situaci a potřebuje rychle získat prostředky. Namísto zvyšování daní nebo vydávání dluhopisů můžeme emitovat nové peníze.§!\n\nToto rozhodnutí vytiskne objem odpovídající dvoutýdenním vládním příjmům, který bude přidán do pokladny. Zároveň však sníží produktivitu obyvatel, protože jejich výkon je znehodnocen inflačním opatřením. S každým dalším tiskem se pokles produktivity zhoršuje, přičemž její obnova je pouze pozvolná.\n\n§YPočet tisků peněz:§! [?printing_money_var|0Y]\n\n§YPožadavky:§!\n[!print_money_button_click_enabled]\n§YÚčinky:§!\n[!print_money_button_click]" # todo: MOVED KEY
+ printed_money_recently_one_tt: "V poslední době nebyly tištěny peníze (Zbývající dny: [?printed_money_recently:days_left|0Y])\n" # todo: MOVED KEY
+ printed_money_recently_two_tt: "V poslední době nebyly tištěny peníze\n" # todo: MOVED KEY
+ TOTAL_INCOME_TITLE: "Národní příjmy:" # todo: NEW TRANSLATION
+ TOTAL_INCOME: "§Y$$§! §G+[?display_income|.1]§!" # todo: NEW TRANSLATION
+ POPULATION_INCOME_LABEL: "£GFX_population_tax_income_multiplier_modifier_texticon  Daně z obyvatelstva:" # todo: NEW TRANSLATION
+ POPULATION_INCOME: "§G+[?population_tax|.3]§!" # todo: NEW TRANSLATION
+ CORPORATION_INCOME_LABEL: "£GFX_corporate_tax_income_multiplier_modifier_texticon  Daně z korporací:" # todo: NEW TRANSLATION
+ CORPORATION_INCOME: "§G+[?corporate_tax|.3]§!" # todo: NEW TRANSLATION
+ INVESTMENTS_INCOME_LABEL: "£GFX_return_on_investment_modifier_texticon  Mezinárodní investice:" # todo: NEW TRANSLATION
+ INVESTMENTS_INCOME: "§G+[?int_investments_collected_rate|.3]§!" # todo: NEW TRANSLATION
+ RESOURCES_INCOME_LABEL: "£GFX_resources_texticon Vývoz surovin:" # todo: NEW TRANSLATION
+ RESOURCES_INCOME: "§G+[?resource_sale_rate|.3]§!" # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME_LABEL: "£GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné příjmy:" # todo: NEW TRANSLATION
+ ADDITIONAL_INCOME: "§G+[?additional_income_rate|.3]§!" # todo: NEW TRANSLATION
+ TOTAL_EXPENSES_TITLE: "Národní výdaje:" # todo: NEW TRANSLATION
+ TOTAL_EXPENSES: "§Y$$§! §R-[?display_expense|.1]§!" # todo: NEW TRANSLATION
+ BUREAUCRACY_EXPENSE_LABEL: "£GFX_bureaucracy_cost_multiplier_modifier_texticon  Výdaje na byrokracii:" # todo: NEW TRANSLATION
+ BUREAUCRACY_EXPENSE: "§CByrokracie:§!" # todo: MOVED KEY
+ DEFENCE_EXPENSE_LABEL: "£GFX_Military_Spending_cost_factor_texticon  Výdaje na obranu:" # todo: NEW TRANSLATION
+ DEFENCE_EXPENSE: "§R-[?defence_gain|.3]§!" # todo: NEW TRANSLATION
+ SECURITY_EXPENSE_LABEL: "£GFX_police_cost_multiplier_modifier_texticon  Výdaje na vnitřní bezpečnost:" # todo: NEW TRANSLATION
+ SECURITY_EXPENSE: "§R-[?security_gain|.3]§!" # todo: NEW TRANSLATION
+ EDUCATION_EXPENSE_LABEL: "£GFX_education_cost_multiplier_modifier_texticon  Výdaje na vzdělávání:" # todo: NEW TRANSLATION
+ EDUCATION_EXPENSE: "§GVzdělání:§!" # todo: MOVED KEY
+ HEALTH_EXPENSE_LABEL: "£GFX_health_cost_multiplier_modifier_texticon  Výdaje na zdravotnictví:" # todo: NEW TRANSLATION
+ HEALTH_EXPENSE: "§R-[?health_gain|.3]§!" # todo: NEW TRANSLATION
+ WELFARE_EXPENSE_LABEL: "£GFX_social_cost_multiplier_modifier_texticon  Výdaje na sociální péči:" # todo: NEW TRANSLATION
+ WELFARE_EXPENSE: "§BSociální výdaje:§!" # todo: MOVED KEY
+ INFRASTRUCTURE_EXPENSE_LABEL: "£GFX_infrastructure_texticon  Údržba infrastruktury:" # todo: NEW TRANSLATION
+ INFRASTRUCTURE_EXPENSE: "§R-[?infra_gain|.3]§!" # todo: NEW TRANSLATION
+ MIGRATION_EXPENSE_LABEL: "£ Výdaje na kontrolu migrace:" # todo: NEW TRANSLATION
+ MIGRATION_EXPENSE: "§R-[?border_control_gain|.3]§!" # todo: NEW TRANSLATION
+ UN_EXPENSE_LABEL: "£ Příspěvek Organizaci spojených národů:" # todo: NEW TRANSLATION
+ UN_EXPENSE: "§R-[?united_nations_expenses|.3]§!" # todo: NEW TRANSLATION
+ DEBT_EXPENSE_LABEL: "£GFX_corruption_cost_factor_texticon  Úroky z dluhu:" # todo: NEW TRANSLATION
+ DEBT_EXPENSE: "§R-[?debt_rate|.3]§!" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSE_LABEL: "£GFX_corporate_tax_income_multiplier_modifier_texticon Dodatečné výdaje:" # todo: NEW TRANSLATION
+ ADDITIONAL_EXPENSE: "§R-[?additional_expenses_rate|.3]§!" # todo: NEW TRANSLATION
+ LEASING_TITLE: "Pronájem" # todo: NEW TRANSLATION
+ LEASING_BACKGROUND_TOOLTIP: "Pronajměte si další továrny nebo průmyslová zařízení a rozšiřte stavební kapacity svého národa nebo posilte vojenské výrobní linky." # todo: NEW TRANSLATION
+ CONSTRUCTION_TITLE: "Projekty" # todo: NEW TRANSLATION
+ CONSTRUCTION_BACKGROUND_TOOLTIP: "Financujte různé ekonomické projekty a zvyšte rychlost dokončování různých typů staveb nebo infrastruktury v národě." # todo: NEW TRANSLATION
+ WORKFORCE_TITLE: "Zaměstnanost" # todo: NEW TRANSLATION
+ EMPLYMENT_STATS_TITLE: "Statistiky" # todo: NEW TRANSLATION
+ EMPLYMENT_CHANGE_TITLE: "Změna zaměstnanosti" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_THRESHOLD_TITLE: "Hranice nezaměstnanosti:" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_THRESHOLD_VALUE: "§H[?unemployment_threshold_display_var|.2%]§!" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_RATE_TITLE: "Nezaměstnanost:" # todo: NEW TRANSLATION
+ UNEMPLOYMENT_RATE_VALUE: "§H[?total_unemployed_percentage_display|.2%]§!" # todo: NEW TRANSLATION
+ WORKERS_FULLFILLMENT_TITLE: "Naplnění pracovních míst:" # todo: NEW TRANSLATION
+ WORKERS_FULLFILLMENT_VALUE: "§H[?average_worker_fulfillment|.2%]§!" # todo: NEW TRANSLATION
+ MAX_MIGRATION_RATE_TITLE: "Max. míra migrace:" # todo: NEW TRANSLATION
+ MAX_MIGRATION_RATE_VALUE: "§H[?max_net_immigration_rate|.2%]§!" # todo: NEW TRANSLATION
+ MIGRATION_RATE_TITLE: "Čistá míra migrace:" # todo: NEW TRANSLATION
+ MIGRATION_RATE_VALUE: "§H[?net_immigration_rate|.2%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_CIV: "Civilní továrny" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MIL: "Vojenské továrny" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_OFFICES: "Kanceláře" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_SHIPYARD: "Loděnice" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_AGRICULTURE: "Zemědělství" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_REFINERIES: "Rafinerie" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MICROCHIPS: "Mikročipy" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_COMPOSITE: "Kompozity" # todo: NEW TRANSLATION
+ military_factory_employment_button_tt: "§YZaměstnanost vojenských továren§!" # todo: MOVED KEY
+ military_factory_employment_button_delayed_tt: "Pokud máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrny / kanceláře), aby se pracovní síla mohla přesunout jinam.\n\nPolitická síla: §R-20§!\n\n£click_left §YL Klik§! - zvýšit úroveň zaměstnanosti vojenských továren.\n£click_right §YR Klik§! - snížit úroveň zaměstnanosti.\n\nAktuální cílová úroveň zaměstnanosti: §Y[?ROOT.military_factory_employment_var|%]§!" # todo: MOVED KEY
+ civilian_factory_employment_button_tt: "§YZaměstnanost civilních továren§!" # todo: MOVED KEY
+ civilian_factory_employment_button_delayed_tt: "Pokud máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrny / kanceláře), aby se pracovní síla mohla přesunout jinam.\n\nPolitická síla: §R-20§!\n\n£click_left §YL Klik§! - zvýšit úroveň zaměstnanosti civilních továren.\n£click_right §YR Klik§! - snížit úroveň zaměstnanosti.\n\nAktuální cílová úroveň zaměstnanosti: §Y[?ROOT.civilian_factory_employment_var|%]§!" # todo: MOVED KEY
+ naval_factory_employment_button_tt: "§YZaměstnanost loděnic§!" # todo: MOVED KEY
+ naval_factory_employment_button_delayed_tt: "Pokud máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrny / kanceláře), aby se pracovní síla mohla přesunout jinam.\n\nPolitická síla: §R-20§!\n\n£click_left §YL Klik§! - zvýšit úroveň zaměstnanosti loděnic.\n£click_right §YR Klik§! - snížit úroveň zaměstnanosti.\n\nAktuální cílová úroveň zaměstnanosti: §Y[?ROOT.naval_factory_employment_var|%]§!" # todo: MOVED KEY
+ office_employment_button_tt: "§YZaměstnanost kanceláří§!" # todo: MOVED KEY
+ office_employment_button_delayed_tt: "Pokud máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrny / kanceláře), aby se pracovní síla mohla přesunout jinam.\n\nPolitická síla: §R-20§!\n\n£click_left §YL Klik§! - zvýšit úroveň zaměstnanosti kanceláří.\n£click_right §YR Klik§! - snížit úroveň zaměstnanosti.\n\nAktuální cílová úroveň zaměstnanosti: §Y[?ROOT.office_employment_var|%]§!" # todo: MOVED KEY
+ ag_district_employment_button_tt: "§YZaměstnanost komercializovaných zemědělských oblastí§!" # todo: MOVED KEY
+ ag_district_employment_button_delayed_tt: "Pokud máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrny / kanceláře), aby se pracovní síla mohla přesunout jinam.\n\nPolitická síla: §R-20§!\n\n£click_left §YL Klik§! - zvýšit úroveň zaměstnanosti komercializovaných zemědělských oblastí.\n£click_right §YR Klik§! - snížit úroveň zaměstnanosti.\n\nAktuální cílová úroveň zaměstnanosti: §Y[?ROOT.agriculture_district_employment_var|%]§!" # todo: MOVED KEY
+ microchip_plant_employment_button_tt: "§YZaměstnanost mikročipových závodů§!" # todo: NEW TRANSLATION
+ microchip_plant_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nPolitická moc: §R-20§!\n\n£click_left §YL Kliknutí§! zvýší úroveň zaměstnanosti mikročipového závodu.\n£click_right §YR Kliknutí§! ji sníží.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.microchip_plant_employment_var|%]§!" # todo: NEW TRANSLATION
+ composite_plant_employment_button_tt: "§YZaměstnanost závodů na výrobu kompozitů§!" # todo: NEW TRANSLATION
+ composite_plant_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nPolitická moc: §R-20§!\n\n£click_left §YL Kliknutí§! zvýší úroveň zaměstnanosti závodu na výrobu kompozitů.\n£click_right §YR Kliknutí§! ji sníží.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.composite_plant_employment_var|%]§!" # todo: NEW TRANSLATION
+ synthetic_refineries_employment_button_tt: "§YZaměstnanost syntetických rafinerií§!" # todo: NEW TRANSLATION
+ synthetic_refineries_employment_button_delayed_tt: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nPolitická moc: §R-20§!\n\n£click_left §YL Kliknutí§! zvýší úroveň zaměstnanosti syntetických rafinerií.\n£click_right §YR Kliknutí§! ji sníží.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.synthetic_refinery_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_CIV_TT: "§YZaměstnanost civilních továren§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_CIV_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.civilian_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MIL_TT: "§YZaměstnanost vojenských továren§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MIL_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.military_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_OFFICES_TT: "§YZaměstnanost kancelářského sektoru§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_OFFICES_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.office_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_SHIPYARD_TT: "§YZaměstnanost námořních továren§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_SHIPYARD_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.naval_factory_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_AGRICULTURE_TT: "§YZaměstnanost komercializovaného zemědělství§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_AGRICULTURE_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.agriculture_district_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_REFINERIES_TT: "§YZaměstnanost syntetických rafinerií§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_REFINERIES_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.synthetic_refinery_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MICROCHIPS_TT: "§YZaměstnanost mikročipových závodů§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_MICROCHIPS_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.microchip_plant_employment_var|%]§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_COMPOSITE_TT: "§YZaměstnanost závodů na výrobu kompozitů§!" # todo: NEW TRANSLATION
+ EMPLOYMENT_CHANGE_COMPOSITE_TT_DELAYED: "Když máme více pracovních míst než pracovníků, může být v určitých situacích výhodné zvýšit nebo snížit počet pracovníků přidělených jednotlivým sektorům (továrnám/kancelářím), aby mohlo více pracovníků přejít do jiných sektorů.\n\nSoučasná cílová úroveň zaměstnanosti je: §Y[?ROOT.composite_plant_employment_var|%]§!" # todo: NEW TRANSLATION
+ CHANGE_EMPLOYMENT_INCREASE_TT: "Zvýšit procento zaměstnanosti v této budově.\n\n§YPožadavky:§!\n[!increase_employment_civilian_factories_click_enabled]\n§YÚčinky:§!\n[!increase_employment_civilian_factories_click]" # todo: NEW TRANSLATION
+ CHANGE_EMPLOYMENT_DECREASE_TT: "Snížit procento zaměstnanosti v této budově.\n\n§YPožadavky:§!\n[!decrease_employment_civilian_factories_click_enabled]\n§YÚčinky:§!\n[!decrease_employment_civilian_factories_click]" # todo: NEW TRANSLATION
+ MARKET_PRICES_FOSSIL_FUELS: "$$ [?global.oil_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_FOSSIL_FUELS_TT: "Informace o ceně §Yfosilních paliv§!:\nSoučasný příjem: §G$[?oil_exports|2]§!\nMinimální cena: §G$ 1,36/jednotku§!\nMaximální cena: §G$ 34,00/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_STEEL: "$$ [?global.steel_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_STEEL_TT: "Informace o ceně §Yoceli§!:\nSoučasný příjem: §G$[?steel_exports|2]§!\nMinimální cena: §G$ 0,005/jednotku§!\nMaximální cena: §G$ 0,120/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_LIGHT_METALS: "$$ [?global.aluminium_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_LIGHT_METALS_TT: "Informace o ceně §Ylehkých kovů§!:\nSoučasný příjem: §G$[?aluminium_exports|2]§!\nMinimální cena: §G$ 0,042/jednotku§!\nMaximální cena: §G$ 1,05/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_TECHNOLOGY_METALS: "$$ [?global.tungsten_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_TECHNOLOGY_METALS_TT: "Informace o ceně §Ytechnologických kovů§!:\nSoučasný příjem: §G$[?tungsten_exports|2]§!\nMinimální cena: §G$ 0,056/jednotku§!\nMaximální cena: §G$ 1,40/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_RUBBER: "$$ [?global.rubber_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_RUBBER_TT: "Informace o ceně §Ykaučuku§!:\nSoučasný příjem: §G$[?rubber_exports|2]§!\nMinimální cena: §G$ 0,018/jednotku§!\nMaximální cena: §G$ 0,45/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_PRECIOUS_METALS: "$$ [?global.chromium_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_PRECIOUS_METALS_TT: "Informace o ceně §Ydrahých kovů§!:\nSoučasný příjem: §G$[?chromium_exports|2]§!\nMinimální cena: §G$ 0,036/jednotku§!\nMaximální cena: §G$ 0,90/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_MICROCHIPS: "$$ [?global.microchip_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_MICROCHIPS_TT: "Informace o ceně §Ymikročipů§!:\nSoučasný příjem: §G$[?microchip_exports|2]§!\nMinimální cena: §G$ 1,58/jednotku§!\nMaximální cena: §G$ 36,20/jednotku§!" # todo: NEW TRANSLATION
+ MARKET_PRICES_COMPOSITIES: "$$ [?global.composite_price|2]" # todo: NEW TRANSLATION
+ MARKET_PRICES_COMPOSITIES_TT: "Informace o ceně §Ypokročilých kompozitů§!:\nSoučasný příjem: §G$[?composite_exports|2]§!\nMinimální cena: §G$ 1,42/jednotku§!\nMaximální cena: §G$ 35,40/jednotku§!" # todo: NEW TRANSLATION

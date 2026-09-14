@@ -1,21 +1,29 @@
 ﻿l_english:
-  CSTO.1.t: "[From.GetNameDef] si přeje vstoupit do CSTO" # todo: NEW TRANSLATION
-  CSTO.1.d: "[From.GetAdjective] delegace přišly s zajímavým návrhem. Delegace vysvětluje, jak se [From.GetNameDef] chtějí podepsat na společných dohodách a stát se součástí CSTO. Žádají o slyšení, aby zahájily proces podpisu nové deklarace přátelství a umožnění vstupu [From.GetNameDef] do našeho spojenectví." # todo: NEW TRANSLATION
-  CSTO.1.a: "Rozhodně" # todo: NEW TRANSLATION
-  CSTO.1.b: "Nikdy" # todo: NEW TRANSLATION
-  CSTO.2.t: "[SOV.GetNameDef] odmítá žádost o vstup do CSTO" # todo: NEW TRANSLATION
-  CSTO.2.d: "[SOV.GetNameDef] odmítl naši žádost o vstup do CSTO." # todo: NEW TRANSLATION
-  CSTO.2.a: "Zklamání" # todo: NEW TRANSLATION
-  CSTO.3.t: "Pozvánka do CSTO" # todo: NEW TRANSLATION
-  CSTO.3.d: "[SOV.GetNameDef] a jeho spojenci nás chtějí pozvat do CSTO. Co uděláme?" # todo: NEW TRANSLATION
-  CSTO.3.a: "Přijímáme!" # todo: NEW TRANSLATION
-  CSTO.3.b: "Na to nemáme čas." # todo: NEW TRANSLATION
-  CSTO.4.t: "[ROOT.GetNameDef] vstupuje do CSTO" # todo: NEW TRANSLATION
-  CSTO.4.d: "[SOV.GetNameDef] a [ROOT.GetNameDef] dnes oznámili vstup [ROOT.GetNameDef] do Organizace smlouvy o kolektivní bezpečnosti. [SOV.GetNameDef] a [ROOT.GetNameDef] odložili své spory a rozhodli, že je v nejlepším zájmu obou, aby [ROOT.GetNameDef] vstoupil do aliance." # todo: NEW TRANSLATION
-  CSTO.4.a: "Velký den!" # todo: NEW TRANSLATION
-  CSTO.4.b: "Nový spojenec" # todo: NEW TRANSLATION
-  CSTO.4.c: "Zajímavý vývoj" # todo: NEW TRANSLATION
-  CSTO.5.t: "[ROOT.GetNameDef] opouští CSTO!" # todo: NEW TRANSLATION
-  CSTO.5.d: "Vůdce [ROOT.GetNameDef], [ROOT.GetLeader], dnes oznámil, že země má v úmyslu okamžitě vystoupit z Organizace smlouvy o kolektivní bezpečnosti a z jejích přidružených aliancí. To oslabí vojenský pakt." # todo: NEW TRANSLATION
-  CSTO.5.a: "Dobrá volba" # todo: NEW TRANSLATION
-  CSTO.5.b: "Zajímavé" # todo: NEW TRANSLATION
+ CSTO.1.t: "[From.GetNameDef] si přeje vstoupit do CSTO" # todo: NEW TRANSLATION
+ CSTO.1.d: "[From.GetAdjective] delegace přišly s zajímavým návrhem. Delegace vysvětluje, jak se [From.GetNameDef] chtějí podepsat na společných dohodách a stát se součástí CSTO. Žádají o slyšení, aby zahájily proces podpisu nové deklarace přátelství a umožnění vstupu [From.GetNameDef] do našeho spojenectví." # todo: NEW TRANSLATION
+ CSTO.1.a: "Rozhodně" # todo: NEW TRANSLATION
+ CSTO.1.b: "Nikdy" # todo: NEW TRANSLATION
+ CSTO.2.t: "[SOV.GetNameDef] odmítá žádost o vstup do CSTO" # todo: NEW TRANSLATION
+ CSTO.2.d: "[SOV.GetNameDef] odmítl naši žádost o vstup do CSTO." # todo: NEW TRANSLATION
+ CSTO.2.a: "Zklamání" # todo: NEW TRANSLATION
+ CSTO.3.t: "Pozvánka do CSTO" # todo: NEW TRANSLATION
+ CSTO.3.d: "[SOV.GetNameDef] a jeho spojenci nás chtějí pozvat do CSTO. Co uděláme?" # todo: NEW TRANSLATION
+ CSTO.3.a: "Přijímáme!" # todo: NEW TRANSLATION
+ CSTO.3.b: "Na to nemáme čas." # todo: NEW TRANSLATION
+ CSTO.4.t: "[ROOT.GetNameDef] vstupuje do CSTO" # todo: NEW TRANSLATION
+ CSTO.4.d: "[SOV.GetNameDef] a [ROOT.GetNameDef] dnes oznámili vstup [ROOT.GetNameDef] do Organizace smlouvy o kolektivní bezpečnosti. [SOV.GetNameDef] a [ROOT.GetNameDef] odložili své spory a rozhodli, že je v nejlepším zájmu obou, aby [ROOT.GetNameDef] vstoupil do aliance." # todo: NEW TRANSLATION
+ CSTO.4.a: "Velký den!" # todo: NEW TRANSLATION
+ CSTO.4.b: "Nový spojenec" # todo: NEW TRANSLATION
+ CSTO.4.c: "Zajímavý vývoj" # todo: NEW TRANSLATION
+ CSTO.5.t: "[ROOT.GetNameDef] opouští CSTO!" # todo: NEW TRANSLATION
+ CSTO.5.d: "Vůdce [ROOT.GetNameDef], [ROOT.GetLeader], dnes oznámil, že země má v úmyslu okamžitě vystoupit z Organizace smlouvy o kolektivní bezpečnosti a z jejích přidružených aliancí. To oslabí vojenský pakt." # todo: NEW TRANSLATION
+ CSTO.5.a: "Dobrá volba" # todo: NEW TRANSLATION
+ CSTO.5.b: "Zajímavé" # todo: NEW TRANSLATION
+ CSTO.6.t: "CSTO se stává plnohodnotnou vojenskou aliancí" # todo: NEW TRANSLATION
+ CSTO.6.d: "V rámci zásadní změny politiky [SOV.GetNameDef] oznámilo, že Organizace Smlouvy o kolektivní bezpečnosti bude restrukturalizována na plnohodnotnou útočnou vojenskou alianci. Členské státy budou nyní povinny připojit se ke všem válkám vyhlášeným vůdcem aliance, nikoli pouze k obranným válkám. To představuje významnou eskalaci [SOV.GetAdjective] vojenských ambicí a vyvolalo obavy mezi západními mocnostmi." # todo: NEW TRANSLATION
+ CSTO.6.a: "Stojíme za Moskvou" # todo: NEW TRANSLATION
+ CSTO.6.b: "Znepokojivý vývoj" # todo: NEW TRANSLATION
+ CSTO_management: "Správa CSTO" # todo: NEW TRANSLATION
+ SOV_convert_csto_to_offensive: "Proměnit CSTO v útočnou alianci" # todo: NEW TRANSLATION
+ SOV_convert_csto_to_offensive_desc: "V současnosti CSTO funguje jako obranná aliance – členové mohou být povoláni do zbraně pouze v případě, že jsme napadeni. Restrukturalizací smlouvy ji můžeme proměnit v plnohodnotnou vojenskou alianci, v níž se členové musí připojit ke všem našim válkám včetně útočných operací. To nám umožní povolat naše spojence a loutkové státy do jakéhokoli konfliktu, který zahájíme." # todo: NEW TRANSLATION
+ SOV_csto_has_at_least_one_member_tt: "CSTO má alespoň jednoho dalšího člena" # todo: NEW TRANSLATION

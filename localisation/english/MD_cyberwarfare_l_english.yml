@@ -1,0 +1,387 @@
+﻿l_english:
+ cyber_operations: "Kybernetické operace" # todo: NEW TRANSLATION
+ cyber_operations_desc: "\n\n\n\n\n\n£MAIN_desctext_cyber\n\n\n\n\n\n\n\n\nProvádějte útočné a zpravodajské operace proti určeným cílovým národům. Přidejte cíle prostřednictvím kybernetického panelu a následně provádějte operace podle toho, co umožňuje vaše úroveň schopností." # todo: NEW TRANSLATION
+ branch_cyber: "Národní kybernetické velení" # todo: NEW TRANSLATION
+ CYBER_CAP_TITLE: "§YOPERAČNÍ KYBERNETICKÉ SCHOPNOSTI§!" # todo: NEW TRANSLATION
+ CYBER_TIER_LABEL: "Úroveň schopností:" # todo: NEW TRANSLATION
+ CYBER_TIER_TT: "Celková úroveň vašeho programu kybernetických operací. Vyšší úrovně odemykají silnější operace a další sloty pro současné cíle." # todo: NEW TRANSLATION
+ CYBER_OFFENSE_LABEL: "Síla útoku:" # todo: NEW TRANSLATION
+ CYBER_OFFENSE_TT: "§YInvestováno:§!\n[?cyber_offense_investment]\n§YBonus:§!\n[?modifier@cyber_offense_power_modifier]" # todo: NEW TRANSLATION
+ CYBER_OFFENSE_TT_DELAYED: "Určuje účinnost útočných operací. Zvyšuje šanci na úspěch všech kybernetických útoků." # todo: NEW TRANSLATION
+ CYBER_DEFENSE_LABEL: "Hodnocení obrany:" # todo: NEW TRANSLATION
+ CYBER_DEFENSE_TT: "§YInvestováno:§!\n[?cyber_defense_investment]\n§YBonus:§!\n[?modifier@cyber_defense_rating_modifier]" # todo: NEW TRANSLATION
+ CYBER_DEFENSE_TT_DELAYED: "Odolnost vašich sítí proti cizímu průniku. Snižuje účinnost útoků vedených proti vám." # todo: NEW TRANSLATION
+ CYBER_ATTRIB_LABEL: "Bonus k identifikaci původu:" # todo: NEW TRANSLATION
+ CYBER_ATTRIB_TT: "Snižuje šanci, že budou vaše operace připsány vám. Kladné hodnoty ztěžují vaše vystopování." # todo: NEW TRANSLATION
+ CYBER_MAX_TARGETS_LABEL: "Maximum cílů:" # todo: NEW TRANSLATION
+ CYBER_GUI_INVEST_OFF: "Útočné schopnosti" # todo: NEW TRANSLATION
+ CYBER_GUI_INVEST_OFF_TT: "§YPožadavky:§!\n[!cyber_invest_offense_button_click_enabled]\n§YPožadavky při kliknutí pravým tlačítkem:§!\n[!cyber_invest_offense_button_right_click_enabled]\n§YÚčinek:§!\n[!cyber_invest_offense_button_click]\n\n§YÚčinek pravého tlačítka:§!\n[!cyber_invest_offense_button_right_click]" # todo: NEW TRANSLATION
+ CYBER_GUI_INVEST_DEF: "Obranné schopnosti" # todo: NEW TRANSLATION
+ CYBER_GUI_INVEST_DEF_TT: "§YPožadavky:§!\n[!cyber_invest_defense_button_click_enabled]\n§YPožadavky při kliknutí pravým tlačítkem:§!\n[!cyber_invest_defense_button_right_click_enabled]\n§YÚčinek:§!\n[!cyber_invest_defense_button_click]\n\n§YÚčinek pravého tlačítka:§!\n[!cyber_invest_defense_button_right_click]" # todo: NEW TRANSLATION
+ CYBER_OPERATIONS_TITLE: "§YK YBERNETICKÉ VÁLEČNÉ OPERACE§!" # todo: NEW TRANSLATION
+ CYBER_CUR_DECRYPT_TT: "§YPrůběh dešifrování§!: [?decryption_progress@var:current_cyber_nation_target|+%1]" # todo: NEW TRANSLATION
+ CYBER_DECRYPT_TT: "Zobrazuje náš aktuální postup při dešifrování šifrovacích kódů [?current_cyber_nation_target.GetNameWithFlag]." # todo: NEW TRANSLATION
+ CYBER_DECRYPT_TT_DELAYED: "Čím vyšší je náš postup při dešifrování, tím účinnější budou naše kybernetické operace proti [?current_cyber_nation_target.GetNameWithFlag] a tím menší bude pravděpodobnost, že budeme během kybernetické operace odhaleni nebo identifikováni." # todo: NEW TRANSLATION
+ CYBER_CUR_DEFENSE_TT: "§YKybernetická bezpečnost cíle§!: [?cyber_defense_rating@var:current_cyber_nation_target|-]" # todo: NEW TRANSLATION
+ CYBER_TARGET_DEFENSE_TT: "Zobrazuje úroveň §Ykybernetické bezpečnosti§!, kterou má [?current_cyber_nation_target.GetNameWithFlag]." # todo: NEW TRANSLATION
+ CYBER_TARGET_DEFENSE_TT_DELAYED: "Čím vyšší je §Ykybernetická bezpečnost§! cílového národa, tím obtížnější pro nás bude provádět úspěšné operace, aniž bychom nejprve prolomili nebo částečně prolomili jeho šifrovací metody." # todo: NEW TRANSLATION
+ CYBER_ACTIVE_TITLE: "§YAKTIVNÍ CÍLE§!" # todo: NEW TRANSLATION
+ CYBER_POTENTIAL_TITLE: "§YPOTENCIÁLNÍ CÍLE§!" # todo: NEW TRANSLATION
+ CYBER_SLOTS_LABEL: "Aktivní cíle: [?cyber_active_targets^num|0] / [?cyber_max_targets|0]" # todo: NEW TRANSLATION
+ CYBER_SLOTS_TT: "Aktuální počet aktivních cílů v porovnání s vaší maximální kapacitou současných cílů." # todo: NEW TRANSLATION
+ CYBER_CUR_OP_TARGET_TT: "Vyberte tento národ jako cíl konkrétní operace." # todo: NEW TRANSLATION
+ CYBER_REMOVE_TARGET_TT: "Odstranit tento národ ze seznamu aktivních cílů." # todo: NEW TRANSLATION
+ CYBER_CUR_TARGET_TT: "§YPožadavky při kliknutí pravým tlačítkem:§!\n[!cyber_current_targets_list_button_right_click_enabled]\n§YPři kliknutí levým tlačítkem:§! [!cyber_current_targets_list_button_click]\n\n§YPři kliknutí pravým tlačítkem:§! [!cyber_current_targets_list_button_right_click]" # todo: NEW TRANSLATION
+ CYBER_CUR_OP_TITLE: "§YAKTUÁLNÍ OPERAČNÍ INFORMACE§!" # todo: NEW TRANSLATION
+ CYBER_CUR_OP_NAME_TITLE: "§YAktuální§! §RCíl§!: [?current_cyber_nation_target.GetNameWithFlag]" # todo: NEW TRANSLATION
+ CYBER_CUR_OP_INFO_TITLE: "§YProbíhající operace§!: [?cyber_ongoing_operations] / [?cyber_op_max_targets|0]" # todo: NEW TRANSLATION
+ CYBER_BROWSER_TITLE: "§YPŘIDAT CÍL§!" # todo: NEW TRANSLATION
+ CYBER_BROWSER_HINT: "Kliknutím na národ zahájíte jeho sledování." # todo: NEW TRANSLATION
+ CYBER_ADD_TARGET_TT: "Určit tento národ jako kybernetický cíl." # todo: NEW TRANSLATION
+ CYBER_BTN_GPS: "Rušení GPS" # todo: NEW TRANSLATION
+ CYBER_BTN_ECON: "Narušení ekonomiky" # todo: NEW TRANSLATION
+ CYBER_BTN_PROP: "Propagandistické operace" # todo: NEW TRANSLATION
+ CYBER_BTN_INFRA: "Narušení energetiky" # todo: NEW TRANSLATION
+ CYBER_BTN_CRIT: "Kritický úder" # todo: NEW TRANSLATION
+ CYBER_BTN_SIGINT: "Monitorování SIGINT" # todo: NEW TRANSLATION
+ CYBER_BTN_RADAR: "Falšování radarových údajů" # todo: NEW TRANSLATION
+ CYBER_BTN_ELECT: "Zasahování do voleb" # todo: NEW TRANSLATION
+ CYBER_BTN_ESPION: "Průmyslová špionáž" # todo: NEW TRANSLATION
+ CYBER_BTN_COMMS: "Odposlech komunikace" # todo: NEW TRANSLATION
+ CYBER_BTN_FIN: "Útok na finanční systémy" # todo: NEW TRANSLATION
+ CYBER_BTN_LOG: "Narušení logistiky" # todo: NEW TRANSLATION
+ CYBER_BTN_SLEEP: "Spící sítě" # todo: NEW TRANSLATION
+ CYBER_BTN_DECEPT: "Dezinformační kampaň" # todo: NEW TRANSLATION
+ CYBER_BTN_ZERO: "Úder zero-day" # todo: NEW TRANSLATION
+ CYBER_BTN_HARDEN: "Zabezpečení sítě" # todo: NEW TRANSLATION
+ CYBER_BTN_CNTRINT: "Operace proti průnikům" # todo: NEW TRANSLATION
+ CYBER_BTN_ATTRIB: "Pátrání po původu útoku" # todo: NEW TRANSLATION
+ CYBER_GPS_BTN_TT: "§YPožadavky:§!\n[!cyber_gps_jamming_button_click_enabled]\n§YÚčinek:§!\n[!cyber_gps_jamming_button_click]" # todo: NEW TRANSLATION
+ CYBER_ECON_BTN_TT: "§YPožadavky:§!\n[!cyber_economic_disruption_button_click_enabled]\n§YÚčinek:§!\n[!cyber_economic_disruption_button_click]" # todo: NEW TRANSLATION
+ CYBER_PROP_BTN_TT: "§YPožadavky:§!\n[!cyber_propaganda_ops_button_click_enabled]\n§YÚčinek:§!\n[!cyber_propaganda_ops_button_click]" # todo: NEW TRANSLATION
+ CYBER_INFRA_BTN_TT: "§YPožadavky:§!\n[!cyber_infrastructure_attack_button_click_enabled]\n§YÚčinek:§!\n[!cyber_infrastructure_attack_button_click]" # todo: NEW TRANSLATION
+ CYBER_CRIT_BTN_TT: "§YPožadavky:§!\n[!cyber_critical_strike_button_click_enabled]\n§YÚčinek:§!\n[!cyber_critical_strike_button_click]" # todo: NEW TRANSLATION
+ CYBER_SIGINT_BTN_TT: "§YPožadavky:§!\n[!cyber_sigint_surveillance_button_click_enabled]\n§YÚčinek:§!\n[!cyber_sigint_surveillance_button_click]" # todo: NEW TRANSLATION
+ CYBER_RADAR_BTN_TT: "§YPožadavky:§!\n[!cyber_radar_spoofing_button_click_enabled]\n§YÚčinek:§!\n[!cyber_radar_spoofing_button_click]" # todo: NEW TRANSLATION
+ CYBER_ELECT_BTN_TT: "§YPožadavky:§!\n[!cyber_election_interference_button_click_enabled]\n§YÚčinek:§!\n[!cyber_election_interference_button_click]" # todo: NEW TRANSLATION
+ CYBER_ESPION_BTN_TT: "§YPožadavky:§!\n[!cyber_industrial_espionage_button_click_enabled]\n§YÚčinek:§!\n[!cyber_industrial_espionage_button_click]" # todo: NEW TRANSLATION
+ CYBER_COMMS_BTN_TT: "§YPožadavky:§!\n[!cyber_comms_intercept_button_click_enabled]\n§YÚčinek:§!\n[!cyber_comms_intercept_button_click]" # todo: NEW TRANSLATION
+ CYBER_FIN_BTN_TT: "§YPožadavky:§!\n[!cyber_financial_system_attack_button_click_enabled]\n§YÚčinek:§!\n[!cyber_financial_system_attack_button_click]" # todo: NEW TRANSLATION
+ CYBER_LOG_BTN_TT: "§YPožadavky:§!\n[!cyber_logistics_disruption_button_click_enabled]\n§YÚčinek:§!\n[!cyber_logistics_disruption_button_click]" # todo: NEW TRANSLATION
+ CYBER_SLEEP_BTN_TT: "§YPožadavky:§!\n[!cyber_sleeper_network_button_click_enabled]\n§YÚčinek:§!\n[!cyber_sleeper_network_button_click]" # todo: NEW TRANSLATION
+ CYBER_DECEPT_BTN_TT: "§YPožadavky:§!\n[!cyber_deception_campaign_button_click_enabled]\n§YÚčinek:§!\n[!cyber_deception_campaign_button_click]" # todo: NEW TRANSLATION
+ CYBER_ZERO_BTN_TT: "§YPožadavky:§!\n[!cyber_zero_day_strike_button_click_enabled]\n§YÚčinek:§!\n[!cyber_zero_day_strike_button_click]" # todo: NEW TRANSLATION
+ CYBER_HARDEN_BTN_TT: "§YPožadavky:§!\n[!cyber_network_hardening_button_click_enabled]\n§YÚčinek:§!\n[!cyber_network_hardening_button_click]" # todo: NEW TRANSLATION
+ CYBER_CNTRINT_BTN_TT: "§YPožadavky:§!\n[!cyber_counter_intrusion_button_click_enabled]\n§YÚčinek:§!\n[!cyber_counter_intrusion_button_click]" # todo: NEW TRANSLATION
+ CYBER_ATTRIB_BTN_TT: "§YPožadavky:§!\n[!cyber_attribution_hunt_button_click_enabled]\n§YÚčinek:§!\n[!cyber_attribution_hunt_button_click]" # todo: NEW TRANSLATION
+ CYBER_GPS_BTN_TT_DELAYED: "Specializovaný malware proniká do infrastruktury satelitního příjmu cíle a zaplavuje vojenské navigační systémy falešnými signály. Velitelé v terénu mají potíže s koordinací, protože známé orientační body mizí z jejich digitálních map. I běžné manévry se stávají nebezpečnými, když selže přesná navigace." # todo: NEW TRANSLATION
+ CYBER_SIGINT_BTN_TT_DELAYED: "Vytrvalý implantát se tiše zavrtává do telekomunikační páteře cíle a kopíruje provoz vládních, vojenských i diplomatických kanálů. Týden za týdnem zachycený tok vytváří podrobný obraz záměrů, zranitelností a vnitřních sporů cíle. Zpravodajství, které by žádný běžný špion nedokázal získat." # todo: NEW TRANSLATION
+ CYBER_RADAR_BTN_TT_DELAYED: "Na obrazovkách radarů protivzdušné obrany cíle se objevují falešné kontakty. Operátoři se horečně snaží sledovat letadla, která neexistují, a během poplachů pronásledují přízraky. Skutečné lety proklouznou mezerami nepozorovaně. Okno je krátké, ale třicet dní zhoršené detekce ze vzduchu může být během aktivního tažení rozhodujících." # todo: NEW TRANSLATION
+ CYBER_ECON_BTN_TT_DELAYED: "Zpracovatelé plateb začínají hlásit chyby. Obchodní algoritmy se dusí na poškozených datových vstupech. Řídicí systémy výrobních linek dostávají vadné aktualizační balíčky. Útok je navržen tak, aby jej bylo možné popřít: kaskáda zdánlivě nesouvisejících technických selhání, která po celé měsíce nenápadně odčerpává ekonomický výkon cíle." # todo: NEW TRANSLATION
+ CYBER_PROP_BTN_TT_DELAYED: "Tisíce koordinovaných účtů zaplavují mediální prostor cíle protichůdnými narativy. Na sociálních sítích kolují zfalšované vládní dokumenty. Cílem není klamat, ale vyčerpat. Obyvatelstvo, které již nedokáže rozlišit skutečnost od fikce, ztrácí důvěru ve všechny instituce včetně vlastní vlády." # todo: NEW TRANSLATION
+ CYBER_ELECT_BTN_TT_DELAYED: "Registrační systémy voličů jsou nenápadně poškozovány. V posledních dnech před hlasováním kolují záznamy vůdců opozice vytvořené pomocí deepfake. Algoritmy sociálních sítí jsou zneužívány k zesílení stávajících rozporů. Demokratické instituce cíle nejsou zničeny. Jsou pouze nenápadně učiněny nedůvěryhodnými a jejich výsledky jsou zpochybněny ještě před sečtením jediného hlasu." # todo: NEW TRANSLATION
+ CYBER_ESPION_BTN_TT_DELAYED: "Kampaň cíleného phishingu umisťuje vlastní implantáty hluboko do nejcitlivějších výzkumných sítí cíle. Malware se po celé měsíce bočně šíří a shromažďuje výkresy, testovací data a vlastnické vzorce. V době, kdy je průnik odhalen, naši výzkumníci již stavějí na tom, co ukradli." # todo: NEW TRANSLATION
+ CYBER_COMMS_BTN_TT_DELAYED: "Tichý útok typu man-in-the-middle se umisťuje mezi nejcitlivější komunikační uzly cíle. Rozkazy generálů, depeše velvyslanců i jednání vlády procházejí stejným napadeným přenosovým bodem: jsou kopírovány, katalogizovány a v reálném čase doručovány našim analytikům. Cíl nadále činí rozhodnutí, aniž by tušil, že čteme každé z nich." # todo: NEW TRANSLATION
+ CYBER_INFRA_BTN_TT_DELAYED: "Průmyslové řídicí systémy spravující distribuci energie, úpravu vody a logistické uzly dostávají tiché, škodlivé aktualizace firmwaru. Po spuštění nálože kaskádová selhání současně zahlcují opravárenské týmy v několika sektorech. Škody jsou skutečné, fyzické a jejich náprava je pomalá." # todo: NEW TRANSLATION
+ CYBER_FIN_BTN_TT_DELAYED: "Systémy zúčtování centrální banky zhasínají. Sítě bankomatů selhávají po celé zemi. Algoritmy obchodování s měnou dostávají otrávené vstupy, které spouštějí prudký krach. Narušení dosahuje mnohem dál než běžné sankce a na rozdíl od sankcí nenese žádné označení původu." # todo: NEW TRANSLATION
+ CYBER_LOG_BTN_TT_DELAYED: "Software pro řízení dodavatelského řetězce se současně hroutí na všech předsunutých operačních základnách. Požadavky na munici mizí v poškozených frontách. Algoritmy přidělování paliva směrují konvoje k neexistujícím skladům. Vojenský stroj nepřítele se v bitvě nerozbije. Na místě vyhladne." # todo: NEW TRANSLATION
+ CYBER_SLEEP_BTN_TT_DELAYED: "Trpělivě, metodicky, neviditelně. Naši operativci zde nejsou proto, aby útočili. Jsou zde proto, aby zůstali. Neaktivní přístupové body jsou rozmístěny v kritické síťové infrastruktuře cíle a čekají na aktivaci na povel. Během příštího roku nemusí mít jeho nejcitlivější systémy vůbec žádná tajemství." # todo: NEW TRANSLATION
+ CYBER_CRIT_BTN_TT_DELAYED: "Veškerá síla našeho kybernetického arzenálu dopadá naráz. Elektrické sítě selhávají. Vojenská komunikace se hroutí. Průmyslová výroba se zastavuje. Finanční systémy zamrzají. Operace je digitálním ekvivalentem strategického bombardování a současně zanechává cíl funkčně ochromený ve všech oblastech národní moci." # todo: NEW TRANSLATION
+ CYBER_DECEPT_BTN_TT_DELAYED: "Neútočíme na systémy cíle. Korumpujeme jeho mysl. Zfalšované zpravodajské odhady, podvržené rozkazy s autentizačními podpisy vysokých velitelů, zmanipulované snímky předkládané činitelům na nejvyšších úrovních. Každé rozhodnutí cíle může být založeno na skutečnosti, kterou jsme sami vytvořili." # todo: NEW TRANSLATION
+ CYBER_ZERO_BTN_TT_DELAYED: "Klasifikovaný arzenál dosud neznámých exploitů, shromažďovaný po celá léta a vyhrazený přesně pro tento okamžik, je současně nasazen proti nejkritičtějším systémům cíle. V době, kdy analytici pochopí, co se stalo, jsou zranitelnosti vyčerpány a škody nevratné." # todo: NEW TRANSLATION
+ CYBER_HARDEN_BTN_TT_DELAYED: "Naše bezpečnostní týmy kontrolují každé vystavené rozhraní, opravují každou známou zranitelnost a posilují protokoly, které cizí zpravodajské agentury nejčastěji zkoušejí. Tato práce není okázalá, ale každé dveře, které zavřeme, představují o jeden vektor méně, který může protivník využít. Nejlepší kybernetická operace je ta, která nikdy nezasáhne." # todo: NEW TRANSLATION
+ CYBER_CNTRINT_BTN_TT_DELAYED: "Analytici procházejí síťové záznamy a telemetrii systémů a hledají nenápadné známky cizí přítomnosti: neobvyklé vzorce přístupu, neočekávaná odchozí spojení a neaktivní procesy bez legitimního účelu. Vyčištění infikované sítě je pomalá a pečlivá práce. Neodhalený implantát je mnohem nebezpečnější než známý." # todo: NEW TRANSLATION
+ CYBER_ATTRIB_BTN_TT_DELAYED: "Naše týmy digitální forenziky rekonstruují cestu útoku: sledují podpisy malwaru, mapují infrastrukturu velení a řízení a katalogizují vzorce operační bezpečnosti, které identifikují odpovědného aktéra. Pojmenování státu stojícího za průnikem je prvním krokem k přiměřené reakci." # todo: NEW TRANSLATION
+ cyber_tier_0_loc: "§8Žádná§!" # todo: NEW TRANSLATION
+ cyber_tier_1_loc: "§GÚroveň 1§!" # todo: NEW TRANSLATION
+ cyber_tier_2_loc: "§GÚroveň 2§!" # todo: NEW TRANSLATION
+ cyber_tier_3_loc: "§GÚroveň 3§!" # todo: NEW TRANSLATION
+ cyber_tier_4_loc: "§GÚroveň 4§!" # todo: NEW TRANSLATION
+ cyber_intel_none_loc: "§8Žádné§!" # todo: NEW TRANSLATION
+ cyber_intel_low_loc: "§YNízké§!" # todo: NEW TRANSLATION
+ cyber_intel_moderate_loc: "§GStřední§!" # todo: NEW TRANSLATION
+ cyber_intel_high_loc: "§GVYSOKÉ: Operace možné§!" # todo: NEW TRANSLATION
+ cyber_gui_invest_offense_tt: "§GZvýšit§! náš $cyber_offense_power_modifier$ o §Y2§!" # todo: NEW TRANSLATION
+ cyber_gui_divest_offense_tt: "§GSnížit§! náš $cyber_offense_power_modifier$ o §Y2§!" # todo: NEW TRANSLATION
+ cyber_gui_invest_defense_tt: "§GZvýšit§! náš $cyber_defense_rating_modifier$ o §Y2§!" # todo: NEW TRANSLATION
+ cyber_gui_divest_defense_tt: "§GSnížit§! náš $cyber_defense_rating_modifier$ o §Y2§!" # todo: NEW TRANSLATION
+ cyber_op_slot_0_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^0.GetNameWithFlag] probíhá nálož narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_economic_tracking: "Narušení ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_economic_tracking_desc: "Naši operativci aktivně narušují finanční a průmyslové sítě [?cyber_op_target_nation^0.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^0.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_infra_tracking_desc: "Trvalý kybernetický úder narušuje kritickou infrastrukturu [?cyber_op_target_nation^0.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^0.GetNameWithFlag] probíhá všestranný kybernetický útok. Jde o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_1_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^1.GetNameWithFlag] probíhá nálož narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_economic_tracking: "Narušení ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_economic_tracking_desc: "Naši operativci aktivně narušují finanční a průmyslové sítě [?cyber_op_target_nation^1.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^1.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_infra_tracking_desc: "Trvalý kybernetický úder narušuje kritickou infrastrukturu [?cyber_op_target_nation^1.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^1.GetNameWithFlag] probíhá všestranný kybernetický útok. Jde o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_2_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^2.GetNameWithFlag] probíhá nálož narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_economic_tracking: "Narušení ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_economic_tracking_desc: "Naši operativci aktivně narušují finanční a průmyslové sítě [?cyber_op_target_nation^2.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^2.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_infra_tracking_desc: "Trvalý kybernetický úder narušuje kritickou infrastrukturu [?cyber_op_target_nation^2.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^2.GetNameWithFlag] probíhá všestranný kybernetický útok. Jde o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_3_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^3.GetNameWithFlag] probíhá nálož narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_economic_tracking: "Narušení ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_economic_tracking_desc: "Naši operativci aktivně narušují finanční a průmyslové sítě [?cyber_op_target_nation^3.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^3.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_infra_tracking_desc: "Trvalý kybernetický úder narušuje kritickou infrastrukturu [?cyber_op_target_nation^3.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^3.GetNameWithFlag] probíhá všestranný kybernetický útok. Jde o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_4_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^4.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^4.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^4.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^4.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^4.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_5_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^5.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^5.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^5.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^5.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^5.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_6_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^6.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^6.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^6.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^6.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^6.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_7_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^7.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^7.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^7.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^7.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^7.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_8_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^8.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^8.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^8.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^8.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^8.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_9_gps_tracking: "Rušení GPS aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_gps_tracking_desc: "Proti vojenské navigační infrastruktuře [?cyber_op_target_nation^9.GetNameWithFlag] probíhá útok narušující signál GPS. Operace bude dokončena přibližně za 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_economic_tracking: "Narušování ekonomiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_economic_tracking_desc: "Naši operativci aktivně poškozují finanční a průmyslové sítě [?cyber_op_target_nation^9.GetNameWithFlag]. Účinky odezní přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_propaganda_tracking: "Propagandistické operace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_propaganda_tracking_desc: "Koordinovaná dezinformační kampaň zaplavuje informační prostor [?cyber_op_target_nation^9.GetNameWithFlag]. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_infra_tracking: "Útok na infrastrukturu aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_infra_tracking_desc: "Trvalý kybernetický útok poškozuje kritickou infrastrukturu [?cyber_op_target_nation^9.GetNameWithFlag]. Operace bude dokončena přibližně za 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_crit_tracking: "Kritický úder aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_crit_tracking_desc: "Proti kritickým systémům [?cyber_op_target_nation^9.GetNameWithFlag] probíhá komplexní kybernetický útok. Jedná se o naši nejvýznamnější aktivní operaci. Účinky přetrvají přibližně jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_0_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^0.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^1.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^2.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^3.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^4.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^5.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^6.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^7.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^8.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_sigint_surveillance_tracking: "Dohled SIGINT aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z elektromagnetického spektra monitorují komunikaci a síťový provoz [?cyber_op_target_nation^9.GetNameWithFlag], čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní míru. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^0.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^1.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^2.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^3.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^4.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^5.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^6.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^7.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^8.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_radar_spoofing_tracking: "Klamání radarů aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_radar_spoofing_tracking_desc: "Koordinovaný prostředek elektronického boje vysílá falešné odrazy do sítí vzdušné detekce [?cyber_op_target_nation^9.GetNameWithFlag], čímž zhoršuje jejich situační přehled. Operace bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^0.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^1.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^2.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^3.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^4.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^5.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^6.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^7.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^8.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_election_interference_tracking: "Ovlivňování voleb aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_election_interference_tracking_desc: "Naši operativci provádějí koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor [?cyber_op_target_nation^9.GetNameWithFlag]. Šíří dezinformace a financují opoziční sítě s cílem oslabit důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^0.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^1.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^2.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^3.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^4.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^5.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^6.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^7.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^8.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_industrial_espionage_tracking: "Průmyslová špionáž aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím [?cyber_op_target_nation^9.GetNameWithFlag] a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál. Operace potrvá přibližně 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^0.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^1.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^2.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^3.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^4.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^5.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^6.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^7.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^8.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_comms_intercept_tracking: "Odposlech komunikace aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_comms_intercept_tracking_desc: "Naše zpravodajské týmy pronikly do vládních a diplomatických komunikačních kanálů [?cyber_op_target_nation^9.GetNameWithFlag]. Sledujeme jejich provoz a v reálném čase získáváme využitelné zpravodajské informace. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^0.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^1.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^2.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^3.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^4.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^5.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^6.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^7.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^8.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_financial_system_attack_tracking: "Útok na finanční systém aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé prostředky proti centrálnímu bankovnictví a infrastruktuře zpracování plateb [?cyber_op_target_nation^9.GetNameWithFlag], čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^0.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^1.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^2.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^3.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^4.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^5.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^6.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^7.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^8.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_logistics_disruption_tracking: "Narušení vojenské logistiky aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_logistics_disruption_tracking_desc: "Aktivně poškozujeme software pro velení a řízení armády a správu dodavatelského řetězce [?cyber_op_target_nation^9.GetNameWithFlag], čímž narušujeme jeho zásobování a cykly posilování. Operace bude dokončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_0_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^0.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_1_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_1_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^1.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_2_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_2_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^2.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_3_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_3_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^3.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_4_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_4_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^4.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_5_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_5_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^5.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_6_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_6_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^6.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_7_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_7_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^7.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_8_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_8_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^8.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_9_sleeper_network_tracking: "Spící síť aktivována" # todo: NEW TRANSLATION
+ cyber_op_slot_9_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím [?cyber_op_target_nation^9.GetNameWithFlag]. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však jeden rok." # todo: NEW TRANSLATION
+ cyber_op_slot_0_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_0_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^0.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_1_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^1.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_2_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^2.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_3_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^3.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_4_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^4.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_5_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^5.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_6_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^6.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_7_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^7.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_8_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^8.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
+ cyber_op_slot_9_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^9.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION

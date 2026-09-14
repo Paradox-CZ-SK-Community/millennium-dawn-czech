@@ -1,36 +1,40 @@
 ﻿l_english:
-  PRODUCTION_OPERATIONAL_ARMS_FACTORIES_LABEL: "Vojenské průmyslové závody" # todo: NEW TRANSLATION
-  PRODUCTION_OPERATIONAL_FACTORIES_LABEL: "Civilní průmyslové závody" # todo: NEW TRANSLATION
-  PRODUCTION_AVAILABLE_ARMS_FACTORIES_LABEL: "Dostupné vojenské průmyslové závody" # todo: NEW TRANSLATION
-  PRODUCTION_AVAILABLE_FACTORIES_LABEL: "Dostupné civilní průmyslové závody" # todo: NEW TRANSLATION
-  PRODUCTION_PRODUCING_NO_FACTORIES: "§RŽádné přiřazené průmyslové závody§!" # todo: NEW TRANSLATION
-  PRODUCTION_EFFICIENCY_DESC: "§TPrůměrná výrobní efektivita průmyslu.\nVýrobní efektivita se zvyšuje o $VALUE|H=2$%/vyrobenou jednotku, rovnoměrně rozděleno mezi aktivní průmyslové závody.§!" # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_OIL: "Fosilní paliva" # todo: NEW TRANSLATION
-  oil_desc: "Fosilní paliva jsou nezbytná pro úspěch každé větší moderní ekonomiky. Zajištění tohoto zdroje je pro státy 21. století zásadní." # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_ALUMINIUM: "Lehké kovy" # todo: NEW TRANSLATION
-  aluminium_desc: "Lehké kovy jsou důležité pro stavbu specializovaných vozidel a letadel. Hliník je preferovaný hlavní kov používaný u vrtulníků a letadel k překonání gravitace." # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_RUBBER: "Guma" # todo: NEW TRANSLATION
-  rubber_desc: "Guma je důležitá pro výrobu většiny vozidel. Její elastické vlastnosti jsou ideální pro výrobu pneumatik a jiných průmyslových použití." # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_TUNGSTEN: "Technologické kovy" # todo: NEW TRANSLATION
-  tungsten_desc: "Technologické kovy jsou hlavní surovinou pro výrobu pokročilých technologií. Nejmodernější zbraně a vybavení často rozhodují o výsledku bitvy." # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_STEEL: "Ocel" # todo: NEW TRANSLATION
-  steel_desc: "Ocel je hlavní kov pro většinu typů vojenské techniky, ať už pozemní vozidla nebo lodě. Dlouhodobé konflikty bez přístupu k tomuto zdroji učiní vaše vojenské závody téměř k ničemu." # todo: NEW TRANSLATION
-  PRODUCTION_MATERIALS_CHROMIUM: "Drahé kovy" # todo: NEW TRANSLATION
-  chromium_desc: "Drahé kovy, minerály a jiné vzácné prvky plní kritické funkce v moderních technologiích. Zlato, stříbro a diamanty jsou zvláště důležité jako zdroj příjmů pro destabilizované rozvojové regiony." # todo: NEW TRANSLATION
-  PRODUCTION_VEHICLES_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské průmyslové závody!§!" # todo: NEW TRANSLATION
-  PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské průmyslové závody!§!" # todo: NEW TRANSLATION
-  PRODUCTION_CONSUMER_GOODS: "Daňové náklady" # todo: NEW TRANSLATION
-  PRODUCTION_CONSUMER_GOODS_LABEL: "§HDaňové náklady§!" # todo: NEW TRANSLATION
-  PRODUCTION_CONSUMER_GOODS_DESC: "V důsledku daní a různých politik je $PERCENTAGE|H0%$ naší celkové ekonomiky (civilních průmyslových závodů) nedostupných. Zůstává nám $OPERATIONAL|H$ průmyslových závodů, z nichž $TRADE_USABLE|H$ lze použít pro obchod." # todo: NEW TRANSLATION
-  PRODUCTION_CIV_AND_MIL_FACTORIES: "Civilní a vojenské průmyslové závody: $KEY|H$" # todo: NEW TRANSLATION
-  PRODUCTION_REQ_CONSUMER_GOODS_FACTORIES: "Požadovaný civilní průmysl: $KEY|H$" # todo: NEW TRANSLATION
-  PRODUCTION_WORKING_FACTORIES: "To je počet průmyslových závodů, které momentálně pracují na jedné z vašich výrobních linek." # todo: NEW TRANSLATION
-  PRODICTION_MIC_TRANSFERED: "$AMOUNT|Y$ našich průmyslových závodů je využíváno $OVERLORD|Y$." # todo: NEW TRANSLATION
-  PRODICTION_MIC_RECEIVED_FROM_SUBJECT: "$AMOUNT|Y$ vojenských průmyslových závodů přijímáme od našich vazalů." # todo: NEW TRANSLATION
-  PRODICTION_MIC_SENT_TO_OVERLORD: "$AMOUNT|R$ našich vojenských průmyslových závodů bylo odevzdáno našemu suzerénovi, a zůstalo nám pouze $LEFT|H$." # todo: NEW TRANSLATION
-  PRODUCTION_OUTPUT_EXPLAIN: "Naše $FACTORIES|Y$ £factory_item vojenské průmyslové závody přispívají $OUTPUT|Y$ £production_cost . \n$ITEM|Y$ stojí $ITEM_COST|2Y$ £production_cost , což znamená, že můžeme vyrobit $PERTIMEPERIOD$.\n" # todo: NEW TRANSLATION
-  PRODUCTION_FILTER_ARMS_FACTORIES: "Použité vojenské průmyslové závody" # todo: NEW TRANSLATION
-  PRODUCTION_VEHICLES_BUTTON: "Vyrobit tank, vozidlo nebo vrtulník" # todo: NEW TRANSLATION
-  PRODUCTION_INFANTRY_BUTTON: "Vyrobit lehké bojové vybavení" # todo: NEW TRANSLATION
-  PRODUCTION_AIRCRAFT_BUTTON: "Vyrobit letadlo nebo raketu" # todo: NEW TRANSLATION
-  PRODUCTION_SHIPS_BUTTON: "Vyrobit loď nebo ponorku" # todo: NEW TRANSLATION
+ PRODUCTION_OPERATIONAL_ARMS_FACTORIES_LABEL: "Vojenské průmyslové závody" # todo: NEW TRANSLATION
+ PRODUCTION_OPERATIONAL_FACTORIES_LABEL: "Civilní průmyslové závody" # todo: NEW TRANSLATION
+ PRODUCTION_AVAILABLE_ARMS_FACTORIES_LABEL: "Dostupné vojenské průmyslové závody" # todo: NEW TRANSLATION
+ PRODUCTION_AVAILABLE_FACTORIES_LABEL: "Dostupné civilní průmyslové závody" # todo: NEW TRANSLATION
+ PRODUCTION_PRODUCING_NO_FACTORIES: "§RŽádné přiřazené průmyslové závody§!" # todo: NEW TRANSLATION
+ PRODUCTION_EFFICIENCY_DESC: "§TPrůměrná výrobní efektivita průmyslu.\nVýrobní efektivita se zvyšuje o $VALUE|H=2$%/vyrobenou jednotku, rovnoměrně rozděleno mezi aktivní průmyslové závody.§!" # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_OIL: "Fosilní paliva" # todo: NEW TRANSLATION
+ oil_desc: "Fosilní paliva jsou nezbytná pro úspěch každé větší moderní ekonomiky. Zajištění tohoto zdroje je pro státy 21. století zásadní." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_ALUMINIUM: "Lehké kovy" # todo: NEW TRANSLATION
+ aluminium_desc: "Lehké kovy jsou důležité pro stavbu specializovaných vozidel a letadel. Hliník je preferovaný hlavní kov používaný u vrtulníků a letadel k překonání gravitace." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_RUBBER: "Guma" # todo: NEW TRANSLATION
+ rubber_desc: "Guma je důležitá pro výrobu většiny vozidel. Její elastické vlastnosti jsou ideální pro výrobu pneumatik a jiných průmyslových použití." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_TUNGSTEN: "Technologické kovy" # todo: NEW TRANSLATION
+ tungsten_desc: "Technologické kovy jsou hlavní surovinou pro výrobu pokročilých technologií. Nejmodernější zbraně a vybavení často rozhodují o výsledku bitvy." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_STEEL: "Ocel" # todo: NEW TRANSLATION
+ steel_desc: "Ocel je hlavní kov pro většinu typů vojenské techniky, ať už pozemní vozidla nebo lodě. Dlouhodobé konflikty bez přístupu k tomuto zdroji učiní vaše vojenské závody téměř k ničemu." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_CHROMIUM: "Drahé kovy" # todo: NEW TRANSLATION
+ chromium_desc: "Drahé kovy, minerály a jiné vzácné prvky plní kritické funkce v moderních technologiích. Zlato, stříbro a diamanty jsou zvláště důležité jako zdroj příjmů pro destabilizované rozvojové regiony." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_MICROCHIPS: "Mikročipy" # todo: NEW TRANSLATION
+ microchips_desc: "Mikročip (nazývaný také čip, počítačový čip, integrovaný obvod nebo IO) je soubor elektronických obvodů na malém plochém kousku křemíku. Používá se v pokročilých počítačových systémech a vojenském vybavení." # todo: NEW TRANSLATION
+ PRODUCTION_MATERIALS_COMPOSITES: "Pokročilé kompozity" # todo: NEW TRANSLATION
+ composites_desc: "Kompozity jsou materiály vyrobené kombinací dvou nebo více složek s odlišnými fyzikálními nebo chemickými vlastnostmi." # todo: NEW TRANSLATION
+ PRODUCTION_VEHICLES_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské průmyslové závody!§!" # todo: NEW TRANSLATION
+ PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské průmyslové závody!§!" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS: "Daňové náklady" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS_LABEL: "§HDaňové náklady§!" # todo: NEW TRANSLATION
+ PRODUCTION_CONSUMER_GOODS_DESC: "V důsledku daní a různých politik je $PERCENTAGE|H0%$ naší celkové ekonomiky (civilních průmyslových závodů) nedostupných. Zůstává nám $OPERATIONAL|H$ průmyslových závodů, z nichž $TRADE_USABLE|H$ lze použít pro obchod." # todo: NEW TRANSLATION
+ PRODUCTION_CIV_AND_MIL_FACTORIES: "Civilní a vojenské průmyslové závody: $KEY|H$" # todo: NEW TRANSLATION
+ PRODUCTION_REQ_CONSUMER_GOODS_FACTORIES: "Požadovaný civilní průmysl: $KEY|H$" # todo: NEW TRANSLATION
+ PRODUCTION_WORKING_FACTORIES: "To je počet průmyslových závodů, které momentálně pracují na jedné z vašich výrobních linek." # todo: NEW TRANSLATION
+ PRODICTION_MIC_TRANSFERED: "$AMOUNT|Y$ našich průmyslových závodů je využíváno $OVERLORD|Y$." # todo: NEW TRANSLATION
+ PRODICTION_MIC_RECEIVED_FROM_SUBJECT: "$AMOUNT|Y$ vojenských průmyslových závodů přijímáme od našich vazalů." # todo: NEW TRANSLATION
+ PRODICTION_MIC_SENT_TO_OVERLORD: "$AMOUNT|R$ našich vojenských průmyslových závodů bylo odevzdáno našemu suzerénovi, a zůstalo nám pouze $LEFT|H$." # todo: NEW TRANSLATION
+ PRODUCTION_OUTPUT_EXPLAIN: "Naše $FACTORIES|Y$ £factory_item vojenské průmyslové závody přispívají $OUTPUT|Y$ £production_cost . \n$ITEM|Y$ stojí $ITEM_COST|2Y$ £production_cost , což znamená, že můžeme vyrobit $PERTIMEPERIOD$.\n" # todo: NEW TRANSLATION
+ PRODUCTION_FILTER_ARMS_FACTORIES: "Použité vojenské průmyslové závody" # todo: NEW TRANSLATION
+ PRODUCTION_VEHICLES_BUTTON: "Vyrobit tank, vozidlo nebo vrtulník" # todo: NEW TRANSLATION
+ PRODUCTION_INFANTRY_BUTTON: "Vyrobit lehké bojové vybavení" # todo: NEW TRANSLATION
+ PRODUCTION_AIRCRAFT_BUTTON: "Vyrobit letadlo nebo raketu" # todo: NEW TRANSLATION
+ PRODUCTION_SHIPS_BUTTON: "Vyrobit loď nebo ponorku" # todo: NEW TRANSLATION

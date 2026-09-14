@@ -1,482 +1,479 @@
 ﻿l_english:
-  INTELLIGENCEAGENCYVIEW_TITLE: "Zpravodajská agentura" # todo: NEW TRANSLATION
-  SPY_MASTER_STATUS_NONE: "V současné době neexistuje §HŠéf špionáže§!" # todo: NEW TRANSLATION
-  SPY_MASTER_STATUS_OTHER: "$COUNTRY|H$ je v současnosti §HŠéf špionáže§ frakce $FACTION|H$." # todo: NEW TRANSLATION
-  SPY_MASTER_STATUS_YOU: "Jste §HŠéf špionáže§" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_BUTTON: "Stát se §HŠéf špionáže§" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_ALREADY_MASTER: "§RJste již Šéf špionáže§!" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_FACTION_NEEDED: "§RAbyste se stal §HŠéf špionáže§, musíte být ve frakci.§!" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_UPGRADES_NEEDED: "§RAbyste se stal §HŠéf špionáže§, musíte mít agenturu s $NUMBER$ různými vylepšeními poboček.§!" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_NO_SUBJECT: "§RSubjekty nemohou být Šéf špionáže.§!" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_COOLDOWN: "§RDalší země se stala Šéf špionáže naší frakce před méně než $COOLDOWN|H$ dny. Musíme počkat do $DATE|H$, než budeme moci stát se Šéf špionáže.§!" # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_COST: "Bude to stát £pol_power $VALUE$ na to, abyste se stal §HŠéf špionáže§!." # todo: NEW TRANSLATION
-  BECOME_SPY_MASTER_DESC: "Jako §HŠéf špionáže§! budete moci ovládat více agentů, jejichž počet závisí na velikosti vaší frakce.\nNa jedné frakci může být pouze jeden §HŠéf špionáže§!, a pokud vaše frakce již má §HŠéf špionáže§!, musí s vaším převzetím souhlasit." # todo: NEW TRANSLATION
-  AGENCY_BRANCHES: "Pobočky agentury" # todo: NEW TRANSLATION
-  AGENCY_BRANCHE_UPGRADES: "Vylepšení poboček agentury" # todo: NEW TRANSLATION
-  AGENCY_UPGRADES_DURATION: "Vylepšení poboček trvá $DAYS|H$ dní." # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_CURRENT_EFFECT: "§HAktuální účinek:§!\n" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_NEXT_LEVEL: "§HDalší úroveň:§!\n" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_RESEARCHED: "§GVylepšení prozkoumáno§!" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_IN_PROGRESS: "§HProbíhá vylepšení§!" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_AVAILABLE: "§H§GKlikněte na to§! a spusťte toto vylepšení§!" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_ALREADY_PROGRESS: "§RJiné vylepšení je v procesu§!" # todo: NEW TRANSLATION
-  AGENCY_CREATED_TITLE: "Agentura vytvořena!" # todo: NEW TRANSLATION
-  AGENCY_UPGRADED_TITLE: "Agentura vylepšena!" # todo: NEW TRANSLATION
-  AGENCY_NAME: "Zpravodajská agentura" # todo: NEW TRANSLATION
-  branch_intelligence: "Obecná vylepšení agentury" # todo: NEW TRANSLATION
-  branch_defense: "Obrana" # todo: NEW TRANSLATION
-  branch_operation: "Operace" # todo: NEW TRANSLATION
-  branch_agent: "Školení agentů" # todo: NEW TRANSLATION
-  branch_crypto: "Divize kybernetické bezpečnosti" # todo: NEW TRANSLATION
-  upgrade_economy_civilian: "Ekonomické zpravodajství" # todo: NEW TRANSLATION
-  upgrade_economy_civilian_desc: "§WEkonomické zpravodajství je jedním z klíčových bodů moderního zpravodajství. Lepší porozumění složitostem ekonomik našich zahraničních nepřátel nám může pomoci omezit jejich ambice.§!" # todo: NEW TRANSLATION
-  upgrade_army_department: "Vojenské oddělení" # todo: NEW TRANSLATION
-  upgrade_army_department_desc: "§WPronikání do ozbrojených sil našich nepřátel a potenciálních nepřátel nám poskytne větší příležitost odhadnout jejich sílu.§!" # todo: NEW TRANSLATION
-  upgrade_computer_servers: "Servery agentury" # todo: NEW TRANSLATION
-  upgrade_computer_servers_desc: "§WAktualizace počítačů naší agentury pomůže posílit sílu naší divize kybernetické bezpečnosti.§!" # todo: NEW TRANSLATION
-  upgrade_computer_servers_TT: "Dokončeno: Vylepšení agentury §YZřízení Divize kybernetické bezpečnosti§!" # todo: NEW TRANSLATION
-  upgrade_naval_department: "Námořní oddělení" # todo: NEW TRANSLATION
-  upgrade_naval_department_desc: "§WBitva na moři je klíčovou součástí dosažení vítězství a s pokrokem námořních technologií je nezbytné, abychom zřídili Oddělení námořního zpravodajství.§!" # todo: NEW TRANSLATION
-  upgrade_airforce_department: "Letecké oddělení" # todo: NEW TRANSLATION
-  upgrade_airforce_department_desc: "§WOdbor leteckého zpravodajství bude užitečnou součástí naší agentury; bude zodpovědný za infiltrace nepřátelského letectva a shromažďování informací o pohybu nepřátelských letounů.§!" # todo: NEW TRANSLATION
-  upgrade_passive_defense: "Kontrarozvědka" # todo: NEW TRANSLATION
-  upgrade_passive_defense_desc: "§WZahraniční agenti působící na našem území představují vážné riziko národní bezpečnosti. Musíme investovat do naší kontrarozvědkové kapacity, abychom minimalizovali hrozbu, kterou tito agenti představují pro naši zemi.§!" # todo: NEW TRANSLATION
-  upgrade_anti_partisan: "Protipovstalecká opatření" # todo: NEW TRANSLATION
-  upgrade_anti_partisan_desc: "§W21. století zaznamenalo dramatický nárůst asymetrické války proti nestátním skupinám. Bylo by nerozumné opomíjet tyto „nové války“ v tréninku našich operativů.§!" # todo: NEW TRANSLATION
-  upgrade_blueprint_stealing: "Průmyslová špionáž" # todo: NEW TRANSLATION
-  upgrade_blueprint_stealing_desc: "§WVíme, že naši nepřátelé mají tajné projekty experimentálních zbraní a vozidel. Nevíme však přesně, jaké projekty to jsou a co staví. Prolomením tajných oddělení zbraní našich nepřátel získáme příležitost zjistit, co plánují použít proti nám, a dostaneme jedinečnou příležitost využít tyto informace k rozvoji našeho vlastního zbrojního oddělení.§!" # todo: NEW TRANSLATION
-  upgrade_portable_radios: "Zabezpečená komunikace" # todo: NEW TRANSLATION
-  upgrade_portable_radios_desc: "§WKdyž jsou naši agenti v terénu, je naprosto zásadní, aby mohli komunikovat bez strachu, že budou kompromitováni nepřítelem. Zabezpečené komunikační kanály jsou klíčem k ochraně identit a životů našich operativů.§!" # todo: NEW TRANSLATION
-  upgrade_invisible_ink: "Skryté odposlouchávací zařízení" # todo: NEW TRANSLATION
-  upgrade_invisible_ink_desc: "§WVydělané odposlouchávací zařízení jsou důležitým nástrojem moderního operativce, který mu umožňuje naslouchat soukromým konverzacím. Vývoj špionážních odposlechů, které lze rozmístit na klíčových místech, významně zlepší naše zpravodajské schopnosti.§!" # todo: NEW TRANSLATION
-  upgrade_plastic_explosives: "Improvizované výbušné prostředky" # todo: NEW TRANSLATION
-  upgrade_plastic_explosives_desc: "§WIEDy se staly nepostradatelnou zbraní pro nestátní ozbrojené skupiny po celém světě. Navzdory jejich jednoduché konstrukci mají obrovský ničivý potenciál. IEDy pomáhají vyrovnávat šance mezi neuspořádanými skupinami insurgentů a profesionálními ozbrojenými silami s obrněnými vozidly. Zatímco insurgenti, které podporujeme v zahraničí, si jistě budou moci vyrobit IED sami, můžeme jim poskytnout sofistikovanější technologii, abychom maximalizovali ničivost a spolehlivost jejich zařízení. Tímto způsobem můžeme udeřit na naše zahraniční nepřátele a zachovat věrohodnost.§!" # todo: NEW TRANSLATION
-  upgrade_suicide_pills: "Sebevražedné pilulky" # todo: NEW TRANSLATION
-  upgrade_suicide_pills_desc: "§WAčkoli nežádoucí, je nevyhnutelné, že několik agentů bude nepřáteli zajato. Musíme našim agentům nabídnout způsob, jak uniknout hrůám, které je čekají v místnosti výslechu, a cyanidová pilulka namísto zubu jim poskytne útěk, pokud k takové situaci dojde.§!" # todo: NEW TRANSLATION
-  upgrade_training_centers: "Zahraniční náborová centra" # todo: NEW TRANSLATION
-  upgrade_training_centers_desc: "§WZatímco naši agenti se dokážou přizpůsobit jakémukoli prostředí, kulturní normy a jazyky cizích zemí vycházejí přirozeněji těm, kteří se v dané kultuře narodili a vyrostli. Pokud chceme vybudovat celosvětovou síť špionů, musíme rozšířit nábor a výcvik po celém světě a najmout agenty všech kultur a původů.§!" # todo: NEW TRANSLATION
-  upgrade_commando_training: "Černé operace" # todo: NEW TRANSLATION
-  upgrade_commando_training_desc: "§WSome of the tasks that our intelligence agency will be forced to perform require the utmost secrecy. These special activities demand the training of operatives, recruited from our country's special forces, who can perform paramilitary activities in dangerous conditions. It is not enough for these operatives to be willing to die for their country. They must also be willing to be abandoned by their country and publicly renounced should they fail in their mission.§!" # todo: NEW TRANSLATION
-  upgrade_interrogation_techniques: "Výslechové techniky" # todo: NEW TRANSLATION
-  upgrade_interrogation_techniques_desc: "§WOften it can be more effective to break an enemy agent's mind rather than their body. The use of physical force is unreliable and often results in false information; a truly skilled interrogator is capable of breaking the enemy's will without violence. But, if it comes to that, we have ways of making them talk...§!" # todo: NEW TRANSLATION
-  upgrade_diplo_training: "Diplomatické školení" # todo: NEW TRANSLATION
-  upgrade_diplo_training_desc: "§WTrénování našich agentů, aby podpláceli několik zahraničních investorů a diplomatů, může je přesvědčit o prospěšnosti našeho poslání a odvrátit jejich zájmy od nepřátel státu.§!" # todo: NEW TRANSLATION
-  upgrade_psycho_warfare: "Psychologická válka" # todo: NEW TRANSLATION
-  upgrade_psycho_warfare_desc: "§WPropaganda byla účinným nástrojem k prosazování našich ideologických zájmů v rámci našeho státu, ale žádný nástroj není tak účinný jako šíření strachu z režimů nepřátel a toho, co by mohli do země přinést. Sloučením našich agentů s antiideologickými hnutími v zahraničí se staneme mnohem účinnějšími při šíření naší ideologie po celém světě...§!" # todo: NEW TRANSLATION
-  upgrade_form_department: "Zřízení Divize kybernetické bezpečnosti" # todo: NEW TRANSLATION
-  upgrade_form_department_desc: "§WCybernetická bezpečnost je obranou našeho sítového prostředí proti kybernetickým útokům. Zřízení divize kybernetické bezpečnosti nám pomůže lépe zaměřit naši zpravodajskou agenturu na tuto moderní formu sběru zpravodajství.§!" # todo: NEW TRANSLATION
-  upgrade_decryption_boost: "Kybernetická válka" # todo: NEW TRANSLATION
-  upgrade_decryption_boost_desc: "§WK​ybernetická válka je používání technologií k útoku na cizí stát. Kybernetické útoky mohou mít širokou škálu podob, od jednoduchých, ale účinných útoků typu DoS až po nahrání sofistikovaných malware programů. Moderní stát musí být schopen provádět ofenzivní operace na souši, v moři, ve vzduchu a v kyberprostoru, jinak hrozí zaostání.§!" # todo: NEW TRANSLATION
-  upgrade_decryption_boost_2: "Strojově asistované dešifrování" # todo: NEW TRANSLATION
-  upgrade_decryption_boost_2_desc: "§VDůsledky strojů se ukázaly jako užitečné při šifrování dat, a strojově asistované šifrování signálů bývá nejvíce obtížně luštitelné. Kryptanalytické stroje jsou nezbytné pro prolomení zpráv, jejichž kód ještě neznáme, a budou cenným přínosem pro náš tým pro dešifrování.§!" # todo: NEW TRANSLATION
-  upgrade_crypto_strength: "Posílené šifrování" # todo: NEW TRANSLATION
-  upgrade_crypto_strength_desc: "§WCitlivé informace jsou zranitelné vůči externím hackerům při přenosu mezi různými odděleními nebo jednotlivci. Musíme zajistit, aby veškerá interní komunikace byla dostatečně šifrována, aby zůstala v bezpečí před zvědavými zraky.§!" # todo: NEW TRANSLATION
-  upgrade_crypto_strength_2: "Strojové učení" # todo: NEW TRANSLATION
-  upgrade_crypto_strength_2_desc: "§WPokroky v umělé inteligenci umožnily začlenění strojového učení do kybernetických systémů. To umožní našim systémům učit se z minulých útoků, zabraňovat budoucím útokům a reagovat dynamicky, když útoky nastanou.§!" # todo: NEW TRANSLATION
-  TRAINING_FACILITIES_ENABLED: "Odemknout rozhodnutí pro stavbu výcvikových zařízení" # todo: NEW TRANSLATION
-  CRYPTO_DEPARTMENT_ENABLED: "Odemknout Divizi kybernetické bezpečnosti" # todo: NEW TRANSLATION
-  CREATE_AGENCY_BUTTON: "Vytvořit agenturu" # todo: NEW TRANSLATION
-  CANCEL_AGENCY_CREATION_TOOLTIP: "Zrušit vytvoření Zpravodajské agentury" # todo: NEW TRANSLATION
-  CANCEL_AGENCY_CREATION_MESSAGE: "Opravdu chcete §Rzrušit§! vytvoření Zpravodajské agentury?" # todo: NEW TRANSLATION
-  CANCEL_AGENCY_UPGRADE_TOOLTIP: "Zrušit vylepšení Zpravodajské agentury" # todo: NEW TRANSLATION
-  CANCEL_AGENCY_UPGRADE_MESSAGE: "Opravdu chcete §Rzrušit§! toto vylepšení Zpravodajské agentury?" # todo: NEW TRANSLATION
-  CREATE_AGENCY_BUTTON_PROGRESS: "Agentura se vytváří..." # todo: NEW TRANSLATION
-  CREATE_AGENCY_BUTTON_TOOLTIP: "§GKlik§! k zahájení výstavby Zpravodajské agentury." # todo: NEW TRANSLATION
-  CREATE_AGENCY_BUTTON_TOOLTIP_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! pro vytvoření Agentury§! (můžete použít $CURRENT|H$ továren a potřebujete $NEEDED|H$)." # todo: NEW TRANSLATION
-  CREATE_AGENCY_MODIFIER_NAME: "Vytvoření agentury" # todo: NEW TRANSLATION
-  CREATE_AGENCY_BLOCKED: "§RZablokováno§!" # todo: NEW TRANSLATION
-  CREATE_AGENCY_SLOW: "§RChybí vám Civilní továrny.\nToto zpomalí postup o $MALUS|%0$§!" # todo: NEW TRANSLATION
-  AGENCY_UPGRADE_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! pro upgrade vaší Agentury§! (můžete použít $CURRENT|H$ továren a potřebujete $NEEDED|H$)." # todo: NEW TRANSLATION
-  CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON: "§GKlik§! pro změnu názvu a insignie." # todo: NEW TRANSLATION
-  STATUS_NO_AGENCY_NO_OPERATIVE: "Operativci nemohou být najímáni, dokud nezřídíte Agenturu." # todo: NEW TRANSLATION
-  STATUS_NO_AGENCY_UPGRADE: "Žádné vylepšení není v procesu." # todo: NEW TRANSLATION
-  STATUS_NO_OPERATIVE_RECRUITED: "Žádný agent nebyl najatý." # todo: NEW TRANSLATION
-  STATUS_RECRUIT_OPERATIVE: "Najímání operativce" # todo: NEW TRANSLATION
-  CRYPTOLOGY: "Kybernetická bezpečnost" # todo: NEW TRANSLATION
-  CRYPTOLOGY_DEPARTMENT: "Divize kybernetické bezpečnosti" # todo: NEW TRANSLATION
-  OPERATIVES: "Operativci" # todo: NEW TRANSLATION
-  OPERATIVE: "Operativec" # todo: NEW TRANSLATION
-  OPERATIVE_SLOT: "Slot operativce" # todo: NEW TRANSLATION
-  NUM_OPERATIVE_SLOTS: "Sloty operativc: $NUM|H$" # todo: NEW TRANSLATION
-  SLOTS_FROM_AGENCY_UPGRADES: "Z vylepšení agentury: $NUM|+=$" # todo: NEW TRANSLATION
-  SLOTS_FROM_FACTION_MEMBERS: "Z členů frakce: $NUM|+=$" # todo: NEW TRANSLATION
-  OPERATIVE_CAPTURED: "Operativci zajati nepřítelem" # todo: NEW TRANSLATION
-  OPERATIVE_KILLED: "Operativci zabiti nepřítelem" # todo: NEW TRANSLATION
-  OPERATIVE_COUNT: "Najatí operativci: $COUNT|H$" # todo: NEW TRANSLATION
-  AVAILABLE_SLOTS: "Dostupné sloty: $SLOTS|H$" # todo: NEW TRANSLATION
-  OPERATIONS: "Operace" # todo: NEW TRANSLATION
-  OPERATIONS_REINFORCEMENT_COLLECTING_ENTRY_HEADER: "$OPERATION|Y$ proti $COUNTRY|Y$" # todo: NEW TRANSLATION
-  AGENCY_DEFENSE_LEVEL: "Protispionáž: $LEVEL|H$" # todo: NEW TRANSLATION
-  AGENCY_DEFENSE_LEVEL_TITLE: "Protispionáž" # todo: NEW TRANSLATION
-  AGENCY_DEFENSE_LEVEL_DESC: "Protispionáž se používá k bránění nepřátelským agentům. Čím vyšší je, tím pravděpodobněji zastavíte agentům a operace proti vám budou trvat déle a stát více." # todo: NEW TRANSLATION
-  CAN_RECRUITE_OPERATIVE: "§GKlik§! pro nábor agenta do tohoto slotu." # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_NO_SLOT: "§RŽádný dostupný slot pro nábor agenta§!" # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "První slot získáte vybudováním Zpravodajské agentury. Další sloty budou k dispozici po pátém upgradu nebo po přiřazení poradce §HIllusive Gentleman§!. \nJako šéf špionáže budou další sloty agentů odemykány díky většímu počtu zemí ve vaší frakci. Puppets nebo země s velmi nízkou produkcí továren nepřispívají k dalším slotům agentů." # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER: "Maximální počet agentů je $NUMBER|H$." # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED: "§RAgent je v tréninku a bude k dispozici za $DAYS|H$ dní§!" # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED: "§RZpravodajská agentura ještě nebyla vytvořena§!" # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_AGENCY_BEING_CREATED: "§RZpravodajská agentura je ve fázi tvorby ($DAYS_TEXT$)§!" # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER: "§RŽádný agent není k dispozici v žádné frakci. Agent je v tréninku a bude k dispozici za $DAYS|H$ dní§!" # todo: NEW TRANSLATION
-  CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS: "§RŽádné volné sloty k dispozici§!" # todo: NEW TRANSLATION
-  OPERATIVE_SLOT_LOCKED_DESC: "Najměte a přiřaďte agenta do tohoto slotu. Jakmile jej získáte, slot bude k dispozici po určité době. Zabití agenta nebo, jako šéf špionáže, ztráta členů frakce znovu uzamknou sloty." # todo: NEW TRANSLATION
-  OPERATIVE_SLOT_LOCKED: "§RSlot uzamčen§!" # todo: NEW TRANSLATION
-  OPERATIVE_SLOT_UNLOCK_IN_DAYS: "Tento slot se odemkne za $DAYS|H$ dní." # todo: NEW TRANSLATION
-  OPERATIVE_SLOT_QUEUED: "Jiný slot je již odemykán." # todo: NEW TRANSLATION
-  OPERATIVE_SLOT_QUEUED_STATUS: "Ve frontě" # todo: NEW TRANSLATION
-  SELECT_OPERATIVE_TITLE: "Vyberte agenta k přiřazení" # todo: NEW TRANSLATION
-  RECRUIT_OPERATIVE_TITLE: "Vyberte agenta k najmutí" # todo: NEW TRANSLATION
-  OPERATIONS_NOT_ACTIVE: "Operace nejsou k dispozici, dokud agent nevybuduje Informační síť." # todo: NEW TRANSLATION
-  OPERATIONS_NOT_ACTIVE_DESC: "Najměte agenta pro povolení operací." # todo: NEW TRANSLATION
-  OPERATIVE_GENERIC_CODENAME_PATTERN: "Operativci $NR$" # todo: NEW TRANSLATION
-  OPERATIVE_HAS_CAPTURED: "Má zajatého agenta země $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ASSIGNMENT_WILL_REASSIGN_OPERATIVES: "§RWill reassign agents in the network:§!\n  $CODENAME$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_NO_MISSION_TITLE: "Nepřiřazeno" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_NO_MISSION_ACTION: "Nepřiřazeno" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_NO_MISSION_TT: "Momentálně neaktivní" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TITLE: "Vytvořit Informační Síť" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ACTION: "Vytváření Informační Síť" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TT: "Vytváření Informační sítě ze státu $STATE|H$ v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné státy. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_DESC: "§LVytvořte síť místních informátorů a dalších kontaktů v cílovém státě a jeho okolí.§!\n§HDenní síla Informační sítě: $BASE$§!\n  Základ: $BASE|G$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|1£ pro vybudování Informační sítě v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BUILD_INTEL_NETWORK_INVALID_TARGET: "Nelze vybudovat síť v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TITLE: "Tichá Informační Síť" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ACTION: "Uspání Informační sítě" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TT: "Uspání Informační sítě v $STATE|H$ v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné státy. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_DESC: "§LUdržujte síť místních informátorů a dalších kontaktů a minimalizujte riziko odhalení.§!\nZabraňuje ztrátě §YSíly Informační sítě§! během nečinnosti sítě." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|2£ Tiché Informační Síti v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_INVALID_TARGET: "Nelze přiřadit k Tiché Informační Síti v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TITLE: "Protispionáž" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ACTION: "Bránění proti subverzivním útokům" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TT: "Bránění proti subverzivním útokům na našem domovském území" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné země. Poté §Gklik§! na zemi pro zahájení mise.\n§GPravým klikem§! zahájíte misi v našem domovském státě." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_DESC: "§LOperujte ve své zemi nebo zemi spojence, abyste odradili zahraniční agenty od provádění subverzních akcí.§!\n§HPříspěvek protispionáže: $BASE|1=$§!\n  Základ: $BASE|2+$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_VALID_TARGET: "§GKlik§! pro přiřazení $CODENAME|H$ k £agent_mission_icons_small|3£ Protispionáž v $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_INVALID_TARGET: "§R$COUNTRY|H$ není spojencem§!" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TITLE: "Odstranit odpor" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ACTION: "Odstranění odporu" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TT: "Odstranění odporu v $FLAG$ $COUNTRY_ADJ|H$ v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodný stát. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_DESC: "§LVnikněte do odbojových hnutí na přátelském území, abyste je narušili a rozložili.§!\n$EFFECTS|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|4£ Odstranit odpor v $STATE|H$ a sousedních státech" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_INVALID_TARGET: "Nelze Root Out Resistance v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_TITLE: "Podpora ideologie" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION: "Posilování ideologie" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_TT: "Posilování ideologie $IDEOLOGY|H$ v $COUNTRY|H$ o $VALUE|H$ za den" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné cílové země. Poté §Gklik§! na zemi pro výběr ideologie k posílení." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC: "§LZvyšte podporu místní politické strany.§!\n§YDenní podpora ideologie: $BASE|1=$§!\n  Základ: $BASE|1G$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET: "§GKlik§! pro výběr ideologie a přiřazení $CODENAME|H$ k £agent_mission_icons_small|5£ Posílení ideologie v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET: "Nelze přiřadit agenty k posílení ideologie v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC: "Zvýšení podpory ideologie $IDEOLOGY|H$ o $VALUE|H$ za den" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC: "Zvýšení popularity strany $PARTY|H$, která má aktuální podporu $SUPPORT|H$, o $VALUE|H$ za den" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY: "$OPERATIVE|H$: $VALUE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_TITLE: "Řízení obchodu" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_ACTION: "Ovládání obchodu" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_TT: "Zlepšování obchodní pověsti země $COUNTRY_ADJ|H$ vůči nám o $VALUE|H$ denně" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_ASSIGNMENT_DESC: "§GKlikněte§! vyznačí vhodné země. Poté §GKlikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_DESC: "§LOvlivníme náš obchodní názor v cílové zemi, čímž získáme větší podíl na jejich exportu surovin.§!\n§HDenní obchodní názor: $BASE|=1$§!\n  Základ: $BASE|+1$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|6£ pro řízení obchodu v $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_INVALID_TARGET: "Nelze řídit obchod v $COUNTRY|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS: "Doposud jsme vylepšili náš obchodní názor o $CURRENT|H$/$MAX|H$. Momentálně máme celkový obchodní názor $EFFECTIVE|=H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TITLE: "Diplomatický nátlak" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION: "Uplatňování diplomatického nátlaku" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TT: "Uplatňování diplomatického nátlaku na $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ASSIGNMENT_DESC: "§GKlikněte§! vyznačí vhodné země. Poté §Gklikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC: "§LOvlivněte AI řízenou zemi, aby upřednostňovala vaši frakci a smlouvy o neútočení. Hráčské země budou mít zpřísněné restrikce pro vstup do jiných frakcí.§!\n§HDenní diplomatický nátlak: $BASE_ACCEPTANCE$§!\n  Základ: $BASE_ACCEPTANCE|G$\n§HDenní světová tenze požadavky: -$BASE_TENSION|%$§!\n  Základ: §G-§!$BASE_TENSION|%G$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|7£ Diplomatický nátlak v $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_INVALID_TARGET: "Nelze provést Diplomatický nátlak v $COUNTRY|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_TITLE: "Propagace" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_ACTION: "Propagace" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_TT: "Snižování stability o $STABILITY|H2%$ a válečné podpory o $WAR_SUPPORT|H2%$ denně v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_ASSIGNMENT_DESC: "§GKlikněte§! pro vyznačení vhodných cílových zemí. Poté §Gklikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_DESC: "§LDestabilizujte vnitřní politiku v zemi, aby klesla jejich stabilita a válečná podpora§!.\n§HDenní změna stability: -$BASE_STABILITY|2%$§!\n  Základ: §G-§!$BASE_STABILITY|2%G$\n§HDenní změna válečné podpory: -$BASE_WAR_SUPPORT|2%$§!\n  Základ: §G-§!$BASE_STABILITY|2%G$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_VALID_TARGET: "Přiřaďte $CODENAME$ k £agent_mission_icons_small|8£ Propagace v $STATE|H$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_INVALID_TARGET: "Nelze zahájit propagandu ve $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_NO_INTEL_NETWORK_AGAINST_TARGET: "Je vyžadována špionážní síť" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_TOO_WEAK: "Špionážní síť není dostatečně velká" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_IS_QUIET: "Špionážní síť je neaktivní" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_NO_IDEOLOGY_TO_BOOST: "Žádné vhodné ideologie k posílení" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_INELIGIBLE_STATE: "Není vhodný stát pro zahájení mise" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_NOT_A_CONTROLLER_OF_THE_STATE: "Nemáte pod kontrolou tento stát" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_NOT_AN_ALLY: "Lze cílit jen na spojence" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_NO_RESISTANCE_ACTIVITY_IN_STATE: "Žádná aktivita odboje v tomto státě" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ALLY: "Nelze cílit na spojence" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ENEMY: "Nelze cílit na nepřítele" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_SELF: "Nelze cílit na sebe" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_WE_ARE_NOT_IN_FACTION: "Nejsme ve frakci" # todo: NEW TRANSLATION
-  OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_MEMBER_OF_FACTION_WE_ARE_AT_WAR_WITH: "Nelze cílit na člena frakce, se kterou jsme ve válce" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_RECEIVE: "Obdržíte $TOKEN|H$ ve $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_REMOVE: "Odeberte $TOKEN|H$ v $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_COMPLETE: "Pokud je toto pole zaškrtnuto, a splněny jsou všechny požadavky, operace se spustí §Yautomaticky§!." # todo: NEW TRANSLATION
-  OPERATION_VIEW_COLLECTING: "Příprava..." # todo: NEW TRANSLATION
-  OPERATION_VIEW_PROGRESS: "Probíhá..." # todo: NEW TRANSLATION
-  OPERATION_VIEW_CLOSE: "Zavřít" # todo: NEW TRANSLATION
-  OPERATION_VIEW_COMPLETED: "Dokončeno" # todo: NEW TRANSLATION
-  OPERATION_VIEW_LAUNCH_LAUNCH: "Spustit operaci." # todo: NEW TRANSLATION
-  OPERATION_VIEW_LAUNCH_LAUNCH_DELAYED: "Jakmile to uděláte, operaci nebude možné zastavit a vaši agenti nebudou moci dělat nic jiného po dobu trvání operace." # todo: NEW TRANSLATION
-  OPERATION_VIEW_LAUNCH_COLLECTING: "Aktuálně se připravujeme na spuštění operace tím, že shromažďujeme veškeré potřebné zdroje." # todo: NEW TRANSLATION
-  OPERATION_VIEW_LAUNCH_PREPARE: "§GKlikněte§! pro zahájení příprav této operace." # todo: NEW TRANSLATION
-  OPERATION_VIEW_LOCATION: "Vyberte cílový stát pro tuto operaci." # todo: NEW TRANSLATION
-  OPERATION_VIEW_LOCATION_MORE: "Oprávněné cílové státy musí splnit následující kritéria:" # todo: NEW TRANSLATION
-  OPERATION_VIEW_REFUND_GENERAL: "Můžete operaci vrátit před jejím zahájením a získat zpět veškeré shromážděné vybavení." # todo: NEW TRANSLATION
-  OPERATION_VIEW_REFUND: "Vraťte veškeré zdroje, které byly shromážděny při přípravě této operace." # todo: NEW TRANSLATION
-  OPERATION_VIEW_REFUND_NOT: "Nelze zrušit operaci, která byla již zahájena." # todo: NEW TRANSLATION
-  OPERATION_VIEW_SELECT_TARGET: "Zvolte cíl" # todo: NEW TRANSLATION
-  EFFECT_STEAL_RANDOM_TECH: "Získáte poznatky o pokročilé technologii, kterou prozkoumali a my ne." # todo: NEW TRANSLATION
-  EFFECT_STEAL_RANDOM_TECH_INSTANT: "Ukrademe plány náhodné technologie, kterou prozkoumali a my ne." # todo: NEW TRANSLATION
-  EFFECT_STEAL_RANDOM_CATEGORY_TECH_COMPLETE: "Získali jsme bonus pro následující kategorii: $TECH|H$" # todo: NEW TRANSLATION
-  EFFECT_STEAL_RANDOM_TECH_COMPLETE: "Získali jsme poznatky o pokročilé technologii: $TECH|H$" # todo: NEW TRANSLATION
-  EFFECT_STEAL_RANDOM_TECH_INSTANT_COMPLETE: "Ukradli jsme plány pokročilé technologie: $TECH|H$" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH: "§RNemáte požadovanou sílu sítě $PERC|H$§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_NO_OPERATIVE_ON_NETWORK: "§RNa této síti neoperuje žádný agent§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_INSUFFICIENT_OPERATIVES: "§RNemáte minimální požadovaný počet $NUM|H$ agentů.§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_INSUFFICIENT_RESOURCES: "§RJeště jsme nezískali potřebné zdroje.§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_INSUFFICIENT_REQUIREMENTS: "§RJeště jsme nesplnili všechny požadavky pro tuto operaci.§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_MISSING_TOKEN: "§RChybí požadovaná infiltrační pomůcka: $TOKEN|H$§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET: "§RMusíte vybrat cílový stát pro tuto operaci.§!" # todo: NEW TRANSLATION
-  OPERATION_VIEW_REQUIREMENTS: "Požadavky" # todo: NEW TRANSLATION
-  OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS: "$PROGRESS|H$ % práce civilních továren bylo dokončeno." # todo: NEW TRANSLATION
-  OPERATION_VIEW_BASE_DURATION: "Základní trvání: $DAYS|H$ dní" # todo: NEW TRANSLATION
-  OPERATION_VIEW_DURATION_MALUS_REPETITION: "Operace opakována: $VALUE|=-%" # todo: NEW TRANSLATION
-  OPERATION_VIEW_DURATION_MALUS_DEFENSE: "Protizpravodajský zásah nepřítele: $VALUE|=-%" # todo: NEW TRANSLATION
-  OPERATION_NOT_ALL_OPERATIVES_ASSIGNED: "Není přiřazeno všech agentů." # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_COMMENCE: "Spustit, až bude připraveno" # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_REPEAT: "Automaticky opakovat" # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_REPEAT_FAIL: "Automatické opakování selhalo" # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_REPEAT_FAIL_DESC: "Nebyl(a) schopen(a) automaticky opakovat $OPERATION|H$ proti $TARGET|H$" # todo: NEW TRANSLATION
-  OPERATION_VIEW_AUTO_REPEAT_TIP: "Vyberte pro opakování operace po dokončení, pokud jsou požadavky stále splněny." # todo: NEW TRANSLATION
-  OPERATION_VIEW_OPERATIVE_NOT_AVAILABLE: "Alespoň jeden z přiřazených agentů momentálně není k dispozici pro zahájení této operace" # todo: NEW TRANSLATION
-  OPERATION_VIEW_OPERATION_ALREADY_IN_PROGRESS: "Operace je již v probíhající fázi" # todo: NEW TRANSLATION
-  OPERATION_VIEW_OPERATION_NOT_POSSIBLE_OR_AVAILABLE: "Operace již není možná ani k dispozici" # todo: NEW TRANSLATION
-  OPERATION_OPERATIVE_ASSIGNMENT_NOT_ANYMORE: "Agenti nelze odvolat, jakmile byli odesláni na operaci" # todo: NEW TRANSLATION
-  OPERATION_OPERATIVE_ASSIGNMENT_NOT_YET: "Agenty lze přiřadit, až začnete shromažďovat zdroje pro operaci" # todo: NEW TRANSLATION
-  OPERATION_CIVILIAN_FACTORIES_NOT_PREPARED_YET: "Ještě jsme nedokončili přípravu operace, protože naše civilní továrny jsou stále využívány." # todo: NEW TRANSLATION
-  OPERATION_REQUIREMENT_FULFILLED: "Získali jste $HAS|H$/$NUM|H$ jednotek $NAME|H$." # todo: NEW TRANSLATION
-  OPERATION_REQUIREMENT_NEEDED: "Budete potřebovat shromáždit $NUM|H$ jednotek $NAME|H$." # todo: NEW TRANSLATION
-  OPERATION_REQUIREMENT_CIVILIAN_FACTORIES: "$FACTORIES|H$ během $NUM|H$ dní" # todo: NEW TRANSLATION
-  OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET: "Váš postup je momentálně zpomalen, protože nemáte dostatek civilních továren." # todo: NEW TRANSLATION
-  EFFECT_FREE_RANDOM_OPERATIVE: "Vysvobodíme jednoho z našich agentů z zajetí v $COUNTRY|H$" # todo: NEW TRANSLATION
-  EFFECT_FREE_RANDOM_OPERATIVE_SUCCESS: "Podařilo se nám vysvobodit našeho agenta $OPERATIVE|H$ z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
-  EFFECT_FREE_RANDOM_OPERATIVE_ALL: "Vysvobodíme všechny naše agenty z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
-  EFFECT_FREE_RANDOM_OPERATIVE_ALL_SUCCESS: "Úspěšně jsme vysvobodili všechny naše agenty z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
-  EFFECT_FREE_RANDOM_OPERATIVE_FAILURE: "Nepodařilo se nám včas zachránit žádného z našich agentů z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
-  OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GKlikněte§! pro zobrazení podrobností." # todo: NEW TRANSLATION
-  OPERATION_ONMAP_CLICK_FOR_MORE: "§GKlikněte§! pro zobrazení dalších operací" # todo: NEW TRANSLATION
-  OPERATION_ONMAP_STATUS_COMPLETED: "Operace byla dokončena." # todo: NEW TRANSLATION
-  OPERATION_ONMAP_STATUS_IN_PROGRESS: "Operace bude dokončena $DATE|H$" # todo: NEW TRANSLATION
-  OPERATION_ONMAP_STATUS_NOT_READY: "Operace ještě není připravena k zahájení." # todo: NEW TRANSLATION
-  OPERATION_ONMAP_STATUS_READY: "Operace je připravena k zahájení!" # todo: NEW TRANSLATION
-  SELECT_STATE_ON_CLICK: "§GKlikněte§! pro výběr tohoto státu jako cíle." # todo: NEW TRANSLATION
-  SELECT_STATE_ON_CLICK_DISABLED: "§RNemůžete vybrat tento stát jako cíl.§!" # todo: NEW TRANSLATION
-  SELECT_REGION_ON_CLICK: "§GKlikněte§! pro výběr této oblasti jako cíle." # todo: NEW TRANSLATION
-  SELECT_REGION_ON_CLICK_DISABLED: "§RNemůžete vybrat tuto oblast jako cíle.§!" # todo: NEW TRANSLATION
-  OPERATION_HAS_TOKEN: "Má $NAME|H$" # todo: NEW TRANSLATION
-  OPERATION_HAS_TOKEN_NOT: "Nemá $NAME|H$" # todo: NEW TRANSLATION
-  OPERATION_EXPLANATION_FOR_TOKEN_ACCESS: "§HThe infiltration assets that you can get will lead to the following operations:§!" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_PLURAL: "§HInfiltration Assets§!" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Infiltration letectva" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Z infiltrace letectva země." # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_ARMY: "Infiltrace armády" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_ARMY_DESC: "Z infiltrace armády země." # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_CIVILIAN: "Infiltrace civilní vlády" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC: "Z infiltrace civilní vlády země." # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_NAVY: "Infiltrace námořnictva" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_NAVY_DESC: "Z infiltrace námořnictva země." # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS: "Kontakty s odbojem" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC: "Navázal kontakty s místním odbojem." # todo: NEW TRANSLATION
-  PREPARED_OPERATION_REFUND_TOOLTIP: "Operace bude refundována za $DAYS|R$ dní." # todo: NEW TRANSLATION
-  DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT: "Změna požadavků na §Ynázor§! o $DRIFT|H$ za den" # todo: NEW TRANSLATION
-  DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT: "Změna požadavků na §Ynapětí§! o $DRIFT|1%H$ za den" # todo: NEW TRANSLATION
-  QUIET_INTEL_NETWORK_IN_STATE_DESC: "§RSíť je neaktivní§!\nSíť je udržována, ale její účinky nejsou k dispozici a nelze ji použít k zahájení operace." # todo: NEW TRANSLATION
-  INTEL_NETWORK_IN_STATE: "Intel síť ve státě $STATE|H$ $FLAG$" # todo: NEW TRANSLATION
-  NO_INTEL_NETWORK_IN_STATE: "Žádná Intel síť ve státě $STATE|H$ $FLAG$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH: "Síla sítě: $STRENGTH|H0%%$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_DAILY_GROWTH: "Denní růst: $GROWTH|H1$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_OVER_CAP: "Nad limit: $VALUE|=+1$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_FROM_OPERATIVE: "Z vlastních agentů: $VALUE|=+1$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_FROM_ADJACENCY: "Z navazujících států: $VALUE|=+1$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR: "Zákon nepřátelské posádky: $VALUE|+%0$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_OUT_OF_RANGE: "Mimo dosah jakýchkoliv agentů: $VALUE|=+1$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_GROWTH_AT_CAP: "Dosažen limit" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_CAP: "Limit síly sítě: $CAP$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_CAP_FROM_OPERATIVE: "Z vlastních agentů: $VALUE|0+=$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_CAP_FROM_COUNTER_INTELLIGENCE: "Cílená kontrarozvědka: $VALUE|0+=$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_NATIONAL_COVERAGE_FROM_CONTROLLED: "Z pokrytých kontrolovaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED: "Z pokrytých ovládaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
-  INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED_WORTH: "Z hodnoty pokrytých ovládaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
-  OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY: "$OPERATIVE|H$: $DEFENSE|+=0$" # todo: NEW TRANSLATION
-  CLICK_DISBAND_OPERATIVE: "§GKlik§! pro odvolání tohoto agenta" # todo: NEW TRANSLATION
-  CLICK_DISBAND_OPERATIVE_DESC: "Po odvolání se agent vrátí do náborového fondu a uvolní své místo pro najmutí nového agenta." # todo: NEW TRANSLATION
-  OPERATIVE_CAPTURED_BY: "§RZajatý $CAPTURER|H$§!" # todo: NEW TRANSLATION
-  OPERATIVE_CAPTURED_DAYS_REMAINING: "§RTento agent bude zabit, pokud nebude během $DAYS|H$ dní zachráněn!§!" # todo: NEW TRANSLATION
-  OPERATIVE_CAPTURED_DESC: "Agent je zadržen. Dozorce provádí výslechy, aby získal informace o naší zemi a operacích. Pokud nebude včas zachráněn, agent bude popraven." # todo: NEW TRANSLATION
-  OPERATIVE_HARMED_IN_MISSION: "§RZraněn/a při misi§!" # todo: NEW TRANSLATION
-  OPERATIVE_HARMED_IN_MISSION_DESC: "Tento agent byl během mise zraněn. Bude mu trvat nějakou dobu na zotavení." # todo: NEW TRANSLATION
-  OPERATIVE_FORCED_INTO_HIDING: "§RNucen do úkrytu§!" # todo: NEW TRANSLATION
-  OPERATIVE_FORCED_INTO_HIDING_DESC: "Tento agent byl během mise odhalen a nucen přerušit kontakt, aby unikl pronásledovatelům. Budou s námi kontaktovat, jakmile se jim podaří uniknout." # todo: NEW TRANSLATION
-  OPERATIVE_AVAILABLE_AGAIN_IN_DAYS: "Tento agent bude znovu k dispozici za $DAYS|H$ dní!" # todo: NEW TRANSLATION
-  OPERATIVE_NAME_AND_CODENAME: "$CODENAME|H$ ($NAME|H$)" # todo: NEW TRANSLATION
-  OPERATIVE_INTEL_NETWORK_GAIN: "Nárůst síly Intel sítě ve státě: $GAIN|+1$" # todo: NEW TRANSLATION
-  OPERATIVE_INTELLIGENCE_AGENCY_DEFENSE: "Přínos k §YProtizpravodajské činnosti§!: $DEFENSE|+1$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_EFFORT: "Denní drift: $VALUE|2$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_STABILITY_DRIFT: "Drift stability: $DRIFT|+2%$/den" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_PROPAGANDA_WAR_SUPPORT_DRIFT: "Drift podpory války: $DRIFT|+2%$/den" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_EFFORT: "Provedení mise s účinností $VALUE|H0%$" # todo: NEW TRANSLATION
-  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_STATE_MODIFIER: "Což se promítne do následujících efektů ve státě" # todo: NEW TRANSLATION
-  OPERATIVE_CODENAME_EDIT: "§GKlik§! pro změnu kódového jména agenta" # todo: NEW TRANSLATION
-  OPERATIVE_SELECT: "Vybrat agenta" # todo: NEW TRANSLATION
-  OPERATIVE_TITLE_DESC: "Úroveň dovedností: $SKILL_LEVEL|H$ ($TITLE|H$)" # todo: NEW TRANSLATION
-  INTEL_NETWORK_STRENGTH_IN_STATE: "Státy pod vlivem Intel sítě: $INFLUENCED|H$/$CONTROLLED|H$" # todo: NEW TRANSLATION
-  PLANNING_SPEED_FROM_LOCAL_INTEL_NETWORK: "Rychlost plánování z místní sítě Intel: $FACTOR|+%$" # todo: NEW TRANSLATION
-  PLANNING_SPEED_FROM_RELATION_MODIFIER: "Bonus rychlosti plánování proti nepřátelům: $FACTOR|+%$" # todo: NEW TRANSLATION
-  START_DECRYPTION: "Spustit instalaci zadního průchodu" # todo: NEW TRANSLATION
-  STOP_DECRYPTION: "Zastavit instalaci zadního průchodu" # todo: NEW TRANSLATION
-  REVEAL_INTEL: "Odhalit Intel\n$DAYS$ dní" # todo: NEW TRANSLATION
-  REVEAL_INTEL_LEFT: "Intel odhalený\n($DAYS$ dní)" # todo: NEW TRANSLATION
-  CLICK_TO_ADD_NEW: "Klikněte na mapu pro přidání země jako cíle." # todo: NEW TRANSLATION
-  CRYPTO_SELECT_A_NON_ALLY_COUNTRY_DESC: "§RMůžete cílit pouze na země, které nejsou spojenci§!" # todo: NEW TRANSLATION
-  CRYPTOLOGY_NOT_ACTIVE: "§RCybersecurity Division has not been established§!" # todo: NEW TRANSLATION
-  CRYPTO_IS_ALREADY_IN_LIST: "§R$COUNTRY|H$ je již v našem seznamu cílů§!" # todo: NEW TRANSLATION
-  CRYPTO_CLICK_TO_ADD_DESC: "Klikněte pro přidání $COUNTRY|H$ do našeho seznamu cílů" # todo: NEW TRANSLATION
-  CRYPTO_DEFENSE_LEVEL: "Úroveň kybernetické bezpečnosti $LEVEL$" # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_STRENGTH: "$STRENGTH|0$£crypto£" # todo: NEW TRANSLATION
-  CRYPTO_NOT_ACTIVE: "Kybernetická bezpečnost není k dispozici, dokud nevytvoříte Divizi kybernetické bezpečnosti v Agenturních větvích." # todo: NEW TRANSLATION
-  CRYPTO_NOT_ACTIVE_DESC: "Vytvořte Divizi kybernetické bezpečnosti, abyste získali přístup k systémům nepřítele." # todo: NEW TRANSLATION
-  CRYPTO_FULLY_DECRYPTED: "Dokončeno" # todo: NEW TRANSLATION
-  CRYPTO_FULLY_ACTIVATED: "Aktivní" # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTING: "Instalace: $DAYS$ dní" # todo: NEW TRANSLATION
-  CRYPTO_NOT_DECRYPTING: "$DAYS$ dní" # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_DESC: "Instalace zadního průchodu: $CURRENT|0H$/$MAX|0H$£crypto£" # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_DESC_ESTIMATION: "S naší aktuální hackingovou schopností a aktivními pokusy nám potrvá $NUM_DAYS|H$ dní, než nainstalujeme zadní průchod do systému nepřítele." # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_DESC_ESTIMATION_IF_STARTED: "Jakmile bude zahájen proces instalace zadního průchodu, potrvá $NUM_DAYS|H$ dní, než úspěšně získáme přístup do systému nepřítele." # todo: NEW TRANSLATION
-  CRYPTO_NO_DECRYPTION: "Momentálně nemáme žádnou dešifrovací schopnost. Vylepšete Divizi kybernetické bezpečnosti, abyste mohli hackovat cizí servery." # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_SPEED_DESC: "Naše země má $POWER|0H$£crypto£ §HHacking Ability§! denně." # todo: NEW TRANSLATION
-  CRYPTO_DECRYPTION_SPEED_DESC_MULTIPLE_COUNTRY_INFO: "Pokud rozdělíme naše hackery příliš tenkým, naše hackovací schopnosti budou sdíleny mezi několika projekty." # todo: NEW TRANSLATION
-  CRYPTO_DEFENSE_LEVEL_DESC: "Naše země má §HCybersecurity Level§! na úrovni $LEVEL|H$ a má $STRENGTH|0H$£crypto_defense£ §HCybersecurity Strength§!.\n\n§HCybersecurity Strength§! určuje, jak dlouho trvá nepřátelům prolomit vaše kybernetické obrany." # todo: NEW TRANSLATION
-  CRYPTO_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC: "V systému nepřítele byl nainstalován zadní průchod. Získáme následující pasivní bonusy proti nepříteli:" # todo: NEW TRANSLATION
-  CRYPTO_NOT_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC: "Jakmile bude zadní průchod nainstalován v systému nepřítele, získáme následující pasivní bonusy proti nepříteli:" # todo: NEW TRANSLATION
-  CRYPTO_CLICK_TO_START_DECRYPTION: "§GKlik§! pro zahájení instalace zadního průchodu" # todo: NEW TRANSLATION
-  CRYPTO_CLICK_TO_STOP_DECRYPTION: "§GKlik§! pro zastavení instalace zadního průchodu" # todo: NEW TRANSLATION
-  CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES: "§GKlik§! pro plné využití přístupu zadního průchodu." # todo: NEW TRANSLATION
-  CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES_2: "Získáme následující bonusy po $NUM|H$ dnech nad pasivními bonusy, ale nepřítel bude vědět o narušení bezpečnosti a přesune svá data do bezpečnějšího systému." # todo: NEW TRANSLATION
-  CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET: "Náš zadní průchod ještě nebyl nainstalován. Jakmile bude, můžete plně využít přístup k zadnímu průchodu k získání bonusů po $NUM|H$ dnech nad pasivními bonusy, ale nepřítel bude vědět o narušení bezpečnosti a přesune svá data do bezpečnějšího systému." # todo: NEW TRANSLATION
-  CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED: "Přístup k zadnímu průchodu byl plně zneužit. Získáte následující bonusy po $NUM|H$ dnech nad pasivními." # todo: NEW TRANSLATION
-  CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL: "Přístup k zadnímu průchodu byl plně zneužit. Získáte následující bonusy po $NUM|H$ dnech:" # todo: NEW TRANSLATION
-  CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE: "Nepřátelský firewall je dole" # todo: NEW TRANSLATION
-  CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC: "Přístup zadního průchodu do $COUNTRY_NAMES|H$ byl získán." # todo: NEW TRANSLATION
-  CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE: "Náš systém byl postižen bezpečnostním průlomením!" # todo: NEW TRANSLATION
-  CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC: "$COUNTRY|H$ nainstaloval zadní průchod do našeho systému a začal široce zpřístupňovat informace získané prostřednictvím jejich zadního průchodu velitelům. Po dobu $NUMDAYS|H$ dnů získají různé bojové bonusy proti nám." # todo: NEW TRANSLATION
-  CRYPTO_DELETE_DECRYPTION: "§RSmazat průběh instalace zadního průchodu§!" # todo: NEW TRANSLATION
-  CRYPTO_DELETE_TITLE: "Smazat průběh" # todo: NEW TRANSLATION
-  CRYPTO_DELETE_DESC: "Opravdu chcete §Rodstranit§! průběh instalace zadního průchodu proti $COUNTRY|H$?" # todo: NEW TRANSLATION
-  CRYPTO_ACTIVATE_TITLE: "Plně využít přístup k zadnímu průchodu" # todo: NEW TRANSLATION
-  CRYPTO_ACTIVATE_DESC: "Opravdu chcete plně §HVyužít§! přístup k zadnímu průchodu do $COUNTRY|H$?\n\nBudou informováni o narušení bezpečnosti a převedou se na bezpečnější systém, čímž skončí aktivní bonusy." # todo: NEW TRANSLATION
-  DECRPYPTION_BONUSES_AIR_TOOLTIP: "§HZadní průchod nainstalován§!\n\nZískáváte následující bonusy proti $COUNTRIES|H$:" # todo: NEW TRANSLATION
-  INTEL_LEDGER: "Intel deník" # todo: NEW TRANSLATION
-  SHOW_INTEL_LEDGER: "Zobrazit Intel deník pro zobrazení informací o ostatních zemích." # todo: NEW TRANSLATION
-  OPERATIVE_NATIONALITY: "Tento agent má národnost $NATIONALITY|H$, což přináší následující bonusy." # todo: NEW TRANSLATION
-  OPERATIVE_NATIONALITY_MISSION_MODIFIERS_HEADER: "§HPři provádění misí v této zemi:§!" # todo: NEW TRANSLATION
-  OPERATIVE_NATIONALITY_OPERATION_MODIFIERS_HEADER: "§HKdyž provádíte operace v této zemi:§!" # todo: NEW TRANSLATION
-  OPERATIVE_NATIONALITY_DESC: "Agent má výhodu při působení v zemi, v níž má občanství.\n\nPoznámka: pro mise Build Intel Network, Quiet Intel Network a Root Out Resistance se země považuje za tu, která je obsazena, a pokud není obsazena, za ovládající stát." # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL: "Úroveň aktivity: " # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_0: "§GNízká§!: Žádná až mírně subverzivní činnost" # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_1: "§YStřední§!: Byla zaznamenána určitá činnost" # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YDůležité§!: Zahraniční mocnosti mají v zemi významný vliv" # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_3: "§RZávažné§!: Vliv zahraniční moci je nepopiratelný" # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_4: "§RKritické§!: Činnosti zahraničních mocností destabilizují zemi" # todo: NEW TRANSLATION
-  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_DESC: "Úroveň aktivity vyjadřuje množství a nebezpečí zahraničních subverzivních aktivit v zemi za posledních několik týdnů." # todo: NEW TRANSLATION
-  ON_OPERATION_STATUS: "Na operaci $OPERATION|H$ v $COUNTRY$" # todo: NEW TRANSLATION
-  OPERATION_ETA_COMPLETED: "§YDokončeno§!" # todo: NEW TRANSLATION
-  OPERATION_OUTLOOK_DESC: "Vyhlídky operace jsou definovány dvěma faktory.\n§HRisk§! udává pravděpodobnost, že některý z vašich agentů bude po dokončení operace dopaden nebo zabit.\n§HBonus Outcome§! dává vašim agentům šanci dosáhnout lepšího výsledku nebo dalších odměn nad základní." # todo: NEW TRANSLATION
-  lar_decryption_bonus_tech: "Hackovací bonus" # todo: NEW TRANSLATION
-  lar_decryption_bonus_tt: "Získáme §G+10 Hackovací schopnost§!" # todo: NEW TRANSLATION
-  lar_decryption_bonus_tech_desc: "Získáme §G+10 Hackovací schopnost§!" # todo: NEW TRANSLATION
-  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_CHECKBOX_LABEL: "Obnovit misi" # todo: NEW TRANSLATION
-  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_TOOLTIP: "Zda se agent vrátí ke misi, na kterou byl přiřazen, po zahájení operace." # todo: NEW TRANSLATION
-  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP: "Tento agent obnoví misi, na kterou byl přiřazen, při zahájení operace." # todo: NEW TRANSLATION
-  OPERATIVE_DISBAND_TITLE: "Propustit agenta" # todo: NEW TRANSLATION
-  OPERATIVE_DISBAND_DESC: "Opravdu chcete §RPropustit§! tohoto agenta? Bude trvat, než si můžete najmout nového agenta." # todo: NEW TRANSLATION
-  upgrade_internal_security: "Vnitřní bezpečnost" # todo: NEW TRANSLATION
-  upgrade_internal_security_desc: "§LZvládání míst uvnitř naší vlastní vlády a ozbrojených sil, která jsou snadno zneužitelná cizími zpravodajskými službami, je nejlepší obranou proti nepřátelským akcím agentů. Vzděláváním personálu ve všech oblastech bezpečnosti a monitorováním důvěryhodného personálu pro rizika v oblastech jako finanční tíže, politické názory či zranitelnost vůči vydírání, můžeme čelit snahám našich nepřátel.§!" # todo: NEW TRANSLATION
-  upgrade_civil_intel: "Civilní zpravodajství" # todo: NEW TRANSLATION
-  upgrade_civil_intel_desc: "§LNe všechna shromažďování zpravodajských informací nutně míří na vojenské cíle nepřítele. Průmyslový rozvoj, výroba a těžba strategických přírodních zdrojů, změny v infrastruktuře, vzdělání a dokonce radikální změny v obecné náladě jsou klíčové faktory určující charakter země ve válce.§!" # todo: NEW TRANSLATION
-  upgrade_military_intel: "Vojenské zpravodajství" # todo: NEW TRANSLATION
-  upgrade_military_intel_desc: "§LPřebytek či nedostatek zásob, stav vojenských rezerv, počet a povaha aktivních či potenciálních členů personálu, charakter vedení, schopnost podpory a rozmístění nepřátelských sil. Tyto věci musíme znát, pokud chceme uspět v konfliktu proti našemu protivníkovi.§!" # todo: NEW TRANSLATION
-  upgrade_maritime_intel: "Námořní zpravodajství" # todo: NEW TRANSLATION
-  upgrade_maritime_intel_desc: "§LZnalost počtu a rozmístění nepřátelských námořních sil je klíčová pro úspěch jakéhokoli námořního konfliktu. Sledování rozhovorů mezi námořním personálem, shromažďování záznamů o spotřebě paliva či munic, i jednoduché počítání počtu lodí v přístavu může snad rozhodnout o úspěchu či neúspěchu jakéhokoli námořního konfliktu.§!" # todo: NEW TRANSLATION
-  upgrade_air_recon: "Letecký průzkum" # todo: NEW TRANSLATION
-  upgrade_air_recon_desc: "§LThough a relatively new aspect of warfare, the projection of air power has quickly become vital to the success of any modern military conflict.  Knowing the strength, range, ability, numbers, movement, and location of enemy air power can rapidly change the scope of any air battle.  And thereby critically shift the balance of any conflict beneath such a contested sky.§!" # todo: NEW TRANSLATION
-  upgrade_humint: "Kontakty & informátoři" # todo: NEW TRANSLATION
-  upgrade_humint_desc: "§LHUMINT, neboli lidské zpravodajství; shromažďování zpravodajských informací prostřednictvím mezilidského kontaktu a poskytovaných lidských zdrojů. Diplomatické hlášení akreditovanými diplomaty, svědectví vojáků či uprchlíků, zprávy od našich agentů, či dokonce výslechy zajatců, vše přispívá k HUMINT.§!" # todo: NEW TRANSLATION
-  upgrade_sigint: "Signály a komunikace" # todo: NEW TRANSLATION
-  upgrade_sigint_desc: "§LCOMINT, neboli zpravodajství z komunikací; shromažďování zpravodajství od zachycení signálů, buď při přímé komunikaci, nebo analýze signálů (známé jako SIGINT).§!" # todo: NEW TRANSLATION
-  upgrade_masint: "Technické a výzkumné" # todo: NEW TRANSLATION
-  upgrade_masint_desc: "§LMASINT, neboli měření a identifikace signatur; řídí technickou formu získávání zpravodajských informací a slouží k detekci, sledování, identifikaci nebo popisu charakteristických rysů pevných či dynamických cílů. Patří sem vědecká či technická data odvozená z analýzy senzorů, ať už radarů, akustiky, či jednoduše praktická analýza zbraní a vybavení získaného z ozbrojených sil cizích zemí.§!" # todo: NEW TRANSLATION
-  upgrade_opsec: "Operační bezpečnost" # todo: NEW TRANSLATION
-  upgrade_opsec_desc: "§LOPSEC; proces ochrany jednotlivých údajů, které by mohly být spojeny dohromady a odhalit klíčové informace, které považují za nezbytné nejvyšší vedení. Tento proces zahrnuje vývoj protiopatření od složitých bezpečnostních protokolů až po jednoduché opatření, které dělá klíčový personál obezřetým vůči snahám o odposlouchávání.§!" # todo: NEW TRANSLATION
-  operative_revolutionary: "Revolucionář" # todo: NEW TRANSLATION
-  operative_revolutionary_desc: "This Operative is a fearless advocate for radical, political change." # todo: NEW TRANSLATION
-  operative_insurgent: "Povstalec" # todo: NEW TRANSLATION
-  operative_insurgent_desc: "This Operative is a skilled guerrilla warrior, trained in the art of asymmetrical battle." # todo: NEW TRANSLATION
-  operative_scientist: "Vědec" # todo: NEW TRANSLATION
-  operative_scientist_desc: "This Operative is highly educated, and commands a powerful intellect." # todo: NEW TRANSLATION
-  operative_web_of_lies: "Síť lží" # todo: NEW TRANSLATION
-  operative_web_of_lies_desc: "Tento operativ je jako pavouk uprostřed sítě. Tkví v ní tajemství ... a lži." # todo: NEW TRANSLATION
-  operative_spyhunter: "Lovec špionů" # todo: NEW TRANSLATION
-  operative_spyhunter_desc: "Tento operativ je zručný v lovu a chytání nepřátelských agentů." # todo: NEW TRANSLATION
-  operative_codebreaker: "Šifrovací expert" # todo: NEW TRANSLATION
-  operative_codebreaker_desc: "Tento operativ má nadání pro používání kódů a šifer." # todo: NEW TRANSLATION
-  spymaster: "Šéf špionáže" # todo: NEW TRANSLATION
-  iron_heart: "Srdce železa" # todo: NEW TRANSLATION
-  spy_hunter: "Lovec špionů" # todo: NEW TRANSLATION
-  army_specops_instructor_1: "Instruktor Spec-Ops\n(Specialista)" # todo: NEW TRANSLATION
-  army_specops_instructor_2: "Instruktor Spec-Ops\n(Expertní)" # todo: NEW TRANSLATION
-  army_specops_instructor_3: "Instruktor Spec-Ops\n(Génius)" # todo: NEW TRANSLATION
-  army_sniper_adherent: "Odstřelovač – stoupenec" # todo: NEW TRANSLATION
-  operative_skill_3: "Speciální agent" # todo: NEW TRANSLATION
-  operative_skill_4: "Veterán" # todo: NEW TRANSLATION
-  operative_skill_5: "Elitní" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATE_TALL: "Příprava sabotáže" # todo: NEW TRANSLATION
-  OPERATION_TOKEN_INFILTRATE_TALL_DESC: "Připravil(a) přípravy na sabotáži." # todo: NEW TRANSLATION
-  operation_prep_sabotage: "Připravte sabotážní operaci" # todo: NEW TRANSLATION
-  operation_prep_sabotage_desc: "§LPokud jim dokážeme dodat správné vybavení, jediný agent může za nepřátelskými liniemi způsobit velké škody.§!" # todo: NEW TRANSLATION
-  TOKEN_AIRFORCE_ICON: "£text_infiltrate_air_token " # todo: NEW TRANSLATION
-  TOKEN_ARMY_ICON: "£text_infiltrate_army_token " # todo: NEW TRANSLATION
-  TOKEN_CIVILIAN_ICON: "£text_infiltrate_civilian_token " # todo: NEW TRANSLATION
-  TOKEN_NAVY_ICON: "£text_infiltrate_navy_token " # todo: NEW TRANSLATION
-  TOKEN_RESISTANCE_ICON: "£text_contact_resistance_token " # todo: NEW TRANSLATION
-  TOKEN_SABOTAGE_ICON: "£text_infiltrate_tall_token " # todo: NEW TRANSLATION
-  INTEL_FOREIGN_ASSETS: "Foreign Assets" # todo: NEW TRANSLATION
-  operation_blow_fuel: "Sabotáže skladů paliva" # todo: NEW TRANSLATION
-  operation_blow_fuel_desc: "Snížíme nepřátelskou schopnost skladovat palivo, při tom zničíme část zásob" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_radar: "Sabotáží radarů" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_radar_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové radarové instalace.§!" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_airbase: "Sabotáže letecké základny" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_airbase_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové letecké instalace.§!" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_dockyard: "Sabotáže loděnice" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_dockyard_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové námořní loděnice.§!" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_naval_base: "Sabotáže přístavního zařízení" # todo: NEW TRANSLATION
-  operation_targeted_sabotage_naval_base_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové námořní základny.§!" # todo: NEW TRANSLATION
-  operation_blow_ship: "Sabotáže námořní lodě" # todo: NEW TRANSLATION
-  operation_blow_ship_desc: "§LI když je pravděpodobné, že náš námořní prostředek s námi po dokončení opět nebude spolupracovat, příležitost zničit nepřátelskou loď by neměla být promarněna.§!" # todo: NEW TRANSLATION
-  ENG_eric_roberts: "Eric Roberts" # todo: NEW TRANSLATION
-  ENG_william_fairbairn: "William Fairbairn" # todo: NEW TRANSLATION
-  ENG_william_stephenson: "William Stephenson" # todo: NEW TRANSLATION
-  FIN_simo_hayha: "Simo Häyhä" # todo: NEW TRANSLATION
-  FRA_louis_rivet: "Louis Rivet" # todo: NEW TRANSLATION
-  GER_otto_skorzeny: "Otto Skorzeny" # todo: NEW TRANSLATION
-  GER_theodor_von_hippel: "Theodor von Hippel" # todo: NEW TRANSLATION
-  GER_reinhard_heydrich: "Reinhard Heydrich" # todo: NEW TRANSLATION
-  ITA_cesare_ame: "Cesare Amè" # todo: NEW TRANSLATION
-  ITA_paolo_aloisi: "Paolo Aloisi" # todo: NEW TRANSLATION
-  JAP_hideo_iwakuro: "Hideo Iwakuro" # todo: NEW TRANSLATION
-  SOV_pavel_sudoplatov: "Pavel Sudoplatov" # todo: NEW TRANSLATION
-  SOV_viktor_abakumov: "Viktor Abakumov" # todo: NEW TRANSLATION
-  SOV_yan_karlovich_berzin: "Yan Karlovich Berzin" # todo: NEW TRANSLATION
-  SOV_viktor_leonov: "Viktor Leonov" # todo: NEW TRANSLATION
-  SOV_vasily_zaitsev: "Vasily Zaitsev" # todo: NEW TRANSLATION
-  TUR_sukru_ali_ogel: "Şükrü Âli Ögel" # todo: NEW TRANSLATION
-  USA_john_j_mccloy: "John J. McCloy" # todo: NEW TRANSLATION
-  USA_jack_h_taylor: "Jack H. Taylor" # todo: NEW TRANSLATION
-  USA_william_n_elizebeth_friedman: "William a Elizebeth Friedman" # todo: NEW TRANSLATION
+ INTELLIGENCEAGENCYVIEW_TITLE: "Zpravodajská agentura" # todo: NEW TRANSLATION
+ SPY_MASTER_STATUS_NONE: "V současné době neexistuje §HŠéf špionáže§!" # todo: NEW TRANSLATION
+ SPY_MASTER_STATUS_OTHER: "$COUNTRY|H$ je v současnosti §HŠéf špionáže§ frakce $FACTION|H$." # todo: NEW TRANSLATION
+ SPY_MASTER_STATUS_YOU: "Jste §HŠéf špionáže§" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_BUTTON: "Stát se §HŠéf špionáže§" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_ALREADY_MASTER: "§RJste již Šéf špionáže§!" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_FACTION_NEEDED: "§RAbyste se stal §HŠéf špionáže§, musíte být ve frakci.§!" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_UPGRADES_NEEDED: "§RAbyste se stal §HŠéf špionáže§, musíte mít agenturu s $NUMBER$ různými vylepšeními poboček.§!" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_NO_SUBJECT: "§RSubjekty nemohou být Šéf špionáže.§!" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_COOLDOWN: "§RDalší země se stala Šéf špionáže naší frakce před méně než $COOLDOWN|H$ dny. Musíme počkat do $DATE|H$, než budeme moci stát se Šéf špionáže.§!" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_COST: "Bude to stát £pol_power $VALUE$ na to, abyste se stal §HŠéf špionáže§!." # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_DESC: "Jako §HŠéf špionáže§! budete moci ovládat více agentů, jejichž počet závisí na velikosti vaší frakce.\nNa jedné frakci může být pouze jeden §HŠéf špionáže§!, a pokud vaše frakce již má §HŠéf špionáže§!, musí s vaším převzetím souhlasit." # todo: NEW TRANSLATION
+ AGENCY_BRANCHES: "Pobočky agentury" # todo: NEW TRANSLATION
+ AGENCY_BRANCHE_UPGRADES: "Vylepšení poboček agentury" # todo: NEW TRANSLATION
+ AGENCY_UPGRADES_DURATION: "Vylepšení poboček trvá $DAYS|H$ dní." # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_CURRENT_EFFECT: "§HAktuální účinek:§!\n" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_NEXT_LEVEL: "§HDalší úroveň:§!\n" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_RESEARCHED: "§GVylepšení prozkoumáno§!" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_IN_PROGRESS: "§HProbíhá vylepšení§!" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_AVAILABLE: "§H§GKlikněte na to§! a spusťte toto vylepšení§!" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_ALREADY_PROGRESS: "§RJiné vylepšení je v procesu§!" # todo: NEW TRANSLATION
+ AGENCY_CREATED_TITLE: "Agentura vytvořena!" # todo: NEW TRANSLATION
+ AGENCY_UPGRADED_TITLE: "Agentura vylepšena!" # todo: NEW TRANSLATION
+ AGENCY_NAME: "Zpravodajská agentura" # todo: NEW TRANSLATION
+ branch_intelligence: "Obecná vylepšení agentury" # todo: NEW TRANSLATION
+ branch_defense: "Obrana" # todo: NEW TRANSLATION
+ branch_operation: "Operace" # todo: NEW TRANSLATION
+ branch_agent: "Školení agentů" # todo: NEW TRANSLATION
+ branch_crypto: "Kryptologické oddělení" # todo: CHANGED
+ upgrade_economy_civilian: "Ekonomické zpravodajství" # todo: NEW TRANSLATION
+ upgrade_economy_civilian_desc: "§WEkonomické zpravodajství je jedním z klíčových bodů moderního zpravodajství. Lepší porozumění složitostem ekonomik našich zahraničních nepřátel nám může pomoci omezit jejich ambice.§!" # todo: NEW TRANSLATION
+ upgrade_army_department: "Vojenské oddělení" # todo: NEW TRANSLATION
+ upgrade_army_department_desc: "§WPronikání do ozbrojených sil našich nepřátel a potenciálních nepřátel nám poskytne větší příležitost odhadnout jejich sílu.§!" # todo: NEW TRANSLATION
+ upgrade_computer_servers: "Servery agentury" # todo: NEW TRANSLATION
+ upgrade_computer_servers_desc: "§WAktualizace počítačů naší agentury pomůže posílit sílu naší divize kybernetické bezpečnosti.§!" # todo: NEW TRANSLATION
+ upgrade_computer_servers_TT: "Dokončeno: Vylepšení agentury §YZřízení Divize kybernetické bezpečnosti§!" # todo: NEW TRANSLATION
+ upgrade_naval_department: "Námořní oddělení" # todo: NEW TRANSLATION
+ upgrade_naval_department_desc: "§WBitva na moři je klíčovou součástí dosažení vítězství a s pokrokem námořních technologií je nezbytné, abychom zřídili Oddělení námořního zpravodajství.§!" # todo: NEW TRANSLATION
+ upgrade_airforce_department: "Oddělení letectva" # todo: CHANGED
+ upgrade_airforce_department_desc: "§WOddělení leteckého zpravodajství bude užitečnou složkou naší agentury; bude odpovědné za infiltraci nepřátelského letectva a shromažďování informací o pohybu nepřátelských letadel.§!" # todo: CHANGED
+ upgrade_passive_defense: "Kontrarozvědka" # todo: NEW TRANSLATION
+ upgrade_passive_defense_desc: "§WZahraniční agenti působící na našem území představují vážné riziko národní bezpečnosti. Musíme investovat do naší kontrarozvědkové kapacity, abychom minimalizovali hrozbu, kterou tito agenti představují pro naši zemi.§!" # todo: NEW TRANSLATION
+ upgrade_anti_partisan: "Protipovstalecká opatření" # todo: NEW TRANSLATION
+ upgrade_anti_partisan_desc: "§W21. století zaznamenalo dramatický nárůst asymetrické války proti nestátním skupinám. Bylo by nerozumné opomíjet tyto „nové války“ v tréninku našich operativů.§!" # todo: NEW TRANSLATION
+ upgrade_counter_terror_operations: "Boj proti terorismu" # todo: NEW TRANSLATION
+ upgrade_counter_terror_operations_desc: "§WVzestup terorismu jako hrozby na světové scéně si vyžádal, aby se národy přizpůsobily. Pokud chceme ochránit naše občany a náš způsob života, musíme investovat do protiteroristických operací.§!" # todo: NEW TRANSLATION
+ upgrade_blueprint_stealing: "Průmyslová špionáž" # todo: NEW TRANSLATION
+ upgrade_blueprint_stealing_desc: "§WVíme, že naši nepřátelé mají tajné projekty experimentálních zbraní a vozidel. Nevíme však přesně, jaké projekty to jsou a co staví. Prolomením tajných oddělení zbraní našich nepřátel získáme příležitost zjistit, co plánují použít proti nám, a dostaneme jedinečnou příležitost využít tyto informace k rozvoji našeho vlastního zbrojního oddělení.§!" # todo: NEW TRANSLATION
+ upgrade_portable_radios: "Zabezpečená komunikace" # todo: NEW TRANSLATION
+ upgrade_portable_radios_desc: "§WKdyž jsou naši agenti v terénu, je naprosto zásadní, aby mohli komunikovat bez strachu, že budou kompromitováni nepřítelem. Zabezpečené komunikační kanály jsou klíčem k ochraně identit a životů našich operativů.§!" # todo: NEW TRANSLATION
+ upgrade_invisible_ink: "Skryté odposlouchávací zařízení" # todo: NEW TRANSLATION
+ upgrade_invisible_ink_desc: "§WVydělané odposlouchávací zařízení jsou důležitým nástrojem moderního operativce, který mu umožňuje naslouchat soukromým konverzacím. Vývoj špionážních odposlechů, které lze rozmístit na klíčových místech, významně zlepší naše zpravodajské schopnosti.§!" # todo: NEW TRANSLATION
+ upgrade_plastic_explosives: "Improvizované výbušné prostředky" # todo: NEW TRANSLATION
+ upgrade_plastic_explosives_desc: "§WIEDy se staly nepostradatelnou zbraní pro nestátní ozbrojené skupiny po celém světě. Navzdory jejich jednoduché konstrukci mají obrovský ničivý potenciál. IEDy pomáhají vyrovnávat šance mezi neuspořádanými skupinami insurgentů a profesionálními ozbrojenými silami s obrněnými vozidly. Zatímco insurgenti, které podporujeme v zahraničí, si jistě budou moci vyrobit IED sami, můžeme jim poskytnout sofistikovanější technologii, abychom maximalizovali ničivost a spolehlivost jejich zařízení. Tímto způsobem můžeme udeřit na naše zahraniční nepřátele a zachovat věrohodnost.§!" # todo: NEW TRANSLATION
+ upgrade_suicide_pills: "Sebevražedné pilulky" # todo: NEW TRANSLATION
+ upgrade_suicide_pills_desc: "§WAčkoli nežádoucí, je nevyhnutelné, že několik agentů bude nepřáteli zajato. Musíme našim agentům nabídnout způsob, jak uniknout hrůám, které je čekají v místnosti výslechu, a cyanidová pilulka namísto zubu jim poskytne útěk, pokud k takové situaci dojde.§!" # todo: NEW TRANSLATION
+ upgrade_training_centers: "Zahraniční náborová centra" # todo: NEW TRANSLATION
+ upgrade_training_centers_desc: "§WZatímco naši agenti se dokážou přizpůsobit jakémukoli prostředí, kulturní normy a jazyky cizích zemí vycházejí přirozeněji těm, kteří se v dané kultuře narodili a vyrostli. Pokud chceme vybudovat celosvětovou síť špionů, musíme rozšířit nábor a výcvik po celém světě a najmout agenty všech kultur a původů.§!" # todo: NEW TRANSLATION
+ upgrade_commando_training: "Černé operace" # todo: NEW TRANSLATION
+ upgrade_commando_training_desc: "§WSome of the tasks that our intelligence agency will be forced to perform require the utmost secrecy. These special activities demand the training of operatives, recruited from our country's special forces, who can perform paramilitary activities in dangerous conditions. It is not enough for these operatives to be willing to die for their country. They must also be willing to be abandoned by their country and publicly renounced should they fail in their mission.§!" # todo: NEW TRANSLATION
+ upgrade_interrogation_techniques: "Výslechové techniky" # todo: NEW TRANSLATION
+ upgrade_interrogation_techniques_desc: "§WOften it can be more effective to break an enemy agent's mind rather than their body. The use of physical force is unreliable and often results in false information; a truly skilled interrogator is capable of breaking the enemy's will without violence. But, if it comes to that, we have ways of making them talk...§!" # todo: NEW TRANSLATION
+ upgrade_diplo_training: "Diplomatické školení" # todo: NEW TRANSLATION
+ upgrade_diplo_training_desc: "§WTrénování našich agentů, aby podpláceli několik zahraničních investorů a diplomatů, může je přesvědčit o prospěšnosti našeho poslání a odvrátit jejich zájmy od nepřátel státu.§!" # todo: NEW TRANSLATION
+ upgrade_psycho_warfare: "Psychologická válka" # todo: NEW TRANSLATION
+ upgrade_psycho_warfare_desc: "§WPropaganda byla účinným nástrojem k prosazování našich ideologických zájmů v rámci našeho státu, ale žádný nástroj není tak účinný jako šíření strachu z režimů nepřátel a toho, co by mohli do země přinést. Sloučením našich agentů s antiideologickými hnutími v zahraničí se staneme mnohem účinnějšími při šíření naší ideologie po celém světě...§!" # todo: NEW TRANSLATION
+ upgrade_form_department: "Zřídit kryptologické oddělení" # todo: CHANGED
+ upgrade_form_department_desc: "§WKryptologie představuje obranu naší sítě před kybernetickou válkou. Zřízení kryptologického oddělení nám pomůže lépe přizpůsobit naši zpravodajskou agenturu této moderní formě získávání zpravodajských informací.§!" # todo: CHANGED
+ upgrade_decryption_boost: "Dešifrovací operace" # todo: CHANGED
+ upgrade_decryption_boost_desc: "§WDešifrování je využití technologií k útoku na cizí stát prolomením jeho bezpečnostních opatření. Pro moderní stát je stále důležitější být schopen vést ofenzivní operace na zemi, na moři, ve vzduchu i v kyberprostoru, jinak riskuje, že zaostane.§!" # todo: CHANGED
+ upgrade_decryption_boost_2: "Strojově asistované dešifrování" # todo: NEW TRANSLATION
+ upgrade_decryption_boost_2_desc: "§VDůsledky strojů se ukázaly jako užitečné při šifrování dat, a strojově asistované šifrování signálů bývá nejvíce obtížně luštitelné. Kryptanalytické stroje jsou nezbytné pro prolomení zpráv, jejichž kód ještě neznáme, a budou cenným přínosem pro náš tým pro dešifrování.§!" # todo: NEW TRANSLATION
+ upgrade_crypto_strength: "Posílené šifrování" # todo: NEW TRANSLATION
+ upgrade_crypto_strength_desc: "§WCitlivé informace jsou zranitelné vůči externím hackerům při přenosu mezi různými odděleními nebo jednotlivci. Musíme zajistit, aby veškerá interní komunikace byla dostatečně šifrována, aby zůstala v bezpečí před zvědavými zraky.§!" # todo: NEW TRANSLATION
+ upgrade_crypto_strength_2: "Strojové učení" # todo: NEW TRANSLATION
+ upgrade_crypto_strength_2_desc: "§WPokrok v oblasti umělé inteligence umožnil začlenění strojového učení do kryptologických systémů. Naše systémy se tak budou moci učit z minulých útoků, předcházet jejich opakování v budoucnu a dynamicky reagovat, když k útokům dojde.§!" # todo: CHANGED
+ CREATE_AGENCY_BUTTON: "Vytvořit agenturu" # todo: NEW TRANSLATION
+ CANCEL_AGENCY_CREATION_TOOLTIP: "Zrušit vytvoření Zpravodajské agentury" # todo: NEW TRANSLATION
+ CANCEL_AGENCY_CREATION_MESSAGE: "Opravdu chcete §Rzrušit§! vytvoření Zpravodajské agentury?" # todo: NEW TRANSLATION
+ CANCEL_AGENCY_UPGRADE_TOOLTIP: "Zrušit vylepšení Zpravodajské agentury" # todo: NEW TRANSLATION
+ CANCEL_AGENCY_UPGRADE_MESSAGE: "Opravdu chcete §Rzrušit§! toto vylepšení Zpravodajské agentury?" # todo: NEW TRANSLATION
+ CREATE_AGENCY_BUTTON_PROGRESS: "Agentura se vytváří..." # todo: NEW TRANSLATION
+ CREATE_AGENCY_BUTTON_TOOLTIP: "§GKlik§! k zahájení výstavby Zpravodajské agentury." # todo: NEW TRANSLATION
+ CREATE_AGENCY_BUTTON_TOOLTIP_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! pro vytvoření Agentury§! (můžete použít $CURRENT|H$ továren a potřebujete $NEEDED|H$)." # todo: NEW TRANSLATION
+ CREATE_AGENCY_MODIFIER_NAME: "Vytvoření agentury" # todo: NEW TRANSLATION
+ CREATE_AGENCY_BLOCKED: "§RZablokováno§!" # todo: NEW TRANSLATION
+ CREATE_AGENCY_SLOW: "§RChybí vám Civilní továrny.\nToto zpomalí postup o $MALUS|%0$§!" # todo: NEW TRANSLATION
+ AGENCY_UPGRADE_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! pro upgrade vaší Agentury§! (můžete použít $CURRENT|H$ továren a potřebujete $NEEDED|H$)." # todo: NEW TRANSLATION
+ CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON: "§GKlik§! pro změnu názvu a insignie." # todo: NEW TRANSLATION
+ STATUS_NO_AGENCY_NO_OPERATIVE: "Operativci nemohou být najímáni, dokud nezřídíte Agenturu." # todo: NEW TRANSLATION
+ STATUS_NO_AGENCY_UPGRADE: "Žádné vylepšení není v procesu." # todo: NEW TRANSLATION
+ STATUS_NO_OPERATIVE_RECRUITED: "Žádný agent nebyl najatý." # todo: NEW TRANSLATION
+ STATUS_RECRUIT_OPERATIVE: "Najímání operativce" # todo: NEW TRANSLATION
+ CRYPTOLOGY: "Kybernetická bezpečnost" # todo: NEW TRANSLATION
+ CRYPTOLOGY_DEPARTMENT: "Divize kybernetické bezpečnosti" # todo: NEW TRANSLATION
+ OPERATIVES: "Operativci" # todo: NEW TRANSLATION
+ OPERATIVE: "Operativec" # todo: NEW TRANSLATION
+ NUM_OPERATIVE_SLOTS: "Sloty operativc: $NUM|H$" # todo: NEW TRANSLATION
+ SLOTS_FROM_AGENCY_UPGRADES: "Z vylepšení agentury: $NUM|+=$" # todo: NEW TRANSLATION
+ SLOTS_FROM_FACTION_MEMBERS: "Z členů frakce: $NUM|+=$" # todo: NEW TRANSLATION
+ OPERATIVE_CAPTURED: "Operativci zajati nepřítelem" # todo: NEW TRANSLATION
+ OPERATIVE_KILLED: "Operativci zabiti nepřítelem" # todo: NEW TRANSLATION
+ OPERATIVE_COUNT: "Najatí operativci: $COUNT|H$" # todo: NEW TRANSLATION
+ AVAILABLE_SLOTS: "Dostupné sloty: $SLOTS|H$" # todo: NEW TRANSLATION
+ OPERATIONS: "Operace" # todo: NEW TRANSLATION
+ OPERATIONS_REINFORCEMENT_COLLECTING_ENTRY_HEADER: "$OPERATION|Y$ proti $COUNTRY|Y$" # todo: NEW TRANSLATION
+ AGENCY_DEFENSE_LEVEL: "Protispionáž: $LEVEL|H$" # todo: NEW TRANSLATION
+ AGENCY_DEFENSE_LEVEL_TITLE: "Protispionáž" # todo: NEW TRANSLATION
+ AGENCY_DEFENSE_LEVEL_DESC: "Protispionáž se používá k bránění nepřátelským agentům. Čím vyšší je, tím pravděpodobněji zastavíte agentům a operace proti vám budou trvat déle a stát více." # todo: NEW TRANSLATION
+ CAN_RECRUITE_OPERATIVE: "§GKlik§! pro nábor agenta do tohoto slotu." # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT: "§RŽádný dostupný slot pro nábor agenta§!" # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "První slot získáte vybudováním Zpravodajské agentury. Další sloty budou k dispozici po pátém upgradu nebo po přiřazení poradce §HIllusive Gentleman§!. \nJako šéf špionáže budou další sloty agentů odemykány díky většímu počtu zemí ve vaší frakci. Puppets nebo země s velmi nízkou produkcí továren nepřispívají k dalším slotům agentů." # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER: "Maximální počet agentů je $NUMBER|H$." # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED: "§RAgent je v tréninku a bude k dispozici za $DAYS|H$ dní§!" # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED: "§RZpravodajská agentura ještě nebyla vytvořena§!" # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_AGENCY_BEING_CREATED: "§RZpravodajská agentura je ve fázi tvorby ($DAYS_TEXT$)§!" # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER: "§RŽádný agent není k dispozici v žádné frakci. Agent je v tréninku a bude k dispozici za $DAYS|H$ dní§!" # todo: NEW TRANSLATION
+ CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS: "§RŽádné volné sloty k dispozici§!" # todo: NEW TRANSLATION
+ OPERATIVE_SLOT_LOCKED_DESC: "Najměte a přiřaďte agenta do tohoto slotu. Jakmile jej získáte, slot bude k dispozici po určité době. Zabití agenta nebo, jako šéf špionáže, ztráta členů frakce znovu uzamknou sloty." # todo: NEW TRANSLATION
+ OPERATIVE_SLOT_LOCKED: "§RSlot uzamčen§!" # todo: NEW TRANSLATION
+ OPERATIVE_SLOT_UNLOCK_IN_DAYS: "Tento slot se odemkne za $DAYS|H$ dní." # todo: NEW TRANSLATION
+ OPERATIVE_SLOT_QUEUED: "Jiný slot je již odemykán." # todo: NEW TRANSLATION
+ OPERATIVE_SLOT_QUEUED_STATUS: "Ve frontě" # todo: NEW TRANSLATION
+ SELECT_OPERATIVE_TITLE: "Vyberte agenta k přiřazení" # todo: NEW TRANSLATION
+ RECRUIT_OPERATIVE_TITLE: "Vyberte agenta k najmutí" # todo: NEW TRANSLATION
+ OPERATIONS_NOT_ACTIVE: "Operace nejsou k dispozici, dokud agent nevybuduje Informační síť." # todo: NEW TRANSLATION
+ OPERATIONS_NOT_ACTIVE_DESC: "Najměte agenta pro povolení operací." # todo: NEW TRANSLATION
+ OPERATIVE_GENERIC_CODENAME_PATTERN: "Operativci $NR$" # todo: NEW TRANSLATION
+ OPERATIVE_HAS_CAPTURED: "Má zajatého agenta země $COUNTRY|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ASSIGNMENT_WILL_REASSIGN_OPERATIVES: "§RWill reassign agents in the network:§!\n  $CODENAME$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_NO_MISSION_TITLE: "Nepřiřazeno" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_NO_MISSION_ACTION: "Nepřiřazeno" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_NO_MISSION_TT: "Momentálně neaktivní" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TITLE: "Vytvořit Informační Síť" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ACTION: "Vytváření Informační Síť" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TT: "Vytváření Informační sítě ze státu $STATE|H$ v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné státy. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_DESC: "§LVytvořte síť místních informátorů a dalších kontaktů v cílovém státě a jeho okolí.§!\n§HDenní síla Informační sítě: $BASE$§!\n  Základ: $BASE|G$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_VALID_TARGET: "Přiřadit $CODENAME$ k £operative_mission_icons_small|1£ vybudování zpravodajské sítě ve státě $STATE|H$" # todo: CHANGED
+ OPERATIVE_MISSION_BUILD_INTEL_NETWORK_INVALID_TARGET: "Nelze vybudovat síť v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TITLE: "Tichá Informační Síť" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ACTION: "Uspání Informační sítě" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TT: "Uspání Informační sítě v $STATE|H$ v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné státy. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_DESC: "§LUdržujte síť místních informátorů a dalších kontaktů a minimalizujte riziko odhalení.§!\nZabraňuje ztrátě §YSíly Informační sítě§! během nečinnosti sítě." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_VALID_TARGET: "Přiřadit $CODENAME$ k £operative_mission_icons_small|2£ udržování zpravodajské sítě v utajení ve státě $STATE|H$" # todo: CHANGED
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_INVALID_TARGET: "Nelze přiřadit k Tiché Informační Síti v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TITLE: "Protispionáž" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ACTION: "Bránění proti subverzivním útokům" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TT: "Bránění proti subverzivním útokům na našem domovském území" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné země. Poté §Gklik§! na zemi pro zahájení mise.\n§GPravým klikem§! zahájíte misi v našem domovském státě." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_DESC: "§LOperujte ve své zemi nebo zemi spojence, abyste odradili zahraniční agenty od provádění subverzních akcí.§!\n§HPříspěvek protispionáže: $BASE|1=$§!\n  Základ: $BASE|2+$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_VALID_TARGET: "§GKliknutím§! přiřadíte $CODENAME|H$ ke £operative_mission_icons_small|3£ kontrarozvědce v zemi $COUNTRY|H$" # todo: CHANGED
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_INVALID_TARGET: "§R$COUNTRY|H$ není spojencem§!" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TITLE: "Odstranit odpor" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ACTION: "Odstranění odporu" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TT: "Odstranění odporu v $FLAG$ $COUNTRY_ADJ|H$ v $STATE|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodný stát. Poté §Gklik§! na stát pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_DESC: "§LVnikněte do odbojových hnutí na přátelském území, abyste je narušili a rozložili.§!\n$EFFECTS|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_VALID_TARGET: "Přiřadit $CODENAME$ k £operative_mission_icons_small|4£ potlačení odboje ve státě $STATE|H$ a přilehlých státech" # todo: CHANGED
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_INVALID_TARGET: "Nelze Root Out Resistance v $STATE|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_TITLE: "Podpora ideologie" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION: "Posilování ideologie" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_TT: "Posilování ideologie $IDEOLOGY|H$ v $COUNTRY|H$ o $VALUE|H$ za den" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC: "§GKlik§! vyznačí vhodné cílové země. Poté §Gklik§! na zemi pro výběr ideologie k posílení." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC: "§LZvyšte podporu místní politické strany.§!\n§YDenní podpora ideologie: $BASE|1=$§!\n  Základ: $BASE|1G$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET: "§GKliknutím§! vyberte ideologii a přiřaďte $CODENAME|H$ k £operative_mission_icons_small|5£ posílení ideologie ve státě $STATE|H$" # todo: CHANGED
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET: "Nelze přiřadit agenty k posílení ideologie v $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC: "Zvýšení podpory ideologie $IDEOLOGY|H$ o $VALUE|H$ za den" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC: "Zvýšení popularity strany $PARTY|H$, která má aktuální podporu $SUPPORT|H$, o $VALUE|H$ za den" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY: "$OPERATIVE|H$: $VALUE|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_TITLE: "Řízení obchodu" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_ACTION: "Ovládání obchodu" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_TT: "Zlepšování obchodní pověsti země $COUNTRY_ADJ|H$ vůči nám o $VALUE|H$ denně" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_ASSIGNMENT_DESC: "§GKlikněte§! vyznačí vhodné země. Poté §GKlikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_DESC: "§LOvlivníme náš obchodní názor v cílové zemi, čímž získáme větší podíl na jejich exportu surovin.§!\n§HDenní obchodní názor: $BASE|=1$§!\n  Základ: $BASE|+1$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_VALID_TARGET: "Přiřadit $CODENAME$ ke £operative_mission_icons_small|6£ kontrole obchodu v zemi $COUNTRY|H$" # todo: CHANGED
+ OPERATIVE_MISSION_CONTROL_TRADE_INVALID_TARGET: "Nelze řídit obchod v $COUNTRY|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS: "Doposud jsme vylepšili náš obchodní názor o $CURRENT|H$/$MAX|H$. Momentálně máme celkový obchodní názor $EFFECTIVE|=H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TITLE: "Diplomatický nátlak" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION: "Uplatňování diplomatického nátlaku" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TT: "Uplatňování diplomatického nátlaku na $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ASSIGNMENT_DESC: "§GKlikněte§! vyznačí vhodné země. Poté §Gklikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC: "§LOvlivněte AI řízenou zemi, aby upřednostňovala vaši frakci a smlouvy o neútočení. Hráčské země budou mít zpřísněné restrikce pro vstup do jiných frakcí.§!\n§HDenní diplomatický nátlak: $BASE_ACCEPTANCE$§!\n  Základ: $BASE_ACCEPTANCE|G$\n§HDenní světová tenze požadavky: -$BASE_TENSION|%$§!\n  Základ: §G-§!$BASE_TENSION|%G$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_VALID_TARGET: "Přiřadit $CODENAME$ k vyvíjení £operative_mission_icons_small|7£ diplomatického tlaku v zemi $COUNTRY|H$" # todo: CHANGED
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_INVALID_TARGET: "Nelze provést Diplomatický nátlak v $COUNTRY|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_TITLE: "Propagace" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_ACTION: "Propagace" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_TT: "Snižování stability o $STABILITY|H2%$ a válečné podpory o $WAR_SUPPORT|H2%$ denně v $FLAG$ $COUNTRY_DEF|H$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_ASSIGNMENT_DESC: "§GKlikněte§! pro vyznačení vhodných cílových zemí. Poté §Gklikněte§! na zemi pro zahájení mise." # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_DESC: "§LDestabilizujte vnitřní politiku v zemi, aby klesla jejich stabilita a válečná podpora§!.\n§HDenní změna stability: -$BASE_STABILITY|2%$§!\n  Základ: §G-§!$BASE_STABILITY|2%G$\n§HDenní změna válečné podpory: -$BASE_WAR_SUPPORT|2%$§!\n  Základ: §G-§!$BASE_STABILITY|2%G$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_VALID_TARGET: "Přiřadit $CODENAME$ k £operative_mission_icons_small|8£ propagandě ve státě $STATE|H$" # todo: CHANGED
+ OPERATIVE_MISSION_PROPAGANDA_INVALID_TARGET: "Nelze zahájit propagandu ve $STATE|H$\n\n$REASON|R$" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_NO_INTEL_NETWORK_AGAINST_TARGET: "Je vyžadována špionážní síť" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_TOO_WEAK: "Špionážní síť není dostatečně velká" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_IS_QUIET: "Špionážní síť je neaktivní" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_NO_IDEOLOGY_TO_BOOST: "Žádné vhodné ideologie k posílení" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_INELIGIBLE_STATE: "Není vhodný stát pro zahájení mise" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_NOT_A_CONTROLLER_OF_THE_STATE: "Nemáte pod kontrolou tento stát" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_NOT_AN_ALLY: "Lze cílit jen na spojence" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_NO_RESISTANCE_ACTIVITY_IN_STATE: "Žádná aktivita odboje v tomto státě" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ALLY: "Nelze cílit na spojence" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ENEMY: "Nelze cílit na nepřítele" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_SELF: "Nelze cílit na sebe" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_WE_ARE_NOT_IN_FACTION: "Nejsme ve frakci" # todo: NEW TRANSLATION
+ OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_MEMBER_OF_FACTION_WE_ARE_AT_WAR_WITH: "Nelze cílit na člena frakce, se kterou jsme ve válce" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_RECEIVE: "Obdržíte $TOKEN|H$ ve $COUNTRY|H$" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_REMOVE: "Odeberte $TOKEN|H$ v $COUNTRY|H$" # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_COMPLETE: "Pokud je toto pole zaškrtnuto, a splněny jsou všechny požadavky, operace se spustí §Yautomaticky§!." # todo: NEW TRANSLATION
+ OPERATION_VIEW_COLLECTING: "Příprava..." # todo: NEW TRANSLATION
+ OPERATION_VIEW_PROGRESS: "Probíhá..." # todo: NEW TRANSLATION
+ OPERATION_VIEW_CLOSE: "Zavřít" # todo: NEW TRANSLATION
+ OPERATION_VIEW_COMPLETED: "Dokončeno" # todo: NEW TRANSLATION
+ OPERATION_VIEW_LAUNCH_LAUNCH: "Spustit operaci." # todo: NEW TRANSLATION
+ OPERATION_VIEW_LAUNCH_LAUNCH_DELAYED: "Jakmile to uděláte, operaci nebude možné zastavit a vaši agenti nebudou moci dělat nic jiného po dobu trvání operace." # todo: NEW TRANSLATION
+ OPERATION_VIEW_LAUNCH_COLLECTING: "Aktuálně se připravujeme na spuštění operace tím, že shromažďujeme veškeré potřebné zdroje." # todo: NEW TRANSLATION
+ OPERATION_VIEW_LAUNCH_PREPARE: "§GKlikněte§! pro zahájení příprav této operace." # todo: NEW TRANSLATION
+ OPERATION_VIEW_LOCATION: "Vyberte cílový stát pro tuto operaci." # todo: NEW TRANSLATION
+ OPERATION_VIEW_LOCATION_MORE: "Oprávněné cílové státy musí splnit následující kritéria:" # todo: NEW TRANSLATION
+ OPERATION_VIEW_REFUND_GENERAL: "Můžete operaci vrátit před jejím zahájením a získat zpět veškeré shromážděné vybavení." # todo: NEW TRANSLATION
+ OPERATION_VIEW_REFUND: "Vraťte veškeré zdroje, které byly shromážděny při přípravě této operace." # todo: NEW TRANSLATION
+ OPERATION_VIEW_REFUND_NOT: "Nelze zrušit operaci, která byla již zahájena." # todo: NEW TRANSLATION
+ OPERATION_VIEW_SELECT_TARGET: "Zvolte cíl" # todo: NEW TRANSLATION
+ EFFECT_STEAL_RANDOM_TECH: "Získáte poznatky o pokročilé technologii, kterou prozkoumali a my ne." # todo: NEW TRANSLATION
+ EFFECT_STEAL_RANDOM_TECH_INSTANT: "Ukrademe plány náhodné technologie, kterou prozkoumali a my ne." # todo: NEW TRANSLATION
+ EFFECT_STEAL_RANDOM_CATEGORY_TECH_COMPLETE: "Získali jsme bonus pro následující kategorii: $TECH|H$" # todo: NEW TRANSLATION
+ EFFECT_STEAL_RANDOM_TECH_COMPLETE: "Získali jsme poznatky o pokročilé technologii: $TECH|H$" # todo: NEW TRANSLATION
+ EFFECT_STEAL_RANDOM_TECH_INSTANT_COMPLETE: "Ukradli jsme plány pokročilé technologie: $TECH|H$" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH: "§RNemáte požadovanou sílu sítě $PERC|H$§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_NO_OPERATIVE_ON_NETWORK: "§RNa této síti neoperuje žádný agent§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_INSUFFICIENT_OPERATIVES: "§RNemáte minimální požadovaný počet $NUM|H$ agentů.§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_INSUFFICIENT_RESOURCES: "§RJeště jsme nezískali potřebné zdroje.§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_INSUFFICIENT_REQUIREMENTS: "§RJeště jsme nesplnili všechny požadavky pro tuto operaci.§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_MISSING_TOKEN: "§RChybí požadovaná infiltrační pomůcka: $TOKEN|H$§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET: "§RMusíte vybrat cílový stát pro tuto operaci.§!" # todo: NEW TRANSLATION
+ OPERATION_VIEW_REQUIREMENTS: "Požadavky" # todo: NEW TRANSLATION
+ OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS: "$PROGRESS|H$ % práce civilních továren bylo dokončeno." # todo: NEW TRANSLATION
+ OPERATION_VIEW_BASE_DURATION: "Základní trvání: $DAYS|H$ dní" # todo: NEW TRANSLATION
+ OPERATION_VIEW_DURATION_MALUS_REPETITION: "Operace opakována: $VALUE|=-%" # todo: NEW TRANSLATION
+ OPERATION_VIEW_DURATION_MALUS_DEFENSE: "Protizpravodajský zásah nepřítele: $VALUE|=-%" # todo: NEW TRANSLATION
+ OPERATION_NOT_ALL_OPERATIVES_ASSIGNED: "Není přiřazeno všech agentů." # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_COMMENCE: "Spustit, až bude připraveno" # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_REPEAT: "Automaticky opakovat" # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_REPEAT_FAIL: "Automatické opakování selhalo" # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_REPEAT_FAIL_DESC: "Nebyl(a) schopen(a) automaticky opakovat $OPERATION|H$ proti $TARGET|H$" # todo: NEW TRANSLATION
+ OPERATION_VIEW_AUTO_REPEAT_TIP: "Vyberte pro opakování operace po dokončení, pokud jsou požadavky stále splněny." # todo: NEW TRANSLATION
+ OPERATION_VIEW_OPERATIVE_NOT_AVAILABLE: "Alespoň jeden z přiřazených agentů momentálně není k dispozici pro zahájení této operace" # todo: NEW TRANSLATION
+ OPERATION_VIEW_OPERATION_ALREADY_IN_PROGRESS: "Operace je již v probíhající fázi" # todo: NEW TRANSLATION
+ OPERATION_VIEW_OPERATION_NOT_POSSIBLE_OR_AVAILABLE: "Operace již není možná ani k dispozici" # todo: NEW TRANSLATION
+ OPERATION_OPERATIVE_ASSIGNMENT_NOT_ANYMORE: "Agenti nelze odvolat, jakmile byli odesláni na operaci" # todo: NEW TRANSLATION
+ OPERATION_OPERATIVE_ASSIGNMENT_NOT_YET: "Agenty lze přiřadit, až začnete shromažďovat zdroje pro operaci" # todo: NEW TRANSLATION
+ OPERATION_CIVILIAN_FACTORIES_NOT_PREPARED_YET: "Ještě jsme nedokončili přípravu operace, protože naše civilní továrny jsou stále využívány." # todo: NEW TRANSLATION
+ OPERATION_REQUIREMENT_FULFILLED: "Získali jste $HAS|H$/$NUM|H$ jednotek $NAME|H$." # todo: NEW TRANSLATION
+ OPERATION_REQUIREMENT_NEEDED: "Budete potřebovat shromáždit $NUM|H$ jednotek $NAME|H$." # todo: NEW TRANSLATION
+ OPERATION_REQUIREMENT_CIVILIAN_FACTORIES: "$FACTORIES|H$ během $NUM|H$ dní" # todo: NEW TRANSLATION
+ OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET: "Váš postup je momentálně zpomalen, protože nemáte dostatek civilních továren." # todo: NEW TRANSLATION
+ EFFECT_FREE_RANDOM_OPERATIVE: "Vysvobodíme jednoho z našich agentů z zajetí v $COUNTRY|H$" # todo: NEW TRANSLATION
+ EFFECT_FREE_RANDOM_OPERATIVE_SUCCESS: "Podařilo se nám vysvobodit našeho agenta $OPERATIVE|H$ z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
+ EFFECT_FREE_RANDOM_OPERATIVE_ALL: "Vysvobodíme všechny naše agenty z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
+ EFFECT_FREE_RANDOM_OPERATIVE_ALL_SUCCESS: "Úspěšně jsme vysvobodili všechny naše agenty z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
+ EFFECT_FREE_RANDOM_OPERATIVE_FAILURE: "Nepodařilo se nám včas zachránit žádného z našich agentů z zajatí v $COUNTRY|H$" # todo: NEW TRANSLATION
+ OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GKlikněte§! pro zobrazení podrobností." # todo: NEW TRANSLATION
+ OPERATION_ONMAP_CLICK_FOR_MORE: "§GKlikněte§! pro zobrazení dalších operací" # todo: NEW TRANSLATION
+ OPERATION_ONMAP_STATUS_COMPLETED: "Operace byla dokončena." # todo: NEW TRANSLATION
+ OPERATION_ONMAP_STATUS_IN_PROGRESS: "Operace bude dokončena $DATE|H$" # todo: NEW TRANSLATION
+ OPERATION_ONMAP_STATUS_NOT_READY: "Operace ještě není připravena k zahájení." # todo: NEW TRANSLATION
+ OPERATION_ONMAP_STATUS_READY: "Operace je připravena k zahájení!" # todo: NEW TRANSLATION
+ SELECT_STATE_ON_CLICK: "§GKlikněte§! pro výběr tohoto státu jako cíle." # todo: NEW TRANSLATION
+ SELECT_STATE_ON_CLICK_DISABLED: "§RNemůžete vybrat tento stát jako cíl.§!" # todo: NEW TRANSLATION
+ SELECT_REGION_ON_CLICK: "§GKlikněte§! pro výběr této oblasti jako cíle." # todo: NEW TRANSLATION
+ SELECT_REGION_ON_CLICK_DISABLED: "§RNemůžete vybrat tuto oblast jako cíle.§!" # todo: NEW TRANSLATION
+ OPERATION_HAS_TOKEN: "Má $NAME|H$" # todo: NEW TRANSLATION
+ OPERATION_HAS_TOKEN_NOT: "Nemá $NAME|H$" # todo: NEW TRANSLATION
+ OPERATION_EXPLANATION_FOR_TOKEN_ACCESS: "§HThe infiltration assets that you can get will lead to the following operations:§!" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_PLURAL: "§HInfiltration Assets§!" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Infiltrace letectva" # todo: CHANGED
+ OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Infiltroval letectvo dané země." # todo: CHANGED
+ OPERATION_TOKEN_INFILTRATED_ARMY: "Infiltrace armády" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_ARMY_DESC: "Z infiltrace armády země." # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_CIVILIAN: "Infiltrace civilní vlády" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC: "Z infiltrace civilní vlády země." # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_NAVY: "Infiltrace námořnictva" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_NAVY_DESC: "Z infiltrace námořnictva země." # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS: "Kontakty s odbojem" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC: "Navázal kontakty s místním odbojem." # todo: NEW TRANSLATION
+ PREPARED_OPERATION_REFUND_TOOLTIP: "Operace bude refundována za $DAYS|R$ dní." # todo: NEW TRANSLATION
+ DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT: "Změna požadavků na §Ynázor§! o $DRIFT|H$ za den" # todo: NEW TRANSLATION
+ DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT: "Změna požadavků na §Ynapětí§! o $DRIFT|1%H$ za den" # todo: NEW TRANSLATION
+ QUIET_INTEL_NETWORK_IN_STATE_DESC: "§RSíť je neaktivní§!\nSíť je udržována, ale její účinky nejsou k dispozici a nelze ji použít k zahájení operace." # todo: NEW TRANSLATION
+ INTEL_NETWORK_IN_STATE: "Intel síť ve státě $STATE|H$ $FLAG$" # todo: NEW TRANSLATION
+ NO_INTEL_NETWORK_IN_STATE: "Žádná Intel síť ve státě $STATE|H$ $FLAG$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH: "Síla sítě: $STRENGTH|H0%%$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_DAILY_GROWTH: "Denní růst: $GROWTH|H1$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_OVER_CAP: "Nad limit: $VALUE|=+1$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_FROM_OPERATIVE: "Z vlastních agentů: $VALUE|=+1$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_FROM_ADJACENCY: "Z navazujících států: $VALUE|=+1$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR: "Zákon nepřátelské posádky: $VALUE|+%0$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_OUT_OF_RANGE: "Mimo dosah jakýchkoliv agentů: $VALUE|=+1$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_GROWTH_AT_CAP: "Dosažen limit" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_CAP: "Limit síly sítě: $CAP$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_CAP_FROM_OPERATIVE: "Z vlastních agentů: $VALUE|0+=$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_CAP_FROM_COUNTER_INTELLIGENCE: "Cílená kontrarozvědka: $VALUE|0+=$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_NATIONAL_COVERAGE_FROM_CONTROLLED: "Z pokrytých kontrolovaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED: "Z pokrytých ovládaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
+ INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED_WORTH: "Z hodnoty pokrytých ovládaných států: $VALUE|%1H$" # todo: NEW TRANSLATION
+ OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY: "$OPERATIVE|H$: $DEFENSE|+=0$" # todo: NEW TRANSLATION
+ CLICK_DISBAND_OPERATIVE: "§GKlik§! pro odvolání tohoto agenta" # todo: NEW TRANSLATION
+ CLICK_DISBAND_OPERATIVE_DESC: "Po odvolání se agent vrátí do náborového fondu a uvolní své místo pro najmutí nového agenta." # todo: NEW TRANSLATION
+ OPERATIVE_CAPTURED_BY: "§RZajatý $CAPTURER|H$§!" # todo: NEW TRANSLATION
+ OPERATIVE_CAPTURED_DAYS_REMAINING: "§RTento agent bude zabit, pokud nebude během $DAYS|H$ dní zachráněn!§!" # todo: NEW TRANSLATION
+ OPERATIVE_CAPTURED_DESC: "Agent je zadržen. Dozorce provádí výslechy, aby získal informace o naší zemi a operacích. Pokud nebude včas zachráněn, agent bude popraven." # todo: NEW TRANSLATION
+ OPERATIVE_HARMED_IN_MISSION: "§RZraněn/a při misi§!" # todo: NEW TRANSLATION
+ OPERATIVE_HARMED_IN_MISSION_DESC: "Tento agent byl během mise zraněn. Bude mu trvat nějakou dobu na zotavení." # todo: NEW TRANSLATION
+ OPERATIVE_FORCED_INTO_HIDING: "§RNucen do úkrytu§!" # todo: NEW TRANSLATION
+ OPERATIVE_FORCED_INTO_HIDING_DESC: "Tento agent byl během mise odhalen a nucen přerušit kontakt, aby unikl pronásledovatelům. Budou s námi kontaktovat, jakmile se jim podaří uniknout." # todo: NEW TRANSLATION
+ OPERATIVE_AVAILABLE_AGAIN_IN_DAYS: "Tento agent bude znovu k dispozici za $DAYS|H$ dní!" # todo: NEW TRANSLATION
+ OPERATIVE_NAME_AND_CODENAME: "$CODENAME|H$ ($NAME|H$)" # todo: NEW TRANSLATION
+ OPERATIVE_INTEL_NETWORK_GAIN: "Nárůst síly Intel sítě ve státě: $GAIN|+1$" # todo: NEW TRANSLATION
+ OPERATIVE_INTELLIGENCE_AGENCY_DEFENSE: "Přínos k §YProtizpravodajské činnosti§!: $DEFENSE|+1$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_EFFORT: "Denní drift: $VALUE|2$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_STABILITY_DRIFT: "Drift stability: $DRIFT|+2%$/den" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_PROPAGANDA_WAR_SUPPORT_DRIFT: "Drift podpory války: $DRIFT|+2%$/den" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_EFFORT: "Provedení mise s účinností $VALUE|H0%$" # todo: NEW TRANSLATION
+ OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_STATE_MODIFIER: "Což se promítne do následujících efektů ve státě" # todo: NEW TRANSLATION
+ OPERATIVE_CODENAME_EDIT: "§GKlik§! pro změnu kódového jména agenta" # todo: NEW TRANSLATION
+ OPERATIVE_SELECT: "Vybrat agenta" # todo: NEW TRANSLATION
+ OPERATIVE_TITLE_DESC: "Úroveň dovedností: $SKILL_LEVEL|H$ ($TITLE|H$)" # todo: NEW TRANSLATION
+ INTEL_NETWORK_STRENGTH_IN_STATE: "Státy pod vlivem Intel sítě: $INFLUENCED|H$/$CONTROLLED|H$" # todo: NEW TRANSLATION
+ PLANNING_SPEED_FROM_LOCAL_INTEL_NETWORK: "Rychlost plánování z místní sítě Intel: $FACTOR|+%$" # todo: NEW TRANSLATION
+ PLANNING_SPEED_FROM_RELATION_MODIFIER: "Bonus rychlosti plánování proti nepřátelům: $FACTOR|+%$" # todo: NEW TRANSLATION
+ START_DECRYPTION: "Spustit instalaci zadního průchodu" # todo: NEW TRANSLATION
+ STOP_DECRYPTION: "Zastavit instalaci zadního průchodu" # todo: NEW TRANSLATION
+ REVEAL_INTEL: "Odhalit Intel\n$DAYS$ dní" # todo: NEW TRANSLATION
+ REVEAL_INTEL_LEFT: "Intel odhalený\n($DAYS$ dní)" # todo: NEW TRANSLATION
+ CLICK_TO_ADD_NEW: "Klikněte na mapu pro přidání země jako cíle." # todo: NEW TRANSLATION
+ CRYPTO_SELECT_A_NON_ALLY_COUNTRY_DESC: "§RMůžete cílit pouze na země, které nejsou spojenci§!" # todo: NEW TRANSLATION
+ CRYPTOLOGY_NOT_ACTIVE: "§RCybersecurity Division has not been established§!" # todo: NEW TRANSLATION
+ CRYPTO_IS_ALREADY_IN_LIST: "§R$COUNTRY|H$ je již v našem seznamu cílů§!" # todo: NEW TRANSLATION
+ CRYPTO_CLICK_TO_ADD_DESC: "Klikněte pro přidání $COUNTRY|H$ do našeho seznamu cílů" # todo: NEW TRANSLATION
+ CRYPTO_DEFENSE_LEVEL: "Úroveň kybernetické bezpečnosti $LEVEL$" # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_STRENGTH: "$STRENGTH|0$£crypto£" # todo: NEW TRANSLATION
+ CRYPTO_NOT_ACTIVE: "Kybernetická bezpečnost není k dispozici, dokud nevytvoříte Divizi kybernetické bezpečnosti v Agenturních větvích." # todo: NEW TRANSLATION
+ CRYPTO_NOT_ACTIVE_DESC: "Vytvořte Divizi kybernetické bezpečnosti, abyste získali přístup k systémům nepřítele." # todo: NEW TRANSLATION
+ CRYPTO_FULLY_DECRYPTED: "Dokončeno" # todo: NEW TRANSLATION
+ CRYPTO_FULLY_ACTIVATED: "Aktivní" # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTING: "Instalace: $DAYS$ dní" # todo: NEW TRANSLATION
+ CRYPTO_NOT_DECRYPTING: "$DAYS$ dní" # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_DESC: "Instalace zadního průchodu: $CURRENT|0H$/$MAX|0H$£crypto£" # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_DESC_ESTIMATION: "S naší aktuální hackingovou schopností a aktivními pokusy nám potrvá $NUM_DAYS|H$ dní, než nainstalujeme zadní průchod do systému nepřítele." # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_DESC_ESTIMATION_IF_STARTED: "Jakmile bude zahájen proces instalace zadního průchodu, potrvá $NUM_DAYS|H$ dní, než úspěšně získáme přístup do systému nepřítele." # todo: NEW TRANSLATION
+ CRYPTO_NO_DECRYPTION: "Momentálně nemáme žádnou dešifrovací schopnost. Vylepšete Divizi kybernetické bezpečnosti, abyste mohli hackovat cizí servery." # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_SPEED_DESC: "Naše země má $POWER|0H$£crypto£ §HHacking Ability§! denně." # todo: NEW TRANSLATION
+ CRYPTO_DECRYPTION_SPEED_DESC_MULTIPLE_COUNTRY_INFO: "Pokud rozdělíme naše hackery příliš tenkým, naše hackovací schopnosti budou sdíleny mezi několika projekty." # todo: NEW TRANSLATION
+ CRYPTO_DEFENSE_LEVEL_DESC: "Naše země má §HCybersecurity Level§! na úrovni $LEVEL|H$ a má $STRENGTH|0H$£crypto_defense£ §HCybersecurity Strength§!.\n\n§HCybersecurity Strength§! určuje, jak dlouho trvá nepřátelům prolomit vaše kybernetické obrany." # todo: NEW TRANSLATION
+ CRYPTO_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC: "V systému nepřítele byl nainstalován zadní průchod. Získáme následující pasivní bonusy proti nepříteli:" # todo: NEW TRANSLATION
+ CRYPTO_NOT_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC: "Jakmile bude zadní průchod nainstalován v systému nepřítele, získáme následující pasivní bonusy proti nepříteli:" # todo: NEW TRANSLATION
+ CRYPTO_CLICK_TO_START_DECRYPTION: "§GKlik§! pro zahájení instalace zadního průchodu" # todo: NEW TRANSLATION
+ CRYPTO_CLICK_TO_STOP_DECRYPTION: "§GKlik§! pro zastavení instalace zadního průchodu" # todo: NEW TRANSLATION
+ CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES: "§GKlik§! pro plné využití přístupu zadního průchodu." # todo: NEW TRANSLATION
+ CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES_2: "Získáme následující bonusy po $NUM|H$ dnech nad pasivními bonusy, ale nepřítel bude vědět o narušení bezpečnosti a přesune svá data do bezpečnějšího systému." # todo: NEW TRANSLATION
+ CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET: "Náš zadní průchod ještě nebyl nainstalován. Jakmile bude, můžete plně využít přístup k zadnímu průchodu k získání bonusů po $NUM|H$ dnech nad pasivními bonusy, ale nepřítel bude vědět o narušení bezpečnosti a přesune svá data do bezpečnějšího systému." # todo: NEW TRANSLATION
+ CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED: "Přístup k zadnímu průchodu byl plně zneužit. Získáte následující bonusy po $NUM|H$ dnech nad pasivními." # todo: NEW TRANSLATION
+ CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL: "Přístup k zadnímu průchodu byl plně zneužit. Získáte následující bonusy po $NUM|H$ dnech:" # todo: NEW TRANSLATION
+ CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE: "Nepřátelský firewall je dole" # todo: NEW TRANSLATION
+ CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC: "Přístup zadního průchodu do $COUNTRY_NAMES|H$ byl získán." # todo: NEW TRANSLATION
+ CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE: "Náš systém byl postižen bezpečnostním průlomením!" # todo: NEW TRANSLATION
+ CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC: "$COUNTRY|H$ nainstaloval zadní průchod do našeho systému a začal široce zpřístupňovat informace získané prostřednictvím jejich zadního průchodu velitelům. Po dobu $NUMDAYS|H$ dnů získají různé bojové bonusy proti nám." # todo: NEW TRANSLATION
+ CRYPTO_DELETE_DECRYPTION: "§RSmazat průběh instalace zadního průchodu§!" # todo: NEW TRANSLATION
+ CRYPTO_DELETE_TITLE: "Smazat průběh" # todo: NEW TRANSLATION
+ CRYPTO_DELETE_DESC: "Opravdu chcete §Rodstranit§! průběh instalace zadního průchodu proti $COUNTRY|H$?" # todo: NEW TRANSLATION
+ CRYPTO_ACTIVATE_TITLE: "Plně využít přístup k zadnímu průchodu" # todo: NEW TRANSLATION
+ CRYPTO_ACTIVATE_DESC: "Opravdu chcete plně §HVyužít§! přístup k zadnímu průchodu do $COUNTRY|H$?\n\nBudou informováni o narušení bezpečnosti a převedou se na bezpečnější systém, čímž skončí aktivní bonusy." # todo: NEW TRANSLATION
+ DECRPYPTION_BONUSES_AIR_TOOLTIP: "§HZadní průchod nainstalován§!\n\nZískáváte následující bonusy proti $COUNTRIES|H$:" # todo: NEW TRANSLATION
+ INTEL_LEDGER: "Intel deník" # todo: NEW TRANSLATION
+ SHOW_INTEL_LEDGER: "Zobrazit Intel deník pro zobrazení informací o ostatních zemích." # todo: NEW TRANSLATION
+ OPERATIVE_NATIONALITY: "Tento agent má národnost $NATIONALITY|H$, což přináší následující bonusy." # todo: NEW TRANSLATION
+ OPERATIVE_NATIONALITY_MISSION_MODIFIERS_HEADER: "§HPři provádění misí v této zemi:§!" # todo: NEW TRANSLATION
+ OPERATIVE_NATIONALITY_OPERATION_MODIFIERS_HEADER: "§HKdyž provádíte operace v této zemi:§!" # todo: NEW TRANSLATION
+ OPERATIVE_NATIONALITY_DESC: "Agent má při působení v zemi, jejímž je státním příslušníkem, výhodu.\n\nVšimněte si, že u misí £operative_mission_icons_small|1£ Vybudovat zpravodajskou síť, £operative_mission_icons_small|2£ Udržovat zpravodajskou síť v utajení a £operative_mission_icons_small|4£ Potlačit odboj je za příslušnou zemi považována země, která je okupována, nebo pokud žádná není, země ovládající daný stát." # todo: CHANGED
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL: "Úroveň aktivity: " # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_0: "§GNízká§!: Žádná až mírně subverzivní činnost" # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_1: "§YStřední§!: Byla zaznamenána určitá činnost" # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YDůležité§!: Zahraniční mocnosti mají v zemi významný vliv" # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_3: "§RZávažné§!: Vliv zahraniční moci je nepopiratelný" # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_4: "§RKritické§!: Činnosti zahraničních mocností destabilizují zemi" # todo: NEW TRANSLATION
+ COUNTERINTELLIGENCE_ACTIVITY_LEVEL_DESC: "Úroveň aktivity vyjadřuje množství a nebezpečí zahraničních subverzivních aktivit v zemi za posledních několik týdnů." # todo: NEW TRANSLATION
+ ON_OPERATION_STATUS: "Na operaci $OPERATION|H$ v $COUNTRY$" # todo: NEW TRANSLATION
+ OPERATION_ETA_COMPLETED: "§YDokončeno§!" # todo: NEW TRANSLATION
+ OPERATION_OUTLOOK_DESC: "Vyhlídky operace jsou definovány dvěma faktory.\n§HRisk§! udává pravděpodobnost, že některý z vašich agentů bude po dokončení operace dopaden nebo zabit.\n§HBonus Outcome§! dává vašim agentům šanci dosáhnout lepšího výsledku nebo dalších odměn nad základní." # todo: NEW TRANSLATION
+ lar_decryption_bonus_tech: "Hackovací bonus" # todo: NEW TRANSLATION
+ lar_decryption_bonus_tech_desc: "Získáme §G+10 Hackovací schopnost§!" # todo: NEW TRANSLATION
+ OPERATIVE_RESUME_MISSION_AFTER_OPERATION_CHECKBOX_LABEL: "Obnovit misi" # todo: NEW TRANSLATION
+ OPERATIVE_RESUME_MISSION_AFTER_OPERATION_TOOLTIP: "Zda se agent vrátí ke misi, na kterou byl přiřazen, po zahájení operace." # todo: NEW TRANSLATION
+ OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP: "Tento agent obnoví misi, na kterou byl přiřazen, při zahájení operace." # todo: NEW TRANSLATION
+ OPERATIVE_DISBAND_TITLE: "Propustit agenta" # todo: NEW TRANSLATION
+ OPERATIVE_DISBAND_DESC: "Opravdu chcete §RPropustit§! tohoto agenta? Bude trvat, než si můžete najmout nového agenta." # todo: NEW TRANSLATION
+ upgrade_internal_security: "Vnitřní bezpečnost" # todo: NEW TRANSLATION
+ upgrade_internal_security_desc: "§LZvládání míst uvnitř naší vlastní vlády a ozbrojených sil, která jsou snadno zneužitelná cizími zpravodajskými službami, je nejlepší obranou proti nepřátelským akcím agentů. Vzděláváním personálu ve všech oblastech bezpečnosti a monitorováním důvěryhodného personálu pro rizika v oblastech jako finanční tíže, politické názory či zranitelnost vůči vydírání, můžeme čelit snahám našich nepřátel.§!" # todo: NEW TRANSLATION
+ upgrade_civil_intel: "Civilní zpravodajství" # todo: NEW TRANSLATION
+ upgrade_civil_intel_desc: "§LNe všechna shromažďování zpravodajských informací nutně míří na vojenské cíle nepřítele. Průmyslový rozvoj, výroba a těžba strategických přírodních zdrojů, změny v infrastruktuře, vzdělání a dokonce radikální změny v obecné náladě jsou klíčové faktory určující charakter země ve válce.§!" # todo: NEW TRANSLATION
+ upgrade_military_intel: "Vojenské zpravodajství" # todo: NEW TRANSLATION
+ upgrade_military_intel_desc: "§LPřebytek či nedostatek zásob, stav vojenských rezerv, počet a povaha aktivních či potenciálních členů personálu, charakter vedení, schopnost podpory a rozmístění nepřátelských sil. Tyto věci musíme znát, pokud chceme uspět v konfliktu proti našemu protivníkovi.§!" # todo: NEW TRANSLATION
+ upgrade_maritime_intel: "Námořní zpravodajství" # todo: NEW TRANSLATION
+ upgrade_maritime_intel_desc: "§LZnalost počtu a rozmístění nepřátelských námořních sil je klíčová pro úspěch jakéhokoli námořního konfliktu. Sledování rozhovorů mezi námořním personálem, shromažďování záznamů o spotřebě paliva či munic, i jednoduché počítání počtu lodí v přístavu může snad rozhodnout o úspěchu či neúspěchu jakéhokoli námořního konfliktu.§!" # todo: NEW TRANSLATION
+ upgrade_air_recon: "Letecký průzkum" # todo: NEW TRANSLATION
+ upgrade_air_recon_desc: "§LThough a relatively new aspect of warfare, the projection of air power has quickly become vital to the success of any modern military conflict.  Knowing the strength, range, ability, numbers, movement, and location of enemy air power can rapidly change the scope of any air battle.  And thereby critically shift the balance of any conflict beneath such a contested sky.§!" # todo: NEW TRANSLATION
+ upgrade_humint: "Kontakty & informátoři" # todo: NEW TRANSLATION
+ upgrade_humint_desc: "§LHUMINT, neboli lidské zpravodajství; shromažďování zpravodajských informací prostřednictvím mezilidského kontaktu a poskytovaných lidských zdrojů. Diplomatické hlášení akreditovanými diplomaty, svědectví vojáků či uprchlíků, zprávy od našich agentů, či dokonce výslechy zajatců, vše přispívá k HUMINT.§!" # todo: NEW TRANSLATION
+ upgrade_sigint: "Signály a komunikace" # todo: NEW TRANSLATION
+ upgrade_sigint_desc: "§LCOMINT, neboli zpravodajství z komunikací; shromažďování zpravodajství od zachycení signálů, buď při přímé komunikaci, nebo analýze signálů (známé jako SIGINT).§!" # todo: NEW TRANSLATION
+ upgrade_masint: "Technické a výzkumné" # todo: NEW TRANSLATION
+ upgrade_masint_desc: "§LMASINT, neboli měření a identifikace signatur; řídí technickou formu získávání zpravodajských informací a slouží k detekci, sledování, identifikaci nebo popisu charakteristických rysů pevných či dynamických cílů. Patří sem vědecká či technická data odvozená z analýzy senzorů, ať už radarů, akustiky, či jednoduše praktická analýza zbraní a vybavení získaného z ozbrojených sil cizích zemí.§!" # todo: NEW TRANSLATION
+ upgrade_opsec: "Operační bezpečnost" # todo: NEW TRANSLATION
+ upgrade_opsec_desc: "§LOPSEC; proces ochrany jednotlivých údajů, které by mohly být spojeny dohromady a odhalit klíčové informace, které považují za nezbytné nejvyšší vedení. Tento proces zahrnuje vývoj protiopatření od složitých bezpečnostních protokolů až po jednoduché opatření, které dělá klíčový personál obezřetým vůči snahám o odposlouchávání.§!" # todo: NEW TRANSLATION
+ operative_revolutionary: "Revolucionář" # todo: NEW TRANSLATION
+ operative_revolutionary_desc: "This Operative is a fearless advocate for radical, political change." # todo: NEW TRANSLATION
+ operative_insurgent: "Povstalec" # todo: NEW TRANSLATION
+ operative_insurgent_desc: "This Operative is a skilled guerrilla warrior, trained in the art of asymmetrical battle." # todo: NEW TRANSLATION
+ operative_scientist: "Vědec" # todo: NEW TRANSLATION
+ operative_scientist_desc: "This Operative is highly educated, and commands a powerful intellect." # todo: NEW TRANSLATION
+ operative_web_of_lies: "Síť lží" # todo: NEW TRANSLATION
+ operative_web_of_lies_desc: "Tento operativ je jako pavouk uprostřed sítě. Tkví v ní tajemství ... a lži." # todo: NEW TRANSLATION
+ operative_spyhunter: "Lovec špionů" # todo: NEW TRANSLATION
+ operative_spyhunter_desc: "Tento operativ je zručný v lovu a chytání nepřátelských agentů." # todo: NEW TRANSLATION
+ operative_codebreaker: "Šifrovací expert" # todo: NEW TRANSLATION
+ operative_codebreaker_desc: "Tento operativ má nadání pro používání kódů a šifer." # todo: NEW TRANSLATION
+ iron_heart: "Srdce železa" # todo: NEW TRANSLATION
+ spy_hunter: "Lovec špionů" # todo: NEW TRANSLATION
+ army_specops_instructor_1: "Instruktor Spec-Ops\n(Specialista)" # todo: NEW TRANSLATION
+ army_specops_instructor_2: "Instruktor Spec-Ops\n(Expertní)" # todo: NEW TRANSLATION
+ army_specops_instructor_3: "Instruktor Spec-Ops\n(Génius)" # todo: NEW TRANSLATION
+ army_sniper_adherent: "Odstřelovač – stoupenec" # todo: NEW TRANSLATION
+ operative_skill_3: "Speciální agent" # todo: NEW TRANSLATION
+ operative_skill_4: "Veterán" # todo: NEW TRANSLATION
+ operative_skill_5: "Elitní" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATE_TALL: "Příprava sabotáže" # todo: NEW TRANSLATION
+ OPERATION_TOKEN_INFILTRATE_TALL_DESC: "Připravil(a) přípravy na sabotáži." # todo: NEW TRANSLATION
+ operation_prep_sabotage: "Připravte sabotážní operaci" # todo: NEW TRANSLATION
+ operation_prep_sabotage_desc: "§LPokud jim dokážeme dodat správné vybavení, jediný agent může za nepřátelskými liniemi způsobit velké škody.§!" # todo: NEW TRANSLATION
+ TOKEN_AIRFORCE_ICON: "£text_infiltrate_air_token " # todo: NEW TRANSLATION
+ TOKEN_ARMY_ICON: "£text_infiltrate_army_token " # todo: NEW TRANSLATION
+ TOKEN_CIVILIAN_ICON: "£text_infiltrate_civilian_token " # todo: NEW TRANSLATION
+ TOKEN_NAVY_ICON: "£text_infiltrate_navy_token " # todo: NEW TRANSLATION
+ TOKEN_RESISTANCE_ICON: "£text_contact_resistance_token " # todo: NEW TRANSLATION
+ TOKEN_SABOTAGE_ICON: "£text_infiltrate_tall_token " # todo: NEW TRANSLATION
+ INTEL_FOREIGN_ASSETS: "Foreign Assets" # todo: NEW TRANSLATION
+ operation_blow_fuel: "Sabotáže skladů paliva" # todo: NEW TRANSLATION
+ operation_blow_fuel_desc: "Snížíme nepřátelskou schopnost skladovat palivo, při tom zničíme část zásob" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_radar: "Sabotáží radarů" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_radar_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové radarové instalace.§!" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_airbase: "Sabotáže letecké základny" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_airbase_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové letecké instalace.§!" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_dockyard: "Sabotáže loděnice" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_dockyard_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové námořní loděnice.§!" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_naval_base: "Sabotáže přístavního zařízení" # todo: NEW TRANSLATION
+ operation_targeted_sabotage_naval_base_desc: "§LOuři agenti v nepřátelském území požádali o podporu při vypnutí klíčové námořní základny.§!" # todo: NEW TRANSLATION
+ operation_blow_ship: "Sabotáže námořní lodě" # todo: NEW TRANSLATION
+ operation_blow_ship_desc: "§LI když je pravděpodobné, že náš námořní prostředek s námi po dokončení opět nebude spolupracovat, příležitost zničit nepřátelskou loď by neměla být promarněna.§!" # todo: NEW TRANSLATION
+ ENG_eric_roberts: "Eric Roberts" # todo: NEW TRANSLATION
+ ENG_william_fairbairn: "William Fairbairn" # todo: NEW TRANSLATION
+ ENG_william_stephenson: "William Stephenson" # todo: NEW TRANSLATION
+ FIN_simo_hayha: "Simo Häyhä" # todo: NEW TRANSLATION
+ FRA_louis_rivet: "Louis Rivet" # todo: NEW TRANSLATION
+ GER_otto_skorzeny: "Otto Skorzeny" # todo: NEW TRANSLATION
+ GER_theodor_von_hippel: "Theodor von Hippel" # todo: NEW TRANSLATION
+ GER_reinhard_heydrich: "Reinhard Heydrich" # todo: NEW TRANSLATION
+ ITA_cesare_ame: "Cesare Amè" # todo: NEW TRANSLATION
+ ITA_paolo_aloisi: "Paolo Aloisi" # todo: NEW TRANSLATION
+ JAP_hideo_iwakuro: "Hideo Iwakuro" # todo: NEW TRANSLATION
+ SOV_pavel_sudoplatov: "Pavel Sudoplatov" # todo: NEW TRANSLATION
+ SOV_viktor_abakumov: "Viktor Abakumov" # todo: NEW TRANSLATION
+ SOV_yan_karlovich_berzin: "Yan Karlovich Berzin" # todo: NEW TRANSLATION
+ SOV_viktor_leonov: "Viktor Leonov" # todo: NEW TRANSLATION
+ SOV_vasily_zaitsev: "Vasily Zaitsev" # todo: NEW TRANSLATION
+ TUR_sukru_ali_ogel: "Şükrü Âli Ögel" # todo: NEW TRANSLATION
+ USA_john_j_mccloy: "John J. McCloy" # todo: NEW TRANSLATION
+ USA_jack_h_taylor: "Jack H. Taylor" # todo: NEW TRANSLATION
+ USA_william_n_elizebeth_friedman: "William a Elizebeth Friedman" # todo: NEW TRANSLATION

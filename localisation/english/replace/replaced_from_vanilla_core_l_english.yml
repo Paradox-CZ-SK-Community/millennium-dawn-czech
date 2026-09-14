@@ -12,6 +12,10 @@
  LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Vznesení obvinění z použití chemických zbraní..."
  LOAD_INIT: "Hacknutí Pentagonu..."
  LOAD_EVENTS: "Politické manévrování v OSN..."
+ MENU_HOMEPAGE: "MD Wiki"
+ MENU_FORUM: "Paradoxní fóra"
+ MENU_FACEBOOK: "Facebook"
+ MENU_TWITTER: "Sledujte nás na Twitteru pro novinky"
  LOAD_GFX: "Zadržování sociálních dávek..."
  LOAD_FLAGS: "Demokratizace Blízkého východu..."
  PROC_FLAGS: "Odklánění kritiky..."
@@ -22,11 +26,9 @@
  PRECALC_NAVAL_DIST: "Uplácení diplomatů..."
  INIT_MAP_LOGIC: "Přičítání viny Číně..."
  INIT_GAMESTATE: "Ignorování korupce..."
- MENU_HOMEPAGE: "MD Wiki"
- MENU_FORUM: "Paradoxní fóra"
- MENU_FACEBOOK: "Facebook"
- MENU_TWITTER: "Sledujte nás na Twitteru pro novinky"
  FLEET_NAME_SOV: "Skupina ruského námořnictva $NUMBER$."
+ FLEET_NAME_GER: "Marineflottille $NUMBER$" # todo: NEW TRANSLATION
+ FLEET_NAME_USA: "$NUMBER$. flotila" # todo: NEW TRANSLATION
  LEADER_ENDLESS_CAPACITY_DESC: "$NAME$ je generál a nemá žádný limit velení."
  CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§!, která byla vyslána jako §Yintervenční síly§!.\nOpravdu chcete §Rpřeřadit§! tohoto §Gvelitele§!?"
  FE_SELECT_COUNTRY: "Vybrat jinou zemi na mapě"
@@ -36,3 +38,9 @@
  LOGISTICS_CAPACITY_DETAILED_DESC: "Logistická kapacita vyjadřuje, jak dobře jsou uspokojeny vaše zásobovací trasy. Pokud vašemu státu chybí vlaky nebo užitková vozidla potřebná k přepravě všech zásob, jednotky budou trpět sníženým zásobováním a budou postiženy zásobovacími postihy."
  TRUCKS: "Užitková vozidla"
  FUEL_DESC: "§HPalivo§! je vytvářeno z přebytků ropy vaší země. Každý stát má maximální kapacitu §Hpaliva§!, kterou lze zvýšit výstavbou §Hsil§!. §HPalivo§! spotřebovávají tanky a mechanizované jednotky, lodě a letadla a je distribuováno prostřednictvím §Hzásobovacích tras§!.\n\n§HPalivo§! je rovněž využíváno k provozu §Hfosilních elektráren§! a je klíčovým zdrojem pro fungování ekonomiky. §HJaderné reaktory§!, §Hobnovitelné zdroje energie§! a §Hostatní zdroje§! ke své výrobě žádné §Hpalivo§! nespotřebovávají. §HObyvatelstvo§! rovněž spotřebovává §Hpalivo§! jako součást svých základních potřeb. Více informací o nevojenské spotřebě §Hpaliva§! naleznete na §Henergetické obrazovce§! v záložce §HVýstavba§!."
+ MENU_BLUESKY: "Sledujte nás na Bluesky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ MENU_DISCORD: "Najděte další hráče a komunikujte s vývojáři na Discordu" # todo: NEW TRANSLATION # todo: MOVED KEY
+ FLOATING_HARBOR: "Modulární systém hráze" # todo: NEW TRANSLATION
+ SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_NODE_HEADER: "§YModulární systém hráze§! v provincii $PROVINCE_NAME|H$:" # todo: NEW TRANSLATION
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR: "§HRozkaz k námořní invazi (s podporou modulárního systému hráze)§!\nKrok 1) §GKlikněte§! na jednu ze zvýrazněných provincií a nastavte zdroj invaze.\nKrok 2) §GKlikněte pravým tlačítkem§! na požadovanou pobřežní provincii či provincie, které chcete napadnout.\nPo aktivaci plánu se začnou připravovat a rezervovat konvoje a modulární systém hráze z vašich zásob." # todo: NEW TRANSLATION
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR_NO_HARBOR: "§RNemáme žádný §Hmodulární systém hráze§! potřebný pro tento plán§!" # todo: NEW TRANSLATION

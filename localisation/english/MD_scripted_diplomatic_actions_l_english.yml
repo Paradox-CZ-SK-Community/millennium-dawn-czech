@@ -1,251 +1,290 @@
 ﻿l_english:
-  RECALL_VOLUNTEERS_TITLE: "Přivolat intervenční sílu" # todo: NEW TRANSLATION
-  RECALL_VOLUNTEERS_ACTION_DESC: "V okamžiku můžeme zvolit stažení naší intervenční síly." # todo: NEW TRANSLATION
-  RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rmusí mít aktivní intervenční síly od nás, které můžeme stáhnout.§!" # todo: NEW TRANSLATION
-  RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! musí mít aktivní intervenční síly od nás, které můžeme stáhnout." # todo: NEW TRANSLATION
-  RECALL_VOLUNTEERS_SEND_DESC: "Bitva, do které se §Y[This.GetNameWithFlag]§! dostala, už není náš boj. Je čas stáhnout naše síly z konfliktu.\n\n§YTato akce stáhne naše intervenční síly ze [This.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  base_trade_condition: "Základní neochota vůči §YObchodní dohodě§!" # todo: NEW TRANSLATION
-  base_mutual_investment_treaty_condition: "Základní neochota vůči §YDohoda o vzájemných investicích§!" # todo: NEW TRANSLATION
-  base_propose_subsidies_to_subject_condition: "Základní neochota vůči §YOverlord Subsidies§!" # todo: NEW TRANSLATION
-  base_assume_debt_condition: "Základní neochota vůči §YPřevzetí dluhu§!" # todo: NEW TRANSLATION
-  base_negotiate_operative_release: "Základní neochota vůči §YVyjednání propuštění operativce§!" # todo: NEW TRANSLATION
-  base_enforce_peace_option: "Základní neochota vůči §YProsazení míru§!" # todo: NEW TRANSLATION
-  condition_two: "Nátlak typu vlády" # todo: NEW TRANSLATION
-  condition_three: "Nátlak z názoru" # todo: NEW TRANSLATION
-  condition_four: "Nátlak z obou členství v NATO" # todo: NEW TRANSLATION
-  condition_five: "Nátlak z obou členství v EU" # todo: NEW TRANSLATION
-  condition_six: "Nátlak z toho, že jsme ve stejné frakci" # todo: NEW TRANSLATION
-  trade_condition_has_same_government: "Země mají stejnou vládu" # todo: NEW TRANSLATION
-  trade_has_positive_relations: "Má kladné vztahy" # todo: NEW TRANSLATION
-  condition_seven: "Je subjektem [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
-  condition_eight: "[Root.GetNameWithFlag] Ovlivňuje [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
-  condition_nine: "Aktuální úroková sazba [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
-  condition_ten: "[THIS.GetNameWithFlag] z žebříčku moci" # todo: NEW TRANSLATION
-  difference_in_power_ranking: "Rozdíl v hodnocení síly" # todo: NEW TRANSLATION
-  base_desire: "Základní touha" # todo: NEW TRANSLATION
-  opinion_condition: "Názor" # todo: NEW TRANSLATION
-  friends_condition: "Přátelé" # todo: NEW TRANSLATION
-  foes_condition: "Nepřátelé" # todo: NEW TRANSLATION
-  war_condition: "Válka" # todo: NEW TRANSLATION
-  wargoal_condition: "Válečné cíle" # todo: NEW TRANSLATION
-  condition_high_interest_rate: "Nátlak z úrokové sazby" # todo: NEW TRANSLATION
-  PROPOSE_IMPROVED_TRADE_AGREEMENT_TITLE: "Navrhnout §Yobchodní dohodu§!" # todo: NEW TRANSLATION
-  PROPOSE_IMPROVED_TRADE_AGREEMENT_ACTION_DESC: "Navrhnout §Yobchodní dohodu§! s touto zemí by mělo být vzájemně prospěšné. Přinese větší prosperitu pro obě naše země. Pokud je země ochotná investovat, mít §Yobchodní dohodu§! zvyšuje šanci na získání investic.\n\nNásledující faktory určují, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO.\n\nDále, pokud je cílová země AI, bude zařazena do §YPermanent Investment Target§! pool, což znamená, že se bude snažit investovat do vás." # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_TOOLTIP: "Momentálně není v §YObchodní dohodě§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
-  PROPOSAL_MISSING_TOOLTIP: "Momentálně nepřijímá nabídku od §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_DESC: "§YObchodní dohoda§! mezi našimi dvěma zeměmi zvýší obchodní vliv o §G100§! a názor s §Y[This.GetNameWithFlag]§! o §G25§! po jejím přijetí. Obě země rovněž získají přibližně §G~1%§! vlivu nad sebou." # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_ACCEPT_TT: "[THIS.GetNameWithFlag] §GPřijato§! §Yobchodní dohodu§!!" # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijalo dohodu přinášející následující účinky:\n\nObchodní vliv se zvýší o §G50§!\nNázor se zvýší o §G25§!\nVliv se zvýší o přibližně §G~1%§!\n" # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_REJECT_TT: "[THIS.GetNameWithFlag] §ROdmítl§! §Yobchodní dohodu§!!" # todo: NEW TRANSLATION
-  PROPOSE_TRADE_AGREEMENT_REJECT_DESC: "Bohužel [THIS.GetNameWithFlag] odmítl naši obchodní dohodu. Snad jindy bychom mohli dohodu podepsat." # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_TITLE: "Ukončit §Yobchodní dohodu§!" # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_ACTION_DESC: "Ukončení §Yobchodní dohody§! s tímto národem vyvolá napětí mezi našimi zeměmi." # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_TOOLTIP: "Aktuálně je v §Yobchodní dohodě§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_DESC: "Ukončení §Yobchodní dohody§! má následující dopady:\n\nObchodní vliv klesne o §R50§!\nNázor klesne o §R25§! s modifikátorem názoru §R15§! kvůli porušení dohody\n" # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_RECIEVING_TT: "Zpráva od [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
-  CANCEL_TRADE_AGREEMENT_RECIEVING_DESC: "Zpráva od §Y[Root.GetNameWithFlag]§! mění jejich diplomatický postoj k nám: Ukončit obchodní dohodu" # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_TITLE: "Navrhnout §YPřevzetí dluhu§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_ACTION_DESC: "Můžeme navrhnout §YPřevzetí dluhu§! jiné zemi, abychom pomohli zmírnit jejich aktuální ekonomické potíže. Pokud nabídku přijmou, získáme malou část názoru a převezmeme 25 % jejich §YDluhu§!. Část dluhu bude nejprve odečtena z naší pokladny.\n\nNásledující faktory ovlivní, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_DESC: "Můžeme převzít dluh jiné země §YDluhu§! aby pomohl zmírnit jejich aktuální ekonomické potíže. Pokud nabídku přijmou, získáme malou část názoru a převezmeme 25 % jejich §YDluhu§!. Část dluhu bude nejprve odečtena z naší pokladny." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_ACCEPT: "[THIS.GetNameWithFlag] §GPřijato§!." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijalo převzetí §YDluhu§!. Převzali jsme dvacet pět procent jejich aktuálního §YDluhu§!. Ulehčujeme tak část břemene [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_REJECT: "[THIS.GetNameWithFlag] §ROdmítl§!." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ASSUME_DEBT_REJECT_DESC: "Bohužel, [THIS.GetNameWithFlag] odmítl(a) naše převzetí dluhu. Snad jindy bychom mohli uzavřít dohodu." # todo: NEW TRANSLATION
-  treasury_more_than_25_debt_tt: "Aktuálně odhadovaný §YDluh§! k převzetí: $[?tmp|-]b\n" # todo: NEW TRANSLATION
-  PROPOSE_MUTUAL_INVESTMENT_TREATY_TOOLTIP: "Momentálně není v §YDohodě o vzájemných investicích§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
-  PROPOSE_MUTUAL_INVESTMENT_TREATY_TITLE: "Navrhnout §YDohodu o vzájemných investicích§!" # todo: NEW TRANSLATION
-  PROPOSE_MUTUAL_INVESTMENT_TREATY_ACTION_DESC: "Můžeme navrhnout §YDohodu o vzájemných investicích§! s touto zemí, abychom podpořili investice v obou našich zemích. Dohoda nám oběma poskytne snížení §YInvestiční náklady a doba trvání§! o §G5§! % a §G~1§! % vlivu na sebe navzájem.\n\nNásledující faktory určují, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO.\n\nKromě toho, pokud je cílová země AI, bude zařazena do §YPermanent Investment Target§! pool, což znamená, že se bude snažit investovat do vás." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY: "Navrhování §YDohody o vzájemných investicích§! zvýší §YObchodní vliv§! o §G30§! a §YNázor§! s §Y[This.GetNameWithFlag]§! o §G30§!!, pokud to druhá země přijme. Obě země také obdrží přibližně §G~1%§! §Yvlivu§! nad sebou navzájem. Dále bude každá země mít §YInvestiční náklady a doba trvání§! na druhé straně sníženy o §G5§!%." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_ACCEPT: "[THIS.GetNameWithFlag] §GPodepsal(a)§! §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_ACCEPT_DESC: "[THIS.GetNameWithFlag] podepsalo §YMutual Investment Treaty§!. Naše dva národy se rychle sbližují a investoři v naší zemi projevují zájem o nové obchodní příležitosti." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_REJECT: "[THIS.GetNameWithFlag] §ROdmítl§! §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_REJECT_DESC: "[THIS.GetNameWithFlag] odmítl(a) §YMutual Investment Treaty§!. Investoři v naší zemi jsou zklamaní, že naše dva národy se nemohly dohodnout. Možná jindy..." # todo: NEW TRANSLATION
-  CANCEL_MUTUAL_INVESTMENT_TREATY_TITLE: "Ukončit §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
-  CANCEL_MUTUAL_INVESTMENT_TOOLTIP: "Momentálně je v §YMutual Investment Treaty§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
-  CANCEL_MUTUAL_INVESTMENT_TREATY_ACTION_DESC: "Už nemáme zájem udržovat naši §YMutual Investment Treaty§! mezi našimi dvěma zeměmi. Je čas ukončit §YMutual Investment Treaty§! a začít znovu vyjednávat nové dohody pro budoucnost. Ukončení §Yobchodní dohody§! má následující dopady:\n\nObchodní vliv klesne o §R50§!\nNázor klesne o §R25§! s modifikátorem názoru §R15§! kvůli porušení dohody\n" # todo: NEW TRANSLATION
-  DIPLO_ACTION_CANCEL_MUTUAL_INVESTMENT_TREATY: "Bohužel [THIS.GetNameWithFlag] odstoupil z naší §YMutual Investment Treaty§!. Snad jindy bychom mohli podepsat další §YMutual Investment Treaty§!, ale nyní již dohodu nemáme." # todo: NEW TRANSLATION
-  PROPOSE_SUBSIDIES_TO_SUBJECT_TITLE: "Navrhnout §YOverlord Subsidies§!" # todo: NEW TRANSLATION
-  PROPOSE_SUBSIDIES_TO_SUBJECT_ACTION_DESC: "Můžeme navrhnout subvenci pro našeho podřízeného ve výši §Y1%§! z jejich celkového §YGross Domestic Product§! (GDP) týdně, aby se ekonomicky rozvíjeli. Na oplátku budou méně náchylní k odtržení a budou pomalu ztrácet autonomii." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT: "Nabízení subvencí našemu podřízenému bude obnášet, že budeme týdně brát §Y1%§! z jejich celkového §YGross Domestic Product§! (GDP) k jejich ekonomickému rozvoji. Pokud to přijmou, budou méně náchylní k odtržení a budou pomalu ztrácet autonomii." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_ACCEPT: "[THIS.GetNameWithFlag] §GSouhlasí§! s §YOverlord Subsidies§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasí s §YOverlord Subsidies§!. Naše pokladna zahájila potřebné kroky k zajištění této rozpočtové pomoci." # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_REJECT: "[THIS.GetNameWithFlag] §ROdmítlo§! §YOverlord Subsidies§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_REJECT_DESC: "[THIS.GetNameWithFlag] odmítlo §YOverlord Subsidies§!." # todo: NEW TRANSLATION
-  CANCEL_SUBSIDIES_TO_SUBJECT_TITLE: "Zrušit §YOverlord Subsidies§!" # todo: NEW TRANSLATION
-  CANCEL_SUBSIDIES_TO_SUBJECT_ACTION_DESC: "Už nechceme pokračovat v §YOverlord Subsidies§!. Je načase zrušit aktuální dohodu. Důvodů může být mnoho, ale rozhodli jsme se, že je to v našem nejlepším zájmu." # todo: NEW TRANSLATION
-  DIPLO_ACTION_CANCEL_OVERLORD_SUBSIDIES: "Dotační program §YOverlord Subsidies§! mezi [ROOT.GetNameWithFlag] a [THIS.GetNameWithFlag] byl zrušen. Převod prostředků skončí po tomto týdnu." # todo: NEW TRANSLATION
-  overlord_subsidies: "Nadvláda subvencuje naši zemi." # todo: NEW TRANSLATION
-  NEGOTIATE_OPERATIVE_RELEASE_TITLE: "Vyjednávat o propuštění operativce" # todo: NEW TRANSLATION
-  NEGOTIATE_OPERATIVE_RELEASE_ACTION_DESC: "Můžeme navrhnout vyjednávání o propuštění jednoho z našich zajatých §Yoperativců§! výměnou za $§Y2 miliardy§! s [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_DESC: "Nedávno byl v této zemi zajat jeden z našich operativců. Můžeme jednat s vládou o jeho propuštění a zaplatit malou náhradu, nebo se můžeme vrátit k našim utajeným postupům." # todo: CHANGED
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GPřijalo§! §YPropuštění operativce§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasilo s propuštěním zajatého operativce, který byl v jejich rukou. Zaplatili jsme jim §Y$2 miliardy§! jako náhradu." # todo: NEW TRANSLATION
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_TITLE: "[THIS.GetNameWithFlag] §ROdmítlo§! k §YOperative Release§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_DESC: "[THIS.GetNameWithFlag] odmítlo propuštění zajatého operativce v jejich držení. Takže jdeme na plán B." # todo: NEW TRANSLATION
-  ENFORCE_PEACE_OPTION_TITLE: "Prosadit mír" # todo: NEW TRANSLATION
-  ENFORCE_PEACE_OPTION_ACTION_DESC: "Můžeme se pokusit prosadit mír v této zemi, abychom zastavili aktivní a probíhající konflikty, za cenu značného množství vlivu a sympatií." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ENFORCE_PEACE_OPTION_DESC: "[THIS.GetNameWithFlag] je momentálně v útočné válce a je v našem zájmu pokusit se jim vynutit mír. Měli bychom jim říct, aby přestali bojovat ve svých současných útočných válkách." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GSouhlasil§! s §YProsazením míru§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasil s okamžitým podepsáním příměří se svými současnými válečnými nepřáteli. Ztratili jsme velké množství vlivu v této zemi." # todo: NEW TRANSLATION
-  DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_TITLE: "[THIS.GetNameWithFlag] §GOdmítl§! §YProsazení míru§!" # todo: NEW TRANSLATION
-  DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_DESC: "[THIS.GetNameWithFlag] odmítl podmínky, které jsme předložili pro okamžité příměří... Asi přichází na řadu plán B." # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_TITLE: "Přístup k vojenskému GNSS" # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_ACTION_DESC: "Požadovat přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k vojenské GNSS" # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni žádají o přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Získáme prospěch z jejich vojenské GNSS sítě." # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_REJECTED_DESC: "Odmítli nám přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YVojenská GNSS systémová úroveň§! [PREV.GetNameWithFlag] musí být vyšší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_TITLE: "Nabídka přístupu k vojenskému GNSS" # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_ACTION_DESC: "Nabídnout přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_LOC: "Odeslat nabídku na přístup k vojenské GNSS" # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni nabízejí přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Oni budou mít prospěch z naší vojenské GNSS sítě." # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_REJECTED_TITLE: "Nabídka zamítnuta" # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku na přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
-  OFFER_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YVojenský GNSS systémový level§! z [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovnat úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_TITLE: "Odebrat vojenský GNSS přístup" # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_ACTION_DESC: "Odebrat přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_LOC: "Odeslat odebrání GNSS přístupu" # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni odebírají náš přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Odebrat vojenský GNSS přístup" # todo: NEW TRANSLATION
-  REVOKE_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Odeberou náš přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_TITLE: "Přístup k civilní GNSS" # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_ACTION_DESC: "Požadovat přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k civilní GNSS" # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni žádají o přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Získáme prospěch z jejich civilní GNSS síťi." # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_REJECTED_DESC: "Odmítli nám přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YCivilian GNSS System Level§! z [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_TITLE: "Nabídka přístupu k civilní GNSS" # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_ACTION_DESC: "Nabídnout přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_LOC: "Odeslat nabídku na přístup k civilní GNSS" # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni nabízejí přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Oni budou mít prospěch z naší civilní GNSS sítě." # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_REJECTED_TITLE: "Nabídka zamítnuta" # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku na přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  OFFER_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YCivilian GNSS System Level§! z [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovná úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_TITLE: "Odebrat civilní GNSS přístup" # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_ACTION_DESC: "Odebrat přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_LOC: "Odeslat odebrání civilní GNSS přístupu" # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni odebírají přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Odebrat Civilian GNSS Access" # todo: NEW TRANSLATION
-  REVOKE_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Oni odebírají přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_TITLE: "Přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_ACTION_DESC: "Požádat o přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_TITLE: "Nabídnout přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_TITLE: "Odvolat přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_ACTION_DESC: "Odvolat přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_LOC: "Odeslat zrušení přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_RECIEVER_LOC: "Odvolávají náš přístup k jejich vojenskému satelitnímu komunikačnímu systému!" # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_COM_ACCESS_ACCEPTED_DESC: "Odvolávají náš přístup k jejich vojenskému satelitnímu komunikačnímu systému!" # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_TITLE: "Přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_ACTION_DESC: "Požádat o přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_TITLE: "Nabídnout přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  OFFER_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_TITLE: "Odvolat přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_ACTION_DESC: "Odvolat přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_LOC: "Odeslat zrušení přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_COM_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_TITLE: "Přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_TITLE: "Nabídnout přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_TITLE: "Odvolat přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_ACTION_DESC: "Odvolat přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_LOC: "Odeslat zrušení přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_MIL_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_TITLE: "Přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REQUEST_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_TITLE: "Nabídnout přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_ACTION_DESC: "Nabídnout přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  OFFER_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_TITLE: "Odvolat přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_ACTION_DESC: "Odvolat přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_LOC: "Odeslat zrušení přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
-  REVOKE_CIV_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
-  CPD_OFFER_CONDITIONAL_PEACE_TITLE: "Odeslat podmínky míru" # todo: NEW TRANSLATION
-  CPD_OFFER_CONDITIONAL_PEACE_ACTION_DESC: "Vybudováním vzájemně přijatelné §Ymírové dohody§!, můžeme ukončit tuto válku a vyhnout se tomu, aby některá z našich zemí dospěla do stavu §Ytotální války§!." # todo: NEW TRANSLATION
-  CPD_receive_offer_TITLE_TEXT: "Nabídka míru přijata" # todo: NEW TRANSLATION
-  CPD_receive_offer_DESC_TEXT: "Přijata byla mírová delegace z [ROOT.GetNameWithFlag], naši diplomaté posuzují nabídku, ale vy máte poslední slovo. Podepíšeme smlouvu, nebo budeme pokračovat v [CPD_receive_offer_DESC_WAR_TYPE]?" # todo: NEW TRANSLATION
-  CPD_receive_offer_DESC_OFFENSIVE_WAR: "Ofenzivní" # todo: NEW TRANSLATION
-  CPD_receive_offer_DESC_DEFENSIVE_WAR: "Obrana naší země" # todo: NEW TRANSLATION
-  CPD_base_reluctance: "Základní neochota přijmout" # todo: NEW TRANSLATION
-  CPD_economic_cost_of_war: "Ekonomické náklady války" # todo: NEW TRANSLATION
-  CPD_support_of_war: "Podpora války" # todo: NEW TRANSLATION
-  CPD_relative_strength_of_belligerents: "Relativní síla bojujících stran" # todo: NEW TRANSLATION
-  CPD_close_to_surrender: "Blízko kapitulace" # todo: NEW TRANSLATION
-  CPD_battles_won: "Relativní počet vítězných bitev" # todo: NEW TRANSLATION
-  CPD_power_ranking: "Žebříček síly" # todo: NEW TRANSLATION
-  CPD_faction_backing: "Podpora frakce" # todo: NEW TRANSLATION
-  CPD_months_at_war: "[THIS.GetNameWithFlag] Měsíců ve válce" # todo: NEW TRANSLATION
-  CPD_accepting_peace_deal: "Cena bodu mírové dohody" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TITLE: "Přivolat intervenční sílu" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_ACTION_DESC: "V okamžiku můžeme zvolit stažení naší intervenční síly." # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rmusí mít aktivní intervenční síly od nás, které můžeme stáhnout.§!" # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! musí mít aktivní intervenční síly od nás, které můžeme stáhnout." # todo: NEW TRANSLATION
+ RECALL_VOLUNTEERS_SEND_DESC: "Bitva, do které se §Y[This.GetNameWithFlag]§! dostala, už není náš boj. Je čas stáhnout naše síly z konfliktu.\n\n§YTato akce stáhne naše intervenční síly ze [This.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ base_trade_condition: "Základní neochota vůči §YObchodní dohodě§!" # todo: NEW TRANSLATION
+ base_mutual_investment_treaty_condition: "Základní neochota vůči §YDohoda o vzájemných investicích§!" # todo: NEW TRANSLATION
+ base_propose_subsidies_to_subject_condition: "Základní neochota vůči §YOverlord Subsidies§!" # todo: NEW TRANSLATION
+ base_assume_debt_condition: "Základní neochota vůči §YPřevzetí dluhu§!" # todo: NEW TRANSLATION
+ base_negotiate_operative_release: "Základní neochota vůči §YVyjednání propuštění operativce§!" # todo: NEW TRANSLATION
+ base_enforce_peace_option: "Základní neochota vůči §YProsazení míru§!" # todo: NEW TRANSLATION
+ condition_two: "Nátlak typu vlády" # todo: NEW TRANSLATION
+ condition_three: "Nátlak z názoru" # todo: NEW TRANSLATION
+ condition_four: "Členství v NATO" # todo: CHANGED
+ condition_five: "Členství v EU" # todo: CHANGED
+ condition_six: "Stejná frakce" # todo: CHANGED
+ trade_condition_has_same_government: "Země mají stejnou vládu" # todo: NEW TRANSLATION
+ trade_has_positive_relations: "Má kladné vztahy" # todo: NEW TRANSLATION
+ condition_seven: "Je subjektem [Root.GetNameWithFlag]" # todo: NEW TRANSLATION
+ condition_eight: "[Root.GetNameWithFlag] Ovlivňuje [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+ condition_nine: "Aktuální úroková sazba [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+ condition_ten: "[THIS.GetNameWithFlag] z žebříčku moci" # todo: NEW TRANSLATION
+ difference_in_power_ranking: "Rozdíl v hodnocení síly" # todo: NEW TRANSLATION
+ war_duration_reluctance: "Neochota kvůli délce války" # todo: NEW TRANSLATION
+ surrender_progress_reluctance: "Neochota kvůli průběhu kapitulace" # todo: NEW TRANSLATION
+ desperation_to_end_war: "Zoufalství ukončit válku" # todo: NEW TRANSLATION
+ base_energy_load_sharing: "Základní neochota vůči §YSdílení energetické zátěže§!" # todo: NEW TRANSLATION
+ proposer_energy_surplus: "Energetický přebytek země [ROOT.GetNameWithFlag]" # todo: NEW TRANSLATION
+ sharer_energy_surplus: "Energetický přebytek země [THIS.GetNameWithFlag]" # todo: NEW TRANSLATION
+ base_desire: "Základní touha" # todo: NEW TRANSLATION
+ opinion_condition: "Názor" # todo: NEW TRANSLATION
+ military_cooperation_condition: "Vojenská spolupráce" # todo: NEW TRANSLATION
+ war_ally_condition: "Válečný spojenec" # todo: NEW TRANSLATION
+ usa_ally_condition: "Spojenec USA" # todo: NEW TRANSLATION
+ commonwealth_condition: "Commonwealth" # todo: NEW TRANSLATION
+ sco_member_condition: "Člen ŠOS" # todo: NEW TRANSLATION
+ opposing_factions_condition: "Znepřátelené frakce" # todo: NEW TRANSLATION
+ war_condition: "Válka" # todo: NEW TRANSLATION
+ wargoal_condition: "Válečné cíle" # todo: NEW TRANSLATION
+ condition_high_interest_rate: "Nátlak z úrokové sazby" # todo: NEW TRANSLATION
+ base_close_embassy: "Základní neochota vůči §YZavření velvyslanectví§!" # todo: NEW TRANSLATION
+ base_reopen_embassy: "Základní neochota vůči §YZnovuotevření velvyslanectví§!" # todo: NEW TRANSLATION
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_TITLE: "Navrhnout §Yobchodní dohodu§!" # todo: NEW TRANSLATION
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_ACTION_DESC: "Navrhnout §Yobchodní dohodu§! s touto zemí by mělo být vzájemně prospěšné. Přinese větší prosperitu pro obě naše země. Pokud je země ochotná investovat, mít §Yobchodní dohodu§! zvyšuje šanci na získání investic.\n\nNásledující faktory určují, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO.\n\nDále, pokud je cílová země AI, bude zařazena do §YPermanent Investment Target§! pool, což znamená, že se bude snažit investovat do vás." # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_TOOLTIP: "Momentálně není v §YObchodní dohodě§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ PROPOSAL_MISSING_TOOLTIP: "Momentálně nepřijímá nabídku od §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_DESC: "§YObchodní dohoda§! mezi našimi dvěma zeměmi zvýší obchodní vliv o §G100§! a názor s §Y[This.GetNameWithFlag]§! o §G25§! po jejím přijetí. Obě země rovněž získají přibližně §G~1%§! vlivu nad sebou." # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_TT: "[THIS.GetNameWithFlag] §GPřijato§! §Yobchodní dohodu§!!" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijalo dohodu přinášející následující účinky:\n\nObchodní vliv se zvýší o §G50§!\nNázor se zvýší o §G25§!\nVliv se zvýší o přibližně §G~1%§!\n" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_REJECT_TT: "[THIS.GetNameWithFlag] §ROdmítl§! §Yobchodní dohodu§!!" # todo: NEW TRANSLATION
+ PROPOSE_TRADE_AGREEMENT_REJECT_DESC: "Bohužel [THIS.GetNameWithFlag] odmítl naši obchodní dohodu. Snad jindy bychom mohli dohodu podepsat." # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_TITLE: "Ukončit §Yobchodní dohodu§!" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_ACTION_DESC: "Ukončení §Yobchodní dohody§! s tímto národem vyvolá napětí mezi našimi zeměmi." # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_TOOLTIP: "Aktuálně je v §Yobchodní dohodě§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_DESC: "Ukončení §Yobchodní dohody§! má následující dopady:\n\nObchodní vliv klesne o §R50§!\nNázor klesne o §R25§! s modifikátorem názoru §R15§! kvůli porušení dohody\n" # todo: NEW TRANSLATION
+ CANCEL_TRADE_AGREEMENT_RECEIVING_DESC: "Zpráva od §Y[Root.GetNameWithFlag]§! mění jejich diplomatický status s námi: Zrušení obchodní dohody" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_TITLE: "Navrhnout §YPřevzetí dluhu§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACTION_DESC: "Můžeme navrhnout §YPřevzetí dluhu§! jiné zemi, abychom pomohli zmírnit jejich aktuální ekonomické potíže. Pokud nabídku přijmou, získáme malou část názoru a převezmeme 25 % jejich §YDluhu§!. Část dluhu bude nejprve odečtena z naší pokladny.\n\nNásledující faktory ovlivní, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_DESC: "Můžeme převzít dluh jiné země §YDluhu§! aby pomohl zmírnit jejich aktuální ekonomické potíže. Pokud nabídku přijmou, získáme malou část názoru a převezmeme 25 % jejich §YDluhu§!. Část dluhu bude nejprve odečtena z naší pokladny." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACCEPT: "[THIS.GetNameWithFlag] §GPřijato§!." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijalo převzetí §YDluhu§!. Převzali jsme dvacet pět procent jejich aktuálního §YDluhu§!. Ulehčujeme tak část břemene [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_REJECT: "[THIS.GetNameWithFlag] §ROdmítl§!." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ASSUME_DEBT_REJECT_DESC: "Bohužel, [THIS.GetNameWithFlag] odmítl(a) naše převzetí dluhu. Snad jindy bychom mohli uzavřít dohodu." # todo: NEW TRANSLATION
+ treasury_more_than_25_debt_tt: "Aktuálně odhadovaný §Ydluh§! k převzetí: $$[?tmp|-] mld.\n" # todo: CHANGED
+ PROPOSE_MUTUAL_INVESTMENT_TREATY_TOOLTIP: "Momentálně není v §YDohodě o vzájemných investicích§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ PROPOSE_MUTUAL_INVESTMENT_TREATY_TITLE: "Navrhnout §YDohodu o vzájemných investicích§!" # todo: NEW TRANSLATION
+ PROPOSE_MUTUAL_INVESTMENT_TREATY_ACTION_DESC: "Můžeme navrhnout §YDohodu o vzájemných investicích§! s touto zemí, abychom podpořili investice v obou našich zemích. Dohoda nám oběma poskytne snížení §YInvestiční náklady a doba trvání§! o §G5§! % a §G~1§! % vlivu na sebe navzájem.\n\nNásledující faktory určují, jak AI na dohodu zareaguje:\nStejná vláda, Názor, Vliv, Frakce, Členství v EU, Členství v NATO.\n\nKromě toho, pokud je cílová země AI, bude zařazena do §YPermanent Investment Target§! pool, což znamená, že se bude snažit investovat do vás." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY: "Navrhování §YDohody o vzájemných investicích§! zvýší §YObchodní vliv§! o §G30§! a §YNázor§! s §Y[This.GetNameWithFlag]§! o §G30§!!, pokud to druhá země přijme. Obě země také obdrží přibližně §G~1%§! §Yvlivu§! nad sebou navzájem. Dále bude každá země mít §YInvestiční náklady a doba trvání§! na druhé straně sníženy o §G5§!%." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_ACCEPT: "[THIS.GetNameWithFlag] §GPodepsal(a)§! §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_ACCEPT_DESC: "[THIS.GetNameWithFlag] podepsalo §YMutual Investment Treaty§!. Naše dva národy se rychle sbližují a investoři v naší zemi projevují zájem o nové obchodní příležitosti." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_REJECT: "[THIS.GetNameWithFlag] §ROdmítl§! §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_MUTUAL_INVESTMENT_TREATY_REJECT_DESC: "[THIS.GetNameWithFlag] odmítl(a) §YMutual Investment Treaty§!. Investoři v naší zemi jsou zklamaní, že naše dva národy se nemohly dohodnout. Možná jindy..." # todo: NEW TRANSLATION
+ CANCEL_MUTUAL_INVESTMENT_TREATY_TITLE: "Ukončit §YMutual Investment Treaty§!" # todo: NEW TRANSLATION
+ CANCEL_MUTUAL_INVESTMENT_TOOLTIP: "Momentálně je v §YMutual Investment Treaty§! s §Y[This.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ CANCEL_MUTUAL_INVESTMENT_TREATY_ACTION_DESC: "Už nemáme zájem udržovat naši §YMutual Investment Treaty§! mezi našimi dvěma zeměmi. Je čas ukončit §YMutual Investment Treaty§! a začít znovu vyjednávat nové dohody pro budoucnost. Ukončení §Yobchodní dohody§! má následující dopady:\n\nObchodní vliv klesne o §R50§!\nNázor klesne o §R25§! s modifikátorem názoru §R15§! kvůli porušení dohody\n" # todo: NEW TRANSLATION
+ DIPLO_ACTION_CANCEL_MUTUAL_INVESTMENT_TREATY: "Bohužel [THIS.GetNameWithFlag] odstoupil z naší §YMutual Investment Treaty§!. Snad jindy bychom mohli podepsat další §YMutual Investment Treaty§!, ale nyní již dohodu nemáme." # todo: NEW TRANSLATION
+ PROPOSE_SUBSIDIES_TO_SUBJECT_TITLE: "Navrhnout §YOverlord Subsidies§!" # todo: NEW TRANSLATION
+ PROPOSE_SUBSIDIES_TO_SUBJECT_ACTION_DESC: "Můžeme navrhnout subvenci pro našeho podřízeného ve výši §Y1%§! z jejich celkového §YGross Domestic Product§! (GDP) týdně, aby se ekonomicky rozvíjeli. Na oplátku budou méně náchylní k odtržení a budou pomalu ztrácet autonomii." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT: "Nabízení subvencí našemu podřízenému bude obnášet, že budeme týdně brát §Y1%§! z jejich celkového §YGross Domestic Product§! (GDP) k jejich ekonomickému rozvoji. Pokud to přijmou, budou méně náchylní k odtržení a budou pomalu ztrácet autonomii." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_ACCEPT: "[THIS.GetNameWithFlag] §GSouhlasí§! s §YOverlord Subsidies§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasí s §YOverlord Subsidies§!. Naše pokladna zahájila potřebné kroky k zajištění této rozpočtové pomoci." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_REJECT: "[THIS.GetNameWithFlag] §ROdmítlo§! §YOverlord Subsidies§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_SUBSIDIES_TO_SUBJECT_REJECT_DESC: "[THIS.GetNameWithFlag] odmítlo §YOverlord Subsidies§!." # todo: NEW TRANSLATION
+ CANCEL_SUBSIDIES_TO_SUBJECT_TITLE: "Zrušit §YOverlord Subsidies§!" # todo: NEW TRANSLATION
+ CANCEL_SUBSIDIES_TO_SUBJECT_ACTION_DESC: "Už nechceme pokračovat v §YOverlord Subsidies§!. Je načase zrušit aktuální dohodu. Důvodů může být mnoho, ale rozhodli jsme se, že je to v našem nejlepším zájmu." # todo: NEW TRANSLATION
+ DIPLO_ACTION_CANCEL_OVERLORD_SUBSIDIES: "Dotační program §YOverlord Subsidies§! mezi [ROOT.GetNameWithFlag] a [THIS.GetNameWithFlag] byl zrušen. Převod prostředků skončí po tomto týdnu." # todo: NEW TRANSLATION
+ overlord_subsidies: "Nadvláda subvencuje naši zemi." # todo: NEW TRANSLATION
+ NEGOTIATE_OPERATIVE_RELEASE_TITLE: "Vyjednávat o propuštění operativce" # todo: NEW TRANSLATION
+ NEGOTIATE_OPERATIVE_RELEASE_ACTION_DESC: "Můžeme navrhnout vyjednání propuštění jednoho z našich zajatých §Yoperativců§! výměnou za $§Y2 miliardy§!." # todo: CHANGED
+ DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_DESC: "Nedávno byl v této zemi zajat jeden z našich operativců. Můžeme jednat s vládou o jeho propuštění a zaplatit malou náhradu, nebo se můžeme vrátit k našim utajeným postupům." # todo: CHANGED
+ DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GPřijalo§! §YPropuštění operativce§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasilo s propuštěním zajatého operativce, který byl v jejich rukou. Zaplatili jsme jim §Y$2 miliardy§! jako náhradu." # todo: NEW TRANSLATION
+ DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_TITLE: "[THIS.GetNameWithFlag] §ROdmítlo§! k §YOperative Release§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_NEGOTIATE_OPERATIVE_RELEASE_REJECT_DESC: "[THIS.GetNameWithFlag] odmítlo propuštění zajatého operativce v jejich držení. Takže jdeme na plán B." # todo: NEW TRANSLATION
+ ENFORCE_PEACE_OPTION_TITLE: "Prosadit mír" # todo: NEW TRANSLATION
+ ENFORCE_PEACE_OPTION_ACTION_DESC: "Můžeme se pokusit prosadit mír v této zemi, abychom zastavili aktivní a probíhající konflikty, za cenu značného množství vlivu a sympatií." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENFORCE_PEACE_OPTION_DESC: "[THIS.GetNameWithFlag] je momentálně v útočné válce a je v našem zájmu pokusit se jim vynutit mír. Měli bychom jim říct, aby přestali bojovat ve svých současných útočných válkách." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §GSouhlasil§! s §YProsazením míru§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENFORCE_PEACE_OPTION_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasil s okamžitým podepsáním příměří se svými současnými válečnými nepřáteli. Ztratili jsme velké množství vlivu v této zemi." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_TITLE: "[THIS.GetNameWithFlag] §GOdmítl§! §YProsazení míru§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENFORCE_PEACE_OPTION_REJECT_DESC: "[THIS.GetNameWithFlag] odmítl podmínky, které jsme předložili pro okamžité příměří... Asi přichází na řadu plán B." # todo: NEW TRANSLATION
+ PROPOSE_ENERGY_LOAD_SHARING_TITLE: "Navrhnout §YSdílení energetické zátěže§!" # todo: NEW TRANSLATION
+ PROPOSE_ENERGY_LOAD_SHARING_ACTION_DESC: "Můžeme navrhnout dohodu o §YSdílení energetické zátěže§!, v jejímž rámci bychom s nimi sdíleli naši energii." # todo: NEW TRANSLATION
+ DIPLO_ACTION_PROPOSE_ENERGY_LOAD_SHARING_DESC: "Zdá se, že [THIS.GetNameWithFlag] má potíže se svou současnou elektrickou sítí. Měli bychom zjistit, zda mají zájem o pomoc z naší elektrické sítě?" # todo: NEW TRANSLATION
+ REQUEST_ENERGY_LOAD_SHARING_TITLE: "Požádat o §YSdílení energetické zátěže§!" # todo: NEW TRANSLATION
+ REQUEST_ENERGY_LOAD_SHARING_ACTION_DESC: "Můžeme požádat o uzavření dohody o §YSdílení energetické zátěže§!, v jejímž rámci by s námi sdíleli svou energii." # todo: NEW TRANSLATION
+ DIPLO_ACTION_REQUEST_ENERGY_LOAD_SHARING_DESC: "[THIS.GetNameWithFlag] je v současnosti ideálním kandidátem pro sdílení energie. Měli bychom zjistit, zda jsou ochotni s námi sdílet energii a pomoci tak naší síti?" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENERGY_LOAD_SHARING_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §Gsouhlasí§! s §YSdílením energetické zátěže§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENERGY_LOAD_SHARING_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasí s podmínkami dohody o §YSdílení energetické zátěže§!. Byla zahájena výstavba společné elektrické infrastruktury." # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENERGY_LOAD_SHARING_REJECT_TITLE: "[THIS.GetNameWithFlag] §Godmítá§! §YSdílení energetické zátěže§!" # todo: NEW TRANSLATION
+ DIPLO_ACTION_ENERGY_LOAD_SHARING_REJECT_DESC: "[THIS.GetNameWithFlag] odmítá podmínky dohody o §YSdílení energetické zátěže§!. Možná ho budou potřebovat později." # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_TITLE: "Zakoupit §Ymateriál reaktorové kvality§!" # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_ACTION_DESC: "Můžeme navrhnout nákup §Ymateriálu reaktorové kvality§! od tohoto národa pro pohon našich jaderných reaktorů. Transakce stojí §Y4 miliardy $§! za §Y5000 kg§! materiálu.\n\nNásledující faktory ovlivní reakci AI na dohodu:\nPřebytečná výroba, názor, frakce, členství v NATO, členství v CSTO, geopolitická rivalita." # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_DESC: "Chceme od [THIS.GetNameWithFlag] zakoupit §Y5000 kg§! §Ymateriálu reaktorové kvality§! za §Y4 miliardy $§!. Tento materiál je nezbytný pro udržování provozu našich jaderných reaktorů." # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_ACCEPT_TITLE: "[THIS.GetNameWithFlag] §Gpřijímá§! §Ynákup materiálu reaktorové kvality§!" # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_ACCEPT_DESC: "[THIS.GetNameWithFlag] souhlasí s prodejem §Y5000 kg§! §Ymateriálu reaktorové kvality§! za §Y4 miliardy $§!. Zásilka je na cestě a očekává se její brzké doručení." # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_REJECT_TITLE: "[THIS.GetNameWithFlag] §Rodmítá§! §Ynákup materiálu reaktorové kvality§!" # todo: NEW TRANSLATION
+ PURCHASE_REACTOR_GRADE_MATERIAL_REJECT_DESC: "[THIS.GetNameWithFlag] odmítá naši nabídku na nákup §Ymateriálu reaktorové kvality§!. Budeme muset hledat jiné způsoby, jak zásobovat naše reaktory." # todo: NEW TRANSLATION
+ recently_purchased_reactor_material_tt: "V poslední době nezakoupil §Ymateriál reaktorové kvality§! od [PREV.GetNameWithFlag].\n" # todo: NEW TRANSLATION
+ base_purchase_reactor_grade: "Základní neochota vůči §Ynákupu materiálu reaktorové kvality§!" # todo: NEW TRANSLATION
+ surplus_production_condition: "Nadbytečná výroba jaderného paliva" # todo: NEW TRANSLATION
+ csto_member_condition: "Členství v CSTO" # todo: NEW TRANSLATION
+ geopolitical_rivals_condition: "Geopolitická rivalita" # todo: NEW TRANSLATION
+ CANCEL_ENERGY_LOAD_SHARING_TITLE: "Zrušit §YSdílení energetické zátěže§!" # todo: NEW TRANSLATION
+ CANCEL_ENERGY_LOAD_SHARING_ACTION_DESC: "Již nemáme zájem pokračovat v naší současné dohodě o §YSdílení energetické zátěže§!. Můžeme ji zrušit a věnovat se něčemu jinému." # todo: NEW TRANSLATION
+ DIPLO_ACTION_CANCEL_ENERGY_LOAD_SHARING: "Bohužel [THIS.GetNameWithFlag] odstoupil od naší dohody o §YSdílení energetické zátěže§!. Možná někdy jindy uzavřeme nové §YSdílení energetické zátěže§!, ale nyní už mezi našimi dvěma národy energie neproudí." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_TITLE: "Přístup k vojenskému GNSS" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACTION_DESC: "Požádat o přihlašovací údaje k jejich šifrované vojenské poziční síti. Přístup bude zahrnovat vyjednávání bilaterální smlouvy, závazky k recipročnímu sdílení informací a víceúrovňové autorizace v závislosti na operačních potřebách. Pokud bude žádost přijata, získáme přístup k jejich §Yvojenské satelitní síti GNSS§!." # todo: CHANGED
+ REQUEST_MIL_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k vojenské GNSS" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni žádají o přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Získáme prospěch z jejich vojenské GNSS sítě." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_REJECTED_DESC: "Odmítli nám přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YVojenská GNSS systémová úroveň§! [PREV.GetNameWithFlag] musí být vyšší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_TITLE: "Nabídka přístupu k vojenskému GNSS" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACTION_DESC: "Poskytnout přihlašovací údaje k naší šifrované vojenské poziční síti jako gesto strategického partnerství. Toto oprávnění zahrnuje víceúrovňové přístupové protokoly, instruktáže o operační bezpečnosti a podporu integrace jejich obranných systémů. Takový přístup představuje významnou investici do bilaterální důvěry a interoperability. Pokud bude nabídka přijata, získají přístup k naší §Yvojenské satelitní síti GNSS§!." # todo: CHANGED
+ OFFER_MIL_GNSS_ACCESS_LOC: "Odeslat nabídku na přístup k vojenské GNSS" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni nabízejí přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Oni budou mít prospěch z naší vojenské GNSS sítě." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_REJECTED_TITLE: "Nabídka zamítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku na přístup k naší vojenské GNSS síti." # todo: NEW TRANSLATION
+ OFFER_MIL_GNSS_ACCESS_SELECTABLE_TT: "§YVojenský GNSS systémový level§! z [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovnat úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_TITLE: "Odebrat vojenský GNSS přístup" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACTION_DESC: "Odvolat všechny přihlašovací údaje k naší šifrované vojenské poziční síti a okamžitě ukončit jejich přístup k integraci. Tímto krokem se přeruší kritické navigační schopnosti jejich obranných operací, deaktivují se přesně naváděné systémy a vyšle se signál o zásadním narušení strategické důvěry. Takové opatření má závažné důsledky pro bilaterální bezpečnostní spolupráci a operační interoperabilitu. Ztratí veškerý přístup k naší §Yvojenské satelitní síti GNSS§!." # todo: CHANGED
+ REVOKE_MIL_GNSS_ACCESS_LOC: "Odeslat odebrání GNSS přístupu" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_RECIEVER_LOC: "Oni odebírají náš přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACCEPTED_TITLE: "Odebrat vojenský GNSS přístup" # todo: NEW TRANSLATION
+ REVOKE_MIL_GNSS_ACCESS_ACCEPTED_DESC: "Odeberou náš přístup k jejich vojenské GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_TITLE: "Přístup k civilní GNSS" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACTION_DESC: "Požádat o přístup k integraci jejich civilní satelitní poziční sítě za účelem zlepšení navigace a koordinace logistiky. To zahrnuje standardní dohody o sdílení dat, posouzení technické kompatibility a stanovení protokolů pro připojení našich systémů. Takový přístup umožní zvýšit operační efektivitu v dopravě, záchranných službách a správě infrastruktury. Pokud bude žádost přijata, získáme přístup k jejich §Ycivilní satelitní síti GNSS§!." # todo: CHANGED
+ REQUEST_CIV_GNSS_ACCESS_LOC: "Odeslat žádost o přístup k civilní GNSS" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni žádají o přístup k naší civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Získáme prospěch z jejich civilní GNSS síťi." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_REJECTED_DESC: "Odmítli nám přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YCivilian GNSS System Level§! z [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_TITLE: "Nabídka přístupu k civilní GNSS" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACTION_DESC: "Poskytnout přístup k naší civilní satelitní poziční síti na podporu jejich navigační a logistické infrastruktury. Toto oprávnění zahrnuje technickou pomoc s integrací, protokoly sdílení dat a koordinaci kompatibilních přijímacích systémů. Takový přístup usnadní zvýšení operační efektivity v dopravě, při mimořádných událostech a při rozvoji civilní infrastruktury. Pokud bude nabídka přijata, získají přístup k naší §Ycivilní satelitní síti GNSS§!." # todo: CHANGED
+ OFFER_CIV_GNSS_ACCESS_LOC: "Odeslat nabídku na přístup k civilní GNSS" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni nabízejí přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Oni budou mít prospěch z naší civilní GNSS sítě." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_REJECTED_TITLE: "Nabídka zamítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_REJECTED_DESC: "Odmítli naši nabídku na přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ OFFER_CIV_GNSS_ACCESS_SELECTABLE_TT: "§YCivilian GNSS System Level§! z [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovná úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_TITLE: "Odebrat civilní GNSS přístup" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACTION_DESC: "Ukončit jejich přístup k naší civilní satelitní poziční síti a odvolat všechny přihlašovací údaje. Tímto krokem se přeruší protokoly sdílení dat, deaktivuje se jejich integrace s našimi systémy a může dojít k významnému narušení jejich navigace, logistiky a schopností reagovat na mimořádné události. Takové opatření signalizuje zhoršování vztahů a přináší praktické důsledky pro jejich operace. Ztratí svůj dosavadní přístup k naší §Ycivilní satelitní síti GNSS§!." # todo: CHANGED
+ REVOKE_CIV_GNSS_ACCESS_LOC: "Odeslat odebrání civilní GNSS přístupu" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_RECIEVER_LOC: "Oni odebírají přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACCEPTED_TITLE: "Odebrat Civilian GNSS Access" # todo: NEW TRANSLATION
+ REVOKE_CIV_GNSS_ACCESS_ACCEPTED_DESC: "Oni odebírají přístup k jejich civilní GNSS síti." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_TITLE: "Přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACTION_DESC: "Požádat o přístup k integraci jejich vojenské satelitní komunikační infrastruktury prostřednictvím zavedených kanálů obranné spolupráce. To zahrnuje vyjednávání o oprávněních k zabezpečenému připojení, šifrovaných přenosových protokolech a přidělení šířky pásma při dodržení přísných zásad operační bezpečnosti. Takový přístup umožní odolné schopnosti velení a řízení a představuje významné rozšíření strategické interoperability. Pokud bude žádost přijata, získají přístup k naší §Yvojenské satelitní síti COMSAT§!." # todo: CHANGED
+ REQUEST_MIL_COM_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_TITLE: "Nabídnout přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACTION_DESC: "Poskytnout oprávnění k zabezpečenému připojení k naší vojenské satelitní komunikační infrastruktuře jako gesto strategického partnerství. Toto oprávnění zahrnuje šifrované přenosové protokoly, vyhrazenou šířku pásma a podporu integrace jejich systémů velení a řízení. Takový přístup představuje významnou investici do bilaterální důvěry a operační interoperability. Pokud bude nabídka přijata, získáme přístup k jejich §Yvojenské satelitní síti COMSAT§!." # todo: CHANGED
+ OFFER_MIL_COM_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského satelitního komunikačního systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu vojenskému satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_MIL_COM_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského COMSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_TITLE: "Odvolat přístup k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACTION_DESC: "Odvolat všechna oprávnění k připojení k naší vojenské satelitní komunikační síti a okamžitě ukončit jejich přístup k přenosu. Tímto krokem se přeruší kritické kanály velení a řízení jejich obranných operací, deaktivují se schopnosti zabezpečené komunikace a vyšle se signál o zásadním narušení strategické důvěry. Takové opatření má závažné důsledky pro bilaterální bezpečnostní spolupráci a společnou operační kapacitu. Ztratí svůj dosavadní přístup k naší §Yvojenské satelitní síti COMSAT§!." # todo: CHANGED
+ REVOKE_MIL_COM_ACCESS_LOC: "Odeslat zrušení přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_RECIEVER_LOC: "Odvolávají náš přístup k jejich vojenskému satelitnímu komunikačnímu systému!" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému COMSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_COM_ACCESS_ACCEPTED_DESC: "Odvolávají náš přístup k jejich vojenskému satelitnímu komunikačnímu systému!" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_TITLE: "Přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACTION_DESC: "Požádat o přístup k integraci jejich civilní satelitní komunikační sítě za účelem zlepšení konektivity a schopností přenosu dat. To zahrnuje standardní dohody o šířce pásma, posouzení technické kompatibility a stanovení protokolů pro připojení našich systémů. Takový přístup umožní zlepšit komunikační infrastrukturu pro vládní služby, koordinaci mimořádných událostí a operace v odlehlých oblastech. Pokud bude žádost přijata, získáme přístup k jejich §Ycivilní satelitní síti COMSAT§!." # todo: CHANGED
+ REQUEST_CIV_COM_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_TITLE: "Nabídnout přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACTION_DESC: "Poskytnout přístup k naší civilní satelitní komunikační síti na podporu jejich infrastruktury konektivity a přenosu dat. Toto oprávnění zahrnuje technickou pomoc s integrací, dohody o přidělení šířky pásma a koordinaci kompatibilních pozemních systémů. Takový přístup usnadní zlepšení komunikace pro vládní služby, reakci na mimořádné události a operace v odlehlých nebo nedostatečně obsluhovaných regionech. Pokud bude nabídka přijata, získají přístup k naší §Ycivilní satelitní síti COMSAT§!." # todo: CHANGED
+ OFFER_CIV_COM_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního satelitního komunikačního systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ OFFER_CIV_COM_ACCESS_SELECTABLE_TT: "§YÚroveň civilního COMSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_TITLE: "Odvolat přístup k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACTION_DESC: "Ukončit jejich přístup k naší civilní satelitní komunikační síti a odvolat všechna oprávnění k připojení. Tímto krokem se přeruší schopnosti přenosu dat, deaktivuje se jejich integrace s našimi systémy a může dojít k významnému narušení vládní komunikace, koordinace mimořádných událostí a konektivity v odlehlých oblastech. Takové opatření signalizuje zhoršování vztahů a přináší praktické důsledky pro jejich operace. Ztratí svůj dosavadní přístup k naší §Ycivilní satelitní síti COMSAT§!." # todo: CHANGED
+ REVOKE_CIV_COM_ACCESS_LOC: "Odeslat zrušení přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu COMSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_COM_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu satelitnímu komunikačnímu systému." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_TITLE: "Přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k integraci jejich vojenského průzkumného satelitního systému prostřednictvím zavedených kanálů zpravodajského sdílení. To zahrnuje vyjednávání o přístupu ke klasifikovaným snímkům, protokolech pro data z dohledu v reálném čase a oprávněních k zabezpečenému stahování dat při dodržení přísných zásad operační bezpečnosti. Takový přístup umožní lepší strategický přehled a představuje významné prohloubení zpravodajské spolupráce. Pokud bude žádost přijata, získáme přístup k jejich §Yvojenské satelitní síti SPYSAT§!." # todo: CHANGED
+ REQUEST_MIL_SPY_ACCESS_LOC: "Odeslat žádost o přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_TITLE: "Nabídnout přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACTION_DESC: "Poskytnout přístup ke klasifikovaným snímkům z našeho vojenského průzkumného satelitního systému jako gesto strategického partnerství. Toto oprávnění zahrnuje sdílení dat z dohledu v reálném čase, protokoly zabezpečeného stahování dat a podporu integrace jejich infrastruktury pro zpravodajskou analýzu. Takový přístup představuje významnou investici do bilaterální důvěry a zpravodajské interoperability. Pokud bude nabídka přijata, získají přístup k naší §Yvojenské satelitní síti SPYSAT§!." # todo: CHANGED
+ OFFER_MIL_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho vojenského systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_MIL_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň vojenského SPYSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_TITLE: "Odvolat přístup k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACTION_DESC: "Odvolat veškerá přístupová oprávnění k našemu vojenskému průzkumnému satelitnímu systému a okamžitě ukončit jejich přísun klasifikovaných snímků. Tímto krokem se přeruší kritické schopnosti shromažďování zpravodajských informací, deaktivují se jejich data z dohledu a zaměřování a vyšle se signál o zásadním narušení strategické důvěry. Takové opatření má závažné důsledky pro bilaterální zpravodajskou spolupráci a jejich operační přehled. Ztratí svůj dosavadní přístup k naší §Yvojenské satelitní síti SPYSAT§!." # todo: CHANGED
+ REVOKE_MIL_SPY_ACCESS_LOC: "Odeslat zrušení přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k vojenskému SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_MIL_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému vojenskému systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_TITLE: "Přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACTION_DESC: "Požádat o přístup k integraci jejich civilního průzkumného satelitního systému za účelem zlepšení pozorování Země a monitorovacích schopností. To zahrnuje standardní dohody o sdílení snímků, koordinaci technických datových formátů a stanovení protokolů pro stahování dat do našich analytických systémů. Takový přístup umožní zlepšit monitorování životního prostředí, plánování reakce na katastrofy a posuzování infrastruktury. Pokud bude žádost přijata, získají přístup k naší §Ycivilní satelitní síti SPYSAT§!." # todo: CHANGED
+ REQUEST_CIV_SPY_ACCESS_LOC: "Odeslat žádost o přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_RECIEVER_LOC: "Požadují přístup k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Přístup udělen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budeme těžit z jejich civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_REJECTED_TITLE: "Přístup odepřen!" # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_REJECTED_DESC: "Odepřeli nám přístup k jejich civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REQUEST_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! [PREV.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [ROOT.GetNameWithFlag]." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_TITLE: "Nabídnout přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACTION_DESC: "Poskytnout přístup k našemu civilnímu průzkumnému satelitnímu systému na podporu jejich potřeb v oblasti pozorování Země a monitorování. Toto oprávnění zahrnuje sdílení obrazových dat, technickou pomoc s integrací a koordinaci kompatibilních pozemních analytických stanic. Takový přístup usnadní zlepšení monitorování životního prostředí, připravenosti na katastrofy a plánování civilní infrastruktury. Pokud bude nabídka přijata, získáme přístup k jejich §Ycivilní satelitní síti SPYSAT§!." # todo: CHANGED
+ OFFER_CIV_SPY_ACCESS_LOC: "Odeslat nabídku přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_RECIEVER_LOC: "Nabízejí přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Nabídka přijata!" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_ACCEPTED_DESC: "Budou těžit z našeho civilního systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_REJECTED_TITLE: "Nabídka odmítnuta" # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_REJECTED_DESC: "Odmítli naši nabídku přístupu k našemu civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ OFFER_CIV_SPY_ACCESS_SELECTABLE_TT: "§YÚroveň civilního SPYSAT systému§! [ROOT.GetNameWithFlag] musí být větší než nula a alespoň rovna nebo vyšší než úrovni [PREV.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_TITLE: "Odvolat přístup k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACTION_DESC: "Ukončit jejich přístup k našemu civilnímu průzkumnému satelitnímu systému a odvolat všechna oprávnění k obrazovým datům. Tímto krokem se přeruší jejich schopnosti pozorování Země, deaktivuje se integrace s našimi systémy pro stahování dat a může dojít k významnému narušení monitorování životního prostředí, plánování reakce na katastrofy a hodnocení infrastruktury. Takové opatření signalizuje zhoršování vztahů a omezuje jejich kapacity dohledu a analýzy. Ztratí svůj dosavadní přístup k naší §Ycivilní satelitní síti SPYSAT§!." # todo: CHANGED
+ REVOKE_CIV_SPY_ACCESS_LOC: "Odeslat zrušení přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_RECIEVER_LOC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACCEPTED_TITLE: "Odvolání přístupu k civilnímu SPYSAT" # todo: NEW TRANSLATION
+ REVOKE_CIV_SPY_ACCESS_ACCEPTED_DESC: "Odvolávají přístup ke svému civilnímu systému průzkumných satelitů." # todo: NEW TRANSLATION
+ CLOSE_EMBASSY_ACTION_TITLE: "Zavřít velvyslanectví" # todo: NEW TRANSLATION
+ CLOSE_EMBASSY_ACTION_ACTION_DESC: "Uzavřením našeho velvyslanectví přerušíme hlavní diplomatické vazby s tímto národem.\n\n§YZavření velvyslanectví§! má následující účinky:\nSnížení názoru o §R100§! s průběžným modifikátorem názoru §R25§! kvůli uzavření velvyslanectví." # todo: NEW TRANSLATION
+ DIPLO_ACTION_CLOSE_EMBASSY_ACTION_DESC: "Můžeme se rozhodnout uzavřít naše velvyslanectví s §Y[THIS.GetNameWithFlag]§!, což bude mít následující účinek:\nSnížení názoru o §R100§! s průběžným modifikátorem názoru §R25§! kvůli uzavření velvyslanectví." # todo: NEW TRANSLATION
+ DIPLO_ACTION_CLOSE_EMBASSY_ACCEPT_TITLE: "Velvyslanectví s [THIS.GetNameWithFlag] uzavřeno" # todo: NEW TRANSLATION
+ DIPLO_ACTION_CLOSE_EMBASSY_ACCEPT_DESC: "Uzavřeli jsme naše velvyslanectví s [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
+ DIPLO_ACTION_CLOSE_EMBASSY_REJECT_TITLE: "Uzavření velvyslanectví zrušeno" # todo: NEW TRANSLATION
+ DIPLO_ACTION_CLOSE_EMBASSY_REJECT_DESC: "Rozhodli jsme se neuzavírat naše velvyslanectví s [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
+ REOPEN_EMBASSY_ACTION_TITLE: "Znovuotevřít velvyslanectví" # todo: NEW TRANSLATION
+ REOPEN_EMBASSY_ACTION_ACTION_DESC: "Můžeme znovu otevřít naše velvyslanectví a zmírnit tak napětí.\n\n§YZnovuotevření velvyslanectví§! má následující účinky:\nZvýšení názoru o §G100§! s průběžným modifikátorem názoru §G15§! kvůli znovuotevření velvyslanectví." # todo: NEW TRANSLATION
+ DIPLO_ACTION_REOPEN_EMBASSY_ACTION_DESC: "Můžeme nabídnout znovuotevření našich velvyslanectví s §Y[THIS.GetNameWithFlag]§!, což bude mít následující účinek:\nZvýšení názoru o §G100§! s průběžným modifikátorem názoru §G15§! kvůli znovuotevření velvyslanectví." # todo: NEW TRANSLATION
+ DIPLO_ACTION_REOPEN_EMBASSY_ACCEPT_TITLE: "Velvyslanectví s [THIS.GetNameWithFlag] znovuotevřeno" # todo: NEW TRANSLATION
+ DIPLO_ACTION_REOPEN_EMBASSY_ACCEPT_DESC: "[THIS.GetNameWithFlag] přijal náš návrh na znovuotevření velvyslanectví." # todo: NEW TRANSLATION
+ DIPLO_ACTION_REOPEN_EMBASSY_REJECT_TITLE: "[THIS.GetNameWithFlag] odmítá znovuotevření velvyslanectví" # todo: NEW TRANSLATION
+ DIPLO_ACTION_REOPEN_EMBASSY_REJECT_DESC: "[THIS.GetNameWithFlag] §Yodmítl§! náš návrh na znovuotevření velvyslanectví." # todo: NEW TRANSLATION
+ AISEND_ATTACHE_TITLE: "Návrh na vyslání atašé" # todo: NEW TRANSLATION
+ AISEND_ATTACHE_RECIEVER_LOC: "[ROOT.GetNameWithFlag] by rád vyslal vojenské atašé a poradce, aby působili a cvičili v naší zemi!" # todo: NEW TRANSLATION
+ AIRETURN_ATTACHE_RECIEVER_LOC: "§t[ROOT.GetNameWithFlag] odvolává všechny své vojenské atašé a poradce působící v naší zemi!§!" # todo: NEW TRANSLATION
+ AIRECALL_ATTACHE_ACCEPTED_TITLE: "Atašé odvoláni" # todo: NEW TRANSLATION
+ AIRECALL_ATTACHE_ACCEPTED_DESC: "§t[ROOT.GetNameWithFlag] odvolává všechny své vojenské atašé a poradce působící v naší zemi!§!" # todo: NEW TRANSLATION

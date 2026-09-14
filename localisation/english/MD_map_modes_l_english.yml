@@ -1,51 +1,53 @@
 ﻿l_english:
-  MAPMODE_EU_MAP_MODE_NAME: "EU" # todo: NEW TRANSLATION
-  MAPMODE_EU_MAP_MODE: "EU" # todo: NEW TRANSLATION
-  MAPMODE_EU_MAP_MODE_DESCRIPTION: "Členské státy (tmavé) a potenciální členské státy (světlé) EU." # todo: NEW TRANSLATION
-  EU_map_mode_tooltip: "EU" # todo: NEW TRANSLATION
-  EU_map_mode_tooltip_delayed: "Členské státy tmavší modré a potenciální členské státy světle modré.\n\nFunkcionáři:\nTmavě červená - Předseda Evropské komise, Předseda Evropské rady a Předseda Evropského parlamentu\nHnědá - Generální tajemník EuroNavy\nTmavě zelená - Generální tajemník EuroArmy\nTyrkysová - Vysoký představitel Unie pro zahraniční věci a bezpečnostní politiku\nFialová - Evropský ministr hospodářství a financí\nŽlutá - Prezident Evropské centrální banky\nSvětle zelená - Ředitel Frontexu\nOranžová - Velvyslanec EU při OSN\nRůžová - Prezident Evropské federace" # todo: NEW TRANSLATION
-  MAPMODE_GDP_C_MAP_MODE_NAME: "HDP na obyvatele" # todo: NEW TRANSLATION
-  MAPMODE_GDP_C_MAP_MODE: "HDP na obyvatele" # todo: NEW TRANSLATION
-  MAPMODE_GDP_C_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje HDP na obyvatele státu." # todo: NEW TRANSLATION
-  gdp_c_map_mode_tooltip: "HDP na obyvatele [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
-  gdp_c_map_mode_tooltip_delayed: "HDP na obyvatele §Y[FROM.CONTROLLER.GetNameWithFlag]§! je: $[?FROM.CONTROLLER:gdp_per_capita|Y]K.\nTento režim mapy zobrazuje HDP na obyvatele státu. Představuje, jak velká je ekonomika [FROM.CONTROLLER.GetName] v současnosti. Tento režim mapy se aktualizuje týdně spolu s týdenním ekonomickým tikem nebo při ručním obnovení.\n" # todo: NEW TRANSLATION
-  MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_NAME: "Nesplněná poptávka po energii" # todo: NEW TRANSLATION
-  MAPMODE_ENERGY_CONSUMPTION_MAP_MODE: "Nesplněná poptávka po energii" # todo: NEW TRANSLATION
-  MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální procento nesplněné poptávky po energii v jednotlivých zemích." # todo: NEW TRANSLATION
-  energy_consumption_map_mode_tooltip: "Nesplněná poptávka po energii [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
-  energy_consumption_map_mode_tooltip_delayed: "Nesplněná poptávka po energii [FROM.CONTROLLER.GetNameWithFlag] je: [?FROM.CONTROLLER:unfulfilled_energy_demand_var|%+]\n" # todo: NEW TRANSLATION
-  MAPMODE_PRODUCTIVITY_MAP_MODE_NAME: "Produktivita" # todo: NEW TRANSLATION
-  MAPMODE_PRODUCTIVITY_MAP_MODE: "Produktivita" # todo: NEW TRANSLATION
-  MAPMODE_PRODUCTIVITY_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální produktivitu jednotlivých států." # todo: NEW TRANSLATION
-  productivity_map_mode_tooltip: "Produktivita ve státě, [FROM.GetName]" # todo: NEW TRANSLATION
-  productivity_map_mode_tooltip_delayed: "Produktivita ve státě, [FROM.GetName] je: [?FROM.productivity_state_var|Y]\n" # todo: NEW TRANSLATION
-  MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE_NAME: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
-  MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
-  MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální míru nezaměstnanosti v zemích." # todo: NEW TRANSLATION
-  unemployment_rate_map_mode_tooltip: "Míra nezaměstnanosti v [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
-  unemployment_rate_map_mode_tooltip_delayed: "Míra nezaměstnanosti v [FROM.CONTROLLER.GetNameWithFlag] je: [?FROM.CONTROLLER:total_unemployed_percentage_display|%Y]" # todo: NEW TRANSLATION
-  MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE_NAME: "Hotspoty obnovitelné energie" # todo: NEW TRANSLATION
-  MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE: "Hotspoty obnovitelné energie" # todo: NEW TRANSLATION
-  MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální bonus kapacitního faktoru obnovitelné energie od konkrétního státu." # todo: NEW TRANSLATION
-  renewable_energy_hotspot_map_mode_tooltip: "Bonus kapacitního faktoru obnovitelné energie ve [FROM.GetName]" # todo: NEW TRANSLATION
-  renewable_energy_hotspot_map_mode_tooltip_delayed: "Bonus kapacitního faktoru obnovitelné energie [FROM.GetName] je: [?FROM.state_renewable_capacity_factor_modifier_var|Y]\n" # todo: NEW TRANSLATION
-  MAPMODE_INFLUENCE_MAP_MODE_NAME: "Vliv" # todo: NEW TRANSLATION
-  MAPMODE_INFLUENCE_MAP_MODE: "Vliv" # todo: NEW TRANSLATION
-  MAPMODE_INFLUENCE_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje země, které jste ovlivnili, nedávno ovlivnili nebo pro které jste nastavili měsíční automatický vliv.\n--------------\n§HLegenda:§!\nHráč - §GZelená§!\n1. ovlivňovatel: §CAzurová§!\n2./3. ovlivňovatel: §lSvětle modrá§!\n4. až 7. ovlivňovatel: §nTmavě modrá§!\nStát s automatickým vlivem: §9Oranžová§!\nStáty s omezením rozšíření vlivu: §RČervená§!\n\nTento režim mapy se aktualizuje týdně." # todo: NEW TRANSLATION
-  influence_map_mode_tooltip: "Vliv" # todo: NEW TRANSLATION
-  influence_map_mode_tooltip_delayed: "Tento režim mapy zobrazuje země, které jste ovlivnili, nedávno ovlivnili nebo pro které jste nastavili měsíční automatický vliv.\n--------------\n§HLegenda:§!\nHráč - §GZelená§!\n1. ovlivňovatel: §CAzurová§!\n2./3. ovlivňovatel: §lSvětle modrá§!\n4. až 7. ovlivňovatel: §nTmavě modrá§!\nStát s automatickým vlivem: §9Oranžová§!\nStáty s omezením rozšíření vlivu: §RČervená§!\n\nTento režim mapy se aktualizuje týdně." # todo: NEW TRANSLATION
-  MAPMODE_GCC_MAP_MODE_NAME: "GCC" # todo: NEW TRANSLATION
-  MAPMODE_GCC_MAP_MODE: "GCC" # todo: NEW TRANSLATION
-  MAPMODE_GCC_MAP_MODE_DESCRIPTION: "Členské státy (tmavě zelené) a potenciální členské státy (světle zelené) GCC." # todo: NEW TRANSLATION
-  GCC_map_mode_tooltip: "GCC" # todo: NEW TRANSLATION
-  GCC_map_mode_tooltip_delayed: "Členské státy jsou tmavě zelené a potenciální členské státy světle zelené." # todo: NEW TRANSLATION
-  MAPMODE_ECOWAS_MAP_MODE_NAME: "ECOWAS" # todo: NEW TRANSLATION
-  MAPMODE_ECOWAS_MAP_MODE: "ECOWAS" # todo: NEW TRANSLATION
-  MAPMODE_ECOWAS_MAP_MODE_DESCRIPTION: "Členské státy (tmavě zelené) ECOWAS." # todo: NEW TRANSLATION
-  ECOWAS_map_mode_tooltip: "ECOWAS" # todo: NEW TRANSLATION
-  ECOWAS_map_mode_tooltip_delayed: "Členské státy jsou tmavě zelené." # todo: NEW TRANSLATION
-  MAPMODE_SCO_MAP_MODE_NAME: "SCO" # todo: NEW TRANSLATION
-  MAPMODE_SCO_MAP_MODE: "SCO" # todo: NEW TRANSLATION
-  MAPMODE_SCO_MAP_MODE_DESCRIPTION: "Členské státy (červené), pozorovatelé (růžoví) a potenciální členské státy (světle červené) SCO." # todo: NEW TRANSLATION
-  SCO_map_mode_tooltip: "SCO" # todo: NEW TRANSLATION
-  SCO_map_mode_tooltip_delayed: "Členské státy jsou červené, pozorovatelé růžoví a potenciální členské státy světle červené." # todo: NEW TRANSLATION
+ MAPMODE_EU_MAP_MODE_NAME: "EU" # todo: NEW TRANSLATION
+ MAPMODE_EU_MAP_MODE: "EU" # todo: NEW TRANSLATION
+ MAPMODE_EU_MAP_MODE_DESCRIPTION: "Zobrazuje členské státy EU, potenciální členy a současné držitele funkcí v rámci Evropské unie." # todo: CHANGED
+ EU_map_mode_tooltip: "Evropská unie" # todo: CHANGED
+ EU_map_mode_tooltip_delayed: "Zobrazuje aktuální členství a vedení Evropské unie.\n\n§HLegenda barev:§!\n§nModrá§! = členský stát EU\n§YZlatá§! = potenciální členský stát\n\n§HDržitelé funkcí:§!\n§RČervená§! = předseda Evropské komise, Evropské rady nebo Evropského parlamentu\n§9Hnědá§! = generální tajemník EuroNavy\n§GZelená§! = generální tajemník EuroArmy\n§CAzurová§! = vysoký představitel pro zahraniční věci a bezpečnostní politiku\n§0Fialová§! = evropský ministr hospodářství a financí\n§YŽlutá§! = prezident Evropské centrální banky\n§PTmavě růžová§! = ředitel Frontexu\n§OOranžová§! = velvyslanec EU při Organizaci spojených národů\n§pRůžová§! = prezident Evropské federace\n\nAktualizováno každý týden." # todo: CHANGED
+ MAPMODE_GDP_C_MAP_MODE_NAME: "HDP na obyvatele" # todo: NEW TRANSLATION
+ MAPMODE_GDP_C_MAP_MODE: "HDP na obyvatele" # todo: NEW TRANSLATION
+ MAPMODE_GDP_C_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje HDP na obyvatele daného státu, který představuje průměrný ekonomický výstup na osobu." # todo: CHANGED
+ gdp_c_map_mode_tooltip: "HDP na obyvatele [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
+ gdp_c_map_mode_tooltip_delayed: "HDP na obyvatele země §Y[FROM.CONTROLLER.GetNameWithFlag]§! činí: §Y$[?FROM.CONTROLLER:gdp_per_capita|Y]K§!.\n\nHDP na obyvatele představuje ekonomický výstup na osobu. Vyšší hodnoty znamenají bohatší a produktivnější ekonomiku.\n\n§HLegenda barev:§!\n§nTmavě modrá§! = méně než 8K (nízké příjmy)\n§lSvětle modrá§! = 8K–18K (nižší střední příjmy)\n§CAzurová§! = 18K–32K (střední příjmy)\n§GZelená§! = 32K–60K (vyšší střední příjmy)\n§YŽlutá§! = 60K–110K (vysoké příjmy)\n§9Jasně zlatá§! = více než 110K (mimořádné bohatství)\n\nAktualizováno s týdenním ekonomickým tikem." # todo: CHANGED
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_NAME: "Neuspokojená energetická poptávka" # todo: CHANGED
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE: "Neuspokojená energetická poptávka" # todo: CHANGED
+ MAPMODE_ENERGY_CONSUMPTION_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje aktuální procento nesplněné poptávky po energii v jednotlivých zemích." # todo: NEW TRANSLATION
+ energy_consumption_map_mode_tooltip: "Neuspokojená spotřeba energie v [FROM.CONTROLLER.GetNameWithFlag]" # todo: CHANGED
+ energy_consumption_map_mode_tooltip_delayed: "Neuspokojená spotřeba energie v zemi §Y[FROM.CONTROLLER.GetNameWithFlag]§! činí: §Y[?FROM.CONTROLLER:unfulfilled_energy_demand_var|%+]§!\n\nZobrazuje procento energetické poptávky, které není pokryto. Záporná hodnota znamená, že poptávka převyšuje nabídku (energetický deficit).\n\n§HLegenda barev:§!\n§nTmavě modrá§! = méně než −30 % (vážný deficit)\n§lSvětle modrá§! = −30 % až −18 % (střední deficit)\n§CAzurová§! = −18 % až −12 % (mírný deficit)\n§GZelená§! = −12 % až −4 % (téměř pokryto)\n§YŽlutá§! = −4 % až −1 % (skoro pokryto)\n§9Jasně zlatá§! = více než −1 % (zcela pokryto)\n\n§nTmavší znamená horší stav.§! Investujte do výroby energie a situaci zlepšete.\nAktualizováno s týdenním ekonomickým tikem." # todo: CHANGED
+ MAPMODE_PRODUCTIVITY_MAP_MODE_NAME: "Produktivita" # todo: NEW TRANSLATION
+ MAPMODE_PRODUCTIVITY_MAP_MODE: "Produktivita" # todo: NEW TRANSLATION
+ MAPMODE_PRODUCTIVITY_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje současnou produktivitu jednotlivých států, která představuje efektivitu ekonomického výstupu na pracovníka." # todo: CHANGED
+ productivity_map_mode_tooltip: "Produktivita v [FROM.GetName]" # todo: CHANGED
+ productivity_map_mode_tooltip_delayed: "Produktivita v §Y[FROM.GetName]§! činí: §Y[?FROM.productivity_state_var|Y]§!\n\nProduktivita měří efektivitu ekonomického výstupu státu. Vyšší hodnoty znamenají větší ekonomický výstup na pracovníka.\n\n§HLegenda barev:§!\n§nTmavě fialová§! = méně než 200 (velmi nízká)\n§nTmavě modrá§! = 200–500 (nízká)\n§lSvětle modrá§! = 500–800 (podprůměrná)\n§CAzurová§! = 800–1200 (průměrná)\n§GZelená§! = 1200–1900 (nadprůměrná)\n§YŽlutá§! = 1900–3800 (vysoká)\n§9Jasně zlatá§! = 3800–5000 (velmi vysoká)\n§9Tmavě oranžová§! = více než 5000 (vynikající)\n\nAktualizováno s týdenním ekonomickým tikem." # todo: CHANGED
+ MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE_NAME: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
+ MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
+ MAPMODE_UNEMPLOYMENT_RATE_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje současnou míru nezaměstnanosti států jako procento populace v produktivním věku." # todo: CHANGED
+ unemployment_rate_map_mode_tooltip: "Míra nezaměstnanosti v [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
+ unemployment_rate_map_mode_tooltip_delayed: "Míra nezaměstnanosti v zemi §Y[FROM.CONTROLLER.GetNameWithFlag]§! činí: §Y[?FROM.CONTROLLER:total_unemployed_percentage_display|%Y]§!\n\nZobrazuje procento populace v produktivním věku, které je nezaměstnané.\n\n§HLegenda barev:§!\n§nTmavě modrá§! = více než 35 % (krize)\n§lSvětle modrá§! = 22–35 % (velmi vysoká)\n§CAzurová§! = 10–22 % (vysoká)\n§GZelená§! = 5–10 % (střední)\n§YŽlutá§! = 2–5 % (nízká)\n§9Jasně zlatá§! = méně než 2 % (plná zaměstnanost)\n\n§nTmavší znamená horší stav.§! Snižte nezaměstnanost hospodářským růstem a vhodnou politikou.\nAktualizováno s týdenním ekonomickým tikem." # todo: CHANGED
+ MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE_NAME: "Hotspoty obnovitelné energie" # todo: NEW TRANSLATION
+ MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE: "Hotspoty obnovitelné energie" # todo: NEW TRANSLATION
+ MAPMODE_RENEWABLE_ENERGY_HOTSPOT_MAP_MODE_DESCRIPTION: "Tento režim mapy zobrazuje přirozený potenciál obnovitelné energie každého státu na základě větru, slunečního záření a dalších geografických faktorů." # todo: CHANGED
+ renewable_energy_hotspot_map_mode_tooltip: "Bonus kapacity obnovitelné energie v [FROM.GetName]" # todo: CHANGED
+ renewable_energy_hotspot_map_mode_tooltip_delayed: "Bonus kapacity obnovitelné energie v §Y[FROM.GetName]§! činí: §Y[?FROM.state_renewable_capacity_factor_modifier_var|Y]§!\n\nJedná se o násobitel obnovitelné produkce státu: §Y1.0§! je světový průměr, takže stát s hodnotou 1.5 produkuje 1,5× průměrného množství a stát s hodnotou 0.5 polovinu tohoto množství.\n\n§HLegenda barev (1.0 = světový průměr):§!\n§RČervená§! = více než 1.6 (mimořádné)\n§9Zlatá§! = 1.45–1.6 (vynikající)\n§YŽlutá§! = 1.2–1.45 (výrazně nadprůměrné)\n§GZelená§! = 1.0–1.2 (nadprůměrné)\n§CAzurová§! = 0.8–1.0 (mírně podprůměrné)\n§nModrá§! = 0.6–0.8 (nízké)\n§HTmavě modrá§! = méně než 0.6 (velmi nízké)\n\nTato hodnota je pevně daná a v průběhu času se nemění." # todo: CHANGED
+ MAPMODE_INFLUENCE_MAP_MODE_NAME: "Vliv" # todo: NEW TRANSLATION
+ MAPMODE_INFLUENCE_MAP_MODE: "Vliv" # todo: NEW TRANSLATION
+ MAPMODE_INFLUENCE_MAP_MODE_DESCRIPTION: "Zobrazuje vaše pořadí vlivu v ostatních zemích. Vliv určuje diplomatickou páku a v průběhu času ovlivňuje politické směřování." # todo: CHANGED
+ influence_map_mode_tooltip: "Vliv" # todo: NEW TRANSLATION
+ influence_map_mode_tooltip_delayed: "Zobrazuje země, ve kterých máte vliv, vaše pořadí mezi vlivnými zeměmi a národy nastavené pro automatické ovlivňování.\n\nVliv určuje vaši diplomatickou páku nad daným národem. Vyšší pořadí znamená větší vliv na jeho politické směřování a zahraniční politiku.\n\n§HLegenda barev:§!\n§GZelená§! = váš národ\n§CAzurová§! = 1. vlivná země (dominantní)\n§lSvětle modrá§! = 2. nebo 3. vlivná země\n§nNámořnická modrá§! = 4. až 7. vlivná země\n§9Oranžová§! = automaticky ovlivňovaný národ (měsíčně)\n§RČervená§! = prodleva šíření vlivu (nedávno zacíleno)\n§HTmavě šedá§! = žádný vliv\n\nAktualizováno každý týden." # todo: CHANGED
+ MAPMODE_GCC_MAP_MODE_NAME: "GCC" # todo: NEW TRANSLATION
+ MAPMODE_GCC_MAP_MODE: "GCC" # todo: NEW TRANSLATION
+ MAPMODE_GCC_MAP_MODE_DESCRIPTION: "Zobrazuje členské státy a potenciální členy Rady pro spolupráci arabských států v Zálivu." # todo: CHANGED
+ GCC_map_mode_tooltip: "Rada pro spolupráci arabských států v Zálivu" # todo: CHANGED
+ GCC_map_mode_tooltip_delayed: "Zobrazuje aktuální členství v Radě pro spolupráci arabských států v Zálivu (GCC).\n\n§HLegenda barev:§!\n§CAzurová§! = členský stát GCC\n§GŽlutozelená§! = potenciální členský stát\n\nAktualizováno každý týden." # todo: CHANGED
+ MAPMODE_SCO_MAP_MODE_NAME: "SCO" # todo: NEW TRANSLATION
+ MAPMODE_SCO_MAP_MODE: "SCO" # todo: NEW TRANSLATION
+ MAPMODE_SCO_MAP_MODE_DESCRIPTION: "Zobrazuje členské státy, pozorovatele a potenciální členy Šanghajské organizace pro spolupráci." # todo: CHANGED
+ SCO_map_mode_tooltip: "Šanghajská organizace pro spolupráci" # todo: CHANGED
+ SCO_map_mode_tooltip_delayed: "Zobrazuje aktuální členství v Šanghajské organizaci pro spolupráci (SCO).\n\n§HLegenda barev:§!\n§9Oranžová§! = členský stát SCO\n§0Fialová§! = pozorovatelský stát\n§CAzurová§! = partner pro dialog\n§YŽlutá§! = potenciální členský stát\n\nAktualizováno každý týden." # todo: CHANGED
+ MAPMODE_SUBIDEOLOGY_MAP_MODE_NAME: "Vládnoucí strana" # todo: NEW TRANSLATION
+ MAPMODE_SUBIDEOLOGY_MAP_MODE: "Vládnoucí strana" # todo: NEW TRANSLATION
+ MAPMODE_SUBIDEOLOGY_MAP_MODE_DESCRIPTION: "Zobrazuje podideologii strany vládnoucí v každé zemi a při najetí kurzorem podíl hlasů vládních stran." # todo: NEW TRANSLATION
+ subideology_map_mode_tooltip: "Vládnoucí strana [FROM.CONTROLLER.GetNameWithFlag]" # todo: NEW TRANSLATION
+ subideology_map_mode_tooltip_delayed: "§H[FROM.CONTROLLER.GetNameWithFlag]§!\n\n§HVládnoucí strana:§![FROM.CONTROLLER.map_mode_ruling_party]\n\n§HVládní koalice:§![FROM.CONTROLLER.map_mode_coalition_none][FROM.CONTROLLER.L_coal_elect_percent_0][FROM.CONTROLLER.L_coal_elect_percent_1][FROM.CONTROLLER.L_coal_elect_percent_2][FROM.CONTROLLER.L_coal_elect_percent_3][FROM.CONTROLLER.L_coal_elect_percent_4][FROM.CONTROLLER.L_coal_elect_percent_5][FROM.CONTROLLER.L_coal_elect_percent_6][FROM.CONTROLLER.L_coal_elect_percent_7][FROM.CONTROLLER.L_coal_elect_percent_8][FROM.CONTROLLER.L_coal_elect_percent_9][FROM.CONTROLLER.L_coal_elect_percent_10][FROM.CONTROLLER.L_coal_elect_percent_11][FROM.CONTROLLER.L_coal_elect_percent_12][FROM.CONTROLLER.L_coal_elect_percent_13][FROM.CONTROLLER.L_coal_elect_percent_14][FROM.CONTROLLER.L_coal_elect_percent_15][FROM.CONTROLLER.L_coal_elect_percent_16][FROM.CONTROLLER.L_coal_elect_percent_17][FROM.CONTROLLER.L_coal_elect_percent_18][FROM.CONTROLLER.L_coal_elect_percent_19][FROM.CONTROLLER.L_coal_elect_percent_20][FROM.CONTROLLER.L_coal_elect_percent_21][FROM.CONTROLLER.L_coal_elect_percent_22][FROM.CONTROLLER.L_coal_elect_percent_23]\n\n§HCelková podpora vlády:§! §Y[?FROM.CONTROLLER:government_coalition_strength_elect|%1]§!\n\nProcenta představují podíl hlasů, který každá strana získala v posledních volbách, takže země, ve kterých se volby nikdy nekonaly, zobrazují 0,0 %.\n\n§HLegenda barev:§!\nKaždá strana si zachovává barvu, kterou má ve výsečovém grafu v přehledu politiky.\n§nModré§! = západní strany\n§RČervené§! = rozvíjející se strany\n§GZelené§! = salafistické a islamistické strany\n§Žluté a šedé§! = neutrální strany\n§9Oranžové, olivové a fialové§! = nacionalistické strany\n\nAktualizuje se při každé změně vlády." # todo: NEW TRANSLATION
+ map_mode_ruling_party_text: "\n[show_ruling_party] ([?party_pop_elect_array^ruling_party|%1])" # todo: NEW TRANSLATION
+ map_mode_coalition_none_text: "\nŽádná (vláda jedné strany)" # todo: NEW TRANSLATION

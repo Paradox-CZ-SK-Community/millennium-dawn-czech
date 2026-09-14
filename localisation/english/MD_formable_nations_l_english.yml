@@ -1,415 +1,639 @@
 ﻿l_english:
-  form_BLT_category: "Zjednotit Baltské státy" # todo: NEW TRANSLATION
-  form_BLT_category_desc: "Baltské státy jsou unií států mezi Estonskem, Lotyšskem a Litvou. Tyto tři národy byly dlouho kořistí predátorů evropské geopolitiky a nadále trpí rukama evropského imperialismu. Boj proti vlivu a tlaku ze strany zahraničních dobrodinců je nezbytný a patří mezi nejvyšší priority. Tento cíl můžeme dosáhnout sloučením národů a jejich sjednocením. Národ lidí, který dokáže odolat tlaku zahraničního vlivu a prosadit se jako člen světové scény, nikoli jako překážka pro ostatní národy, které by ho zneužily." # todo: NEW TRANSLATION
-  BLT_integrate_start: "Začít formovat Baltské státy" # todo: NEW TRANSLATION
-  BLT_integrate_start_desc: "Je čas formovat Baltské státy." # todo: NEW TRANSLATION
-  BLT_integrate_LIT: "Integrovat Litvu" # todo: NEW TRANSLATION
-  BLT_integrate_LIT_desc: "Litva je největší ze tří baltských států. Předčí Lotyšsko a Estonsko ve většině ukazatelů, jako jsou populace, HDP, rozloha a počet obyvatel. Integrovat tuto zemi vyžaduje značné množství zdrojů z naší země, ale prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
-  BLT_integrate_LAT: "Integrovat Lotyšsko" # todo: NEW TRANSLATION
-  BLT_integrate_LAT_desc: "Lotyšsko je dalším baltským státem. Spojuje Litvu a Estonsko a má velmi důležitou strategickou polohu. Integrovat tuto zemi vyžaduje značné množství zdrojů z naší země, ale prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
-  BLT_integrate_EST: "Integrovat Estonsko" # todo: NEW TRANSLATION
-  BLT_integrate_EST_desc: "Estonsko je nejmenší ze tří baltských států, ale má nejdelší pobřeží ze všech tří národů. Jeho ekonomika je převážně založená na tomto pobřeží a na lesnictví. Estonský lid je neuvěřitelným přínosem pro naši skvělou novou zemi. Integrovat tuto zemi bude vyžadovat určité množství zdrojů z naší země. Přesto to prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
-  BLT_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  BLT_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  form_FCA_category: "Zjednotit Střední Ameriku" # todo: NEW TRANSLATION
-  form_FCA_category_desc: "Federální republika Střední Ameriky existovala na počátku 19. století. Byla to unie států z území bývalé Kapitánské generálie Guatemaly ve Novém Španělsku. Skládala se z Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua a části Mexika a Belize. Sjednocení federace bude zkouškou národů, jak se sjednotí množství ideologií." # todo: NEW TRANSLATION
-  FCA_integrate_start: "Začít formovat Střední Ameriku" # todo: NEW TRANSLATION
-  FCA_integrate_start_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_BLZ: "Integrovat Belize" # todo: NEW TRANSLATION
-  FCA_integrate_BLZ_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_GUA: "Integrovat Guatemala" # todo: NEW TRANSLATION
-  FCA_integrate_GUA_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_ELS: "Integrovat El Salvador" # todo: NEW TRANSLATION
-  FCA_integrate_ELS_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_HON: "Integrovat Honduras" # todo: NEW TRANSLATION
-  FCA_integrate_HON_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_NIC: "Integrovat Nicaragua" # todo: NEW TRANSLATION
-  FCA_integrate_NIC_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_COS: "Integrovat Costa Rica" # todo: NEW TRANSLATION
-  FCA_integrate_COS_desc: "" # todo: NEW TRANSLATION
-  FCA_integrate_PAN: "Integrovat Panama" # todo: NEW TRANSLATION
-  FCA_integrate_PAN_desc: "" # todo: NEW TRANSLATION
-  FCA_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  FCA_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  form_GCL_category: "Druhá Gran Colombia" # todo: NEW TRANSLATION
-  form_GCL_category_desc: "Gran Colombia je bývalý stát zahrnující moderní státy Ekvádor, Kolumbie, Panama a Venezuela. Bolivarovský stát je jedním z příkladů síly Jižní Ameriky, a proto je to cenný cíl pro naši velkou zemi. Spojení našich příbuzných národů v našich sesterských státech posílí a omezí vliv zahraničních sil na naši velkou zemi. Vyhlásíme Druhou Gran Colombii a přineseme jednotu našim velkým národům!" # todo: NEW TRANSLATION
-  GCL_integrate_start: "Začít reformovat Gran Colombia" # todo: NEW TRANSLATION
-  GCL_integrate_start_desc: "" # todo: NEW TRANSLATION
-  GCL_integrate_COL: "Integrovat Kolumbii" # todo: NEW TRANSLATION
-  GCL_integrate_COL_desc: "" # todo: NEW TRANSLATION
-  GCL_integrate_VEN: "Integrovat Venezuelu" # todo: NEW TRANSLATION
-  GCL_integrate_VEN_desc: "" # todo: NEW TRANSLATION
-  GCL_integrate_ECU: "Integrovat Ekvádor" # todo: NEW TRANSLATION
-  GCL_integrate_ECU_desc: "" # todo: NEW TRANSLATION
-  GCL_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  GCL_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_GCL: "Má formovanou Gran Colombia" # todo: NEW TRANSLATION
-  form_SCA_category: "Zjednotit Severský lid" # todo: NEW TRANSLATION
-  form_SCA_category_desc: "Severský lid měl dříve mnoho národů: Švédskou říši, Kalmarskou unii a další. Sjednocení této skupiny národů s tak bohatou historií, jedinečnými kulturami a jazyky bude výzvou pro každého, kdo si troufne dosáhnout tohoto úkolu." # todo: NEW TRANSLATION
-  SCA_integrate_start: "Začít formovat Skandinávii" # todo: NEW TRANSLATION
-  SCA_integrate_start_desc: "Je čas formovat Skandinávskou říši. Naši bratři a sestry budou skutečně sjednoceni pod jedním praporem, jak budeme budovat lepší zítřek." # todo: NEW TRANSLATION
-  SCA_integrate_SWE: "Integrovat Švédsko" # todo: NEW TRANSLATION
-  SCA_integrate_SWE_desc: "" # todo: NEW TRANSLATION
-  SCA_integrate_DEN: "Integrovat Dánsko" # todo: NEW TRANSLATION
-  SCA_integrate_DEN_desc: "" # todo: NEW TRANSLATION
-  SCA_integrate_NOR: "Integrovat Norsko" # todo: NEW TRANSLATION
-  SCA_integrate_NOR_desc: "" # todo: NEW TRANSLATION
-  SCA_integrate_FIN: "Integrovat Finsko" # todo: NEW TRANSLATION
-  SCA_integrate_FIN_desc: "" # todo: NEW TRANSLATION
-  SCA_integrate_ICE: "Integrovat Island" # todo: NEW TRANSLATION
-  SCA_integrate_ICE_desc: "" # todo: NEW TRANSLATION
-  SCA_integrate_GRL: "Integrovat Grónsko" # todo: NEW TRANSLATION
-  SCA_integrate_GRL_desc: "" # todo: NEW TRANSLATION
-  SCA_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  SCA_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_SCA: "Má sjednocený severský lid" # todo: NEW TRANSLATION
-  form_IBR_category: "Iberská unie" # todo: NEW TRANSLATION
-  form_IBR_category_desc: "Iberská unie je menší politická unie navrhovaná na iberském poloostrově mezi Španělskem a Portugalskem. Obě země byly během většiny nedávné historie propojeny a nadále sdílejí svou společnou iberskou identitu. Sjednocení obou států zásadně nemění světový řád; avšak sloučení těchto dvou států by zajistilo ekonomickou a politickou přítomnost na ústí Středozemního moře, která dosud neexistovala." # todo: NEW TRANSLATION
-  IBR_integrate_SPR: "Integrovat Španělsko" # todo: NEW TRANSLATION
-  IBR_integrate_SPR_desc: "" # todo: NEW TRANSLATION
-  IBR_integrate_POR: "Integrovat Portugalsko" # todo: NEW TRANSLATION
-  IBR_integrate_POR_desc: "" # todo: NEW TRANSLATION
-  IBR_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  IBR_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_IBR: "Má formovanou Iberskou unii" # todo: NEW TRANSLATION
-  form_ANZ_category: "Australasie" # todo: NEW TRANSLATION
-  form_ANZ_category_desc: "Australasie je rozsáhlejší region, který zahrnuje Austrálii, Nový Zéland a několik menších sousedních ostrovů v Pacifiku. Sjednocení států mezi Novým Zélandem a Austrálií vytváří novou moc v Pacifiku, která bude soupeřit s Indonésií a Japonskem o vliv v regionu." # todo: NEW TRANSLATION
-  ANZ_integrate_AST: "Integrovat Austrálii" # todo: NEW TRANSLATION
-  ANZ_integrate_AST_desc: "" # todo: NEW TRANSLATION
-  ANZ_integrate_NZL: "Integrovat Nový Zéland" # todo: NEW TRANSLATION
-  ANZ_integrate_NZL_desc: "" # todo: NEW TRANSLATION
-  ANZ_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  ANZ_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_ANZ: "Má formovanou Australasii" # todo: NEW TRANSLATION
-  form_SOU_category: "Unie jihoamerických národů" # todo: NEW TRANSLATION
-  form_SOU_category_desc: "Unie jihoamerických národů je unií všech jihoamerických národů do jednoho superstátu. Ekonomická, politická a kulturní identita Jižní Ameriky je jedinečná díky prolínání španělského a portugalského vlivu a domorodých obyvatel, kteří se začlenili do zemí. Disponuje širokou škálou průmyslových základů, finančních sektorů, surovin a zemědělských produktů. Pokud sjednotíme jihoamerické národy do jednoho superstátu, můžeme konečně konkurovat vlivu Spojených států a dalších velmocí v západní hemisféře i v zahraničí." # todo: NEW TRANSLATION
-  SOU_integrate_start: "Začít formovat Unii jihoamerických národů" # todo: NEW TRANSLATION
-  SOU_integrate_start_desc: "Začínáme formovat Unii jihoamerických národů." # todo: NEW TRANSLATION
-  SOU_integrate_BRA: "Integrovat Brazílii" # todo: NEW TRANSLATION
-  SOU_integrate_BRA_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_PAR: "Integrovat Paraguay" # todo: NEW TRANSLATION
-  SOU_integrate_PAR_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_BOL: "Integrovat Bolívii" # todo: NEW TRANSLATION
-  SOU_integrate_BOL_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_PRU: "Integrovat Peru" # todo: NEW TRANSLATION
-  SOU_integrate_PRU_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_ECU: "Integrovat Ekvádor" # todo: NEW TRANSLATION
-  SOU_integrate_ECU_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_SUR: "Integrovat Surinam" # todo: NEW TRANSLATION
-  SOU_integrate_SUR_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_GUY: "Integrovat Guyanu" # todo: NEW TRANSLATION
-  SOU_integrate_GUY_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_VEN: "Integrovat Venezuelu" # todo: NEW TRANSLATION
-  SOU_integrate_VEN_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_COL: "Integrovat Kolumbii" # todo: NEW TRANSLATION
-  SOU_integrate_COL_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_CHL: "Integrovat Chile" # todo: NEW TRANSLATION
-  SOU_integrate_CHL_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_URG: "Integrovat Uruguay" # todo: NEW TRANSLATION
-  SOU_integrate_URG_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_ARG: "Integrovat Argentinu" # todo: NEW TRANSLATION
-  SOU_integrate_ARG_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_TRI: "Integrovat Trinidad a Tobago" # todo: NEW TRANSLATION
-  SOU_integrate_TRI_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_FGU: "Integrovat Francouzskou Guianu" # todo: NEW TRANSLATION
-  SOU_integrate_FGU_desc: "" # todo: NEW TRANSLATION
-  SOU_integrate_Curacao: "Integrovat Curaçao" # todo: NEW TRANSLATION
-  SOU_integrate_Curacao_desc: "" # todo: NEW TRANSLATION
-  SOU_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  SOU_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_SOU: "Má formovanou Unii jihoamerických národů" # todo: NEW TRANSLATION
-  form_HBL_category: "Benelux" # todo: NEW TRANSLATION
-  form_HBL_category_desc: "Benelux je politicko-ekonomická unie s Nizozemskem, Belgií a Lucemburskem tvořící skupinu. Historicky spolu tyto tři země udržují přátelské a korektní vztahy. Současná organizace je pouhou unií států na politické a ekonomické úrovni na světovém pódiu. Probíhají tiché debaty o tom, zda by bylo vhodné tuto unii států formalizovat do něčeho konkrétnějšího. Nový národ, který bude reprezentovat obyvatelstvo Nížin, přinese lidem novou budoucnost a povede ji k tomuto jasnému cíli." # todo: NEW TRANSLATION
-  HBL_integrate_start: "Začít formovat Benelux" # todo: NEW TRANSLATION
-  HBL_integrate_start_desc: "Je čas začít formovat Benelux." # todo: NEW TRANSLATION
-  HBL_integrate_BEL: "Integrovat Belgie" # todo: NEW TRANSLATION
-  HBL_integrate_BEL_desc: "Belgie není ani největší, ani nejmenší ze zemí Beneluxu. Leží pohodlně uprostřed, podobně jako její postavení mezi ostatními dvěma členy. Hostí několik center byrokracie Evropské unie ve městě Brusel, a je oblíbenou turistickou destinací pro Holanďany, Francouze a nestátní turisty z EU." # todo: NEW TRANSLATION
-  HBL_integrate_HOL: "Integrovat Nizozemsko" # todo: NEW TRANSLATION
-  HBL_integrate_HOL_desc: "Nizozemsko je největší ze tří členů Beneluxu. Zahrnuje většinu populace, rozlohu a ekonomické velikosti a hostí několik zámořských držeb. Integrace Nizozemska přinese většinu Beneluxu do nového státu a významně posílí legitimitu naší nové unie." # todo: NEW TRANSLATION
-  HBL_integrate_LUX: "Integrovat Lucembursko" # todo: NEW TRANSLATION
-  HBL_integrate_LUX_desc: "Lucembursko je nejmenší ze tří národů. Má nejvyšší HDP na obyvatele a má několik menších turistických destinací. Národ mluví směsí jazyků, z nichž nejvýznamnější jsou francouzština, němčina a angličtina. Integrace Lucemburska není velkým úkolem vzhledem k velikosti státu, ale představí určité byrokratické výzvy." # todo: NEW TRANSLATION
-  HBL_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  HBL_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_HBL: "Zformován Benelux" # todo: NEW TRANSLATION
-  form_USNA_category: "Sjednotit Severní Ameriku" # todo: NEW TRANSLATION
-  form_USNA_category_desc: "Kontinent Severní Amerika historicky odolával vnějším vlivům od doby, kdy byly Mexiko, Spojené státy americké a Kanada založeny jako národní státy. Tvoří páteř světové ekonomiky, s celkovým HDP kolem jedenácti bilionů dolarů na počátku nového tisíciletí. Spojení těchto národů a hledění k lepšímu zítřku nás povede kupředu do budoucnosti." # todo: NEW TRANSLATION
-  USNA_integrate_start: "Začít formovat Spojené státy Severní Ameriky" # todo: NEW TRANSLATION
-  USNA_integrate_start_desc: "Je čas začít formovat Spojené státy Severní Ameriky." # todo: NEW TRANSLATION
-  USNA_integrate_CAN: "Integrovat Kanada" # todo: NEW TRANSLATION
-  USNA_integrate_CAN_desc: "Kanada je největší zemí podle rozlohy v nové unii a má mnoho nevyužitých ropných zásob. Tyto dva faktory z ní dělají klíčový článek nové unie Severní Ameriky. Doufejme, že námitky se sníží, až bude Kanada dále integrována do nové unie." # todo: NEW TRANSLATION
-  USNA_integrate_USA: "Integrovat USA" # todo: NEW TRANSLATION
-  USNA_integrate_USA_desc: "Spojené státy tvoří převážnou část Unie severoamerických států. Mají největší ekonomiku, druhou největší rozlohu, armádu a více. Integrací USA přijde na svět velké množství výzev kvůli jejich ohromné velikosti a váze na globální scéně; nicméně tato integrace nás ekonomicky zařadí mezi největší supervelmoci." # todo: NEW TRANSLATION
-  USNA_integrate_MEX: "Integrovat Mexiko" # todo: NEW TRANSLATION
-  USNA_integrate_MEX_desc: "Mexiko je druhou nejlidnatější ze tří zemí tvořících novou národní unii. Do výzbroje přináší velkou armádu. Země čelí řadě výzev, jako je hustota kartelů. Přesto bude integrace Mexika jedním z hlavních pilířů pro novou zemi." # todo: NEW TRANSLATION
-  USNA_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  USNA_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_USNA: "Zformovány Spojené státy Severní Ameriky" # todo: NEW TRANSLATION
-  form_UTS_category: "Sjednocené Turkické území" # todo: NEW TRANSLATION
-  form_UTS_category_desc: "Spojené Turkické území je svaz Turkicky mluvících národů, včetně Uzbekistánu, Kyrgyzstánu, Kazachstánu a Turkmenistánu. Další skupiny Turkicky mluvících národů mimo tyto státy, jako Tatary a Ujgurové, existují v Rusku a Číně. Jsou cílem našeho svazu, ale ne počáteční. Budeme sjednocovat existující státy a vyzveme náš lid, aby se vrátil domů, nebo je vrátíme do svazku." # todo: NEW TRANSLATION
-  UTS_integrate_start: "Začít formovat Spojené Turkické státy" # todo: NEW TRANSLATION
-  UTS_integrate_start_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_KAZ: "Integrovat Kazachstán" # todo: NEW TRANSLATION
-  UTS_integrate_KAZ_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_UZB: "Integrovat Uzbekistán" # todo: NEW TRANSLATION
-  UTS_integrate_UZB_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_TRK: "Integrovat Turkmenistán" # todo: NEW TRANSLATION
-  UTS_integrate_TRK_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_TAJ: "Integrovat Tadžikistán" # todo: NEW TRANSLATION
-  UTS_integrate_TAJ_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_KYR: "Integrovat Kyrgyzstán" # todo: NEW TRANSLATION
-  UTS_integrate_KYR_desc: "" # todo: NEW TRANSLATION
-  UTS_integrate_TUR: "Integrovat Turecko" # todo: NEW TRANSLATION
-  UTS_integrate_TUR_desc: "" # todo: NEW TRANSLATION
-  UTS_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  UTS_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_UTS: "Zformovány Spojené Turkické Teritorie" # todo: NEW TRANSLATION
-  form_MAPHI_category: "Maphilindo" # todo: NEW TRANSLATION
-  form_MAPHI_category_desc: "Navrhovaná, nepolitická konfederace tří jihovýchodních asijských států na Malayském souostroví v 60. letech. Sní bylo nesplněno kvůli konfliktům mezi národy Indonésie a Federace Malajsie. Sjednocení těchto tří národů by vytvořilo stát, který by se vyrovnal některým z největších národů světa." # todo: NEW TRANSLATION
-  MAPHI_integrate_start: "Začít formovat Maphilindo" # todo: NEW TRANSLATION
-  MAPHI_integrate_start_desc: "Sjednocení Maphilindo je počátek nové éry pro lidi našich národů. Je čas se sjednotit a přinést společnou budoucnost našim společným lidem." # todo: NEW TRANSLATION
-  MAPHI_integrate_IND: "Integrovat Indonésii" # todo: NEW TRANSLATION
-  MAPHI_integrate_IND_desc: "Indonésie je klíčový region bohatý na zdroje pro navrhovaný národ. Je nezbytné, abychom Indonésii integrovali kvůli zdrojům a obyvatelstvu, které může přinést." # todo: NEW TRANSLATION
-  MAPHI_integrate_PHI: "Integrovat Filipíny" # todo: NEW TRANSLATION
-  MAPHI_integrate_PHI_desc: "Filipíny jsou významným námořním a obchodním uzlem v Pacifiku. Integrace této země nám dá výrazně vyšší šanci začít dominovat v Pacifiku." # todo: NEW TRANSLATION
-  MAPHI_integrate_SIN: "Integrovat Singapur" # todo: NEW TRANSLATION
-  MAPHI_integrate_SIN_desc: "Singapur je klíčovým uzlem pro novou zemi. Jeho postavení jako významného obchodního přístavu a finančního centra je pro úspěch nové země klíčové." # todo: NEW TRANSLATION
-  MAPHI_integrate_MAY: "Integrovat Malajsii" # todo: NEW TRANSLATION
-  MAPHI_integrate_MAY_desc: "Malajsie je politicky jednou z klíčových částí národa. Umožňuje nám přístup k pevninským trasám v Asii díky vlastnictví poloostrova." # todo: NEW TRANSLATION
-  MAPHI_integrate_BRU: "Integrovat Brunej" # todo: NEW TRANSLATION
-  MAPHI_integrate_BRU_desc: "Brunej je menší stát v tomto uskupení. Je nezbytné jej integrovat, i když jde o menší stát." # todo: NEW TRANSLATION
-  MAPHI_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  MAPHI_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_MAPHI: "Zformováno Maphilindo" # todo: NEW TRANSLATION
-  form_INDOCHI_category: "Indočína" # todo: NEW TRANSLATION
-  form_INDOCHI_category_desc: "Indočína je bývalá federace národů Vietnamu, Kambodže a Laosu, která existovala do roku 1954. Tři státy dohromady tvoří jednu z největších ekonomik světa a pojímají masivní populaci. Je to národ hustých džunglí, kopcovité krajiny, hor a nádherného pobřeží. Její síla spočívá v lidech a vůli, která posune tuto skupinu kupředu do budoucnosti." # todo: NEW TRANSLATION
-  INDOCHI_integrate_start: "Začít formovat Indočínu" # todo: NEW TRANSLATION
-  INDOCHI_integrate_start_desc: "Je čas zahájit formování Indočiny." # todo: NEW TRANSLATION
-  INDOCHI_integrate_VIE: "Integrovat Vietnam" # todo: NEW TRANSLATION
-  INDOCHI_integrate_VIE_desc: "Vietnam má obrovské množství přírodních zdrojů v horách a podél pobřeží. Integrace Vietnamu posílí naši kontrolu nad národem." # todo: NEW TRANSLATION
-  INDOCHI_integrate_LAO: "Integrovat Laos" # todo: NEW TRANSLATION
-  INDOCHI_integrate_LAO_desc: "Laos má stejně jako Vietnam obrovské množství přírodních zdrojů." # todo: NEW TRANSLATION
-  INDOCHI_integrate_CBD: "Integrovat Kambodžu" # todo: NEW TRANSLATION
-  INDOCHI_integrate_CBD_desc: "Přírodní geografie a bohaté půdy Kambodže jsou pro národ důležité. Začlenění do národa bude i nadále zlepšovat jeho rozvoj." # todo: NEW TRANSLATION
-  INDOCHI_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  INDOCHI_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_INDOCHI: "Zformována Indočína" # todo: NEW TRANSLATION
-  form_VISE_category: "Visegrádská skupina" # todo: NEW TRANSLATION
-  form_VISE_category_desc: "Visegrádská skupina (též známá jako Visegrádské čtyřky, V4, nebo Evropský kvartet) je kulturní a politická aliance čtyř středoevropských zemí: Česká republika, Maďarsko, Polsko a Slovensko. Všechny čtyři země v Visegrádské skupině jsou vysoce rozvinuté země s velmi vysokým indexem lidského rozvoje.\n\nOd 16. století se velká část dnešních zemí stala součástí nebo byla ovlivněna Vídeňskou Habsburskou monarchií až do konce první světové války a rozpadu Rakouska-Uherska pod vládou Habsburků. Po druhé světové válce se země staly satelitními státy Sovětského svazu, jako Polská lidová republika, Maďarská lidová republika a Československá socialistická republika. V roce 1989, pád Berlínské zdi a pád komunismu ve střední a východní Evropě umožnily třem zemím přijmout kapitalismus a demokracii. V prosinci 1991 došlo k pádu Sovětského svazu, což zemím dále umožnilo hledět na západ.\n\nV současnosti je to aliance, ale protože ovládáme celé území Visegrádské skupiny, můžeme začít integrovat území." # todo: NEW TRANSLATION
-  VISE_integrate_start: "Začít formovat Visegrádskou skupinu" # todo: NEW TRANSLATION
-  VISE_integrate_start_desc: "Je čas začít formovat Visegrádskou unii." # todo: NEW TRANSLATION
-  VISE_integrate_POL: "Integrovat Polsko" # todo: NEW TRANSLATION
-  VISE_integrate_POL_desc: "" # todo: NEW TRANSLATION
-  VISE_integrate_CZE: "Integrovat Českou republiku" # todo: NEW TRANSLATION
-  VISE_integrate_CZE_desc: "" # todo: NEW TRANSLATION
-  VISE_integrate_SLO: "Integrovat Slovensko" # todo: NEW TRANSLATION
-  VISE_integrate_SLO_desc: "" # todo: NEW TRANSLATION
-  VISE_integrate_HUN: "Integrovat Maďarsko" # todo: NEW TRANSLATION
-  VISE_integrate_HUN_desc: "" # todo: NEW TRANSLATION
-  VISE_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  VISE_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_VISE: "Zformována Visegrádská skupina" # todo: NEW TRANSLATION
-  form_ANDES_category: "Andská federace" # todo: NEW TRANSLATION
-  form_ANDES_category_desc: "Andská federace je navrhovaný svaz států mezi [COL.GetNameWithFlag], [PRU.GetNameWithFlag] a [BOL.GetNameWithFlag]. Je volně založena na Andské komunitě, která je svazem volného obchodu a hospodářským svazem mezi těmito zeměmi. Nový navrhovaný národ by měl celkovou populaci přes sto třináct milionů obyvatel a rozlohu čtyři miliony sedm set tisíc čtverečních kilometrů. Byl by to stát podobný Mexiku co do velikosti, s HDP kolem tří čtvrtin bilionu dolarů." # todo: NEW TRANSLATION
-  ANDES_integrate_start: "Start integrate Andean Federation" # todo: NEW TRANSLATION
-  ANDES_integrate_start_desc: "" # todo: NEW TRANSLATION
-  ANDES_integrate_COL: "Integrovat Kolumbii" # todo: NEW TRANSLATION
-  ANDES_integrate_COL_desc: "" # todo: NEW TRANSLATION
-  ANDES_integrate_PRU: "Integrovat Peru" # todo: NEW TRANSLATION
-  ANDES_integrate_PRU_desc: "" # todo: NEW TRANSLATION
-  ANDES_integrate_BOL: "Integrovat Bolívii" # todo: NEW TRANSLATION
-  ANDES_integrate_BOL_desc: "" # todo: NEW TRANSLATION
-  ANDES_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  ANDES_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_ANDES: "Zformována Andská federace" # todo: NEW TRANSLATION
-  form_ANTCONF_category: "Antillká konfederace" # todo: NEW TRANSLATION
-  form_ANTCONF_category_desc: "Antillská konfederace je navrhovaný stát v Karibiku spojující [CUB.GetNameWithFlag], [DOM.GetNameWithFlag] a [HAI.GetNameWithFlag]. Původně vznikla jako nápad Ramón Emeterio Betanse, aktivisty za nezávislost Portorika, který chtěl sjednotit všechny španělsky mluvící karibské státy do jediné jednotné entity. Původní myšlenka nezahrnovala [HAI.GetNameWithFlag], avšak byla rychle zahrnuta zastánci této myšlenky. Myšlenka do značné míry zanikla v důsledku americko-španělské války, kdy byly kolonie [CUB.GetNameWithFlag] a [PTR.GetNameWithFlag] převedeny do Spojených států. Myšlenka by vyvolala stát, který by pravděpodobně sídlil hlavní město v Santo Domingo a jehož oficiálním jazykem by byla španělština." # todo: NEW TRANSLATION
-  ANTCONF_integrate_start: "Začít formovat Antilskou konfederaci" # todo: NEW TRANSLATION
-  ANTCONF_integrate_start_desc: "Je čas formovat Antillskou konfederaci. Náš lid se musí nyní sjednotit, aby zajistil jasnější budoucnost lidem Karibiku." # todo: NEW TRANSLATION
-  ANTCONF_integrate_CUB: "Integrovat Kuba" # todo: NEW TRANSLATION
-  ANTCONF_integrate_CUB_desc: "Kuba je největším ze tří hlavních národů konfederace. Začlenění této země zvětší velikost ekonomiky a téměř zdvojnásobí populaci a rozlohu." # todo: NEW TRANSLATION
-  ANTCONF_integrate_DOM: "Integrovat Dominikánskou republiku" # todo: NEW TRANSLATION
-  ANTCONF_integrate_DOM_desc: "Dominikánská republika je jednou ze tří hlavních národů konfederace. Na ostrov Hispaniola sdílí ostrov s Haiti a má mnoho turistů a průmyslu. Severní strana ostrova se také podílí na lehkém hornictví a vyrábí ocel pro místní využití v republice. Její začlenění bude pro novou konfederaci neocenitelné." # todo: NEW TRANSLATION
-  ANTCONF_integrate_HAI: "Integrovat Haiti" # todo: NEW TRANSLATION
-  ANTCONF_integrate_HAI_desc: "Haiti je nejmenší ze tří hlavních národů konfederace. Liší se od Kuby a Dominikánské republiky tím, že je bývalou francouzskou kolonií. Začlenění potrvá déle kvůli jazykovým rozdílům mezi skupinou národů; nicméně průmyslová základna a přirozený přístav Port-au-Prince budou neocenitelné pro ekonomické a vojenské operace v Karibiku." # todo: NEW TRANSLATION
-  ANTCONF_integrate_PTR: "Integrovat Portoriko" # todo: NEW TRANSLATION
-  ANTCONF_integrate_PTR_desc: "Portoriko bylo dlouho územím Spojených států. Pyšní se ochranou Spojených států, ale nepatří mezi jejich integrální území. Má populaci téměř čtyř milionů a je jedním z největších ostrovů Karibiku. Je nejmenším z potenciálně začlenitelných států pro Antillskou konfederaci. Přesto živá kultura a turistika v této oblasti přinesou větší konfederaci značné výhody." # todo: NEW TRANSLATION
-  ANTCONF_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  ANTCONF_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_ANTCONF: "Zformovala Antillskou konfederaci" # todo: NEW TRANSLATION
-  form_CANZUK_category: "CANZUK" # todo: NEW TRANSLATION
-  form_CANZUK_category_desc: "CANZUK je unií států mezi Kanadou, Austrálií, Novým Zélandem a Spojeným Královstvím. Liší se od Britského impéria tím, že tato unie států by byla přímo spravována a skutečně sjednoceným státem. Národ by zasahoval několik kontinentů a stal by se významným hráčem na světové scéně. Možná bychom měli tuto myšlenku podnítit a sjednotit národy?" # todo: NEW TRANSLATION
-  CANZUK_integrate_start: "Začít formovat CANZUK" # todo: NEW TRANSLATION
-  CANZUK_integrate_start_desc: "" # todo: NEW TRANSLATION
-  CANZUK_integrate_CAN: "Integrovat Kanada" # todo: NEW TRANSLATION
-  CANZUK_integrate_CAN_desc: "" # todo: NEW TRANSLATION
-  CANZUK_integrate_AST: "Integrovat Austrálii" # todo: NEW TRANSLATION
-  CANZUK_integrate_AST_desc: "" # todo: NEW TRANSLATION
-  CANZUK_integrate_NZL: "Integrovat Nový Zéland" # todo: NEW TRANSLATION
-  CANZUK_integrate_NZL_desc: "" # todo: NEW TRANSLATION
-  CANZUK_integrate_ENG: "Integrovat Spojené království" # todo: NEW TRANSLATION
-  CANZUK_integrate_ENG_desc: "" # todo: NEW TRANSLATION
-  CANZUK_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  CANZUK_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_CANZUK: "Zformovalo CANZUK" # todo: NEW TRANSLATION
-  form_RDLP_category: "Rio de la Plata" # todo: NEW TRANSLATION
-  form_RDLP_category_desc: "United Provinces of Rio de La Plata bylo sdružení států v dnešních státech Argentiny, Uruguaye, Paraguaye a Bolívie. Současná představa národa zahrnuje Chile v rámci skupiny, která sjednocuje většinu Jižní Ameriky pod jedním národním prapor. Nový národ bude s Brazílií vyrovnán co do velikosti, populace a ekonomické síly. Možná je to nová budoucnost naší skupiny národů." # todo: NEW TRANSLATION
-  RDLP_integrate_start: "Začít formovat Rio de la Plata" # todo: NEW TRANSLATION
-  RDLP_integrate_start_desc: "" # todo: NEW TRANSLATION
-  RDLP_integrate_PAR: "Integrovat Paraguay" # todo: NEW TRANSLATION
-  RDLP_integrate_PAR_desc: "" # todo: NEW TRANSLATION
-  RDLP_integrate_BOL: "Integrovat Bolívi" # todo: NEW TRANSLATION
-  RDLP_integrate_BOL_desc: "" # todo: NEW TRANSLATION
-  RDLP_integrate_CHL: "Integrovat Chile" # todo: NEW TRANSLATION
-  RDLP_integrate_CHL_desc: "" # todo: NEW TRANSLATION
-  RDLP_integrate_URG: "Integrovat Uruguay" # todo: NEW TRANSLATION
-  RDLP_integrate_URG_desc: "" # todo: NEW TRANSLATION
-  RDLP_integrate_ARG: "Integrovat Argentina" # todo: NEW TRANSLATION
-  RDLP_integrate_ARG_desc: "" # todo: NEW TRANSLATION
-  RDLP_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  RDLP_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_RDLP: "Zformovalo Rio de la Plata" # todo: NEW TRANSLATION
-  form_NORDEM_category: "North Sea Empire" # todo: NEW TRANSLATION
-  form_NORDEM_category_desc: "The North Sea Empire byl politické spojení Anglie, Dánska a Norska během počátku 11. století. Impérium bylo na konci vikingské éry a bylo neuvěřitelně krátkodobé. Znovuzjednocení impéria by bylo úspěchem v moderní době a mohlo by znamenat návrat nového vikingského věku." # todo: NEW TRANSLATION
-  NORDEM_integrate_start: "Začít formovat Impérium Severního moře" # todo: NEW TRANSLATION
-  NORDEM_integrate_start_desc: "" # todo: NEW TRANSLATION
-  NORDEM_integrate_SWE: "Integrovat Švédsko" # todo: NEW TRANSLATION
-  NORDEM_integrate_SWE_desc: "" # todo: NEW TRANSLATION
-  NORDEM_integrate_NOR: "Integrovat Norsko" # todo: NEW TRANSLATION
-  NORDEM_integrate_NOR_desc: "" # todo: NEW TRANSLATION
-  NORDEM_integrate_DEN: "Integrovat Dánsko" # todo: NEW TRANSLATION
-  NORDEM_integrate_DEN_desc: "" # todo: NEW TRANSLATION
-  NORDEM_integrate_ENG: "Integrovat Anglii" # todo: NEW TRANSLATION
-  NORDEM_integrate_ENG_desc: "" # todo: NEW TRANSLATION
-  NORDEM_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  NORDEM_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_NORDEM: "Zformovalo Impérium Severního moře" # todo: NEW TRANSLATION
-  form_MAGHREB_category: "Arab-Maghreb Union" # todo: NEW TRANSLATION
-  form_MAGHREB_category_desc: "Arab-Maghreb Unie je politická unie států, která zahrnuje Alžírsko, Libye, Mauritánii, Maroko a Tunisko. Tato jednota sloužila hlavně k zajištění politické jednoty a ekonomické integrace mezi státy. Ačkoliv v posledních letech se činnost unie zdá ubývat, může být čas tuto myšlenku znovu oživit. Sjednocení obyvatel Maghrebu vytvořilo novou zemi, která by mohla dominovat africkému kontinentu a Středomořskému pobřeží. Je čas sjednotit Maghreb a stát se jednou z velkých světových národů." # todo: NEW TRANSLATION
-  MAGHREB_integrate_start: "Začít formovat Arab-Maghreb Unii" # todo: NEW TRANSLATION
-  MAGHREB_integrate_start_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_ALG: "Integrovat Alžírsko" # todo: NEW TRANSLATION
-  MAGHREB_integrate_ALG_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_LBA: "Integrovat Libye" # todo: NEW TRANSLATION
-  MAGHREB_integrate_LBA_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_MOR: "Integrovat Maroko" # todo: NEW TRANSLATION
-  MAGHREB_integrate_MOR_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_SHA: "Integrovat Sahrawi" # todo: NEW TRANSLATION
-  MAGHREB_integrate_SHA_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_TUN: "Integrovat Tunisko" # todo: NEW TRANSLATION
-  MAGHREB_integrate_TUN_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_integrate_MAU: "Integrovat Mauritánii" # todo: NEW TRANSLATION
-  MAGHREB_integrate_MAU_desc: "" # todo: NEW TRANSLATION
-  MAGHREB_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  MAGHREB_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_MAGHREB: "Zformovalo Arab-Maghreb Unii" # todo: NEW TRANSLATION
-  form_WESTFED_category: "Federace Západních ostrovů" # todo: NEW TRANSLATION
-  form_WESTFED_category_desc: "Federace Západních ostrovů byla krátkodobá politická unie od roku 1958 do roku 1962, která zahrnovala mnoho karibských ostrovních národů. Unie se rychle rozpadla kvůli sporům o tom, jak by měla být spravována a fungovat. Myšlenka stále má určitou hodnotu mezi národy a mohla by být dalším velkým národem na západní polokouli. Pojďme vést Karibik do tohoto nového zítřka?" # todo: NEW TRANSLATION
-  WESTFED_integrate_start: "Začít formovat Federaci Západních ostrovů" # todo: NEW TRANSLATION
-  WESTFED_integrate_start_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_TRI: "Integrovat Trinidad a Tobago" # todo: NEW TRANSLATION
-  WESTFED_integrate_TRI_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_GRA: "Integrovat Grenadu" # todo: NEW TRANSLATION
-  WESTFED_integrate_GRA_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_STV: "Integrovat Svatý Vincent a Grenadiny" # todo: NEW TRANSLATION
-  WESTFED_integrate_STV_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_BAR: "Integrovat Barbados" # todo: NEW TRANSLATION
-  WESTFED_integrate_BAR_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_STL: "Integrovat Svatou Lucii" # todo: NEW TRANSLATION
-  WESTFED_integrate_STL_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_STK: "Integrovat Svatý Kitts a Nevis" # todo: NEW TRANSLATION
-  WESTFED_integrate_STK_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_DMI: "Integrovat Dominiku" # todo: NEW TRANSLATION
-  WESTFED_integrate_DMI_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_ANT: "Integrovat Antigua a Barbudu" # todo: NEW TRANSLATION
-  WESTFED_integrate_ANT_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_JAM: "Integrovat Jamajku" # todo: NEW TRANSLATION
-  WESTFED_integrate_JAM_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_CAYMAN: "Integrovat Kajmanské ostrovy" # todo: NEW TRANSLATION
-  WESTFED_integrate_CAYMAN_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_TURKS: "Integrovat Turks a Caicos" # todo: NEW TRANSLATION
-  WESTFED_integrate_TURKS_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_ANTILLES: "Integrovat Britské Antily" # todo: NEW TRANSLATION
-  WESTFED_integrate_ANTILLES_desc: "" # todo: NEW TRANSLATION
-  WESTFED_integrate_GUADELOUPE: "Integrovat Guadeloupe" # todo: NEW TRANSLATION
-  WESTFED_integrate_GUADELOUPE_desc: "" # todo: NEW TRANSLATION
-  WESTFED_update_flag: "Aktualizovat název vlajky a název státu" # todo: NEW TRANSLATION
-  WESTFED_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_WESTFED: "Zformovalo Federaci Západních ostrovů" # todo: NEW TRANSLATION
-  form_AUSHUN_category: "Reforma Rakousko-Uherské říše" # todo: NEW TRANSLATION
-  form_AUSHUN_category_desc: "Rakousko-Uherská říše byla velmocí ve střední Evropě na konci 19. století a na počátku 20. století. Národ byla rozdělena po masivní porážce ve Velké válce. Rozpadla se na Česko, Rakousko, Maďarsko, Slovensko, Slovinsko, Bosnu a Hercegovinu a části Ukrajiny, Polska a Rumunska. Je načase znovu nabrat ztracený štít tak dávno ztracený. Je čas reformovat Rakousko-Uherskou říši." # todo: NEW TRANSLATION
-  AUSHUN_integrate_start: "Začít reformovat Rakousko-Uherskou říši" # todo: NEW TRANSLATION
-  AUSHUN_integrate_start_desc: "Državy Rakousko‑Uherské říše byly znovu dobyty naší armádou a naši politici zahájili práce na správě nových regionů." # todo: CHANGED
-  AUSHUN_integrate_AUS: "Integrovat Rakousko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_AUS_desc: "Jádrové země bývalé habsburské říše, Rakousko by mělo být jedním z hlavních center moci v našem státě." # todo: CHANGED
-  AUSHUN_integrate_HUN: "Integrovat Maďarsko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_HUN_desc: "Uherské království bylo druhou polovinou dvojmonarchie, partnerem při správě říše. Jeho integrace je nezbytná pro obnovení císařské struktury." # todo: CHANGED
-  AUSHUN_integrate_SLV: "Integrovat Slovinsko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_SLV_desc: "Slovinské země byly součástí rakouských korunních zemí, zajišťovaly přístup k Jadranu a sloužily jako most mezi Rakouskem a Balkánem." # todo: CHANGED
-  AUSHUN_integrate_NORTHITA: "Integrovat Severní Itálii" # todo: NEW TRANSLATION
-  AUSHUN_integrate_NORTHITA_desc: "Italská území Lombardie‑Benátska byla kdysi klenoty habsburské koruny, bohatá na kulturu a obchod. Jejich návrat by obnovil rakouský vliv v údolí řeky Pád." # todo: CHANGED
-  AUSHUN_integrate_CRO: "Integrovat Chorvatsko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_CRO_desc: "Chorvatsko bylo součástí uherské koruny s značnou autonomií. Jeho přístavy a strategická poloha podél Jadranu ho činily klíčovým pro námořní sílu říše." # todo: CHANGED
-  AUSHUN_integrate_BOS: "Integrovat Bosnu a Hercegovinu" # todo: NEW TRANSLATION
-  AUSHUN_integrate_BOS_desc: "Bosna a Hercegovina byla spravována Rakousko‑Uherskem od roku 1878 a formálně anektována v roce 1908; její integrace zajistí naše jižní hranice a rozšíří náš vliv na Balkáně." # todo: CHANGED
-  AUSHUN_integrate_SLO: "Integrovat Slovensko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_SLO_desc: "Slovenské země byly nedílnou součástí Uherského království, tvořily horskou severní hranici koruny. Jejich reintegrace posílí naši nadvládu nad Karpaty." # todo: CHANGED
-  AUSHUN_integrate_AUSROM: "Integrovat Transylvánie" # todo: NEW TRANSLATION
-  AUSHUN_integrate_AUSROM_desc: "Sedmihradsko bylo historickou korunní zemí Uherska, spornou mezi rumunským a maďarským obyvatelstvem. Ovládnutí tohoto regionu zajistí východní přístupy k říši." # todo: CHANGED
-  AUSHUN_integrate_CZE: "Integrovat Česko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_CZE_desc: "České korunní země patřily mezi nejindustrializovanější a kulturně nejbohatší území říše. Praha stála jako jedno z velkých císařských měst a její reintegrace je zásadní." # todo: CHANGED
-  AUSHUN_integrate_AUSPOL: "Integrovat jižní Polsko" # todo: NEW TRANSLATION
-  AUSHUN_integrate_AUSPOL_desc: "Halič byla korunní zemí získanou děleními Polska, přinášející ekonomické zdroje i strategickou hloubku pro severní hranici říše." # todo: CHANGED
-  AUSHUN_integrate_WESTUKR: "Integrovat jihozápadní Ukrajinu" # todo: NEW TRANSLATION
-  AUSHUN_integrate_WESTUKR_desc: "Východní části Haliče byly domovem rusínského obyvatelstva a poskytovaly zemědělské bohatství. Jejich integrace rozšíří náš vliv do ukrajinského pohraničí." # todo: CHANGED
-  AUSHUN_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  AUSHUN_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_AUSHUN: "Vznikla Rakousko-Uherská říše" # todo: NEW TRANSLATION
-  form_PBL_category: "Peruánsko-bolívijská konfederace" # todo: NEW TRANSLATION
-  form_PBL_category_desc: "Peruánsko-bolívijská konfederace byla původně krátkodobou entitou na počátku 19. století. Vznikla z rozdělení Peruánské republiky a občanských válek v letech 1834 a 1835 až 1836 a zahrnovala Bolívijský stát. Moderní jednání jsou minimální, ale přesto je stále přítomná v politické atmosféře Bolivijců a Peruánců. Nastal čas uvažovat o tomto novém zítřku pro náš národ." # todo: NEW TRANSLATION
-  PBL_integrate_start: "Začněte tvořit Peruánsko-bolívijskou konfederaci" # todo: NEW TRANSLATION
-  PBL_integrate_start_desc: "Začínejte formovat Peruánsko-bolívijskou konfederaci." # todo: NEW TRANSLATION
-  PBL_integrate_PRU: "Integrovat Peru" # todo: NEW TRANSLATION
-  PBL_integrate_PRU_desc: "Peru je větším ze dvou národních států v konfederaci. Udržuje největší populaci, ekonomiku a rozlohu. Integrovat Peru je obrovský úkol, ale získání tohoto státu je pevný krok pro zájmy nové konfederace." # todo: NEW TRANSLATION
-  PBL_integrate_BOL: "Integrovat Bolívii" # todo: NEW TRANSLATION
-  PBL_integrate_BOL_desc: "Bolívie je jedním ze dvou hlavních národních států, které konfederaci založily. Je menším státem v rozloze, počtu obyvatel a hospodářské síly; nicméně, to není důvod tuto zemi zpochybňovat. Hory jsou bohaté na suroviny, které jsou nezbytné pro výrobu elektroniky a dalších polotovarů. Integrací této země se upevňuje další silná pozice pro naši nyní diverzifikovanou ekonomiku." # todo: NEW TRANSLATION
-  PBL_integrate_WESTPAR: "Integrovat západní Paraguay" # todo: NEW TRANSLATION
-  PBL_integrate_WESTPAR_desc: "Západní Paraguay se nemůže pochlubit stejnými nerostnými surovinami jako Západní Brazílie nebo Severní Chile. Přesto má tato oblast hojné zemědělské půdy a regiony, v nichž můžeme rozvíjet průmysl naší nové země." # todo: NEW TRANSLATION
-  PBL_integrate_WESTBRA: "Integrovat Západní Brazílii" # todo: NEW TRANSLATION
-  PBL_integrate_WESTBRA_desc: "Západní Brazílie je domovem pro domorodé obyvatelstvo, bohaté zdroje a mnoho dalšího. Integrací Západní Brazílie by se měl zlepšit postoj naší země a zvětšit území, na němž můžeme rozvíjet průmysl." # todo: NEW TRANSLATION
-  PBL_integrate_NORTHCHL: "Integrovat severní Chile" # todo: NEW TRANSLATION
-  PBL_integrate_NORTHCHL_desc: "Severní oblasti Chile jsou připraveny k integraci a musíme je začlenit do našich plánů, abychom podpořili naše budoucí cíle." # todo: NEW TRANSLATION
-  PBL_update_flag: "$update_flag_and_name$" # todo: NEW TRANSLATION
-  PBL_update_flag_desc: "$update_flag_and_name_desc$" # todo: NEW TRANSLATION
-  is_PBL: "Vznikla Peruánská–Bolívijská konfederace" # todo: NEW TRANSLATION
-  update_flag_and_name: "Aktualizovat vlajku a název země" # todo: NEW TRANSLATION
-  update_flag_and_name_desc: "Vlajka a název země jsou aktualizovány tak, aby odpovídaly nové zemi." # todo: NEW TRANSLATION
-  general_integrate_tt: "Potřebujete §YDomovská poslušnost§! > §C50%§! a §Yodboj§! < §R30%§! pro §Ydomovské území§! ze §Y[?var:tag_check.GetNameWithFlag]§! abyste odemkli rozhodnutí §YIntegrovat§!\n" # todo: NEW TRANSLATION
-  USNA_start_integrate_tt: "Můžete začít integrovat §YVšechna severoamerická území§!\n" # todo: NEW TRANSLATION
-  SOU_start_integrate_tt: "Můžete začít integrovat §YVšechna jihoamerická území§!\n" # todo: NEW TRANSLATION
-  UTS_start_integrate_tt: "Můžete začít integrovat §YVšechna turkická území ve Střední Asii§!\n" # todo: NEW TRANSLATION
-  MAPHI_start_integrate_tt: "Můžete začít integrovat §YVšechna území Maphilindo§!\n" # todo: NEW TRANSLATION
-  VISE_start_integrate_tt: "Můžete začít integrovat §YVšechna území Visegrádu§!\n" # todo: NEW TRANSLATION
-  ANDES_start_integrate_tt: "Můžete začít integrovat §YVšechna andská území§!\n" # todo: NEW TRANSLATION
-  ANTCONF_start_integrate_tt: "Můžete začít integrovat §YVšechna antillská území§!\n" # todo: NEW TRANSLATION
-  SCA_start_integrate_tt: "Můžete začít integrovat §YVšechna severská území§!\n" # todo: NEW TRANSLATION
-  CANZUK_start_integrate_tt: "Můžete začít integrovat §YVšechna CANZUK území§!\n" # todo: NEW TRANSLATION
-  RDLP_start_integrate_tt: "Můžete začít integrovat §YVšechna území Rio de La Plata§!\n" # todo: NEW TRANSLATION
-  MAGHREB_start_integrate_tt: "Můžete začít integrovat §YVšechna území Arabské unie Maghrebu§!\n" # todo: NEW TRANSLATION
-  HBL_start_integrate_tt: "Můžete začít integrovat §YVšechna území Beneluxu§!\n" # todo: NEW TRANSLATION
-  INDOCHI_start_integrate_tt: "Můžete začít integrovat §YVšechna indochinská území§!\n" # todo: NEW TRANSLATION
-  NORDEM_start_integrate_tt: "Můžete začít integrovat §YVšechna území Říše Severního moře§!\n" # todo: NEW TRANSLATION
-  PBL_start_integrate_tt: "Můžete začít integrovat §YVšechna území Peruánsko-bolívijské konfederace§!\n" # todo: NEW TRANSLATION
-  BLT_start_integrate_tt: "Můžete začít integrovat §YVšechna baltská území§!\n" # todo: NEW TRANSLATION
-  AUSHUN_start_integrate_tt: "Můžete začít integrovat §YVšechna bývalá území Rakousko-Uherské říše§!\n" # todo: NEW TRANSLATION
-  WESTFED_start_integrate_tt: "Můžete začít integrovat §YVšechna území Západní Indie§!\n" # todo: NEW TRANSLATION
-  FCA_start_integrate_tt: "Můžete začít integrovat §YVšechna území Střední Ameriky§!\n" # todo: NEW TRANSLATION
-  GCL_start_integrate_tt: "Můžete začít integrovat §YVšechna území Gran Colombie§!\n" # todo: NEW TRANSLATION
-  LBA_integrate_trigger_tt: "Měli byste ovládat §YVšechna Libyjská území§! nebo §Ymít [LBA.GetAdjective] stát jako loutku§!\n" # todo: NEW TRANSLATION
-  USA_integrate_trigger_tt: "Měli byste ovládat §Yvšechny kontinentální americké státy§! nebo §Ymít [USA.GetNameDef] jako loutku§!\n" # todo: NEW TRANSLATION
-  BRA_integrate_trigger_tt: "Měli byste ovládat §Yvšechna brazilská území§! nebo §Ymít [BRA.GetNameDef] jako loutku§!\n" # todo: NEW TRANSLATION
-  SOU_integrate_trigger_tt: "§YVy nebo vaše loutky§! by měli ovládat §Yvšechna území Jižní Ameriky§! ([BRA.GetNameWithFlag], [GUY.GetNameWithFlag], [SUR.GetNameWithFlag], [VEN.GetNameWithFlag], [COL.GetNameWithFlag], [ECU.GetNameWithFlag], [PRU.GetNameWithFlag], [BOL.GetNameWithFlag], [CHL.GetNameWithFlag], [ARG.GetNameWithFlag], [PAR.GetNameWithFlag], [URG.GetNameWithFlag], [67.GetName], [TRI.GetNameWithFlag])\n" # todo: NEW TRANSLATION
-  MAGHREB_integrate_trigger_tt: "§YVy nebo vaše loutky§! by měli ovládat §Yvšechna maghrebská území§! ([ALG.GetNameWithFlag], [LBA.GetNameWithFlag], [MAU.GetNameWithFlag], [MOR.GetNameWithFlag], [SHA.GetNameWithFlag], [TUN.GetNameWithFlag])\n" # todo: NEW TRANSLATION
-  WESTFED_integrate_trigger_tt: "§YVy nebo vaše loutky§! by měli ovládat §Yvšechna území Západních Indií§! ([DMI.GetNameWithFlag], [STK.GetNameWithFlag], [STL.GetNameWithFlag], [STV.GetNameWithFlag], [GRA.GetNameWithFlag], [BAR.GetNameWithFlag], [TRI.GetNameWithFlag], [JAM.GetNameWithFlag])\n" # todo: NEW TRANSLATION
-  AUSHUN_integrate_trigger_tt: "§YVy nebo vaše loutky§! by měli ovládat §Yvšechna území bývalého Rakouska-Uherska§! ([AUS.GetNameWithFlag], [HUN.GetNameWithFlag], [SLV.GetNameWithFlag], [CZE.GetNameWithFlag], [SLO.GetNameWithFlag], [BOS.GetNameWithFlag], [285.GetName], [1061.GetName], [126.GetName], [127.GetName], [151.GetName], [909.GetName], [910.GetName], [112.GetName], [628.GetName], [700.GetName], [701.GetName])\n" # todo: NEW TRANSLATION
-  USA_integrate_tt: "Získáte jádra na §YVšech státech USA§!\n" # todo: NEW TRANSLATION
-  BRA_integrate_tt: "Získáte jádra na §YVšech brazilských územích§!\n" # todo: NEW TRANSLATION
+ form_BLT_category: "Zjednotit Baltské státy" # todo: NEW TRANSLATION
+ form_BLT_category_desc: "Baltské státy jsou unií států mezi Estonskem, Lotyšskem a Litvou. Tyto tři národy byly dlouho kořistí predátorů evropské geopolitiky a nadále trpí rukama evropského imperialismu. Boj proti vlivu a tlaku ze strany zahraničních dobrodinců je nezbytný a patří mezi nejvyšší priority. Tento cíl můžeme dosáhnout sloučením národů a jejich sjednocením. Národ lidí, který dokáže odolat tlaku zahraničního vlivu a prosadit se jako člen světové scény, nikoli jako překážka pro ostatní národy, které by ho zneužily." # todo: NEW TRANSLATION
+ BLT_integrate_start: "Začít formovat [GetBLTNameDef]" # todo: CHANGED
+ BLT_integrate_start_desc: "Nastal čas vytvořit pobaltské státy.\n\n" # todo: CHANGED
+ BLT_integrate_LIT: "Integrovat [GetBLTNameAdj] [LIT.GetAdjective] území" # todo: CHANGED
+ BLT_integrate_LIT_desc: "Litva je největší ze tří baltských států. Předčí Lotyšsko a Estonsko ve většině ukazatelů, jako jsou populace, HDP, rozloha a počet obyvatel. Integrovat tuto zemi vyžaduje značné množství zdrojů z naší země, ale prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
+ BLT_integrate_LAT: "Integrovat [GetBLTNameAdj] [LAT.GetAdjective] území" # todo: CHANGED
+ BLT_integrate_LAT_desc: "Lotyšsko je dalším baltským státem. Spojuje Litvu a Estonsko a má velmi důležitou strategickou polohu. Integrovat tuto zemi vyžaduje značné množství zdrojů z naší země, ale prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
+ BLT_integrate_EST: "Integrovat [GetBLTNameAdj] [EST.GetAdjective] území" # todo: CHANGED
+ BLT_integrate_EST_desc: "Estonsko je nejmenší ze tří baltských států, ale má nejdelší pobřeží ze všech tří národů. Jeho ekonomika je převážně založená na tomto pobřeží a na lesnictví. Estonský lid je neuvěřitelným přínosem pro naši skvělou novou zemi. Integrovat tuto zemi bude vyžadovat určité množství zdrojů z naší země. Přesto to prospěje našemu novému Baltskému státu." # todo: NEW TRANSLATION
+ BLT_update_flag: "Dokončit formování [GetBLTNameDef]" # todo: CHANGED
+ BLT_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetBLTNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ form_FCA_category: "Zjednotit Střední Ameriku" # todo: NEW TRANSLATION
+ form_FCA_category_desc: "Federální republika Střední Ameriky existovala na počátku 19. století. Byla to unie států z území bývalé Kapitánské generálie Guatemaly ve Novém Španělsku. Skládala se z Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua a části Mexika a Belize. Sjednocení federace bude zkouškou národů, jak se sjednotí množství ideologií." # todo: NEW TRANSLATION
+ FCA_integrate_start: "Začít formovat [GetFCANameDef]" # todo: CHANGED
+ FCA_integrate_start_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_BLZ: "Integrovat [GetFCANameAdj] [BLZ.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_BLZ_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_GUA: "Integrovat [GetFCANameAdj] [GUA.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_GUA_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_ELS: "Integrovat [GetFCANameAdj] [ELS.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_ELS_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_HON: "Integrovat [GetFCANameAdj] [HON.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_HON_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_NIC: "Integrovat [GetFCANameAdj] [NIC.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_NIC_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_COS: "Integrovat [GetFCANameAdj] [COS.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_COS_desc: "" # todo: NEW TRANSLATION
+ FCA_integrate_PAN: "Integrovat [GetFCANameAdj] [PAN.GetAdjective] území" # todo: CHANGED
+ FCA_integrate_PAN_desc: "" # todo: NEW TRANSLATION
+ FCA_update_flag: "Dokončit formování [GetFCANameDef]" # todo: CHANGED
+ FCA_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetFCANameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ form_GCL_category: "Druhá Gran Colombia" # todo: NEW TRANSLATION
+ form_GCL_category_desc: "Gran Colombia je bývalý stát zahrnující moderní státy Ekvádor, Kolumbie, Panama a Venezuela. Bolivarovský stát je jedním z příkladů síly Jižní Ameriky, a proto je to cenný cíl pro naši velkou zemi. Spojení našich příbuzných národů v našich sesterských státech posílí a omezí vliv zahraničních sil na naši velkou zemi. Vyhlásíme Druhou Gran Colombii a přineseme jednotu našim velkým národům!" # todo: NEW TRANSLATION
+ GCL_integrate_start: "Začít formovat [GetGCLNameDef]" # todo: CHANGED
+ GCL_integrate_start_desc: "" # todo: NEW TRANSLATION
+ GCL_integrate_COL: "Integrovat [GetGCLNameAdj] [COL.GetAdjective] území" # todo: CHANGED
+ GCL_integrate_COL_desc: "" # todo: NEW TRANSLATION
+ GCL_integrate_VEN: "Integrovat [GetGCLNameAdj] [VEN.GetAdjective] území" # todo: CHANGED
+ GCL_integrate_VEN_desc: "" # todo: NEW TRANSLATION
+ GCL_integrate_ECU: "Integrovat [GetGCLNameAdj] [ECU.GetAdjective] území" # todo: CHANGED
+ GCL_integrate_ECU_desc: "" # todo: NEW TRANSLATION
+ GCL_update_flag: "Dokončit formování [GetGCLNameDef]" # todo: CHANGED
+ GCL_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetGCLNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_GCL: "Zformoval [GetGCLNameDef]" # todo: CHANGED
+ form_SCA_category: "Zjednotit Severský lid" # todo: NEW TRANSLATION
+ form_SCA_category_desc: "Severský lid měl dříve mnoho národů: Švédskou říši, Kalmarskou unii a další. Sjednocení této skupiny národů s tak bohatou historií, jedinečnými kulturami a jazyky bude výzvou pro každého, kdo si troufne dosáhnout tohoto úkolu." # todo: NEW TRANSLATION
+ SCA_integrate_start: "Začít formovat [GetSCANameDef]" # todo: CHANGED
+ SCA_integrate_start_desc: "Nastal čas vytvořit Skandinávskou říši. Naši bratři a sestry budou skutečně sjednoceni pod jedním praporem, zatímco budujeme lepší zítřky.\n\n" # todo: CHANGED
+ SCA_integrate_SWE: "Integrovat [GetSCANameAdj] [SWE.GetAdjective] území" # todo: CHANGED
+ SCA_integrate_SWE_desc: "" # todo: NEW TRANSLATION
+ SCA_integrate_DEN: "Integrovat [GetSCANameAdj] [DEN.GetAdjective] území" # todo: CHANGED
+ SCA_integrate_DEN_desc: "" # todo: NEW TRANSLATION
+ SCA_integrate_NOR: "Integrovat [GetSCANameAdj] [NRY.GetAdjective] území" # todo: CHANGED
+ SCA_integrate_NRY_desc: "" # todo: NEW TRANSLATION
+ SCA_integrate_FIN: "Integrovat [GetSCANameAdj] [FIN.GetAdjective] území" # todo: CHANGED
+ SCA_integrate_FIN_desc: "" # todo: NEW TRANSLATION
+ SCA_integrate_ICE: "Integrovat [GetSCANameAdj] [ICE.GetAdjective] území" # todo: CHANGED
+ SCA_integrate_ICE_desc: "" # todo: NEW TRANSLATION
+ SCA_integrate_GRN: "Integrovat [GetSCANameAdj] [GRN.GetAdjective] území" # todo: NEW TRANSLATION
+ SCA_integrate_GRN_desc: "" # todo: NEW TRANSLATION
+ SCA_update_flag: "Dokončit formování [GetSCANameDef]" # todo: CHANGED
+ SCA_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetSCANameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_SCA: "Zformoval [GetSCANameDef]" # todo: CHANGED
+ form_IBR_category: "Iberská unie" # todo: NEW TRANSLATION
+ form_IBR_category_desc: "Iberská unie je menší politická unie navrhovaná na iberském poloostrově mezi Španělskem a Portugalskem. Obě země byly během většiny nedávné historie propojeny a nadále sdílejí svou společnou iberskou identitu. Sjednocení obou států zásadně nemění světový řád; avšak sloučení těchto dvou států by zajistilo ekonomickou a politickou přítomnost na ústí Středozemního moře, která dosud neexistovala." # todo: NEW TRANSLATION
+ IBR_integrate_SPR: "Integrovat [GetIBRNameAdj] [SPR.GetAdjective] území" # todo: CHANGED
+ IBR_integrate_SPR_desc: "" # todo: NEW TRANSLATION
+ IBR_integrate_POR: "Integrovat [GetIBRNameAdj] [POR.GetAdjective] území" # todo: CHANGED
+ IBR_integrate_POR_desc: "" # todo: NEW TRANSLATION
+ IBR_update_flag: "Dokončit formování [GetIBRNameDef]" # todo: CHANGED
+ IBR_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetIBRNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_IBR: "Zformoval [GetIBRNameDef]" # todo: CHANGED
+ form_ANZ_category: "Australasie" # todo: NEW TRANSLATION
+ form_ANZ_category_desc: "Australasie je rozsáhlejší region, který zahrnuje Austrálii, Nový Zéland a několik menších sousedních ostrovů v Pacifiku. Sjednocení států mezi Novým Zélandem a Austrálií vytváří novou moc v Pacifiku, která bude soupeřit s Indonésií a Japonskem o vliv v regionu." # todo: NEW TRANSLATION
+ ANZ_integrate_AST: "Integrovat [GetANZNameAdj] [AST.GetAdjective] území" # todo: CHANGED
+ ANZ_integrate_AST_desc: "" # todo: NEW TRANSLATION
+ ANZ_integrate_NZL: "Integrovat [GetANZNameAdj] [NZL.GetAdjective] území" # todo: CHANGED
+ ANZ_integrate_NZL_desc: "" # todo: NEW TRANSLATION
+ ANZ_update_flag: "Dokončit formování [GetANZNameDef]" # todo: CHANGED
+ ANZ_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetANZNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_ANZ: "Zformoval [GetANZNameDef]" # todo: CHANGED
+ form_SOU_category: "Unie jihoamerických národů" # todo: NEW TRANSLATION
+ form_SOU_category_desc: "Unie jihoamerických národů je unií všech jihoamerických národů do jednoho superstátu. Ekonomická, politická a kulturní identita Jižní Ameriky je jedinečná díky prolínání španělského a portugalského vlivu a domorodých obyvatel, kteří se začlenili do zemí. Disponuje širokou škálou průmyslových základů, finančních sektorů, surovin a zemědělských produktů. Pokud sjednotíme jihoamerické národy do jednoho superstátu, můžeme konečně konkurovat vlivu Spojených států a dalších velmocí v západní hemisféře i v zahraničí." # todo: NEW TRANSLATION
+ SOU_integrate_start: "Začít formovat [GetSOUNameDef]" # todo: CHANGED
+ SOU_integrate_start_desc: "" # todo: CHANGED
+ SOU_integrate_BRA: "Integrovat [GetSOUNameAdj] [BRA.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_BRA_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_PAR: "Integrovat [GetSOUNameAdj] [PAR.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_PAR_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_BOL: "Integrovat [GetSOUNameAdj] [BOL.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_BOL_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_PRU: "Integrovat [GetSOUNameAdj] [PRU.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_PRU_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_ECU: "Integrovat [GetSOUNameAdj] [ECU.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_ECU_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_SUR: "Integrovat [GetSOUNameAdj] [SUR.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_SUR_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_GUY: "Integrovat [GetSOUNameAdj] [GUY.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_GUY_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_VEN: "Integrovat [GetSOUNameAdj] [VEN.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_VEN_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_COL: "Integrovat [GetSOUNameAdj] [COL.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_COL_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_CHL: "Integrovat [GetSOUNameAdj] [CHL.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_CHL_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_URG: "Integrovat [GetSOUNameAdj] [URG.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_URG_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_ARG: "Integrovat [GetSOUNameAdj] [ARG.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_ARG_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_TRI: "Integrovat [GetSOUNameAdj] [TRI.GetAdjective] území" # todo: CHANGED
+ SOU_integrate_TRI_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_FGU: "Integrovat [GetSOUNameAdj] Guyanská území" # todo: CHANGED
+ SOU_integrate_FGU_desc: "" # todo: NEW TRANSLATION
+ SOU_integrate_Curacao: "Integrovat Curaçao" # todo: NEW TRANSLATION
+ SOU_integrate_Curacao_desc: "" # todo: NEW TRANSLATION
+ SOU_update_flag: "Dokončit formování [GetSOUNameDef]" # todo: CHANGED
+ SOU_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetSOUNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_SOU: "Zformoval [GetSOUNameDef]" # todo: CHANGED
+ form_HBL_category: "Benelux" # todo: NEW TRANSLATION
+ form_HBL_category_desc: "Benelux je politicko-ekonomická unie s Nizozemskem, Belgií a Lucemburskem tvořící skupinu. Historicky spolu tyto tři země udržují přátelské a korektní vztahy. Současná organizace je pouhou unií států na politické a ekonomické úrovni na světovém pódiu. Probíhají tiché debaty o tom, zda by bylo vhodné tuto unii států formalizovat do něčeho konkrétnějšího. Nový národ, který bude reprezentovat obyvatelstvo Nížin, přinese lidem novou budoucnost a povede ji k tomuto jasnému cíli." # todo: NEW TRANSLATION
+ HBL_integrate_start: "Začít formovat [GetHBLNameDef]" # todo: CHANGED
+ HBL_integrate_start_desc: "Nastal čas začít formovat Benelux.\n\n" # todo: CHANGED
+ HBL_integrate_BEL: "Integrovat [GetHBLNameAdj] [BEL.GetAdjective] území" # todo: CHANGED
+ HBL_integrate_BEL_desc: "Belgie není ani největší, ani nejmenší ze zemí Beneluxu. Leží pohodlně uprostřed, podobně jako její postavení mezi ostatními dvěma členy. Hostí několik center byrokracie Evropské unie ve městě Brusel, a je oblíbenou turistickou destinací pro Holanďany, Francouze a nestátní turisty z EU." # todo: NEW TRANSLATION
+ HBL_integrate_HOL: "Integrovat [GetHBLNameAdj] [HOL.GetAdjective] území" # todo: CHANGED
+ HBL_integrate_HOL_desc: "Nizozemsko je největší ze tří členů Beneluxu. Zahrnuje většinu populace, rozlohu a ekonomické velikosti a hostí několik zámořských držeb. Integrace Nizozemska přinese většinu Beneluxu do nového státu a významně posílí legitimitu naší nové unie." # todo: NEW TRANSLATION
+ HBL_integrate_LUX: "Integrovat [GetHBLNameAdj] [LUX.GetAdjective] území" # todo: CHANGED
+ HBL_integrate_LUX_desc: "Lucembursko je nejmenší ze tří národů. Má nejvyšší HDP na obyvatele a má několik menších turistických destinací. Národ mluví směsí jazyků, z nichž nejvýznamnější jsou francouzština, němčina a angličtina. Integrace Lucemburska není velkým úkolem vzhledem k velikosti státu, ale představí určité byrokratické výzvy." # todo: NEW TRANSLATION
+ HBL_update_flag: "Dokončit formování [GetHBLNameDef]" # todo: CHANGED
+ HBL_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetHBLNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_HBL: "Zformoval [GetHBLNameDef]" # todo: CHANGED
+ form_USNA_category: "Sjednotit Severní Ameriku" # todo: NEW TRANSLATION
+ form_USNA_category_desc: "Kontinent Severní Amerika historicky odolával vnějším vlivům od doby, kdy byly Mexiko, Spojené státy americké a Kanada založeny jako národní státy. Tvoří páteř světové ekonomiky, s celkovým HDP kolem jedenácti bilionů dolarů na počátku nového tisíciletí. Spojení těchto národů a hledění k lepšímu zítřku nás povede kupředu do budoucnosti." # todo: NEW TRANSLATION
+ USNA_integrate_start: "Začít formovat [GetUSNANameDef]" # todo: CHANGED
+ USNA_integrate_start_desc: "Nastal čas začít formovat Severoamerickou federaci.\n\n" # todo: CHANGED
+ USNA_integrate_CAN: "Integrovat [GetUSNANameAdj] [CAN.GetAdjective] území" # todo: CHANGED
+ USNA_integrate_CAN_desc: "Kanada je největší zemí podle rozlohy v nové unii a má mnoho nevyužitých ropných zásob. Tyto dva faktory z ní dělají klíčový článek nové unie Severní Ameriky. Doufejme, že námitky se sníží, až bude Kanada dále integrována do nové unie." # todo: NEW TRANSLATION
+ USNA_integrate_USA: "Integrovat [GetUSNANameAdj] [USA.GetAdjective] území" # todo: CHANGED
+ USNA_integrate_USA_desc: "Spojené státy tvoří převážnou část Unie severoamerických států. Mají největší ekonomiku, druhou největší rozlohu, armádu a více. Integrací USA přijde na svět velké množství výzev kvůli jejich ohromné velikosti a váze na globální scéně; nicméně tato integrace nás ekonomicky zařadí mezi největší supervelmoci." # todo: NEW TRANSLATION
+ USNA_integrate_MEX: "Integrovat [GetUSNANameAdj] [MEX.GetAdjective] území" # todo: CHANGED
+ USNA_integrate_MEX_desc: "Mexiko je druhou nejlidnatější ze tří zemí tvořících novou národní unii. Do výzbroje přináší velkou armádu. Země čelí řadě výzev, jako je hustota kartelů. Přesto bude integrace Mexika jedním z hlavních pilířů pro novou zemi." # todo: NEW TRANSLATION
+ USNA_update_flag: "Dokončit formování [GetUSNANameDef]" # todo: CHANGED
+ USNA_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetUSNANameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_USNA: "Zformoval [GetUSNANameDef]" # todo: CHANGED
+ form_UTS_category: "Sjednocené Turkické území" # todo: NEW TRANSLATION
+ form_UTS_category_desc: "Spojené Turkické území je svaz Turkicky mluvících národů, včetně Uzbekistánu, Kyrgyzstánu, Kazachstánu a Turkmenistánu. Další skupiny Turkicky mluvících národů mimo tyto státy, jako Tatary a Ujgurové, existují v Rusku a Číně. Jsou cílem našeho svazu, ale ne počáteční. Budeme sjednocovat existující státy a vyzveme náš lid, aby se vrátil domů, nebo je vrátíme do svazku." # todo: NEW TRANSLATION
+ UTS_integrate_start: "Začít formovat [GetUTSNameDef]" # todo: CHANGED
+ UTS_integrate_start_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_KAZ: "Integrovat [GetUTSNameAdj] [KAZ.GetAdjective] území" # todo: CHANGED
+ UTS_integrate_KAZ_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_UZB: "Integrovat [GetUTSNameAdj] [UZB.GetAdjective] území" # todo: CHANGED
+ UTS_integrate_UZB_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_TRK: "Integrovat [GetUTSNameAdj] [TRK.GetAdjective] území" # todo: CHANGED
+ UTS_integrate_TRK_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_TAJ: "Integrovat Tadžikistán" # todo: NEW TRANSLATION
+ UTS_integrate_TAJ_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_KYR: "Integrovat [GetUTSNameAdj] [KYR.GetAdjective] území" # todo: CHANGED
+ UTS_integrate_KYR_desc: "" # todo: NEW TRANSLATION
+ UTS_integrate_TUR: "Integrovat [GetUTSNameAdj] [TUR.GetAdjective] území" # todo: CHANGED
+ UTS_integrate_TUR_desc: "" # todo: NEW TRANSLATION
+ UTS_update_flag: "Dokončit formování [GetUTSNameDef]" # todo: CHANGED
+ UTS_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetUTSNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_UTS: "Zformoval [GetUTSNameDef]" # todo: CHANGED
+ form_MAPHI_category: "Maphilindo" # todo: NEW TRANSLATION
+ form_MAPHI_category_desc: "Navrhovaná, nepolitická konfederace tří jihovýchodních asijských států na Malayském souostroví v 60. letech. Sní bylo nesplněno kvůli konfliktům mezi národy Indonésie a Federace Malajsie. Sjednocení těchto tří národů by vytvořilo stát, který by se vyrovnal některým z největších národů světa." # todo: NEW TRANSLATION
+ MAPHI_integrate_start: "Začít formovat [GetMAPHINameDef]" # todo: CHANGED
+ MAPHI_integrate_start_desc: "Sjednocení Maphilinda je začátkem nové éry pro obyvatele našich národů. Nastal čas sjednotit se a vytvořit novou budoucnost pro všechny naše národy.\n\n" # todo: CHANGED
+ MAPHI_integrate_IND: "Integrovat [GetMAPHINameAdj] [IND.GetAdjective] území" # todo: CHANGED
+ MAPHI_integrate_IND_desc: "Indonésie je klíčový region bohatý na zdroje pro navrhovaný národ. Je nezbytné, abychom Indonésii integrovali kvůli zdrojům a obyvatelstvu, které může přinést." # todo: NEW TRANSLATION
+ MAPHI_integrate_PHI: "Integrovat [GetMAPHINameAdj] [PHI.GetAdjective] území" # todo: CHANGED
+ MAPHI_integrate_PHI_desc: "Filipíny jsou významným námořním a obchodním uzlem v Pacifiku. Integrace této země nám dá výrazně vyšší šanci začít dominovat v Pacifiku." # todo: NEW TRANSLATION
+ MAPHI_integrate_SIN: "Integrovat [GetMAPHINameAdj] [SIN.GetAdjective] území" # todo: CHANGED
+ MAPHI_integrate_SIN_desc: "Singapur je klíčovým uzlem pro novou zemi. Jeho postavení jako významného obchodního přístavu a finančního centra je pro úspěch nové země klíčové." # todo: NEW TRANSLATION
+ MAPHI_integrate_MAY: "Integrovat [GetMAPHINameAdj] [MAY.GetAdjective] území" # todo: CHANGED
+ MAPHI_integrate_MAY_desc: "Malajsie je politicky jednou z klíčových částí národa. Umožňuje nám přístup k pevninským trasám v Asii díky vlastnictví poloostrova." # todo: NEW TRANSLATION
+ MAPHI_integrate_BRU: "Integrovat [GetMAPHINameAdj] [BRU.GetAdjective] území" # todo: CHANGED
+ MAPHI_integrate_BRU_desc: "Brunej je menší stát v tomto uskupení. Je nezbytné jej integrovat, i když jde o menší stát." # todo: NEW TRANSLATION
+ MAPHI_update_flag: "Dokončit formování [GetMAPHINameDef]" # todo: CHANGED
+ MAPHI_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetMAPHINameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_MAPHI: "Zformoval [GetMAPHINameDef]" # todo: CHANGED
+ form_INDOCHI_category: "Indočína" # todo: NEW TRANSLATION
+ form_INDOCHI_category_desc: "Indočína je bývalá federace národů Vietnamu, Kambodže a Laosu, která existovala do roku 1954. Tři státy dohromady tvoří jednu z největších ekonomik světa a pojímají masivní populaci. Je to národ hustých džunglí, kopcovité krajiny, hor a nádherného pobřeží. Její síla spočívá v lidech a vůli, která posune tuto skupinu kupředu do budoucnosti." # todo: NEW TRANSLATION
+ INDOCHI_integrate_start: "Začít formovat [GetINDOCHINameDef]" # todo: CHANGED
+ INDOCHI_integrate_start_desc: "Nastal čas začít formovat Indočínu.\n\n" # todo: CHANGED
+ INDOCHI_integrate_VIE: "Integrovat [GetINDOCHINameAdj] [VIE.GetAdjective] území" # todo: CHANGED
+ INDOCHI_integrate_VIE_desc: "Vietnam má obrovské množství přírodních zdrojů v horách a podél pobřeží. Integrace Vietnamu posílí naši kontrolu nad národem." # todo: NEW TRANSLATION
+ INDOCHI_integrate_LAO: "Integrovat [GetINDOCHINameAdj] [LAO.GetAdjective] území" # todo: CHANGED
+ INDOCHI_integrate_LAO_desc: "Laos má stejně jako Vietnam obrovské množství přírodních zdrojů." # todo: NEW TRANSLATION
+ INDOCHI_integrate_CBD: "Integrovat [GetINDOCHINameAdj] [CBD.GetAdjective] území" # todo: CHANGED
+ INDOCHI_integrate_CBD_desc: "Přírodní geografie a bohaté půdy Kambodže jsou pro národ důležité. Začlenění do národa bude i nadále zlepšovat jeho rozvoj." # todo: NEW TRANSLATION
+ INDOCHI_update_flag: "Dokončit formování [GetINDOCHINameDef]" # todo: CHANGED
+ INDOCHI_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetINDOCHINameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_INDOCHI: "Zformoval [GetINDOCHINameDef]" # todo: CHANGED
+ form_ANDES_category: "Andská federace" # todo: NEW TRANSLATION
+ form_ANDES_category_desc: "Andská federace je navrhovaný svaz států mezi [COL.GetNameWithFlag], [PRU.GetNameWithFlag] a [BOL.GetNameWithFlag]. Je volně založena na Andské komunitě, která je svazem volného obchodu a hospodářským svazem mezi těmito zeměmi. Nový navrhovaný národ by měl celkovou populaci přes sto třináct milionů obyvatel a rozlohu čtyři miliony sedm set tisíc čtverečních kilometrů. Byl by to stát podobný Mexiku co do velikosti, s HDP kolem tří čtvrtin bilionu dolarů." # todo: NEW TRANSLATION
+ ANDES_integrate_start: "Začít formovat [GetANDESNameDef]" # todo: CHANGED
+ ANDES_integrate_start_desc: "" # todo: NEW TRANSLATION
+ ANDES_integrate_COL: "Integrovat [GetANDESNameAdj] [COL.GetAdjective] území" # todo: CHANGED
+ ANDES_integrate_COL_desc: "" # todo: NEW TRANSLATION
+ ANDES_integrate_PRU: "Integrovat [GetANDESNameAdj] [PRU.GetAdjective] území" # todo: CHANGED
+ ANDES_integrate_PRU_desc: "" # todo: NEW TRANSLATION
+ ANDES_integrate_BOL: "Integrovat [GetANDESNameAdj] [BOL.GetAdjective] území" # todo: CHANGED
+ ANDES_integrate_BOL_desc: "" # todo: NEW TRANSLATION
+ ANDES_update_flag: "Dokončit formování [GetANDESNameDef]" # todo: CHANGED
+ ANDES_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetANDESNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_ANDES: "Zformoval [GetANDESNameDef]" # todo: CHANGED
+ form_ANTCONF_category: "Antillká konfederace" # todo: NEW TRANSLATION
+ form_ANTCONF_category_desc: "Antillská konfederace je navrhovaný stát v Karibiku spojující [CUB.GetNameWithFlag], [DOM.GetNameWithFlag] a [HAI.GetNameWithFlag]. Původně vznikla jako nápad Ramón Emeterio Betanse, aktivisty za nezávislost Portorika, který chtěl sjednotit všechny španělsky mluvící karibské státy do jediné jednotné entity. Původní myšlenka nezahrnovala [HAI.GetNameWithFlag], avšak byla rychle zahrnuta zastánci této myšlenky. Myšlenka do značné míry zanikla v důsledku americko-španělské války, kdy byly kolonie [CUB.GetNameWithFlag] a [PTR.GetNameWithFlag] převedeny do Spojených států. Myšlenka by vyvolala stát, který by pravděpodobně sídlil hlavní město v Santo Domingo a jehož oficiálním jazykem by byla španělština." # todo: NEW TRANSLATION
+ ANTCONF_integrate_start: "Začít formovat [GetANTCONFNameDef]" # todo: CHANGED
+ ANTCONF_integrate_start_desc: "Nastal čas vytvořit Antilskou konfederaci. Naši lidé se nyní musí sjednotit, aby zajistili světlejší budoucnost obyvatelům Karibiku.\n\n" # todo: CHANGED
+ ANTCONF_integrate_CUB: "Integrovat [GetANTCONFNameAdj] [CUB.GetAdjective] území" # todo: CHANGED
+ ANTCONF_integrate_CUB_desc: "Kuba je největším ze tří hlavních národů konfederace. Začlenění této země zvětší velikost ekonomiky a téměř zdvojnásobí populaci a rozlohu." # todo: NEW TRANSLATION
+ ANTCONF_integrate_DOM: "Integrovat [GetANTCONFNameAdj] [DOM.GetAdjective] území" # todo: CHANGED
+ ANTCONF_integrate_DOM_desc: "Dominikánská republika je jednou ze tří hlavních národů konfederace. Na ostrov Hispaniola sdílí ostrov s Haiti a má mnoho turistů a průmyslu. Severní strana ostrova se také podílí na lehkém hornictví a vyrábí ocel pro místní využití v republice. Její začlenění bude pro novou konfederaci neocenitelné." # todo: NEW TRANSLATION
+ ANTCONF_integrate_HAI: "Integrovat [GetANTCONFNameAdj] [HAI.GetAdjective] území" # todo: CHANGED
+ ANTCONF_integrate_HAI_desc: "Haiti je nejmenší ze tří hlavních národů konfederace. Liší se od Kuby a Dominikánské republiky tím, že je bývalou francouzskou kolonií. Začlenění potrvá déle kvůli jazykovým rozdílům mezi skupinou národů; nicméně průmyslová základna a přirozený přístav Port-au-Prince budou neocenitelné pro ekonomické a vojenské operace v Karibiku." # todo: NEW TRANSLATION
+ ANTCONF_integrate_PTR: "Integrovat [GetANTCONFNameAdj] [PTR.GetAdjective] území" # todo: CHANGED
+ ANTCONF_integrate_PTR_desc: "Portoriko bylo dlouho územím Spojených států. Pyšní se ochranou Spojených států, ale nepatří mezi jejich integrální území. Má populaci téměř čtyř milionů a je jedním z největších ostrovů Karibiku. Je nejmenším z potenciálně začlenitelných států pro Antillskou konfederaci. Přesto živá kultura a turistika v této oblasti přinesou větší konfederaci značné výhody." # todo: NEW TRANSLATION
+ ANTCONF_update_flag: "Dokončit formování [GetANTCONFNameDef]" # todo: CHANGED
+ ANTCONF_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetANTCONFNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_ANTCONF: "Zformoval [GetANTCONFNameDef]" # todo: CHANGED
+ form_CANZUK_category: "CANZUK" # todo: NEW TRANSLATION
+ form_CANZUK_category_desc: "CANZUK je unií států mezi Kanadou, Austrálií, Novým Zélandem a Spojeným Královstvím. Liší se od Britského impéria tím, že tato unie států by byla přímo spravována a skutečně sjednoceným státem. Národ by zasahoval několik kontinentů a stal by se významným hráčem na světové scéně. Možná bychom měli tuto myšlenku podnítit a sjednotit národy?" # todo: NEW TRANSLATION
+ CANZUK_integrate_start: "Začít formovat [GetCANZUKNameDef]" # todo: CHANGED
+ CANZUK_integrate_start_desc: "" # todo: NEW TRANSLATION
+ CANZUK_integrate_CAN: "Integrovat [GetCANZUKNameAdj] [CAN.GetAdjective] území" # todo: CHANGED
+ CANZUK_integrate_CAN_desc: "" # todo: NEW TRANSLATION
+ CANZUK_integrate_AST: "Integrovat [GetCANZUKNameAdj] [AST.GetAdjective] území" # todo: CHANGED
+ CANZUK_integrate_AST_desc: "" # todo: NEW TRANSLATION
+ CANZUK_integrate_NZL: "Integrovat [GetCANZUKNameAdj] [NZL.GetAdjective] území" # todo: CHANGED
+ CANZUK_integrate_NZL_desc: "" # todo: NEW TRANSLATION
+ CANZUK_integrate_ENG: "Integrovat [GetCANZUKNameAdj] [ENG.GetAdjective] území" # todo: CHANGED
+ CANZUK_integrate_ENG_desc: "" # todo: NEW TRANSLATION
+ CANZUK_update_flag: "Dokončit formování [GetCANZUKNameDef]" # todo: CHANGED
+ CANZUK_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetCANZUKNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_CANZUK: "Zformoval [GetCANZUKNameDef]" # todo: CHANGED
+ form_RDLP_category: "Rio de la Plata" # todo: NEW TRANSLATION
+ form_RDLP_category_desc: "United Provinces of Rio de La Plata bylo sdružení států v dnešních státech Argentiny, Uruguaye, Paraguaye a Bolívie. Současná představa národa zahrnuje Chile v rámci skupiny, která sjednocuje většinu Jižní Ameriky pod jedním národním prapor. Nový národ bude s Brazílií vyrovnán co do velikosti, populace a ekonomické síly. Možná je to nová budoucnost naší skupiny národů." # todo: NEW TRANSLATION
+ RDLP_integrate_start: "Začít formovat [GetRDLPNameDef]" # todo: CHANGED
+ RDLP_integrate_start_desc: "" # todo: NEW TRANSLATION
+ RDLP_integrate_PAR: "Integrovat [GetRDLPNameAdj] [PAR.GetAdjective] území" # todo: CHANGED
+ RDLP_integrate_PAR_desc: "" # todo: NEW TRANSLATION
+ RDLP_integrate_BOL: "Integrovat [GetRDLPNameAdj] [BOL.GetAdjective] území" # todo: CHANGED
+ RDLP_integrate_BOL_desc: "" # todo: NEW TRANSLATION
+ RDLP_integrate_CHL: "Integrovat [GetRDLPNameAdj] [CHL.GetAdjective] území" # todo: CHANGED
+ RDLP_integrate_CHL_desc: "" # todo: NEW TRANSLATION
+ RDLP_integrate_URG: "Integrovat [GetRDLPNameAdj] [URG.GetAdjective] území" # todo: CHANGED
+ RDLP_integrate_URG_desc: "" # todo: NEW TRANSLATION
+ RDLP_integrate_ARG: "Integrovat [GetRDLPNameAdj] [ARG.GetAdjective] území" # todo: CHANGED
+ RDLP_integrate_ARG_desc: "" # todo: NEW TRANSLATION
+ RDLP_update_flag: "Dokončit formování [GetRDLPNameDef]" # todo: CHANGED
+ RDLP_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetRDLPNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_RDLP: "Zformoval [GetRDLPNameDef]" # todo: CHANGED
+ form_NORDEM_category: "North Sea Empire" # todo: NEW TRANSLATION
+ form_NORDEM_category_desc: "The North Sea Empire byl politické spojení Anglie, Dánska a Norska během počátku 11. století. Impérium bylo na konci vikingské éry a bylo neuvěřitelně krátkodobé. Znovuzjednocení impéria by bylo úspěchem v moderní době a mohlo by znamenat návrat nového vikingského věku." # todo: NEW TRANSLATION
+ NORDEM_integrate_start: "Začít formovat [GetNORDEMNameDef]" # todo: CHANGED
+ NORDEM_integrate_start_desc: "" # todo: NEW TRANSLATION
+ NORDEM_integrate_SWE: "Integrovat [GetNORDEMNameAdj] [SWE.GetAdjective] území" # todo: CHANGED
+ NORDEM_integrate_SWE_desc: "" # todo: NEW TRANSLATION
+ NORDEM_integrate_NOR: "Integrovat [GetNORDEMNameAdj] [NRY.GetAdjective] území" # todo: CHANGED
+ NORDEM_integrate_NRY_desc: "" # todo: NEW TRANSLATION
+ NORDEM_integrate_DEN: "Integrovat [GetNORDEMNameAdj] [DEN.GetAdjective] území" # todo: CHANGED
+ NORDEM_integrate_DEN_desc: "" # todo: NEW TRANSLATION
+ NORDEM_integrate_ENG: "Integrovat [GetNORDEMNameAdj] [ENG.GetAdjective] území" # todo: CHANGED
+ NORDEM_integrate_ENG_desc: "" # todo: NEW TRANSLATION
+ NORDEM_update_flag: "Dokončit formování [GetNORDEMNameDef]" # todo: CHANGED
+ NORDEM_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetNORDEMNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_NORDEM: "Zformoval [GetNORDEMNameDef]" # todo: CHANGED
+ form_MAGHREB_category: "Arab-Maghreb Union" # todo: NEW TRANSLATION
+ form_MAGHREB_category_desc: "Arab-Maghreb Unie je politická unie států, která zahrnuje Alžírsko, Libye, Mauritánii, Maroko a Tunisko. Tato jednota sloužila hlavně k zajištění politické jednoty a ekonomické integrace mezi státy. Ačkoliv v posledních letech se činnost unie zdá ubývat, může být čas tuto myšlenku znovu oživit. Sjednocení obyvatel Maghrebu vytvořilo novou zemi, která by mohla dominovat africkému kontinentu a Středomořskému pobřeží. Je čas sjednotit Maghreb a stát se jednou z velkých světových národů." # todo: NEW TRANSLATION
+ MAGHREB_integrate_start: "Začít formovat [GetMAGHREBNameDef]" # todo: CHANGED
+ MAGHREB_integrate_start_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_ALG: "Integrovat [GetMAGHREBNameAdj] [ALG.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_ALG_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_LBA: "Integrovat [GetMAGHREBNameAdj] [LBA.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_LBA_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_MOR: "Integrovat [GetMAGHREBNameAdj] [MOR.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_MOR_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_SHA: "Integrovat [GetMAGHREBNameAdj] [SHA.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_SHA_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_TUN: "Integrovat [GetMAGHREBNameAdj] [TUN.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_TUN_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_integrate_MAU: "Integrovat [GetMAGHREBNameAdj] [MAU.GetAdjective] území" # todo: CHANGED
+ MAGHREB_integrate_MAU_desc: "" # todo: NEW TRANSLATION
+ MAGHREB_update_flag: "Dokončit formování [GetMAGHREBNameDef]" # todo: CHANGED
+ MAGHREB_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetMAGHREBNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_MAGHREB: "Zformoval [GetMAGHREBNameDef]" # todo: CHANGED
+ form_WESTFED_category: "Federace Západních ostrovů" # todo: NEW TRANSLATION
+ form_WESTFED_category_desc: "Federace Západních ostrovů byla krátkodobá politická unie od roku 1958 do roku 1962, která zahrnovala mnoho karibských ostrovních národů. Unie se rychle rozpadla kvůli sporům o tom, jak by měla být spravována a fungovat. Myšlenka stále má určitou hodnotu mezi národy a mohla by být dalším velkým národem na západní polokouli. Pojďme vést Karibik do tohoto nového zítřka?" # todo: NEW TRANSLATION
+ WESTFED_integrate_start: "Začít formovat [GetWESTFEDNameDef]" # todo: CHANGED
+ WESTFED_integrate_start_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_TRI: "Integrovat [GetWESTFEDNameAdj] [TRI.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_TRI_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_GRA: "Integrovat [GetWESTFEDNameAdj] [GRA.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_GRA_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_STV: "Integrovat [GetWESTFEDNameAdj] [STV.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_STV_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_BAR: "Integrovat [GetWESTFEDNameAdj] [BAR.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_BAR_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_STL: "Integrovat [GetWESTFEDNameAdj] [STL.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_STL_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_STK: "Integrovat [GetWESTFEDNameAdj] [STK.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_STK_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_DMI: "Integrovat [GetWESTFEDNameAdj] [DMI.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_DMI_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_ANT: "Integrovat [GetWESTFEDNameAdj] [ANT.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_ANT_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_JAM: "Integrovat [GetWESTFEDNameAdj] [JAM.GetAdjective] území" # todo: CHANGED
+ WESTFED_integrate_JAM_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_CAYMAN: "Integrovat [GetWESTFEDNameAdj] Kajmanská území" # todo: CHANGED
+ WESTFED_integrate_CAYMAN_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_TURKS: "Integrovat [GetWESTFEDNameAdj] území Turks a Caicos" # todo: CHANGED
+ WESTFED_integrate_TURKS_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_ANTILLES: "Integrovat [GetWESTFEDNameAdj] britská antilská území" # todo: CHANGED
+ WESTFED_integrate_ANTILLES_desc: "" # todo: NEW TRANSLATION
+ WESTFED_integrate_GUADELOUPE: "Integrovat [GetWESTFEDNameAdj] guadeloupská území" # todo: CHANGED
+ WESTFED_integrate_GUADELOUPE_desc: "" # todo: NEW TRANSLATION
+ WESTFED_update_flag: "Dokončit formování [GetWESTFEDNameDef]" # todo: CHANGED
+ WESTFED_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetWESTFEDNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_WESTFED: "Zformoval [GetWESTFEDNameDef]" # todo: CHANGED
+ form_AUSHUN_category: "Reforma Rakousko-Uherské říše" # todo: NEW TRANSLATION
+ form_AUSHUN_category_desc: "Rakousko-Uherská říše byla velmocí ve střední Evropě na konci 19. století a na počátku 20. století. Národ byla rozdělena po masivní porážce ve Velké válce. Rozpadla se na Česko, Rakousko, Maďarsko, Slovensko, Slovinsko, Bosnu a Hercegovinu a části Ukrajiny, Polska a Rumunska. Je načase znovu nabrat ztracený štít tak dávno ztracený. Je čas reformovat Rakousko-Uherskou říši." # todo: NEW TRANSLATION
+ AUSHUN_integrate_start: "Začít formovat [GetAUSHUNNameDef]" # todo: CHANGED
+ AUSHUN_integrate_start_desc: "Území Rakousko-uherské říše byla znovu získána naší armádou a naši politici zahájili práci na správě nových oblastí.\n\n" # todo: CHANGED
+ AUSHUN_integrate_AUS: "Integrovat [GetAUSHUNNameAdj] [AUS.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_AUS_desc: "Jádrové země bývalé habsburské říše, Rakousko by mělo být jedním z hlavních center moci v našem státě." # todo: CHANGED
+ AUSHUN_integrate_HUN: "Integrovat [GetAUSHUNNameAdj] [HUN.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_HUN_desc: "Uherské království bylo druhou polovinou dvojmonarchie, partnerem při správě říše. Jeho integrace je nezbytná pro obnovení císařské struktury." # todo: CHANGED
+ AUSHUN_integrate_SLV: "Integrovat [GetAUSHUNNameAdj] [SLV.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_SLV_desc: "Slovinské země byly součástí rakouských korunních zemí, zajišťovaly přístup k Jadranu a sloužily jako most mezi Rakouskem a Balkánem." # todo: CHANGED
+ AUSHUN_integrate_NORTHITA: "Integrovat [GetAUSHUNNameAdj] severoitalská území" # todo: CHANGED
+ AUSHUN_integrate_NORTHITA_desc: "Italská území Lombardie‑Benátska byla kdysi klenoty habsburské koruny, bohatá na kulturu a obchod. Jejich návrat by obnovil rakouský vliv v údolí řeky Pád." # todo: CHANGED
+ AUSHUN_integrate_CRO: "Integrovat [GetAUSHUNNameAdj] [CRO.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_CRO_desc: "Chorvatsko bylo součástí uherské koruny s značnou autonomií. Jeho přístavy a strategická poloha podél Jadranu ho činily klíčovým pro námořní sílu říše." # todo: CHANGED
+ AUSHUN_integrate_BOS: "Integrovat [GetAUSHUNNameAdj] [BOS.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_BOS_desc: "Bosna a Hercegovina byla spravována Rakousko‑Uherskem od roku 1878 a formálně anektována v roce 1908; její integrace zajistí naše jižní hranice a rozšíří náš vliv na Balkáně." # todo: CHANGED
+ AUSHUN_integrate_SLO: "Integrovat [GetAUSHUNNameAdj] [SLO.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_SLO_desc: "Slovenské země byly nedílnou součástí Uherského království, tvořily horskou severní hranici koruny. Jejich reintegrace posílí naši nadvládu nad Karpaty." # todo: CHANGED
+ AUSHUN_integrate_AUSROM: "Integrovat [GetAUSHUNNameAdj] transylvánská území" # todo: CHANGED
+ AUSHUN_integrate_AUSROM_desc: "Sedmihradsko bylo historickou korunní zemí Uherska, spornou mezi rumunským a maďarským obyvatelstvem. Ovládnutí tohoto regionu zajistí východní přístupy k říši." # todo: CHANGED
+ AUSHUN_integrate_CZE: "Integrovat [GetAUSHUNNameAdj] [CZE.GetAdjective] území" # todo: CHANGED
+ AUSHUN_integrate_CZE_desc: "České korunní země patřily mezi nejindustrializovanější a kulturně nejbohatší území říše. Praha stála jako jedno z velkých císařských měst a její reintegrace je zásadní." # todo: CHANGED
+ AUSHUN_integrate_AUSPOL: "Integrovat jižní Polsko" # todo: NEW TRANSLATION
+ AUSHUN_integrate_AUSPOL_desc: "Halič byla korunní zemí získanou děleními Polska, přinášející ekonomické zdroje i strategickou hloubku pro severní hranici říše." # todo: CHANGED
+ AUSHUN_integrate_WESTUKR: "Integrovat jihozápadní Ukrajinu" # todo: NEW TRANSLATION
+ AUSHUN_integrate_WESTUKR_desc: "Východní části Haliče byly domovem rusínského obyvatelstva a poskytovaly zemědělské bohatství. Jejich integrace rozšíří náš vliv do ukrajinského pohraničí." # todo: CHANGED
+ AUSHUN_update_flag: "Dokončit formování [GetAUSHUNNameDef]" # todo: CHANGED
+ AUSHUN_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetAUSHUNNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_AUSHUN: "Zformoval [GetAUSHUNNameDef]" # todo: CHANGED
+ form_PBL_category: "Peruánsko-bolívijská konfederace" # todo: NEW TRANSLATION
+ form_PBL_category_desc: "Peruánsko-bolívijská konfederace byla původně krátkodobou entitou na počátku 19. století. Vznikla z rozdělení Peruánské republiky a občanských válek v letech 1834 a 1835 až 1836 a zahrnovala Bolívijský stát. Moderní jednání jsou minimální, ale přesto je stále přítomná v politické atmosféře Bolivijců a Peruánců. Nastal čas uvažovat o tomto novém zítřku pro náš národ." # todo: NEW TRANSLATION
+ PBL_integrate_start: "Začít formovat [GetPBLNameDef]" # todo: CHANGED
+ PBL_integrate_start_desc: "" # todo: CHANGED
+ PBL_integrate_PRU: "Integrovat [GetPBLNameAdj] [PRU.GetAdjective] území" # todo: CHANGED
+ PBL_integrate_PRU_desc: "Peru je větším ze dvou národních států v konfederaci. Udržuje největší populaci, ekonomiku a rozlohu. Integrovat Peru je obrovský úkol, ale získání tohoto státu je pevný krok pro zájmy nové konfederace." # todo: NEW TRANSLATION
+ PBL_integrate_BOL: "Integrovat [GetPBLNameAdj] [BOL.GetAdjective] území" # todo: CHANGED
+ PBL_integrate_BOL_desc: "Bolívie je jedním ze dvou hlavních národních států, které konfederaci založily. Je menším státem v rozloze, počtu obyvatel a hospodářské síly; nicméně, to není důvod tuto zemi zpochybňovat. Hory jsou bohaté na suroviny, které jsou nezbytné pro výrobu elektroniky a dalších polotovarů. Integrací této země se upevňuje další silná pozice pro naši nyní diverzifikovanou ekonomiku." # todo: NEW TRANSLATION
+ PBL_integrate_WESTPAR: "Integrovat západní Paraguay" # todo: NEW TRANSLATION
+ PBL_integrate_WESTPAR_desc: "Západní Paraguay se nemůže pochlubit stejnými nerostnými surovinami jako Západní Brazílie nebo Severní Chile. Přesto má tato oblast hojné zemědělské půdy a regiony, v nichž můžeme rozvíjet průmysl naší nové země." # todo: NEW TRANSLATION
+ PBL_integrate_WESTBRA: "Integrovat Západní Brazílii" # todo: NEW TRANSLATION
+ PBL_integrate_WESTBRA_desc: "Západní Brazílie je domovem pro domorodé obyvatelstvo, bohaté zdroje a mnoho dalšího. Integrací Západní Brazílie by se měl zlepšit postoj naší země a zvětšit území, na němž můžeme rozvíjet průmysl." # todo: NEW TRANSLATION
+ PBL_integrate_NORTHCHL: "Integrovat severní Chile" # todo: NEW TRANSLATION
+ PBL_integrate_NORTHCHL_desc: "Severní oblasti Chile jsou připraveny k integraci a musíme je začlenit do našich plánů, abychom podpořili naše budoucí cíle." # todo: NEW TRANSLATION
+ PBL_update_flag: "Dokončit formování [GetPBLNameDef]" # todo: CHANGED
+ PBL_update_flag_desc: "Po integraci všech území můžeme dokončit naši proměnu a vyhlásit [GetPBLNameDef], přičemž přijmeme jeho jednotnou vlajku a název." # todo: CHANGED
+ is_PBL: "Zformoval [GetPBLNameDef]" # todo: CHANGED
+ form_UAS_category: "Unie afrických států" # todo: NEW TRANSLATION
+ form_UAS_category_desc: "Unie afrických států byla krátce trvající politickou unií mezi Ghanou, Guineou a Mali, vytvořenou v roce 1961 v duchu panafrické vize Kwameho Nkrumaha. Oživme tento sen o západoafrické jednotě a vytvořme novou mocnou unii." # todo: NEW TRANSLATION
+ UAS_integrate_start: "Zahájit formování [GetUASNameDef]" # todo: NEW TRANSLATION
+ UAS_integrate_start_desc: "" # todo: NEW TRANSLATION
+ UAS_integrate_GAH: "Integrovat [GetUASNameAdj] [GAH.GetAdjective] území" # todo: NEW TRANSLATION
+ UAS_integrate_GAH_desc: "" # todo: NEW TRANSLATION
+ UAS_integrate_GUI: "Integrovat [GetUASNameAdj] [GUI.GetAdjective] území" # todo: NEW TRANSLATION
+ UAS_integrate_GUI_desc: "" # todo: NEW TRANSLATION
+ UAS_integrate_MAL: "Integrovat [GetUASNameAdj] [MAL.GetAdjective] území" # todo: NEW TRANSLATION
+ UAS_integrate_MAL_desc: "" # todo: NEW TRANSLATION
+ UAS_update_flag: "Dokončit formování [GetUASNameDef]" # todo: NEW TRANSLATION
+ UAS_update_flag_desc: "Po integraci všech členských území můžeme dokončit naši proměnu a vyhlásit [GetUASNameDef], přičemž přijmeme jeho jednotný prapor a název." # todo: NEW TRANSLATION
+ is_UAS: "Vytvořil [GetUASNameDef]" # todo: NEW TRANSLATION
+ form_AVG_category: "Angevinská říše" # todo: NEW TRANSLATION
+ form_AVG_category_desc: "Angevinská říše představovala vrchol evropské moci ve 12. a 13. století, kdy dynastie Plantagenetů vládla Anglii, rozsáhlým částem Francie a dalším územím. Říše se vyznačovala svým kulturním a politickým vlivem napříč kontinentem. Obnovení Angevinské říše by bylo monumentálním úspěchem, který by znovu sjednotil tyto historické země pod jedním praporem." # todo: NEW TRANSLATION
+ AVG_integrate_start: "Zahájit formování [GetAVGNameDef]" # todo: NEW TRANSLATION
+ AVG_integrate_start_desc: "" # todo: NEW TRANSLATION
+ AVG_integrate_FRA: "Integrovat [GetAVGNameAdj] [FRA.GetAdjective] území" # todo: NEW TRANSLATION
+ AVG_integrate_FRA_desc: "" # todo: NEW TRANSLATION
+ AVG_integrate_ENG: "Integrovat [GetAVGNameAdj] [ENG.GetAdjective] území" # todo: NEW TRANSLATION
+ AVG_integrate_ENG_desc: "" # todo: NEW TRANSLATION
+ AVG_integrate_IRE: "Integrovat [GetAVGNameAdj] [IRE.GetAdjective] území" # todo: NEW TRANSLATION
+ AVG_integrate_IRE_desc: "" # todo: NEW TRANSLATION
+ AVG_update_flag: "Dokončit formování [GetAVGNameDef]" # todo: NEW TRANSLATION
+ AVG_update_flag_desc: "Po integraci všech členských území můžeme dokončit naši proměnu a vyhlásit [GetAVGNameDef], přičemž přijmeme jeho jednotný prapor a název." # todo: NEW TRANSLATION
+ is_AVG: "Vytvořil [GetAVGNameDef]" # todo: NEW TRANSLATION
+ update_flag_and_name: "Aktualizovat vlajku a název země" # todo: NEW TRANSLATION
+ update_flag_and_name_desc: "Vlajka a název země jsou aktualizovány tak, aby odpovídaly nové zemi." # todo: NEW TRANSLATION
+ general_integrate_tt: "Pro odemčení rozhodnutí §YIntegrovat§! musí být §Ydodržování jaderných států§! > §C50%§! a §Yodpor§! < §R30%§! pro §Yjádrové státy§! země §Y[?var:tag_check.GetNameWithFlag]§!.\n" # todo: CHANGED
+ gip: "Můžete začít integrovat §Y" # todo: NEW TRANSLATION
+ gis: " území§!.\n" # todo: NEW TRANSLATION
+ USNA_start_integrate_tt: "$gip$[GetUSNANameAdj]$gis$" # todo: CHANGED
+ SOU_start_integrate_tt: "$gip$[GetSOUNameAdj]$gis$" # todo: CHANGED
+ UTS_start_integrate_tt: "$gip$[GetUTSNameAdj]$gis$" # todo: CHANGED
+ MAPHI_start_integrate_tt: "$gip$[GetMAPHINameAdj]$gis$" # todo: CHANGED
+ ANDES_start_integrate_tt: "$gip$[GetANDESNameAdj]$gis$" # todo: CHANGED
+ ANTCONF_start_integrate_tt: "$gip$[GetANTCONFNameAdj]$gis$" # todo: CHANGED
+ SCA_start_integrate_tt: "$gip$[GetSCANameAdj]$gis$" # todo: CHANGED
+ CANZUK_start_integrate_tt: "$gip$[GetCANZUKNameAdj]$gis$" # todo: CHANGED
+ RDLP_start_integrate_tt: "$gip$[GetRDLPNameAdj]$gis$" # todo: CHANGED
+ MAGHREB_start_integrate_tt: "$gip$[GetMAGHREBNameAdj]$gis$" # todo: CHANGED
+ HBL_start_integrate_tt: "$gip$[GetHBLNameAdj]$gis$" # todo: CHANGED
+ INDOCHI_start_integrate_tt: "$gip$[GetINDOCHINameAdj]$gis$" # todo: CHANGED
+ NORDEM_start_integrate_tt: "$gip$[GetNORDEMNameAdj]$gis$" # todo: CHANGED
+ PBL_start_integrate_tt: "$gip$[GetPBLNameAdj]$gis$" # todo: CHANGED
+ UAS_start_integrate_tt: "$gip$[GetUASNameAdj]$gis$" # todo: NEW TRANSLATION
+ AVG_start_integrate_tt: "$gip$[GetAVGNameAdj]$gis$" # todo: NEW TRANSLATION
+ BLT_start_integrate_tt: "$gip$[GetBLTNameAdj]$gis$" # todo: CHANGED
+ AUSHUN_start_integrate_tt: "$gip$[GetAUSHUNNameAdj]$gis$" # todo: CHANGED
+ WESTFED_start_integrate_tt: "$gip$[GetWESTFEDNameAdj]$gis$" # todo: CHANGED
+ FCA_start_integrate_tt: "$gip$[GetFCANameAdj]$gis$" # todo: CHANGED
+ GCL_start_integrate_tt: "$gip$[GetGCLNameAdj]$gis$" # todo: CHANGED
+ LBA_integrate_trigger_tt: "Měli byste ovládat všechna §Ylibyjská území§! nebo mít §Y[ LBA.GetAdjective] stát jako loutku§!\n" # todo: CHANGED
+ USA_integrate_trigger_tt: "Měli byste ovládat všechny §Ykontinentální americké státy§! nebo mít §Y[USA.GetNameDef] jako loutku§!\n" # todo: CHANGED
+ itp: "§YVy nebo vaše loutky§! byste měli ovládat alespoň §Y80%§! " # todo: NEW TRANSLATION
+ SOU_integrate_trigger_tt: "$itp$jádrové státy [GetSOUNameDef]§!\n" # todo: CHANGED
+ MAGHREB_integrate_trigger_tt: "$itp$jádrové státy [GetMAGHREBNameDef]§!\n" # todo: CHANGED
+ WESTFED_integrate_trigger_tt: "$itp$jádrové státy [GetWESTFEDNameDef]§!\n" # todo: CHANGED
+ AUSHUN_integrate_trigger_tt: "$itp$jádrové státy [GetAUSHUNNameDef]§!\n" # todo: CHANGED
+ UAS_integrate_trigger_tt: "$itp$klíčových států §Y[GetUASNameDef]§!\n" # todo: NEW TRANSLATION
+ AVG_integrate_trigger_tt: "$itp$klíčových států §Y[GetAVGNameDef]§!\n" # todo: NEW TRANSLATION
+ BLT_integrate_trigger_tt: "$itp$klíčových států §Y[GetBLTNameDef]§!\n" # todo: NEW TRANSLATION
+ FCA_integrate_trigger_tt: "$itp$klíčových států §Y[GetFCANameDef]§!\n" # todo: NEW TRANSLATION
+ GCL_integrate_trigger_tt: "$itp$klíčových států §Y[GetGCLNameDef]§!\n" # todo: NEW TRANSLATION
+ SCA_integrate_trigger_tt: "$itp$klíčových států §Y[GetSCANameDef]§!\n" # todo: NEW TRANSLATION
+ HBL_integrate_trigger_tt: "$itp$klíčových států §Y[GetHBLNameDef]§!\n" # todo: NEW TRANSLATION
+ USNA_integrate_trigger_tt: "$itp$klíčových států §Y[GetUSNANameDef]§!\n" # todo: NEW TRANSLATION
+ UTS_integrate_trigger_tt: "$itp$klíčových států §Y[GetUTSNameDef]§!\n" # todo: NEW TRANSLATION
+ MAPHI_integrate_trigger_tt: "$itp$klíčových států §Y[GetMAPHINameDef]§!\n" # todo: NEW TRANSLATION
+ INDOCHI_integrate_trigger_tt: "$itp$klíčových států §Y[GetINDOCHINameDef]§!\n" # todo: NEW TRANSLATION
+ ANDES_integrate_trigger_tt: "$itp$klíčových států §Y[GetANDESNameDef]§!\n" # todo: NEW TRANSLATION
+ ANTCONF_integrate_trigger_tt: "$itp$klíčových států §Y[GetANTCONFNameDef]§!\n" # todo: NEW TRANSLATION
+ CANZUK_integrate_trigger_tt: "$itp$klíčových států §Y[GetCANZUKNameDef]§!\n" # todo: NEW TRANSLATION
+ RDLP_integrate_trigger_tt: "$itp$klíčových států §Y[GetRDLPNameDef]§!\n" # todo: NEW TRANSLATION
+ NORDEM_integrate_trigger_tt: "$itp$klíčových států §Y[GetNORDEMNameDef]§!\n" # todo: NEW TRANSLATION
+ PBL_integrate_trigger_tt: "$itp$klíčových států §Y[GetPBLNameDef]§!\n" # todo: NEW TRANSLATION
+ USA_integrate_tt: "Získáte jádra na všech §Yamerických státech§!\n" # todo: CHANGED
+ BRA_integrate_tt: "Získáte jádra na všech §Ybrazilských územích§!\n" # todo: CHANGED
+ formable_buy_core_state_cost: "£treasury 100.0  £pol_power 150" # todo: NEW TRANSLATION
+ formable_buy_core_state_cost_blocked: "£treasury §R100.0§!  £pol_power §R150§!" # todo: NEW TRANSLATION
+ formable_purchase_one_offer_at_a_time_tt: "Žádná jiná nabídka území není předmětem jednání" # todo: NEW TRANSLATION
+ formable_purchase_offer_sent_tt: "Naši vyslanci předloží nabídku za §Y60 dní§!" # todo: NEW TRANSLATION
+ formable_purchase_offer_delivered_tt: "§YSoučasný držitel§! státu obdrží naši nabídku a rozhodne, zda jej prodá. Pokud již prodej nebude možný, rezervované prostředky se vrátí do naší pokladny." # todo: NEW TRANSLATION
+ formable_purchase_refuse_forever_tt: "[?formable_offer_buyer_id.GetNameDef] už nikdy nebude moci učinit nabídku na naše území" # todo: NEW TRANSLATION
+ BLT_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ BLT_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ FCA_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ FCA_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ GCL_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ GCL_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ SCA_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ SCA_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ SOU_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ SOU_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ HBL_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ HBL_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ USNA_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ USNA_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ UTS_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ UTS_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ MAPHI_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ MAPHI_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ INDOCHI_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ INDOCHI_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ ANDES_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ ANDES_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ ANTCONF_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ ANTCONF_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ CANZUK_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ CANZUK_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ RDLP_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ RDLP_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ NORDEM_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ NORDEM_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ MAGHREB_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ MAGHREB_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ WESTFED_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ WESTFED_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ AUSHUN_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ AUSHUN_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ PBL_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ PBL_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ UAS_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ UAS_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ AVG_buy_core_state: "Koupit [FROM.GetName]" # todo: NEW TRANSLATION
+ AVG_buy_core_state_desc: "Zahajujeme jednání o koupi tohoto státu. Tato jednání si vyžádají čas a veškeré naše diplomatické úsilí. Téměř jistě odmítnou jakoukoli nabídku, pokud nebudou zcela neschopni toto území bránit." # todo: NEW TRANSLATION
+ formable_buy.1.t: "Nabídka území od [?formable_offer_buyer_id.GetNameDef]" # todo: NEW TRANSLATION
+ formable_buy.1.d: "[?formable_offer_buyer_id.GetNameDef] formálně nabídl naší vládě §H£treasury 100 miliard§! za [?formable_offer_state_id.GetName], stát, který považuje za své historické jádro.\n\nNáš kabinet musí rozhodnout: přijmout platbu a vzdát se území, nebo nabídku odmítnout a zachovat naši územní celistvost." # todo: NEW TRANSLATION
+ formable_buy.1.a: "Nabídka, kterou nemůžeme odmítnout." # todo: NEW TRANSLATION
+ formable_buy.1.b: "Naše země není na prodej." # todo: NEW TRANSLATION
+ formable_buy.1.c: "Odmítnout a už se nás nikdy neptat." # todo: NEW TRANSLATION
+ formable_buy.2.t: "[?formable_offer_holder_id.GetNameDef] přijímá naši nabídku" # todo: NEW TRANSLATION
+ formable_buy.2.d: "[?formable_offer_holder_id.GetNameDef] převedl [?formable_offer_state_id.GetName] pod naši správu. Prostředky byly převedeny a území je nyní naše." # todo: NEW TRANSLATION
+ formable_buy.2.a: "Hodná investice." # todo: NEW TRANSLATION
+ formable_buy.3.t: "[?formable_offer_holder_id.GetNameDef] odmítá naši nabídku" # todo: NEW TRANSLATION
+ formable_buy.3.d: "[?formable_offer_holder_id.GetNameDef] odmítl naši nabídku za [?formable_offer_state_id.GetName]. Prostředky byly vráceny do naší pokladny a stát zůstává pod jejich kontrolou." # todo: NEW TRANSLATION
+ formable_buy.3.a: "Zvážíme jiné možnosti." # todo: NEW TRANSLATION
+ formable_buy.4.t: "Naše nabídka území propadá" # todo: NEW TRANSLATION
+ formable_buy.4.d: "Naši vyslanci nabídku nikdy nepředložili. Situace na místě se změnila dříve, než mohly být podmínky předloženy držiteli, a rezervované prostředky byly vráceny do pokladny." # todo: NEW TRANSLATION
+ formable_buy.4.a: "Promarněné úsilí." # todo: NEW TRANSLATION
+ formable_buy.5.t: "[?formable_offer_holder_id.GetNameDef] zavírá dveře" # todo: NEW TRANSLATION
+ formable_buy.5.d: "[?formable_offer_holder_id.GetNameDef] odmítl naši nabídku za [?formable_offer_state_id.GetName] a dal jasně najevo, že o dalších nabídkách nebude jednat. Prostředky byly vráceny do naší pokladny." # todo: NEW TRANSLATION
+ formable_buy.5.a: "Pak se poohlédneme jinde." # todo: NEW TRANSLATION
+ iap: "Vy nebo vaše loutky ovládáte všechna " # todo: NEW TRANSLATION
+ AVG_integrate_ENG_tt: "$iap$§Y[GetAVGNameAdj] [ENG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AVG_integrate_IRE_tt: "$iap$§Y[GetAVGNameAdj] [IRE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AVG_integrate_FRA_tt: "$iap$§Y[GetAVGNameAdj] [FRA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UAS_integrate_MAL_tt: "$iap$§Y[GetUASNameAdj] [MAL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UAS_integrate_GUI_tt: "$iap$§Y[GetUASNameAdj] [GUI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UAS_integrate_GAH_tt: "$iap$§Y[GetUASNameAdj] [GAH.GetAdjective] území§!" # todo: NEW TRANSLATION
+ PBL_integrate_BOL_tt: "$iap$§Y[GetPBLNameAdj] [BOL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ PBL_integrate_PRU_tt: "$iap$§Y[GetPBLNameAdj] [PRU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_CZE_tt: "$iap$§Y[GetAUSHUNNameAdj] [CZE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_SLO_tt: "$iap$§Y[GetAUSHUNNameAdj] [SLO.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_BOS_tt: "$iap$§Y[GetAUSHUNNameAdj] [BOS.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_CRO_tt: "$iap$§Y[GetAUSHUNNameAdj] [CRO.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_SLV_tt: "$iap$§Y[GetAUSHUNNameAdj] [SLV.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_HUN_tt: "$iap$§Y[GetAUSHUNNameAdj] [HUN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ AUSHUN_integrate_AUS_tt: "$iap$§Y[GetAUSHUNNameAdj] [AUS.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_JAM_tt: "$iap$§Y[GetWESTFEDNameAdj] [JAM.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_DMI_tt: "$iap$§Y[GetWESTFEDNameAdj] [DMI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_STK_tt: "$iap$§Y[GetWESTFEDNameAdj] [STK.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_STL_tt: "$iap$§Y[GetWESTFEDNameAdj] [STL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_BAR_tt: "$iap$§Y[GetWESTFEDNameAdj] [BAR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_ANT_tt: "$iap$§Y[GetWESTFEDNameAdj] [ANT.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_STV_tt: "$iap$§Y[GetWESTFEDNameAdj] [STV.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_GRA_tt: "$iap$§Y[GetWESTFEDNameAdj] [GRA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ WESTFED_integrate_TRI_tt: "$iap$§Y[GetWESTFEDNameAdj] [TRI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_MAU_tt: "$iap$§Y[GetMAGHREBNameAdj] [MAU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_TUN_tt: "$iap$§Y[GetMAGHREBNameAdj] [TUN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_SHA_tt: "$iap$§Y[GetMAGHREBNameAdj] [SHA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_MOR_tt: "$iap$§Y[GetMAGHREBNameAdj] [MOR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_LBA_tt: "$iap$§Y[GetMAGHREBNameAdj] [LBA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAGHREB_integrate_ALG_tt: "$iap$§Y[GetMAGHREBNameAdj] [ALG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ NORDEM_integrate_ENG_tt: "$iap$§Y[GetNORDEMNameAdj] [ENG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ NORDEM_integrate_DEN_tt: "$iap$§Y[GetNORDEMNameAdj] [DEN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ NORDEM_integrate_NRY_tt: "$iap$§Y[GetNORDEMNameAdj] [NRY.GetAdjective] území§!" # todo: NEW TRANSLATION
+ NORDEM_integrate_SWE_tt: "$iap$§Y[GetNORDEMNameAdj] [SWE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ RDLP_integrate_ARG_tt: "$iap$§Y[GetRDLPNameAdj] [ARG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ RDLP_integrate_URG_tt: "$iap$§Y[GetRDLPNameAdj] [URG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ RDLP_integrate_CHL_tt: "$iap$§Y[GetRDLPNameAdj] [CHL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ RDLP_integrate_BOL_tt: "$iap$§Y[GetRDLPNameAdj] [BOL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ RDLP_integrate_PAR_tt: "$iap$§Y[GetRDLPNameAdj] [PAR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ CANZUK_integrate_ENG_tt: "$iap$§Y[GetCANZUKNameAdj] [ENG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ CANZUK_integrate_NZL_tt: "$iap$§Y[GetCANZUKNameAdj] [NZL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ CANZUK_integrate_AST_tt: "$iap$§Y[GetCANZUKNameAdj] [AST.GetAdjective] území§!" # todo: NEW TRANSLATION
+ CANZUK_integrate_CAN_tt: "$iap$§Y[GetCANZUKNameAdj] [CAN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANTCONF_integrate_PTR_tt: "$iap$§Y[GetANTCONFNameAdj] [PTR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANTCONF_integrate_HAI_tt: "$iap$§Y[GetANTCONFNameAdj] [HAI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANTCONF_integrate_DOM_tt: "$iap$§Y[GetANTCONFNameAdj] [DOM.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANTCONF_integrate_CUB_tt: "$iap$§Y[GetANTCONFNameAdj] [CUB.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANDES_integrate_BOL_tt: "$iap$§Y[GetANDESNameAdj] [BOL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANDES_integrate_PRU_tt: "$iap$§Y[GetANDESNameAdj] [PRU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANDES_integrate_COL_tt: "$iap$§Y[GetANDESNameAdj] [COL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ INDOCHI_integrate_CBD_tt: "$iap$§Y[GetINDOCHINameAdj] [CBD.GetAdjective] území§!" # todo: NEW TRANSLATION
+ INDOCHI_integrate_LAO_tt: "$iap$§Y[GetINDOCHINameAdj] [LAO.GetAdjective] území§!" # todo: NEW TRANSLATION
+ INDOCHI_integrate_VIE_tt: "$iap$§Y[GetINDOCHINameAdj] [VIE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAPHI_integrate_BRU_tt: "$iap$§Y[GetMAPHINameAdj] [BRU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAPHI_integrate_MAY_tt: "$iap$§Y[GetMAPHINameAdj] [MAY.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAPHI_integrate_SIN_tt: "$iap$§Y[GetMAPHINameAdj] [SIN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAPHI_integrate_PHI_tt: "$iap$§Y[GetMAPHINameAdj] [PHI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ MAPHI_integrate_IND_tt: "$iap$§Y[GetMAPHINameAdj] [IND.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UTS_integrate_KYR_tt: "$iap$§Y[GetUTSNameAdj] [KYR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UTS_integrate_TRK_tt: "$iap$§Y[GetUTSNameAdj] [TRK.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UTS_integrate_UZB_tt: "$iap$§Y[GetUTSNameAdj] [UZB.GetAdjective] území§!" # todo: NEW TRANSLATION
+ UTS_integrate_KAZ_tt: "$iap$§Y[GetUTSNameAdj] [KAZ.GetAdjective] území§!" # todo: NEW TRANSLATION
+ USNA_integrate_MEX_tt: "$iap$§Y[GetUSNANameAdj] [MEX.GetAdjective] území§!" # todo: NEW TRANSLATION
+ USNA_integrate_USA_tt: "$iap$§Y[GetUSNANameAdj] [USA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ USNA_integrate_CAN_tt: "$iap$§Y[GetUSNANameAdj] [CAN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ HBL_integrate_HOL_tt: "$iap$§Y[GetHBLNameAdj] [HOL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ HBL_integrate_LUX_tt: "$iap$§Y[GetHBLNameAdj] [LUX.GetAdjective] území§!" # todo: NEW TRANSLATION
+ HBL_integrate_BEL_tt: "$iap$§Y[GetHBLNameAdj] [BEL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_TRI_tt: "$iap$§Y[GetSOUNameAdj] [TRI.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_ARG_tt: "$iap$§Y[GetSOUNameAdj] [ARG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_URG_tt: "$iap$§Y[GetSOUNameAdj] [URG.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_CHL_tt: "$iap$§Y[GetSOUNameAdj] [CHL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_COL_tt: "$iap$§Y[GetSOUNameAdj] [COL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_VEN_tt: "$iap$§Y[GetSOUNameAdj] [VEN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_GUY_tt: "$iap$§Y[GetSOUNameAdj] [GUY.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_SUR_tt: "$iap$§Y[GetSOUNameAdj] [SUR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_ECU_tt: "$iap$§Y[GetSOUNameAdj] [ECU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_PRU_tt: "$iap$§Y[GetSOUNameAdj] [PRU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_BOL_tt: "$iap$§Y[GetSOUNameAdj] [BOL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_PAR_tt: "$iap$§Y[GetSOUNameAdj] [PAR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SOU_integrate_BRA_tt: "$iap$§Y[GetSOUNameAdj] [BRA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANZ_integrate_NZL_tt: "$iap$§Y[GetANZNameAdj] [NZL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANZ_integrate_AST_tt: "$iap$§Y[GetANZNameAdj] [AST.GetAdjective] území§!" # todo: NEW TRANSLATION
+ IBR_integrate_POR_tt: "$iap$§Y[GetIBRNameAdj] [POR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ IBR_integrate_SPR_tt: "$iap$§Y[GetIBRNameAdj] [SPR.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_GRN_tt: "$iap$§Y[GetSCANameAdj] [GRN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_ICE_tt: "$iap$§Y[GetSCANameAdj] [ICE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_FIN_tt: "$iap$§Y[GetSCANameAdj] [FIN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_DEN_tt: "$iap$§Y[GetSCANameAdj] [DEN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_NRY_tt: "$iap$§Y[GetSCANameAdj] [NRY.GetAdjective] území§!" # todo: NEW TRANSLATION
+ SCA_integrate_SWE_tt: "$iap$§Y[GetSCANameAdj] [SWE.GetAdjective] území§!" # todo: NEW TRANSLATION
+ GCL_integrate_ECU_tt: "$iap$§Y[GetGCLNameAdj] [ECU.GetAdjective] území§!" # todo: NEW TRANSLATION
+ GCL_integrate_VEN_tt: "$iap$§Y[GetGCLNameAdj] [VEN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ GCL_integrate_COL_tt: "$iap$§Y[GetGCLNameAdj] [COL.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_PAN_tt: "$iap$§Y[GetFCANameAdj] [PAN.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_COS_tt: "$iap$§Y[GetFCANameAdj] [COS.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_NIC_tt: "$iap$§Y[GetFCANameAdj] [NIC.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_HON_tt: "$iap$§Y[GetFCANameAdj] [HON.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_ELS_tt: "$iap$§Y[GetFCANameAdj] [ELS.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_GUA_tt: "$iap$§Y[GetFCANameAdj] [GUA.GetAdjective] území§!" # todo: NEW TRANSLATION
+ FCA_integrate_BLZ_tt: "$iap$§Y[GetFCANameAdj] [BLZ.GetAdjective] území§!" # todo: NEW TRANSLATION
+ BLT_integrate_EST_tt: "$iap$§Y[GetBLTNameAdj] [EST.GetAdjective] území§!" # todo: NEW TRANSLATION
+ BLT_integrate_LAT_tt: "$iap$§Y[GetBLTNameAdj] [LAT.GetAdjective] území§!" # todo: NEW TRANSLATION
+ BLT_integrate_LIT_tt: "$iap$§Y[GetBLTNameAdj] [LIT.GetAdjective] území§!" # todo: NEW TRANSLATION
+ ANDES_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetANDESNameAdj]." # todo: NEW TRANSLATION
+ ANTCONF_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetANTCONFNameAdj]" # todo: NEW TRANSLATION
+ ANZ_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetANZNameAdj]" # todo: NEW TRANSLATION
+ AUSHUN_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetAUSHUNNameAdj]" # todo: NEW TRANSLATION
+ AVG_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetAVGNameAdj]" # todo: NEW TRANSLATION
+ BLT_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetBLTNameAdj]" # todo: NEW TRANSLATION
+ CANZUK_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetCANZUKNameAdj]" # todo: NEW TRANSLATION
+ FCA_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetFCANameAdj]" # todo: NEW TRANSLATION
+ GCL_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetGCLNameAdj]" # todo: NEW TRANSLATION
+ HBL_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetHBLNameAdj]" # todo: NEW TRANSLATION
+ IBR_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetIBRNameAdj]" # todo: NEW TRANSLATION
+ INDOCHI_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetINDOCHINameAdj]" # todo: NEW TRANSLATION
+ MAGHREB_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetMAGHREBNameAdj]" # todo: NEW TRANSLATION
+ MAPHI_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetMAPHINameAdj]" # todo: NEW TRANSLATION
+ NORDEM_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetNORDEMNameAdj]" # todo: NEW TRANSLATION
+ PBL_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetPBLNameAdj]" # todo: NEW TRANSLATION
+ RDLP_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetRDLPNameAdj]" # todo: NEW TRANSLATION
+ SCA_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetSCANameAdj]" # todo: NEW TRANSLATION
+ SOU_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetSOUNameAdj]" # todo: NEW TRANSLATION
+ UAS_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetUASNameAdj]" # todo: NEW TRANSLATION
+ USNA_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetUSNANameAdj]" # todo: NEW TRANSLATION
+ UTS_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetUTSNameAdj]" # todo: NEW TRANSLATION
+ WESTFED_update_flag_tt: "Má §Yjádra§! alespoň na §Y80%§! území jádra [GetWESTFEDNameAdj]" # todo: NEW TRANSLATION

@@ -1,0 +1,108 @@
+﻿l_english:
+ MD_auto_agency_cat: "Vylepšení agentury" # todo: NEW TRANSLATION
+ MD_auto_agency_cat_desc: "Sleduje aktuální automatizované vylepšení zpravodajské agentury." # todo: NEW TRANSLATION
+ spy_agency_automation_tt: "Automatická vylepšení" # todo: NEW TRANSLATION
+ spy_agency_upgrade_in_progress: "Probíhá vylepšení [ROOT.GetAgency]" # todo: NEW TRANSLATION
+ cannot_manually_upgrade_agency_tt: "Naši agenturu nelze ručně vylepšovat, pokud již probíhá automatické vylepšení." # todo: NEW TRANSLATION
+ MD_auto_agency_will_cancel_tt: "Tím se zruší aktuální automatizované vylepšení. Chcete-li zastavit budoucí vylepšení, vypněte automatizaci nebo vyprázdněte frontu." # todo: NEW TRANSLATION
+ clear_queue_text: "Vyprázdnit frontu" # todo: NEW TRANSLATION
+ agency_queue_queue_text: "Fronta" # todo: NEW TRANSLATION
+ agency_queue_upgrades_text: "Vylepšení" # todo: NEW TRANSLATION
+ expand_agency_dropdown_button_tt: "[THIS.MD_auto_agency_status]" # todo: NEW TRANSLATION
+ expand_agency_dropdown_button_tt_delayed: "[THIS.MD_auto_agency_status_tt_delayed]" # todo: NEW TRANSLATION
+ MD_auto_agency_mode_off: "Vylepšení §RVypnuto§!" # todo: NEW TRANSLATION
+ MD_auto_agency_mode_on: "Vylepšení §GZapnuto§!" # todo: NEW TRANSLATION
+ MD_auto_agency_mode_queue_only: "§YPouze§! fronta" # todo: NEW TRANSLATION
+ MD_auto_agency_mode_off_tt_delayed: "Žádná vylepšení zpravodajské agentury nebudou probíhat automaticky." # todo: NEW TRANSLATION
+ MD_auto_agency_mode_on_tt_delayed: "Přednost mají vylepšení ve frontě. Pokud nelze zahájit žádné vylepšení z fronty, systém náhodně vybere platné vylepšení podle váhy." # todo: NEW TRANSLATION
+ MD_auto_agency_mode_queue_only_tt_delayed: "Zahájena budou pouze vylepšení zpravodajské agentury zařazená do fronty." # todo: NEW TRANSLATION
+ MD_auto_agency_queue_decrease_button_tt: "Kliknutím snížíte prioritu tohoto vylepšení.\nKliknutím se stisknutou klávesou Shift jej přesunete na konec fronty." # todo: NEW TRANSLATION
+ MD_auto_agency_queue_increase_button_tt: "Kliknutím zvýšíte prioritu tohoto vylepšení.\nKliknutím se stisknutou klávesou Shift jej přesunete na začátek fronty." # todo: NEW TRANSLATION
+ MD_auto_agency_queue_remove_from_queue_tt: "Kliknutím toto vylepšení odstraníte z fronty." # todo: NEW TRANSLATION
+ MD_auto_agency_upgrades_add_to_queue_tt: "[MD_auto_agency_scripted_loc_add_to_queue]" # todo: NEW TRANSLATION
+ MD_auto_agency_upgrades_add_to_queue_tt_actual: "[?global.agency_names^i.GetTokenLocalizedKey]" # todo: NEW TRANSLATION
+ MD_auto_agency_upgrades_add_to_queue_tt_delayed: "§YPřidat do fronty§!\n§gKliknutím přidáte toto vylepšení do fronty.\nKliknutím se stisknutou klávesou Shift zařadíte do fronty všechny zbývající úrovně.§!\n\n§YPožadavky:§!\n[!agency_upgrade_icon_button_click_enabled]" # todo: NEW TRANSLATION
+ MD_auto_agency_queue_not_full_tt: "Obsahuje dosud nezařazené zbývající úrovně" # todo: NEW TRANSLATION
+ MD_auto_agency_prereqs_tt: "[MD_auto_agency_scripted_loc_prereqs]" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_form_department_tt: "Vyžaduje: §Y$upgrade_form_department$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_computer_servers_tt: "Vyžaduje: §Y$upgrade_form_department$§! a technologii §Y$computing3$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_portable_radios_tt: "Vyžaduje technologii §Y$internet3$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_crypto_strength_tt: "Vyžaduje: §Y$upgrade_crypto_strength$§! a technologii §Y$artificial_intelligence_4$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_cyber_ops_division_tt: "Vyžaduje: §Y$upgrade_establish_cyber_operations_division$§! a §Y$upgrade_form_department$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_prereq_cyber_elite_tt: "Vyžaduje: §Y$upgrade_cyber_warfare_operational_planning$§!, §Y$upgrade_establish_cyber_operations_division$§! a §Y$upgrade_form_department$§!" # todo: NEW TRANSLATION
+ MD_auto_agency_no_prereq_tt: "Bez požadavků" # todo: NEW TRANSLATION
+ MD_auto_agency_00_upgrade_economy_civilian: "upgrade_economy_civilian" # todo: NEW TRANSLATION
+ MD_auto_agency_00_upgrade_economy_civilian_name: "$upgrade_economy_civilian$" # todo: NEW TRANSLATION
+ MD_auto_agency_00_upgrade_economy_civilian_gfx: "GFX_agency_economic_agency" # todo: NEW TRANSLATION
+ MD_auto_agency_01_upgrade_army_department: "upgrade_army_department" # todo: NEW TRANSLATION
+ MD_auto_agency_01_upgrade_army_department_name: "$upgrade_army_department$" # todo: NEW TRANSLATION
+ MD_auto_agency_01_upgrade_army_department_gfx: "GFX_agency_army_department" # todo: NEW TRANSLATION
+ MD_auto_agency_02_upgrade_computer_servers: "upgrade_computer_servers" # todo: NEW TRANSLATION
+ MD_auto_agency_02_upgrade_computer_servers_name: "$upgrade_computer_servers$" # todo: NEW TRANSLATION
+ MD_auto_agency_02_upgrade_computer_servers_gfx: "GFX_agency_computer_server" # todo: NEW TRANSLATION
+ MD_auto_agency_03_upgrade_passive_defense: "upgrade_passive_defense" # todo: NEW TRANSLATION
+ MD_auto_agency_03_upgrade_passive_defense_name: "$upgrade_passive_defense$" # todo: NEW TRANSLATION
+ MD_auto_agency_03_upgrade_passive_defense_gfx: "GFX_agency_defense_department" # todo: NEW TRANSLATION
+ MD_auto_agency_04_upgrade_anti_partisan: "upgrade_anti_partisan" # todo: NEW TRANSLATION
+ MD_auto_agency_04_upgrade_anti_partisan_name: "$upgrade_anti_partisan$" # todo: NEW TRANSLATION
+ MD_auto_agency_04_upgrade_anti_partisan_gfx: "GFX_agency_counter_insurgency" # todo: NEW TRANSLATION
+ MD_auto_agency_05_upgrade_counter_terror_operations: "upgrade_counter_terror_operations" # todo: NEW TRANSLATION
+ MD_auto_agency_05_upgrade_counter_terror_operations_name: "$upgrade_counter_terror_operations$" # todo: NEW TRANSLATION
+ MD_auto_agency_05_upgrade_counter_terror_operations_gfx: "GFX_agency_anti_partisan" # todo: NEW TRANSLATION
+ MD_auto_agency_06_upgrade_blueprint_stealing: "upgrade_blueprint_stealing" # todo: NEW TRANSLATION
+ MD_auto_agency_06_upgrade_blueprint_stealing_name: "$upgrade_blueprint_stealing$" # todo: NEW TRANSLATION
+ MD_auto_agency_06_upgrade_blueprint_stealing_gfx: "GFX_agency_steal_blueprints" # todo: NEW TRANSLATION
+ MD_auto_agency_07_upgrade_portable_radios: "upgrade_portable_radios" # todo: NEW TRANSLATION
+ MD_auto_agency_07_upgrade_portable_radios_name: "$upgrade_portable_radios$" # todo: NEW TRANSLATION
+ MD_auto_agency_07_upgrade_portable_radios_gfx: "GFX_agency_agency_secured_communication" # todo: NEW TRANSLATION
+ MD_auto_agency_08_upgrade_invisible_ink: "upgrade_invisible_ink" # todo: NEW TRANSLATION
+ MD_auto_agency_08_upgrade_invisible_ink_name: "$upgrade_invisible_ink$" # todo: NEW TRANSLATION
+ MD_auto_agency_08_upgrade_invisible_ink_gfx: "GFX_agency_agency_discrete_listening_devices" # todo: NEW TRANSLATION
+ MD_auto_agency_09_upgrade_plastic_explosives: "upgrade_plastic_explosives" # todo: NEW TRANSLATION
+ MD_auto_agency_09_upgrade_plastic_explosives_name: "$upgrade_plastic_explosives$" # todo: NEW TRANSLATION
+ MD_auto_agency_09_upgrade_plastic_explosives_gfx: "GFX_agency_plastic_explosives" # todo: NEW TRANSLATION
+ MD_auto_agency_10_upgrade_suicide_pills: "upgrade_suicide_pills" # todo: NEW TRANSLATION
+ MD_auto_agency_10_upgrade_suicide_pills_name: "$upgrade_suicide_pills$" # todo: NEW TRANSLATION
+ MD_auto_agency_10_upgrade_suicide_pills_gfx: "GFX_agency_suicide_pills" # todo: NEW TRANSLATION
+ MD_auto_agency_11_upgrade_training_centers: "upgrade_training_centers" # todo: NEW TRANSLATION
+ MD_auto_agency_11_upgrade_training_centers_name: "$upgrade_training_centers$" # todo: NEW TRANSLATION
+ MD_auto_agency_11_upgrade_training_centers_gfx: "GFX_agency_localized_training_center" # todo: NEW TRANSLATION
+ MD_auto_agency_12_upgrade_commando_training: "upgrade_commando_training" # todo: NEW TRANSLATION
+ MD_auto_agency_12_upgrade_commando_training_name: "$upgrade_commando_training$" # todo: NEW TRANSLATION
+ MD_auto_agency_12_upgrade_commando_training_gfx: "GFX_agency_commando_training" # todo: NEW TRANSLATION
+ MD_auto_agency_13_upgrade_interrogation_techniques: "upgrade_interrogation_techniques" # todo: NEW TRANSLATION
+ MD_auto_agency_13_upgrade_interrogation_techniques_name: "$upgrade_interrogation_techniques$" # todo: NEW TRANSLATION
+ MD_auto_agency_13_upgrade_interrogation_techniques_gfx: "GFX_agency_interrogation_techniques" # todo: NEW TRANSLATION
+ MD_auto_agency_14_upgrade_diplo_training: "upgrade_diplo_training" # todo: NEW TRANSLATION
+ MD_auto_agency_14_upgrade_diplo_training_name: "$upgrade_diplo_training$" # todo: NEW TRANSLATION
+ MD_auto_agency_14_upgrade_diplo_training_gfx: "GFX_agency_diplomatic_training" # todo: NEW TRANSLATION
+ MD_auto_agency_15_upgrade_psycho_warfare: "upgrade_psycho_warfare" # todo: NEW TRANSLATION
+ MD_auto_agency_15_upgrade_psycho_warfare_name: "$upgrade_psycho_warfare$" # todo: NEW TRANSLATION
+ MD_auto_agency_15_upgrade_psycho_warfare_gfx: "GFX_agency_psychology_warfare" # todo: NEW TRANSLATION
+ MD_auto_agency_16_upgrade_form_department: "upgrade_form_department" # todo: NEW TRANSLATION
+ MD_auto_agency_16_upgrade_form_department_name: "$upgrade_form_department$" # todo: NEW TRANSLATION
+ MD_auto_agency_16_upgrade_form_department_gfx: "GFX_agency_cyber_security" # todo: NEW TRANSLATION
+ MD_auto_agency_17_upgrade_decryption_boost: "upgrade_decryption_boost" # todo: NEW TRANSLATION
+ MD_auto_agency_17_upgrade_decryption_boost_name: "$upgrade_decryption_boost$" # todo: NEW TRANSLATION
+ MD_auto_agency_17_upgrade_decryption_boost_gfx: "GFX_agency_decryption_boost_1" # todo: NEW TRANSLATION
+ MD_auto_agency_18_upgrade_crypto_strength: "upgrade_crypto_strength" # todo: NEW TRANSLATION
+ MD_auto_agency_18_upgrade_crypto_strength_name: "$upgrade_crypto_strength$" # todo: NEW TRANSLATION
+ MD_auto_agency_18_upgrade_crypto_strength_gfx: "GFX_agency_decryption_boost_2" # todo: NEW TRANSLATION
+ MD_auto_agency_19_upgrade_crypto_strength_2: "upgrade_crypto_strength_2" # todo: NEW TRANSLATION
+ MD_auto_agency_19_upgrade_crypto_strength_2_name: "$upgrade_crypto_strength_2$" # todo: NEW TRANSLATION
+ MD_auto_agency_19_upgrade_crypto_strength_2_gfx: "GFX_agency_agency_artificial_intelligence_3" # todo: NEW TRANSLATION
+ MD_auto_agency_20_upgrade_establish_cyber_operations_division: "upgrade_establish_cyber_operations_division" # todo: NEW TRANSLATION
+ MD_auto_agency_20_upgrade_establish_cyber_operations_division_name: "$upgrade_establish_cyber_operations_division$" # todo: NEW TRANSLATION
+ MD_auto_agency_20_upgrade_establish_cyber_operations_division_gfx: "GFX_agency_computer_server" # todo: NEW TRANSLATION
+ MD_auto_agency_21_upgrade_offensive_cyber_operations: "upgrade_offensive_cyber_operations" # todo: NEW TRANSLATION
+ MD_auto_agency_21_upgrade_offensive_cyber_operations_name: "$upgrade_offensive_cyber_operations$" # todo: NEW TRANSLATION
+ MD_auto_agency_21_upgrade_offensive_cyber_operations_gfx: "GFX_agency_cyber_warfare" # todo: NEW TRANSLATION
+ MD_auto_agency_22_upgrade_cyber_warfare_operational_planning: "upgrade_cyber_warfare_operational_planning" # todo: NEW TRANSLATION
+ MD_auto_agency_22_upgrade_cyber_warfare_operational_planning_name: "$upgrade_cyber_warfare_operational_planning$" # todo: NEW TRANSLATION
+ MD_auto_agency_22_upgrade_cyber_warfare_operational_planning_gfx: "GFX_agency_cyber_security" # todo: NEW TRANSLATION
+ MD_auto_agency_23_upgrade_defensive_cyber_operations: "upgrade_defensive_cyber_operations" # todo: NEW TRANSLATION
+ MD_auto_agency_23_upgrade_defensive_cyber_operations_name: "$upgrade_defensive_cyber_operations$" # todo: NEW TRANSLATION
+ MD_auto_agency_23_upgrade_defensive_cyber_operations_gfx: "GFX_agency_cryptology_1" # todo: NEW TRANSLATION
+ MD_auto_agency_24_upgrade_cyber_elite: "upgrade_cyber_elite" # todo: NEW TRANSLATION
+ MD_auto_agency_24_upgrade_cyber_elite_name: "$upgrade_cyber_elite$" # todo: NEW TRANSLATION
+ MD_auto_agency_24_upgrade_cyber_elite_gfx: "GFX_agency_cryptology_2" # todo: NEW TRANSLATION

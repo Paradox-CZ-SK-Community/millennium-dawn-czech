@@ -1,418 +1,329 @@
 ﻿l_english:
-  POTEF001: "Prezident Evropské federace" # todo: NEW TRANSLATION
-  POTEF001_desc: "§YPrezident Evropské federace (POTEF)§! je nejvyšším vůdcem Evropy. Proto má prezident Evropské federace pravomoc činit rozhodující strategická rozhodnutí pro celou federaci." # todo: NEW TRANSLATION
-  POTEF100: "Alpská doktrína" # todo: NEW TRANSLATION
-  POTEF100_desc: "Alpské národy §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horské války. S Alpinskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF101: "Integrita stvoření"  # Název zkráceně pro "Integrity of Creation" # todo: NEW TRANSLATION
-  POTEF101_desc: "Aby se zachovala Integrita stvoření, Evropská federace upravuje své politiky." # todo: NEW TRANSLATION
-  POTEF102: "Environmentální imperialismus" # todo: NEW TRANSLATION
-  POTEF102_desc: "Evropa je zelená, ale svět je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
-  POTEF103: "Severní Amerika" # todo: NEW TRANSLATION
-  POTEF103_desc: "Evropa je zelená, ale Severní Amerika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
-  POTEF104: "Jižní Amerika" # todo: NEW TRANSLATION
-  POTEF104_desc: "Evropa je zelená, ale Jižní Amerika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
-  POTEF105: "Evropa (ostatní země)" # todo: NEW TRANSLATION
-  POTEF105_desc: "Evropa je zelená, ale ostatní evropské země jsou stále temné a šedé. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF106: "Afrika" # todo: NEW TRANSLATION
-  POTEF106_desc: "Evropa je zelená, ale Afrika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF107: "Střední východ" # todo: NEW TRANSLATION
-  POTEF107_desc: "Evropa je zelená, ale Blízký východ je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF108: "Asie" # todo: NEW TRANSLATION
-  POTEF108_desc: "Evropa je zelená, ale Asie je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF109: "Oceánie" # todo: NEW TRANSLATION
-  POTEF109_desc: "Evropa je zelená, ale Oceánie je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF110: "Pacifik" # todo: NEW TRANSLATION
-  POTEF110_desc: "Evropa je zelená, ale Pacifik je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
-  POTEF150: "Německá doktrína" # todo: NEW TRANSLATION
-  POTEF150_desc: "§Y[GER.GetNameWithFlag]§! tradičně směřuje k silně obrněným silám. S Obrněnou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF151: "Říše obchodu" # todo: NEW TRANSLATION
-  POTEF151_desc: "Evropská federace se stane Říší obchodu." # todo: NEW TRANSLATION
-  POTEF200: "Francouzská doktrína" # todo: NEW TRANSLATION
-  POTEF200_desc: "§Y[FRA.GetNameWithFlag]§! tradičně klade důraz na vysoce mobilní lehké obrněné a motorizované síly. S Doktrínou manérové války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF201: "Impérium moci" # todo: NEW TRANSLATION
-  POTEF201_desc: "Evropská federace stojí v tradici svých impériálních předchůdců." # todo: NEW TRANSLATION
-  POTEF202: "Říše svobody" # todo: NEW TRANSLATION
-  POTEF202_desc: "Evropská federace se stane impériem svobody." # todo: NEW TRANSLATION
-  POTEF203: "Amerika: Spojenec nebo protivník" # todo: NEW TRANSLATION
-  POTEF203_desc: "Amerika a Evropa byly po většinu 20. století spojenci. S nedávnými politickými změnami v §Y[USA.GetNameWithFlag]§! to bylo zpochybněno..." # todo: NEW TRANSLATION
-  POTEF204: "Dědictví NATO" # todo: NEW TRANSLATION
-  POTEF204_desc: "V tradici mírového dědictví NATO §Y[USA.GetNameWithFlag]§! a §YEDU§! tvoří novou alianci." # todo: NEW TRANSLATION
-  POTEF205: "Trumpovo dědictví" # todo: NEW TRANSLATION
-  POTEF205_desc: "§Y[USA.GetNameWithFlag]§! se změnily ze spojence na protivníka. Evropa musí na tuto rozhodující strategickou změnu reagovat." # todo: NEW TRANSLATION
-  POTEF206: "Prolomení zdi" # todo: NEW TRANSLATION
-  POTEF206_desc: "K odvrácení americké hrozby pro evropskou suverenitu vypracoval generální štáb §YEDU§! plán na spojenectví s §Y[MEX.GetNameWithFlag]§! a na invazi do §Y[USA.GetNameWithFlag]§! ze jihu." # todo: NEW TRANSLATION
-  POTEF207: "Busterovo vzkříšení" # todo: NEW TRANSLATION
-  POTEF207_desc: "K odvrácení US hrozby pro Evropu navrhl generální štáb §YEDU§! spojenectví s §Y[CAN.GetNameWithFlag]§! a revizi Obranného plánu č. 1, plánu vytvořeného kanadským podplukovníkem Jamesem 'Buster' Sutherland Brownem, pro kanadský preventivní útok proti USA v případě hrozícího konfliktu mezi USA a Britskou říší. Tímto plánem může §YEDU§! zahájit invazi ze severu na §Y[USA.GetFlag] USA§!." # todo: NEW TRANSLATION
-  POTEF250: "Beneluxová doktrína" # todo: NEW TRANSLATION
-  POTEF250_desc: "Po studené válce Nízké země se zaměřovaly na letecky mobilní síly, aby vyhovovaly nové situaci. S Doktrínou vzdušné mobility (Air Mobile Doctrine) mohou všechny členské státy přijmout tyto taktiky." # todo: NEW TRANSLATION
-  POTEF251: "Liberální dědictví" # todo: NEW TRANSLATION
-  POTEF251_desc: "Evropská federace ctí své Liberální dědictví." # todo: NEW TRANSLATION
-  POTEF252: "Zajištění starých obchodních cest" # todo: NEW TRANSLATION
-  POTEF252_desc: "Evropská federace musí chránit staré obchodní trasy do Karibiku, Afriky a bývalých Nizozemských Východních Indií." # todo: NEW TRANSLATION
-  POTEF253: "Indonésie" # todo: NEW TRANSLATION
-  POTEF253_desc: "Evropská federace musí zlepšit svůj vztah k bývalé holandské kolonii §Y[IND.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
-  POTEF300: "Iberská doktrína" # todo: NEW TRANSLATION
-  POTEF300_desc: "Iberské země§! se tradičně zaměřovaly na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF301: "Latinská příbuzná" # todo: NEW TRANSLATION
-  POTEF301_desc: "Evropská federace musí zlepšit svůj vztah k bývalým koloniím v Jižní Americe." # todo: NEW TRANSLATION
-  POTEF302: "Mexiko" # todo: NEW TRANSLATION
-  POTEF302_desc: "Evropská federace musí zlepšit svůj vztah k bývalé španělské kolonii §Y[MEX.GetNameWithFlag]§! a vybudovat nové strategické základny ve Střední Americe." # todo: NEW TRANSLATION
-  POTEF303: "Velká Kolumbie" # todo: NEW TRANSLATION
-  POTEF303_desc: "Evropská federace musí zlepšit svůj vztah k bývalé španělské kolonii §Y[COL.GetNameWithFlag]§! a vybudovat nové strategické základny v Jižní Americe." # todo: NEW TRANSLATION
-  POTEF304: "Střední Amerika" # todo: NEW TRANSLATION
-  POTEF304_desc: "Evropská federace musí zlepšit svůj vztah k bývalým španělským koloniím v §YCentral America§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF305: "Jižní konus Jižní Ameriky" # todo: NEW TRANSLATION
-  POTEF305_desc: "Evropská federace musí zlepšit svůj vztah k bývalým španělským koloniím v §YSouthern Cone of South America§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF306: "Brazílie" # todo: NEW TRANSLATION
-  POTEF306_desc: "Evropská federace musí zlepšit svůj vztah k bývalé portugalské kolonii §Y[BRA.GetNameWithFlag]§! a vybudovat nové strategické základny v Jižní Americe." # todo: NEW TRANSLATION
-  POTEF350: "Britská doktrína" # todo: NEW TRANSLATION
-  POTEF350_desc: "§YBritain§! se tradičně zaměřovala na silné námořnictvo. S Námořní doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF351: "Zajištění severního Atlantiku" # todo: NEW TRANSLATION
-  POTEF351_desc: "Aby byla zajištěna svoboda plavby a volný obchod, musí Evropská federace ovládnout Severní Atlantik." # todo: NEW TRANSLATION
-  POTEF352: "Dědictví Společenství národů" # todo: NEW TRANSLATION
-  POTEF352_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalým britským doménám." # todo: NEW TRANSLATION
-  POTEF353: "Kanada" # todo: NEW TRANSLATION
-  POTEF353_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[CAN.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF354: "Austrálie" # todo: NEW TRANSLATION
-  POTEF354_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[AST.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF355: "Nový Zéland" # todo: NEW TRANSLATION
-  POTEF355_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[NZL.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF356: "Zajištění Severního moře" # todo: NEW TRANSLATION
-  POTEF356_desc: "Severní moře je domovem Evropské federace a musí být zabezpečeno." # todo: NEW TRANSLATION
-  POTEF357: "Dědictví Malajsie" # todo: NEW TRANSLATION
-  POTEF357_desc: "Evropská federace musí zlepšit svůj vztah k bývalým britským koloniím Malajsie." # todo: NEW TRANSLATION
-  POTEF358: "Malajsie" # todo: NEW TRANSLATION
-  POTEF358_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[MAY.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
-  POTEF359: "Singapur" # todo: NEW TRANSLATION
-  POTEF359_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[SIN.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
-  POTEF360: "Záruka Hongkongu" # todo: NEW TRANSLATION
-  POTEF360_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[HKG.GetNameWithFlag]§! a garantovat práva vyplývající z Čínsko-britské společné deklarace." # todo: NEW TRANSLATION
-  POTEF400: "Severská doktrína" # todo: NEW TRANSLATION
-  POTEF400_desc: "§YSkandinávské země§! se tradičně zaměřovaly na boje v Arktidě. S Severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF401: "Zajištění Arktidy" # todo: NEW TRANSLATION
-  POTEF401_desc: "Aby byla zajištěna svoboda plavby a její geostrategická poloha, musí Evropská federace ovládnout Arktidu." # todo: NEW TRANSLATION
-  POTEF450: "Středomořská doktrína" # todo: NEW TRANSLATION
-  POTEF450_desc: "§YMediterranean země§! se tradičně zaměřovaly na námořní invazní taktiky. S Amfibickou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF451: "Severní Afrika" # todo: NEW TRANSLATION
-  POTEF451_desc: "Pro vytvoření konvergentní zóny a bezpečného přístavu pro uprchlíky musí Evropská federace zlepšit svůj vztah k §YNorthern Africa§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
-  POTEF452: "Sjednotit Kypr" # todo: NEW TRANSLATION
-  POTEF452_desc: "Jako suverénní členský stát Evropské federace §Y[CYP.GetNameWithFlag]§! musí být znovu sjednocen." # todo: NEW TRANSLATION
-  POTEF500: "Balkánská doktrína" # todo: NEW TRANSLATION
-  POTEF500_desc: "§YBalkánské země§! byly tradičně zaměřeny na partizánské síly. S Partizánskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF501: "Balkánská infrastruktura" # todo: NEW TRANSLATION
-  POTEF501_desc: "Evropská federace potřebuje rozvíjet Balkánskou infrastrukturu, aby zachovala regionální mír a chránila Balkán proti zahraničnímu vlivu." # todo: NEW TRANSLATION
-  POTEF502: "Konkurovat Čínské nové hedvábné stezce" # todo: NEW TRANSLATION
-  POTEF502_desc: "Evropská federace musí konkurovat Čínské nové hedvábné stezce a snížit čínský vliv ve Střední Asii." # todo: NEW TRANSLATION
-  POTEF503: "Rival Čína" # todo: NEW TRANSLATION
-  POTEF503_desc: "§Y[CHI.GetNameWithFlag]§! se stal jedním z hlavních rivalů Evropské federace na globální úrovni. Evropská federace musí přizpůsobit svou politiku tomuto." # todo: NEW TRANSLATION
-  POTEF504: "Operace Šíp" # todo: NEW TRANSLATION
-  POTEF504_desc: "Jmenována po Válce šípu (Druhá anglo-čínská válka), Operace Šíp je plán evropské intervence proti §Y[CHI.GetNameWithFlag]§! k zastavení čínské expanzní politiky." # todo: NEW TRANSLATION
-  POTEF505: "Asijští spojenci" # todo: NEW TRANSLATION
-  POTEF505_desc: "Aby Evropská federace čelila §Y[CHI.GetNameWithFlag]§!, potřebuje spojence v Asii." # todo: NEW TRANSLATION
-  POTEF506: "Republika Korea" # todo: NEW TRANSLATION
-  POTEF506_desc: "§Y[KOR.GetNameWithFlag]§! a Evropská federace čelí společnému ohrožení ze strany čínského draka. Aby se s tímto ohrožením vypořádaly, měly by se spojit." # todo: NEW TRANSLATION
-  POTEF507: "Japonsko" # todo: NEW TRANSLATION
-  POTEF507_desc: "§Y[JAP.GetNameWithFlag]§! a Evropská federace čelí společnému ohrožení ze strany čínského draka. Aby se s tímto ohrožením vypořádaly, měly by se spojit." # todo: NEW TRANSLATION
-  POTEF550: "Doktrína Černého moře" # todo: NEW TRANSLATION
-  POTEF550_desc: "Po studené válce černomořské státy se zaměřily na mobilní protivzdušné obranné síly, aby vyhověly nové situaci. S Doktrínou protivzdušné obrany mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF551: "Zajistit bezpečnost Černého moře" # todo: NEW TRANSLATION
-  POTEF551_desc: "Černé moře je spojnicí Evropské federace s Kavkazem a s jeho jihovýchodními členskými státy. Proto musí být zabezpečeno." # todo: NEW TRANSLATION
-  POTEF552: "Znovuzačlenit odtržené republiky" # todo: NEW TRANSLATION
-  POTEF552_desc: "§Y[SOV.GetNameWithFlag]§! porušil svrchovanost různých východních členských států Evropské federace tím, že podporoval separatistická hnutí a zakládal Odtržené republiky. Potřebujeme tyto ruské poskoci znovu začlenit." # todo: NEW TRANSLATION
-  POTEF553: "Postavit se Rusku" # todo: NEW TRANSLATION
-  POTEF553_desc: "§Y[SOV.GetNameWithFlag]§! se stal hlavním rivalem Evropské federace. Musíme na něj uvalit sankce." # todo: NEW TRANSLATION
-  POTEF554: "Operace Charlemagne" # todo: NEW TRANSLATION
-  POTEF554_desc: "Jmenována po Karlu Velikému, legendárním císaři a takzvaném 'otci Evropy' (Pater Europae), Operace Karel Veliký je plán preventivní sebeobrany proti §Y[SOV.GetNameWithFlag]§!. Touto operací může §YEDU§! zahájit preventivní invazi na §Y[SOV.GetNameWithFlag]§! a odstranit hrozbu pro evropskou suverenitu." # todo: NEW TRANSLATION
-  POTEF600: "Kavkazská doktrína" # todo: NEW TRANSLATION
-  POTEF600_desc: "Po studené válce země kavkazského regionu se zaměřovaly na silnou obranu, aby vyhověly nové situaci. S Defenzivní doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF601: "Přístup do Evropy" # todo: NEW TRANSLATION
-  POTEF601_desc: "Evropská federace potřebuje přístup k Kavkazu a k jeho jihovýchodním členským státům. Proto je třeba vybudovat nové námořní základny a infrastrukturu." # todo: NEW TRANSLATION
-  POTEF650: "Visegrádská doktrína" # todo: NEW TRANSLATION
-  POTEF650_desc: "Visegrádské země byly tradičně zaměřeny na silná dělostřelecká vojska. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF651: "Evropská síť protivzdušné obrany" # todo: NEW TRANSLATION
-  POTEF651_desc: "Evropská federace musí vybudovat síť protivzdušné obrany, aby zajistila své východní křídlo." # todo: NEW TRANSLATION
-  POTEF652: "Východní firewall" # todo: NEW TRANSLATION
-  POTEF652_desc: "Rostoucí vliv §Y[SOV.GetNameWithFlag]§! ve východních členských státech je třeba omezit." # todo: CHANGED
-  POTEF700: "Baltská doktrína" # todo: NEW TRANSLATION
-  POTEF700_desc: "Baltické země byly tradičně zaměřeny na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF701: "Zajistit bezpečnost Baltského moře" # todo: NEW TRANSLATION
-  POTEF701_desc: "Baltské moře je ostrovní moře Evropské federace a musí být zabezpečeno." # todo: NEW TRANSLATION
-  POTEF750: "Východní doktrína" # todo: NEW TRANSLATION
-  POTEF750_desc: "Evropská federace potřebuje dobře vycvičenou pěchotu pro východní pláně." # todo: NEW TRANSLATION
-  POTEF751: "Válka dronů" # todo: NEW TRANSLATION
-  POTEF751_desc: "Válka dronů se stává stále levnější a masové útoky účinnější." # todo: NEW TRANSLATION
-  POTEF752: "Firewall Dálného východu" # todo: NEW TRANSLATION
-  POTEF752_desc: "Rostoucí vliv §Y[CHI.GetNameWithFlag]§! ve východních členských státech je třeba omezit." # todo: NEW TRANSLATION
-  POTEF753: "Východní námořní bašta" # todo: NEW TRANSLATION
-  POTEF753_desc: "S Ruskem na naší straně můžeme opevnit rozsáhlé východní pobřeží Federace." # todo: NEW TRANSLATION
-  POTEF800: "Pax Europaea" # todo: NEW TRANSLATION
-  POTEF800_desc: "Evropská federace musí stát se globální supervelmocí, která bude prosazovat světový mír." # todo: NEW TRANSLATION
-  POTEF_pax_europaea: "Pax Europaea" # todo: NEW TRANSLATION
-  POTEF_pax_europaea_desc: "Evropská federace se stala globální supervelmocí a udržuje světový mír." # todo: NEW TRANSLATION
-  EDU_major_non_EU_ally: "Hlavní spojenec EDU mimo EU" # todo: NEW TRANSLATION
-  EDU_major_non_EU_ally_desc: "Aby členové §YEvropské unie§! dosáhli nezávislosti na obranu svých společných zájmů, reagovali na externí konflikty a krize a projekci bezpečnosti ve svém sousedství, rozhodli se vytvořit §YEvropskou obrannou unii (EDU)§! jako vojenskou alianci. Původně byla zřízena pro obranu Evropy; EDU navázala spojení s dalšími zeměmi mimo EU, aby chránila své společné zájmy a udržovala mír." # todo: NEW TRANSLATION
-  EU_nato_legacy: "Dědictví NATO" # todo: NEW TRANSLATION
-  EU_nato_legacy_desc: "Doba NATO skončila. Nyní nastává čas nové evropské aliance. Přesto budeme udržovat dobré vztahy s §Y[USA.GetNameWithFlag]§! a oni se dokonce stanou §YHlavní spojenec EDU mimo EU§!." # todo: NEW TRANSLATION
-  EU_mountain_warfare: "Alpská doktrína" # todo: NEW TRANSLATION
-  EU_mountain_warfare_desc: "The Alpine nations of §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horského boje. S Alpskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_extensive_mountain_warfare: "Rozšířená alpská doktrína" # todo: NEW TRANSLATION
-  EU_extensive_mountain_warfare_desc: "The Alpine nations of §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horského boje. S Rozšířenou alpskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_armoured_warfare: "Doktrína obrněné války" # todo: NEW TRANSLATION
-  POTEF_armoured_warfare_desc: "§Y[GER.GetNameWithFlag]§! byl tradičně zaměřen na silné obrněné síly. S Doktrínou obrněné války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_leopard_doctrine: "Leopard doktrína" # todo: NEW TRANSLATION
-  POTEF_leopard_doctrine_desc: "§Y[GER.GetNameWithFlag]§! byl tradičně zaměřen na silné obrněné síly. S Leopard doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_french_doctrine: "Doktrína manévrovací války" # todo: NEW TRANSLATION
-  EU_french_doctrine_desc: "§Y[FRA.GetNameWithFlag]§! bylo tradičně zaměřeno na vysoce mobilní lehkou obrněnou a motorizovanou sílu. S Doktrínou manévrovací války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_extensive_french_doctrine: "Doktrína flexibilních sil" # todo: NEW TRANSLATION
-  EU_extensive_french_doctrine_desc: "§Y[FRA.GetNameWithFlag]§! bylo tradičně zaměřeno na vysoce mobilní lehkou obrněnou a motorizovanou sílu. S Doktrínou flexibilních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_air_mobile_doctrine: "Letecká mobilní doktrína" # todo: NEW TRANSLATION
-  POTEF_air_mobile_doctrine_desc: "Po studené válce §Ythe Low Countries§! se zaměřily na letecké mobilní síly, aby vyhověly nové situaci. S Leteckou mobilní doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF_airborne_doctrine: "Padáková doktrína" # todo: NEW TRANSLATION
-  POTEF_airborne_doctrine_desc: "Po studené válce §Ythe Low Countries§! se zaměřily na vzdušně mobilní síly, aby vyhověly nové situaci. S Padákovou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  EU_naval_doctrine: "Námořní doktrína" # todo: NEW TRANSLATION
-  EU_naval_doctrine_desc: "§YBritánie§! byla tradičně zaměřena na silnou námořní sílu. S Námořní doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_extensive_naval_doctrine: "Doktrína námořní nadvlády" # todo: NEW TRANSLATION
-  EU_extensive_naval_doctrine_desc: "§YBritánie§! byla tradičně zaměřena na silnou námořní sílu. S Doktrínou námořní nadvlády mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_nordic_doctrine: "Severská doktrína" # todo: NEW TRANSLATION
-  EU_nordic_doctrine_desc: "§YSkandinávské země§! tradičně zaměřovaly na boj v Arktidě. S Severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  EU_extensive_nordic_doctrine: "Rozšířená severská doktrína" # todo: NEW TRANSLATION
-  EU_extensive_nordic_doctrine_desc: "§YSkandinávské země§! tradičně zaměřovaly na boj v Arktidě. S Rozšířenou severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_integrity_of_creation: "Integrita stvoření" # todo: NEW TRANSLATION
-  POTEF_integrity_of_creation_desc: "Evropská federace se rozhodla zachovat a chránit integritu stvoření svými politikami." # todo: NEW TRANSLATION
-  POTEF_imperial_power: "Impériální moc" # todo: NEW TRANSLATION
-  POTEF_imperial_power_desc: "Evropská federace stojí v tradici svých impériálních předchůdců." # todo: NEW TRANSLATION
-  POTEF_empire_of_trade: "Obchodní impérium" # todo: NEW TRANSLATION
-  POTEF_empire_of_trade_desc: "Evropská federace je obchodní impérium." # todo: NEW TRANSLATION
-  POTEF_empire_of_trade_2: "Globální obchodní impérium" # todo: NEW TRANSLATION
-  POTEF_empire_of_trade_2_desc: "Evropská federace je globální obchodní impérium." # todo: NEW TRANSLATION
-  POTEF_liberal_legacy: "Liberální tradice" # todo: NEW TRANSLATION
-  POTEF_liberal_legacy_desc: "Evropská federace ctí svou liberální tradici." # todo: NEW TRANSLATION
-  POTEF_liberal_legacy_2: "Liberální odkaz" # todo: NEW TRANSLATION
-  POTEF_liberal_legacy_2_desc: "Evropská federace ctí svůj liberální odkaz." # todo: NEW TRANSLATION
-  POTEF_empire_of_freedom: "Impérium svobody" # todo: NEW TRANSLATION
-  POTEF_empire_of_freedom_desc: "Evropská federace je impériem svobody." # todo: NEW TRANSLATION
-  POTEF_empire_of_freedom_2: "Globální impérium svobody" # todo: NEW TRANSLATION
-  POTEF_empire_of_freedom_2_desc: "Evropská federace je globálním impériem svobody." # todo: NEW TRANSLATION
-  POTEF_marine_doctrine: "Doktrína námořní pěchoty" # todo: NEW TRANSLATION
-  POTEF_marine_doctrine_desc: "§YIberijské země§! byly tradičně zaměřeny na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_extensive_marine_doctrine: "Rozšířená doktrína námořní pěchoty" # todo: NEW TRANSLATION
-  POTEF_extensive_marine_doctrine_desc: "§YIberijské země§! byly tradičně zaměřeny na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_amphibious_doctrine: "Amfibická doktrína" # todo: NEW TRANSLATION
-  POTEF_amphibious_doctrine_desc: "The §Ystředomořské země§! tradičně se zaměřovaly na taktiky námořní invaze. S amfibickou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_extensive_amphibious_doctrine: "Doktrína námořní invaze" # todo: NEW TRANSLATION
-  POTEF_extensive_amphibious_doctrine_desc: "The §Ystředomořské země§! tradičně se zaměřovaly na taktiky námořní invaze. S Doktrínou námořní invaze mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_partisan_doctrine: "Partyzánská doktrína" # todo: NEW TRANSLATION
-  POTEF_partisan_doctrine_desc: "The §Ybalkánské země§! tradičně se zaměřovaly na partyzánské síly. S Partyzánskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_counter_insurgency_doctrine: "Doktrína proti povstaleckým silám" # todo: NEW TRANSLATION
-  POTEF_counter_insurgency_doctrine_desc: "The §Ybalkánské země§! tradičně zaměřovaly na partyzánské síly. S Doktrínou proti povstaleckým silám mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_anti_air_doctrine: "Protivzdušná doktrína" # todo: NEW TRANSLATION
-  POTEF_anti_air_doctrine_desc: "After the Cold War země Černého moře se soustředily na mobilní protivzdušné síly, aby vyhověly nové situaci. S Protivzdušnou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF_extensive_anti_air_doctrine: "Doktrína mobilní protivzdušné obrany" # todo: NEW TRANSLATION
-  POTEF_extensive_anti_air_doctrine_desc: "After the Cold War země Černého moře se zaměřily na mobilní protivzdušné síly, aby vyhověly nové situaci. S Doktrínou mobilní protivzdušné obrany mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF_artillery_doctrine: "Dělostřelecká doktrína" # todo: NEW TRANSLATION
-  POTEF_artillery_doctrine_desc: "The §YZemě Visegrádu§! tradičně se zaměřovaly na silné dělostřelecké síly. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_extensive_artillery_doctrine: "Rozsáhlá dělostřelecká doktrína" # todo: NEW TRANSLATION
-  POTEF_extensive_artillery_doctrine_desc: "The §YZemě Visegrádu§! tradičně se zaměřovaly na silné dělostřelecké síly. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_defense_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
-  POTEF_defense_doctrine_desc: "After the Cold War the §Yzemě Kavkazu§! měly důraz na silnou obranu, aby vyhověly nové situaci. S Obrannou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF_extensive_defense_doctrine: "Rozsáhlá obranná doktrína" # todo: NEW TRANSLATION
-  POTEF_extensive_defense_doctrine_desc: "Po studené válce země Kavkazu se zaměřily na silnou obranu, aby vyhověly nové situaci. S Rozsáhlou obrannou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
-  POTEF_special_forces_doctrine: "Doktrína speciálních sil" # todo: NEW TRANSLATION
-  POTEF_special_forces_doctrine_desc: "The §YBaltské země§! tradičně kladly důraz na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_extensive_special_forces_doctrine: "Rozsáhlá doktrína speciálních sil" # todo: NEW TRANSLATION
-  POTEF_extensive_special_forces_doctrine_desc: "The §YBaltské země§! tradičně kladly důraz na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
-  POTEF_infantry_doctrine: "Doktrína pěchoty" # todo: NEW TRANSLATION
-  POTEF_infantry_doctrine_desc: "Početní převaha zůstává největší výhodou §Yvýchodních zemí§!." # todo: NEW TRANSLATION
-  POTEF_extensive_infantry_doctrine: "Extenzivní doktrína pěchoty" # todo: NEW TRANSLATION
-  POTEF_extensive_infantry_doctrine_desc: "Početní převaha zůstává největší výhodou §Yvýchodních zemí§!." # todo: NEW TRANSLATION
-  POTEF_mass_drone_production: "Zaměření na výrobu dronů" # todo: NEW TRANSLATION
-  POTEF_mass_drone_production_desc: "Válka dronů je novou tváří moderního boje." # todo: NEW TRANSLATION
-  POTEF_extensive_mass_drone_production: "Hromadná výroba dronů" # todo: NEW TRANSLATION
-  POTEF_extensive_mass_drone_production_desc: "Válka dronů je novou tváří moderního boje." # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_decision: "Požadovat environmentální reformy" # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_decision_desc: "We need to save the planet. If §Y[FROM.GetNameWithFlag]§! doesn't do the necessary §GEnvironmentální reformy§! by themselves, we need to force them to do so. They need to have at least one §YRafinérie biopaliv§! for every state they own. If §Y[FROM.GetNameWithFlag]§! doesn't fulfill our demands within a month, we will impose §REnvironmentální sankce§! on them." # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_mission: "Environmentální reformy" # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_mission_desc: "§YEvropa§! vyžaduje §GEnvironmentální reformy§! od nás, abychom zachránili planetu. Pokud nepostavíme nebo nepřestavíme alespoň jednu §YRafinérie biopaliv§! pro každý stát, který vlastníme, do měsíce, uvalí na nás §REnvironmentální sankce§!." # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_restructure_industry_decision: "Green Energy Reconstruction" # todo: NEW TRANSLATION
-  EU_POTEF_environmental_imperialism_restructure_industry_decision_desc: "Abychom splnili evropské environmentální reformy, musíme rekonstruovat část našeho Civilian Industry na výrobce obnovitelné energie (§YRafinérie biopaliv§!)." # todo: NEW TRANSLATION
-  EU_POTEF_break_environmental_sanctions_decision: "Zrušit environmentální sankce" # todo: NEW TRANSLATION
-  EU_POTEF_break_environmental_sanctions_decision_desc: "Evropské sankce environmentální byly na nás uvaleny. Musíme je prolomit všemi prostředky - politickými i vojenskými. Ale to dá [FROM.GetNameWithFlag] válečný cíl proti nám. Proto musíme navázat alianci s dalšími zeměmi sankcionovanými [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
-  EU_POTEF_call_all_major_non_EU_ally: "Vyvolejte všechny hlavní ne-EU spojence EDU" # todo: NEW TRANSLATION
-  EU_POTEF_call_all_major_non_EU_ally_desc: "EDU je napadena. Je na čase aktivovat obranné spojenectví a vyvolat všechny ne-EU EDU spojence." # todo: NEW TRANSLATION
-  EU_POTEF_call_major_non_EU_ally: "Zavolejte [FROM.GetName] do EDU" # todo: NEW TRANSLATION
-  EU_POTEF_call_major_non_EU_ally_desc: "Zavolejte hlavního ne-EU spojence EDU §Y[FROM.GetNameWithFlag]§!." # todo: NEW TRANSLATION
-  tooltip_POTEF_bonus_effect: "(Poznámka: efekty jsou zobrazeny jen pro současné členy EU)\n§GBonus efekt§!:" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_alpine: "když §Y[AUS.GetNameWithFlag]§! nebo §Y[SWI.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_german: "když §Y[GER.GetNameWithFlag]§! nebo §Y[BAY.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_french: "když §Y[FRA.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_benelux: "když §Y[HOL.GetNameWithFlag]§!, §Y[BEL.GetNameWithFlag]§! nebo §Y[LUX.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_iberian: "když §Y[SPR.GetNameWithFlag]§!, §Y[POR.GetNameWithFlag]§!, §Y[GAL.GetNameWithFlag]§!, §Y[CAT.GetNameWithFlag]§!, §Y[SPA.GetNameWithFlag]§!, §Y[CNR.GetNameWithFlag]§! nebo §Y[NAV.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_british: "když §Y[ENG.GetNameWithFlag]§!, §Y[SCO.GetNameWithFlag]§!, §Y[WAS.GetNameWithFlag]§! nebo §Y[IRE.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_nordic: "když §Y[DEN.GetNameWithFlag]§!, §Y[NOR.GetNameWithFlag]§!, §Y[SWE.GetNameWithFlag]§!, §Y[FIN.GetNameWithFlag]§!, §Y[ICE.GetNameWithFlag]§! nebo §Y[GRL.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_mediterranean: "když §Y[ITA.GetNameWithFlag]§!, §Y[MLT.GetNameWithFlag]§!, §Y[GRE.GetNameWithFlag]§!, §Y[CYP.GetNameWithFlag]§!, §Y[SCL.GetNameWithFlag]§! nebo §Y[CRE.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_balkan: "když §Y[SLV.GetNameWithFlag]§!, §Y[CRO.GetNameWithFlag]§!, §Y[BOS.GetNameWithFlag]§!, §Y[SER.GetNameWithFlag]§!, §Y[MNT.GetNameWithFlag]§!, §Y[ALB.GetNameWithFlag]§!, §Y[FYR.GetNameWithFlag]§! nebo §Y[KOS.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_black_sea: "když §Y[ROM.GetNameWithFlag]§!, §Y[BUL.GetNameWithFlag]§!, §Y[MLV.GetNameWithFlag]§!, §Y[TUR.GetNameWithFlag]§! nebo §Y[UKR.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_caucasus: "když §Y[GEO.GetNameWithFlag]§!, §Y[ARM.GetNameWithFlag]§! nebo §Y[AZE.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_visegrad: "když §Y[POL.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§!, §Y[SLO.GetNameWithFlag]§!, §Y[HUN.GetNameWithFlag]§!, §Y[BLR.GetNameWithFlag]§! nebo §Y[SIL.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_baltic: "když §Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! nebo §Y[LIT.GetNameWithFlag]§! je §VPředseda Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_is_eastern: "když §Y[BLR.GetNameWithFlag]§!, §Y[RUS.GetNameWithFlag]§!, §Y[SOV.GetNameWithFlag]§! nebo §Y[UKR.GetNameWithFlag]§! je §Yprezidentem Evropské federace (POTEF)§!" # todo: NEW TRANSLATION
-  tooltip_POTEF_favor_farmer_banker: "Podporuje farmáře a mezinárodní bankéře." # todo: NEW TRANSLATION
-  focus_POTEF301_effect_tt: "Každý člen Evropské unie zlepší názor o +25§! se všemi latinskými zeměmi.\n" # todo: NEW TRANSLATION
-  focus_POTEF502_effect_tt: "Každý člen Evropské unie bude §Gzlepšovat názor o +30§! s následujícími zeměmi: [KAZ.GetNameWithFlag], [KYR.GetNameWithFlag], [TAJ.GetNameWithFlag], [UZB.GetNameWithFlag], [TRK.GetNameWithFlag], [PER.GetNameWithFlag], [TUR.GetNameWithFlag], [GRE.GetNameWithFlag].\nTaké [CHI.GetFlag][CHI.GetAdjective] vliv bude §Gsnížen§! v těchto zemích.\n" # todo: NEW TRANSLATION
-  tooltip_focus_POTEF203_trigger: "Is in faction §YEuropean Defense Union§!" # todo: NEW TRANSLATION
-  tooltip_focus_POTEF205_trigger: "[USA.conservatism_L] vládnoucí strana" # todo: NEW TRANSLATION
-  tooltip_focus_POTEF206_trigger: "Focus §YMexico§! byl dokončen" # todo: NEW TRANSLATION
-  EU_annexed_SOV_minion: "Evropská federace anektovala ruského poskoka" # todo: NEW TRANSLATION
-  CSCE_peace_talks: "CSCE mírové rozhovory" # todo: NEW TRANSLATION
-  commonwealth_legacy: "Dědictví Commonwealthu" # todo: NEW TRANSLATION
-  contest_silk_road: "Soutěž o Hedvábnou stezku" # todo: NEW TRANSLATION
-  latin_cousins: "Latinskí příbuzní" # todo: NEW TRANSLATION
-  historical_friends_HKG: "Britský zámořský občan" # todo: NEW TRANSLATION
-  breach_of_Sino_British_Joint_Declaration: "Porušení Sino-britské společné deklarace" # todo: NEW TRANSLATION
-  EU_POTEF_call_election: "Vyvolejte volby POTEF" # todo: NEW TRANSLATION
-  EU_POTEF_call_election_desc: "S vznikem Evropské federace se funkce prezidenta Evropské federace (POTEF) vyvinula z rotujícího předsednictví Rady Evropské unie. Aby POTEF získal demokratickou legitimitu nadřazenou rotujícímu předsednictví, bylo ve smlouvách stanoveno, že POTEF musí být volen lidmi a že jeho funkční období závisí na dosažené většině.\n\nMomentálně neexistuje žádný funkční prezident POTEF, takže je potřeba vyhlásit volby, aby bylo prázdné místo obsazeno." # todo: NEW TRANSLATION
-  EU_POTEF_nominee: "Prohlaste [ROOT.GetLeader] za nominanta POTEF voleb" # todo: NEW TRANSLATION
-  EU_POTEF_nominee_desc: "Prohlaste [ROOT.GetLeader] za kandidáta POTEF voleb." # todo: NEW TRANSLATION
-  EU_POTEF_election_campaign: "POTEF volební kampaň" # todo: NEW TRANSLATION
-  EU_POTEF_election_campaign_desc: "Závod o funkci prezidenta Evropské federace začal. Kandidáti vedou kampaň ve členském státě, aby byli zvoleni jako další prezident Evropské federace (POTEF)." # todo: NEW TRANSLATION
-  EU_POTEF_term: "Čas do příští POTEF volební kampaně" # todo: NEW TRANSLATION
-  EU_POTEF_term_desc: "Čas do příští volební kampaně prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
-  EU_POTEF_show_election_polls: "Zobrazit POTEF volební průzkumy" # todo: NEW TRANSLATION
-  EU_POTEF_show_election_polls_desc: "Zobrazit průzkumy pro volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
-  EU_POTEF_hide_election_polls: "Skrýt POTEF volební průzkumy" # todo: NEW TRANSLATION
-  EU_POTEF_hide_election_polls_desc: "Skrýt průzkumy pro volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
-  EU_POTEF_campaign_in_member_state: "Kampaň POTEF ve státě [FROM.GetName]" # todo: NEW TRANSLATION
-  EU_POTEF_campaign_in_member_state_desc: "[ROOT.GetLeader] zahájí kampaň POTEF ve státě [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
-  EU_POTEF_test_elect_desc: "[EU_POTEF_party_0_nominee]\n[EU_POTEF_party_1_nominee]\n[EU_POTEF_party_2_nominee]\n[EU_POTEF_party_3_nominee]\n[EU_POTEF_party_4_nominee]\n[EU_POTEF_party_5_nominee]\n[EU_POTEF_party_6_nominee]\n[EU_POTEF_party_7_nominee]\n[EU_POTEF_party_8_nominee]\n[EU_POTEF_party_9_nominee]\n[EU_POTEF_party_10_nominee]\n[EU_POTEF_party_11_nominee]\n[EU_POTEF_party_12_nominee]\n[EU_POTEF_party_13_nominee]\n[EU_POTEF_party_14_nominee]\n[EU_POTEF_party_15_nominee]\n[EU_POTEF_party_16_nominee]\n[EU_POTEF_party_17_nominee]\n[EU_POTEF_party_18_nominee]\n[EU_POTEF_party_19_nominee]\n[EU_POTEF_party_20_nominee]\n[EU_POTEF_party_21_nominee]\n[EU_POTEF_party_22_nominee]\n[EU_POTEF_party_23_nominee]\n" # todo: CHANGED
-  EU_POTEF_news.1.t: "[FROM.GetLeader] is nominee for POTEF elections" # todo: NEW TRANSLATION
-  EU_POTEF_news.1.d: "[FROM.GetLeader] vedoucí [FROM.GetNameWithFlag] byl prohlášen za kandidáta na volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
-  EU_POTEF_news.1.a: "Dobře" # todo: NEW TRANSLATION
-  EU_POTEF_news.2.t: "Výsledek voleb POTEF [GetYear]" # todo: NEW TRANSLATION
-  EU_POTEF_news.2.d: "Vůdce [FROM.GetNameWithFlag] [FROM.GetLeader] vyhrál volby prezidenta Evropské federace (POTEF). Jako prezident POTEF bude řídit Evropskou federaci po následujících [?FROM.POTEF_years|0] rok(y)." # todo: NEW TRANSLATION
-  EU_POTEF_news.2.a: "Dobře" # todo: NEW TRANSLATION
-  EU_POTEF_news.5.t: "[FROM.GetLeader] kampaň ve státě [FROM.GetNameWithFlag] byla úspěšná" # todo: NEW TRANSLATION
-  EU_POTEF_news.5.d: "Kampaň [FROM.GetLeader] ve státě [FROM.GetNameWithFlag] pro volby prezidenta Evropské federace (POTEF) byla úspěšná." # todo: NEW TRANSLATION
-  EU_POTEF_news.5.a: "Dobře" # todo: NEW TRANSLATION
-  EU_POTEF_news.6.t: "[FROM.GetLeader] kampaň ve státě [FROM.GetNameWithFlag] nebyla úspěšná" # todo: NEW TRANSLATION
-  EU_POTEF_news.6.d: "Kampaň [FROM.GetLeader] ve státě [FROM.GetNameWithFlag] pro volby prezidenta Evropské federace (POTEF) nebyla úspěšná." # todo: NEW TRANSLATION
-  EU_POTEF_news.6.a: "Dobře" # todo: NEW TRANSLATION
-  EU_POTEF_trigger_test_1_desc: "[POTEF_polls_loc]" # todo: NEW TRANSLATION
-  tooltip_EU_POTEF_nominee_trigger: "[ROOT.GetNameWithFlag] je jedním ze tří nejvlivnějších hráčů ve všech členských státech se stejnou vládnoucí stranou." # todo: NEW TRANSLATION
-  tooltip_EU_POTEF_nominee_trigger_2: "Strana [ROOT.GetLeader] dosud nevyhlásila kandidáta na prezidenta Evropské federace (POTEF) voleb." # todo: NEW TRANSLATION
-  tooltip_EU_POTEF_campaign_in_member_state_effect: "Šance na zvýšení popularity politické skupiny podporující [ROOT.GetLeader] o cca 5 % ve [FROM.GetNameWithFlag]. Šance závisí na §Yvlivu§! [ROOT.GetNameWithFlag] na [FROM.GetNameWithFlag], §Yeuroskepticismus§!, §Yvládnoucí strana§! a §YPOTEF kandidát§! [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
-  show_POTEF_polls_loc_key: "Průzkumy POTEF:\nMandát podle většiny:\n§Y5leté období§!: §Gabsolutní§! většina Lidového hlasování §GA§! vítězství členských států\n§Y3leté období§!: jedna §Gabsolutní§! §GA§! jedna §Orelativní§! většina\n§Y2leté období§!: §Orelativní§! většina Lidového hlasování §OA§! vítězství členských států\n§Y1leté období§!: §Orelativní§! většina Lidového hlasování\n\nCelkové hlasy: [?global.POTEF_pop_vote_total|§Y0]§YK§!\nPolitická skupina: §YLidové hlasování§! - §CPoměr Lidového hlasování§! - §GVítězství členských států§! - §YKandidát§!\n\n[EU_POTEF_party_0]\n[EU_POTEF_party_1]\n[EU_POTEF_party_2]\n[EU_POTEF_party_3]\n[EU_POTEF_party_4]\n[EU_POTEF_party_5]\n[EU_POTEF_party_6]\n[EU_POTEF_party_7]\n[EU_POTEF_party_8]\n[EU_POTEF_party_9]\n[EU_POTEF_party_10]\n[EU_POTEF_party_11]\n[EU_POTEF_party_12]\n[EU_POTEF_party_13]\n[EU_POTEF_party_14]\n[EU_POTEF_party_15]\n[EU_POTEF_party_16]\n[EU_POTEF_party_17]\n[EU_POTEF_party_18]\n[EU_POTEF_party_19]\n[EU_POTEF_party_20]\n[EU_POTEF_party_21]\n[EU_POTEF_party_22]\n[EU_POTEF_party_23]\n" # todo: CHANGED
-  hide_POTEF_polls_loc_key: "" # todo: NEW TRANSLATION
-  EU_POTEF_party_0_loc_key: "[EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_short_name]: [?global.POTEF_pop_vote^0|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^0|§C2%] - [?global.POTEF_winner^0|§G0][EU_POTEF_party_0_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_1_loc_key: "[EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_short_name]: [?global.POTEF_pop_vote^1|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^1|§C2%] - [?global.POTEF_winner^1|§G0][EU_POTEF_party_1_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_2_loc_key: "[EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_short_name]: [?global.POTEF_pop_vote^2|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^2|§C2%] - [?global.POTEF_winner^2|§G0][EU_POTEF_party_2_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_3_loc_key: "[EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_short_name]: [?global.POTEF_pop_vote^3|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^3|§C2%] - [?global.POTEF_winner^3|§G0][EU_POTEF_party_3_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_4_loc_key: "[EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_short_name]: [?global.POTEF_pop_vote^4|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^4|§C2%] - [?global.POTEF_winner^4|§G0][EU_POTEF_party_4_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_5_loc_key: "[EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_short_name]: [?global.POTEF_pop_vote^5|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^5|§C2%] - [?global.POTEF_winner^5|§G0][EU_POTEF_party_5_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_6_loc_key: "[EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_short_name]: [?global.POTEF_pop_vote^6|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^6|§C2%] - [?global.POTEF_winner^6|§G0][EU_POTEF_party_6_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_7_loc_key: "[EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_short_name]: [?global.POTEF_pop_vote^7|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^7|§C2%] - [?global.POTEF_winner^7|§G0][EU_POTEF_party_7_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_8_loc_key: "[EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_short_name]: [?global.POTEF_pop_vote^8|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^8|§C2%] - [?global.POTEF_winner^8|§G0][EU_POTEF_party_8_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_9_loc_key: "[EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_short_name]: [?global.POTEF_pop_vote^9|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^9|§C2%] - [?global.POTEF_winner^9|§G0][EU_POTEF_party_9_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_10_loc_key: "[EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_short_name]: [?global.POTEF_pop_vote^10|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^10|§C2%] - [?global.POTEF_winner^10|§G0][EU_POTEF_party_10_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_11_loc_key: "[EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_short_name]: [?global.POTEF_pop_vote^11|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^11|§C2%] - [?global.POTEF_winner^11|§G0][EU_POTEF_party_11_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_12_loc_key: "[EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_short_name]: [?global.POTEF_pop_vote^12|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^12|§C2%] - [?global.POTEF_winner^12|§G0][EU_POTEF_party_12_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_13_loc_key: "[EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_short_name]: [?global.POTEF_pop_vote^13|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^13|§C2%] - [?global.POTEF_winner^13|§G0][EU_POTEF_party_13_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_14_loc_key: "[EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_short_name]: [?global.POTEF_pop_vote^14|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^14|§C2%] - [?global.POTEF_winner^14|§G0][EU_POTEF_party_14_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_15_loc_key: "[EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_short_name]: [?global.POTEF_pop_vote^15|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^15|§C2%] - [?global.POTEF_winner^15|§G0][EU_POTEF_party_15_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_16_loc_key: "[EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_short_name]: [?global.POTEF_pop_vote^16|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^16|§C2%] - [?global.POTEF_winner^16|§G0][EU_POTEF_party_16_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_17_loc_key: "[EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_short_name]: [?global.POTEF_pop_vote^17|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^17|§C2%] - [?global.POTEF_winner^17|§G0][EU_POTEF_party_17_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_18_loc_key: "[EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_short_name]: [?global.POTEF_pop_vote^18|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^18|§C2%] - [?global.POTEF_winner^18|§G0][EU_POTEF_party_18_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_19_loc_key: "[EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_short_name]: [?global.POTEF_pop_vote^19|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^19|§C2%] - [?global.POTEF_winner^19|§G0][EU_POTEF_party_19_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_20_loc_key: "[EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_short_name]: [?global.POTEF_pop_vote^20|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^20|§C2%] - [?global.POTEF_winner^20|§G0][EU_POTEF_party_20_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_21_loc_key: "[EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_short_name]: [?global.POTEF_pop_vote^21|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^21|§C2%] - [?global.POTEF_winner^21|§G0][EU_POTEF_party_21_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_22_loc_key: "[EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_short_name]: [?global.POTEF_pop_vote^22|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^22|§C2%] - [?global.POTEF_winner^22|§G0][EU_POTEF_party_22_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_23_loc_key: "[EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_short_name]: [?global.POTEF_pop_vote^23|§Y0]§YK§! - [?global.POTEF_pop_vote_ratio^23|§C2%] - [?global.POTEF_winner^23|§G0][EU_POTEF_party_23_nominee]\n" # todo: NEW TRANSLATION
-  EU_POTEF_party_0_nominee_loc_key: " - [?global.var_POTEF_nominee_0.GetFlag] §Y[?global.var_POTEF_nominee_0.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_1_nominee_loc_key: " - [?global.var_POTEF_nominee_1.GetFlag] §Y[?global.var_POTEF_nominee_1.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_2_nominee_loc_key: " - [?global.var_POTEF_nominee_2.GetFlag] §Y[?global.var_POTEF_nominee_2.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_3_nominee_loc_key: " - [?global.var_POTEF_nominee_3.GetFlag] §Y[?global.var_POTEF_nominee_3.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_4_nominee_loc_key: " - [?global.var_POTEF_nominee_4.GetFlag] §Y[?global.var_POTEF_nominee_4.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_5_nominee_loc_key: " - [?global.var_POTEF_nominee_5.GetFlag] §Y[?global.var_POTEF_nominee_5.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_6_nominee_loc_key: " - [?global.var_POTEF_nominee_6.GetFlag] §Y[?global.var_POTEF_nominee_6.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_7_nominee_loc_key: " - [?global.var_POTEF_nominee_7.GetFlag] §Y[?global.var_POTEF_nominee_7.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_8_nominee_loc_key: " - [?global.var_POTEF_nominee_8.GetFlag] §Y[?global.var_POTEF_nominee_8.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_9_nominee_loc_key: " - [?global.var_POTEF_nominee_9.GetFlag] §Y[?global.var_POTEF_nominee_9.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_10_nominee_loc_key: " - [?global.var_POTEF_nominee_10.GetFlag] §Y[?global.var_POTEF_nominee_10.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_11_nominee_loc_key: " - [?global.var_POTEF_nominee_11.GetFlag] §Y[?global.var_POTEF_nominee_11.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_12_nominee_loc_key: " - [?global.var_POTEF_nominee_12.GetFlag] §Y[?global.var_POTEF_nominee_12.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_13_nominee_loc_key: " - [?global.var_POTEF_nominee_13.GetFlag] §Y[?global.var_POTEF_nominee_13.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_14_nominee_loc_key: " - [?global.var_POTEF_nominee_14.GetFlag] §Y[?global.var_POTEF_nominee_14.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_15_nominee_loc_key: " - [?global.var_POTEF_nominee_15.GetFlag] §Y[?global.var_POTEF_nominee_15.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_16_nominee_loc_key: " - [?global.var_POTEF_nominee_16.GetFlag] §Y[?global.var_POTEF_nominee_16.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_17_nominee_loc_key: " - [?global.var_POTEF_nominee_17.GetFlag] §Y[?global.var_POTEF_nominee_17.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_18_nominee_loc_key: " - [?global.var_POTEF_nominee_18.GetFlag] §Y[?global.var_POTEF_nominee_18.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_19_nominee_loc_key: " - [?global.var_POTEF_nominee_19.GetFlag] §Y[?global.var_POTEF_nominee_19.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_20_nominee_loc_key: " - [?global.var_POTEF_nominee_20.GetFlag] §Y[?global.var_POTEF_nominee_20.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_21_nominee_loc_key: " - [?global.var_POTEF_nominee_21.GetFlag] §Y[?global.var_POTEF_nominee_21.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_22_nominee_loc_key: " - [?global.var_POTEF_nominee_22.GetFlag] §Y[?global.var_POTEF_nominee_22.GetLeader]§!" # todo: NEW TRANSLATION
-  EU_POTEF_party_23_nominee_loc_key: " - [?global.var_POTEF_nominee_23.GetFlag] §Y[?global.var_POTEF_nominee_23.GetLeader]§!" # todo: NEW TRANSLATION
-  EFS_flag_category: "Změna vlajky Evropské federace" # todo: NEW TRANSLATION
-  EFS_flag_category_desc: "S vznikem Evropské federace se členské státy rozhodly přijmout nové vlajky se společným evropským vzorem." # todo: NEW TRANSLATION
-  EFS_flag_change: "Změna vlajky Evropské federace" # todo: NEW TRANSLATION
-  EFS_flag_change_desc: "Změňte vlajky na společný evropský vzor jako Evropský federální stát." # todo: NEW TRANSLATION
-  USoE_Flag_Reset_Flag_category: "Vlajka USoE" # todo: NEW TRANSLATION
-  USoE_Flag_Reset_Flag_category_desc: "" # todo: NEW TRANSLATION
-  USoE_reset_flag: "Obnovit USoE vlajku" # todo: NEW TRANSLATION
-  USoE_reset_flag_desc: "Změňte vlajku USoE na standardní vlajku EU (nelze vrátit zpět)." # todo: NEW TRANSLATION
-  POTEF_army_infantry_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu pěchoty§! o [?POTEF_army_infantry_defence_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_terrain_penalty_reduction_tt: "Mění §2Armádu Evropské federace§! §GTerénní penalizaci§! o [?POTEF_terrain_penalty_reduction_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_armor_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok obrněných§! o [?POTEF_army_armor_attack_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_armor_speed_factor_tt: "Mění §2Armádu Evropské federace§! §GRychlost obrněných§! o [?POTEF_army_armor_speed_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_armor_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu obrněných§! o [?POTEF_army_armor_defence_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_recon_factor_tt: "Mění §2Armádu Evropské federace§! §GPrůzkum§! o [?POTEF_recon_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_river_crossing_factor_tt: "Mění §2Armádu Evropské federace§! §GPřechod řek§! o [?POTEF_river_crossing_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_paradrop_organization_factor_tt: "Mění §9Vzdušné síly Evropské federace§! §GOrganizaci výsadku§! o [?POTEF_paradrop_organization_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_extra_paratrooper_supply_grace_tt: "Mění §9Vzdušné síly Evropské federace§! §GRezervu zásob pro výsadkáře§! o [?POTEF_extra_paratrooper_supply_grace_change|+%]" # todo: NEW TRANSLATION
-  POTEF_experience_gain_navy_tt: "Mění §4Námořnictvo Evropské federace§! §GZískávání zkušeností§! o [?POTEF_experience_gain_navy_change|+%]" # todo: NEW TRANSLATION
-  POTEF_experience_gain_navy_factor_tt: "Mění §4Námořnictvo Evropské federace§! §GZisk zkušeností námořnictva§! o [?POTEF_experience_gain_navy_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_navy_org_factor_tt: "Mění §4Námořnictvo Evropské federace§! §GFaktor organizace§! o [?POTEF_navy_org_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_intel_factor_tt: "Mění §2Armádu Evropské federace§! §GZpravodajství§! o [?POTEF_army_intel_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_navy_intel_factor_tt: "Mění §4Námořnictvo Evropské federace§! §GZpravodajství§! o [?POTEF_navy_intel_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_airforce_intel_factor_tt: "Mění §9Vzdušné síly Evropské federace§! §GZpravodajství§! o [?POTEF_airforce_intel_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_winter_attrition_factor_tt: "Mění §2Armádu Evropské federace§! §GZimní ztráty§! o [?POTEF_winter_attrition_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_acclimatization_cold_climate_gain_factor_tt: "Mění §2Armádu Evropské federace§! §GAkklimatizaci na chladné klima§! o [?POTEF_acclimatization_cold_climate_gain_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_mechanized_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok mechanizovaných§! o [?POTEF_mechanized_attack_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_mechanized_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu mechanizovaných§! o [?POTEF_mechanized_defence_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_motorized_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok motorizovaných§! o [?POTEF_motorized_attack_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_motorized_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu motorizovaných§! o [?POTEF_motorized_defence_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_max_planning_tt: "Mění §2Armádu Evropské federace§! §GMaximální plánování§! o [?POTEF_max_planning_change|+%]" # todo: NEW TRANSLATION
-  POTEF_planning_speed_tt: "Mění §2Armádu Evropské federace§! §GRychlost plánování§! o [?POTEF_planning_speed_change|+%]" # todo: NEW TRANSLATION
-  POTEF_political_power_factor_tt: "Mění §YAdministraci Evropské federace§! §GZisk politické moci§! o [?POTEF_political_power_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_command_power_gain_tt: "Mění §YAdministraci Evropské federace§! §GZisk velitelské síly§! o [?POTEF_command_power_gain_change|+%]" # todo: NEW TRANSLATION
-  POTEF_monthly_population_tt: "Mění §YAdministraci Evropské federace§! §GMěsíční přírůstek populace§! o [?POTEF_monthly_population_change|+%]" # todo: NEW TRANSLATION
-  POTEF_war_support_factor_tt: "Mění §YAdministraci Evropské federace§! §GPodporu války§! o [?POTEF_war_support_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_trade_opinion_factor_tt: "Mění §YAdministraci Evropské federace§! §GObchodní postoj§! o [?POTEF_trade_opinion_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_opinion_gain_monthly_factor_tt: "Mění §YAdministraci Evropské federace§! §GMěsíční nárůst postoje§! o [?POTEF_opinion_gain_monthly_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_consumer_goods_factor_tt: "Mění §YAdministraci Evropské federace§! §GSpotřební zboží§! o [?POTEF_consumer_goods_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_intel_network_gain_factor_tt: "Mění §YAdministraci Evropské federace§! §GZisk zpravodajské sítě§! o [?POTEF_intel_network_gain_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_send_volunteer_size_tt: "Mění §YAdministraci Evropské federace§! §GVelikost dobrovolníků§! o [?POTEF_send_volunteer_size_change|+%]" # todo: NEW TRANSLATION
-  POTEF_amphibious_invasion_tt: "Mění §4Námořnictvo Evropské federace§! §GNámořní vylodění§! o [?POTEF_amphibious_invasion_change|+%]" # todo: NEW TRANSLATION
-  POTEF_amphibious_invasion_defence_tt: "Mění §4Námořnictvo Evropské federace§! §GObranu proti námořnímu vylodění§! o [?POTEF_amphibious_invasion_defence_change|+%]" # todo: NEW TRANSLATION
-  POTEF_naval_invasion_penalty_tt: "Mění §4Námořnictvo Evropské federace§! §GPostih za námořní invazi§! o [?POTEF_naval_invasion_penalty_change|+%]" # todo: NEW TRANSLATION
-  POTEF_naval_invasion_prep_speed_tt: "Mění §4Námořnictvo Evropské federace§! §GRychlost přípravy námořní invaze§! o [?POTEF_naval_invasion_prep_speed_change|+%]" # todo: NEW TRANSLATION
-  POTEF_naval_invasion_capacity_tt: "Mění §4Námořnictvo Evropské federace§! §FKapacitu námořní invaze§! o [?POTEF_naval_invasion_capacity_change|+%]" # todo: NEW TRANSLATION
-  POTEF_invasion_preparation_tt: "Mění §4Námořnictvo Evropské federace§! §FDobu přípravy námořní invaze§! o [?POTEF_invasion_preparation_change|+%]" # todo: NEW TRANSLATION
-  POTEF_air_attack_factor_tt: "Mění §9Vzdušné síly Evropské federace§! §GLetecký útok§! o [?POTEF_air_attack_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_cas_damage_reduction_tt: "Mění §9Vzdušné síly Evropské federace§! §GSnížení poškození CAS§! o [?POTEF_cas_damage_reduction_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_artillery_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok dělostřelectva§! o [?POTEF_army_artillery_attack_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_artillery_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu dělostřelectva§! o [?POTEF_army_artillery_defence_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_boost_resistance_factor_tt: "Mění §YAdministraci Evropské federace§! §GPosílení odolnosti§! o [?POTEF_boost_resistance_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_root_out_resistance_effectiveness_factor_tt: "Mění §YAdministraci Evropské federace§! §GÚčinnost vykořenění odporu§! o [?POTEF_root_out_resistance_effectiveness_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_resistance_damage_to_garrison_tt: "Mění §YAdministraci Evropské federace§! §GPoškození posádky způsobené odbojem§! o [?POTEF_resistance_damage_to_garrison_change|+%]" # todo: NEW TRANSLATION
-  POTEF_resistance_target_tt: "Mění §YAdministraci Evropské federace§! §GCíl odporu§! o [?POTEF_resistance_target_change|+%]" # todo: NEW TRANSLATION
-  POTEF_max_dig_in_factor_tt: "Mění §2Armádu Evropské federace§! §GMaximální zakopání§! o [?POTEF_max_dig_in_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_dig_in_speed_factor_tt: "Mění §2Armádu Evropské federace§! §GRychlost zakopávání§! o [?POTEF_dig_in_speed_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_defence_tt: "Mění §2Armádu Evropské federace§! §GObranu§! o [?POTEF_defence_change|+%]" # todo: NEW TRANSLATION
-  POTEF_production_speed_bunker_factor_tt: "Mění §YAdministraci Evropské federace§! §GRychlost výstavby bunkrů§! o [?POTEF_production_speed_bunker_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_special_forces_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok speciálních jednotek§! o [?POTEF_special_forces_attack_change|+%]" # todo: NEW TRANSLATION
-  POTEF_special_forces_defence_factor_tt: "Mění §2Armádu Evropské federace§! §GObranu speciálních jednotek§! o [?POTEF_special_forces_defence_change|+%]" # todo: NEW TRANSLATION
-  POTEF_special_forces_min_tt: "Mění §2Armádu Evropské federace§! §GMinimální požadovaný počet divizí speciálních sil§! o [?POTEF_special_forces_min_change|+%]" # todo: NEW TRANSLATION
-  POTEF_special_forces_cap_tt: "Mění §2Armádu Evropské federace§! §GLimit speciálních sil§! o [?POTEF_special_forces_cap_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_infantry_attack_factor_tt: "Mění §2Armádu Evropské federace§! §GÚtok pěchoty§! o [?POTEF_army_infantry_attack_change|+%]" # todo: NEW TRANSLATION
-  POTEF_army_speed_factor_tt: "Mění §2Armádu Evropské federace§! §GRychlost útoku§! o [?POTEF_army_speed_attack_change|+%]" # todo: NEW TRANSLATION
-  POTEF_stability_factor_tt: "Mění §YAdministraci Evropské federace§! §GStabilitu§! o [?POTEF_stability_factor_change|+%]" # todo: NEW TRANSLATION
-  POTEF_research_speed_factor_tt: "Mění §YAdministraci Evropské federace§! §GRychlost výzkumu§! o [?POTEF_boost_research_speed_change|+%]" # todo: NEW TRANSLATION
+ POTEF001: "Prezident Evropské federace" # todo: NEW TRANSLATION
+ POTEF001_desc: "§YPrezident Evropské federace (POTEF)§! je nejvyšším vůdcem Evropy. Proto má prezident Evropské federace pravomoc činit rozhodující strategická rozhodnutí pro celou federaci." # todo: NEW TRANSLATION
+ POTEF100: "Alpská doktrína" # todo: NEW TRANSLATION
+ POTEF100_desc: "Alpské národy §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horské války. S Alpinskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF101: "Integrita stvoření"  # Název zkráceně pro "Integrity of Creation" # todo: NEW TRANSLATION
+ POTEF101_desc: "Aby se zachovala Integrita stvoření, Evropská federace upravuje své politiky." # todo: NEW TRANSLATION
+ POTEF102: "Environmentální imperialismus" # todo: NEW TRANSLATION
+ POTEF102_desc: "Evropa je zelená, ale svět je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
+ POTEF103: "Severní Amerika" # todo: NEW TRANSLATION
+ POTEF103_desc: "Evropa je zelená, ale Severní Amerika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
+ POTEF104: "Jižní Amerika" # todo: NEW TRANSLATION
+ POTEF104_desc: "Evropa je zelená, ale Jižní Amerika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, která ničí planetu." # todo: NEW TRANSLATION
+ POTEF105: "Evropa (ostatní země)" # todo: NEW TRANSLATION
+ POTEF105_desc: "Evropa je zelená, ale ostatní evropské země jsou stále temné a šedé. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF106: "Afrika" # todo: NEW TRANSLATION
+ POTEF106_desc: "Evropa je zelená, ale Afrika je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF107: "Střední východ" # todo: NEW TRANSLATION
+ POTEF107_desc: "Evropa je zelená, ale Blízký východ je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF108: "Asie" # todo: NEW TRANSLATION
+ POTEF108_desc: "Evropa je zelená, ale Asie je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF109: "Oceánie" # todo: NEW TRANSLATION
+ POTEF109_desc: "Evropa je zelená, ale Oceánie je stále temná a šedá. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF110: "Pacifik" # todo: NEW TRANSLATION
+ POTEF110_desc: "Evropa je zelená, ale Pacifik je stále temný a šedý. Evropa musí šířit své politiky a technologie po celém světě a bojovat proti impériím fosilní energie, které ničí planetu." # todo: NEW TRANSLATION
+ POTEF150: "Německá doktrína" # todo: NEW TRANSLATION
+ POTEF150_desc: "§Y[GER.GetNameWithFlag]§! tradičně směřuje k silně obrněným silám. S Obrněnou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF151: "Říše obchodu" # todo: NEW TRANSLATION
+ POTEF151_desc: "Evropská federace se stane Říší obchodu." # todo: NEW TRANSLATION
+ POTEF200: "Francouzská doktrína" # todo: NEW TRANSLATION
+ POTEF200_desc: "§Y[FRA.GetNameWithFlag]§! tradičně klade důraz na vysoce mobilní lehké obrněné a motorizované síly. S Doktrínou manérové války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF201: "Impérium moci" # todo: NEW TRANSLATION
+ POTEF201_desc: "Evropská federace stojí v tradici svých impériálních předchůdců." # todo: NEW TRANSLATION
+ POTEF202: "Říše svobody" # todo: NEW TRANSLATION
+ POTEF202_desc: "Evropská federace se stane impériem svobody." # todo: NEW TRANSLATION
+ POTEF203: "Amerika: Spojenec nebo protivník" # todo: NEW TRANSLATION
+ POTEF203_desc: "Amerika a Evropa byly po většinu 20. století spojenci. S nedávnými politickými změnami v §Y[USA.GetNameWithFlag]§! to bylo zpochybněno..." # todo: NEW TRANSLATION
+ POTEF204: "Dědictví NATO" # todo: NEW TRANSLATION
+ POTEF204_desc: "V tradici mírového dědictví NATO §Y[USA.GetNameWithFlag]§! a §YEDU§! tvoří novou alianci." # todo: NEW TRANSLATION
+ POTEF205: "Trumpovo dědictví" # todo: NEW TRANSLATION
+ POTEF205_desc: "§Y[USA.GetNameWithFlag]§! se změnily ze spojence na protivníka. Evropa musí na tuto rozhodující strategickou změnu reagovat." # todo: NEW TRANSLATION
+ POTEF206: "Prolomení zdi" # todo: NEW TRANSLATION
+ POTEF206_desc: "K odvrácení americké hrozby pro evropskou suverenitu vypracoval generální štáb §YEDU§! plán na spojenectví s §Y[MEX.GetNameWithFlag]§! a na invazi do §Y[USA.GetNameWithFlag]§! ze jihu." # todo: NEW TRANSLATION
+ POTEF207: "Busterovo vzkříšení" # todo: NEW TRANSLATION
+ POTEF207_desc: "K odvrácení US hrozby pro Evropu navrhl generální štáb §YEDU§! spojenectví s §Y[CAN.GetNameWithFlag]§! a revizi Obranného plánu č. 1, plánu vytvořeného kanadským podplukovníkem Jamesem 'Buster' Sutherland Brownem, pro kanadský preventivní útok proti USA v případě hrozícího konfliktu mezi USA a Britskou říší. Tímto plánem může §YEDU§! zahájit invazi ze severu na §Y[USA.GetFlag] USA§!." # todo: NEW TRANSLATION
+ POTEF250: "Beneluxová doktrína" # todo: NEW TRANSLATION
+ POTEF250_desc: "Po studené válce Nízké země se zaměřovaly na letecky mobilní síly, aby vyhovovaly nové situaci. S Doktrínou vzdušné mobility (Air Mobile Doctrine) mohou všechny členské státy přijmout tyto taktiky." # todo: NEW TRANSLATION
+ POTEF251: "Liberální dědictví" # todo: NEW TRANSLATION
+ POTEF251_desc: "Evropská federace ctí své Liberální dědictví." # todo: NEW TRANSLATION
+ POTEF252: "Zajištění starých obchodních cest" # todo: NEW TRANSLATION
+ POTEF252_desc: "Evropská federace musí chránit staré obchodní trasy do Karibiku, Afriky a bývalých Nizozemských Východních Indií." # todo: NEW TRANSLATION
+ POTEF253: "Indonésie" # todo: NEW TRANSLATION
+ POTEF253_desc: "Evropská federace musí zlepšit svůj vztah k bývalé holandské kolonii §Y[IND.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
+ POTEF300: "Iberská doktrína" # todo: NEW TRANSLATION
+ POTEF300_desc: "Iberské země§! se tradičně zaměřovaly na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF301: "Latinská příbuzná" # todo: NEW TRANSLATION
+ POTEF301_desc: "Evropská federace musí zlepšit svůj vztah k bývalým koloniím v Jižní Americe." # todo: NEW TRANSLATION
+ POTEF302: "Mexiko" # todo: NEW TRANSLATION
+ POTEF302_desc: "Evropská federace musí zlepšit svůj vztah k bývalé španělské kolonii §Y[MEX.GetNameWithFlag]§! a vybudovat nové strategické základny ve Střední Americe." # todo: NEW TRANSLATION
+ POTEF303: "Velká Kolumbie" # todo: NEW TRANSLATION
+ POTEF303_desc: "Evropská federace musí zlepšit svůj vztah k bývalé španělské kolonii §Y[COL.GetNameWithFlag]§! a vybudovat nové strategické základny v Jižní Americe." # todo: NEW TRANSLATION
+ POTEF304: "Střední Amerika" # todo: NEW TRANSLATION
+ POTEF304_desc: "Evropská federace musí zlepšit svůj vztah k bývalým španělským koloniím v §YCentral America§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF305: "Jižní konus Jižní Ameriky" # todo: NEW TRANSLATION
+ POTEF305_desc: "Evropská federace musí zlepšit svůj vztah k bývalým španělským koloniím v §YSouthern Cone of South America§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF306: "Brazílie" # todo: NEW TRANSLATION
+ POTEF306_desc: "Evropská federace musí zlepšit svůj vztah k bývalé portugalské kolonii §Y[BRA.GetNameWithFlag]§! a vybudovat nové strategické základny v Jižní Americe." # todo: NEW TRANSLATION
+ POTEF350: "Britská doktrína" # todo: NEW TRANSLATION
+ POTEF350_desc: "§YBritain§! se tradičně zaměřovala na silné námořnictvo. S Námořní doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF351: "Zajištění severního Atlantiku" # todo: NEW TRANSLATION
+ POTEF351_desc: "Aby byla zajištěna svoboda plavby a volný obchod, musí Evropská federace ovládnout Severní Atlantik." # todo: NEW TRANSLATION
+ POTEF352: "Dědictví Společenství národů" # todo: NEW TRANSLATION
+ POTEF352_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalým britským doménám." # todo: NEW TRANSLATION
+ POTEF353: "Kanada" # todo: NEW TRANSLATION
+ POTEF353_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[CAN.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF354: "Austrálie" # todo: NEW TRANSLATION
+ POTEF354_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[AST.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF355: "Nový Zéland" # todo: NEW TRANSLATION
+ POTEF355_desc: "Evropská federace musí ctít své Dědictví Společenství národů a zlepšit svůj vztah k bývalé britské dominion §Y[NZL.GetNameWithFlag]§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF356: "Zajištění Severního moře" # todo: NEW TRANSLATION
+ POTEF356_desc: "Severní moře je domovem Evropské federace a musí být zabezpečeno." # todo: NEW TRANSLATION
+ POTEF357: "Dědictví Malajsie" # todo: NEW TRANSLATION
+ POTEF357_desc: "Evropská federace musí zlepšit svůj vztah k bývalým britským koloniím Malajsie." # todo: NEW TRANSLATION
+ POTEF358: "Malajsie" # todo: NEW TRANSLATION
+ POTEF358_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[MAY.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
+ POTEF359: "Singapur" # todo: NEW TRANSLATION
+ POTEF359_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[SIN.GetNameWithFlag]§! a vybudovat nové strategické základny v jihovýchodní Asii." # todo: NEW TRANSLATION
+ POTEF360: "Záruka Hongkongu" # todo: NEW TRANSLATION
+ POTEF360_desc: "Evropská federace musí zlepšit svůj vztah k bývalé britské kolonii §Y[HKG.GetNameWithFlag]§! a garantovat práva vyplývající z Čínsko-britské společné deklarace." # todo: NEW TRANSLATION
+ POTEF400: "Severská doktrína" # todo: NEW TRANSLATION
+ POTEF400_desc: "§YSkandinávské země§! se tradičně zaměřovaly na boje v Arktidě. S Severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF401: "Zajištění Arktidy" # todo: NEW TRANSLATION
+ POTEF401_desc: "Aby byla zajištěna svoboda plavby a její geostrategická poloha, musí Evropská federace ovládnout Arktidu." # todo: NEW TRANSLATION
+ POTEF450: "Středomořská doktrína" # todo: NEW TRANSLATION
+ POTEF450_desc: "§YMediterranean země§! se tradičně zaměřovaly na námořní invazní taktiky. S Amfibickou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF451: "Severní Afrika" # todo: NEW TRANSLATION
+ POTEF451_desc: "Pro vytvoření konvergentní zóny a bezpečného přístavu pro uprchlíky musí Evropská federace zlepšit svůj vztah k §YNorthern Africa§! a vybudovat tam nové strategické základny." # todo: NEW TRANSLATION
+ POTEF452: "Sjednotit Kypr" # todo: NEW TRANSLATION
+ POTEF452_desc: "Jako suverénní členský stát Evropské federace §Y[CYP.GetNameWithFlag]§! musí být znovu sjednocen." # todo: NEW TRANSLATION
+ POTEF500: "Balkánská doktrína" # todo: NEW TRANSLATION
+ POTEF500_desc: "§YBalkánské země§! byly tradičně zaměřeny na partizánské síly. S Partizánskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF501: "Balkánská infrastruktura" # todo: NEW TRANSLATION
+ POTEF501_desc: "Evropská federace potřebuje rozvíjet Balkánskou infrastrukturu, aby zachovala regionální mír a chránila Balkán proti zahraničnímu vlivu." # todo: NEW TRANSLATION
+ POTEF502: "Konkurovat Čínské nové hedvábné stezce" # todo: NEW TRANSLATION
+ POTEF502_desc: "Evropská federace musí konkurovat Čínské nové hedvábné stezce a snížit čínský vliv ve Střední Asii." # todo: NEW TRANSLATION
+ POTEF503: "Rival Čína" # todo: NEW TRANSLATION
+ POTEF503_desc: "§Y[CHI.GetNameWithFlag]§! se stal jedním z hlavních rivalů Evropské federace na globální úrovni. Evropská federace musí přizpůsobit svou politiku tomuto." # todo: NEW TRANSLATION
+ POTEF504: "Operace Šíp" # todo: NEW TRANSLATION
+ POTEF504_desc: "Jmenována po Válce šípu (Druhá anglo-čínská válka), Operace Šíp je plán evropské intervence proti §Y[CHI.GetNameWithFlag]§! k zastavení čínské expanzní politiky." # todo: NEW TRANSLATION
+ POTEF505: "Asijští spojenci" # todo: NEW TRANSLATION
+ POTEF505_desc: "Aby Evropská federace čelila §Y[CHI.GetNameWithFlag]§!, potřebuje spojence v Asii." # todo: NEW TRANSLATION
+ POTEF506: "Republika Korea" # todo: NEW TRANSLATION
+ POTEF506_desc: "§Y[KOR.GetNameWithFlag]§! a Evropská federace čelí společnému ohrožení ze strany čínského draka. Aby se s tímto ohrožením vypořádaly, měly by se spojit." # todo: NEW TRANSLATION
+ POTEF507: "Japonsko" # todo: NEW TRANSLATION
+ POTEF507_desc: "§Y[JAP.GetNameWithFlag]§! a Evropská federace čelí společnému ohrožení ze strany čínského draka. Aby se s tímto ohrožením vypořádaly, měly by se spojit." # todo: NEW TRANSLATION
+ POTEF550: "Doktrína Černého moře" # todo: NEW TRANSLATION
+ POTEF550_desc: "Po studené válce černomořské státy se zaměřily na mobilní protivzdušné obranné síly, aby vyhověly nové situaci. S Doktrínou protivzdušné obrany mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF551: "Zajistit bezpečnost Černého moře" # todo: NEW TRANSLATION
+ POTEF551_desc: "Černé moře je spojnicí Evropské federace s Kavkazem a s jeho jihovýchodními členskými státy. Proto musí být zabezpečeno." # todo: NEW TRANSLATION
+ POTEF552: "Znovuzačlenit odtržené republiky" # todo: NEW TRANSLATION
+ POTEF552_desc: "§Y[SOV.GetNameWithFlag]§! porušil svrchovanost různých východních členských států Evropské federace tím, že podporoval separatistická hnutí a zakládal Odtržené republiky. Potřebujeme tyto ruské poskoci znovu začlenit." # todo: NEW TRANSLATION
+ POTEF553: "Postavit se Rusku" # todo: NEW TRANSLATION
+ POTEF553_desc: "§Y[SOV.GetNameWithFlag]§! se stal hlavním rivalem Evropské federace. Musíme na něj uvalit sankce." # todo: NEW TRANSLATION
+ POTEF554: "Operace Charlemagne" # todo: NEW TRANSLATION
+ POTEF554_desc: "Jmenována po Karlu Velikému, legendárním císaři a takzvaném 'otci Evropy' (Pater Europae), Operace Karel Veliký je plán preventivní sebeobrany proti §Y[SOV.GetNameWithFlag]§!. Touto operací může §YEDU§! zahájit preventivní invazi na §Y[SOV.GetNameWithFlag]§! a odstranit hrozbu pro evropskou suverenitu." # todo: NEW TRANSLATION
+ POTEF600: "Kavkazská doktrína" # todo: NEW TRANSLATION
+ POTEF600_desc: "Po studené válce země kavkazského regionu se zaměřovaly na silnou obranu, aby vyhověly nové situaci. S Defenzivní doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF601: "Přístup do Evropy" # todo: NEW TRANSLATION
+ POTEF601_desc: "Evropská federace potřebuje přístup k Kavkazu a k jeho jihovýchodním členským státům. Proto je třeba vybudovat nové námořní základny a infrastrukturu." # todo: NEW TRANSLATION
+ POTEF650: "Visegrádská doktrína" # todo: NEW TRANSLATION
+ POTEF650_desc: "Visegrádské země byly tradičně zaměřeny na silná dělostřelecká vojska. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF651: "Evropská síť protivzdušné obrany" # todo: NEW TRANSLATION
+ POTEF651_desc: "Evropská federace musí vybudovat síť protivzdušné obrany, aby zajistila své východní křídlo." # todo: NEW TRANSLATION
+ POTEF652: "Východní firewall" # todo: NEW TRANSLATION
+ POTEF652_desc: "Rostoucí vliv §Y[SOV.GetNameWithFlag]§! ve východních členských státech je třeba omezit." # todo: CHANGED
+ POTEF700: "Baltská doktrína" # todo: NEW TRANSLATION
+ POTEF700_desc: "Baltické země byly tradičně zaměřeny na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF701: "Zajistit bezpečnost Baltského moře" # todo: NEW TRANSLATION
+ POTEF701_desc: "Baltské moře je ostrovní moře Evropské federace a musí být zabezpečeno." # todo: NEW TRANSLATION
+ POTEF750: "Východní doktrína" # todo: NEW TRANSLATION
+ POTEF750_desc: "Evropská federace potřebuje dobře vycvičenou pěchotu pro východní pláně." # todo: NEW TRANSLATION
+ POTEF751: "Válka dronů" # todo: NEW TRANSLATION
+ POTEF751_desc: "Válka dronů se stává stále levnější a masové útoky účinnější." # todo: NEW TRANSLATION
+ POTEF752: "Firewall Dálného východu" # todo: NEW TRANSLATION
+ POTEF752_desc: "Rostoucí vliv §Y[CHI.GetNameWithFlag]§! ve východních členských státech je třeba omezit." # todo: NEW TRANSLATION
+ POTEF753: "Východní námořní bašta" # todo: NEW TRANSLATION
+ POTEF753_desc: "S Ruskem na naší straně můžeme opevnit rozsáhlé východní pobřeží Federace." # todo: NEW TRANSLATION
+ POTEF800: "Pax Europaea" # todo: NEW TRANSLATION
+ POTEF800_desc: "Evropská federace musí stát se globální supervelmocí, která bude prosazovat světový mír." # todo: NEW TRANSLATION
+ POTEF_pax_europaea: "Pax Europaea" # todo: NEW TRANSLATION
+ POTEF_pax_europaea_desc: "Evropská federace se stala globální supervelmocí a udržuje světový mír." # todo: NEW TRANSLATION
+ EDU_major_non_EU_ally: "Hlavní spojenec EDU mimo EU" # todo: NEW TRANSLATION
+ EDU_major_non_EU_ally_desc: "Aby členové §YEvropské unie§! dosáhli nezávislosti na obranu svých společných zájmů, reagovali na externí konflikty a krize a projekci bezpečnosti ve svém sousedství, rozhodli se vytvořit §YEvropskou obrannou unii (EDU)§! jako vojenskou alianci. Původně byla zřízena pro obranu Evropy; EDU navázala spojení s dalšími zeměmi mimo EU, aby chránila své společné zájmy a udržovala mír." # todo: NEW TRANSLATION
+ EU_nato_legacy: "Dědictví NATO" # todo: NEW TRANSLATION
+ EU_nato_legacy_desc: "Doba NATO skončila. Nyní nastává čas nové evropské aliance. Přesto budeme udržovat dobré vztahy s §Y[USA.GetNameWithFlag]§! a oni se dokonce stanou §YHlavní spojenec EDU mimo EU§!." # todo: NEW TRANSLATION
+ EU_mountain_warfare: "Alpská doktrína" # todo: NEW TRANSLATION
+ EU_mountain_warfare_desc: "The Alpine nations of §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horského boje. S Alpskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ EU_extensive_mountain_warfare: "Rozšířená alpská doktrína" # todo: NEW TRANSLATION
+ EU_extensive_mountain_warfare_desc: "The Alpine nations of §Y[AUS.GetNameWithFlag]§! a §Y[SWI.GetNameWithFlag]§! mají dlouhou tradici horského boje. S Rozšířenou alpskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_armoured_warfare: "Doktrína obrněné války" # todo: NEW TRANSLATION
+ POTEF_armoured_warfare_desc: "§Y[GER.GetNameWithFlag]§! byl tradičně zaměřen na silné obrněné síly. S Doktrínou obrněné války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_leopard_doctrine: "Leopard doktrína" # todo: NEW TRANSLATION
+ POTEF_leopard_doctrine_desc: "§Y[GER.GetNameWithFlag]§! byl tradičně zaměřen na silné obrněné síly. S Leopard doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ EU_french_doctrine: "Doktrína manévrovací války" # todo: NEW TRANSLATION
+ EU_french_doctrine_desc: "§Y[FRA.GetNameWithFlag]§! bylo tradičně zaměřeno na vysoce mobilní lehkou obrněnou a motorizovanou sílu. S Doktrínou manévrovací války mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ EU_extensive_french_doctrine: "Doktrína flexibilních sil" # todo: NEW TRANSLATION
+ EU_extensive_french_doctrine_desc: "§Y[FRA.GetNameWithFlag]§! bylo tradičně zaměřeno na vysoce mobilní lehkou obrněnou a motorizovanou sílu. S Doktrínou flexibilních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_air_mobile_doctrine: "Letecká mobilní doktrína" # todo: NEW TRANSLATION
+ POTEF_air_mobile_doctrine_desc: "Po studené válce §Ythe Low Countries§! se zaměřily na letecké mobilní síly, aby vyhověly nové situaci. S Leteckou mobilní doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF_airborne_doctrine: "Padáková doktrína" # todo: NEW TRANSLATION
+ POTEF_airborne_doctrine_desc: "Po studené válce §Ythe Low Countries§! se zaměřily na vzdušně mobilní síly, aby vyhověly nové situaci. S Padákovou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ EU_nordic_doctrine: "Severská doktrína" # todo: NEW TRANSLATION
+ EU_nordic_doctrine_desc: "§YSkandinávské země§! tradičně zaměřovaly na boj v Arktidě. S Severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ EU_extensive_nordic_doctrine: "Rozšířená severská doktrína" # todo: NEW TRANSLATION
+ EU_extensive_nordic_doctrine_desc: "§YSkandinávské země§! tradičně zaměřovaly na boj v Arktidě. S Rozšířenou severskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_empire_of_trade: "Obchodní impérium" # todo: NEW TRANSLATION
+ POTEF_empire_of_trade_desc: "Evropská federace je obchodní impérium." # todo: NEW TRANSLATION
+ POTEF_empire_of_trade_2: "Globální obchodní impérium" # todo: NEW TRANSLATION
+ POTEF_empire_of_trade_2_desc: "Evropská federace je globální obchodní impérium." # todo: NEW TRANSLATION
+ POTEF_liberal_legacy: "Liberální tradice" # todo: NEW TRANSLATION
+ POTEF_liberal_legacy_desc: "Evropská federace ctí svou liberální tradici." # todo: NEW TRANSLATION
+ POTEF_liberal_legacy_2: "Liberální odkaz" # todo: NEW TRANSLATION
+ POTEF_liberal_legacy_2_desc: "Evropská federace ctí svůj liberální odkaz." # todo: NEW TRANSLATION
+ POTEF_empire_of_freedom: "Impérium svobody" # todo: NEW TRANSLATION
+ POTEF_empire_of_freedom_desc: "Evropská federace je impériem svobody." # todo: NEW TRANSLATION
+ POTEF_empire_of_freedom_2: "Globální impérium svobody" # todo: NEW TRANSLATION
+ POTEF_empire_of_freedom_2_desc: "Evropská federace je globálním impériem svobody." # todo: NEW TRANSLATION
+ POTEF_marine_doctrine: "Doktrína námořní pěchoty" # todo: NEW TRANSLATION
+ POTEF_marine_doctrine_desc: "§YIberijské země§! byly tradičně zaměřeny na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_extensive_marine_doctrine: "Rozšířená doktrína námořní pěchoty" # todo: NEW TRANSLATION
+ POTEF_extensive_marine_doctrine_desc: "§YIberijské země§! byly tradičně zaměřeny na silné námořní síly. S Doktrínou námořní pěchoty mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_partisan_doctrine: "Partyzánská doktrína" # todo: NEW TRANSLATION
+ POTEF_partisan_doctrine_desc: "The §Ybalkánské země§! tradičně se zaměřovaly na partyzánské síly. S Partyzánskou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_counter_insurgency_doctrine: "Doktrína proti povstaleckým silám" # todo: NEW TRANSLATION
+ POTEF_counter_insurgency_doctrine_desc: "The §Ybalkánské země§! tradičně zaměřovaly na partyzánské síly. S Doktrínou proti povstaleckým silám mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_anti_air_doctrine: "Protivzdušná doktrína" # todo: NEW TRANSLATION
+ POTEF_anti_air_doctrine_desc: "After the Cold War země Černého moře se soustředily na mobilní protivzdušné síly, aby vyhověly nové situaci. S Protivzdušnou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF_extensive_anti_air_doctrine: "Doktrína mobilní protivzdušné obrany" # todo: NEW TRANSLATION
+ POTEF_extensive_anti_air_doctrine_desc: "After the Cold War země Černého moře se zaměřily na mobilní protivzdušné síly, aby vyhověly nové situaci. S Doktrínou mobilní protivzdušné obrany mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF_artillery_doctrine: "Dělostřelecká doktrína" # todo: NEW TRANSLATION
+ POTEF_artillery_doctrine_desc: "The §YZemě Visegrádu§! tradičně se zaměřovaly na silné dělostřelecké síly. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_extensive_artillery_doctrine: "Rozsáhlá dělostřelecká doktrína" # todo: NEW TRANSLATION
+ POTEF_extensive_artillery_doctrine_desc: "The §YZemě Visegrádu§! tradičně se zaměřovaly na silné dělostřelecké síly. S Dělostřeleckou doktrínou mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_defense_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
+ POTEF_defense_doctrine_desc: "After the Cold War the §Yzemě Kavkazu§! měly důraz na silnou obranu, aby vyhověly nové situaci. S Obrannou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF_extensive_defense_doctrine: "Rozsáhlá obranná doktrína" # todo: NEW TRANSLATION
+ POTEF_extensive_defense_doctrine_desc: "Po studené válce země Kavkazu se zaměřily na silnou obranu, aby vyhověly nové situaci. S Rozsáhlou obrannou doktrínou mohou všechny členské státy přijmout tuto taktiku." # todo: NEW TRANSLATION
+ POTEF_special_forces_doctrine: "Doktrína speciálních sil" # todo: NEW TRANSLATION
+ POTEF_special_forces_doctrine_desc: "The §YBaltské země§! tradičně kladly důraz na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_extensive_special_forces_doctrine: "Rozsáhlá doktrína speciálních sil" # todo: NEW TRANSLATION
+ POTEF_extensive_special_forces_doctrine_desc: "The §YBaltské země§! tradičně kladly důraz na malé a vysoce schopné speciální síly. S Doktrínou speciálních sil mohou všechny členské státy přijmout tuto tradici a taktiky." # todo: NEW TRANSLATION
+ POTEF_mass_drone_production: "Zaměření na výrobu dronů" # todo: NEW TRANSLATION
+ POTEF_mass_drone_production_desc: "Válka dronů je novou tváří moderního boje." # todo: NEW TRANSLATION
+ POTEF_extensive_mass_drone_production: "Hromadná výroba dronů" # todo: NEW TRANSLATION
+ POTEF_extensive_mass_drone_production_desc: "Válka dronů je novou tváří moderního boje." # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_decision: "Požadovat environmentální reformy" # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_decision_desc: "We need to save the planet. If §Y[FROM.GetNameWithFlag]§! doesn't do the necessary §GEnvironmentální reformy§! by themselves, we need to force them to do so. They need to have at least one §YRafinérie biopaliv§! for every state they own. If §Y[FROM.GetNameWithFlag]§! doesn't fulfill our demands within a month, we will impose §REnvironmentální sankce§! on them." # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_target: "Požadovány environmentální reformy" # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_mission: "Environmentální reformy" # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_mission_desc: "§YEvropa§! vyžaduje §GEnvironmentální reformy§! od nás, abychom zachránili planetu. Pokud nepostavíme nebo nepřestavíme alespoň jednu §YRafinérie biopaliv§! pro každý stát, který vlastníme, do měsíce, uvalí na nás §REnvironmentální sankce§!." # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_restructure_industry_decision: "Green Energy Reconstruction" # todo: NEW TRANSLATION
+ EU_POTEF_environmental_imperialism_restructure_industry_decision_desc: "Abychom splnili požadavky §GEnvironmentální reformy§! Evropské unie, musíme přestavět část našeho §Ycivilního průmyslu§! na výrobce obnovitelné energie (§Ybiopalivová rafinerie§!)." # todo: CHANGED
+ EU_POTEF_break_environmental_sanctions_decision: "Zrušit environmentální sankce" # todo: NEW TRANSLATION
+ EU_POTEF_break_environmental_sanctions_decision_desc: "Evropské sankce environmentální byly na nás uvaleny. Musíme je prolomit všemi prostředky - politickými i vojenskými. Ale to dá [FROM.GetNameWithFlag] válečný cíl proti nám. Proto musíme navázat alianci s dalšími zeměmi sankcionovanými [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
+ EU_POTEF_call_all_major_non_EU_ally: "Vyvolejte všechny hlavní ne-EU spojence EDU" # todo: NEW TRANSLATION
+ EU_POTEF_call_all_major_non_EU_ally_desc: "EDU je napadena. Je na čase aktivovat obranné spojenectví a vyvolat všechny ne-EU EDU spojence." # todo: NEW TRANSLATION
+ EU_POTEF_call_major_non_EU_ally: "Zavolejte [FROM.GetName] do EDU" # todo: NEW TRANSLATION
+ EU_POTEF_call_major_non_EU_ally_desc: "Zavolejte hlavního ne-EU spojence EDU §Y[FROM.GetNameWithFlag]§!." # todo: NEW TRANSLATION
+ focus_POTEF301_effect_tt: "Každý člen Evropské unie zlepší názor o +25§! se všemi latinskými zeměmi.\n" # todo: NEW TRANSLATION
+ focus_POTEF502_effect_tt: "Každý člen Evropské unie bude §Gzlepšovat názor o +30§! s následujícími zeměmi: [KAZ.GetNameWithFlag], [KYR.GetNameWithFlag], [TAJ.GetNameWithFlag], [UZB.GetNameWithFlag], [TRK.GetNameWithFlag], [PER.GetNameWithFlag], [TUR.GetNameWithFlag], [GRE.GetNameWithFlag].\nTaké [CHI.GetFlag][CHI.GetAdjective] vliv bude §Gsnížen§! v těchto zemích.\n" # todo: NEW TRANSLATION
+ tooltip_focus_POTEF203_trigger: "Is in faction §YEuropean Defense Union§!" # todo: NEW TRANSLATION
+ tooltip_focus_POTEF205_trigger: "[USA.conservatism_L] vládnoucí strana" # todo: NEW TRANSLATION
+ tooltip_focus_POTEF206_trigger: "Focus §YMexico§! byl dokončen" # todo: NEW TRANSLATION
+ EU_annexed_SOV_minion: "Evropská federace anektovala ruského poskoka" # todo: NEW TRANSLATION
+ CSCE_peace_talks: "CSCE mírové rozhovory" # todo: NEW TRANSLATION
+ commonwealth_legacy: "Dědictví Commonwealthu" # todo: NEW TRANSLATION
+ contest_silk_road: "Soutěž o Hedvábnou stezku" # todo: NEW TRANSLATION
+ latin_cousins: "Latinskí příbuzní" # todo: NEW TRANSLATION
+ historical_friends_HKG: "Britský zámořský občan" # todo: NEW TRANSLATION
+ breach_of_Sino_British_Joint_Declaration: "Porušení Sino-britské společné deklarace" # todo: NEW TRANSLATION
+ EU_POTEF_call_election: "Vyvolejte volby POTEF" # todo: NEW TRANSLATION
+ EU_POTEF_call_election_desc: "S vznikem Evropské federace se funkce prezidenta Evropské federace (POTEF) vyvinula z rotujícího předsednictví Rady Evropské unie. Aby POTEF získal demokratickou legitimitu nadřazenou rotujícímu předsednictví, bylo ve smlouvách stanoveno, že POTEF musí být volen lidmi a že jeho funkční období závisí na dosažené většině.\n\nMomentálně neexistuje žádný funkční prezident POTEF, takže je potřeba vyhlásit volby, aby bylo prázdné místo obsazeno." # todo: NEW TRANSLATION
+ EU_POTEF_nominee: "Prohlaste [ROOT.GetLeader] za nominanta POTEF voleb" # todo: NEW TRANSLATION
+ EU_POTEF_nominee_desc: "Prohlaste [ROOT.GetLeader] za kandidáta POTEF voleb." # todo: NEW TRANSLATION
+ POTEF_has_nominated: "Byl vyhlášen kandidát POTEF" # todo: NEW TRANSLATION
+ EU_POTEF_election_campaign: "Volební kampaň POTEF" # todo: CHANGED
+ EU_POTEF_election_campaign_desc: "Závod o funkci prezidenta Evropské federace začal. Kandidáti vedou kampaň ve členském státě, aby byli zvoleni jako další prezident Evropské federace (POTEF)." # todo: NEW TRANSLATION
+ EU_POTEF_term: "Čas do příští POTEF volební kampaně" # todo: NEW TRANSLATION
+ EU_POTEF_term_desc: "Čas do příští volební kampaně prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
+ EU_POTEF_show_election_polls: "Zobrazit POTEF volební průzkumy" # todo: NEW TRANSLATION
+ EU_POTEF_show_election_polls_desc: "Zobrazit průzkumy pro volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
+ EU_POTEF_hide_election_polls: "Skrýt POTEF volební průzkumy" # todo: NEW TRANSLATION
+ EU_POTEF_hide_election_polls_desc: "Skrýt průzkumy pro volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
+ EU_POTEF_campaign_in_member_state: "Kampaň POTEF ve státě [FROM.GetName]" # todo: NEW TRANSLATION
+ EU_POTEF_campaign_in_member_state_desc: "[ROOT.GetLeader] zahájí kampaň POTEF ve státě [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
+ EU_POTEF_news.1.t: "[FROM.GetLeader] is nominee for POTEF elections" # todo: NEW TRANSLATION
+ EU_POTEF_news.1.d: "[FROM.GetLeader] vedoucí [FROM.GetNameWithFlag] byl prohlášen za kandidáta na volby prezidenta Evropské federace (POTEF)." # todo: NEW TRANSLATION
+ EU_POTEF_news.1.a: "Dobře" # todo: NEW TRANSLATION
+ EU_POTEF_news.2.t: "Výsledek voleb POTEF [GetYear]" # todo: NEW TRANSLATION
+ EU_POTEF_news.2.d: "Vůdce [FROM.GetNameWithFlag] [FROM.GetLeader] vyhrál volby prezidenta Evropské federace (POTEF). Jako prezident POTEF bude řídit Evropskou federaci po následujících [?FROM.POTEF_years|0] rok(y)." # todo: NEW TRANSLATION
+ EU_POTEF_news.2.a: "Dobře" # todo: NEW TRANSLATION
+ EU_POTEF_news.5.t: "[FROM.GetLeader] kampaň ve státě [FROM.GetNameWithFlag] byla úspěšná" # todo: NEW TRANSLATION
+ EU_POTEF_news.5.d: "Kampaň [FROM.GetLeader] ve státě [FROM.GetNameWithFlag] pro volby prezidenta Evropské federace (POTEF) byla úspěšná." # todo: NEW TRANSLATION
+ EU_POTEF_news.5.a: "Dobře" # todo: NEW TRANSLATION
+ EU_POTEF_news.6.t: "[FROM.GetLeader] kampaň ve státě [FROM.GetNameWithFlag] nebyla úspěšná" # todo: NEW TRANSLATION
+ EU_POTEF_news.6.d: "Kampaň [FROM.GetLeader] ve státě [FROM.GetNameWithFlag] pro volby prezidenta Evropské federace (POTEF) nebyla úspěšná." # todo: NEW TRANSLATION
+ EU_POTEF_news.6.a: "Dobře" # todo: NEW TRANSLATION
+ EU_POTEF_trigger_test_1_desc: "[POTEF_polls_loc]" # todo: NEW TRANSLATION
+ tooltip_EU_POTEF_nominee_trigger: "[ROOT.GetNameWithFlag] je jedním ze tří nejvlivnějších hráčů ve všech členských státech se stejnou vládnoucí stranou." # todo: NEW TRANSLATION
+ tooltip_EU_POTEF_nominee_trigger_2: "Strana [ROOT.GetLeader] dosud nevyhlásila kandidáta na prezidenta Evropské federace (POTEF) voleb." # todo: NEW TRANSLATION
+ tooltip_EU_POTEF_campaign_in_member_state_effect: "Šance na zvýšení popularity politické skupiny podporující [ROOT.GetLeader] o cca 5 % ve [FROM.GetNameWithFlag]. Šance závisí na §Yvlivu§! [ROOT.GetNameWithFlag] na [FROM.GetNameWithFlag], §Yeuroskepticismus§!, §Yvládnoucí strana§! a §YPOTEF kandidát§! [FROM.GetNameWithFlag]." # todo: NEW TRANSLATION
+ show_POTEF_polls_loc_key: "Průzkumy POTEF:\nVětšinové volební období:\n§Y5leté období§!: §Gabsolutní§! většina lidového hlasování §GA§! vítězství členských států\n§Y3leté období§!: jedna §Gabsolutní§! a jedna §Orelativní§! většina\n§Y2leté období§!: §Orelativní§! většina lidového hlasování §O A§! vítězství členských států\n§Y1leté období§!: §Orelativní§! většina lidového hlasování\n\nCelkový počet hlasů: [?global.POTEF_pop_vote_total|Y0]§YK§!\nPolitická skupina: §YLidové hlasování§! - §CPoměr lidového hlasování§! - §GVítězství členských států§! - §YNominant§!\n\n[EU_POTEF_party_0]\n[EU_POTEF_party_1]\n[EU_POTEF_party_2]\n[EU_POTEF_party_3]\n[EU_POTEF_party_4]\n[EU_POTEF_party_5]\n[EU_POTEF_party_6]\n[EU_POTEF_party_7]\n[EU_POTEF_party_8]\n[EU_POTEF_party_9]\n[EU_POTEF_party_10]\n[EU_POTEF_party_11]\n[EU_POTEF_party_12]\n[EU_POTEF_party_13]\n[EU_POTEF_party_14]\n[EU_POTEF_party_15]\n[EU_POTEF_party_16]\n[EU_POTEF_party_17]\n[EU_POTEF_party_18]\n[EU_POTEF_party_19]\n[EU_POTEF_party_20]\n[EU_POTEF_party_21]\n[EU_POTEF_party_22]\n[EU_POTEF_party_23]\n" # todo: CHANGED
+ hide_POTEF_polls_loc_key: "" # todo: NEW TRANSLATION
+ EU_POTEF_party_0_loc_key: "[EU_parl_PG_party_0_icon] [EU_parl_PG_party_0_short_name]: [?global.POTEF_pop_vote^0|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^0|C2%] - [?global.POTEF_winner^0|G0][EU_POTEF_party_0_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_1_loc_key: "[EU_parl_PG_party_1_icon] [EU_parl_PG_party_1_short_name]: [?global.POTEF_pop_vote^1|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^1|C2%] - [?global.POTEF_winner^1|G0][EU_POTEF_party_1_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_2_loc_key: "[EU_parl_PG_party_2_icon] [EU_parl_PG_party_2_short_name]: [?global.POTEF_pop_vote^2|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^2|C2%] - [?global.POTEF_winner^2|G0][EU_POTEF_party_2_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_3_loc_key: "[EU_parl_PG_party_3_icon] [EU_parl_PG_party_3_short_name]: [?global.POTEF_pop_vote^3|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^3|C2%] - [?global.POTEF_winner^3|G0][EU_POTEF_party_3_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_4_loc_key: "[EU_parl_PG_party_4_icon] [EU_parl_PG_party_4_short_name]: [?global.POTEF_pop_vote^4|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^4|C2%] - [?global.POTEF_winner^4|G0][EU_POTEF_party_4_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_5_loc_key: "[EU_parl_PG_party_5_icon] [EU_parl_PG_party_5_short_name]: [?global.POTEF_pop_vote^5|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^5|C2%] - [?global.POTEF_winner^5|G0][EU_POTEF_party_5_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_6_loc_key: "[EU_parl_PG_party_6_icon] [EU_parl_PG_party_6_short_name]: [?global.POTEF_pop_vote^6|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^6|C2%] - [?global.POTEF_winner^6|G0][EU_POTEF_party_6_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_7_loc_key: "[EU_parl_PG_party_7_icon] [EU_parl_PG_party_7_short_name]: [?global.POTEF_pop_vote^7|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^7|C2%] - [?global.POTEF_winner^7|G0][EU_POTEF_party_7_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_8_loc_key: "[EU_parl_PG_party_8_icon] [EU_parl_PG_party_8_short_name]: [?global.POTEF_pop_vote^8|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^8|C2%] - [?global.POTEF_winner^8|G0][EU_POTEF_party_8_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_9_loc_key: "[EU_parl_PG_party_9_icon] [EU_parl_PG_party_9_short_name]: [?global.POTEF_pop_vote^9|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^9|C2%] - [?global.POTEF_winner^9|G0][EU_POTEF_party_9_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_10_loc_key: "[EU_parl_PG_party_10_icon] [EU_parl_PG_party_10_short_name]: [?global.POTEF_pop_vote^10|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^10|C2%] - [?global.POTEF_winner^10|G0][EU_POTEF_party_10_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_11_loc_key: "[EU_parl_PG_party_11_icon] [EU_parl_PG_party_11_short_name]: [?global.POTEF_pop_vote^11|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^11|C2%] - [?global.POTEF_winner^11|G0][EU_POTEF_party_11_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_12_loc_key: "[EU_parl_PG_party_12_icon] [EU_parl_PG_party_12_short_name]: [?global.POTEF_pop_vote^12|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^12|C2%] - [?global.POTEF_winner^12|G0][EU_POTEF_party_12_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_13_loc_key: "[EU_parl_PG_party_13_icon] [EU_parl_PG_party_13_short_name]: [?global.POTEF_pop_vote^13|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^13|C2%] - [?global.POTEF_winner^13|G0][EU_POTEF_party_13_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_14_loc_key: "[EU_parl_PG_party_14_icon] [EU_parl_PG_party_14_short_name]: [?global.POTEF_pop_vote^14|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^14|C2%] - [?global.POTEF_winner^14|G0][EU_POTEF_party_14_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_15_loc_key: "[EU_parl_PG_party_15_icon] [EU_parl_PG_party_15_short_name]: [?global.POTEF_pop_vote^15|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^15|C2%] - [?global.POTEF_winner^15|G0][EU_POTEF_party_15_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_16_loc_key: "[EU_parl_PG_party_16_icon] [EU_parl_PG_party_16_short_name]: [?global.POTEF_pop_vote^16|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^16|C2%] - [?global.POTEF_winner^16|G0][EU_POTEF_party_16_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_17_loc_key: "[EU_parl_PG_party_17_icon] [EU_parl_PG_party_17_short_name]: [?global.POTEF_pop_vote^17|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^17|C2%] - [?global.POTEF_winner^17|G0][EU_POTEF_party_17_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_18_loc_key: "[EU_parl_PG_party_18_icon] [EU_parl_PG_party_18_short_name]: [?global.POTEF_pop_vote^18|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^18|C2%] - [?global.POTEF_winner^18|G0][EU_POTEF_party_18_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_19_loc_key: "[EU_parl_PG_party_19_icon] [EU_parl_PG_party_19_short_name]: [?global.POTEF_pop_vote^19|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^19|C2%] - [?global.POTEF_winner^19|G0][EU_POTEF_party_19_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_20_loc_key: "[EU_parl_PG_party_20_icon] [EU_parl_PG_party_20_short_name]: [?global.POTEF_pop_vote^20|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^20|C2%] - [?global.POTEF_winner^20|G0][EU_POTEF_party_20_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_21_loc_key: "[EU_parl_PG_party_21_icon] [EU_parl_PG_party_21_short_name]: [?global.POTEF_pop_vote^21|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^21|C2%] - [?global.POTEF_winner^21|G0][EU_POTEF_party_21_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_22_loc_key: "[EU_parl_PG_party_22_icon] [EU_parl_PG_party_22_short_name]: [?global.POTEF_pop_vote^22|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^22|C2%] - [?global.POTEF_winner^22|G0][EU_POTEF_party_22_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_23_loc_key: "[EU_parl_PG_party_23_icon] [EU_parl_PG_party_23_short_name]: [?global.POTEF_pop_vote^23|Y0]§YK§! - [?global.POTEF_pop_vote_ratio^23|C2%] - [?global.POTEF_winner^23|G0][EU_POTEF_party_23_nominee]\n" # todo: CHANGED
+ EU_POTEF_party_0_nominee_loc_key: " - [?global.POTEF_nominee_country^0.GetFlag] §Y[?global.POTEF_nominee_country^0.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_1_nominee_loc_key: " - [?global.POTEF_nominee_country^1.GetFlag] §Y[?global.POTEF_nominee_country^1.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_2_nominee_loc_key: " - [?global.POTEF_nominee_country^2.GetFlag] §Y[?global.POTEF_nominee_country^2.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_3_nominee_loc_key: " - [?global.POTEF_nominee_country^3.GetFlag] §Y[?global.POTEF_nominee_country^3.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_4_nominee_loc_key: " - [?global.POTEF_nominee_country^4.GetFlag] §Y[?global.POTEF_nominee_country^4.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_5_nominee_loc_key: " - [?global.POTEF_nominee_country^5.GetFlag] §Y[?global.POTEF_nominee_country^5.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_6_nominee_loc_key: " - [?global.POTEF_nominee_country^6.GetFlag] §Y[?global.POTEF_nominee_country^6.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_7_nominee_loc_key: " - [?global.POTEF_nominee_country^7.GetFlag] §Y[?global.POTEF_nominee_country^7.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_8_nominee_loc_key: " - [?global.POTEF_nominee_country^8.GetFlag] §Y[?global.POTEF_nominee_country^8.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_9_nominee_loc_key: " - [?global.POTEF_nominee_country^9.GetFlag] §Y[?global.POTEF_nominee_country^9.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_10_nominee_loc_key: " - [?global.POTEF_nominee_country^10.GetFlag] §Y[?global.POTEF_nominee_country^10.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_11_nominee_loc_key: " - [?global.POTEF_nominee_country^11.GetFlag] §Y[?global.POTEF_nominee_country^11.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_12_nominee_loc_key: " - [?global.POTEF_nominee_country^12.GetFlag] §Y[?global.POTEF_nominee_country^12.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_13_nominee_loc_key: " - [?global.POTEF_nominee_country^13.GetFlag] §Y[?global.POTEF_nominee_country^13.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_14_nominee_loc_key: " - [?global.POTEF_nominee_country^14.GetFlag] §Y[?global.POTEF_nominee_country^14.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_15_nominee_loc_key: " - [?global.POTEF_nominee_country^15.GetFlag] §Y[?global.POTEF_nominee_country^15.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_16_nominee_loc_key: " - [?global.POTEF_nominee_country^16.GetFlag] §Y[?global.POTEF_nominee_country^16.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_17_nominee_loc_key: " - [?global.POTEF_nominee_country^17.GetFlag] §Y[?global.POTEF_nominee_country^17.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_18_nominee_loc_key: " - [?global.POTEF_nominee_country^18.GetFlag] §Y[?global.POTEF_nominee_country^18.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_19_nominee_loc_key: " - [?global.POTEF_nominee_country^19.GetFlag] §Y[?global.POTEF_nominee_country^19.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_20_nominee_loc_key: " - [?global.POTEF_nominee_country^20.GetFlag] §Y[?global.POTEF_nominee_country^20.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_21_nominee_loc_key: " - [?global.POTEF_nominee_country^21.GetFlag] §Y[?global.POTEF_nominee_country^21.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_22_nominee_loc_key: " - [?global.POTEF_nominee_country^22.GetFlag] §Y[?global.POTEF_nominee_country^22.GetLeader]§!" # todo: CHANGED
+ EU_POTEF_party_23_nominee_loc_key: " - [?global.POTEF_nominee_country^23.GetFlag] §Y[?global.POTEF_nominee_country^23.GetLeader]§!" # todo: CHANGED
+ EFS_flag_category: "Změna vlajky Evropské federace" # todo: NEW TRANSLATION
+ EFS_flag_category_desc: "S vznikem Evropské federace se členské státy rozhodly přijmout nové vlajky se společným evropským vzorem." # todo: NEW TRANSLATION
+ EFS_update_flag: "Změna vlajek Evropské federace" # todo: NEW TRANSLATION
+ EFS_update_flag_desc: "Změňte vlajky na společný evropský vzor jako Evropský federální stát." # todo: NEW TRANSLATION
+ USoE_Flag_Reset_Flag_category: "Vlajka USoE" # todo: NEW TRANSLATION
+ USoE_Flag_Reset_Flag_category_desc: "" # todo: NEW TRANSLATION
+ USoE_reset_flag: "Obnovit USoE vlajku" # todo: NEW TRANSLATION
+ USoE_reset_flag_desc: "Změňte vlajku USoE na standardní vlajku EU (nelze vrátit zpět)." # todo: NEW TRANSLATION

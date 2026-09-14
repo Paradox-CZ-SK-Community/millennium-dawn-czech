@@ -1,187 +1,238 @@
 ﻿l_english:
-  TT_OEF_SPENDING_REQUIREMENT: "Potřebujeme alespoň $0.5 §Hmiliarda§! ve naší pokladně!" # todo: NEW TRANSLATION
-  TT_REDUCE_RULING_COALITION_POPULARITY_10_PERCENT: "§RVládní koalice a všichni členové koalice ztratí 10% relativní popularitu!\n§!" # todo: NEW TRANSLATION
-  TT_OEF_INCREASED_CHANCE_OF_DETECTING_TERRORISTS: "§GTo zvýší pravděpodobnost odhalení teroristického spiknutí!\n§!" # todo: NEW TRANSLATION
-  TT_OEF_RAISE_POPULARITIES: "Zvyšte popularitu §HVládní koalice§! o 10% a popularitu hlavní §HOpoziční strana§! o 5%" # todo: NEW TRANSLATION
-  TT_OEF_LOWER_POPULARITIES: "Snižte popularitu §HVládní koalice§! o 5% a popularitu hlavní §HOpoziční strana§! o 10%" # todo: NEW TRANSLATION
-  TT_OEF_WAR_ON_TERROR_SPEECH_HELD: "Projev k Válce proti terorismu byl uspořádán" # todo: NEW TRANSLATION
-  USA_enduring_freedom: "Operation Enduring Freedom" # todo: NEW TRANSLATION
-  USA_iraqi_freedom: "Operation Iraqi Freedom" # todo: NEW TRANSLATION
-  TT_AFGHANISTAN_NEW_ADMINISTRATION_KARZAI: "Zřídte pro-západní vládu vedenou populárním kandidátem. §RTo rozčílí konzervativnější obyvatelstvo!§!\n" # todo: NEW TRANSLATION
-  TT_AFGHANISTAN_NEW_ADMINISTRATION_RABBANI: "Založte nezařazenou vládu vedenou konzervativním kandidátem.\n" # todo: NEW TRANSLATION
-  TT_AFGHANISTAN_NEW_ADMINISTRATION_MASSOUD: "Založte nezařazenou vládu vedenou válečným hrdinou. §GTo přinese stabilitu Afghánistánu!§!\n" # todo: NEW TRANSLATION
-  TT_AFGHANISTAN_NEW_ADMINISTRATION_ZAHIR_SHAH: "Obnovte Království Afghánistánu. §RTo výrazně naštve konzervativnější obyvatelstvo a poškodí naše vztahy s Pákistánem!§!\n" # todo: NEW TRANSLATION
-  USA_911_happened: "Došlo k masivnímu teroristickému útoku." # todo: NEW TRANSLATION
-  guantanamo_bay_detention_center_established: "Založeno §YGuantánamo Bay§! Detenční středisko" # todo: NEW TRANSLATION
-  asia_influencer: "Má vliv na jakoukoli asijskou zemi" # todo: NEW TRANSLATION
-  middle_east_influencer: "Má vliv na kteroukoliv zemi Blízkého východu" # todo: NEW TRANSLATION
-  africa_influencer: "Má vliv na jakoukoli africkou zemi" # todo: NEW TRANSLATION
-  war_on_terror_category: "OEF a Válka proti terorismu" # todo: NEW TRANSLATION
-  war_on_terror_category_desc: "Operace Enduring Freedom (OEF) je oficiální název používaný americkou vládou pro Globální válku proti terorismu. Tato strategie cílí na teroristické organizace v cizích zemích a USA jí umožňuje zasahovat proti teroristům a jejich spojencům bez trestního postihu." # todo: NEW TRANSLATION
-  KUR_war_on_terror_category: "Operace Irácká svoboda" # todo: NEW TRANSLATION
-  KUR_war_on_terror_category_desc: "Spojené státy zahájily Operaci Irácká svoboda, invazi do Iráku. Je to šance pro nás zaútočit na [IRQ.GetLeader] a dále se distancovat od iráckého jha." # todo: NEW TRANSLATION
-  usa_increase_intelligence_spending: "Zvýšit výdaje na zpravodajské služby" # todo: NEW TRANSLATION
-  usa_increase_intelligence_spending_desc: "Máme rozptýlené zprávy o nadcházejícím vážném teroristickém útoku. V současné době nemáme nástroje, jak tuto hrozbu účinně čelit. Musíme rozšířit financování zpravodajských služeb a zvýšit dozorová práva FBI a CIA. Bude to politicky nákladné, ale bezpečnost naší země je v ohrožení." # todo: NEW TRANSLATION
-  usa_demand_extradition_of_bin_laden: "Požadovat vydání Usáma bin Ládina" # todo: NEW TRANSLATION
-  usa_demand_extradition_of_bin_laden_desc: "Podle našich zpravodajských informací byl Usáma bin Ládin hlavní silou za nedávným teroristickým útokem. Co se týče nás, v současnosti pobývá v Afghánistánu, pod ochranou Talibánu. Měli bychom kontaktovat Talibán a požadovat, aby ukončili své vazby s Al-Káidou a vydali nám bin Ládina." # todo: NEW TRANSLATION
-  usa_operation_enduring_freedom: "Proveďte Operaci Enduring Freedom (OEF)" # todo: NEW TRANSLATION
-  usa_operation_enduring_freedom_desc: "Talibané odmítli vydat nám bin Ládina, takže si ho musíme vzít sami. Musíme připravit Operaci Enduring Freedom, která nám umožní poslat vybavení a nasadit vojáky na afghánistánskou půdu." # todo: NEW TRANSLATION
-  usa_homeland_security_act: "Zřídit Ministerstvo vnitřní bezpečnosti" # todo: NEW TRANSLATION
-  usa_homeland_security_act_desc: "Administrace navrhla myšlenku nového ministerstva, 'Ministerstvo vnitřní bezpečnosti USA'. Ministerstvo vnitřní bezpečnosti má absorbovat 22 federálních úřadů a kanceláří, včetně Federálního úřadu pro zvládání mimořádných situací.\n\nSe sídlem v komplexu Nebraska Avenue bude Ministerstvo vnitřní bezpečnosti mít za úkol chránit Spojené státy americké a jejich spojence před zahraničními subverzními hrozbami, primárně z terorismu. Ostatní země většinou svěřují tuto úlohu ministerstvu vnitra, ale americká verze ji očividně neplní." # todo: NEW TRANSLATION
-  usa_setup_new_administration_in_afghanistan: "Zřídit novou administrativu v Afghánistánu" # todo: NEW TRANSLATION
-  usa_setup_new_administration_in_afghanistan_desc: "Nyní, když Taliban byl poražen, musíme nastavit novou administrativu. Existuje několik možností, kdo by měl být vůdcem Afghánistánu." # todo: NEW TRANSLATION
-  usa_create_guantanamo_bay: "Založte detenční středisko Guantánamo Bay" # todo: NEW TRANSLATION
-  usa_create_guantanamo_bay_desc: "Aby bylo možné řešit budoucí podezřelé či prokázané teroristy, bude americká vláda a tajné služby potřebovat řádný a zabezpečený vězení, které nezatíží americké občany v případě vzpoury ve věznici či útěku. Taková lokalita by měla být ideálně na ostrově, který hostí i nepřátelskou vládu sledující hranici našeho území, a taková dohoda existuje na Kubě, kde USA drží pronájem (který kubánská vláda již neuznává) na oblast Guantánamo Bay Naval Base od roku 1903, pronájem, který byl poté na neurčito prodloužen v roce 1934.\n\nDále, další výhodou této lokace je, že Guantánamo Bay není stát ani území USA, což znamená, že americké právo a dokonce i ústava USA se tam nemusí nutně vztahovat. To poskytne CIA zajímavé možnosti..." # todo: NEW TRANSLATION
-  usa_petition_invasion_of_iraq: "Žádat OSN o schválení invaze Iráku" # todo: NEW TRANSLATION
-  usa_petition_invasion_of_iraq_desc: "Víme, že [IRQ.GetLeader] má zbraně hromadného ničení. Musíme žádat OSN, aby nám umožnila jeho odstranění. To je pro dobro světa a iráckého lidu." # todo: NEW TRANSLATION
-  usa_run_war_support_campaign_against_iraq: "Spusťte kampaň na podporu války proti invazi do Iráku" # todo: NEW TRANSLATION
-  usa_run_war_support_campaign_against_iraq_desc: "OSN neschválila naši invazi do Iráku. Musíme spustit mediální kampaň, která dostane americký lid na naši stranu ještě před invazí." # todo: NEW TRANSLATION
-  usa_operation_iraqi_freedom: "Operace Irácká svoboda" # todo: NEW TRANSLATION
-  usa_operation_iraqi_freedom_desc: "Operace Irácká svoboda zahájila svou předběžnou plánovací fázi již v září 2002. Skutečné plánování však začalo v listopadu 2002, kdy irácká vláda nesplnila své závazky rezoluce a odmítla disarmaci vojenských sil a zastavení výroby zbraní hromadného ničení. Pokud nebudou spolupracovat, nebudeme mít na výběr a provedeme Operaci Irácká svoboda." # todo: NEW TRANSLATION
-  KUR_join_invasion_of_iraq: "Připojte se k invazi do Iráku" # todo: NEW TRANSLATION
-  KUR_join_invasion_of_iraq_desc: "Šance zaútočit na Irák je právě teď!" # todo: NEW TRANSLATION
-  wot.2.t: "Masivní teroristický útok na východní pobřeží" # todo: NEW TRANSLATION
-  wot.2.da: "Obdrželi jsme zprávy o pokusu o teroristický útok na východním pobřeží. Brzy ráno dnes bylo zadrženo několik podezřelých členů Al-Káidy na Logan International Airport v Bostonu a na Dulles International Airport ve Washingtonu D.C.. Navzdory těmto raným varováním se pěti teroristům podařilo nalodit na Flight 93 na Newark International Airport v New Yorku. Při snaze unést letadlo odolávali cestující a nakonec způsobili pád letadla do pole v Stonycreek Township v Pensylvánii. Posádka sedmi členů, 33 cestujících a pěti únosců zahynuli během havárie.\n\nNa základě našich současných zpravodajských informací měly být letadla namířena na několik cílů na východním pobřeží, včetně World Trade Center, Pentagonu a budovy Kapitoly.\n\nNaštěstí byly naše zpravodajské služby na pozoru a podařilo se nám zabránit strašné tragédii." # todo: NEW TRANSLATION
-  wot.2.db: "Obdrželi jsme zprávy o hlavním teroristickém útoku na východním pobřeží. Únosci, pravděpodobně členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nBrzy ráno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. V 9:37 zasáhl let 77 Pentagon ve Washingtonu D.C.. Čtvrté letadlo, Flight 93, které bylo zřejmě namířeno na Kapitol, havarovalo v 10:3, když cestující se snažili letadlo znovu převzít od únosců.\n\nNaše země se musí vzpamatovat z děsivného dne. Politická situace je zcela jiná než včera." # todo: NEW TRANSLATION
-  wot.2.dc: "Obdrželi jsme zprávy o hlavním teroristickém útoku na východním pobřeží. Únosci, nejpravděpodobněji členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nBrzy ráno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž v 9:3. V 9:37 let 77 zasažil Pentagon ve Washingtonu D.C.. Na čtvrtém letadle, Flight 93, se cestující pokusili únoscům letadlo odzbrojit, ale neúspěšně. Teroristé udrželi letadlo ve vzduchu a nakonec ho srazili do strany Kapitolu v 10:23.\n\nNaše národ se musí zotavit z děsivného dne. Politická situace je zcela odlišná od té včerejší." # todo: NEW TRANSLATION
-  wot.2.a: "Uctíme oběť letu 93" # todo: NEW TRANSLATION
-  wot.2.b: "Ach, lidstvo!" # todo: NEW TRANSLATION
-  wot.2.c: "Ó, lidstvo!" # todo: NEW TRANSLATION
-  wot.3.t: "Diplomatická reakce na útoky na World Trade Center" # todo: NEW TRANSLATION
-  wot.3.d: "Spojené státy americké byly úmyslně a náhle napadeny nepřátelskými teroristickými bojovníky.\n\nJak Spojené státy připravují diplomatickou a vojenskou reakci na útoky proti World Trade Center a Pentagonu, zahraniční ministr [Root.GetAdjective] tlačí na vládu, aby vydala jasné a rozhodné prohlášení k této záležitosti." # todo: NEW TRANSLATION
-  wot.3.a: "Stojíme po boku Ameriky! Za žádných okolností!" # todo: NEW TRANSLATION
-  wot.3.b: "Odsuzujte útoky, ale nedávejte sliby." # todo: NEW TRANSLATION
-  wot.3.c: "Tohle je to, co se stane, když zasahujete do jiných zemí." # todo: NEW TRANSLATION
-  wot.4.t: "Místní politik podporuje vládu" # todo: NEW TRANSLATION
-  wot.4.da: "Jak se republikánská administrativa snaží najít rozhodnou reakci na nedávný teroristický útok, Demokratická strana zatím stála bokem a více či méně situaci sledovala, vydávala prohlášení odsouzení útočníkům, ale žádné jisté politické sliby ani požadavky.\n\nNyní se významný člen Demokratické strany z postiženého státu New York ujímá ústřední pozice v reakcích na útoky: Hillary Clinton, senátorka z New Yorku a bývalá první dáma Spojených států, pronesla jasný projev: \"Každý národ se musí buď k nám přidat, nebo být proti nám. Ti, kdo poskytují útočiště teroristům, či je financují, zaplatí cenu.\".\n\nDemokraté po celé zemi začali shromažďovat kolem Clintonových prohlášení, signalizují nejen solidaritu se svou senátorkou, ale i s Demokratickou administrativou, aby postupovali a přijali jakékoliv prostředky nezbytné k nalezení odpovědi na tento útok, který je nejen otřesný, ale zásadně antiamerický." # todo: NEW TRANSLATION
-  wot.4.db: "Jak Demokratická administrativa se snaží najít rozhodnou odpověď na nedávný teroristický útok, Republikánská strana zatím stála při ní a spíše sledovala situaci, vydávala prohlášení o odsouzení útočníků, ale žádné jisté politické sliby ani požadavky.\n\nNyní významný člen Republikánské strany z postiženého státu New York, Rudy Giuliani, starosta New Yorku a bývalý federální prokurátor USA, zaujal jasný projev: \"Každý národ se musí buď k nám přidat, nebo být proti nám. Ti, kdo poskytují útočiště teroristům, či je financují, zaplatí cenu.\".\n\nRepublikánská strana po celé zemi začala vyjadřovat podporu Giulianiho prohlášením, čímž signalizuje nejen solidaritu se starostou, ale i s Demokratickou administrativou, aby postupovali a přijali jakékoliv prostředky nezbytné k nalezení vhodné odpovědi na tento útok, který je nejen ohavný, ale i fundamentálně antiamerický." # todo: NEW TRANSLATION
-  wot.4.a: "Stojíme jednotně!" # todo: NEW TRANSLATION
-  wot.4.b: "Snaží se z tragédie jen profitovat!" # todo: NEW TRANSLATION
-  wot.5.t: "Národní modlitební služba" # todo: NEW TRANSLATION
-  wot.5.d: "[USA.GetLeader] bude pronášet ústřední projev na památném obřadu." # todo: NEW TRANSLATION
-  wot.5.a: "Toto je důležitá událost" # todo: NEW TRANSLATION
-  wot.5.b: "Nepotřebujeme to k uctění památky obětí" # todo: NEW TRANSLATION
-  wot.6.t: "Vražda Balbira Singha Sodhiho" # todo: NEW TRANSLATION
-  wot.6.d: "V důsledku teroristických útoků došlo ke značnému nárůstu islamofobního sentimentu a násilí po celé Spojené státy — ale většina útoků zůstávala jen u rasově či nábožensky motivovaného verbálního napadání, krádeží či poškození majetku. S Balbirem Singhem Sodhim to tak nebylo.\n\nIndický Sikh nar. v Indii byl mylně identifikován jako Muslim (kvůli jeho blízkovýchodnímu vzhledu a turbánu) čtyřiačtyřicetiletým Frankem Silvou Roque na čerpací stanici Singha v Mesa, Arizona. Sodhi byl následně zastřelen Roquem z jeho nákladního auta pistolí ráže .380. Roque utekl a dvacet minut poté se pokusil zabít dalšího člověka, libanonsky narozeného prodavače.\n\nPo neúspěšném pokusu o atentát Roque skončil svou teroristickou šňůru na svém bývalém sídle, které nyní obsadila afgánská rodina, a na budovu střílel, avšak nezpůsobil žádné oběti. Byl následující den zatčen a později odsouzen k trestu smrti za vraždu prvního stupně." # todo: NEW TRANSLATION
-  wot.6.a: "Nebudeme se nikdy vzdávat teroristům! Bez ohledu na barvu pleti!" # todo: NEW TRANSLATION
-  wot.6.b: "Bylo to pochopitelné nedorozumění" # todo: NEW TRANSLATION
-  wot.7.t: "Útoky antraxem" # todo: NEW TRANSLATION
-  wot.7.d: "Útoky antraxem, známé také jako Amerithrax podle názvu FBI pro případ, začaly krátce po teroristickém útoku.\n\nDopisy obsahující spóry antraxu byly odeslány mnoha jednotlivcům, včetně zpravodajů a dvou senátorů USA. Případ bio-terorismu je spojován s útokem na východní pobřeží (ale probíhající vyšetřování FBI dosud nenašlo definitivní důkazy) a dosud usmrtil pět lidí a dalších 17 zranil." # todo: NEW TRANSLATION
-  wot.7.a: "Všechny překážky překonáme" # todo: NEW TRANSLATION
-  wot.7.b: "Musíme najít ty, kteří to udělali!" # todo: NEW TRANSLATION
-  wot.8.t: "Projev boje proti terorismu" # todo: NEW TRANSLATION
-  wot.8.d: "[USA.GetLeader] pronesl projev na společném zasedání Kongresu USA, čímž vyhlásil, jak on to nazývá, \"Válka proti terorismu\".\n\nPrezident slíbil rozhodné a přímé reakce na teror a slavnostně pronesl následující projev vůči všem ostatním zemím světa: \"Každý národ, v každém regionu, nyní má na výběr. Buď jste s námi, nebo s teroristy.\"" # todo: NEW TRANSLATION
-  wot.8.a: "Přineseme spravedlnost" # todo: NEW TRANSLATION
-  wot.8.b: "A bude rychlá" # todo: NEW TRANSLATION
-  wot.9.t: "Spojené státy americké požadují vydání Osamy bin Ládina" # todo: NEW TRANSLATION
-  wot.9.d: "Po útoku na východním pobřeží USA kontaktovaly naše úřady a požadují, abychom přerušili veškeré vazby na naše spojence Al-Káida a jejich vůdce Osamu bin Ládina. Musíme také bin Ladina zajmout a předat ho do rukou USA. Na základě předchozí rétoriky by odmítnutí žádosti jistě proměnilo USA v našeho nepřítele." # todo: NEW TRANSLATION
-  wot.9.a: "Velký Satan na tom nezíská nic!" # todo: NEW TRANSLATION
-  wot.9.b: "Možná bude nutné uzavřít dohodu s ďáblem..." # todo: NEW TRANSLATION
-  wot.10.t: "Taliban odmítá vydání" # todo: NEW TRANSLATION
-  wot.10.d: "Talibané odmítli přestat spolupracovat s Al-Káidou a bin Ládinem. Zdá se, že jediný způsob, jak dostat zločince k soudu, je svrhnout celý režim Talibanů." # todo: NEW TRANSLATION
-  wot.10.a: "To nebyl překvapující výsledek" # todo: NEW TRANSLATION
-  wot.11.t: "Taliban souhlasí s vydáním" # todo: NEW TRANSLATION
-  wot.11.d: "Překvapivě Taliban souhlasil s vyhoštěním Al-Káidy ze země a s pronásledováním bin Ládina. Řekli, že jsou ochotni spolupracovat s americkou armádou na dopadení teroristů. Už jsme vyslali speciální jednotku, která má bin Ládina dopadnout na jeho posledně známém místě." # todo: NEW TRANSLATION
-  wot.11.a: "To je...podivné" # todo: NEW TRANSLATION
-  wot.12.t: "USA žádají o pomoc s Talibanem" # todo: NEW TRANSLATION
-  wot.12.d: "Spojené státy se chystají vytlačit Taliban z Afghánistánu. Požádaly o naši podporu v boji." # todo: NEW TRANSLATION
-  wot.12.a: "Pošleme vojáky do boje!" # todo: NEW TRANSLATION
-  wot.12.b: "Vyzbrojíme místní milice!" # todo: NEW TRANSLATION
-  wot.12.c: "Poskytneme morální podporu! Jdeme na to, tým!" # todo: NEW TRANSLATION
-  wot.13.t: "Volba kandidáta" # todo: NEW TRANSLATION
-  wot.13.da: "Musíme se rozhodnout, koho bychom měli doporučit jako vládce Afghánistánu. Je pravděpodobné, že současná místní vláda Afghánistánu bude s naší volbou souhlasit. Máme čtyři dobré kandidáty, ze kterých si můžeme vybrat.\n\nNaše volby jsou Hamid Karzai, který se přidal k Severní alianci poté, co byl jeho otec zabit Al-Káidou, Burhanuddin Rabbani, současný oficiální prezident Afghánistánu a vůdce konzervativní islamistické strany Jamiat, Ahmad Shah Massoud, Lev Paňšír, nebo exilový král Afghánistánu Mohammed Zahir Šáh." # todo: NEW TRANSLATION
-  wot.13.db: "Musíme se rozhodnout, koho bychom měli doporučit jako vládce Afghánistánu. Je pravděpodobné, že současná místní vláda Afghánistánu bude s naší volbou souhlasit. Máme tři dobré kandidáty, ze kterých si můžeme vybrat.\n\nNaše volby jsou Hamid Karzai, který se přidal k Severní alianci poté, co byl jeho otec zabit Al-Káidou, Burhanuddin Rabbani, současný oficiální prezident Afghánistánu a vůdce konzervativní islamistické strany Jamiat, nebo exilový král Afghánistánu Mohammed Zahir Šáh." # todo: NEW TRANSLATION
-  wot.13.a: "Hamid Karzai" # todo: NEW TRANSLATION
-  wot.13.b: "Burhanuddin Rabbani" # todo: NEW TRANSLATION
-  wot.13.c: "Ahmad Shah Massoud" # todo: NEW TRANSLATION
-  wot.13.d: "Mohammed Zahir Shah" # todo: NEW TRANSLATION
-  wot.14.t: "US Petitions Invasion of Iraq" # todo: NEW TRANSLATION
-  wot.14.d: "USA navrhly ospravedlnění invaze do Iráku. USA tvrdí, že [IRQ.GetLeader] je hrozba pro irácký lid, mír v regionu a že Irák vlastní zbraně hromadného ničení. Žádný z inspektorů OSN tyto zbraně dosud nenašel, ale USA na těchto tvrzeních nadále trvají." # todo: NEW TRANSLATION
-  wot.14.a: "Hlasujeme ANO" # todo: NEW TRANSLATION
-  wot.14.b: "Hlasujeme NE" # todo: NEW TRANSLATION
-  wot.15.t: "Petition Denied" # todo: NEW TRANSLATION
-  wot.15.d: "OSN zamítla naši petici o invazi do Iráku." # todo: NEW TRANSLATION
-  wot.15.a: "Pokračujte s invazí i tak." # todo: NEW TRANSLATION
-  wot.15.b: "Asi si budeme muset poslechnout je..." # todo: NEW TRANSLATION
-  wot.16.t: "Petition Approved" # todo: NEW TRANSLATION
-  wot.16.d: "OSN schválila naši petici o invazi do Iráku." # todo: NEW TRANSLATION
-  wot.16.a: "Skvělé!" # todo: NEW TRANSLATION
-  wot.17.t: "Joining the Invasion of Iraq?" # todo: NEW TRANSLATION
-  wot.17.d: "The United States is planning to invade Iraq to topple the government of [IRQ.GetLeader]. The US is requesting us to join their war." # todo: NEW TRANSLATION
-  wot.17.a: "Of course we'll help our allies!" # todo: NEW TRANSLATION
-  wot.17.b: "This is an unjust war" # todo: NEW TRANSLATION
-  wot.20.t: "Osama bin Laden Evades Capture" # todo: NEW TRANSLATION
-  wot.20.d: "Our operation to capture bin Laden has been a total failure. By the time our forces arrived to his suspected compound, bin Laden was long gone. It is likely that forces sympathetic to him tipped him off of our operation, giving him ample time to escape.\n\nSo far, we don't have intelligence on where he escaped, but most likely he is already on his way out of Afghanistan." # todo: NEW TRANSLATION
-  wot.20.a: "Příště ho dostaneme" # todo: NEW TRANSLATION
-  wot.21.t: "Osama bin Laden Captured" # todo: NEW TRANSLATION
-  wot.21.d: "Our special forces managed to capture Osama bin Laden in his hideout in Afghanistan. With help from local Taliban informants, we were able to pinpoint his exact location, and he surrendered without a fight." # todo: NEW TRANSLATION
-  wot.21.a: "Dámy a pánové, dostali jsme ho" # todo: NEW TRANSLATION
-  wot.22.t: "Úkryt Osamy bin Ládina nalezen" # todo: NEW TRANSLATION
-  wot.22.d: "Naše zpravodajské služby nalezly novou skrýš Osamy bin Ládina. Identifikovali jsme komplex [event_target:hideout_of_bin_laden.GetNameDef]. Z dronových záběrů a podle místních zdrojů je to rozhodně místo pobytu Osamy bin Ládina. Měli bychom okamžitě informovat [event_target:hideout_of_bin_laden.GetAdjective] vládu a požádat o jejich svolení k provedení mise speciálních operací s cílem odstranit Osamu bin Ládina" # todo: NEW TRANSLATION
-  wot.22.a: "Okamžitě kontaktujte hostitelskou zemi!" # todo: NEW TRANSLATION
-  wot.22.b: "Komu na jednom teroristovi záleží?" # todo: NEW TRANSLATION
-  wot.23.t: "Spojené státy detekují Osamu bin Ládina" # todo: NEW TRANSLATION
-  wot.23.d: "Dnes nás kontaktoval ministr zahraničí Spojených států a informoval nás, že nalezli skrýš Osamy bin Ládina na našem území. Osama bin Laden, vůdce Al-Káidy, je zodpovědný za masivní teroristický útok na Spojené státy před několika lety. Naše zpravodajské služby byly schopny ověřit a znovu ověřit některé informace, které USA poskytly. Je velmi pravděpodobné, že bin Laden skutečně pobývá na tajném místě v naší zemi.\n\nPovolení USA provést tuto operaci by bylo velkým úderem proti globálnímu terorismu, ale dovolit zahraničním silám operovat v naší zemi je rizikové. Na druhou stranu je bin Ládin jedním z nejhledanějších teroristů na světě a odepření USA přístupu pravděpodobně nebude mít dobré následky pro Spojené státy" # todo: NEW TRANSLATION
-  wot.23.a: "Povolte operaci" # todo: NEW TRANSLATION
-  wot.23.b: "Nebudeme dovolit, aby USA ohrozily naši suverenitu!" # todo: NEW TRANSLATION
-  wot.24.t: "[FROM.GetName] souhlasí s operací" # todo: NEW TRANSLATION
-  wot.24.d: "[FROM.GetName] dal našim speciálním silám povolení vstoupit do jejich země a provést razii proti skrýši bin Ládina. Očekáváme výsledky operace během několika dní." # todo: NEW TRANSLATION
-  wot.24.a: "Skvěle" # todo: NEW TRANSLATION
-  wot.25.t: "[FROM.GetName] odmítá naši žádost!" # todo: NEW TRANSLATION
-  wot.25.d: "Po mnoha pokusech získat souhlas [FROM.GetName] k provedení vyhledávací akce na jejich území za účelem nalezení bin Ládina, [FROM.GetLeader] poslal jednoduchou odpověď: 'Ne'. Někteří volají po tvrdých trestech pro [FROM.GetName] za zjevné ignorování naší výzvy k pomoci v boji proti terorismu, my bychom to však mohli nechat být, i když je to doma nepopulární..." # todo: NEW TRANSLATION
-  wot.25.a: "Domnívám se, že jejich suverenita by měla být respektována." # todo: NEW TRANSLATION
-  wot.25.b: "Jak dlouho mohou být bez nás a naší pomoci?" # todo: NEW TRANSLATION
-  wotnews.1.t: "Rozsáhlý teroristický útok na východní pobřeží USA" # todo: NEW TRANSLATION
-  wotnews.1.da: "Novináři ze Spojených států nás upozornili na pokus o teroristický útok na východní pobřeží. Dnes časně ráno bylo několik podezřelých členů Al-Káidy zatčeno na Logan International Airport v Bostonu a na Dulles International Airport ve Washingtonu D.C. Navzdory těmto raným varováním se pět teroristů podařilo nastoupit na let 93 na Newark International Airport v New Yorku. Při snaze únosu, odpor cestujících postupně vedl k tomu, že letadlo havarovalo do pole v Stonycreek Township v Pensylvánii. Posádka sedmi členů, 33 cestujících a pěti únosců zemřela při havárii.\n\nNa základě našich současných zpravodajských informací měly být letadla namířena na několik cílů na východním pobřeží, včetně Světového obchodního centra, Pentagonu a budovy Kapitolu.\n\nNaštěstí byly naše zpravodajské služby na pozoru a podařilo se nám zabránit strašné tragédii." # todo: NEW TRANSLATION
-  wotnews.1.db: "Novináři ze Spojených států nám upozornili na masivní teroristický útok na východní pobřeží. Únosci, nejspíše členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nRáno dnes, v 8:46, let 11 zasáhl severní věž Světového obchodního centra v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. V 9:37 let 77 zasáhl Pentagon ve Washingtonu D.C.. Čtvrté letadlo, let 93, které bylo údajně namířeno na Kapitol, se zřítilo v 10:3 poté, co se cestující pokusili jej ovládnout." # todo: NEW TRANSLATION
-  wotnews.1.dc: "Novináři ze Spojených států nám upozornili na masivní teroristický útok na východní pobřeží. Únosci, pravděpodobně členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nRáno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. O 9:37 let 77 zasáhl Pentagon ve Washingtonu D.C.. U čtvrtého letadla, let 93, cestující se pokusili letadlo odzbrojit, ale neúspěšně. Teroristé udrželi letadlo ve vzduchu a nakonec jej srazili do boční části Kapitolu ve 10:23.\n\nTo je hrozný den a ukazuje, jak daleko jsou teroristé ochotni zajít, aby dosáhli svých cílů." # todo: NEW TRANSLATION
-  wotnews.1.o1: "Nezapomeneme na to." # todo: NEW TRANSLATION
-  wotnews.1.o2: "V těchto časech stojíme spolu." # todo: NEW TRANSLATION
-  wotnews.1.o3: "Ó, lidstvo!" # todo: NEW TRANSLATION
-  wotnews.1.o4: "Nevěřící." # todo: NEW TRANSLATION
-  wotnews.2.t: "Demokraté a Republikáni se shromáždí" # todo: NEW TRANSLATION
-  wotnews.2.d: "V reakci na teroristické útoky se Demokratické a Republikánské strany rozhodly pohřbít válku mezi stranami a spojit síly.\n\nV New Yorku už Republikáni pod vedením Rudyho Giulianiho a Demokraté pod Hillary Clintonovou již úspěšně spolupracovali na odvrácení této katastrofy. Zdá se, že obě strany budou spolupracovat i po této krizi. Jenom tentokrát." # todo: NEW TRANSLATION
-  wotnews.2.a: "Spojené státy se spojují proti terorismu." # todo: NEW TRANSLATION
-  wotnews.3.t: "Národní modlitební služba Spojených států" # todo: NEW TRANSLATION
-  wotnews.3.d: "Pořádána v Washingtonské národní katedrále, Národní modlitební služba byla snahou dát Spojeným státům krátký oddech po neustálém III chaosu za poslední tři dny.\n\nPrezident [USA.GetLeader] pronesl hlavní projev akce a prohlásil: 'Jen tři dny od těchto událostí Američané ještě nemají odstup historie. Naše odpovědnost k historii je však již jasná: Odpovědět na tyto útoky a zbavit svět zla'" # todo: NEW TRANSLATION
-  wotnews.3.a: "Národ potřebuje čas na uzdravení." # todo: NEW TRANSLATION
-  wotnews.4.t: "Vražda Balbir Singh Sodhi" # todo: NEW TRANSLATION
-  wotnews.4.d: "V důsledku teroristických útoků vzrostlo ve Spojených státech násilí vůči různým etnickým a náboženským skupinám. To zahrnuje arabské muslimy – a lidi, kteří vypadají, že jsou." # todo: NEW TRANSLATION
-  wotnews.4.a: "Z konfliktu vychází konflikt." # todo: NEW TRANSLATION
-  wotnews.5.t: "Americké antraxové útoky" # todo: NEW TRANSLATION
-  wotnews.5.d: "FBI zveřejnilo veřejné informace o případu Amerithrax, sérii pokusů o atentáty pomocí dopisů infikovaných spórami anthraxu, které začaly těsně po teroristickém útoku na východním pobřeží.\n\nAdresáty dopisů zahrnovali šéfa Senátu Toma Daschlea (D) a Vermontského senátora Patricka Leahyho (D).\n\nPěti lidem se doposud podařilo zemřít. FBI dosud nezveřejnila informace o žádných podezřelých." # todo: NEW TRANSLATION
-  wotnews.5.a: "Teror pokračuje." # todo: NEW TRANSLATION
-  wotnews.6.t: "Válka proti terorismu" # todo: NEW TRANSLATION
-  wotnews.6.d: "Čtrnáct dní po útocích na východním pobřeží pronesl [USA.GetLeader] možná nejvýznamnější projev počátku 2000s. Hovořili o vnitřní a zahraniční politice a učinili prohlášení 'buďte s námi, nebo s teroristy' výrokem: 'Každý národ, v každém regionu, nyní musí učinit rozhodnutí. Buďte s námi, nebo s teroristy. Od tohoto dne bude jakýkoli národ, který bude nadále hostit či podporovat terorismus, považován Spojenými státy za nepřátelský režim.'" # todo: NEW TRANSLATION
-  wotnews.6.a: "Blíží se válka?" # todo: NEW TRANSLATION
-  wotnews.7.t: "[USA.GetLeader] oznamuje 'Enduring Freedom'" # todo: NEW TRANSLATION
-  wotnews.7.d: "Prezident Spojených států, [USA.GetLeader], informoval americký Kongres, že zítra začne vojenská invaze do Talibanem vládnutého Islámského emirátu Afghánistán. \n\nAmerická armáda ponese název 'Operace Enduring Freedom'. Prezident také oznámil záměr zapojit spojenecké státy do válečného úsilí. \n\nVláda Afghánistánu již vydala prohlášení o protestu, ale jelikož žádný významný národ na světě nemá diplomatické vztahy s Afghánistánem, pravděpodobně to nebude mít vliv." # todo: NEW TRANSLATION
-  wotnews.7.a: "Válka se blíží." # todo: NEW TRANSLATION
-  wotnews.8.t: " Bonnská dohoda" # todo: NEW TRANSLATION
-  wotnews.8.d: "V snaze vybudovat řádný poválečný pořádek v Afghánistánu bez Talibanů se sešlo několik národních delegací ze západních zemí s 25 afghánskými vůdci ve městě Bonn v Německu.\n\n[AFG.GetLeader] byl mezinárodní komunitou uznán za oprávněného prezidenta Afghánistánu. Většina zemí světa nyní znovu začala navazovat diplomatické vztahy s Afghánistánem." # todo: NEW TRANSLATION
-  wotnews.8.a: "Najde Afghánistán konečně mír?" # todo: NEW TRANSLATION
-  wotnews.9.t: "Věznice Guantánamo Bay" # todo: NEW TRANSLATION
-  wotnews.9.d: "V reakci na teroristické útoky z 11. září vláda Spojených států hledala místo pro umístění vysoce rizikových vězňů, obviněných z účasti na teroristických aktivitách nebo aktivního plánování takových činů.\n\nTakové centrum bylo nyní zřízeno ve vládou kontrolované části ostrova Kuba, na námořní základně Guantánamo Bay. Kubánská vláda, která neuznává pokračující pronájem Guantánamo Bay Spojenými státy, již podala protest proti rozšiřování americké vojenské přítomnosti na ostrově." # todo: NEW TRANSLATION
-  wotnews.9.a: "To bude jistě zcela legální a humánní." # todo: NEW TRANSLATION
-  wotnews.10.t: "OSN schválená invaze do Iráku" # todo: NEW TRANSLATION
-  wotnews.10.d: "Rada bezpečnosti OSN schválila žádost Spojených států sesadit vládu [IRQ.GetLeader] v Iráku. Tento dosud nevídaný krok znamená, že USA mohou napadnout Irák v rámci mezinárodního práva." # todo: NEW TRANSLATION
-  wotnews.10.a: "Zajímavé" # todo: NEW TRANSLATION
-  wotnews.11.t: "Válka proti Iráku začíná" # todo: NEW TRANSLATION
-  wotnews.11.d: "Prezident [USA.GetLeader] pronesl projev v přímém vysílání krátce poté, co výbuchy otřásly iráckou metropolí Bagdád, což signalizuje zahájení operace Irácká svoboda. Kampaň vedená USA má za cíl zbavit Irák jeho diktátora, [IRQ.GetLeader], a zlikvidovat jeho schopnost ukládat, vyvíjet a nasazovat svůj zásobník zbraní hromadného ničení. Úder přišel jen několik dní poté, co irácký prezident, [IRQ.GetLeader] nedodržel 48hodinovou lhůtu k opuštění země. V reakci na vojenskou invazi prohlásilo Iračské rádio v Bagdádu, že „Zlí lidé, nepřátelé Boha, vlasti a lidstva, spáchali hloupou agresi proti naší vlasti a lidu.“. Mezitím americké vojenské zdroje uvedly, že pět klíčových členů iráckého režimu, včetně [IRQ.GetLeader], bylo cílem v prvních útocích." # todo: NEW TRANSLATION
-  wotnews.11.a: "Válka proti terorismu pokračuje." # todo: NEW TRANSLATION
-  wotnews.12.t: "Saddám Husajn zajat" # todo: NEW TRANSLATION
-  wotnews.12.d: "Americké síly dnes dopadly vousatého a znuděně vyhlížejícího Saddáma Husajna v podzemním úkrytu na farmě poblíž jeho rodného města Tikrítu. Zadržení přišlo několik měsíců poté, co americké jednotky vtrhly do Bagdádu, a znamená konec jedné z nejintenzivnějších honů na člověka v historii. V televizním projevu odpoledne prohlásil americký prezident [USA.GetLeader], že Saddám bude čelit „spravedlnosti, kterou upřel milionům“. Řekl, že zatčení bývalého iráckého vůdce „znamená konec cesty pro něj a pro všechny, kdo ho šikanovali a zabíjeli ve jménu jeho.“ Nicméně prezident také varoval, že to neznamená konec násilí v Iráku." # todo: NEW TRANSLATION
-  wotnews.12.a: "Dámy a pánové, dopadli jsme ho!" # todo: NEW TRANSLATION
-  wotnews.13.t: "Saddám Husajn odsouzen k trestu smrti" # todo: NEW TRANSLATION
-  wotnews.13.d: "Saddám Husajn byl dnes ráno popraven poté, co byl iráckým soudem shledán vinným z činů proti lidskosti. Rozsudek byl vykonán v bývalém sídle vojenské zpravodajské služby v šiítské čtvrti Bagdádu v 6:00 místního času (3:00 GMT). V připraveném prohlášení prohlásil [USA.GetLeader], že Saddámova poprava nezastaví násilí v Iráku, ale že je to „důležitý milník na cestě Iráku k demokracii, která může vládnout, udržovat a bránit se, a být spojencem ve válce proti terorismu“. Kancelář iráckého premiéra vydala prohlášení, že Saddámovo popravení je „silnou lekcí“ pro kruté vůdce, kteří páchají zločiny proti svým lidem." # todo: NEW TRANSLATION
-  wotnews.13.a: "Dobře." # todo: NEW TRANSLATION
-  wotnews.14.t: "USA stahují jednotky z Iráku" # todo: NEW TRANSLATION
-  wotnews.14.d: "Poslední konvoj zhruba 100 převážně amerických obrněných vozidel MRAP, nesoucích 500 amerických vojáků, projel noční pouštní krajinou ze své poslední základny až k hranicím Kuvajtu. Pro Spojené státy je stažení vojsk splněním slibu vrátit jednotky domů z konfliktu, který je široce považován za nejméně oblíbenou válku od Vietnamu a který zanechal pověst Ameriky po celém světě. Pro Iráčany však odchod vyvolává pocit suverenity, tlumený obavami, že jejich země znovu sklouzne do druhu sektářského násilí, které zabilo tisíce lidí v období 2006–2007." # todo: NEW TRANSLATION
-  wotnews.14.a: "Najde Irák konečně mír?" # todo: NEW TRANSLATION
-  wotnews.15.t: "Spojené státy zajaly Osamu bin Ládina" # todo: NEW TRANSLATION
-  wotnews.15.d: "Dnes oznámila vláda [USA.GetAdjective], že dopadla Osamu bin Ládina v Afghánistánu. Bin Ládin byl hlavním mozkem za teroristickým útokem ve Spojených státech. S pomocí místních informátorů Talibanu provedly americké speciální síly nájezd na Ládínův komplex. Podle zpráv se vzdal bez boje, když čelil speciálním jednotkám." # todo: NEW TRANSLATION
-  wotnews.15.a: "Zajímavé" # todo: NEW TRANSLATION
-  wotnews.16.t: "Saddám Husajn byl zabit" # todo: NEW TRANSLATION
-  wotnews.16.d: "Spojené státy oznámily, že provedly protiteroristickou operaci v [event_target:hideout_of_bin_laden.GetNameDef] a zabily Osamu bin Ládina, vůdce Al-Káidy, v tajném komplexu. Skupina námořních speciálních sil SEALS napadla lokalitu krátce po půlnoci místního času a údajně zastřelila neozbrojeného vůdce teroristů. Jeho tělo bylo vyvezeno ze země k identifikaci na nedalekou americkou letadlovou loď, zatímco jeho mrtví ochránci a zbytek jeho doprovodu zůstali v rukou místních bezpečnostních složek. O několik hodin později byl pohřben v moři v souladu s islámskou tradicí. USA to vnímá jako velké vítězství nad terorismem, a mnoho extrémistických skupin již slíbilo pomstu Američanům." # todo: NEW TRANSLATION
-  wotnews.16.a: "Zajímavé" # todo: NEW TRANSLATION
-  war_on_terror_leader: "Kampaň v boji proti terorismu" # todo: NEW TRANSLATION
+ TT_REDUCE_RULING_COALITION_POPULARITY_20_PERCENT: "§RVládnoucí strana a všichni členové koalice ztratí 20 % relativní popularity!\n§!" # todo: NEW TRANSLATION
+ TT_OEF_INCREASED_CHANCE_OF_DETECTING_TERRORISTS: "§GGain §Y15§! intelligence on §YAl-Qaeda§!, and raise the chance of disrupting a major plot from §Y5%§! to §Y15%§!. The better our intelligence on them grows, the better those odds get.§!\n" # todo: CHANGED
+ TT_OEF_RAISE_POPULARITIES: "Zvyšte popularitu §HVládní koalice§! o 10% a popularitu hlavní §HOpoziční strana§! o 5%" # todo: NEW TRANSLATION
+ TT_OEF_LOWER_POPULARITIES: "Snižte popularitu §HVládní koalice§! o 5% a popularitu hlavní §HOpoziční strana§! o 10%" # todo: NEW TRANSLATION
+ TT_OEF_WAR_ON_TERROR_SPEECH_HELD: "Projev o válce proti terorismu byl pronesen" # todo: CHANGED
+ TT_UNSC_NO_PENDING_SUBJECT_VOTE: "Rada §Ybezpečnosti§! již nezvažuje rezoluci proti nim" # todo: NEW TRANSLATION
+ USA_enduring_freedom: "Operation Enduring Freedom" # todo: NEW TRANSLATION
+ USA_iraqi_freedom: "Operation Iraqi Freedom" # todo: NEW TRANSLATION
+ TT_AFGHANISTAN_NEW_ADMINISTRATION_KARZAI: "Zřídte pro-západní vládu vedenou populárním kandidátem. §RTo rozčílí konzervativnější obyvatelstvo!§!\n" # todo: NEW TRANSLATION
+ TT_AFGHANISTAN_NEW_ADMINISTRATION_RABBANI: "Založte nezařazenou vládu vedenou konzervativním kandidátem.\n" # todo: NEW TRANSLATION
+ TT_AFGHANISTAN_NEW_ADMINISTRATION_MASSOUD: "Založte nezařazenou vládu vedenou válečným hrdinou. §GTo přinese stabilitu Afghánistánu!§!\n" # todo: NEW TRANSLATION
+ TT_AFGHANISTAN_NEW_ADMINISTRATION_ZAHIR_SHAH: "Obnovte Království Afghánistánu. §RTo výrazně naštve konzervativnější obyvatelstvo a poškodí naše vztahy s Pákistánem!§!\n" # todo: NEW TRANSLATION
+ USA_wot_attack_occurred: "Došlo k velkému teroristickému útoku" # todo: NEW TRANSLATION
+ USA_failed_to_win_in_iraq: "Selhání v zemi §Y[IRQ.GetNameWithFlag]§!\n" # todo: NEW TRANSLATION
+ war_on_terror_category: "OEF a Válka proti terorismu" # todo: NEW TRANSLATION
+ war_on_terror_category_desc: "Operace Trvalá svoboda (OEF) je oficiální název používaný vládou USA pro globální válku proti terorismu. Tato strategie cílí na teroristické organizace v zahraničních zemích a umožňuje USA beztrestně udeřit na teroristy a jejich podporovatele" # todo: CHANGED
+ KUR_war_on_terror_category: "Operace Irácká svoboda" # todo: NEW TRANSLATION
+ KUR_war_on_terror_category_desc: "Spojené státy zahájily Operaci Irácká svoboda, invazi do Iráku. Je to šance pro nás zaútočit na [IRQ.GetLeader] a dále se distancovat od iráckého jha." # todo: NEW TRANSLATION
+ usa_increase_intelligence_spending: "Zvýšit výdaje na zpravodajské služby" # todo: NEW TRANSLATION
+ usa_increase_intelligence_spending_desc: "Máme rozptýlené zprávy o nadcházejícím vážném teroristickém útoku. V současné době nemáme nástroje, jak tuto hrozbu účinně čelit. Musíme rozšířit financování zpravodajských služeb a zvýšit dozorová práva FBI a CIA. Bude to politicky nákladné, ale bezpečnost naší země je v ohrožení." # todo: NEW TRANSLATION
+ usa_demand_extradition_of_bin_laden: "Požadovat vydání Usáma bin Ládina" # todo: NEW TRANSLATION
+ usa_demand_extradition_of_bin_laden_desc: "Podle našich zpravodajských informací byl Usáma bin Ládin hlavní silou stojící za nedávným teroristickým útokem. Pokud víme, v současnosti pobývá v Afghánistánu pod ochranou Tálibánu. Měli bychom kontaktovat Tálibán a požadovat, aby přerušil své vazby na Al-Káidu a vydal nám bin Ládina." # todo: CHANGED
+ usa_seek_unsc_extradition_mandate: "Požadovat vydání bin Ládina v Radě bezpečnosti" # todo: NEW TRANSLATION
+ usa_seek_unsc_extradition_mandate_desc: "Než jediný voják vstoupí do Afghánistánu, měli bychom přimět Tálibán, aby se zodpovídal celé Radě, ne pouze nám.\n\nRada bezpečnosti už dříve požadovala vydání bin Ládina a Tálibán to ignoroval. Nová rezoluce podpořená sankcemi ho sama o sobě nepřiměje, aby ho vydal. Zbaví však režim argumentu, že jde o americký spor, upozorní každého souseda, který mu poskytuje útočiště, a způsobí, že odmítnutí pro něj bude mít důsledky ještě předtím, než sáhneme po pušce.\n\nPokud budou i nadále odmítat, nikdo v této komoře nebude moci říct, že jsme se nepokusili." # todo: NEW TRANSLATION
+ usa_operation_enduring_freedom: "Proveďte Operaci Enduring Freedom (OEF)" # todo: NEW TRANSLATION
+ usa_operation_enduring_freedom_desc: "Talibané odmítli vydat nám bin Ládina, takže si ho musíme vzít sami. Musíme připravit Operaci Enduring Freedom, která nám umožní poslat vybavení a nasadit vojáky na afghánistánskou půdu." # todo: NEW TRANSLATION
+ usa_homeland_security_act: "Zřídit Ministerstvo vnitřní bezpečnosti" # todo: NEW TRANSLATION
+ usa_homeland_security_act_desc: "Administrace navrhla myšlenku nového ministerstva, 'Ministerstvo vnitřní bezpečnosti USA'. Ministerstvo vnitřní bezpečnosti má absorbovat 22 federálních úřadů a kanceláří, včetně Federálního úřadu pro zvládání mimořádných situací.\n\nSe sídlem v komplexu Nebraska Avenue bude Ministerstvo vnitřní bezpečnosti mít za úkol chránit Spojené státy americké a jejich spojence před zahraničními subverzními hrozbami, primárně z terorismu. Ostatní země většinou svěřují tuto úlohu ministerstvu vnitra, ale americká verze ji očividně neplní." # todo: NEW TRANSLATION
+ usa_setup_new_administration_in_afghanistan: "Zřídit novou administrativu v Afghánistánu" # todo: NEW TRANSLATION
+ usa_setup_new_administration_in_afghanistan_desc: "Nyní, když Taliban byl poražen, musíme nastavit novou administrativu. Existuje několik možností, kdo by měl být vůdcem Afghánistánu." # todo: NEW TRANSLATION
+ usa_create_guantanamo_bay: "Založte detenční středisko Guantánamo Bay" # todo: NEW TRANSLATION
+ usa_create_guantanamo_bay_desc: "Aby bylo možné řešit budoucí podezřelé či prokázané teroristy, bude americká vláda a tajné služby potřebovat řádný a zabezpečený vězení, které nezatíží americké občany v případě vzpoury ve věznici či útěku. Taková lokalita by měla být ideálně na ostrově, který hostí i nepřátelskou vládu sledující hranici našeho území, a taková dohoda existuje na Kubě, kde USA drží pronájem (který kubánská vláda již neuznává) na oblast Guantánamo Bay Naval Base od roku 1903, pronájem, který byl poté na neurčito prodloužen v roce 1934.\n\nDále, další výhodou této lokace je, že Guantánamo Bay není stát ani území USA, což znamená, že americké právo a dokonce i ústava USA se tam nemusí nutně vztahovat. To poskytne CIA zajímavé možnosti..." # todo: NEW TRANSLATION
+ usa_run_war_support_campaign_against_iraq: "Spusťte kampaň na podporu války proti invazi do Iráku" # todo: NEW TRANSLATION
+ usa_run_war_support_campaign_against_iraq_desc: "OSN neschválila naši invazi do Iráku. Musíme spustit mediální kampaň, která dostane americký lid na naši stranu ještě před invazí." # todo: NEW TRANSLATION
+ usa_operation_iraqi_freedom: "Operace Irácká svoboda" # todo: NEW TRANSLATION
+ usa_operation_iraqi_freedom_desc: "Operace Irácká svoboda zahájila svou předběžnou plánovací fázi již v září 2002. Skutečné plánování však začalo v listopadu 2002, kdy irácká vláda nesplnila své závazky rezoluce a odmítla disarmaci vojenských sil a zastavení výroby zbraní hromadného ničení. Pokud nebudou spolupracovat, nebudeme mít na výběr a provedeme Operaci Irácká svoboda." # todo: NEW TRANSLATION
+ USA_wot_iraq_gave_us_cause: "Irák nám již poskytl důvod k válce" # todo: NEW TRANSLATION
+ KUR_join_invasion_of_iraq: "Připojte se k invazi do Iráku" # todo: NEW TRANSLATION
+ KUR_join_invasion_of_iraq_desc: "Šance zaútočit na Irák je právě teď!" # todo: NEW TRANSLATION
+ wot.2.t: "Masivní teroristický útok na východní pobřeží" # todo: NEW TRANSLATION
+ wot.2.da: "Obdrželi jsme zprávy o pokusu o teroristický útok na východním pobřeží. Brzy ráno dnes bylo zadrženo několik podezřelých členů Al-Káidy na Logan International Airport v Bostonu a na Dulles International Airport ve Washingtonu D.C.. Navzdory těmto raným varováním se pěti teroristům podařilo nalodit na Flight 93 na Newark International Airport v New Yorku. Při snaze unést letadlo odolávali cestující a nakonec způsobili pád letadla do pole v Stonycreek Township v Pensylvánii. Posádka sedmi členů, 33 cestujících a pěti únosců zahynuli během havárie.\n\nNa základě našich současných zpravodajských informací měly být letadla namířena na několik cílů na východním pobřeží, včetně World Trade Center, Pentagonu a budovy Kapitoly.\n\nNaštěstí byly naše zpravodajské služby na pozoru a podařilo se nám zabránit strašné tragédii." # todo: NEW TRANSLATION
+ wot.2.db: "Obdrželi jsme zprávy o hlavním teroristickém útoku na východním pobřeží. Únosci, pravděpodobně členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nBrzy ráno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. V 9:37 zasáhl let 77 Pentagon ve Washingtonu D.C.. Čtvrté letadlo, Flight 93, které bylo zřejmě namířeno na Kapitol, havarovalo v 10:3, když cestující se snažili letadlo znovu převzít od únosců.\n\nNaše země se musí vzpamatovat z děsivného dne. Politická situace je zcela jiná než včera." # todo: CHANGED NUMBER
+ wot.2.dc: "Obdrželi jsme zprávy o hlavním teroristickém útoku na východním pobřeží. Únosci, nejpravděpodobněji členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nBrzy ráno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž v 9:3. V 9:37 let 77 zasažil Pentagon ve Washingtonu D.C.. Na čtvrtém letadle, Flight 93, se cestující pokusili únoscům letadlo odzbrojit, ale neúspěšně. Teroristé udrželi letadlo ve vzduchu a nakonec ho srazili do strany Kapitolu v 10:23.\n\nNaše národ se musí zotavit z děsivného dne. Politická situace je zcela odlišná od té včerejší." # todo: CHANGED NUMBER
+ wot.2.a: "Uctíme oběť letu 93" # todo: NEW TRANSLATION
+ wot.2.b: "Ach, lidstvo!" # todo: NEW TRANSLATION
+ wot.2.c: "Ó, lidstvo!" # todo: NEW TRANSLATION
+ wot.3.t: "Diplomatická reakce na útoky na World Trade Center" # todo: NEW TRANSLATION
+ wot.3.d: "Spojené státy americké byly úmyslně a náhle napadeny nepřátelskými teroristickými bojovníky.\n\nJak Spojené státy připravují diplomatickou a vojenskou reakci na útoky proti World Trade Center a Pentagonu, zahraniční ministr [Root.GetAdjective] tlačí na vládu, aby vydala jasné a rozhodné prohlášení k této záležitosti." # todo: NEW TRANSLATION
+ wot.3.a: "Stojíme po boku Ameriky! Za žádných okolností!" # todo: NEW TRANSLATION
+ wot.3.b: "Odsuzujte útoky, ale nedávejte sliby." # todo: NEW TRANSLATION
+ wot.3.c: "Tohle je to, co se stane, když zasahujete do jiných zemí." # todo: NEW TRANSLATION
+ wot.4.t: "Místní politik podporuje vládu" # todo: NEW TRANSLATION
+ wot.4.da: "Jak se republikánská administrativa snaží najít rozhodnou reakci na nedávný teroristický útok, Demokratická strana zatím stála bokem a více či méně situaci sledovala, vydávala prohlášení odsouzení útočníkům, ale žádné jisté politické sliby ani požadavky.\n\nNyní se významný člen Demokratické strany z postiženého státu New York ujímá ústřední pozice v reakcích na útoky: Hillary Clinton, senátorka z New Yorku a bývalá první dáma Spojených států, pronesla jasný projev: \"Každý národ se musí buď k nám přidat, nebo být proti nám. Ti, kdo poskytují útočiště teroristům, či je financují, zaplatí cenu.\".\n\nDemokraté po celé zemi začali shromažďovat kolem Clintonových prohlášení, signalizují nejen solidaritu se svou senátorkou, ale i s Demokratickou administrativou, aby postupovali a přijali jakékoliv prostředky nezbytné k nalezení odpovědi na tento útok, který je nejen otřesný, ale zásadně antiamerický." # todo: NEW TRANSLATION
+ wot.4.db: "Jak Demokratická administrativa se snaží najít rozhodnou odpověď na nedávný teroristický útok, Republikánská strana zatím stála při ní a spíše sledovala situaci, vydávala prohlášení o odsouzení útočníků, ale žádné jisté politické sliby ani požadavky.\n\nNyní významný člen Republikánské strany z postiženého státu New York, Rudy Giuliani, starosta New Yorku a bývalý federální prokurátor USA, zaujal jasný projev: \"Každý národ se musí buď k nám přidat, nebo být proti nám. Ti, kdo poskytují útočiště teroristům, či je financují, zaplatí cenu.\".\n\nRepublikánská strana po celé zemi začala vyjadřovat podporu Giulianiho prohlášením, čímž signalizuje nejen solidaritu se starostou, ale i s Demokratickou administrativou, aby postupovali a přijali jakékoliv prostředky nezbytné k nalezení vhodné odpovědi na tento útok, který je nejen ohavný, ale i fundamentálně antiamerický." # todo: NEW TRANSLATION
+ wot.4.a: "Stojíme jednotně!" # todo: NEW TRANSLATION
+ wot.4.b: "Snaží se z tragédie jen profitovat!" # todo: NEW TRANSLATION
+ wot.5.t: "Národní modlitební služba" # todo: NEW TRANSLATION
+ wot.5.d: "[USA.GetLeader] bude pronášet ústřední projev na památném obřadu." # todo: NEW TRANSLATION
+ wot.5.a: "Toto je důležitá událost" # todo: NEW TRANSLATION
+ wot.5.b: "Nepotřebujeme to k uctění památky obětí" # todo: NEW TRANSLATION
+ wot.6.t: "Vražda Balbira Singha Sodhiho" # todo: NEW TRANSLATION
+ wot.6.d: "V důsledku teroristických útoků došlo ke značnému nárůstu islamofobního sentimentu a násilí po celé Spojené státy — ale většina útoků zůstávala jen u rasově či nábožensky motivovaného verbálního napadání, krádeží či poškození majetku. S Balbirem Singhem Sodhim to tak nebylo.\n\nIndický Sikh nar. v Indii byl mylně identifikován jako Muslim (kvůli jeho blízkovýchodnímu vzhledu a turbánu) čtyřiačtyřicetiletým Frankem Silvou Roque na čerpací stanici Singha v Mesa, Arizona. Sodhi byl následně zastřelen Roquem z jeho nákladního auta pistolí ráže .380. Roque utekl a dvacet minut poté se pokusil zabít dalšího člověka, libanonsky narozeného prodavače.\n\nPo neúspěšném pokusu o atentát Roque skončil svou teroristickou šňůru na svém bývalém sídle, které nyní obsadila afgánská rodina, a na budovu střílel, avšak nezpůsobil žádné oběti. Byl následující den zatčen a později odsouzen k trestu smrti za vraždu prvního stupně." # todo: NEW TRANSLATION
+ wot.6.a: "Nebudeme se nikdy vzdávat teroristům! Bez ohledu na barvu pleti!" # todo: NEW TRANSLATION
+ wot.6.b: "Bylo to pochopitelné nedorozumění" # todo: NEW TRANSLATION
+ wot.7.t: "Útoky antraxem" # todo: NEW TRANSLATION
+ wot.7.d: "Útoky antraxem, známé také jako Amerithrax podle názvu FBI pro případ, začaly krátce po teroristickém útoku.\n\nDopisy obsahující spóry antraxu byly odeslány mnoha jednotlivcům, včetně zpravodajů a dvou senátorů USA. Případ bio-terorismu je spojován s útokem na východní pobřeží (ale probíhající vyšetřování FBI dosud nenašlo definitivní důkazy) a dosud usmrtil pět lidí a dalších 17 zranil." # todo: NEW TRANSLATION
+ wot.7.a: "Všechny překážky překonáme" # todo: NEW TRANSLATION
+ wot.7.b: "Musíme najít ty, kteří to udělali!" # todo: NEW TRANSLATION
+ wot.8.t: "Projev boje proti terorismu" # todo: NEW TRANSLATION
+ wot.8.d: "[USA.GetLeader] pronesl projev na společném zasedání Kongresu USA, čímž vyhlásil, jak on to nazývá, \"Válka proti terorismu\".\n\nPrezident slíbil rozhodné a přímé reakce na teror a slavnostně pronesl následující projev vůči všem ostatním zemím světa: \"Každý národ, v každém regionu, nyní má na výběr. Buď jste s námi, nebo s teroristy.\"" # todo: NEW TRANSLATION
+ wot.8.a: "Přineseme spravedlnost" # todo: NEW TRANSLATION
+ wot.8.b: "A bude rychlá" # todo: NEW TRANSLATION
+ wot.9.t: "Spojené státy americké požadují vydání Osamy bin Ládina" # todo: NEW TRANSLATION
+ wot.9.d: "Po teroristickém útoku na východním pobřeží USA kontaktovaly naše představitele a požadují, abychom přerušili veškeré styky s našimi spojenci, Al-Káidou a jejím vůdcem Usámou bin Ládinem. Musíme také bin Ládina zajmout a předat do rukou USA. S ohledem na předchozí rétoriku odmítnutí této žádosti jistě promění USA v našeho nepřítele." # todo: CHANGED
+ wot.9.a: "Velký Satan na tom nezíská nic!" # todo: NEW TRANSLATION
+ wot.9.b: "Možná bude nutné uzavřít dohodu s ďáblem..." # todo: NEW TRANSLATION
+ wot.10.t: "Taliban odmítá vydání" # todo: NEW TRANSLATION
+ wot.10.d: "Talibané odmítli přestat spolupracovat s Al-Káidou a bin Ládinem. Zdá se, že jediný způsob, jak dostat zločince k soudu, je svrhnout celý režim Talibanů." # todo: NEW TRANSLATION
+ wot.10.a: "To nebyl překvapující výsledek" # todo: NEW TRANSLATION
+ wot.11.t: "Taliban souhlasí s vydáním" # todo: NEW TRANSLATION
+ wot.11.d: "Překvapivě Taliban souhlasil s vyhoštěním Al-Káidy ze země a s pronásledováním bin Ládina. Řekli, že jsou ochotni spolupracovat s americkou armádou na dopadení teroristů. Už jsme vyslali speciální jednotku, která má bin Ládina dopadnout na jeho posledně známém místě." # todo: NEW TRANSLATION
+ wot.11.a: "To je...podivné" # todo: NEW TRANSLATION
+ wot.12.t: "USA žádají o pomoc s Talibanem" # todo: NEW TRANSLATION
+ wot.12.d: "Spojené státy se chystají vytlačit Taliban z Afghánistánu. Požádaly o naši podporu v boji." # todo: NEW TRANSLATION
+ wot.12.a: "Pošleme vojáky do boje!" # todo: NEW TRANSLATION
+ wot.12.b: "Vyzbrojíme místní milice!" # todo: NEW TRANSLATION
+ wot.12.c: "Poskytneme morální podporu! Jdeme na to, tým!" # todo: NEW TRANSLATION
+ wot.13.t: "Volba kandidáta" # todo: NEW TRANSLATION
+ wot.13.da: "Musíme se rozhodnout, koho bychom měli doporučit jako vládce Afghánistánu. Je pravděpodobné, že současná místní vláda Afghánistánu bude s naší volbou souhlasit. Máme čtyři dobré kandidáty, ze kterých si můžeme vybrat.\n\nNaše volby jsou Hamid Karzai, který se přidal k Severní alianci poté, co byl jeho otec zabit Al-Káidou, Burhanuddin Rabbani, současný oficiální prezident Afghánistánu a vůdce konzervativní islamistické strany Jamiat, Ahmad Shah Massoud, Lev Paňšír, nebo exilový král Afghánistánu Mohammed Zahir Šáh." # todo: NEW TRANSLATION
+ wot.13.db: "Musíme se rozhodnout, koho bychom měli doporučit jako vládce Afghánistánu. Je pravděpodobné, že současná místní vláda Afghánistánu bude s naší volbou souhlasit. Máme tři dobré kandidáty, ze kterých si můžeme vybrat.\n\nNaše volby jsou Hamid Karzai, který se přidal k Severní alianci poté, co byl jeho otec zabit Al-Káidou, Burhanuddin Rabbani, současný oficiální prezident Afghánistánu a vůdce konzervativní islamistické strany Jamiat, nebo exilový král Afghánistánu Mohammed Zahir Šáh." # todo: NEW TRANSLATION
+ wot.13.a: "Hamid Karzai" # todo: NEW TRANSLATION
+ wot.13.b: "Burhanuddin Rabbani" # todo: NEW TRANSLATION
+ wot.13.c: "Ahmad Shah Massoud" # todo: NEW TRANSLATION
+ wot.13.d: "Mohammed Zahir Shah" # todo: NEW TRANSLATION
+ wot.15.a: "Pokračujte s invazí i tak." # todo: NEW TRANSLATION
+ wot.15.b: "Asi si budeme muset poslechnout je..." # todo: NEW TRANSLATION
+ wot.17.t: "Joining the Invasion of Iraq?" # todo: NEW TRANSLATION
+ wot.17.d: "The United States is planning to invade Iraq to topple the government of [IRQ.GetLeader]. The US is requesting us to join their war." # todo: NEW TRANSLATION
+ wot.17.a: "Of course we'll help our allies!" # todo: NEW TRANSLATION
+ wot.17.b: "This is an unjust war" # todo: NEW TRANSLATION
+ wot.20.t: "Osama bin Laden Evades Capture" # todo: NEW TRANSLATION
+ wot.20.d: "Our operation to capture bin Laden has been a total failure. By the time our forces arrived to his suspected compound, bin Laden was long gone. It is likely that forces sympathetic to him tipped him off of our operation, giving him ample time to escape.\n\nSo far, we don't have intelligence on where he escaped, but most likely he is already on his way out of Afghanistan." # todo: NEW TRANSLATION
+ wot.20.a: "Příště ho dostaneme" # todo: NEW TRANSLATION
+ wot.21.t: "Osama bin Laden Captured" # todo: NEW TRANSLATION
+ wot.21.d: "Our special forces managed to capture Osama bin Laden in his hideout in Afghanistan. With help from local Taliban informants, we were able to pinpoint his exact location, and he surrendered without a fight." # todo: NEW TRANSLATION
+ wot.21.a: "Dámy a pánové, dostali jsme ho" # todo: NEW TRANSLATION
+ wot.22.t: "Úkryt Osamy bin Ládina nalezen" # todo: NEW TRANSLATION
+ GetBinLadenHideoutName_loc: "[event_target:GLOBAL_bin_laden_hideout.GetNameDef]" # todo: NEW TRANSLATION
+ GetBinLadenHideoutName_unknown: "neznámá země" # todo: NEW TRANSLATION
+ GetBinLadenHideoutAdjective_loc: "[event_target:GLOBAL_bin_laden_hideout.GetAdjective]" # todo: NEW TRANSLATION
+ GetBinLadenHideoutAdjective_unknown: "hostitelská země" # todo: NEW TRANSLATION
+ wot.22.d: "Naše zpravodajské služby lokalizovaly nový úkryt Usámy bin Ládina. Identifikovali jsme komplex v [GetBinLadenHideoutName]. Ze záběrů z dronů a na základě místních zdrojů je toto místo bezpochyby bin Ládinovým úkrytem. Měli bychom okamžitě informovat vládu [GetBinLadenHideoutAdjective] a požádat ji o svolení k provedení speciální operace s cílem bin Ládina zlikvidovat" # todo: CHANGED
+ wot.22.a: "Okamžitě kontaktujte hostitelskou zemi!" # todo: NEW TRANSLATION
+ wot.22.b: "Komu na jednom teroristovi záleží?" # todo: NEW TRANSLATION
+ wot.23.t: "Spojené státy detekují Osamu bin Ládina" # todo: NEW TRANSLATION
+ wot.23.d: "Dnes nás kontaktoval ministr zahraničí Spojených států a informoval nás, že nalezli skrýš Osamy bin Ládina na našem území. Osama bin Laden, vůdce Al-Káidy, je zodpovědný za masivní teroristický útok na Spojené státy před několika lety. Naše zpravodajské služby byly schopny ověřit a znovu ověřit některé informace, které USA poskytly. Je velmi pravděpodobné, že bin Laden skutečně pobývá na tajném místě v naší zemi.\n\nPovolení USA provést tuto operaci by bylo velkým úderem proti globálnímu terorismu, ale dovolit zahraničním silám operovat v naší zemi je rizikové. Na druhou stranu je bin Ládin jedním z nejhledanějších teroristů na světě a odepření USA přístupu pravděpodobně nebude mít dobré následky pro Spojené státy" # todo: NEW TRANSLATION
+ wot.23.a: "Povolte operaci" # todo: NEW TRANSLATION
+ wot.23.b: "Nebudeme dovolit, aby USA ohrozily naši suverenitu!" # todo: NEW TRANSLATION
+ wot.24.t: "[FROM.GetName] souhlasí s operací" # todo: NEW TRANSLATION
+ wot.24.d: "[FROM.GetName] dal našim speciálním silám povolení vstoupit do jejich země a provést razii proti skrýši bin Ládina. Očekáváme výsledky operace během několika dní." # todo: NEW TRANSLATION
+ wot.24.a: "Skvěle" # todo: NEW TRANSLATION
+ wot.25.t: "[FROM.GetName] odmítá naši žádost!" # todo: NEW TRANSLATION
+ wot.25.d: "Po mnoha pokusech získat svolení [FROM.GetName] k provedení pozemního pátrání po bin Ládinovi nám [FROM.GetLeader] zaslal jednoduchou odpověď: \"Ne\". Někteří volají po tvrdých trestech pro [FROM.GetName] za očividné ignorování naší žádosti o pomoc ve válce proti terorismu. Mohli bychom to však nechat být, jakkoli nepopulární by to doma mohlo být..." # todo: CHANGED
+ wot.25.a: "Domnívám se, že jejich suverenita by měla být respektována." # todo: NEW TRANSLATION
+ wot.25.b: "Jak dlouho mohou být bez nás a naší pomoci?" # todo: NEW TRANSLATION
+ wot.25.c: "Pak vyrazíme bez nich." # todo: NEW TRANSLATION
+ wot.26.t: "Washington nabízí podmínky" # todo: NEW TRANSLATION
+ wot.26.d: "Američané vyslali prostředníka místo divize a jeho poselství zní takto. Afghánistán zůstane náš. Zachováme si vládu, soudy i zákony. Výměnou válka se Severní aliancí skončí tam, kde právě je, a emirát prožije své dny pod sankcemi, embargem a dohledem, odříznutý od trhů světa a podléhající Radě bezpečnosti, která nikdy ani jednou nebude hlasovat v náš prospěch.\n\nNěkteří členové šúry říkají, že jde o kapitulaci převlečenou za smlouvu, že jsme nevyhnali Sověty proto, aby nám Washington nasadil vodítko. Jiní ukazují na svazy letadlových lodí v Arabském moři a ptají se, jaká je alternativa.\n\nKabul s tím stále musí souhlasit. Pokud však odmítneme, nebude s čím souhlasit." # todo: NEW TRANSLATION
+ wot.26.a: "Přijměme podmínky. Emirát pod sankcemi je stále emirátem." # todo: NEW TRANSLATION
+ wot.26.b: "Nebojovali jsme proti Sovětům proto, aby nás spoutal Washington." # todo: NEW TRANSLATION
+ wot.27.t: "Mír, o který jsme nežádali" # todo: NEW TRANSLATION
+ wot.27.d: "Do Pandžšíru dorazil americký vyslanec s kusem papíru a návrhem, který není tím, za co jsme deset let bojovali.\n\nTálibán přijal podmínky Washingtonu. Vydá mu muže, které Amerika hledá, a podrobí se sankcím, výměnou si však ponechá Kabul, Kandahár a každé údolí, které dnes ovládá. Válka se jednoduše zastaví. Naši mrtví zůstanou mrtví, náš exil zůstane trvalý a muži, kteří pověsili Nadžíbulláha na kandelábr, budou vládnout zemi, která nám byla přislíbena.\n\nAmeričané poněkud laskavě upozorňují, že nevyhráváme. Nemýlí se. Je však rozdíl mezi prohranou válkou a podpisem pod přiznáním této prohry." # todo: NEW TRANSLATION
+ wot.27.a: "Podepišme to. Nevyhráváme a země krvácí." # todo: NEW TRANSLATION
+ wot.27.b: "Muži, kteří to způsobili, si Kandahár ponechat nesmějí." # todo: NEW TRANSLATION
+ wot.28.t: "Dohoda se rozpadá" # todo: NEW TRANSLATION
+ wot.28.d: "Jednání jsou mrtvá. Ať už od stolu odešla kterákoli strana, výsledek na našem stole je stejný: utratili jsme peníze, promrhali důvěryhodnost a nezískali vůbec nic.\n\nVálka v Afghánistánu pokračuje bez nás. Muži, kteří hostili bin Ládina, jsou stále v Kabulu a argument, že to mohla vyřešit diplomacie, byl právě vyřešen opačným způsobem — hlasitě a veřejně. Jestřábi už připravují svá prohlášení.\n\nZbývá jediný nástroj a všichni v této místnosti vědí, co to je." # todo: NEW TRANSLATION
+ wot.28.a: "Pak to uděláme jinak." # todo: NEW TRANSLATION
+ wotnews.1.t: "Rozsáhlý teroristický útok na východní pobřeží USA" # todo: NEW TRANSLATION
+ wotnews.1.da: "Novináři ze Spojených států nás upozornili na pokus o teroristický útok na východní pobřeží. Dnes časně ráno bylo několik podezřelých členů Al-Káidy zatčeno na Logan International Airport v Bostonu a na Dulles International Airport ve Washingtonu D.C. Navzdory těmto raným varováním se pět teroristů podařilo nastoupit na let 93 na Newark International Airport v New Yorku. Při snaze únosu, odpor cestujících postupně vedl k tomu, že letadlo havarovalo do pole v Stonycreek Township v Pensylvánii. Posádka sedmi členů, 33 cestujících a pěti únosců zemřela při havárii.\n\nNa základě našich současných zpravodajských informací měly být letadla namířena na několik cílů na východním pobřeží, včetně Světového obchodního centra, Pentagonu a budovy Kapitolu.\n\nNaštěstí byly naše zpravodajské služby na pozoru a podařilo se nám zabránit strašné tragédii." # todo: NEW TRANSLATION
+ wotnews.1.db: "Novináři ze Spojených států nám upozornili na masivní teroristický útok na východní pobřeží. Únosci, nejspíše členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nRáno dnes, v 8:46, let 11 zasáhl severní věž Světového obchodního centra v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. V 9:37 let 77 zasáhl Pentagon ve Washingtonu D.C.. Čtvrté letadlo, let 93, které bylo údajně namířeno na Kapitol, se zřítilo v 10:3 poté, co se cestující pokusili jej ovládnout." # todo: CHANGED NUMBER
+ wotnews.1.dc: "Novináři ze Spojených států nám upozornili na masivní teroristický útok na východní pobřeží. Únosci, pravděpodobně členové Al-Káidy, použili komerční letadla American Airlines Flight 11, United Airlines Flight 175, American Airlines Flight 77 a United Airlines Flight 93 jako létající bomby proti Spojeným státům. \n\nRáno dnes, v 8:46, let 11 zasáhl severní věž World Trade Center v New Yorku, krátce poté let 175 zasáhl jižní věž ve 9:3. O 9:37 let 77 zasáhl Pentagon ve Washingtonu D.C.. U čtvrtého letadla, let 93, cestující se pokusili letadlo odzbrojit, ale neúspěšně. Teroristé udrželi letadlo ve vzduchu a nakonec jej srazili do boční části Kapitolu ve 10:23.\n\nTo je hrozný den a ukazuje, jak daleko jsou teroristé ochotni zajít, aby dosáhli svých cílů." # todo: CHANGED NUMBER
+ wotnews.1.o1: "Nezapomeneme na to." # todo: NEW TRANSLATION
+ wotnews.1.o2: "V těchto časech stojíme spolu." # todo: NEW TRANSLATION
+ wotnews.1.o3: "Ó, lidstvo!" # todo: NEW TRANSLATION
+ wotnews.1.o4: "Nevěřící." # todo: NEW TRANSLATION
+ wotnews.2.t: "Demokraté a Republikáni se shromáždí" # todo: NEW TRANSLATION
+ wotnews.2.d: "V reakci na teroristické útoky se Demokratické a Republikánské strany rozhodly pohřbít válku mezi stranami a spojit síly.\n\nV New Yorku už Republikáni pod vedením Rudyho Giulianiho a Demokraté pod Hillary Clintonovou již úspěšně spolupracovali na odvrácení této katastrofy. Zdá se, že obě strany budou spolupracovat i po této krizi. Jenom tentokrát." # todo: NEW TRANSLATION
+ wotnews.2.a: "Spojené státy se spojují proti terorismu." # todo: NEW TRANSLATION
+ wotnews.3.t: "Národní modlitební služba Spojených států" # todo: NEW TRANSLATION
+ wotnews.3.d: "Pořádána v Washingtonské národní katedrále, Národní modlitební služba byla snahou dát Spojeným státům krátký oddech po neustálém III chaosu za poslední tři dny.\n\nPrezident [USA.GetLeader] pronesl hlavní projev akce a prohlásil: 'Jen tři dny od těchto událostí Američané ještě nemají odstup historie. Naše odpovědnost k historii je však již jasná: Odpovědět na tyto útoky a zbavit svět zla'" # todo: NEW TRANSLATION
+ wotnews.3.a: "Národ potřebuje čas na uzdravení." # todo: NEW TRANSLATION
+ wotnews.4.t: "Vražda Balbir Singh Sodhi" # todo: NEW TRANSLATION
+ wotnews.4.d: "V důsledku teroristických útoků vzrostlo ve Spojených státech násilí vůči různým etnickým a náboženským skupinám. To zahrnuje arabské muslimy – a lidi, kteří vypadají, že jsou." # todo: NEW TRANSLATION
+ wotnews.4.a: "Z konfliktu vychází konflikt." # todo: NEW TRANSLATION
+ wotnews.5.t: "Americké antraxové útoky" # todo: NEW TRANSLATION
+ wotnews.5.d: "FBI zveřejnilo veřejné informace o případu Amerithrax, sérii pokusů o atentáty pomocí dopisů infikovaných spórami anthraxu, které začaly těsně po teroristickém útoku na východním pobřeží.\n\nAdresáty dopisů zahrnovali šéfa Senátu Toma Daschlea (D) a Vermontského senátora Patricka Leahyho (D).\n\nPěti lidem se doposud podařilo zemřít. FBI dosud nezveřejnila informace o žádných podezřelých." # todo: NEW TRANSLATION
+ wotnews.5.a: "Teror pokračuje." # todo: NEW TRANSLATION
+ wotnews.6.t: "Válka proti terorismu" # todo: NEW TRANSLATION
+ wotnews.6.d: "Čtrnáct dní po útocích na východním pobřeží pronesl [USA.GetLeader] možná nejvýznamnější projev počátku 2000s. Hovořili o vnitřní a zahraniční politice a učinili prohlášení 'buďte s námi, nebo s teroristy' výrokem: 'Každý národ, v každém regionu, nyní musí učinit rozhodnutí. Buďte s námi, nebo s teroristy. Od tohoto dne bude jakýkoli národ, který bude nadále hostit či podporovat terorismus, považován Spojenými státy za nepřátelský režim.'" # todo: NEW TRANSLATION
+ wotnews.6.a: "Blíží se válka?" # todo: NEW TRANSLATION
+ wotnews.7.t: "[USA.GetLeader] oznamuje 'Enduring Freedom'" # todo: NEW TRANSLATION
+ wotnews.7.d: "Prezident Spojených států, [USA.GetLeader], informoval americký Kongres, že zítra začne vojenská invaze do Talibanem vládnutého Islámského emirátu Afghánistán. \n\nAmerická armáda ponese název 'Operace Enduring Freedom'. Prezident také oznámil záměr zapojit spojenecké státy do válečného úsilí. \n\nVláda Afghánistánu již vydala prohlášení o protestu, ale jelikož žádný významný národ na světě nemá diplomatické vztahy s Afghánistánem, pravděpodobně to nebude mít vliv." # todo: NEW TRANSLATION
+ wotnews.7.a: "Válka se blíží." # todo: NEW TRANSLATION
+ wotnews.8.t: " Bonnská dohoda" # todo: NEW TRANSLATION
+ wotnews.8.d: "V snaze vybudovat řádný poválečný pořádek v Afghánistánu bez Talibanů se sešlo několik národních delegací ze západních zemí s 25 afghánskými vůdci ve městě Bonn v Německu.\n\n[AFG.GetLeader] byl mezinárodní komunitou uznán za oprávněného prezidenta Afghánistánu. Většina zemí světa nyní znovu začala navazovat diplomatické vztahy s Afghánistánem." # todo: NEW TRANSLATION
+ wotnews.8.a: "Najde Afghánistán konečně mír?" # todo: NEW TRANSLATION
+ wotnews.9.t: "Věznice Guantánamo Bay" # todo: NEW TRANSLATION
+ wotnews.9.d: "V reakci na teroristické útoky z 11. září vláda Spojených států hledala místo pro umístění vysoce rizikových vězňů, obviněných z účasti na teroristických aktivitách nebo aktivního plánování takových činů.\n\nTakové centrum bylo nyní zřízeno ve vládou kontrolované části ostrova Kuba, na námořní základně Guantánamo Bay. Kubánská vláda, která neuznává pokračující pronájem Guantánamo Bay Spojenými státy, již podala protest proti rozšiřování americké vojenské přítomnosti na ostrově." # todo: NEW TRANSLATION
+ wotnews.9.a: "To bude jistě zcela legální a humánní." # todo: NEW TRANSLATION
+ wotnews.11.t: "Válka proti Iráku začíná" # todo: NEW TRANSLATION
+ wotnews.11.d: "Prezident [USA.GetLeader] pronesl projev v přímém vysílání krátce poté, co výbuchy otřásly iráckou metropolí Bagdád, což signalizuje zahájení operace Irácká svoboda. Kampaň vedená USA má za cíl zbavit Irák jeho diktátora, [IRQ.GetLeader], a zlikvidovat jeho schopnost ukládat, vyvíjet a nasazovat svůj zásobník zbraní hromadného ničení. Úder přišel jen několik dní poté, co irácký prezident, [IRQ.GetLeader] nedodržel 48hodinovou lhůtu k opuštění země. V reakci na vojenskou invazi prohlásilo Iračské rádio v Bagdádu, že „Zlí lidé, nepřátelé Boha, vlasti a lidstva, spáchali hloupou agresi proti naší vlasti a lidu.“. Mezitím americké vojenské zdroje uvedly, že pět klíčových členů iráckého režimu, včetně [IRQ.GetLeader], bylo cílem v prvních útocích." # todo: NEW TRANSLATION
+ wotnews.11.a: "Válka proti terorismu pokračuje." # todo: NEW TRANSLATION
+ wotnews.12.t: "Saddám Husajn zajat" # todo: NEW TRANSLATION
+ wotnews.12.d: "Americké síly dnes dopadly vousatého a znuděně vyhlížejícího Saddáma Husajna v podzemním úkrytu na farmě poblíž jeho rodného města Tikrítu. Zadržení přišlo několik měsíců poté, co americké jednotky vtrhly do Bagdádu, a znamená konec jedné z nejintenzivnějších honů na člověka v historii. V televizním projevu odpoledne prohlásil americký prezident [USA.GetLeader], že Saddám bude čelit „spravedlnosti, kterou upřel milionům“. Řekl, že zatčení bývalého iráckého vůdce „znamená konec cesty pro něj a pro všechny, kdo ho šikanovali a zabíjeli ve jménu jeho.“ Nicméně prezident také varoval, že to neznamená konec násilí v Iráku." # todo: NEW TRANSLATION
+ wotnews.12.a: "Dámy a pánové, dopadli jsme ho!" # todo: NEW TRANSLATION
+ wotnews.13.t: "Saddám Husajn odsouzen k trestu smrti" # todo: NEW TRANSLATION
+ wotnews.13.d: "Saddám Husajn byl dnes ráno popraven poté, co byl iráckým soudem shledán vinným z činů proti lidskosti. Rozsudek byl vykonán v bývalém sídle vojenské zpravodajské služby v šiítské čtvrti Bagdádu v 6:00 místního času (3:00 GMT). V připraveném prohlášení prohlásil [USA.GetLeader], že Saddámova poprava nezastaví násilí v Iráku, ale že je to „důležitý milník na cestě Iráku k demokracii, která může vládnout, udržovat a bránit se, a být spojencem ve válce proti terorismu“. Kancelář iráckého premiéra vydala prohlášení, že Saddámovo popravení je „silnou lekcí“ pro kruté vůdce, kteří páchají zločiny proti svým lidem." # todo: CHANGED NUMBER
+ wotnews.13.a: "Dobře." # todo: NEW TRANSLATION
+ wotnews.14.t: "USA stahují jednotky z Iráku" # todo: NEW TRANSLATION
+ wotnews.14.d: "Poslední konvoj amerických vojáků opustil Irák, čímž ukončil téměř devět let války, která si vyžádala mnoho obětí na obou stranách a zanechala zemi potýkající se s politickou nejistotou. Poslední kolona přibližně 100 převážně amerických obrněných vozidel MRAP s 500 americkými vojáky se v noci a za úsvitu přesunula přes poušť jižního Iráku ze své poslední základny po prázdné dálnici ke kuvajtské hranici. Pro Spojené státy je stažení armády naplněním slibu přivést vojáky domů z konfliktu, který je obecně považován za nejméně populární válku od Vietnamu a který pošramotil postavení Ameriky ve světě. Pro Iráčany však odchod přináší pocit svrchovanosti, zmírněný přetrvávajícími obavami, že jejich země znovu sklouzne k sektářskému násilí, které na vrcholu v letech 2006–2007 zabilo mnoho tisíc lidí." # todo: CHANGED
+ wotnews.14.a: "Najde Irák konečně mír?" # todo: NEW TRANSLATION
+ wotnews.15.t: "Spojené státy zajaly Osamu bin Ládina" # todo: NEW TRANSLATION
+ wotnews.15.d: "Dnes oznámila vláda [USA.GetAdjective], že dopadla Osamu bin Ládina v Afghánistánu. Bin Ládin byl hlavním mozkem za teroristickým útokem ve Spojených státech. S pomocí místních informátorů Talibanu provedly americké speciální síly nájezd na Ládínův komplex. Podle zpráv se vzdal bez boje, když čelil speciálním jednotkám." # todo: NEW TRANSLATION
+ wotnews.15.a: "Zajímavé" # todo: NEW TRANSLATION
+ wotnews.16.t: "Saddám Husajn byl zabit" # todo: NEW TRANSLATION
+ wotnews.16.d: "Spojené státy oznámily, že provedly protiteroristickou operaci v [GetBinLadenHideoutName] a v tajném komplexu zabily Usámu bin Ládina, vůdce Al-Káidy. Skupina příslušníků jednotek Navy SEALs vpadla na místo krátce po místní půlnoci a podle zpráv zastřelila neozbrojeného vůdce teroristů. Jeho tělo bylo kvůli identifikaci letecky přepraveno ze země na nedalekou americkou loď, zatímco jeho mrtví tělesní strážci a zbytek jeho doprovodu byli ponecháni místním bezpečnostním složkám. O několik hodin později byl pohřben v moři v souladu s islámskou tradicí.\n\nUSA to považují za velké vítězství nad terorismem a mnoho extremistických skupin již přísahalo Američanům pomstu." # todo: CHANGED
+ wotnews.16.a: "Zajímavé" # todo: NEW TRANSLATION
+ wotnews.17.t: "Bin Ládin unikl z Afghánistánu" # todo: NEW TRANSLATION
+ wotnews.17.d: "Zatímco koaliční letouny bombardovaly jeskyně Tora Bora, muž, pro kterého přišly, byl už pryč. Zpravodajské služby se nyní domnívají, že Usáma bin Ládin před několika týdny překročil hranici a je ukrýván v [GetBinLadenHideoutName], kde se pod ochranou sympatizantů přesouvá mezi bezpečnými domy.\n\nTažení v Afghánistánu lze stále vyhrát. Honička však teprve začíná a bude se odehrávat v zemi, s níž koalice není ve válce." # todo: NEW TRANSLATION
+ wotnews.17.a: "Nemůže se skrývat navždy." # todo: NEW TRANSLATION
+ wotnews.19.t: "Stopa chladne" # todo: NEW TRANSLATION
+ wotnews.19.d: "Pátrání po Usámovi bin Ládinovi tiše skončilo. Nezbyl žádný objekt ke sledování, žádná vláda, na kterou by bylo možné tlačit, ani informátor ochotný přijmout americké peníze. Poslední bezpečné domy, které mu poskytovaly útočiště, zmizely spolu se státy, jež je tolerovaly.\n\nZpravodajští představitelé pouze uvedou, že již „není považován za aktivní operační hrozbu“. Na otázku, zda je naživu, odmítnou odpovědět. Na otázku, zda po něm ještě někdo pátrá, odmítnou odpovědět také.\n\nNěkde na světě se nejhledanější muž jednoduše stal nedohledatelným." # todo: NEW TRANSLATION
+ wotnews.19.a: "Některé války končí i bez těla." # todo: NEW TRANSLATION
+ wotnews.20.t: "Nálet zasáhl prázdný dům" # todo: NEW TRANSLATION
+ wotnews.20.d: "Americké vrtulníky v noci bez povolení a bez varování překročily suverénní hranici a vrátily se s prázdnýma rukama.\n\nObjekt byl prázdný. Zda byl varován, zda byla zpravodajská informace od začátku chybná, nebo zda se jednoduše přesunul o týden dříve, si ve Washingtonu nikdo netroufá říct. Nesporné je, že jednotka cizích speciálních sil provedla ozbrojenou operaci na území země, s níž Spojené státy nejsou ve válce, a během ní zabila několik občanů této země.\n\nRada bezpečnosti se sejde zítra. Administrativa nemá co předložit." # todo: NEW TRANSLATION
+ wotnews.20.a: "Fiasko." # todo: NEW TRANSLATION
+ MD_terror.20.t: "Regionální teroristická síť se rozšiřuje" # todo: NEW TRANSLATION
+ MD_terror.20.d: "Zpravodajské zprávy naznačují, že teroristická organizace působící v našem regionu překročila svůj původní místní základ. Skupina vybudovala sítě a buňky napříč širším regionem. Bezpečnostní analytici varují, že naše země se nyní může nacházet v dosahu jejich operačního plánování." # todo: NEW TRANSLATION
+ MD_terror.20.a: "Znepokojivé, ale zatím to není náš bezprostřední problém." # todo: NEW TRANSLATION
+ MD_terror.20.b: "Posilme naši domácí protiteroristickou přítomnost." # todo: NEW TRANSLATION
+ MD_terror.20.c: "Jejich věc se šíří. Chvála budiž." # todo: NEW TRANSLATION
+ MD_terror.21.t: "Teroristická organizace dosahuje globálního dosahu" # todo: NEW TRANSLATION
+ MD_terror.21.d: "Zpravodajské agentury po celém světě dospěly k závěru, že významná teroristická organizace získala operační kapacitu k provádění útoků v globálním měřítku. Organizace, která byla kdysi regionální hrozbou, vybudovala mezinárodní síť buněk, financování a logistiky. Žádný národ se již nemůže považovat za nedosažitelný pro její plánování." # todo: NEW TRANSLATION
+ MD_terror.21.a: "Zůstaneme ostražití." # todo: NEW TRANSLATION
+ MD_terror.21.b: "Okamžitě posilme naše protiteroristické operace." # todo: NEW TRANSLATION
+ MD_terror.21.c: "Dosah chalífátu nyní sahá po celé zeměkouli." # todo: NEW TRANSLATION
+ war_on_terror_leader: "Kampaň v boji proti terorismu" # todo: NEW TRANSLATION
+ USA_wot_extradition_accepted: "§YSpolupráce s Tálibánem§!" # todo: NEW TRANSLATION
+ USA_unilateral_raid_threat: "Jednostranný nálet na cizím území" # todo: NEW TRANSLATION
+ usa_petition_invasion_of_iraq: "Předložit irácké odzbrojení Radě bezpečnosti" # todo: CHANGED
+ usa_petition_invasion_of_iraq_desc: "Víme, že [IRQ.GetLeader] disponuje zbraněmi hromadného ničení. Předložíme Radě bezpečnosti rezoluci, která prohlásí Irák za stranu závažně porušující své odzbrojovací závazky a varuje před vážnými důsledky.\n\nNeopravní to k invazi. Žádná taková rezoluce by hlasováním neprošla a naši vlastní právníci to vědí. Získáme tím však legitimitu, a pokud se bez ohledu na vše chystáme vstoupit do Bagdádu, je lepší jít tam s Radou v zádech než navzdory jejímu postoji." # todo: CHANGED
+ TT_IRAQ_DISARMAMENT_UNSC_PETITION: "Předložit rezoluci o odzbrojení §YR adě bezpečnosti OSN§!. Pokud projde, §YIrák§! bude prohlášen za závažné porušení svých závazků, což nám poskytne diplomatické krytí k invazi. Pokud neprojde, vyrazíme sami." # todo: NEW TRANSLATION
+ wot.15.t: "Rada bezpečnosti rozhodla" # todo: CHANGED
+ wot.15.da: "Rezoluce byla přijata. Irák byl prohlášen za závažné porušení svých odzbrojovacích závazků a Rada varovala před vážnými důsledky, pokud [IRQ.GetLeader] neuposlechne.\n\nRezoluce nás však neopravňuje k invazi. Nikdy k tomu neměla směřovat a prosazování druhé rezoluce, která by to říkala otevřeně, by pouze poskytlo Francii možnost veta a zbytku komory výmluvu. Máme však Radu na své straně. Pokud nyní vstoupíme do Iráku, bude právní základ sporný, ale naši spojenci nás budou moci následovat." # todo: NEW TRANSLATION
+ wot.15.db: "Rezoluce neprošla. Rada nebyla ochotna připojit své jméno ani k konstatování závažného porušení a druhý pokus nebude.\n\nTo nás ponechává tam, kde jsme vždy tušili, že skončíme: přesvědčeni, že [IRQ.GetLeader] je hrozbou, a zcela sami v ochotě s tím něco udělat. Do Iráku stále můžeme vstoupit. Jednoduše půjdeme bez krytí a účet za to přijde na řadu dlouho poté, co padne Bagdád." # todo: NEW TRANSLATION
+ TT_IRAQ_INVASION_WITH_COVER: "Vpadneme s podporou záznamu §YRady bezpečnosti§!. §GNižší mezinárodní pobouření a naši partneři nás mohou následovat.§!" # todo: NEW TRANSLATION
+ TT_IRAQ_INVASION_WITHOUT_COVER: "Vpadneme zcela bez §Rdiplomatického krytí§!. §RVelké mezinárodní pobouření a Rada bezpečnosti nám to neodpustí.§!" # todo: NEW TRANSLATION
+ USA_iraq_invasion_threat: "Invaze do Iráku" # todo: NEW TRANSLATION
+ usa_broker_afghan_settlement: "Zprostředkovat afghánské urovnání" # todo: NEW TRANSLATION
+ usa_broker_afghan_settlement_desc: "Vydali nám bin Ládina. Stále však válčí se Severní aliancí a právě tato válka udělala z Afghánistánu místo, kde mohli muži jako on zmizet.\n\nMůžeme ji ukončit bez jediné americké divize. Uznáme Tálibán jako vládu státu, od něhož si udržujeme odstup, podrobeného sankcím a dohledu, a vnutíme mír mužům v Pandžšíru, kteří s ním deset let bojovali. Neuspokojí to nikoho. Kabul nám bude zavázán, Kandahár nás bude nenávidět a jestřábi doma to označí za kapitulaci.\n\nBude to však první válka za celou generaci, kterou Amerika ukončila, místo aby ji začala." # todo: NEW TRANSLATION
+ TT_AFGHAN_SETTLEMENT_OFFERED: "Předložit podmínky §YTálibánu§! a §YKabulu§!. §RKterákoli strana může od jednacího stolu odejít.§!" # todo: NEW TRANSLATION
+ TT_WOT_DIPLOMATIC_VICTORY: "§GZískali jsme ho bez války.§! Jestřábi nám to neodpustí." # todo: NEW TRANSLATION
+ TT_WOT_INVADE_AFTER_COMPLIANCE: "§RVydali nám ho a my přesto vpadneme.§! Rada bezpečnosti na to nezapomene a nezapomenou ani naši vlastní lidé." # todo: NEW TRANSLATION
+ TT_WOT_TORE_UP_OUR_OWN_TREATY: "§RNapsali jsme mír, přiměli jsme §YKabul§! ho podepsat a sami ho rušíme.§! Afghánistán nám už nikdy nebude věřit a §Rnáš vliv tam se zhroutí§!." # todo: NEW TRANSLATION
+ USA_wot_unprovoked_invasion: "Invaze proti spolupracujícímu režimu" # todo: NEW TRANSLATION
+ USA_wot_broken_settlement: "Porušení afghánského urovnání" # todo: NEW TRANSLATION
+ wotnews.18.t: "Mír v Afghánistánu" # todo: NEW TRANSLATION
+ wotnews.18.d: "Válka, která pohlcovala Afghánistán od odchodu Sovětů, dnes skončila — nikoli v Kabulu nebo Kandaháru, ale u jednacího stolu, na jehož jedné straně byly americké peníze a na druhé delegace Tálibánu.\n\nTálibán si zemi ponechá. Zůstane však pod sankcemi, embargem a dohledem, zatímco Washington bude držet ruku na rameni Kabulu. Nikdo to nenazval vítězstvím. Muži, kteří deset let bojovali v údolí Pandžšíru, se vracejí domů a Usáma bin Ládin je v americkém zajetí.\n\nVe Washingtonu jsou lidé, kteří místo toho chtěli 101. výsadkovou divizi v Kandaháru. Budou se o tom přít dvacet let." # todo: NEW TRANSLATION
+ wotnews.18.a: "Válka skončila." # todo: NEW TRANSLATION
+ wot.0.t: "Bin Ládin odhodlán udeřit ve Spojených státech" # todo: NEW TRANSLATION
+ wot.0.d: "Prezidentský denní přehled na stole prezidenta má dnes ráno stránku a půl. Neuvádí datum, město ani cíl. Tvrdí, že Usáma bin Ládin chtěl zaútočit uvnitř Spojených států už od roku 1997, že jeho stoupenci zde žijí celé roky a že Úřad zaznamenal to, co označuje za vzorce podezřelé činnosti odpovídající přípravám únosů.\n\nJe to jedno memorandum. Podobných jich byly desítky a muži, kteří je sepsali, nám nedokážou říct kdy, kde ani jak. Jednou věcí si však jsou jisti: přichází a hodlá to provést zde.\n\nMůžeme kvůli stránce a půl spekulací uvést zpravodajskou komunitu do válečného režimu a nést odpovědnost za náklady, pokud se nic nestane. Nebo to můžeme založit." # todo: NEW TRANSLATION
+ wot.0.a: "Uveďme komunitu do válečného režimu." # todo: NEW TRANSLATION
+ wot.0.b: "Je to jedno memorandum ze stovek." # todo: NEW TRANSLATION
+ TT_WOT_PDB_ACT: "Získejte §Y10§! zpravodajských informací o §Yal-Káidě§!. Lepší informace zvyšují šanci, že překazíme to, co se chystá." # todo: NEW TRANSLATION
+ TT_BIN_LADEN_RAID_UNILATERAL: "Pošlete je tam bez povolení. §GŠance, že nálet zabije §YUsámu bin Ládina§!, činí 75 %.§!\n§RŠance 25 %, že objekt bude prázdný: přesune se, Rada bezpečnosti nás odsoudí a doma se za to budeme zodpovídat.§!" # todo: NEW TRANSLATION
+ TT_WOT_INTEL_COOPERATION: "§GStále s námi mluví. Získejte §Y15§! zpravodajských informací o §Yal-Káidě§!.§!" # todo: NEW TRANSLATION
+ TT_WOT_INTEL_PRESSURE: "§GÚtočiště začíná být neklidné. Získejte §Y5§! zpravodajských informací o §Yal-Káidě§! a síť bude více odhalena.§!" # todo: NEW TRANSLATION

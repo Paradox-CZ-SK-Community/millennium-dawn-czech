@@ -1,91 +1,120 @@
 ﻿l_english:
-  industrial_complex: "Civilní průmysl" # todo: NEW TRANSLATION
-  industrial_complex_plural: "Civilní průmysly" # todo: NEW TRANSLATION
-  industrial_complex_desc: "Tato budova poskytuje státu průmyslové kapacity pro výrobu civilního zboží nebo výstavbu nových budov. V případě potřeby může být převedena na vojenský průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y345K§!\nZákladní HDP na §YCivilní průmysl§!: $§Y20 miliard§!\nZákladní spotřeba energie: §R-0.4§! GW\n" # todo: NEW TRANSLATION
-  arms_factory: "Vojenský průmysl" # todo: NEW TRANSLATION
-  arms_factory_plural: "Vojenské průmysly" # todo: NEW TRANSLATION
-  arms_factory_desc: "Tato budova poskytuje státu průmyslové kapacity pro výrobu nového vojenského vybavení. V případě potřeby může být převedena na civilní průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní HDP na §YVojenský průmysl§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
-  infrastructure: "Infrastruktura" # todo: NEW TRANSLATION
-  infrastructure_plural: "Infrastruktury" # todo: NEW TRANSLATION
-  infrastructure_desc: "Tato budova zlepšuje infrastrukturu státu. Zvyšuje zásobovací kapacitu ve strategických regionech a zrychluje pohyb vašich divizí, zároveň zvyšuje těžbu surových zdrojů." # todo: NEW TRANSLATION
-  internet_station: "Síťová infrastruktura" # todo: NEW TRANSLATION
-  internet_station_plural: "Síťová infrastruktura" # todo: NEW TRANSLATION
-  internet_station_desc: "§YSíťová infrastruktura§! jsou vysoké stavby využívané v telekomunikačních a radiokomunikačních oblastech k přenosu signálu na velké vzdálenosti nebo pro podzemní optické kabely a cloudové výpočetní systémy.\n\nKaždá úroveň §YSíťové infrastruktury§! zvyšuje rychlost místního růstu produktivity o §G+5.00%§!.\nKaždá úroveň §YSíťové infrastruktury§! zkracuje dobu trvání §YMezinárodních investic§! o §G-5.00%§!." # todo: NEW TRANSLATION
-  dockyard: "Námořní loděnice" # todo: NEW TRANSLATION
-  dockyard_plural: "Námořní loděnice" # todo: NEW TRANSLATION
-  dockyard_desc: "§YNámořní loděnice§! reprezentují schopnost státu vyrábět vojenské plavidla všech druhů, od §Yhlídkových lodí§!, §Ykonvojů§!, §Ytorpédoborců§!, §Yletadlových lodí§! a dalších.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní HDP na §YNámořní loděnici§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: NEW TRANSLATION
-  air_base: "Letecká základna" # todo: NEW TRANSLATION
-  air_base_plural: "Letecké základny" # todo: NEW TRANSLATION
-  air_base_desc: "§YLetecká základna§! je skladovací zařízení a vojenský komplex pro rozmístění a přípravu vašich leteckých sil. Lze ji vrstvit až do úrovně deset, přičemž každá úroveň přidá kapacitu §Y50§! letadel." # todo: NEW TRANSLATION
-  radar_station: "Radarová stanice" # todo: NEW TRANSLATION
-  radar_station_plural: "Radarové stanice" # todo: NEW TRANSLATION
-  radar_station_desc: "§YRadarové stanice§! vám umožňují získávat zpravodajské informace o nepřátelských jednotkách v blízkých státech. Skládají se z různých radarů a senzorů, stejně jako zpravodajských prostředků a kapacit pro analýzu vyvíjející se situace.\nVyšší úroveň zvýší jejich efektivní dosah.\nJejich radary také poskytují státu lepší detekci nepřátelských leteckých sil, čímž dávají vašim letadlům lepší šanci se s nimi zapojit.\nNavíc radary zvyšují detekci nepřátelských flotil na moři." # todo: NEW TRANSLATION
-  RADAR_ONMAP_TOOLTIP: "§HRadarová stanice§! úroveň: $LVL|G$/$TOT|H$\nPatří: $WHO|H$" # todo: NEW TRANSLATION
-  RADAR_ONMAP_DAMAGED_TOOLTIP: "§HRadarová stanice§! úroveň: $LVL|R$/$TOT|H$\nPatří: $WHO|H$" # todo: NEW TRANSLATION
-  anti_air_building: "SHORAD stanoviště" # todo: NEW TRANSLATION
-  anti_air_building_plural: "SHORAD stanoviště" # todo: NEW TRANSLATION
-  anti_air_building_desc: "§YSHORAD stanoviště§! (Short Range Air Defense) jsou komplexy a skupiny protiletadlových zbraní a taktik, které se zabývají protileteckou obranou proti nízkoletícím hrozbám. Tato stanoviště spolupracují při rozdělení vzdušného prostoru na bránitelné sektory, poskytují lokální vojenské cíle a krytí infrastruktury proti všemu od vrtulníků přes nízko létající letadla až po stíhačky." # todo: NEW TRANSLATION
-  nuclear_reactor: "Jaderný reaktor" # todo: NEW TRANSLATION
-  nuclear_reactor_plural: "Jaderné reaktory" # todo: NEW TRANSLATION
-  nuclear_reactor_desc: "Tato budova přeměňuje jadernou energii na elektrickou energii a při tom spotřebovává středně obohacený uran.\n\nPoskytuje státu:\nZákladní zisk energie: §G+2§! GW\n" # todo: NEW TRANSLATION
-  synthetic_refinery: "Infrastruktura obnovitelných zdrojů energie" # todo: NEW TRANSLATION
-  synthetic_refinery_plural: "Infrastruktura obnovitelných zdrojů energie" # todo: NEW TRANSLATION
-  synthetic_refinery_desc: "§YInfrastruktura obnovitelných zdrojů energie§! zahrnuje všechny zdroje obnovitelné energie. Patří sem mimo jiné solární parky, větrné turbíny, rafinerie biopaliv, plantáže pro dřevěné uhlí, elektrárny na biopaliva a další. Využívá obnovitelné zdroje a vyrábí z nich palivo.\n\nPoskytuje státu s:\nZákladní zisk energie: §G+0.5§! GW\n" # todo: NEW TRANSLATION
-  synthetic_refinery_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
-  synthetic_refinery_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION
-  fuel_silo: "Strategická palivová rezerva" # todo: NEW TRANSLATION
-  fuel_silo_plural: "Strategické palivové rezervy" # todo: NEW TRANSLATION
-  fuel_silo_desc: "§YStrategická palivová rezerva§! je souhrn skladů, suchých skladovacích prostor a dalších skladovacích zařízení pro §Ypalivo§!. Tato budova poskytuje vaší zemi více místa pro hromadění §HPaliva§!." # todo: NEW TRANSLATION
-  offices: "Kancelářský sektor" # todo: NEW TRANSLATION
-  offices_plural: "Kancelářské sektory" # todo: NEW TRANSLATION
-  offices_desc: "§YKancelářské sektory§! představují všechny ostatní odvětví ekonomiky mimo těžební a těžký průmysl. Patří sem finanční, zákaznické služby, informační technologie, maloobchodní služby a mnohé další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y630K§!\nZákladní HDP na §YKancelářský sektor§!: $§Y50 miliard§!\nZákladní spotřeba energie: §R-0.25§! GW" # todo: NEW TRANSLATION
-  naval_base: "Námořní základna" # todo: NEW TRANSLATION
-  naval_base_plural: "Námořní základny" # todo: NEW TRANSLATION
-  naval_base_desc: "Rozšiřuje dosah vaší flotily a poskytuje jí opravárenské služby. Umožňuje zásobování a vývoz surovin do zámoří. Vyšší úrovně zvyšují průtok zásob." # todo: NEW TRANSLATION
-  bunker: "Pozemní pevnost" # todo: NEW TRANSLATION
-  bunker_plural: "Pozemní pevnosti" # todo: NEW TRANSLATION
-  bunker_desc: "Tato budova uvaluje na útočníka v bojích trest za útok ve výši $VALUE|+%0$ za každou úroveň pevnosti. Útok z více směrů sníží účinek pevností." # todo: NEW TRANSLATION
-  coastal_bunker: "Pobřežní pevnost" # todo: NEW TRANSLATION
-  coastal_bunker_plural: "Pobřežní pevnosti" # todo: NEW TRANSLATION
-  coastal_bunker_desc: "Tato budova uvaluje na útočníka v námořním invazním boji trest za útok ve výši $VALUE|+%0$ za každou úroveň pevnosti." # todo: NEW TRANSLATION
-  supply_node: "Zásobovací uzel" # todo: NEW TRANSLATION
-  supply_node_desc: "Zásobovací uzel je místo podél železnice, mimo existující města, odkud lze čerpat zásoby." # todo: NEW TRANSLATION
-  rail_way: "Železnice" # todo: NEW TRANSLATION
-  rail_way_plural: "Železnice" # todo: NEW TRANSLATION
-  rail_way_desc: "Železnice slouží k propojení zásobovacích uzlů, aby bylo možné čerpat zásoby daleko od vaší metropole.\n\nKaždá úroveň §YŽeleznic§! zvyšuje rychlost místního růstu produktivity o §G+4.00%§!." # todo: NEW TRANSLATION
-  fossil_powerplant: "Elektrárna na fosilní paliva" # todo: NEW TRANSLATION
-  fossil_powerplant_plural: "Elektrárny na fosilní paliva" # todo: NEW TRANSLATION
-  fossil_powerplant_desc: "§YElektrárny na fosilní paliva§! zahrnují všechny fosilní tepelně-elektrické zdroje energie. Patří sem mimo jiné uhlí, zemní plyn a ropa. §YElektrárny na fosilní paliva§! se zastaví, pokud je výroba energie vyšší než spotřeba.\n\nPoskytuje státu:\nZákladní zisk energie: §G+1§! GW\n" # todo: NEW TRANSLATION
-  fossil_powerplant_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
-  fossil_powerplant_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION
-  agriculture_district: "Komerční zemědělská oblast" # todo: NEW TRANSLATION
-  agriculture_district_plural: "Komerční zemědělské oblasti" # todo: NEW TRANSLATION
-  agriculture_district_desc: "§YKomerční zemědělské oblasti§! představují souhrn veškerého komerčního zemědělství v naší zemi. Zahrnují agroprůmysl, ornou půdu, sklady obilí, jatka a další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y250K§!\nZákladní HDP na §YKomerční zemědělskou oblast§!: $§Y25 miliard§!\nZákladní spotřeba energie: §R-0.10§! GW\n§YZisk paliva§! ze států: 8\n§YMístní zásoby§!: 1.5%\n" # todo: NEW TRANSLATION
-  agriculture_district_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
-  rocket_site: "Odpalovací místo pro rakety" # todo: NEW TRANSLATION
-  rocket_site_plural: "Odpalovací místa pro rakety" # todo: NEW TRANSLATION
-  rocket_site_desc: "§YOdpalovací místa pro rakety§! zahrnují všechny raketové systémy na divizní a operační úrovni, od §Ypovrch–vzduchových střel§! po §Ymezikontinentální balistické střely§!. Umožňují státu nasazení těchto strategických prostředků v našich strategických vzdušných zónách buď pro posílení protivzdušné obrany, nebo k útočným operacím." # todo: NEW TRANSLATION
-  nuclear_facility: "Civilní výzkumné a vývojové zařízení" # todo: NEW TRANSLATION
-  nuclear_facility_plural: "Civilní výzkumná a vývojová zařízení" # todo: NEW TRANSLATION
-  nuclear_facility_desc: "Civilní výzkumné a vývojové zařízení zahrnuje všechny typy speciálních projektů souvisejících s civilní průmyslovou kapacitou, jadernými zařízeními a dalšími oblastmi." # todo: NEW TRANSLATION
-  air_facility: "Zařízení pro aerodynamiku a avioniku" # todo: NEW TRANSLATION
-  air_facility_plural: "Zařízení pro aerodynamiku a avioniku" # todo: NEW TRANSLATION
-  air_facility_desc: "Experimentální zařízení pro aerodynamiku a avioniku umožňují zahajovat výzkumné projekty pro letadla, pokročilé rakety, související elektroniku a vesmírné projekty." # todo: NEW TRANSLATION
-  naval_facility: "Zařízení pro námořní inženýrství" # todo: NEW TRANSLATION
-  naval_facility_plural: "Zařízení pro námořní inženýrství" # todo: NEW TRANSLATION
-  naval_facility_desc: "Experimentální zařízení pro námořní inženýrství umožňují zahajovat výzkumné projekty týkající se povrchových plavidel a ponorek.\nZařízení pro námořní inženýrství lze vytvořit pouze v pobřežní provincii." # todo: NEW TRANSLATION
-  mega_gun_emplacement: "Vícenábojové velkokalibrové dělo" # todo: NEW TRANSLATION
-  mega_gun_emplacement_plural: "Vícenábojová velkokalibrová děla" # todo: NEW TRANSLATION
-  mega_gun_emplacement_desc: "Toto velkokalibrové dělo pracuje na principu vícenábojového pohonu a je navrženo k dosažení bezprecedentních dostřelů při bombardování. Využívá síť podzemních tunelů k zrychlení projektilů na nadzvukové rychlosti před jejich odpálením směrem k vzdáleným cílům." # todo: NEW TRANSLATION
-  stronghold_network: "Státní obranná síť" # todo: NEW TRANSLATION
-  stronghold_network_plural: "Státní obranné sítě" # todo: NEW TRANSLATION
-  stronghold_network_desc: "Rozsáhlá obranná síť sestávající z tunelů, opěrných bodů, zákopů, protileteckých krytů, skladů zbraní a předem plánovaných míst k demolici poskytuje obráncům rozhodující výhodu proti jakémukoli útočníkovi." # todo: NEW TRANSLATION
-  land_facility: "Zařízení pozemního boje" # todo: NEW TRANSLATION
-  land_facility_plural: "Zařízení pozemního boje" # todo: NEW TRANSLATION
-  land_facility_desc: "Experimentální zařízení pro pozemní boj vám umožňují zahajovat výzkumné projekty týkající se různých aspektů pozemního boje, například speciálních tanků nebo dělostřelectva." # todo: NEW TRANSLATION
-  BUILDING_GROUP_TOOLTIP: "\nV každém státě můžete mít až $LEVEL|R$ těchto budov. Tento limit je sdílen s:" # todo: NEW TRANSLATION
-  BUILDING_GROUP_SHARED_NAME_ENTRY: " - $NAME$" # todo: NEW TRANSLATION
-  energy_infrastructure: "Zesílená elektrická síť" # todo: NEW TRANSLATION
-  energy_infrastructure_desc: "Zesílené elektrické přívody a energetická infrastruktura s víceúrovňovou redundancí zajišťují, že naše továrny budou pokračovat ve výrobě za jakýchkoli okolností." # todo: NEW TRANSLATION
-  industrial_infrastructure: "Vysokokapacitní elektrická síť" # todo: NEW TRANSLATION
-  industrial_infrastructure_desc: "Vylepšení stávající civilní energetické infrastruktury nám poskytují větší kapacitu pro vysokointenzivní průmyslové operace." # todo: NEW TRANSLATION
+ industrial_complex: "Civilní průmysl" # todo: NEW TRANSLATION
+ industrial_complex_plural: "Civilní průmysly" # todo: NEW TRANSLATION
+ industrial_complex_desc: "Tato budova poskytuje státu průmyslové kapacity pro výrobu civilního zboží nebo výstavbu nových budov. V případě potřeby může být převedena na vojenský průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y345K§!\nZákladní HDP na §YCivilní průmysl§!: $§Y20 miliard§!\nZákladní spotřeba energie: §R-0.4§! GW\n" # todo: CHANGED NUMBER
+ arms_factory: "Vojenský průmysl" # todo: NEW TRANSLATION
+ arms_factory_plural: "Vojenské průmysly" # todo: NEW TRANSLATION
+ arms_factory_desc: "Tato budova poskytuje státu průmyslové kapacity pro výrobu nového vojenského vybavení. V případě potřeby může být převedena na civilní průmysl.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní HDP na §YVojenský průmysl§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: CHANGED NUMBER
+ internet_station: "Síťová infrastruktura" # todo: NEW TRANSLATION
+ internet_station_plural: "Síťová infrastruktura" # todo: NEW TRANSLATION
+ internet_station_desc: "§YSíťová infrastruktura§! jsou vysoké stavby využívané v oblasti telekomunikací a rádiové komunikace k přenosu signálů na velké vzdálenosti, stejně jako podzemní optické kabely a systémy cloud computingu.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y12K§!\nZákladní výstup HDP na jednu §Ysíťovou infrastrukturu§!: $§Y3,5 miliardy§!\n\nKaždá úroveň §Ysíťové infrastruktury§! zvyšuje rychlost růstu místní produktivity o §G+5,00 %§!.\nKaždá úroveň §Ysíťové infrastruktury§! zkracuje trvání §Ymezinárodních investic§! o §G-5,00 %§!." # todo: CHANGED
+ dockyard: "Námořní loděnice" # todo: NEW TRANSLATION
+ dockyard_plural: "Námořní loděnice" # todo: NEW TRANSLATION
+ dockyard_desc: "§YNámořní loděnice§! reprezentují schopnost státu vyrábět vojenské plavidla všech druhů, od §Yhlídkových lodí§!, §Ykonvojů§!, §Ytorpédoborců§!, §Yletadlových lodí§! a dalších.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y25K§!\nZákladní HDP na §YNámořní loděnici§!: $§Y1 miliarda§!\nZákladní spotřeba energie: §R-0.4§! GW" # todo: CHANGED NUMBER
+ air_base_desc: "§YLetecká základna§! je skladovací zařízení a vojenský komplex pro rozmístění a přípravu vašich leteckých sil. Lze ji vrstvit až do úrovně deset, přičemž každá úroveň přidá kapacitu §Y50§! letadel." # todo: NEW TRANSLATION
+ radar_station_desc: "§YRadarové stanice§! vám umožňují získávat zpravodajské informace o nepřátelských jednotkách v blízkých státech. Skládají se z různých radarů a senzorů, stejně jako zpravodajských prostředků a kapacit pro analýzu vyvíjející se situace.\nVyšší úroveň zvýší jejich efektivní dosah.\nJejich radary také poskytují státu lepší detekci nepřátelských leteckých sil, čímž dávají vašim letadlům lepší šanci se s nimi zapojit.\nNavíc radary zvyšují detekci nepřátelských flotil na moři." # todo: NEW TRANSLATION
+ anti_air_building: "SHORAD stanoviště" # todo: NEW TRANSLATION
+ anti_air_building_plural: "SHORAD stanoviště" # todo: NEW TRANSLATION
+ anti_air_building_desc: "§YSHORAD stanoviště§! (Short Range Air Defense) jsou komplexy a skupiny protiletadlových zbraní a taktik, které se zabývají protileteckou obranou proti nízkoletícím hrozbám. Tato stanoviště spolupracují při rozdělení vzdušného prostoru na bránitelné sektory, poskytují lokální vojenské cíle a krytí infrastruktury proti všemu od vrtulníků přes nízko létající letadla až po stíhačky." # todo: NEW TRANSLATION
+ nuclear_reactor_desc: "Tato budova přeměňuje jadernou energii na elektrickou energii a při tom spotřebovává středně obohacený uran.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y115K§!\nZákladní výstup HDP na jeden §Yjaderný reaktor§!: $§Y4 miliardy§!\nZákladní zisk energie: §G+5§! GW\n" # todo: CHANGED
+ renewable_energy_infra: "Infrastruktura obnovitelné energie" # todo: NEW TRANSLATION
+ renewable_energy_infra_plural: "Infrastruktura obnovitelné energie" # todo: NEW TRANSLATION
+ renewable_energy_infra_desc: "§YInfrastruktura obnovitelné energie§! je souhrnné označení pro všechny obnovitelné zdroje energie. Patří sem mimo jiné solární parky, větrné turbíny, rafinerie biopaliv, závody na dřevěné uhlí, elektrárny na biopaliva a další. Využívá tedy obnovitelné zdroje a vyrábí z nich palivo.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y22,5 tis.§!\nZákladní produkce HDP na §Yinfrastrukturu obnovitelné energie§!: $§Y2 miliardy§!\nZákladní zisk energie: §G+0,5§! GW\n" # todo: NEW TRANSLATION
+ renewable_energy_infra_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
+ renewable_energy_infra_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION
+ fuel_silo: "Strategická zásoba zdrojů" # todo: CHANGED
+ fuel_silo_plural: "Strategické zásoby zdrojů" # todo: CHANGED
+ fuel_silo_desc: "§YStrategická zásoba zdrojů§! je souhrn skladů, suchých skladovacích prostor a dalších úložišť podobných úložištím §Ypaliva§!. Tato budova poskytuje vašemu státu více prostoru pro hromadění §Hpaliva§! a §Hzdrojů§!.\n\nPOZNÁMKA: §Yskladování zdrojů§! má omezení enginu, kvůli kterému můžete při používání §Y$export_economy$§! nebo §Y$globalized_trade_economy$§! nakonec odesílat více zdrojů na export než do potřebných výrobních linek. Pokud potřebujete začít čerpat ze zásob, doporučuje se přejít na §Y$mixed_economy$§! nebo nižší úroveň.\n" # todo: CHANGED
+ offices: "Kancelářský sektor" # todo: NEW TRANSLATION
+ offices_plural: "Kancelářské sektory" # todo: NEW TRANSLATION
+ offices_desc: "§YKancelářské sektory§! představují všechny ostatní odvětví ekonomiky mimo těžební a těžký průmysl. Patří sem finanční, zákaznické služby, informační technologie, maloobchodní služby a mnohé další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y630K§!\nZákladní HDP na §YKancelářský sektor§!: $§Y50 miliard§!\nZákladní spotřeba energie: §R-0.25§! GW" # todo: CHANGED NUMBER
+ rail_way_plural: "Železnice" # todo: NEW TRANSLATION
+ fossil_powerplant: "Elektrárna na fosilní paliva" # todo: NEW TRANSLATION
+ fossil_powerplant_plural: "Elektrárny na fosilní paliva" # todo: NEW TRANSLATION
+ fossil_powerplant_desc: "§YElektrárny na fosilní paliva§! jsou souhrnným označením pro všechny termální zdroje energie založené na fosilních palivech. Patří mezi ně mimo jiné uhlí, zemní plyn a ropa. §YElektrárny na fosilní paliva§! se odstaví, pokud je výroba energie vyšší než její spotřeba.\n\nPoskytují státu:\nZákladní počet potřebných pracovníků: §Y7.5K§!\nZákladní výstup HDP na jednu §Yelektrárnu na fosilní paliva§!: $§Y1,7 miliardy§!\nZákladní zisk energie: §G+2§! GW\n" # todo: CHANGED
+ fossil_powerplant_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
+ fossil_powerplant_resource: "£resources_strip|$FRAME$" # todo: NEW TRANSLATION
+ agriculture_district: "Komerční zemědělská oblast" # todo: NEW TRANSLATION
+ agriculture_district_plural: "Komerční zemědělské oblasti" # todo: NEW TRANSLATION
+ agriculture_district_desc: "§YKomerční zemědělské oblasti§! představují souhrn veškerého komerčního zemědělství v naší zemi. Zahrnují agroprůmysl, ornou půdu, sklady obilí, jatka a další.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y250K§!\nZákladní HDP na §YKomerční zemědělskou oblast§!: $§Y25 miliard§!\nZákladní spotřeba energie: §R-0.10§! GW\n§YZisk paliva§! ze států: 8\n§YMístní zásoby§!: 1.5%\n" # todo: CHANGED NUMBER
+ agriculture_district_amount: "$VALUE|Y0=$" # todo: NEW TRANSLATION
+ rocket_site: "Odpalovací místo pro rakety" # todo: NEW TRANSLATION
+ rocket_site_plural: "Odpalovací místa pro rakety" # todo: NEW TRANSLATION
+ rocket_site_desc: "§YOdpalovací místa pro rakety§! zahrnují všechny raketové systémy na divizní a operační úrovni, od §Ypovrch–vzduchových střel§! po §Ymezikontinentální balistické střely§!. Umožňují státu nasazení těchto strategických prostředků v našich strategických vzdušných zónách buď pro posílení protivzdušné obrany, nebo k útočným operacím." # todo: NEW TRANSLATION
+ nuclear_facility: "Civilní výzkumné a vývojové zařízení" # todo: NEW TRANSLATION
+ nuclear_facility_plural: "Civilní výzkumná a vývojová zařízení" # todo: NEW TRANSLATION
+ nuclear_facility_desc: "§YCivilní výzkumné a vývojové zařízení§! zahrnuje všechny typy speciálních projektů souvisejících s civilní průmyslovou kapacitou, jadernými zařízeními a dalšími oblastmi." # todo: CHANGED
+ air_facility: "Zařízení pro aerodynamiku a avioniku" # todo: NEW TRANSLATION
+ air_facility_desc: "Experimentální zařízení pro aerodynamiku a avioniku umožňují zahajovat výzkumné projekty pro letadla, pokročilé rakety, související elektroniku a vesmírné projekty." # todo: NEW TRANSLATION
+ naval_facility_desc: "Experimentální zařízení pro námořní inženýrství umožňují zahajovat výzkumné projekty týkající se povrchových plavidel a ponorek.\nZařízení pro námořní inženýrství lze vytvořit pouze v pobřežní provincii." # todo: NEW TRANSLATION
+ stronghold_network: "Státní obranná síť" # todo: NEW TRANSLATION
+ stronghold_network_plural: "Státní obranné sítě" # todo: NEW TRANSLATION
+ stronghold_network_desc: "Rozsáhlá obranná síť sestávající z tunelů, opěrných bodů, zákopů, protileteckých krytů, skladů zbraní a předem plánovaných míst k demolici poskytuje obráncům rozhodující výhodu proti jakémukoli útočníkovi." # todo: NEW TRANSLATION
+ microchip_plant: "Továrna na mikročipy" # todo: NEW TRANSLATION
+ microchip_plant_plural: "Továrny na mikročipy" # todo: NEW TRANSLATION
+ microchip_plant_desc: "Výrobní závod, který přeměňuje technologické kovy a drahé kovy na mikročipy pro průmyslové i vojenské účely.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y37,5 tis.§!\nZákladní produkce HDP na §Ytovárnu na mikročipy§!: $§Y32 miliard§!\nZákladní spotřeba energie: §R-0,75§! GW\nProdukce mikročipů: 20\n\n§YMikročipy§! mají nejvyšší tržní cenu za jednotku a při přebytkovém vývozu generují značný peněžní příjem.\n\nNáklady:\n3 §Ytechnologické kovy§!\n2 §Ydrahé kovy§!" # todo: NEW TRANSLATION
+ composite_plant: "Továrna na kompozity" # todo: NEW TRANSLATION
+ composite_plant_plural: "Továrny na kompozity" # todo: NEW TRANSLATION
+ composite_plant_desc: "Výrobní závod, který kombinuje ropu, kaučuk a drahé kovy na kompozity pro vědecké, vojenské i průmyslové pracovníky.\n\nPoskytuje státu:\nZákladní počet požadovaných pracovníků: §Y37,5 tis.§!\nZákladní produkce HDP na §Ytovárnu na kompozity§!: $§Y28 miliard§!\nZákladní spotřeba energie: §R-0,8§! GW\nProdukce pokročilých kompozitů: 20\n\n§YKompozity§! se prodávají za jednu z nejvyšších tržních cen za jednotku a při přebytkovém vývozu generují značný peněžní příjem.\n\nNáklady:\n1 §Yropa§!\n1 §Ykaučuk§!\n1 §Ydrahé kovy§!" # todo: NEW TRANSLATION
+ synthetic_refinery_desc: "Tato budova poskytuje státu průmyslové kapacity pro výrobu syntetického kaučuku a určitou dodatečnou kapacitu pro výrobu paliva.\n\nPoskytuje státu:\nZákladní počet potřebných pracovníků: §Y184K§!\nZákladní výstup HDP na jednu §Ysyntetickou rafinerii§!: $§Y10 miliard§!\nZákladní spotřeba energie: §R-0,2§! GW\n\nProdukuje §Ykaučuk§! za standardní tržní ceny, přičemž přebytek vytváří dodatečný peněžní příjem nad rámec daně z příjmů právnických osob.\n" # todo: CHANGED
+ enrichment_facility: "Zařízení na obohacování uranu" # todo: NEW TRANSLATION
+ enrichment_facility_plural: "Zařízení na obohacování uranu" # todo: NEW TRANSLATION
+ enrichment_facility_desc: "Zařízení na obohacování přijímají uran a obohacují jej pro použití v jaderných reaktorech a do určité míry také v jaderných zbraních." # todo: NEW TRANSLATION
+ rail_terminal: "Železniční terminál" # todo: NEW TRANSLATION
+ rail_terminal_plural: "Železniční terminály" # todo: NEW TRANSLATION
+ rail_terminal_desc: "Stát obsluhovaný hustou sítí terminálů přepravuje lidi i zboží rychleji, takže továrny mají stabilnější dodávky, pracovníci se spolehlivěji dostávají do zaměstnání a okolní ekonomika získává prostor k růstu." # todo: NEW TRANSLATION
+ show_construction_speed: "Po zaškrtnutí uvidíte současný £construction_speed_texticon §YBonus rychlosti výstavby§! pro každý §YTyp budovy§!\n\nTento modifikátor zobrazuje pouze modifikátor specifický pro budovu. Nezohledňuje §YGlobální £construction_speed_texticon Rychlost výstavby.§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_kaaba: "Kaaba" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_kaaba_plural: "$landmark_kaaba$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_kaaba_desc: "Kaaba, posvátná kubická stavba v srdci Masjid al-Haram v Mekce, je nejposvátnějším místem islámu. Ovinutá černým hedvábím zdobeným zlatou kaligrafií slouží jako kibla – směr, kterým se muslimové na celém světě obracejí při modlitbě. Tento starobylý svatostánek, známý jako Dům Boží, ztělesňuje století víry, poutí a islámské historie a symbolizuje jednotu muslimské ummy.\n\n§YPamátka Kaaba§! generuje příjmy z cestovního ruchu na základě celkové populace arabských států. Přesnou částku lze zobrazit v §YEkonomickém přehledu§!." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_milad: "Miladova věž" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_milad_plural: "$landmark_milad$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_milad_desc: "Miladova věž, či Borj-e Milad, má kořeny v předrevolučním období Íránu, přičemž počáteční plány sahají do 70. let. Po íránské revoluci v roce 1979 byly tyto rané záměry odloženy kvůli měnícím se politickým prioritám. Vize však byla oživena koncem 90. let a výstavba započala v roce 2000 v souladu s novým zaměřením Íránu na rozvoj a modernizaci. Miladova věž je realizací tohoto desetiletí trvajícího snu. Její design kombinuje prvky íránského dědictví s moderním inženýrstvím, čímž se stává působivým symbolem historické kontinuity i proměňující se identity země. Dnes věž stojí jako multifunkční komplex a významná kulturní památka, nabízející obyvatelům Teheránu a návštěvníkům panoramatické výhledy na město a vzdálené pohoří Alborz." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_domeofrock: "Skalní dóm" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_domeofrock_plural: "$landmark_domeofrock$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_domeofrock_desc: "Skalní dóm je proslulý islámský svatostánek, známý svým zlatým dómem přehlížejícím Staré město. Postavený v 7. století stojí na Haram al-Sharif, známém také jako Chrámová hora, místě posvátném jak pro muslimy, tak pro židy. Obsahuje Zakládací kámen, o kterém muslimové věří, že na něm prorok Muhammad vystoupal do nebe, a židé jej považují za místo Svatyně svatých starověkého židovského chrámu." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_goldengate: "Zlatá brána" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_goldengate_plural: "$landmark_goldengate$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_goldengate_desc: "Most Golden Gate se majestátně tyčí na pozadí mlhavých kopců San Francisca, jeho ikonické oranžovo-červené věže sahají k obloze. Přes tichomořský vchod do zálivu most elegantně spojuje město s rozsáhlými poloostrovy Marin a nabízí dechberoucí výhledy na třpytící se vodu pod ním. Jeho nadčasová krása a inženýrská genialita z něj činí symbol jak inovace, tak přírodní krásy Kalifornie." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_UScongress: "Washington, D.C." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_UScongress_plural: "$landmark_UScongress$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_UScongress_desc: "Washington, D.C., hlavní město Spojených států, je město bohaté na historii a domov ikonických památek. Národní Mall zahrnuje proslulé stavby jako Lincolnovo památník, Washingtonův monument a Kapitol Spojených států, které představují klíčové události a osobnosti amerických dějin. Město také hostí Bílý dům a památníky jako Památník vietnamským veteránům a Památník Martina Luthera Kinga mladšího, čímž se stává významnou destinací jak pro politiku, tak kulturu." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_fuji: "Fudži-san" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_fuji_plural: "$landmark_fuji$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_fuji_desc: "Fudži-san se vzpíná ladně z krajiny, její posvátný vrchol se dotýká nebes a představuje symbol harmonie mezi přírodou a božským. Zahalená v mracích nebo zářící na slunci ztělesňuje klid a sílu, věčného strážce japonské krajiny. Kdo spatří Fudži-san, pocítí tiché probuzení duše, jako by naslouchal šepotu starobylých duchů nesenému větrem." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_giza: "Gízské pyramidy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_giza_plural: "$landmark_giza$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_giza_desc: "Pyramidy v Gíze, ležící na okraji Káhiry v Egyptě, jsou starověké stavby postavené jako monumentální hrobky pro faraony během Starého království. Nejznámější z nich, Velká pyramida, byla vystavěna pro faraona Chufu a je jedním ze sedmi divů starověkého světa, stojícím jako svědectví o inženýrském a architektonickém umění starověkých Egypťanů. Tyto pyramidy spolu se Sfingou symbolizují trvalé dědictví Egypta a patří mezi nejikoničtější a nejnavštěvovanější památky na světě." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle: "Kennedyho vesmírné středisko" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle_plural: "$landmark_shuttle$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle_desc: "Kennedyho vesmírné středisko, nacházející se na atlantickém pobřeží Floridy, slouží jako hlavní místo startů lidských kosmických letů NASA. Obsahuje obrovská zařízení jako ikonickou budovu pro montáž nosičů (Vehicle Assembly Building), kde se připravují rakety ke startu, a Startovní komplex 39 (Launch Complex 39), historické místo misí Apollo a raketoplánů. Středisko zůstává centrem inovací a průzkumu a hraje zásadní roli v současných vesmírných misích, včetně komerčních i hlubokovesmírných programů." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle_launch: "Kennedyho vesmírné středisko" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle_launch_plural: "$landmark_shuttle_launch$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_shuttle_launch_desc: "Kennedyho vesmírné středisko, nacházející se na atlantickém pobřeží Floridy, slouží jako hlavní místo startů lidských kosmických letů NASA. Obsahuje obrovská zařízení jako ikonickou budovu pro montáž nosičů (Vehicle Assembly Building), kde se připravují rakety ke startu, a Startovní komplex 39 (Launch Complex 39), historické místo misí Apollo a raketoplánů. Středisko zůstává centrem inovací a průzkumu a hraje zásadní roli v současných vesmírných misích, včetně komerčních i hlubokovesmírných programů." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_buran: "Kosmodrom Bajkonur" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_buran_plural: "$landmark_buran$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_buran_desc: "Kosmodrom Bajkonur, ležící v odlehlých stepích Kazachstánu, je nejstarším a největším kosmodromem na světě a sehrál klíčovou roli v sovětských i ruských kosmických misích. Založený v roce 1955, vypustil historické lety, včetně prvního člověka ve vesmíru, Jurije Gagarina, na palubě Vostoku 1. Rozsáhlý komplex kosmodromu s odpalovacími rampami, výzkumnými zařízeními a montážními hangáry zůstává ikonickým symbolem historie dobývání vesmíru." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsilominot: "Letecká základna Minot" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsilominot_plural: "$landmark_ICBMsilominot$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsilominot_desc: "Raketový komplex Letecké základny Minot tvoří rozsáhlá síť podzemních silosů, které ukrývají mezikontinentální balistické střely (ICBM), rozmístěné po planinách Severní Dakoty. Silosy jsou opevněné a přísně střežené, navržené tak, aby odolaly vnějším hrozbám a udržovaly stav trvalé pohotovosti. Tyto odlehlé a izolované objekty hrají zásadní roli v jaderné odstrašovací strategii Spojených států a zajišťují schopnost rychlé reakce v případě nouze." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsiloyasny: "Raketová základna Jasny" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsiloyasny_plural: "$landmark_ICBMsiloyasny$" # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_ICBMsiloyasny_desc: "Raketová základna Jasny, nacházející se poblíž Dombarovského v Orenburské oblasti Ruska, je významné strategické raketové zařízení, které hostí silo založené mezikontinentální balistické střely. Zřízena během studené války, disponuje rozsáhlými podzemními komplexy, opevněnými velitelskými zařízeními a vysokou úrovní zabezpečení pro ochranu svých cenných aktiv. Jako klíčová součást ruské jaderné triády mají střely z Jasného za úkol zajistit odstrašení a schopnost rychlé reakce." # todo: NEW TRANSLATION # todo: MOVED KEY
+ landmark_zenobia_wall: "Zenobiina obranná linie" # todo: NEW TRANSLATION
+ landmark_zenobia_wall_plural: "$landmark_zenobia_wall$" # todo: NEW TRANSLATION
+ landmark_zenobia_wall_desc: "Silně opevněná linie táhnoucí se jižním Egyptem a západní pouští. Betonové zdi, komplex bunkrů a předem připravené dělostřelecké pozice tvoří základ Zenobiiny linie, vybudované k zastavení postupu Chiméry z průlomových zón pod Saharou." # todo: NEW TRANSLATION
+ landmark_hagia_sophia_plural: "$landmark_hagia_sophia$" # todo: NEW TRANSLATION
+ landmark_hagia_sophia_desc: "Hagia Sofia, původně postavená jako byzantská katedrála v roce 537, se po dobytí města v roce 1453 stala hlavní istanbulskou osmanskou mešitou. Po značnou část dějin Turecké republiky sloužila jako světské muzeum. Její mohutná centrální kopule a byzantské mozaiky patří k nejvlivnějším dílům sakrální architektury, která kdy byla postavena, a každoročně přitahují do Istanbulu miliony návštěvníků." # todo: NEW TRANSLATION
+ landmark_forbidden_city_desc: "Opevněný palácový komplex v srdci Pekingu sloužil téměř pět století jako císařské sídlo dynastií Ming a Čching. Dnes v něm sídlí Palácové muzeum s jednou z nejvýznamnějších světových sbírek čínského umění a artefaktů. Zakázané město je nejnavštěvovanější kulturní památkou země a památkou světového dědictví UNESCO, která představuje nejvýznamnější symbol čínské civilizace." # todo: NEW TRANSLATION
+ landmark_tokyo_imperial_palace_desc: "Hlavní sídlo japonského císaře od reforem Meidži, stojící na místě bývalého hradu Edo v srdci Tokia. Palác a jeho pozemky představují kontinuitu nejstarší dědičné monarchie na světě. Přístup veřejnosti je omezený, ale Východní zahrady a významné císařské obřady každoročně přitahují značné množství turistů." # todo: NEW TRANSLATION
+ landmark_taj_mahal_plural: "$landmark_taj_mahal$" # todo: NEW TRANSLATION
+ landmark_taj_mahal_desc: "Tádž Mahal, který v roce 1632 nechal mogulský císař Šáhdžahán postavit jako mauzoleum pro svou manželku Mumtáz Mahal, je nejlepším dochovaným příkladem mughalské architektury. Jeho fasáda z bílého mramoru, složité intarzie a symetrické zahrady z něj učinily památku světového dědictví UNESCO a jednu z nejnavštěvovanějších památek na Zemi, která každoročně přitahuje do Ágry miliony návštěvníků." # todo: NEW TRANSLATION
+ landmark_prague_castle: "Pražský hrad" # todo: NEW TRANSLATION
+ landmark_prague_castle_desc: "Pražský hrad, největší starobylý hradní komplex na světě podle rozlohy, sloužil jako sídlo českých králů, císařů Svaté říše římské a nyní prezidenta České republiky. V jeho zdech stojí katedrála svatého Víta a nacházejí se zde staletí umění z celé střední Evropy, díky čemuž je hrad nejnavštěvovanější kulturní památkou v zemi." # todo: NEW TRANSLATION
+ landmark_bojnice_castle: "Bojnický zámek" # todo: NEW TRANSLATION
+ landmark_bojnice_castle_desc: "Romantická novogotická přestavba středověké slovenské pevnosti, Bojnický zámek byl na konci devatenáctého století přestavěn za hraběte Jánose Pálffyho ve stylu francouzských zámků na Loiře. Dnes je jednou z nejnavštěvovanějších kulturních památek na Slovensku a jeho věžovitá silueta s okolním parkem tvoří středobod slovenského kulturního turismu." # todo: NEW TRANSLATION
+ landmark_sadabad_complex: "Komplex Sadábád" # todo: NEW TRANSLATION
+ landmark_sadabad_complex_plural: "$landmark_sadabad_complex$" # todo: NEW TRANSLATION
+ landmark_sadabad_complex_desc: "Rozlehlý palácový komplex v podhůří severně od Teheránu, původně vybudovaný za Kádžárovců a výrazně rozšířený pahlavíovskými šáhy. Po revoluci v roce 1979 byl komplex znárodněn a dnes funguje jako síť státních muzeí s královskými sbírkami, íránským uměním a přírodovědnými exponáty." # todo: NEW TRANSLATION
+ landmark_hofburg_palace_desc: "Hofburg v srdci Vídně po staletí sloužil jako hlavní císařský palác habsburské dynastie. Dnes se v jeho sálech nachází kanceláře rakouského spolkového prezidenta, Španělská jezdecká škola, Císařská klenotnice a několik významných muzeí. Zůstává jednou z hlavních vídeňských dominant a středobodem rakouského kulturního turismu." # todo: NEW TRANSLATION
+ landmark_berlin_reichstag_desc: "Budova Říšského sněmu na Platz der Republik stojí v politickém centru Berlína již více než století. Po těžkém poškození v roce 1933 a znovu během druhé světové války byla po sjednocení obnovena podle návrhu Normana Fostera a v roce 1999 znovu otevřena jako sídlo Bundestagu, německého federálního parlamentu. Její skleněná kupole se stala charakteristickým symbolem moderní německé demokracie a významnou atrakcí v centru Berlína." # todo: NEW TRANSLATION

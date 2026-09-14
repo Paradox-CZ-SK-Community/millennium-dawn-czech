@@ -1,3 +1,109 @@
 ﻿l_english:
-  EQUIPMENT_DESIGNER_TITLE: "Návrhář obrněných bojových vozidel" # todo: NEW TRANSLATION
-  TANK_DESIGNER_TITLE: "Návrhář obrněných bojových vozidel" # todo: NEW TRANSLATION
+ EQUIPMENT_DESIGNER_TITLE: "Návrhář obrněných bojových vozidel" # todo: NEW TRANSLATION
+ TANK_DESIGNER_TITLE: "Návrhář obrněných bojových vozidel" # todo: NEW TRANSLATION
+ REGIMENTAL_SUPPORT_HEADER: "Podpora praporu" # todo: NEW TRANSLATION
+ DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Podpůrné roty praporu. Jedná se o podpůrné a bojové jednotky připojené přímo na úrovni praporu.\n\nPodpůrné roty praporu §Rneovlivňují§! §Ymaximální rychlost§! divize a §Rzvyšují§! její §Yšířku boje§!." # todo: NEW TRANSLATION
+ DESIGNER_SUPPORT_COLUMN_TITLE: "Podpůrné roty brigády a divize. Jedná se o podpůrné jednotky, které zůstávají za jednotkami v první linii a pomáhají jim.\n\nMůžete vybrat pouze §Rjednu§! od každého typu.\n\n Podpůrné roty §Rneovlivňují§! §Ymaximální rychlost§! divize a §Rzvyšují§! její §Yšířku boje§!." # todo: NEW TRANSLATION
+ tank_designer_medium_tank_chassis: "Hlavní bojový tank" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_anti_air: "SPAA" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_artillery: "SPG" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_anti_tank: "Lehký tank" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_amphibious: "Transportér vojska" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_flame: "IFV" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_rocket: "MLRS" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_heavy_tank_chassis: "Útočný vrtulník" # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_heavy_tank_amphibious_chassis: "Transportní vrtulník" # todo: NEW TRANSLATION
+ tank_designer_anti_tank_role_disallowed: "Přidejte modul, který umožní roli §HLehký tank§! přepnout na něj." # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_flame_role_disallowed: "Přidejte modul, který umožní roli §HIFV§! přepnout na něj.\n\nPřidejte modul §HProstor pro přepravu vojáků§!, který se nachází v §HVybavení a moduly návrhu§!, aby bylo možné tuto roli aktivovat." # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_amphibious_role_disallowed: "Přidejte modul, který umožní roli §HAPC§! přepnout na něj.\n\nPřidejte modul §HProstor pro přepravu vojáků§!, který se nachází v §HVybavení a moduly návrhu§!, aby bylo možné tuto roli aktivovat." # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_anti_air_role_disallowed: "Přidejte modul, který umožní roli §HSPAA§! přepnout na něj." # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_artillery_role_disallowed: "Přidejte modul, který umožní roli §HSPG§! přepnout na něj." # todo: NEW TRANSLATION # todo: MOVED KEY
+ tank_designer_rocket_role_disallowed: "Přidejte modul, který umožní roli §HMLRS§! přepnout na něj." # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_DD: "Konfederační torpédoborce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_CL: "Konfederační lehké křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_CA: "Konfederační těžké křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_BC: "Konfederační bitevní křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_BB: "Konfederační bitevní lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_CARRIERS: "Konfederační letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CONFEDERATE_SUBMARINES: "Konfederační ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_GREENLANDIC_CARRIERS: "Grónské letadlové lodě" # todo: NEW TRANSLATION
+ NAME_THEME_GREENLANDIC_FRIGATES: "Grónské fregaty" # todo: NEW TRANSLATION
+ NAME_THEME_GREENLANDIC_CORVETTES: "Grónské korvety" # todo: NEW TRANSLATION
+ NAME_THEME_GREENLANDIC_SUBMARINES: "Grónské útočné ponorky" # todo: NEW TRANSLATION
+ NAME_THEME_GREENLANDIC_BATTLESHIPS: "Grónské bitevní lodě" # todo: NEW TRANSLATION
+ NAME_THEME_CASCADIAN_CARRIERS: "Kaskádské letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CASCADIAN_CRUISERS: "Kaskádské křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CASCADIAN_DESTROYERS: "Kaskádské torpédoborce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CASCADIAN_FRIGATES: "Kaskádské fregaty" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CASCADIAN_CORVETTE: "Kaskádské korvety" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CASCADIAN_SUBMARINE: "Kaskádské ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_SIA_HEROES: "Národní hrdinové a válečníci" # todo: NEW TRANSLATION
+ plane_designer_scout_plane: "AWACS" # todo: MOVED KEY
+ plane_designer_maritime_patrol_plane: "Námořní hlídka / úderné" # todo: MOVED KEY
+ plane_designer_suicide: "Dron / transport" # todo: MOVED KEY
+ plane_designer_tactical_bomber: "Víceúčelové" # todo: MOVED KEY
+ plane_designer_fighter: "Vzdušná nadvláda" # todo: MOVED KEY
+ NAME_THEME_ANIMALS: "Zvířata" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_AZTECS: "Aztécká mytologie" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_BATTLES: "Slavné bitvy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_BIRDS: "Ptáci" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_CITIES: "Města" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_FISH: "Ryby" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_AIRCRAFT_CARRIERS: "Historické letadlové lodě" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_AUXILIARIES: "Historické pomocné lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_BB: "Historické bitevní lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_BC: "Historické bitevní křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_BATTLECRUISERS: "Historické bitevní křižníky" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_BATTLESHIPS: "Historické bitevní lodě" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_CA: "Historické těžké křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_CARRIERS: "Historické letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_CL: "Historické lehké křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_CONVENTIONAL_SSN: "Dieselové útočné ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_CORVETTE: "Historické korvety" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_CORVETTES: "Historické korvety" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_CRUISER: "Historické křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_DESTROYERS: "Historické torpédoborce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_FRIGATE: "Historické fregaty" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS: "Historické vrtulníkové letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_MISSILE_SUBMARINES: "Raketové ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_NUCLEAR_SUBMARINES: "Jaderné ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_NUCLEAR_SSN: "Jaderné útočné ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_HISTORICAL_OPERATIVES: "Historičtí operativci" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_PATROL_BOAT: "Historické hlídkové čluny" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_SUBMARINES: "Historické ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_KINGS: "Králové" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_LEADERS: "Slavní vůdci" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MYTHOLOGY: "Mytologie" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_BATTLESHIPS: "Moderní bitevní lodě" # todo: NEW TRANSLATION
+ NAME_THEME_MODERN_CARRIERS: "Moderní letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_CORVETTES: "Moderní korvety" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_CRUISERS: "Moderní křižníky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_DESTROYERS: "Moderní torpédoborce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_FRIGATES: "Moderní fregaty" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_HELICOPTER_CARRIERS: "Moderní vrtulníkové letadlové lodě" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_MINESWEEPER: "Moderní minolovky" # todo: NEW TRANSLATION
+ NAME_THEME_MODERN_MISSILE_SUBMARINES: "Moderní raketové ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_MODERN_STEALTH_DESTROYERS: "Moderní stealth torpédoborce" # todo: NEW TRANSLATION
+ NAME_THEME_MODERN_SUBMARINES: "Moderní ponorky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_NATURE: "Příroda" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_PREFECTURES: "Provincie a prefektury" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_PROVINCES: "Provincie" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_RFA: "Královské pomocné loďstvo" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_RIVER_MOUNTAIN: "Řeky a hory" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_RIVERS: "Řeky" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_SOVIETS: "Sovětské názvy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_STATES: "Státy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_TERRITORIES: "Území" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_TRIBES: "Domorodé kmeny" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_WEATHER: "Počasí" # todo: NEW TRANSLATION # todo: MOVED KEY
+ NAME_THEME_BATTLESHIPS: "Bitevní lodě" # todo: NEW TRANSLATION
+ NAME_THEME_BATTLECRUISERS: "Bitevní křižníky" # todo: NEW TRANSLATION
+ UKR_NAME_CARRIERS_THEME_PRESIDENTS: "Historické hlavy států" # todo: NEW TRANSLATION
+ UKR_NAME_CARRIERS_THEME_ADMIRALS: "Historičtí admirálové" # todo: NEW TRANSLATION
+ UKR_NAME_FRIGATES_THEME_HETMANS: "Historičtí hejtmani" # todo: NEW TRANSLATION
+ UKR_NAME_FRIGATES_THEME_CITIES: "Ukrajinská města" # todo: NEW TRANSLATION
+ UKR_NAME_CORVETTES_THEME_PRINCES: "Historičtí velkoknížata" # todo: NEW TRANSLATION
+ UKR_NAME_CORVETTES_THEME_HETMANS: "Historičtí hejtmani" # todo: NEW TRANSLATION
+ UKR_NAME_CORVETTES_THEME_CITIES: "Ukrajinská města" # todo: NEW TRANSLATION
+ UKR_NAME_CORVETTES_THEME_WEATHER: "Názvy související s počasím" # todo: NEW TRANSLATION
+ UKR_NAME_THEME_MODERN_MINESWEEPERS: "Historické minolovky" # todo: NEW TRANSLATION

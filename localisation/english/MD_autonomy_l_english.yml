@@ -1,55 +1,63 @@
 ﻿l_english:
-  autonomy_associated_state: "Asociovaný stát" # todo: NEW TRANSLATION
-  autonomy_satellite_state: "Satelitní stát" # todo: NEW TRANSLATION
-  autonomy_puppet_state: "Loutkový stát" # todo: NEW TRANSLATION
-  autonomy_autonomous_state: "Autonomní region" # todo: NEW TRANSLATION
-  autonomy_associated_state_colored: "Asociovaný stát" # todo: NEW TRANSLATION
-  autonomy_satellite_state_colored: "Satelitní stát" # todo: NEW TRANSLATION
-  autonomy_puppet_state_colored: "Loutkový stát" # todo: NEW TRANSLATION
-  autonomy_autonomous_state_colored: "Autonomní region" # todo: NEW TRANSLATION
-  autonomy_terrorist_branch: "Odnož" # todo: NEW TRANSLATION
-  autonomy_terrorist_wilayah: "Wilayah" # todo: NEW TRANSLATION
-  autonomy_terrorist_mintaqah: "Mintaqah" # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_TAI: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_TIB: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_ETK: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_HKG: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_MAC: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_special_administrative_region_MON: "S.A.R." # todo: NEW TRANSLATION
-  autonomy_union_state: "Svazový stát" # todo: NEW TRANSLATION
-  autonomy_republic_khm: "Subjekt federace" # todo: NEW TRANSLATION
-  autonomy_republic_ukr: "Subjekt federace" # todo: NEW TRANSLATION
-  autonomy_proxy_state: "Zástupný stát" # todo: NEW TRANSLATION
-  autonomy_warsaw: "Člen Varšavské smlouvy" # todo: NEW TRANSLATION
-  autonomy_balkan_federation: "Subjekt Balkánské federace" # todo: NEW TRANSLATION
-  autonomy_cuban_confederation: "Subjekt Antilské konfederace" # todo: NEW TRANSLATION
-  autonomy_autonomous_province: "Autonomní provincie Srbska" # todo: NEW TRANSLATION
-  autonomy_autonomous_province1: "Subjekt federace" # todo: NEW TRANSLATION
-  danish_crown_holding: "Držení dánské koruny" # todo: NEW TRANSLATION
-  autonomy_uar_state: "Stát" # todo: NEW TRANSLATION
-  autonomy_uar_province: "Provincie" # todo: NEW TRANSLATION
-  autonomy_uar_regional_command: "Regionální velení" # todo: NEW TRANSLATION
-  autonomy_occupation_zone_IRQ: "Okupační zóna" # todo: NEW TRANSLATION
-  autonomy_state_rf: "£text_icon_subject_russia Federální stát" # todo: NEW TRANSLATION
-  autonomy_republic_rf: "£text_icon_subject_russia Národní republika" # todo: NEW TRANSLATION
-  autonomy_kray_rf: "£text_icon_subject_russia Kraj" # todo: NEW TRANSLATION
-  autonomy_oblast_rf: "£text_icon_subject_russia Oblast" # todo: NEW TRANSLATION
-  autonomy_okrug_rf: "£text_icon_subject_russia Autonomní okrug" # todo: NEW TRANSLATION
-  autonomy_governorate_rf: "£text_icon_sov_empire Gubernie" # todo: NEW TRANSLATION
-  autonomy_pmc_wagner: "PMC Wagner" # todo: NEW TRANSLATION
-  autonomy_state_cis: "Člen konfederace SNS" # todo: NEW TRANSLATION
-  autonomy_irn_province: "Íránský konfederát" # todo: NEW TRANSLATION
-  autonomy_marz_arm: "De-facto marz" # todo: NEW TRANSLATION
-  autonomy_armenia_state: "Arménský stát" # todo: NEW TRANSLATION
-  autonomy_korean_federation: "Stát Korejské federace" # todo: NEW TRANSLATION
-  TUR_eyalet_province: "Eyalet" # todo: NEW TRANSLATION
-  subject_hates: "Postoj k vrchnímu pánovi: Nenávist" # todo: NEW TRANSLATION
-  subject_hates_desc: "[Root.GetNameDef] má hlubokou nenávist vůči svému vrchnímu pánovi. Je pravděpodobné, že brzy zahájí násilné povstání, pokud se situace nezlepší." # todo: NEW TRANSLATION
-  subject_negative: "Postoj k vrchnímu pánovi: Nelibost" # todo: NEW TRANSLATION
-  subject_negative_desc: "[Root.GetNameDef] nemá svého vrchního pána v oblibě. Negativní vztah znamená, že budou intenzivněji usilovat o větší autonomii." # todo: NEW TRANSLATION
-  subject_neutral: "Postoj k vrchnímu pánovi: Neutrální" # todo: NEW TRANSLATION
-  subject_neutral_desc: "[Root.GetNameDef] má k svému vrchnímu pánovi neutrální postoj. To se může změnit na pozitivní nebo negativní v závislosti na globálních událostech a krocích jejich vrchního pána." # todo: NEW TRANSLATION
-  subject_positive: "Postoj k vrchnímu pánovi: Pozitivní" # todo: NEW TRANSLATION
-  subject_positive_desc: "[Root.GetNameDef] má k svému vrchnímu pánovi pozitivní postoj. Pozitivní vztah mezi oběma zeměmi znamená, že lidé nemají tak silnou touhu usilovat o větší autonomii." # todo: NEW TRANSLATION
-  subject_loves: "Postoj k vrchnímu pánovi: Zbožňovaný" # todo: NEW TRANSLATION
-  subject_loves_desc: "[Root.GetNameDef] naprosto zbožňuje svého vrchního pána. Prakticky s ním chtějí být navždy. Prozatím." # todo: NEW TRANSLATION
+ autonomy_associated_state: "Asociovaný stát" # todo: NEW TRANSLATION
+ autonomy_satellite_state: "Satelitní stát" # todo: NEW TRANSLATION
+ autonomy_puppet_state: "Loutkový stát" # todo: NEW TRANSLATION
+ autonomy_autonomous_state: "Autonomní region" # todo: NEW TRANSLATION
+ autonomy_associated_state_colored: "Asociovaný stát" # todo: NEW TRANSLATION
+ autonomy_satellite_state_colored: "Satelitní stát" # todo: NEW TRANSLATION
+ autonomy_puppet_state_colored: "Loutkový stát" # todo: NEW TRANSLATION
+ autonomy_autonomous_state_colored: "Autonomní region" # todo: NEW TRANSLATION
+ autonomy_terrorist_branch: "Odnož" # todo: NEW TRANSLATION
+ autonomy_terrorist_wilayah: "Wilayah" # todo: NEW TRANSLATION
+ autonomy_terrorist_mintaqah: "Mintaqah" # todo: NEW TRANSLATION
+ autonomy_union_state: "Svazový stát" # todo: NEW TRANSLATION
+ autonomy_republic_khm: "Subjekt federace" # todo: NEW TRANSLATION
+ autonomy_republic_ukr: "Subjekt federace" # todo: NEW TRANSLATION
+ autonomy_novorossiya_ukr: "Novorossijský autonomní subjekt" # todo: NEW TRANSLATION
+ autonomy_union_state_mlr: "Unijní stát" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_proxy_state: "Zástupný stát" # todo: NEW TRANSLATION
+ autonomy_warsaw: "Člen Varšavské smlouvy" # todo: NEW TRANSLATION
+ autonomy_balkan_federation: "Subjekt Balkánské federace" # todo: NEW TRANSLATION
+ autonomy_cuban_confederation: "Subjekt Antilské konfederace" # todo: NEW TRANSLATION
+ autonomy_SER_personal_union: "Mladší partner ve volné politické unii" # todo: NEW TRANSLATION
+ autonomy_SER_constituent_republic: "Téměř samosprávná svazová republika" # todo: NEW TRANSLATION
+ autonomy_autonomous_province: "Autonomní provincie Srbska" # todo: NEW TRANSLATION
+ autonomy_autonomous_province1: "Subjekt federace" # todo: NEW TRANSLATION
+ autonomy_danish_crown_holding: "Dánské korunní území" # todo: NEW TRANSLATION
+ autonomy_uar_state: "Stát" # todo: NEW TRANSLATION
+ autonomy_uar_province: "Provincie" # todo: NEW TRANSLATION
+ autonomy_uar_regional_command: "Regionální velení" # todo: NEW TRANSLATION
+ autonomy_fifty_second_state_afghanistan: "O.E.F. mise" # todo: MOVED KEY
+ autonomy_special_administrative_region_TAI: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_special_administrative_region_TIB: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_special_administrative_region_ETK: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_special_administrative_region_HKG: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_special_administrative_region_MAC: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_special_administrative_region_MON: "S.A.R." # todo: NEW TRANSLATION
+ autonomy_state_rf: "£text_icon_subject_russia Federální stát" # todo: NEW TRANSLATION
+ autonomy_republic_rf: "£text_icon_subject_russia Národní republika" # todo: NEW TRANSLATION
+ autonomy_kray_rf: "£text_icon_subject_russia Kraj" # todo: NEW TRANSLATION
+ autonomy_oblast_rf: "£text_icon_subject_russia Oblast" # todo: NEW TRANSLATION
+ autonomy_okrug_rf: "£text_icon_subject_russia Autonomní okrug" # todo: NEW TRANSLATION
+ autonomy_governorate_rf: "£text_icon_sov_empire Gubernie" # todo: NEW TRANSLATION
+ autonomy_pmc_wagner: "PMC Wagner" # todo: NEW TRANSLATION
+ autonomy_state_cis: "Člen konfederace SNS" # todo: NEW TRANSLATION
+ autonomy_union_ss: "Federální suverénní republika" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_irn_province: "Íránský konfederát" # todo: NEW TRANSLATION
+ autonomy_islamic_republic: "Islámská republika" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_socialist_union: "Socialistická unie" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_federal_state_iran: "Federalizovaný region" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_marz_arm: "De-facto marz" # todo: NEW TRANSLATION
+ autonomy_armenia_state: "Arménský stát" # todo: NEW TRANSLATION
+ autonomy_korean_federation: "Stát Korejské federace" # todo: NEW TRANSLATION
+ autonomy_french_overseas_department: "Zámořský departement" # todo: NEW TRANSLATION
+ autonomy_fifty_first_state_iraq: "Provisional Authority" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_occupation_zone_IRQ: "Okupační zóna" # todo: NEW TRANSLATION
+ autonomy_authority_of_palestine: "Národní územní správní oblast" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_authority_of_palestine_1: "Uvolněná národní oblast samosprávy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_authority_of_palestine_2: "Nesystematická oblast samosprávy" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_provisional_security_of_gaza: "Zvláštní bezpečnostní zóna" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_moldovian_federation: "Subjekt Moldavské federace" # todo: NEW TRANSLATION # todo: MOVED KEY
+ autonomy_moldovian_federation1: "Subjekt Moldavské federace" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TAJ_autonomy_administrative_region: "Autonomní oblast Gorno-Badakhšán" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TUR_eyalet_province: "Eyalet" # todo: NEW TRANSLATION

@@ -1,298 +1,294 @@
 ﻿l_english:
-  agrarian_economy: "Zemědělská ekonomika" # todo: NEW TRANSLATION
-  agrarian_economy_desc: "[FROM.GetName] je extrémně chudý stát, s ekonomikou převážně založenou na zemědělských výnosech. Zatímco země se bude modernizovat do nového milénia, lidé budou pracovat na polích a pomáhat ekonomice.\n\n§Y$agrarian_economy$§! vydělává §Y[?ROOT.GetName]§! §Y$$§![?additional_income_agrarian_economy|+3] §Ymiliarda§! týdně.\n\n§RPři HDP na obyvatele 20 000 budeme považováni za průmyslově vyspělou zemi a ztratíme bonus k zemědělství!§!" # todo: NEW TRANSLATION
-  agri_farmer_opinion_TT: "§Y$farmers$§! názor se zvýší o §G10§! dokud tento nápad nebude platný" # todo: NEW TRANSLATION
-  AGRI_standard_drought_ongoing: "Lokální sucho probíhá" # todo: NEW TRANSLATION
-  AGRI_standard_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí lokálním suchem, což je důsledek nedostatku vody v některých oblastech země; pravděpodobně to nepřinese zhoršení pro [ROOT.GetName] ani jejich sousedy." # todo: NEW TRANSLATION
-  AGRI_harsh_drought_ongoing: "Regionální sucho probíhá" # todo: NEW TRANSLATION
-  AGRI_harsh_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí regionálním suchem, což je důsledek nedostatku vody v celých regionech v zemi; sousedé [ROOT.GetName] mohou být postiženi také." # todo: NEW TRANSLATION
-  AGRI_extreme_drought_ongoing: "Široce rozšířené sucho probíhá" # todo: NEW TRANSLATION
-  AGRI_extreme_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí národně rozšířeným suchem, což je výsledek nedostatku vody napříč velkými oblastmi; je téměř jisté, že [ROOT.GetName] bude dlouho trpět a sousední státy mohou zažít dopady." # todo: NEW TRANSLATION
-  agrarian_economy_additional_income_TT: "$$[?additional_income_agrarian_economy|+3] od §Y$agrarian_economy$§!\n" # todo: NEW TRANSLATION
-  basic_crops: "Základní plodiny" # todo: NEW TRANSLATION
-  cash_crops: "Výnosné plodiny" # todo: NEW TRANSLATION
-  agri_allocation_change: "§Y[ROOT.selected_crop_type]§! Změny alokace polí o [?allocation_change|%+2] (Aktuální alokace: [selected_crop_cur_use])\n" # todo: NEW TRANSLATION
-  agri_price_change: "§Y[selected_crop_type]§! Změny ceny o §Y$$§![?price_change|+2] (Aktuální cena: §Y$$§![selected_crop_cur_price])\n" # todo: NEW TRANSLATION
-  AGRI_protections_effect: "Změny §YOchrany proti suchám§! podle [?AGRI_protections_change|+0] (Aktuální ochrany: [?ROOT.AGRI_protection|Y0])" # todo: NEW TRANSLATION
-  agrarian_economy_category: "Zemědělský systém" # todo: NEW TRANSLATION
-  agrarian_economy_category_desc: "[ROOT.GetNameWithFlag] má v současnosti velkou část populace pracující na polích; počet pracovníků ochotných pracovat na rozsáhlých zemědělských polích je řízen naší §YLiteracy Rate§!, čím vyšší je míra, tím méně pracovníků máme pro zemědělský sektor.\n\nNicméně nižší §YLiteracy Rate§! bude negativně ovlivňovat naši §Yrychlost výzkumu§!.\n" # todo: NEW TRANSLATION
-  stole_our_water: "Ukradená voda" # todo: NEW TRANSLATION
-  sent_us_food_aid_regular: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
-  sent_us_food_aid_large: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
-  sent_us_food_aid_massive: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
-  refused_aid_regular: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
-  refused_aid_large: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
-  refused_aid_massive: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
-  diplomatic_facade: "Snažili se nás oklamat" # todo: NEW TRANSLATION
-  AGRI_main_title: "[ROOT.GetNameWithFlag]'s Zemědělská ekonomika" # todo: NEW TRANSLATION
-  AGRI_refresh: "Obnovit" # todo: NEW TRANSLATION
-  AGRI_refresh_TT: "Kliknutím na tlačítko aktualizujete své zemědělské statistiky a toto okno se načte znovu." # todo: NEW TRANSLATION
-  AGRI_banked_changes_title_text: "§YBankované změny:§!" # todo: NEW TRANSLATION
-  AGRI_banked_change_button_text: "Proveď změny" # todo: NEW TRANSLATION
-  AGRI_banked_change_TT: "§HPrerequisites:§!\n[!AGRI_banked_change_click_enabled]\nKliknutím na toto tlačítko provede uložené změny alokace polí do §YAlokace polí§!." # todo: NEW TRANSLATION
-  AGRI_banked_change_TT_delayed: "Tímto dojde ke změně:\n§CBasic Crops§! §YAlokace polí§! o [?ROOT.AGRI_banked_changes_basic|%+2]\n§CCash Crops§! §YAlokace polí§! o [?ROOT.AGRI_banked_changes_cash|%+2]\nToto bude stát [?ROOT.AGRI_pp_cost|+0] §Ypolitickou sílu§!." # todo: NEW TRANSLATION
-  AGRI_reset_banked_change_button_text: "Resetovat změny" # todo: NEW TRANSLATION
-  AGRI_reset_banked_change_TT: "Kliknutím na toto tlačítko resetujete uložené změny alokace polí." # todo: NEW TRANSLATION
-  AGRI_reset_banked_change_TT_delayed: "" # todo: NEW TRANSLATION
-  AGRI_basic_crop_changes_loc: "§CBasic Crops§!\n§YAlokace polí§!\nzvyšuje o [?ROOT.AGRI_banked_changes_basic|%+2]" # todo: NEW TRANSLATION
-  AGRI_cash_crop_changes_loc: "§CCash Crops§!\n§YAlokace polí§!\nzvyšuje o [?ROOT.AGRI_banked_changes_cash|%+2]" # todo: NEW TRANSLATION
-  AGRI_no_changes_loc: "§CNic plodina§!\n§YAlokace polí§!\nzvyšuje." # todo: NEW TRANSLATION
-  ALLOCATE_FIELDS_BASIC: "§CKlikněte§! §HPředpoklady:§!\n[!basic_crop_allocation_button_click_enabled]\n§CKlikněte§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G1.00%§!\n§CCtrl+Klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G5.00%§!\n§CShift+Klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G10.00%§!\n" # todo: NEW TRANSLATION
-  ALLOCATE_FIELDS_BASIC_DELAYED: "§0Pravý klik§! §HPředpoklady:§!\n[!basic_crop_allocation_button_right_click_enabled]\n§0Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-1.00%§!\n§0Ctrl+Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-5.00%§!\n§0Shift+Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-10.00%§!\n" # todo: NEW TRANSLATION
-  ALLOCATE_FIELDS_CASH: "§CKlikněte§! §HPředpoklady:§!\n[!cash_crop_allocation_button_click_enabled]\n§CKlikněte§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G1.00%§!\n§CCtrl+Klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G5.00%§!\n§CShift+Klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G10.00%§!\n" # todo: NEW TRANSLATION
-  ALLOCATE_FIELDS_CASH_DELAYED: "§0Pravý klik§! §HPředpoklady:§!\n[!cash_crop_allocation_button_right_click_enabled]\n§0Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-1.00%§!\n§0Ctrl+Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-5.00%§!\n§0Shift+Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-10.00%§!\n" # todo: NEW TRANSLATION
-  AGRI_fields_changing_text: "[AGRI_fields_change_scripted]" # todo: NEW TRANSLATION
-  AGRI_fields_changing_text_tooltip: "[AGRI_fields_change_scripted_tooltip]" # todo: NEW TRANSLATION
-  basic_allocation_drift_active: "§CBasic Crops§! §Gnyní se alokuje více půdy!§!" # todo: NEW TRANSLATION
-  basic_allocation_drift_active_tooltip: "Alokuje se o [?ROOT.AGRI_monthly_changes_basic|%G2] více půdy na §CBasic Crops§! za §Yměsíc§!\nZbývající dny: [?agriculture_allocation_drift_basic:days_left|Y0]" # todo: NEW TRANSLATION
-  cash_allocation_drift_active: "§CCash Crops§! §Gnyní se alokuje více půdy!§!" # todo: NEW TRANSLATION
-  cash_allocation_drift_active_tooltip: "Alokuje se o [?ROOT.AGRI_monthly_changes_cash|%G2] více půdy na §CCash Crops§! za §Yměsíc§!\nZbývající dny: [?agriculture_allocation_drift_cash:days_left|Y0]" # todo: NEW TRANSLATION
-  basic_price_drift_active: "§CBasic Crops§! §Gjsou nyní zvyšovány ceny!§!" # todo: NEW TRANSLATION
-  basic_price_drift_active_tooltip: "Znovu upravujeme tržní hodnotu §CBasic Crops§! o [?ROOT.AGRI_monthly_changes_basic_price|%G2] za §Yměsíc§!\nZbývající dny: [?agriculture_price_drift_basic:days_left|Y0]" # todo: NEW TRANSLATION
-  cash_price_drift_active: "§CCash Crops§! §Gjsou nyní zvyšovány ceny!§!" # todo: NEW TRANSLATION
-  cash_price_drift_active_tooltip: "Přeúprava tržní hodnoty §CCash Crops§! o [?ROOT.AGRI_monthly_changes_cash_price|%G2] za §Yměsíc§!\nZbývající dny: [?agriculture_price_drift_cash:days_left|Y0]" # todo: NEW TRANSLATION
-  AGRI_cannot_change_allocation: "§RNelze změnit§! §Yalokaci polí§! §Rz různých důvodů!§!" # todo: NEW TRANSLATION
-  AGRI_cannot_change_allocation_tooltip: "Kvůli suchu nebo jiným omezením [ROOT.GetName] nemůže provést žádné změny v statistikách §Yalokace polí§!.\nZbývající dny: [?AGRI_can_NOT_change_allocation:days_left|Y0]" # todo: NEW TRANSLATION
-  AGRI_crop_type_title: "§YCrop Type:§!" # todo: NEW TRANSLATION
-  AGRI_crop_stats_title: "§YAlokace polí:§!\n§YCena plodiny:§!" # todo: NEW TRANSLATION
-  AGRI_basic_title: "§Základní plodiny§!" # todo: NEW TRANSLATION
-  AGRI_basic_stats: "[?ROOT.agri_crop_allocation^0|%Y2]\n§Y$$§![?ROOT.agri_crop_price^0|G2]" # todo: NEW TRANSLATION
-  AGRI_cash_title: "§CVýnosné plodiny§!" # todo: NEW TRANSLATION
-  AGRI_cash_stats: "[?agri_crop_allocation^1|%Y2]\n§Y$$§![?ROOT.agri_crop_price^1|G2]" # todo: NEW TRANSLATION
-  AGRI_harvest_title: "§YRoční sklizeň:§!\n§YTýdenní sklizeň:§!" # todo: NEW TRANSLATION
-  AGRI_harvest_stats: "§Y$$§![?ROOT.annual_harvest_display|G] §YMilion§!\n§Y$$§![?ROOT.weekly_harvest_display|G0] §YTisíc§!" # todo: NEW TRANSLATION
-  AGRI_changes_underway_TT: "Změny v §Zemědělský sektor§! §Gprobíhají§!" # todo: NEW TRANSLATION
-  AGRI_changes_not_underway_TT: "Změny v §Zemědělský sektor§! §Není§! v běhu" # todo: NEW TRANSLATION
-  AGRI_can_make_changes_TT: "Omezení na §Zemědělský sektor§! §Není§! uplatněna" # todo: NEW TRANSLATION
-  AGRI_basic_crops_not_full_allocation_TT: "§YAlokace polí§! pro §YZákladní plodiny§! nejsou §Rna 100%§! již" # todo: NEW TRANSLATION
-  AGRI_cash_crops_not_full_allocation_TT: "§YAlokace polí§! pro §YCash Crops§! nejsou §Rna 100%§! již" # todo: NEW TRANSLATION
-  AGRI_has_basic_banked_changes_TT: "§0Pravý klik§! je povolen pouze tehdy, když §YBankované změny základních plodin§! jsou nad §Y0%§! (Aktuálně: [?ROOT.AGRI_banked_changes_basic|+%])" # todo: NEW TRANSLATION
-  AGRI_has_cash_banked_changes_TT: "§0Pravý klik§! je povolen pouze tehdy, když §YBankované změny výnosných plodin§! jsou nad §Y0%§! (Aktuálně: [?ROOT.AGRI_banked_changes_cash|+%])" # todo: NEW TRANSLATION
-  AGRI_experiencing_drought_TT: "Momentálně zažívá suchu!" # todo: NEW TRANSLATION
-  AGRI_not_experiencing_drought: "Momentálně nezažívá sucho!" # todo: NEW TRANSLATION
-  AGRI.1.t: "Potenciální sucho přijíždí..." # todo: NEW TRANSLATION
-  AGRI.1.d: "Naši největší vědci a experti z Ministerstva zemědělství mají obavy z možnosti sucha, které by mohlo nastat v blízké budoucnosti; žádné srážky se nečekají a doufáme, že jsme se připravili na všechno." # todo: NEW TRANSLATION
-  AGRI.1.A: "Držíme palce..." # todo: NEW TRANSLATION
-  AGRI.2.t0: "Vědci se mýlili!" # todo: NEW TRANSLATION
-  AGRI.2.d0: "Naštěstí tentokrát byli vědci a odborníci mimo; sucho se nám tentokrát podařilo zabránit, ale příště možná už tolik štěstí mít nebudeme..." # todo: NEW TRANSLATION
-  AGRI.2.A: "Měli bychom se připravit na špatnou sklizeň" # todo: NEW TRANSLATION
-  AGRI.2.B: "Špatná sklizeň? A co teprve hrozná?" # todo: NEW TRANSLATION
-  AGRI.2.C: "Není třeba! Tentokrát jsme to zvládli a i příště to zvládneme." # todo: NEW TRANSLATION
-  AGRI.2.t1: "Vědci měli pravdu! Částečně" # todo: NEW TRANSLATION
-  AGRI.2.d1: "Vědci a experti byli jen částečně správní; sice došlo k suchu, ale zdá se, že je lokalizováno jen v jednom či dvou regionech v [ROOT.GetName]. Není to příliš vážné, i když by se to mohlo šířit do sousedních regionů, pokud problém nevyřešíme." # todo: NEW TRANSLATION
-  AGRI.2.D: "Tohle se nezdá být tak špatné, nechme to projít." # todo: NEW TRANSLATION
-  AGRI.2.E: "Můžeme vyhradit nějaké peníze na řešení situace." # todo: NEW TRANSLATION
-  AGRI.2.F: "To vyžaduje okamžitou akci!" # todo: NEW TRANSLATION
-  AGRI.2.G: "To by mohlo být nadměrné, ale raději budeme v bezpečí." # todo: NEW TRANSLATION
-  AGRI.2.t2: "Vědci měli pravdu!" # todo: NEW TRANSLATION
-  AGRI.2.d2: "Sucho udeřilo v plné síle; již zemřely desítky lidí a mnoho dalších podlehne katastrofě v nadcházejících týdnech; musíme okamžitě zasáhnout, aby se situace nezhoršila." # todo: NEW TRANSLATION
-  AGRI.2.H: "Není moc jiného, než to nechat projít." # todo: NEW TRANSLATION
-  AGRI.2.I: "To samo o sobě nevyřeší všechno, ale je to lepší než nic." # todo: NEW TRANSLATION
-  AGRI.2.J: "Doufejme, že nám to vydrží do dalšího deště." # todo: NEW TRANSLATION
-  AGRI.2.K: "Děkujeme za tento zásobník, používejte podle potřeby!" # todo: NEW TRANSLATION
-  AGRI.2.t3: "Katastrofální sucho!" # todo: NEW TRANSLATION
-  AGRI.2.d3: "To je naprostá katastrofa... stovky lidí zemřou v důsledku masivního sucha, které se zdá být rozšířené v [ROOT.GetName]; očekává se, že se rozšíří i do sousedních států, musíme situaci zvládnout, pokud možno." # todo: NEW TRANSLATION
-  AGRI.2.L: "To nezastavíme, Bože, odpusť nám..." # todo: NEW TRANSLATION
-  AGRI.2.M: "Kéž bychom měli více prostředků, abychom tuto pohromu zastavili!" # todo: NEW TRANSLATION
-  AGRI.2.N: "To nestačí, ale mělo by to pomoct s nejhorším." # todo: NEW TRANSLATION
-  AGRI.2.O: "Náš zásobník je hojný, a to bude stačit, ačkoliv nákladný..." # todo: NEW TRANSLATION
-  AGRI_neighbour.1.t: "Lokálně omezené sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_neighbour.1.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; naštěstí se zdá být poněkud lokalizované a vyžadovalo by jen velmi málo pomoci, abychom zastavili šíření sucho. Můžeme však poslat určitou pomoc, abychom si získali u souseda přízeň." # todo: NEW TRANSLATION
-  AGRI_neighbour.1.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_neighbour.1.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
-  AGRI_neighbour.1.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
-  AGRI_neighbour.1.D: "Pomoc? Mohou si pomoct sami!" # todo: NEW TRANSLATION
-  AGRI_neighbour.10.t: "Náš soused [FROM.GetName] nám posílá trochu pomoci!" # todo: NEW TRANSLATION
-  AGRI_neighbour.10.d: "[FROM.GetName] vypadá, že ví, co znamená být dobrým sousedem, a posílá nám poměrně velkou pomoc, aby zastavili vliv sucha." # todo: NEW TRANSLATION
-  AGRI_neighbour.10.A: "Skvělé" # todo: NEW TRANSLATION
-  AGRI_neighbour.100.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_neighbour.100.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; sucho je takové, že si ho jistě vypůjčíme my sami, bylo by fajn mít nějakou pomoc." # todo: NEW TRANSLATION
-  AGRI_neighbour.100.A: "No, tohle se dá zvládnout." # todo: NEW TRANSLATION
-  AGRI_neighbour.2.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_neighbour.2.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; původně experti předpovídali, že zůstane lokální, ale byli mylní. Vypadá to, že věci mohou být horší, než se očekávalo; [FROM.GetName] by velmi uvítal naši pomoc a možná nám v budoucnu otevře své dveře." # todo: NEW TRANSLATION
-  AGRI_neighbour.2.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_neighbour.2.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
-  AGRI_neighbour.2.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
-  AGRI_neighbour.2.D: "Zní to jako dovednostní problém." # todo: NEW TRANSLATION
-  AGRI_neighbour.20.t: "Naboji soused [FROM.GetName] nám posílá trochu pomoci!" # todo: NEW TRANSLATION
-  AGRI_neighbour.20.d: "[FROM.GetName] vypadá, že ví, co znamená být dobrým sousedem, a poslal nám značnou pomoc, aby zastavili vliv sucha." # todo: NEW TRANSLATION
-  AGRI_neighbour.20.A: "Skvělé" # todo: NEW TRANSLATION
-  AGRI_neighbour.200.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_neighbour.200.d: "[FROM.GetName] nám dává najevo, že v nouzi na něj nemůžeme spolehnout, zdá se, že jsme zůstaní na holičkách kvůli [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_neighbour.200.A: "Ti parchantě" # todo: NEW TRANSLATION
-  AGRI_neighbour.3.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_neighbour.3.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; dříve experti předpovídali, že to zůstane lokální, ale byli chybně. Zemi v [FROM.GetName] vypadá, že v dohledné době zůstane suchá a neúrodná; pokud chceme sousedovi pomoci, musí to být okamžité a značné, nyní si nemůžeme dovolit, aby příroda vyhrála." # todo: NEW TRANSLATION
-  AGRI_neighbour.3.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_neighbour.3.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
-  AGRI_neighbour.3.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
-  AGRI_neighbour.3.D: "Nemáme teď doma!" # todo: NEW TRANSLATION
-  AGRI_neighbour.30.t: "Náš soused [FROM.GetName] nám posílá velkou pomoc!" # todo: NEW TRANSLATION
-  AGRI_neighbour.30.d: "[FROM.GetName] ví, co znamená být dobrým sousedem, a poslal nám značnou pomoc, aby zastavili vlivy sucha." # todo: NEW TRANSLATION
-  AGRI_neighbour.30.A: "Děkujeme nebesům!" # todo: NEW TRANSLATION
-  AGRI_neighbour.300.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_neighbour.300.d: "[FROM.GetName] nám ukazuje, že v nouzi se na něj nemůžeme spolehnout; bohužel sucho se může rozšířit i na naši zemi." # todo: NEW TRANSLATION
-  AGRI_neighbour.300.A: "Kde jsou [FROM.GetAdj] vlajky? Měly by být spáleny!" # todo: NEW TRANSLATION
-  AGRI_influencer.1.t: "Lokální sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_influencer.1.d: "[FROM.GetName] zažívá sucho, naštěstí to vypadá, že je to poměrně lokální a vyžaduje jen malé množství pomoci k zastavení šíření; nicméně bychom mohli poslat nějakou pomoc, abychom získali podporu země." # todo: NEW TRANSLATION
-  AGRI_influencer.1.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_influencer.1.B: "Zní to jako jejich problém." # todo: NEW TRANSLATION
-  AGRI_influencer.10.t: "[FROM.GetName] nám posílá nějakou pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.10.d: "[FROM.GetName] jedná nad rámec toho, co by měl dělat diplomatický partner, a poslal nám menší množství pomoci v boji se suchem, aby zmírnil dopady." # todo: NEW TRANSLATION
-  AGRI_influencer.10.A: "Skvělé" # todo: NEW TRANSLATION
-  AGRI_influencer.100.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.100.d: "[FROM.GetName] nám dává najevo, že i v nouzi se na něj nemůžeme spolehnout; sucho je takové, že se s tím musíme vypořádat sami." # todo: NEW TRANSLATION
-  AGRI_influencer.100.A: "No, tohle se dá zvládnout." # todo: NEW TRANSLATION
-  AGRI_influencer.2.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_influencer.2.d: "[FROM.GetName] zažívá poměrně velké sucho; původně experti předpovídali, že zůstane lokální, ale byli mylní. Vypadá to, že věci mohou být horší, než se očekávalo; [FROM.GetName] by měla výrazně využít naši pomoc a možná nám v budoucnu otevřít dveře." # todo: NEW TRANSLATION
-  AGRI_influencer.2.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_influencer.2.B: "Není nám to tolik prospěšné." # todo: NEW TRANSLATION
-  AGRI_influencer.20.t: "[FROM.GetName] nám posílá nějakou pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.20.d: "[FROM.GetName] jde nad rámec toho, co by měl dělat diplomatický partner, a poslal nám značnou pomoc, aby zastavil šíření sucha." # todo: NEW TRANSLATION
-  AGRI_influencer.20.A: "Skvělé" # todo: NEW TRANSLATION
-  AGRI_influencer.200.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.200.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; zdá se, že jsme na holičkách." # todo: NEW TRANSLATION
-  AGRI_influencer.200.A: "Ti parchanti." # todo: NEW TRANSLATION
-  AGRI_influencer.3.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
-  AGRI_influencer.3.d: "[FROM.GetName] zažívá poměrně velké sucho; dříve experti předpovídali, že zůstane lokální, ale byli mylní. Země [FROM.GetName] vypadá, že v dohledné době zůstane suchá a neúrodná; pokud chceme souseda pomoci, naše reakce musí být okamžitá a významná." # todo: NEW TRANSLATION
-  AGRI_influencer.3.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
-  AGRI_influencer.3.B: "A jak přesně nám to pomůže?" # todo: NEW TRANSLATION
-  AGRI_influencer.30.t: "[FROM.GetName] nám posílá velkou pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.30.d: "[FROM.GetName] jde nad rámec toho, co by měl dělat diplomatický partner, a poslal nám značnou pomoc v boji se suchem.." # todo: NEW TRANSLATION
-  AGRI_influencer.30.A: "Děkujeme nebesům!" # todo: NEW TRANSLATION
-  AGRI_influencer.300.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
-  AGRI_influencer.300.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; Bože, a [FROM.GetName] nás opustili." # todo: NEW TRANSLATION
-  AGRI_influencer.300.A: "Kde jsou [FROM.GetAdj] vlajky? Měly by být spáleny!" # todo: NEW TRANSLATION
-  AGRI_random.1.t: "Farmáři si stěžují na nedostatek vybavení!" # todo: NEW TRANSLATION
-  AGRI_random.1.d: "V důsledku současných ekonomických sankcí vůči [THIS.GetName] farmáři protestují proti nedostatku nového či alespoň funkčního vybavení.\nMáme 3 možnosti: obchodovat s podezřelými postavami na černém trhu, pokusit se najít někoho, kdo s námi bude obchodovat, nebo si poradit s tím, co už máme.\n\nCo bychom měli udělat [THIS.GetLeader]?" # todo: NEW TRANSLATION
-  AGRI_random.1.A: "Podezřelé postavy? To jsou jen poslové!" # todo: NEW TRANSLATION
-  AGRI_random.1.B: "Zkusme najít někoho, s kým budeme obchodovat" # todo: NEW TRANSLATION
-  AGRI_random.1.C: "No, máte voly, že?" # todo: NEW TRANSLATION
-  AGRI_random_black_market_TT: "§Y[THIS.GetNameWithFlag]'s Agriculture Minister will reach out to some black market contacts to make a deal.§!" # todo: NEW TRANSLATION
-  AGRI_random_embargo_trading_TT: "§Y[THIS.GetNameWithFlag]'s Agriculture Minister will reach out to some contacts in other countries to try and make a deal.§!" # todo: NEW TRANSLATION
-  AGRI_random.10.t1: "Prostě se neptejte, odkud to přišlo" # todo: NEW TRANSLATION
-  AGRI_random.10.d1: "Farmáři nejsou spokojeni s vybavením, které jsme získali, tvrdí, že naše vysvětlení, že vybavení vypadlo z kufru, není dostatečné. Dokud nejsou nespokojení více, než by byli, kdybychom je vůbec nezískali, je to úspěch." # todo: NEW TRANSLATION
-  AGRI_random.10.A: "Nesnažme se to dělat pravidelně..." # todo: NEW TRANSLATION
-  AGRI_random.10.t2: "Přestřelky s pašeráky!" # todo: NEW TRANSLATION
-  AGRI_random.10.d2: "Šéf naší potravinové komise bude kvůli tomu z toho mít hlavu! Snažit se obchodovat s pašeráky vedlo k tomu, že nechtěně ukradli peníze a snažili se si pohlídat i dodávky, spousta našich vojáků bylo zastřeleno, to je nepřijatelné!" # todo: NEW TRANSLATION
-  AGRI_random.10.B: "Ti parchanti" # todo: NEW TRANSLATION
-  AGRI_random.10.t3: "Vzali peníze a zdrhli..." # todo: NEW TRANSLATION
-  AGRI_random.10.d3: "16 hodin čekali pašeráci, než se vrátili; jejich návrat byl nečekaný. 16 hodin čekání na pašeráky; strašné." # todo: NEW TRANSLATION
-  AGRI_random.10.C: "Koule." # todo: NEW TRANSLATION
-  AGRI_random.100.t1: "Nesluší tu, ale fungují" # todo: NEW TRANSLATION
-  AGRI_random.100.d1: "Farmáři jsou s tím, co jsme dokázali sehnat, poměrně spokojeni; nemusí to být nejkrásnější či nejnovější vybavení, ale funguje, a to je v naší současné situaci téměř vše, co bychom si mohli přát." # todo: NEW TRANSLATION
-  AGRI_random.100.A: "Tady jsme odvrátili katastrofu" # todo: NEW TRANSLATION
-  AGRI_random.100.t2: "Další embargo?!" # todo: NEW TRANSLATION
-  AGRI_random.100.d2: "Kdo vyjednává v ministerstvu obchodu by měl být zastřelen. Netušíme, co se podařilo pokazit, ale máme další embargo; navíc jsou farmáři zuřiví!" # todo: NEW TRANSLATION
-  AGRI_random.100.B: "Oh bollocks..." # todo: NEW TRANSLATION
-  AGRI_random.100.t3: "Těžko cokoli funguje" # todo: NEW TRANSLATION
-  AGRI_random.100.d3: "\"Jako nové\" je jenom vtip. Většina vybavení, které jsme sehnali, je rozbité, zablokované nebo jen nehází žádné známky života; farmáři jsou na nás pěkně naštvaní..." # todo: NEW TRANSLATION
-  AGRI_random.100.C: "Máme doklad o koupi?" # todo: NEW TRANSLATION
-  AGRI_random.2.t: "Pole vypadají dost suchá..." # todo: NEW TRANSLATION
-  AGRI_random.2.d: "V této části roku bývají naše pole omnoho snesitelnější než teď; náš ministr zemědělství se obává, že to může vést k vážnějšímu suchu než jen \"trocha moc Slunce\".\n\nPokud je peněz málo, můžeme vždy zkusit odčerpat vodu sousedů..." # todo: NEW TRANSLATION
-  AGRI_random.2.A: "Hele, vyřešíme to sami..." # todo: NEW TRANSLATION
-  AGRI_random.2.B: "No, nepubliku by jim chybělo" # todo: NEW TRANSLATION
-  AGRI_random.2.C: "Jestli se o to bojíte, modlete se na déšť!" # todo: NEW TRANSLATION
-  AGRI_random_water_diversion_TT: "§YMůžeme se pokusit§! §Rukrást§! §Ynějakou vodu našich sousedů§! §Codklonit§! §Yji§!§!" # todo: NEW TRANSLATION
-  AGRI_random.20.t1: "Krize odvrácena!" # todo: NEW TRANSLATION
-  AGRI_random.20.t2: "Cítím se trochu vyděšený žízní" # todo: NEW TRANSLATION
-  AGRI_random.20.t3: "Nic se nezměnilo!" # todo: NEW TRANSLATION
-  AGRI_random.20.d1: "Zdá se, že rychlá akce vlády vyřešila potenciální problém s suchem, žádní nepřátelé nebyli vytvořeni a dokonce mohl dojít ke zvýšení očekávaných cen sklizně." # todo: NEW TRANSLATION
-  AGRI_random.20.d2: "Přestože se zdá, že se nám podařilo zastavit suchou vlnu, některé periferní regiony vypadají suché a u některých plodin můžeme očekávat nižší sklizeň. Naštěstí většina plodin byla zachráněna." # todo: NEW TRANSLATION
-  AGRI_random.20.d3: "Navzdory našim nejlepším snahám to vypadá, že pole prostě nezaberou a vypadají sušší než kdy dřív; může to vyústit v plnohodnotné sucho, musíme být připraveni na to nejhorší." # todo: NEW TRANSLATION
-  AGRI_random.20.A: "Rád to slyším!" # todo: NEW TRANSLATION
-  AGRI_random.20.B: "Doufám, že to bylo jen zelenina." # todo: NEW TRANSLATION
-  AGRI_random.20.C: "Připoutejte se!" # todo: NEW TRANSLATION
-  AGRI_random.200.t1: "Oni si to ani nevšimli!" # todo: NEW TRANSLATION
-  AGRI_random.200.t2: "[FROM.GetName] nás nachytal při činu" # todo: NEW TRANSLATION
-  AGRI_random.200.t3: "Vzali jsme příliš vody!" # todo: NEW TRANSLATION
-  AGRI_random.200.t4: "[FROM.GetName]'s Fields Seem To Be Dry" # todo: NEW TRANSLATION
-  AGRI_random.200.t5: "[FROM.GetName]'s Farms Left Barren" # todo: NEW TRANSLATION
-  AGRI_random.200.d1: "S jistým kapitálem v té správné místě jsme dokázali ukrást část vody sousedů bez jejich vědomí; doufám, že lidé, které jsme upláceli, zůstanou ticho. Naše problémy jsou vyřešeny, na chvíli." # todo: NEW TRANSLATION
-  AGRI_random.200.d2: "Po zaplacení těm, o kterých jsme si mysleli, že jsou správní lidé, náš tým pro akvizice byl zadržán úřady [FROM.GetAdj]. Zdá se, že jsou na naše kroky velmi naštvaní." # todo: NEW TRANSLATION
-  AGRI_random.200.d3: "Zdá se, že soused [FROM.GetName] měl méně vody, než jsme původně očekávali, a nyní trpí následky našich činů! Je pravděpodobné, že je to očividné pro ně, kdo ukradl vodu; naštěstí sucho může mířit i k nám." # todo: NEW TRANSLATION
-  AGRI_random.200.d4: "Zdá se, že náš soused [FROM.GetName] měl méně vody, než jsme si původně mysleli, a nyní trpí následky našich činů! Je pravděpodobně zřejmé, kdo vodu ukradl; bohužel sucho se může dostat i k nám." # todo: NEW TRANSLATION
-  AGRI_random.200.d5: "Zdá se, že náš soused [FROM.GetName] měl méně vody, než jsme si původně mysleli, a nyní trpí následky našich činů! Je téměř jisté, že je jejich identita zřejmá, a ministr zemědělství předpovídá extrémní sucho s vysokou pravděpodobností, že se šíří přes naše hranice." # todo: NEW TRANSLATION
-  AGRI_random.200.A: "To je pro ně výstraha, že mají vodu!" # todo: NEW TRANSLATION
-  AGRI_random.200.B: "Au, sakra..." # todo: NEW TRANSLATION
-  AGRI_random.200.C: "Zkus je uklidnit." # todo: NEW TRANSLATION
-  AGRI_random.200.D: "Promiň." # todo: NEW TRANSLATION
-  AGRI_random.200.E: "Připravte se na nejhorší." # todo: NEW TRANSLATION
-  AGRI_random.200.F: "Počkejte... mohlo by nás to postihnout!" # todo: NEW TRANSLATION
-  AGRI_random.200.G: "Pokud to může postihnout nás, musíme se připravit!" # todo: NEW TRANSLATION
-  AGRI_random.200.H: "Pane Bože... co jsme to udělali?" # todo: NEW TRANSLATION
-  AGRI_random.2000.t: "[FROM.GetName] ukradl naši vodu!" # todo: NEW TRANSLATION
-  AGRI_random.2000.d1: "Mysleli jsme si, že se něco děje, když došly zásoby vody. Po důkladném vyšetřování se zdá, že [FROM.GetName] byl viníkem!" # todo: NEW TRANSLATION
-  AGRI_random.2000.d2: "Mysleli jsme si, že něco není v pořádku, když došly zásoby vody. Po důkladném vyšetřování se zdá, že [FROM.GetName] byl viníkem! Můžeme jim dát najevo, že to myslíme vážně, uvalit na ně embargo..." # todo: NEW TRANSLATION
-  AGRI_random.2000.A: "Zcela je odřízněte!" # todo: NEW TRANSLATION
-  AGRI_random.2000.B: "Ti parchanti!" # todo: NEW TRANSLATION
-  AGRI_random.3.t: "Dva farmáři hledají pomoc s pozemkovým sporem" # todo: NEW TRANSLATION
-  AGRI_random.3.d: "Dva farmáři přišli do sídla ministerstva zemědělství a žádají o jakýkoli vládní zásah k vyřešení sporu o půdu, zatímco farmář číslo jedna tvrdí, že jeho půdu znesvětil stádo farmáře číslo dva, farmář číslo dva tvrdí, že formální zakreslení map nebylo nikdy provedené, a že hranice polí farmáře čísla jedna ve skutečnosti zasahují na majetek farmáře čísla dva!" # todo: NEW TRANSLATION
-  AGRI_random.3.A: "Držte ta stáda na své straně!" # todo: NEW TRANSLATION
-  AGRI_random_3_F1_TT: "§YBudu stát na straně§! §3Farmář Jeden§! §Yve sporu o půdu§!" # todo: NEW TRANSLATION
-  AGRI_random.3.B: "Nelze očekávat, že stádo pozná hranice!" # todo: NEW TRANSLATION
-  AGRI_random_3_F2_TT: "§YBudu stát na straně§! §3Farmář Dva§! §Yve sporu o půdu§!" # todo: NEW TRANSLATION
-  AGRI_random.3.C: "Připomeň mi, proč bych se o to měl zajímat?" # todo: NEW TRANSLATION
-  AGRI_random_3_NO_TT: "§YBudu stát na straně§! §Rnikdo§! §Yve sporu o půdu, nechám je, ať to vyřeší sami§!" # todo: NEW TRANSLATION
-  AGRI_random.30.t1: "Chovatelé dobytka jsou rozhořčeni!" # todo: NEW TRANSLATION
-  AGRI_random.30.d1: "Velká skupina chovatelů dobytka považuje zásah vlády na straně orných farmářů za ohavný zásah do moci a aktivně kampaňuje za protilehlou politickou stranu!\n\nOrní farmáři však slaví rozhodnutí a jsou nadšeni z tohoto vítězství pro práva na vlastnictví!" # todo: NEW TRANSLATION
-  AGRI_random.30.A: "Měli byste lépe hlídat svůj dobytek!" # todo: NEW TRANSLATION
-  AGRI_random.30.t2: "Obdělávací farmáři jsou naštvaní!" # todo: NEW TRANSLATION
-  AGRI_random.30.d2: "Chovatelé dobytka se zdají být nadšeni vládním rozhodnutím; s právy na pastvu zajištěnými se zavázali podpořit vládu v nadcházejících volbách. Obdělávací farmáři nicméně vyhrožují tím, že se sjednotí a odmítnou rozhodnutí!" # todo: NEW TRANSLATION
-  AGRI_random.30.B: "Pravděpodobně bychom měli posílit zákony o vlastnictví půdy..." # todo: NEW TRANSLATION
-  AGRI_random.30.t3: "Vyřešili to mezi sebou!" # todo: NEW TRANSLATION
-  AGRI_random.30.d3: "Bez zásahu vlády z obou stran byla mezi chovateli dobytka a obdělávacími farmáři nalezena dohoda na bázi vzájemného souhlasu, čímž byl vyřešen tento konkrétní pozemkový spor.\n\nAčkoliv v budoucnu se mohou objevit další, zdá se, že všichni jsou alespoň částečně spokojeni s tímto výsledkem." # todo: NEW TRANSLATION
-  AGRI_random.30.C: "Ideální řešení." # todo: NEW TRANSLATION
-  AGRI_random.30.t4: "Střelba na farmě!" # todo: NEW TRANSLATION
-  AGRI_random.30.d4: "Bez zásahu vlády ani dohledu proběhly rozhovory mezi oběma skupinami, došlo k potyčce a výstřelům na obou stranách. Mnoho chovatelů a farmářů je mrtvých nebo zraněných; ti v zemědělském sektoru požadují odpovědi a lidé volají po změně." # todo: NEW TRANSLATION
-  AGRI_random.30.D: "No, sakra..." # todo: NEW TRANSLATION
-  AGRI_random.4.t: "Hojná sklizeň!" # todo: NEW TRANSLATION
-  AGRI_random.4.d: "Naši farmáři hlásí šťavnatou úrodu a ptají se Ministerstva zemědělství, co dělat s nadbytečnou sklizní. Můžeme ji prodat, nebo zvětšit velikost našich zásob pro horší časy." # todo: NEW TRANSLATION
-  AGRI_random.4.A: "Další příjem se vždy hodí." # todo: NEW TRANSLATION
-  AGRI_random.4.B: "Máme na to všechno silo?" # todo: NEW TRANSLATION
-  AGRI_random.5.t: "Plodiny hynou na polích!" # todo: NEW TRANSLATION
-  AGRI_random.5.d: "Něco zničilo značnou část naší sklizně a očekávaná sklizeň bude zkažená; očekává se významný pokles naší zemědělské produkce, pokud neuděláme nic razantního." # todo: NEW TRANSLATION
-  AGRI_random.5.A: "Budeme to muset překousat." # todo: NEW TRANSLATION
-  AGRI_random.5.B: "Zásoby udrží sektor zdravý!" # todo: NEW TRANSLATION
-  AGRI_random.6.t: "Invazivní kobylky útočí na pole!" # todo: NEW TRANSLATION
-  AGRI_random.6.d: "Na obzoru byl spatřen invazivní druh kobylek [ROOT.GetLeader]! Doufáme, že použití pesticidů bude stačité k zastavení jejich ničení příliš velké sklizně, ale nikdy nemůžeme být příliš jistí, musíme se připravit na to nejhorší!" # todo: NEW TRANSLATION
-  AGRI_random.6.A: "Jak velké jsou škody?" # todo: NEW TRANSLATION
-  AGRI_random.60.t1: "Pole základních plodin potřebují více půdy!" # todo: NEW TRANSLATION
-  AGRI_random.60.t2: "Pole výnosných plodin potřebují více půdy!" # todo: NEW TRANSLATION
-  AGRI_random.60.d1: "Tohle je katastrofa... kobylky zřejmě zničily nesčetné tuny naší projekované základní sklizně, očekáváme, že zemědělský sektor utrpí značný dopad." # todo: NEW TRANSLATION
-  AGRI_random.60.d2: "Naštěstí kobylky se zdá, že zvolily naše pole ošetřené pesticidy a utrpěly následky. Zatímco projekce základní sklizně klesla, očekává se, že zemědělský sektor zaznamená jen mírný nárůst ziskovosti." # todo: NEW TRANSLATION
-  AGRI_random.60.d3: "Tohle je katastrofa... kobylky zřejmě zničily nespočet tun naší projekované výnosné sklizně, očekáváme, že zemědělský sektor utrpí značný dopad." # todo: NEW TRANSLATION
-  AGRI_random.60.d4: "Naštěstí kobylky zřejmě vybraly naše pole ošetřené pesticidy a utrpěly následky. Zatímco projekce výnosných plodin je nižší, očekává se, že zemědělský sektor zaznamená jen mírný nárůst ziskovosti." # todo: NEW TRANSLATION
-  AGRI_random.60.A: "Kurňa" # todo: NEW TRANSLATION
-  AGRI_random.60.B: "Kurňa" # todo: NEW TRANSLATION
-  AGRI_random.60.C: "Kurňa" # todo: NEW TRANSLATION
-  AGRI_random.60.D: "Kurňa" # todo: NEW TRANSLATION
-  AGRI_random.7.t: "Divoké požáry!" # todo: NEW TRANSLATION
-  AGRI_random.7.d: "Zdá se, že divoké požáry zuří poblíž polí našich nejproduktivnějších farem. Ministr zemědělství očekává, že budou silně zasaženy při nadcházejícím šíření." # todo: NEW TRANSLATION
-  AGRI_random.7.A: "Počkáme na zprávu o škodách..." # todo: NEW TRANSLATION
-  AGRI_random.70.t1: "Pole základních plodin zasaženy plameny!" # todo: NEW TRANSLATION
-  AGRI_random.70.t2: "Pole výnosných plodin zasaženy plameny!" # todo: NEW TRANSLATION
-  AGRI_random.70.d1: "Navzdory nejlepším snahám hasičů to vypadá, že nás čeká těžká sklizeň. Mnoho farmářů přišlo o všechno a nejhorší je, že náš podíl na trhu se základními plodinami bude díky tomuto neštěstí vážně poškozen a trh zaznamená neočekávaný pokles." # todo: NEW TRANSLATION
-  AGRI_random.70.d2: "Navzdory nejlepším snahám hasičů to vypadá, že nás čeká těžká sklizeň. Mnoho farmářů přišlo o všechno a nejhorší je, že náš podíl na trhu s výnosnými plodinami bude vážně poničen a trh zaznamená neočekávaný pokles." # todo: NEW TRANSLATION
-  AGRI_random.70.A: "Veškerá práce je teď v ohni." # todo: NEW TRANSLATION
-  AGRI_random.70.B: "Veškerá práce je teď v ohni." # todo: NEW TRANSLATION
-  AGRI_random.8.t: "Těžké deště hrozí povodněmi" # todo: NEW TRANSLATION
-  AGRI_random.8.d: "Zatímco období dešťů je v plném proudu, je čím dál pravděpodobnější, že zažijeme deštivější období, než bývá obvyklé, protože řeky jsou rozvodněné nad normu pro toto období; meteorologové očekávají, že břehy prasknou." # todo: NEW TRANSLATION
-  AGRI_random.8.A: "Připravme se na nejhorší." # todo: NEW TRANSLATION
-  AGRI_random.80.t1: "Pole základních plodin zaplavené!" # todo: NEW TRANSLATION
-  AGRI_random.80.t2: "Pole výnosných plodin zaplavené" # todo: NEW TRANSLATION
-  AGRI_random.80.d1: "Bylo tu jednoduše příliš mnoho vody na to, abychom to zvládli s našimi improvizovanými zátarasy a rychle postavenými protipovodňovými zdmi. Základní pole plodin jsou promočená, mnoho farmářů přišlo o všechno a zemědělský sektor očekává, že utrpí ztráty kvůli tomuto jevu." # todo: NEW TRANSLATION
-  AGRI_random.80.d2: "Bylo tu jednoduše příliš mnoho vody na to, abychom to zvládli s našimi improvizovanými zátarasy a rychle postavenými protipovodňovými zdmi. Pole výnosných plodin jsou promočené, mnoho farmářů přišlo o všechno a zemědělský sektor očekává, že utrpí ztráty kvůli tomuto jevu." # todo: NEW TRANSLATION
-  AGRI_random.80.A: "Tohle možná bylo příliš velké množství deště." # todo: NEW TRANSLATION
-  AGRI_random.80.B: "Tohle možná bylo příliš velké množství deště." # todo: NEW TRANSLATION
-  AGRI_random.9.t: "Rozběhnuté stádo!" # todo: NEW TRANSLATION
-  AGRI_random.9.d: "Skupina stáda zvířat se v dálce zvedá prach a vypadá to, že si vybere obcházení přes zemědělské pozemky!" # todo: NEW TRANSLATION
-  AGRI_random.9.A: "Uvidíme, kam zamíří." # todo: NEW TRANSLATION
-  AGRI_random.90.t1: "Stádo rozběsněné pošlape základní plodiny" # todo: NEW TRANSLATION
-  AGRI_random.90.t2: "Stádo rozběsněné pošlape výnosné plodiny" # todo: NEW TRANSLATION
-  AGRI_random.90.t3: "Stádo rozběsněné se vyhne polím" # todo: NEW TRANSLATION
-  AGRI_random.90.d1: "Bez našich nejlepších snah se stádo zdá, že pošlape pole, na kterých rostou naše základní plodiny. Budeme muset alokovat více půdy pro základní plodiny z našich cash crops, nebudeme moci změnit alokace, dokud nebudou nouzová opatření hotová." # todo: NEW TRANSLATION
-  AGRI_random.90.d2: "Bez našich nejlepších snah se stádo zdá, že pošlape pole, na kterých rostou naše výnosné plodiny. Budeme muset alokovat více půdy pro výnosné plodiny z našich základních plodin; nebudeme moci měnit alokace, dokud nebudou nouzová opatření hotová." # todo: NEW TRANSLATION
-  AGRI_random.90.d3: "Stádo, které se rozběhlo, se do polních ploch téměř rozptýlilo; někteří opoždění dorazili do venkovských oblastí, ačkoliv zůstávali jen na cestách. To způsobilo dopravní zmatek, ale být pozdě v práci je sakra lepší než přijít o obědy na několik měsíců." # todo: NEW TRANSLATION
-  AGRI_random.90.A: "Nouzová opatření je třeba provést!" # todo: NEW TRANSLATION
-  AGRI_random.90.B: "Nouzová opatření je třeba provést!" # todo: NEW TRANSLATION
-  AGRI_random.90.C: "Naštěstí." # todo: NEW TRANSLATION
+ agrarian_economy: "Zemědělská ekonomika" # todo: NEW TRANSLATION
+ agrarian_economy_desc: "[FROM.GetName] je extrémně chudý stát, s ekonomikou převážně založenou na zemědělských výnosech. Zatímco země se bude modernizovat do nového milénia, lidé budou pracovat na polích a pomáhat ekonomice.\n\n§Y$agrarian_economy$§! vydělává §Y[?ROOT.GetName]§! §Y$$§![?additional_income_agrarian_economy|+3] §Ymiliarda§! týdně.\n\n§RPři HDP na obyvatele 20 000 budeme považováni za průmyslově vyspělou zemi a ztratíme bonus k zemědělství!§!" # todo: NEW TRANSLATION
+ agri_farmer_opinion_TT: "Názor §Y$farmers$§! se zvýší o §G10§!, dokud je tento národní duch platný" # todo: CHANGED
+ AGRI_standard_drought_ongoing: "Lokální sucho probíhá" # todo: NEW TRANSLATION
+ AGRI_standard_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí lokálním suchem, což je důsledek nedostatku vody v některých oblastech země; pravděpodobně to nepřinese zhoršení pro [ROOT.GetName] ani jejich sousedy." # todo: NEW TRANSLATION
+ AGRI_harsh_drought_ongoing: "Regionální sucho probíhá" # todo: NEW TRANSLATION
+ AGRI_harsh_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí regionálním suchem, což je důsledek nedostatku vody v celých regionech v zemi; sousedé [ROOT.GetName] mohou být postiženi také." # todo: NEW TRANSLATION
+ AGRI_extreme_drought_ongoing: "Široce rozšířené sucho probíhá" # todo: NEW TRANSLATION
+ AGRI_extreme_drought_ongoing_desc: "[ROOT.GetName] momentálně trpí národně rozšířeným suchem, což je výsledek nedostatku vody napříč velkými oblastmi; je téměř jisté, že [ROOT.GetName] bude dlouho trpět a sousední státy mohou zažít dopady." # todo: NEW TRANSLATION
+ agrarian_economy_additional_income_TT: "$$[?additional_income_agrarian_economy|+3] od §Y$agrarian_economy$§!\n" # todo: NEW TRANSLATION
+ basic_crops: "Základní plodiny" # todo: NEW TRANSLATION
+ cash_crops: "Výnosné plodiny" # todo: NEW TRANSLATION
+ agri_allocation_change: "§Y[ROOT.selected_crop_type]§! Změny alokace polí o [?allocation_change|%+2] (Aktuální alokace: [selected_crop_cur_use])\n" # todo: NEW TRANSLATION
+ agri_price_change: "§Y[selected_crop_type]§! Změny ceny o §Y$$§![?price_change|+2] (Aktuální cena: §Y$$§![selected_crop_cur_price])\n" # todo: NEW TRANSLATION
+ AGRI_protections_effect: "Změny §YOchrany proti suchám§! podle [?AGRI_protections_change|+0] (Aktuální ochrany: [?ROOT.AGRI_protection|Y0])" # todo: NEW TRANSLATION
+ agrarian_economy_category: "Zemědělský systém" # todo: NEW TRANSLATION
+ agrarian_economy_category_desc: "[ROOT.GetNameWithFlag] má v současnosti velkou část populace pracující na polích; počet pracovníků ochotných pracovat na rozsáhlých zemědělských polích je řízen naší §YLiteracy Rate§!, čím vyšší je míra, tím méně pracovníků máme pro zemědělský sektor.\n\nNicméně nižší §YLiteracy Rate§! bude negativně ovlivňovat naši §Yrychlost výzkumu§!.\n" # todo: NEW TRANSLATION
+ stole_our_water: "Ukradená voda" # todo: NEW TRANSLATION
+ sent_us_food_aid_regular: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
+ sent_us_food_aid_large: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
+ sent_us_food_aid_massive: "Poslali nám potravinovou pomoc" # todo: NEW TRANSLATION
+ refused_aid_regular: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
+ refused_aid_large: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
+ refused_aid_massive: "Odmítli poslat pomoc" # todo: NEW TRANSLATION
+ diplomatic_facade: "Snažili se nás oklamat" # todo: NEW TRANSLATION
+ AGRI_main_title: "[ROOT.GetNameWithFlag]'s Zemědělská ekonomika" # todo: NEW TRANSLATION
+ AGRI_refresh: "Obnovit" # todo: NEW TRANSLATION
+ AGRI_refresh_TT: "Kliknutím na tlačítko aktualizujete své zemědělské statistiky a toto okno se načte znovu." # todo: NEW TRANSLATION
+ AGRI_banked_changes_title_text: "§YBankované změny:§!" # todo: NEW TRANSLATION
+ AGRI_banked_change_button_text: "Proveď změny" # todo: NEW TRANSLATION
+ AGRI_banked_change_TT: "§HPrerequisites:§!\n[!AGRI_banked_change_click_enabled]\nKliknutím na toto tlačítko provede uložené změny alokace polí do §YAlokace polí§!." # todo: NEW TRANSLATION
+ AGRI_banked_change_TT_delayed: "Tímto dojde ke změně:\n§CBasic Crops§! §YAlokace polí§! o [?ROOT.AGRI_banked_changes_basic|%+2]\n§CCash Crops§! §YAlokace polí§! o [?ROOT.AGRI_banked_changes_cash|%+2]\nToto bude stát [?ROOT.AGRI_pp_cost|+0] §Ypolitickou sílu§!." # todo: NEW TRANSLATION
+ AGRI_reset_banked_change_button_text: "Resetovat změny" # todo: NEW TRANSLATION
+ AGRI_reset_banked_change_TT: "Kliknutím na toto tlačítko resetujete uložené změny alokace polí." # todo: NEW TRANSLATION
+ AGRI_reset_banked_change_TT_delayed: "" # todo: NEW TRANSLATION
+ AGRI_basic_crop_changes_loc: "§CBasic Crops§!\n§YAlokace polí§!\nzvyšuje o [?ROOT.AGRI_banked_changes_basic|%+2]" # todo: NEW TRANSLATION
+ AGRI_cash_crop_changes_loc: "§CCash Crops§!\n§YAlokace polí§!\nzvyšuje o [?ROOT.AGRI_banked_changes_cash|%+2]" # todo: NEW TRANSLATION
+ AGRI_no_changes_loc: "§CNic plodina§!\n§YAlokace polí§!\nzvyšuje." # todo: NEW TRANSLATION
+ ALLOCATE_FIELDS_BASIC: "§CKlikněte§! §HPředpoklady:§!\n[!basic_crop_allocation_button_click_enabled]\n§CKlikněte§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G1.00%§!\n§CCtrl+Klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G5.00%§!\n§CShift+Klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §G10.00%§!\n" # todo: NEW TRANSLATION
+ ALLOCATE_FIELDS_BASIC_DELAYED: "§0Pravý klik§! §HPředpoklady:§!\n[!basic_crop_allocation_button_right_click_enabled]\n§0Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-1.00%§!\n§0Ctrl+Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-5.00%§!\n§0Shift+Pravý klik§! pro změnu alokace polí:\n§YZákladní plodiny§! Změny alokace polí o §R-10.00%§!\n" # todo: NEW TRANSLATION
+ ALLOCATE_FIELDS_CASH: "§CKlikněte§! §HPředpoklady:§!\n[!cash_crop_allocation_button_click_enabled]\n§CKlikněte§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G1.00%§!\n§CCtrl+Klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G5.00%§!\n§CShift+Klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §G10.00%§!\n" # todo: NEW TRANSLATION
+ ALLOCATE_FIELDS_CASH_DELAYED: "§0Pravý klik§! §HPředpoklady:§!\n[!cash_crop_allocation_button_right_click_enabled]\n§0Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-1.00%§!\n§0Ctrl+Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-5.00%§!\n§0Shift+Pravý klik§! pro změnu alokace polí:\n§YCash Crops§! Změny alokace polí o §R-10.00%§!\n" # todo: NEW TRANSLATION
+ AGRI_fields_changing_text: "[AGRI_fields_change_scripted]" # todo: NEW TRANSLATION
+ AGRI_fields_changing_text_tooltip: "[AGRI_fields_change_scripted_tooltip]" # todo: NEW TRANSLATION
+ basic_allocation_drift_active: "§CBasic Crops§! §Gnyní se alokuje více půdy!§!" # todo: NEW TRANSLATION
+ basic_allocation_drift_active_tooltip: "Alokuje se o [?ROOT.AGRI_monthly_changes_basic|%G2] více půdy na §CBasic Crops§! za §Yměsíc§!\nZbývající dny: [?agriculture_allocation_drift_basic:days_left|Y0]" # todo: NEW TRANSLATION
+ cash_allocation_drift_active: "§CCash Crops§! §Gnyní se alokuje více půdy!§!" # todo: NEW TRANSLATION
+ cash_allocation_drift_active_tooltip: "Alokuje se o [?ROOT.AGRI_monthly_changes_cash|%G2] více půdy na §CCash Crops§! za §Yměsíc§!\nZbývající dny: [?agriculture_allocation_drift_cash:days_left|Y0]" # todo: NEW TRANSLATION
+ AGRI_cannot_change_allocation: "§RNelze změnit§! §Yalokaci polí§! §Rz různých důvodů!§!" # todo: NEW TRANSLATION
+ AGRI_cannot_change_allocation_tooltip: "Kvůli suchu nebo jiným omezením [ROOT.GetName] nemůže provést žádné změny v statistikách §Yalokace polí§!.\nZbývající dny: [?AGRI_can_NOT_change_allocation:days_left|Y0]" # todo: NEW TRANSLATION
+ AGRI_crop_type_title: "§YCrop Type:§!" # todo: NEW TRANSLATION
+ AGRI_crop_stats_title: "§YAlokace polí:§!\n§YCena plodiny:§!" # todo: NEW TRANSLATION
+ AGRI_basic_title: "§Základní plodiny§!" # todo: NEW TRANSLATION
+ AGRI_basic_stats: "[?ROOT.agri_crop_allocation^0|%Y2]\n§Y$$§![?ROOT.agri_crop_price^0|G2]" # todo: NEW TRANSLATION
+ AGRI_cash_title: "§CVýnosné plodiny§!" # todo: NEW TRANSLATION
+ AGRI_cash_stats: "[?agri_crop_allocation^1|%Y2]\n§Y$$§![?ROOT.agri_crop_price^1|G2]" # todo: NEW TRANSLATION
+ AGRI_harvest_title: "§YRoční sklizeň:§!\n§YTýdenní sklizeň:§!" # todo: NEW TRANSLATION
+ AGRI_harvest_stats: "§Y$$§![?ROOT.annual_harvest_display|G] §YMilion§!\n§Y$$§![?ROOT.weekly_harvest_display|G0] §YTisíc§!" # todo: NEW TRANSLATION
+ AGRI_changes_underway_TT: "Změny v §Zemědělský sektor§! §Gprobíhají§!" # todo: NEW TRANSLATION
+ AGRI_changes_not_underway_TT: "Změny v §Zemědělský sektor§! §Není§! v běhu" # todo: NEW TRANSLATION
+ AGRI_can_make_changes_TT: "Omezení na §Zemědělský sektor§! §Není§! uplatněna" # todo: NEW TRANSLATION
+ AGRI_basic_crops_not_full_allocation_TT: "§YAlokace polí§! pro §YZákladní plodiny§! nejsou §Rna 100%§! již" # todo: NEW TRANSLATION
+ AGRI_cash_crops_not_full_allocation_TT: "§YAlokace polí§! pro §YCash Crops§! nejsou §Rna 100%§! již" # todo: NEW TRANSLATION
+ AGRI_has_basic_banked_changes_TT: "§0Pravý klik§! je povolen pouze tehdy, když §YBankované změny základních plodin§! jsou nad §Y0%§! (Aktuálně: [?ROOT.AGRI_banked_changes_basic|+%])" # todo: NEW TRANSLATION
+ AGRI_has_cash_banked_changes_TT: "§0Pravý klik§! je povolen pouze tehdy, když §YBankované změny výnosných plodin§! jsou nad §Y0%§! (Aktuálně: [?ROOT.AGRI_banked_changes_cash|+%])" # todo: NEW TRANSLATION
+ AGRI_experiencing_drought_TT: "Momentálně zažívá suchu!" # todo: NEW TRANSLATION
+ AGRI_not_experiencing_drought_TT: "V současnosti §Rne§! zažívá §Ysucho§!" # todo: NEW TRANSLATION
+ AGRI.1.t: "Potenciální sucho přijíždí..." # todo: NEW TRANSLATION
+ AGRI.1.d: "Naši největší vědci a experti z Ministerstva zemědělství mají obavy z možnosti sucha, které by mohlo nastat v blízké budoucnosti; žádné srážky se nečekají a doufáme, že jsme se připravili na všechno." # todo: NEW TRANSLATION
+ AGRI.1.A: "Držíme palce..." # todo: NEW TRANSLATION
+ AGRI.2.t0: "Vědci se mýlili!" # todo: NEW TRANSLATION
+ AGRI.2.d0: "Naštěstí tentokrát byli vědci a odborníci mimo; sucho se nám tentokrát podařilo zabránit, ale příště možná už tolik štěstí mít nebudeme..." # todo: NEW TRANSLATION
+ AGRI.2.A: "Měli bychom se připravit na špatnou sklizeň" # todo: NEW TRANSLATION
+ AGRI.2.B: "Špatná sklizeň? A co teprve hrozná?" # todo: NEW TRANSLATION
+ AGRI.2.C: "Není třeba! Tentokrát jsme to zvládli a i příště to zvládneme." # todo: NEW TRANSLATION
+ AGRI.2.t1: "Vědci měli pravdu! Částečně" # todo: NEW TRANSLATION
+ AGRI.2.d1: "Vědci a experti byli jen částečně správní; sice došlo k suchu, ale zdá se, že je lokalizováno jen v jednom či dvou regionech v [ROOT.GetName]. Není to příliš vážné, i když by se to mohlo šířit do sousedních regionů, pokud problém nevyřešíme." # todo: NEW TRANSLATION
+ AGRI.2.D: "Tohle se nezdá být tak špatné, nechme to projít." # todo: NEW TRANSLATION
+ AGRI.2.E: "Můžeme vyhradit nějaké peníze na řešení situace." # todo: NEW TRANSLATION
+ AGRI.2.F: "To vyžaduje okamžitou akci!" # todo: NEW TRANSLATION
+ AGRI.2.G: "To by mohlo být nadměrné, ale raději budeme v bezpečí." # todo: NEW TRANSLATION
+ AGRI.2.t2: "Vědci měli pravdu!" # todo: NEW TRANSLATION
+ AGRI.2.d2: "Sucho udeřilo v plné síle; již zemřely desítky lidí a mnoho dalších podlehne katastrofě v nadcházejících týdnech; musíme okamžitě zasáhnout, aby se situace nezhoršila." # todo: NEW TRANSLATION
+ AGRI.2.H: "Není moc jiného, než to nechat projít." # todo: NEW TRANSLATION
+ AGRI.2.I: "To samo o sobě nevyřeší všechno, ale je to lepší než nic." # todo: NEW TRANSLATION
+ AGRI.2.J: "Doufejme, že nám to vydrží do dalšího deště." # todo: NEW TRANSLATION
+ AGRI.2.K: "Děkujeme za tento zásobník, používejte podle potřeby!" # todo: NEW TRANSLATION
+ AGRI.2.t3: "Katastrofální sucho!" # todo: NEW TRANSLATION
+ AGRI.2.d3: "To je naprostá katastrofa... stovky lidí zemřou v důsledku masivního sucha, které se zdá být rozšířené v [ROOT.GetName]; očekává se, že se rozšíří i do sousedních států, musíme situaci zvládnout, pokud možno." # todo: NEW TRANSLATION
+ AGRI.2.L: "To nezastavíme, Bože, odpusť nám..." # todo: NEW TRANSLATION
+ AGRI.2.M: "Kéž bychom měli více prostředků, abychom tuto pohromu zastavili!" # todo: NEW TRANSLATION
+ AGRI.2.N: "To nestačí, ale mělo by to pomoct s nejhorším." # todo: NEW TRANSLATION
+ AGRI.2.O: "Náš zásobník je hojný, a to bude stačit, ačkoliv nákladný..." # todo: NEW TRANSLATION
+ AGRI_neighbour.1.t: "Lokálně omezené sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_neighbour.1.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; naštěstí se zdá být poněkud lokalizované a vyžadovalo by jen velmi málo pomoci, abychom zastavili šíření sucho. Můžeme však poslat určitou pomoc, abychom si získali u souseda přízeň." # todo: NEW TRANSLATION
+ AGRI_neighbour.1.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_neighbour.1.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
+ AGRI_neighbour.1.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
+ AGRI_neighbour.1.D: "Pomoc? Mohou si pomoct sami!" # todo: NEW TRANSLATION
+ AGRI_neighbour.10.t: "Náš soused [FROM.GetName] nám posílá trochu pomoci!" # todo: NEW TRANSLATION
+ AGRI_neighbour.10.d: "[FROM.GetName] vypadá, že ví, co znamená být dobrým sousedem, a posílá nám poměrně velkou pomoc, aby zastavili vliv sucha." # todo: NEW TRANSLATION
+ AGRI_neighbour.10.A: "Skvělé" # todo: NEW TRANSLATION
+ AGRI_neighbour.100.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_neighbour.100.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; sucho je takové, že si ho jistě vypůjčíme my sami, bylo by fajn mít nějakou pomoc." # todo: NEW TRANSLATION
+ AGRI_neighbour.100.A: "No, tohle se dá zvládnout." # todo: NEW TRANSLATION
+ AGRI_neighbour.2.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_neighbour.2.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; původně experti předpovídali, že zůstane lokální, ale byli mylní. Vypadá to, že věci mohou být horší, než se očekávalo; [FROM.GetName] by velmi uvítal naši pomoc a možná nám v budoucnu otevře své dveře." # todo: NEW TRANSLATION
+ AGRI_neighbour.2.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_neighbour.2.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
+ AGRI_neighbour.2.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
+ AGRI_neighbour.2.D: "Zní to jako dovednostní problém." # todo: NEW TRANSLATION
+ AGRI_neighbour.20.t: "Naboji soused [FROM.GetName] nám posílá trochu pomoci!" # todo: NEW TRANSLATION
+ AGRI_neighbour.20.d: "[FROM.GetName] vypadá, že ví, co znamená být dobrým sousedem, a poslal nám značnou pomoc, aby zastavili vliv sucha." # todo: NEW TRANSLATION
+ AGRI_neighbour.20.A: "Skvělé" # todo: NEW TRANSLATION
+ AGRI_neighbour.200.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_neighbour.200.d: "[FROM.GetName] nám dává najevo, že v nouzi na něj nemůžeme spolehnout, zdá se, že jsme zůstaní na holičkách kvůli [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_neighbour.200.A: "Ti parchantě" # todo: NEW TRANSLATION
+ AGRI_neighbour.3.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_neighbour.3.d: "Jeden z našich sousedů, [FROM.GetName], zažívá sucho; dříve experti předpovídali, že to zůstane lokální, ale byli chybně. Zemi v [FROM.GetName] vypadá, že v dohledné době zůstane suchá a neúrodná; pokud chceme sousedovi pomoci, musí to být okamžité a značné, nyní si nemůžeme dovolit, aby příroda vyhrála." # todo: NEW TRANSLATION
+ AGRI_neighbour.3.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_neighbour.3.B: "Můžeme z toho profitovat!" # todo: NEW TRANSLATION
+ AGRI_neighbour.3.C: "Jak vypadají naše zásoby?" # todo: NEW TRANSLATION
+ AGRI_neighbour.3.D: "Nemáme teď doma!" # todo: NEW TRANSLATION
+ AGRI_neighbour.30.t: "Náš soused [FROM.GetName] nám posílá velkou pomoc!" # todo: NEW TRANSLATION
+ AGRI_neighbour.30.d: "[FROM.GetName] ví, co znamená být dobrým sousedem, a poslal nám značnou pomoc, aby zastavili vlivy sucha." # todo: NEW TRANSLATION
+ AGRI_neighbour.30.A: "Děkujeme nebesům!" # todo: NEW TRANSLATION
+ AGRI_neighbour.300.t: "Náš soused [FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_neighbour.300.d: "[FROM.GetName] nám ukazuje, že v nouzi se na něj nemůžeme spolehnout; bohužel sucho se může rozšířit i na naši zemi." # todo: NEW TRANSLATION
+ AGRI_neighbour.300.A: "Kde jsou [FROM.GetAdj] vlajky? Měly by být spáleny!" # todo: NEW TRANSLATION
+ AGRI_influencer.1.t: "Lokální sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_influencer.1.d: "[FROM.GetName] zažívá sucho, naštěstí to vypadá, že je to poměrně lokální a vyžaduje jen malé množství pomoci k zastavení šíření; nicméně bychom mohli poslat nějakou pomoc, abychom získali podporu země." # todo: NEW TRANSLATION
+ AGRI_influencer.1.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_influencer.1.B: "Zní to jako jejich problém." # todo: NEW TRANSLATION
+ AGRI_influencer.10.t: "[FROM.GetName] nám posílá nějakou pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.10.d: "[FROM.GetName] jedná nad rámec toho, co by měl dělat diplomatický partner, a poslal nám menší množství pomoci v boji se suchem, aby zmírnil dopady." # todo: NEW TRANSLATION
+ AGRI_influencer.10.A: "Skvělé" # todo: NEW TRANSLATION
+ AGRI_influencer.100.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.100.d: "[FROM.GetName] nám dává najevo, že i v nouzi se na něj nemůžeme spolehnout; sucho je takové, že se s tím musíme vypořádat sami." # todo: NEW TRANSLATION
+ AGRI_influencer.100.A: "No, tohle se dá zvládnout." # todo: NEW TRANSLATION
+ AGRI_influencer.2.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_influencer.2.d: "[FROM.GetName] zažívá poměrně velké sucho; původně experti předpovídali, že zůstane lokální, ale byli mylní. Vypadá to, že věci mohou být horší, než se očekávalo; [FROM.GetName] by měla výrazně využít naši pomoc a možná nám v budoucnu otevřít dveře." # todo: NEW TRANSLATION
+ AGRI_influencer.2.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_influencer.2.B: "Není nám to tolik prospěšné." # todo: NEW TRANSLATION
+ AGRI_influencer.20.t: "[FROM.GetName] nám posílá nějakou pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.20.d: "[FROM.GetName] jde nad rámec toho, co by měl dělat diplomatický partner, a poslal nám značnou pomoc, aby zastavil šíření sucha." # todo: NEW TRANSLATION
+ AGRI_influencer.20.A: "Skvělé" # todo: NEW TRANSLATION
+ AGRI_influencer.200.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.200.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; zdá se, že jsme na holičkách." # todo: NEW TRANSLATION
+ AGRI_influencer.200.A: "Ti parchanti." # todo: NEW TRANSLATION
+ AGRI_influencer.3.t: "Masivní sucho postihuje [FROM.GetName]!" # todo: NEW TRANSLATION
+ AGRI_influencer.3.d: "[FROM.GetName] zažívá poměrně velké sucho; dříve experti předpovídali, že zůstane lokální, ale byli mylní. Země [FROM.GetName] vypadá, že v dohledné době zůstane suchá a neúrodná; pokud chceme souseda pomoci, naše reakce musí být okamžitá a významná." # todo: NEW TRANSLATION
+ AGRI_influencer.3.A: "Poskytnout pomoc [FROM.GetName]" # todo: NEW TRANSLATION
+ AGRI_influencer.3.B: "A jak přesně nám to pomůže?" # todo: NEW TRANSLATION
+ AGRI_influencer.30.t: "[FROM.GetName] nám posílá velkou pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.30.d: "[FROM.GetName] jde nad rámec toho, co by měl dělat diplomatický partner, a poslal nám značnou pomoc v boji se suchem.." # todo: NEW TRANSLATION
+ AGRI_influencer.30.A: "Děkujeme nebesům!" # todo: NEW TRANSLATION
+ AGRI_influencer.300.t: "[FROM.GetName] odmítá poslat pomoc!" # todo: NEW TRANSLATION
+ AGRI_influencer.300.d: "[FROM.GetName] nám dává najevo, že v nouzi se na něj nemůžeme spolehnout; Bože, a [FROM.GetName] nás opustili." # todo: NEW TRANSLATION
+ AGRI_influencer.300.A: "Kde jsou [FROM.GetAdj] vlajky? Měly by být spáleny!" # todo: NEW TRANSLATION
+ AGRI_random.1.t: "Farmáři si stěžují na nedostatek vybavení!" # todo: NEW TRANSLATION
+ AGRI_random.1.d: "V důsledku současných ekonomických sankcí vůči [THIS.GetName] farmáři protestují proti nedostatku nového či alespoň funkčního vybavení.\nMáme 3 možnosti: obchodovat s podezřelými postavami na černém trhu, pokusit se najít někoho, kdo s námi bude obchodovat, nebo si poradit s tím, co už máme.\n\nCo bychom měli udělat [THIS.GetLeader]?" # todo: NEW TRANSLATION
+ AGRI_random.1.A: "Podezřelé postavy? To jsou jen poslové!" # todo: NEW TRANSLATION
+ AGRI_random.1.B: "Zkusme najít někoho, s kým budeme obchodovat" # todo: NEW TRANSLATION
+ AGRI_random.1.C: "No, máte voly, že?" # todo: NEW TRANSLATION
+ AGRI_random_black_market_TT: "§Y[THIS.GetNameWithFlag]'s Agriculture Minister will reach out to some black market contacts to make a deal.§!" # todo: NEW TRANSLATION
+ AGRI_random_embargo_trading_TT: "§Y[THIS.GetNameWithFlag]'s Agriculture Minister will reach out to some contacts in other countries to try and make a deal.§!" # todo: NEW TRANSLATION
+ AGRI_random.10.t1: "Prostě se neptejte, odkud to přišlo" # todo: NEW TRANSLATION
+ AGRI_random.10.d1: "Farmáři nejsou spokojeni s vybavením, které jsme získali, tvrdí, že naše vysvětlení, že vybavení vypadlo z kufru, není dostatečné. Dokud nejsou nespokojení více, než by byli, kdybychom je vůbec nezískali, je to úspěch." # todo: NEW TRANSLATION
+ AGRI_random.10.A: "Nesnažme se to dělat pravidelně..." # todo: NEW TRANSLATION
+ AGRI_random.10.t2: "Přestřelky s pašeráky!" # todo: NEW TRANSLATION
+ AGRI_random.10.d2: "Šéf naší potravinové komise bude kvůli tomu z toho mít hlavu! Snažit se obchodovat s pašeráky vedlo k tomu, že nechtěně ukradli peníze a snažili se si pohlídat i dodávky, spousta našich vojáků bylo zastřeleno, to je nepřijatelné!" # todo: NEW TRANSLATION
+ AGRI_random.10.B: "Ti parchanti" # todo: NEW TRANSLATION
+ AGRI_random.10.t3: "Vzali peníze a zdrhli..." # todo: NEW TRANSLATION
+ AGRI_random.10.d3: "16 hodin čekali pašeráci, než se vrátili; jejich návrat byl nečekaný. 16 hodin čekání na pašeráky; strašné." # todo: NEW TRANSLATION
+ AGRI_random.10.C: "Koule." # todo: NEW TRANSLATION
+ AGRI_random.100.t1: "Nesluší tu, ale fungují" # todo: NEW TRANSLATION
+ AGRI_random.100.d1: "Farmáři jsou s tím, co jsme dokázali sehnat, poměrně spokojeni; nemusí to být nejkrásnější či nejnovější vybavení, ale funguje, a to je v naší současné situaci téměř vše, co bychom si mohli přát." # todo: NEW TRANSLATION
+ AGRI_random.100.A: "Tady jsme odvrátili katastrofu" # todo: NEW TRANSLATION
+ AGRI_random.100.t2: "Další embargo?!" # todo: NEW TRANSLATION
+ AGRI_random.100.d2: "Kdo vyjednává v ministerstvu obchodu by měl být zastřelen. Netušíme, co se podařilo pokazit, ale máme další embargo; navíc jsou farmáři zuřiví!" # todo: NEW TRANSLATION
+ AGRI_random.100.B: "Oh bollocks..." # todo: NEW TRANSLATION
+ AGRI_random.100.t3: "Těžko cokoli funguje" # todo: NEW TRANSLATION
+ AGRI_random.100.d3: "\"Jako nové\" je jenom vtip. Většina vybavení, které jsme sehnali, je rozbité, zablokované nebo jen nehází žádné známky života; farmáři jsou na nás pěkně naštvaní..." # todo: NEW TRANSLATION
+ AGRI_random.100.C: "Máme doklad o koupi?" # todo: NEW TRANSLATION
+ AGRI_random.2.t: "Pole vypadají dost suchá..." # todo: NEW TRANSLATION
+ AGRI_random.2.d: "V této části roku bývají naše pole omnoho snesitelnější než teď; náš ministr zemědělství se obává, že to může vést k vážnějšímu suchu než jen \"trocha moc Slunce\".\n\nPokud je peněz málo, můžeme vždy zkusit odčerpat vodu sousedů..." # todo: NEW TRANSLATION
+ AGRI_random.2.A: "Hele, vyřešíme to sami..." # todo: NEW TRANSLATION
+ AGRI_random.2.B: "No, nepubliku by jim chybělo" # todo: NEW TRANSLATION
+ AGRI_random.2.C: "Jestli se o to bojíte, modlete se na déšť!" # todo: NEW TRANSLATION
+ AGRI_random_water_diversion_TT: "§YMůžeme se pokusit§! §Rukrást§! §Ynějakou vodu našich sousedů§! §Codklonit§! §Yji§!§!" # todo: NEW TRANSLATION
+ AGRI_random.20.t1: "Krize odvrácena!" # todo: NEW TRANSLATION
+ AGRI_random.20.t2: "Cítím se trochu vyděšený žízní" # todo: NEW TRANSLATION
+ AGRI_random.20.t3: "Nic se nezměnilo!" # todo: NEW TRANSLATION
+ AGRI_random.20.d1: "Zdá se, že rychlá akce vlády vyřešila potenciální problém s suchem, žádní nepřátelé nebyli vytvořeni a dokonce mohl dojít ke zvýšení očekávaných cen sklizně." # todo: NEW TRANSLATION
+ AGRI_random.20.d2: "Přestože se zdá, že se nám podařilo zastavit suchou vlnu, některé periferní regiony vypadají suché a u některých plodin můžeme očekávat nižší sklizeň. Naštěstí většina plodin byla zachráněna." # todo: NEW TRANSLATION
+ AGRI_random.20.d3: "Navzdory našim nejlepším snahám to vypadá, že pole prostě nezaberou a vypadají sušší než kdy dřív; může to vyústit v plnohodnotné sucho, musíme být připraveni na to nejhorší." # todo: NEW TRANSLATION
+ AGRI_random.20.A: "Rád to slyším!" # todo: NEW TRANSLATION
+ AGRI_random.20.B: "Doufám, že to bylo jen zelenina." # todo: NEW TRANSLATION
+ AGRI_random.20.C: "Připoutejte se!" # todo: NEW TRANSLATION
+ AGRI_random.200.t1: "Oni si to ani nevšimli!" # todo: NEW TRANSLATION
+ AGRI_random.200.t2: "[FROM.GetName] nás nachytal při činu" # todo: NEW TRANSLATION
+ AGRI_random.200.t3: "Vzali jsme příliš vody!" # todo: NEW TRANSLATION
+ AGRI_random.200.t4: "[FROM.GetName]'s Fields Seem To Be Dry" # todo: NEW TRANSLATION
+ AGRI_random.200.t5: "[FROM.GetName]'s Farms Left Barren" # todo: NEW TRANSLATION
+ AGRI_random.200.d1: "S jistým kapitálem v té správné místě jsme dokázali ukrást část vody sousedů bez jejich vědomí; doufám, že lidé, které jsme upláceli, zůstanou ticho. Naše problémy jsou vyřešeny, na chvíli." # todo: NEW TRANSLATION
+ AGRI_random.200.d2: "Po zaplacení těm, o kterých jsme si mysleli, že jsou správní lidé, náš tým pro akvizice byl zadržán úřady [FROM.GetAdj]. Zdá se, že jsou na naše kroky velmi naštvaní." # todo: NEW TRANSLATION
+ AGRI_random.200.d3: "Zdá se, že soused [FROM.GetName] měl méně vody, než jsme původně očekávali, a nyní trpí následky našich činů! Je pravděpodobné, že je to očividné pro ně, kdo ukradl vodu; naštěstí sucho může mířit i k nám." # todo: NEW TRANSLATION
+ AGRI_random.200.d4: "Zdá se, že náš soused [FROM.GetName] měl méně vody, než jsme si původně mysleli, a nyní trpí následky našich činů! Je pravděpodobně zřejmé, kdo vodu ukradl; bohužel sucho se může dostat i k nám." # todo: NEW TRANSLATION
+ AGRI_random.200.d5: "Zdá se, že náš soused [FROM.GetName] měl méně vody, než jsme si původně mysleli, a nyní trpí následky našich činů! Je téměř jisté, že je jejich identita zřejmá, a ministr zemědělství předpovídá extrémní sucho s vysokou pravděpodobností, že se šíří přes naše hranice." # todo: NEW TRANSLATION
+ AGRI_random.200.A: "To je pro ně výstraha, že mají vodu!" # todo: NEW TRANSLATION
+ AGRI_random.200.B: "Au, sakra..." # todo: NEW TRANSLATION
+ AGRI_random.200.C: "Zkus je uklidnit." # todo: NEW TRANSLATION
+ AGRI_random.200.D: "Promiň." # todo: NEW TRANSLATION
+ AGRI_random.200.E: "Připravte se na nejhorší." # todo: NEW TRANSLATION
+ AGRI_random.200.F: "Počkejte... mohlo by nás to postihnout!" # todo: NEW TRANSLATION
+ AGRI_random.200.G: "Pokud to může postihnout nás, musíme se připravit!" # todo: NEW TRANSLATION
+ AGRI_random.200.H: "Pane Bože... co jsme to udělali?" # todo: NEW TRANSLATION
+ AGRI_random.2000.t: "[FROM.GetName] ukradl naši vodu!" # todo: NEW TRANSLATION
+ AGRI_random.2000.d1: "Mysleli jsme si, že se něco děje, když došly zásoby vody. Po důkladném vyšetřování se zdá, že [FROM.GetName] byl viníkem!" # todo: NEW TRANSLATION
+ AGRI_random.2000.d2: "Mysleli jsme si, že něco není v pořádku, když došly zásoby vody. Po důkladném vyšetřování se zdá, že [FROM.GetName] byl viníkem! Můžeme jim dát najevo, že to myslíme vážně, uvalit na ně embargo..." # todo: NEW TRANSLATION
+ AGRI_random.2000.A: "Zcela je odřízněte!" # todo: NEW TRANSLATION
+ AGRI_random.2000.B: "Ti parchanti!" # todo: NEW TRANSLATION
+ AGRI_random.3.t: "Dva farmáři hledají pomoc s pozemkovým sporem" # todo: NEW TRANSLATION
+ AGRI_random.3.d: "Dva farmáři přišli do sídla ministerstva zemědělství a žádají o jakýkoli vládní zásah k vyřešení sporu o půdu, zatímco farmář číslo jedna tvrdí, že jeho půdu znesvětil stádo farmáře číslo dva, farmář číslo dva tvrdí, že formální zakreslení map nebylo nikdy provedené, a že hranice polí farmáře čísla jedna ve skutečnosti zasahují na majetek farmáře čísla dva!" # todo: NEW TRANSLATION
+ AGRI_random.3.A: "Držte ta stáda na své straně!" # todo: NEW TRANSLATION
+ AGRI_random_3_F1_TT: "§YBudu stát na straně§! §3Farmář Jeden§! §Yve sporu o půdu§!" # todo: NEW TRANSLATION
+ AGRI_random.3.B: "Nelze očekávat, že stádo pozná hranice!" # todo: NEW TRANSLATION
+ AGRI_random_3_F2_TT: "§YBudu stát na straně§! §3Farmář Dva§! §Yve sporu o půdu§!" # todo: NEW TRANSLATION
+ AGRI_random.3.C: "Připomeň mi, proč bych se o to měl zajímat?" # todo: NEW TRANSLATION
+ AGRI_random_3_NO_TT: "§YBudu stát na straně§! §Rnikdo§! §Yve sporu o půdu, nechám je, ať to vyřeší sami§!" # todo: NEW TRANSLATION
+ AGRI_random.30.t1: "Chovatelé dobytka jsou rozhořčeni!" # todo: NEW TRANSLATION
+ AGRI_random.30.d1: "Velká skupina chovatelů dobytka považuje zásah vlády na straně orných farmářů za ohavný zásah do moci a aktivně kampaňuje za protilehlou politickou stranu!\n\nOrní farmáři však slaví rozhodnutí a jsou nadšeni z tohoto vítězství pro práva na vlastnictví!" # todo: NEW TRANSLATION
+ AGRI_random.30.A: "Měli byste lépe hlídat svůj dobytek!" # todo: NEW TRANSLATION
+ AGRI_random.30.t2: "Obdělávací farmáři jsou naštvaní!" # todo: NEW TRANSLATION
+ AGRI_random.30.d2: "Chovatelé dobytka se zdají být nadšeni vládním rozhodnutím; s právy na pastvu zajištěnými se zavázali podpořit vládu v nadcházejících volbách. Obdělávací farmáři nicméně vyhrožují tím, že se sjednotí a odmítnou rozhodnutí!" # todo: NEW TRANSLATION
+ AGRI_random.30.B: "Pravděpodobně bychom měli posílit zákony o vlastnictví půdy..." # todo: NEW TRANSLATION
+ AGRI_random.30.t3: "Vyřešili to mezi sebou!" # todo: NEW TRANSLATION
+ AGRI_random.30.d3: "Bez zásahu vlády z obou stran byla mezi chovateli dobytka a obdělávacími farmáři nalezena dohoda na bázi vzájemného souhlasu, čímž byl vyřešen tento konkrétní pozemkový spor.\n\nAčkoliv v budoucnu se mohou objevit další, zdá se, že všichni jsou alespoň částečně spokojeni s tímto výsledkem." # todo: NEW TRANSLATION
+ AGRI_random.30.C: "Ideální řešení." # todo: NEW TRANSLATION
+ AGRI_random.30.t4: "Střelba na farmě!" # todo: NEW TRANSLATION
+ AGRI_random.30.d4: "Bez zásahu vlády ani dohledu proběhly rozhovory mezi oběma skupinami, došlo k potyčce a výstřelům na obou stranách. Mnoho chovatelů a farmářů je mrtvých nebo zraněných; ti v zemědělském sektoru požadují odpovědi a lidé volají po změně." # todo: NEW TRANSLATION
+ AGRI_random.30.D: "No, sakra..." # todo: NEW TRANSLATION
+ AGRI_random.4.t: "Hojná sklizeň!" # todo: NEW TRANSLATION
+ AGRI_random.4.d: "Naši farmáři hlásí šťavnatou úrodu a ptají se Ministerstva zemědělství, co dělat s nadbytečnou sklizní. Můžeme ji prodat, nebo zvětšit velikost našich zásob pro horší časy." # todo: NEW TRANSLATION
+ AGRI_random.4.A: "Další příjem se vždy hodí." # todo: NEW TRANSLATION
+ AGRI_random.4.B: "Máme na to všechno silo?" # todo: NEW TRANSLATION
+ AGRI_random.5.t: "Plodiny hynou na polích!" # todo: NEW TRANSLATION
+ AGRI_random.5.d: "Něco zničilo značnou část naší sklizně a očekávaná sklizeň bude zkažená; očekává se významný pokles naší zemědělské produkce, pokud neuděláme nic razantního." # todo: NEW TRANSLATION
+ AGRI_random.5.A: "Budeme to muset překousat." # todo: NEW TRANSLATION
+ AGRI_random.5.B: "Zásoby udrží sektor zdravý!" # todo: NEW TRANSLATION
+ AGRI_random.6.t: "Invazivní kobylky útočí na pole!" # todo: NEW TRANSLATION
+ AGRI_random.6.d: "Na obzoru byl spatřen invazivní druh kobylek [ROOT.GetLeader]! Doufáme, že použití pesticidů bude stačité k zastavení jejich ničení příliš velké sklizně, ale nikdy nemůžeme být příliš jistí, musíme se připravit na to nejhorší!" # todo: NEW TRANSLATION
+ AGRI_random.6.A: "Jak velké jsou škody?" # todo: NEW TRANSLATION
+ AGRI_random.60.t1: "Pole základních plodin potřebují více půdy!" # todo: NEW TRANSLATION
+ AGRI_random.60.t2: "Pole výnosných plodin potřebují více půdy!" # todo: NEW TRANSLATION
+ AGRI_random.60.d1: "Tohle je katastrofa... kobylky zřejmě zničily nesčetné tuny naší projekované základní sklizně, očekáváme, že zemědělský sektor utrpí značný dopad." # todo: NEW TRANSLATION
+ AGRI_random.60.d2: "Naštěstí kobylky se zdá, že zvolily naše pole ošetřené pesticidy a utrpěly následky. Zatímco projekce základní sklizně klesla, očekává se, že zemědělský sektor zaznamená jen mírný nárůst ziskovosti." # todo: NEW TRANSLATION
+ AGRI_random.60.d3: "Tohle je katastrofa... kobylky zřejmě zničily nespočet tun naší projekované výnosné sklizně, očekáváme, že zemědělský sektor utrpí značný dopad." # todo: NEW TRANSLATION
+ AGRI_random.60.d4: "Naštěstí kobylky zřejmě vybraly naše pole ošetřené pesticidy a utrpěly následky. Zatímco projekce výnosných plodin je nižší, očekává se, že zemědělský sektor zaznamená jen mírný nárůst ziskovosti." # todo: NEW TRANSLATION
+ AGRI_random.60.A: "Kurňa" # todo: NEW TRANSLATION
+ AGRI_random.60.B: "Kurňa" # todo: NEW TRANSLATION
+ AGRI_random.60.C: "Kurňa" # todo: NEW TRANSLATION
+ AGRI_random.60.D: "Kurňa" # todo: NEW TRANSLATION
+ AGRI_random.7.t: "Divoké požáry!" # todo: NEW TRANSLATION
+ AGRI_random.7.d: "Zdá se, že divoké požáry zuří poblíž polí našich nejproduktivnějších farem. Ministr zemědělství očekává, že budou silně zasaženy při nadcházejícím šíření." # todo: NEW TRANSLATION
+ AGRI_random.7.A: "Počkáme na zprávu o škodách..." # todo: NEW TRANSLATION
+ AGRI_random.70.t1: "Pole základních plodin zasaženy plameny!" # todo: NEW TRANSLATION
+ AGRI_random.70.t2: "Pole výnosných plodin zasaženy plameny!" # todo: NEW TRANSLATION
+ AGRI_random.70.d1: "Navzdory nejlepším snahám hasičů to vypadá, že nás čeká těžká sklizeň. Mnoho farmářů přišlo o všechno a nejhorší je, že náš podíl na trhu se základními plodinami bude díky tomuto neštěstí vážně poškozen a trh zaznamená neočekávaný pokles." # todo: NEW TRANSLATION
+ AGRI_random.70.d2: "Navzdory nejlepším snahám hasičů to vypadá, že nás čeká těžká sklizeň. Mnoho farmářů přišlo o všechno a nejhorší je, že náš podíl na trhu s výnosnými plodinami bude vážně poničen a trh zaznamená neočekávaný pokles." # todo: NEW TRANSLATION
+ AGRI_random.70.A: "Veškerá práce je teď v ohni." # todo: NEW TRANSLATION
+ AGRI_random.70.B: "Veškerá práce je teď v ohni." # todo: NEW TRANSLATION
+ AGRI_random.8.t: "Těžké deště hrozí povodněmi" # todo: NEW TRANSLATION
+ AGRI_random.8.d: "Zatímco období dešťů je v plném proudu, je čím dál pravděpodobnější, že zažijeme deštivější období, než bývá obvyklé, protože řeky jsou rozvodněné nad normu pro toto období; meteorologové očekávají, že břehy prasknou." # todo: NEW TRANSLATION
+ AGRI_random.8.A: "Připravme se na nejhorší." # todo: NEW TRANSLATION
+ AGRI_random.80.t1: "Pole základních plodin zaplavené!" # todo: NEW TRANSLATION
+ AGRI_random.80.t2: "Pole výnosných plodin zaplavené" # todo: NEW TRANSLATION
+ AGRI_random.80.d1: "Bylo tu jednoduše příliš mnoho vody na to, abychom to zvládli s našimi improvizovanými zátarasy a rychle postavenými protipovodňovými zdmi. Základní pole plodin jsou promočená, mnoho farmářů přišlo o všechno a zemědělský sektor očekává, že utrpí ztráty kvůli tomuto jevu." # todo: NEW TRANSLATION
+ AGRI_random.80.d2: "Bylo tu jednoduše příliš mnoho vody na to, abychom to zvládli s našimi improvizovanými zátarasy a rychle postavenými protipovodňovými zdmi. Pole výnosných plodin jsou promočené, mnoho farmářů přišlo o všechno a zemědělský sektor očekává, že utrpí ztráty kvůli tomuto jevu." # todo: NEW TRANSLATION
+ AGRI_random.80.A: "Tohle možná bylo příliš velké množství deště." # todo: NEW TRANSLATION
+ AGRI_random.80.B: "Tohle možná bylo příliš velké množství deště." # todo: NEW TRANSLATION
+ AGRI_random.9.t: "Rozběhnuté stádo!" # todo: NEW TRANSLATION
+ AGRI_random.9.d: "Skupina stáda zvířat se v dálce zvedá prach a vypadá to, že si vybere obcházení přes zemědělské pozemky!" # todo: NEW TRANSLATION
+ AGRI_random.9.A: "Uvidíme, kam zamíří." # todo: NEW TRANSLATION
+ AGRI_random.90.t1: "Stádo rozběsněné pošlape základní plodiny" # todo: NEW TRANSLATION
+ AGRI_random.90.t2: "Stádo rozběsněné pošlape výnosné plodiny" # todo: NEW TRANSLATION
+ AGRI_random.90.t3: "Stádo rozběsněné se vyhne polím" # todo: NEW TRANSLATION
+ AGRI_random.90.d1: "Bez našich nejlepších snah se stádo zdá, že pošlape pole, na kterých rostou naše základní plodiny. Budeme muset alokovat více půdy pro základní plodiny z našich cash crops, nebudeme moci změnit alokace, dokud nebudou nouzová opatření hotová." # todo: NEW TRANSLATION
+ AGRI_random.90.d2: "Bez našich nejlepších snah se stádo zdá, že pošlape pole, na kterých rostou naše výnosné plodiny. Budeme muset alokovat více půdy pro výnosné plodiny z našich základních plodin; nebudeme moci měnit alokace, dokud nebudou nouzová opatření hotová." # todo: NEW TRANSLATION
+ AGRI_random.90.d3: "Stádo, které se rozběhlo, se do polních ploch téměř rozptýlilo; někteří opoždění dorazili do venkovských oblastí, ačkoliv zůstávali jen na cestách. To způsobilo dopravní zmatek, ale být pozdě v práci je sakra lepší než přijít o obědy na několik měsíců." # todo: NEW TRANSLATION
+ AGRI_random.90.A: "Nouzová opatření je třeba provést!" # todo: NEW TRANSLATION
+ AGRI_random.90.B: "Nouzová opatření je třeba provést!" # todo: NEW TRANSLATION
+ AGRI_random.90.C: "Naštěstí." # todo: NEW TRANSLATION

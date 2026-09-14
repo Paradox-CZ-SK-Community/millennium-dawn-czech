@@ -1,278 +1,260 @@
 ﻿l_english:
-  USR_Union_state_category: "Unijní stát" # todo: NEW TRANSLATION
-  USR_Union_state_category_desc: "§YUnijní stát§! je nadnárodní projekt [SOV.GetFlag]§YRussia§! a [BLR.GetFlag]§YBelarus§! vytvořený v 90. letech 20. století a zahájil svou činnost v roce 2000.A jedinečná nadnárodní entita předpokládá spojení dvou států a integraci v mnoha oblastech, vojenských, ekonomických, politických atd., aniž by ztratila nezávislost.\nSrbsko jednou chtělo být součástí tohoto projektu, ale bylo odmítnuto. Snad bude nyní Unijní stát schopen přijmout do svých řad více zemí." # todo: NEW TRANSLATION
-  USR_leave_union_state: "§ROpustit§! §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
-  USR_economic_additional_budget: "§YPoužij§! rozpočet §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
-  USR_economic_integrate_yes: "§YIntegrace§! v ekonomice §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
-  USR_economic_use_satellites: "§YPoužij§! satelity §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
-  USR_create_parlament_blr: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
-  USR_create_gos_sovet_blr: "§YVytvořit§! Nejvyšší státní rada" # todo: NEW TRANSLATION
-  USR_create_council_ministers_blr: "§YVytvořit§! Rada ministrů" # todo: NEW TRANSLATION
-  USR_create_money_palata_blr: "§YVytvořit§! Kombinovaná účetní komora" # todo: NEW TRANSLATION
-  USR_create_eternal_commitie_blr: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
-  USR_create_valute_blr: "§YVytvořit§! Jednotná měna" # todo: NEW TRANSLATION
-  USR_create_civils_blr: "§YVytvořit§! Jednotné občanství" # todo: NEW TRANSLATION
-  USR_create_economic_space_blr: "§YVytvořit§! Společný ekonomický prostor" # todo: NEW TRANSLATION
-  USR_nuclear_to_blr: "§YPřevést§! Jaderné zbraně do §Y[BLR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_nuclear_to_blr_desc: "Je čas chránit našeho souseda. Pošleme jaderné zbraně do Běloruska a chránit ho před nepřátelskými útoky." # todo: NEW TRANSLATION
-  USR_russia_reunite_with_belarus: "§YZnovu sjednotit§! s §Y[BLR.GetName]§!" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_belarus_desc: "Bělorusko je naším bratrem národem. Učinili jsme několik kroků k vzájemné integraci, teď přišel poslední krok." # todo: NEW TRANSLATION
-  USR_russia_create_union_state_blr: "§YVytvořit§! unijní stát se §Y[BLR.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
-  USR_pro_union_state_revout_blr: "§YPro-unijní§! puč v §Y[BLR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_belarus_create_union_state: "§YVytvořit§! unijní stát se §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_belarus_create_union_state_desc: "Nyní jsme se konečně stali Unijním státem, jak to bylo zamýšleno jako výsledek opakovaného renegociování dohod" # todo: NEW TRANSLATION
-  USR_belarus_annex_russia: "§YPoslední fáze integrace§!" # todo: NEW TRANSLATION
-  USR_create_parlament_ser: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
-  USR_create_gos_sovet_ser: "§YVytvořit§! Nejvyšší státní rada" # todo: NEW TRANSLATION
-  USR_create_council_ministers_ser: "§YVytvořit§! Rada ministrů" # todo: NEW TRANSLATION
-  USR_create_money_palata_ser: "§YVytvořit§! Kombinovaná účetní komora" # todo: NEW TRANSLATION
-  USR_create_eternal_commitie_ser: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
-  USR_create_valute_ser: "§YVytvořit§! Jednotná měna" # todo: NEW TRANSLATION
-  USR_create_civils_ser: "§YVytvořit§! Jednotné občanství" # todo: NEW TRANSLATION
-  USR_create_economic_space_ser: "§YVytvořit§! Společný ekonomický prostor" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_serbia: "§YZnovu sjednotit§! s §Y[SER.GetName]§!" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_serbia_desc: "Srbsko je naším bratrem národem. Učinili jsme několik kroků k vzájemné integraci, teď přišel poslední krok." # todo: NEW TRANSLATION
-  USR_russia_create_union_state_ser: "§YVytvořit§! Svazový stát s §Y[SER.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
-  USR_serbia_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_create_parlament_ukr: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
-  USR_create_gos_sovet_ukr: "§YVytvořit§! Nejvyšší státní radu" # todo: NEW TRANSLATION
-  USR_create_council_ministers_ukr: "§YVytvořit§! Radu ministrů" # todo: NEW TRANSLATION
-  USR_create_money_palata_ukr: "§YVytvořit§! sloučenou účetní komoru" # todo: NEW TRANSLATION
-  USR_create_eternal_commitie_ukr: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
-  USR_create_valute_ukr: "§YVytvořit§! jednotnou měnu" # todo: NEW TRANSLATION
-  USR_create_civils_ukr: "§YVytvořit§! jednotné občanství" # todo: NEW TRANSLATION
-  USR_create_economic_space_ukr: "§YVytvořit§! společný ekonomický prostor" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_ukraine: "§YZnovu sjednotit§! s §Y[UKR.GetName]§!" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_ukraine_desc: "Ukrajina je náš bratrský národ. Provedli jsme několik kroků k vzájemné integraci, nyní je čas na poslední úder." # todo: NEW TRANSLATION
-  USR_russia_create_union_state_ukr: "§YVytvořit§! Svazový stát s §Y[UKR.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
-  USR_ukraine_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_create_parlament_arm: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
-  USR_create_gos_sovet_arm: "§YVytvořit§! Nejvyšší státní radu" # todo: NEW TRANSLATION
-  USR_create_council_ministers_arm: "§YVytvořit§! Radu ministrů" # todo: NEW TRANSLATION
-  USR_create_money_palata_arm: "§YVytvořit§! sloučenou účetní komoru" # todo: NEW TRANSLATION
-  USR_create_eternal_commitie_arm: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
-  USR_create_valute_arm: "§YVytvořit§! jednotnou měnu" # todo: NEW TRANSLATION
-  USR_create_civils_arm: "§YVytvořit§! jednotné občanství" # todo: NEW TRANSLATION
-  USR_create_economic_space_arm: "§YVytvořit§! společný ekonomický prostor" # todo: NEW TRANSLATION
-  USR_russia_create_union_state_arm: "§YVytvořit§! Svazový stát s §Y[ARM.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
-  USR_armenia_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_pro_union_state_revout_arm: "§YPro-unijní§! puč v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_united_group_troops_armenia: "Regionální vojenská skupina [ARM.GetFlag][SOV.GetFlag]§YSvazového státu§!" # todo: NEW TRANSLATION
-  USR_nuclear_to_arm: "Jaderné zbraně v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_arm_ask_attack_azer: "Žádost o vojenskou operaci v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_arm_ask_help_poland: "Požádat §Y[SOV.GetNameWithFlag]§! o pomoc v §Y[POL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_arm_ask_help_italy: "Požádat §Y[SOV.GetNameWithFlag]§! o pomoc v §Y[ITA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_armenia: "§YZnovu sjednotit§! s §Y[ARM.GetName]§!" # todo: NEW TRANSLATION
-  USR_russia_reunite_with_armenia_desc: "Arménie je náš bratrský národ. Provedli jsme několik kroků k vzájemné integraci, nyní je čas na poslední úder." # todo: NEW TRANSLATION
-  USR_sov_ask_arm_help_separatism: "[ARM.GetFlag][SOV.GetFlag]§YArménsko-ruský§! Anti-Separatistický nájezd v §YKavkaz§!" # todo: NEW TRANSLATION
-  USR_united_special_services_armenia: "§YUnijní zpravodajské služby Arménie a Ruska§!" # todo: NEW TRANSLATION
-  USR_union_state_idea: "Unijní stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  USR_parlament_idea: "Unijní parlament" # todo: NEW TRANSLATION
-  USR_gos_sovet_idea: "Nejvyšší státní rada" # todo: NEW TRANSLATION
-  USR_council_ministers_idea: "Rada ministrů" # todo: NEW TRANSLATION
-  USR_money_palata_idea: "Kombinovaná účetní komora" # todo: NEW TRANSLATION
-  USR_eternal_commitie_idea: "Soud Unie" # todo: NEW TRANSLATION
-  USR_valute_idea: "Jednotná měna" # todo: NEW TRANSLATION
-  USR_civils_idea: "Jednotné občanství" # todo: NEW TRANSLATION
-  USR_economic_space_idea: "Společný ekonomický prostor" # todo: NEW TRANSLATION
-  USR_Common_Economic_Space_loc1: "\n§gSPOLEČNÝ EKONOMICKÝ PROSTOR§!:\n£econ_cycle_upg_cost_multiplier_modifier_texticon §YNáklady na ekonomický upgrade cyklu§! Násobitel: §G-1.00%§!\nMěsíční nárůst produktivity: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! ve §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Single_Currency_loc1: "\n§gJEDNOTNÁ MENA§!:\n£econ_cycle_upg_cost_multiplier_modifier_texticon §YNáklady na ekonomický upgrade cyklu§! Násobitel: §G-1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! ve §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Unified_Citizenship_loc1: "\n§gJEDNOTNÉ OBČANSTVÍ§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n£population_texticon  Měsíční populace: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Court_Union_loc1: "\n§gSOUD UNIE§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n£stability_texticon  Stabilita: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Accounting_Chamber_loc1: "\n§gKOMBINOVANÁ ÚČETNÍ KOMORA§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Council_Ministers_loc1: "\n§gRADA MINISTRŮ§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_Union_Parliament_loc1: "\n§gUNIJNÍ PARLAMENT§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  USR_UnitedGroupTroops_loc1: "\n§gRegionální seskupení vojsk§!:[SOV_AirSpace_loc][SOV_SpaceForces_loc][SOV_AntiAir_loc][SOV_Engineer_loc][SOV_Ipso_loc][SOV_Mto_loc][SOV_Sso_loc][SOV_Railway_loc][SOV_Electronic_loc][SOV_FarAvia_loc][SOV_AirMissile_loc][SOV_AirAircraft_loc][SOV_RadioTech_loc][SOV_Satellites_loc]" # todo: NEW TRANSLATION
-  USR_EconomyIntegration_loc1: "\n§gEKONOMIKA UNIJNÍHO STÁTU§!:[SOV_Gazprom_loc][SOV_GazpromNeft_loc][SOV_Rosneft_loc][SOV_RJD_loc][SOV_RusAgro_loc][SOV_Miratorg_loc][SOV_Efko_loc][SOV_PhosAgro_loc][SOV_Evraz_loc][SOV_Aeforlot_loc][SOV_Rostelekom_loc][SOV_MTS_loc][SOV_Megaphon_loc][SOV_Yandex_loc][SOV_Kaspersky_loc][SOV_VK_loc][SOV_Alpha_loc][SOV_VTB_loc][SOV_Sber_loc][SOV_InterRao_loc]" # todo: NEW TRANSLATION
-  USR_union_state_ministry_TT: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
-  USR_new_decision_unlock_tt: "£text_icon_union_state §YUnijní stát§!: §YOdemkne§! nová rozhodnutí" # todo: NEW TRANSLATION
-  USR_union_state_create_nesc_TT: "§YUnijní stát§! bude vytvořen" # todo: NEW TRANSLATION
-  USR_Union_state_create_belarus_TT: "Rusko a Bělorusko se stanou jedním státem" # todo: NEW TRANSLATION
-  BLR_Union_state_created_TT: "Rusko a Ukrajina se stanou jedním státem" # todo: NEW TRANSLATION
-  USR_bonus_special_services_arm_tt: "£text_icon_union_state §YUnijní stát§!: Bonus od §YUnijních zpravodajských služeb§! se [ARM.GetFlag]§YArménií§!" # todo: NEW TRANSLATION
-  USR_bonus_special_services_sov_tt: "£text_icon_union_state §YUnijní stát§!: Bonus od §YUnijních zpravodajských služeb§! se [SOV.GetFlag]§YRusko§!" # todo: NEW TRANSLATION
-  USR_bonus_special_services_tooltip_tt: "Všechna rozhodnutí o vlivu v jiných zemích §Gobdrží bonus§! od speciálních služeb ostatních zemí Unijního státu §YUnijní stát§!." # todo: NEW TRANSLATION
-  UNS_union_state_TT: "Podpora Unijního státu se mění o §Y[?modify_union_state]%§! (Aktuální podpora: §Y[?ROOT.union_state]%§!)\n" # todo: NEW TRANSLATION
-  BLR_union_state_flag: "[BLR.GetFlag]" # todo: NEW TRANSLATION
-  SOV_union_state_flag: "[SOV.GetFlag]" # todo: NEW TRANSLATION
-  UKR_union_state_flag: "[UKR.GetFlag]" # todo: NEW TRANSLATION
-  unionstate_belarus_tooltip: "[belarus_readys_union_state]" # todo: NEW TRANSLATION
-  unionstate_belarus_output_text: "§Y[?BLR.union_state|-0]§!" # todo: NEW TRANSLATION
-  BLR_belarus_ready_union_state: "§Y[?BLR.union_state|-0]§!" # todo: NEW TRANSLATION
-  BLR_belarus_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
-  BLR_belarus_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
-  unionstate_serbia_tooltip: "[serbia_readys_union_state]" # todo: NEW TRANSLATION
-  unionstate_serbia_output_text: "§Y[?SER.union_state|-0]§!" # todo: NEW TRANSLATION
-  SER_serbia_ready_union_state: "§Y[?SER.union_state|-0]§!" # todo: NEW TRANSLATION
-  SER_serbia_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
-  SER_serbia_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
-  SER_union_state_flag: "[SER.GetFlag]" # todo: NEW TRANSLATION
-  unionstate_israel_tooltip: "[israel_readys_union_state]" # todo: NEW TRANSLATION
-  unionstate_israel_output_text: "[israel_ready_union_state]" # todo: NEW TRANSLATION
-  ISR_israel_ready_union_state: "§Y[?ISR.union_state|-0]§!" # todo: NEW TRANSLATION
-  ISR_israel_readys_union_state: "§YPercentage§! of §Y[ISR.GetNameWithFlag]§! readiness to integrate into the §YUnion State§!" # todo: NEW TRANSLATION
-  ISR_israel_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
-  unionstate_armenia_tooltip: "[armenia_readys_union_state]" # todo: NEW TRANSLATION
-  unionstate_armenia_output_text: "§Y[?ARM.union_state|-0]§!" # todo: NEW TRANSLATION
-  ARM_armenia_ready_union_state: "§Y[?ARM.union_state|-0]§!" # todo: NEW TRANSLATION
-  ARM_armenia_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
-  ARM_armenia_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
-  unionstate_armenia_army_tooltip: "[USR_UnitedGroupTroops_loc]" # todo: NEW TRANSLATION
-  unionstate_armenia_economy_tooltip: "[USR_EconomyIntegration_loc]" # todo: NEW TRANSLATION
-  unionstate_ukraine_tooltip: "[ukraine_readys_union_state]" # todo: NEW TRANSLATION
-  unionstate_ukraine_output_text: "§Y[?UKR.union_state|-0]§!" # todo: NEW TRANSLATION
-  UKR_ukraine_ready_union_state: "§Y[?UKR.union_state|-0]§!" # todo: NEW TRANSLATION
-  UKR_ukraine_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
-  UKR_ukraine_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
-  union_state.1.t: "Oni se dohodli na vytvoření Státu Unie s námi" # todo: NEW TRANSLATION
-  union_state.1.d: "Konečně bude Stát Unie skutečností, ne jen na papíře. Před námi je světlá budoucnost." # todo: NEW TRANSLATION
-  union_state.1.a: "Nakonec" # todo: NEW TRANSLATION
-  union_state.2.t: "Odmítli s námi vytvořit Stát Unie" # todo: NEW TRANSLATION
-  union_state.2.d: "Možná jsme zvolili špatnou cestu, a Rusko nepotřebuje bratrství našich národů" # todo: NEW TRANSLATION
-  union_state.2.a: "Je to smutné" # todo: NEW TRANSLATION
-  union_state.3.t: "Rusko vydává ultimátum ohledně Státu Unie" # todo: NEW TRANSLATION
-  union_state.3.d: "Ruská vláda nám dává tvrdé ultimátum ohledně Státu Unie. Buď jej podepíšeme, nebo dojde k negativním následkům. Máme podlehnout takovým provokacím?" # todo: NEW TRANSLATION
-  union_state.3.a: "Podepíšeme integraci do Státu Unie" # todo: NEW TRANSLATION
-  union_state.3.b: "Ne" # todo: NEW TRANSLATION
-  union_state.4.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.4.d: "Běloruská vláda souhlasila s okamžitým plným podepsáním smlouvy o vytvoření Státu Unie." # todo: NEW TRANSLATION
-  union_state.4.a: "Dobré" # todo: NEW TRANSLATION
-  union_state.5.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.5.d: "Běloruská vláda odmítla okamžitě plně podepsat smlouvu o vytvoření Státu Unie." # todo: NEW TRANSLATION
-  union_state.5.a: "Smutné" # todo: NEW TRANSLATION
-  union_state.6.t: "Rusko vydává ultimátum ohledně Státu Unie" # todo: NEW TRANSLATION
-  union_state.6.d: "Ruská vláda nám dává tvrdé ultimátum ohledně Státu Unie. Buď jej podepíšeme, nebo dojde k negativním následkům. Máme podlehnout takovým provokacím?" # todo: NEW TRANSLATION
-  union_state.6.a: "Podepíšeme integraci do Státu Unie" # todo: NEW TRANSLATION
-  union_state.6.b: "Ne" # todo: NEW TRANSLATION
-  union_state.7.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.7.d: "Stát Unie se k vám opět vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
-  union_state.7.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
-  union_state.7.b: "Ne" # todo: NEW TRANSLATION
-  union_state.8.t: "[FROM.GetNameWithFlag] Odmítl(a) vytvořit Stát Unie" # todo: NEW TRANSLATION
-  union_state.8.d: "Znovu jsme byli odmítnuti, možná jejich vláda ještě nedozrála, ale pokusíme se znovu" # todo: NEW TRANSLATION
-  union_state.8.a: "Škoda" # todo: NEW TRANSLATION
-  union_state.9.t: "[UKR.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
-  union_state.9.d: "[FROM.GetNameWithFlag] zahájil(a) přípravy na vstup do Státu Unie. Je to pro nás nečekaná zpráva, protože se již jednou přihlásili, ale to proběhlo během tragických událostí pro ně i pro nás. Snad se to teď změní" # todo: NEW TRANSLATION
-  union_state.9.a: "Dobré" # todo: NEW TRANSLATION
-  union_state.10.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.10.d: "Stát Unie se k vám opět vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme se jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
-  union_state.10.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
-  union_state.10.b: "Ne" # todo: NEW TRANSLATION
-  union_state.11.t: "[UKR.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
-  union_state.11.d: "[UKR.GetNameWithFlag] uvedl(a), že dokončil(a) všechny procesy pro integraci do Státu Unie a nyní rozhodneme, zda jsme připraveni tento stát s nimi vytvořit" # todo: NEW TRANSLATION
-  union_state.11.a: "Ano" # todo: NEW TRANSLATION
-  union_state.11.b: "Ne" # todo: NEW TRANSLATION
-  union_state.12.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.12.d: "Rusko odmítlo s námi vytvořit Stát Unie, bylo to pro nás nečekané." # todo: NEW TRANSLATION
-  union_state.12.a: "Smutné" # todo: NEW TRANSLATION
-  union_state.13.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.13.d: "Stát Unie se k vám znovu vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
-  union_state.13.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
-  union_state.13.b: "Ne" # todo: NEW TRANSLATION
-  union_state.14.t: "[ARM.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
-  union_state.14.d: "[ARM.GetNameWithFlag] uvedl(a), že dokončil(a) všechny procesy pro integraci do Státu Unie a nyní rozhodneme, zda jsme připraveni tento stát s nimi vytvořit" # todo: NEW TRANSLATION
-  union_state.14.a: "Ano" # todo: NEW TRANSLATION
-  union_state.14.b: "Ne" # todo: NEW TRANSLATION
-  union_state.15.t: "Stát Unie" # todo: NEW TRANSLATION
-  union_state.15.d: "Rusko odmítlo s námi vytvořit Stát Unie, bylo to pro nás nečekávané." # todo: NEW TRANSLATION
-  union_state.15.a: "Smutné" # todo: NEW TRANSLATION
-  union_state.16.t: "Regionální seskupení jednotek v [ARM.GetName]" # todo: NEW TRANSLATION
-  union_state.16.d: "Vlády Arménie a Ruska se rozhodly rozšířit společnou skupinu sil Státu Unie a integrace ozbrojených sil obou států se stala ještě silnější." # todo: NEW TRANSLATION
-  union_state.16.a: "Dobré" # todo: NEW TRANSLATION
-  union_state.17.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
-  union_state.17.d: "Arménská vláda, v rámci Státu Unie, požádala o rozmístění jaderných zbraní na jejím území, aby chránila její územní integritu v případě útoku nepřátelských zemí, což bude zjevně vnímané sousedy jako akt agrese.." # todo: NEW TRANSLATION
-  union_state.17.a: "Jaderné zbraně míří do Jerevanu" # todo: NEW TRANSLATION
-  union_state.17.b: "Ne" # todo: NEW TRANSLATION
-  union_state.18.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
-  union_state.18.d: "Ruská vláda souhlasila s rozmístěním jaderných zbraní na našem území, aby chránila proti potenciálním útočníkům. Jsme rádi, že chápou naši hodnotu!" # todo: NEW TRANSLATION
-  union_state.18.a: "Hezké" # todo: NEW TRANSLATION
-  union_state.19.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
-  union_state.19.d: "Ruská vláda odmítla rozmístit jaderné zbraně na našem území, aby se chránila proti potenciálním útočníkům. Je nám to líto, zdá se, že nás považují jen za linii obrany a nic víc.." # todo: NEW TRANSLATION
-  union_state.19.a: "Smutné" # todo: NEW TRANSLATION
-  union_state.20.t: "Rozšíření hospodářské integrace" # todo: NEW TRANSLATION
-  union_state.20.d: "[FROM.GetName] rozšířil(a) hospodářskou integraci do Státu Unie a naše ekonomiky jsou nyní ještě blíže než dřív.." # todo: NEW TRANSLATION
-  union_state.20.a: "Dobré" # todo: NEW TRANSLATION
-  union_state.21.t: "Stát Unie se zmenšil" # todo: NEW TRANSLATION
-  union_state.21.d: "[FROM.GetName] oznámil(a) svůj odchod ze Státu Unie kvůli nesouladu s jeho politickými zájmy v něm." # todo: NEW TRANSLATION
-  union_state.21.a: "Smutné" # todo: NEW TRANSLATION
-  union_state.22.t: "Křížová výprava Státu Unie" # todo: NEW TRANSLATION
-  union_state.22.d: "Křížová výprava vyhlášená Ruskem také zapadá do zahraničně-politické doktríny Státu Unie. Pojďme společně k dosažení našeho společného cíle!" # todo: NEW TRANSLATION
-  union_state.22.a: "Hurá!" # todo: NEW TRANSLATION
-  union_state.23.t: "Křížová výprava Státu Unie" # todo: NEW TRANSLATION
-  union_state.23.d: "Křížová výprava vyhlášená Ruskem také zapadá do zahraničně-politické doktríny Státu Unie. Pojďme společně k dosažení našeho společného cíle!" # todo: NEW TRANSLATION
-  union_state.23.a: "Hurá!" # todo: NEW TRANSLATION
-  union_state.24.t: "Doktrína Státu Unie proti Západu" # todo: NEW TRANSLATION
-  union_state.24.d: "Doktrína proti Západu vypracovaná Ruskem také zapadá do zahraničně-politické doktríny Státu Unie. Pojďme společně k dosažení našeho společného cíle!" # todo: NEW TRANSLATION
-  union_state.24.a: "Hurá!" # todo: NEW TRANSLATION
-  union_state.25.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
-  union_state.25.d: "[FROM.GetName] žádá o investice z rozpočtu Státu Unie (tj. naše). Mají o to požádat vzhledem k okolnostem špatné hospodářské situace. Budeme jim pomáhat?" # todo: NEW TRANSLATION
-  union_state.25.a: "Pomožme jim" # todo: NEW TRANSLATION
-  union_state.25.b: "Rozpočet není neomezený" # todo: NEW TRANSLATION
-  union_state.26.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
-  union_state.26.d: "Naše žádost byla schválena a získali jsme potřebné investice z rozpočtu Státu Unie!" # todo: NEW TRANSLATION
-  union_state.26.a: "Dobré" # todo: NEW TRANSLATION
-  union_state.27.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
-  union_state.27.d: "Naše žádost o investici byla zamítnuta, zdá se, že se nemůžeme spolehnout na finance Státu Unie.." # todo: NEW TRANSLATION
-  union_state.27.a: "Smutné" # todo: NEW TRANSLATION
-  union_state_belarus.1.t: "Pro-unijní puč" # todo: NEW TRANSLATION
-  union_state_belarus.1.d: "Snažili jsme se provést puč moci v Bělorusku za použití veškerých našich správních a policejních zdrojů, stejně jako kontaktů." # todo: NEW TRANSLATION
-  union_state_belarus.1.a: "Podívejme se na výsledek" # todo: NEW TRANSLATION
-  union_state_armenia.1.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
-  union_state_armenia.1.d: "Arménie, nebo spíše její zástupci ve Společném státě, dnes zahájili agresivní rétoriku volající po okamžitém zásahu proti Ázerbájdžánu a ukončení hrozby pro Společný stát v Kavkazu. Přirozeně později nám arménské vedení osobně požádalo, abychom zahájili válku.." # todo: NEW TRANSLATION
-  union_state_armenia.1.a: "Je čas ukončit Ázerbájdžán" # todo: NEW TRANSLATION
-  union_state_armenia.1.b: "To je šílené" # todo: NEW TRANSLATION
-  union_state_armenia.2.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
-  union_state_armenia.2.d: "Rusko přijalo naši nabídku a oznámilo okamžitý začátek vojenské operace v Ázerbájdžánu. Oni budou konečně zničeni." # todo: NEW TRANSLATION
-  union_state_armenia.2.a: "Je čas ukončit Ázerbájdžán" # todo: NEW TRANSLATION
-  union_state_armenia.3.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
-  union_state_armenia.3.d: "Rusko odmítlo náš návrh na invazi do Ázerbájdžánu, považující náš nápad za šílenou manifestaci agrese, která neodpovídá ideologii Společného státu." # todo: NEW TRANSLATION
-  union_state_armenia.3.a: "Smutný" # todo: NEW TRANSLATION
-  union_state_armenia.4.t: "Arménie žádá Itálii o pomoc" # todo: NEW TRANSLATION
-  union_state_armenia.4.d: "Arménská vláda nedávno převzala moc v Itálii, což vyvolalo tam občanskou válku. Nyní Arménie žádá, abychom Itálii pomohli chránit její nezávislost." # todo: NEW TRANSLATION
-  union_state_armenia.4.a: "Odeslat GRU" # todo: NEW TRANSLATION
-  union_state_armenia.4.b: "Odeslat PMC Wagner" # todo: NEW TRANSLATION
-  union_state_armenia.4.c: "Odeslat GRU a PMC Wagner" # todo: NEW TRANSLATION
-  union_state_armenia.4.f: "Neposíláme nikoho." # todo: NEW TRANSLATION
-  union_state_armenia.5.t: "Rusko posílá pomoc naší loutce" # todo: NEW TRANSLATION
-  union_state_armenia.5.d: "Rusko souhlasilo s pomocí naší loutce a posílá mu dodatečnou podporu ve formě několika batalionů speciálních služeb.." # todo: NEW TRANSLATION
-  union_state_armenia.5.a: "Dobré" # todo: NEW TRANSLATION
-  union_state_armenia.6.t: "Rusko odmítlo pomoci naší loutce" # todo: NEW TRANSLATION
-  union_state_armenia.6.d: "Rusko odmítlo naši žádost o pomoc při naší loutce, považujíc to za náš problém, protože to jsme my, kdo tento převrat zorganizoval." # todo: NEW TRANSLATION
-  union_state_armenia.6.a: "Smutný" # todo: NEW TRANSLATION
-  union_state_armenia.7.t: "Arménie žádá Itálii o pomoc" # todo: NEW TRANSLATION
-  union_state_armenia.7.d: "Arménská vláda nedávno převzala moc v Itálii, což vyvolalo tam občanskou válku. Nyní Arménie žádá, abychom Itálii pomohli chránit její nezávislost." # todo: NEW TRANSLATION
-  union_state_armenia.7.a: "Odeslat GRU" # todo: NEW TRANSLATION
-  union_state_armenia.7.b: "Odeslat PMC Wagner" # todo: NEW TRANSLATION
-  union_state_armenia.7.c: "Odeslat GRU a PMC Wagner" # todo: NEW TRANSLATION
-  union_state_armenia.7.f: "Neposíláme nikoho." # todo: NEW TRANSLATION
-  union_state_armenia.8.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
-  union_state_armenia.8.d: "Ruská vláda navrhuje, abychom provedli společný protiseparatistický zátah v ruském Kavkaze proti radikálům nakloněným k separatismu v těchto republikách. Budeme poskytovat pomoc Rusku a zvýšíme naši politickou váhu ve Společném státě." # todo: NEW TRANSLATION
-  union_state_armenia.8.a: "Souhlasíme" # todo: NEW TRANSLATION
-  union_state_armenia.8.b: "Nesouhlasíme" # todo: NEW TRANSLATION
-  union_state_armenia.9.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
-  union_state_armenia.9.d: "Arménská vláda souhlasila s provedením společné protiseparatistické operace v Kavkazu s našimi zvláštními službami." # todo: NEW TRANSLATION
-  union_state_armenia.9.a: "Dobré" # todo: NEW TRANSLATION
-  union_state_armenia.10.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
-  union_state_armenia.10.d: "Arménská vláda odmítla provést společnou protiseparatistickou operaci v Kavkazu s našimi zvláštními službami." # todo: NEW TRANSLATION
-  union_state_armenia.10.a: "Smutný" # todo: NEW TRANSLATION
-  union_state_armenia.11.t: "Puč pro Společný stát" # todo: NEW TRANSLATION
-  union_state_armenia.11.d: "Snažili jsme se v Arménii provést převrat moci za využití všech našich správních a policejních zdrojů a spojení." # todo: NEW TRANSLATION
-  union_state_armenia.11.a: "Podívejme se na výsledek" # todo: NEW TRANSLATION
-  union_state_armenia.12.t: "Zpravodajské služby Unie Arménie a Ruska" # todo: NEW TRANSLATION
-  union_state_armenia.12.d: "Spolupráce v rámci Společného státu mezi Arménií a Ruskem nadále roste. Byla podepsána dohoda o vzniku jediné koordinační agentury mezi našimi zvláštními službami pro lepší spolupráci vnitřních a externích operací." # todo: NEW TRANSLATION
-  union_state_armenia.12.a: "Dobré" # todo: NEW TRANSLATION
-  union_state_news.1.t: "Rusko a Bělorusko vytvořily Společný stát" # todo: NEW TRANSLATION
-  union_state_news.1.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Během těchto let se obě země vyvíjely různými tempy směrem k vytvoření tohoto sdružení a jsou konečně připraveny oznámit vznik nového subjektu mezinárodních vztahů - Společného státu Ruska a Běloruska." # todo: NEW TRANSLATION
-  union_state_news.1.a: "Zajímavé" # todo: NEW TRANSLATION
-  union_state_news.2.t: "Rusko a Srbsko vytvořily Společný stát" # todo: NEW TRANSLATION
-  union_state_news.2.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. V 90. letech SRB země podala žádost o členství ve Společném státě, ale Ruská Státní duma návrh odmítla. Nyní srbská vláda dokázala tento projekt realizovat a vytvořit Společný stát Ruska a Srbska." # todo: NEW TRANSLATION
-  union_state_news.2.a: "Zajímavé" # todo: NEW TRANSLATION
-  union_state_news.3.t: "Rusko a Ukrajina vytvořily Společný stát" # todo: NEW TRANSLATION
-  union_state_news.3.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Ukrajina nikdy na počátku neusilovala o stát se součástí této entity, ale mnozí předpověděli její členství ve Společném státě, a možná nebyli na omylu. Nyní existuje Společný stát Ruska a Ukrajiny na světové politické mapě." # todo: NEW TRANSLATION
-  union_state_news.3.a: "Zajímavé" # todo: NEW TRANSLATION
-  union_state_news.4.t: "Rusko a Arménie vytvořily Společný stát" # todo: NEW TRANSLATION
-  union_state_news.4.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Arménie sice zpočátku neusilovala o členství v této entitě, ale mnozí předpověděli její členství ve Společném státě, a třeba nebylo marné. Nyní existuje Společný stát Ruska a Arménie na politické mapě světa." # todo: NEW TRANSLATION
-  union_state_news.4.a: "Zajímavé" # todo: NEW TRANSLATION
-  union_state_news.5.t: "Vojenská operace "Oil Ridge"" # todo: NEW TRANSLATION
-  union_state_news.5.d: "Rusko a Arménie, v rámci Společného státu, oznámily zahájení vojenské operace na území Ázerbájdžánu s cílem odstranit hrozbu pro Společný stát a případně snížit vliv nepřátelských politických sil v Kavkazu." # todo: NEW TRANSLATION
-  union_state_news.5.a: "Zajímavé" # todo: NEW TRANSLATION
+ USR_Union_state_category: "Unijní stát" # todo: NEW TRANSLATION
+ USR_Union_state_category_desc: "§YUnijní stát§! je nadnárodní projekt [SOV.GetFlag]§YRussia§! a [BLR.GetFlag]§YBelarus§! vytvořený v 90. letech 20. století a zahájil svou činnost v roce 2000.A jedinečná nadnárodní entita předpokládá spojení dvou států a integraci v mnoha oblastech, vojenských, ekonomických, politických atd., aniž by ztratila nezávislost.\nSrbsko jednou chtělo být součástí tohoto projektu, ale bylo odmítnuto. Snad bude nyní Unijní stát schopen přijmout do svých řad více zemí." # todo: NEW TRANSLATION
+ USR_leave_union_state: "§ROpustit§! §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
+ USR_economic_additional_budget: "§YPoužij§! rozpočet §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
+ USR_economic_integrate_yes: "§YIntegrace§! v ekonomice §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
+ USR_economic_use_satellites: "§YPoužij§! satelity §Y[SOV.GetFlag]Unijní stát§!" # todo: NEW TRANSLATION
+ USR_create_parlament_blr: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
+ USR_create_gos_sovet_blr: "§YVytvořit§! Nejvyšší státní rada" # todo: NEW TRANSLATION
+ USR_create_council_ministers_blr: "§YVytvořit§! Rada ministrů" # todo: NEW TRANSLATION
+ USR_create_money_palata_blr: "§YVytvořit§! Kombinovaná účetní komora" # todo: NEW TRANSLATION
+ USR_create_eternal_commitie_blr: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
+ USR_create_valute_blr: "§YVytvořit§! Jednotná měna" # todo: NEW TRANSLATION
+ USR_create_civils_blr: "§YVytvořit§! Jednotné občanství" # todo: NEW TRANSLATION
+ USR_create_economic_space_blr: "§YVytvořit§! Společný ekonomický prostor" # todo: NEW TRANSLATION
+ USR_nuclear_to_blr: "§YPřevést§! Jaderné zbraně do §Y[BLR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_nuclear_to_blr_desc: "Je čas chránit našeho souseda. Pošleme jaderné zbraně do Běloruska a chránit ho před nepřátelskými útoky." # todo: NEW TRANSLATION
+ USR_russia_reunite_with_belarus: "§YZnovu sjednotit§! s §Y[BLR.GetName]§!" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_belarus_desc: "Bělorusko je naším bratrem národem. Učinili jsme několik kroků k vzájemné integraci, teď přišel poslední krok." # todo: NEW TRANSLATION
+ USR_russia_create_union_state_blr: "§YVytvořit§! unijní stát se §Y[BLR.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
+ USR_pro_union_state_revout_blr: "§YPro-unijní§! puč v §Y[BLR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_belarus_create_union_state: "§YVytvořit§! unijní stát se §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_belarus_create_union_state_desc: "Nyní jsme se konečně stali Unijním státem, jak to bylo zamýšleno jako výsledek opakovaného renegociování dohod" # todo: NEW TRANSLATION
+ USR_belarus_annex_russia: "§YPoslední fáze integrace§!" # todo: NEW TRANSLATION
+ USR_create_parlament_ser: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
+ USR_create_gos_sovet_ser: "§YVytvořit§! Nejvyšší státní rada" # todo: NEW TRANSLATION
+ USR_create_council_ministers_ser: "§YVytvořit§! Rada ministrů" # todo: NEW TRANSLATION
+ USR_create_money_palata_ser: "§YVytvořit§! Kombinovaná účetní komora" # todo: NEW TRANSLATION
+ USR_create_eternal_commitie_ser: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
+ USR_create_valute_ser: "§YVytvořit§! Jednotná měna" # todo: NEW TRANSLATION
+ USR_create_civils_ser: "§YVytvořit§! Jednotné občanství" # todo: NEW TRANSLATION
+ USR_create_economic_space_ser: "§YVytvořit§! Společný ekonomický prostor" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_serbia: "§YZnovu sjednotit§! s §Y[SER.GetName]§!" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_serbia_desc: "Srbsko je naším bratrem národem. Učinili jsme několik kroků k vzájemné integraci, teď přišel poslední krok." # todo: NEW TRANSLATION
+ USR_russia_create_union_state_ser: "§YVytvořit§! Svazový stát s §Y[SER.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
+ USR_serbia_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_create_parlament_ukr: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
+ USR_create_gos_sovet_ukr: "§YVytvořit§! Nejvyšší státní radu" # todo: NEW TRANSLATION
+ USR_create_council_ministers_ukr: "§YVytvořit§! Radu ministrů" # todo: NEW TRANSLATION
+ USR_create_money_palata_ukr: "§YVytvořit§! sloučenou účetní komoru" # todo: NEW TRANSLATION
+ USR_create_eternal_commitie_ukr: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
+ USR_create_valute_ukr: "§YVytvořit§! jednotnou měnu" # todo: NEW TRANSLATION
+ USR_create_civils_ukr: "§YVytvořit§! jednotné občanství" # todo: NEW TRANSLATION
+ USR_create_economic_space_ukr: "§YVytvořit§! společný ekonomický prostor" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_ukraine: "§YZnovu sjednotit§! s §Y[UKR.GetName]§!" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_ukraine_desc: "Ukrajina je náš bratrský národ. Provedli jsme několik kroků k vzájemné integraci, nyní je čas na poslední úder." # todo: NEW TRANSLATION
+ USR_russia_create_union_state_ukr: "§YVytvořit§! Svazový stát s §Y[UKR.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
+ USR_ukraine_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_create_parlament_arm: "§YVytvořit§! Unijní parlament" # todo: NEW TRANSLATION
+ USR_create_gos_sovet_arm: "§YVytvořit§! Nejvyšší státní radu" # todo: NEW TRANSLATION
+ USR_create_council_ministers_arm: "§YVytvořit§! Radu ministrů" # todo: NEW TRANSLATION
+ USR_create_money_palata_arm: "§YVytvořit§! sloučenou účetní komoru" # todo: NEW TRANSLATION
+ USR_create_eternal_commitie_arm: "§YVytvořit§! Soud Unie" # todo: NEW TRANSLATION
+ USR_create_valute_arm: "§YVytvořit§! jednotnou měnu" # todo: NEW TRANSLATION
+ USR_create_civils_arm: "§YVytvořit§! jednotné občanství" # todo: NEW TRANSLATION
+ USR_create_economic_space_arm: "§YVytvořit§! společný ekonomický prostor" # todo: NEW TRANSLATION
+ USR_russia_create_union_state_arm: "§YVytvořit§! Svazový stát s §Y[ARM.GetNameWithFlag]§! §RSilou§!" # todo: NEW TRANSLATION
+ USR_armenia_create_union_state: "§YVytvořit§! Svazový stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_pro_union_state_revout_arm: "§YPro-unijní§! puč v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_united_group_troops_armenia: "Regionální vojenská skupina [ARM.GetFlag][SOV.GetFlag]§YSvazového státu§!" # todo: NEW TRANSLATION
+ USR_nuclear_to_arm: "Jaderné zbraně v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_arm_ask_attack_azer: "Žádost o vojenskou operaci v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_arm_ask_help_poland: "Požádat §Y[SOV.GetNameWithFlag]§! o pomoc v §Y[POL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_arm_ask_help_italy: "Požádat §Y[SOV.GetNameWithFlag]§! o pomoc v §Y[ITA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_armenia: "§YZnovu sjednotit§! s §Y[ARM.GetName]§!" # todo: NEW TRANSLATION
+ USR_russia_reunite_with_armenia_desc: "Arménie je náš bratrský národ. Provedli jsme několik kroků k vzájemné integraci, nyní je čas na poslední úder." # todo: NEW TRANSLATION
+ USR_sov_ask_arm_help_separatism: "[ARM.GetFlag][SOV.GetFlag]§YArménsko-ruský§! Anti-Separatistický nájezd v §YKavkaz§!" # todo: NEW TRANSLATION
+ USR_united_special_services_armenia: "§YUnijní zpravodajské služby Arménie a Ruska§!" # todo: NEW TRANSLATION
+ USR_union_state_idea: "Unijní stát s §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ USR_parlament_idea: "Unijní parlament" # todo: NEW TRANSLATION
+ USR_gos_sovet_idea: "Nejvyšší státní rada" # todo: NEW TRANSLATION
+ USR_council_ministers_idea: "Rada ministrů" # todo: NEW TRANSLATION
+ USR_money_palata_idea: "Kombinovaná účetní komora" # todo: NEW TRANSLATION
+ USR_eternal_commitie_idea: "Soud Unie" # todo: NEW TRANSLATION
+ USR_valute_idea: "Jednotná měna" # todo: NEW TRANSLATION
+ USR_civils_idea: "Jednotné občanství" # todo: NEW TRANSLATION
+ USR_economic_space_idea: "Společný ekonomický prostor" # todo: NEW TRANSLATION
+ USR_Common_Economic_Space_loc1: "\n§gSPOLEČNÝ EKONOMICKÝ PROSTOR§!:\n£econ_cycle_upg_cost_multiplier_modifier_texticon §YNáklady na ekonomický upgrade cyklu§! Násobitel: §G-1.00%§!\nMěsíční nárůst produktivity: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! ve §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Single_Currency_loc1: "\n§gJEDNOTNÁ MENA§!:\n£econ_cycle_upg_cost_multiplier_modifier_texticon §YNáklady na ekonomický upgrade cyklu§! Násobitel: §G-1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! ve §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Unified_Citizenship_loc1: "\n§gJEDNOTNÉ OBČANSTVÍ§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n£population_texticon  Měsíční populace: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Court_Union_loc1: "\n§gSOUD UNIE§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n£stability_texticon  Stabilita: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Accounting_Chamber_loc1: "\n§gKOMBINOVANÁ ÚČETNÍ KOMORA§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Council_Ministers_loc1: "\n§gRADA MINISTRŮ§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Supreme_State_Council_loc1: "\n§gNEJVYŠŠÍ STÁTNÍ RADA§!:\n£political_power_texticon  Denní přírůstek politické moci: §G+1.00%§!\n£stability_texticon  Stabilita: §G+1.00%§!\n[SOV.GetFlag] ruský §Hnásobitel vlivu§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_Union_Parliament_loc1: "\n§gUNIJNÍ PARLAMENT§!:\n£political_power_texticon  Denní zisk politické síly: §G+1.00%§!\n[SOV.GetFlag] ruský §Hvlivový multiplikátor§! v §Y[ROOT.GetNameWithFlag]§!: §R+15%§!\n" # todo: NEW TRANSLATION
+ USR_UnitedGroupTroops_loc1: "\n§gREGIONÁLNÍ SESKUPENÍ VOJSK§!:[SOV_SpaceForces_loc][SOV_Satellites_loc][SOV_FarAvia_loc][SOV_TransportAvia_loc][SOV_AirMissile_loc][SOV_AirAircraft_loc][SOV_RadioTech_loc][SOV_Rockets_loc][SOV_AntiAir_loc][SOV_Engineer_loc][SOV_Ipso_loc][SOV_Mto_loc][SOV_Railway_loc][SOV_Electronic_loc]" # todo: CHANGED
+ USR_EconomyIntegration_loc1: "\n§gHOSPODÁŘSTVÍ UNIJNÍHO STÁTU§!: Národní šampioni Ruska zde obchodují za stejných podmínek jako doma a jejich hodnota pro nás stoupá a klesá podle toho, jakou hodnotu mají pro Moskvu." # todo: CHANGED
+ USR_union_state_ministry_TT: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc][USR_Supreme_State_Council_loc]" # todo: CHANGED
+ USR_union_state_create_nesc_TT: "§YUnijní stát§! bude vytvořen" # todo: NEW TRANSLATION
+ USR_Union_state_create_belarus_TT: "Rusko a Bělorusko se stanou jedním státem" # todo: NEW TRANSLATION
+ BLR_Union_state_created_TT: "Rusko a Ukrajina se stanou jedním státem" # todo: NEW TRANSLATION
+ USR_bonus_special_services_arm_tt: "£text_icon_union_state §YUnijní stát§!: Bonus od §YUnijních zpravodajských služeb§! se [ARM.GetFlag]§YArménií§!" # todo: NEW TRANSLATION
+ USR_bonus_special_services_sov_tt: "£text_icon_union_state §YUnijní stát§!: Bonus od §YUnijních zpravodajských služeb§! se [SOV.GetFlag]§YRusko§!" # todo: NEW TRANSLATION
+ USR_bonus_special_services_tooltip_tt: "Všechna rozhodnutí o vlivu v jiných zemích §Gobdrží bonus§! od speciálních služeb ostatních zemí Unijního státu §YUnijní stát§!." # todo: NEW TRANSLATION
+ UNS_union_state_TT: "Podpora Unijního státu se mění o §Y[?modify_union_state]%§! (Aktuální podpora: §Y[?ROOT.union_state]%§!)\n" # todo: NEW TRANSLATION
+ BLR_union_state_flag: "[BLR.GetFlag]" # todo: NEW TRANSLATION
+ SOV_union_state_flag: "[SOV.GetFlag]" # todo: NEW TRANSLATION
+ UKR_union_state_flag: "[UKR.GetFlag]" # todo: NEW TRANSLATION
+ unionstate_belarus_tooltip: "[belarus_readys_union_state]" # todo: NEW TRANSLATION
+ unionstate_belarus_output_text: "§Y[?BLR.union_state|-0]§!" # todo: NEW TRANSLATION
+ BLR_belarus_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
+ BLR_belarus_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
+ unionstate_serbia_tooltip: "[serbia_readys_union_state]" # todo: NEW TRANSLATION
+ unionstate_serbia_output_text: "§Y[?SER.union_state|-0]§!" # todo: NEW TRANSLATION
+ SER_serbia_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
+ SER_serbia_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
+ SER_union_state_flag: "[SER.GetFlag]" # todo: NEW TRANSLATION
+ unionstate_armenia_tooltip: "[armenia_readys_union_state]" # todo: NEW TRANSLATION
+ unionstate_armenia_output_text: "§Y[?ARM.union_state|-0]§!" # todo: NEW TRANSLATION
+ ARM_armenia_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
+ ARM_armenia_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
+ unionstate_armenia_army_tooltip: "[USR_UnitedGroupTroops_loc]" # todo: NEW TRANSLATION
+ unionstate_armenia_economy_tooltip: "[USR_EconomyIntegration_loc]" # todo: NEW TRANSLATION
+ unionstate_ukraine_tooltip: "[ukraine_readys_union_state]" # todo: NEW TRANSLATION
+ unionstate_ukraine_output_text: "§Y[?UKR.union_state|-0]§!" # todo: NEW TRANSLATION
+ UKR_ukraine_readys_union_state: "[USR_Common_Economic_Space_loc][USR_Single_Currency_loc][USR_Unified_Citizenship_loc][USR_Court_Union_loc][USR_Accounting_Chamber_loc][USR_Council_Ministers_loc][USR_Union_Parliament_loc]" # todo: NEW TRANSLATION
+ UKR_ukraine_notreadys_union_state: "§RUNAVAILABLE§!" # todo: NEW TRANSLATION
+ union_state.1.t: "Oni se dohodli na vytvoření Státu Unie s námi" # todo: NEW TRANSLATION
+ union_state.1.d: "Konečně bude Stát Unie skutečností, ne jen na papíře. Před námi je světlá budoucnost." # todo: NEW TRANSLATION
+ union_state.1.a: "Nakonec" # todo: NEW TRANSLATION
+ union_state.3.t: "Rusko vydává ultimátum ohledně Státu Unie" # todo: NEW TRANSLATION
+ union_state.3.d: "Ruská vláda nám dává tvrdé ultimátum ohledně Státu Unie. Buď jej podepíšeme, nebo dojde k negativním následkům. Máme podlehnout takovým provokacím?" # todo: NEW TRANSLATION
+ union_state.3.a: "Podepíšeme integraci do Státu Unie" # todo: NEW TRANSLATION
+ union_state.3.b: "Ne" # todo: NEW TRANSLATION
+ union_state.4.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.4.d: "Běloruská vláda souhlasila s okamžitým plným podepsáním smlouvy o vytvoření Státu Unie." # todo: NEW TRANSLATION
+ union_state.4.a: "Dobré" # todo: NEW TRANSLATION
+ union_state.5.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.5.d: "Běloruská vláda odmítla okamžitě plně podepsat smlouvu o vytvoření Státu Unie." # todo: NEW TRANSLATION
+ union_state.5.a: "Smutné" # todo: NEW TRANSLATION
+ union_state.6.t: "Rusko vydává ultimátum ohledně Státu Unie" # todo: NEW TRANSLATION
+ union_state.6.d: "Ruská vláda nám dává tvrdé ultimátum ohledně Státu Unie. Buď jej podepíšeme, nebo dojde k negativním následkům. Máme podlehnout takovým provokacím?" # todo: NEW TRANSLATION
+ union_state.6.a: "Podepíšeme integraci do Státu Unie" # todo: NEW TRANSLATION
+ union_state.6.b: "Ne" # todo: NEW TRANSLATION
+ union_state.7.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.7.d: "Stát Unie se k vám opět vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
+ union_state.7.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
+ union_state.7.b: "Ne" # todo: NEW TRANSLATION
+ union_state.8.t: "[FROM.GetNameWithFlag] Odmítl(a) vytvořit Stát Unie" # todo: NEW TRANSLATION
+ union_state.8.d: "Znovu jsme byli odmítnuti, možná jejich vláda ještě nedozrála, ale pokusíme se znovu" # todo: NEW TRANSLATION
+ union_state.8.a: "Škoda" # todo: NEW TRANSLATION
+ union_state.9.t: "[UKR.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
+ union_state.9.d: "[FROM.GetNameWithFlag] zahájil(a) přípravy na vstup do Státu Unie. Je to pro nás nečekaná zpráva, protože se již jednou přihlásili, ale to proběhlo během tragických událostí pro ně i pro nás. Snad se to teď změní" # todo: NEW TRANSLATION
+ union_state.9.a: "Dobré" # todo: NEW TRANSLATION
+ union_state.10.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.10.d: "Stát Unie se k vám opět vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme se jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
+ union_state.10.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
+ union_state.10.b: "Ne" # todo: NEW TRANSLATION
+ union_state.11.t: "[UKR.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
+ union_state.11.d: "[UKR.GetNameWithFlag] uvedl(a), že dokončil(a) všechny procesy pro integraci do Státu Unie a nyní rozhodneme, zda jsme připraveni tento stát s nimi vytvořit" # todo: NEW TRANSLATION
+ union_state.11.a: "Ano" # todo: NEW TRANSLATION
+ union_state.11.b: "Ne" # todo: NEW TRANSLATION
+ union_state.12.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.12.d: "Rusko odmítlo s námi vytvořit Stát Unie, bylo to pro nás nečekané." # todo: NEW TRANSLATION
+ union_state.12.a: "Smutné" # todo: NEW TRANSLATION
+ union_state.13.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.13.d: "Stát Unie se k vám znovu vrací a je připraven podepsat s námi ratifikaci dohody o jeho vzniku. Musíme jen rozhodnout, zda jsme připraveni na tak riskantní politický krok?" # todo: NEW TRANSLATION
+ union_state.13.a: "Ano, vytvoříme Stát Unie" # todo: NEW TRANSLATION
+ union_state.13.b: "Ne" # todo: NEW TRANSLATION
+ union_state.14.t: "[ARM.GetNameWithFlag] Chce integraci do Státu Unie" # todo: NEW TRANSLATION
+ union_state.14.d: "[ARM.GetNameWithFlag] uvedl(a), že dokončil(a) všechny procesy pro integraci do Státu Unie a nyní rozhodneme, zda jsme připraveni tento stát s nimi vytvořit" # todo: NEW TRANSLATION
+ union_state.14.a: "Ano" # todo: NEW TRANSLATION
+ union_state.14.b: "Ne" # todo: NEW TRANSLATION
+ union_state.15.t: "Stát Unie" # todo: NEW TRANSLATION
+ union_state.15.d: "Rusko odmítlo s námi vytvořit Stát Unie, bylo to pro nás nečekávané." # todo: NEW TRANSLATION
+ union_state.15.a: "Smutné" # todo: NEW TRANSLATION
+ union_state.16.t: "Regionální seskupení jednotek v [ARM.GetName]" # todo: NEW TRANSLATION
+ union_state.16.d: "Vlády Arménie a Ruska se rozhodly rozšířit společnou skupinu sil Státu Unie a integrace ozbrojených sil obou států se stala ještě silnější." # todo: NEW TRANSLATION
+ union_state.16.a: "Dobré" # todo: NEW TRANSLATION
+ union_state.17.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
+ union_state.17.d: "Arménská vláda, v rámci Státu Unie, požádala o rozmístění jaderných zbraní na jejím území, aby chránila její územní integritu v případě útoku nepřátelských zemí, což bude zjevně vnímané sousedy jako akt agrese.." # todo: NEW TRANSLATION
+ union_state.17.a: "Jaderné zbraně míří do Jerevanu" # todo: NEW TRANSLATION
+ union_state.17.b: "Ne" # todo: NEW TRANSLATION
+ union_state.18.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
+ union_state.18.d: "Ruská vláda souhlasila s rozmístěním jaderných zbraní na našem území, aby chránila proti potenciálním útočníkům. Jsme rádi, že chápou naši hodnotu!" # todo: NEW TRANSLATION
+ union_state.18.a: "Hezké" # todo: NEW TRANSLATION
+ union_state.19.t: "Jaderné zbraně v [ARM.GetName]" # todo: NEW TRANSLATION
+ union_state.19.d: "Ruská vláda odmítla rozmístit jaderné zbraně na našem území, aby se chránila proti potenciálním útočníkům. Je nám to líto, zdá se, že nás považují jen za linii obrany a nic víc.." # todo: NEW TRANSLATION
+ union_state.19.a: "Smutné" # todo: NEW TRANSLATION
+ union_state.20.t: "Rozšíření hospodářské integrace" # todo: NEW TRANSLATION
+ union_state.20.d: "[FROM.GetName] rozšířil(a) hospodářskou integraci do Státu Unie a naše ekonomiky jsou nyní ještě blíže než dřív.." # todo: NEW TRANSLATION
+ union_state.20.a: "Dobré" # todo: NEW TRANSLATION
+ union_state.21.t: "Stát Unie se zmenšil" # todo: NEW TRANSLATION
+ union_state.21.d: "[FROM.GetName] oznámil(a) svůj odchod ze Státu Unie kvůli nesouladu s jeho politickými zájmy v něm." # todo: NEW TRANSLATION
+ union_state.21.a: "Smutné" # todo: NEW TRANSLATION
+ union_state.22.t: "Křížová výprava Státu Unie" # todo: NEW TRANSLATION
+ union_state.22.d: "Křížová výprava vyhlášená Ruskem také zapadá do zahraničně-politické doktríny Státu Unie. Pojďme společně k dosažení našeho společného cíle!" # todo: NEW TRANSLATION
+ union_state.22.a: "Hurá!" # todo: NEW TRANSLATION
+ union_state.23.t: "Křížová výprava Státu Unie" # todo: NEW TRANSLATION
+ union_state.23.d: "Křížová výprava vyhlášená Ruskem také zapadá do zahraničně-politické doktríny Státu Unie. Pojďme společně k dosažení našeho společného cíle!" # todo: NEW TRANSLATION
+ union_state.23.a: "Hurá!" # todo: NEW TRANSLATION
+ union_state.25.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
+ union_state.25.d: "[FROM.GetName] žádá o investice z rozpočtu Státu Unie (tj. naše). Mají o to požádat vzhledem k okolnostem špatné hospodářské situace. Budeme jim pomáhat?" # todo: NEW TRANSLATION
+ union_state.25.a: "Pomožme jim" # todo: NEW TRANSLATION
+ union_state.25.b: "Rozpočet není neomezený" # todo: NEW TRANSLATION
+ union_state.26.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
+ union_state.26.d: "Naše žádost byla schválena a získali jsme potřebné investice z rozpočtu Státu Unie!" # todo: NEW TRANSLATION
+ union_state.26.a: "Dobré" # todo: NEW TRANSLATION
+ union_state.27.t: "Investice z Rozpočtu Státu Unie" # todo: NEW TRANSLATION
+ union_state.27.d: "Naše žádost o investici byla zamítnuta, zdá se, že se nemůžeme spolehnout na finance Státu Unie.." # todo: NEW TRANSLATION
+ union_state.27.a: "Smutné" # todo: NEW TRANSLATION
+ union_state_belarus.1.t: "Pro-unijní puč" # todo: NEW TRANSLATION
+ union_state_belarus.1.d: "Snažili jsme se provést puč moci v Bělorusku za použití veškerých našich správních a policejních zdrojů, stejně jako kontaktů." # todo: NEW TRANSLATION
+ union_state_belarus.1.a: "Podívejme se na výsledek" # todo: NEW TRANSLATION
+ union_state_armenia.1.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
+ union_state_armenia.1.d: "Arménie, nebo spíše její zástupci ve Společném státě, dnes zahájili agresivní rétoriku volající po okamžitém zásahu proti Ázerbájdžánu a ukončení hrozby pro Společný stát v Kavkazu. Přirozeně později nám arménské vedení osobně požádalo, abychom zahájili válku.." # todo: NEW TRANSLATION
+ union_state_armenia.1.a: "Je čas ukončit Ázerbájdžán" # todo: NEW TRANSLATION
+ union_state_armenia.1.b: "To je šílené" # todo: NEW TRANSLATION
+ union_state_armenia.2.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
+ union_state_armenia.2.d: "Rusko přijalo naši nabídku a oznámilo okamžitý začátek vojenské operace v Ázerbájdžánu. Oni budou konečně zničeni." # todo: NEW TRANSLATION
+ union_state_armenia.2.a: "Je čas ukončit Ázerbájdžán" # todo: NEW TRANSLATION
+ union_state_armenia.3.t: "Vojenská operace v Ázerbájdžánu" # todo: NEW TRANSLATION
+ union_state_armenia.3.d: "Rusko odmítlo náš návrh na invazi do Ázerbájdžánu, považující náš nápad za šílenou manifestaci agrese, která neodpovídá ideologii Společného státu." # todo: NEW TRANSLATION
+ union_state_armenia.3.a: "Smutný" # todo: NEW TRANSLATION
+ union_state_armenia.4.t: "Arménie žádá Itálii o pomoc" # todo: NEW TRANSLATION
+ union_state_armenia.4.d: "Arménská vláda nedávno převzala moc v Itálii, což vyvolalo tam občanskou válku. Nyní Arménie žádá, abychom Itálii pomohli chránit její nezávislost." # todo: NEW TRANSLATION
+ union_state_armenia.4.a: "Odeslat GRU" # todo: NEW TRANSLATION
+ union_state_armenia.4.b: "Odeslat PMC Wagner" # todo: NEW TRANSLATION
+ union_state_armenia.4.c: "Odeslat GRU a PMC Wagner" # todo: NEW TRANSLATION
+ union_state_armenia.4.f: "Neposíláme nikoho." # todo: NEW TRANSLATION
+ union_state_armenia.5.t: "Rusko posílá pomoc naší loutce" # todo: NEW TRANSLATION
+ union_state_armenia.5.d: "Rusko souhlasilo s pomocí naší loutce a posílá mu dodatečnou podporu ve formě několika batalionů speciálních služeb.." # todo: NEW TRANSLATION
+ union_state_armenia.5.a: "Dobré" # todo: NEW TRANSLATION
+ union_state_armenia.6.t: "Rusko odmítlo pomoci naší loutce" # todo: NEW TRANSLATION
+ union_state_armenia.6.d: "Rusko odmítlo naši žádost o pomoc při naší loutce, považujíc to za náš problém, protože to jsme my, kdo tento převrat zorganizoval." # todo: NEW TRANSLATION
+ union_state_armenia.6.a: "Smutný" # todo: NEW TRANSLATION
+ union_state_armenia.7.t: "Arménie žádá Itálii o pomoc" # todo: NEW TRANSLATION
+ union_state_armenia.7.d: "Arménská vláda nedávno převzala moc v Itálii, což vyvolalo tam občanskou válku. Nyní Arménie žádá, abychom Itálii pomohli chránit její nezávislost." # todo: NEW TRANSLATION
+ union_state_armenia.7.a: "Odeslat GRU" # todo: NEW TRANSLATION
+ union_state_armenia.7.b: "Odeslat PMC Wagner" # todo: NEW TRANSLATION
+ union_state_armenia.7.c: "Odeslat GRU a PMC Wagner" # todo: NEW TRANSLATION
+ union_state_armenia.7.f: "Neposíláme nikoho." # todo: NEW TRANSLATION
+ union_state_armenia.8.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
+ union_state_armenia.8.d: "Ruská vláda navrhuje, abychom provedli společný protiseparatistický zátah v ruském Kavkaze proti radikálům nakloněným k separatismu v těchto republikách. Budeme poskytovat pomoc Rusku a zvýšíme naši politickou váhu ve Společném státě." # todo: NEW TRANSLATION
+ union_state_armenia.8.a: "Souhlasíme" # todo: NEW TRANSLATION
+ union_state_armenia.8.b: "Nesouhlasíme" # todo: NEW TRANSLATION
+ union_state_armenia.9.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
+ union_state_armenia.9.d: "Arménská vláda souhlasila s provedením společné protiseparatistické operace v Kavkazu s našimi zvláštními službami." # todo: NEW TRANSLATION
+ union_state_armenia.9.a: "Dobré" # todo: NEW TRANSLATION
+ union_state_armenia.10.t: "Společná protiseparatistická operace v Kavkazu" # todo: NEW TRANSLATION
+ union_state_armenia.10.d: "Arménská vláda odmítla provést společnou protiseparatistickou operaci v Kavkazu s našimi zvláštními službami." # todo: NEW TRANSLATION
+ union_state_armenia.10.a: "Smutný" # todo: NEW TRANSLATION
+ union_state_armenia.12.t: "Zpravodajské služby Unie Arménie a Ruska" # todo: NEW TRANSLATION
+ union_state_armenia.12.d: "Spolupráce v rámci Společného státu mezi Arménií a Ruskem nadále roste. Byla podepsána dohoda o vzniku jediné koordinační agentury mezi našimi zvláštními službami pro lepší spolupráci vnitřních a externích operací." # todo: NEW TRANSLATION
+ union_state_armenia.12.a: "Dobré" # todo: NEW TRANSLATION
+ union_state_news.1.t: "Rusko a Bělorusko vytvořily Společný stát" # todo: NEW TRANSLATION
+ union_state_news.1.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Během těchto let se obě země vyvíjely různými tempy směrem k vytvoření tohoto sdružení a jsou konečně připraveny oznámit vznik nového subjektu mezinárodních vztahů - Společného státu Ruska a Běloruska." # todo: NEW TRANSLATION
+ union_state_news.1.a: "Zajímavé" # todo: NEW TRANSLATION
+ union_state_news.2.t: "Rusko a Srbsko vytvořily Společný stát" # todo: NEW TRANSLATION
+ union_state_news.2.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. V 90. letech SRB země podala žádost o členství ve Společném státě, ale Ruská Státní duma návrh odmítla. Nyní srbská vláda dokázala tento projekt realizovat a vytvořit Společný stát Ruska a Srbska." # todo: NEW TRANSLATION
+ union_state_news.2.a: "Zajímavé" # todo: NEW TRANSLATION
+ union_state_news.3.t: "Rusko a Ukrajina vytvořily Společný stát" # todo: NEW TRANSLATION
+ union_state_news.3.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Ukrajina nikdy na počátku neusilovala o stát se součástí této entity, ale mnozí předpověděli její členství ve Společném státě, a možná nebyli na omylu. Nyní existuje Společný stát Ruska a Ukrajiny na světové politické mapě." # todo: NEW TRANSLATION
+ union_state_news.3.a: "Zajímavé" # todo: NEW TRANSLATION
+ union_state_news.4.t: "Rusko a Arménie vytvořily Společný stát" # todo: NEW TRANSLATION
+ union_state_news.4.d: "Projekt Společného státu existuje od konce 90. let, zahrnuje vytvoření nadnárodní entity mezi Ruskem a Běloruskem. Arménie sice zpočátku neusilovala o členství v této entitě, ale mnozí předpověděli její členství ve Společném státě, a třeba nebylo marné. Nyní existuje Společný stát Ruska a Arménie na politické mapě světa." # todo: NEW TRANSLATION
+ union_state_news.4.a: "Zajímavé" # todo: NEW TRANSLATION
+ union_state_news.5.t: "Vojenská operace „Ropný hřeben“" # todo: CHANGED
+ union_state_news.5.d: "Rusko a Arménie, v rámci Společného státu, oznámily zahájení vojenské operace na území Ázerbájdžánu s cílem odstranit hrozbu pro Společný stát a případně snížit vliv nepřátelských politických sil v Kavkazu." # todo: NEW TRANSLATION
+ union_state_news.5.a: "Zajímavé" # todo: NEW TRANSLATION

@@ -1,63 +1,65 @@
 ﻿l_english:
-  RESEARCH_HEADER_TEXT_TITLE: "§HVÝZKUMNÝ SLOT§!" # todo: NEW TRANSLATION
-  OPEN_RESEARCH_SLOT_TITLE: "Obrazovka otevření výzkumného slotu" # todo: NEW TRANSLATION
-  OPEN_RESEARCH_SLOT_DESC: "Otevře obrazovku výzkumného slotu, kde můžeme vylepšit naše laboratorní vybavení a získat přístup k dalším §Yvýzkumným slotům§!" # todo: NEW TRANSLATION
-  research_education_cost_desc_tt: "£education_budget_cost_factor_texticon  Naše §Gvýdaje na vzdělání§! jsou upraveny o §Y[?research_slot_modifier|.0%]§! kvůli počtu našich §1výzkumných slotů§!. Nárůst výdajů na vzdělání z §1výzkumných slotů§! je §Y(0.04 * x) - 0.2§!, kde x je počet vašich §1výzkumných slotů§!." # todo: NEW TRANSLATION
-  gdp_slot_gain_industry_size_title: "§YRozšířit§! laboratoře" # todo: NEW TRANSLATION
-  gdp_slot_gain_industry_size_desc: "£ai_research_texticon §YVýzkumné sloty podle velikosti průmyslu§!: [?research_slots_from_gdp|C.0] (Požadované HDP: $[?GLOBAL.gdp_slot^research_slots_from_gdp|Y0] b)\n\n§YPožadavky:§!\n[!gdp_slot_gain_industry_size_click_enabled]\n§YEfekty:§!\n[!gdp_slot_gain_industry_size_click]" # todo: NEW TRANSLATION
-  gdp_slot_gain_developmental_size_title: "§YVylepšit§! laboratorní vybavení" # todo: NEW TRANSLATION
-  gdp_slot_gain_developmental_size_desc: "£ai_research_texticon §YVýzkumné sloty podle úrovně rozvoje§!: [?research_slots_from_gdp_c|C.0] (Požadované HDP na obyvatele: $[?GLOBAL.gdp_c_slot^research_slots_from_gdp_c|Y0] k)\n\n§YPožadavky:§!\n[!gdp_slot_gain_developmental_size_click_enabled]\n§YEfekty:§!\n[!gdp_slot_gain_developmental_size_click]" # todo: NEW TRANSLATION
-  once_the_decision_completes_rs_tt: "Po dokončení rozhodnutí získáme následující efekty:\n" # todo: NEW TRANSLATION
-  gdp_gain_dev_size_flag_tt: "Laboratoře nebyly nedávno vylepšeny (zbývá dní: [?gdp_gain_developmental_size_flag:days_left|0Y])" # todo: NEW TRANSLATION
-  gdp_gain_industry_size_flag_tt: "Laboratorní vybavení nebylo nedávno vylepšeno (zbývá dní: [?gdp_gain_industry_slot_flag:days_left|0Y])" # todo: NEW TRANSLATION
-  rs_gdp_industry_size_header_tt: "£repair_civ_factory_texticon §YVelikost průmyslu§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_1_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^1]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_2_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^2]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_3_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^3]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_4_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^4]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_5_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^5]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_6_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^6]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_7_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^7]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_8_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^8]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_9_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^9]b§!" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_1_tt: "[gdp_slot_1_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_2_tt: "[gdp_slot_2_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_3_tt: "[gdp_slot_3_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_4_tt: "[gdp_slot_4_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_5_tt: "[gdp_slot_5_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_6_tt: "[gdp_slot_6_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_7_tt: "[gdp_slot_7_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_8_tt: "[gdp_slot_8_status]" # todo: NEW TRANSLATION
-  research_slot_gdp_amount_unlocked_9_tt: "[gdp_slot_9_status]" # todo: NEW TRANSLATION
-  rs_development_level_gdpc_header_tt: "£efficiency_growth_texticon §YÚroveň rozvoje§!" # todo: NEW TRANSLATION
-  research_slot_development_level_1_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^1]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_2_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^2]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_3_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^3]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_4_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^4]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_5_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^5]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_6_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^6]k§!" # todo: NEW TRANSLATION
-  research_slot_development_level_status_1_tt: "[gdp_c_slot_1_status]" # todo: NEW TRANSLATION
-  research_slot_development_level_status_2_tt: "[gdp_c_slot_2_status]" # todo: NEW TRANSLATION
-  research_slot_development_level_status_3_tt: "[gdp_c_slot_3_status]" # todo: NEW TRANSLATION
-  research_slot_development_level_status_4_tt: "[gdp_c_slot_4_status]" # todo: NEW TRANSLATION
-  research_slot_development_level_status_5_tt: "[gdp_c_slot_5_status]" # todo: NEW TRANSLATION
-  research_slot_development_level_status_6_tt: "[gdp_c_slot_6_status]" # todo: NEW TRANSLATION
-  research_slots_decisions: "Výzkumné sloty" # todo: NEW TRANSLATION
-  research_slots_decisions_desc: "" # todo: NEW TRANSLATION
-  gdp_gain_slot: "§YRozšířit§! laboratoře" # todo: NEW TRANSLATION
-  gdp_gain_slot.tt: "HDP ($$[?gdp_total|Y] b) > $$[?GLOBAL.gdp_slot^next_slot_from_gdp|Y0] b" # todo: NEW TRANSLATION
-  gdp_c_gain_slot: "§YVylepšit§! laboratorní vybavení" # todo: NEW TRANSLATION
-  gdp_c_gain_slot.tt: "HDP na obyvatele ($$[?gdp_per_capita|Y] k) > $$[?GLOBAL.gdp_c_slot^next_slot_from_gdp_c|Y0] k" # todo: NEW TRANSLATION
-  calculate_new_education_spending_tt: "Po získání nového výzkumného slotu bude náš nový nárůst výdajů na vzdělání: [?research_slot_tot|%0R].\n" # todo: NEW TRANSLATION
-  gdp_remove_slot: "§RUzavřít§! laboratoře" # todo: NEW TRANSLATION
-  gdp_remove_slot.tt: "" # todo: NEW TRANSLATION
-  gdp_c_remove_slot: "§RSnížit§! laboratorní vybavení" # todo: NEW TRANSLATION
-  gdp_c_remove_slot.tt: "" # todo: NEW TRANSLATION
-  gdp_lose_slot: "Laboratoře nedostatečně obsazené" # todo: NEW TRANSLATION
-  gdp_lose_slot.tt: "HDP ($$[?gdp_total|Y] b) > $$[?GLOBAL.gdp_slot^research_slots_from_gdp|Y0] b" # todo: NEW TRANSLATION
-  gdp_c_lose_slot: "Nedostatek laboratorního vybavení" # todo: NEW TRANSLATION
-  gdp_c_lose_slot.tt: "HDP na obyvatele ($$[?gdp_per_capita|Y] k) > $$[?GLOBAL.gdp_c_slot^research_slots_from_gdp_c|Y0] k" # todo: NEW TRANSLATION
-  research_slot_locked: "§RZAMČENO§!" # todo: NEW TRANSLATION
-  research_slot_available: "§YDOSTUPNÉ§!" # todo: NEW TRANSLATION
-  research_slot_in_progress: "§CPROBÍHÁ§!" # todo: NEW TRANSLATION
-  research_slot_unlocked: "§GODEMČENO§!" # todo: NEW TRANSLATION
+ RESEARCH_HEADER_TEXT_TITLE: "§HVÝZKUMNÉ SLOTY§!" # todo: CHANGED
+ OPEN_RESEARCH_SLOT_TITLE: "Otevřít rozhraní §Yvýzkumných slotů§!" # todo: CHANGED
+ OPEN_RESEARCH_SLOT_DESC: "Otevře obrazovku §YVýzkumné sloty§!, kde můžeme vylepšit naše laboratorní vybavení a získat tak další §Yvýzkumné sloty§! pro podporu našeho národního výzkumného úsilí." # todo: CHANGED
+ research_education_cost_desc_tt: "£education_budget_cost_factor_texticon  Naše §Gvýdaje na vzdělání§! jsou upraveny o §Y[?research_slot_modifier|.0%]§! kvůli počtu našich §1výzkumných slotů§!. Nárůst výdajů na vzdělání z §1výzkumných slotů§! je §Y(0.04 * x) - 0.2§!, kde x je počet vašich §1výzkumných slotů§!." # todo: NEW TRANSLATION
+ gdp_slot_gain_industry_size_title: "§YRozšířit§! laboratoře" # todo: NEW TRANSLATION
+ gdp_slot_gain_industry_size_desc: "£ai_research_texticon §YVýzkumné sloty z velikosti průmyslu§!: [?research_slots_from_gdp|C.0] (Požadované HDP: $[?GLOBAL.gdp_slot^next_slot_from_gdp|Y0] mld.)\n\n§YPožadavky:§!\n[!gdp_slot_gain_industry_size_click_enabled]\n§YÚčinky:§!\n[!gdp_slot_gain_industry_size_click]" # todo: CHANGED
+ gdp_slot_gain_developmental_size_title: "§YVylepšit§! laboratorní vybavení" # todo: NEW TRANSLATION
+ gdp_slot_gain_developmental_size_desc: "£ai_research_texticon §YVýzkumné sloty z úrovně rozvoje§!: [?research_slots_from_gdp_c|C.0] (Požadované HDP na obyvatele: $[?GLOBAL.gdp_c_slot^next_slot_from_gdp_c|Y0] tis.)\n\n§YPožadavky:§!\n[!gdp_slot_gain_developmental_size_click_enabled]\n§YÚčinky:§!\n[!gdp_slot_gain_developmental_size_click]" # todo: CHANGED
+ once_the_decision_completes_rs_tt: "Po dokončení rozhodnutí získáme následující efekty:\n" # todo: NEW TRANSLATION
+ gdp_gain_dev_size_flag_tt: "Laboratoře nebyly nedávno vylepšeny (zbývá dní: [?gdp_gain_developmental_size_flag:days_left|0Y])" # todo: NEW TRANSLATION
+ gdp_gain_industry_size_flag_tt: "Laboratorní vybavení nebylo nedávno vylepšeno (zbývá dní: [?gdp_gain_industry_slot_flag:days_left|0Y])" # todo: NEW TRANSLATION
+ gdp_gain_slot_to_complete_tt: "Dnů do dalšího §Yvýzkumného slotu§! [?gdp_gain_industry_slot:days_left|0] z HDP" # todo: NEW TRANSLATION
+ gdp_c_gain_slot_to_complete_tt: "Dnů do dalšího §Yvýzkumného slotu§! [?gdp_c_gain_industry_slot:days_left|0] z HDP/c" # todo: NEW TRANSLATION
+ rs_gdp_industry_size_header_tt: "£repair_civ_factory_texticon §YVelikost průmyslu§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_1_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^1]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_2_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^2]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_3_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^3]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_4_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^4]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_5_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^5]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_6_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^6]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_7_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^7]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_8_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^8]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_9_tt: "£gdp_capita_cost_factor_texticon HDP §Y$$[?GLOBAL.gdp_slot^9]b§!" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_1_tt: "[gdp_slot_1_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_2_tt: "[gdp_slot_2_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_3_tt: "[gdp_slot_3_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_4_tt: "[gdp_slot_4_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_5_tt: "[gdp_slot_5_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_6_tt: "[gdp_slot_6_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_7_tt: "[gdp_slot_7_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_8_tt: "[gdp_slot_8_status]" # todo: NEW TRANSLATION
+ research_slot_gdp_amount_unlocked_9_tt: "[gdp_slot_9_status]" # todo: NEW TRANSLATION
+ rs_development_level_gdpc_header_tt: "£efficiency_growth_texticon §YÚroveň rozvoje§!" # todo: NEW TRANSLATION
+ research_slot_development_level_1_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^1]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_2_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^2]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_3_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^3]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_4_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^4]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_5_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^5]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_6_tt: "£gdp_capita_cost_factor_texticon HDP na obyvatele §Y$$[?GLOBAL.gdp_c_slot^6]k§!" # todo: NEW TRANSLATION
+ research_slot_development_level_status_1_tt: "[gdp_c_slot_1_status]" # todo: NEW TRANSLATION
+ research_slot_development_level_status_2_tt: "[gdp_c_slot_2_status]" # todo: NEW TRANSLATION
+ research_slot_development_level_status_3_tt: "[gdp_c_slot_3_status]" # todo: NEW TRANSLATION
+ research_slot_development_level_status_4_tt: "[gdp_c_slot_4_status]" # todo: NEW TRANSLATION
+ research_slot_development_level_status_5_tt: "[gdp_c_slot_5_status]" # todo: NEW TRANSLATION
+ research_slot_development_level_status_6_tt: "[gdp_c_slot_6_status]" # todo: NEW TRANSLATION
+ research_slots_decisions: "Výzkumné sloty" # todo: NEW TRANSLATION
+ research_slots_decisions_desc: "" # todo: NEW TRANSLATION
+ gdp_gain_slot: "§YRozšířit§! laboratoře" # todo: NEW TRANSLATION
+ gdp_gain_slot.tt: "HDP ($$[?gdp_total|Y] b) > $$[?GLOBAL.gdp_slot^next_slot_from_gdp|Y0] b" # todo: NEW TRANSLATION
+ gdp_c_gain_slot: "§YVylepšit§! laboratorní vybavení" # todo: NEW TRANSLATION
+ gdp_c_gain_slot.tt: "HDP na obyvatele ($$[?gdp_per_capita|Y] k) > $$[?GLOBAL.gdp_c_slot^next_slot_from_gdp_c|Y0] k" # todo: NEW TRANSLATION
+ calculate_new_education_spending_tt: "Po získání nového výzkumného slotu bude náš nový nárůst výdajů na vzdělání: [?research_slot_tot|%0R].\n" # todo: NEW TRANSLATION
+ gdp_remove_slot: "§RUzavřít§! laboratoře" # todo: NEW TRANSLATION
+ gdp_remove_slot.tt: "" # todo: NEW TRANSLATION
+ gdp_c_remove_slot: "§RSnížit§! laboratorní vybavení" # todo: NEW TRANSLATION
+ gdp_c_remove_slot.tt: "" # todo: NEW TRANSLATION
+ gdp_lose_slot: "Laboratoře nedostatečně obsazené" # todo: NEW TRANSLATION
+ gdp_lose_slot.tt: "HDP ($$[?gdp_total|Y] b) > $$[?GLOBAL.gdp_slot^research_slots_from_gdp|Y0] b" # todo: NEW TRANSLATION
+ gdp_c_lose_slot: "Nedostatek laboratorního vybavení" # todo: NEW TRANSLATION
+ gdp_c_lose_slot.tt: "HDP na obyvatele ($$[?gdp_per_capita|Y] k) > $$[?GLOBAL.gdp_c_slot^research_slots_from_gdp_c|Y0] k" # todo: NEW TRANSLATION
+ research_slot_locked: "§RZAMČENO§!" # todo: NEW TRANSLATION
+ research_slot_available: "§YDOSTUPNÉ§!" # todo: NEW TRANSLATION
+ research_slot_in_progress: "§CPROBÍHÁ§!" # todo: NEW TRANSLATION
+ research_slot_unlocked: "§GODEMČENO§!" # todo: NEW TRANSLATION

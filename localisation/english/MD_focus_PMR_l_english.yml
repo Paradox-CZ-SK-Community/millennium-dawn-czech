@@ -1,779 +1,695 @@
 ﻿l_english:
-  PMR_focus: "Transnistrie Zaměřovací strom" # todo: NEW TRANSLATION
-  PMR_russia_moldovian_way: "Nejvyšší rada" # todo: NEW TRANSLATION
-  PMR_russia_moldovian_way_desc: "Nejvyšší rada Pridněstrovské Moldavské republiky je podle Ústavy Pridněstrovské Moldavské republiky reprezentativním a jedinným zákonodárným orgánem státní moci neuznané Pridněstrovské Moldavské republiky." # todo: NEW TRANSLATION
-  PMR_moldova_refendum: "Uspořádat referendum o vstupu [MLV.GetFlag]§YMoldova§!" # todo: NEW TRANSLATION
-  PMR_russia_refendum: "Uspořádat referendum o vstupu [SOV.GetFlag]§YRussia§!" # todo: NEW TRANSLATION
-  PMR_annex_gagauzia: "Integrace §Y[GGZ.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_annex_odessa: "Integrace §Y[OPR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_smirnov_era: "Éra Smirnova" # todo: NEW TRANSLATION
-  PMR_smirnov_era_desc: "Igor Smirnov. Skutečná ikona naší velké země. Slouží vlasti, která nám je určena osudem. Věříme, že nás povede k nádherné budoucnosti, kterou si zasloužíme. Tento hrdina je důvodem, proč jsme tu. Smirnov je lepidlo, které nás drží pohromadě a soustřeďuje nás na jeden cíl. Bez něj by tato země nikdy nevznikla. Jsme poslední skutečnou komunistickou baštou SSSR." # todo: NEW TRANSLATION
-  PMR_father_of_the_nation: "Otec národa" # todo: NEW TRANSLATION
-  PMR_father_of_the_nation_desc: "Igor Smirnov je jistě ten, kdo stvořil náš národ; díky němu náš lid existuje. Byl to on, kdo nás vedl v době boje za nezávislost." # todo: NEW TRANSLATION
-  PMR_denomination: "Provést denominaci" # todo: NEW TRANSLATION
-  PMR_denomination_desc: "Naše měna vzrostla do tak astronomických čísel, že je fyzicky nemožné, aby naši občané nakoupili dostatek zboží, a proto provedeme naléhavou denominaci." # todo: NEW TRANSLATION
-  PMR_privatization: "Privatizace" # todo: NEW TRANSLATION
-  PMR_privatization_desc: "Budeme provádět privatizaci podniků, žádná totální státní kontrola." # todo: NEW TRANSLATION
-  PMR_internet: "Rozvoj internetu" # todo: NEW TRANSLATION
-  PMR_internet_desc: "Zahájíme rozvoj internetových sítí v naší zemi, avšak je nutné okamžitě upevnit právo na cenzuru v této oblasti." # todo: NEW TRANSLATION
-  PMR_interrao: "Inter Rao" # todo: NEW TRANSLATION
-  PMR_interrao_desc: "Ruská společnost Inter Rao chce koupit naši vodní elektrárnu a investovat do ní značné prostředky za účelem modernizace technických komponent." # todo: NEW TRANSLATION
-  PMR_railway: "Obnovení infrastruktury" # todo: NEW TRANSLATION
-  PMR_railway_desc: "Následky války s Moldavskem se dosud projevují. Naše infrastruktura dosud nebyla obnovena, je čas ji opravit." # todo: NEW TRANSLATION
-  PMR_anti_opposition: "Potlačit opozici" # todo: NEW TRANSLATION
-  PMR_anti_opposition_desc: "Opoziční aktivita v naší zemi bude aktivně potlačována, možná ne tak otevřeně jako v jiných zemích, ale nedovolíme, aby naše země byla otřesena." # todo: NEW TRANSLATION
-  PMR_media: "Cenzura v televizi" # todo: NEW TRANSLATION
-  PMR_media_desc: "Měli bychom převzít kontrolu nad televizí; nedovolíme, aby tam mluvily opoziční figury." # todo: NEW TRANSLATION
-  PMR_imprison: "Represi proti agresivním opozičníkům" # todo: NEW TRANSLATION
-  PMR_imprison_desc: "Někteří opozičníci jsou doslova připraveni hodit na nás Molotovovy koktejly; pošleme je do vězení." # todo: NEW TRANSLATION
-  PMR_sheriff_based: "Podpořit vliv šerifa" # todo: NEW TRANSLATION
-  PMR_sheriff_based_desc: "Máme v úmyslu zachovat a udržet vliv šerifa, který drží naši republiku, navzdory negativním důsledkům jeho monopolů." # todo: NEW TRANSLATION
-  PMR_dictatorship: "Transnistrijská diktatura" # todo: NEW TRANSLATION
-  PMR_dictatorship_desc: "Budou nás nazývat diktátory a náš režim bude diktaturou, ale náš lid bude klidně spát." # todo: NEW TRANSLATION
-  PMR_anti_moldav_rhetoric: "Antimoldavská rétorika" # todo: NEW TRANSLATION
-  PMR_anti_moldav_rhetoric_desc: "Naše sjednocení s Moldavskem se nikdy nestane, nemáme v úmyslu to povolit a budeme to aktivně propagovat v médiích a dalšími prostředky ovlivňování populace." # todo: NEW TRANSLATION
-  PMR_referendums: "Referendum o postavení Transnistrie" # todo: NEW TRANSLATION
-  PMR_referendums_desc: "Máme v úmyslu uspořádat referendum o postavení Transnistrie, aby náš lid mohl konečně rozhodnout, jakou budoucnost chce vidět pro naši zemi." # todo: NEW TRANSLATION
-  PMR_shevchuk: "Druhý prezident Transnistrie" # todo: NEW TRANSLATION
-  PMR_shevchuk_desc: "Přišel čas na změny; nyní se stane novým prezidentem Transnistrie. Kdo povede naši zemi do jasné budoucnosti, nebo snad ne?" # todo: NEW TRANSLATION
-  PMR_anti_smirnov: "Politická kampaň proti Smirnovovi" # todo: NEW TRANSLATION
-  PMR_anti_smirnov_desc: "Igor Smirnov udělal hodně pro vznik Transnistrie jako nezávislého státu, avšak bohužel v posledních letech mu to stálo spíše stranou než pomohlo. Budeme bojovat proti jeho vlivu." # todo: NEW TRANSLATION
-  PMR_prepare_for_russia: "Příprava na integraci se Ruskem" # todo: NEW TRANSLATION
-  PMR_prepare_for_russia_desc: "Budeme nadále pokračovat v pro-ruském kurzu našeho předchůdce a vydáme dekret o přípravě na integraci naší legislativy s ruskou." # todo: NEW TRANSLATION
-  PMR_economist_from_russia: "Požádat Rusko o ekonomické specialisty" # todo: NEW TRANSLATION
-  PMR_economist_from_russia_desc: "Máme v úmyslu nabídnout ruské specialisty z centrální banky, kteří nám pomohou s reformou naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_agriculture_from_russia: "Ruská pomoc v zemědělském průmyslu" # todo: NEW TRANSLATION
-  PMR_agriculture_from_russia_desc: "Ruský agro-průmysl nám může výrazně pomoci v našem rozvoji; hodláme pozvat jejich specialisty do naší země." # todo: NEW TRANSLATION
-  PMR_against_sheriff: "Boj proti Sheriffovi" # todo: NEW TRANSLATION
-  PMR_against_sheriff_desc: "Budeme bojovat proti vlivu této holdingu a naše republika bude svobodná." # todo: NEW TRANSLATION
-  PMR_mlv: "Snažíme se navázat vztahy s Moldavskem" # todo: NEW TRANSLATION
-  PMR_mlv_desc: "Pokusíme se navázat vztahy s Moldavskem; možná budeme moci nabídnout způsoby integrace našich států." # todo: NEW TRANSLATION
-  PMR_krasno: "Vadim Krasnoselsky" # todo: NEW TRANSLATION
-  PMR_krasno_desc: "Vadim Nikolaevič Krasnoselsky je pridněstrijský státník, politik a postava vnitřních bezpečnostních složek. Předseda Nejvyšší rady Pridněstrovské Moldavské republiky, generálmajor milice." # todo: NEW TRANSLATION
-  PMR_military_reform: "Vojenská reforma" # todo: NEW TRANSLATION
-  PMR_military_reform_desc: "Naše armáda potřebuje vojenskou reformu; zdaleka zaostáváme za sousedy v technické a bojové výbavě." # todo: NEW TRANSLATION
-  PMR_russian_flag: "Ruská vlajka je druhou státní vlajkou" # todo: NEW TRANSLATION
-  PMR_russian_flag_desc: "Přijmeme ruskou vlajku jako druhou státní vlajku, aby bylo ihned jasné naše nejvyšší cíle: integrace do Ruska." # todo: NEW TRANSLATION
-  PMR_romanovs: "Uctívání Romanovců" # todo: NEW TRANSLATION
-  PMR_romanovs_desc: "Tragédie rodiny Romanovců je tragédií každého národa bývalého Ruského impéria a my uctíme jejich památku." # todo: NEW TRANSLATION
-  PMR_soc_ref: "Sociální reforma" # todo: NEW TRANSLATION
-  PMR_soc_ref_desc: "Naše nová sociální reforma bude zaměřena především na občany se zdravotním postižením a poskytneme jim všechno nezbytné pro plnou integraci do společnosti." # todo: NEW TRANSLATION
-  PMR_cis_2: "Partnerství se zeměmi CIS-2" # todo: NEW TRANSLATION
-  PMR_cis_2_desc: "Budeme nadále posilovat naše přátelské vztahy se zeměmi CIS-2; rozumí naší politické a ekonomické situaci jako málokdo jiný." # todo: NEW TRANSLATION
-  PMR_deccomus: "Zahájení dekomunizace" # todo: NEW TRANSLATION
-  PMR_deccomus_desc: "Budeme usilovat o navrácení měst a obcí k jejich pravým jménům, která měla v dobách Ruského impéria." # todo: NEW TRANSLATION
-  PMR_free_internet: "Svobodný internet" # todo: NEW TRANSLATION
-  PMR_free_internet_desc: "Internet by měl být bez cenzury; diktatura nebude určovat, co lidé myslí." # todo: NEW TRANSLATION
-  PMR_orthodoxy: "Podpora Pravoslavné církve" # todo: NEW TRANSLATION
-  PMR_orthodoxy_desc: "Budeme aktivně podporovat pravoslaví v naší zemi, protože je to naše duchovní kotva." # todo: NEW TRANSLATION
-  PMR_lgbt: "Boj za tradiční rodinu" # todo: NEW TRANSLATION
-  PMR_lgbt_desc: "Naše země nepotřebuje žádné LGBT hodnoty; jen rodinu ruského impéria, která je velká a přátelská." # todo: NEW TRANSLATION
-  PMR_arms: "Povolit volné nošení zbraní" # todo: NEW TRANSLATION
-  PMR_arms_desc: "Bandité mohou získat zbraně jakýmkoliv způsobem; proč občanům nedovolíme se bránit?" # todo: NEW TRANSLATION
-  PMR_continues: "Bez změny kurzu" # todo: NEW TRANSLATION
-  PMR_continues_desc: "Budeme nadále sledovat naši cestu a nezměníme ji. Transnistrie nepotřebuje radikální politické změny." # todo: NEW TRANSLATION
-  PMR_tourism: "Rozvoj cestovního ruchu" # todo: NEW TRANSLATION
-  PMR_tourism_desc: "Musíme začít rozvíjet sektor cestovního ruchu; naše oblast je atraktivní a turisté o ni určitě projeví zájem." # todo: NEW TRANSLATION
-  PMR_hate_mlv: "Kritika Moldavska" # todo: NEW TRANSLATION
-  PMR_hate_mlv_desc: "Mluvíme pevně a jasně – naše cesty se s Moldavskem dávno rozešly." # todo: NEW TRANSLATION
-  PMR_free_weapons: "Volné nošení zbraní" # todo: NEW TRANSLATION
-  PMR_anti_gays: "Politika proti LGBT" # todo: NEW TRANSLATION
-  PMR_exercises: "Cvičení s Ruskou armádou" # todo: NEW TRANSLATION
-  PMR_political_nation_idea: "Transnistrijská politická národnost" # todo: NEW TRANSLATION
-  PMR_political_nation_idea4: "Ruská politická národnost" # todo: NEW TRANSLATION
-  PMR_ruble_efffect_idea: "Integrace ruské legislativy" # todo: NEW TRANSLATION
-  PMR_internet_cencor: "Internetová cenzura" # todo: NEW TRANSLATION
-  PMR_father_nation_idea: "Otec národa" # todo: NEW TRANSLATION
-  PMR_civil_war: "Druhá občanská válka" # todo: NEW TRANSLATION
-  PMR_victory_moldova: "Vítězství v občanské válce" # todo: NEW TRANSLATION
-  PMR_develop_turism: "Turismus" # todo: NEW TRANSLATION
-  PMR_fragment_ussr: "Fragment SSSR" # todo: NEW TRANSLATION
-  PMR_fragment_ussr_desc: "Transnistrie se doslova stala ukázkou sovětské minulosti a bohužel to pravděpodobně nezmění brzy kvůli útrapám republiky" # todo: NEW TRANSLATION
-  PMR_highway_focus: "Dálnicové zaměření" # todo: NEW TRANSLATION
-  PMR_14_army: "Operativní skupina ruských jednotek" # todo: NEW TRANSLATION
-  PMR_14_army_desc: "Operativní skupina ruských jednotek v transnistrském regionu Moldavské republiky je sdružením ozbrojených sil Ruské federace, rozmístěným na území neuznané Pridněstrovské Moldavské republiky, která existuje od roku 1995." # todo: NEW TRANSLATION
-  PMR_sheriff_pmc: "Vytvořit vlastní PMCs" # todo: NEW TRANSLATION
-  PMR_sheriff_pmc_desc: "Jsme připraveni vytvořit naše vlastní soukromé vojenské společnosti." # todo: NEW TRANSLATION
-  PMR_sheriff_state: "Stát je korporace" # todo: NEW TRANSLATION
-  PMR_sheriff_state_desc: "Dokončili jsme náš velký plán." # todo: NEW TRANSLATION
-  PMR_sheriff: "Republika Sheriff" # todo: NEW TRANSLATION
-  PMR_sheriff_desc: "Sheriff je holdingová společnost soukromých společností v neuznané Pridněstrovské Moldavské republice. Tento holding existuje od roku 1993 a postupně se stal největším daňovým plátcem v celém Transnistrii. Kromě toho majitelé holdingu aktivně ovlivňují politiku Transnistrie." # todo: NEW TRANSLATION
-  PMR_sheriff7: "Stát Sheriff" # todo: NEW TRANSLATION
-  PMR_sheriff7_desc: "Sheriff je holdingová společnost soukromých společností v neuznané Pridněstrovské Moldavské republice. Tento holding existuje od roku 1993 a postupně se stal největším daňovým plátcem v celém Transnistrii. Kromě toho majitelé holdingu aktivně ovlivňují politiku Transnistrie." # todo: NEW TRANSLATION
-  PMR_monarchism: "Monarchismus v Transnistrii" # todo: NEW TRANSLATION
-  PMR_monarchism_desc: "Transnistrie je považována za rezervu SSSR, avšak názory místních obyvatel se již dlouho změnily. SSSR je nyní spojován se zříceninami a chaosem; možná dědictví Ruského impéria je pro nás vhodnější?" # todo: NEW TRANSLATION
-  PMR_const: "Ústavní reforma" # todo: NEW TRANSLATION
-  PMR_const_desc: "Naše země hodlá radikálně změnit svůj systém; k tomu začneme s tím nejdůležitějším: reformou ústavy." # todo: NEW TRANSLATION
-  PMR_mon_const: "Ústavní monarchie" # todo: NEW TRANSLATION
-  PMR_mon_const_desc: "Reformy byly dokončeny a jsme připraveni oznámit, že Transnistrie je nyní ústavní monarchií." # todo: NEW TRANSLATION
-  PMR_opponents: "Boj proti opozici" # todo: NEW TRANSLATION
-  PMR_opponents_desc: "Opozice je zjevně nespokojena s novým systémem státu a protesty ještě více zintenzivnila; musíme s tím něco udělat." # todo: NEW TRANSLATION
-  PMR_church: "Církev je státní institucí" # todo: NEW TRANSLATION
-  PMR_church_desc: "Vrátíme se k praxi Ruského impéria a obnovíme dřívější postavení Církve." # todo: NEW TRANSLATION
-  PMR_not_soviet: "Nejsme fragment SSSR" # todo: NEW TRANSLATION
-  PMR_not_soviet_desc: "Transnistrie je součástí Ruského impéria a budeme tuto identitu aktivně rozvíjet. Být fragmentem SSSR je pro nás ostudou." # todo: NEW TRANSLATION
-  PMR_general: "Generál.Křesťanský.Monarchista" # todo: NEW TRANSLATION
-  PMR_general_desc: "Tohle jsou kvality, které náš vůdce má a které by měl mít každý ruský vlastenec." # todo: NEW TRANSLATION
-  PMR_drozdov: "Oživit Dobrovolnou armádu" # todo: NEW TRANSLATION
-  PMR_drozdov_desc: "Dobrovolná armáda byla vytvořena během Ruské občanské války. Bránila zájmy bílého hnutí a byla skutečnou armádou patriotů a obránců Ruska; obnovíme ji a povedeme ji pod naší vlajkou." # todo: NEW TRANSLATION
-  PMR_kornilov: "Oživit Kornilovský pluk" # todo: NEW TRANSLATION
-  PMR_kornilov_desc: "Uctíme padlé vojáky Kornilovského pluku a znovu jej zařadíme do řad naší armády." # todo: NEW TRANSLATION
-  PMR_revive: "Oživit Drozdovský pluk" # todo: NEW TRANSLATION
-  PMR_revive_desc: "Uctíme padlé vojáky Drozdovského pluku a znovu jej zařadíme do řad naší armády." # todo: NEW TRANSLATION
-  PMR_emperess_maria: "Úřad institucí císařovny Marie" # todo: NEW TRANSLATION
-  PMR_emperess_maria_desc: "Obnovíme tento úřad a bude se zabývat dostupnými sanatorii a nemocnicemi, čímž zlepšíme zdravotní péči našich občanů." # todo: NEW TRANSLATION
-  PMR_nationalized: "Nacionalizace" # todo: NEW TRANSLATION
-  PMR_nationalized_desc: "" # todo: NEW TRANSLATION
-  PMR_agri_sup: "Podpora agro-průmyslového sektoru" # todo: NEW TRANSLATION
-  PMR_agri_sup_desc: "" # todo: NEW TRANSLATION
-  PMR_lux_tax: "Luxusní daň" # todo: NEW TRANSLATION
-  PMR_lux_tax_desc: "Bohatí by měli platit více daní, protože naše pokladna není neomezená, ale spíše velmi malá." # todo: NEW TRANSLATION
-  PMR_monarchy_guard: "Císařská stráž" # todo: NEW TRANSLATION
-  PMR_monarchy_guard_desc: "Jaký monarch je bez své Stráže? Na území Svatého stolce bude zřízena Císařská stráž, která bude chránit stát a císaře." # todo: NEW TRANSLATION
-  PMR_dedd_sheriff: "Uvěznit šerifa" # todo: NEW TRANSLATION
-  PMR_dedd_sheriff_desc: "Je čas ukončit vliv této holdingové společnosti na naší republice, osvobodíme se!" # todo: NEW TRANSLATION
-  PMR_rule_romanov: "Panování Romanovců" # todo: NEW TRANSLATION
-  PMR_fragment_rus_empire: "Část Ruského impéria" # todo: NEW TRANSLATION
-  PMR_russian_legacy: "Ruské dědictví" # todo: NEW TRANSLATION
-  PMR_emperess_maria_idea: "Úřad institucí císařovny Marie" # todo: NEW TRANSLATION
-  PMR_royal_leib_guard_idea: "Leibova garda" # todo: NEW TRANSLATION
-  autonomy_moldovian_federation: "Subjekt Moldavské federace" # todo: NEW TRANSLATION
-  autonomy_moldovian_federation1: "Subjekt Moldavské federace" # todo: NEW TRANSLATION
-  transnistria.1.t: "Operace proběhla úspěšně" # todo: NEW TRANSLATION
-  transnistria.1.d: "Naše nedávná pašerácká operace byla zcela úspěšná, naši agenti obchodovali s požadovanými materiály, aniž by si toho všimli úřady země, ve které operovali." # todo: NEW TRANSLATION
-  transnistria.1.a: "Peníze jsou vše" # todo: NEW TRANSLATION
-  transnistria.2.t: "Operace neúspěšná" # todo: NEW TRANSLATION
-  transnistria.2.d: "Naše nedávná pašerácká operace byla naprostou pohromou; naši agenti byli zadrženi úřady země, ve které působili, a naše operace byly zcela prozrazeny." # todo: NEW TRANSLATION
-  transnistria.2.a: "Mise selhala, příště to zvládneme" # todo: NEW TRANSLATION
-  transnistria.3.t: "Operace úspěšná" # todo: NEW TRANSLATION
-  transnistria.3.d: "Naše nedávná pašerácká operace byla zcela úspěšná, naši agenti obchodovali s požadovanými materiály, aniž by si toho všimli úřady země, ve které operovali." # todo: NEW TRANSLATION
-  transnistria.3.a: "Peníze jsou vše" # todo: NEW TRANSLATION
-  transnistria.4.t: "Operace neúspěšná" # todo: NEW TRANSLATION
-  transnistria.4.d: "Naše nedávná pašerácká operace byla naprostou pohromou; naši agenti byli zadrženi úřady země, ve které působili, a naše operace byly zcela prozrazeny." # todo: NEW TRANSLATION
-  transnistria.4.a: "Mise selhala, příště to zvládneme" # todo: NEW TRANSLATION
-  transnistria.5.t: "Předčasné volby" # todo: NEW TRANSLATION
-  transnistria.5.d: "" # todo: NEW TRANSLATION
-  transnistria.5.a: "Yevgeny Shevchuk" # todo: NEW TRANSLATION
-  transnistria.5.b: "Igor Smirnov" # todo: NEW TRANSLATION
-  transnistria.5.c: "Anatoliy Kaminski" # todo: NEW TRANSLATION
-  transnistria.6.t: "Socha Lenina zmizí" # todo: NEW TRANSLATION
-  transnistria.6.d: "Socha ruského revolucionáře Vladimira Lenina zmizela z hlavního města Tiraspolu záhadně. Měli bychom začít pátrat po soše, nebo ji úplně opustit?" # todo: NEW TRANSLATION
-  transnistria.6.a: "Začít pátrání" # todo: NEW TRANSLATION
-  transnistria.6.b: "To je ztráta času" # todo: NEW TRANSLATION
-  transnistria.7.t: "Obnovení Vladimira Lenina" # todo: NEW TRANSLATION
-  transnistria.7.d: "Po pátrání se ukázalo, že hledání sochy bylo neúspěšné, prezident [PMR.GetLeader] byl nalezen mrtvý ve svém úřadu, a socha Vladimira Lenina byla nalezena na jeho místě a nyní se dívá na vedení naší velké země, jako to dělal během Ruské revoluce." # todo: NEW TRANSLATION
-  transnistria.7.a: "A Lenin je znovu mladý" # todo: NEW TRANSLATION
-  transnistria.8.t: "Budoucnost Transnistrie" # todo: NEW TRANSLATION
-  transnistria.8.d: "Po nedávném sjednocení Moldavska s Rumunskem je naše země nyní na nejkritičtějších bodech, kdy čelíme ještě větší síle, než kdy dřív. Pokud chceme, aby naše tradice přežily, musíme rozhodnout o budoucnosti naší země. Zpočátku velká část našeho obyvatelstva vyjádřila velkou podporu sjednocení s Ruskou federací, hlavně kvůli historickým a kulturním vazbám. Další návrh volá po sjednocení s naším sousedem Ukrajinou, říkajíc, že by to bylo lepší řešení hlavně proto, že Rusko nemá zemní spojení s Transnistrií a že také sdílíme mnoho podobností s ukrajinským lidem. Nakonec další návrh volá po udržení transnistrské nezávislosti a multikulturnosti a nezařazování naší země a hodnot do vlivu cizích mocností, což je to, co naše země bojovala bránit v Transnistrské válce z roku 1992. Země je rozdělena a jedna z možností by nás mohla ovlivnit buď k lepšímu, nebo horšímu." # todo: NEW TRANSLATION
-  transnistria.8.a: "Spojíme se s našimi ruskými bratry a sestrami!" # todo: NEW TRANSLATION
-  transnistria.8.b: "Spojíme se s našimi ukrajinskými bratry a sestrami!" # todo: NEW TRANSLATION
-  transnistria.8.c: "Udržíme si naši nezávislost!" # todo: NEW TRANSLATION
-  transnistria.9.t: "Transnistrie žádá o sjednocení" # todo: NEW TRANSLATION
-  transnistria.9.d: "Poté, co Moldavsko nedávno sjednotilo s Rumunskem, Transnistrie se bojí, že bude absorbována Rumunskem a požádala, aby se stala územím [ROOT.GetName]. Zatímco to je skvělá příležitost pro nás rozšířit vliv v regionu a ukázat naši vojenskou sílu, Transnistrie je stále nárokována Rumunskem a pokud bychom ji integrovali, mohli bychom být v rozporu s Rumunskem, proto musíme vybrat moudře." # todo: NEW TRANSLATION
-  transnistria.9.a: "Integrovat Transnistrii do [ROOT.GetName]" # todo: NEW TRANSLATION
-  transnistria.9.b: "Odmítnout nabídku Transnistrie" # todo: NEW TRANSLATION
-  transnistria.10.t: "[FROM.GetName] Přijímá" # todo: NEW TRANSLATION
-  transnistria.10.d: "Dnes [FROM.GetName] přijal náš požadavek na unifikaci a spolupracuje s naší správou na zajištění hladkého přechodu." # todo: NEW TRANSLATION
-  transnistria.10.a: "Pojďme se spojit se svými bratry a sestrami!" # todo: NEW TRANSLATION
-  transnistria.11.t: "[FROM.GetName] Odmítá" # todo: NEW TRANSLATION
-  transnistria.11.d: "Dnes [FROM.GetName] odmítl náš požadavek na integraci, a proto bude Transnistrie muset postupovat sama." # todo: NEW TRANSLATION
-  transnistria.11.a: "Promarněná šance" # todo: NEW TRANSLATION
-  transnistria.12.t: "[FROM.GetName] Přijímá" # todo: NEW TRANSLATION
-  transnistria.12.d: "Dnes [FROM.GetName] přijal náš požadavek na unifikaci a spolupracuje s naší správou na zajištění hladkého přechodu." # todo: NEW TRANSLATION
-  transnistria.12.a: "Pojďme se spojit se svými bratry a sestrami!" # todo: NEW TRANSLATION
-  transnistria.13.t: "Rozšíření dolů" # todo: NEW TRANSLATION
-  transnistria.13.d: "Naše doly byly modernizovány a získali jsme vynikající výstup surovin z naší skvělé země. Nyní je čas rozšířit naše těžařské operace. Najít železo pro výrobu oceli by mělo být relativně snadné a levné. Nebo se můžeme pokusit najít wolfram, i když ho nemusí být mnoho a nebude levný." # todo: NEW TRANSLATION
-  transnistria.13.a: "Postavte dva doly na železo pro výrobu oceli" # todo: NEW TRANSLATION
-  transnistria.13.b: "Postavte jeden wolframový důl pro výrobu technologických kovů" # todo: NEW TRANSLATION
-  transnistria.14.t: "Nové továrny" # todo: NEW TRANSLATION
-  transnistria.14.d: "Potřebujeme továrny, aby naše ekonomika mohla růst. Můžeme peníze použít na posílení naší armády. Měli bychom podpořit civilní nebo vojenský průmysl?" # todo: NEW TRANSLATION
-  transnistria.14.a: "Postavte civilní továrnu." # todo: NEW TRANSLATION
-  transnistria.14.b: "Postavte vojenskou továrnu." # todo: NEW TRANSLATION
-  transnistria.15.t: "Vylepšená ekonomika" # todo: NEW TRANSLATION
-  transnistria.15.d: "Ekonomika roste. Je čas rozhodnout, jakou budoucnost si přejeme. Můžeme dále růst ekonomiku a stát se regionální ekonomickou mocností, nebo využít současnou ekonomickou sílu k vybudování velké armády." # todo: NEW TRANSLATION
-  transnistria.15.a: "Civilní budoucnost je naše nejlepší volba." # todo: NEW TRANSLATION
-  transnistria.15.b: "Chceme vojenskou budoucnost." # todo: NEW TRANSLATION
-  transnistria.16.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
-  transnistria.16.d: "Transnistrie uspořádala další referendum o vstupu do naší země; lidé hlasovali jednomyslně pro 'ano'. Budeme-li splňovat jejich očekávání, nebo je odmítneme?" # todo: NEW TRANSLATION
-  transnistria.16.a: "Ano" # todo: NEW TRANSLATION
-  transnistria.16.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.17.t: "Transnistrie chce patřit zpět naší zemi" # todo: NEW TRANSLATION
-  transnistria.17.d: "Transnistrie uspořádala referendum o připojení, ačkoliv je správné spíše hovořit o návratu do Moldavska. Jeho výsledek byl kladný, a tak nyní můžeme konečně vyřešit transnistrský konflikt." # todo: NEW TRANSLATION
-  transnistria.17.a: "Transnistrie je naše" # todo: NEW TRANSLATION
-  transnistria.17.b: "Oni nepotřebujeme." # todo: NEW TRANSLATION
-  transnistria.18.t: "Vojenská doktrína Transnistrie" # todo: NEW TRANSLATION
-  transnistria.18.d: "Naše země je uprostřed dvou ohní, a naše vojenská doktrína by měla odrážet stav naší země. Koho budeme považovat za potenciálního protivníka?" # todo: NEW TRANSLATION
-  transnistria.18.a: "Rumunsko" # todo: NEW TRANSLATION
-  transnistria.18.b: "Ukrajina" # todo: NEW TRANSLATION
-  transnistria.19.t: "Transnistrie žádá, abychom jim poskytli Iskandery" # todo: NEW TRANSLATION
-  transnistria.19.d: "Vláda Transnistrie nám nabídla umístit Iskandery na jejím území, abychom zajistili ještě větší bezpečnost jejího území. Budeme souhlasit s takovým riskantním krokem?" # todo: NEW TRANSLATION
-  transnistria.19.a: "Ano" # todo: NEW TRANSLATION
-  transnistria.19.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.20.t: "Povstání v Oděse" # todo: NEW TRANSLATION
-  transnistria.20.d: "Ráno jsme obdrželi poměrně nečekanou a nepříjemnou zprávu: separatistické povstání se odehrálo v Oděse pod hesly nezávislosti určité Oděské republiky. Navíc stopy separatistů pocházejí přímo z Transnistrie." # todo: NEW TRANSLATION
-  transnistria.20.a: "Co to sakra?" # todo: NEW TRANSLATION
-  transnistria.21.t: "Lojalisté z Gagauzie" # todo: NEW TRANSLATION
-  transnistria.21.d: "Můžeme Moldávii ještě více oslabit tím, že se pokusíme vyvolat gagauzské povstání v republice se stejným názvem, ale bude nás to stát nějaké peníze, navíc nevíme jistě, zda budeme mít čas jim pomoci." # todo: NEW TRANSLATION
-  transnistria.21.a: "Vyvolat povstání" # todo: NEW TRANSLATION
-  transnistria.21.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.22.t: "Ukrajina nám předala Oděsu" # todo: NEW TRANSLATION
-  transnistria.22.d: "Ukrajinská vláda nezasáhla aktivně a nepřistoupila k konfrontaci s námi, což nás dokonce překvapilo." # todo: NEW TRANSLATION
-  transnistria.22.a: "Tohle... dobrá zpráva?" # todo: NEW TRANSLATION
-  transnistria.23.t: "Prezident Generál" # todo: NEW TRANSLATION
-  transnistria.23.d: "Náš prezident, který se rovněž prohlásil vrchním velitelem, převzal vedení ozbrojených sil, aby se v případě potřeby osobně zúčastnil vojenských operací naší země." # todo: NEW TRANSLATION
-  transnistria.23.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.24.t: "Integrace ruské legislativy" # todo: NEW TRANSLATION
-  transnistria.24.d: "Rozhodli jsme se integrovat ruskou legislativu do naší, nyní bude naše sloučení s Ruskem mnohem jednodušší... Pokud k tomu dojde, samozřejmě." # todo: NEW TRANSLATION
-  transnistria.24.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.25.t: "" # todo: NEW TRANSLATION
-  transnistria.25.d: "" # todo: NEW TRANSLATION
-  transnistria.25.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.26.t: "Referendum o připojení k Ukrajině" # todo: NEW TRANSLATION
-  transnistria.26.d: "Transnistrie uspořádala další referendum o připojení k naší zemi, lidé hlasovali jednoznačně 'ano'. Budeme vyhovět jejich očekáváním nebo je odmítneme?" # todo: NEW TRANSLATION
-  transnistria.26.a: "Ano" # todo: NEW TRANSLATION
-  transnistria.26.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.27.t: "Ukrajina nám předala Oděsu" # todo: NEW TRANSLATION
-  transnistria.27.d: "Ukrajinská vláda nezasáhla aktivně a nepřistoupila k konfrontaci s námi, což nás dokonce překvapilo." # todo: NEW TRANSLATION
-  transnistria.27.a: "Tohle... dobrá zpráva?" # todo: NEW TRANSLATION
-  transnistria.28.t: "Společné vojenské akce" # todo: NEW TRANSLATION
-  transnistria.28.d: "Oděská republika se okamžitě obrátila na nás s žádostí o vojenskou pomoc. Nyní mohou naše jednotky postupovat na území obou států." # todo: NEW TRANSLATION
-  transnistria.28.a: "Pěkné" # todo: NEW TRANSLATION
-  transnistria.29.t: "Referendum o postavení Transnístrie" # todo: NEW TRANSLATION
-  transnistria.29.d: "Uspořádali jsme referendum, ve kterém náš lid vyjádřil přání zůstat nezávislý, a my mu nechceme toto právo upřít! Transnístrie bude nadále usilovat o svou nezávislost." # todo: NEW TRANSLATION
-  transnistria.29.a: "Pěkné" # todo: NEW TRANSLATION
-  transnistria.30.t: "Pomoc od specialistů centrální banky" # todo: NEW TRANSLATION
-  transnistria.30.d: "Transnistrské úřady žádají naše specialisty z centrální banky, aby jim pomohli s reformou hospodářství; to bude vynikající příležitost pro zlepšení stavu hospodářství Transnístrie a posílení našeho vlivu v regionu." # todo: NEW TRANSLATION
-  transnistria.30.a: "Pomůžeme jim" # todo: NEW TRANSLATION
-  transnistria.30.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.31.t: "Ruští specialisté centrální banky" # todo: NEW TRANSLATION
-  transnistria.31.d: "Ruské úřady souhlasily s tím, že nám pomohou a pošlou specialisty z centrální banky, aby pomohli reformovat ekonomiku" # todo: NEW TRANSLATION
-  transnistria.31.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.32.t: "Ruští specialisté centrální banky" # todo: NEW TRANSLATION
-  transnistria.32.d: "Ruské úřady nám odmítly pomoci a neposlaly specialisty centrální banky, aby pomohli reformovat hospodářství." # todo: NEW TRANSLATION
-  transnistria.32.a: "Smutné" # todo: NEW TRANSLATION
-  transnistria.33.t: "Pomoc v zemědělském odvětví" # todo: NEW TRANSLATION
-  transnistria.33.d: "Vláda Transnístrie žádá o pomoc při rozvoji zemědělského odvětví prostřednictvím našich agro-průmyslových kampaní. Z této dohody nepochybně budeme těžit a zvýšit náš vliv v regionu." # todo: NEW TRANSLATION
-  transnistria.33.a: "Pomůžeme jim" # todo: NEW TRANSLATION
-  transnistria.33.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.34.t: "Ruští specialisté zemědělského průmyslu" # todo: NEW TRANSLATION
-  transnistria.34.d: "Ruské úřady souhlasily s tím, že nám pomohou a pošlou specialisty pro rozvoj našeho agro-průmyslu." # todo: NEW TRANSLATION
-  transnistria.34.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.35.t: "Ruští specialisté zemědělského průmyslu" # todo: NEW TRANSLATION
-  transnistria.35.d: "Ruské úřady odmítly nám pomoci a neposlaly odborníky k rozvoji našeho agro-průmyslu." # todo: NEW TRANSLATION
-  transnistria.35.a: "Smutné" # todo: NEW TRANSLATION
-  transnistria.36.t: "Transnístrie zve naše mírové jednotky" # todo: NEW TRANSLATION
-  transnistria.36.d: "Vlády Republiky Transnístrie zásadně změnily směr zahraniční politiky a nyní hodlají opustit patronát Ruska, již vyhnali své mírové jednotky a volají nás. Máme zasáhnout?" # todo: NEW TRANSLATION
-  transnistria.36.a: "Ano" # todo: NEW TRANSLATION
-  transnistria.36.b: "Ne" # todo: NEW TRANSLATION
-  transnistria.37.t: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
-  transnistria.37.d: "Ukrajinské orgány kladně reagovaly na naši žádost o jejich mírové jednotky v naší zemi; jejich jednotky okamžitě dorazí na naše území." # todo: NEW TRANSLATION
-  transnistria.37.a: "Dobré" # todo: NEW TRANSLATION
-  transnistria.38.t: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
-  transnistria.38.d: "Ukrajinské orgány reagovaly negativně na naši žádost o mírové jednotky v naší zemi; zdá se, že jsme prohráli vše." # todo: NEW TRANSLATION
-  transnistria.38.a: "Smutné" # todo: NEW TRANSLATION
-  transnistria.39.t: "Naše mírové jednotky v Transnístrii" # todo: NEW TRANSLATION
-  transnistria.39.d: "Vláda Transnístrie učinila pro nás neočekávaný krok a oznámila, že musíme okamžitě stáhnout naše mírové jednotky z Transnístrie. To ohrožuje náš vliv v tomto regionu." # todo: NEW TRANSLATION
-  transnistria.39.a: "Smutné" # todo: NEW TRANSLATION
-  transnistria.40.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
-  transnistria.40.d: "Ruská vláda nás oficiálně přijala do svých řad! Nyní jsme se všichni stali součástí velkého státu s velkým dědictvím znovu." # todo: NEW TRANSLATION
-  transnistria.40.a: "Hurá!" # todo: NEW TRANSLATION
-  transnistria.41.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
-  transnistria.41.d: "Ruská vláda nám odmítla umožnit vstup do svých řad. Jsme nesmírně smutní a doufáme, že v budoucnu své rozhodnutí změní." # todo: NEW TRANSLATION
-  transnistria.41.a: "Smutné" # todo: NEW TRANSLATION
-  transnistria.42.t: "Integrace Transnístrie" # todo: NEW TRANSLATION
-  transnistria.42.d: "Jsme připraveni konečně začlenit Transnístrii do naší země." # todo: NEW TRANSLATION
-  transnistria.42.a: "Konečně" # todo: NEW TRANSLATION
-  transnistria.43.t: "Děkujeme, že jste zvolili Transnístrii!" # todo: NEW TRANSLATION
-  transnistria.43.d: "Transnístrie byla před rokem aktualizována, ale rozhodl jsem se zcela aktualizovat stávající obsah, abych ještě více obohatil hratelnost pro tuto malou zemi! V tomto patche bude Rusko a Transnístrie mít větší spolupráci než dříve, ale to neznamená, že vaše cesta nutně povede k Rusku. Můžete zvolit obě strany - Moldavsko i Ukrajina! A pokud budete zcela lstiví, můžete vytvořit Transnístrskou říši! Transnístrie byla aktualizována v souladu s mými vlastními standardy obsahu, které jsem implementoval v ruské větvi, takže i ekonomická větev je velmi podobná ruské. Doufám, že si tento aktualizovaný obsah užijete a zahrajete si zajímavou hru za Transnístrii s přítelem nebo přáteli! - Lord Bogdanoff Vývojář Transnístrie a člen týmu pro přepracování Ruska" # todo: NEW TRANSLATION
-  transnistria.43.a: "Děkuji" # todo: NEW TRANSLATION
-  transnistria_news.1.t: "Transnístrie se stane součástí Ruska" # todo: NEW TRANSLATION
-  transnistria_news.1.d: "Vlády neuznané Pridnestrovské Moldavské republiky uspořádaly referendum o vstupu do Ruska, v němž většina hlasovala pro. Ruská vláda přijala výsledek referenda a oznámila začlenění Transnístrie do Ruska." # todo: NEW TRANSLATION
-  transnistria_news.1.a: "Zajímavé." # todo: NEW TRANSLATION
-  transnistria_news.2.t: "Transnístrie se stává součástí Ukrajiny" # todo: NEW TRANSLATION
-  transnistria_news.2.d: "Vlády neuznané Pridnestrovské Moldavské republiky uspořádaly referendum o vstupu do Ukrajiny, v němž většina hlasovala pro. Ukrajinská vláda přijala výsledek referenda a oznámila začlenění Transnístrie do Ukrajiny." # todo: NEW TRANSLATION
-  transnistria_news.2.a: "Zajímavé." # todo: NEW TRANSLATION
-  transnistria_news.3.t: "Transnístrie se stává součástí Moldavska" # todo: NEW TRANSLATION
-  transnistria_news.3.d: "Vlády neuznané Pridnestrovské Moldavské republiky uspořádaly referendum o připojení k Moldavsku, v němž většina hlasovala pro. Moldavská vláda přijala výsledek referenda a oznámila začlenění Transnístrie do Moldavska." # todo: NEW TRANSLATION
-  transnistria_news.3.a: "Zajímavé." # todo: NEW TRANSLATION
-  transnistria_news.4.t: "Transnístrie anektovala Moldavsko" # todo: NEW TRANSLATION
-  transnistria_news.4.d: "Nečekané zprávy přicházejí z Moldavska. Transnístrie, dříve součást tohoto státu, oznámila anexi Moldavska a obsazení jeho postavení jako pokračování moldavské státnosti." # todo: NEW TRANSLATION
-  transnistria_news.4.a: "Zajímavé." # todo: NEW TRANSLATION
-  PMR_general_monarchist_christian: "Generální monarchisticko-křesťanský" # todo: NEW TRANSLATION
-  PMR_sheriff_finish: "Šeriff dokončen" # todo: NEW TRANSLATION
-  PMR_commi: "Návrat komunismu" # todo: NEW TRANSLATION
-  PMR_commi_desc: "Komunismus se znovu vrátil do Transnístrie. Budou komunisti znovu vládnout zemi?" # todo: NEW TRANSLATION
-  PMR_single: "Jednostranná strana" # todo: NEW TRANSLATION
-  PMR_single_desc: "Komunistická strana Transnístrie zná nejlépe ve všech sférách, které se týkají státu. Pokud ostatní lidé ustoupí z cesty, můžeme se pustit do budování skutečné komunistické utopie a tentokrát uspějeme." # todo: NEW TRANSLATION
-  PMR_commi_ideology: "Ideologická práce" # todo: NEW TRANSLATION
-  PMR_commi_ideology_desc: "Je na čase vrátit ideologické metody sovětské éry vzdělávání a převést je do moderní podoby" # todo: NEW TRANSLATION
-  PMR_commi_promka: "Průmyslové oživení" # todo: NEW TRANSLATION
-  PMR_commi_promka_desc: "Průmysl Transnístrie pomalu odumírá, je na čase tento negativní trend obrátit" # todo: NEW TRANSLATION
-  PMR_collectivism: "Kolektivismus" # todo: NEW TRANSLATION
-  PMR_collectivism_desc: "Kolektivizace už jednou fungovala, takže ji zopakujeme." # todo: NEW TRANSLATION
-  PMR_pioneer: "Pionýr" # todo: NEW TRANSLATION
-  PMR_pioneer_desc: "Mladí lidé by neměli být nečinní, proto oživíme pionýrskou organizaci." # todo: NEW TRANSLATION
-  PMR_marxism: "Marxismus ve školách" # todo: NEW TRANSLATION
-  PMR_marxism_desc: "Učební osnovy budou nutně obsahovat Marxe." # todo: NEW TRANSLATION
-  PMR_education: "Zdarma vzdělání" # todo: NEW TRANSLATION
-  PMR_education_desc: "Vzdělání by mělo být zdarma a dostupné pro každého občana našeho slavného státu." # todo: NEW TRANSLATION
-  PMR_atheism: "Státní ateismus" # todo: NEW TRANSLATION
-  PMR_atheism_desc: "Náboženství je opium lidu, takže je čas bojovat s náboženstvím." # todo: NEW TRANSLATION
-  PMR_fixe: "První pětiletka" # todo: NEW TRANSLATION
-  PMR_fixe_desc: "Volné ekonomické modely západních států nejsou budoucností socialistického státu. Návrat k plánované ekonomice, nejlépe ve formě klasických sovětského stylu pětiletých plánů, zajistí vládě neomezený vliv na dříve nekontrolovanou ekonomiku." # todo: NEW TRANSLATION
-  PMR_workers: "Podpora pracujících" # todo: NEW TRANSLATION
-  PMR_workers_desc: "Dělnická třída je naší oporou a silou, a vždy ji budeme podporovat v boji proti kapitalistické nákaze!" # todo: NEW TRANSLATION
-  PMR_anti_nationalism: "Boj proti opozici" # todo: NEW TRANSLATION
-  PMR_anti_nationalism_desc: "Žádná milost pro ničivé prvky, které chtějí zdržet náš postup k komunismu!" # todo: NEW TRANSLATION
-  PMR_army_corruptions: "Zastavte prodej zbraní" # todo: NEW TRANSLATION
-  PMR_army_corruptions_desc: "Máme v úmyslu zastavit prodej zbraní ze skladů v Kolbasnaya a zastavit jejich distribuci na obou stranách." # todo: NEW TRANSLATION
-  PMR_clean_governments: "Vyčistěte vládu" # todo: NEW TRANSLATION
-  PMR_clean_governments_desc: "Všechny korupční a ničivé prvky budou vyhnány z naší vlády" # todo: NEW TRANSLATION
-  PMR_ded_sheriff: "Ukončit šerifův holding" # todo: NEW TRANSLATION
-  PMR_ded_sheriff_desc: "Šerifův holding nás drží pod svou kontrolou už příliš dlouho! Je načase to dokončit" # todo: NEW TRANSLATION
-  PMR_chinese_economic: "Čínské ekonomické zkušenosti" # todo: NEW TRANSLATION
-  PMR_chinese_economic_desc: "Přijmeme čínský ekonomický systém jako základ naší ekonomické politiky a podle našeho názoru vypadá slibně." # todo: NEW TRANSLATION
-  PMR_national_industry: "Domácí průmysl" # todo: NEW TRANSLATION
-  PMR_national_industry_desc: "Budeme podporovat náš průmysl a rozvíjet ho. Naše země potřebuje nové podniky, které nahradí ty, jež zanikly po zhroucení SSSR." # todo: NEW TRANSLATION
-  PMR_mobilise: "Mobilizovat masy" # todo: NEW TRANSLATION
-  PMR_mobilise_desc: "Naše armáda potřebuje lidi, kteří budou hájit zájmy naší země, kamkoliv to strana vyžaduje." # todo: NEW TRANSLATION
-  PMR_people_militia_desc: "Jsme připraveni přijmout zákon o vytvoření lidové milice, která bude jistým druhem rezervy pro teritoriální obranu. V každé vesnici by měla být vycvičená skupina lidí k odvrácení nepřítele, s následnou transformací do partyzánského hnutí." # todo: NEW TRANSLATION
-  PMR_revoult_spirit: "Revoluční duch" # todo: NEW TRANSLATION
-  PMR_revoult_spirit_desc: "Duch revoluce kráčí Transnistríí a my ho budeme nést dál." # todo: NEW TRANSLATION
-  PMR_interbrigade: "Mezinárodní brigáda" # todo: NEW TRANSLATION
-  PMR_interbrigade_desc: "Naši vojáci jsou připraveni podílet se na mezinárodní službě na ochranu trpících občanů jiných států." # todo: NEW TRANSLATION
-  PMR_anti_corrupt_company: "Boj proti korupci" # todo: NEW TRANSLATION
-  PMR_anti_corrupt_company_desc: "Korumpovaní úředníci nemají v Transnistrii místo!" # todo: NEW TRANSLATION
-  PMR_new_chinush: "Nová generace úředníků" # todo: NEW TRANSLATION
-  PMR_new_chinush_desc: "Vychováme novou generaci civilních úředníků, kteří budou věrní zemi a ne své kapse." # todo: NEW TRANSLATION
-  PMR_new_five: "Nový pětiletý plán" # todo: NEW TRANSLATION
-  PMR_new_five_desc: "Systém pětiletých plánů se během sovětské éry osvědčil; hodláme ho znovu využít." # todo: NEW TRANSLATION
-  PMR_red_army_pmr: "Rudá armáda Transnistrie" # todo: NEW TRANSLATION
-  PMR_red_army_pmr_desc: "Náš stát potřebuje silnou armádu a nejsilnější armádou je Rudá Jednička!" # todo: NEW TRANSLATION
-  PMR_red_moldova: "Návrat Moldavské SSR" # todo: NEW TRANSLATION
-  PMR_red_moldova_desc: "Moldavští občané dlouho trpěli pod jhem západních vlád a jejich podřízených, kteří Moldavii učinili jednou z nejchudších zemí Evropy i světa, je čas je osvobodit od kapitalistického útlaku." # todo: NEW TRANSLATION
-  PMR_new_trans: "Nová éra Transnistrie" # todo: NEW TRANSLATION
-  PMR_new_trans_desc: "" # todo: NEW TRANSLATION
-  PMR_chinese_economic_tt: "[CHI.GetFlag] Čínský §HNásobič vlivu§!: §R+15%§!" # todo: NEW TRANSLATION
-  PMR_five_year_plans_idea: "Pětiletý plán" # todo: NEW TRANSLATION
-  PMR_the_rights_of_the_worker_idea: "Rozšířená práva pracovníků" # todo: NEW TRANSLATION
-  PMR_commi_education_idea: "Komunistické vzdělávání" # todo: NEW TRANSLATION
-  PMR_control_economic_idea: "Řízená ekonomika" # todo: NEW TRANSLATION
-  PMR_collectivism_idea: "Kolektivismus" # todo: NEW TRANSLATION
-  PMR_marxist_reeducation_idea: "Marxismus ve vzdělávání" # todo: NEW TRANSLATION
-  PMR_people_militia: "Lidová milice" # todo: NEW TRANSLATION
-  PMR_revoult_spirits_idea: "Revoluční duch" # todo: NEW TRANSLATION
-  PMR_interbrigade_idea: "Mezinárodní brigáda" # todo: NEW TRANSLATION
-  PMR_anti_corruption_fight: "Antikorupční politika" # todo: NEW TRANSLATION
-  PMR_just: "Republikánská Transnistrie" # todo: NEW TRANSLATION
-  PMR_just_desc: "Naše strana bude šířit myšlenky socialismu a patriotismu masám. Transnistrie byla a bude nezávislá!" # todo: NEW TRANSLATION
-  PMR_patriotism: "Transnistrijská národní garda" # todo: NEW TRANSLATION
-  PMR_patriotism_desc: "Na základě příkladů jiných zemí hodláme vytvořit naši vlastní národní gardu, která bude naším záložním nástrojem v případě vzbouřených nálad v jiných ozbrojených silách." # todo: NEW TRANSLATION
-  PMR_small_business_support: "Rychlý rozvoj vědy" # todo: NEW TRANSLATION
-  PMR_small_business_support_desc: "Věda byla vždy motor pokroku a my budeme podporovat naše vědce, bez ohledu na to, kolik jich je." # todo: NEW TRANSLATION
-  PMR_infra: "Investice do infrastruktury" # todo: NEW TRANSLATION
-  PMR_infra_desc: "Naši obyvatelé by měli jezdit po běžných silnicích, ne po minových polích." # todo: NEW TRANSLATION
-  PMR_roskosh: "Daň z luxusu" # todo: NEW TRANSLATION
-  PMR_roskosh_desc: "Bohatí by měli platit více daní, protože naše pokladna není nevyčerpatelná, ale spíše extrémně malá." # todo: NEW TRANSLATION
-  PMR_selhoz: "Plán rozvoje zemědělství" # todo: NEW TRANSLATION
-  PMR_selhoz_desc: "Agro-průmysl je klíčový pro naše přežití a sytost; nemáme v úmyslu ždímat investice v tomto odvětví." # todo: NEW TRANSLATION
-  PMR_gos_plan_2: "Gosplan 2.0" # todo: NEW TRANSLATION
-  PMR_gos_plan_2_desc: "Podobně jako pětileté plány SSSR vytvoříme svůj vlastní plán, takzvaný Gosplan 2.0." # todo: NEW TRANSLATION
-  PMR_army_prestige: "Zvýšit prestiž armády" # todo: NEW TRANSLATION
-  PMR_army_prestige_desc: "Prestiž naší armády musí vzrůst, protože kdyby nebylo těchto odvážných vojáků, naše republika by neexistovala." # todo: NEW TRANSLATION
-  PMR_guarantees: "Sociální záruky" # todo: NEW TRANSLATION
-  PMR_guarantees_desc: "Naši občané musí mít všechna nezbytná sociální záruky, aby se cítili bezpečně." # todo: NEW TRANSLATION
-  PMR_democracy: "Demokratické principy" # todo: NEW TRANSLATION
-  PMR_democracy_desc: "Hlavní principy demokracie budou dodržovány na území našeho státu; totalitarismus a diktatura jsou minulostí!" # todo: NEW TRANSLATION
-  PMR_health: "Investice do zdravotnictví" # todo: NEW TRANSLATION
-  PMR_health_desc: "Zdravotnický sektor v naší zemi doslova prožívá své poslední dny; je načase to napravit a směrovat finanční injekce do tohoto sektoru." # todo: NEW TRANSLATION
-  PMR_economic: "Ekonomické reformy" # todo: NEW TRANSLATION
-  PMR_economic_desc: "Předchozí vůdci Transnistrie nám zanechali oslabený a zkorumpovaný ekonomický systém. Musíme provést reformy a deregulaci." # todo: NEW TRANSLATION
-  PMR_family: "Rodina je hlavní hodnotou" # todo: NEW TRANSLATION
-  PMR_family_desc: "Podpora rodin se stane jedním z našich hlavních sociálních programů. Vychováme novou generaci lidí, kteří budou zakládat úžasné a početné rodiny." # todo: NEW TRANSLATION
-  PMR_corruptable: "Boj proti korupci" # todo: NEW TRANSLATION
-  PMR_corruptable_desc: "Korumpovaní úředníci budou potrestáni!" # todo: NEW TRANSLATION
-  PMR_indep: "Politická nezávislost" # todo: NEW TRANSLATION
-  PMR_indep_desc: "Naše země se musí konečně rozhodnout sama, co potřebuje, a nesmí podléhat ani vnitřním, ani vnějším silám." # todo: NEW TRANSLATION
-  PMR_mvd_true: "Ministerstvo vnitra" # todo: NEW TRANSLATION
-  PMR_mvd_true_desc: "Nyní že naše orgány v ministerstvu vnitra budou moci skutečně pracovat pro prospěch republiky, odstraníme ze tohoto ministerstva všechny korupční úředníky." # todo: NEW TRANSLATION
-  PMR_banner: "Jednotní a silní lidé" # todo: NEW TRANSLATION
-  PMR_banner_desc: "Náš lid je připraven pokračovat v boji za svou nezávislost a šťastnou budoucnost." # todo: NEW TRANSLATION
-  PMR_great: "Jednotní lidé Transnistrie" # todo: NEW TRANSLATION
-  PMR_patriotic_act: "Lidový vlastenecký zákon" # todo: NEW TRANSLATION
-  PMR_social_program: "Program sociální podpory" # todo: NEW TRANSLATION
-  PMR_luxury_tax_idea: "Daň z luxusu" # todo: NEW TRANSLATION
-  PMR_idea_national_guard: "Národní garda" # todo: NEW TRANSLATION
-  PMR_gos_plans_idea: "Gosplan 2.0" # todo: NEW TRANSLATION
-  PMR_pro_ukraine: "Cesta na Ukrajinu" # todo: NEW TRANSLATION
-  PMR_pro_ukraine_desc: "Považujeme Ukrajinu za svůj historický domov – budeme usilovat o její připojení." # todo: NEW TRANSLATION
-  PMR_expel_russian: "Vyhostit ruské mírové jednotky" # todo: NEW TRANSLATION
-  PMR_expel_russian_desc: "Naše cesty s Ruskem se v tomto rozejdou, je načase, aby jejich mírové jednotky opustily naši zemi." # todo: NEW TRANSLATION
-  PMR_invite_ukrainians: "Pozvat ukrajinské mírové jednotky" # todo: NEW TRANSLATION
-  PMR_invite_ukrainians_desc: "Máme v úmyslu pozvat ukrajinské mírové jednotky, aby čelily moldavské agresi..." # todo: NEW TRANSLATION
-  PMR_ukr_corps: "Přijměte ukrajinské korporace" # todo: NEW TRANSLATION
-  PMR_ukr_corps_desc: "Dovolíme ukrajinským korporacím vstoupit na náš trh, což bude mít pozitivní dopad na naši ekonomiku" # todo: NEW TRANSLATION
-  PMR_ukr_law: "Integrace do ukrajinské legislativy" # todo: NEW TRANSLATION
-  PMR_ukr_law_desc: "Máme v úmyslu ustanovit naše zákony shodné s ukrajinskými, pro budoucí integraci" # todo: NEW TRANSLATION
-  PMR_propaganda: "Pro-ukrajinská propaganda" # todo: NEW TRANSLATION
-  PMR_propaganda_desc: "Budeme aktivně šířit pro-ukrajinskou propagandu ve své mediální sféře." # todo: NEW TRANSLATION
-  PMR_contacts: "Kontakty s vládou Ukrajiny" # todo: NEW TRANSLATION
-  PMR_contacts_desc: "Navážeme kontakt s ukrajinskou vládou a informujeme o našem úmyslu začlenit se do jejich země." # todo: NEW TRANSLATION
-  PMR_ref_join_ukr: "Referendum o připojení Ukrajiny" # todo: NEW TRANSLATION
-  PMR_ref_join_ukr_desc: "Jsme připraveni oznámit naši touhu stát se součástí Ukrajiny." # todo: NEW TRANSLATION
-  PMR_ukraine_influency_TT: "[UKR.GetFlag] Čínský §HNásobič vlivu§! in §Y[ROOT.GetNameWithFlag]§!: §R+15%§!" # todo: NEW TRANSLATION
-  PMR_ukr_army: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
-  PMR_grivna_efffect_idea: "Integrace Ukrajinského práva" # todo: NEW TRANSLATION
-  PMR_path: "Integrace Moldavska" # todo: NEW TRANSLATION
-  PMR_path_desc: "Začneme s integrací územ bývalého Moldavska do našeho státu." # todo: NEW TRANSLATION
-  PMR_integr_economy: "Ekonomická integrace" # todo: NEW TRANSLATION
-  PMR_integr_economy_desc: "Začněme, musíme provést ekonomickou integraci, regulující všechny aspekty naší budoucí sjednocené ekonomiky." # todo: NEW TRANSLATION
-  PMR_political: "Politická integrace" # todo: NEW TRANSLATION
-  PMR_political_desc: "Otázky struktury našeho nového státu a různých politických integračních problémů musí být také vyřešeny." # todo: NEW TRANSLATION
-  PMR_true: "Jsme pravá Moldávie" # todo: NEW TRANSLATION
-  PMR_true_desc: "Přijímáme roli moldavského státu, jakou kdysi zastávala Moldavská SSR." # todo: NEW TRANSLATION
-  PMR_integrate_mlv_place: "Integrace moldavských území" # todo: NEW TRANSLATION
-  PMR_integrate_mlv_place_desc: "Plně uznáváme naše právo na území, která bývala kdysi pod vládou Moldavska. Tato jsou naše země a budou jimi navždy; jsme připraveni je integrovat." # todo: NEW TRANSLATION
-  PMR_full: "Unitární stát" # todo: NEW TRANSLATION
-  PMR_full_desc: "Půjdeme po cestě unitarismu; autonomie nás může poškodit." # todo: NEW TRANSLATION
-  PMR_no_autonomy: "Konsolidujte princip nedostatku autonomie" # todo: NEW TRANSLATION
-  PMR_no_autonomy_desc: "Nedostatek autonomie je zárukou našeho státu v nepřítomnosti separatismu." # todo: NEW TRANSLATION
-  PMR_kabardiners: "Karabiniérské jednotky" # todo: NEW TRANSLATION
-  PMR_kabardiners_desc: "Karabiniérské jednotky jsou národní gendarmerie Transnistrie. Transnistrské karabiniérie mají zajišťovat, spolu se s policií nebo samostatně, veřejný pořádek, ochranu práv a svobod občanů, majetek majitelů a prevenci porušování zákona. Struktura agentury vychází z italské Carabinieri, odkud její název pochází." # todo: NEW TRANSLATION
-  PMR_peace_keaper: "Mírový prapor" # todo: NEW TRANSLATION
-  PMR_peace_keaper_desc: "Zřídíme vlastní mírový prapor, který se bude účastnit mezinárodních misí." # todo: NEW TRANSLATION
-  PMR_annex_efffect_idea: "Ekonomická integrace" # todo: NEW TRANSLATION
-  PMR_reform_debuff: "Politická integrace" # todo: NEW TRANSLATION
-  PMR_peacerota_idea: "Mírový prapor" # todo: NEW TRANSLATION
-  PMR_kabardiner: "Karabiniérské jednotky" # todo: NEW TRANSLATION
-  PMR_vs_pmr: "Transnistrijská armáda" # todo: NEW TRANSLATION
-  PMR_vs_pmr_desc: "Ačkoliv tak malý, neuznávaný stát má své ozbrojené síly, musíme posílit naši armádu, abychom odrazili hrozby naší nezávislosti." # todo: NEW TRANSLATION
-  PMR_ground: "Transnistrijské ozbrojené síly" # todo: NEW TRANSLATION
-  PMR_ground_desc: "Ozbrojené síly Pridněstrijské Moldavské republiky — formace (ozbrojené síly) neuznané Pridněstrijské Moldavské republiky (PMR), určené k ochraně lidí, suverenity, nezávislosti a územní celistvosti PMR, byly zřízeny 6. září 1991." # todo: NEW TRANSLATION
-  PMR_lebed_academy: "Vojenský institut Ministerstva obrany" # todo: NEW TRANSLATION
-  PMR_lebed_academy_desc: "Vyšší vojenská instituce se sídlem v Tiraspolu, kterou provozuje vojenské oddělení ozbrojených sil Transnistrie. Je nejvyšší vzdělávací instituce v ozbrojených silách." # todo: NEW TRANSLATION
-  PMR_suvorov_academy: "Suvorovův vojenský institut Ministerstva obrany" # todo: NEW TRANSLATION
-  PMR_suvorov_academy_desc: "Musíme pravidelně doplňovat důstojníky naší armády, k čemuž nám pomáhá naše vojenská univerzita pod Ministerstvem obrany." # todo: NEW TRANSLATION
-  PMR_exer: "Vojenská cvičení s Ruskou armádou" # todo: NEW TRANSLATION
-  PMR_exer_desc: "Ruská armáda je připravena provádět pravidelná cvičení s našimi jednotkami, aby předala moderní bojové zkušenosti." # todo: NEW TRANSLATION
-  PMR_upgrade: "Vylepšení výzbroje armády" # todo: NEW TRANSLATION
-  PMR_upgrade_desc: "Jsme připraveni vylepšit výzbroj naší armády, neboť ta nebyla aktualizována od Války za nezávislost." # todo: NEW TRANSLATION
-  PMR_chechen: "Zkušenosti z čečenské války" # todo: NEW TRANSLATION
-  PMR_chechen_desc: "Rusko je připraveno sdílet své zkušenosti s vedením války proti Republice Ichkerie, což je pro nás nepostradatelná informace a zkušenost." # todo: NEW TRANSLATION
-  PMR_military: "Vojenský průmysl" # todo: NEW TRANSLATION
-  PMR_military_desc: "Nesmíme doufat, že zásoby v našich skladech vydrží navždy; je nutné zavést výrobu našich zbraní." # todo: NEW TRANSLATION
-  PMR_new_army: "Nová armáda Transnistrie" # todo: NEW TRANSLATION
-  PMR_new_army_desc: "Naše reformy přinesly výsledky, obraz naší armády se změnil." # todo: NEW TRANSLATION
-  PMR_spec: "Doktrína speciálních sil" # todo: NEW TRANSLATION
-  PMR_spec_desc: "Zaměříme se na naše speciální jednotky, abychom prováděli bojové operace proti předpokládanému nepříteli." # todo: NEW TRANSLATION
-  PMR_doctrine: "Doktrína zahraniční politiky" # todo: NEW TRANSLATION
-  PMR_doctrine_desc: "Takové malé státy musí být vždy připraveny na útok ze strany větších sousedů, ale musíme jasně vědět, kdo na nás zaútočí?" # todo: NEW TRANSLATION
-  PMR_iskander: "Žádat o ruské Iskandry" # todo: NEW TRANSLATION
-  PMR_iskander_desc: "Ruské raketové systémy Iskander mohou být výborným argumentem proti útoku na nás." # todo: NEW TRANSLATION
-  PMR_euiqp: "Koupit zbraně v Rusku" # todo: NEW TRANSLATION
-  PMR_euiqp_desc: "Budeme nakupovat velké množství zbraní z Ruska, abychom vylepšili naše pozemní síly." # todo: NEW TRANSLATION
-  PMR_air: "Letecké síly Transnistrie" # todo: NEW TRANSLATION
-  PMR_air_desc: "Naše letectvo prakticky neexistuje, je nutné vytvořit alespoň minimální leteckou flotilu pro ochranu vzdušních hranic našeho domova." # todo: NEW TRANSLATION
-  PMR_air_academy: "Letecká akademie" # todo: NEW TRANSLATION
-  PMR_air_academy_desc: "Budoucí piloti se musí cvičit doma, a proto zřídíme pro to speciální akademii." # todo: NEW TRANSLATION
-  PMR_instructors: "Ruští instruktoři" # todo: NEW TRANSLATION
-  PMR_instructors_desc: "Naši budoucí piloti budou vycvičeni ruskými piloty." # todo: NEW TRANSLATION
-  PMR_vvs_rf: "Spolupráce s Ruským letectvem" # todo: NEW TRANSLATION
-  PMR_vvs_rf_desc: "Zintenzivníme spolupráci s Ruským letectvem na maximum." # todo: NEW TRANSLATION
-  PMR_kazaks: "Vytvořte kozácký pluk pro bitvu" # todo: NEW TRANSLATION
-  PMR_kazaks_desc: "Od konce minulého století byla Černomořská kozácká armáda začleněna do řad našich ozbrojených sil. Nyní, když je válka na prahu, je třeba je povolat do boje." # todo: NEW TRANSLATION
-  PMR_disorganized_army: "Zastaralá armáda" # todo: NEW TRANSLATION
-  PMR_disorganized_army_desc: "Armáda Podněstří byla vytvořena od základu na konci minulého století. Deset let po svém vzniku je, i když ne nejmenší, poměrně slabou bojovou jednotkou" # todo: NEW TRANSLATION
-  PMR_transnistrian_army_idea: "Ozbrojené síly Podněstří" # todo: NEW TRANSLATION
-  PMR_transnistrian_army_idea_desc: "Podněstří, navzdory své malé velikosti, má malé, ale zkušené ozbrojené síly. Konflikt o nezávislost po rozpadu SSSR dal armádě zkušenosti s vedením vojenských operací. Přesto si čas vybírá své a armáda je již natolik zastaralá, že potřebuje naléhavou modernizaci" # todo: NEW TRANSLATION
-  PMR_null_airforce: "Chybějící letectvo" # todo: NEW TRANSLATION
-  PMR_doctrine_romania: "Protiromunská doktrína" # todo: NEW TRANSLATION
-  PMR_doctrine_ukraine: "Protiukrajinská doktrína" # todo: NEW TRANSLATION
-  PMR_spetznaz: "Spetznaz" # todo: NEW TRANSLATION
-  PMR_kazachestvo: "Černomořská kozácká armáda" # todo: NEW TRANSLATION
-  PMR_army_category: "Ozbrojené síly Podněstří" # todo: NEW TRANSLATION
-  PMR_army_category_desc: "[PMR.GetFlag]§YPodněstří§!, navzdory své malé velikosti, má malé, ale zkušené ozbrojené síly. Konflikt o nezávislost po §Rrozpadu SSSR§! dal armádě zkušenosti s vedením vojenských operací. Přesto si čas vybírá své a armáda je již natolik zastaralá, že potřebuje naléhavou modernizaci.\n[PMR_Army_loc][PMR_Airforce_loc][PMR_SpecialForces_loc][PMR_NationalGuard_loc][PMR_Legion_loc][PMR_Militia_loc][PMR_Peace_loc]" # todo: NEW TRANSLATION
-  PMR_kazaks_prepare: "Černomořská kozácká armáda" # todo: NEW TRANSLATION
-  PMR_kazaks_prepare_desc: "\n\n\n\n\n\n£PMR_desctext_kazaki \n\n\n\n\n\n\n\n\n§YPůvod§! oživení §YČernomořské kozácké armády§! má kořeny v historii §GZáporožských kozáků§! a §GZáporožské siče§!, §Rzlikvidované§! v roce 1775. Vytvořená ke konci roku 1787 ze vzájemně nesourodých skupin §Gzáporožských kozáků§!, se §Y\"Armáda věrných záporožských kozáků\"§! stala spolehlivým štítem [SOV.GetFlag]§YRuska§! na jihu mezi řekami Dněstr a Bug, na územích, jejichž značná část nyní patří [PMR.GetFlag]§YPodněstří§!. §YČernomořští kozáci§!, obestřeni slávou vítězství ve [SOV.GetFlag][TUR.GetFlag]§Rrusko‑turecké válce§! let 1787–1791, byli po ukončení války dekretem carevny Kateřiny II. přesídleni v letech 1792–1793 do [KUB.GetFlag]§YKubanu§!, kde §YČernomořská kozácká armáda§! pokračovala v službě při ochraně jižních hranic [SOV.GetFlag]§YRuska§! až do roku 1860, kdy byla sloučena s §YKavkazskou pohraniční armádou§! a stala se známou jako [KUB.GetFlag]§YKubanská kozácká armáda§!. Náhlé změny v životě společnosti v §RSovětském svazu§! a hrozba rozvratu státní celistvosti způsobily koncem 80. let hnutí za oživení §Ykozáků§!, kteří po svých mnohasetletých dějinách byli oporným bodem a spolehlivým štítem §YVlasti§!. Po více než půlstoletí zapomnění a zkresňování podstaty §YKozáků§!, §Rrepresí§! a §Rgenocidy§!, se o §YKozácích§! opět začalo hovořit jako o nedílné součásti dějin [SOV.GetFlag]§YRuského státu§!. Nyní má kromě hlavní armády [PMR.GetFlag]§YPodněstří§! také možnost mobilizovat §Ykozácké§! oddíly pro §Rválku§!, které se stanou opěrnou základnou armády v boji proti nepřátelům" # todo: NEW TRANSLATION
-  PMR_kazak_kamensk: "§YMobilizujte§! kozáky Kamenského okresu" # todo: NEW TRANSLATION
-  PMR_kazak_ryibninsk: "§YMobilizujte§! kozáky Rybnitského okresu" # todo: NEW TRANSLATION
-  PMR_kazak_dubossar: "§YMobilizujte§! kozáky Dubossarského okresu" # todo: NEW TRANSLATION
-  PMR_kazak_slobodze: "§YMobilizujte§! kozáky Slobodzejského okresu" # todo: NEW TRANSLATION
-  PMR_kazak_benderi: "§YMobilizujte§! kozáky Benderu" # todo: NEW TRANSLATION
-  PMR_Army_loc1: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-50.00%§!\n£defence_texticon  Obrana divize: §R-50.00%§!\n£organization_texticon  Organizační síla divize: §R-75.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-25.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Army_loc2: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-35.00%§!\n£defence_texticon  Obrana divize: §R-35.00%§!\n£organization_texticon  Organizační síla divize: §R-55.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-15.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Army_loc3: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-28.00%§!\n£defence_texticon  Obrana divize: §R-28.00%§!\n£organization_texticon  Organizační síla divize: §R-35.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-13.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Army_loc4: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-18.00%§!\n£defence_texticon  Obrana divize: §R-18.00%§!\n£organization_texticon  Organizační síla divize: §R-25.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-7.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Army_loc5: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-13.00%§!\n£defence_texticon  Obrana divize: §R-13.00%§!\n£organization_texticon  Organizační síla divize: §R-18.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-3.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Army_loc6: "\n£text_icon_pmr_army §gZASTARALÁ ARMÁDA§!:\n£attack_texticon  Útok divize: §R-9.00%§!\n£defence_texticon  Obrana divize: §R-9.00%§!\n£organization_texticon  Organizační síla divize: §R-12.00%§!\n£dig_in_speed_texticon  Rychlost zakopávání: §R-1.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Airforce_loc1: "\n£text_icon_pmr_army §gZASTARALÉ LETECTVO§!:\n£experience_neutral_training_texticon  Získané zkušenosti z výcviku letecké peruti: §R-25.00%§!\n£experience_neutral_combat_texticon  Zkušenosti z bojů letecké peruti: §R-25.00%§!\n£airforce_personnel_cost_multiplier_modifier_texticon §YNáklady na letectvo§! Násobitel: §R+25.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Airforce_loc2: "\n£text_icon_pmr_army §gZastaralé letectvo§!:\n£experience_neutral_training_texticon  Získání zkušeností z výcviku letky: §R-10.00%§!\n£experience_neutral_combat_texticon  Získání zkušeností z misí letky: §R-10.00%§!\n£airforce_personnel_cost_multiplier_modifier_texticon §YNáklady na letectvo§! Násobitel: §R+15.00%§!\n" # todo: NEW TRANSLATION
-  PMR_SpecialForces_loc1: "\n£text_icon_pmr_army §gSpeciální síly§!:\n£specops_training_speed_texticon  Doba výcviku divize speciálních sil: §G-5.00%§!\n£attack_specops_texticon  Útok speciálních sil: §G+5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_SpecialForces_loc2: "\n£text_icon_pmr_army §gSpeciální síly§!:\n£specops_training_speed_texticon  Doba výcviku divize speciálních sil: §G-8.00%§!\n£attack_specops_texticon  Útok speciálních sil: §G+8.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Legion_loc1: "\n£text_icon_pmr_army §gTransnistrijská legie§!:\n£encryption_texticon  Šifrování: §G+5.00%§!\n£stability_texticon  Stabilita: §G+5.00%§!\n£operatives_captured_texticon  Šance zajmout nepřátelského operativa: §G+15.00%§!\n£volunteers_divisions_texticon  Divize vyžadované pro vyslání intervenční síly: §G-15.00%§!\n£world_tension_volunteers_texticon  Limit napětí pro vyslání dobrovolníků: §G-5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_NationalGuard_loc1: "\n£text_icon_pmr_army §gNárodní garda§!:\n£attack_texticon  Útok divize: §G+3.00%§!\n£organization_texticon  Organizace divize: §G+3.00%§!\n£attack_core_texticon  Útok na domovské území: §G+3.00%§!\n£defence_core_texticon  Obrana domovského území: §G+5.00%§!\n£police_cost_multiplier_modifier_texticon §YNáklady policie§! Násobitel: §R+5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Militia_loc1: "\n£text_icon_pmr_army §gLidová milice§!:\n£manpower_texticon  Obyvatelstvo vhodné k náboru: §G+2.00%§!\n£war_support_modifiericons_texticon  Podpora války: §G+5.00%§!\n£personnel_cost_multiplier_modifier_texticon §YNáklady na armádu§! Násobitel: §G-5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Peace_loc1: "\n£text_icon_pmr_army §gMírový batalión§!:\n£volunteers_max_texticon  Maximální počet dobrovolnických divizí: §G+1§!\n" # todo: NEW TRANSLATION
-  PMR_transnistrian_army_idea_tt: "[PMR_Army_loc][PMR_Airforce_loc][PMR_SpecialForces_loc][PMR_NationalGuard_loc][PMR_Legion_loc][PMR_Militia_loc][PMR_Peace_loc]" # todo: NEW TRANSLATION
-  PMR_kolbasna_tt: "Počet zbraní ve skladu Cobasna se změní o §Y[?modify_kolbasna]§!\n" # todo: NEW TRANSLATION
-  PMR_kazak_ready_tt: "Ve všech regionech byly vycvičené §YKozácké družiny§! in all regions" # todo: NEW TRANSLATION
-  PMR_soc_dem: "Transnistrijská sociální demokracie" # todo: NEW TRANSLATION
-  PMR_soc_dem_desc: "Konečně budou obyvatelé Transnistrie moci vydechnout; diktátorská vláda byla svržena a nyní u kormidla stojí skuteční bojovníci za svobodu a demokracii!" # todo: NEW TRANSLATION
-  PMR_liberalism: "Transnistrijský liberalismus" # todo: NEW TRANSLATION
-  PMR_liberalism_desc: "Začneme sladit naše zákonodárství s normami vyspělých demokratických zemí a současně plně liberalizujeme mnoho oblastí státního života." # todo: NEW TRANSLATION
-  PMR_freedom: "Svoboda slova" # todo: NEW TRANSLATION
-  PMR_freedom_desc: "Zbavíme se totalitního dědictví zákazu svobody slova! Každý bude moci vyjádřit svůj názor." # todo: NEW TRANSLATION
-  PMR_rhetoric: "Pro-moldavská rétorika" # todo: NEW TRANSLATION
-  PMR_rhetoric_desc: "Jsme zavázáni k integraci s Moldavskem, nezajímá nás Rusko" # todo: NEW TRANSLATION
-  PMR_new_society: "Nová transnistrijská společnost" # todo: NEW TRANSLATION
-  PMR_new_society_desc: "Naši občané už svou zemi nebudou rozpoznávat a brzy nezůstane žádná stopa po bývalé vládě. Naše reformy aktivně mění vnitřní politický obraz země." # todo: NEW TRANSLATION
-  PMR_partnership: "Politická integrace s Moldavskem" # todo: NEW TRANSLATION
-  PMR_partnership_desc: "Máme v úmyslu pevně nastoupit na cestu integrace s Moldavskem a nyní nás už nikdo nezastaví." # todo: NEW TRANSLATION
-  PMR_moldova_economic: "Ekonomická integrace s Moldavskem" # todo: NEW TRANSLATION
-  PMR_moldova_economic_desc: "Integrujeme naši ekonomiku do moldavského ekonomického systému." # todo: NEW TRANSLATION
-  PMR_moldova_military: "Vojenská integrace s Moldavskem" # todo: NEW TRANSLATION
-  PMR_moldova_military_desc: "Nyní se naše vojsko a vojsko Moldavska stanou jedním." # todo: NEW TRANSLATION
-  PMR_deccomuniz: "Dekomunizace" # todo: NEW TRANSLATION
-  PMR_deccomuniz_desc: "Zbavíme se sovětského dědictví, sovětského totalitarismu a strachu; Transnistrie bude svobodná." # todo: NEW TRANSLATION
-  PMR_contact_eu: "Navázat styky s Evropskou unií" # todo: NEW TRANSLATION
-  PMR_contact_eu_desc: "Evropská unie se pro nás stane výhodnějším partnerem než země SNS, CSTO a další pozůstatky SSSR." # todo: NEW TRANSLATION
-  PMR_federation: "Projekt moldavské federace" # todo: NEW TRANSLATION
-  PMR_federation_desc: "Máme v úmyslu Moldavii navrhnout návrh federálního státu, ve kterém budou všichni subjekty rovni a stejně chráněni zákonem. Shodnou se?" # todo: NEW TRANSLATION
-  PMR_investors: "Zahraniční investoři" # todo: NEW TRANSLATION
-  PMR_investors_desc: "Náš rychlý hospodářský růst začal přitahovat pozornost zahraničních podnikatelů. Měli bychom dělat vše pro to, abychom to udrželi." # todo: NEW TRANSLATION
-  PMR_it: "Investice do IT" # todo: NEW TRANSLATION
-  PMR_it_desc: "Otevřeme cestu pro investice do IT v naší zemi. Je čas rozvíjet naši zemi v této oblasti." # todo: NEW TRANSLATION
-  PMR_west_markets: "Otevřete západní trhy" # todo: NEW TRANSLATION
-  PMR_west_markets_desc: "Jsme připraveni se otevřít západním trhům." # todo: NEW TRANSLATION
-  PMR_expel_russians: "Vyhostit ruské mírové síly" # todo: NEW TRANSLATION
-  PMR_expel_russians_desc: "Naše cesty s Ruskem se v tomto rozcházejí, je čas, aby jejich mírové síly opustily naši zemi." # todo: NEW TRANSLATION
-  PMR_annex_efffect_idea1: "Ekonomická integrace" # todo: NEW TRANSLATION
-  PMR_army_efffect_idea1: "Armádní integrace" # todo: NEW TRANSLATION
-  PMR_reform_debuff1: "Politická integrace" # todo: NEW TRANSLATION
-  PMR_investors_idea: "Zahraniční investoři" # todo: NEW TRANSLATION
-  PMR_western_market_idea: "Uzavřete se západnímu trhu" # todo: NEW TRANSLATION
-  PMR_trans_libelaralism: "Transnistrijský liberalismus" # todo: NEW TRANSLATION
-  PMR_decommunization: "Dekomunizace" # todo: NEW TRANSLATION
-  PMR_MLV_influence_tt: "[MLV.GetFlag] moldavský §Hvlivový násobič§! v §Y[PMR.GetNameWithFlag]§!: §R+15%§!" # todo: NEW TRANSLATION
-  PMR_democrat_inner_modifier: "Vnitřní politika liberální Transnistrie" # todo: NEW TRANSLATION
-  PMR_democrat_inner_modifier_desc: "Politika vlády liberálů se vyznačuje soustředěním na ekonomický růst Ruska a menším zaměřením na vojenské a politické kroky." # todo: NEW TRANSLATION
-  PMR_democrat_inner_modifier_tt_intro: "Modify §Y$PMR_democrat_inner_modifier$§! by" # todo: NEW TRANSLATION
-  PMR_democrat_inner_start_tt: "Přidejte §Y$PMR_democrat_inner_modifier$§!, které poskytuje:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+10.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner_start2_tt: "Přidejte §Y$PMR_democrat_inner_modifier$§!, které poskytuje:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §R-4.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner15_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$democratic_drift$: §G+0.02§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner16_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$MODIFIER_STABILITY_FACTOR$: §R-5.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-1%§!\n$tax_gain_multiplier_modifier$: §R-4.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner17_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$democratic_drift$: §G+0.01§!\n$MODIFIER_STABILITY_FACTOR$: §R-6.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner18_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$bureaucracy_cost_multiplier_modifier$: §G-5.00%§!\n$police_cost_multiplier_modifier$: §R+4.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner19_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$MODIFIER_STABILITY_FACTOR$: §R-7.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-3%§!\n$population_tax_income_multiplier_modifier$: §G+3.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner20_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$nationalist_drift$: §G-0.05§!\n$MODIFIER_war_support_modifier$: §R-3.00%§!\n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner21_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$MODIFIER_war_support_modifier$: §R-4.00%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+3.0%§! \n\n" # todo: NEW TRANSLATION
-  PMR_democrat_inner22_tt: "$PMR_democrat_inner_modifier_tt_intro$\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n$MODIFIER_DRIFT_DEFENCE_FACTOR$: §R-10.00%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §R-4%§!\n\n" # todo: NEW TRANSLATION
-  PMR_economy: "Transnistrie Ekonomika" # todo: NEW TRANSLATION
-  PMR_economy_desc: "Transnistrijská ekonomika je nedostatečná a chybná. Abychom podpořili naši rostoucí zemi a její armádu, musíme vybudovat robustní ekonomiku, která ji udrží. Otázka zní, jak. Půjdeme nadále stezkou pašování, nebo najdeme jinou cestu pro naši budoucnost?" # todo: NEW TRANSLATION
-  PMR_indust: "Domácí průmysl" # todo: NEW TRANSLATION
-  PMR_indust_desc: "Musíme rozhodnout, kterým směrem se bude ubírat náš průmysl." # todo: NEW TRANSLATION
-  PMR_agro: "Rustas LLC" # todo: NEW TRANSLATION
-  PMR_agro_desc: "Rozvineme náš zemědělský průmysl, i přes malou velikost naší země." # todo: NEW TRANSLATION
-  PMR_civil: "Civilní průmysl" # todo: NEW TRANSLATION
-  PMR_civil_desc: "Potřebujeme nové továrny pro zaměstnanost našich občanů." # todo: NEW TRANSLATION
-  PMR_sell_weapon: "Prodáme zbrojní zásoby" # todo: NEW TRANSLATION
-  PMR_sell_weapon_desc: "Naše sklady, které zůstaly od dob SSSR, ukládají velké množství zbraní. Je čas na to vydělat." # todo: NEW TRANSLATION
-  PMR_new_legistation: "Nový investiční zákon" # todo: NEW TRANSLATION
-  PMR_new_legistation_desc: "Přijmeme nový zákon v investiční oblasti, který může přilákat nové investory do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_ukr_invest: "Ukrajinské investice" # todo: NEW TRANSLATION
-  PMR_ukr_invest_desc: "Několik ukrajinských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_hun_invest: "Maďarské investice" # todo: NEW TRANSLATION
-  PMR_hun_invest_desc: "Několik maďarských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_ita_invest: "Italské investice" # todo: NEW TRANSLATION
-  PMR_ita_invest_desc: "Několik italských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_rom_invest: "Rumunské investice" # todo: NEW TRANSLATION
-  PMR_rom_invest_desc: "Několik rumunských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_aus_invest: "Rakouské investice" # todo: NEW TRANSLATION
-  PMR_aus_invest_desc: "Několik rakouských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_ge_invest: "Německé investice" # todo: NEW TRANSLATION
-  PMR_ge_invest_desc: "Několik německých firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_sov_invest: "Ruské investice" # todo: NEW TRANSLATION
-  PMR_sov_invest_desc: "Několik ruských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
-  PMR_sheriff_starting: "Sheriff Holding" # todo: NEW TRANSLATION
-  PMR_sheriff_starting_desc: "Sheriff je druhá největší společnost v neuznaném odtrženém státě Transnistrie, za Moldova Steel Works. Sídlo má ve městě Tiraspol. Byl založen na počátku 1990. let Viktorem Gushanem a Ilyou Kazmalyem, bývalými členy KGB. Sheriff se rozrostl a zahrnuje prakticky všechny formy ziskového soukromého podnikání v neuznané zemi, a dokonce se výrazně zapojil i do místní politiky a sportu, s některými komentátory, kteří tvrdí, že loajalisté společnosti drží většinu hlavních vládních postů na území." # todo: NEW TRANSLATION
-  PMR_sheriff_phones: "Interdnestrcom" # todo: NEW TRANSLATION
-  PMR_sheriff_phones_desc: "Interdnestrcom je transnistrijská telekomunikační společnost poskytující mobilní komunikační služby pro Transnistrii, odtržený neuznaný stát mezinárodně uznávaný jako součást Moldavska. Založena byla v roce 1998. Kromě poskytování mobilních služeb poskytuje také dial-up a ISDN internetový přístup." # todo: NEW TRANSLATION
-  PMR_sheriff_oil: "Sklad ropných produktů" # todo: NEW TRANSLATION
-  PMR_sheriff_oil_desc: "Sheriff hodlá vybudovat sklad ropných produktů, aby zajistil autonomii svého palivového komponentu." # todo: NEW TRANSLATION
-  PMR_sheriff_kvint: "KVINT" # todo: NEW TRANSLATION
-  PMR_sheriff_kvint_desc: "KVINT je vinařství a palírna se sídlem v Tiraspolu, hlavním městě a průmyslovém centru Pridnestrovie. Kvint produkty jsou certifikovány 'Made in Moldova'. Založena v roce 1897, společnost vyprodukovala až do roku 1938 jen vodku, poté začala vyrábět brandy. Je to nejstarší stále fungující komerční podnik v regionu. Místní považují KVINT za národní poklad a symbol své země. Její továrna je vyobrazená na bankovce 5 Pridnestrovských rublů. KVINT je jedním z největších vývozců Pridnestrovia, do Itálie a Číny, stejně jako do Ruska a Ukrajiny." # todo: NEW TRANSLATION
-  PMR_sheriff_bank: "Agroprombank CJSC" # todo: NEW TRANSLATION
-  PMR_sheriff_bank_desc: "Holding dále plánuje založit vlastní banku k poskytování finančních služeb po celé Transnistrii." # todo: NEW TRANSLATION
-  PMR_sheriff_tiroteks: "Tirotex" # todo: NEW TRANSLATION
-  PMR_sheriff_tiroteks_desc: "Tirotex je textilní společnost se sídlem v Transnistrii, která vyrábí oblečení a další textilní výrobky. Nachází se v Tiraspolu. Společnost byla založena v roce 1972 výstavbou její továrny, která trvala deset let. Společnost je největším textilním podnikem v jihozápadní Společenství nezávislých států a rovněž si nárokuje být druhým největším svého druhu v celé Evropě. Ve svém areálu probíhají tkaní, šití, dokončovací a tkalcovské operace. Jako exportně orientovaná firma vyváží 70 % svých výrobků do zahraničí." # todo: NEW TRANSLATION
-  PMR_sheriff_agro: "Holding Agro-průmysl" # todo: NEW TRANSLATION
-  PMR_sheriff_agro_desc: "Holding má rovněž v úmyslu získat několik dalších agro-průmyslových závodů pro jejich obnovu a uvedení do provozu." # todo: NEW TRANSLATION
-  PMR_rail_road: "Transnistrian Railway" # todo: NEW TRANSLATION
-  PMR_rail_road_desc: "Transnistrian Railway je provozovatelem železniční dopravy v Transnistrii." # todo: NEW TRANSLATION
-  PMR_airport_back: "Tiraspol Airport" # todo: NEW TRANSLATION
-  PMR_airport_back_desc: "Plánujeme dokončit rekonstrukci letiště Tiraspol a v případě potřeby jej využít pro civilní i vojenské účely." # todo: NEW TRANSLATION
-  PMR_denomination_idea: "Slabý transnistrijský rubl" # todo: NEW TRANSLATION
-  PMR_inter_rao: "Inter Rao" # todo: NEW TRANSLATION
-  PMR_sheriff_phones_idea: "Interdnestrcom" # todo: NEW TRANSLATION
-  PMR_sheriff_banks_idea: "Agroprombank CJSC" # todo: NEW TRANSLATION
-  PMR_sheriff_kvit_idea: "KVINT" # todo: NEW TRANSLATION
-  PMR_sheriff_agro_idea: "Sheriff Agro-průmysl" # todo: NEW TRANSLATION
-  PMR_agro_idea: "Rustas LLC" # todo: NEW TRANSLATION
-  PMR_jd_idea: "Transnistrian Railway" # todo: NEW TRANSLATION
-  PMR_sov_idea: "MoldavKabel" # todo: NEW TRANSLATION
-  PMR_ukr_idea: "Moldova Steel Works" # todo: NEW TRANSLATION
-  PMR_ger_idea: "Terripa" # todo: NEW TRANSLATION
-  PMR_aus_idea: "Magnezit" # todo: NEW TRANSLATION
-  PMR_ita_idea: "Lender-Agroprim" # todo: NEW TRANSLATION
-  PMR_rom_idea: "Top Geo Serv" # todo: NEW TRANSLATION
-  PMR_hun_idea: "TAGEP" # todo: NEW TRANSLATION
-  PMR_transnistrian_economy_idea: "Transnistrijská ekonomika" # todo: NEW TRANSLATION
-  PMR_encouraged_foreign_investments_idea: "Investiční zákon" # todo: NEW TRANSLATION
-  PMR_economy_category: "Transnistrijská ekonomika" # todo: NEW TRANSLATION
-  PMR_economy_category_desc: "\nTransnistrijská ekonomika je v žalostném stavu. Obklopena ze všech stran státy, které usilují o zničení její nezávislosti, a jejím nejbližším spojencem, Ruskem, s nímž nemá společnou hranici, což vede vedení ke svolávání nejlegitimnějších i nelegálních prostředků k udržení státu nad vodou\n[PMR_BadEconomy_loc][PMR_Phones_loc][PMR_Bank_loc][PMR_KVIT_loc][PMR_SherAgro_loc][PMR_Rustas_loc][PMR_JD_loc][PMR_InterRaoGres_loc][PMR_Gazprom_loc][PMR_TopGeoServ_loc][PMR_Magnezit_loc][PMR_TerriPa_loc][PMR_MSW_loc][PMR_LA_loc][PMR_MoldavKabel_loc][PMR_Tagep_loc]" # todo: NEW TRANSLATION
-  PMR_buy_german_investments: "§GBuy Back§! [GER.GetFlag] §YNěmecké§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_italian_investments: "§GBuy Back§! [ITA.GetFlag] §YItalské§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_russian_investments: "§GBuy Back§! [SOV.GetFlag] §YRuské§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_ukraininan_investments: "§GBuy Back§! [UKR.GetFlag] §YUkrainské§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_austrian_investments: "§GBuy Back§! [AUS.GetFlag] §YRakouské§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_romanian_investments: "§GBuy Back§! [ROM.GetFlag] §YRumunské§! Investice" # todo: NEW TRANSLATION
-  PMR_buy_hungarian_investments: "§GBuy Back§! [HUN.GetFlag] §YMaďarské§! Investice" # todo: NEW TRANSLATION
-  PMR_eastern_europe_operations: "Cobasna Ammunition Depot" # todo: NEW TRANSLATION
-  PMR_eastern_europe_operations_desc: "\n\n\n\n\n\n£PMR_desctext_cobasna \n\n\n\n\n\n\n\n\n§YThe Cobasna§! ammunition depot, formally the §Y1411th Artillery Ammunition Depot§!, is a large ammunition depot located in the village of §YCobasna§!. Legally and §1internationally recognized§! as part of [MLV.GetFlag]§YMoldova§! as a whole, the unrecognized breakaway state of [PMR.GetFlag]§YTransnistria§! controls the village and the ammunition depot and has denied access to §1international observers§!, an exception being the [SOV.GetFlag]§YRussian§! military forces located in the region ever since the end of the §RTransnistria War§! §Yin 1992§!. Outside access to the ammunition depot is effectively prohibited. Only the [SOV.GetFlag]§YRussian§! and [PMR.GetFlag]§YTransnistrian§! authorities have detailed information regarding the amount and situation of the stored weapons\n\n§YNumber of weapons§! in the warehouse in §YCobasna§! is §Y[?PMR.kolbasna]§!" # todo: NEW TRANSLATION
-  PMR_romania_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[ROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_bulgaria_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BUL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_serbia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[SER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_montenegro_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[MNT.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_bosnia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BOS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_croatia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[CRO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_greece_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[GRE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_macedonia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[FYR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_albania_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[ALB.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_russia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_france_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[FRA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_luxemburg_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[LUX.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_belgium_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BEL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_netherlands_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[HOL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_germany_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[GER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  PMR_use_kobasna: "Vyprázdnit sklady zbraní §Y[PMR.GetFlag]Transnistrian§!" # todo: NEW TRANSLATION
-  PMR_BadEconomy_loc1: "\n§gSLABÝ TRANSNISTRISTŮ RUBL§!:\n£stability_texticon  Stabilita: §R-30.00%§!\n£tax_gain_multiplier_modifier_texticon §YDaňové příjmy§! Násobič: §R-20.00%§!\n£economic_cycles_cost_factor_texticon Náklady na změnu ekonomických cyklů: §R+50.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Sherifka_loc1: "£text_icon_pmr_sheriff " # todo: NEW TRANSLATION
-  PMR_Phones_loc1: "\n[PMR_Sherifka_loc]§gINTERDNESTRCOM§!:\n§YPříjmy z korporátní daně§! Násobič: §G+1.00%§!\n§Y$internet_station$§! Rychlost výstavby: §G+2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Bank_loc1: "\n[PMR_Sherifka_loc]§gAGROPROMBANK CJSC§!:\n§YPříjmy z korporátní daně§! Násobič: §G+2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_KVIT_loc1: "\n[PMR_Sherifka_loc]§gKVIT§!:\n§YZemědělství§! Produktivita: §G+2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_SherAgro_loc1: "\n§g[PMR_Sherifka_loc]SHERIFF AGRO-HOLDING§!:\n§YZemědělství§! Produktivita: §G+2.00%§!\nPožadovaní pracovníci v §YZemědělství pro zajištění obživy§!: §R+2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_SherAgro_loc2: "\n§g[PMR_Sherifka_loc]SHERIFF AGRO-HOLDING§!:\n§YZemědělství§! Produktivita: §G+4.00%§!\nPožadovaní pracovníci v §YZemědělství pro zajištění obživy§!: §R+4.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Rustas_loc1: "\n§gRUSTAS§!:\n§YZemědělství§! Produktivita: §G+2.00%§!\n§YZemědělství§! Daňové příjmy Násobič: §G+3.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Rustas_loc2: "\n§gRUSTAS§!:\n§YZemědělství§! Produktivita: §G+4.00%§!\n§YZemědělství§! Daňové příjmy Násobič: §G+4.00%§!\n" # todo: NEW TRANSLATION
-  PMR_JD_loc1: "\n§gTRANSNISTRIAN RAILWAY§!:\nRychlost divizí: §G+1.00%§!\n§Y$Infrastructure$§! Rychlost výstavby: §G+2.00%§!\n§Y$infrastructure$§! Rychlost opravy: §G+2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_InterRaoGres_loc1: "\n[SOV.GetFlag]§gINTERRAO§!:\nNásobič využití všech zdrojů energie: §G-5.00%§!\nFaktor výroby elektrické energie: §G+15.00%§!\n[SOV.GetFlag] Russian §Hvlivový násobič§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_Gazprom_loc1: "\n[SOV.GetFlag]§gGAZPROM§!:\nFosilní paliva: §G+3§!\n[SOV.GetFlag] Russian §Hvlivový násobič§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  PMR_TopGeoServ_loc1: "\n[ROM.GetFlag]§gTOP GEO SERV§!:\n§YOcel§!: §G+1§!\n[ROM.GetFlag] Romanian §Hvlivový násobič§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_Magnezit_loc1: "\n[AUS.GetFlag]§gMAGNEZIT§!:\n§Y$industrial_complex$§!: §G+1§!\n[AUS.GetFlag] Rakouský §Hvlivový násobič§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_TerriPa_loc1: "\n[GER.GetFlag]§gTERRIPA§!:\n§Y$industrial_complex$§!: §G+1§!\n[GER.GetFlag] Německý §Hvlivový násobič§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_MSW_loc1: "\n[UKR.GetFlag]§gMOLDOVA STEEL WORKS§!:\n§YOcel§!: §G+2§!\n[UKR.GetFlag] Ukrajinský §HNásobič vlivu§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_LA_loc1: "\n[ITA.GetFlag]§gLENDER-AGROPRIM§!:\n\n§YZemědělství§! Produktivita: §G+2.00%§!\n§YZemědělství§! Násobič daňových výnosů: §G+2.00%§!\n\n[ITA.GetFlag] Italská §HNásobič vlivu§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_MoldavKabel_loc1: "\n[SOV.GetFlag]§gMOLDAVKABEL§!:\n§Y$industrial_complex$§!: §G+1§!\n[SOV.GetFlag] Ruský §HNásobič vlivu§!: §R+15%§!\n" # todo: NEW TRANSLATION
-  PMR_Tagep_loc1: "\n[HUN.GetFlag]§gTAGEP§!:\n§Y$industrial_complex$§!: §G+1§!\n[HUN.GetFlag] Maďarská §HNásobič vlivu§!: §R+10%§!\n" # todo: NEW TRANSLATION
-  PMR_MoldavKabel_infl_tt: "[SOV.GetFlag] Ruský §HNásobič vlivu§!: §R+15%§!" # todo: NEW TRANSLATION
-  PMR_LA_infl_tt: "[ITA.GetFlag] Italská §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_MSW_infl_tt: "[UKR.GetFlag] Ukrajinský §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_TerriPa_infl_tt: "[GER.GetFlag] Německý §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_Magnezit_infl_tt: "[AUS.GetFlag] Rakouský §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_TopGeoServ_infl_tt: "[ROM.GetFlag] Rumunský §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_Tagep_infl_tt: "[HUN.GetFlag] Maďarský §HNásobič vlivu§!: §R+10%§!" # todo: NEW TRANSLATION
-  PMR_transnistiran_economy_idea_tt: "[PMR_BadEconomy_loc][PMR_Phones_loc][PMR_Bank_loc][PMR_KVIT_loc][PMR_SherAgro_loc][PMR_Rustas_loc][PMR_JD_loc][PMR_InterRaoGres_loc][PMR_Gazprom_loc][PMR_TopGeoServ_loc][PMR_Magnezit_loc][PMR_TerriPa_loc][PMR_MSW_loc][PMR_LA_loc][PMR_MoldavKabel_loc][PMR_Tagep_loc]" # todo: NEW TRANSLATION
-  PMR_kobalsna_small_weapons_tt: "Zásoby zbraní ve skladech nebyly §Vyprázdněny§!" # todo: NEW TRANSLATION
-  PMR_kobalsna_take_weapons_tt: "Všechny bojové zbraně ze skladů budou přidány do §YArzenál§!" # todo: NEW TRANSLATION
-  PMR_Sheriff_yest_tt: "£text_icon_pmr_sheriff §2Šerif§! nebyl §RZničen§!" # todo: NEW TRANSLATION
-  PMR_mvd: "Bezpečná Transnistrie" # todo: NEW TRANSLATION
-  PMR_mvd_desc: "Není to jen ozbrojené síly, které zajišťují nezávislost naší republiky, ale také zvláštní služby a orgány vnitřní správy, na jejichž bedrech leží vnitřní boj proti vnějším nepřátelům.." # todo: NEW TRANSLATION
-  PMR_mvdshka: "Ministerstvo vnitra" # todo: NEW TRANSLATION
-  PMR_mvdshka_desc: "Ministerstvo vnitra Transnistrie, též známé jako Ministerstvo vnitřních záležitostí, je oficiální vládní agentura částečně uznávané Pridněstrovské moldavské republiky. Je výkonným orgánem při plnění obranných politik v rámci ozbrojených sil Transnistrie." # todo: NEW TRANSLATION
-  PMR_ubepik: "Odbor ekonomické bezpečnosti a boje proti korupci" # todo: NEW TRANSLATION
-  PMR_ubepik_desc: "Odbor ekonomické bezpečnosti a boje proti korupci poskytuje a vykonává funkce Ministerstva vnitra pro rozvoj a implementaci state policy a regulatorně právní regulace v oblasti ekonomické bezpečnosti státu, stejně jako vykonávání dalších funkcí v souladu s federálním zákonodárstvím, prezidentskými dekrety a regulatorními právními akty Ministerstva vnitra.." # todo: NEW TRANSLATION
-  PMR_dnestr: "Samostatná speciální brigáda „Dněstr“" # todo: NEW TRANSLATION
-  PMR_dnestr_desc: "Samostatná speciální brigáda Dněstr je brigáda speciálního účelu Pridněstrovsko-moldavské republiky, vznikla v srpnu 1991 v Tiraspolu během pridenstrujského konfliktu a je přímo podřízena Ministerstvu vnitra Republiky." # todo: NEW TRANSLATION
-  PMR_mgb: "Ministerstvo státní bezpečnosti" # todo: NEW TRANSLATION
-  PMR_mgb_desc: "Ministerstvo státní bezpečnosti je transnistrská státní bezpečnostní služba." # todo: NEW TRANSLATION
-  PMR_delta: "Delta – prapor speciálních sil" # todo: NEW TRANSLATION
-  PMR_delta_desc: "Delta prapor speciálních sil je prapor speciálního určení, vznikl na jaře 1992 v Tiraspolu, v současnosti je přímo podřízen Ministerstvu státní bezpečnosti Transnistrie. Byl zařazen do záloh vrchního velitele ozbrojených sil Pridnestrovie, v současnosti plní úkoly spojené s ochranou hranic Pridnestrovské Moldavské republiky a bojem proti terorismu." # todo: NEW TRANSLATION
-  PMR_pograncy: "Pohraniční jednotky" # todo: NEW TRANSLATION
-  PMR_pograncy_desc: "Zlepšíme financování a podporu pohraničních jednotek naší republiky, protože naše hranice jsou neustále ohrožovány nepřátelskou invazí.." # todo: NEW TRANSLATION
-  PMR_guebpik_idea: "Odbor ekonomické bezpečnosti a boje proti korupci" # todo: NEW TRANSLATION
-  PMR_mgb_idea: "Ministerstvo státní bezpečnosti" # todo: NEW TRANSLATION
-  PMR_delta_idea: "Delta – prapor speciálních sil" # todo: NEW TRANSLATION
-  PMR_dnestr_idea: "Samostatná speciální brigáda „Dněstr“" # todo: NEW TRANSLATION
-  PMR_transnistrian_mvd_idea: "Transnistrijské zvláštní služby" # todo: NEW TRANSLATION
-  PMR_mvd_category: "Transnistrijské zvláštní služby" # todo: NEW TRANSLATION
-  PMR_mvd_category_desc: "Není to jen ozbrojené síly, které zajišťují nezávislost naší republiky, ale i zvláštní služby a orgány vnitřní správy, na jejichž bedrech spočívá vnitřní boj proti vnějším nepřátelům.\n§RTo destroy§! £text_icon_pmr_sheriff §2monopol šerifa§!, je nutné mít §Uroveň lesku§! z §Ykorupce§!\n[PMR_BorderTroops_loc][PMR_MGB_loc][PMR_DeltaMGB_loc][PMR_Dnestr_loc][PMR_UEBPIK_loc][PMR_Kabardiners_loc]" # todo: NEW TRANSLATION
-  PMR_destroy_sheriff: "§RZničit§! £text_icon_pmr_sheriff §2monopol šerifa§!" # todo: NEW TRANSLATION
-  PMR_transnistiran_mvd_idea_tt: "[PMR_BorderTroops_loc][PMR_MGB_loc][PMR_DeltaMGB_loc][PMR_Dnestr_loc][PMR_UEBPIK_loc][PMR_Kabardiners_loc]" # todo: NEW TRANSLATION
-  PMR_BorderTroops_loc1: "\n£text_icon_pmr_army §gPOHRANIČNÍ JEDNOTKY§!:\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničnímu vlivu§! Násobič: §G+1.00%§!\n£defence_core_texticon  Divizní obrana na domovském území: §G+3.00%§!\n" # todo: NEW TRANSLATION
-  PMR_BorderTroops_loc2: "\n£text_icon_pmr_army §gPOHRANIČNÍ JEDNOTKY§!:\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničnímu vlivu§! Násobič: §G+2.00%§!\n£defence_core_texticon  Divizní obrana na domovském území: §G+5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_MGB_loc1: "\n§gMinisterstvo státní bezpečnosti§!:\n£counter_intelligence_texticon  Kontrarozvědka: §G+10.00%§!\n£encryption_texticon  Šifrování: §G+5.00%§!\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničnímu vlivu§! Násobič: §G+5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_MGB_loc2: "\n§gMinisterstvo státní bezpečnosti§!:\n£counter_intelligence_texticon  Kontrarozvědka: §G+15.00%§!\n£encryption_texticon  Šifrování: §G+10.00%§!\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničnímu vlivu§! Násobič: §G+10.00%§!\n" # todo: NEW TRANSLATION
-  PMR_DeltaMGB_loc1: "\n§gDELTA§!:\n£operatives_captured_texticon  Šance zajmout nepřátelského operativce: §G+5.00%§!\n£political_violence_damage_texticon  Poškození garnizonů: §G-5.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Dnestr_loc1: "\n§gDněstr§!:\n£operatives_root_out_resistance_texticon  Efekty mise Vykoření odboje: §G+5.00%§!\n£political_violence_texticon  Efektivita zahraničních subverzních aktivit: §G-5.00%§!\n£foreign_influence_defense_modifier_texticon §YOchrana proti zahraničnímu vlivu§! Násobič: §G+3.00%§!\n" # todo: NEW TRANSLATION
-  PMR_UEBPIK_loc1: "\n§gODDĚLENÍ EKONOMICKÉ BEZPEČNOSTI A BOJE PROTI KORUPCI§!:\n£corruption_cost_factor_texticon Náklady na změnu korupce: §G-2.00%§!\n£econ_cycle_upg_cost_multiplier_modifier_texticon §YNáklady na cyklus ekonomických upgradů§! Násobič: §G-3.00%§!\n" # todo: NEW TRANSLATION
-  PMR_Kabardiners_loc1: "\n§gKarabinierské jednotky§!:\n£political_violence_damage_texticon  Poškození garnizonů: §G-5.00%§\n£political_violence_texticon  Zahraniční subverzní aktivity: §G-2.00%§!\n" # todo: NEW TRANSLATION
-  PMR_lebedev: "Budeme mít snídani v Tiraspolu" # todo: NEW TRANSLATION
-  PMR_lebedev_desc: "Budeme sledovat zásady generála Lebeda a řešit naše problémy radikálně a agresivně." # todo: NEW TRANSLATION
-  PMR_vs_reform: "Reforma ozbrojených sil" # todo: NEW TRANSLATION
-  PMR_vs_reform_desc: "Naše ozbrojené síly nejsou připravené bránit naši malou republiku, musíme je reformovat a co nejdříve." # todo: NEW TRANSLATION
-  PMR_army_corruption: "Zastavte prodej zbraní" # todo: NEW TRANSLATION
-  PMR_army_corruption_desc: "Máme v úmyslu zastavit prodej zbraní ze skladů v Kolbasné, zastavit jejich rozdělování sem a tam." # todo: NEW TRANSLATION
-  PMR_clean_government: "Vyčistěte vládu" # todo: NEW TRANSLATION
-  PMR_clean_government_desc: "Vládní úředníci vždy myslí jen na své kapsy, ale na zemi jim nezáleží; tyto osobnosti odstraníme z vedení republiky mírově, nebo tvrdě." # todo: NEW TRANSLATION
-  PMR_return_zavods: "Oživit továrny" # todo: NEW TRANSLATION
-  PMR_return_zavods_desc: "Průmyslový potenciál regionu je zřejmý i slepému, avšak kolaps USSR zničil vše, co občané tohoto kdysi krásného státu vybudovali, my to vrátíme zpět." # todo: NEW TRANSLATION
-  PMR_clean_corruption: "Válka proti korupci" # todo: NEW TRANSLATION
-  PMR_clean_corruption_desc: "Korupce je jako hydra - když uříznete jednu hlavu, vyroste další. Zničíme všechny hlavy této zkorumpované hydry najednou." # todo: NEW TRANSLATION
-  PMR_commies_goes_home: "Vášnivý antikomunismus" # todo: NEW TRANSLATION
-  PMR_commies_goes_home_desc: "Koministické myšlenky by neměly být hlavní realitou Transnistrie, dlouho odporovaly realitě a tomu, jak lidé zde žijí. Lidé nebudou žít v minulosti, jen v přítomnosti a budoucnosti!" # todo: NEW TRANSLATION
-  PMR_support_nationalism: "Podpora nacionalistických nálad" # todo: NEW TRANSLATION
-  PMR_support_nationalism_desc: "Nacionalismus není vždy špatná věc, zvláště když obyvatelé tak malé oblasti považují sami sebe za součást kdysi obrovského, velkého impéria. Budeme podporovat šíření tohoto nacionalistického sentimentu." # todo: NEW TRANSLATION
-  PMR_reform_special_services: "Reforma tajných služeb" # todo: NEW TRANSLATION
-  PMR_reform_special_services_desc: "Zvláštní služby by měly být také očištěny od všech druhů prohnaných lidí a amatérů, aby řešily všechny záležitosti za peníze." # todo: NEW TRANSLATION
-  PMR_militarize_society: "Militarizace společnosti" # todo: NEW TRANSLATION
-  PMR_militarize_society_desc: "Každý občan by měl být připraven vzít do ruky zbraň, protože hodina boje za samotné přežití našeho regionu se blíží! Budeme aktivně šířit militaristickou rétoriku v naší zemi." # todo: NEW TRANSLATION
-  PMR_zapad_sosat: "Protizápadní nálady" # todo: NEW TRANSLATION
-  PMR_zapad_sosat_desc: "Západ byl, je a bude naším nepřítelem. Nemáme v úmyslu žít ve falešných iluzi, že si někdy přejí pro nás něco dobrého, zvláště pro nás, malý region, který bojuje proti začlenění do Evropské unie." # todo: NEW TRANSLATION
-  PMR_transnistia_legion: "Transnistrijská legie" # todo: NEW TRANSLATION
-  PMR_transnistia_legion_desc: "Transnistrská legie je projekt, o kterém se kdysi mělo realizovat na území Ruska, avšak tehdejší orgány jej zcela zablokovaly. Všechny speciální služby budou sloučeny do zvláštní jednotky, která bude nejen chránit domovinu, ale bude se i podílet na mezinárodních misích, jak veřejně, tak tajně" # todo: NEW TRANSLATION
-  PMR_militarize_young: "Militarizace mládeže" # todo: NEW TRANSLATION
-  PMR_militarize_young_desc: "Mládež, v případě války, by měla být připravena uchopit kulomet a bránit svou domovinu, a ne žadonit o milost. Učiníme z našich dětí skutečné obránce vlasti" # todo: NEW TRANSLATION
-  PMR_ded_sheriffs: "Ukončit šerifův holding" # todo: NEW TRANSLATION
-  PMR_ded_sheriffs_desc: "Moc Sheriffova holdingu bude konečně ukončena; ukončíme je jednou provždy a jak s nimi nakládat, bude záležet na nich. Vězení nebo poprava, co je pro ně vhodnější?" # todo: NEW TRANSLATION
-  PMR_totalitarian_economic: "Autoritářská kontrola nad ekonomikou" # todo: NEW TRANSLATION
-  PMR_totalitarian_economic_desc: "Ekonomická sféra našeho státu byla ponechána náhodě, ale nyní ji uvedeme zpět pod kontrolu silného vůdce." # todo: NEW TRANSLATION
-  PMR_nationalize_burjui: "Nacionalizace zahraničních podniků" # todo: NEW TRANSLATION
-  PMR_nationalize_burjui_desc: "Průmyslové závody vlastněné cizinci představují vždy ekonomické bezpečnostní riziko. Když nás cizí státy hrozí ekonomickými sankcemi, hrozí, že majitelé podniků opustí v noci a odvezou s sebou důležité části svých závodů. Abychom tomu zabránili, musíme tyto odvětví získat pro stát - i kdyby to uráželo zahraniční státy." # todo: NEW TRANSLATION
-  PMR_vpk: "Oživení vojenských továren" # todo: NEW TRANSLATION
-  PMR_vpk_desc: "Naše armáda potřebuje zbraně, a k jejich výrobě potřebujeme mít alespoň minimální vojenský průmysl, protože dědictví SSSR nám umožňuje vytvářet podobné podmínky" # todo: NEW TRANSLATION
-  PMR_defenced: "Posílit hranice" # todo: NEW TRANSLATION
-  PMR_defenced_desc: "Nepřítel na nás vždy čeká, až oslabíme, aby na nás zaútočil, bez ohledu z které strany. Proto musí být naše hranice posíleny na obou stranách" # todo: NEW TRANSLATION
-  PMR_kazaki_more: "Přijmout kozácké dobrovolníky" # todo: NEW TRANSLATION
-  PMR_kazaki_more_desc: "Do Transnistrie se od té doby přestěhovalo mnoho Kozáků poté, co zdejší vláda zvolila patriotičtější směr. Jsme dokonce připraveni z nich vytvořit nový batalion, který nám bude v budoucích bojích pomáhat." # todo: NEW TRANSLATION
-  PMR_sheriff_mobilize: "Mobilizujte bývalé šerifovy zaměstnance" # todo: NEW TRANSLATION
-  PMR_sheriff_mobilize_desc: "Bývalí šerifovi zaměstnanci se musí za svůj hřích před domovinou vykoupit. Sloužit v armádě je pro takové pokání vhodná cesta." # todo: NEW TRANSLATION
-  PMR_moldova_weapons: "Poskytnout zbraně povstalcům" # todo: NEW TRANSLATION
-  PMR_moldova_weapons_desc: "Budeme poskytovat zbraně potenciálním povstalcům na území Moldavska, aby nám pomohli ve správný okamžik." # todo: NEW TRANSLATION
-  PMR_moldova_finish: "Vyřešit moldavský problém" # todo: NEW TRANSLATION
-  PMR_moldova_finish_desc: "Nebudeme moci klidně spát vědomi si toho, že Moldávie dřív či později bude usilovat o znovuzískání našeho domova. Proto musíme vyřešit problém jejich existence jednou provždy." # todo: NEW TRANSLATION
-  PMR_moldova_money: "Poskytnout peníze povstalcům" # todo: NEW TRANSLATION
-  PMR_moldova_money_desc: "Finančně budeme podporovat potenciální povstalce na území Moldavska, aby nám pomohli ve správný čas." # todo: NEW TRANSLATION
-  PMR_kishenev: "Budeme mít oběd v Kišiněvě" # todo: NEW TRANSLATION
-  PMR_kishenev_desc: "Moldavsko musí padnout, takového souseda tolerujeme už příliš dlouho." # todo: NEW TRANSLATION
-  PMR_odessa: "Budeme mít oběd v Oděse" # todo: NEW TRANSLATION
-  PMR_odessa_desc: "Oděsa je naše šance získat přístup k Černému moři; pošleme tam rozkazové oddíly a pokusíme se vyvolat vzpouru." # todo: NEW TRANSLATION
-  PMR_buy_general: "Podplatit odesské generály" # todo: NEW TRANSLATION
-  PMR_buy_general_desc: "Podplatíme několik ukrajinských generálů, kteří jsou v Odese, aby nám ve správný okamžik poskytli podporu v našem ozbrojeném povstání." # todo: NEW TRANSLATION
-  PMR_buharest: "Budeme večeřet v Bukurešti" # todo: NEW TRANSLATION
-  PMR_buharest_desc: "Čekáme na závěrečnou bitvu s naším hlavním nepřítelem." # todo: NEW TRANSLATION
-  PMR_kiev: "Budeme večeřet v Kyjevě" # todo: NEW TRANSLATION
-  PMR_kiev_desc: "Čekáme na závěrečnou bitvu s naším hlavním nepřítelem." # todo: NEW TRANSLATION
-  PMR_anti_west_idea: "Antizápadní doktrína" # todo: NEW TRANSLATION
-  PMR_legion_idea: "Transnistrská legie" # todo: NEW TRANSLATION
-  PMR_lebed_policy_idea: "Politický systém Transnistrijské junty" # todo: NEW TRANSLATION
-  PMR_corruption_dead_in_govern_idea: "Vládní korupce odstraněna" # todo: NEW TRANSLATION
-  ded_lebed: "Generál Lebed je mrtvý" # todo: NEW TRANSLATION
+ PMR_focus: "Transnistrie Zaměřovací strom" # todo: NEW TRANSLATION
+ PMR_russia_moldovian_way: "Nejvyšší rada" # todo: NEW TRANSLATION
+ PMR_russia_moldovian_way_desc: "\n\n\n\n\n\n£PMR_desctext_rusmlv \n\n\n\n\n\n\n\n\nNejvyšší rada Podněsterské moldavské republiky je podle Ústavy Podněsterské moldavské republiky reprezentativním a jediným zákonodárným orgánem státní moci mezinárodně neuznávané Podněsterské moldavské republiky." # todo: CHANGED
+ PMR_moldova_refendum: "Uspořádat referendum o vstupu [MLV.GetFlag]§YMoldova§!" # todo: NEW TRANSLATION
+ PMR_russia_refendum: "Uspořádat referendum o vstupu [SOV.GetFlag]§YRussia§!" # todo: NEW TRANSLATION
+ PMR_annex_gagauzia: "Integrace §Y[GGZ.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_annex_odessa: "Integrace §Y[OPR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_smirnov_era: "Éra Smirnova" # todo: NEW TRANSLATION
+ PMR_smirnov_era_desc: "Igor Smirnov. Skutečná ikona naší velké země. Slouží vlasti, která nám je určena osudem. Věříme, že nás povede k nádherné budoucnosti, kterou si zasloužíme. Tento hrdina je důvodem, proč jsme tu. Smirnov je lepidlo, které nás drží pohromadě a soustřeďuje nás na jeden cíl. Bez něj by tato země nikdy nevznikla. Jsme poslední skutečnou komunistickou baštou SSSR." # todo: NEW TRANSLATION
+ PMR_father_of_the_nation: "Otec národa" # todo: NEW TRANSLATION
+ PMR_father_of_the_nation_desc: "Igor Smirnov je jistě ten, kdo stvořil náš národ; díky němu náš lid existuje. Byl to on, kdo nás vedl v době boje za nezávislost." # todo: NEW TRANSLATION
+ PMR_denomination: "Provést denominaci" # todo: NEW TRANSLATION
+ PMR_denomination_desc: "Naše měna vzrostla do tak astronomických čísel, že je fyzicky nemožné, aby naši občané nakoupili dostatek zboží, a proto provedeme naléhavou denominaci." # todo: NEW TRANSLATION
+ PMR_privatization: "Privatizace" # todo: NEW TRANSLATION
+ PMR_privatization_desc: "Budeme provádět privatizaci podniků, žádná totální státní kontrola." # todo: NEW TRANSLATION
+ PMR_internet: "Rozvoj internetu" # todo: NEW TRANSLATION
+ PMR_internet_desc: "Zahájíme rozvoj internetových sítí v naší zemi, avšak je nutné okamžitě upevnit právo na cenzuru v této oblasti." # todo: NEW TRANSLATION
+ PMR_interrao: "Inter Rao" # todo: NEW TRANSLATION
+ PMR_interrao_desc: "Ruská společnost Inter Rao chce koupit naši vodní elektrárnu a investovat do ní značné prostředky za účelem modernizace technických komponent." # todo: NEW TRANSLATION
+ PMR_railway: "Obnovení infrastruktury" # todo: NEW TRANSLATION
+ PMR_railway_desc: "Následky války s Moldavskem se dosud projevují. Naše infrastruktura dosud nebyla obnovena, je čas ji opravit." # todo: NEW TRANSLATION
+ PMR_anti_opposition: "Potlačit opozici" # todo: NEW TRANSLATION
+ PMR_anti_opposition_desc: "Opoziční aktivita v naší zemi bude aktivně potlačována, možná ne tak otevřeně jako v jiných zemích, ale nedovolíme, aby naše země byla otřesena." # todo: NEW TRANSLATION
+ PMR_media: "Cenzura v televizi" # todo: NEW TRANSLATION
+ PMR_media_desc: "Měli bychom převzít kontrolu nad televizí; nedovolíme, aby tam mluvily opoziční figury." # todo: NEW TRANSLATION
+ PMR_imprison: "Represi proti agresivním opozičníkům" # todo: NEW TRANSLATION
+ PMR_imprison_desc: "Někteří opozičníci jsou doslova připraveni hodit na nás Molotovovy koktejly; pošleme je do vězení." # todo: NEW TRANSLATION
+ PMR_sheriff_based: "Podpořit vliv šerifa" # todo: NEW TRANSLATION
+ PMR_sheriff_based_desc: "Máme v úmyslu zachovat a udržet vliv šerifa, který drží naši republiku, navzdory negativním důsledkům jeho monopolů." # todo: NEW TRANSLATION
+ PMR_dictatorship: "Transnistrijská diktatura" # todo: NEW TRANSLATION
+ PMR_dictatorship_desc: "Budou nás nazývat diktátory a náš režim bude diktaturou, ale náš lid bude klidně spát." # todo: NEW TRANSLATION
+ PMR_anti_moldav_rhetoric: "Antimoldavská rétorika" # todo: NEW TRANSLATION
+ PMR_anti_moldav_rhetoric_desc: "Naše sjednocení s Moldavskem se nikdy nestane, nemáme v úmyslu to povolit a budeme to aktivně propagovat v médiích a dalšími prostředky ovlivňování populace." # todo: NEW TRANSLATION
+ PMR_referendums: "Referendum o postavení Transnistrie" # todo: NEW TRANSLATION
+ PMR_referendums_desc: "Máme v úmyslu uspořádat referendum o postavení Transnistrie, aby náš lid mohl konečně rozhodnout, jakou budoucnost chce vidět pro naši zemi." # todo: NEW TRANSLATION
+ PMR_shevchuk: "Druhý prezident Transnistrie" # todo: NEW TRANSLATION
+ PMR_shevchuk_desc: "Přišel čas na změny; nyní se stane novým prezidentem Transnistrie. Kdo povede naši zemi do jasné budoucnosti, nebo snad ne?" # todo: NEW TRANSLATION
+ PMR_anti_smirnov: "Politická kampaň proti Smirnovovi" # todo: NEW TRANSLATION
+ PMR_anti_smirnov_desc: "Igor Smirnov udělal hodně pro vznik Transnistrie jako nezávislého státu, avšak bohužel v posledních letech mu to stálo spíše stranou než pomohlo. Budeme bojovat proti jeho vlivu." # todo: NEW TRANSLATION
+ PMR_prepare_for_russia: "Příprava na integraci se Ruskem" # todo: NEW TRANSLATION
+ PMR_prepare_for_russia_desc: "Budeme nadále pokračovat v pro-ruském kurzu našeho předchůdce a vydáme dekret o přípravě na integraci naší legislativy s ruskou." # todo: NEW TRANSLATION
+ PMR_economist_from_russia: "Požádat Rusko o ekonomické specialisty" # todo: NEW TRANSLATION
+ PMR_economist_from_russia_desc: "Máme v úmyslu nabídnout ruské specialisty z centrální banky, kteří nám pomohou s reformou naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_agriculture_from_russia: "Ruská pomoc v zemědělském průmyslu" # todo: NEW TRANSLATION
+ PMR_agriculture_from_russia_desc: "Ruský agro-průmysl nám může výrazně pomoci v našem rozvoji; hodláme pozvat jejich specialisty do naší země." # todo: NEW TRANSLATION
+ PMR_against_sheriff: "Boj proti Sheriffovi" # todo: NEW TRANSLATION
+ PMR_against_sheriff_desc: "Budeme bojovat proti vlivu této holdingu a naše republika bude svobodná." # todo: NEW TRANSLATION
+ PMR_mlv: "Snažíme se navázat vztahy s Moldavskem" # todo: NEW TRANSLATION
+ PMR_mlv_desc: "Pokusíme se navázat vztahy s Moldavskem; možná budeme moci nabídnout způsoby integrace našich států." # todo: NEW TRANSLATION
+ PMR_krasno: "Vadim Krasnoselsky" # todo: NEW TRANSLATION
+ PMR_krasno_desc: "Vadim Nikolaevič Krasnoselsky je pridněstrijský státník, politik a postava vnitřních bezpečnostních složek. Předseda Nejvyšší rady Pridněstrovské Moldavské republiky, generálmajor milice." # todo: NEW TRANSLATION
+ PMR_military_reform: "Vojenská reforma" # todo: NEW TRANSLATION
+ PMR_military_reform_desc: "Naše armáda potřebuje vojenskou reformu; zdaleka zaostáváme za sousedy v technické a bojové výbavě." # todo: NEW TRANSLATION
+ PMR_russian_flag: "Ruská vlajka je druhou státní vlajkou" # todo: NEW TRANSLATION
+ PMR_russian_flag_desc: "Přijmeme ruskou vlajku jako druhou státní vlajku, aby bylo ihned jasné naše nejvyšší cíle: integrace do Ruska." # todo: NEW TRANSLATION
+ PMR_romanovs: "Uctívání Romanovců" # todo: NEW TRANSLATION
+ PMR_romanovs_desc: "Tragédie rodiny Romanovců je tragédií každého národa bývalého Ruského impéria a my uctíme jejich památku." # todo: NEW TRANSLATION
+ PMR_soc_ref: "Reforma naší péče" # todo: CHANGED
+ PMR_soc_ref_desc: "Naše nová sociální reforma bude zaměřena především na občany se zdravotním postižením a poskytneme jim všechno nezbytné pro plnou integraci do společnosti." # todo: NEW TRANSLATION
+ PMR_cis_2: "Partnerství se zeměmi CIS-2" # todo: NEW TRANSLATION
+ PMR_cis_2_desc: "Budeme nadále posilovat naše přátelské vztahy se zeměmi CIS-2; rozumí naší politické a ekonomické situaci jako málokdo jiný." # todo: NEW TRANSLATION
+ PMR_deccomus: "Zahájení dekomunizace" # todo: NEW TRANSLATION
+ PMR_deccomus_desc: "Budeme usilovat o navrácení měst a obcí k jejich pravým jménům, která měla v dobách Ruského impéria." # todo: NEW TRANSLATION
+ PMR_free_internet: "Svobodná síť" # todo: CHANGED
+ PMR_free_internet_desc: "Internet by měl být bez cenzury; diktatura nebude určovat, co lidé myslí." # todo: NEW TRANSLATION
+ PMR_orthodoxy: "Podpora Pravoslavné církve" # todo: NEW TRANSLATION
+ PMR_orthodoxy_desc: "Budeme aktivně podporovat pravoslaví v naší zemi, protože je to naše duchovní kotva." # todo: NEW TRANSLATION
+ PMR_lgbt: "Boj za tradiční rodinu" # todo: NEW TRANSLATION
+ PMR_lgbt_desc: "Naše země nepotřebuje žádné LGBT hodnoty; jen rodinu ruského impéria, která je velká a přátelská." # todo: NEW TRANSLATION
+ PMR_arms: "Povolit volné nošení zbraní" # todo: NEW TRANSLATION
+ PMR_arms_desc: "Bandité mohou získat zbraně jakýmkoliv způsobem; proč občanům nedovolíme se bránit?" # todo: NEW TRANSLATION
+ PMR_continues: "Bez změny kurzu" # todo: NEW TRANSLATION
+ PMR_continues_desc: "Budeme nadále sledovat naši cestu a nezměníme ji. Transnistrie nepotřebuje radikální politické změny." # todo: NEW TRANSLATION
+ PMR_tourism: "Rozvoj cestovního ruchu" # todo: NEW TRANSLATION
+ PMR_tourism_desc: "Musíme začít rozvíjet sektor cestovního ruchu; naše oblast je atraktivní a turisté o ni určitě projeví zájem." # todo: NEW TRANSLATION
+ PMR_hate_mlv: "Kritika Moldavska" # todo: NEW TRANSLATION
+ PMR_hate_mlv_desc: "Mluvíme pevně a jasně – naše cesty se s Moldavskem dávno rozešly." # todo: NEW TRANSLATION
+ PMR_free_weapons: "Volné nošení zbraní" # todo: NEW TRANSLATION
+ PMR_anti_gays: "Politika proti LGBT" # todo: NEW TRANSLATION
+ PMR_exercises: "Cvičení s Ruskou armádou" # todo: NEW TRANSLATION
+ PMR_political_nation_idea: "Transnistrijská politická národnost" # todo: NEW TRANSLATION
+ PMR_ruble_efffect_idea: "Integrace ruské legislativy" # todo: NEW TRANSLATION
+ PMR_internet_cencor: "Internetová cenzura" # todo: NEW TRANSLATION
+ PMR_father_nation_idea: "Otec národa" # todo: NEW TRANSLATION
+ PMR_victory_moldova: "Vítězství v občanské válce" # todo: NEW TRANSLATION
+ PMR_develop_turism: "Turismus" # todo: NEW TRANSLATION
+ PMR_fragment_ussr: "Fragment SSSR" # todo: NEW TRANSLATION
+ PMR_fragment_ussr_desc: "Transnistrie se doslova stala ukázkou sovětské minulosti a bohužel to pravděpodobně nezmění brzy kvůli útrapám republiky" # todo: NEW TRANSLATION
+ PMR_highway_focus: "Dálnicové zaměření" # todo: NEW TRANSLATION
+ PMR_14_army: "Operativní skupina ruských jednotek" # todo: NEW TRANSLATION
+ PMR_14_army_desc: "Operativní skupina ruských jednotek v transnistrském regionu Moldavské republiky je sdružením ozbrojených sil Ruské federace, rozmístěným na území neuznané Pridněstrovské Moldavské republiky, která existuje od roku 1995." # todo: NEW TRANSLATION
+ PMR_sheriff_pmc: "Vytvořit vlastní PMCs" # todo: NEW TRANSLATION
+ PMR_sheriff_pmc_desc: "Jsme připraveni vytvořit naše vlastní soukromé vojenské společnosti." # todo: NEW TRANSLATION
+ PMR_sheriff_state: "Stát je korporace" # todo: NEW TRANSLATION
+ PMR_sheriff_state_desc: "Dokončili jsme náš velký plán." # todo: NEW TRANSLATION
+ PMR_monarchism: "Monarchistická ústava" # todo: CHANGED
+ PMR_monarchism_desc: "Transnistrie je považována za rezervu SSSR, avšak názory místních obyvatel se již dlouho změnily. SSSR je nyní spojován se zříceninami a chaosem; možná dědictví Ruského impéria je pro nás vhodnější?" # todo: NEW TRANSLATION
+ PMR_const: "Tradiční reforma" # todo: CHANGED
+ PMR_const_desc: "Naše země hodlá radikálně změnit svůj systém; k tomu začneme s tím nejdůležitějším: reformou ústavy." # todo: NEW TRANSLATION
+ PMR_mon_const: "Královská vláda" # todo: CHANGED
+ PMR_mon_const_desc: "Reformy byly dokončeny a jsme připraveni oznámit, že Transnistrie je nyní ústavní monarchií." # todo: NEW TRANSLATION
+ PMR_opponents: "Boj proti opozici" # todo: NEW TRANSLATION
+ PMR_opponents_desc: "Opozice je zjevně nespokojena s novým systémem státu a protesty ještě více zintenzivnila; musíme s tím něco udělat." # todo: NEW TRANSLATION
+ PMR_church: "Církev je státní institucí" # todo: NEW TRANSLATION
+ PMR_church_desc: "Vrátíme se k praxi Ruského impéria a obnovíme dřívější postavení Církve." # todo: NEW TRANSLATION
+ PMR_not_soviet: "Nejsme fragment SSSR" # todo: NEW TRANSLATION
+ PMR_not_soviet_desc: "Transnistrie je součástí Ruského impéria a budeme tuto identitu aktivně rozvíjet. Být fragmentem SSSR je pro nás ostudou." # todo: NEW TRANSLATION
+ PMR_general: "Generál.Křesťanský.Monarchista" # todo: NEW TRANSLATION
+ PMR_general_desc: "Tohle jsou kvality, které náš vůdce má a které by měl mít každý ruský vlastenec." # todo: NEW TRANSLATION
+ PMR_drozdov: "Oživit Dobrovolnou armádu" # todo: NEW TRANSLATION
+ PMR_drozdov_desc: "Dobrovolná armáda byla vytvořena během Ruské občanské války. Bránila zájmy bílého hnutí a byla skutečnou armádou patriotů a obránců Ruska; obnovíme ji a povedeme ji pod naší vlajkou." # todo: NEW TRANSLATION
+ PMR_kornilov: "Oživit Kornilovský pluk" # todo: NEW TRANSLATION
+ PMR_kornilov_desc: "Uctíme padlé vojáky Kornilovského pluku a znovu jej zařadíme do řad naší armády." # todo: NEW TRANSLATION
+ PMR_revive: "Oživit Drozdovský pluk" # todo: NEW TRANSLATION
+ PMR_revive_desc: "Uctíme padlé vojáky Drozdovského pluku a znovu jej zařadíme do řad naší armády." # todo: NEW TRANSLATION
+ PMR_emperess_maria: "Úřad institucí císařovny Marie" # todo: NEW TRANSLATION
+ PMR_emperess_maria_desc: "Obnovíme tento úřad a bude se zabývat dostupnými sanatorii a nemocnicemi, čímž zlepšíme zdravotní péči našich občanů." # todo: NEW TRANSLATION
+ PMR_nationalized: "Znárodnit společnosti" # todo: CHANGED
+ PMR_nationalized_desc: "Naše schopnost prosadit nové tradiční normy bude určena naší schopností přímo řídit průmysl." # todo: CHANGED
+ PMR_agri_sup: "Podpora agro-průmyslového sektoru" # todo: NEW TRANSLATION
+ PMR_agri_sup_desc: "Nemůžeme očekávat podporu rolníků, aniž bychom zajistili, že budou mít prostředky k přežití." # todo: CHANGED
+ PMR_lux_tax: "Zavést daň z luxusu" # todo: CHANGED
+ PMR_lux_tax_desc: "Bohatí by měli platit více daní, protože naše pokladna není neomezená, ale spíše velmi malá." # todo: NEW TRANSLATION
+ PMR_monarchy_guard: "Císařská stráž" # todo: NEW TRANSLATION
+ PMR_monarchy_guard_desc: "Jaký monarch je bez své Stráže? Na území Svatého stolce bude zřízena Císařská stráž, která bude chránit stát a císaře." # todo: NEW TRANSLATION
+ PMR_dedd_sheriff: "Uvěznit šerifa" # todo: NEW TRANSLATION
+ PMR_dedd_sheriff_desc: "Je čas ukončit vliv této holdingové společnosti na naší republice, osvobodíme se!" # todo: NEW TRANSLATION
+ PMR_rule_romanov: "Panování Romanovců" # todo: NEW TRANSLATION
+ PMR_fragment_rus_empire: "Část Ruského impéria" # todo: NEW TRANSLATION
+ PMR_russian_legacy: "Ruské dědictví" # todo: NEW TRANSLATION
+ PMR_emperess_maria_idea: "Úřad institucí císařovny Marie" # todo: NEW TRANSLATION
+ PMR_royal_leib_guard_idea: "Leibova garda" # todo: NEW TRANSLATION
+ transnistria.5.t: "Předčasné volby" # todo: NEW TRANSLATION
+ transnistria.5.d: "" # todo: NEW TRANSLATION
+ transnistria.5.a: "Yevgeny Shevchuk" # todo: NEW TRANSLATION
+ transnistria.5.b: "Igor Smirnov" # todo: NEW TRANSLATION
+ transnistria.5.c: "Anatoliy Kaminski" # todo: NEW TRANSLATION
+ transnistria.6.t: "Socha Lenina zmizí" # todo: NEW TRANSLATION
+ transnistria.6.d: "Socha ruského revolucionáře Vladimira Lenina zmizela z hlavního města Tiraspolu záhadně. Měli bychom začít pátrat po soše, nebo ji úplně opustit?" # todo: NEW TRANSLATION
+ transnistria.6.a: "Začít pátrání" # todo: NEW TRANSLATION
+ transnistria.6.b: "To je ztráta času" # todo: NEW TRANSLATION
+ transnistria.7.t: "Obnovení Vladimira Lenina" # todo: NEW TRANSLATION
+ transnistria.7.d: "Po pátrání se ukázalo, že hledání sochy bylo neúspěšné, prezident [PMR.GetLeader] byl nalezen mrtvý ve svém úřadu, a socha Vladimira Lenina byla nalezena na jeho místě a nyní se dívá na vedení naší velké země, jako to dělal během Ruské revoluce." # todo: NEW TRANSLATION
+ transnistria.7.a: "A Lenin je znovu mladý" # todo: NEW TRANSLATION
+ transnistria.8.t: "Budoucnost Transnistrie" # todo: NEW TRANSLATION
+ transnistria.8.d: "Po nedávném sjednocení Moldavska s Rumunskem je naše země nyní na nejkritičtějších bodech, kdy čelíme ještě větší síle, než kdy dřív. Pokud chceme, aby naše tradice přežily, musíme rozhodnout o budoucnosti naší země. Zpočátku velká část našeho obyvatelstva vyjádřila velkou podporu sjednocení s Ruskou federací, hlavně kvůli historickým a kulturním vazbám. Další návrh volá po sjednocení s naším sousedem Ukrajinou, říkajíc, že by to bylo lepší řešení hlavně proto, že Rusko nemá zemní spojení s Transnistrií a že také sdílíme mnoho podobností s ukrajinským lidem. Nakonec další návrh volá po udržení transnistrské nezávislosti a multikulturnosti a nezařazování naší země a hodnot do vlivu cizích mocností, což je to, co naše země bojovala bránit v Transnistrské válce z roku 1992. Země je rozdělena a jedna z možností by nás mohla ovlivnit buď k lepšímu, nebo horšímu." # todo: NEW TRANSLATION
+ transnistria.8.a: "Spojíme se s našimi ruskými bratry a sestrami!" # todo: NEW TRANSLATION
+ transnistria.8.b: "Spojíme se s našimi ukrajinskými bratry a sestrami!" # todo: NEW TRANSLATION
+ transnistria.8.c: "Udržíme si naši nezávislost!" # todo: NEW TRANSLATION
+ transnistria.9.t: "Transnistrie žádá o sjednocení" # todo: NEW TRANSLATION
+ transnistria.9.d: "Poté, co Moldavsko nedávno sjednotilo s Rumunskem, Transnistrie se bojí, že bude absorbována Rumunskem a požádala, aby se stala územím [ROOT.GetName]. Zatímco to je skvělá příležitost pro nás rozšířit vliv v regionu a ukázat naši vojenskou sílu, Transnistrie je stále nárokována Rumunskem a pokud bychom ji integrovali, mohli bychom být v rozporu s Rumunskem, proto musíme vybrat moudře." # todo: NEW TRANSLATION
+ transnistria.9.a: "Integrovat Transnistrii do [ROOT.GetName]" # todo: NEW TRANSLATION
+ transnistria.9.b: "Odmítnout nabídku Transnistrie" # todo: NEW TRANSLATION
+ transnistria.10.t: "[FROM.GetName] Přijímá" # todo: NEW TRANSLATION
+ transnistria.10.d: "Dnes [FROM.GetName] přijal náš požadavek na unifikaci a spolupracuje s naší správou na zajištění hladkého přechodu." # todo: NEW TRANSLATION
+ transnistria.10.a: "Pojďme se spojit se svými bratry a sestrami!" # todo: NEW TRANSLATION
+ transnistria.11.t: "[FROM.GetName] Odmítá" # todo: NEW TRANSLATION
+ transnistria.11.d: "Dnes [FROM.GetName] odmítl náš požadavek na integraci, a proto bude Transnistrie muset postupovat sama." # todo: NEW TRANSLATION
+ transnistria.11.a: "Promarněná šance" # todo: NEW TRANSLATION
+ transnistria.12.t: "[FROM.GetName] Přijímá" # todo: NEW TRANSLATION
+ transnistria.12.d: "Dnes [FROM.GetName] přijal náš požadavek na unifikaci a spolupracuje s naší správou na zajištění hladkého přechodu." # todo: NEW TRANSLATION
+ transnistria.12.a: "Pojďme se spojit se svými bratry a sestrami!" # todo: NEW TRANSLATION
+ transnistria.14.t: "Nové továrny" # todo: NEW TRANSLATION
+ transnistria.14.d: "Potřebujeme továrny, aby naše ekonomika mohla růst. Můžeme peníze použít na posílení naší armády. Měli bychom podpořit civilní nebo vojenský průmysl?" # todo: NEW TRANSLATION
+ transnistria.14.a: "Postavte civilní továrnu." # todo: NEW TRANSLATION
+ transnistria.14.b: "Postavte vojenskou továrnu." # todo: NEW TRANSLATION
+ transnistria.15.t: "Vylepšená ekonomika" # todo: NEW TRANSLATION
+ transnistria.15.d: "Ekonomika roste. Je čas rozhodnout, jakou budoucnost si přejeme. Můžeme dále růst ekonomiku a stát se regionální ekonomickou mocností, nebo využít současnou ekonomickou sílu k vybudování velké armády." # todo: NEW TRANSLATION
+ transnistria.15.a: "Civilní budoucnost je naše nejlepší volba." # todo: NEW TRANSLATION
+ transnistria.15.b: "Chceme vojenskou budoucnost." # todo: NEW TRANSLATION
+ transnistria.16.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
+ transnistria.16.d: "Podněstří uspořádalo další referendum o připojení k naší zemi a lidé jednomyslně hlasovali „ano“. Splníme jejich očekávání, nebo je odmítneme?" # todo: CHANGED
+ transnistria.16.a: "Ano" # todo: NEW TRANSLATION
+ transnistria.16.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.17.t: "Transnistrie chce patřit zpět naší zemi" # todo: NEW TRANSLATION
+ transnistria.17.d: "Transnistrie uspořádala referendum o připojení, ačkoliv je správné spíše hovořit o návratu do Moldavska. Jeho výsledek byl kladný, a tak nyní můžeme konečně vyřešit transnistrský konflikt." # todo: NEW TRANSLATION
+ transnistria.17.a: "Transnistrie je naše" # todo: NEW TRANSLATION
+ transnistria.17.b: "Oni nepotřebujeme." # todo: NEW TRANSLATION
+ transnistria.18.t: "Vojenská doktrína Transnistrie" # todo: NEW TRANSLATION
+ transnistria.18.d: "Naše země je uprostřed dvou ohní, a naše vojenská doktrína by měla odrážet stav naší země. Koho budeme považovat za potenciálního protivníka?" # todo: NEW TRANSLATION
+ transnistria.18.a: "Rumunsko" # todo: NEW TRANSLATION
+ transnistria.18.b: "Ukrajina" # todo: NEW TRANSLATION
+ transnistria.19.t: "Transnistrie žádá, abychom jim poskytli Iskandery" # todo: NEW TRANSLATION
+ transnistria.19.d: "Vláda Transnistrie nám nabídla umístit Iskandery na jejím území, abychom zajistili ještě větší bezpečnost jejího území. Budeme souhlasit s takovým riskantním krokem?" # todo: NEW TRANSLATION
+ transnistria.19.a: "Ano" # todo: NEW TRANSLATION
+ transnistria.19.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.20.t: "Povstání v Oděse" # todo: NEW TRANSLATION
+ transnistria.20.d: "Ráno jsme obdrželi poměrně nečekanou a nepříjemnou zprávu: separatistické povstání se odehrálo v Oděse pod hesly nezávislosti určité Oděské republiky. Navíc stopy separatistů pocházejí přímo z Transnistrie." # todo: NEW TRANSLATION
+ transnistria.20.a: "Co to sakra?" # todo: NEW TRANSLATION
+ transnistria.21.t: "Lojalisté z Gagauzie" # todo: NEW TRANSLATION
+ transnistria.21.d: "Můžeme Moldávii ještě více oslabit tím, že se pokusíme vyvolat gagauzské povstání v republice se stejným názvem, ale bude nás to stát nějaké peníze, navíc nevíme jistě, zda budeme mít čas jim pomoci." # todo: NEW TRANSLATION
+ transnistria.21.a: "Vyvolat povstání" # todo: NEW TRANSLATION
+ transnistria.21.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.22.t: "Ukrajina nám předala Oděsu" # todo: NEW TRANSLATION
+ transnistria.22.d: "Ukrajinská vláda nezasáhla aktivně a nepřistoupila k konfrontaci s námi, což nás dokonce překvapilo." # todo: NEW TRANSLATION
+ transnistria.22.a: "Tohle... dobrá zpráva?" # todo: NEW TRANSLATION
+ transnistria.23.t: "Prezident Generál" # todo: NEW TRANSLATION
+ transnistria.23.d: "Náš prezident, který se rovněž prohlásil vrchním velitelem, převzal vedení ozbrojených sil, aby se v případě potřeby osobně zúčastnil vojenských operací naší země." # todo: NEW TRANSLATION
+ transnistria.23.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.24.t: "Integrace ruské legislativy" # todo: NEW TRANSLATION
+ transnistria.24.d: "Rozhodli jsme se integrovat ruskou legislativu do naší, nyní bude naše sloučení s Ruskem mnohem jednodušší... Pokud k tomu dojde, samozřejmě." # todo: NEW TRANSLATION
+ transnistria.24.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.25.t: "" # todo: NEW TRANSLATION
+ transnistria.25.d: "" # todo: NEW TRANSLATION
+ transnistria.25.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.26.t: "Referendum o připojení k Ukrajině" # todo: NEW TRANSLATION
+ transnistria.26.d: "Podněstří uspořádalo další referendum o připojení k naší zemi a lidé jednomyslně hlasovali „ano“. Splníme jejich očekávání, nebo je odmítneme?" # todo: CHANGED
+ transnistria.26.a: "Ano" # todo: NEW TRANSLATION
+ transnistria.26.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.28.t: "Společné vojenské akce" # todo: NEW TRANSLATION
+ transnistria.28.d: "Oděská republika se okamžitě obrátila na nás s žádostí o vojenskou pomoc. Nyní mohou naše jednotky postupovat na území obou států." # todo: NEW TRANSLATION
+ transnistria.28.a: "Pěkné" # todo: NEW TRANSLATION
+ transnistria.29.t: "Referendum o postavení Transnístrie" # todo: NEW TRANSLATION
+ transnistria.29.d: "Uspořádali jsme referendum, ve kterém náš lid vyjádřil přání zůstat nezávislý, a my mu nechceme toto právo upřít! Transnístrie bude nadále usilovat o svou nezávislost." # todo: NEW TRANSLATION
+ transnistria.29.a: "Pěkné" # todo: NEW TRANSLATION
+ transnistria.30.t: "Pomoc od specialistů centrální banky" # todo: NEW TRANSLATION
+ transnistria.30.d: "Transnistrské úřady žádají naše specialisty z centrální banky, aby jim pomohli s reformou hospodářství; to bude vynikající příležitost pro zlepšení stavu hospodářství Transnístrie a posílení našeho vlivu v regionu." # todo: NEW TRANSLATION
+ transnistria.30.a: "Pomůžeme jim" # todo: NEW TRANSLATION
+ transnistria.30.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.31.t: "Ruští specialisté centrální banky" # todo: NEW TRANSLATION
+ transnistria.31.d: "Ruské úřady souhlasily s tím, že nám pomohou a pošlou specialisty z centrální banky, aby pomohli reformovat ekonomiku" # todo: NEW TRANSLATION
+ transnistria.31.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.32.t: "Ruští specialisté centrální banky" # todo: NEW TRANSLATION
+ transnistria.32.d: "Ruské úřady nám odmítly pomoci a neposlaly specialisty centrální banky, aby pomohli reformovat hospodářství." # todo: NEW TRANSLATION
+ transnistria.32.a: "Smutné" # todo: NEW TRANSLATION
+ transnistria.33.t: "Pomoc v zemědělském odvětví" # todo: NEW TRANSLATION
+ transnistria.33.d: "Vláda Transnístrie žádá o pomoc při rozvoji zemědělského odvětví prostřednictvím našich agro-průmyslových kampaní. Z této dohody nepochybně budeme těžit a zvýšit náš vliv v regionu." # todo: NEW TRANSLATION
+ transnistria.33.a: "Pomůžeme jim" # todo: NEW TRANSLATION
+ transnistria.33.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.34.t: "Ruští specialisté zemědělského průmyslu" # todo: NEW TRANSLATION
+ transnistria.34.d: "Ruské úřady souhlasily s tím, že nám pomohou a pošlou specialisty pro rozvoj našeho agro-průmyslu." # todo: NEW TRANSLATION
+ transnistria.34.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.35.t: "Ruští specialisté zemědělského průmyslu" # todo: NEW TRANSLATION
+ transnistria.35.d: "Ruské úřady odmítly nám pomoci a neposlaly odborníky k rozvoji našeho agro-průmyslu." # todo: NEW TRANSLATION
+ transnistria.35.a: "Smutné" # todo: NEW TRANSLATION
+ transnistria.36.t: "Transnístrie zve naše mírové jednotky" # todo: NEW TRANSLATION
+ transnistria.36.d: "Vlády Republiky Transnístrie zásadně změnily směr zahraniční politiky a nyní hodlají opustit patronát Ruska, již vyhnali své mírové jednotky a volají nás. Máme zasáhnout?" # todo: NEW TRANSLATION
+ transnistria.36.a: "Ano" # todo: NEW TRANSLATION
+ transnistria.36.b: "Ne" # todo: NEW TRANSLATION
+ transnistria.37.t: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
+ transnistria.37.d: "Ukrajinské orgány kladně reagovaly na naši žádost o jejich mírové jednotky v naší zemi; jejich jednotky okamžitě dorazí na naše území." # todo: NEW TRANSLATION
+ transnistria.37.a: "Dobré" # todo: NEW TRANSLATION
+ transnistria.38.t: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
+ transnistria.38.d: "Ukrajinské orgány reagovaly negativně na naši žádost o mírové jednotky v naší zemi; zdá se, že jsme prohráli vše." # todo: NEW TRANSLATION
+ transnistria.38.a: "Smutné" # todo: NEW TRANSLATION
+ transnistria.39.t: "Naše mírové jednotky v Transnístrii" # todo: NEW TRANSLATION
+ transnistria.39.d: "Vláda Transnístrie učinila pro nás neočekávaný krok a oznámila, že musíme okamžitě stáhnout naše mírové jednotky z Transnístrie. To ohrožuje náš vliv v tomto regionu." # todo: NEW TRANSLATION
+ transnistria.39.a: "Smutné" # todo: NEW TRANSLATION
+ transnistria.40.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
+ transnistria.40.d: "Ruská vláda nás oficiálně přijala do svých řad! Nyní jsme se všichni stali součástí velkého státu s velkým dědictvím znovu." # todo: NEW TRANSLATION
+ transnistria.40.a: "Hurá!" # todo: NEW TRANSLATION
+ transnistria.41.t: "Referendum o vstupu do Ruska" # todo: NEW TRANSLATION
+ transnistria.41.d: "Ruská vláda nám odmítla umožnit vstup do svých řad. Jsme nesmírně smutní a doufáme, že v budoucnu své rozhodnutí změní." # todo: NEW TRANSLATION
+ transnistria.41.a: "Smutné" # todo: NEW TRANSLATION
+ transnistria.42.t: "Integrace Transnístrie" # todo: NEW TRANSLATION
+ transnistria.42.d: "Jsme připraveni konečně začlenit Transnístrii do naší země." # todo: NEW TRANSLATION
+ transnistria.42.a: "Konečně" # todo: NEW TRANSLATION
+ transnistria.43.t: "Děkujeme, že jste zvolili Transnístrii!" # todo: NEW TRANSLATION
+ transnistria.43.d: "Transnístrie byla před rokem aktualizována, ale rozhodl jsem se zcela aktualizovat stávající obsah, abych ještě více obohatil hratelnost pro tuto malou zemi! V tomto patche bude Rusko a Transnístrie mít větší spolupráci než dříve, ale to neznamená, že vaše cesta nutně povede k Rusku. Můžete zvolit obě strany - Moldavsko i Ukrajina! A pokud budete zcela lstiví, můžete vytvořit Transnístrskou říši! Transnístrie byla aktualizována v souladu s mými vlastními standardy obsahu, které jsem implementoval v ruské větvi, takže i ekonomická větev je velmi podobná ruské. Doufám, že si tento aktualizovaný obsah užijete a zahrajete si zajímavou hru za Transnístrii s přítelem nebo přáteli! - Lord Bogdanoff Vývojář Transnístrie a člen týmu pro přepracování Ruska" # todo: NEW TRANSLATION
+ transnistria.43.a: "Děkuji" # todo: NEW TRANSLATION
+ transnistria.44.t: "Kolaps ukrajinské fronty" # todo: NEW TRANSLATION
+ transnistria.44.d: "Ruské kolony postupují na západ a kyjevské velení ztratilo kontrolu nad jižním směrem. Oděská oblast, pás pobřeží, který nás od roku 1990 odděluje od moře, je bráněna jen o málo více než záložníky. Naši štábní důstojníci upozorňují, že sklady v Kolbasně jsou stále plné a že cesta do Tiraspolu vede oběma směry. Vedení v Tiraspolu zvažuje tuto příležitost proti jistotě, že Ukrajina, pokud přežije, nezapomene, kdo proti ní vyrazil." # todo: NEW TRANSLATION
+ transnistria.44.a: "Tiraspol nebude stát stranou." # todo: NEW TRANSLATION
+ transnistria.44.b: "Tohle není naše válka." # todo: NEW TRANSLATION
+ transnistria.45.t: "Generál z Krasnojarsku" # todo: NEW TRANSLATION
+ transnistria.45.d: "Alexander Lebeď velel 14. gardové armádě, když stála mezi Tiraspolí a moldavským postupem, a v této republice stále žijí důstojníci, kteří vysloví jeho jméno dříve než Smirnovovo. Nyní vládne Krasnojarskému kraji, šest tisíc kilometrů východně od Dněstru, létá mezi hornickými městy v zapůjčených vrtulnících a pře s Moskvou kvůli rozpočtu kraje. Náš štáb tvrdí, že republiku vybudovanou vojáky by měl vést voják a že pozvání z Tiraspolu by nezůstalo bez odpovědi. Nebylo by to levné. Úřadující ruský gubernátor neopouští domov zadarmo a Moskva by za přimhouření očí chtěla víc než rubly." # todo: NEW TRANSLATION
+ transnistria.45.a: "Přiveďte generála domů." # todo: NEW TRANSLATION
+ transnistria.45.b: "Tiraspol není jeho, aby mu velel." # todo: NEW TRANSLATION
+ transnistria.46.t: "Generál se domů nevrátí" # todo: NEW TRANSLATION
+ transnistria.46.d: "Mi-8 s Alexandrem Lebeděm narazil v kopcích Krasnojarského kraje do elektrického vedení a v mlze se zřítil. Gubernátor kraje, muž, který v roce 1992 držel linii na Dněstru, zahynul spolu s dalšími sedmi lidmi na palubě. Tiraspol zaslal Moskvě soustrast. Důstojníci, kteří deset let čekali na jeho návrat, už nemají na co čekat, a ať už by vláda vojáků v této republice pod jeho velením vypadala jakkoli, nyní už vybudována nebude." # todo: NEW TRANSLATION
+ transnistria.46.a: "Je pohřben na Novoděvičím hřbitově." # todo: NEW TRANSLATION
+ transnistria_news.1.t: "Transnístrie se stane součástí Ruska" # todo: NEW TRANSLATION
+ transnistria_news.1.d: "Vlády neuznané Pridnestrovské Moldavské republiky uspořádaly referendum o vstupu do Ruska, v němž většina hlasovala pro. Ruská vláda přijala výsledek referenda a oznámila začlenění Transnístrie do Ruska." # todo: NEW TRANSLATION
+ transnistria_news.1.a: "Zajímavé." # todo: NEW TRANSLATION
+ transnistria_news.3.t: "Transnístrie se stává součástí Moldavska" # todo: NEW TRANSLATION
+ transnistria_news.3.d: "Vlády neuznané Pridnestrovské Moldavské republiky uspořádaly referendum o připojení k Moldavsku, v němž většina hlasovala pro. Moldavská vláda přijala výsledek referenda a oznámila začlenění Transnístrie do Moldavska." # todo: NEW TRANSLATION
+ transnistria_news.3.a: "Zajímavé." # todo: NEW TRANSLATION
+ transnistria_news.4.t: "Transnístrie anektovala Moldavsko" # todo: NEW TRANSLATION
+ transnistria_news.4.d: "Nečekané zprávy přicházejí z Moldavska. Transnístrie, dříve součást tohoto státu, oznámila anexi Moldavska a obsazení jeho postavení jako pokračování moldavské státnosti." # todo: NEW TRANSLATION
+ transnistria_news.4.a: "Zajímavé." # todo: NEW TRANSLATION
+ PMR_general_monarchist_christian: "Generální monarchisticko-křesťanský" # todo: NEW TRANSLATION
+ PMR_sheriff_finish: "Šeriff dokončen" # todo: NEW TRANSLATION
+ PMR_commi: "Sovětské znovusjednocení" # todo: CHANGED
+ PMR_commi_desc: "Komunismus se znovu vrátil do Transnístrie. Budou komunisti znovu vládnout zemi?" # todo: NEW TRANSLATION
+ PMR_single: "Jediný směr" # todo: CHANGED
+ PMR_single_desc: "Komunistická strana Transnístrie zná nejlépe ve všech sférách, které se týkají státu. Pokud ostatní lidé ustoupí z cesty, můžeme se pustit do budování skutečné komunistické utopie a tentokrát uspějeme." # todo: NEW TRANSLATION
+ PMR_commi_ideology: "Ideologické přepracování" # todo: CHANGED
+ PMR_commi_ideology_desc: "Je na čase vrátit ideologické metody sovětské éry vzdělávání a převést je do moderní podoby" # todo: NEW TRANSLATION
+ PMR_commi_promka: "Průmyslové oživení" # todo: NEW TRANSLATION
+ PMR_commi_promka_desc: "Průmysl Transnístrie pomalu odumírá, je na čase tento negativní trend obrátit" # todo: NEW TRANSLATION
+ PMR_collectivism: "Využít kolektivistickou rétoriku" # todo: CHANGED
+ PMR_collectivism_desc: "Kolektivizace už jednou fungovala, takže ji zopakujeme." # todo: NEW TRANSLATION
+ PMR_pioneer: "Pionýr" # todo: NEW TRANSLATION
+ PMR_pioneer_desc: "Mladí lidé by neměli být nečinní, proto oživíme pionýrskou organizaci." # todo: NEW TRANSLATION
+ PMR_marxism: "Marxismus ve školách" # todo: NEW TRANSLATION
+ PMR_marxism_desc: "Učební osnovy budou nutně obsahovat Marxe." # todo: NEW TRANSLATION
+ PMR_education: "Učit svobodně" # todo: CHANGED
+ PMR_education_desc: "Vzdělání by mělo být zdarma a dostupné pro každého občana našeho slavného státu." # todo: NEW TRANSLATION
+ PMR_atheism: "Potlačit církev" # todo: CHANGED
+ PMR_atheism_desc: "Náboženství je opium lidu, takže je čas bojovat s náboženstvím." # todo: NEW TRANSLATION
+ PMR_fixe: "První pětiletka" # todo: NEW TRANSLATION
+ PMR_fixe_desc: "Volné ekonomické modely západních států nejsou budoucností socialistického státu. Návrat k plánované ekonomice, nejlépe ve formě klasických sovětského stylu pětiletých plánů, zajistí vládě neomezený vliv na dříve nekontrolovanou ekonomiku." # todo: NEW TRANSLATION
+ PMR_workers: "Podpora pracujících" # todo: NEW TRANSLATION
+ PMR_workers_desc: "Dělnická třída je naší oporou a silou, a vždy ji budeme podporovat v boji proti kapitalistické nákaze!" # todo: NEW TRANSLATION
+ PMR_anti_nationalism: "Boj proti opozici" # todo: NEW TRANSLATION
+ PMR_anti_nationalism_desc: "Žádná milost pro ničivé prvky, které chtějí zdržet náš postup k komunismu!" # todo: NEW TRANSLATION
+ PMR_army_corruptions: "Zastavte prodej zbraní" # todo: NEW TRANSLATION
+ PMR_army_corruptions_desc: "Máme v úmyslu zastavit prodej zbraní ze skladů v Kolbasnaya a zastavit jejich distribuci na obou stranách." # todo: NEW TRANSLATION
+ PMR_clean_governments: "Vyčistěte vládu" # todo: NEW TRANSLATION
+ PMR_clean_governments_desc: "Všechny korupční a ničivé prvky budou vyhnány z naší vlády" # todo: NEW TRANSLATION
+ PMR_ded_sheriff: "Ukončit šerifův holding" # todo: NEW TRANSLATION
+ PMR_ded_sheriff_desc: "Šerifův holding nás drží pod svou kontrolou už příliš dlouho! Je načase to dokončit" # todo: NEW TRANSLATION
+ PMR_chinese_economic: "Čínské ekonomické zkušenosti" # todo: NEW TRANSLATION
+ PMR_chinese_economic_desc: "Přijmeme čínský ekonomický systém jako základ naší ekonomické politiky a podle našeho názoru vypadá slibně." # todo: NEW TRANSLATION
+ PMR_national_industry: "Převzít kontrolu nad průmyslem" # todo: CHANGED
+ PMR_national_industry_desc: "Budeme podporovat náš průmysl a rozvíjet ho. Naše země potřebuje nové podniky, které nahradí ty, jež zanikly po zhroucení SSSR." # todo: NEW TRANSLATION
+ PMR_mobilise: "Mobilizovat skupiny" # todo: CHANGED
+ PMR_mobilise_desc: "Naše armáda potřebuje lidi, kteří budou hájit zájmy naší země, kamkoliv to strana vyžaduje." # todo: NEW TRANSLATION
+ PMR_people_militia_desc: "Jsme připraveni přijmout zákon o vytvoření lidové milice, která bude jistým druhem rezervy pro teritoriální obranu. V každé vesnici by měla být vycvičená skupina lidí k odvrácení nepřítele, s následnou transformací do partyzánského hnutí." # todo: NEW TRANSLATION
+ PMR_revoult_spirit: "Revoluční duch" # todo: NEW TRANSLATION
+ PMR_revoult_spirit_desc: "Duch revoluce kráčí Transnistríí a my ho budeme nést dál." # todo: NEW TRANSLATION
+ PMR_interbrigade: "Mezinárodní brigáda" # todo: NEW TRANSLATION
+ PMR_interbrigade_desc: "Naši vojáci jsou připraveni podílet se na mezinárodní službě na ochranu trpících občanů jiných států." # todo: NEW TRANSLATION
+ PMR_anti_corrupt_company: "Boj proti korupci" # todo: NEW TRANSLATION
+ PMR_anti_corrupt_company_desc: "Korumpovaní úředníci nemají v Transnistrii místo!" # todo: NEW TRANSLATION
+ PMR_new_chinush: "Nová generace úředníků" # todo: NEW TRANSLATION
+ PMR_new_chinush_desc: "Vychováme novou generaci civilních úředníků, kteří budou věrní zemi a ne své kapse." # todo: NEW TRANSLATION
+ PMR_new_five: "Pokračovat v pětiletém plánu" # todo: CHANGED
+ PMR_new_five_desc: "Systém pětiletých plánů se během sovětské éry osvědčil; hodláme ho znovu využít." # todo: NEW TRANSLATION
+ PMR_red_army_pmr: "Rudá armáda Transnistrie" # todo: NEW TRANSLATION
+ PMR_red_army_pmr_desc: "Náš stát potřebuje silnou armádu a nejsilnější armádou je Rudá Jednička!" # todo: NEW TRANSLATION
+ PMR_red_moldova: "Návrat Moldavské SSR" # todo: NEW TRANSLATION
+ PMR_red_moldova_desc: "Moldavští občané dlouho trpěli pod jhem západních vlád a jejich podřízených, kteří Moldavii učinili jednou z nejchudších zemí Evropy i světa, je čas je osvobodit od kapitalistického útlaku." # todo: NEW TRANSLATION
+ PMR_new_trans: "Nová éra Transnistrie" # todo: NEW TRANSLATION
+ PMR_new_trans_desc: "" # todo: NEW TRANSLATION
+ PMR_chinese_economic_tt: "[CHI.GetFlag] Čínský §HNásobič vlivu§!: §R+15%§!" # todo: NEW TRANSLATION
+ PMR_five_year_plans_idea: "Pětiletý plán" # todo: NEW TRANSLATION
+ PMR_the_rights_of_the_worker_idea: "Rozšířená práva pracovníků" # todo: NEW TRANSLATION
+ PMR_commi_education_idea: "Komunistické vzdělávání" # todo: NEW TRANSLATION
+ PMR_control_economic_idea: "Řízená ekonomika" # todo: NEW TRANSLATION
+ PMR_collectivism_idea: "Kolektivismus" # todo: NEW TRANSLATION
+ PMR_marxist_reeducation_idea: "Marxismus ve vzdělávání" # todo: NEW TRANSLATION
+ PMR_people_militia: "Lidová milice" # todo: NEW TRANSLATION
+ PMR_revoult_spirits_idea: "Revoluční duch" # todo: NEW TRANSLATION
+ PMR_interbrigade_idea: "Mezinárodní brigáda" # todo: NEW TRANSLATION
+ PMR_anti_corruption_fight: "Antikorupční politika" # todo: NEW TRANSLATION
+ PMR_just: "Republikánská Transnistrie" # todo: NEW TRANSLATION
+ PMR_just_desc: "Naše strana bude šířit myšlenky socialismu a patriotismu masám. Transnistrie byla a bude nezávislá!" # todo: NEW TRANSLATION
+ PMR_patriotism: "Transnistrijská národní garda" # todo: NEW TRANSLATION
+ PMR_patriotism_desc: "Na základě příkladů jiných zemí hodláme vytvořit naši vlastní národní gardu, která bude naším záložním nástrojem v případě vzbouřených nálad v jiných ozbrojených silách." # todo: NEW TRANSLATION
+ PMR_small_business_support: "Rychlý rozvoj vědy" # todo: NEW TRANSLATION
+ PMR_small_business_support_desc: "Věda byla vždy motor pokroku a my budeme podporovat naše vědce, bez ohledu na to, kolik jich je." # todo: NEW TRANSLATION
+ PMR_infra: "Investice do infrastruktury" # todo: NEW TRANSLATION
+ PMR_infra_desc: "Naši obyvatelé by měli jezdit po běžných silnicích, ne po minových polích." # todo: NEW TRANSLATION
+ PMR_roskosh: "Daň z luxusu" # todo: NEW TRANSLATION
+ PMR_roskosh_desc: "Bohatí by měli platit více daní, protože naše pokladna není nevyčerpatelná, ale spíše extrémně malá." # todo: NEW TRANSLATION
+ PMR_selhoz: "Plán rozvoje zemědělství" # todo: NEW TRANSLATION
+ PMR_selhoz_desc: "Agro-průmysl je klíčový pro naše přežití a sytost; nemáme v úmyslu ždímat investice v tomto odvětví." # todo: NEW TRANSLATION
+ PMR_gos_plan_2: "Gosplan 2.0" # todo: NEW TRANSLATION
+ PMR_gos_plan_2_desc: "Podobně jako pětileté plány SSSR vytvoříme svůj vlastní plán, takzvaný Gosplan 2.0." # todo: NEW TRANSLATION
+ PMR_army_prestige: "Zvýšit prestiž armády" # todo: NEW TRANSLATION
+ PMR_army_prestige_desc: "Prestiž naší armády musí vzrůst, protože kdyby nebylo těchto odvážných vojáků, naše republika by neexistovala." # todo: NEW TRANSLATION
+ PMR_guarantees: "Zaručit společnostem" # todo: CHANGED
+ PMR_guarantees_desc: "Naši občané musí mít všechna nezbytná sociální záruky, aby se cítili bezpečně." # todo: NEW TRANSLATION
+ PMR_democracy: "Demokratické principy" # todo: NEW TRANSLATION
+ PMR_democracy_desc: "Hlavní principy demokracie budou dodržovány na území našeho státu; totalitarismus a diktatura jsou minulostí!" # todo: NEW TRANSLATION
+ PMR_health: "Zdravotnictví na prvním místě" # todo: CHANGED
+ PMR_health_desc: "Zdravotnický sektor v naší zemi doslova prožívá své poslední dny; je načase to napravit a směrovat finanční injekce do tohoto sektoru." # todo: NEW TRANSLATION
+ PMR_economic: "Ekonomické reformy" # todo: NEW TRANSLATION
+ PMR_economic_desc: "Předchozí vůdci Transnistrie nám zanechali oslabený a zkorumpovaný ekonomický systém. Musíme provést reformy a deregulaci." # todo: NEW TRANSLATION
+ PMR_family: "Rodina je hlavní hodnotou" # todo: NEW TRANSLATION
+ PMR_family_desc: "Podpora rodin se stane jedním z našich hlavních sociálních programů. Vychováme novou generaci lidí, kteří budou zakládat úžasné a početné rodiny." # todo: NEW TRANSLATION
+ PMR_corruptable: "Konec korupce" # todo: CHANGED
+ PMR_corruptable_desc: "Korumpovaní úředníci budou potrestáni!" # todo: NEW TRANSLATION
+ PMR_indep: "Politická nezávislost" # todo: NEW TRANSLATION
+ PMR_indep_desc: "Naše země se musí konečně rozhodnout sama, co potřebuje, a nesmí podléhat ani vnitřním, ani vnějším silám." # todo: NEW TRANSLATION
+ PMR_mvd_true: "Ministerstvo vnitra" # todo: NEW TRANSLATION
+ PMR_mvd_true_desc: "Nyní že naše orgány v ministerstvu vnitra budou moci skutečně pracovat pro prospěch republiky, odstraníme ze tohoto ministerstva všechny korupční úředníky." # todo: NEW TRANSLATION
+ PMR_banner: "Jednotní a silní lidé" # todo: NEW TRANSLATION
+ PMR_banner_desc: "Náš lid je připraven pokračovat v boji za svou nezávislost a šťastnou budoucnost." # todo: NEW TRANSLATION
+ PMR_great: "Jednotní lidé Transnistrie" # todo: NEW TRANSLATION
+ PMR_patriotic_act: "Lidový vlastenecký zákon" # todo: NEW TRANSLATION
+ PMR_social_program: "Program sociální podpory" # todo: NEW TRANSLATION
+ PMR_luxury_tax_idea: "Daň z luxusu" # todo: NEW TRANSLATION
+ PMR_idea_national_guard: "Národní garda" # todo: NEW TRANSLATION
+ PMR_idea_national_guard_desc: "Územní síly sestavené z okresů a podřízené ministerstvu obrany namísto milice, jejichž úkolem je držet území, na něž si pravidelná armáda nemůže vyčlenit muže. Vnitřní rozpočet stojí více, než kolik ušetří, ale v každé osadě podél Dněstru zajišťují vycvičenou pušku.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_gos_plans_idea: "Gosplan 2.0" # todo: NEW TRANSLATION
+ PMR_pro_ukraine: "Cesta na Ukrajinu" # todo: NEW TRANSLATION
+ PMR_pro_ukraine_desc: "Považujeme Ukrajinu za svůj historický domov – budeme usilovat o její připojení." # todo: NEW TRANSLATION
+ PMR_expel_russian: "Vyhostit mírové síly" # todo: CHANGED
+ PMR_expel_russian_desc: "Naše cesty s Ruskem se v tomto rozejdou, je načase, aby jejich mírové jednotky opustily naši zemi." # todo: NEW TRANSLATION
+ PMR_invite_ukrainians: "Pozvat ukrajinské mírové jednotky" # todo: NEW TRANSLATION
+ PMR_invite_ukrainians_desc: "Máme v úmyslu pozvat ukrajinské mírové jednotky, aby čelily moldavské agresi..." # todo: NEW TRANSLATION
+ PMR_ukr_corps: "Přijměte ukrajinské korporace" # todo: NEW TRANSLATION
+ PMR_ukr_corps_desc: "Dovolíme ukrajinským korporacím vstoupit na náš trh, což bude mít pozitivní dopad na naši ekonomiku" # todo: NEW TRANSLATION
+ PMR_ukr_law: "Integrace do ukrajinské legislativy" # todo: NEW TRANSLATION
+ PMR_ukr_law_desc: "Máme v úmyslu ustanovit naše zákony shodné s ukrajinskými, pro budoucí integraci" # todo: NEW TRANSLATION
+ PMR_propaganda: "Pro-ukrajinská propaganda" # todo: NEW TRANSLATION
+ PMR_propaganda_desc: "Budeme aktivně šířit pro-ukrajinskou propagandu ve své mediální sféře." # todo: NEW TRANSLATION
+ PMR_contacts: "Kontakty s vládou Ukrajiny" # todo: NEW TRANSLATION
+ PMR_contacts_desc: "Navážeme kontakt s ukrajinskou vládou a informujeme o našem úmyslu začlenit se do jejich země." # todo: NEW TRANSLATION
+ PMR_ref_join_ukr: "Referendum o připojení Ukrajiny" # todo: NEW TRANSLATION
+ PMR_ref_join_ukr_desc: "Jsme připraveni oznámit naši touhu stát se součástí Ukrajiny." # todo: NEW TRANSLATION
+ PMR_ukraine_influency_TT: "[UKR.GetFlag] Čínský §HNásobič vlivu§! in §Y[ROOT.GetNameWithFlag]§!: §R+15%§!" # todo: NEW TRANSLATION
+ PMR_ukr_army: "Ukrajinské mírové jednotky" # todo: NEW TRANSLATION
+ PMR_grivna_efffect_idea: "Integrace Ukrajinského práva" # todo: NEW TRANSLATION
+ PMR_path: "Integrace Moldavska" # todo: NEW TRANSLATION
+ PMR_path_desc: "Začneme s integrací územ bývalého Moldavska do našeho státu." # todo: NEW TRANSLATION
+ PMR_integr_economy: "Ekonomická integrace" # todo: NEW TRANSLATION
+ PMR_integr_economy_desc: "Začněme, musíme provést ekonomickou integraci, regulující všechny aspekty naší budoucí sjednocené ekonomiky." # todo: NEW TRANSLATION
+ PMR_political: "Politická integrace" # todo: NEW TRANSLATION
+ PMR_political_desc: "Otázky struktury našeho nového státu a různých politických integračních problémů musí být také vyřešeny." # todo: NEW TRANSLATION
+ PMR_true: "Jsme pravá Moldávie" # todo: NEW TRANSLATION
+ PMR_true_desc: "Přijímáme roli moldavského státu, jakou kdysi zastávala Moldavská SSR." # todo: NEW TRANSLATION
+ PMR_integrate_mlv_place: "Integrace moldavských území" # todo: NEW TRANSLATION
+ PMR_integrate_mlv_place_desc: "Plně uznáváme naše právo na území, která bývala kdysi pod vládou Moldavska. Tato jsou naše země a budou jimi navždy; jsme připraveni je integrovat." # todo: NEW TRANSLATION
+ PMR_full: "Unitární stát" # todo: NEW TRANSLATION
+ PMR_full_desc: "Půjdeme po cestě unitarismu; autonomie nás může poškodit." # todo: NEW TRANSLATION
+ PMR_no_autonomy: "Princip absence autonomie" # todo: CHANGED
+ PMR_no_autonomy_desc: "Nedostatek autonomie je zárukou našeho státu v nepřítomnosti separatismu." # todo: NEW TRANSLATION
+ PMR_kabardiners: "Karabiniérské jednotky" # todo: NEW TRANSLATION
+ PMR_kabardiners_desc: "Karabiniérské jednotky jsou národní gendarmerie Transnistrie. Transnistrské karabiniérie mají zajišťovat, spolu se s policií nebo samostatně, veřejný pořádek, ochranu práv a svobod občanů, majetek majitelů a prevenci porušování zákona. Struktura agentury vychází z italské Carabinieri, odkud její název pochází." # todo: NEW TRANSLATION
+ PMR_peace_keaper: "Mírový prapor" # todo: NEW TRANSLATION
+ PMR_peace_keaper_desc: "Zřídíme vlastní mírový prapor, který se bude účastnit mezinárodních misí." # todo: NEW TRANSLATION
+ PMR_annex_efffect_idea: "Ekonomická integrace" # todo: NEW TRANSLATION
+ PMR_reform_debuff: "Politická integrace" # todo: NEW TRANSLATION
+ PMR_peacerota_idea: "Mírový prapor" # todo: NEW TRANSLATION
+ PMR_peacerota_idea_desc: "Smíšená kontrolní komise udržuje od roku 1992 v bezpečnostní zóně podněsterský kontingent spolu s ruskými a moldavskými prapory. Řádné zformování těchto sil poskytne Tiraspolu jednotku vycvičenou a vybavenou k nasazení za vlastními hranicemi.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_vs_pmr: "Transnistrijská armáda" # todo: NEW TRANSLATION
+ PMR_vs_pmr_desc: "Ačkoliv tak malý, neuznávaný stát má své ozbrojené síly, musíme posílit naši armádu, abychom odrazili hrozby naší nezávislosti." # todo: NEW TRANSLATION
+ PMR_ground: "Transnistrijské ozbrojené síly" # todo: NEW TRANSLATION
+ PMR_ground_desc: "Ozbrojené síly Podněsterské moldavské republiky, ozbrojené síly mezinárodně neuznávané Podněsterské moldavské republiky (PMR), byly založeny 6. září 1991 na ochranu obyvatel, suverenity, nezávislosti a územní celistvosti PMR." # todo: CHANGED
+ PMR_lebed_academy: "Vojenský institut Ministerstva obrany" # todo: NEW TRANSLATION
+ PMR_lebed_academy_desc: "Vyšší vojenská instituce se sídlem v Tiraspolu, kterou provozuje vojenské oddělení ozbrojených sil Transnistrie. Je nejvyšší vzdělávací instituce v ozbrojených silách." # todo: NEW TRANSLATION
+ PMR_suvorov_academy: "Suvorovův vojenský institut Ministerstva obrany" # todo: NEW TRANSLATION
+ PMR_suvorov_academy_desc: "Musíme pravidelně doplňovat důstojníky naší armády, k čemuž nám pomáhá naše vojenská univerzita pod Ministerstvem obrany." # todo: NEW TRANSLATION
+ PMR_exer: "Vojenská cvičení s Ruskou armádou" # todo: NEW TRANSLATION
+ PMR_exer_desc: "Ruská armáda je připravena provádět pravidelná cvičení s našimi jednotkami, aby předala moderní bojové zkušenosti." # todo: NEW TRANSLATION
+ PMR_upgrade: "Vylepšení výzbroje armády" # todo: NEW TRANSLATION
+ PMR_upgrade_desc: "Jsme připraveni vylepšit výzbroj naší armády, neboť ta nebyla aktualizována od Války za nezávislost." # todo: NEW TRANSLATION
+ PMR_chechen: "Zkušenosti z čečenské války" # todo: NEW TRANSLATION
+ PMR_chechen_desc: "Rusko je připraveno sdílet své zkušenosti s vedením války proti Republice Ichkerie, což je pro nás nepostradatelná informace a zkušenost." # todo: NEW TRANSLATION
+ PMR_military: "Vojenský průmysl" # todo: NEW TRANSLATION
+ PMR_military_desc: "Nesmíme doufat, že zásoby v našich skladech vydrží navždy; je nutné zavést výrobu našich zbraní." # todo: NEW TRANSLATION
+ PMR_new_army: "Nová armáda Transnistrie" # todo: NEW TRANSLATION
+ PMR_new_army_desc: "Naše reformy přinesly výsledky, obraz naší armády se změnil." # todo: NEW TRANSLATION
+ PMR_spec: "Doktrína speciálních sil" # todo: NEW TRANSLATION
+ PMR_spec_desc: "Zaměříme se na naše speciální jednotky, abychom prováděli bojové operace proti předpokládanému nepříteli." # todo: NEW TRANSLATION
+ PMR_doctrine: "Doktrína zahraniční politiky" # todo: NEW TRANSLATION
+ PMR_doctrine_desc: "Takové malé státy musí být vždy připraveny na útok ze strany větších sousedů, ale musíme jasně vědět, kdo na nás zaútočí?" # todo: NEW TRANSLATION
+ PMR_iskander: "Žádat o ruské Iskandry" # todo: NEW TRANSLATION
+ PMR_iskander_desc: "Ruské raketové systémy Iskander mohou být výborným argumentem proti útoku na nás." # todo: NEW TRANSLATION
+ PMR_euiqp: "Koupit zbraně v Rusku" # todo: NEW TRANSLATION
+ PMR_euiqp_desc: "Budeme nakupovat velké množství zbraní z Ruska, abychom vylepšili naše pozemní síly." # todo: NEW TRANSLATION
+ PMR_air: "Letecké síly Transnistrie" # todo: NEW TRANSLATION
+ PMR_air_desc: "Naše letectvo prakticky neexistuje, je nutné vytvořit alespoň minimální leteckou flotilu pro ochranu vzdušních hranic našeho domova." # todo: NEW TRANSLATION
+ PMR_air_academy: "Letecká akademie" # todo: NEW TRANSLATION
+ PMR_air_academy_desc: "Budoucí piloti se musí cvičit doma, a proto zřídíme pro to speciální akademii." # todo: NEW TRANSLATION
+ PMR_instructors: "Ruští instruktoři" # todo: NEW TRANSLATION
+ PMR_instructors_desc: "Naši budoucí piloti budou vycvičeni ruskými piloty." # todo: NEW TRANSLATION
+ PMR_vvs_rf: "Spolupráce s Ruským letectvem" # todo: NEW TRANSLATION
+ PMR_vvs_rf_desc: "Zintenzivníme spolupráci s Ruským letectvem na maximum." # todo: NEW TRANSLATION
+ PMR_kazaks: "Vytvořte kozácký pluk pro bitvu" # todo: NEW TRANSLATION
+ PMR_kazaks_desc: "Od konce minulého století byla Černomořská kozácká armáda začleněna do řad našich ozbrojených sil. Nyní, když je válka na prahu, je třeba je povolat do boje." # todo: NEW TRANSLATION
+ PMR_landforce_modifier: "Podněsterské ozbrojené síly" # todo: NEW TRANSLATION
+ PMR_landforce_modifier_desc: "Přibližně čtyři tisíce řadových vojáků v okolí Tiraspolu a Bender, vybavených z toho, co po sobě v roce 1992 zanechala sovětská 14. armáda, a vedených důstojníky, kteří naposledy viděli cvičiště pod jinou vlajkou. Příjem branců je malý, tanky T-64 a obrněné transportéry BTR nebyly deset let modernizovány a systém záloh existuje většinou jen na papíře.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!. Jeho postihy se budou §GZlepšovat§! s každým dokončeným zaměřením §HArmády§! a §Rzcela zmizí§!, jakmile dokončíme §HNovou podněsterskou armádu§!." # todo: NEW TRANSLATION
+ PMR_airforce_modifier: "Podněsterské letectvo" # todo: NEW TRANSLATION
+ PMR_airforce_modifier_desc: "Jedno letiště v Tiraspolu, hrstka strojů Mi-8 a Mi-24 předaných při útlumu 14. armády a vůbec žádná bojová letadla. Piloti vedení ve stavech od rozpadu Sovětského svazu neletěli v proudovém letounu a za nimi není žádná radarová síť hodná toho jména.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!. Jeho postihy se §Gzlepší§!, pokud dokončíme zaměření §HPodněsterské letectvo§!, a §Rzcela zmizí§!, jakmile dokončíme zaměření §HLetecká akademie§!." # todo: NEW TRANSLATION
+ PMR_doctrine_romania: "Protiromunská doktrína" # todo: NEW TRANSLATION
+ PMR_doctrine_romania_desc: "Generální štáb považuje Bukurešť za podporovatele všeho, o co se Kišiněv na Dněstru pokusí, a podle toho plánuje. Cvičení jsou připravována s ohledem na rumunské formace, rumunské vybavení a rumunské důstojníky přidělené k moldavské armádě.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_doctrine_ukraine: "Protiukrajinská doktrína" # todo: NEW TRANSLATION
+ PMR_doctrine_ukraine_desc: "Kyjev drží jedinou hranici, kterou Tiraspol nemůže uzavřít, a jedinou železnici, která vede do okolního světa. Generální štáb plánuje na den, kdy se tato hranice stane frontou, a cvičí armádu proti ukrajinským, nikoli moldavským formacím.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_kazachestvo: "Černomořská kozácká armáda" # todo: NEW TRANSLATION
+ PMR_kazachestvo_desc: "Černomořské kozácké vojsko bylo v údolí Dněstru obnoveno v roce 1991 a během války následujícího roku bojovalo v dobrovolnických oddílech. Jeho okresy si stále volí atamany, na rozkaz nastupují do služby a zbraně uchovávají doma; republika s nimi zachází jako se stálou zálohou.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_kazaks_prepare: "Černomořská kozácká armáda" # todo: NEW TRANSLATION
+ PMR_kazaks_prepare_desc: "\n\n\n\n\n\n£PMR_desctext_kazaki \n\n\n\n\n\n\n\n\n§YPůvod§! oživení §YČernomořské kozácké armády§! má kořeny v historii §GZáporožských kozáků§! a §GZáporožské siče§!, §Rzlikvidované§! v roce 1775. Vytvořená ke konci roku 1787 ze vzájemně nesourodých skupin §Gzáporožských kozáků§!, se §Y\"Armáda věrných záporožských kozáků\"§! stala spolehlivým štítem [SOV.GetFlag]§YRuska§! na jihu mezi řekami Dněstr a Bug, na územích, jejichž značná část nyní patří [PMR.GetFlag]§YPodněstří§!. §YČernomořští kozáci§!, obestřeni slávou vítězství ve [SOV.GetFlag][TUR.GetFlag]§Rrusko‑turecké válce§! let 1787–1791, byli po ukončení války dekretem carevny Kateřiny II. přesídleni v letech 1792–1793 do [KUB.GetFlag]§YKubanu§!, kde §YČernomořská kozácká armáda§! pokračovala v službě při ochraně jižních hranic [SOV.GetFlag]§YRuska§! až do roku 1860, kdy byla sloučena s §YKavkazskou pohraniční armádou§! a stala se známou jako [KUB.GetFlag]§YKubanská kozácká armáda§!. Náhlé změny v životě společnosti v §RSovětském svazu§! a hrozba rozvratu státní celistvosti způsobily koncem 80. let hnutí za oživení §Ykozáků§!, kteří po svých mnohasetletých dějinách byli oporným bodem a spolehlivým štítem §YVlasti§!. Po více než půlstoletí zapomnění a zkresňování podstaty §YKozáků§!, §Rrepresí§! a §Rgenocidy§!, se o §YKozácích§! opět začalo hovořit jako o nedílné součásti dějin [SOV.GetFlag]§YRuského státu§!. Nyní má kromě hlavní armády [PMR.GetFlag]§YPodněstří§! také možnost mobilizovat §Ykozácké§! oddíly pro §Rválku§!, které se stanou opěrnou základnou armády v boji proti nepřátelům" # todo: NEW TRANSLATION
+ PMR_kazak_kamensk: "§YMobilizujte§! kozáky Kamenského okresu" # todo: NEW TRANSLATION
+ PMR_kazak_ryibninsk: "§YMobilizujte§! kozáky Rybnitského okresu" # todo: NEW TRANSLATION
+ PMR_kazak_dubossar: "§YMobilizujte§! kozáky Dubossarského okresu" # todo: NEW TRANSLATION
+ PMR_kazak_slobodze: "§YMobilizujte§! kozáky Slobodzejského okresu" # todo: NEW TRANSLATION
+ PMR_kazak_benderi: "§YMobilizujte§! kozáky Benderu" # todo: NEW TRANSLATION
+ PMR_kolbasna_tt: "Počet zbraní ve skladu Cobasna se změní o §Y[?modify_kolbasna]§!\n" # todo: NEW TRANSLATION
+ PMR_kazak_ready_tt: "Ve všech regionech byly vycvičené §YKozácké družiny§! in all regions" # todo: NEW TRANSLATION
+ PMR_soc_dem: "Transnistrijská sociální demokracie" # todo: NEW TRANSLATION
+ PMR_soc_dem_desc: "Obyvatelé Podněstří se probudí jako ze zlého snu a procitnou z velmi dlouhého bludu. Prodlužování existence tohoto pseudostátu v jeho současné podobě skončí a začne jeho očista, počínaje přeměnou Nejvyšší rady v řádný zákonodárný orgán." # todo: CHANGED
+ PMR_liberalism: "Nový národní orgán" # todo: CHANGED
+ PMR_liberalism_desc: "Nyní, když máme základ pro naši reformu, můžeme začít vytvářet §YVýbor pro reintegraci§!, jehož úkolem bude urychlit změny naší ústavy, které umožní naše plány na federaci. Mezitím můžeme zrušit zákaz několika opozičních stran čekajících na vstup do nové správy." # todo: CHANGED
+ PMR_freedom: "Svoboda projevu" # todo: CHANGED
+ PMR_freedom_desc: "Naše historie u volebních uren nebyla bez poskvrny a stejně tomu bylo i v oblasti lidských práv. Naší první prioritou by mělo být zrušení článku 316-1 a odstranění některých dalších omezení svobody projevu. Bude kontaktována mezinárodní agentura, aby zajistila řádný průběh místních voleb a důsledný dohled nad jejich spravedlivým konáním." # todo: CHANGED
+ PMR_rhetoric: "Pro-moldavská rétorika" # todo: NEW TRANSLATION
+ PMR_rhetoric_desc: "Moldavsko je stejně tak bratrským národem jako součástí naší vlastní identity. Rozmrzení vztahů a prosazování této otázky prostřednictvím vysílání nám přinese potřebnou podporu veřejnosti." # todo: CHANGED
+ PMR_new_society: "Rozkvétající společnost" # todo: CHANGED
+ PMR_new_society_desc: "Otevření naší země světu nevyhnutelně zanechá několik lidí za sebou, ale můžeme tento přechod usnadnit. Rozšíření našich agentur o jazykové vzdělávání a digitální školení pro ty, kteří je potřebují, jistě zmírní některé stížnosti a přinese do rozpočtu trochu peněz." # todo: CHANGED
+ PMR_partnership: "Politická integrace s Moldavskem" # todo: NEW TRANSLATION
+ PMR_partnership_desc: "Nyní, když byla naše komunikace plodná, můžeme přestat obcházet otázku integrace a zahájit přechod. Přijmeme jednotný právní rámec Moldavska a odstraníme zbývající separatistické prvky naší vlády, abychom se politicky co nejvíce přiblížili." # todo: CHANGED
+ PMR_moldova_economic: "Přijmout leu" # todo: CHANGED
+ PMR_moldova_economic_desc: "Opuštění rublu a přijetí moldavské měny bude nesmírně nákladným podnikem. Naštěstí náš nový výbor přímo spolupracuje s bankami na zřízení směnáren a okamžitém uvedení nových bankovek do oběhu." # todo: CHANGED
+ PMR_moldova_military: "Synchronizovaná armáda" # todo: CHANGED
+ PMR_moldova_military_desc: "Jedním z požadavků Moldavska bylo přizpůsobit naši armádu jeho doktríně a systémům. Budou vydány nové uniformy a zavedeny nové výcvikové režimy a naše velení bude prověřeno odshora dolů, abychom se ujistili, že s sebou nepřivádíme žádnou přítěž." # todo: CHANGED
+ PMR_deccomuniz: "Dekomunizace" # todo: NEW TRANSLATION
+ PMR_deccomuniz_desc: "Naposledy, když jsme to ověřovali, uplynulo více než deset let od pádu železné opony a zrušení Sovětského svazu. Sochy a památníky působily méně jako nostalgické rozptýlení a více jako ostuda našeho nového vedení. Pokud chceme dosáhnout pokroku při vytváření nové kultury, doba se bude muset změnit." # todo: CHANGED
+ PMR_contact_eu: "Evropský domov" # todo: CHANGED
+ PMR_contact_eu_desc: "Náš stát možná v současnosti není mezinárodně uznáván, ale naši občané nemusí sdílet stejný osud. Budeme spolupracovat s Moldavskem, abychom zajistili, že naši lidé získají možnost přístupu k Evropské unii se všemi svobodami, které to přináší." # todo: CHANGED
+ PMR_federation: "Federální projekt" # todo: CHANGED
+ PMR_federation_desc: "\n\n\n\n\n\n£PMR_desctext_federation \n\n\n\n\n\n\n\n\nNastal čas předložit radě náš návrh na federalizaci s Moldavskem. Pokud žádost projde poslední překážkou, bude následovat celostátní referendum. Můžeme jen doufat, že jsme veřejnost dostatečně přesvědčili." # todo: CHANGED
+ PMR_investors: "Přivítat investory" # todo: CHANGED
+ PMR_investors_desc: "Při každém velkém politickém otřesu se ti, kteří chtějí změny využít, přirozeně vrhnou dovnitř. Několik významných osobností se ozvalo a chce získat svůj podíl na dění. \n\nJe správné, abychom podali pomocnou ruku, když je nabízena nám." # todo: CHANGED
+ PMR_it: "Přivést internet" # todo: CHANGED
+ PMR_it_desc: "Internetová infrastruktura, kterou jsme dosud používali, byla z větší části instalována na začátku 90. let. Proto nám chybí mnoho technických vymožeností, které si většina evropských zemí užívá, například digitální televize a přijatelné rychlosti. Zrušení omezení zahraničních investic do IT to změní." # todo: CHANGED
+ PMR_west_markets: "Přivítat investory" # todo: CHANGED
+ PMR_west_markets_desc: "Naše nedávná spojení nám zajistila dosud nevídaný přístup na evropský trh. Jsme jako ryba vyhozená z akvária do oceánu — doslova plaveme ve světě příležitostí. Je čas potřást si rukama a nasadit naši nejlepší obchodní tvář." # todo: CHANGED
+ PMR_expel_russians: "Vyhostit mírové síly" # todo: CHANGED
+ PMR_expel_russians_desc: "Máme vlastní armádu schopnou bránit vlastní lid. Rusové, kteří zde zůstávají, budou dál poškozovat legitimitu naší vlády. Musí odejít." # todo: CHANGED
+ PMR_annex_efffect_idea1: "Ekonomická integrace" # todo: NEW TRANSLATION
+ PMR_army_efffect_idea1: "Armádní integrace" # todo: NEW TRANSLATION
+ PMR_reform_debuff1: "Politická integrace" # todo: NEW TRANSLATION
+ PMR_investors_idea: "Zahraniční investoři" # todo: NEW TRANSLATION
+ PMR_western_market_idea: "Uzavřete se západnímu trhu" # todo: NEW TRANSLATION
+ PMR_trans_libelaralism: "Transnistrijský liberalismus" # todo: NEW TRANSLATION
+ PMR_decommunization: "Dekomunizace" # todo: NEW TRANSLATION
+ PMR_MLV_influence_tt: "[MLV.GetFlag] moldavský §Hvlivový násobič§! v §Y[PMR.GetNameWithFlag]§!: §R+15%§!" # todo: NEW TRANSLATION
+ PMR_democrat_inner_modifier: "Vnitřní politika liberální Transnistrie" # todo: NEW TRANSLATION
+ PMR_democrat_inner_modifier_desc: "Politika vlády liberálů se vyznačuje soustředěním na ekonomický růst Ruska a menším zaměřením na vojenské a politické kroky." # todo: NEW TRANSLATION
+ PMR_economy: "Transnistrie Ekonomika" # todo: NEW TRANSLATION
+ PMR_economy_desc: "Transnistrijská ekonomika je nedostatečná a chybná. Abychom podpořili naši rostoucí zemi a její armádu, musíme vybudovat robustní ekonomiku, která ji udrží. Otázka zní, jak. Půjdeme nadále stezkou pašování, nebo najdeme jinou cestu pro naši budoucnost?" # todo: NEW TRANSLATION
+ PMR_indust: "Udržet věci domácí" # todo: CHANGED
+ PMR_indust_desc: "Musíme rozhodnout, kterým směrem se bude ubírat náš průmysl." # todo: NEW TRANSLATION
+ PMR_agro: "Rustas LLC" # todo: NEW TRANSLATION
+ PMR_agro_desc: "Rozvineme náš zemědělský průmysl, i přes malou velikost naší země." # todo: NEW TRANSLATION
+ PMR_civil: "Civilní průmysl" # todo: NEW TRANSLATION
+ PMR_civil_desc: "Potřebujeme nové továrny pro zaměstnanost našich občanů." # todo: NEW TRANSLATION
+ PMR_sell_weapon: "Prodáme zbrojní zásoby" # todo: NEW TRANSLATION
+ PMR_sell_weapon_desc: "Naše sklady, které zůstaly od dob SSSR, ukládají velké množství zbraní. Je čas na to vydělat." # todo: NEW TRANSLATION
+ PMR_new_legistation: "Nové investiční normy" # todo: CHANGED
+ PMR_new_legistation_desc: "Přijmeme nový zákon v investiční oblasti, který může přilákat nové investory do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_ukr_invest: "Ukrajinské investice" # todo: NEW TRANSLATION
+ PMR_ukr_invest_desc: "Několik ukrajinských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_hun_invest: "Maďarské investice" # todo: NEW TRANSLATION
+ PMR_hun_invest_desc: "Několik maďarských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_ita_invest: "Italské investice" # todo: NEW TRANSLATION
+ PMR_ita_invest_desc: "Několik italských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_rom_invest: "Rumunské investice" # todo: NEW TRANSLATION
+ PMR_rom_invest_desc: "Několik rumunských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_aus_invest: "Rakouské investice" # todo: NEW TRANSLATION
+ PMR_aus_invest_desc: "Několik rakouských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_ge_invest: "Německé investice" # todo: NEW TRANSLATION
+ PMR_ge_invest_desc: "Několik německých firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_sov_invest: "Ruské investice" # todo: NEW TRANSLATION
+ PMR_sov_invest_desc: "Několik ruských firem vyjádřilo zájem investovat do naší ekonomiky." # todo: NEW TRANSLATION
+ PMR_sheriff_starting: "Sheriff Holding" # todo: NEW TRANSLATION
+ PMR_sheriff_starting_desc: "\n\n\n\n\n\n£PMR_desctext_sheriff \n\n\n\n\n\n\n\n\nSheriff je druhou největší společností v mezinárodně neuznaném separatistickém státě Podněstří, hned po Moldavských ocelárnách. Společnost sídlící ve městě Tiraspol vznikla na počátku 90. let zásluhou Viktora Gusana a Ilji Kazmalyho, bývalých členů KGB. Sheriff se rozrostl téměř do všech oblastí ziskového soukromého podnikání v mezinárodně neuznané zemi a výrazně se zapojil také do místní politiky a sportu. Někteří komentátoři tvrdí, že stoupenci společnosti zastávají většinu klíčových vládních funkcí na tomto území." # todo: CHANGED
+ PMR_sheriff_phones: "Interdnestrcom" # todo: NEW TRANSLATION
+ PMR_sheriff_phones_desc: "Interdnestrcom je transnistrijská telekomunikační společnost poskytující mobilní komunikační služby pro Transnistrii, odtržený neuznaný stát mezinárodně uznávaný jako součást Moldavska. Založena byla v roce 1998. Kromě poskytování mobilních služeb poskytuje také dial-up a ISDN internetový přístup." # todo: NEW TRANSLATION
+ PMR_sheriff_oil: "Sklad ropných produktů" # todo: NEW TRANSLATION
+ PMR_sheriff_oil_desc: "Sheriff hodlá vybudovat sklad ropných produktů, aby zajistil autonomii svého palivového komponentu." # todo: NEW TRANSLATION
+ PMR_sheriff_kvint: "KVINT" # todo: NEW TRANSLATION
+ PMR_sheriff_kvint_desc: "KVINT je vinařství a palírna se sídlem v Tiraspolu, hlavním městě a průmyslovém centru Pridnestrovie. Kvint produkty jsou certifikovány 'Made in Moldova'. Založena v roce 1897, společnost vyprodukovala až do roku 1938 jen vodku, poté začala vyrábět brandy. Je to nejstarší stále fungující komerční podnik v regionu. Místní považují KVINT za národní poklad a symbol své země. Její továrna je vyobrazená na bankovce 5 Pridnestrovských rublů. KVINT je jedním z největších vývozců Pridnestrovia, do Itálie a Číny, stejně jako do Ruska a Ukrajiny." # todo: NEW TRANSLATION
+ PMR_sheriff_bank: "Agroprombank CJSC" # todo: NEW TRANSLATION
+ PMR_sheriff_bank_desc: "Holding dále plánuje založit vlastní banku k poskytování finančních služeb po celé Transnistrii." # todo: NEW TRANSLATION
+ PMR_sheriff_tiroteks: "Tirotex" # todo: NEW TRANSLATION
+ PMR_sheriff_tiroteks_desc: "Tirotex je textilní společnost se sídlem v Transnistrii, která vyrábí oblečení a další textilní výrobky. Nachází se v Tiraspolu. Společnost byla založena v roce 1972 výstavbou její továrny, která trvala deset let. Společnost je největším textilním podnikem v jihozápadní Společenství nezávislých států a rovněž si nárokuje být druhým největším svého druhu v celé Evropě. Ve svém areálu probíhají tkaní, šití, dokončovací a tkalcovské operace. Jako exportně orientovaná firma vyváží 70 % svých výrobků do zahraničí." # todo: NEW TRANSLATION
+ PMR_sheriff_agro: "Holding Agro-průmysl" # todo: NEW TRANSLATION
+ PMR_sheriff_agro_desc: "Holding má rovněž v úmyslu získat několik dalších agro-průmyslových závodů pro jejich obnovu a uvedení do provozu." # todo: NEW TRANSLATION
+ PMR_rail_road: "Podněsterské železnice" # todo: CHANGED
+ PMR_rail_road_desc: "Transnistrian Railway je provozovatelem železniční dopravy v Transnistrii." # todo: NEW TRANSLATION
+ PMR_airport_back: "Tiraspol Airport" # todo: NEW TRANSLATION
+ PMR_airport_back_desc: "Plánujeme dokončit rekonstrukci letiště Tiraspol a v případě potřeby jej využít pro civilní i vojenské účely." # todo: NEW TRANSLATION
+ PMR_denomination_idea: "Slabý transnistrijský rubl" # todo: NEW TRANSLATION
+ PMR_inter_rao: "Inter Rao" # todo: NEW TRANSLATION
+ PMR_encouraged_foreign_investments_idea: "Investiční zákon" # todo: NEW TRANSLATION
+ PMR_denomination_idea_desc: "Podněsterský rubl byl zaveden v roce 1994 na základě přetištěných sovětských bankovek a nikdy neměl rezervu, o kterou by se mohl opřít. Hyperinflace dvakrát zničila úspory, obyvatelstvo oceňuje vše v dolarech a centrální banka nedokáže udržet pevný kurz ani po jediné čtvrtletí.\n§W--------------§!\nTento národní duch bude §ROdstraněn§!, pokud dokončíme zaměření §HDenominace§!." # todo: NEW TRANSLATION
+ PMR_encouraged_foreign_investments_idea_desc: "Tiraspol si nemůže půjčovat v zahraničí a nemůže tak malou ekonomiku zdaněním přivést k růstu, a tak místo toho prodává přístup. Investiční zákon z roku 2002 odstraňuje licencování, zaručuje repatriaci zisků a předává příchozím partnerům státní podniky, které Sheriff dosud nepřevzal.\n§W--------------§!\nTento národní duch bude §ROdstraněn§!, pokud se staneme předmětem jiné země." # todo: NEW TRANSLATION
+ PMR_economy_modifier: "Podněsterské hospodářství" # todo: NEW TRANSLATION
+ PMR_economy_modifier_desc: "To, co zbylo z průmyslového pásu Moldavské SSR: cementárny v Rybnycji, tiraspolské textilní závody, palírna KVINT, železnice, která přepravuje vše do Oděsy, a farmy v údolí Dněstru. Každá společnost znovu uvedená do provozu zde zanechává svou stopu.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!. Modifikátory se však mohou postupně §Gzlepšovat§! s dokončováním dalších zaměření, rozhodnutí a událostí." # todo: NEW TRANSLATION
+ PMR_foreign_investments_modifier: "Zahraniční investice" # todo: NEW TRANSLATION
+ PMR_foreign_investments_modifier_desc: "Podíl podněsterského průmyslu, který podléhá vlastníkům v zahraničí. Rakouské, německé a maďarské podíly zakoupené během privatizací, rumunský a italský kapitál v zemědělství a ukrajinští oceláři v Rybnycji. Jejich kapitál udržuje závody v chodu a jejich vlády mají v Tiraspolu slovo.\n§W--------------§!\nPodíl partnera bude §ROdstraněn§!, pokud s ním půjdeme do války nebo přestane existovat. Poté můžeme jeho podíly §YKoupit zpět§! prostřednictvím rozhodnutí §YPodněsterské hospodářství§!." # todo: NEW TRANSLATION
+ PMR_sheriff_modifier: "Sheriff" # todo: NEW TRANSLATION
+ PMR_sheriff_modifier_desc: "Společnost Sheriff, založená v roce 1993 dvěma bývalými důstojníky podněsterské milice, vlastní supermarkety, čerpací stanice, mobilní síť, televizní kanály, fotbalový klub a prostřednictvím strany Obnovlenie také Nejvyšší radu. Republika je méně státem s firmou uvnitř než firmou se státem kolem sebe.\n§W--------------§!\nTento národní duch bude §GSílit§! s každým dokončeným zaměřením Sheriffu a bude §ROdstraněn§!, pokud dokončíme rozhodnutí §YZničit monopol Sheriffu§! nebo jedno ze zaměření §HUkončit holding Sheriffu§!." # todo: NEW TRANSLATION
+ PMR_sheriff_grows_tt: "£text_icon_pmr_sheriff Vliv společnosti §YSheriff§! v republice se §Rupevňuje§!" # todo: NEW TRANSLATION
+ PMR_sheriff_full_control_tt: "£text_icon_pmr_sheriff §YSheriff§! má nad republikou §Rúplnou kontrolu§!" # todo: NEW TRANSLATION
+ PMR_economy_category: "Transnistrijská ekonomika" # todo: NEW TRANSLATION
+ PMR_economy_category_desc: "Podněstří přežívá prodejem podílů ve vlastním průmyslu. Když zahraniční partner odejde, Tiraspol má možnost odkoupit jeho podíly zpět a vrátit je republice." # todo: CHANGED
+ PMR_buy_german_investments: "§GBuy Back§! [GER.GetFlag] §YNěmecké§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_italian_investments: "§GBuy Back§! [ITA.GetFlag] §YItalské§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_russian_investments: "§GBuy Back§! [SOV.GetFlag] §YRuské§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_ukraininan_investments: "§GBuy Back§! [UKR.GetFlag] §YUkrainské§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_austrian_investments: "§GBuy Back§! [AUS.GetFlag] §YRakouské§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_romanian_investments: "§GBuy Back§! [ROM.GetFlag] §YRumunské§! Investice" # todo: NEW TRANSLATION
+ PMR_buy_hungarian_investments: "§GBuy Back§! [HUN.GetFlag] §YMaďarské§! Investice" # todo: NEW TRANSLATION
+ PMR_eastern_europe_operations: "Cobasna Ammunition Depot" # todo: NEW TRANSLATION
+ PMR_eastern_europe_operations_desc: "\n\n\n\n\n\n£PMR_desctext_cobasna \n\n\n\n\n\n\n\n\n§YThe Cobasna§! ammunition depot, formally the §Y1411th Artillery Ammunition Depot§!, is a large ammunition depot located in the village of §YCobasna§!. Legally and §1internationally recognized§! as part of [MLV.GetFlag]§YMoldova§! as a whole, the unrecognized breakaway state of [PMR.GetFlag]§YTransnistria§! controls the village and the ammunition depot and has denied access to §1international observers§!, an exception being the [SOV.GetFlag]§YRussian§! military forces located in the region ever since the end of the §RTransnistria War§! §Yin 1992§!. Outside access to the ammunition depot is effectively prohibited. Only the [SOV.GetFlag]§YRussian§! and [PMR.GetFlag]§YTransnistrian§! authorities have detailed information regarding the amount and situation of the stored weapons\n\n§YNumber of weapons§! in the warehouse in §YCobasna§! is §Y[?PMR.kolbasna]§!" # todo: NEW TRANSLATION
+ PMR_romania_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[ROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_bulgaria_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BUL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_serbia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[SER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_montenegro_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[MNT.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_bosnia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BOS.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_croatia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[CRO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_greece_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[GRE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_macedonia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[FYR.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_albania_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[ALB.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_russia_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_france_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[FRA.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_luxemburg_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[LUX.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_belgium_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[BEL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_netherlands_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[HOL.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_germany_operation: "Prodávat zbraně ze skladu §YCobasna§! na černém trhu v §Y[GER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ PMR_use_kobasna: "Vyprázdnit sklady zbraní §Y[PMR.GetFlag]Transnistrian§!" # todo: NEW TRANSLATION
+ PMR_kobalsna_small_weapons_tt: "Zásoby zbraní ve skladech nebyly §Vyprázdněny§!" # todo: NEW TRANSLATION
+ PMR_kobalsna_take_weapons_tt: "Všechny bojové zbraně ze skladů budou přidány do §YArzenál§!" # todo: NEW TRANSLATION
+ PMR_Sheriff_yest_tt: "£text_icon_pmr_sheriff §2Šerif§! nebyl §RZničen§!" # todo: NEW TRANSLATION
+ PMR_mvd: "Bezpečná Transnistrie" # todo: NEW TRANSLATION
+ PMR_mvd_desc: "Není to jen ozbrojené síly, které zajišťují nezávislost naší republiky, ale také zvláštní služby a orgány vnitřní správy, na jejichž bedrech leží vnitřní boj proti vnějším nepřátelům.." # todo: NEW TRANSLATION
+ PMR_mvdshka: "Ministerstvo vnitra" # todo: NEW TRANSLATION
+ PMR_mvdshka_desc: "Ministerstvo vnitra Transnistrie, též známé jako Ministerstvo vnitřních záležitostí, je oficiální vládní agentura částečně uznávané Pridněstrovské moldavské republiky. Je výkonným orgánem při plnění obranných politik v rámci ozbrojených sil Transnistrie." # todo: NEW TRANSLATION
+ PMR_ubepik: "Oddělení ekonomické bezpečnosti" # todo: CHANGED
+ PMR_ubepik_desc: "Oddělení ekonomické bezpečnosti a boje proti korupci vyvíjí a provádí státní politiku a regulační právní opatření v oblasti ekonomické bezpečnosti. Vykonává také další funkce v souladu s federálními právními předpisy, prezidentskými dekrety a regulačními právními akty ministerstva vnitra." # todo: CHANGED
+ PMR_dnestr: "Samostatná brigáda zvláštního určení" # todo: CHANGED
+ PMR_dnestr_desc: "Samostatná speciální brigáda Dněstr je brigáda speciálního účelu Pridněstrovsko-moldavské republiky, vznikla v srpnu 1991 v Tiraspolu během pridenstrujského konfliktu a je přímo podřízena Ministerstvu vnitra Republiky." # todo: NEW TRANSLATION
+ PMR_mgb: "Ministerstvo státní bezpečnosti" # todo: NEW TRANSLATION
+ PMR_mgb_desc: "Ministerstvo státní bezpečnosti je transnistrská státní bezpečnostní služba." # todo: NEW TRANSLATION
+ PMR_delta: "Delta – prapor speciálních sil" # todo: NEW TRANSLATION
+ PMR_delta_desc: "Delta prapor speciálních sil je prapor speciálního určení, vznikl na jaře 1992 v Tiraspolu, v současnosti je přímo podřízen Ministerstvu státní bezpečnosti Transnistrie. Byl zařazen do záloh vrchního velitele ozbrojených sil Pridnestrovie, v současnosti plní úkoly spojené s ochranou hranic Pridnestrovské Moldavské republiky a bojem proti terorismu." # todo: NEW TRANSLATION
+ PMR_pograncy: "Pohraniční jednotky" # todo: NEW TRANSLATION
+ PMR_pograncy_desc: "Zlepšíme financování a podporu pohraničních jednotek naší republiky, protože naše hranice jsou neustále ohrožovány nepřátelskou invazí.." # todo: NEW TRANSLATION
+ PMR_security_modifier: "Podněsterské zvláštní služby" # todo: NEW TRANSLATION
+ PMR_security_modifier_desc: "Vnitřní bezpečnostní aparát Podněsterské moldavské republiky: Ministerstvo státní bezpečnosti v Tiraspolu s protiteroristickým praporem Delta, ministerstvo vnitra s jeho speciální brigádou Dněstr, pohraniční jednotky střežící ukrajinskou linii a moldavskou stranu bezpečnostní zóny a ředitelství pro hospodářskou bezpečnost a boj proti korupci. Každá reforma služeb se zde hromadí.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!. Modifikátory se však mohou postupně §Gzlepšovat§! s dokončováním dalších zaměření reformujících služby." # todo: NEW TRANSLATION
+ PMR_mvd_category: "Vnitřní záležitosti" # todo: CHANGED
+ PMR_mvd_category_desc: "Nezávislost naší republiky nezajišťují pouze ozbrojené síly, ale také zvláštní služby a orgány vnitřních záležitostí, na jejichž bedrech spočívá vnitřní boj proti vnějším nepřátelům.\n§RKe zničení§! £text_icon_pmr_sheriff §2monopolu Sheriffu§! je nezbytná §Gúroveň§! §Ykorupce§!" # todo: CHANGED
+ PMR_destroy_sheriff: "§RZničit§! £text_icon_pmr_sheriff §2monopol šerifa§!" # todo: NEW TRANSLATION
+ PMR_upgrade_services_tt: "Máme služby, které lze §Yreformovat§!" # todo: NEW TRANSLATION
+ PMR_upgrade_mgb_tt: "§YMinisterstvo státní bezpečnosti§! dosud nebylo reformováno" # todo: NEW TRANSLATION
+ PMR_lebedev: "Budeme mít snídani v Tiraspolu" # todo: NEW TRANSLATION
+ PMR_lebedev_desc: "Budeme sledovat zásady generála Lebeda a řešit naše problémy radikálně a agresivně." # todo: NEW TRANSLATION
+ PMR_vs_reform: "Reforma ozbrojených sil" # todo: NEW TRANSLATION
+ PMR_vs_reform_desc: "Naše ozbrojené síly nejsou připravené bránit naši malou republiku, musíme je reformovat a co nejdříve." # todo: NEW TRANSLATION
+ PMR_army_corruption: "Zastavte prodej zbraní" # todo: NEW TRANSLATION
+ PMR_army_corruption_desc: "Máme v úmyslu zastavit prodej zbraní ze skladů v Kolbasné, zastavit jejich rozdělování sem a tam." # todo: NEW TRANSLATION
+ PMR_clean_government: "Vyčistěte vládu" # todo: NEW TRANSLATION
+ PMR_clean_government_desc: "Vládní úředníci vždy myslí jen na své kapsy, ale na zemi jim nezáleží; tyto osobnosti odstraníme z vedení republiky mírově, nebo tvrdě." # todo: NEW TRANSLATION
+ PMR_return_zavods: "Oživit továrny" # todo: NEW TRANSLATION
+ PMR_return_zavods_desc: "Průmyslový potenciál regionu je zřejmý i slepému, avšak kolaps USSR zničil vše, co občané tohoto kdysi krásného státu vybudovali, my to vrátíme zpět." # todo: NEW TRANSLATION
+ PMR_clean_corruption: "Válka proti korupci" # todo: NEW TRANSLATION
+ PMR_clean_corruption_desc: "Korupce je jako hydra - když uříznete jednu hlavu, vyroste další. Zničíme všechny hlavy této zkorumpované hydry najednou." # todo: NEW TRANSLATION
+ PMR_commies_goes_home: "Vášnivý antikomunismus" # todo: NEW TRANSLATION
+ PMR_commies_goes_home_desc: "Koministické myšlenky by neměly být hlavní realitou Transnistrie, dlouho odporovaly realitě a tomu, jak lidé zde žijí. Lidé nebudou žít v minulosti, jen v přítomnosti a budoucnosti!" # todo: NEW TRANSLATION
+ PMR_support_nationalism: "Podpora nacionalistických nálad" # todo: NEW TRANSLATION
+ PMR_support_nationalism_desc: "Nacionalismus není vždy špatná věc, zvláště když obyvatelé tak malé oblasti považují sami sebe za součást kdysi obrovského, velkého impéria. Budeme podporovat šíření tohoto nacionalistického sentimentu." # todo: NEW TRANSLATION
+ PMR_reform_special_services: "Reforma tajných služeb" # todo: NEW TRANSLATION
+ PMR_reform_special_services_desc: "Zvláštní služby by měly být také očištěny od všech druhů prohnaných lidí a amatérů, aby řešily všechny záležitosti za peníze." # todo: NEW TRANSLATION
+ PMR_militarize_society: "Militarizace společnosti" # todo: NEW TRANSLATION
+ PMR_militarize_society_desc: "Každý občan by měl být připraven vzít do ruky zbraň, protože hodina boje za samotné přežití našeho regionu se blíží! Budeme aktivně šířit militaristickou rétoriku v naší zemi." # todo: NEW TRANSLATION
+ PMR_zapad_sosat: "Protizápadní nálady" # todo: NEW TRANSLATION
+ PMR_zapad_sosat_desc: "Západ byl, je a bude naším nepřítelem. Nemáme v úmyslu žít ve falešných iluzi, že si někdy přejí pro nás něco dobrého, zvláště pro nás, malý region, který bojuje proti začlenění do Evropské unie." # todo: NEW TRANSLATION
+ PMR_transnistia_legion: "Transnistrijská legie" # todo: NEW TRANSLATION
+ PMR_transnistia_legion_desc: "Transnistrská legie je projekt, o kterém se kdysi mělo realizovat na území Ruska, avšak tehdejší orgány jej zcela zablokovaly. Všechny speciální služby budou sloučeny do zvláštní jednotky, která bude nejen chránit domovinu, ale bude se i podílet na mezinárodních misích, jak veřejně, tak tajně" # todo: NEW TRANSLATION
+ PMR_militarize_young: "Militarizace mládeže" # todo: NEW TRANSLATION
+ PMR_militarize_young_desc: "Mládež, v případě války, by měla být připravena uchopit kulomet a bránit svou domovinu, a ne žadonit o milost. Učiníme z našich dětí skutečné obránce vlasti" # todo: NEW TRANSLATION
+ PMR_ded_sheriffs: "Ukončit šerifův holding" # todo: NEW TRANSLATION
+ PMR_ded_sheriffs_desc: "Moc Sheriffova holdingu bude konečně ukončena; ukončíme je jednou provždy a jak s nimi nakládat, bude záležet na nich. Vězení nebo poprava, co je pro ně vhodnější?" # todo: NEW TRANSLATION
+ PMR_totalitarian_economic: "Autoritářská kontrola nad ekonomikou" # todo: NEW TRANSLATION
+ PMR_totalitarian_economic_desc: "Ekonomická sféra našeho státu byla ponechána náhodě, ale nyní ji uvedeme zpět pod kontrolu silného vůdce." # todo: NEW TRANSLATION
+ PMR_nationalize_burjui: "Nacionalizace zahraničních podniků" # todo: NEW TRANSLATION
+ PMR_nationalize_burjui_desc: "Průmyslové závody vlastněné cizinci představují vždy ekonomické bezpečnostní riziko. Když nás cizí státy hrozí ekonomickými sankcemi, hrozí, že majitelé podniků opustí v noci a odvezou s sebou důležité části svých závodů. Abychom tomu zabránili, musíme tyto odvětví získat pro stát - i kdyby to uráželo zahraniční státy." # todo: NEW TRANSLATION
+ PMR_vpk: "Oživení vojenských továren" # todo: NEW TRANSLATION
+ PMR_vpk_desc: "Naše armáda potřebuje zbraně, a k jejich výrobě potřebujeme mít alespoň minimální vojenský průmysl, protože dědictví SSSR nám umožňuje vytvářet podobné podmínky" # todo: NEW TRANSLATION
+ PMR_defenced: "Posílit hranice" # todo: NEW TRANSLATION
+ PMR_defenced_desc: "Nepřítel na nás vždy čeká, až oslabíme, aby na nás zaútočil, bez ohledu z které strany. Proto musí být naše hranice posíleny na obou stranách" # todo: NEW TRANSLATION
+ PMR_kazaki_more: "Přijmout kozácké dobrovolníky" # todo: NEW TRANSLATION
+ PMR_kazaki_more_desc: "Do Transnistrie se od té doby přestěhovalo mnoho Kozáků poté, co zdejší vláda zvolila patriotičtější směr. Jsme dokonce připraveni z nich vytvořit nový batalion, který nám bude v budoucích bojích pomáhat." # todo: NEW TRANSLATION
+ PMR_sheriff_mobilize: "Mobilizujte bývalé šerifovy zaměstnance" # todo: NEW TRANSLATION
+ PMR_sheriff_mobilize_desc: "Bývalí šerifovi zaměstnanci se musí za svůj hřích před domovinou vykoupit. Sloužit v armádě je pro takové pokání vhodná cesta." # todo: NEW TRANSLATION
+ PMR_moldova_weapons: "Vyzbrojit povstalce" # todo: CHANGED
+ PMR_moldova_weapons_desc: "Budeme poskytovat zbraně potenciálním povstalcům na území Moldavska, aby nám pomohli ve správný okamžik." # todo: NEW TRANSLATION
+ PMR_moldova_finish: "Vyřešit moldavský problém" # todo: NEW TRANSLATION
+ PMR_moldova_finish_desc: "Nebudeme moci klidně spát vědomi si toho, že Moldávie dřív či později bude usilovat o znovuzískání našeho domova. Proto musíme vyřešit problém jejich existence jednou provždy." # todo: NEW TRANSLATION
+ PMR_moldova_money: "Financovat povstalce" # todo: CHANGED
+ PMR_moldova_money_desc: "Finančně budeme podporovat potenciální povstalce na území Moldavska, aby nám pomohli ve správný čas." # todo: NEW TRANSLATION
+ PMR_kishenev: "Budeme mít oběd v Kišiněvě" # todo: NEW TRANSLATION
+ PMR_kishenev_desc: "Moldavsko musí padnout, takového souseda tolerujeme už příliš dlouho." # todo: NEW TRANSLATION
+ PMR_odessa: "Budeme mít oběd v Oděse" # todo: NEW TRANSLATION
+ PMR_odessa_desc: "Oděsa je naše šance získat přístup k Černému moři; pošleme tam rozkazové oddíly a pokusíme se vyvolat vzpouru." # todo: NEW TRANSLATION
+ PMR_buy_general: "Podplatit odesské generály" # todo: NEW TRANSLATION
+ PMR_buy_general_desc: "Podplatíme několik ukrajinských generálů, kteří jsou v Odese, aby nám ve správný okamžik poskytli podporu v našem ozbrojeném povstání." # todo: NEW TRANSLATION
+ PMR_buharest: "Budeme večeřet v Bukurešti" # todo: NEW TRANSLATION
+ PMR_buharest_desc: "Čekáme na závěrečnou bitvu s naším hlavním nepřítelem." # todo: NEW TRANSLATION
+ PMR_kiev: "Budeme večeřet v Kyjevě" # todo: NEW TRANSLATION
+ PMR_kiev_desc: "Čekáme na závěrečnou bitvu s naším hlavním nepřítelem." # todo: NEW TRANSLATION
+ PMR_anti_west_idea: "Antizápadní doktrína" # todo: NEW TRANSLATION
+ PMR_legion_idea: "Transnistrská legie" # todo: NEW TRANSLATION
+ PMR_legion_idea_desc: "Dobrovolnická jednotka otevřená cizincům, řízená Ministerstvem státní bezpečnosti namísto armády. Dává Tiraspolu muže, které může vyslat do zahraničí, aniž by přiznal, že je vyslal, a zajišťuje doma kontrarozvědnou ochranu, kterou branecká armáda nemůže poskytnout.\n§W--------------§!\nTento národní duch nebude nikdy §ROdstraněn§!." # todo: NEW TRANSLATION
+ PMR_lebed_policy_idea: "Politický systém Transnistrijské junty" # todo: NEW TRANSLATION
+ PMR_corruption_dead_in_govern_idea: "Vládní korupce odstraněna" # todo: NEW TRANSLATION
+ ded_lebed: "Generál Lebed je mrtvý" # todo: NEW TRANSLATION
+ PMR_lebed_secured: "Generál Lebeď se vrátil do Tiraspolu" # todo: NEW TRANSLATION
