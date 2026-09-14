@@ -1,77 +1,74 @@
 ﻿l_english:
-  md4_border_conflict_initiate_incident: "Naplánovat incident na hranici [From.From.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_incident_warning_defender: "Incident na hranici [From.From.GetName] vůči [From.GetNameDef]" # todo: NEW TRANSLATION
-  md4_border_conflict_incident_warning_defender_desc: "§WPřesuňte jednotky k §H[From.From.GetName]§!§!" # todo: NEW TRANSLATION
-  md4_border_conflict_escalation_warning_defender: "Incident na hranici [From.From.GetName] vůči [From.GetNameDef]" # todo: NEW TRANSLATION
-  md4_border_conflict_escalation_warning_defender_desc: "§WUdržujte jednotky v §H[From.From.GetName]§!\n§H[From.GetNameDef]§! může eskalovat na §HPohraniční konflikt§!§!." # todo: NEW TRANSLATION
-  escalation_possible_tooltip_for_defender: "§H[From.GetNameDef]§! může eskalovat incident na §HPohraniční konflikt§!.\nOkamžitě prohrajeme, pokud nebudeme mít jednotky v daném státě\n" # todo: NEW TRANSLATION
-  effects_if_border_conflict_is_lost: "§HDůsledky, pokud dojde ke ztrátě Pohraničního konfliktu§!:\n" # todo: NEW TRANSLATION
-  from_cannot_escalate: "§H[From.GetNameDef]§! nemůže již eskalovat na §HPohraniční konflikt§!.\n\n" # todo: NEW TRANSLATION
-  md4_escalate_incident_to_border_conflict: "Eskalovat na Pohraniční konflikt s [From.GetName]" # todo: NEW TRANSLATION
-  md4_border_incident_forgotten: "Incident v [From.From.GetName] byl zapomenut" # todo: NEW TRANSLATION
-  md4_border_incident_delay_until_new_incident_120: "Nelze nasadit nový incident proti §H[From.GetName]§! po §H120§! dnech.\n" # todo: NEW TRANSLATION
-  md4_border_incident_delay_until_new_incident_180: "Nelze nasadit nový incident proti §H[From.GetName]§! po §H180§! dnech.\n" # todo: NEW TRANSLATION
-  md4_border_conflict_time_until_cancelled: "Žádný pokrok v [From.From.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_back_out_of_conflict: "Vystoupit z konfliktu" # todo: NEW TRANSLATION
-  md4_border_conflict_escalate_conflict: "Eskalovat konflikt" # todo: NEW TRANSLATION
-  md4_border_conflict_escalate_to_war: "Eskalovat na válku" # todo: NEW TRANSLATION
-  defensive_border_conflict_won: "Obráněný Pohraniční konflikt vyhraný" # todo: NEW TRANSLATION
-  not_initiated_border_incident_with_FROM: "Nebyl zahájen Pohraniční incident s [From.GetNameDef]" # todo: NEW TRANSLATION
-  not_initiated_border_incident_with_ROOT: "Nebyl zahájen Pohraniční incident s [Root.GetNameDef]" # todo: NEW TRANSLATION
-  at_least_one_division_in_state: "V státě je alespoň §H1§! jednotka" # todo: NEW TRANSLATION
-  in_45_days: "Za 45 dní:\n" # todo: NEW TRANSLATION
-  border_incident_active: "Státy nemají aktivní Pohraniční incident" # todo: NEW TRANSLATION
-  md4_border_conflict_won_attacker.1.t: "Vítězství v [their_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_won_attacker.1.desc: "Střet na pohraničí mezi [our_state.GetName] a [their_state.GetName] přinesl našim silám jasné vítězství nad silami [their_country.GetLeader]. Síly [their_country.GetAdjective] se stáhly, aby se znovu seskupily, a naše síly získaly kontrolu nad sporným územím." # todo: NEW TRANSLATION
-  md4_border_conflict_won_attacker.1.a: "Ukázali jsme jim naši sílu!" # todo: NEW TRANSLATION
-  md4_border_conflict_won_defender.1.t: "Vítězství v [their_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_won_defender.1.desc: "Střet na pohraničí mezi [our_state.GetName] a [their_state.GetName] přinesl našim silám jasné vítězství nad silami [their_country.GetLeader]. Síly [their_country.GetAdjective] se stáhly, aby se znovu seskupily, a naše síly získaly kontrolu nad sporným územím." # todo: NEW TRANSLATION
-  md4_border_conflict_won_defender.1.a: "Ukázali jsme jim naši sílu!" # todo: NEW TRANSLATION
-  md4_border_conflict_lost_attacker.1.t: "Porážka v [our_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_lost_attacker.1.desc: "Síly pod velením [their_country.GetLeader] se podařily vyhnat nás z sporné oblasti mezi [our_state.GetName] a [their_state.GetName]. Naše síly se důstojně stáhly a nyní se reorganizují, pokud budeme chtít bitvu v budoucnu obnovit." # todo: NEW TRANSLATION
-  md4_border_conflict_lost_attacker.1.a: "Musíme co nejdříve zahájit protiútok!" # todo: NEW TRANSLATION
-  md4_border_conflict_lost_defender.1.t: "Defeat in [our_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_lost_defender.1.desc: "Síly pod velením [their_country.GetLeader] se podařily vyhnat nás z sporné oblasti mezi [our_state.GetName] a [their_state.GetName]. Naše síly se důstojně stáhly a nyní se reorganizují, pokud budeme chtít bitvu v budoucnu znovu zahájit." # todo: NEW TRANSLATION
-  md4_border_conflict_lost_defender.1.a: "Musíme co nejdříve zahájit protiútok!" # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_attacker.1.t: "Patová situace ve [their_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_attacker.1.desc: "Boje v oblasti [our_state.GetName]-[their_state.GetName] ustatly, protože obě strany nedokázaly vyklidit protivníka. Málo území bylo získáno oběma stranami. Průzkumníci hlásí, že vojáci [their_country.GetAdjective] na druhé straně se zakopali do defenzivního terénu. Zdá se, že hodlají si ponechat získané území, ale pravděpodobně nepřekročí naše linie." # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_attacker.1.a: "Budeme se vracet." # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_defender.1.t: "Patová situace ve [their_state.GetName]" # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_defender.1.desc: "Boje v oblasti [our_state.GetName]-[their_state.GetName] ustatly, protože obě strany nebyly schopny vyloďit druhou stranu. Málo teritoria bylo získáno ani jednou stranou. Průzkumníci hlásí, že [their_country.GetAdjective] vojáci na druhé straně se zakopali v obranném terénu. Zdá se, že hodlají si ponechat získané území, ale pravděpodobně nepřekročí naše linie." # todo: NEW TRANSLATION
-  md4_border_conflict_canceled_defender.1.a: "Budeme se vracet." # todo: NEW TRANSLATION
-  md4_border_incident_defender_warning.1.t: "[From.GetNameDefCap] ohrožuje naši hranici" # todo: NEW TRANSLATION
-  md4_border_incident_defender_warning.1.desc: "Ještě včera ráno byly spatřeny jednotky [their_country.GetAdjective] překračující hranici z [attacker_state.GetName] do [defender_state.GetName]. Během noci se do oblasti nahrnuly další síly [their_country.GetAdjective] a zřídily obranné pozice na našem území. \n\nTo navazuje na řadu menších potyček a porušení hranic silami pod velením [their_country.GetLeader] po celé naší společné hranici.\n\nTentokrát je zřejmé, že síly [their_country.GetAdjective] tady zůstávají. Musíme co nejdříve vyslat síly do regionu, abychom zkontrolovali jejich postup." # todo: NEW TRANSLATION
-  md4_border_incident_defender_warning.1.a: "Mobilizujte všechny dostupné síly!" # todo: NEW TRANSLATION
-  md4_border_conflict_escalate_to_war.1.t: "[From.GetNameDefCap] Is Mobilizing for War" # todo: NEW TRANSLATION
-  md4_border_conflict_escalate_to_war.1.desc: "Průzkumné zprávy ukazují, že síly [From.GetAdjective] se hromadí uvnitř [their_state.GetName] pro velkou operaci, která má posunout hlouběji do [our_state.GetName]. S ohledem na množství prostředků, které je [From.GetLeader] ochoten na tento podnik vynaložit, je jasné, že nejde už jen o spor ohledně přesného umístění demarkační čáry.\n\nPlná válka je na obzoru." # todo: NEW TRANSLATION
-  md4_border_conflict_escalate_to_war.1.a: "Musíme být připraveni čelit jim!" # todo: NEW TRANSLATION
-  TUR_ob_win.1.t: "Operace Olive Branch uspěla!" # todo: NEW TRANSLATION
-  TUR_ob_win.1.desc: "Turecké a svobodné syrské armádní síly dobyly region Afrin od YPG a PKK teroristů po rychlém obklíčení, které následovalo po zahájení operace. Bez Afrinu budou kurdské síly pravděpodobně neschopné provádět velké útoky v blízkosti bývalé pevnosti, i když boj neskončí zde, neboť PKK, PYD a YPG nespí a budou bojovat dále snad navěky." # todo: NEW TRANSLATION
-  TUR_ob_win.1.a: "Skutečná hrozba teprve musí být řešena..." # todo: NEW TRANSLATION
-  TUR_ob_win.2.t: "Turecké síly odraženy!" # todo: NEW TRANSLATION
-  TUR_ob_win.2.desc: "Turečtí démoni nás označují za teroristy, pak vtrhnou na naše území v snaze zabít stovky kurdských bojovníků, kteří bojují za demokratickou Sýrii svobodnou od hrozby Daesh a od kurdského útlaku. Afrin zůstal nedotčen tureckými rukama, když YPG bojovalo zuby nehty, aby udrželo Turky na jejich vlastní hranici, kterou nikdy neměli překročit. Mohou dělat cokoli, aby spáchali genocidu proti kurdskému lidu, ale dokud budeme bojovat proti útlaku, Turecko nikdy nevyhraje." # todo: NEW TRANSLATION
-  TUR_ob_win.2.a: "Boj zde nekončí..." # todo: NEW TRANSLATION
-  TUR_ob_lose.1.t: "Operace Olive Branch selhala!" # todo: NEW TRANSLATION
-  TUR_ob_lose.1.desc: "Postup na Afrin vedl k strategické porážce, protože kurdští teroristé se podařilo ubránit naše síly a vytlačit je z regionu. Zatímco kurdské síly zůstávají nadále ve svém pevnostním postavení v Afrin a mohou provádět teroristické útoky na našem území, nemůžeme to tolerovat a musíme okamžitě přehodnotit naši strategii, abychom proti těmto teroristům postupovali." # todo: NEW TRANSLATION
-  TUR_ob_lose.1.a: "Bitva ještě neskončila." # todo: NEW TRANSLATION
-  TUR_ob_lose.2.t: "Afrin padl tureckým silám!" # todo: NEW TRANSLATION
-  TUR_ob_lose.2.desc: "Turecké síly uspěly ve svém úkolu bojovat proti oponentovi, který nemá nic společného s vnitřními spory ve vlastní zemi. Od počátku jsme dali jasně najevo, že chceme Kurdistán svobodný od útlaku a demokratickou zemi, kde lidé budou slyšet. To je pro Turky příliš, pokud chtějí bojovat proti špatnému protivníkovi, ať bojují dále, ale jestli Daesh dokáže vyhrát tento boj v Levantu, krev bude na rukou Turecka." # todo: NEW TRANSLATION
-  TUR_ob_lose.2.a: "Nikdy nepřestanou bojovat, a my také nesmíme." # todo: NEW TRANSLATION
-  TUR_ob_warn.1.t: "[From.GetLeader] oznamuje protikurdskou kampaň" # todo: NEW TRANSLATION
-  TUR_ob_warn.1.desc: "[From.GetLeader] oznámil, že turecké síly budou nasazeny do oblasti Afrin ve snaze udusit teroristické skupiny dříve, než se z této oblasti mohou zrodit. YPG bojuje proti Daeshi už jak dlouho? Turci nikdy nepochopí, že Kurdové chtějí jen to, co je správné pro svůj lid, ale bohužel to považují za terorismus. Pokud si myslí, že je to něco, co musí udělat, pak, s milostí Boží, tam budeme čelit jejich silám s vírou a odvahou a budeme se bránit až do smrti." # todo: NEW TRANSLATION
-  TUR_ob_warn.1.a: "Musíme být připraveni." # todo: NEW TRANSLATION
-  SOV_ob_win.1.t: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_win.1.desc: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_win.1.a: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_win.2.t: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_win.2.desc: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_win.2.a: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.1.t: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.1.desc: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.1.a: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.2.t: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.2.desc: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_lose.2.a: "Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_warn.1.t: "[From.GetLeader] Oznámí Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_warn.1.desc: "[From.GetLeader] Malí zelení muži" # todo: NEW TRANSLATION
-  SOV_ob_warn.1.a: "Malí zelení muži" # todo: NEW TRANSLATION
+ md4_border_conflict_initiate_incident: "Naplánovat incident na hranici [From.From.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_incident_warning_defender: "Incident na hranici [From.From.GetName] vůči [From.GetNameDef]" # todo: NEW TRANSLATION
+ md4_border_conflict_incident_warning_defender_desc: "§WPřesuňte jednotky k §H[From.From.GetName]§!§!" # todo: NEW TRANSLATION
+ md4_border_conflict_escalation_warning_defender: "Incident na hranici [From.From.GetName] vůči [From.GetNameDef]" # todo: NEW TRANSLATION
+ md4_border_conflict_escalation_warning_defender_desc: "§WUdržujte jednotky v §H[From.From.GetName]§!\n§H[From.GetNameDef]§! může eskalovat na §HPohraniční konflikt§!§!." # todo: NEW TRANSLATION
+ escalation_possible_tooltip_for_defender: "§H[From.GetNameDef]§! může eskalovat incident na §HPohraniční konflikt§!.\nOkamžitě prohrajeme, pokud nebudeme mít jednotky v daném státě\n" # todo: NEW TRANSLATION
+ effects_if_border_conflict_is_lost: "§HDůsledky, pokud dojde ke ztrátě Pohraničního konfliktu§!:\n" # todo: NEW TRANSLATION
+ from_cannot_escalate: "§H[From.GetNameDef]§! nemůže již eskalovat na §HPohraniční konflikt§!.\n\n" # todo: NEW TRANSLATION
+ md4_escalate_incident_to_border_conflict: "Eskalovat na Pohraniční konflikt s [From.GetName]" # todo: NEW TRANSLATION
+ md4_border_incident_forgotten: "Incident v [From.From.GetName] byl zapomenut" # todo: NEW TRANSLATION
+ md4_border_incident_delay_until_new_incident_120: "Nelze nasadit nový incident proti §H[From.GetName]§! po §H120§! dnech.\n" # todo: NEW TRANSLATION
+ md4_border_incident_delay_until_new_incident_180: "Nelze nasadit nový incident proti §H[From.GetName]§! po §H180§! dnech.\n" # todo: NEW TRANSLATION
+ md4_border_conflict_time_until_cancelled: "Žádný pokrok v [From.From.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_back_out_of_conflict: "Vystoupit z konfliktu" # todo: NEW TRANSLATION
+ md4_border_conflict_escalate_conflict: "Eskalovat konflikt" # todo: NEW TRANSLATION
+ md4_border_conflict_escalate_to_war: "Eskalovat na válku" # todo: NEW TRANSLATION
+ defensive_border_conflict_won: "Obráněný Pohraniční konflikt vyhraný" # todo: NEW TRANSLATION
+ in_45_days: "Za 45 dní:\n" # todo: NEW TRANSLATION
+ border_incident_active: "Státy nemají aktivní Pohraniční incident" # todo: NEW TRANSLATION
+ md4_border_conflict_won_attacker.1.t: "Vítězství v [their_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_won_attacker.1.desc: "Střet na pohraničí mezi [our_state.GetName] a [their_state.GetName] přinesl našim silám jasné vítězství nad silami [their_country.GetLeader]. Síly [their_country.GetAdjective] se stáhly, aby se znovu seskupily, a naše síly získaly kontrolu nad sporným územím." # todo: NEW TRANSLATION
+ md4_border_conflict_won_attacker.1.a: "Ukázali jsme jim naši sílu!" # todo: NEW TRANSLATION
+ md4_border_conflict_won_defender.1.t: "Vítězství v [their_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_won_defender.1.desc: "Střet na pohraničí mezi [our_state.GetName] a [their_state.GetName] přinesl našim silám jasné vítězství nad silami [their_country.GetLeader]. Síly [their_country.GetAdjective] se stáhly, aby se znovu seskupily, a naše síly získaly kontrolu nad sporným územím." # todo: NEW TRANSLATION
+ md4_border_conflict_won_defender.1.a: "Ukázali jsme jim naši sílu!" # todo: NEW TRANSLATION
+ md4_border_conflict_lost_attacker.1.t: "Porážka v [our_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_lost_attacker.1.desc: "Síly pod velením [their_country.GetLeader] se podařily vyhnat nás z sporné oblasti mezi [our_state.GetName] a [their_state.GetName]. Naše síly se důstojně stáhly a nyní se reorganizují, pokud budeme chtít bitvu v budoucnu obnovit." # todo: NEW TRANSLATION
+ md4_border_conflict_lost_attacker.1.a: "Musíme co nejdříve zahájit protiútok!" # todo: NEW TRANSLATION
+ md4_border_conflict_lost_defender.1.t: "Defeat in [our_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_lost_defender.1.desc: "Síly pod velením [their_country.GetLeader] se podařily vyhnat nás z sporné oblasti mezi [our_state.GetName] a [their_state.GetName]. Naše síly se důstojně stáhly a nyní se reorganizují, pokud budeme chtít bitvu v budoucnu znovu zahájit." # todo: NEW TRANSLATION
+ md4_border_conflict_lost_defender.1.a: "Musíme co nejdříve zahájit protiútok!" # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_attacker.1.t: "Patová situace ve [their_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_attacker.1.desc: "Boje v oblasti [our_state.GetName]-[their_state.GetName] ustatly, protože obě strany nedokázaly vyklidit protivníka. Málo území bylo získáno oběma stranami. Průzkumníci hlásí, že vojáci [their_country.GetAdjective] na druhé straně se zakopali do defenzivního terénu. Zdá se, že hodlají si ponechat získané území, ale pravděpodobně nepřekročí naše linie." # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_attacker.1.a: "Budeme se vracet." # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_defender.1.t: "Patová situace ve [their_state.GetName]" # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_defender.1.desc: "Boje v oblasti [our_state.GetName]-[their_state.GetName] ustatly, protože obě strany nebyly schopny vyloďit druhou stranu. Málo teritoria bylo získáno ani jednou stranou. Průzkumníci hlásí, že [their_country.GetAdjective] vojáci na druhé straně se zakopali v obranném terénu. Zdá se, že hodlají si ponechat získané území, ale pravděpodobně nepřekročí naše linie." # todo: NEW TRANSLATION
+ md4_border_conflict_canceled_defender.1.a: "Budeme se vracet." # todo: NEW TRANSLATION
+ md4_border_incident_defender_warning.1.t: "[From.GetNameDefCap] ohrožuje naši hranici" # todo: NEW TRANSLATION
+ md4_border_incident_defender_warning.1.desc: "Ještě včera ráno byly spatřeny jednotky [their_country.GetAdjective] překračující hranici z [attacker_state.GetName] do [defender_state.GetName]. Během noci se do oblasti nahrnuly další síly [their_country.GetAdjective] a zřídily obranné pozice na našem území. \n\nTo navazuje na řadu menších potyček a porušení hranic silami pod velením [their_country.GetLeader] po celé naší společné hranici.\n\nTentokrát je zřejmé, že síly [their_country.GetAdjective] tady zůstávají. Musíme co nejdříve vyslat síly do regionu, abychom zkontrolovali jejich postup." # todo: NEW TRANSLATION
+ md4_border_incident_defender_warning.1.a: "Mobilizujte všechny dostupné síly!" # todo: NEW TRANSLATION
+ md4_border_conflict_escalate_to_war.1.t: "[From.GetNameDefCap] Is Mobilizing for War" # todo: NEW TRANSLATION
+ md4_border_conflict_escalate_to_war.1.desc: "Průzkumné zprávy ukazují, že síly [From.GetAdjective] se hromadí uvnitř [their_state.GetName] pro velkou operaci, která má posunout hlouběji do [our_state.GetName]. S ohledem na množství prostředků, které je [From.GetLeader] ochoten na tento podnik vynaložit, je jasné, že nejde už jen o spor ohledně přesného umístění demarkační čáry.\n\nPlná válka je na obzoru." # todo: NEW TRANSLATION
+ md4_border_conflict_escalate_to_war.1.a: "Musíme být připraveni čelit jim!" # todo: NEW TRANSLATION
+ TUR_ob_win.1.t: "Operace Olive Branch uspěla!" # todo: NEW TRANSLATION
+ TUR_ob_win.1.desc: "Turecké a svobodné syrské armádní síly dobyly region Afrin od YPG a PKK teroristů po rychlém obklíčení, které následovalo po zahájení operace. Bez Afrinu budou kurdské síly pravděpodobně neschopné provádět velké útoky v blízkosti bývalé pevnosti, i když boj neskončí zde, neboť PKK, PYD a YPG nespí a budou bojovat dále snad navěky." # todo: NEW TRANSLATION
+ TUR_ob_win.1.a: "Skutečná hrozba teprve musí být řešena..." # todo: NEW TRANSLATION
+ TUR_ob_win.2.t: "Turecké síly odraženy!" # todo: NEW TRANSLATION
+ TUR_ob_win.2.desc: "Turečtí démoni nás označují za teroristy, pak vtrhnou na naše území v snaze zabít stovky kurdských bojovníků, kteří bojují za demokratickou Sýrii svobodnou od hrozby Daesh a od kurdského útlaku. Afrin zůstal nedotčen tureckými rukama, když YPG bojovalo zuby nehty, aby udrželo Turky na jejich vlastní hranici, kterou nikdy neměli překročit. Mohou dělat cokoli, aby spáchali genocidu proti kurdskému lidu, ale dokud budeme bojovat proti útlaku, Turecko nikdy nevyhraje." # todo: NEW TRANSLATION
+ TUR_ob_win.2.a: "Boj zde nekončí..." # todo: NEW TRANSLATION
+ TUR_ob_lose.1.t: "Operace Olive Branch selhala!" # todo: NEW TRANSLATION
+ TUR_ob_lose.1.desc: "Postup na Afrin vedl k strategické porážce, protože kurdští teroristé se podařilo ubránit naše síly a vytlačit je z regionu. Zatímco kurdské síly zůstávají nadále ve svém pevnostním postavení v Afrin a mohou provádět teroristické útoky na našem území, nemůžeme to tolerovat a musíme okamžitě přehodnotit naši strategii, abychom proti těmto teroristům postupovali." # todo: NEW TRANSLATION
+ TUR_ob_lose.1.a: "Bitva ještě neskončila." # todo: NEW TRANSLATION
+ TUR_ob_lose.2.t: "Afrin padl tureckým silám!" # todo: NEW TRANSLATION
+ TUR_ob_lose.2.desc: "Turecké síly uspěly ve svém úkolu bojovat proti oponentovi, který nemá nic společného s vnitřními spory ve vlastní zemi. Od počátku jsme dali jasně najevo, že chceme Kurdistán svobodný od útlaku a demokratickou zemi, kde lidé budou slyšet. To je pro Turky příliš, pokud chtějí bojovat proti špatnému protivníkovi, ať bojují dále, ale jestli Daesh dokáže vyhrát tento boj v Levantu, krev bude na rukou Turecka." # todo: NEW TRANSLATION
+ TUR_ob_lose.2.a: "Nikdy nepřestanou bojovat, a my také nesmíme." # todo: NEW TRANSLATION
+ TUR_ob_warn.1.t: "[From.GetLeader] oznamuje protikurdskou kampaň" # todo: NEW TRANSLATION
+ TUR_ob_warn.1.desc: "[From.GetLeader] oznámil, že turecké síly budou nasazeny do oblasti Afrin ve snaze udusit teroristické skupiny dříve, než se z této oblasti mohou zrodit. YPG bojuje proti Daeshi už jak dlouho? Turci nikdy nepochopí, že Kurdové chtějí jen to, co je správné pro svůj lid, ale bohužel to považují za terorismus. Pokud si myslí, že je to něco, co musí udělat, pak, s milostí Boží, tam budeme čelit jejich silám s vírou a odvahou a budeme se bránit až do smrti." # todo: NEW TRANSLATION
+ TUR_ob_warn.1.a: "Musíme být připraveni." # todo: NEW TRANSLATION
+ SOV_ob_win.1.t: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_win.1.desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_win.1.a: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_win.2.t: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_win.2.desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_win.2.a: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.1.t: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.1.desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.1.a: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.2.t: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.2.desc: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_lose.2.a: "Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_warn.1.t: "[From.GetLeader] Oznámí Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_warn.1.desc: "[From.GetLeader] Malí zelení muži" # todo: NEW TRANSLATION
+ SOV_ob_warn.1.a: "Malí zelení muži" # todo: NEW TRANSLATION

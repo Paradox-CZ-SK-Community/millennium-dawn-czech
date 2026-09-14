@@ -1,0 +1,180 @@
+﻿l_english:
+ OPEN_BUTTON_TT: "Volby a politika" # todo: NEW TRANSLATION
+ OPEN_BUTTON_TT_DELAYED: "Kliknutím otevřete obrazovku voleb a politiky" # todo: NEW TRANSLATION
+ POLITICAL_SUBMENU_TITLE: "Volby a politika" # todo: NEW TRANSLATION
+ CORRUPTION_OFFERS_LABEL: "Nabídky korupce" # todo: NEW TRANSLATION
+ CORRUPTION_OFFERS_TT: "Povolí/zakáže nabídky korupce." # todo: NEW TRANSLATION
+ FOREIGN_ELECTION_NOTIFICATIONS_LABEL: "Oznámení o zahraničních volbách" # todo: NEW TRANSLATION
+ FOREIGN_ELECTION_NOTIFICATIONS_TT: "Povolí/zakáže oznámení o zahraničních volbách." # todo: NEW TRANSLATION
+ ELECTIONS_TITLE: "Volby" # todo: NEW TRANSLATION
+ ELECTION_DATE_LABEL: "§YStav voleb§!" # todo: NEW TRANSLATION
+ has_election_yes: "§GAno§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ has_election_no: "§RNe§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ ELECTIONS_THRESHOLD_TITLE: "Volební práh" # todo: NEW TRANSLATION
+ ELECTIONS_THRESHOLD: "§Y[?election_threshold|%0]§!" # todo: NEW TRANSLATION
+ ELECTIONS_THRESHOLD_TT: "§Y[?election_threshold|%0] [term_limit_text]§!" # todo: NEW TRANSLATION
+ ELECTIONS_THRESHOLD_DESC: "Práh" # todo: NEW TRANSLATION
+ increase_election_threshold: "§YZvýšit volební práh§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ increase_election_threshold_TT: "Volební práh (nebo volební klauzule) je minimální procento, které musí politická strana dosáhnout, aby byla považována za oprávněnou k zastoupení v zákonodárném sboru.\n\n§YPožadavky§!:\n[!increase_election_threshold_click_enabled]\n§YEfekty:§!\n[!increase_election_threshold_click]\n\nZměna se aplikuje při následujících volbách a ztíží malým stranám získání moci." # todo: NEW TRANSLATION # todo: MOVED KEY
+ decrease_election_threshold: "§YSnížit volební práh§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ decrease_election_threshold_TT: "Volební práh (nebo volební klauzule) je minimální procento, které musí politická strana dosáhnout, aby byla považována za oprávněnou k zastoupení v zákonodárném sboru.\n\n§YPožadavky§!:\n[!decrease_election_threshold_click_enabled]\n§YEfekty:§!\n[!decrease_election_threshold_click]\n\nZměna se aplikuje při následujících volbách a usnadní malým stranám získání moci." # todo: NEW TRANSLATION # todo: MOVED KEY
+ GOVERNMENT_TITLE: "Vláda" # todo: NEW TRANSLATION
+ GOVERNMENT_POPULARITY_VALUE: "§Y[?government_coalition_strength|1%]§!" # todo: NEW TRANSLATION
+ RULING_PARTY_TT: "[show_ruling_party] (§Y[?party_pop_elect_array^ruling_party|%1]§!)" # todo: NEW TRANSLATION
+ RULING_PARTY_TT_DELAYED: "[show_ruling_party_desc]" # todo: NEW TRANSLATION
+ COALITION_POPULARITY_TT: "" # todo: NEW TRANSLATION
+ COALITION_POPULARITY_TT_DELAYED: "" # todo: NEW TRANSLATION
+ OPPOSITION_TITLE: "Opozice" # todo: NEW TRANSLATION
+ OPPOSITION_POPULARITY_VALUE: "§Y[?opposition_strength|1%]§!" # todo: NEW TRANSLATION
+ OPPOSITION_PARTY_TT: "[opposition_party_name] ([opposition_party_support])" # todo: NEW TRANSLATION
+ OPPOSITION_PARTY_TT_DELAYED: "[opposition_party_desc]" # todo: NEW TRANSLATION
+ OPPOSITION_POPULARITY_TT: "" # todo: NEW TRANSLATION
+ OPPOSITION_POPULARITY_TT_DELAYED: "" # todo: NEW TRANSLATION
+ POLITICS_PIE_CHART_TT: "§HPopularita stran:§! \n\n[party_name_pos_0] §Y[?party_pop_array^pos_array^0|%1]§!\n[party_name_pos_1] §Y[?party_pop_array^pos_array^1|%1]§!\n[party_name_pos_2] §Y[?party_pop_array^pos_array^2|%1]§!\n[party_name_pos_3] §Y[?party_pop_array^pos_array^3|%1]§!\n[party_name_pos_4] §Y[?party_pop_array^pos_array^4|%1]§!\n[party_name_pos_5] §Y[?party_pop_array^pos_array^5|%1]§!\n[party_name_pos_6] §Y[?party_pop_array^pos_array^6|%1]§!\n[party_name_pos_7] §Y[?party_pop_array^pos_array^7|%1]§!\n[party_name_pos_8] §Y[?party_pop_array^pos_array^8|%1]§!\n[party_name_pos_9] §Y[?party_pop_array^pos_array^9|%1]§!\n[party_name_pos_10] §Y[?party_pop_array^pos_array^10|%1]§!\n[party_name_pos_11] §Y[?party_pop_array^pos_array^11|%1]§!\n[party_name_pos_12] §Y[?party_pop_array^pos_array^12|%1]§!\n[party_name_pos_13] §Y[?party_pop_array^pos_array^13|%1]§!\n[party_name_pos_14] §Y[?party_pop_array^pos_array^14|%1]§!\n[party_name_pos_15] §Y[?party_pop_array^pos_array^15|%1]§!\n[party_name_pos_16] §Y[?party_pop_array^pos_array^16|%1]§!\n[party_name_pos_17] §Y[?party_pop_array^pos_array^17|%1]§!\n[party_name_pos_18] §Y[?party_pop_array^pos_array^18|%1]§!\n[party_name_pos_19] §Y[?party_pop_array^pos_array^19|%1]§!\n[party_name_pos_20] §Y[?party_pop_array^pos_array^20|%1]§!\n[party_name_pos_21] §Y[?party_pop_array^pos_array^21|%1]§!\n[party_name_pos_22] §Y[?party_pop_array^pos_array^22|%1]§!\n[party_name_pos_23] §Y[?party_pop_array^pos_array^23|%1]§!" # todo: NEW TRANSLATION
+ POLITICS_PIE_CHART_TT_DELAYED: "Výsečový graf zobrazuje odhadovanou popularitu politických stran v Millennium Dawn. Každý výsek představuje procentuální podíl podpory konkrétní strany. Větší výseky označují strany s vyšší popularitou, zatímco menší výseky představují strany s nižší úrovní podpory v politickém prostředí." # todo: NEW TRANSLATION
+ COALITION_PARTY_TT: "[party_name_by_index] (§Y[?party_pop_array^v|%1]§!)" # todo: NEW TRANSLATION
+ COALITION_PARTY_TT_DELAYED: "[party_election_num_by_index]" # todo: NEW TRANSLATION
+ POLITICAL_ACTIONS_TITLE: "Politické akce" # todo: NEW TRANSLATION
+ HOLD_REELECTIONS: "§YVyhlásit nové§! mimořádné volby" # todo: NEW TRANSLATION
+ HOLD_REELECTIONS_TT: "Nové volby se uskuteční za 14 dní. Vzhledem k jejich mimořádné povaze se další volby po těchto volbách stále uskuteční v plánovaném termínu. \n\n§YPředpoklad:§! \n[!hold_reelections_button_click_enabled] \n§YÚčinky:§! \n[!hold_reelections_button_click]" # todo: NEW TRANSLATION
+ hold_reelections_flag: "§YMimořádné volby§! se nekonaly posledních 365 dní. Zbývá dní: §Y[?hold_reelections:days_left]§!." # todo: NEW TRANSLATION
+ RETIRE_LEADER: "§Y[Root.GetLeader]§! \n §RUkončit§! jako vůdce" # todo: NEW TRANSLATION
+ RETIRE_LEADER_TT: "Ačkoli by to jistě přišlo jako šok, stálo by to vysokou politickou cenu a navždy vyloučilo možnost návratu [Root.GetLeader] do politiky, stále existuje možnost odejít do ústraní, trávit více času s rodinou a vyhnout se útrapám politiky.\n\n§YPředpoklad:§! \n[!retire_leader_button_click_enabled] \n§YÚčinky:§! \n[!retire_leader_button_click]" # todo: NEW TRANSLATION
+ retire_leader_effect_tt: "§H[Root.GetLeader]§! §Wodejde z funkce vůdce [Root.GetName]§!\n§H[show_ruling_party]§! §Wvybere nového vůdce ze svých řad.§!" # todo: NEW TRANSLATION
+ PERMANENTLY_SUSPEND_ELECTIONS: "[suspend_elections_label]" # todo: NEW TRANSLATION
+ PERMANENTLY_SUSPEND_ELECTIONS_TT: "Volby budou na neurčito pozastaveny. \n\n§YPředpoklad:§! \n[!permanently_suspend_elections_button_click_enabled] \n§YÚčinky:§! \n[!permanently_suspend_elections_button_click]" # todo: NEW TRANSLATION
+ SUSPEND_ELECTIONS_LABEL: "§YPozastavit§! volby" # todo: NEW TRANSLATION
+ ALLOW_ELECTIONS_LABEL: "§YPovolit§! volby" # todo: NEW TRANSLATION
+ POLITICAL_PROPAGANDA_TITLE: "Propagandistické kampaně" # todo: NEW TRANSLATION
+ PROPAGANDA_PROWESTERN: "§YProzápadní§!" # todo: NEW TRANSLATION
+ PROPAGANDA_EMERGING: "§YRozvíjející se§!" # todo: NEW TRANSLATION
+ PROPAGANDA_NONALIGNED: "§YNezúčastněné§!" # todo: NEW TRANSLATION
+ PROPAGANDA_NATIONALIST: "§YNacionalistické§!" # todo: NEW TRANSLATION
+ PROPAGANDA_FASCISM: "§YSálafistické§!" # todo: NEW TRANSLATION
+ MD_propaganda_prowestern: "Prozápadní propagandistická kampaň" # todo: NEW TRANSLATION
+ MD_propaganda_emerging: "Propagandistická kampaň rozvíjejících se zemí" # todo: NEW TRANSLATION
+ MD_propaganda_nonaligned: "Propagandistická kampaň nezúčastněných" # todo: NEW TRANSLATION
+ MD_propaganda_nationalist: "Nacionalistická propagandistická kampaň" # todo: NEW TRANSLATION
+ MD_propaganda_fascism: "Sálafistická propagandistická kampaň" # todo: NEW TRANSLATION
+ prowestern_propaganda_button_tt: "§YProzápadní§! propagandistická kampaň \nPomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Každá taková kampaň však bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady propagandistické kampaně§! – modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady prozápadní propagandistické kampaně§! – modifikátor: [?ROOT.modifier@western_outlook_campaign_cost_modifier|-2%] \n\n§YPředpoklad:§! \n[!prowestern_propaganda_button_click_enabled] \n§YModifikátory během aktivace:§! \n[!prowestern_propaganda_button_click]" # todo: NEW TRANSLATION
+ emerging_propaganda_button_tt: "§YPropagandistická kampaň rozvíjejících se zemí§! \nPomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Každá taková kampaň však bude účinná jen po omezenou dobu, protože lidé po čase ztrácejí zájem.\n\n§YNáklady propagandistické kampaně§! – modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady propagandistické kampaně rozvíjejících se zemí§! – modifikátor: [?ROOT.modifier@emerging_outlook_campaign_cost_modifier|-2%] \n\n§YPředpoklad:§! \n[!emerging_propaganda_button_click_enabled] \n§YModifikátory během aktivace:§! \n[!emerging_propaganda_button_click]" # todo: NEW TRANSLATION
+ nonaligned_propaganda_button_tt: "§YPropagandistická kampaň nezúčastněných§! \nPomocí informační války můžeme ovlivnit veřejné mínění o světové situaci. Každá taková kampaň však bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady propagandistické kampaně§! – modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady propagandistické kampaně nezúčastněných§! – modifikátor: [?ROOT.modifier@nonaligned_outlook_campaign_cost_modifier|-2%] \n\n§YPředpoklad:§! \n[!nonaligned_propaganda_button_click_enabled] \n§YModifikátory během aktivace:§! \n[!nonaligned_propaganda_button_click]" # todo: NEW TRANSLATION
+ nationalist_propaganda_button_tt: "§YNacionalistická§! propagandistická kampaň \nPomocí informační války můžeme ovlivnit veřejné mínění o světové situaci a přimět ho nahlížet na ni z nacionalistické perspektivy. Každá taková kampaň však bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady propagandistické kampaně§! – modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady nacionalistické propagandistické kampaně§! – modifikátor: [?ROOT.modifier@nationalist_outlook_campaign_cost_modifier|-2%] \n\n§YPředpoklad:§! \n[!nationalist_propaganda_button_click_enabled] \n§YModifikátory během aktivace:§! \n[!nationalist_propaganda_button_click]" # todo: NEW TRANSLATION
+ fascism_propaganda_button_tt: "§YFašistická§! propagandistická kampaň \nPomocí informační války, propagace ultrakonzervativních duchovních a podobných metod můžeme ovlivnit a radikalizovat veřejné mínění o světové situaci ve prospěch sálafismu. Každá taková kampaň však bude účinná jen po omezenou dobu, protože lidé postupně ztrácejí zájem.\n\n§YNáklady propagandistické kampaně§! – modifikátor: [?ROOT.modifier@propaganda_campaign_cost_modifier|-2%]\n§YNáklady sálafistické indoktrinační kampaně§! – modifikátor: [?ROOT.modifier@salafist_outlook_campaign_cost_modifier|-2%] \n\n§YPředpoklad:§! \n[!fascism_propaganda_button_click_enabled] \n§YModifikátory během aktivace:§! \n[!fascism_propaganda_button_click]" # todo: NEW TRANSLATION
+ prowestern_propaganda: "§YProzápadní propagandistická kampaň§! aktivní\n" # todo: NEW TRANSLATION
+ emerging_propaganda: "§YPropagandistická kampaň rozvíjejících se zemí§! aktivní\n" # todo: NEW TRANSLATION
+ nonaligned_propaganda: "§YPropagandistická kampaň nezúčastněných§! aktivní\n" # todo: NEW TRANSLATION
+ nationalist_propaganda: "§YNacionalistická propagandistická kampaň§! aktivní\n" # todo: NEW TRANSLATION
+ fascism_propaganda: "§YFašistická propagandistická kampaň§! aktivní\n" # todo: NEW TRANSLATION
+ generic_election_killswitch: "Povoleno pořádat §Ymimořádné volby§!\n" # todo: NEW TRANSLATION
+ prowestern_propaganda_tt: "  £GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné výdaje: $[?promote_outlook_western_costs|-3] \n  £western_outlook_campaign_cost_modifier_texticon  Denní prozápadní podpora: §G+0.10§! \n  £GFX_political_power_texticon  Zisk politické moci: §R-25%§!" # todo: NEW TRANSLATION
+ emerging_propaganda_tt: "  £GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné výdaje: $[?promote_outlook_emerging_costs|-3] \n  £emerging_outlook_campaign_cost_modifier_texticon  Denní podpora rozvíjejících se zemí: §G+0.10§! \n  £GFX_political_power_texticon  Zisk politické moci: §R-25%§!" # todo: NEW TRANSLATION
+ nonaligned_propaganda_tt: "  £GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné výdaje: $[?promote_outlook_nonaligned_costs|-3] \n  £nonaligned_outlook_campaign_cost_modifier_texticon  Denní podpora nezúčastněných: §G+0.10§! \n  £GFX_political_power_texticon  Zisk politické moci: §R-25%§!" # todo: NEW TRANSLATION
+ nationalist_propaganda_tt: "  £GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné výdaje: $[?promote_outlook_nationalist_costs|-3] \n  £nationalist_outlook_campaign_cost_modifier_texticon  Denní nacionalistická podpora: §G+0.10§! \n  £GFX_political_power_texticon  Zisk politické moci: §R-25%§!" # todo: NEW TRANSLATION
+ fascism_propaganda_tt: "  £GFX_corporate_tax_income_multiplier_modifier_texticon  Dodatečné výdaje: $[?promote_outlook_salafist_costs|-3] \n  £salafist_outlook_campaign_cost_modifier_texticon Denní sálafistická podpora: §G+0.10§! \n  £GFX_political_power_texticon  Zisk politické moci: §R-25%§!" # todo: NEW TRANSLATION
+ IP_TITLE: "Ideologické síly" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_communist_category_desc: "§YKomunisté§!\nSíly dostupné pro:\n[Communist-State_L]\n[Neutral_Communism_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_socialist_category_desc: "§YSocialisté§!\nSíly dostupné pro:\n[socialism_L]\n[anarchist_communism_L]\n[Neutral_green_L]\n[neutral_Social_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_conservative_category_desc: "§YKonzervativci§!\nSíly dostupné pro:\n[conservatism_L]\n[Conservative_L]\n[Mod_Vilayat_e_Faqih_L]\n[Neutral_Muslim_Brotherhood_L]\n[Neutral_conservatism_L]\n[Nat_Populism_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_liberal_category_desc: "§YLiberálové§!\nSíly dostupné pro:\n[liberalism_L]\n[Neutral_Libertarian_L]\n[technocrats_scripted_loc]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_autocrat_category_desc: "§YAutokrati§!\nSíly dostupné pro:\n[Western_Autocracy_scripted_loc]\n[Autocracy_L]\n[Neutral_Autocracy_L]\n[oligarchism_L]\n[Nat_Fascism_L]\n[Nat_Autocracy_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_monarchist_category_desc: "§YMonarchisté§!\nPráva dostupná pro:\n[Kingdom_L]\n[Monarchist_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_fundamentalist_symbol_desc: "§YFundamentalisté§!\nPráva dostupná pro:\n[Vilayat_e_Faqih_L]\n[Caliphate_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_communist_category_desc_delayed: "§LKomunisté obvykle následují marxismus-leninský nebo podobnou ideologii. Jako zastánci státem řízené ekonomiky mají snazší industrializaci prostřednictvím znárodňování zahraničních průmyslů a jejich pětiletých plánů. Mohou také efektivněji posílit svůj výhled prostřednictvím svých špionů§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_socialist_category_desc_delayed: "§LSocialisté spojují prvky tržního a státního kapitalismu s progresivismem. Jejich cílem je často investovat veškeré úsilí vlády do samotné země. Socialisté snadno zlepšují vnitřní situaci své země prostřednictvím sociální politiky a státních zásahů do ekonomiky.§!" # todo: NEW TRANSLATION
+ IP_conservative_category_desc_delayed: "§LKonzervativci obvykle chtějí, aby země zůstala taková, jaká je, nebo aby se vrátila k některým pokročilejším zákonům. Konzervatismus často bývá spojen s nacionalismem a hlubokými náboženskými vírami. Z tohoto důvodu mají konzervativní země snazší udržování politické a národní stability, protože radikální změny jsou vzácné.§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_liberal_category_desc_delayed: "§LLiberálové mají sklon prosazovat myšlenky svobody, ačkoliv některé strany zaujímají progresivnější (sociální liberalismus) přístup k problémům. Jádrem většiny liberálních stran je myšlenka volného trhu s velmi omezeným zásahem vlády.§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_autocrat_category_desc_delayed: "§LAutokrati spoléhají na moc silných mužů (a ve výjimečných případech i silných žen), aby vedli zemi. Demagogové se nebojí používat pochybná opatření a dohody v zadních místnostech, aby dosáhli toho, co chtějí. Autokratům bude snazší tolerovat vysokou korupci a udržovat kontrolu nad národem železnou pěstí§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_monarchist_category_desc_delayed: "§LMonarchisté spoléhají na rodovou linii a slávu, aby vládli zemím. Soustředění moci do jedné rodiny má své výhody. Tato rodina přináší moc a monarchové jsou dobří v povzbuzování svého lidu.§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_fundamentalist_symbol_desc_delayed: "§LFundamentalisté jsou tvrdí konzervativci, kteří vyznávají radikální, ultrakonzervativní formu islámu. Jejich hlavním cílem je šířit tyto konzervativní názory i do ostatních zemí.§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ IP_communist_powers_desc: "§YKomunisté§!\n\n§YPravomoci dostupné pro:§!\n  [Communist-State_L]\n  [Neutral_Communism_L]\n\n§YBonusy:§!\n  $BOOST_IDEOLOGY_MISSION_FACTOR$: §G+25%§!\n  Mohou zavádět vlastní §Ypětileté plány§! pomocí §Yrozhodnutí§!\n  Mohou §Yznárodnit§! majetek velkých zahraničních vlivových skupin pomocí §Yrozhodnutí§!\n\n§YNevýhoda:§!\n  $buildings_worker_requirement_modifier$: §R+15%§!" # todo: NEW TRANSLATION
+ IP_socialist_powers_desc: "§YSocialisté§!\n\n§YPravomoci dostupné pro:§!\n  [socialism_L]\n  [anarchist_communism_L]\n  [Neutral_green_L]\n  [neutral_Social_L]\n\n§YBonusy:§!\n  $health_cost_multiplier_modifier$: §G-15.00%§!\n  $social_cost_multiplier_modifier$: §G-15.00%§!\n  $MODIFIER_POLITICAL_POWER_FACTOR$: §G+15%§! za každou úroveň pod §YOmezeným intervencionismem§!\n\n§YPouze [Neutral_green_L]:§!\n  $modifier_state_production_speed_renewable_energy_infra_factor$: §G+50.00%§!\n\n§YVšichni kromě [Neutral_green_L]:§!\n  $internal_investments_pp_cost_modifier$: §G-25.00%§!\n  $internal_investments_money_cost_modifier$: §G-25.00%§!\n\n§YNevýhoda:§!\n  $foreign_influence_defense_modifier$: §R-15%§!" # todo: NEW TRANSLATION
+ IP_conservative_powers_desc: "§YKonzervativci§!\n\n§YPravomoci dostupné pro:§!\n  [conservatism_L]\n  [Conservative_L]\n  [Mod_Vilayat_e_Faqih_L]\n  [Neutral_Muslim_Brotherhood_L]\n  [Neutral_conservatism_L]\n  [Nat_Populism_L]\n\n§YBonusy:§!\n  $foreign_influence_defense_modifier$: §G+15%§!\n  $MODIFIER_STABILITY_FACTOR$: §G+15.00%§!\n\n§YVšichni kromě [Neutral_Muslim_Brotherhood_L] / [Mod_Vilayat_e_Faqih_L]:§!\n  $MODIFIER_WAR_SUPPORT_FACTOR$: §G+15.00%§!\n\n§YPouze [Neutral_Muslim_Brotherhood_L] / [Mod_Vilayat_e_Faqih_L]:§!\n  $MODIFIER_COMPLIANCE_GROWTH$: §G+15.00%§!\n\n§YNevýhoda:§!\n  $foreign_influence_modifier$: §R-15.00%§!" # todo: NEW TRANSLATION
+ IP_liberal_powers_desc: "§YLiberálové§!\n\n§YPravomoci dostupné pro:§!\n  [liberalism_L]\n  [Neutral_Libertarian_L]\n  [technocrats_scripted_loc]\n\n§YBonusy:§!\n  $return_on_investment_modifier$: §G+2.00%§!\n  $economic_cycles_cost_factor$: §G-15%§!\n  $econ_cycle_upg_cost_multiplier_modifier$: §G-15%§!\n  $productivity_growth_modifier$: §G+0.75§!\n  $corporate_tax_income_multiplier_modifier$: §G+10.00%§!\n\n§YNevýhoda:§!\n  $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-15.00%§!\n  $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R-15.00%§!" # todo: NEW TRANSLATION
+ IP_autocrat_powers_desc: "§YAutokraté§!\n\n§YPravomoci dostupné pro:§!\n  [Western_Autocracy_scripted_loc]\n  [Autocracy_L]\n  [Neutral_Autocracy_L]\n  [oligarchism_L]\n  [Nat_Fascism_L]\n  [Nat_Autocracy_L]\n\n§YBonusy:§!\n  $MODIFIER_POLITICAL_POWER_GAIN$: §G+0.3§! za každou úroveň §Ykorupce§! nad §Yzanedbatelnou korupcí§!\n\n§YPouze [oligarchism_L]:§!\n  $resource_export_multiplier_modifier$: §G+10.00%§!\n\n§YVšichni kromě [Nat_Fascism_L]:§!\n  $MODIFIER_STABILITY_POPULARITY_FACTOR$: §G+25%§!\n\n§YPouze [Nat_Fascism_L]:§!\n  $MODIFIER_CONSCRIPTION_FACTOR$: §G+0.50%§!\n  $MODIFIER_TRAINING_TIME_FACTOR$: §G-10.00%§!\n\n§YNevýhoda:§!\n  $MODIFIER_XP_GAIN_ARMY_FACTOR$: §R-15.0%§!\n  $MODIFIER_XP_GAIN_NAVY_FACTOR$: §R-15.0%§!\n  $MODIFIER_XP_GAIN_AIR_FACTOR$: §R-15.0%§!" # todo: NEW TRANSLATION
+ IP_monarchist_powers_desc: "§YMonarchisté§!\n\n§YPravomoci dostupné pro:§!\n  [Kingdom_L]\n  [Monarchist_L]\n  [HOL_Western_Autocracy_scripted_loc]\n\n§YBonusy:§!\n  £economy_laws_cost_texticon Náklady zákonů: §G-15%§!\n  $MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: §G+10.0%§!\n  $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+10.0%§!\n  $population_tax_income_multiplier_modifier$: §G+10.00%§!\n\n§YNevýhoda:§!\n  $MODIFIER_STABILITY_FACTOR$: §R-15.00%§!" # todo: NEW TRANSLATION
+ IP_fundamentalist_powers_desc: "§YFundamentalisté§!\n\n§YPravomoci dostupné pro:§!\n  [Vilayat_e_Faqih_L]\n  [Caliphate_L]\n\n§YBonusy:§!\n  $MODIFIER_WEEKLY_MANPOWER$: §G+300§!\n  $MODIFIER_SEND_VOLUNTEERS_TENSION_LIMIT$: §G-10.0%§!\n  $MODIFIER_LEND_LEASE_TENSION_LIMIT$: §G-10.0%§!\n  $MODIFIER_SEND_VOLUNTEER_SIZE$: §G+2§!\n\n§YPouze [Caliphate_L]:§!\n  £salafist_outlook_campaign_cost_modifier_texticon Denní sálafistická podpora: §G+0.10§!\n\n§YPouze [Vilayat_e_Faqih_L]:§!\n  $communism_drift$: §G+0.10§!\n\n§YNevýhoda:§!\n  $MODIFIER_MIN_EXPORT_FACTOR$: §R-50%§!" # todo: NEW TRANSLATION
+ PARTY_NAME_TT: "[party_name_by_index]" # todo: NEW TRANSLATION
+ PARTY_NAME_TT_DELAYED: "[party_desc_by_index]" # todo: NEW TRANSLATION
+ PARTY_SUPPORT_TT: "[party_name_by_index] (§Y[?party_pop_array^v|%1]§!)" # todo: NEW TRANSLATION
+ PARTY_SUPPORT_TT_DELAYED: "[party_election_num_by_index]" # todo: NEW TRANSLATION
+ PARTY_SUPPORT_VALUE: "§Y[?party_pop_array^v|%1]§!" # todo: NEW TRANSLATION
+ POLITICAL_PARTIES_TITLE: "Strany" # todo: NEW TRANSLATION
+ POLITICAL_PARTIES_SORT_OUTLOOK: "Směřování" # todo: NEW TRANSLATION
+ POLITICAL_PARTIES_SORT_POPULARITY: "Popularita" # todo: NEW TRANSLATION
+ POLITICAL_PARTIES_SORT_BANNED: "Zakázané" # todo: NEW TRANSLATION
+ BAN_ALL_PARTIES: "Zakázat všechny strany" # todo: NEW TRANSLATION
+ ALLOW_ALL_PARTIES_TT: "§HVzdát se státu jedné strany§!" # todo: NEW TRANSLATION
+ ALLOW_ALL_PARTIES_TT_DELAYED: "Je čas zrušit náš úplný zákaz ostatních stran.\n\n§YPředpoklad:§!\n[!allow_all_parties_button_click_enabled]\n§YÚčinky:§!\n[!allow_all_parties_button_click]" # todo: NEW TRANSLATION
+ BAN_ALL_PARTIES_TT: "§HVyhlásit stát jedné strany§!" # todo: NEW TRANSLATION
+ BAN_ALL_PARTIES_TT_DELAYED: "Jako jediná vládnoucí strana řídící vládu můžeme uzákonit prohlášení všech ostatních politických stran za nezákonné.\n\nAť žije strana!\n\n§YPředpoklad:§!\n[!ban_all_parties_button_click_enabled]\n§YÚčinky:§!\n[!ban_all_parties_button_click]" # todo: NEW TRANSLATION
+ set_partyall_banned_tt: "§GZakazuje všechny strany kromě §Y[show_ruling_party]§!\n" # todo: NEW TRANSLATION # todo: MOVED KEY
+ set_partyall_allowed_tt: "§GOdebereme zákazy všem stranám v naší zemi\n" # todo: NEW TRANSLATION # todo: MOVED KEY
+ revolt_party_TT: "§HZahájit revoluci za [party_name_by_index] (§Y[?party_pop_array^v|%1]§!)§!\n\n§YPředpoklad:§!\n[!revolt_button_click_enabled]\n§YÚčinky:§!\n[!revolt_button_click]" # todo: NEW TRANSLATION
+ boost_party_TT: "§HPodpořit [party_name_by_index] (§Y[?party_pop_array^v|%1]§!)§!\nVe snaze oslabit vliv našich skutečných politických protivníků můžeme využít náš politický aparát k posílení popularity ostatních stran.\n\n§YPředpoklad:§!\n[!boost_button_click_enabled]\n§YÚčinky:§!\n[!boost_button_click]" # todo: NEW TRANSLATION
+ attack_party_TT: "§HZaútočit na [party_name_by_index] (§Y[?party_pop_array^v|%1]§!)§!\nMůžeme využít dezinformační kampaně a kompromitující materiály, které jsme shromáždili o hlavních stranách mimo vládu, a tvrdě zaútočit na jejich popularitu – čímž zajistíme, že nebudou schopny ohrozit naši mocenskou pozici. Protože jakákoli pozornost zvýší popularitu malých stran, bude to fungovat pouze u velkých stran nad volebním prahem [?election_threshold|%0]\n\n§YPředpoklad:§!\n[!attack_button_click_enabled]\n§YÚčinky:§!\n[!attack_button_click]" # todo: NEW TRANSLATION
+ ban_party_TT: "§HZakázat [party_name_by_index] (§Y[?party_pop_array^v|%1]§!)§!\nPostavením politické strany nebo hnutí mimo zákon zajistíme, že nikdy nezíská moc prostřednictvím voleb, a usnadníme pronásledování jejích členů.\n\n§YPředpoklad:§!\n[!ban_button_click_enabled]\n§YÚčinky:§!\n[!ban_button_click]" # todo: NEW TRANSLATION
+ allow_party_TT: "§HLegalizovat [party_name_by_index] (§Y[?party_pop_array^v|%1]§!)§!\nNastal čas zrušit náš zákaz a umožnit jejím členům kandidovat do veřejných funkcí a legálně se organizovat.\n\n§YPředpoklad:§!\n[!allow_button_click_enabled]\n§YÚčinky:§!\n[!allow_button_click]" # todo: NEW TRANSLATION
+ ban_party_effect_tt: "Zakazuje [party_index_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ unban_party_effect_tt: "Legalizuje [party_index_L]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party_popularity_check_TT: "[party_name_by_index] ([?party_pop_array^v|%1]) > [?pop|%1] popularita" # todo: NEW TRANSLATION
+ party_greater_than_election_threshold_by_index_tt: "Popularita [party_name_by_index] (§Y[?party_pop_array^v|%1]§!) je vyšší než $election_threshold$ ([?election_threshold|%0])" # todo: NEW TRANSLATION
+ party_is_in_power_or_coalition_TT: "§Y[party_name_by_index]§! je ve vládní koalici." # todo: NEW TRANSLATION
+ party_is_in_power_or_coalition_TT_NOT: "§Y[party_name_by_index]§! není ve vládní koalici." # todo: NEW TRANSLATION
+ revolt_effect_TT: "[party_name_by_index] zahájí §Robčanskou válku§! se silou §Y50%§!. \n§tPřevezmete kontrolu nad povstáním.§!" # todo: NEW TRANSLATION
+ party1_banned: " Zakázal §Y[Western_Autocracy_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party2_banned: " Zakázal §Y[conservatism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party2_not_banned: " Nezakázala §Y[conservatism_L]§!" # todo: NEW TRANSLATION
+ party3_banned: " Zakázal §Y[liberalism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party3_not_banned: " Nezakázala §Y[liberalism_L]§!" # todo: NEW TRANSLATION
+ party4_banned: " Zakázal §Y[socialism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party4_not_banned: " Nezakázala §Y[socialism_L]§!" # todo: NEW TRANSLATION
+ party5_banned: " Zakázal §Y[Communist-State_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party5_not_banned: " Nezakázala §Y[Communist-State_L]§!" # todo: NEW TRANSLATION
+ party6_banned: " Zakázal §Y[anarchist_communism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party7_banned: " Zakázal §Y[Conservative_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party8_banned: " Zakázal §Y[Autocracy_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party9_banned: " Zakázal §Y[Mod_Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party10_banned: " Zakázal §Y[Vilayat_e_Faqih_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party11_banned: " Zakázal §Y[Kingdom_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party12_banned: " Zakázal §Y[Caliphate_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party13_banned: " Zakázal §Y[Neutral_Muslim_Brotherhood_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party14_banned: " Zakázal §Y[Neutral_Autocracy_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party14_not_banned: " Nezakázala §Y[Neutral_Autocracy_L]§!" # todo: NEW TRANSLATION
+ party15_banned: " Zakázal §Y[Neutral_conservatism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party15_not_banned: " Nezakázala §Y[Neutral_conservatism_L]§!" # todo: NEW TRANSLATION
+ party16_banned: " Zakázal §Y[oligarchism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party17_banned: " Zakázal §Y[Neutral_Libertarian_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party18_banned: " Zakázal §Y[Neutral_green_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party19_banned: " Zakázal §Y[neutral_Social_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party20_banned: " Zakázal §Y[Neutral_Communism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party21_banned: " Zakázal §Y[Nat_Populism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party22_banned: " Zakázal §Y[Nat_Fascism_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party23_banned: " Zakázal §Y[Nat_Autocracy_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party24_banned: " Zakázal §Y[Monarchist_L]§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ party24_not_banned: " Nezakázala §Y[Monarchist_L]§!" # todo: NEW TRANSLATION
+ partyall_banned: "Všechny strany jsou zakázány" # todo: NEW TRANSLATION # todo: MOVED KEY
+ POLITICS_EXPANDED_CLOSE_TT: "£click_left §YL Kliknutím§! zavřete rozšířený pohled na politiku." # todo: NEW TRANSLATION
+ REFRESH_POLITICSYVIEW_TOOLTIP: "£click_left §YL Kliknutím§! obnovíte rozšířený pohled na politiku." # todo: NEW TRANSLATION
+ FORM_GOVERNMENT_TITLE: "Sestavit vládu" # todo: NEW TRANSLATION
+ FORM_GOVERNMENT_SUBTITLE: "Volby skončily. Žádná strana nezískala většinu. Sestavte koalici a vytvořte příští vládu." # todo: NEW TRANSLATION
+ ELECTION_RESULT_TITLE: "Výsledky voleb" # todo: NEW TRANSLATION
+ ELECTION_STATISTICS_TITLE: "Volební statistiky" # todo: NEW TRANSLATION
+ ELECTION_TURNOUT_LABEL: "Volební účast" # todo: NEW TRANSLATION
+ ELECTION_TURNOUT_VALUE: "§Y72.1%§!" # todo: NEW TRANSLATION
+ ELECTION_VOTES_LABEL: "Platné hlasy" # todo: NEW TRANSLATION
+ ELECTION_VOTES_VALUE: "§Y30.4M§!" # todo: NEW TRANSLATION
+ ALL_SEATS_LABEL: "Křesla v parlamentu" # todo: NEW TRANSLATION
+ ALL_SEATS_VALUE: "§Y420§!" # todo: NEW TRANSLATION
+ MAJORITY_SEATS_LABEL: "Křesla pro většinu" # todo: NEW TRANSLATION
+ MAJORITY_SEATS_VALUE: "§Y220§!" # todo: NEW TRANSLATION
+ COALITION_BUILDER_TITLE: "Sestavení koalice" # todo: NEW TRANSLATION
+ YOUR_COALITION_TITLE: "Vaše koalice" # todo: NEW TRANSLATION
+ COALITION_TOTAL_VALUE: "§Y252 / 420§!" # todo: NEW TRANSLATION
+ COALITION_MAJORITY_LABEL: "Většina" # todo: NEW TRANSLATION
+ COALITION_MAJORITY_VALUE: "§G+32§!" # todo: NEW TRANSLATION
+ FORM_GOVERNMENT_LABEL: "Sestavit vládu" # todo: NEW TRANSLATION
+ POTENTIAL_PARTNERS_TITLE: "Potenciální partneři" # todo: NEW TRANSLATION
+ SEATS_WIP: "£GFX_manpower_cost_texticon  §Y42§!" # todo: NEW TRANSLATION
+ SEATS_WIP_2: "£GFX_manpower_cost_texticon  §Y42§! křesel" # todo: NEW TRANSLATION
+ DIPLOMACY_ACTIONS: "Diplomatické akce" # todo: NEW TRANSLATION

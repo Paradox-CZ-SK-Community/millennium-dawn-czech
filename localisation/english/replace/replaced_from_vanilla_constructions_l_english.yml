@@ -1,14 +1,14 @@
 ﻿l_english:
-  CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP: "Klikněte na ikonu Civilní průmysl nebo Vojenský průmysl pro zahájení převodu." # todo: NEW TRANSLATION
-  CONSTRUCTION_CONVERT_IC_TOOLTIP: "§YPřevést§!\nPřevést civilní průmysl na vojenský průmysl a naopak" # todo: NEW TRANSLATION
-  CONSTRUCTION_FACTORIES_AMOUNT: "Počet průmyslových závodů" # todo: NEW TRANSLATION
-  CONSTRUCTION_FACTORIES_DESC: "Počet průmyslových závodů použitých pro každou konkrétní stavbu" # todo: NEW TRANSLATION
-  CONSTRUCTION_FACTORIES_CONSUMER_GOODS: "Daňové náklady: $VALUE|R$" # todo: NEW TRANSLATION
-  MIN_REPAIR_SPEED_DESC: "Budovy budou pomalu opravovány i bez přidělených civilních průmyslových závodů. Přidělte jim průmyslové závody, abyste zvýšili rychlost oprav." # todo: NEW TRANSLATION
-  RESOURCE_TRADE_LINE: "$PARTNER|Y$: $FACTORIES|R$ civilní průmysl za $NUM|G$ $RESOURCE|Y$" # todo: NEW TRANSLATION
-  RESOURCE_TRADE_LINE_PLURAL: "$PARTNER|Y$: $FACTORIES|R$ civilní průmyslové závody za $NUM|G$ $RESOURCE|Y$" # todo: NEW TRANSLATION
-  CONSTRUCTION_FACTORIES_TRADE_DESC: "Můžeme přenechat využití našich civilních průmyslových závodů jiným zemím výměnou za strategické suroviny. Zahraniční obchod vyžaduje konvojové lodě." # todo: NEW TRANSLATION
-  MILITARY_FACTORIES_STATUS: "Vojenský průmysl v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
-  NAVAL_FACTORIES_STATUS: "Loděnice v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
-  CIVILIAN_FACTORIES_STATUS: "Civilní průmysl v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
-  INDUSTRIAL_CAPACITY_DESC: "Průmyslové závody tvoří základ §Hprůmyslové kapacity§! země. §HVojenský průmysl§! vyrábí vybavení pro armádu a letectvo, zatímco §HLoděnice§! vyrábějí a opravují lodě pro námořnictvo. §HCivilní průmysl§! staví a opravuje budovy a infrastrukturu a také usnadňuje obchod.\n\nCelkový počet §H$offices$§! je k dispozici na obrazovce ekonomického náhledu.\n" # todo: NEW TRANSLATION
+ CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP: "Klikněte na ikonu Civilní průmysl nebo Vojenský průmysl pro zahájení převodu." # todo: NEW TRANSLATION
+ CONSTRUCTION_CONVERT_IC_TOOLTIP: "§YPřevést§!\nPřevést civilní průmysl na vojenský průmysl a naopak" # todo: NEW TRANSLATION
+ CONSTRUCTION_FACTORIES_AMOUNT: "Počet průmyslových závodů" # todo: NEW TRANSLATION
+ CONSTRUCTION_FACTORIES_DESC: "Počet průmyslových závodů použitých pro každou konkrétní stavbu" # todo: NEW TRANSLATION
+ CONSTRUCTION_FACTORIES_CONSUMER_GOODS: "Daňové náklady: $VALUE|R$" # todo: NEW TRANSLATION
+ MIN_REPAIR_SPEED_DESC: "Budovy budou pomalu opravovány i bez přidělených civilních průmyslových závodů. Přidělte jim průmyslové závody, abyste zvýšili rychlost oprav." # todo: NEW TRANSLATION
+ RESOURCE_TRADE_LINE: "$PARTNER|Y$: $FACTORIES|R$ civilní průmysl za $NUM|G$ $RESOURCE|Y$" # todo: NEW TRANSLATION
+ RESOURCE_TRADE_LINE_PLURAL: "$PARTNER|Y$: $FACTORIES|R$ civilní průmyslové závody za $NUM|G$ $RESOURCE|Y$" # todo: NEW TRANSLATION
+ CONSTRUCTION_FACTORIES_TRADE_DESC: "Můžeme přenechat využití našich civilních průmyslových závodů jiným zemím výměnou za strategické suroviny. Zahraniční obchod vyžaduje konvojové lodě." # todo: NEW TRANSLATION
+ MILITARY_FACTORIES_STATUS: "Vojenský průmysl v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
+ NAVAL_FACTORIES_STATUS: "Loděnice v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
+ CIVILIAN_FACTORIES_STATUS: "Civilní průmysl v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: NEW TRANSLATION
+ INDUSTRIAL_CAPACITY_DESC: "Továrny tvoří základ §Hprůmyslové kapacity§! země. §HVojenský průmysl§! vyrábí vybavení pro armádu a letectvo, zatímco §HNámořní loděnice§! vyrábějí a opravují lodě pro námořnictvo. §HCivilní průmysl§! staví a opravuje budovy a infrastrukturu a také usnadňuje obchod.\n\nCelkový počet §H$offices$§! je k dispozici na obrazovce Ekonomický přehled.\n" # todo: CHANGED

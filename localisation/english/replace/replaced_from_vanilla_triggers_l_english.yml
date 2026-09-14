@@ -1,9 +1,11 @@
 ﻿l_english:
-  TRIGGER_HAS_VOLUNTEERS_MORE_THAN: "Má $VALUE|H$ nebo více intervenčních sil z $COUNTRY2|H$" # todo: NEW TRANSLATION
-  TRIGGER_HAS_VOLUNTEERS_LESS_THAN: "Má méně než $VALUE|H$ intervenčních sil z $COUNTRY2|H$" # todo: NEW TRANSLATION
-  TRIGGER_HAS_NOT_MILITARY_ACCESS_TO: "Nemá vojenské základny v $COUNTRY|H$" # todo: NEW TRANSLATION
-  TRIGGER_HAS_MILITARY_ACCESS_TO: "Má vojenské základny v $COUNTRY|H$" # todo: NEW TRANSLATION
-  TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO: "Nehostí vojenské základny pro $COUNTRY|H$" # todo: NEW TRANSLATION
-  TRIGGER_GIVES_MILITARY_ACCESS_TO: "Hostí vojenské základny pro $COUNTRY|H$" # todo: NEW TRANSLATION
-  TRIGGER_IS_IRONMAN: "Hra není v režimu Ironman." # todo: NEW TRANSLATION
-  TRIGGER_IS_NOT_IRONMAN: "Hra je v režimu Ironman." # todo: NEW TRANSLATION
+ TRIGGER_HAS_VOLUNTEERS_MORE_THAN: "Má $VALUE|H$ nebo více intervenčních sil z $COUNTRY2|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_VOLUNTEERS_LESS_THAN: "Má méně než $VALUE|H$ intervenčních sil z $COUNTRY2|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_NOT_MILITARY_ACCESS_TO: "Nemá vojenské základny v $COUNTRY|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_MILITARY_ACCESS_TO: "Má vojenské základny v $COUNTRY|H$" # todo: NEW TRANSLATION
+ TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO: "Nehostí vojenské základny pro $COUNTRY|H$" # todo: NEW TRANSLATION
+ TRIGGER_GIVES_MILITARY_ACCESS_TO: "Hostí vojenské základny pro $COUNTRY|H$" # todo: NEW TRANSLATION
+ TRIGGER_IS_IRONMAN: "Hra není v režimu Ironman." # todo: NEW TRANSLATION
+ TRIGGER_IS_NOT_IRONMAN: "Hra je v režimu Ironman" # todo: CHANGED
+ controls_or_subject_of_tt: "[ROOT.GetName] ovládá stát nebo je podřízen kontrolující zemi" # todo: NEW TRANSLATION
+ owns_or_subject_of_tt: "[ROOT.GetName] vlastní stát nebo je podřízen vlastnící zemi" # todo: NEW TRANSLATION

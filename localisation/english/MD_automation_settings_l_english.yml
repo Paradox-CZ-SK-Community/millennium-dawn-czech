@@ -1,0 +1,94 @@
+﻿l_english:
+ AUTOMATION_SETTINGS_OPEN_TT: "Otevřít nastavení automatizace" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_TITLE: "Nastavení automatizace" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_DESC: "Spravujte opakované akce a předvolby oznámení z jednoho panelu. Stávající ovládací prvky jinde zůstávají k dispozici." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GENERAL_PAGE: "Obecné" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SPACE_PAGE: "Satelity" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_PAGE: "Vliv" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SPACE_DESC: "Nastavte automatickou výrobu satelitů, jejich vypouštění a vylepšování konstelací." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_DESC: "Nastavte opakované akce, které brání naši vládu před zahraničním vlivem." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SPACE_SAVE_BUTTON_TT: "[!automation_space_save_button_click_enabled]Uložit manifest nákladu připravený ve Vesmírném programu jako plán §YVlastní§! a přepnout na něj." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SPACE_UPGRADE_BUTTON_TT: "[!automation_space_upgrade_button_click_enabled]Povýšit každou konstelaci na nejnovější prozkoumanou generaci všude, kde to současné orbitální pokrytí umožňuje." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_NOTIFICATIONS_HEADER: "Oznámení a předvolby" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ECONOMY_HEADER: "Ekonomika" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_UN_HEADER: "Organizace spojených národů" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_DIPLOMACY_HEADER: "Diplomacie" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_NATO_HEADER: "NATO" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ENERGY_HEADER: "Energie" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_PP_RESERVE: "Rezerva politické moci" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_PP_RESERVE_VALUE: "£pol_power [?automation_pp_reserve|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_PP_RESERVE_TT: "Automatizované akce, které spotřebovávají politickou moc, počkají, dokud nebude možné uhradit jejich náklady, aniž by politická moc klesla pod tuto rezervu. Ruční akce nejsou ovlivněny.\n\n£click_left §YL Klik§!: Upravit o §Y1§!\n£key_ctrl + £click_left §YCtrl L Klik§!: Upravit o §Y10§!\n£key_shift + £click_left §YShift L Klik§!: Upravit o §Y100§!" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_PP_RESERVE_PLUS_TT: "£click_left §YL Klik§!: Zvýšit o §Y1§!\n£key_ctrl + £click_left §YCtrl L Klik§!: Zvýšit o §Y10§!\n£key_shift + £click_left §YShift L Klik§!: Zvýšit o §Y100§!" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_PP_RESERVE_MINUS_TT: "£click_left §YL Klik§!: Snížit o §Y1§!\n£key_ctrl + £click_left §YCtrl L Klik§!: Snížit o §Y10§!\n£key_shift + £click_left §YShift L Klik§!: Snížit o §Y100§!" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_CORRUPTION: "Automaticky odmítat nabídky korupce" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_CORRUPTION_TT: "Automaticky přeskakovat nabídky korupce. Události a jejich možné odměny se při aktivaci této možnosti nezobrazí." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_FOREIGN_ELECTION: "Oznámení o volbách v zahraničí" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_FOREIGN_ELECTION_TT: "Zobrazovat zpravodajská oznámení o volbách v ostatních zemích." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_RAID_NOTIFICATIONS: "Oznámení o nájezdech vlivu" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_RAID_NOTIFICATIONS_TT: "Zobrazovat události o nájezdech vlivu mezi ostatními zeměmi. Nájezdy proti nám budou hlášeny i při deaktivaci této možnosti." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_REPORT: "Měsíční automatická zpráva o vlivu" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_REPORT_TT: "Zobrazovat měsíční zprávu se seznamem zemí ovlivněných automatickým vlivem." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INVESTMENT_ACCEPTANCE: "Automaticky přijímat investiční nabídky" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INVESTMENT_ACCEPTANCE_TT: "Automaticky přijímat každou příchozí nabídku mezinárodní investice. Aktivací se deaktivuje automatické odmítání." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INVESTMENT_REJECTION: "Automaticky odmítat investiční nabídky" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INVESTMENT_REJECTION_TT: "Automaticky odmítat každou příchozí nabídku mezinárodní investice. Aktivací se deaktivuje automatické přijímání." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVESTMENT: "Reinvestování mezinárodních investic" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVESTMENT_TT: "Zvolte, jak se týdenní výnosy z mezinárodních investic rozdělí mezi státní pokladnu a reinvestování." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_OFF: "Vypnuto" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_OFF_TT: "Posílat všechny výnosy z mezinárodních investic do státní pokladny." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_FULL: "Vše" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_FULL_TT: "Reinvestovat všechny výnosy z mezinárodních investic." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_SPLIT: "Rozdělit" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_REINVEST_SPLIT_TT: "Posílat polovinu výnosů z mezinárodních investic do státní pokladny a druhou polovinu reinvestovat." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_FUEL_PURCHASE: "Automatický nákup paliva" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_FUEL_PURCHASE_TT: "Nakoupit palivo okamžitě, poté kontrolovat stav každých 28 dní a znovu nakoupit, kdykoli zásoby paliva klesnou pod 20 procent. Deaktivací zrušíte budoucí nákupy." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INTERNAL_INVESTMENTS: "Opakovat vybrané domácí investice" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INTERNAL_INVESTMENTS_TT: "Po dobu aktivace denně spotřebovávat £pol_power §R0.15§! politické moci. Kliknutím pravým tlačítkem na tlačítka domácích investic v zobrazení státu vyberte stát a typy investic k opakování. Vybrané investice se kontrolují každý týden a provedou se, pokud je volný slot, státní pokladna může uhradit aktuální náklady a lze zachovat rezervu politické moci." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ANTARCTICA_RESUPPLY: "Automaticky doplňovat zásoby antarktické stanice" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ANTARCTICA_RESUPPLY_TT: "Automaticky objednávat palivo pro naši antarktickou stanici, pokud od listopadu do března zbývá 15 nebo méně dní, nebo od dubna do října 30 nebo méně dní. Dodávky stojí §R$0.25b za 1000 paliva§!, během antarktické zimy dvojnásobek. Objednávky počkají, dokud státní pokladna nebude moci uhradit plné náklady." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ENERGY_CONSUMPTION_POLICY: "Automatická politika spotřeby" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SC_VOTE: "Výchozí hlasování v Radě bezpečnosti" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SC_VOTE_TT: "Zvolte, jak budeme automaticky hlasovat o rezolucích Rady bezpečnosti. Opětovným kliknutím na vybranou možnost se vrátíte k ručnímu hlasování." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GA_VOTE: "Výchozí hlasování ve Valném shromáždění" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GA_VOTE_TT: "Zvolte, jak budeme automaticky hlasovat o rezolucích Valného shromáždění. Opětovným kliknutím na vybranou možnost se vrátíte k ručnímu hlasování." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_VOTE_YES: "Ano" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_VOTE_NO: "Ne" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_VOTE_ABSTAIN: "Zdržet se" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SC_ACCEPT_TT: "Automaticky hlasovat Ano o každé rezoluci Rady bezpečnosti." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SC_REJECT_TT: "Automaticky hlasovat Ne o každé rezoluci Rady bezpečnosti. Stálí členové uplatní veto, pokud to bude možné." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SC_ABSTAIN_TT: "Automaticky se zdržet hlasování o každé rezoluci Rady bezpečnosti." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GA_ACCEPT_TT: "Automaticky hlasovat Ano o každé rezoluci Valného shromáždění." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GA_REJECT_TT: "Automaticky hlasovat Ne o každé rezoluci Valného shromáždění." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_GA_ABSTAIN_TT: "Automaticky se zdržet hlasování o každé rezoluci Valného shromáždění." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SATELLITE_REJECTION: "Blokovat nabídky přístupu AI k satelitům" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_SATELLITE_REJECTION_TT: "Zabránit zemím ovládaným AI v nabízení sdíleného přístupu k jejich vojenským a civilním satelitním systémům. Lidští hráči mohou nabídky stále posílat." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_NATO_RATIFICATION: "Automaticky ratifikovat přistoupení k NATO" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_NATO_RATIFICATION_TT: "Automaticky spotřebovat £pol_power §Y20§! k ratifikaci každého kandidáta na přistoupení k NATO. Ratifikace počká, dokud bude možné zachovat rezervu politické moci." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_HEADER: "Obrana proti vlivu" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_COMBAT_FOREIGN_INFLUENCE: "Automaticky bojovat proti zahraničnímu vlivu" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_COMBAT_FOREIGN_INFLUENCE_TT: "Po dobu aktivace denně spotřebovávat £pol_power §R0.05§! politické moci. Jakmile to bude možné, automaticky spotřebovat £pol_power §Y100§! ke zvýšení domácí nezávislosti o §G2.5%§!. Opakovat po 100 dnech. Automatizace se pozastaví, pokud je vláda pod nátlakem lobbistů nebo pokud by některý z nákladů snížil politickou moc pod rezervu." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ATTACK_FOREIGN_INFLUENCERS: "Automaticky útočit na zahraniční vlivové osoby" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ATTACK_FOREIGN_INFLUENCERS_TT: "Po dobu aktivace denně spotřebovávat £pol_power §R0.05§! politické moci. Automaticky spotřebovat £pol_power §Y125§! k zahájení 60denní kampaně proti nejsilnější způsobilé zahraniční vlivové osobě. Současně probíhá pouze jedna kampaň. Nezpůsobilé cíle, cíle pod nátlakem lobbistů a cíle v období zotavení se přeskočí. Automatizace se pozastaví, pokud by některý z nákladů snížil politickou moc pod rezervu." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_INFLUENCE_COST_NOTE: "Každá aktivní možnost stojí denně £pol_power §R0.05§!. Obě možnosti dohromady stojí denně £pol_power §R0.10§!." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ECONOMY_PAGE: "Ekonomika" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_ECONOMY_DESC: "Zvolte, které daně a veřejné výdaje se mají spravovat automaticky. Změny se vyhodnocují každý týden a respektují rezervu politické moci." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_TAX_HEADER: "Daňové sazby" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_HEADER: "Rozpočtové zákony" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_TAX_SUMMARY: "Aktivní daně se v reakci na rozpočtovou bilanci, dluh a stabilitu mění nejvýše o jeden procentní bod týdně.\n\nRuční změny ponechají automatizaci aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_SUMMARY: "Aktivní rozpočty se posouvají o jednu úroveň směrem k očekávaným výdajům. Každý týden se změní nejvýše jeden rozpočet, přičemž priorita se střídá. Zvýšení vyžaduje rozpočtový přebytek. Ruční změny zákonů ponechají automatizaci aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_POPULATION_TAX: "Daň z obyvatelstva: [?population_tax_rate|0]%" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_CORPORATE_TAX: "Daň z příjmu právnických osob: [?corporate_tax_rate|0]%" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_POPULATION_TAX_TT: "Automaticky upravovat daň z obyvatelstva o jeden procentní bod týdně podle rozpočtové bilance, dluhu a stability. Respektuje omezení změn daní a hradí běžné náklady politické moci nad rámec rezervy. Ruční změny daní ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_CORPORATE_TAX_TT: "Automaticky upravovat daň z příjmu právnických osob o jeden procentní bod týdně podle rozpočtové bilance, dluhu a dostupných civilních továren. Respektuje omezení změn daní a hradí běžné náklady politické moci nad rámec rezervy. Ruční změny daní ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_BUREAUCRACY: "Správa: [?bureau_law|0] / [?expected_adm_spending|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_BUREAUCRACY_TT: "Automaticky posouvat správu směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_CRIME_FIGHTING: "Policie: [?police_law|0] / [?expected_police_spending|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_CRIME_FIGHTING_TT: "Automaticky posouvat policii směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_EDUCATION_BUDGET: "Vzdělávání: [?education_law|0] / [?expected_edu_spending|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_EDUCATION_BUDGET_TT: "Automaticky posouvat vzdělávání směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_HEALTH_BUDGET: "Zdravotnictví: [?health_law|0] / [?expected_health_spending|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_HEALTH_BUDGET_TT: "Automaticky posouvat zdravotnictví směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_SOCIAL_BUDGET: "Sociální péče: [?social_law|0] / [?expected_welfare_spending|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_SOCIAL_BUDGET_TT: "Automaticky posouvat sociální péči směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_MILITARY_SPENDING: "Vojenské výdaje: [?military_law|0] / [?expected_military_sp|0]" # todo: NEW TRANSLATION
+ AUTOMATION_SETTINGS_BUDGET_MILITARY_SPENDING_TT: "Automaticky posouvat vojenské výdaje směrem k očekávané úrovni výdajů, vždy o jednu úroveň. Čísla zobrazují současnou a očekávanou úroveň. Platí běžná omezení zákonů a náklady politické moci. Zvýšení vyžaduje přebytek a pozastaví se při hrozícím bankrotu. Rezerva politické moci zůstane zachována. Ruční změny zákonů ponechají tuto možnost aktivní." # todo: NEW TRANSLATION

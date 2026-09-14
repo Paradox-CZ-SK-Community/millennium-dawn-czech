@@ -1,231 +1,323 @@
 ﻿l_english:
-  GENERIC_anti_corruption_reforms: "Protikorupční reformy" # todo: NEW TRANSLATION
-  GENERIC_anti_corruption_reforms_desc: "Přijetím protikorupčních reforem doufáme, že snížíme vnitřní korupci naší země." # todo: NEW TRANSLATION
-  GENERIC_network_infrastructure: "Infrastruktura internetu" # todo: NEW TRANSLATION
-  GENERIC_network_infrastructure_desc: "Moderní svět z internetu učinil základní lidskou potřebu. Investice do této potřeby pomohou ve vzdělávání, stavebních projektech a mnoha dalších oblastech." # todo: NEW TRANSLATION
-  GENERIC_centralization: "Centralizace" # todo: NEW TRANSLATION
-  GENERIC_centralization_desc: "Centralizace státu pomůže udržet naši rozsáhlou zemi. Centralizace národa také pomůže získat další politický kapitál a měla by přinést dodatečné daňové příjmy spolu s posílením politického kapitálu." # todo: NEW TRANSLATION
-  GENERIC_decentralization: "Decentralizace" # todo: NEW TRANSLATION
-  GENERIC_decentralization_desc: "Decentralizace státu a odstraňování byrokratických překážek pomůže snížit celkové byrokratické náklady a podpoří další růst výstavby." # todo: NEW TRANSLATION
-  GENERIC_political_reform: "Politická reforma" # todo: NEW TRANSLATION
-  GENERIC_political_reform_desc: "Abychom zabránili stagnaci naší domácí politické scény, vláda musí udržovat zemi a její občany politicky angažované a aktivní. Legislativa musí být navržena, vládní úředníci jmenováni, finanční plány schváleny a veřejné projekty naplánovány. [Root.GetAdjective] vláda se nesmí spokojit ve snaze modernizovat a posílit zemi." # todo: NEW TRANSLATION
-  GENERIC_cabinet_reform: "Reforma kabinetu" # todo: NEW TRANSLATION
-  GENERIC_cabinet_reform_desc: "Nahrazením několika klíčových aktérů v kabinetu, kteří jsou v současnosti proti agendě předsedy vlády, může výkonná moc projevit sílu a odhodlání při řešení nadcházejících politických otázek a krizí. Příčem je ignorovat kritiky, poražené a skeptiky." # todo: NEW TRANSLATION
-  GENERIC_expand_the_secret_service: "Rozšířit tajnou službu" # todo: NEW TRANSLATION
-  GENERIC_expand_the_secret_service_desc: "Bezpečnost [Root.GetNameDef] značně závisí na síle jeho vojenských a civilních zpravodajských služeb. Musíme najít účinné protiopatření proti nepřátelským agentům, subverzním prvkům společnosti, teroristům a (alespoň ne nemožnému) potenciálu nepřátelského jaderného útoku." # todo: NEW TRANSLATION
-  GENERIC_build_intelligence_stations: "Vybudovat zpravodajské stanice" # todo: NEW TRANSLATION
-  GENERIC_build_intelligence_stations_desc: "Navazující na radarové stanice z druhé světové války, zpravodajské stanice nám poskytnou podrobné zprávy o pohybech nepřátelských sil a přijíždějících letadlech. Využijeme zkušeností ze špionážních afér a intrik studené války." # todo: NEW TRANSLATION
-  GENERIC_strengthen_government: "Posílení vlády" # todo: NEW TRANSLATION
-  GENERIC_strengthen_government_desc: "Naše zavedená vláda potřebuje posílení. Politickým ukotvením naší strany získáme více možností prosazovat různé politiky." # todo: NEW TRANSLATION
-  GENERIC_political_games: "Politické hry" # todo: NEW TRANSLATION
-  GENERIC_political_games_desc: "Co je vláda bez rozsáhlé politické kultury? Musíme zasadit semena debaty a diskuse, aby naše politické prostředí prospívalo a zůstávalo stabilní." # todo: NEW TRANSLATION
-  GENERIC_public_service_announcement: "Veřejné oznámení" # todo: NEW TRANSLATION
-  GENERIC_public_service_announcement_desc: "Musíme zavést jednotný způsob komunikace sdělení veřejného zájmu přímo k našim občanům. To se provádí prostřednictvím veřejného oznámení." # todo: NEW TRANSLATION
-  GENERIC_the_establishment: "Elita" # todo: NEW TRANSLATION
-  GENERIC_the_establishment_desc: "Postavy elity posilují svůj vliv na státní politiku. Můžeme toho využít pro dodatečný odstup při řešení státních záležitostí." # todo: NEW TRANSLATION
-  GENERIC_the_state: "Stát" # todo: NEW TRANSLATION
-  GENERIC_the_state_desc: "S pevnou rukou nad vším, co se týká naší země, se můžeme jednou provždy zbavit rozdělování a zdržování, které sužují naši zemi už tak dlouho." # todo: NEW TRANSLATION
-  GENERIC_diplomatic_positions: "Diplomatické pozice" # todo: NEW TRANSLATION
-  GENERIC_diplomatic_positions_desc: "Po politické reformě a našem zaměření na vnější záležitosti můžeme zavést soudržné diplomatické postoje se sousedy pro lepší mezinárodní spolupráci." # todo: NEW TRANSLATION
-  GENERIC_our_place: "Naše místo" # todo: NEW TRANSLATION
-  GENERIC_our_place_desc: "Jsme sami sobě pány a zasloužíme si být svobodní od chamtivých rukou našich vlivových sil." # todo: NEW TRANSLATION
-  GENERIC_station_in_the_world: "Názory světa" # todo: NEW TRANSLATION
-  GENERIC_station_in_the_world_desc: "Zviditelnění národa světu nám přinese řadu výhod — včetně hmatatelné moci pro naše představitele." # todo: NEW TRANSLATION
-  GENERIC_the_west: "Západ" # todo: NEW TRANSLATION
-  GENERIC_the_west_desc: "Západní země kladou důraz na demokracii a svobodu a často jsou nakloněny USA. Západní země usilují o udržení status quo ve světové politice." # todo: NEW TRANSLATION
-  GENERIC_eastern_emergence: "Východní vzestup" # todo: NEW TRANSLATION
-  GENERIC_eastern_emergence_desc: "Politicky se rozvíjející země si přejí odchýlit od současného světového řádu a založit nové organizace, které nahradí ty staré. Ačkoliv nejsou striktně proti USA ani proti Západu, rozvíjející se země se často snaží podkopat západní vlivy." # todo: NEW TRANSLATION
-  GENERIC_non_aligned: "Nezařazené" # todo: NEW TRANSLATION
-  GENERIC_non_aligned_desc: "Neutralní země se snaží vyhýbat se globální politice a často se soustředí na vnitřní nebo regionální rozvoj. Nejsou výrazně nakloněny Západu ani Východu." # todo: NEW TRANSLATION
-  GENERIC_the_conservative_approach: "Konzervativní přístup" # todo: NEW TRANSLATION
-  GENERIC_the_conservative_approach_desc: "Konzervativní země aktivně usilují o udržení globálního status quo, zaměřují se na udržování západní staré gardy politiky a mezinárodního výhledu." # todo: NEW TRANSLATION
-  GENERIC_the_nationalist_rise: "Nacionalistický vzestup" # todo: NEW TRANSLATION
-  GENERIC_the_nationalist_rise_desc: "Nacionalistické země se soustředí na sebe a na minulou slávu svého národa. Často upadají do autoritářské politiky a prosazují existenci jedné etnické skupiny či lidu." # todo: NEW TRANSLATION
-  GENERIC_the_salafist_rise: "Salafistický vzestup" # todo: NEW TRANSLATION
-  GENERIC_the_salafist_rise_desc: "Salafismus je ultra-konservativní interpretací islámu. Salafisté chtějí reformovat islám tím, že ho vrátí k tradičnějším a doslovnějším kořenům, i silou, pokud bude třeba." # todo: NEW TRANSLATION
-  GENERIC_western_ideas: "Západní myšlenky" # todo: NEW TRANSLATION
-  GENERIC_western_ideas_desc: "Ideály demokracie a svobody, které Západ tak draze vyznává, jsou klíčem k úspěchu každého respektovaného národního státu. Měli bychom je přijmout." # todo: NEW TRANSLATION
-  GENERIC_the_rising_powers: "Vzestupné mocnosti" # todo: NEW TRANSLATION
-  GENERIC_the_rising_powers_desc: "Jak dlouho by měla země dodržovat pravidla svých neviditelných loutkářů? Odchýlejme se od tohoto nespravedlivého a zkorumpovaného světového řádu a vzestupme po boku našich bratří." # todo: NEW TRANSLATION
-  GENERIC_us_above_all: "Náš národ nad vším" # todo: NEW TRANSLATION
-  GENERIC_us_above_all_desc: "Národ je na světě jedinou posvátnou a čistou věcí. Měl by být nejen respektován, ale jeho potřeby by měly být uspokojovány – bez ohledu na to, co ostatní cítí k němu." # todo: NEW TRANSLATION
-  GENERIC_jihad: "Džihád" # todo: NEW TRANSLATION
-  GENERIC_jihad_desc: "Alláh je Největší!" # todo: NEW TRANSLATION
-  GENERIC_international_diplomacy: "Mezinárodní diplomacie" # todo: NEW TRANSLATION
-  GENERIC_international_diplomacy_desc: "Umění uzavírat tajné dohody, veřejně vystavovat morální postoje a rozdělovat malé země mezi jejich větší sousedy má dlouhou tradici plnou pompéznosti a pragmatického makiaavelismu. Koneckonců, hlavním cílem diplomacie je zajištění ropného zdroje země. [Root.GetNameDef] nemusí zaostávat." # todo: NEW TRANSLATION
-  GENERIC_trade_with_the_neighbors: "Obchod se sousedy" # todo: NEW TRANSLATION
-  GENERIC_trade_with_the_neighbors_desc: "Po sblížení s našimi bezprostředními sousedy prostřednictvím rozšíření diplomatických sborů a rozšíření silnic můžeme nyní usilovat o úžeji obchodní integraci s našimi sousedy. To pomůže ziskům velkých firem i malých podnikatelů." # todo: NEW TRANSLATION
-  GENERIC_alignment_debate: "Debata o orientaci" # todo: NEW TRANSLATION
-  GENERIC_alignment_debate_desc: "Otevřenou otázkou mezinárodní diplomacie je vždy konflikt a protichůdné názory neutrality a izolacionismu versus intervencionismus." # todo: NEW TRANSLATION
-  GENERIC_neutrality: "Neutralita" # todo: NEW TRANSLATION
-  GENERIC_neutrality_desc: "Měli bychom vždy upřednostňovat bezpečnost a prosperitu [Root.GetAdjective] občanů. Nemůžeme plýtvat našimi mladými muži, přírodními zdroji a finančními prostředky v zahraničních zapletenostech. Místo toho musíme zajistit, že domácí fronta bude bezpečná tím, že zajistíme naše hranice a vyhneme se členství v mezinárodních aliancích." # todo: NEW TRANSLATION
-  GENERIC_interventionism: "Intervence" # todo: NEW TRANSLATION
-  GENERIC_interventionism_desc: "Sledování jen sebe na mezinárodní scéně není jen sobecké, ale i urážkou pro všechny národy světa. Za jakékoli oběti bychom měli zajistit prosperitu a bezpečnost pro všechny v regionu, aPerhaps i pro celý svět! A pokud při tom získáme nějaké dodatečné zdroje a uspokojení pro [Root.GetNameDef], když už u toho jsme..." # todo: NEW TRANSLATION
-  GENERIC_build_fortifications: "Budování opevnění" # todo: NEW TRANSLATION
-  GENERIC_build_fortifications_desc: "Silná obranná architektura je klíčem k zajištění neporazitelné fronty v případě invaze cizích sil." # todo: NEW TRANSLATION
-  GENERIC_militarism: "Militarismus" # todo: NEW TRANSLATION
-  GENERIC_militarism_desc: "Militarismus je představa země, která má silnou armádu, kterou používá k zajištění a ochraně národních zájmů jak doma, tak v zahraničí." # todo: NEW TRANSLATION
-  GENERIC_peaceful_emergence: "Pokojný vzestup" # todo: NEW TRANSLATION
-  GENERIC_peaceful_emergence_desc: "Navzdory našim odlišným názorům na svět bychom neměli být hostilní vůči starému řádu, ale pomalu pracovat na změně světa prostřednictvím diplomacie a ekonomiky." # todo: NEW TRANSLATION
-  GENERIC_revanchism: "Revanchismus" # todo: NEW TRANSLATION
-  GENERIC_revanchism_desc: "Revanchismus je termín pro vůli země znovu získat území, které dříve ztratila. Proslavily ho Francouzi po ztrátě Alsasko-Lotrinska a revanchismus zůstává důležitým faktorem politiky mnoha zemí." # todo: NEW TRANSLATION
-  GENERIC_build_roads: "Budovat silnice" # todo: NEW TRANSLATION
-  GENERIC_build_roads_desc: "Doprava je klíčová v jakékoli vyspělé oblasti světa, a vybudováním silnic po celé zemi můžeme podpořit lepší přístup ke vzdělání a městskému životu, zvláště v méně rozvinutých regionech." # todo: NEW TRANSLATION
-  GENERIC_build_railways: "Budovat železnice" # todo: NEW TRANSLATION
-  GENERIC_build_railways_desc: "Doprava je klíčová v jakékoli dobře vyvinuté oblasti světa, a můžeme podpořit industrializaci stejně jako zavést rychlý a levný způsob dopravy výstavbou železnic v méně vyvinutých částech země." # todo: NEW TRANSLATION
-  GENERIC_build_highways: "Vybudovat dálnice" # todo: NEW TRANSLATION
-  GENERIC_build_highways_desc: "Pro dlouhodobou přepravu osob napříč [Root.GetNameDef] jsou dálnice nezbytné. Pojďme je vybudovat." # todo: NEW TRANSLATION
-  GENERIC_expand_urban_areas: "Rozšířit městské oblasti" # todo: NEW TRANSLATION
-  GENERIC_expand_urban_areas_desc: "Městské oblasti [Root.GetNameDef] jsou jádrem jejího pokroku a potenciálně její ekonomiky. Rozšířením a zlepšením života v městském prostředí můžeme dále centralizovat ekonomiku a podnítit občanskou dynamiku." # todo: NEW TRANSLATION
-  GENERIC_developmentalism: "Developmentalismus" # todo: NEW TRANSLATION
-  GENERIC_developmentalism_desc: "Developmentalismus je ekonomická teorie, která tvrdí, že nejlepší způsob, jak rozvíjet ekonomiky méně rozvinutých zemí, spočívá ve silném a různorodém vnitřním trhu s vysokými tarify." # todo: NEW TRANSLATION
-  GENERIC_increase_resource_production: "Zvýšit produkci surovin" # todo: NEW TRANSLATION
-  GENERIC_increase_resource_production_desc: "Vyšší výnosy surovin v našich výrobních místech znamenají vyšší zisky při hromadném exportu. Prioritizace těžby surovin nám umožní posílit ekonomiku a zároveň vyrobit větší množství vybavení pro naše jednotky." # todo: NEW TRANSLATION
-  GENERIC_economic_autonomy: "Ekonomická autonomie" # todo: NEW TRANSLATION
-  GENERIC_economic_autonomy_desc: "Jednou z největších hrozeb pro zemi je vzdát naši ekonomiku cizí moci. Naši lidé nejsou jejich otroci, ale naši." # todo: NEW TRANSLATION
-  GENERIC_autarky: "Autarkie" # todo: NEW TRANSLATION
-  GENERIC_autarky_desc: "Sebe-sufficiencý je jednou z nejdůležitějších věcí, které můžeme svým občanům vyučovat. Nejenže to znamená nižší pracovní zátěž byrokracie, ale také snižuje hrozby pro národní bezpečnost, zvyšuje kontrolu nad domácí politikou a vede k vzdělanější populaci." # todo: NEW TRANSLATION
-  GENERIC_economic_measures: "Ekonomická opatření" # todo: NEW TRANSLATION
-  GENERIC_economic_measures_desc: "Z prostřednictvím zavedení ekonomických regulačních opatření a mezinárodní kontroly dluhů můžeme podpořit růst našeho místního rozpočtu a snížit úrokové sazby z dluhů." # todo: NEW TRANSLATION
-  GENERIC_productivity_measures: "Opatření na produktivitu" # todo: NEW TRANSLATION
-  GENERIC_productivity_measures_desc: "Pouze zlepšení produktivity může dále posílit sílu naší země." # todo: NEW TRANSLATION
-  GENERIC_improved_worker_productivity: "Zlepšit produktivitu pracovníků" # todo: NEW TRANSLATION
-  GENERIC_improved_worker_productivity_desc: "Dále rozvíjením produktivity a výstupu na osobu můžeme efektivně zvýšit naši celkovou výrobu." # todo: NEW TRANSLATION
-  GENERIC_the_manpower_solution: "Řešení personálu" # todo: NEW TRANSLATION
-  GENERIC_the_manpower_solution_desc: "Bez dostatečného počtu lidí nic není. Přijměte opatření k rychlému růstu naší populace." # todo: NEW TRANSLATION
-  GENERIC_emphasize_autarkic_measures: "Zvýrazněte další autarkická opatření" # todo: NEW TRANSLATION
-  GENERIC_emphasize_autarkic_measures_desc: "Kdo potřebuje globální trh? Můžeme uspokojovat naše potřeby z vlastních továren." # todo: NEW TRANSLATION
-  GENERIC_reaching_to_the_global_market: "Vstup na globální trh" # todo: NEW TRANSLATION
-  GENERIC_reaching_to_the_global_market_desc: "Pouze vstupem na globální trh můžeme dále využít potenciál naší země a získat pevné postavení na světové scéně." # todo: NEW TRANSLATION
-  GENERIC_assure_the_national_fuel_reserve: "Zajistit národní palivovou rezervu" # todo: NEW TRANSLATION
-  GENERIC_assure_the_national_fuel_reserve_desc: "Naše ropa je nesmírně důležitá, nejen pro vojenské použití v dopravních prostředcích a výzbroji, ale také pro běžnou civilní dopravu a každodenní použití. Můžeme prohloubit palivové sklady, aby Národní palivová rezerva byla efektivnější při ukládání tohoto černého zlata." # todo: NEW TRANSLATION
-  GENERIC_ease_of_business_reforms: "Usnadnění podnikatelských reforem" # todo: NEW TRANSLATION
-  GENERIC_ease_of_business_reforms_desc: "Mezi [Root.GetAdjective] občany je jedním z možných postupů, jak podpořit utrácení a podnikání, reformovat zákony a ekonomiku tak, aby bylo pro nezávislé podnikatele snadnější si vydělat." # todo: NEW TRANSLATION
-  GENERIC_attract_foreign_investors: "Přilákat zahraniční investory" # todo: NEW TRANSLATION
-  GENERIC_attract_foreign_investors_desc: "Uvolněním podnikatelského práva můžeme učinit naši zemi atraktivní pro oportunistické zahraniční investory, kteří by mohli vidět hvězdu či dvě právě tam, kde se nacházíme." # todo: NEW TRANSLATION
-  GENERIC_debt_refactoring: "Restrukturalizace dluhů" # todo: NEW TRANSLATION
-  GENERIC_debt_refactoring_desc: "Vyjednávání o našich půjčkách s cílem zlepšit život a efektivitu vlády není nikdy špatný nápad." # todo: NEW TRANSLATION
-  GENERIC_agricultural_district_subsidization: "Subvencování zemědělských distriktů" # todo: NEW TRANSLATION
-  GENERIC_agricultural_district_subsidization_desc: "Problém s potravinami nelze ignorovat. Subvencujte naše zemědělství a co nejvíce usilujte o potravinovou soběstačnost naší země." # todo: NEW TRANSLATION
-  GENERIC_mobilize_the_working_class: "Mobilizovat dělnickou třídu" # todo: NEW TRANSLATION
-  GENERIC_mobilize_the_working_class_desc: "Větší výdaje na rekruitační centra jsou jistým způsobem, jak zajistit dostatek personálu a průmyslové podpory pro posunutí [Root.GetNameDef] k vítězství v případě vyvolání konfliktu." # todo: NEW TRANSLATION
-  GENERIC_light_industry_investments: "Investice do lehkého průmyslu" # todo: NEW TRANSLATION
-  GENERIC_light_industry_investments_desc: "Vkládání kapitálu do civilních průmyslových odvětví a do ropného komplexu může naši ekonomiku posunout vpřed i v těch nejtěžších časech." # todo: NEW TRANSLATION
-  GENERIC_heavy_industry_investments: "Investice do těžkého průmyslu" # todo: NEW TRANSLATION
-  GENERIC_heavy_industry_investments_desc: "Vkládání kapitálu do vojensko-průmyslového komplexu povede ke vyšším výnosům z výstroje a zajistí, že naši vojáci budou dobře vyzbrojeni." # todo: NEW TRANSLATION
-  GENERIC_refitting_the_military_industry: "Přestavba vojenského průmyslu" # todo: NEW TRANSLATION
-  GENERIC_refitting_the_military_industry_desc: "Můžeme otevřít nové továrny, abychom zajistili, že výroba našeho vybavení neklesne." # todo: NEW TRANSLATION
-  GENERIC_energy_sector: "Energetický sektor" # todo: NEW TRANSLATION
-  GENERIC_energy_sector_desc: "Abychom mohli udržet stát, musíme nejprve udržovat energetický sektor aktuální. Měli bychom vybudovat elektrárnu na fosilní paliva i infrastrukturu pro obnovitelné zdroje energie, které poskytnou cenově dostupnou, spolehlivou energii pro celý region." # todo: NEW TRANSLATION
-  GENERIC_fossil_powerplant: "Fosilní elektrárny" # todo: NEW TRANSLATION
-  GENERIC_fossil_powerplant_desc: "Můžeme zaměřit energetický sektor na fosilní paliva jako správnou volbu, a obětovat výstup a inovace pro levné a dobře prozkoumané metody výroby energie." # todo: NEW TRANSLATION
-  GENERIC_improved_energy_cycling: "Vylepšené elektrárny" # todo: NEW TRANSLATION
-  GENERIC_improved_energy_cycling_desc: "Tím, že vyjádříme svůj postoj v energetickém sektoru, více firem a organizací se rozhodne pro fosilní energetickou výrobu. To také znamená výpadky pro obnovitelné zdroje energie." # todo: NEW TRANSLATION
-  GENERIC_renewable_retooling: "Přestavba na obnovitelné zdroje" # todo: NEW TRANSLATION
-  GENERIC_renewable_retooling_desc: "Místo toho se můžeme zaměřit na získání alternativních, udržitelných paliv, abychom dosáhli vysokého výstupu a nízkého vlivu na životní prostředí tím, že obětujeme spolehlivost a přijmeme vyšší náklady." # todo: NEW TRANSLATION
-  GENERIC_combined_military_defense_industries: "Kombinované obranné průmysly" # todo: NEW TRANSLATION
-  GENERIC_combined_military_defense_industries_desc: "Díky našemu vynikajícímu úsilí nyní dokážeme efektivněji provozovat naše obranné průmysly." # todo: NEW TRANSLATION
-  GENERIC_renewable_infrastructure: "Obnovitelná infrastruktura" # todo: NEW TRANSLATION
-  GENERIC_renewable_infrastructure_desc: "Teď, když nadšení pro obnovitelné energie roste v naší zemi, můžeme pokračovat ve výstavbě udržitelné infrastruktury s finanční pomocí investorů, kteří projevili zájem." # todo: NEW TRANSLATION
-  GENERIC_nuclear_energy_expansions: "Rozšíření jaderné energetiky" # todo: NEW TRANSLATION
-  GENERIC_nuclear_energy_expansions_desc: "Využívání jaderné energie je trendem budoucnosti, a musíme dále rozvíjet její využití do hloubky." # todo: NEW TRANSLATION
-  GENERIC_unemployment_program: "Programy boje s nezaměstnaností" # todo: NEW TRANSLATION
-  GENERIC_unemployment_program_desc: "Rychlá opatření mohou být zavedena, abychom udrželi vyšší nezaměstnanost, než národ začne trpět. Jejich zavedení může být také způsobem, jak upravit náš sociální a zdravotní rozpočet ve prospěch lidí." # todo: NEW TRANSLATION
-  GENERIC_satisfy_the_middle_class: "Uspokojit střední třídu" # todo: NEW TRANSLATION
-  GENERIC_satisfy_the_middle_class_desc: "Střední třída je možná největší skupinou zájmů v naší zemi. Skládá se zejména z průmyslových a obchodních konglomerátů; očekáváme, že budou spokojeni se rozšířením městské infrastruktury." # todo: NEW TRANSLATION
-  GENERIC_build_churches: "Budovat kostely" # todo: NEW TRANSLATION
-  GENERIC_build_churches_desc: "Pokud chceme, aby byli kněží a duchovenstvo spokojení, musíme do výstavby kostelů, chrámů a dalších míst uctívání vložit kapitál. Tím, že průměrný občan zůstane více ukotvený, bude to také výhoda." # todo: NEW TRANSLATION
-  GENERIC_please_the_upper_class: "Uspokojit horní třídu" # todo: NEW TRANSLATION
-  GENERIC_please_the_upper_class_desc: "Oligarchie tvoří malou, ale důležitou část státu, s níž spočívá neviditelná ruka za investicemi, nabýváním půdy a ekonomikou na mikro i makro úrovni. Uspokojení jejich potřeb je pro nás přirozené." # todo: NEW TRANSLATION
-  GENERIC_import_foreign_automobiles: "Importovat zahraniční automobily" # todo: NEW TRANSLATION
-  GENERIC_import_foreign_automobiles_desc: "Tráva je vždy zelenější na druhé straně plotu a auta bývají na druhé straně hranice také čistší. Dovážením motorových vozidel přímo z cizích průmyslových odvětví získáme skvělou záminku pro zviditelnění vládního chlouby." # todo: NEW TRANSLATION
-  GENERIC_invest_in_biofuels: "Investovat do biopaliv" # todo: NEW TRANSLATION
-  GENERIC_invest_in_biofuels_desc: "Alternativní energie je budoucnost! ... Nebo tak říkají investoři. Každopádně věříme v jejich zájmy a že se sladí s naší zemí." # todo: NEW TRANSLATION
-  GENERIC_assure_intellectual_freedoms: "Zaručit intelektuální svobody" # todo: NEW TRANSLATION
-  GENERIC_assure_intellectual_freedoms_desc: "Nechť si všichni intelektuálové po [Root.GetNameDef] uvědomí, že jejich vědecké úsilí není jen hodnotné, ale i klíčové pro naši prosperitu a bude chráněno bez ohledu na jejich ideologii či loajalitu." # todo: NEW TRANSLATION
-  GENERIC_create_an_automotive_industry: "Vytvořit automobilový průmysl" # todo: NEW TRANSLATION
-  GENERIC_create_an_automotive_industry_desc: "Jakmile jsme se naučili všechna drobná tajemství automobilového průmyslu od těch otravných cizinců, můžeme začít využívat naše vlastní alternativy k stimulaci národního průmyslu a při tom potěšit spodní třídu." # todo: NEW TRANSLATION
-  GENERIC_build_primary_schools: "Budovat základní školy" # todo: NEW TRANSLATION
-  GENERIC_build_primary_schools_desc: "Vzdělání je srdcem a duší populace každé země na světě. Základní vzdělání je obzvlášť důležité mít k němu přístup – negramotné dítě vyroste v negramotného dospělého. Budováním více základních škol nám umožníme zlepšit gramotnost naší země." # todo: NEW TRANSLATION
-  GENERIC_assure_access_to_education: "Zajistit přístup ke vzdělání" # todo: NEW TRANSLATION
-  GENERIC_assure_access_to_education_desc: "Vzdělání není jen klíčovou potřebou, ale právem! Musíme zajistit, aby bylo plně poskytováno všem občanům, vždy. Příští generace intelektuálů nám po dokončení jistě poskytne oporu." # todo: NEW TRANSLATION
-  GENERIC_expand_the_universities: "Rozšířit univerzity" # todo: NEW TRANSLATION
-  GENERIC_expand_the_universities_desc: "Teď, když byly položeny základy primárního vzdělání, můžeme investovat do vyššího vzdělání, aby z [Root.GetNameDef] mohli pocházet géniové a světově proslulí intelektuálové." # todo: NEW TRANSLATION
-  GENERIC_industrial_research_task_forces: "Průmyslové výzkumné úderné skupiny" # todo: NEW TRANSLATION
-  GENERIC_industrial_research_task_forces_desc: "Naše průmyslové výzkumné úderné skupiny by byly národně financované týmy výzkumníků věnující se pozorování nejlepších průmyslových postupů, abychom je mohli v budoucnu implementovat." # todo: NEW TRANSLATION
-  GENERIC_domestic_vehicle_research: "Zkušební plochy vozidel" # todo: NEW TRANSLATION
-  GENERIC_domestic_vehicle_research_desc: "Abyste měli přístup k nejmodernějším vojenským vozidlům, nemůžeme se spoléhat jen na naše strategické partnery, že nám poskytnou vozidla. Musíme vybudovat zkušební plochy pro vozidla, kde budeme testovat a vyvíjet domácí obrněné vozy." # todo: NEW TRANSLATION
-  GENERIC_domestic_naval_research: "[ROOT.GetAdjective] Vývoj válečných lodí" # todo: NEW TRANSLATION
-  GENERIC_domestic_naval_research_desc: "Bezpečnost našich námořních cest je pro naši ekonomiku zásadní. Pokud bychom ztratili přístup k námořní moci našich spojenců, zůstali bychom odříznuti. Musíme vybudovat zařízení, ve kterém budeme moci vyrábět naše vlastní válečné lodě." # todo: NEW TRANSLATION
-  GENERIC_domestic_aircraft_research: "Domácí program proudových letounů" # todo: NEW TRANSLATION
-  GENERIC_domestic_aircraft_research_desc: "Letadla jsou jedny z nejsofistikovanějších strojů na světě a my nevíme, jak je vyrobit. Musíme vytvořit naše vlastní domácí vojenská letadla, abychom světu ukázali naši technologickou zručnost." # todo: NEW TRANSLATION
-  GENERIC_secret_weapons_program: "Výzkum tajných zbraní" # todo: NEW TRANSLATION
-  GENERIC_secret_weapons_program_desc: "Jaderné zbraně, vesmírný program, fúzní energetika a další zázraky vědy čekají na prozkoumání. To nám dá náskok nad všemi našimi nepřáteli" # todo: NEW TRANSLATION
-  GENERIC_naval_reform: "Námořní reformy" # todo: NEW TRANSLATION
-  GENERIC_naval_reform_desc: "Je nejvyšší čas, abychom se zbavili zastaralých námořních zvyklostí a začali brát vodní síly vážněji." # todo: NEW TRANSLATION
-  GENERIC_naval_bases: "Námořní základny" # todo: NEW TRANSLATION
-  GENERIC_naval_bases_desc: "Výstavba doků a přístavů na pobřeží bude prospívat nejen průmyslu, ale i našemu námořnictvu." # todo: NEW TRANSLATION
-  GENERIC_submarines: "Ponorky" # todo: NEW TRANSLATION
-  GENERIC_submarines_desc: "Můžeme začít zkoumat ponorkovou technologii, abychom zabránili nepřátelům dostat se nebezpečně blízko k našim nadvodním lodím." # todo: NEW TRANSLATION
-  GENERIC_surface_ships: "Povrchové lodě" # todo: NEW TRANSLATION
-  GENERIC_surface_ships_desc: "Tvrdá síla, která stojí za každou námořní operací, zkoumání nejefektivnějších a nejmodernějších povrchových lodí nás přímo povede k námořní nadvládě." # todo: NEW TRANSLATION
-  GENERIC_dockyards: "Loděnice" # todo: NEW TRANSLATION
-  GENERIC_dockyards_desc: "Výstavba více doků a podpora námořního průmyslu jsou nezbytné, abychom mohli prosperovat v obchodě i boji." # todo: NEW TRANSLATION
-  GENERIC_nuclear_submarines: "Jaderné ponorky" # todo: NEW TRANSLATION
-  GENERIC_nuclear_submarines_desc: "Jaderná ponorka je jakýkoli typ ponorky poháněný jaderným reaktorem. Jsou silnější, rychlejší a téměř nikdy nepotřebují doplňovat palivo." # todo: NEW TRANSLATION
-  GENERIC_naval_doctrine_innovations: "Inovace námořní doktríny" # todo: NEW TRANSLATION
-  GENERIC_naval_doctrine_innovations_desc: "Můžeme studovat standardní frakční doktrínu některých nejmocnějších vojenských světových řádů, abychom sami byli efektivnější v námořním boji." # todo: NEW TRANSLATION
-  GENERIC_light_helicopter_operators: "Nosič lehkých vrtulníků" # todo: NEW TRANSLATION
-  GENERIC_light_helicopter_operators_desc: "Nosič lehkých vrtulníků je loď nosič letounů, která je primárně určena pro přepravu vrtulníků, ale bývá také klasifikována jako amphibious assault ship nebo anti-submarine aircraft carrier. Je primárně určen pro vojenské letecké mise, včetně boje proti ponorkám, výsadkových operací a podpůrné letecké podpory." # todo: NEW TRANSLATION
-  GENERIC_aircraft_carriers: "Letadlové lodě" # todo: NEW TRANSLATION
-  GENERIC_aircraft_carriers_desc: "Letadlová loď je válečná loď sloužící jako plovoucí letecká základna, vybavena plnohodnotnou palubou pro vzlety a přistání a zařízení pro nesení, vyzbrojování, nasazování a záchranu letounů." # todo: NEW TRANSLATION
-  GENERIC_naval_doctrine_expertise: "Odbornost námořní doktríny" # todo: NEW TRANSLATION
-  GENERIC_naval_doctrine_expertise_desc: "Integrací každého prvku moderní námořní doktríny do souboru vzájemně provázaných taktik způsobíme, že i největší námořní velmoci budou třást naší zručností." # todo: NEW TRANSLATION
-  GENERIC_vessel_production: "Stavba lodí" # todo: NEW TRANSLATION
-  GENERIC_vessel_production_desc: "Může být možné zvýšit tempo námořní produkce optimalizací papírování v loděnicích a podporou námořní kultury ve pobřežních státech." # todo: NEW TRANSLATION
-  GENERIC_air_force_reform: "Reforma letectva" # todo: NEW TRANSLATION
-  GENERIC_air_force_reform_desc: "Pod zásadou, že národ ovládající své nebe ovládá i své území, musíme usilovat o modernizaci všech doktrín týkajících se letectví." # todo: NEW TRANSLATION
-  GENERIC_fighter_planes: "Stíhací letouny" # todo: NEW TRANSLATION
-  GENERIC_fighter_planes_desc: "Stíhací letouny jsou navrženy pro souboje vzduch–vzduch. Jsou hlavní cestou, jak naše letectvo získá nadvládu v jakémkoliv boji ve vzdušném prostoru." # todo: NEW TRANSLATION
-  GENERIC_air_doctrine_innovations: "Inovace letecké doktríny" # todo: NEW TRANSLATION
-  GENERIC_air_doctrine_innovations_desc: "Letecká doktrína se mění stejně rychle jako naše i nepřátelovy technologie, vyvíjí se a vyvíjí spolu s ní. Je na čase proces urychlit." # todo: NEW TRANSLATION
-  GENERIC_capital_defense_scheme: "Schéma obrany hlavního města" # todo: NEW TRANSLATION
-  GENERIC_capital_defense_scheme_desc: "Zavedení důkladnějšího schématu obrany proti letadlům a dalším vzdušným hrozbám zajistí, že naši lidé budou od nynějška i navěky cítit bezpečí." # todo: NEW TRANSLATION
-  GENERIC_capital_defense_scheme_tt: "Získá §G1§! §YStavbu protiletecké obrany§! v §Ynáhodně vlastněném státě§!" # todo: NEW TRANSLATION
-  GENERIC_defense_scheme_beta: "Pokročilé schéma obrany hlavního města" # todo: NEW TRANSLATION
-  GENERIC_defense_scheme_beta_desc: "Ještě více zlepšit obranu našeho hlavního města, aby nebyly žádné problémy za žádných okolností." # todo: NEW TRANSLATION
-  GENERIC_defense_scheme_beta_tt: "Získá §G1§! §YStavbu protiletecké obrany§! v §Ynáhodně vlastněném státě§!" # todo: NEW TRANSLATION
-  GENERIC_countermeasures_against_aircraft: "Protiletecké prostředky" # todo: NEW TRANSLATION
-  GENERIC_countermeasures_against_aircraft_desc: "Pokud chceme bránit naši zemi proti potenciálně vzdušně nadřazeným protivníkům, musíme se zaměřit na technologii protiletecké obrany." # todo: NEW TRANSLATION
-  GENERIC_bomber_planes: "Bombardovací letouny" # todo: NEW TRANSLATION
-  GENERIC_bomber_planes_desc: "Strategické bombardování s využitím bombardovacích letounů bude demoralizovat nepřítele a poškozovat jeho logistickou síť, i v dnešní době nepravidelné dopravy. Při ofenzívě je to priorita." # todo: NEW TRANSLATION
-  GENERIC_drones: "Drony" # todo: NEW TRANSLATION
-  GENERIC_drones_desc: "Technologie bezpilotních létajících prostředků (UAV) nám umožní bombardovat, likvidovat a zasahovat daleké cíle, ať už lidi či infrastrukturu, aniž bychom ztratili žádnou personální sílu, protože drony jsou dálkově ovládané." # todo: NEW TRANSLATION
-  GENERIC_air_doctrine_expertise: "Odbornost letecké doktríny" # todo: NEW TRANSLATION
-  GENERIC_air_doctrine_expertise_desc: "Naše letectvo je nyní skutečně jedním z těch, na které se musí brát ohled - a stejně tak i taktiky, které používáme. Pokračováním v modernizaci a vývoji naší doktríny nám umožníme ovládat vzdušný prostor způsoby, o nichž se dřív ani nesnilo." # todo: NEW TRANSLATION
-  GENERIC_army_reform: "Armádní reformy" # todo: NEW TRANSLATION
-  GENERIC_army_reform_desc: "Reforma armády bude první prioritou, bez silné armády nemůžeme bránit naši zemi." # todo: NEW TRANSLATION
-  GENERIC_military_emergency: "Vojenská pohotovost" # todo: NEW TRANSLATION
-  GENERIC_military_emergency_desc: "Boje situace se pro nás staly extrémně nepříznivými. Nemáme na výběr, než vyhlásit pohotovost a soustředit veškerou naši sílu, abychom překonali potíže." # todo: NEW TRANSLATION
-  GENERIC_military_equipment_procurement: "Nákup vojenské techniky" # todo: NEW TRANSLATION
-  GENERIC_military_equipment_procurement_desc: "Bez dostatku zbraní by naše armáda měla potíže splnit jakýkoliv úkol, proto jsme zahájili nouzový nákup zbraní." # todo: NEW TRANSLATION
-  GENERIC_land_doctrine_innovations: "Inovace pozemních doktrín" # todo: NEW TRANSLATION
-  GENERIC_land_doctrine_innovations_desc: "Moderní válka vyžaduje adaptaci. Aktualizací našich doktrín novými strategiemi a technologiemi zajistíme, že naše síly zůstanou účinné a připravené na budoucí konflikty." # todo: NEW TRANSLATION
-  GENERIC_military_exercises: "Vojenské cvičení" # todo: NEW TRANSLATION
-  GENERIC_military_exercises_desc: "Intenzivní drily zvyšují bojovou pohotovost a koordinaci jednotek, zajišťují, že naše síly budou při tlaku fungovat bezchybně." # todo: NEW TRANSLATION
-  GENERIC_military_education_reform: "Reforma vojenského vzdělávání" # todo: NEW TRANSLATION
-  GENERIC_military_education_reform_desc: "Modernizace vojenského vzdělávání vytváří silnější vůdce, ostřejší stratégů a sílu schopnou čelit současným výzvám." # todo: NEW TRANSLATION
-  GENERIC_infantry_equipment_development: "Vývoj výstroje pěchoty" # todo: NEW TRANSLATION
-  GENERIC_infantry_equipment_development_desc: "Pokročilý vývoj výstroje pro pěchotu zajišťuje, že naši vojáci mají špičkové nástroje, zvyšující jejich účinnost a přežití na bojišti." # todo: NEW TRANSLATION
-  GENERIC_land_doctrine_expertise: "Odbornost pozemních doktrín" # todo: NEW TRANSLATION
-  GENERIC_land_doctrine_expertise_desc: "Prohlubování našeho porozumění moderním pozemním doktrínám nám umožňuje maximalizovat efektivitu na bojišti a předstihnout jakéhokoliv protivníka." # todo: NEW TRANSLATION
-  GENERIC_artillery_experiments: "Dělostřelecké experimenty" # todo: NEW TRANSLATION
-  GENERIC_artillery_experiments_desc: "Testování nových dělostřeleckých systémů a technik zlepšuje přesnost, palebnou sílu a adaptabilitu na moderním bojišti." # todo: NEW TRANSLATION
-  GENERIC_uniform_improvements: "Vylepšení uniforem" # todo: NEW TRANSLATION
-  GENERIC_uniform_improvements_desc: "Vylepšení vojenských uniform zvyšuje pohodlí, odolnost a přizpůsobivost různým bojovým prostředím." # todo: NEW TRANSLATION
-  GENERIC_self_propelled_artillery: "Samohybná dělostřelecká jednotka" # todo: NEW TRANSLATION
-  GENERIC_self_propelled_artillery_desc: "Propojením pohyblivosti s palebnou silou zajistíme, že naše dělostřelectvo může rychle podporovat postupující jednotky a reagovat na měnící se bojové linie." # todo: NEW TRANSLATION
-  GENERIC_develop_armor_prototypes: "Vyvíjet prototypy obrněných vozidel" # todo: NEW TRANSLATION
-  GENERIC_develop_armor_prototypes_desc: "Návrh prototypů obrněných vozidel posiluje naši schopnost ovládnout pozemní boje díky nadřazené palebné síle a ochraně." # todo: NEW TRANSLATION
-  GENERIC_countermeasures_against_armored_units: "Protizbraňová opatření proti obrněným jednotkám" # todo: NEW TRANSLATION
-  GENERIC_countermeasures_against_armored_units_desc: "Vyvíjení účinných taktik a zbraní pro protiopatření obrněných jednotek zajistí, že budeme moci účinně neutralizovat jejich těžká vozidla." # todo: NEW TRANSLATION
+ dummy_focus: "Falešný strom zaměření" # todo: NEW TRANSLATION
+ dummy_focus_desc: "" # todo: NEW TRANSLATION
+ GENERIC_anti_corruption_reforms: "Protikorupční reformy" # todo: NEW TRANSLATION
+ GENERIC_anti_corruption_reforms_desc: "Přijetím protikorupčních reforem doufáme, že snížíme vnitřní korupci naší země." # todo: NEW TRANSLATION
+ GENERIC_network_infrastructure: "Infrastruktura internetu" # todo: NEW TRANSLATION
+ GENERIC_network_infrastructure_desc: "Moderní svět proměnil internet v základní lidskou potřebu. Investice do této potřeby pomohou vzdělávání, stavebnímu úsilí a mnoha dalším oblastem." # todo: CHANGED
+ GENERIC_centralization: "Centralizace" # todo: NEW TRANSLATION
+ GENERIC_centralization_desc: "Centralizace státu pomůže udržet naši rozsáhlou zemi. Centralizace národa také pomůže získat další politický kapitál a měla by přinést dodatečné daňové příjmy spolu s posílením politického kapitálu." # todo: NEW TRANSLATION
+ GENERIC_decentralization: "Decentralizace" # todo: NEW TRANSLATION
+ GENERIC_decentralization_desc: "Decentralizace státu a odstraňování byrokratických překážek pomůže snížit celkové byrokratické náklady a podpoří další růst výstavby." # todo: NEW TRANSLATION
+ GENERIC_political_reform: "Politická reforma" # todo: NEW TRANSLATION
+ GENERIC_political_reform_desc: "Abychom zabránili stagnaci naší domácí politické scény, vláda musí udržovat zemi a její občany politicky angažované a aktivní. Legislativa musí být navržena, vládní úředníci jmenováni, finanční plány schváleny a veřejné projekty naplánovány. [Root.GetAdjective] vláda se nesmí spokojit ve snaze modernizovat a posílit zemi." # todo: NEW TRANSLATION
+ GENERIC_cabinet_reform: "Reforma kabinetu" # todo: NEW TRANSLATION
+ GENERIC_cabinet_reform_desc: "Nahrazením několika klíčových aktérů v kabinetu, kteří jsou v současnosti proti agendě předsedy vlády, může výkonná moc projevit sílu a odhodlání při řešení nadcházejících politických otázek a krizí. Příčem je ignorovat kritiky, poražené a skeptiky." # todo: NEW TRANSLATION
+ GENERIC_expand_the_secret_service: "Rozšířit tajnou službu" # todo: NEW TRANSLATION
+ GENERIC_expand_the_secret_service_desc: "Bezpečnost [Root.GetNameDef] značně závisí na síle jeho vojenských a civilních zpravodajských služeb. Musíme najít účinné protiopatření proti nepřátelským agentům, subverzním prvkům společnosti, teroristům a (alespoň ne nemožnému) potenciálu nepřátelského jaderného útoku." # todo: NEW TRANSLATION
+ GENERIC_build_intelligence_stations: "Vybudovat zpravodajské stanice" # todo: NEW TRANSLATION
+ GENERIC_build_intelligence_stations_desc: "Navazující na radarové stanice z druhé světové války, zpravodajské stanice nám poskytnou podrobné zprávy o pohybech nepřátelských sil a přijíždějících letadlech. Využijeme zkušeností ze špionážních afér a intrik studené války." # todo: NEW TRANSLATION
+ GENERIC_strengthen_government: "Posílení vlády" # todo: NEW TRANSLATION
+ GENERIC_strengthen_government_desc: "Naše zavedená vláda potřebuje posílení. Politickým ukotvením naší strany získáme více možností prosazovat různé politiky." # todo: NEW TRANSLATION
+ GENERIC_political_games: "Politické hry" # todo: NEW TRANSLATION
+ GENERIC_political_games_desc: "Co je vláda bez rozsáhlé politické kultury? Musíme zasadit semena debaty a diskuse, aby naše politické prostředí prospívalo a zůstávalo stabilní." # todo: NEW TRANSLATION
+ GENERIC_public_service_announcement: "Veřejné oznámení" # todo: NEW TRANSLATION
+ GENERIC_public_service_announcement_desc: "Musíme zavést standardizovaný způsob, jak přímo našim občanům sdělovat zprávy ve veřejném zájmu. Toho lze dosáhnout prostřednictvím veřejného oznámení." # todo: CHANGED
+ GENERIC_the_establishment: "Elita" # todo: NEW TRANSLATION
+ GENERIC_the_establishment_desc: "Postavy elity posilují svůj vliv na státní politiku. Můžeme toho využít pro dodatečný odstup při řešení státních záležitostí." # todo: NEW TRANSLATION
+ GENERIC_the_state: "Stát" # todo: NEW TRANSLATION
+ GENERIC_the_state_desc: "S pevnou rukou nad vším, co se týká naší země, se můžeme jednou provždy zbavit rozdělování a zdržování, které sužují naši zemi už tak dlouho." # todo: NEW TRANSLATION
+ GENERIC_diplomatic_positions: "Diplomatické pozice" # todo: NEW TRANSLATION
+ GENERIC_diplomatic_positions_desc: "Po politické reformě a našem zaměření na vnější záležitosti můžeme zavést soudržné diplomatické postoje se sousedy pro lepší mezinárodní spolupráci." # todo: NEW TRANSLATION
+ GENERIC_our_place: "Naše místo" # todo: NEW TRANSLATION
+ GENERIC_our_place_desc: "Jsme sami sobě pány a zasloužíme si být svobodní od chamtivých rukou našich vlivových sil." # todo: NEW TRANSLATION
+ GENERIC_station_in_the_world: "Názory světa" # todo: NEW TRANSLATION
+ GENERIC_station_in_the_world_desc: "Zviditelnění národa světu nám přinese řadu výhod — včetně hmatatelné moci pro naše představitele." # todo: NEW TRANSLATION
+ GENERIC_the_west: "Západ" # todo: NEW TRANSLATION
+ GENERIC_the_west_desc: "Západní země kladou důraz na demokracii a svobodu a často jsou nakloněny USA. Západní země usilují o udržení status quo ve světové politice." # todo: NEW TRANSLATION
+ GENERIC_eastern_emergence: "Východní vzestup" # todo: NEW TRANSLATION
+ GENERIC_eastern_emergence_desc: "Politicky se rozvíjející země se chtějí odchýlit od současného světového řádu a vytvořit nové organizace, které nahradí ty staré. Ačkoli nejsou vyloženě proti USA nebo Západu, rozvíjející se země se často snaží podkopávat západní vliv." # todo: CHANGED
+ GENERIC_non_aligned: "Nezařazené" # todo: NEW TRANSLATION
+ GENERIC_non_aligned_desc: "Neutrální země se snaží zůstat mimo globální politiku a často se zaměřují na vnitřní nebo regionální rozvoj. Necítí silné sympatie ani k Západu, ani k Východu." # todo: CHANGED
+ GENERIC_the_conservative_approach: "Konzervativní přístup" # todo: NEW TRANSLATION
+ GENERIC_the_conservative_approach_desc: "Konzervativní země aktivně usilují o udržení globálního status quo, zaměřují se na udržování západní staré gardy politiky a mezinárodního výhledu." # todo: NEW TRANSLATION
+ GENERIC_the_nationalist_rise: "Nacionalistický vzestup" # todo: NEW TRANSLATION
+ GENERIC_the_nationalist_rise_desc: "Nacionalistické země se soustředí na sebe a na minulou slávu svého národa. Často upadají do autoritářské politiky a prosazují existenci jedné etnické skupiny či lidu." # todo: NEW TRANSLATION
+ GENERIC_the_salafist_rise: "Salafistický vzestup" # todo: NEW TRANSLATION
+ GENERIC_the_salafist_rise_desc: "Salafismus je ultra-konservativní interpretací islámu. Salafisté chtějí reformovat islám tím, že ho vrátí k tradičnějším a doslovnějším kořenům, i silou, pokud bude třeba." # todo: NEW TRANSLATION
+ GENERIC_western_ideas: "Západní myšlenky" # todo: NEW TRANSLATION
+ GENERIC_western_ideas_desc: "Ideály demokracie a svobody, kterých si Západ tolik cení, jsou klíčem k úspěchu každého úctyhodného národního státu. Měli bychom je přijmout." # todo: CHANGED
+ GENERIC_the_rising_powers: "Vzestupné mocnosti" # todo: NEW TRANSLATION
+ GENERIC_the_rising_powers_desc: "Jak dlouho by měla země dodržovat pravidla svých neviditelných loutkářů? Odchýlejme se od tohoto nespravedlivého a zkorumpovaného světového řádu a vzestupme po boku našich bratří." # todo: NEW TRANSLATION
+ GENERIC_us_above_all: "Náš národ nad vším" # todo: NEW TRANSLATION
+ GENERIC_us_above_all_desc: "Národ je na světě jedinou posvátnou a čistou věcí. Měl by být nejen respektován, ale jeho potřeby by měly být uspokojovány – bez ohledu na to, co ostatní cítí k němu." # todo: NEW TRANSLATION
+ GENERIC_jihad: "Džihád" # todo: NEW TRANSLATION
+ GENERIC_jihad_desc: "Alláh je Největší!" # todo: NEW TRANSLATION
+ GENERIC_international_diplomacy: "Mezinárodní diplomacie" # todo: NEW TRANSLATION
+ GENERIC_international_diplomacy_desc: "Umění uzavírat tajné dohody, veřejně vystavovat morální postoje a rozdělovat malé země mezi jejich větší sousedy má dlouhou tradici plnou pompéznosti a pragmatického makiaavelismu. Koneckonců, hlavním cílem diplomacie je zajištění ropného zdroje země. [Root.GetNameDef] nemusí zaostávat." # todo: NEW TRANSLATION
+ GENERIC_trade_with_the_neighbors: "Obchod se sousedy" # todo: NEW TRANSLATION
+ GENERIC_trade_with_the_neighbors_desc: "Po sblížení s našimi bezprostředními sousedy prostřednictvím rozšíření diplomatických sborů a rozšíření silnic můžeme nyní usilovat o úžeji obchodní integraci s našimi sousedy. To pomůže ziskům velkých firem i malých podnikatelů." # todo: NEW TRANSLATION
+ GENERIC_alignment_debate: "Debata o orientaci" # todo: NEW TRANSLATION
+ GENERIC_alignment_debate_desc: "Otevřenou otázkou mezinárodní diplomacie je vždy konflikt a protichůdné názory neutrality a izolacionismu versus intervencionismus." # todo: NEW TRANSLATION
+ GENERIC_neutrality: "Neutralita" # todo: NEW TRANSLATION
+ GENERIC_neutrality_desc: "Bezpečnost a prosperita občanů [Root.GetAdjective] by pro nás měly být vždy na prvním místě. Nemůžeme plýtvat našimi mladými muži, přírodními zdroji a finančními prostředky v zahraničních konfliktech. Místo toho musíme zajistit bezpečí domovské fronty zabezpečením našich hranic a vyhýbáním se členství v mezinárodních aliančních sítích." # todo: CHANGED
+ GENERIC_interventionism: "Intervence" # todo: NEW TRANSLATION
+ GENERIC_interventionism_desc: "Sledování jen sebe na mezinárodní scéně není jen sobecké, ale i urážkou pro všechny národy světa. Za jakékoli oběti bychom měli zajistit prosperitu a bezpečnost pro všechny v regionu, aPerhaps i pro celý svět! A pokud při tom získáme nějaké dodatečné zdroje a uspokojení pro [Root.GetNameDef], když už u toho jsme..." # todo: NEW TRANSLATION
+ GENERIC_build_fortifications: "Budování opevnění" # todo: NEW TRANSLATION
+ GENERIC_build_fortifications_desc: "Silná obranná architektura je klíčem k zajištění neporazitelné fronty v případě invaze cizích sil." # todo: NEW TRANSLATION
+ GENERIC_militarism: "Militarismus" # todo: NEW TRANSLATION
+ GENERIC_militarism_desc: "Militarismus je představa země, která má silnou armádu, kterou používá k zajištění a ochraně národních zájmů jak doma, tak v zahraničí." # todo: NEW TRANSLATION
+ GENERIC_peaceful_emergence: "Pokojný vzestup" # todo: NEW TRANSLATION
+ GENERIC_peaceful_emergence_desc: "Navzdory našim odlišným názorům na svět bychom neměli být hostilní vůči starému řádu, ale pomalu pracovat na změně světa prostřednictvím diplomacie a ekonomiky." # todo: NEW TRANSLATION
+ GENERIC_revanchism: "Revanchismus" # todo: NEW TRANSLATION
+ GENERIC_revanchism_desc: "Revanchismus je termín pro vůli země znovu získat území, které dříve ztratila. Proslavily ho Francouzi po ztrátě Alsasko-Lotrinska a revanchismus zůstává důležitým faktorem politiky mnoha zemí." # todo: NEW TRANSLATION
+ GENERIC_build_roads: "Budovat silnice" # todo: NEW TRANSLATION
+ GENERIC_build_roads_desc: "Doprava je klíčová v jakékoli vyspělé oblasti světa, a vybudováním silnic po celé zemi můžeme podpořit lepší přístup ke vzdělání a městskému životu, zvláště v méně rozvinutých regionech." # todo: NEW TRANSLATION
+ GENERIC_build_railways: "Budovat železnice" # todo: NEW TRANSLATION
+ GENERIC_build_railways_desc: "Doprava je klíčová v jakékoli dobře vyvinuté oblasti světa, a můžeme podpořit industrializaci stejně jako zavést rychlý a levný způsob dopravy výstavbou železnic v méně vyvinutých částech země." # todo: NEW TRANSLATION
+ GENERIC_build_highways: "Vybudovat dálnice" # todo: NEW TRANSLATION
+ GENERIC_build_highways_desc: "Pro dlouhodobou přepravu osob napříč [Root.GetNameDef] jsou dálnice nezbytné. Pojďme je vybudovat." # todo: NEW TRANSLATION
+ GENERIC_expand_urban_areas: "Rozšířit městské oblasti" # todo: NEW TRANSLATION
+ GENERIC_expand_urban_areas_desc: "Městské oblasti [Root.GetNameDef] jsou jádrem jejího pokroku a potenciálně její ekonomiky. Rozšířením a zlepšením života v městském prostředí můžeme dále centralizovat ekonomiku a podnítit občanskou dynamiku." # todo: NEW TRANSLATION
+ GENERIC_developmentalism: "Developmentalismus" # todo: NEW TRANSLATION
+ GENERIC_developmentalism_desc: "Developmentalismus je ekonomická teorie, která tvrdí, že nejlepší způsob, jak rozvíjet ekonomiky méně rozvinutých zemí, spočívá ve silném a různorodém vnitřním trhu s vysokými tarify." # todo: NEW TRANSLATION
+ GENERIC_increase_resource_production: "Zvýšit produkci surovin" # todo: NEW TRANSLATION
+ GENERIC_increase_resource_production_desc: "Vyšší výnosy surovin v našich výrobních místech znamenají vyšší zisky při hromadném exportu. Prioritizace těžby surovin nám umožní posílit ekonomiku a zároveň vyrobit větší množství vybavení pro naše jednotky." # todo: NEW TRANSLATION
+ GENERIC_economic_autonomy: "Ekonomická autonomie" # todo: NEW TRANSLATION
+ GENERIC_economic_autonomy_desc: "Jednou z největších hrozeb pro zemi je vzdát naši ekonomiku cizí moci. Naši lidé nejsou jejich otroci, ale naši." # todo: NEW TRANSLATION
+ GENERIC_autarky: "Autarkie" # todo: NEW TRANSLATION
+ GENERIC_autarky_desc: "Sebe-sufficiencý je jednou z nejdůležitějších věcí, které můžeme svým občanům vyučovat. Nejenže to znamená nižší pracovní zátěž byrokracie, ale také snižuje hrozby pro národní bezpečnost, zvyšuje kontrolu nad domácí politikou a vede k vzdělanější populaci." # todo: NEW TRANSLATION
+ GENERIC_economic_measures: "Ekonomická opatření" # todo: NEW TRANSLATION
+ GENERIC_economic_measures_desc: "Z prostřednictvím zavedení ekonomických regulačních opatření a mezinárodní kontroly dluhů můžeme podpořit růst našeho místního rozpočtu a snížit úrokové sazby z dluhů." # todo: NEW TRANSLATION
+ GENERIC_productivity_measures: "Opatření na produktivitu" # todo: NEW TRANSLATION
+ GENERIC_productivity_measures_desc: "Pouze zlepšení produktivity může dále posílit sílu naší země." # todo: NEW TRANSLATION
+ GENERIC_improved_worker_productivity: "Zlepšit produktivitu pracovníků" # todo: NEW TRANSLATION
+ GENERIC_improved_worker_productivity_desc: "Dále rozvíjením produktivity a výstupu na osobu můžeme efektivně zvýšit naši celkovou výrobu." # todo: NEW TRANSLATION
+ GENERIC_the_manpower_solution: "Řešení personálu" # todo: NEW TRANSLATION
+ GENERIC_the_manpower_solution_desc: "Bez dostatečného počtu lidí nic není. Přijměte opatření k rychlému růstu naší populace." # todo: NEW TRANSLATION
+ GENERIC_emphasize_autarkic_measures: "Zvýrazněte další autarkická opatření" # todo: NEW TRANSLATION
+ GENERIC_emphasize_autarkic_measures_desc: "Kdo potřebuje globální trh? Můžeme uspokojovat naše potřeby z vlastních továren." # todo: NEW TRANSLATION
+ GENERIC_reaching_to_the_global_market: "Vstup na globální trh" # todo: NEW TRANSLATION
+ GENERIC_reaching_to_the_global_market_desc: "Pouze vstupem na globální trh můžeme dále využít potenciál naší země a získat pevné postavení na světové scéně." # todo: NEW TRANSLATION
+ GENERIC_assure_the_national_fuel_reserve: "Zajistit národní palivovou rezervu" # todo: NEW TRANSLATION
+ GENERIC_assure_the_national_fuel_reserve_desc: "Naše ropa je nesmírně důležitá, nejen pro vojenské použití v dopravních prostředcích a výzbroji, ale také pro běžnou civilní dopravu a každodenní použití. Můžeme prohloubit palivové sklady, aby Národní palivová rezerva byla efektivnější při ukládání tohoto černého zlata." # todo: NEW TRANSLATION
+ GENERIC_ease_of_business_reforms: "Usnadnění podnikatelských reforem" # todo: NEW TRANSLATION
+ GENERIC_ease_of_business_reforms_desc: "Mezi [Root.GetAdjective] občany je jedním z možných postupů, jak podpořit utrácení a podnikání, reformovat zákony a ekonomiku tak, aby bylo pro nezávislé podnikatele snadnější si vydělat." # todo: NEW TRANSLATION
+ GENERIC_attract_foreign_investors: "Přilákat zahraniční investory" # todo: NEW TRANSLATION
+ GENERIC_attract_foreign_investors_desc: "Uvolněním podnikatelského práva můžeme učinit naši zemi atraktivní pro oportunistické zahraniční investory, kteří by mohli vidět hvězdu či dvě právě tam, kde se nacházíme." # todo: NEW TRANSLATION
+ GENERIC_debt_refactoring: "Restrukturalizace dluhů" # todo: NEW TRANSLATION
+ GENERIC_debt_refactoring_desc: "Vyjednávání o našich půjčkách s cílem zlepšit život a efektivitu vlády není nikdy špatný nápad." # todo: NEW TRANSLATION
+ GENERIC_agricultural_district_subsidization: "Subvencování zemědělských distriktů" # todo: NEW TRANSLATION
+ GENERIC_agricultural_district_subsidization_desc: "Problém s potravinami nelze ignorovat. Subvencujte naše zemědělství a co nejvíce usilujte o potravinovou soběstačnost naší země." # todo: NEW TRANSLATION
+ GENERIC_mobilize_the_working_class: "Mobilizovat dělnickou třídu" # todo: NEW TRANSLATION
+ GENERIC_mobilize_the_working_class_desc: "Větší výdaje na rekruitační centra jsou jistým způsobem, jak zajistit dostatek personálu a průmyslové podpory pro posunutí [Root.GetNameDef] k vítězství v případě vyvolání konfliktu." # todo: NEW TRANSLATION
+ GENERIC_light_industry_investments: "Investice do lehkého průmyslu" # todo: NEW TRANSLATION
+ GENERIC_light_industry_investments_desc: "Vkládání kapitálu do civilních průmyslových odvětví a do ropného komplexu může naši ekonomiku posunout vpřed i v těch nejtěžších časech." # todo: NEW TRANSLATION
+ GENERIC_heavy_industry_investments: "Investice do těžkého průmyslu" # todo: NEW TRANSLATION
+ GENERIC_heavy_industry_investments_desc: "Vkládání kapitálu do vojensko-průmyslového komplexu povede ke vyšším výnosům z výstroje a zajistí, že naši vojáci budou dobře vyzbrojeni." # todo: NEW TRANSLATION
+ GENERIC_refitting_the_military_industry: "Přestavba vojenského průmyslu" # todo: NEW TRANSLATION
+ GENERIC_refitting_the_military_industry_desc: "Můžeme otevřít nové továrny, abychom zajistili, že výroba našeho vybavení neklesne." # todo: NEW TRANSLATION
+ GENERIC_energy_sector: "Energetický sektor" # todo: NEW TRANSLATION
+ GENERIC_energy_sector_desc: "Abychom mohli udržet stát, musíme nejprve udržovat energetický sektor aktuální. Měli bychom vybudovat elektrárnu na fosilní paliva i infrastrukturu pro obnovitelné zdroje energie, které poskytnou cenově dostupnou, spolehlivou energii pro celý region." # todo: NEW TRANSLATION
+ GENERIC_fossil_powerplant: "Fosilní elektrárny" # todo: NEW TRANSLATION
+ GENERIC_fossil_powerplant_desc: "Můžeme zaměřit energetický sektor na fosilní paliva jako správnou volbu, a obětovat výstup a inovace pro levné a dobře prozkoumané metody výroby energie." # todo: NEW TRANSLATION
+ GENERIC_improved_energy_cycling: "Vylepšené elektrárny" # todo: NEW TRANSLATION
+ GENERIC_improved_energy_cycling_desc: "Tím, že vyjádříme svůj postoj v energetickém sektoru, více firem a organizací se rozhodne pro fosilní energetickou výrobu. To také znamená výpadky pro obnovitelné zdroje energie." # todo: NEW TRANSLATION
+ GENERIC_renewable_retooling: "Přestavba na obnovitelné zdroje" # todo: NEW TRANSLATION
+ GENERIC_renewable_retooling_desc: "Místo toho se můžeme zaměřit na získání alternativních, udržitelných paliv, abychom dosáhli vysokého výstupu a nízkého vlivu na životní prostředí tím, že obětujeme spolehlivost a přijmeme vyšší náklady." # todo: NEW TRANSLATION
+ GENERIC_combined_military_defense_industries: "Kombinované obranné průmysly" # todo: NEW TRANSLATION
+ GENERIC_combined_military_defense_industries_desc: "Díky naší vynikající práci a úsilí nyní dokážeme efektivněji řídit náš obranný průmysl." # todo: CHANGED
+ GENERIC_renewable_infrastructure: "Obnovitelná infrastruktura" # todo: NEW TRANSLATION
+ GENERIC_renewable_infrastructure_desc: "Teď, když nadšení pro obnovitelné energie roste v naší zemi, můžeme pokračovat ve výstavbě udržitelné infrastruktury s finanční pomocí investorů, kteří projevili zájem." # todo: NEW TRANSLATION
+ GENERIC_nuclear_energy_expansions: "Rozšíření jaderné energetiky" # todo: NEW TRANSLATION
+ GENERIC_nuclear_energy_expansions_desc: "Využívání jaderné energie je trendem budoucnosti, a musíme dále rozvíjet její využití do hloubky." # todo: NEW TRANSLATION
+ GENERIC_unemployment_program: "Programy boje s nezaměstnaností" # todo: NEW TRANSLATION
+ GENERIC_unemployment_program_desc: "Lze přijmout rychlá opatření, která zajistí, že dokážeme čelit vyšší míře nezaměstnanosti, než začne národ trpět. Jejich zavedení může být také způsobem, jak upravit náš rozpočet na sociální zabezpečení a zdravotnictví v zájmu lidu." # todo: CHANGED
+ GENERIC_satisfy_the_middle_class: "Uspokojit střední třídu" # todo: NEW TRANSLATION
+ GENERIC_satisfy_the_middle_class_desc: "Střední třída je možná největší skupinou zájmů v naší zemi. Skládá se zejména z průmyslových a obchodních konglomerátů; očekáváme, že budou spokojeni se rozšířením městské infrastruktury." # todo: NEW TRANSLATION
+ GENERIC_build_churches: "Budovat kostely" # todo: NEW TRANSLATION
+ GENERIC_build_churches_desc: "Pokud chceme, aby byli kněží a duchovenstvo spokojení, musíme do výstavby kostelů, chrámů a dalších míst uctívání vložit kapitál. Tím, že průměrný občan zůstane více ukotvený, bude to také výhoda." # todo: NEW TRANSLATION
+ GENERIC_please_the_upper_class: "Uspokojit horní třídu" # todo: NEW TRANSLATION
+ GENERIC_please_the_upper_class_desc: "Oligarchie tvoří v každém státě malou, ale důležitou část; její členové jsou neviditelnou rukou stojící za investicemi, získáváním půdy a ekonomikou na mikro i makroúrovni. Je pro nás zcela přirozené usilovat o jejich přízeň." # todo: CHANGED
+ GENERIC_import_foreign_automobiles: "Importovat zahraniční automobily" # todo: NEW TRANSLATION
+ GENERIC_import_foreign_automobiles_desc: "Tráva je vždy zelenější na druhé straně plotu a auta bývají na druhé straně hranice také čistší. Dovážením motorových vozidel přímo z cizích průmyslových odvětví získáme skvělou záminku pro zviditelnění vládního chlouby." # todo: NEW TRANSLATION
+ GENERIC_invest_in_biofuels: "Investovat do biopaliv" # todo: NEW TRANSLATION
+ GENERIC_invest_in_biofuels_desc: "Alternativní energie je budoucnost! ... Nebo tak říkají investoři. Každopádně věříme v jejich zájmy a že se sladí s naší zemí." # todo: NEW TRANSLATION
+ GENERIC_assure_intellectual_freedoms: "Zaručit intelektuální svobody" # todo: NEW TRANSLATION
+ GENERIC_assure_intellectual_freedoms_desc: "Nechť si všichni intelektuálové po [Root.GetNameDef] uvědomí, že jejich vědecké úsilí není jen hodnotné, ale i klíčové pro naši prosperitu a bude chráněno bez ohledu na jejich ideologii či loajalitu." # todo: NEW TRANSLATION
+ GENERIC_create_an_automotive_industry: "Vytvořit automobilový průmysl" # todo: NEW TRANSLATION
+ GENERIC_create_an_automotive_industry_desc: "Jakmile jsme se naučili všechna drobná tajemství automobilového průmyslu od těch otravných cizinců, můžeme začít využívat naše vlastní alternativy k stimulaci národního průmyslu a při tom potěšit spodní třídu." # todo: NEW TRANSLATION
+ GENERIC_build_primary_schools: "Budovat základní školy" # todo: NEW TRANSLATION
+ GENERIC_build_primary_schools_desc: "Vzdělání je srdcem a duší populace každé země na světě. Základní vzdělání je obzvlášť důležité mít k němu přístup – negramotné dítě vyroste v negramotného dospělého. Budováním více základních škol nám umožníme zlepšit gramotnost naší země." # todo: NEW TRANSLATION
+ GENERIC_assure_access_to_education: "Zajistit přístup ke vzdělání" # todo: NEW TRANSLATION
+ GENERIC_assure_access_to_education_desc: "Vzdělání není jen klíčovou potřebou, ale právem! Musíme zajistit, aby bylo plně poskytováno všem občanům, vždy. Příští generace intelektuálů nám po dokončení jistě poskytne oporu." # todo: NEW TRANSLATION
+ GENERIC_expand_the_universities: "Rozšířit univerzity" # todo: NEW TRANSLATION
+ GENERIC_expand_the_universities_desc: "Teď, když byly položeny základy primárního vzdělání, můžeme investovat do vyššího vzdělání, aby z [Root.GetNameDef] mohli pocházet géniové a světově proslulí intelektuálové." # todo: NEW TRANSLATION
+ GENERIC_industrial_research_task_forces: "Průmyslové výzkumné úderné skupiny" # todo: NEW TRANSLATION
+ GENERIC_industrial_research_task_forces_desc: "Naše průmyslové výzkumné úderné skupiny by byly národně financované týmy výzkumníků věnující se pozorování nejlepších průmyslových postupů, abychom je mohli v budoucnu implementovat." # todo: NEW TRANSLATION
+ GENERIC_domestic_vehicle_research: "Zkušební plochy vozidel" # todo: NEW TRANSLATION
+ GENERIC_domestic_vehicle_research_desc: "Abyste měli přístup k nejmodernějším vojenským vozidlům, nemůžeme se spoléhat jen na naše strategické partnery, že nám poskytnou vozidla. Musíme vybudovat zkušební plochy pro vozidla, kde budeme testovat a vyvíjet domácí obrněné vozy." # todo: NEW TRANSLATION
+ GENERIC_domestic_naval_research: "[ROOT.GetAdjective] Vývoj válečných lodí" # todo: NEW TRANSLATION
+ GENERIC_domestic_naval_research_desc: "Bezpečnost našich námořních cest je pro naši ekonomiku zásadní. Pokud bychom ztratili přístup k námořní moci našich spojenců, zůstali bychom odříznuti. Musíme vybudovat zařízení, ve kterém budeme moci vyrábět naše vlastní válečné lodě." # todo: NEW TRANSLATION
+ GENERIC_domestic_aircraft_research: "Domácí program proudových letounů" # todo: NEW TRANSLATION
+ GENERIC_domestic_aircraft_research_desc: "Letadla jsou jedny z nejsofistikovanějších strojů na světě a my nevíme, jak je vyrobit. Musíme vytvořit naše vlastní domácí vojenská letadla, abychom světu ukázali naši technologickou zručnost." # todo: NEW TRANSLATION
+ GENERIC_secret_weapons_program: "Výzkum tajných zbraní" # todo: NEW TRANSLATION
+ GENERIC_secret_weapons_program_desc: "Jaderné zbraně, vesmírný program, fúzní energie a další vědecké zázraky čekají na prozkoumání. To nám poskytne výhodu nad všemi našimi nepřáteli." # todo: CHANGED
+ GENERIC_naval_reform: "Námořní reformy" # todo: NEW TRANSLATION
+ GENERIC_naval_reform_desc: "Je nejvyšší čas, abychom se zbavili zastaralých námořních zvyklostí a začali brát vodní síly vážněji." # todo: NEW TRANSLATION
+ GENERIC_naval_bases: "Námořní základny" # todo: NEW TRANSLATION
+ GENERIC_naval_bases_desc: "Výstavba doků a přístavů na pobřeží bude prospívat nejen průmyslu, ale i našemu námořnictvu." # todo: NEW TRANSLATION
+ GENERIC_submarines: "Ponorky" # todo: NEW TRANSLATION
+ GENERIC_submarines_desc: "Můžeme začít zkoumat ponorkovou technologii, abychom zabránili nepřátelům dostat se nebezpečně blízko k našim nadvodním lodím." # todo: NEW TRANSLATION
+ GENERIC_surface_ships: "Povrchové lodě" # todo: NEW TRANSLATION
+ GENERIC_surface_ships_desc: "Tvrdá síla, která stojí za každou námořní operací, zkoumání nejefektivnějších a nejmodernějších povrchových lodí nás přímo povede k námořní nadvládě." # todo: NEW TRANSLATION
+ GENERIC_dockyards: "Loděnice" # todo: NEW TRANSLATION
+ GENERIC_dockyards_desc: "Výstavba více doků a podpora námořního průmyslu jsou nezbytné, abychom mohli prosperovat v obchodě i boji." # todo: NEW TRANSLATION
+ GENERIC_nuclear_submarines: "Jaderné ponorky" # todo: NEW TRANSLATION
+ GENERIC_nuclear_submarines_desc: "Jaderná ponorka je jakýkoli typ ponorky poháněný jaderným reaktorem. Je výkonnější, rychlejší a jen zřídka potřebuje doplňovat palivo." # todo: CHANGED
+ GENERIC_naval_doctrine_innovations: "Inovace námořní doktríny" # todo: NEW TRANSLATION
+ GENERIC_naval_doctrine_innovations_desc: "Můžeme studovat standardní frakční doktrínu některých nejmocnějších vojenských světových řádů, abychom sami byli efektivnější v námořním boji." # todo: NEW TRANSLATION
+ GENERIC_light_helicopter_operators: "Nosič lehkých vrtulníků" # todo: NEW TRANSLATION
+ GENERIC_light_helicopter_operators_desc: "Nosič lehkých vrtulníků je loď nosič letounů, která je primárně určena pro přepravu vrtulníků, ale bývá také klasifikována jako amphibious assault ship nebo anti-submarine aircraft carrier. Je primárně určen pro vojenské letecké mise, včetně boje proti ponorkám, výsadkových operací a podpůrné letecké podpory." # todo: NEW TRANSLATION
+ GENERIC_aircraft_carriers: "Letadlové lodě" # todo: NEW TRANSLATION
+ GENERIC_aircraft_carriers_desc: "Letadlová loď je válečná loď sloužící jako plovoucí letecká základna, vybavena plnohodnotnou palubou pro vzlety a přistání a zařízení pro nesení, vyzbrojování, nasazování a záchranu letounů." # todo: NEW TRANSLATION
+ GENERIC_naval_doctrine_expertise: "Odbornost námořní doktríny" # todo: NEW TRANSLATION
+ GENERIC_naval_doctrine_expertise_desc: "Integrací každého prvku moderní námořní doktríny do souboru vzájemně provázaných taktik způsobíme, že i největší námořní velmoci budou třást naší zručností." # todo: NEW TRANSLATION
+ GENERIC_vessel_production: "Stavba lodí" # todo: NEW TRANSLATION
+ GENERIC_vessel_production_desc: "Může být možné zvýšit tempo námořní produkce optimalizací papírování v loděnicích a podporou námořní kultury ve pobřežních státech." # todo: NEW TRANSLATION
+ GENERIC_air_force_reform: "Reforma letectva" # todo: NEW TRANSLATION
+ GENERIC_air_force_reform_desc: "Pod zásadou, že národ ovládající své nebe ovládá i své území, musíme usilovat o modernizaci všech doktrín týkajících se letectví." # todo: NEW TRANSLATION
+ GENERIC_fighter_planes: "Stíhací letouny" # todo: NEW TRANSLATION
+ GENERIC_fighter_planes_desc: "Stíhací letouny jsou navrženy pro souboje vzduch–vzduch. Jsou hlavní cestou, jak naše letectvo získá nadvládu v jakémkoliv boji ve vzdušném prostoru." # todo: NEW TRANSLATION
+ GENERIC_air_doctrine_innovations: "Inovace letecké doktríny" # todo: NEW TRANSLATION
+ GENERIC_air_doctrine_innovations_desc: "Letecká doktrína se mění stejně rychle jako naše i nepřátelovy technologie, vyvíjí se a vyvíjí spolu s ní. Je na čase proces urychlit." # todo: NEW TRANSLATION
+ GENERIC_capital_defense_scheme: "Schéma obrany hlavního města" # todo: NEW TRANSLATION
+ GENERIC_capital_defense_scheme_desc: "Zavedení důkladnějšího schématu obrany proti letadlům a dalším vzdušným hrozbám zajistí, že naši lidé budou od nynějška i navěky cítit bezpečí." # todo: NEW TRANSLATION
+ GENERIC_capital_defense_scheme_tt: "Získá §G1§! §YStavbu protiletecké obrany§! v §Ynáhodně vlastněném státě§!" # todo: NEW TRANSLATION
+ GENERIC_defense_scheme_beta: "Pokročilé schéma obrany hlavního města" # todo: NEW TRANSLATION
+ GENERIC_defense_scheme_beta_desc: "Ještě více zlepšit obranu našeho hlavního města, aby nebyly žádné problémy za žádných okolností." # todo: NEW TRANSLATION
+ GENERIC_defense_scheme_beta_tt: "Získá §G1§! §YStavbu protiletecké obrany§! v §Ynáhodně vlastněném státě§!" # todo: NEW TRANSLATION
+ GENERIC_countermeasures_against_aircraft: "Protiletecké prostředky" # todo: NEW TRANSLATION
+ GENERIC_countermeasures_against_aircraft_desc: "Pokud chceme bránit naši zemi proti potenciálně vzdušně nadřazeným protivníkům, musíme se zaměřit na technologii protiletecké obrany." # todo: NEW TRANSLATION
+ GENERIC_bomber_planes: "Bombardovací letouny" # todo: NEW TRANSLATION
+ GENERIC_bomber_planes_desc: "Strategické bombardování s využitím bombardovacích letounů bude demoralizovat nepřítele a poškozovat jeho logistickou síť, i v dnešní době nepravidelné dopravy. Při ofenzívě je to priorita." # todo: NEW TRANSLATION
+ GENERIC_drones: "Drony" # todo: NEW TRANSLATION
+ GENERIC_drones_desc: "Technologie bezpilotních létajících prostředků (UAV) nám umožní bombardovat, likvidovat a zasahovat daleké cíle, ať už lidi či infrastrukturu, aniž bychom ztratili žádnou personální sílu, protože drony jsou dálkově ovládané." # todo: NEW TRANSLATION
+ GENERIC_air_doctrine_expertise: "Odbornost letecké doktríny" # todo: NEW TRANSLATION
+ GENERIC_air_doctrine_expertise_desc: "Naše letectvo je nyní skutečně jedním z těch, na které se musí brát ohled - a stejně tak i taktiky, které používáme. Pokračováním v modernizaci a vývoji naší doktríny nám umožníme ovládat vzdušný prostor způsoby, o nichž se dřív ani nesnilo." # todo: NEW TRANSLATION
+ GENERIC_army_reform: "Armádní reformy" # todo: NEW TRANSLATION
+ GENERIC_army_reform_desc: "Reforma armády bude první prioritou, bez silné armády nemůžeme bránit naši zemi." # todo: NEW TRANSLATION
+ GENERIC_military_emergency: "Vojenská pohotovost" # todo: NEW TRANSLATION
+ GENERIC_military_emergency_desc: "Boje situace se pro nás staly extrémně nepříznivými. Nemáme na výběr, než vyhlásit pohotovost a soustředit veškerou naši sílu, abychom překonali potíže." # todo: NEW TRANSLATION
+ GENERIC_military_equipment_procurement: "Nákup vojenské techniky" # todo: NEW TRANSLATION
+ GENERIC_military_equipment_procurement_desc: "Bez dostatku zbraní by naše armáda měla potíže splnit jakýkoliv úkol, proto jsme zahájili nouzový nákup zbraní." # todo: NEW TRANSLATION
+ GENERIC_land_doctrine_innovations: "Inovace pozemních doktrín" # todo: NEW TRANSLATION
+ GENERIC_land_doctrine_innovations_desc: "Moderní válka vyžaduje adaptaci. Aktualizací našich doktrín novými strategiemi a technologiemi zajistíme, že naše síly zůstanou účinné a připravené na budoucí konflikty." # todo: NEW TRANSLATION
+ GENERIC_military_exercises: "Vojenské cvičení" # todo: NEW TRANSLATION
+ GENERIC_military_exercises_desc: "Intenzivní drily zvyšují bojovou pohotovost a koordinaci jednotek, zajišťují, že naše síly budou při tlaku fungovat bezchybně." # todo: NEW TRANSLATION
+ GENERIC_military_education_reform: "Reforma vojenského vzdělávání" # todo: NEW TRANSLATION
+ GENERIC_military_education_reform_desc: "Modernizace vojenského vzdělávání vytváří silnější vůdce, ostřejší stratégů a sílu schopnou čelit současným výzvám." # todo: NEW TRANSLATION
+ GENERIC_infantry_equipment_development: "Vývoj výstroje pěchoty" # todo: NEW TRANSLATION
+ GENERIC_infantry_equipment_development_desc: "Pokročilý vývoj výstroje pro pěchotu zajišťuje, že naši vojáci mají špičkové nástroje, zvyšující jejich účinnost a přežití na bojišti." # todo: NEW TRANSLATION
+ GENERIC_land_doctrine_expertise: "Odbornost pozemních doktrín" # todo: NEW TRANSLATION
+ GENERIC_land_doctrine_expertise_desc: "Prohlubování našeho porozumění moderním pozemním doktrínám nám umožňuje maximalizovat efektivitu na bojišti a předstihnout jakéhokoliv protivníka." # todo: NEW TRANSLATION
+ GENERIC_artillery_experiments: "Dělostřelecké experimenty" # todo: NEW TRANSLATION
+ GENERIC_artillery_experiments_desc: "Testování nových dělostřeleckých systémů a technik zlepšuje přesnost, palebnou sílu a adaptabilitu na moderním bojišti." # todo: NEW TRANSLATION
+ GENERIC_uniform_improvements: "Vylepšení uniforem" # todo: NEW TRANSLATION
+ GENERIC_uniform_improvements_desc: "Vylepšení vojenských uniform zvyšuje pohodlí, odolnost a přizpůsobivost různým bojovým prostředím." # todo: NEW TRANSLATION
+ GENERIC_self_propelled_artillery: "Samohybná dělostřelecká jednotka" # todo: NEW TRANSLATION
+ GENERIC_self_propelled_artillery_desc: "Propojením pohyblivosti s palebnou silou zajistíme, že naše dělostřelectvo může rychle podporovat postupující jednotky a reagovat na měnící se bojové linie." # todo: NEW TRANSLATION
+ GENERIC_develop_armor_prototypes: "Vyvíjet prototypy obrněných vozidel" # todo: NEW TRANSLATION
+ GENERIC_develop_armor_prototypes_desc: "Návrh prototypů obrněných vozidel posiluje naši schopnost ovládnout pozemní boje díky nadřazené palebné síle a ochraně." # todo: NEW TRANSLATION
+ GENERIC_countermeasures_against_armored_units: "Protizbraňová opatření proti obrněným jednotkám" # todo: NEW TRANSLATION
+ GENERIC_countermeasures_against_armored_units_desc: "Vyvíjení účinných taktik a zbraní pro protiopatření obrněných jednotek zajistí, že budeme moci účinně neutralizovat jejich těžká vozidla." # todo: NEW TRANSLATION
+ GENERIC_expand_the_strategic_reserves: "Rozšíření strategických rezerv" # todo: NEW TRANSLATION
+ GENERIC_expand_the_strategic_reserves_desc: "Na základě našich národních palivových rezerv můžeme dále rozšířit strategické zásoby a zajistit energetickou bezpečnost v dobách krize. Dodatečná palivová sila ochrání naše hospodářské i vojenské operace." # todo: NEW TRANSLATION
+ GENERIC_subsistence_agriculture_investments: "Investice do samozásobitelského zemědělství" # todo: NEW TRANSLATION
+ GENERIC_subsistence_agriculture_investments_desc: "Podpora drobného samozásobitelského zemědělství zajistí potravinovou bezpečnost venkovských komunit a zachová tradiční zemědělské postupy v celé zemi." # todo: NEW TRANSLATION
+ GENERIC_focus_towards_the_subsistence: "Zaměření na samozásobitelství" # todo: NEW TRANSLATION
+ GENERIC_focus_towards_the_subsistence_desc: "Upřednostněním samozásobitelského zemědělství můžeme posílit soběstačnost venkova a zajistit, aby naše zemědělství zůstalo stabilní a odolné." # todo: NEW TRANSLATION
+ GENERIC_commercialized_agriculture_investments: "Investice do komerčního zemědělství" # todo: NEW TRANSLATION
+ GENERIC_commercialized_agriculture_investments_desc: "Investice do mechanizovaného a komerčního zemědělství zvýší produktivitu a promění naše zemědělství v moderní průmyslové odvětví zaměřené na vývoz." # todo: NEW TRANSLATION
+ GENERIC_encourage_more_commercial_agriculture: "Podpora komerčního zemědělství" # todo: NEW TRANSLATION
+ GENERIC_encourage_more_commercial_agriculture_desc: "Další modernizace našeho zemědělství prostřednictvím komerčních zemědělských postupů zvýší produkci a učiní nás konkurenceschopnými na světových trzích s potravinami." # todo: NEW TRANSLATION
+ GENERIC_a_new_breadbasket: "Nová obilnice" # todo: NEW TRANSLATION
+ GENERIC_a_new_breadbasket_desc: "Úplnou modernizací naší zemědělské infrastruktury a postupů se [Root.GetNameDef] může stát významným producentem potravin, který uživí naše obyvatelstvo a bude vyvážet do celého světa." # todo: NEW TRANSLATION
+ GENERIC_microchip_research_and_development: "Výzkum a vývoj mikročipů" # todo: NEW TRANSLATION
+ GENERIC_microchip_research_and_development_desc: "Polovodičové technologie jsou základem moderní elektroniky a výpočetní techniky. Investice do výzkumu mikročipů posílí naše technologické schopnosti a sníží závislost na zahraničních dodavatelích." # todo: NEW TRANSLATION
+ GENERIC_microchip_domestic_production: "Domácí výroba mikročipů" # todo: NEW TRANSLATION
+ GENERIC_microchip_domestic_production_desc: "Zřízení domácích výrobních závodů na mikročipy zajistí náš technologický dodavatelský řetězec a umožní [Root.GetNameDef] prosadit se v globálním polovodičovém průmyslu." # todo: NEW TRANSLATION
+ GENERIC_synthetic_refinery_expansion: "Rozšíření syntetických rafinerií" # todo: NEW TRANSLATION
+ GENERIC_synthetic_refinery_expansion_desc: "Rozšíření našich výrobních kapacit syntetických materiálů zajistí přístup ke klíčovým materiálům pro civilní i vojenský průmysl, a to i v dobách narušení dodávek." # todo: NEW TRANSLATION
+ GENERIC_military_industry_investment_projects: "Investiční projekty vojenského průmyslu" # todo: NEW TRANSLATION
+ GENERIC_military_industry_investment_projects_desc: "Velké investiční projekty v našem obranném průmyslu rozšíří naši kapacitu pro výrobu vojenského vybavení a posílí naši průmyslovou základnu." # todo: NEW TRANSLATION
+ GENERIC_hydroelectric_energy_expansion: "Rozšíření vodní energetiky" # todo: NEW TRANSLATION
+ GENERIC_hydroelectric_energy_expansion_desc: "Využití síly našich vodních toků prostřednictvím vodních elektráren poskytne čistou, obnovitelnou energii a zároveň sníží naši závislost na fosilních palivech." # todo: NEW TRANSLATION
+ GENERIC_geothermal_energy_expansion: "Rozšíření geotermální energetiky" # todo: NEW TRANSLATION
+ GENERIC_geothermal_energy_expansion_desc: "Využití geotermálních zdrojů energie zajistí spolehlivou a udržitelnou výrobu elektřiny a rozšíří naše portfolio obnovitelných zdrojů." # todo: NEW TRANSLATION
+ GENERIC_battery_park_investments: "Investice do bateriových parků" # todo: NEW TRANSLATION
+ GENERIC_battery_park_investments_desc: "Velkokapacitní úložiště energie nám umožní efektivně uchovávat obnovitelnou energii a zajistit stabilní dodávky elektřiny, i když nesvítí slunce nebo nefouká vítr." # todo: NEW TRANSLATION
+ GENERIC_nuclear_energy_expansions_two: "Další rozšíření jaderné energetiky" # todo: NEW TRANSLATION
+ GENERIC_nuclear_energy_expansions_two_desc: "Pokračování našeho jaderného programu výstavbou dalších reaktorů poskytne po desetiletí dostatek bezuhlíkové elektřiny." # todo: NEW TRANSLATION
+ GENERIC_reinforced_electric_grid: "Posílená elektrická síť" # todo: NEW TRANSLATION
+ GENERIC_reinforced_electric_grid_desc: "Posílení a zpevnění infrastruktury naší elektrické sítě zajistí spolehlivou distribuci energie a sníží riziko výpadků v celé zemi." # todo: NEW TRANSLATION
+ GENERIC_high_capacity_electric_grid: "Vysokokapacitní elektrická síť" # todo: NEW TRANSLATION
+ GENERIC_high_capacity_electric_grid_desc: "Modernizace na vysokokapacitní elektrickou síť nám umožní zvládnout rostoucí spotřebu energie způsobenou průmyslovým růstem a elektrifikací dopravy." # todo: NEW TRANSLATION
+ GENERIC_targeted_pension_fund_investments: "Cílené investice do penzijních fondů" # todo: NEW TRANSLATION
+ GENERIC_targeted_pension_fund_investments_desc: "Strategické investice do penzijních fondů zajistí důchod našich občanů a zároveň stabilizují naše programy sociálního zabezpečení." # todo: NEW TRANSLATION
+ GENERIC_emphasize_separation_of_church_and_state: "Oddělení církve od státu" # todo: NEW TRANSLATION
+ GENERIC_emphasize_separation_of_church_and_state_desc: "Zdůraznění oddělení náboženských institucí od vlády modernizuje náš politický systém a zajistí rovné zacházení s občany všech vyznání." # todo: NEW TRANSLATION
+ GENERIC_artificial_intelligence_investments: "Investice do umělé inteligence" # todo: NEW TRANSLATION
+ GENERIC_artificial_intelligence_investments_desc: "Umělá inteligence představuje budoucnost technologií. Investice do jejího výzkumu a vývoje postaví [Root.GetNameDef] do čela tohoto revolučního oboru." # todo: NEW TRANSLATION
+ GENERIC_large_ship_drydocks: "Velké lodní doky" # todo: NEW TRANSLATION
+ GENERIC_large_ship_drydocks_desc: "Výstavba specializovaných suchých doků schopných stavět a udržovat velké válečné lodě, včetně letadlových a výsadkových lodí, posílí naše schopnosti v oblasti stavby válečných plavidel." # todo: NEW TRANSLATION
+ GENERIC_improved_repair_facilities: "Vylepšená opravárenská zařízení" # todo: NEW TRANSLATION
+ GENERIC_improved_repair_facilities_desc: "Modernizace našich námořních opravárenských zařízení zkrátí dobu údržby a udrží naši flotilu neustále v provozu a připravenou k boji." # todo: NEW TRANSLATION
+ GENERIC_composite_industrial_expansion: "Rozšíření průmyslu kompozitních materiálů" # todo: NEW TRANSLATION
+ GENERIC_composite_industrial_expansion_desc: "Rozšíření našeho průmyslu kompozitních materiálů poskytne pokročilé materiály pro výrobu letecké techniky, lodí a obrněných vozidel." # todo: NEW TRANSLATION
+ GENERIC_weapon_conversion_packages: "Konverzní balíčky pro zbraně" # todo: NEW TRANSLATION
+ GENERIC_weapon_conversion_packages_desc: "Vývoj modulárních konverzních balíčků pro zbraně nám umožní rychle modernizovat a přizpůsobovat naše stávající vojenské systémy novým hrozbám a technologiím." # todo: NEW TRANSLATION
+ GENERIC_convoy_and_freighter_production: "Výroba konvojů a nákladních lodí" # todo: NEW TRANSLATION
+ GENERIC_convoy_and_freighter_production_desc: "Rozšíření výroby obchodních plavidel a doprovodných lodí zajistí naše námořní obchodní trasy a ochrání životně důležité zásobovací linie za války." # todo: NEW TRANSLATION
+ GENERIC_establish_a_marine_corps: "Zřízení námořní pěchoty" # todo: NEW TRANSLATION
+ GENERIC_establish_a_marine_corps_desc: "Vytvoření specializovaných jednotek námořní pěchoty zaměřených na obojživelné operace nám poskytne schopnost promítat sílu z moře a provádět složité výsadkové operace." # todo: NEW TRANSLATION
+ GENERIC_submarine_expansion_project: "Projekt rozšíření ponorkového loďstva" # todo: NEW TRANSLATION
+ GENERIC_submarine_expansion_project_desc: "Rozšíření naší ponorkové flotily o moderní plavidla posílí naše schopnosti podmořského boje a poskytne mocný odstrašující prostředek proti potenciálním protivníkům." # todo: NEW TRANSLATION
+ GENERIC_stealth_ships: "Stealthové lodě" # todo: NEW TRANSLATION
+ GENERIC_stealth_ships_desc: "Vývoj stealthových námořních technologií sníží radarový podpis našich lodí a poskytne zásadní taktickou výhodu v moderním námořním boji." # todo: NEW TRANSLATION
+ GENERIC_air_base: "Výstavba leteckých základen" # todo: NEW TRANSLATION
+ GENERIC_air_base_desc: "Výstavba nových leteckých základen a rozšíření stávajících zařízení poskytne infrastrukturu potřebnou k podpoře moderního letectva a projekci vzdušné síly v celém regionu." # todo: NEW TRANSLATION
+ GENERIC_satellite_programs: "Satelitní programy" # todo: NEW TRANSLATION
+ GENERIC_satellite_programs_desc: "Rozvoj vojenských satelitních schopností poskytne našim ozbrojeným silám průzkumnou, komunikační a navigační podporu a zajistí nám zásadní informační převahu." # todo: NEW TRANSLATION
+ GENERIC_air_base_expansion_plan: "Plán rozšíření leteckých základen" # todo: NEW TRANSLATION
+ GENERIC_air_base_expansion_plan_desc: "Komplexní rozšíření sítě našich leteckých základen zvýší náš operační dosah a umožní nám účinněji nasazovat vzdušnou sílu na celém našem území." # todo: NEW TRANSLATION
+ GENERIC_air_base_expansion_plan_two: "Pokročilé rozšíření leteckých základen" # todo: NEW TRANSLATION
+ GENERIC_air_base_expansion_plan_two_desc: "Další rozšíření a modernizace našich leteckých základen vytvoří prvotřídní infrastrukturu vojenského letectví schopnou podporovat nejmodernější letouny." # todo: NEW TRANSLATION
+ GENERIC_domestic_drone_production: "Domácí výroba dronů" # todo: NEW TRANSLATION
+ GENERIC_domestic_drone_production_desc: "Zřízení domácích výrobních zařízení pro bezpilotní letouny zajistí naše dodávky těchto klíčových systémů a umožní nám přizpůsobit drony našim konkrétním operačním potřebám." # todo: NEW TRANSLATION
+ GENERIC_domestic_helicopter_production: "Domácí výroba vrtulníků" # todo: NEW TRANSLATION
+ GENERIC_domestic_helicopter_production_desc: "Rozvoj domácí výroby vrtulníků poskytne našim silám spolehlivé transportní a víceúčelové vrtulníky a zároveň vybuduje náš letecký průmysl." # todo: NEW TRANSLATION
+ GENERIC_domestic_attack_helicopter_production: "Výroba bitevních vrtulníků" # todo: NEW TRANSLATION
+ GENERIC_domestic_attack_helicopter_production_desc: "Domácí výroba bitevních vrtulníků poskytne našim silám účinné schopnosti blízké letecké podpory a posílí náš vojenský letecký sektor." # todo: NEW TRANSLATION
+ GENERIC_develop_air_cavalry_doctrines: "Doktríny leteckého jezdectva" # todo: NEW TRANSLATION
+ GENERIC_develop_air_cavalry_doctrines_desc: "Rozvoj specializované taktiky leteckého jezdectva maximalizuje účinnost našich vrtulníkových sil při rychlých útocích, průzkumu a palebné podpoře." # todo: NEW TRANSLATION
+ GENERIC_manpads: "Přenosné protiletadlové systémy" # todo: NEW TRANSLATION
+ GENERIC_manpads_desc: "Vybavení pěchoty přenosnými protiletadlovými systémy poskytne jednotkám v první linii schopnost bránit se proti nepřátelským letounům a vrtulníkům." # todo: NEW TRANSLATION
+ GENERIC_paratrooper_corps: "Výsadkový sbor" # todo: NEW TRANSLATION
+ GENERIC_paratrooper_corps_desc: "Zřízení elitního výsadkového sboru nám poskytne schopnost rychlého nasazení a možnost obsazovat klíčové cíle za nepřátelskými liniemi." # todo: NEW TRANSLATION
+ GENERIC_to_conscript_or_not_to_conscript: "Otázka branné povinnosti" # todo: NEW TRANSLATION
+ GENERIC_to_conscript_or_not_to_conscript_desc: "Otázka vojenské branné povinnosti namísto plně dobrovolnické armády je zásadní pro naši obrannou politiku. Musíme pečlivě zvážit, který přístup nejlépe poslouží našim potřebám národní bezpečnosti." # todo: NEW TRANSLATION
+ GENERIC_utility_vehicles: "Víceúčelová vozidla" # todo: NEW TRANSLATION
+ GENERIC_utility_vehicles_desc: "Modernizace parku víceúčelových vozidel naší armády zlepší logistiku, mobilitu a operační účinnost našich pozemních sil." # todo: NEW TRANSLATION
+ GENERIC_special_forces_training_programmes: "Výcvikové programy speciálních sil" # todo: NEW TRANSLATION
+ GENERIC_special_forces_training_programmes_desc: "Zřízení komplexních výcvikových programů pro speciální síly vytvoří elitní jednotky schopné vést nekonvenční válku, bojovat proti terorismu a provádět vysoce rizikové operace." # todo: NEW TRANSLATION
+ GENERIC_rangers_and_light_infantry: "Rangers a lehká pěchota" # todo: NEW TRANSLATION
+ GENERIC_rangers_and_light_infantry_desc: "Specializace na taktiku lehké pěchoty a jednotek rangerů vytvoří vysoce mobilní a přizpůsobivé síly schopné působit v rozmanitém terénu a náročných podmínkách." # todo: NEW TRANSLATION
+ GENERIC_specialized_mechanized_battalions: "Specializované mechanizované prapory" # todo: NEW TRANSLATION
+ GENERIC_specialized_mechanized_battalions_desc: "Vytvoření specializovaných mechanizovaných praporů spojí pěchotu s obrněnými bojovými vozidly a umožní účinné operace kombinovaných zbraní." # todo: NEW TRANSLATION
+ GENERIC_self_propelled_anti_air: "Samohybné protiletadlové systémy" # todo: NEW TRANSLATION
+ GENERIC_self_propelled_anti_air_desc: "Vývoj mobilních protiletadlových systémů poskytne našim pozemním silám protivzdušnou obranu, která udrží krok s postupujícími jednotkami a ochrání je před vzdušnými hrozbami." # todo: NEW TRANSLATION
+ GENERIC_counter_terrorism_operations: "Protiteroristické operace" # todo: NEW TRANSLATION
+ GENERIC_counter_terrorism_operations_desc: "Zřízení specializovaných protiteroristických jednotek a protokolů pro sdílení zpravodajských informací umožní odhalovat a likvidovat hrozby dříve, než se projeví." # todo: NEW TRANSLATION
+ GENERIC_cyber_warfare_program: "Program kybernetického válčení" # todo: NEW TRANSLATION
+ GENERIC_cyber_warfare_program_desc: "Investice do útočných i obranných kybernetických schopností včetně šifrované komunikace a protiopatření proti průnikům do sítí." # todo: NEW TRANSLATION

@@ -1,35 +1,41 @@
 ﻿l_english:
-  STAT_NAVY_SUB_VISIBILITY: "Skrytí ponorky: " # todo: NEW TRANSLATION
-  STAT_NAVY_SUB_VISIBILITY_DESC: "Jak tichá a nenápadná je ponorka." # todo: NEW TRANSLATION
-  STAT_NAVY_SHORE_BOMBARDMENT: "Schopnost výsadku: " # todo: NEW TRANSLATION
-  STAT_NAVY_SHORE_BOMBARDMENT_DESC: "Schopnost lodí podporovat naloděné jednotky při vyloděních a bojích na přilehlém pobřeží, když jsou na misi Držet pozici." # todo: NEW TRANSLATION
-  STAT_NAVY_MISSION_COVERAGE: "Efektivita detekce nepřítele: " # todo: NEW TRANSLATION
-  STAT_NAVY_MISSION_COVERAGE_DESC: "§TJak efektivní je loď v odhalování nepřátel. Každá loď přidává svou účinnost detekce.§!" # todo: NEW TRANSLATION
-  STAT_NAVY_FIRE_RANGE_DESC: "Dosah hlavních raket lodi." # todo: NEW TRANSLATION
-  STAT_NAVY_EVASION: "Bodové obranné zbraně: " # todo: NEW TRANSLATION
-  STAT_NAVY_EVASION_DESC: "Schopnost lodí vyhnout se nepřátelským zásahům pomocí světlic, CIWS a dalších protiopatření. Menší lodě mají přirozeně větší pravděpodobnost vyhnout se zásahům." # todo: NEW TRANSLATION
-  STAT_NAVY_SUB_ATTACK: "Proti ponorkové boje: " # todo: NEW TRANSLATION
-  STAT_NAVY_SUB_ATTACK_DESC: "Kolik poškození dokážeme způsobit nepřátelským ponorkám." # todo: NEW TRANSLATION
-  STAT_NAVY_ATTACK: "Raketová palebná síla: " # todo: NEW TRANSLATION
-  STAT_NAVY_ATTACK_DESC: "Kolik a jak výkonné protilodní rakety máme." # todo: NEW TRANSLATION
-  STAT_NAVY_ANTI_AIR_ATTACK_DESC: "Kolik a jak výkonné protiletecké rakety máme k zasahování nepřátelských letadel." # todo: NEW TRANSLATION
-  STAT_NAVY_ANTI_AIR_TARGETTING_DESC: "Jak dobře může radar lodi sledovat a cílit na nepřátelská letadla." # todo: NEW TRANSLATION
-  STAT_AIR_RANGE: "Dolet: " # todo: NEW TRANSLATION
-  STAT_AIR_AGILITY: "Výhoda radaru: " # todo: NEW TRANSLATION
-  STAT_AIR_AGILITY_DESC: "Jak stealth vlastnosti letounu, avionika, zbraňové systémy a výcvik pilotů dávají výhodu v boji na dálku (BVR) i při uzavírání souboje." # todo: NEW TRANSLATION
-  STAT_AIR_DEFENCE: "Protiletecká obrana: " # todo: NEW TRANSLATION
-  STAT_AIR_DEFENCE_DESC: "Schopnost letounu odlákat a/nebo přelstít manévrem nebo fyzicky zneškodnit přilétající hrozbu." # todo: NEW TRANSLATION
-  STAT_NAVY_RAIDING_COORDINATION: "Koordinace nájezdů: " # todo: NEW TRANSLATION
-  STAT_NAVY_PATROL_COORDINATION: "Koordinace hlídek: " # todo: NEW TRANSLATION
-  STAT_NAVY_TORPEDO_ATTACK: "Torpéda: " # todo: NEW TRANSLATION
-  STAT_NAVY_TORPEDO_ATTACK_DESC: "Kolik poškození dokážeme způsobit při použití torpéd lodi." # todo: NEW TRANSLATION
-  STAT_NAVY_HG_ATTACK: "Protilodní rakety: " # todo: NEW TRANSLATION
-  STAT_NAVY_HG_ATTACK_DESC: "Množství poškození a útoku, které mohou protilodní rakety způsobit nepřátelským lodím." # todo: NEW TRANSLATION
-  STAT_NAVY_HG_ARMOR_PIERCING: "Průbojnost protilodních raket: " # todo: NEW TRANSLATION
-  STAT_NAVY_HG_ARMOR_PIERCING_DESC: "Tento ukazatel představuje, jak dobře budou útoky protilodních raket schopné prorazit nepřátelské bodové obrany a pancíř." # todo: NEW TRANSLATION
-  STAT_NAVY_LG_ATTACK: "Dělostřelecký útok: " # todo: NEW TRANSLATION
-  STAT_NAVY_LG_ATTACK_DESC: "Poškození způsobené námořním dělostřelectvem, automatickými kanony a kulomety; toto je také hodnota pro bombardování pobřeží." # todo: NEW TRANSLATION
-  STAT_NAVY_LG_ARMOR_PIERCING: "Průbojnost lehkých zbraní: " # todo: NEW TRANSLATION
-  STAT_NAVY_LG_ARMOR_PIERCING_DESC: "Průbojnost lehkých děl; vyšší hodnoty průbojnosti zvyšují šanci na kritické zásahy, zatímco hodnoty průbojnosti nižší než nepřátelský pancíř výrazně snižují poškození." # todo: NEW TRANSLATION
-  STAT_NAVY_SURFACE_VISIBILITY: "Povrchová viditelnost: " # todo: NEW TRANSLATION
-  STAT_NAVY_SURFACE_VISIBILITY_DESC: "Jak obtížné je tuto loď najít a zasáhnout; nižší hodnoty zvyšují šanci na přežití a zároveň činí loď méně viditelnou." # todo: NEW TRANSLATION
+ STAT_NAVY_SUB_VISIBILITY: "£sub_visibility_texticon  Viditelnost ponorky: " # todo: CHANGED
+ STAT_NAVY_SUB_VISIBILITY_DESC: "Jak snadné je odhalit ponorku." # todo: CHANGED
+ STAT_NAVY_SHORE_BOMBARDMENT: "Schopnost výsadku: " # todo: NEW TRANSLATION
+ STAT_NAVY_SHORE_BOMBARDMENT_DESC: "Schopnost lodí podporovat naloděné jednotky při vyloděních a bojích na přilehlém pobřeží, když jsou na misi Držet pozici." # todo: NEW TRANSLATION
+ STAT_NAVY_MISSION_COVERAGE: "Efektivita detekce nepřítele: " # todo: NEW TRANSLATION
+ STAT_NAVY_MISSION_COVERAGE_DESC: "§TJak efektivní je loď v odhalování nepřátel. Každá loď přidává svou účinnost detekce.§!" # todo: NEW TRANSLATION
+ STAT_NAVY_FIRE_RANGE_DESC: "Dosah hlavních raket lodi." # todo: NEW TRANSLATION
+ STAT_NAVY_EVASION: "Bodové obranné zbraně: " # todo: NEW TRANSLATION
+ STAT_NAVY_EVASION_DESC: "Schopnost lodí vyhnout se nepřátelským zásahům pomocí světlic, CIWS a dalších protiopatření. Menší lodě mají přirozeně větší pravděpodobnost vyhnout se zásahům." # todo: NEW TRANSLATION
+ STAT_NAVY_SUB_ATTACK: "£depth_charge_texticon  Protiponorkový boj: " # todo: CHANGED
+ STAT_NAVY_SUB_ATTACK_DESC: "Kolik poškození dokážeme způsobit nepřátelským ponorkám." # todo: NEW TRANSLATION
+ STAT_NAVY_ATTACK: "£attack_texticon  Síla raketové palby: " # todo: CHANGED
+ STAT_NAVY_ATTACK_DESC: "Kolik a jak výkonné protilodní rakety máme." # todo: NEW TRANSLATION
+ STAT_NAVY_ANTI_AIR_ATTACK_DESC: "Kolik a jak výkonné protiletecké rakety máme k zasahování nepřátelských letadel." # todo: NEW TRANSLATION
+ STAT_NAVY_ANTI_AIR_TARGETTING_DESC: "Jak dobře může radar lodi sledovat a cílit na nepřátelská letadla." # todo: NEW TRANSLATION
+ STAT_AIR_RANGE: "£air_range_texticon  Dolet: " # todo: CHANGED
+ STAT_AIR_AGILITY: "£speed_intercept_texticon  Výhoda radaru: " # todo: CHANGED
+ STAT_AIR_AGILITY_DESC: "Jak stealth vlastnosti letounu, avionika, zbraňové systémy a výcvik pilotů dávají výhodu v boji na dálku (BVR) i při uzavírání souboje." # todo: NEW TRANSLATION
+ STAT_COMMON_ARMOR: "£armor_texticon  Pancéřování: " # todo: NEW TRANSLATION # todo: MOVED KEY
+ STAT_AIR_DEFENCE: "£defence_air_texticon  Protivzdušná obrana: " # todo: CHANGED
+ STAT_AIR_DEFENCE_DESC: "Schopnost letounu odlákat a/nebo přelstít manévrem nebo fyzicky zneškodnit přilétající hrozbu." # todo: NEW TRANSLATION
+ STAT_NAVY_RAIDING_COORDINATION: "£coordination_texticon  Koordinace nájezdů: " # todo: CHANGED
+ STAT_NAVY_PATROL_COORDINATION: "£coordination_texticon  Koordinace hlídek: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_ATTACK: "£torpedo_texticon  Torpéda: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_ATTACK_DESC: "Kolik poškození dokážeme způsobit při použití torpéd lodi." # todo: NEW TRANSLATION
+ STAT_NAVY_HG_ATTACK: "£rocket_modifiericons_texticon  Protilodní střely: " # todo: CHANGED
+ STAT_NAVY_HG_ATTACK_DESC: "Množství poškození a útoku, které mohou protilodní rakety způsobit nepřátelským lodím." # todo: NEW TRANSLATION
+ STAT_NAVY_HG_ARMOR_PIERCING: "£rocket_modifiericons_texticon  Průbojnost protilodních střel: " # todo: CHANGED
+ STAT_NAVY_HG_ARMOR_PIERCING_DESC: "Tento ukazatel představuje, jak dobře budou útoky protilodních raket schopné prorazit nepřátelské bodové obrany a pancíř." # todo: NEW TRANSLATION
+ STAT_NAVY_LG_ATTACK: "£naval_battery2_texticon  Dělostřelecký útok: " # todo: CHANGED
+ STAT_NAVY_LG_ATTACK_DESC: "Poškození způsobené námořním dělostřelectvem, automatickými kanony a kulomety; toto je také hodnota pro bombardování pobřeží." # todo: NEW TRANSLATION
+ STAT_NAVY_LG_ARMOR_PIERCING: "£piercing_texticon  Průbojnost děl: " # todo: CHANGED
+ STAT_NAVY_LG_ARMOR_PIERCING_DESC: "Průbojnost lehkých děl; vyšší hodnoty průbojnosti zvyšují šanci na kritické zásahy, zatímco hodnoty průbojnosti nižší než nepřátelský pancíř výrazně snižují poškození." # todo: NEW TRANSLATION
+ STAT_NAVY_SURFACE_VISIBILITY: "£surface_visibility_texticon  Viditelnost na hladině: " # todo: CHANGED
+ STAT_NAVY_SURFACE_VISIBILITY_DESC: "Jak obtížné je tuto loď najít a zasáhnout; nižší hodnoty zvyšují šanci na přežití a zároveň činí loď méně viditelnou." # todo: NEW TRANSLATION
+ STAT_NAVY_WEATHER_PENALTY: "£weather_texticon  Postih počasí: " # todo: NEW TRANSLATION
+ CARRIER_SORTIE_EFFICIENCY_FACTOR: "£sortie_efficiency_texticon  Efektivita výpadů" # todo: NEW TRANSLATION
+ MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR: "£naval_battery_texticon  Vedlejší škody při ostřelování pobřeží" # todo: NEW TRANSLATION
+ shore_bombardment_collateral_damage_factor: "£naval_battery_texticon  Vedlejší škody při ostřelování pobřeží" # todo: NEW TRANSLATION
+ MODIFIER_ARMY_RETREAT_SPEED_FACTOR: "£retreat_texticon  Rychlost ustupujících divizí" # todo: NEW TRANSLATION

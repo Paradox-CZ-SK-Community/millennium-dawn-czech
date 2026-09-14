@@ -1,0 +1,348 @@
+﻿l_english:
+ ANTARCTICA_ATCP_TITLE: "§CKonzultativní strany Antarktické smlouvy§!" # todo: NEW TRANSLATION
+ ANTARCTICA_CAP_TITLE: "§CŘádní členové Antarktické smlouvy§!" # todo: NEW TRANSLATION
+ ANTARCTICA_CCAS_TITLE: "CCAS" # todo: NEW TRANSLATION
+ ANTARCTICA_CCAS_TEXT: "Úmluva o zachování antarktických tuleňů (CCAS) je dohoda upravující lov tuleňů v Antarktidě. Byla založena v roce 1972 s cílem chránit populace tuleňů a zajistit udržitelné využívání jejich zdrojů." # todo: NEW TRANSLATION
+ ANTARCTICA_CCAMLR_TITLE: "CCAMLR" # todo: NEW TRANSLATION
+ ANTARCTICA_CCAMLR_TEXT: "Komise pro zachování živých mořských zdrojů Antarktidy (CCAMLR) je organizace odpovědná za ochranu mořského života v Jižním oceánu. Byla založena v roce 1982 s cílem spravovat a chránit jedinečný ekosystém Antarktidy." # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_TREATY_TEXT: "Připojit se ke smlouvě" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_TREATY_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_join_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_join_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_LEAVE_TREATY_TEXT: "Opustit smlouvu" # todo: NEW TRANSLATION
+ ANTARCTICA_LEAVE_TREATY_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_leave_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_leave_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_ATCP_TEXT: "Požádat o členství v ATCP" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_ATCP_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_join_atcp_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_join_atcp_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_SMALL_TREATY_TEXT: "Připojit se" # todo: NEW TRANSLATION
+ ANTARCTICA_LEAVE_SMALL_TREATY_TEXT: "Opustit" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_CCAS_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_join_ccas_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_join_ccas_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_LEAVE_CCAS_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_leave_ccas_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_leave_ccas_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_JOIN_CCAMLR_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_join_ccamlr_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_join_ccamlr_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_LEAVE_CCAMLR_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_treaty_leave_ccamlr_button_click_enabled]\n§YÚčinky:§!\n[!antarctica_treaty_leave_ccamlr_button_click]" # todo: NEW TRANSLATION
+ ANTARCTICA_OPEN_MAP_TEXT: "Otevřít/zavřít §Cmapu Antarktidy§!" # todo: NEW TRANSLATION
+ ANTARCTICA_OPEN_MAP_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_map_open_button_click_enabled]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_MARKER_TT: "Vybraná stanice: §Y[MD_antarctica_selected_station_name]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_FILTER_AMERICA: "Filtrovat Ameriku" # todo: NEW TRANSLATION
+ ANTARCTICA_FILTER_ASIA: "Filtrovat Asii/Oceánii" # todo: NEW TRANSLATION
+ ANTARCTICA_FILTER_EUROPE: "Filtrovat Evropu" # todo: NEW TRANSLATION
+ ANTARCTICA_FILTER_AFRICA: "Filtrovat Afriku" # todo: NEW TRANSLATION
+ ANTARCTICA_COUNTRY_VIEW_FLAG_TT: "Aktuálně vybraný stát je [?var:selected_antarctica_station_controller.GetNameWithFlag]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_TEXT: "§Y[MD_antarctica_selected_station_name]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SHOW_BP_TEXT: "Otevřít/zavřít plán" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SHOW_BP_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_show_blueprint_button_click_enabled]\n§YÚčinky:§!\nOtevře nebo zavře panel s plánem vybrané stanice." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_FIND_OR_CREATE_TEXT: "Nastavit/najít svou stanici" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_FIND_OR_CREATE_TEXT_DELAYED: "§YÚčinky:§!\nVybere vaši antarktickou stanici a otevře její plán.\n\nPokud žádnou stanici nekontrolujete, zahájí nastavení stanice ve vnitrozemské zóně.\n- Cena nastavení: §R$15.00b§! (během antarktické zimy dvojnásobná).\n- Doba nastavení: §Y45 dní§! (během antarktické zimy dvojnásobná).\n\nZbývající doba nastavení: §Y[?antarctica_station_setup_days_remaining|0]§! dní." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_FUEL_CAPACITY_TEXT: "[MD_antarctica_fuel_capacity_or_renewable]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_FUEL_CAPACITY_DAYS_TEXT: "Kapacita paliva: §Y[?selected_antarctica_station_output_fuel_capacity_days|0]§! dní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_BLACKOUT_TEXT: "Zdroj energie: §Rvýpadek proudu§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_FULL_RENEWABLE_TEXT: "Zdroj energie: §Gplně obnovitelná energie§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ENERGY_BALANCE_TEXT: "Energetická bilance: [?selected_antarctica_station_output_power|+0] kW / §Y[?selected_antarctica_station_output_power_total|0]§! kW" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_AVAILABLE_STAFF_TEXT: "Dostupný personál: [?selected_antarctica_station_output_required_staff|+0] / §Y[?selected_antarctica_station_output_total_staff|0]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_MAINTENANCE_COST_TEXT: "Náklady na údržbu: $$[?selected_antarctica_station_output_upkeep_cost|-]b" # todo: NEW TRANSLATION
+ antarctica_setup_cost_TT: "§YCena nastavení antarktické stanice:§! §R$[?setup_cost|.2]b§!" # todo: NEW TRANSLATION
+ antarctica_module_install_cost_TT: "§YCena instalace antarktického modulu:§! §R$[?selected_antarctica_station_selected_module_install_cost|.2]b§!" # todo: NEW TRANSLATION
+ antarctica_fuel_delivery_cost_TT: "§YCena dodávky paliva do Antarktidy:§! §R$[?delivery_cost|.2]b§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_SUPPLIES_TEXT: "Odeslat zásoby" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_SUPPLIES_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_send_supplies_button_click_enabled]\n§YÚčinky:§!\nDoplní palivo stanice na maximální kapacitu.\nCena: §R$0.25b za 1000 jednotek paliva§! (během antarktické zimy dvojnásobná).\nPokladna bude zatížena při objednání, palivo dorazí po uplynutí doby dodání.\n\n§YDoba dodání:§! §G15 dní (listopad–březen)§! nebo §R30 dní (duben–říjen)§!." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_OBSERVERS_TEXT: "Odeslat pozorovatele" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_OBSERVERS_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_send_observers_button_click_enabled]§YStav vánice:§! [MD_antarctica_observer_blizzard_status]\n\n§YÚčinky:§!\nVysílá misi pozorovatelů do vybrané stanice.\nCílový stát bude okamžitě informován.\nPozorovatelé dorazí za §Y7 dní§! a prověří nelegální laboratorní činnost nebo využívání otevřených utilit." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_DISMANTLE_TEXT: "Demontovat stanici" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_DISMANTLE_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_dismantle_button_click_enabled]\n§YÚčinky:§!\nZahájí demontáž vybrané stanice.\nDoba demontáže závisí na instalovaných modulech: základních §Y30 dní§! + §Y20 dní§! za každý instalovaný modul.\nZbývající doba demontáže: §Y[?antarctica_station_dismantle_days_remaining|0]§! dní." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_OBSERVERS_COUNTRY_LOCK_TT: "Z vaší země právě neprobíhá žádná jiná §Ypozorovatelská mise§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_OBSERVERS_STATION_LOCK_TT: "Vybraná stanice nemá žádné §Ypříchozí pozorovatele§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_OBSERVERS_BLIZZARD_TT: "V Antarktidě právě neprobíhá §Yvánice§! (zbývá §Y[?global.antarctica_blizzard_days_remaining]§! dní)." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SEND_SUPPLIES_QUEUE_TT: "Do vybrané stanice právě neprobíhá žádná §Ydodávka zásob§!" # todo: NEW TRANSLATION
+ ANTARCTICA_BLIZZARD_STATUS_ACTIVE: "§RAktivní§! (zbývá [?global.antarctica_blizzard_days_remaining|0] dní)" # todo: NEW TRANSLATION
+ ANTARCTICA_BLIZZARD_STATUS_INACTIVE: "§GNeaktivní§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_UNDER_REPAIR_OUTPUT: "§RVýstup modulu pozastaven.§!\nTento modul se po poškození vánicí opravuje ještě §Y[?selected_antarctica_station_repair_days_remaining|0]§! dní." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_DAMAGED_PENDING_OUTPUT: "§RVýstup modulu pozastaven.§!\nPoškozen během vánice. Opravy začnou po skončení vánice (zbývá §Y[?global.antarctica_blizzard_days_remaining|0]§! dní) a potrvají §Y14§! dní." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_REPAIR_BLOCKED_TT: "[MD_antarctica_module_repair_block]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_REPAIR_ACTIVE_TEXT: "Oprava modulu: zbývá §Y[?selected_antarctica_station_repair_days_remaining|0]§! dní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_REPAIR_PENDING_TEXT: "Oprava modulu: §Rčeká na zahájení§!. Vánice skončí za §Y[?global.antarctica_blizzard_days_remaining|0]§! dní, poté potrvají opravy §Y14§! dní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_REPAIR_STATUS_TT: "Poškozené moduly jsou až do opravy deaktivovány. Opravy začnou automaticky po skončení vánice a skončí po §Y14§! dnech. Během vánice se zobrazuje zbývající délka vánice; během opravy se zobrazuje zbývající doba opravy." # todo: NEW TRANSLATION
+ ANTARCTICA_ILLEGAL_ACTIVITIES_DISABLED: "§RDeaktivováno§!" # todo: NEW TRANSLATION
+ ANTARCTICA_ILLEGAL_ACTIVITIES_ENABLED: "§GAktivováno§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_TOGGLE_ILLEGAL_ACTIVITIES_TEXT: "Přepnout nelegální činnost ([MD_antarctica_illegal_activities_enabled])" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_TOGGLE_ILLEGAL_ACTIVITIES_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_toggle_illegal_activities_button_click_enabled]\n§YÚčinky:§!\nPřepne nelegální laboratorní činnost ve vybrané stanici.\n\nNelegální laboratorní bonusy platí pouze tehdy, když je tato možnost aktivní.\n\n§RVarování: Pokud vaše pozorovatele vyšle jiný stát, mohou být odhaleni, což může vést k diplomatickým následkům.§!" # todo: NEW TRANSLATION
+ ILLEGAL_ACTIVITIES_BUTTON_TRIGGER: "Každá instalovaná laboratoř zahrnuje možný nelegální výzkum" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_DIFFERENT_TT: "§EVýběr modulu§!\nVyberte jiný modul nebo ponechte slot prázdný." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_NO_DUPLICATE_LABS_TT: "§EDuplikovaná laboratoř§!\nStejný laboratorní modul nelze instalovat vícekrát." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_IN_PROGRESS_TT: "§EInstalace probíhá§!\nJiž se instaluje jiný modul.\nZbývající doba současné instalace: §Y[?selected_antarctica_station_install_days_remaining|0]§! dní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_POWER_BALANCE_TT: "§EEnergetická bilance po instalaci§!\nSoučasná: [?selected_antarctica_station_output_power|+0] kW\nPo výměně: [?selected_antarctica_station_preview_output_power|+0] kW" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_STAFF_BALANCE_TT: "§EDostupnost personálu po instalaci§!\nSoučasná: [?selected_antarctica_station_output_required_staff|+0] / §Y[?selected_antarctica_station_output_total_staff|0]§!\nPo výměně: [?selected_antarctica_station_preview_output_required_staff|+0] / §Y[?selected_antarctica_station_output_total_staff|0]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_WINTER_PENALTY_TT: "§RAntarktická zima (duben–říjen)§!\nDoba instalace a cena jsou během antarktické zimy dvojnásobné." # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SWAP_LAB_TEXT: "Zobrazit další laboratoř" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_LAB_OUTPUT_TEXT: "[MD_antarctica_current_laboratory_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SWAP_MODULE_TEXT: "Zobrazit další modul" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SWAP_MODULE_BACK_TEXT: "Zobrazit předchozí modul" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_TEXT: "Zahájit instalaci modulu" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_INSTALL_MODULE_TEXT_DELAYED: "§YPožadavky:§!\n[!antarctica_station_install_module_button_click_enabled]\n§YDoba výstavby vybraného modulu:§! [?selected_antarctica_station_selected_module_install_time|0] dní\n§YCena instalace:§! $§R[?selected_antarctica_station_selected_module_install_cost|.2]b§!\n§RVarování: Antarktická zima (duben–říjen) zdvojnásobuje dobu instalace a cenu.§!\n§YZbývající doba současné instalace:§! [?selected_antarctica_station_install_days_remaining|0] dní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_MODULE_TEXT: "Modul: [MD_antarctica_selected_preview_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_MODULE_PREVIEW_TT: "[MD_antarctica_selected_preview_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_MODULE_PREVIEW_TT_DELAYED: "[MD_antarctica_selected_preview_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_1_TT: "[MD_antarctica_slot_1_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_1_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_1_click_enabled]\n[MD_antarctica_slot_1_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_2_TT: "[MD_antarctica_slot_2_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_2_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_2_click_enabled]\n[MD_antarctica_slot_2_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_4_TT: "[MD_antarctica_slot_4_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_4_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_4_click_enabled]\n[MD_antarctica_slot_4_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_5_TT: "[MD_antarctica_slot_5_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_5_TT_DELAYED: "[MD_antarctica_slot_5_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_6_TT: "[MD_antarctica_slot_6_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_6_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_6_click_enabled]\n[MD_antarctica_slot_6_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_7_TT: "[MD_antarctica_slot_7_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_7_TT_DELAYED: "[MD_antarctica_slot_7_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_8_TT: "[MD_antarctica_slot_8_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_8_TT_DELAYED: "[MD_antarctica_slot_8_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_9_TT: "[MD_antarctica_slot_9_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_9_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_9_click_enabled]\n[MD_antarctica_slot_9_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_10_TT: "[MD_antarctica_slot_10_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_10_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_10_click_enabled]\n[MD_antarctica_slot_10_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_11_TT: "[MD_antarctica_slot_11_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_11_TT_DELAYED: "[MD_antarctica_slot_11_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_12_TT: "[MD_antarctica_slot_12_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_12_TT_DELAYED: "[MD_antarctica_slot_12_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_13_TT: "[MD_antarctica_slot_13_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_13_TT_DELAYED: "§YPožadavky:§!\n[!antarctic_station_module_slot_13_click_enabled]\n[MD_antarctica_slot_13_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_14_TT: "[MD_antarctica_slot_14_module_name]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_SLOT_14_TT_DELAYED: "[MD_antarctica_slot_14_module_output]" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_TIER_2_REQUIRED_TT: "Antarktická stanice dosáhla §Yúrovně 2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_TIER_3_REQUIRED_TT: "Antarktická stanice dosáhla §Yúrovně 3§!" # todo: NEW TRANSLATION
+ STATION_SLOT_CAT_LABORATORY: "Slot §Claboratoře§!" # todo: NEW TRANSLATION
+ STATION_SLOT_CAT_POWER_PLANT: "Slot §Relektrárny§!" # todo: NEW TRANSLATION
+ STATION_SLOT_CAT_HOUSING: "Slot §Obytování§!" # todo: NEW TRANSLATION
+ STATION_SLOT_CAT_LIFE_SUPPORT: "Slot §Gpodpory života§!" # todo: NEW TRANSLATION
+ STATION_SLOT_CAT_STORAGE: "Slot §gskladiště§!" # todo: NEW TRANSLATION
+ TIER_ONE_SLOT: "Vyžaduje stanici §Yúrovně 1§!" # todo: NEW TRANSLATION
+ TIER_TWO_SLOT: "Vyžaduje stanici §Yúrovně 2§!" # todo: NEW TRANSLATION
+ TIER_THREE_SLOT: "Vyžaduje stanici §Yúrovně 3§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ITERATION_PROGRESS_TEXT: "Postup iterace: §Y[?selected_antarctica_station_iteration_progress|0]%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ITERATION_PROGRESS_TEXT_TT: "Při 3 nebo více aktivních laboratořích se zdvojnásobuje" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ITERATION_MULTIPLIER_TEXT: "Násobitel rychlosti iterace: §Yx[?selected_antarctica_station_iteration_speed_multiplier|.2]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ITERATION_MULTIPLIER_TEXT_TT: "Zvyšuje se se spokojeností personálu" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_ITERATION_REQUIRED_TEXT: "Iterací do další úrovně: §Y[?selected_antarctica_station_iterations_until_next_tier|0]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_TIER_TEXT: "Úroveň stanice: §Y[?selected_antarctica_station_tier|0]§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MAP_PENGUIN_TEXT: "Tučňák" # todo: NEW TRANSLATION
+ ANTARCTICA_MAP_PENGUIN_TEXT_DELAYED: "Můžete ho pohladit!\nA obnoví se tím toto okno!" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NOT_FULLY_RENEWABLE: "§Výzkumná stanice§! má §Relektrárny na paliva§!" # todo: NEW TRANSLATION
+ ANTARCTICA_OPEN_MAP_LABEL_TEXT: "§COtevřít mapu§!" # todo: NEW TRANSLATION
+ at_nation_name_tt: "§Y[?global.at_regular_members^i.GetNameDef]§!" # todo: NEW TRANSLATION
+ atcp_nation_name_tt: "§Y[?global.atcp_members^i.GetNameDef]§!" # todo: NEW TRANSLATION
+ already_antarctica_treaty_member: "Není již členem §YAntarktické smlouvy§!" # todo: NEW TRANSLATION
+ is_antarctic_research_station_constructed: "V §CAntarktidě§! byla postavena §Yvýzkumná stanice§!." # todo: NEW TRANSLATION
+ antarctica_atcp_apply_pending_tt: "Konzultativní status bude udělen přibližně za §Y3 měsíce§!. Konzultativní státy mohou vysílat pozorovatele do kterékoli výzkumné stanice." # todo: NEW TRANSLATION
+ antarctica_join_ccas_effect_tt: "Připojit se k §YCCAS§!.\nZvyšuje příslušné výstupy laboratoří o §G+20%§!:\n- Výstup §Ygenetických technologií§!\n- Výstup násobitele nákladů na zdraví\n- Výstup měsíčního růstu populace\nPříklad: §Y+8.0%§! genetiky se změní na §G+9.6%§!." # todo: NEW TRANSLATION
+ antarctica_leave_ccas_effect_tt: "Opustit §YCCAS§! a odstranit laboratorní bonusy CCAS." # todo: NEW TRANSLATION
+ antarctica_join_ccamlr_effect_tt: "Připojit se k §YCCAMLR§!.\nZvyšuje příslušné výstupy laboratoří o §G+20%§! (násobitel), nikoli o pevné hodnoty:\n- Výstup §Yvýzkumu ponorek§!\n- Výstup §Yvýzkumu námořních modulů§!\n- Výstup detekce námořnictva\nPříklad: §Y+6%§! výzkumu ponorek se změní na §G+7.2%§!." # todo: NEW TRANSLATION
+ antarctica_leave_ccamlr_effect_tt: "Opustit §YCCAMLR§! a odstranit laboratorní bonusy CCAMLR." # todo: NEW TRANSLATION
+ join_antarctica_treaty_tt: "Po jednom měsíci:" # todo: NEW TRANSLATION
+ leave_antarctica_treaty_tt: "Po 2 letech:" # todo: NEW TRANSLATION
+ leave_antarctica_cannot_be_stopped_tt: "§RTuto akci nelze zastavit.§!" # todo: NEW TRANSLATION
+ leave_antarctica_treaty_warning_tt: "§RVAROVÁNÍ:§!\nOpustit §CAntarktickou smlouvu§! v době, kdy máte v §CAntarktidě§! §Yvýzkumnou stanici§!, vyvolá globální reakci členů smlouvy včetně možných sankcí a diplomatického odporu. Doporučuje se před opuštěním smlouvy demontovat všechny výzkumné stanice v §CAntarktidě§!, abyste se vyhnuli negativním následkům.\n\nPokud se však rozhodnete smlouvu opustit a stanici si ponecháte, žádný článek vám nezabrání zahájit v §CAntarktidě§! zakázané činnosti, například těžbu zdrojů nebo vojenskou přítomnost, což může mít vážné důsledky pro globální pověst vašeho státu." # todo: NEW TRANSLATION
+ antarctica_post_treaty_activity_category: "Antarktické aktivity po opuštění smlouvy" # todo: NEW TRANSLATION
+ antarctica_post_treaty_activity_category_desc: "Tyto akce jsou viditelné, protože jsme opustili Antarktickou smlouvu a stále udržujeme stanici v Antarktidě." # todo: NEW TRANSLATION
+ antarctica_post_treaty_resource_extraction: "Využívat antarktické zdroje" # todo: NEW TRANSLATION
+ antarctica_post_treaty_resource_extraction_desc: "Můžeme využít zbývající infrastrukturu stanice k těžbě zdrojů z Antarktidy. Zvýší to příjmy, ale vyvolá diplomatický odpor členů smlouvy." # todo: NEW TRANSLATION
+ antarctica_post_treaty_military_preparations: "Připravit vojenskou infrastrukturu" # todo: NEW TRANSLATION
+ antarctica_post_treaty_military_preparations_desc: "Přestavět zařízení stanice pro vojenské plánování a logistiku. Poskytne to vojenské výhody, ale bude to považováno za závažnou provokaci." # todo: NEW TRANSLATION
+ antarctica_laboratory_dynamic_modifier: "Výstup antarktické výzkumné stanice" # todo: NEW TRANSLATION
+ antarctica_lab_tech_bonus: "Bonus technologií laboratoře antarktické výzkumné stanice" # todo: NEW TRANSLATION
+ has_startup_antarctica_station_TT: "Měl výzkumnou stanici před rokem 2000" # todo: NEW TRANSLATION
+ antarctica_atcp_application_pending: "[ROOT.GetNameWithFlag] – žádost o ATCP čeká na vyřízení" # todo: NEW TRANSLATION
+ is_antarctica_atcp_consultative_member: "[ROOT.GetNameWithFlag] je již členem ATCP" # todo: NEW TRANSLATION
+ increase_antarctica_station_reports_tt: "Zvýší počet hlášení antarktické stanice o §R[?antarctica_station_reports_temp]§! (aktuálně §R[?antarctica_station_reports]§!/§R7§!)" # todo: NEW TRANSLATION
+ antarctica_reports_warning_tt: "§RVarování:§!\nPokud počet hlášení překročí 7, mohou Konzultativní strany Antarktické smlouvy podniknout proti vašemu státu diplomatické kroky včetně možných tvrdých sankcí a ztráty statusu ATCP, pokud jej máte. Doporučuje se udržet počet hlášení pod 7, abyste se vyhnuli negativním následkům.\n\nPokud k překročení dojde po odhalení jaderného výzkumu, každý stát Antarktické smlouvy obdrží událost umožňující uvalit na váš stát embargo." # todo: NEW TRANSLATION
+ antarctica_ccas_member: "Aktuálně člen CCAS" # todo: NEW TRANSLATION
+ antarctica_ccamlr_member: "Aktuálně člen CCAMLR" # todo: NEW TRANSLATION
+ antarctica_lab_iteration_progress_modifier: "Bonus postupu iterace antarktické výzkumné stanice" # todo: NEW TRANSLATION
+ antarctica_treaty_leave_pending: "[ROOT.GetNameWithFlag] – opuštění Antarktické smlouvy čeká na vyřízení" # todo: NEW TRANSLATION
+ antarctica_has_active_station: "Má aktivní §Yvýzkumnou stanici§! v §CAntarktidě§!" # todo: NEW TRANSLATION
+ ANT_CATERPILLAR_3512B_EFFECT: "Elektrárna §YCaterpillar 3512B§! je dostupná k instalaci v §Yantarktické stanici§!." # todo: NEW TRANSLATION
+ ANT_PREMIUM_LIVING_QUARTERS_EFFECT: "Obytný modul §YPrémiové obytné prostory§! je dostupný k instalaci v §Yantarktické stanici§!." # todo: NEW TRANSLATION
+ MD_antarctica_news.1.t: "[FROM.GetName] žádá o připojení k Antarktické smlouvě" # todo: NEW TRANSLATION
+ MD_antarctica_news.1.d: "[FROM.GetName] požádal o připojení k Antarktické smlouvě, což naznačuje možný posun v jeho zahraniční politice a závazku k ochraně životního prostředí. Antarktická smlouva je mezinárodní dohoda upravující využívání Antarktidy k mírovým účelům a vědeckému výzkumu a zároveň chránící jedinečný ekosystém kontinentu. Žádost [FROM.GetName] o připojení ke smlouvě se setkala s vřelými reakcemi mezinárodního společenství; někteří tento krok chválí jako pozitivní příspěvek ke globální spolupráci, zatímco jiní vyjadřují skepsi ohledně záměrů [FROM.GetName] a jeho odhodlání dodržovat zásady smlouvy. Proces žádosti potrvá měsíc." # todo: NEW TRANSLATION
+ MD_antarctica_news.1.a: "Čas ukáže" # todo: NEW TRANSLATION
+ MD_antarctica_news.1.b: "Bylo načase" # todo: NEW TRANSLATION
+ MD_antarctica_news.2.t: "[FROM.GetName] se připojuje k Antarktické smlouvě" # todo: NEW TRANSLATION
+ MD_antarctica_news.2.d: "Dnes, dne [GetDateText], [FROM.GetName] oficiálně přistoupil k Antarktické smlouvě a stal se členem mezinárodní dohody upravující využívání Antarktidy k mírovým účelům a vědeckému výzkumu. Připojením ke smlouvě se [FROM.GetName] zavázal dodržovat zásady ochrany životního prostředí a mezinárodní spolupráce v Antarktidě. Tento krok se setkal s pozitivními reakcemi světového společenství a mnozí chválí [FROM.GetName] za jeho odhodlání chránit jedinečný ekosystém Antarktidy a podporovat mírovou spolupráci mezi státy." # todo: NEW TRANSLATION
+ MD_antarctica_news.2.a: "Další člen" # todo: NEW TRANSLATION
+ MD_antarctica_news.2.b: "Pusťme se do práce!" # todo: NEW TRANSLATION
+ MD_antarctica_news.3.t: "[FROM.GetName] usiluje o opuštění Antarktické smlouvy" # todo: NEW TRANSLATION
+ MD_antarctica_news.3.d: "[FROM.GetName] se dnes rozhodl opustit Antarktickou smlouvu. Komise pro zachování živých mořských zdrojů Antarktidy (CCAMLR) mu poskytuje 2 roky na demontáž všech výzkumných stanic v Antarktidě a na zdržení se zakázaných činností, jako je těžba zdrojů nebo vojenská přítomnost. Rozhodnutí opustit smlouvu vyvolalo smíšené reakce mezinárodního společenství; někteří vyjadřují zklamání a obavy z možných důsledků pro životní prostředí a globální spolupráci, zatímco jiní podporují právo [FROM.GetName] rozhodovat o své účasti v mezinárodních dohodách. Proces opuštění smlouvy potrvá 2 roky." # todo: NEW TRANSLATION
+ MD_antarctica_news.3.a: "Jaká škoda" # todo: NEW TRANSLATION
+ MD_antarctica_news.3.b: "Máme důležitější věci na práci" # todo: NEW TRANSLATION
+ MD_antarctica_news.4.t: "[FROM.GetName] opouští Antarktickou smlouvu" # todo: NEW TRANSLATION
+ MD_antarctica_news.4.d: "[MD_antarctica_news_4_desc]" # todo: NEW TRANSLATION
+ MD_antarctica_news.4.a: "Smlouva je oslabena" # todo: NEW TRANSLATION
+ MD_antarctica_news.4.b: "No a co" # todo: NEW TRANSLATION
+ MD_antarctica_news_4_desc_1: "Po 2 letech od oznámení odchodu z Antarktické smlouvy [FROM.GetName] oficiálně opustil mezinárodní dohodu upravující využívání Antarktidy k mírovým účelům a vědeckému výzkumu. Navzdory varováním [FROM.GetName] smlouvu opustil, přestože měl v Antarktidě výzkumnou stanici, což vyvolalo globální reakci členů smlouvy včetně možných sankcí a diplomatického odporu." # todo: NEW TRANSLATION
+ MD_antarctica_news_4_desc_2: "Po 2 letech od oznámení odchodu z Antarktické smlouvy [FROM.GetName] oficiálně opustil mezinárodní dohodu upravující využívání Antarktidy k mírovým účelům a vědeckému výzkumu. [FROM.GetName] úspěšně demontoval všechny výzkumné stanice v Antarktidě a vyhnul se zakázaným činnostem, jako je těžba zdrojů nebo vojenská přítomnost, čímž pomohl zmírnit možné důsledky pro životní prostředí a globální spolupráci." # todo: NEW TRANSLATION
+ MD_antarctica_news.5.t: "Na antarktické stanici [FROM.GetAdjective] byly odhaleny otevřené utility" # todo: NEW TRANSLATION
+ MD_antarctica_news.5.d: "Během nedávné pozorovatelské mise odhalili pozorovatelé smlouvy využívání otevřených utilit na jedné z antarktických výzkumných stanic [FROM.GetAdjective]. Jedná se o porušení Antarktické smlouvy, která zakazuje jakoukoli činnost, jež může poškodit životní prostředí nebo narušit ekosystém Antarktidy. Odhalení otevřených utilit vyvolalo mezi členy smlouvy obavy a může vést k diplomatickým následkům." # todo: NEW TRANSLATION
+ MD_antarctica_news.5.a: "Někteří lidé musí šetřit" # todo: NEW TRANSLATION
+ MD_antarctica_news.5.b: "No dobře" # todo: NEW TRANSLATION
+ MD_antarctica_news.6.t: "Na antarktické stanici [FROM.GetAdjective] byla odhalena nelegální laboratorní činnost" # todo: NEW TRANSLATION
+ MD_antarctica_news.6.d: "Během nedávné pozorovatelské mise odhalili pozorovatelé smlouvy nelegální laboratorní činnost na jedné z antarktických výzkumných stanic [FROM.GetAdjective]. Toto jednání je nepřijatelné a představuje jasné porušení Antarktické smlouvy. Konzultativní strany smlouvy se touto otázkou budou zabývat a přijmou vhodná opatření k zajištění ochrany jedinečného ekosystému Antarktidy a integrity smlouvy." # todo: NEW TRANSLATION
+ MD_antarctica_news.6.a: "To je nepřijatelné" # todo: NEW TRANSLATION
+ MD_antarctica_news.6.b: "Musíme s tím něco udělat" # todo: NEW TRANSLATION
+ MD_antarctica_news.7.t: "Na antarktické stanici [FROM.GetAdjective] byl odhalen výzkum jaderných zbraní" # todo: NEW TRANSLATION
+ MD_antarctica_news.7.d: "Během nedávné pozorovatelské mise odhalili pozorovatelé smlouvy výzkum jaderných zbraní na jedné z antarktických výzkumných stanic [FROM.GetAdjective]. Jedná se o závažné porušení Antarktické smlouvy, která zakazuje jakoukoli vojenskou činnost i jakoukoli činnost, jež může poškodit životní prostředí nebo narušit ekosystém Antarktidy. Využití mírové výzkumné stanice ke konstrukci a testování jaderných zbraní je pobuřujícím činem ohrožujícím bezpečnost celého světa. Konzultativní strany smlouvy přijmou okamžitá a rozhodná opatření, aby tento problém vyřešily a pohnaly odpovědné osoby k odpovědnosti. Mezinárodní společenství musí odsoudit toto jednání a zajistit, aby Antarktida zůstala mírovým a chráněným prostředím pro vědecký výzkum a spolupráci." # todo: NEW TRANSLATION
+ MD_antarctica_news.7.a: "To je pobuřující!" # todo: NEW TRANSLATION
+ MD_antarctica_news.7.b: "Bylo to důležitější" # todo: NEW TRANSLATION
+ MD_antarctica_news.8.t: "[FROM.GetName] příliš často porušoval Antarktickou smlouvu" # todo: NEW TRANSLATION
+ MD_antarctica_news.8.d: "Po několika porušeních Antarktické smlouvy dosáhl [FROM.GetName] kritického bodu, kdy se Konzultativní strany smlouvy rozhodly jej ze smlouvy vyloučit a uvalit na něj závažné diplomatické důsledky. Opakovaná porušení zásad a předpisů smlouvy podkopala integritu dohody a ohrozila ochranu jedinečného ekosystému Antarktidy. Konzultativní strany smlouvy přijmou rozhodná opatření, aby byl [FROM.GetName] pohnán k odpovědnosti a aby Antarktická smlouva zůstala silným a účinným rámcem mezinárodní spolupráce a ochrany životního prostředí." # todo: NEW TRANSLATION
+ MD_antarctica_news.8.a: "Může si za to sám" # todo: NEW TRANSLATION
+ MD_antarctica_news.8.b: "To už je příliš" # todo: NEW TRANSLATION
+ MD_antarctica_news.9.t: "Silný vítr nad Antarktidou" # todo: NEW TRANSLATION
+ MD_antarctica_news.9.d: "Nad Antarktidou byl hlášen silný vítr, který zasáhl výzkumné stanice. Konzultativní strany smlouvy situaci sledují a poskytují podporu, aby zajistily bezpečí personálu a průběh probíhajícího výzkumu. Pozorovatelské mise jsou do zlepšení povětrnostních podmínek dočasně pozastaveny." # todo: NEW TRANSLATION
+ MD_antarctica_news.9.a: "Nic moc" # todo: NEW TRANSLATION
+ MD_antarctica_news.10.t: "[FROM.GetName] zahajuje výstavbu antarktické výzkumné stanice" # todo: NEW TRANSLATION
+ MD_antarctica_news.10.d: "[FROM.GetName] zahájil výstavbu nové antarktické výzkumné stanice, čímž dává najevo své odhodlání věnovat se vědeckému výzkumu a ochraně životního prostředí v regionu. Očekává se, že výstavba stanice potrvá několik měsíců. Konzultativní strany smlouvy budou její postup pečlivě sledovat, aby zajistily soulad se zásadami a předpisy Antarktické smlouvy." # todo: NEW TRANSLATION
+ MD_antarctica_news.10.a: "Skvělé!" # todo: NEW TRANSLATION
+ MD_antarctica.1.t: "Příchozí pozorovatelská mise" # todo: NEW TRANSLATION
+ MD_antarctica.1.d: "[FROM.GetName] vyslal pozorovatele smlouvy, aby zkontrolovali jednu z našich antarktických výzkumných stanic. Očekává se, že mise dorazí za §Y7 dní§!." # todo: NEW TRANSLATION
+ MD_antarctica.1.a: "Počkáme na jejich příjezd" # todo: NEW TRANSLATION
+ MD_antarctica.3.t: "Zpráva pozorovatelské mise: odhaleny otevřené utility" # todo: NEW TRANSLATION
+ MD_antarctica.3.d: "Pozorovatelé smlouvy dokončili kontrolu naší antarktické výzkumné stanice a oznámili odhalení využívání otevřených utilit. Jedná se o porušení Antarktické smlouvy a může vést k diplomatickým následkům. Konzultativní strany smlouvy požadují, abychom utility nahradili ekologičtějšími možnostmi." # todo: NEW TRANSLATION
+ MD_antarctica.3.a: "Musíme se toho zbavit" # todo: NEW TRANSLATION
+ MD_antarctica.4.t: "Zpráva pozorovatelské mise: odhalena nelegální laboratorní činnost" # todo: NEW TRANSLATION
+ MD_antarctica.4.d: "Pozorovatelé smlouvy dokončili kontrolu naší antarktické výzkumné stanice a oznámili odhalení nelegální laboratorní činnosti. Konzultativní strany nepřijmou další opatření, pokud veškerou nelegální činnost na naší stanici ukončíme." # todo: NEW TRANSLATION
+ MD_antarctica.4.a: "Musíme s tím něco udělat" # todo: NEW TRANSLATION
+ MD_antarctica.5.t: "Zpráva pozorovatelské mise: odhalen výzkum jaderných zbraní" # todo: NEW TRANSLATION
+ MD_antarctica.5.d: "Pozorovatelé smlouvy dokončili kontrolu naší antarktické výzkumné stanice a oznámili odhalení výzkumu jaderných zbraní. Jedná se o závažné porušení Antarktické smlouvy a povede k okamžitým diplomatickým následkům. Konzultativní strany smlouvy přijmou rozhodná opatření k vyřešení tohoto problému a pohnání odpovědných osob k odpovědnosti a požadují okamžité ukončení veškerého jaderného výzkumu na naší stanici." # todo: NEW TRANSLATION
+ MD_antarctica.5.a: "Musíme se toho okamžitě zbavit!" # todo: NEW TRANSLATION
+ MD_antarctica.6.t: "Porušení Antarktické smlouvy: příliš mnoho přestupků" # todo: NEW TRANSLATION
+ MD_antarctica.6.d: "Vážený [ROOT.GetLeader],\n\ns politováním vám oznamujeme, že váš stát, [ROOT.GetName], porušil Antarktickou smlouvu příliš mnohokrát, celkem [?antarctica_station_reports]krát. V důsledku toho se Konzultativní strany smlouvy rozhodly [ROOT.GetName] ze smlouvy během 2 let vyloučit a uvalit na něj závažné diplomatické následky. Opakovaná porušení zásad a předpisů smlouvy podkopala integritu dohody a ohrozila ochranu jedinečného ekosystému Antarktidy. Vyzýváme vás, abyste tuto záležitost brali vážně a výzkumnou stanici odstranili dříve, než bude vaše členství zrušeno.\n\nS pozdravem,\nKonzultativní strany Antarktické smlouvy" # todo: NEW TRANSLATION
+ MD_antarctica.6.a: "Můžeme si za to sami" # todo: NEW TRANSLATION
+ MD_antarctica.7.t: "Uvalit embargo na [FROM.GetName]?" # todo: NEW TRANSLATION
+ MD_antarctica.7.d: "Vzhledem k nedávnému odhalení výzkumu jaderných zbraní na jedné z antarktických výzkumných stanic [FROM.GetAdjective] zvažují Konzultativní strany Antarktické smlouvy uvalení embarga na [FROM.GetName]. To by znamenalo omezení obchodu a diplomatických vztahů s [FROM.GetName] v reakci na porušení zásad a předpisů smlouvy." # todo: NEW TRANSLATION
+ MD_antarctica.7.a: "Za své činy musí zaplatit" # todo: NEW TRANSLATION
+ MD_antarctica.7.b: "Nestojí to za to" # todo: NEW TRANSLATION
+ MD_antarctica.9.t: "Modul antarktické stanice poškozen" # todo: NEW TRANSLATION
+ MD_antarctica.9.d: "Modul na jedné z našich antarktických výzkumných stanic byl poškozen vánicí. Inženýři připravují opravy a zahájí je, jakmile se zlepší povětrnostní podmínky.\n\nOpravy začnou po skončení vánice (zbývá §Y[?global.antarctica_blizzard_days_remaining|0]§! dní vánice) a jejich dokončení potrvá §Y14§! dní. Zbývající čas můžete vidět v přehledu stanice a v popisu poškozeného modulu." # todo: NEW TRANSLATION
+ MD_antarctica.9.a: "Zatracené počasí!" # todo: NEW TRANSLATION
+ MD_antarctica.10.t: "Demontáž antarktické výzkumné stanice anektované země" # todo: NEW TRANSLATION
+ MD_antarctica.10.d: "V důsledku anexe země s výzkumnou stanicí byla stanice demontována." # todo: NEW TRANSLATION
+ MD_antarctica.10.a: "Dobře" # todo: NEW TRANSLATION
+ ANT_nukes_research_discovered_idea: "Na antarktické stanici odhalen výzkum jaderných zbraní" # todo: NEW TRANSLATION
+ ANT_nukes_research_discovered_idea_desc: "Tato země porušila zásadu úplného zákazu vojenského výzkumu v Antarktidě prováděním výzkumu souvisejícího s jadernými zbraněmi." # todo: NEW TRANSLATION
+ antarctica_small_treaty_admin_cost_1: "Správa menší antarktické smlouvy" # todo: NEW TRANSLATION
+ antarctica_small_treaty_admin_cost_1_desc: "Tato země podepsala jednu z menších antarktických smluv (CCAS nebo CCAMLR), čímž zvýšila administrativní zátěž politických akcí." # todo: NEW TRANSLATION
+ antarctica_small_treaty_admin_cost_2: "Rozšířená správa Antarktické smlouvy" # todo: NEW TRANSLATION
+ antarctica_small_treaty_admin_cost_2_desc: "Tato země podepsala obě menší antarktické smlouvy (CCAS a CCAMLR), což vyžaduje rozsáhlejší zdroje na správu smluv a dodržování závazků." # todo: NEW TRANSLATION
+ ANT_kicked_from_treaty_idea: "Vyloučen z Antarktické smlouvy" # todo: NEW TRANSLATION
+ ANT_kicked_from_treaty_idea_desc: "Kvůli opakovanému porušování Antarktické smlouvy byla tato země z dohody vyloučena a po následující dva roky se nemůže znovu připojit." # todo: NEW TRANSLATION
+ ANT_illegal_extraction_idea: "Nelegální těžba antarktických zdrojů" # todo: NEW TRANSLATION
+ ANT_illegal_extraction_idea_desc: "Naše vztahy s ostatními zeměmi se zhoršily, protože patříme k několika málo státům, které nechtějí obchodovat s cennými zdroji kvůli zachování pěkného výhledu na ledovou pustinu. Příliš jim na tom zamrzlém kusu záleží." # todo: NEW TRANSLATION
+ ANT_military_training_idea: "Nelegální vojenský výcvik v Antarktidě" # todo: NEW TRANSLATION
+ ANT_military_training_idea_desc: "Neexistuje lepší místo k přípravě našich vojáků na zimní ofenzivu než Antarktida." # todo: NEW TRANSLATION
+ antarctica_modifier_small_consequences: "Na antarktické výzkumné stanici odhaleny otevřené utility" # todo: NEW TRANSLATION
+ antarctica_modifier_medium_consequences: "Na antarktické výzkumné stanici odhalena nelegální laboratorní činnost" # todo: NEW TRANSLATION
+ antarctica_modifier_large_consequences: "Na antarktické výzkumné stanici odhalen výzkum jaderných zbraní" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_UNKNOWN: "[?var:selected_antarctica_station_controller.GetAdjective] stanice" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_1: "Stanice Amundsen-Scott" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_2: "Výzkumná stanice Vostok" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_3: "Výzkumná stanice Halley" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_4: "Výzkumná stanice Esperanza" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_5: "Výzkumná stanice Eduardo Frei" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_6: "Výzkumná stanice Mawson" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_7: "Výzkumná stanice Henryk Arctowski" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_8: "Výzkumná stanice Dumont d'Urville" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_9: "Výzkumná stanice Neumayer" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_10: "Výzkumná stanice Šówa" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_11: "Stanice Scott Base" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_12: "Výzkumná stanice Čung-šan" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_13: "Výzkumná stanice Maitri" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_14: "Stanice Mario Zucchelli" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_15: "Výzkumná stanice SANAE IV" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_16: "Výzkumná stanice krále Sedžonga" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_17: "Stanice Comandante Ferraz" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_18: "Výzkumná stanice Vernadsky" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_19: "Stanice Artigas" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_20: "Výzkumná stanice Troll" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_21: "Stanice Juan Carlos I" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_22: "Výzkumná stanice Wasa" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_23: "Výzkumná stanice Aboa" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_24: "St. Kliment Ohridski" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_25: "Stanice Machu Picchu" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_26: "Pedro Vicente Maldonado" # todo: NEW TRANSLATION
+ ANTARCTICA_STATION_NAME_27: "Výzkumná stanice Jinnah" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_UNKNOWN: "Nespecifikovaná elektrárna" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_1: "Caterpillar 3306" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_2: "Caterpillar 3406" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_3: "Caterpillar 3512B" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_4: "Enercon E-33" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_5: "EWT 1MW" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_6: "Kyocera KC130GHT-2" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_7: "Hyundai HiS-S218SF" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_8: "CONSOLAR TUBO 12" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_9: "Thermomax HP200" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_10: "Viessmann Vitosol 300-TM" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_UNKNOWN: "Nespecifikovaná podpora života" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_1: "Otevřené utility" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_2: "Základní recyklační jádro" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_3: "Standardní recyklační jádro" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_4: "Komplex nulového odpadu" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_UNKNOWN: "Nespecifikovaný sklad paliva" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_1: "Základní zesílené palivové nádrže" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_2: "Střední sklad paliva" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_3: "Velký sklad paliva" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_4: "Systém dodatečného zpětného získávání tepla" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_UNKNOWN: "Nespecifikované ubytování" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_1: "Modulární a kontejnerové budovy" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_2: "Vyzdvižené budovy" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_3: "Prémiové obytné prostory" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_4: "Skleník" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_UNKNOWN: "Nespecifikované laboratoře" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_1: "Kryogenetický trezor semen" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_2: "Civilní satelitní přenos" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_3: "Vojenský satelitní přenos" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_4: "Lékařské centrum pro extrémní prostředí" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_5: "Podpovrchový sonar" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_6: "Laboratoř průzkumu vzácných zemin" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_7: "Radiační laboratoř" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_8: "Vysokofrekvenční rozhlasová stanice" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_9: "Globální meteorologická observatoř" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_10: "Startovací plocha stratosférických balónů" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_11: "Trezor kvantového výzkumu" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_12: "Souprava pro hluboké vrtání ledových jader" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_EMPTY: "Žádný instalovaný modul" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_EMPTY_OUTPUT: "V tomto slotu není instalován žádný modul." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_1_OUTPUT: "- Výroba energie: §Y250 kW§!\n- Spotřeba paliva: §Y20§!\n- Doba výstavby: §Y5 dní§!\n- Náklady na údržbu: §R$0.03b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G92%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_2_OUTPUT: "- Výroba energie: §Y350 kW§!\n- Spotřeba paliva: §Y50§!\n- Doba výstavby: §Y5 dní§!\n- Náklady na údržbu: §R$0.03b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G93%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_3_OUTPUT: "- Výroba energie: §Y1050 kW§!\n- Spotřeba paliva: §Y100§!\n- Doba výstavby: §Y5 dní§!\n- Náklady na údržbu: §R$0.08b§!\n- Potřebný personál: §R5§!\n- Spolehlivost: §Y82%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_4_OUTPUT: "- Výroba energie: §Y330 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y8 dní§!\n- Náklady na údržbu: §R$0.07b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G90%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_5_OUTPUT: "- Výroba energie: §Y1000 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y8 dní§!\n- Náklady na údržbu: §R$0.11b§!\n- Potřebný personál: §R5§!\n- Spolehlivost: §R50%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_6_OUTPUT: "- Výroba energie: §Y200 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y4 dny§!\n- Náklady na údržbu: §R$0.04b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G92%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_7_OUTPUT: "- Výroba energie: §Y300 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y4 dny§!\n- Náklady na údržbu: §R$0.05b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G93%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_8_OUTPUT: "- Výroba energie: §Y450 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y8 dní§!\n- Náklady na údržbu: §R$0.07b§!\n- Potřebný personál: §R3§!\n- Spolehlivost: §G95%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_9_OUTPUT: "- Výroba energie: §Y650 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y6 dní§!\n- Náklady na údržbu: §R$0.07b§!\n- Potřebný personál: §R4§!\n- Spolehlivost: §G97%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_10_OUTPUT: "- Výroba energie: §Y900 kW§!\n- Spotřeba paliva: §Gobnovitelná§!\n- Doba výstavby: §Y8 dní§!\n- Náklady na údržbu: §R$0.09b§!\n- Potřebný personál: §R5§!\n- Spolehlivost: §G96%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_POWERPLANT_UNKNOWN_OUTPUT: "Neznámé statistiky modulu elektrárny." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_1_OUTPUT: "- Spotřeba energie: §Y20 kW§!\n- Spokojenost personálu: §R-6%§!\n- Doba výstavby: §Y3 dny§!\n- Náklady na údržbu: §R$0.02b§!\n- Potřebný personál: §R2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_2_OUTPUT: "- Spotřeba energie: §Y40 kW§!\n- Spokojenost personálu: §G+2%§!\n- Doba výstavby: §Y6 dní§!\n- Náklady na údržbu: §R$0.04b§!\n- Potřebný personál: §R2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_3_OUTPUT: "- Spotřeba energie: §Y60 kW§!\n- Spokojenost personálu: §G+4%§!\n- Doba výstavby: §Y5 dní§!\n- Náklady na údržbu: §R$0.06b§!\n- Potřebný personál: §R3§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_4_OUTPUT: "- Spotřeba energie: §Y80 kW§!\n- Spokojenost personálu: §G+6%§!\n- Doba výstavby: §Y5 dní§!\n- Náklady na údržbu: §R$0.08b§!\n- Potřebný personál: §R4§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LIFE_SUPPORT_UNKNOWN_OUTPUT: "Neznámé statistiky modulu podpory života." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_1_OUTPUT: "- Kapacita paliva: §Y2000§!\n- Doba výstavby: §Y10 dní§!\n- Náklady na údržbu: §R$0.02b§!\n- Potřebný personál: §R2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_2_OUTPUT: "- Kapacita paliva: §Y5000§!\n- Doba výstavby: §Y16 dní§!\n- Náklady na údržbu: §R$0.04b§!\n- Potřebný personál: §R2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_3_OUTPUT: "- Kapacita paliva: §Y12000§!\n- Doba výstavby: §Y25 dní§!\n- Náklady na údržbu: §R$0.06b§!\n- Potřebný personál: §R3§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_4_OUTPUT: "- Efektivita využití paliva: §G+15%§!\n- Doba výstavby: §Y20 dní§!\n- Náklady na údržbu: §R$0.04b§!\n- Potřebný personál: §R2§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_FUEL_STORAGE_UNKNOWN_OUTPUT: "Neznámé statistiky modulu skladu paliva." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_1_OUTPUT: "- Ubytovací kapacita: §Y12§!\n- Spotřeba energie: §Y25 kW§!\n- Bonus ke kapacitě paliva: §Y2000§!\n- Doba výstavby: §Y10 dní§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_2_OUTPUT: "- Ubytovací kapacita: §Y16§!\n- Spotřeba energie: §Y65 kW§!\n- Bonus ke kapacitě paliva: §Y4500§!\n- Spokojenost personálu: §G+4%§!\n- Doba výstavby: §Y17 dní§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_3_OUTPUT: "- Ubytovací kapacita: §Y22§!\n- Spotřeba energie: §Y120 kW§!\n- Bonus ke kapacitě paliva: §Y7500§!\n- Spokojenost personálu: §G+10%§!\n- Doba výstavby: §Y30 dní§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_4_OUTPUT: "- Spotřeba energie: §Y60 kW§!\n- Spokojenost personálu: §G+7%§!\n- Doba výstavby: §Y12 dní§!\n- Náklady na údržbu: §R$0.01b§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_HOUSING_UNKNOWN_OUTPUT: "Neznámé statistiky obytného modulu." # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_OUTPUT: "§Y[MD_antarctica_selected_module_laboratories]§! iterace:" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_1_OUTPUT: "- Technologie zemědělství: §Y+8%§!\n- Genetické technologie: §Y+8%§!\n- Růst populace: §Y+0.2%§!\nSpolehlivost: §G95%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_2_OUTPUT: "- Rychlost výroby GNSS: §Y+1.5%§!\n- Satelitní technologie: §Y+7%§!\n- Účinky civilních satelitů: §Y+1%§!\nSpolehlivost: §G92%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_3_OUTPUT: "- Satelitní technologie: §Y+7%§!\n- Rychlost výroby špionážních satelitů: §Y+1.5%§!\n- Účinky vojenských satelitů: §Y+1%§!\nSpolehlivost: §G90%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_4_OUTPUT: "- Technologie nových vláken: §Y+8%§!\n- Modifikátor nákladů na zdraví: §G-1.5%§!\n- Zisk aklimatizace na chladné klima: §Y+1%§!\nSpolehlivost: §G96%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_5_OUTPUT: "- Technologie ponorek: §Y+4%§!\n- Technologie námořních modulů: §Y+6%§!\n§RMožné nelegální programy:§!\n- Detekce námořnictva §Y+1.3%§!\nSpolehlivost: §G94%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_6_OUTPUT: "- Technologie výstavby: §Y+8%§!\n- Technologie výkopů: §Y+8%§!\n- Faktor místních zdrojů: §Y+1%§!\nSpolehlivost: §G91%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_7_OUTPUT: "- Technologie jaderných reaktorů: §Y+6%§!\n- Elektrotechnologie: §Y+8%§!\n- Spotřeba jaderného paliva: §G-1%§!\n§RMožné nelegální programy:§!\n- Technologie jaderných zbraní §Y+15%§! (§Rpři odhalení velmi vysoké sankce§!)\nSpolehlivost: §G90%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_8_OUTPUT: "- Technologie šifrování: §Y+6%§!\n- Výpočetní technologie: §Y+8%§!\n- Rychlost výroby radarových stanic: §Y+1.3%§!\n§RMožné nelegální programy:§!\n- Dešifrování §Y+1.5%§!\n- Zisk zpravodajské sítě §Y+1.2%§!\nSpolehlivost: §G95%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_9_OUTPUT: "- Technologie leteckého vybavení: §Y+6.5%§!\n- Efektivita leteckých misí: §Y+1.2%§!\n- Provoz letadlových lodí: §Y+1.3%§!\nSpolehlivost: §G94%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_10_OUTPUT: "- Efektivita průzkumu: §Y+1.8%§!\n- Letecké nehody: §G-1.2%§!\n- Faktor zpravodajství letectva: §Y+1.5%§!\nSpolehlivost: §G92%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_11_OUTPUT: "- Technologie umělé inteligence: §Y+6%§!\n- Technologie 3D tisku: §Y+6%§!\n- Výpočetní technologie: §Y+6%§!\n- Růst produktivity: §Y+0.03§!\nSpolehlivost: §Y88%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_12_OUTPUT: "- Technologie výkopů: §Y+5%§!\n- §G+15%§! bonus k jedné z následujících technologií:\n  - Genetika\n  - Průmysl\n  - Zemědělství\n  - Mikročipy\nSpolehlivost: §G93%§!" # todo: NEW TRANSLATION
+ ANTARCTICA_MODULE_LABORATORIES_UNKNOWN_OUTPUT: "Nebyl vybrán laboratorní modul" # todo: NEW TRANSLATION

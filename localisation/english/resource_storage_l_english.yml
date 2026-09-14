@@ -1,0 +1,46 @@
+﻿l_english:
+ RESOURCE_STORAGE_HEADER: "§YSkladování§!" # todo: NEW TRANSLATION
+ OPEN_STORAGE_BUTTON: "Otevřít rozhraní §Yskladování zdrojů§!" # todo: NEW TRANSLATION
+ OPEN_STORAGE_BUTTON_TT: "Otevře nabídku §Yskladování zdrojů§!, kde můžete zjistit, kolik zdrojů se aktuálně nachází ve vašich §Ystrategických zásobách zdrojů§!\n\nPOZNÁMKA: §YSkladování zdrojů§! má omezení enginu, kvůli kterému můžete při používání §Yexportní ekonomiky§! nebo §Yglobalizované obchodní ekonomiky§! nakonec odesílat více zdrojů na export než na potřebné výrobní linky. Pokud potřebujete začít čerpat ze skladu, doporučujeme přepnout na §Ysmíšenou ekonomiku§! nebo nižší.\n" # todo: NEW TRANSLATION
+ WITHDRAWAL_STATUS: "Stav čerpání" # todo: NEW TRANSLATION
+ TOTAL_MAX_STORAGE: "Max. §Yskladování§!: [?modifier@resource_storage_max_capacity|0]" # todo: NEW TRANSLATION
+ TOTAL_MAX_STORAGE_TT: "Maximální kapacitu §Yskladování zdrojů§! lze zvýšit výstavbou dalších budov §Ystrategických zásob zdrojů§! ve vašich státech." # todo: NEW TRANSLATION
+ RESOURCE_STORAGE_WITHDRAW_ENABLED: "§GPovoleno§!" # todo: NEW TRANSLATION
+ RESOURCE_STORAGE_WITHDRAW_DISABLED: "§RZakázáno§!" # todo: NEW TRANSLATION
+ TOTAL_STORED_STEEL: "[?steel_in_storage]" # todo: NEW TRANSLATION
+ TOTAL_STORED_STEEL_CAPACITY: "[?steel_storage_display|+]" # todo: NEW TRANSLATION
+ STORED_STEEL_WITHDRAWAL_STATUS: "[STEEL_WITHDRAWAL_STATUS]" # todo: NEW TRANSLATION
+ STEEL_STORAGE_TOTAL_TT: "Sklad §Yoceli§!" # todo: NEW TRANSLATION
+ STEEL_STORAGE_TOTAL_DELAYED_TT: "První číslo v bílé barvě označuje množství zdroje ve skladu. Druhé číslo označuje množství zdroje, které se každý den ukládá do skladu, nebo množství, které se každý den ze skladu čerpá. Pokud je číslo zelené, zdroj se přidává. Pokud je číslo červené, zdroj se čerpá." # todo: NEW TRANSLATION
+ TOTAL_STORED_LIGHT: "[?light_in_storage]" # todo: NEW TRANSLATION
+ TOTAL_STORED_LIGHT_CAPACITY: "[?light_storage_display|+]" # todo: NEW TRANSLATION
+ STORED_LIGHT_WITHDRAWAL_STATUS: "[ALUMINUM_WITHDRAWAL_STATUS]" # todo: NEW TRANSLATION
+ LIGHT_STORAGE_TOTAL_TT: "Sklad §Ylehkých kovů§!" # todo: NEW TRANSLATION
+ LIGHT_STORAGE_TOTAL_DELAYED_TT: "První číslo v bílé barvě označuje množství zdroje ve skladu. Druhé číslo označuje množství zdroje, které se každý den ukládá do skladu, nebo množství, které se každý den ze skladu čerpá. Pokud je číslo zelené, zdroj se přidává. Pokud je číslo červené, zdroj se čerpá." # todo: NEW TRANSLATION
+ TOTAL_STORED_RUBBER: "[?rubber_in_storage]" # todo: NEW TRANSLATION
+ TOTAL_STORED_RUBBER_CAPACITY: "[?rubber_storage_display|+]" # todo: NEW TRANSLATION
+ STORED_RUBBER_WITHDRAWAL_STATUS: "[RUBBER_WITHDRAWAL_STATUS]" # todo: NEW TRANSLATION
+ RUBBER_STORAGE_TOTAL_TT: "Sklad §Ykaučuku§!" # todo: NEW TRANSLATION
+ RUBBER_STORAGE_TOTAL_DELAYED_TT: "První číslo v bílé barvě označuje množství zdroje ve skladu. Druhé číslo označuje množství zdroje, které se každý den ukládá do skladu, nebo množství, které se každý den ze skladu čerpá. Pokud je číslo zelené, zdroj se přidává. Pokud je číslo červené, zdroj se čerpá." # todo: NEW TRANSLATION
+ TOTAL_STORED_TECH: "[?tech_in_storage]" # todo: NEW TRANSLATION
+ TOTAL_STORED_TECH_CAPACITY: "[?tech_storage_display|+]" # todo: NEW TRANSLATION
+ STORED_TECH_WITHDRAWAL_STATUS: "[TUNGSTEN_WITHDRAWAL_STATUS]" # todo: NEW TRANSLATION
+ TECH_STORAGE_TOTAL_TT: "Sklad §Ytechnologických kovů§!" # todo: NEW TRANSLATION
+ TECH_STORAGE_TOTAL_DELAYED_TT: "První číslo v bílé barvě označuje množství zdroje ve skladu. Druhé číslo označuje množství zdroje, které se každý den ukládá do skladu, nebo množství, které se každý den ze skladu čerpá. Pokud je číslo zelené, zdroj se přidává. Pokud je číslo červené, zdroj se čerpá." # todo: NEW TRANSLATION
+ TOTAL_STORED_PREC: "[?precious_in_storage]" # todo: NEW TRANSLATION
+ TOTAL_STORED_PREC_CAPACITY: "[?precious_storage_display|+]" # todo: NEW TRANSLATION
+ STORED_PRECIOUS_WITHDRAWAL_STATUS: "[CHROMIUM_WITHDRAWAL_STATUS]" # todo: NEW TRANSLATION
+ PREC_STORAGE_TOTAL_TT: "Sklad §Ydrahých kovů§!" # todo: NEW TRANSLATION
+ PREC_STORAGE_TOTAL_DELAYED_TT: "První číslo v bílé barvě označuje množství zdroje ve skladu. Druhé číslo označuje množství zdroje, které se každý den ukládá do skladu, nebo množství, které se každý den ze skladu čerpá. Pokud je číslo zelené, zdroj se přidává. Pokud je číslo červené, zdroj se čerpá." # todo: NEW TRANSLATION
+ TOGGLE_STEEL_BUTTON_TT: "Přepnout čerpání §Yoceli§! ze skladu" # todo: NEW TRANSLATION
+ TOGGLE_LIGHT_BUTTON_TT: "Přepnout čerpání §Ylehkých kovů§! ze skladu" # todo: NEW TRANSLATION
+ TOGGLE_RUBBER_BUTTON_TT: "Přepnout čerpání §Ykaučuku§! ze skladu" # todo: NEW TRANSLATION
+ TOGGLE_TECH_BUTTON_TT: "Přepnout čerpání §Ytechnologických kovů§! ze skladu" # todo: NEW TRANSLATION
+ TOGGLE_PREC_BUTTON_TT: "Přepnout čerpání §Ydrahých kovů§! ze skladu" # todo: NEW TRANSLATION
+ RESOURCE_STORAGE_INFOMERCIAL: "§RVAROVÁNÍ§!: Exporty také čerpají ze skladu. Používejte obchodní zákon §Ysmíšené ekonomiky§! nebo nižší, abyste zabránili vyčerpání zásob §Yskladovaných zdrojů§!." # todo: NEW TRANSLATION
+ CURRENT_WITHDRAWAL_AMOUNTS: "Aktuální množství čerpaná ze skladu" # todo: NEW TRANSLATION
+ TOTAL_WITHDRAWING_STEEL: "§YOcel§!: [?steel_from_storage|0R]" # todo: NEW TRANSLATION
+ TOTAL_WITHDRAWING_LIGHT_METALS: "§YLehké kovy§!: [?light_from_storage|0R]" # todo: NEW TRANSLATION
+ TOTAL_WITHDRAWING_RUBBER: "§YKaučuk§!: [?rubber_from_storage|0R]" # todo: NEW TRANSLATION
+ TOTAL_WITHDRAWING_TECH_METALS: "§YTechnologické kovy§!: [?tech_from_storage|0R]" # todo: NEW TRANSLATION
+ TOTAL_WITHDRAWING_PREC: "§YDrahé kovy§!: [?precious_from_storage|0R]" # todo: NEW TRANSLATION

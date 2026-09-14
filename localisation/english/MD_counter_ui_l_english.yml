@@ -1,169 +1,165 @@
 ﻿l_english:
-  TOPBAR_ADD_TOOLTIP: "£click_left §YL Klik§! k přidání §Ykonfigurovatelného zobrazení§!\n" # todo: NEW TRANSLATION
-  TOPBAR_INFO_TEXT: "[GetSelectedTopbarInfoText]" # todo: NEW TRANSLATION
-  TOPBAR_INFO_TOOLTIP: "[GetDynamicTooltip]\n\n\n(£click_right §YR Klik§!) Odebrat všechna okna (uloží jejich vybrané zobrazení)\n(£key_ctrl + £click_right §YCtrl R Klik§!) Vymaže všechna vybraná zobrazení\n(£key_ctrl + £key_shift + £click_right §YCtrl Shift R Klik§!) Vymaže všechna okna a vybraná zobrazení\n\n\nNastavené číslo zobrazení: [?i] " # todo: NEW TRANSLATION
-  TOTAL_CASUALTIES_TT: "§YDopady našich aktuálních ztrát§!\n Základní válečná podpora: [?currentWarsupportHit|R%]" # todo: NEW TRANSLATION
-  TOPBAR_CASUALTIES_TEXT: "[?ROOT.GetCasualtiesAmount]" # todo: NEW TRANSLATION
-  TOPBAR_SURRENDER_TEXT: "[?ROOT.surrender_progress|%1R]" # todo: NEW TRANSLATION
-  TOPBAR_STRENGTH_RATIO_TEXT: "[ROOT.GetTopbarAllianceStrengthRatio]" # todo: NEW TRANSLATION
-  TOPBAR_NAVAL_STRENGTH_RATIO_TEXT: "[ROOT.GetTopbarAllianceNavalStrengthRatio]" # todo: NEW TRANSLATION
-  TOPBAR_RESOURCE_TEXT: "[This.GetTopbarSelectedResource]" # todo: NEW TRANSLATION
-  TOPBAR_POPULARITY_TEXT: "[This.GetSelectedTopbarPopularityText]" # todo: NEW TRANSLATION
-  TOPBAR_ARMY_STRENGTH_TEXT: "[?ROOT.army_strength]" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_BALANCE_TEXT: "[GetSelectedTopbarEnergyText]" # todo: NEW TRANSLATION
-  TOPBAR_WEEKLY_BALANCE_TEXT: "[GetSelectedTopbarEconomyText]" # todo: NEW TRANSLATION
-  TOPBAR_UNEMPLOYMENT_RATE_FORCES_TEXT: "[?ROOT.total_unemployed_percentage_display|1%]" # todo: NEW TRANSLATION
-  TOPBAR_NAVY_STRENGTH_TEXT: "[?ROOT.enemies_naval_strength_ratio]" # todo: NEW TRANSLATION
-  TOPBAR_SHIPS_TEXT: "[?ROOT.num_ships]" # todo: NEW TRANSLATION
-  TOPBAR_CONS_GOODS_TEXT: "[?actual_consumer_goods_percent_display|%1]" # todo: NEW TRANSLATION
-  GetTopbarConsumerGoodsPercent_tt: "[?actual_consumer_goods_percent_display|%1]" # todo: NEW TRANSLATION
-  TOPBAR_FACTORIES_TEXT: "[This.GetTopbarSelectedBuilding]" # todo: NEW TRANSLATION
-  TOPBAR_PROTESTS_TEXT: "[protest_strength_TT]" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INFLUENCING_TEXT: "[This.GetTopbarSelectedInfluence]" # todo: NEW TRANSLATION
-  TOPBAR_EUROSCEPTICISM_TEXT: "[THIS.GetTopbarSelectedEuroscepticsm]" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INVESTMENT_LIMIT_TEXT: "[THIS.GetTopbarSelectedInvestment]" # todo: NEW TRANSLATION
-  TOPBAR_UNASSIGNED_TEXT: "Nepřiřazeno!" # todo: NEW TRANSLATION
-  TOPBAR_INFO_LIST: "[GetTopbarListText]" # todo: NEW TRANSLATION
-  TOPBAR_INFO_LIST_TOOLTIP: "[GetTopbarListTooltip]\n\nMenu Option: [?i]" # todo: NEW TRANSLATION
-  TOPBAR_CASUALTIES_TITLE: "Ztráty" # todo: NEW TRANSLATION
-  TOPBAR_SURRENDER_TITLE: "Kapitulace" # todo: NEW TRANSLATION
-  TOPBAR_STRENGTH_RATIO_TITLE: "Poměr síly" # todo: NEW TRANSLATION
-  TOPBAR_NAVAL_STRENGTH_RATIO_TITLE: "Poměr námořní síly" # todo: NEW TRANSLATION
-  TOPBAR_RESOURCE_TITLE: "Zdroje" # todo: NEW TRANSLATION
-  TOPBAR_POPULARITY_TITLE: "Popularita vlády" # todo: NEW TRANSLATION
-  TOPBAR_ARMY_STRENGTH_TITLE: "Síla armády" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_BALANCE_TITLE: "Energetická bilance" # todo: NEW TRANSLATION
-  TOPBAR_WEEKLY_BALANCE_TITLE: "Ekonomika" # todo: NEW TRANSLATION
-  TOPBAR_UNEMPLOYMENT_RATE_TITLE: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
-  TOPBAR_NAVY_STRENGTH_TITLE: "Námořní síla" # todo: NEW TRANSLATION
-  TOPBAR_SHIPS_TITLE: "Lodě" # todo: NEW TRANSLATION
-  TOPBAR_CONS_GOODS_TITLE: "Daňové náklady" # todo: NEW TRANSLATION
-  TOPBAR_FACTORIES_TITLE: "Továrny" # todo: NEW TRANSLATION
-  TOPBAR_FIELD_STRENGTH_TITLE: "Síla v poli" # todo: NEW TRANSLATION
-  TOPBAR_PROTESTS_TITLE: "Síla protestů" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INFLUENCING_TITLE: "Zahraniční vliv" # todo: NEW TRANSLATION
-  TOPBAR_EUROSCEPTICISM_TITLE: "Evropská unie" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INVESTMENT_TITLE: "Vnitřní/Zahraniční investice" # todo: NEW TRANSLATION
-  TOPBAR_LIST_CASUALTIES_TOOLTIP: "Ztráty" # todo: NEW TRANSLATION
-  TOPBAR_LIST_SURRENDER_TOOLTIP: "Postup kapitulace" # todo: NEW TRANSLATION
-  TOPBAR_LIST_STRENGTH_RATIO_TOOLTIP: "Poměr síly" # todo: NEW TRANSLATION
-  TOPBAR_LIST_NAVAL_STRENGTH_RATIO_TOOLTIP: "Poměr námořní síly" # todo: NEW TRANSLATION
-  TOPBAR_LIST_RESOURCE_TOOLTIP: "\n\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu vybraného §Yzdroje§!\n(£key_shift + £click_left §YShift L Klik§!) pro změnu vybrané §YProměnné§! (Celkové, Spotřebované, Exportované, Importované nebo Vyrobené)" # todo: NEW TRANSLATION
-  TOPBAR_LIST_RESOURCE_TT: "[?resource_temp|+0]" # todo: NEW TRANSLATION
-  TOPBAR_LIST_POPULARITY_TOOLTIP: "Vybraná strana: §Y[ROOT.GetTopbarSelectedPopularityTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_ARMY_STRENGTH_TOOLTIP: "Síla armády" # todo: NEW TRANSLATION
-  TOPBAR_LIST_ENERGY_BALANCE_TOOLTIP: "Vybraný typ: §Y[GetSelectedTopbarEnergyTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_WEEKLY_BALANCE_TOOLTIP: "Vybraný typ: §Y[GetSelectedTopbarEconomyTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_UNEMPLOYMENT_RATE_TOOLTIP: "§YMíra nezaměstnanosti§!" # todo: NEW TRANSLATION
-  TOPBAR_LIST_NAVY_STRENGTH_TOOLTIP: "Námořní síla" # todo: NEW TRANSLATION
-  TOPBAR_LIST_SHIPS_TOOLTIP: "Celkový počet lodí" # todo: NEW TRANSLATION
-  TOPBAR_LIST_CONS_GOODS_TOOLTIP: "§YDaňové náklady§!" # todo: NEW TRANSLATION
-  TOPBAR_LIST_FACTORIES_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedBuildingTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_FIELD_STRENGTH_TOOLTIP: "Síla v poli" # todo: NEW TRANSLATION
-  TOPBAR_LIST_PROTESTS_TOOLTIP: "§YSíla protestů§! z mechaniky Očekávaných výdajů" # todo: NEW TRANSLATION
-  TOPBAR_LIST_FOREIGN_INFLUENCING_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedInfluenceTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_EUROSCEPTICSM_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedEuroscepticsmTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_LIST_FOREIGN_INVESTMENT_TOOLTIP: "Vnitřní/Zahraniční investice. Vybraný typ: §Y[GetTopbarSelectedInvestmentTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
-  TOPBAR_RESOURCE_TOOLTIP: "\n\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro §YZavřít§!" # todo: NEW TRANSLATION
-  TOPBAR_CASUALTIES_TOOLTIP: "Ztráty" # todo: NEW TRANSLATION
-  TOPBAR_SURRENDER_TOOLTIP: "Průběh kapitulace" # todo: NEW TRANSLATION
-  TOPBAR_STRENGTH_RATIO_TOOLTIP: "§YPoměr síly§!. Odhadovaná síla armády mezi spojenci a nepřáteli. (Ve válce)" # todo: NEW TRANSLATION
-  TOPBAR_NAVAL_STRENGTH_RATIO_TOOLTIP: "§YPoměr námořní síly§!. Odhadovaná síla flotily mezi spojenci a nepřáteli (Ve válce)" # todo: NEW TRANSLATION
-  TOPBAR_ARMY_STRENGTH_TOOLTIP: "Síla armády" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_BALANCE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie)" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_BALANCE_PERCENTAGE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie v procentech)" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_STORED_ENERGY_TOOLTIP: "Celková uložená energie v §Ybateriových parcích§!." # todo: NEW TRANSLATION
-  TOPBAR_WEEKLY_BALANCE_TOOLTIP: "Týdenní bilance (týdenní příjmy/výdaje)" # todo: NEW TRANSLATION
-  TOPBAR_INTEREST_RATE_TOOLTIP: "Úroková sazba (procentuální částka placená na dluh)" # todo: NEW TRANSLATION
-  TOPBAR_NAVY_STRENGTH_TOOLTIP: "Námořní síla" # todo: NEW TRANSLATION
-  Total_Number_of_Ships: "Celkový počet lodí" # todo: NEW TRANSLATION
-  TOPBAR_CONS_GOODS_TOOLTIP: "§YDaňové náklady§!" # todo: NEW TRANSLATION
-  TOPBAR_FIELD_STRENGTH_TOOLTIP: "Síla v poli" # todo: NEW TRANSLATION
-  TOPBAR_PROTESTS_TOOLTIP: "Síla protestů" # todo: NEW TRANSLATION
-  TOPBAR_TOTAL_CIVILIAN_FACTORIES_TOOLTIP: "Celkové civilní továrny" # todo: NEW TRANSLATION
-  TOPBAR_TOTAL_MILITARY_FACTORIES_TOOLTIP: "Celkové vojenské továrny" # todo: NEW TRANSLATION
-  TOPBAR_TOTAL_NAVAL_FACTORIES_TOOLTIP: "Celkové námořní loděnice" # todo: NEW TRANSLATION
-  TOPBAR_TOTAL_OFFICES_TOOLTIP: "Celkové úřady" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INFLUENCE_TOOLTIP: "Zahraniční vliv" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INFLUENCE_AUTO_INFLUENCE_CAP_TOOLTIP: "Automatické ovlivňování aktuální/kapacitní" # todo: NEW TRANSLATION
-  TOPBAR_EUROSCEPTICISM_TOTAL_TOOLTIP: "[EUU.GetFlag][EUU.GetName] Euroskepticismus" # todo: NEW TRANSLATION
-  TOPBAR_EUROPEANISM_TOTAL_TOOLTIP: "[EUU.GetFlag][EUU.GetName] Evropská orientace" # todo: NEW TRANSLATION
-  TOPBAR_EUROPEAN_PARLIAMENT_COOLDOWN_TOOLTIP: "Cooldown Evropského parlamentu" # todo: NEW TRANSLATION
-  TOPBAR_EUROPEAN_COUNCIL_COOLDOWN_TOOLTIP: "Cooldown Evropské rady" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INFLUENCE_DEFENSE_TOOLTIP: "Ochrana zahraničního vlivu" # todo: NEW TRANSLATION
-  TOPBAR_FOREIGN_INVESTMENT_LIMIT_TOOLTIP: "Aktivní projekty zahraničních investic" # todo: NEW TRANSLATION
-  TOPBAR_INTERNAL_INVESTMENT_LIMIT_TOOLTIP: "Aktivní projekty vnitřních investic" # todo: NEW TRANSLATION
-  NO_INFO_SELECTED: "Žádný ukazatel nebyl vybrán.\n----------------------\n§YPravé kliknutí§! pro zavření." # todo: NEW TRANSLATION
-  TOPBAR_casualties: "[?casualties]" # todo: NEW TRANSLATION
-  TOPBAR_casualties_k: "[?casualties_k|0]K" # todo: NEW TRANSLATION
-  TOPBAR_casualties_m: "[?casualties_k_k|2]M" # todo: NEW TRANSLATION
-  TOPBAR_gov_coalition_strength: "[?Root.government_coalition_strength|2%]" # todo: NEW TRANSLATION
-  TOPBAR_party_popularity_democratic: "[?Root.party_popularity@democratic|2%]" # todo: NEW TRANSLATION
-  TOPBAR_party_popularity_communism: "[?Root.party_popularity@communism|2%]" # todo: NEW TRANSLATION
-  TOPBAR_party_popularity_fascism: "[?Root.party_popularity@fascism|2%]" # todo: NEW TRANSLATION
-  TOPBAR_party_popularity_neutrality: "[?Root.party_popularity@neutrality|2%]" # todo: NEW TRANSLATION
-  TOPBAR_party_popularity_nationalist: "[?Root.party_popularity@nationalist|2%]" # todo: NEW TRANSLATION
-  TOPBAR_selected_influence: "[?ROOT.auto_influence_users|0]/[?ROOT.auto_influence_cap|0Y]" # todo: NEW TRANSLATION
-  TOPBAR_selected_influence_1: "[?ROOT.modifier@foreign_influence_modifier|%+1]" # todo: NEW TRANSLATION
-  TOPBAR_selected_influence_2: "[?ROOT.modifier@foreign_influence_defense_modifier|%+1]" # todo: NEW TRANSLATION
-  TOPBAR_root_euroscepticism_tt: "[?ROOT.eurosceptic|§%R1]" # todo: NEW TRANSLATION
-  TOPBAR_global_euroscepticism_tt: "[?global.var_europeanism|§%G1]" # todo: NEW TRANSLATION
-  TOPBAR_parliament_vote_delay: "[?delay_next_parliament_vote:days_left|0Y]" # todo: NEW TRANSLATION
-  TOPBAR_delay_parliament_council: "[?delay_player_next_council_vote:days_left|0Y]" # todo: NEW TRANSLATION
-  TOPBAR_energy_total_balance: "[?energy_balance|2+]" # todo: NEW TRANSLATION
-  TOPBAR_energy_total_percentage: "[energy_total_net_energy_balance]" # todo: NEW TRANSLATION
-  TOPBAR_stored_energy_balance: "[?stored_energy|3Y]" # todo: NEW TRANSLATION
-  TOPBAR_economy_treasury_rate: "[?treasury_rate|3+]" # todo: NEW TRANSLATION
-  TOPBAR_economy_interest_rate: "[?interest_rate|2]%" # todo: NEW TRANSLATION
-  TOPBAR_foreign_investment_active_projects: "[?active_projects|0Y]/15" # todo: NEW TRANSLATION
-  TOPBAR_internal_investment_active_projects: "[current_state_owned_investment_projects]/[maximum_state_owned_investment_projects]" # todo: NEW TRANSLATION
-  TOPBAR_net_resource: "Čistý zdroj" # todo: NEW TRANSLATION
-  TOPBAR_consumed_resource: "Spotřebovaný zdroj" # todo: NEW TRANSLATION
-  TOPBAR_exported_resource: "Exportovaný zdroj" # todo: NEW TRANSLATION
-  TOPBAR_imported_resource: "Importovaný zdroj" # todo: NEW TRANSLATION
-  TOPBAR_produced_resource: "Vyrobený zdroj" # todo: NEW TRANSLATION
-  TOPBAR_foreign_investment_cap: "Zahraniční vliv – aktuální/kapacita" # todo: NEW TRANSLATION
-  TOPBAR_foreign_investment_modifier: "Zahraniční vliv – modifikátor" # todo: NEW TRANSLATION
-  TOPBAR_foreign_investment_defens_modifier: "Modifikátor obrany zahraničního vlivu" # todo: NEW TRANSLATION
-  TOPBAR_root_euroscepticism: "[ROOT.GetNameWithFlag] Euroskepticismus" # todo: NEW TRANSLATION
-  TOPBAR_eu_europeanism: "[EUU.GetNameWithFlag] Evropská orientace" # todo: NEW TRANSLATION
-  TOPBAR_eu_parliament_vote_cooldown: "[EUU.GetNameWithFlag] Cooldown pro hlasování Evropského parlamentu" # todo: NEW TRANSLATION
-  TOPBAR_eu_council_vote_cooldown: "[EUU.GetNameWithFlag] Cooldown pro hlasování Evropské rady" # todo: NEW TRANSLATION
-  TOPBAR_root_active_foreign_investment_projects: "[ROOT.GetNameWithFlag] Aktívní projekty zahraničních investic" # todo: NEW TRANSLATION
-  TOPBAR_root_active_internal_investment_projects: "[ROOT.GetNameWithFlag] Aktivní projekty vnitřních investic" # todo: NEW TRANSLATION
-  TOPBAR_ruling_coalition: "vládnoucí koalice" # todo: NEW TRANSLATION
-  TOPBAR_nationalist_outlook: "Národní orientace" # todo: NEW TRANSLATION
-  TOPBAR_non_aligned_outlook: "Nezařazená orientace" # todo: NEW TRANSLATION
-  TOPBAR_salafist_outlook: "Salafistická orientace" # todo: NEW TRANSLATION
-  TOPBAR_emerging_outlook: "Rostoucí orientace" # todo: NEW TRANSLATION
-  TOPBAR_pro_western_outlook: "Pro-západní orientace" # todo: NEW TRANSLATION
-  TOPBAR_net_fossil_fuels: "Čisté fosilní paliva" # todo: NEW TRANSLATION
-  TOPBAR_consumed_fossil_fuels: "Spotřebovaná fosilní paliva" # todo: NEW TRANSLATION
-  TOPBAR_exported_fossil_fuels: "Exportovaná fosilní paliva" # todo: NEW TRANSLATION
-  TOPBAR_imported_fossil_fuels: "Importovaná fosilní paliva" # todo: NEW TRANSLATION
-  TOPBAR_produced_fossil_fuels: "Vyprodukovaná fosilní paliva" # todo: NEW TRANSLATION
-  TOPBAR_net_rubber: "Čistý kaučuk" # todo: NEW TRANSLATION
-  TOPBAR_consumed_rubber: "Spotřebovaný kaučuk" # todo: NEW TRANSLATION
-  TOPBAR_exported_rubber: "Exportovaný kaučuk" # todo: NEW TRANSLATION
-  TOPBAR_imported_rubber: "Importovaný kaučuk" # todo: NEW TRANSLATION
-  TOPBAR_produced_rubber: "Vyrobený kaučuk" # todo: NEW TRANSLATION
-  TOPBAR_net_light_metals: "Čisté lehké kovy" # todo: NEW TRANSLATION
-  TOPBAR_consumed_light_metals: "Spotřebované lehké kovy" # todo: NEW TRANSLATION
-  TOPBAR_exported_light_metals: "Exportované lehké kovy" # todo: NEW TRANSLATION
-  TOPBAR_imported_light_metals: "Dovážené lehké kovy" # todo: NEW TRANSLATION
-  TOPBAR_produced_light_metals: "Vyrobené lehké kovy" # todo: NEW TRANSLATION
-  TOPBAR_net_steel: "Čistá ocel" # todo: NEW TRANSLATION
-  TOPBAR_consumed_steel: "Spotřebovaná ocel" # todo: NEW TRANSLATION
-  TOPBAR_exported_steel: "Exportovaná ocel" # todo: NEW TRANSLATION
-  TOPBAR_imported_steel: "Dovážená ocel" # todo: NEW TRANSLATION
-  TOPBAR_produced_steel: "Vyrobená ocel" # todo: NEW TRANSLATION
-  TOPBAR_net_technology_metals: "Čisté technologické kovy" # todo: NEW TRANSLATION
-  TOPBAR_consumed_technology_metals: "Spotřebované technologické kovy" # todo: NEW TRANSLATION
-  TOPBAR_exported_technology_metals: "Exportované technologické kovy" # todo: NEW TRANSLATION
-  TOPBAR_imported_technology_metals: "Dovážené technologické kovy" # todo: NEW TRANSLATION
-  TOPBAR_produced_technology_metals: "Vyrobené technologické kovy" # todo: NEW TRANSLATION
-  TOPBAR_net_precious_metals: "Čisté drahé kovy" # todo: NEW TRANSLATION
-  TOPBAR_consumed_precious_metals: "Spotřebované drahé kovy" # todo: NEW TRANSLATION
-  TOPBAR_exported_precious_metals: "Exportované drahé kovy" # todo: NEW TRANSLATION
-  TOPBAR_imported_precious_metals: "Dovážené drahé kovy" # todo: NEW TRANSLATION
-  TOPBAR_produced_precious_metals: "Vyrobené drahé kovy" # todo: NEW TRANSLATION
+ TOPBAR_INFO_TEXT: "[GetSelectedTopbarInfoText]" # todo: NEW TRANSLATION
+ TOPBAR_INFO_TOOLTIP: "[GetDynamicTooltip]\n\n\n(£click_right §YR Klik§!) Odebrat všechna okna (uloží jejich vybrané zobrazení)\n(£key_ctrl + £click_right §YCtrl R Klik§!) Vymaže všechna vybraná zobrazení\n(£key_ctrl + £key_shift + £click_right §YCtrl Shift R Klik§!) Vymaže všechna okna a vybraná zobrazení\n\n\nNastavené číslo zobrazení: [?i] " # todo: NEW TRANSLATION
+ TOTAL_CASUALTIES_TT: "§YDopady našich aktuálních ztrát§!\n Základní válečná podpora: [?currentWarsupportHit|R%]" # todo: NEW TRANSLATION
+ TOPBAR_CASUALTIES_TEXT: "[?ROOT.GetCasualtiesAmount]" # todo: NEW TRANSLATION
+ TOPBAR_SURRENDER_TEXT: "[?ROOT.surrender_progress|%1R]" # todo: NEW TRANSLATION
+ TOPBAR_STRENGTH_RATIO_TEXT: "[ROOT.GetTopbarAllianceStrengthRatio]" # todo: NEW TRANSLATION
+ TOPBAR_NAVAL_STRENGTH_RATIO_TEXT: "[ROOT.GetTopbarAllianceNavalStrengthRatio]" # todo: NEW TRANSLATION
+ TOPBAR_RESOURCE_TEXT: "[This.GetTopbarSelectedResource]" # todo: NEW TRANSLATION
+ TOPBAR_POPULARITY_TEXT: "[This.GetSelectedTopbarPopularityText]" # todo: NEW TRANSLATION
+ TOPBAR_ARMY_STRENGTH_TEXT: "[?ROOT.army_strength]" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_BALANCE_TEXT: "[GetSelectedTopbarEnergyText]" # todo: NEW TRANSLATION
+ TOPBAR_WEEKLY_BALANCE_TEXT: "[GetSelectedTopbarEconomyText]" # todo: NEW TRANSLATION
+ TOPBAR_UNEMPLOYMENT_RATE_FORCES_TEXT: "[?ROOT.total_unemployed_percentage_display|1%]" # todo: NEW TRANSLATION
+ TOPBAR_NAVY_STRENGTH_TEXT: "[?ROOT.enemies_naval_strength_ratio]" # todo: NEW TRANSLATION
+ TOPBAR_SHIPS_TEXT: "[?ROOT.num_ships]" # todo: NEW TRANSLATION
+ TOPBAR_CONS_GOODS_TEXT: "[?actual_consumer_goods_percent_display|%1]" # todo: NEW TRANSLATION
+ GetTopbarConsumerGoodsPercent_tt: "[?actual_consumer_goods_percent_display|%1]" # todo: NEW TRANSLATION
+ TOPBAR_FACTORIES_TEXT: "[This.GetTopbarSelectedBuilding]" # todo: NEW TRANSLATION
+ TOPBAR_PROTESTS_TEXT: "[protest_strength_TT]" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INFLUENCING_TEXT: "[This.GetTopbarSelectedInfluence]" # todo: NEW TRANSLATION
+ TOPBAR_EUROSCEPTICISM_TEXT: "[THIS.GetTopbarSelectedEuroscepticsm]" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INVESTMENT_LIMIT_TEXT: "[THIS.GetTopbarSelectedInvestment]" # todo: NEW TRANSLATION
+ TOPBAR_UNASSIGNED_TEXT: "Nepřiřazeno!" # todo: NEW TRANSLATION
+ TOPBAR_INFO_LIST: "[GetTopbarListText]" # todo: NEW TRANSLATION
+ TOPBAR_INFO_LIST_TOOLTIP: "[GetTopbarListTooltip]\n\nMenu Option: [?i]" # todo: NEW TRANSLATION
+ TOPBAR_CASUALTIES_TITLE: "Ztráty" # todo: NEW TRANSLATION
+ TOPBAR_SURRENDER_TITLE: "Kapitulace" # todo: NEW TRANSLATION
+ TOPBAR_STRENGTH_RATIO_TITLE: "Poměr síly" # todo: NEW TRANSLATION
+ TOPBAR_NAVAL_STRENGTH_RATIO_TITLE: "Poměr námořní síly" # todo: NEW TRANSLATION
+ TOPBAR_RESOURCE_TITLE: "Zdroje" # todo: NEW TRANSLATION
+ TOPBAR_POPULARITY_TITLE: "Popularita vlády" # todo: NEW TRANSLATION
+ TOPBAR_ARMY_STRENGTH_TITLE: "Síla armády" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_BALANCE_TITLE: "Energetická bilance" # todo: NEW TRANSLATION
+ TOPBAR_WEEKLY_BALANCE_TITLE: "Ekonomika" # todo: NEW TRANSLATION
+ TOPBAR_UNEMPLOYMENT_RATE_TITLE: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
+ TOPBAR_NAVY_STRENGTH_TITLE: "Námořní síla" # todo: NEW TRANSLATION
+ TOPBAR_SHIPS_TITLE: "Lodě" # todo: NEW TRANSLATION
+ TOPBAR_CONS_GOODS_TITLE: "Daňové náklady" # todo: NEW TRANSLATION
+ TOPBAR_FACTORIES_TITLE: "Továrny" # todo: NEW TRANSLATION
+ TOPBAR_FIELD_STRENGTH_TITLE: "Síla v poli" # todo: NEW TRANSLATION
+ TOPBAR_PROTESTS_TITLE: "Síla protestů" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INFLUENCING_TITLE: "Zahraniční vliv" # todo: NEW TRANSLATION
+ TOPBAR_EUROSCEPTICISM_TITLE: "Evropská unie" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INVESTMENT_TITLE: "Vnitřní/Zahraniční investice" # todo: NEW TRANSLATION
+ TOPBAR_LIST_CASUALTIES_TOOLTIP: "Ztráty" # todo: NEW TRANSLATION
+ TOPBAR_LIST_SURRENDER_TOOLTIP: "Postup kapitulace" # todo: NEW TRANSLATION
+ TOPBAR_LIST_STRENGTH_RATIO_TOOLTIP: "Poměr síly" # todo: NEW TRANSLATION
+ TOPBAR_LIST_NAVAL_STRENGTH_RATIO_TOOLTIP: "Poměr námořní síly" # todo: NEW TRANSLATION
+ TOPBAR_LIST_RESOURCE_TOOLTIP: "\n\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu vybraného §Yzdroje§!\n(£key_shift + £click_left §YShift L Klik§!) pro změnu vybrané §YProměnné§! (Celkové, Spotřebované, Exportované, Importované nebo Vyrobené)" # todo: NEW TRANSLATION
+ TOPBAR_LIST_RESOURCE_TT: "[?resource_temp|+0]" # todo: NEW TRANSLATION
+ TOPBAR_LIST_POPULARITY_TOOLTIP: "Vybraná strana: §Y[ROOT.GetTopbarSelectedPopularityTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_ARMY_STRENGTH_TOOLTIP: "Síla armády" # todo: NEW TRANSLATION
+ TOPBAR_LIST_ENERGY_BALANCE_TOOLTIP: "Vybraný typ: §Y[GetSelectedTopbarEnergyTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_WEEKLY_BALANCE_TOOLTIP: "Vybraný typ: §Y[GetSelectedTopbarEconomyTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_UNEMPLOYMENT_RATE_TOOLTIP: "§YMíra nezaměstnanosti§!" # todo: NEW TRANSLATION
+ TOPBAR_LIST_NAVY_STRENGTH_TOOLTIP: "Námořní síla" # todo: NEW TRANSLATION
+ TOPBAR_LIST_SHIPS_TOOLTIP: "Celkový počet lodí" # todo: NEW TRANSLATION
+ TOPBAR_LIST_CONS_GOODS_TOOLTIP: "§YDaňové náklady§!" # todo: NEW TRANSLATION
+ TOPBAR_LIST_FACTORIES_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedBuildingTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_FIELD_STRENGTH_TOOLTIP: "Síla v poli" # todo: NEW TRANSLATION
+ TOPBAR_LIST_PROTESTS_TOOLTIP: "§YSíla protestů§! z mechaniky Očekávaných výdajů" # todo: NEW TRANSLATION
+ TOPBAR_LIST_FOREIGN_INFLUENCING_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedInfluenceTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_EUROSCEPTICSM_TOOLTIP: "Vybraný typ: §Y[GetTopbarSelectedEuroscepticsmTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_LIST_FOREIGN_INVESTMENT_TOOLTIP: "Vnitřní/Zahraniční investice. Vybraný typ: §Y[GetTopbarSelectedInvestmentTooltip]§!\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro změnu" # todo: NEW TRANSLATION
+ TOPBAR_RESOURCE_TOOLTIP: "\n\n(£click_right §YR Klik§!) §YPravé kliknutí§! pro §YZavřít§!" # todo: NEW TRANSLATION
+ TOPBAR_CASUALTIES_TOOLTIP: "Ztráty" # todo: NEW TRANSLATION
+ TOPBAR_SURRENDER_TOOLTIP: "Průběh kapitulace" # todo: NEW TRANSLATION
+ TOPBAR_STRENGTH_RATIO_TOOLTIP: "§YPoměr síly§!. Odhadovaná síla armády mezi spojenci a nepřáteli. (Ve válce)" # todo: NEW TRANSLATION
+ TOPBAR_NAVAL_STRENGTH_RATIO_TOOLTIP: "§YPoměr námořní síly§!. Odhadovaná síla flotily mezi spojenci a nepřáteli (Ve válce)" # todo: NEW TRANSLATION
+ TOPBAR_ARMY_STRENGTH_TOOLTIP: "Síla armády" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_BALANCE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie)" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_BALANCE_PERCENTAGE_TOOLTIP: "Energetická bilance (čistá produkce/spotřeba energie v procentech)" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_STORED_ENERGY_TOOLTIP: "Celková uložená energie v §Ybateriových parcích§!." # todo: NEW TRANSLATION
+ TOPBAR_WEEKLY_BALANCE_TOOLTIP: "Týdenní bilance (týdenní příjmy/výdaje)" # todo: NEW TRANSLATION
+ TOPBAR_INTEREST_RATE_TOOLTIP: "Úroková sazba (procentuální částka placená na dluh)" # todo: NEW TRANSLATION
+ TOPBAR_NAVY_STRENGTH_TOOLTIP: "Námořní síla" # todo: NEW TRANSLATION
+ Total_Number_of_Ships: "Celkový počet lodí" # todo: NEW TRANSLATION
+ TOPBAR_CONS_GOODS_TOOLTIP: "§YDaňové náklady§!" # todo: NEW TRANSLATION
+ TOPBAR_FIELD_STRENGTH_TOOLTIP: "Síla v poli" # todo: NEW TRANSLATION
+ TOPBAR_PROTESTS_TOOLTIP: "Síla protestů" # todo: NEW TRANSLATION
+ TOPBAR_TOTAL_CIVILIAN_FACTORIES_TOOLTIP: "Celkové civilní továrny" # todo: NEW TRANSLATION
+ TOPBAR_TOTAL_MILITARY_FACTORIES_TOOLTIP: "Celkové vojenské továrny" # todo: NEW TRANSLATION
+ TOPBAR_TOTAL_NAVAL_FACTORIES_TOOLTIP: "Celkové námořní loděnice" # todo: NEW TRANSLATION
+ TOPBAR_TOTAL_OFFICES_TOOLTIP: "Celkové úřady" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INFLUENCE_TOOLTIP: "Zahraniční vliv" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INFLUENCE_AUTO_INFLUENCE_CAP_TOOLTIP: "Automatické ovlivňování aktuální/kapacitní" # todo: NEW TRANSLATION
+ TOPBAR_EUROSCEPTICISM_TOTAL_TOOLTIP: "[EUU.GetFlag][EUU.GetName] Euroskepticismus" # todo: NEW TRANSLATION
+ TOPBAR_EUROPEANISM_TOTAL_TOOLTIP: "[EUU.GetFlag][EUU.GetName] Evropská orientace" # todo: NEW TRANSLATION
+ TOPBAR_EUROPEAN_PARLIAMENT_COOLDOWN_TOOLTIP: "Cooldown Evropského parlamentu" # todo: NEW TRANSLATION
+ TOPBAR_EUROPEAN_COUNCIL_COOLDOWN_TOOLTIP: "Cooldown Evropské rady" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INFLUENCE_DEFENSE_TOOLTIP: "Ochrana zahraničního vlivu" # todo: NEW TRANSLATION
+ TOPBAR_FOREIGN_INVESTMENT_LIMIT_TOOLTIP: "Aktivní projekty zahraničních investic" # todo: NEW TRANSLATION
+ TOPBAR_INTERNAL_INVESTMENT_LIMIT_TOOLTIP: "Aktivní projekty vnitřních investic" # todo: NEW TRANSLATION
+ NO_INFO_SELECTED: "Žádný ukazatel nebyl vybrán.\n----------------------\n§YPravé kliknutí§! pro zavření." # todo: NEW TRANSLATION
+ TOPBAR_gov_coalition_strength: "[?Root.government_coalition_strength|2%]" # todo: NEW TRANSLATION
+ TOPBAR_party_popularity_democratic: "[?Root.party_popularity@democratic|2%]" # todo: NEW TRANSLATION
+ TOPBAR_party_popularity_communism: "[?Root.party_popularity@communism|2%]" # todo: NEW TRANSLATION
+ TOPBAR_party_popularity_fascism: "[?Root.party_popularity@fascism|2%]" # todo: NEW TRANSLATION
+ TOPBAR_party_popularity_neutrality: "[?Root.party_popularity@neutrality|2%]" # todo: NEW TRANSLATION
+ TOPBAR_party_popularity_nationalist: "[?Root.party_popularity@nationalist|2%]" # todo: NEW TRANSLATION
+ TOPBAR_selected_influence: "[?ROOT.auto_influence_users|0]/[?ROOT.auto_influence_cap|0Y]" # todo: NEW TRANSLATION
+ TOPBAR_selected_influence_1: "[?ROOT.modifier@foreign_influence_modifier|%+1]" # todo: NEW TRANSLATION
+ TOPBAR_selected_influence_2: "[?ROOT.modifier@foreign_influence_defense_modifier|%+1]" # todo: NEW TRANSLATION
+ TOPBAR_root_euroscepticism_tt: "[?ROOT.eurosceptic|§%R1]" # todo: NEW TRANSLATION
+ TOPBAR_global_euroscepticism_tt: "[?global.var_europeanism|§%G1]" # todo: NEW TRANSLATION
+ TOPBAR_parliament_vote_delay: "[?delay_next_parliament_vote:days_left|0Y]" # todo: NEW TRANSLATION
+ TOPBAR_delay_parliament_council: "[?delay_player_next_council_vote:days_left|0Y]" # todo: NEW TRANSLATION
+ TOPBAR_energy_total_balance: "[?energy_balance|2+]" # todo: NEW TRANSLATION
+ TOPBAR_energy_total_percentage: "[energy_total_net_energy_balance]" # todo: NEW TRANSLATION
+ TOPBAR_stored_energy_balance: "[?stored_energy|3Y]" # todo: NEW TRANSLATION
+ TOPBAR_economy_treasury_rate: "[?treasury_rate|3+]" # todo: NEW TRANSLATION
+ TOPBAR_economy_interest_rate: "[?interest_rate|2]%" # todo: NEW TRANSLATION
+ TOPBAR_foreign_investment_active_projects: "[?active_projects|0Y]/15" # todo: NEW TRANSLATION
+ TOPBAR_internal_investment_active_projects: "[current_state_owned_investment_projects]/[maximum_state_owned_investment_projects]" # todo: NEW TRANSLATION
+ TOPBAR_net_resource: "Čistý zdroj" # todo: NEW TRANSLATION
+ TOPBAR_consumed_resource: "Spotřebovaný zdroj" # todo: NEW TRANSLATION
+ TOPBAR_exported_resource: "Exportovaný zdroj" # todo: NEW TRANSLATION
+ TOPBAR_imported_resource: "Importovaný zdroj" # todo: NEW TRANSLATION
+ TOPBAR_produced_resource: "Vyrobený zdroj" # todo: NEW TRANSLATION
+ TOPBAR_foreign_investment_cap: "Zahraniční vliv – aktuální/kapacita" # todo: NEW TRANSLATION
+ TOPBAR_foreign_investment_modifier: "Zahraniční vliv – modifikátor" # todo: NEW TRANSLATION
+ TOPBAR_foreign_investment_defens_modifier: "Modifikátor obrany zahraničního vlivu" # todo: NEW TRANSLATION
+ TOPBAR_root_euroscepticism: "[ROOT.GetNameWithFlag] Euroskepticismus" # todo: NEW TRANSLATION
+ TOPBAR_eu_europeanism: "[EUU.GetNameWithFlag] Evropská orientace" # todo: NEW TRANSLATION
+ TOPBAR_eu_parliament_vote_cooldown: "[EUU.GetNameWithFlag] Cooldown pro hlasování Evropského parlamentu" # todo: NEW TRANSLATION
+ TOPBAR_eu_council_vote_cooldown: "[EUU.GetNameWithFlag] Cooldown pro hlasování Evropské rady" # todo: NEW TRANSLATION
+ TOPBAR_root_active_foreign_investment_projects: "[ROOT.GetNameWithFlag] Aktívní projekty zahraničních investic" # todo: NEW TRANSLATION
+ TOPBAR_root_active_internal_investment_projects: "[ROOT.GetNameWithFlag] Aktivní projekty vnitřních investic" # todo: NEW TRANSLATION
+ TOPBAR_ruling_coalition: "vládnoucí koalice" # todo: NEW TRANSLATION
+ TOPBAR_nationalist_outlook: "Národní orientace" # todo: NEW TRANSLATION
+ TOPBAR_non_aligned_outlook: "Nezařazená orientace" # todo: NEW TRANSLATION
+ TOPBAR_salafist_outlook: "Salafistická orientace" # todo: NEW TRANSLATION
+ TOPBAR_emerging_outlook: "Rostoucí orientace" # todo: NEW TRANSLATION
+ TOPBAR_pro_western_outlook: "Pro-západní orientace" # todo: NEW TRANSLATION
+ TOPBAR_net_fossil_fuels: "Čisté fosilní paliva" # todo: NEW TRANSLATION
+ TOPBAR_consumed_fossil_fuels: "Spotřebovaná fosilní paliva" # todo: NEW TRANSLATION
+ TOPBAR_exported_fossil_fuels: "Exportovaná fosilní paliva" # todo: NEW TRANSLATION
+ TOPBAR_imported_fossil_fuels: "Importovaná fosilní paliva" # todo: NEW TRANSLATION
+ TOPBAR_produced_fossil_fuels: "Vyprodukovaná fosilní paliva" # todo: NEW TRANSLATION
+ TOPBAR_net_rubber: "Čistý kaučuk" # todo: NEW TRANSLATION
+ TOPBAR_consumed_rubber: "Spotřebovaný kaučuk" # todo: NEW TRANSLATION
+ TOPBAR_exported_rubber: "Exportovaný kaučuk" # todo: NEW TRANSLATION
+ TOPBAR_imported_rubber: "Importovaný kaučuk" # todo: NEW TRANSLATION
+ TOPBAR_produced_rubber: "Vyrobený kaučuk" # todo: NEW TRANSLATION
+ TOPBAR_net_light_metals: "Čisté lehké kovy" # todo: NEW TRANSLATION
+ TOPBAR_consumed_light_metals: "Spotřebované lehké kovy" # todo: NEW TRANSLATION
+ TOPBAR_exported_light_metals: "Exportované lehké kovy" # todo: NEW TRANSLATION
+ TOPBAR_imported_light_metals: "Dovážené lehké kovy" # todo: NEW TRANSLATION
+ TOPBAR_produced_light_metals: "Vyrobené lehké kovy" # todo: NEW TRANSLATION
+ TOPBAR_net_steel: "Čistá ocel" # todo: NEW TRANSLATION
+ TOPBAR_consumed_steel: "Spotřebovaná ocel" # todo: NEW TRANSLATION
+ TOPBAR_exported_steel: "Exportovaná ocel" # todo: NEW TRANSLATION
+ TOPBAR_imported_steel: "Dovážená ocel" # todo: NEW TRANSLATION
+ TOPBAR_produced_steel: "Vyrobená ocel" # todo: NEW TRANSLATION
+ TOPBAR_net_technology_metals: "Čisté technologické kovy" # todo: NEW TRANSLATION
+ TOPBAR_consumed_technology_metals: "Spotřebované technologické kovy" # todo: NEW TRANSLATION
+ TOPBAR_exported_technology_metals: "Exportované technologické kovy" # todo: NEW TRANSLATION
+ TOPBAR_imported_technology_metals: "Dovážené technologické kovy" # todo: NEW TRANSLATION
+ TOPBAR_produced_technology_metals: "Vyrobené technologické kovy" # todo: NEW TRANSLATION
+ TOPBAR_net_precious_metals: "Čisté drahé kovy" # todo: NEW TRANSLATION
+ TOPBAR_consumed_precious_metals: "Spotřebované drahé kovy" # todo: NEW TRANSLATION
+ TOPBAR_exported_precious_metals: "Exportované drahé kovy" # todo: NEW TRANSLATION
+ TOPBAR_imported_precious_metals: "Dovážené drahé kovy" # todo: NEW TRANSLATION
+ TOPBAR_produced_precious_metals: "Vyrobené drahé kovy" # todo: NEW TRANSLATION

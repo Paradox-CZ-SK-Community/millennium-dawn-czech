@@ -1,182 +1,192 @@
 ﻿l_english:
-  raid_category_infastructure_strikes: "Útoky na infrastrukturu" # todo: NEW TRANSLATION
-  raid_category_military_resource_raids: "Vojenské útoky" # todo: NEW TRANSLATION
-  raid_category_special_forces_raids: "Útoky speciálních jednotek" # todo: NEW TRANSLATION
-  raid_category_naval_raids: "Námořní nájezdy" # todo: NEW TRANSLATION
-  raid_category_drone_strike_raids: "Dronové útoky" # todo: NEW TRANSLATION
-  raid_category_header_infastructure_strikes: "Útoky na infrastrukturu" # todo: NEW TRANSLATION
-  raid_category_header_military_resource_raids: "Vojenské útoky" # todo: NEW TRANSLATION
-  raid_category_header_special_forces_raids: "Útoky speciálních jednotek" # todo: NEW TRANSLATION
-  raid_category_header_naval_raids: "Námořní nájezdy" # todo: NEW TRANSLATION
-  raid_category_header_drone_strike_raids: "Dronové útoky" # todo: NEW TRANSLATION
-  tooltip_raid_category_infastructure_strikes: "§HÚtoky na infrastrukturu§! \nÚtoky vedené proti infrastruktuře země, včetně výroby, získávání zdrojů a energetických a komunikačních sítí\n\n§RUPOZORNĚNÍ: Provedení těchto útoků může být považováno za válečný akt!§!" # todo: NEW TRANSLATION
-  tooltip_raid_category_military_resource_raids: "§HVojenské útoky§! \nÚtoky vedené proti vojenské infrastruktuře a výrobě země.\n\n§RUPOZORNĚNÍ: Provedení těchto útoků může být považováno za válečný akt!§!" # todo: NEW TRANSLATION
-  tooltip_raid_category_special_forces_raids: "§HSpeciální operace – nájezd§! \nÚtoky prováděné jednotkami speciálních operací, aby se zvýšila úspěšnost vojenských operací.\n\n§RVAROVÁNÍ: Provedení těchto operací a jejich dopadení může být považováno za válečný akt!§!" # todo: NEW TRANSLATION
-  tooltip_raid_category_drone_strike_raids: "§HDronové útoky§! \nOperace prováděné silami používajícími bezpilotní vzdušné systémy (UAS), k útokům na cíle nebo shromažďování zpravodajských informací.\n\n§RVAROVÁNÍ: Provedení těchto operací a jejich dopadení může být považováno za válečný akt!§!" # todo: NEW TRANSLATION
-  tooltip_raid_category_naval_raids: "§HNámořní nájezdy§! \nÚtoky vedené proti nepřátelským námořním aktivům, námořní výrobě, nebo pobřeží.\n\n§RVAROVÁNÍ: Provedení těchto útoků může být považováno za válečný akt!§!" # todo: NEW TRANSLATION
-  raid_type_fuel_production_storage_raid_air: "Útok na výrobu a sklad paliv" # todo: NEW TRANSLATION
-  raid_type_fuel_production_storage_raid_air_desc: "Útoky na sklady paliv a na rafinerie, snižující jak výrobu paliva, tak i jeho skladování." # todo: NEW TRANSLATION
-  raid_type_metal_production_raid_air: "Útok na kovové doly" # todo: NEW TRANSLATION
-  raid_type_metal_production_raid_air_desc: "Útoky na doly a těžební zařízení, aby se snížily zásoby kovů, které lze z těchto lokalit těžit." # todo: NEW TRANSLATION
-  raid_type_state_power_strike_air: "Útok na elektrickou síť státu" # todo: NEW TRANSLATION
-  raid_type_state_power_strike_air_desc: "Útok vedený za cílem poškodit nebo zničit nepřátelské zdroje energie a narušit jejich elektrickou síť." # todo: NEW TRANSLATION
-  raid_type_production_strike: "Útok na výrobní podniky" # todo: NEW TRANSLATION
-  raid_type_production_strike_desc: "Útoky na výrobní odvětví, aby omezily hospodářský a vojenský rozvoj." # todo: NEW TRANSLATION
-  raid_type_infrastructure_strike: "Útok na síťovou a dopravní infrastrukturu" # todo: NEW TRANSLATION
-  raid_type_infrastructure_strike_desc: "Útoky na silnice, železnice a síťovou infrastrukturu, aby narušily přepravu zásob a komunikaci." # todo: NEW TRANSLATION
-  raid_type_facility_strike: "Útok na výzkumné zařízení" # todo: NEW TRANSLATION
-  raid_type_facility_strike_desc: "Útok na výzkumné zařízení, aby zpomalil postup projektu a zastavil výzkumné operace." # todo: NEW TRANSLATION
-  raid_type_canal_damaged_tt: "Kanál zablokován kvůli významnému poškození zámků" # todo: NEW TRANSLATION
-  raid_type_tactical_nuclear_strike: "Taktický jaderný úder" # todo: NEW TRANSLATION
-  raid_type_tactical_nuclear_strike_desc: "Jedna taktická jaderná zbraň použitá proti provincii v taktickém úkolu." # todo: NEW TRANSLATION
-  raid_type_state_nuclear_strike: "Jaderný úder na úrovni státu" # todo: NEW TRANSLATION
-  raid_type_state_nuclear_strike_desc: "Provede jaderné údery proti jednomu státu, výrazně poškozující cokoliv v daném státě." # todo: NEW TRANSLATION
-  raid_type_strategic_nuclear_strike: "Plný jaderný úder" # todo: NEW TRANSLATION
-  raid_type_strategic_nuclear_strike_desc: "§REnd of The World as We Know it.§! Provede jaderný úder na celou zemi naráz." # todo: NEW TRANSLATION
-  raid_type_cruise_missile_port_strike: "Útok na přístav s řízenými střelami" # todo: NEW TRANSLATION
-  raid_type_cruise_missile_port_strike_desc: "Útoky řízenými střelami (GLCM) proti nepřátelským lodím v přístavu a k nepřátelským přístavním zařízením." # todo: NEW TRANSLATION
-  raid_type_beach_landing_preparation: "Přípravy na vylodění na pláži" # todo: NEW TRANSLATION
-  raid_type_beach_landing_preparation_desc: "Operace prováděné před vyloděním, aby bylo amfibické vylodění efektivnější a účinnější." # todo: NEW TRANSLATION
-  raid_type_canal_bombing_raid: "Útok na zámky kanálu" # todo: NEW TRANSLATION
-  raid_type_canal_bombing_raid_desc: "Útoky vedené na kanálové zámky, aby bylo znemožněno fungování kanálu." # todo: NEW TRANSLATION
-  raid_type_offensive_counter_air_strike: "OCA raketový útok" # todo: NEW TRANSLATION
-  raid_type_offensive_counter_air_strike_desc: "Raketové útoky vedené proti nepřátelské letecké základně, aby narušily jejich letecké operace." # todo: NEW TRANSLATION
-  raid_type_divisions_cruise_missile_strike: "Úder řízenými střelami na formace" # todo: NEW TRANSLATION
-  raid_type_divisions_cruise_missile_strike_desc: "Masové útoky řízenými střelami proti formacím nepřátelských sil, za účelem značného poškození." # todo: NEW TRANSLATION
-  raid_type_special_reconassiance: "Speciální průzkumná mise" # todo: NEW TRANSLATION
-  raid_type_special_reconassiance_desc: "Operátoři speciálních jednotek provádějí dlouhodobé průzkumné mise, aby lépe připravili naše síly k operacím proti konkrétním cílům." # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_supply: "Zásobovací nájezd" # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_supply_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku na nepřátelské zásobovací linie." # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_air: "Útok na leteckou základnu" # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_air_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku a poškození nepřátelských leteckých základen." # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_naval: "Nájezd na námořní základnu" # todo: NEW TRANSLATION
-  raid_type_direct_action_raid_naval_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku a poškození nepřátelských námořních zařízení." # todo: NEW TRANSLATION
-  raid_type_scientist_kill_mission: "Mise na zabití vědce" # todo: NEW TRANSLATION
-  raid_type_scientist_kill_mission_desc: "Provede nájezd zaměřený na zabití nepřátelských výzkumníků nebo vedení." # todo: NEW TRANSLATION
-  raid_type_drone_swarm_strikes: "Útok rojů sebevražedných dronů" # todo: NEW TRANSLATION
-  raid_type_drone_swarm_strikes_desc: "Vypustí roj sebevražedných dronů do státu, poškozující nepřátelské vybavení a ztěžující provoz operací v daném státě." # todo: NEW TRANSLATION
-  raid_type_drone_target_recon: "Cílový průzkum drony" # todo: NEW TRANSLATION
-  raid_type_drone_target_recon_desc: "Provádějí časté vyhrazené průzkumné mise s UAV pro shromáždění informací, které umožní efektivnější budoucí vojenské operace ve státě." # todo: NEW TRANSLATION
-  raid_type_targeted_drone_strike: "Útok dronů na zařízení" # todo: NEW TRANSLATION
-  raid_type_targeted_drone_strike_desc: "Provede útok drony na výzkumné zařízení, aby zničil výzkumné vybavení a zpomalil postup nepřátelského výzkumu." # todo: NEW TRANSLATION
-  raid_type_anti_missile_strikes: "Protiraketové útoky" # todo: NEW TRANSLATION
-  raid_type_anti_missile_strikes_desc: "Provádí útoky na nepřátelské §YMísta vypuštění raket§! k poškození nebo zničení těchto zařízení." # todo: NEW TRANSLATION
-  metal_refining_modifier: "Doly na ocel a hliník poškozeny" # todo: NEW TRANSLATION
-  metal_minor_refining_modifier: "$metal_refining_modifier$" # todo: NEW TRANSLATION
-  metal_critical_refining_modifier: "$metal_refining_modifier$" # todo: NEW TRANSLATION
-  tech_metal_refining_modifier: "Doly na kovové prvky poškozeny" # todo: NEW TRANSLATION
-  tech_metal_minor_refining_modifier: "$tech_metal_refining_modifier$" # todo: NEW TRANSLATION
-  tech_metal_critical_refining_modifier: "$tech_metal_refining_modifier$" # todo: NEW TRANSLATION
-  rare_metal_refining_modifier: "Doly vzácných kovů poškozeny" # todo: NEW TRANSLATION
-  rare_metal_minor_refining_modifier: "$rare_metal_refining_modifier$" # todo: NEW TRANSLATION
-  rare_metal_critical_refining_modifier: "$rare_metal_refining_modifier$" # todo: NEW TRANSLATION
-  oil_refining_modifier: "Ropné vrty a rafinerie poškozeny" # todo: NEW TRANSLATION
-  oil_minor_refining_modifier: "$oil_refining_modifier$" # todo: NEW TRANSLATION
-  oil_critical_refining_modifier: "$oil_refining_modifier$" # todo: NEW TRANSLATION
-  power_strike_modifier: "Poškozena elektrická síť" # todo: NEW TRANSLATION
-  power_minor_strike_modifier: "$power_strike_modifier$" # todo: NEW TRANSLATION
-  power_critical_strike_modifier: "$power_strike_modifier$" # todo: NEW TRANSLATION
-  beach_landing_preparation_modifier: "Přípravy na vylodění na pláži" # todo: NEW TRANSLATION
-  sucide_drone_swarms: "Roj sebevražedných dronů" # todo: NEW TRANSLATION
-  destroyed_dam: "Zničená hráz" # todo: NEW TRANSLATION
-  nuclear_fallout: "Jaderný spad" # todo: NEW TRANSLATION
-  canal_damaged_modifier: "Poškozené zámky kanálu" # todo: NEW TRANSLATION
-  special_recon: "Speciální průzkum dokončen" # todo: NEW TRANSLATION
-  targeted_drone_recon: "Cílové průzkumné lety dronů" # todo: NEW TRANSLATION
-  MD_raid_empty_promises: "Prázdné sliby" # todo: NEW TRANSLATION
-  MD_raid_empty_promises_desc: "Slíbili jsme našim lidem, že dodáme to, co mělo být koordinovaným, přesným a odvetným útokem proti našim nepřátelům... Přesto jsme selhali." # todo: NEW TRANSLATION
-  MD_raid_bonus: "Odvetný bonus" # todo: NEW TRANSLATION
-  oca_strike_damage_tt: "Naše §Yletecké základny§!, §Yradarové stanice§!, a §YSHORAD místa§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy." # todo: NEW TRANSLATION
-  plane_raid_losses_tt: "Útok si vyžádal §R[?raid_planes_lost|0]§! letadel, pokud byly použity pevné křídla." # todo: NEW TRANSLATION
-  fac_strike_raid_tt: "Budova utrpěla §R$DAMAGE$%§! a vědec byl zraněn na §R$DAYS$§! dnech." # todo: NEW TRANSLATION
-  damage_to_units_tt: "Jednotky ve státě utrpí §R[?missile_damage_to_unit|0]§! poškození organizace a §R[?str_dam|0]§! poškození síly." # todo: NEW TRANSLATION
-  rocket_site_strike_tt: "Naše §YRaketové odpalovací stanice§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy." # todo: NEW TRANSLATION
-  fuel_prod_stor_raid_tt: "Naše §Ypalivové sklady§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy." # todo: NEW TRANSLATION
-  power_prod_build_dmg_tt: "Naše §YObnovitelné zdroje energie§! a §YFosilní elektrárny§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy" # todo: NEW TRANSLATION
-  prod_strike_damage_tt: "Naše budovy §YProdukce§! a §YFinance§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy." # todo: NEW TRANSLATION
-  infra_strike_damage_tt: "Naše §YInfrastruktura§!, §YSítě§!, a §YŽeleznice§! utrpěly §R$DAMAGE$%§! poškození na úrovni budovy." # todo: NEW TRANSLATION
-  has_been_nuked: "Byl zasažen jaderným úderem!" # todo: NEW TRANSLATION
-  enable_nuclear_strikes_tt: "Povolí jaderné útoky, když je ve válce." # todo: NEW TRANSLATION
-  strat_nuclear_strike_wt_tt: "Provedený strategický jaderný úder" # todo: NEW TRANSLATION
-  state_nuclear_strike_wt_tt: "Provedený jaderný úder na úrovni státu" # todo: NEW TRANSLATION
-  tactical_nuclear_strike_wt_tt: "Provedený taktický jaderný úder" # todo: NEW TRANSLATION
-  conducted_peacetime_raid_tt: "Proveden mírový vojenský útok" # todo: NEW TRANSLATION
-  strike_aborted_tt: "Taktický jaderný úder zrušen" # todo: NEW TRANSLATION
-  nuclear_power_def_tt: "§YTaktické§! a §YStátní úrovně jaderných útoků§! lze provádět pouze na §YCored§! a §Ypřisouzených§! státech.\n\n§YNukleární útoky§! budou také vyžadovat §Y50%§! §Rlimit kapitulace§! k provedení jako první útok." # todo: NEW TRANSLATION
-  nuclear_power_off_tt: "§YTaktické§! a §YStátní úrovně jaderných útoků§! mohou být provedeny na jakýkoli cíl.\n\n§YJaderné útoky§! mohou být provedeny kdykoliv během konfliktu, ale země budou čelit negativním důsledkům za provedení prvního útoku s §Rlimtem kapitulace§! nižším než §Y50%§!" # todo: NEW TRANSLATION
-  no_use_case_tt: "Země není schopna provádět žádné jaderné útoky." # todo: NEW TRANSLATION
-  strat_retaliation_only_tt: "Země může provést pouze §RPlný jaderný útok§!, poté co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
-  tac_and_strat_retaliation_tt: "Země může provádět pouze jaderné útoky poté, co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
-  tac_first_use_strat_retal_tt: "Země je schopna provést §YTaktické§! a §YStátní úrovně§! jaderné útoky v souladu se svým §YJaderný stav§!, a §RPlný jaderný útok§! poté, co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
-  full_first_use_tt: "Země je schopna provést jakýkoli jaderný útok v mezích svého §YJaderného postoje§! aniž by byla nejprve zasažena jaderným útokem." # todo: NEW TRANSLATION
-  MD_raid.1.t: "[FROM.GetName] porušuje naši územní integritu!" # todo: NEW TRANSLATION
-  MD_raid.1.d: "Zprávy naznačují, že [FROM.GetLeader], vůdce [FROM.GetName], schválil sérii koordinovaných útoků na naši zemi. Tato agrese naznačuje zjevné pohrdání, nebo zmatení, hranicemi mezi našimi územími. Pro mnoho zde, zejména nacionalisté a patrioti, je to vnímáno jako otevřený akt války vyžadující silnou reakci. Avšak jiní doma i v zahraničí volají po zdrženlivosti, prosazují deeskalaci, aby se zabránilo plnohodnotnému konfliktu." # todo: NEW TRANSLATION
-  MD_raid.1.a: "Akt války se nesmí nechat nepotrestán!" # todo: NEW TRANSLATION
-  MD_raid.1.NATO: "Aktivovat článek 5 NATO" # todo: NEW TRANSLATION
-  MD_raid.1.b: "Slibte veřejnosti odpověď!" # todo: NEW TRANSLATION
-  MD_raid.1.c: "Žádejte reparace a zmírnění napětí od [FROM.GetName]" # todo: NEW TRANSLATION
-  MD_raid.1.e: "Vydat diplomatický protest" # todo: NEW TRANSLATION
-  MD_raid.2.t: "[FROM.GetName] žádá reparace" # todo: NEW TRANSLATION
-  MD_raid.2.d: "Právě jsme obdrželi komunikační sdělení od [FROM.GetName]. Žádají odškodnění za ekonomické škody, které tvrdí, že utrpěli. V nedávném veřejném proslovu [FROM.GetLeader] varoval, že jakékoli odmítnutí platby bude potrestáno „rychlými a tvrdými“ důsledky." # todo: NEW TRANSLATION
-  MD_raid.2.a: "Nezaplatíme ani korunu." # todo: NEW TRANSLATION
-  MD_raid.2.b: "Cena za mír?" # todo: NEW TRANSLATION
-  MD_raid.3.t: "[FROM.GetName] souhlasí s reparacemi a slíbí zmírnit napětí" # todo: NEW TRANSLATION
-  MD_raid.3.d: "Naše hrozby odvetou přesvědily vedení [FROM.GetName], aby souhlasilo a poskytlo prostředky potřebné k pokrytí škod způsobených jejich neoprávněnými a nezákonnými porušením naší územní integrity. Dále se zavázali zmírnit napětí otevřeným dialogem a slíbili zdržet se budoucích útoků či nepřátelského chování, usilující o obnovení alespoň jakéhosi stability v regionu." # todo: NEW TRANSLATION
-  MD_raid.3.a: "Dobře" # todo: NEW TRANSLATION
-  MD_raid.4.t: "[FROM.GetName] Odmítá platit reparace" # todo: NEW TRANSLATION
-  MD_raid.4.d: "V nedávném projevu před davem prohlásil [FROM.GetLeader], že jejich vláda nehodlá zaplatit ani korunu. To je pro náš stát hluboce ponížující moment. Nejenže byla naše územní integrita narušena jejich počátečním útokem, ale naše důvěryhodnost na mezinárodní scéně je nyní také ohrožena." # todo: NEW TRANSLATION
-  MD_raid.4.a: "Musíme se odvetou!" # todo: NEW TRANSLATION
-  MD_raid.4.b: "Hrajte to, jako by se nic nestalo." # todo: NEW TRANSLATION
-  MD_raid.4.c: "Žádejte mezinárodní sankce!" # todo: NEW TRANSLATION
-  MD_raid.5.t: "Naše vláda čelí mezinárodnímu i domácímu ponížení." # todo: NEW TRANSLATION
-  MD_raid.5.d: "Celosvětoví reportéři používali výrazy jako 'prázdná slova', 'prázdné hrozby' a 'papírový tygr' k popisu naší reakce na nedávné útoky ze zahraničí. Naše neschopnost rozhodně reagovat zasadila tvrdý úder důvěryhodnosti naší vlády a zpochnila naši armádu jako životaschopný prostředek obrany." # todo: NEW TRANSLATION
-  MD_raid.5.a: "Sakra" # todo: NEW TRANSLATION
-  MD_raid.6.t: "Odplata!" # todo: NEW TRANSLATION
-  MD_raid.6.d: "Naše nedávné vojenské operace na cizím území nezůstaly bez povšimnutí režimu [FROM.capital.GetCapitalVictoryPointName]. V reakci na to vydali striktní varování a slíbili rychlou a rozhodnou odvetu proti naší zemi. Napětí v naší zemi roste, jak se připravujeme na nadcházející reakci, kterou oznámili, že přijde." # todo: NEW TRANSLATION
-  MD_raid.6.a: "Možná jen blafují" # todo: NEW TRANSLATION
-  MD_raid.10.t: "[FROM.GetName] zaútočil na našeho souseda [FROM.FROM.GetName]!" # todo: NEW TRANSLATION
-  MD_raid.10.d: "Náš soused [FROM.FROM.GetName] byl právě napaden [FROM.GetName]! Bez oficiálního vyhlášení války před útokem je to zjevné porušení regionální územní integrity ze strany nepřátelské moci. Region očekává jejich reakci na tento útok s napětím." # todo: NEW TRANSLATION
-  MD_raid.10.a: "Budeme příště my?" # todo: NEW TRANSLATION
-  MD_raid.10.b: "Zřejmě si to zasloužili." # todo: NEW TRANSLATION
-  MD_raid.11.t: "[FROM.GetName] provedl vojenský útok na [FROM.FROM.GetName]!" # todo: NEW TRANSLATION
-  MD_raid.11.d: "Bez formálního varování dnes ráno [FROM.GetName] zahájil překvapivý vojenský útok proti [FROM.FROM.GetName]. [FROM.GetLeader] dosud nevydal oficiální prohlášení k útoku, což zanechává mezinárodní společenství s mnoha otázkami. Mezitím četné země rychle odsoudily čin jako zjevné porušení mezinárodního práva, čímž se napětí po celém světě zvyšuje." # todo: NEW TRANSLATION
-  MD_raid.11.a: "Jak si to mohou dovolit udělat!" # todo: NEW TRANSLATION
-  MD_raid.11.b: "Není to naše věc." # todo: NEW TRANSLATION
-  MD_raid.12.t: "[FROM.GetName] zaútočil na [FROM.FROM.GetName]!" # todo: NEW TRANSLATION
-  MD_raid.12.d: "Ve šokujícím a neomaleném činu agrese povolil [FROM.GetLeader] vojenský útok svých sil proti našemu spojenci [FROM.FROM.GetName]. Tento drzý útok vyvolal šok v naší zemi, rozpoutal pobouření veřejnosti a vyvolal požadavky na rozhodný postup naší vlády. Zpráva je jasná: takový nevyprovokovaný útok nelze a nebude ignorován." # todo: NEW TRANSLATION
-  MD_raid.12.a: "Vždy budeme stát po boku našich spojenců!" # todo: NEW TRANSLATION
-  MD_raid.12.b: "Tak jako tak jsme je neměli rádi." # todo: NEW TRANSLATION
-  MD_raid.13.t: "[FROM.GetName] vyzývá k sankcím!" # todo: NEW TRANSLATION
-  MD_raid.13.d: "[FROM.GetLeader] požádal mezinárodní společenství, aby na nás uvalilo sankce po našem odmítnutí platit jejich absurdní reparace. Čas ukáže, zda svět jejich žádost podpoří. Budeme čelit mezinárodním, politickým a ekonomickým sankcím, které se budou zhoršovat v závislosti na tom, kolik dalších zemí se k sankcím proti nám připojí! Země se budou častěji přidávat ke sankcím, čím více budou vůči nám nepřátelské, nebo pokud budou diplomaticky či ekonomicky proti nám." # todo: NEW TRANSLATION
-  MD_raid.13.a: "Naše ekonomika obstojí!" # todo: NEW TRANSLATION
-  MD_raid.14.t: "[FROM.FROM.GetName] Žádá mezinárodní sankce!" # todo: NEW TRANSLATION
-  MD_raid.14.d: "Vůdce [FROM.FROM.GetLeader] požádal mezinárodní společenství, aby uvalilo sankce na [FROM.GetName] poté, co odmítli zaplatit požadované reparace po jejich vojenském útoku na [FROM.FROM.GetName]. Svět nyní musí reagovat na jejich žádost:" # todo: NEW TRANSLATION
-  MD_raid.14.a: "Připojíme se ke sankcím!" # todo: NEW TRANSLATION
-  MD_raid.14.b: "Ne, teď ne." # todo: NEW TRANSLATION
-  MD_raid.15.t: "Nedotýkej se toho, sakra!" # todo: NEW TRANSLATION
-  MD_raid.16.t: "Krize hrozí po [FROM.FROM.GetAdjective] útocích na [FROM.GetName]" # todo: NEW TRANSLATION
-  MD_raid.16.d: "Po provokativních útocích [FROM.GetName] na [FROM.GetAdjective] území se napětí dostalo na bod varu. Ve nekompromisním prohlášení prohlásil [FROM.GetLeader], vůdce [FROM.GetName], že jejich vláda bude reagovat rozhodně. Oznámili plány na mobilizaci jednotek a postup do [FROM.GetAdjective] území, slibujíc 'potlačit zuřivé tyrany v [FROM.FROM.capital.GetCapitalVictoryPointName]' a 'obnovit pořádek silou, pokud bude třeba'. Tento krok podtrhuje regionální i globální stabilitu a ukazuje nebezpečí vyplývající z nedostatku diplomacie. Diplomatické kanály zatím zůstávají tiché, což zvyšuje obavy, že tato eskalace by se mohla zvrhnout do nekontrolovatelného střetu s vážnými důsledky pro mezinárodní mír a bezpečnost." # todo: NEW TRANSLATION
-  MD_raid.16.a: "Co se stane dál?" # todo: NEW TRANSLATION
-  MD_raid.17.t: "[FROM.GetName] Aktivuje článek 5 NATO" # todo: NEW TRANSLATION
-  MD_raid.17.d: "Po útocích [FROM.FROM.GetAdjective] na [FROM.GetAdjective] půdu učinila vláda v [FROM.capital.GetCapitalVictoryPointName] rozhodný krok a aktivovala NATO Článek 5, vyzývá své spojence k společné odpovědi na agresi. Útoky [FROM.FROM.GetName], popisované jako neodvetné a neprovokované, výrazně eskalovaly napětí a uvedly situaci na práh války. Rozhodnutí aktivovat Článek 5 NATO vyslalo šokující vlny na mezinárodní scénu, světoví lídři spěchají reagovat na to, co by se mohlo stát jedním z nejvýznamnějších testů aliance v moderní historii. Diplomati a analytici varují před dalekosáhlými důsledky tohoto vývoje, neboť potenciál pro další eskalaci visí nad globem." # todo: NEW TRANSLATION
-  MD_raid.17.a: "Obří národ byl vyprovokován" # todo: NEW TRANSLATION
-  MD_nuclear_energy.1.t: "Varování k jaderné energii" # todo: NEW TRANSLATION
-  MD_nuclear_energy.1.d: "Ověřte, že máte zapnutý nápad na generování jaderné energie před stavbou reaktorů. Jinak reaktory budou stát neaktivně a neposkytnou žádnou energii vaší zemi." # todo: NEW TRANSLATION
-  MD_nuclear_energy.1.a: "OK" # todo: NEW TRANSLATION
-  disable_raid_notifs_TT: "§CPoznámka:\n - Můžete vypnout oznámení o událostech týkajících se nájezdů v nabídce rozhodnutí §H'[ROOT.GetFlag][ROOT.GetAdjective] Zpráva o zahraničním vlivu'§!\n - Nadále budete dostávat oznámení o nájezdech na našem území§!" # todo: CHANGED
-  has_modern_landing_craft_TT: "Protože nemáme prozkoumané §HModerní výsadkové lodě§!, naše nájezdy jsou omezeny pouze na náš kontinent" # todo: NEW TRANSLATION
-  has_spec_ops_4_TT: "Protože nemáme prozkoumané §HZbraně vybraných speciálních sil§!, naše nájezdy jsou omezeny pouze na náš kontinent" # todo: NEW TRANSLATION
-  MD_timed_raid_TT: "§RBudeme mít 270 dní na reakci s nižšími náklady na nájezdy!§!" # todo: NEW TRANSLATION
-  MD_reparation_TT: "§HZaplatíme:§!" # todo: NEW TRANSLATION
-  MD_reparation2_TT: "§HOni slíbili, že nám po dobu roku neprovedou útok!§!\n§RPokud je napadneme, nebudou nám důvěřovat dlouho§!" # todo: NEW TRANSLATION
-  nation_on_same_continent: "Cílová země musí být na stejné pevnině." # todo: NEW TRANSLATION
-  MD_sanctioned_TT: "Přidává národní ideu §HMezinárodní sankce§!" # todo: CHANGED
-  RAID_war_instantly_TT: "§ROkamžitě vyvolá válku!§!" # todo: NEW TRANSLATION
-  has_nuclear_weapons_in_arsenal_tt: "Nejméně §Y[?temp_check|0]§! §Yjaderně schopné zbraně§! (ICBMs or IRBMs) musí být ve naší zásobě." # todo: NEW TRANSLATION
-  is_able_to_launch_a_strike_type_tt: "Náš §Njaderný stav§! umožňuje §Yútočné použití§! z našeho §Njaderného arzenálu§! nebo §Y[?var:target_state.GetName]§! je vlastněno nebo nárokováno [ROOT.GetNameWithFlag] a [ROOT.GetNameWithFlag] má více než §Y50%§! Pokrok v kapitulaci." # todo: NEW TRANSLATION
-  is_able_to_use_nuclear_strikes_tt: "Náš §Njaderný postoj ke zbraním§! umožňuje §Yúplné použití§! našeho §Njaderného arzenálu§! nebo jsme byli zasaženi jako první." # todo: NEW TRANSLATION
-  is_able_to_use_nuclear_strikes_tac_tt: "Náš §Njaderný postoj ke zbraním§! umožňuje §YTaktické první použití§! nebo §Yúplné použití§! z našeho §Njaderného arzenálu§! nebo jsme byli zasaženi jako první." # todo: NEW TRANSLATION
-  guided_missile: "Klouzavá střela" # todo: NEW TRANSLATION
-  nuclear_ballistic_missile: "NIRBM" # todo: NEW TRANSLATION
-  raiding_economic_sanctions: "Mezinárodní sankce" # todo: NEW TRANSLATION
-  raiding_economic_sanctions_desc: "V důsledku provedení nájezdu na jiný stát se mezinárodní společenství rozhodlo na nás uvalit sankce. V důsledku toho nás čekají určité následky. Pokaždé, když provedeme nájezd a proti nám je zahájeno řízení, sankce potrvají déle a budou nést přísnější postihy.\n§W--------------§!\nTato národní idea bude §ROdstraněna§! za [?refused_payment_got_sanctioned_no_raids:days_left|Y0] dní, pokud neprovedeme žádné nájezdy." # todo: CHANGED
+ raid_category_infastructure_strikes: "Útoky na infrastrukturu" # todo: NEW TRANSLATION
+ raid_category_military_resource_raids: "Vojenské útoky" # todo: NEW TRANSLATION
+ raid_category_special_forces_raids: "Útoky speciálních jednotek" # todo: NEW TRANSLATION
+ raid_category_naval_raids: "Námořní nájezdy" # todo: NEW TRANSLATION
+ raid_category_drone_strike_raids: "Dronové útoky" # todo: NEW TRANSLATION
+ raid_category_header_infastructure_strikes: "Útoky na infrastrukturu" # todo: NEW TRANSLATION
+ raid_category_header_military_resource_raids: "Vojenské útoky" # todo: NEW TRANSLATION
+ raid_category_header_special_forces_raids: "Útoky speciálních jednotek" # todo: NEW TRANSLATION
+ raid_category_header_naval_raids: "Námořní nájezdy" # todo: NEW TRANSLATION
+ raid_category_header_drone_strike_raids: "Dronové útoky" # todo: NEW TRANSLATION
+ raid_category_EH_portal_raids: "Nájezd na portál Chiméry" # todo: NEW TRANSLATION
+ tooltip_raid_category_infastructure_strikes: "§HÚdery na infrastrukturu§! \nLetecké údery jediného leteckého křídla zaměřené na konkrétní cíl." # todo: CHANGED
+ tooltip_raid_category_military_resource_raids: "§HVojenské údery§! \nÚdery balistickými nebo řízenými střelami zaměřené na vojenské cíle." # todo: CHANGED
+ tooltip_raid_category_special_forces_raids: "§HÚdery speciálních operací§! \nMalé nájezdy prováděné speciálními jednotkami za nepřátelskými liniemi." # todo: CHANGED
+ tooltip_raid_category_naval_raids: "§HNámořní nájezdy§! \nNájezdy zaměřené na námořní základny, velitelství nebo opevnění." # todo: CHANGED
+ tooltip_raid_category_drone_strike_raids: "§HÚdery drony§! \nNájezdy prováděné bezpilotními bojovými letouny." # todo: CHANGED
+ raid_type_fuel_production_storage_raid_air: "Útok na výrobu a sklad paliv" # todo: NEW TRANSLATION
+ raid_type_fuel_production_storage_raid_air_desc: "Útoky na sklady paliv a na rafinerie, snižující jak výrobu paliva, tak i jeho skladování." # todo: NEW TRANSLATION
+ raid_type_metal_production_raid_air: "Útok na kovové doly" # todo: NEW TRANSLATION
+ raid_type_metal_production_raid_air_desc: "Údery proti dolům a těžebnímu vybavení, které snižují množství zdrojů, jež lze na těchto místech vytěžit." # todo: CHANGED
+ raid_type_state_power_strike_air: "Útok na elektrickou síť státu" # todo: NEW TRANSLATION
+ raid_type_state_power_strike_air_desc: "Úder provedený s cílem poškodit nebo zničit nepřátelská místa výroby energie a narušit elektrickou síť dané země." # todo: CHANGED
+ raid_type_production_strike: "Útok na výrobní podniky" # todo: NEW TRANSLATION
+ raid_type_production_strike_desc: "Útoky na výrobní odvětví, aby omezily hospodářský a vojenský rozvoj." # todo: NEW TRANSLATION
+ raid_type_infrastructure_strike: "Útok na síťovou a dopravní infrastrukturu" # todo: NEW TRANSLATION
+ raid_type_infrastructure_strike_desc: "Útoky na silnice, železnice a síťovou infrastrukturu, aby narušily přepravu zásob a komunikaci." # todo: NEW TRANSLATION
+ raid_type_tactical_nuclear_strike: "Taktický jaderný úder" # todo: NEW TRANSLATION
+ raid_type_tactical_nuclear_strike_desc: "Jedna taktická jaderná zbraň použitá proti provincii v taktickém úkolu." # todo: NEW TRANSLATION
+ raid_type_state_nuclear_strike: "Jaderný úder na úrovni státu" # todo: NEW TRANSLATION
+ raid_type_state_nuclear_strike_desc: "Provede jaderné údery proti jednomu státu, výrazně poškozující cokoliv v daném státě." # todo: NEW TRANSLATION
+ raid_type_strategic_nuclear_strike: "Plný jaderný úder" # todo: NEW TRANSLATION
+ raid_type_strategic_nuclear_strike_desc: "§REnd of The World as We Know it.§! Provede jaderný úder na celou zemi naráz." # todo: NEW TRANSLATION
+ raid_type_cruise_missile_port_strike: "Útok na přístav s řízenými střelami" # todo: NEW TRANSLATION
+ raid_type_cruise_missile_port_strike_desc: "Útoky řízenými střelami (GLCM) proti nepřátelským lodím v přístavu a k nepřátelským přístavním zařízením." # todo: NEW TRANSLATION
+ raid_type_naval_headquarters_strike: "Útok na velitelství námořnictva" # todo: NEW TRANSLATION
+ raid_type_naval_headquarters_strike_desc: "Útoky střelami s plochou dráhou letu proti nepřátelskému velitelství námořnictva, které zničí zařízení a oslabí jeho schopnosti velení námořních sil." # todo: NEW TRANSLATION
+ raid_type_enrichment_facility_strike: "Útok na obohacovací zařízení" # todo: NEW TRANSLATION
+ raid_type_enrichment_facility_strike_desc: "Útoky proti zařízením na obohacování uranu, které vyřadí schopnost cíle vyrábět jaderné palivo a materiál pro zbraně." # todo: NEW TRANSLATION
+ raid_type_beach_landing_preparation: "Přípravy na vylodění na pláži" # todo: NEW TRANSLATION
+ raid_type_beach_landing_preparation_desc: "Operace prováděné před vyloděním výsadkových sil s cílem učinit obojživelné vylodění efektivnějším a účinnějším." # todo: CHANGED
+ raid_type_canal_bombing_raid: "Útok na zámky kanálu" # todo: NEW TRANSLATION
+ raid_type_canal_bombing_raid_desc: "Údery proti zdymadlům kanálu s cílem zabránit jeho provozu." # todo: CHANGED
+ raid_type_offensive_counter_air_strike: "Raketový úder v rámci ofenzivního boje proti letectvu" # todo: CHANGED
+ raid_type_offensive_counter_air_strike_desc: "Raketové útoky vedené proti nepřátelské letecké základně, aby narušily jejich letecké operace." # todo: NEW TRANSLATION
+ raid_type_divisions_cruise_missile_strike: "Úder řízenými střelami na formace" # todo: NEW TRANSLATION
+ raid_type_divisions_cruise_missile_strike_desc: "Masivní údery řízenými střelami proti koncentracím nepřátelských sil s cílem způsobit značné škody." # todo: CHANGED
+ raid_type_special_reconassiance: "Speciální průzkumná mise" # todo: NEW TRANSLATION
+ raid_type_special_reconassiance_desc: "Příslušníci speciálních jednotek provádějí dálkové průzkumné mise, aby lépe připravili naše síly na operace proti konkrétním cílům." # todo: CHANGED
+ raid_type_direct_action_raid_supply: "Zásobovací nájezd" # todo: NEW TRANSLATION
+ raid_type_direct_action_raid_supply_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku na nepřátelské zásobovací linie." # todo: NEW TRANSLATION
+ raid_type_direct_action_raid_air: "Útok na leteckou základnu" # todo: NEW TRANSLATION
+ raid_type_direct_action_raid_air_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku a poškození nepřátelských leteckých základen." # todo: NEW TRANSLATION
+ raid_type_direct_action_raid_naval: "Nájezd na námořní základnu" # todo: NEW TRANSLATION
+ raid_type_direct_action_raid_naval_desc: "Operátoři speciálních jednotek provedou mise za účelem útoku a poškození nepřátelských námořních zařízení." # todo: NEW TRANSLATION
+ raid_type_scientist_kill_mission: "Mise na zabití vědce" # todo: NEW TRANSLATION
+ raid_type_scientist_kill_mission_desc: "Provede nájezd zaměřený na zabití nepřátelských výzkumníků nebo vedení." # todo: NEW TRANSLATION
+ raid_type_free_captured_operative_mission: "Mise na osvobození zajatého agenta" # todo: NEW TRANSLATION
+ raid_type_free_captured_operative_mission_desc: "Provede nájezd zaměřený na záchranu našeho zajatého špiona z nepřátelského zajetí." # todo: NEW TRANSLATION
+ raid_type_counter_terror_hvt_raid: "Protiteroristický nájezd na vysoce hodnotný cíl" # todo: NEW TRANSLATION
+ raid_type_counter_terror_hvt_raid_desc: "Provede nájezd s cílem zabít nebo zajmout členy cílové teroristické organizace." # todo: NEW TRANSLATION
+ raid_type_counter_terror_cache_raid: "Protiteroristický nájezd na sklad zbraní" # todo: NEW TRANSLATION
+ raid_type_counter_terror_cache_raid_desc: "Provede nájezd s cílem zničit sklad zbraní teroristické organizace." # todo: NEW TRANSLATION
+ raid_type_counter_terror_training_camp_raid: "Protiteroristický nájezd na výcvikový tábor" # todo: NEW TRANSLATION
+ raid_type_counter_terror_training_camp_raid_desc: "Provede nájezd s cílem zničit výcvikové středisko teroristické organizace." # todo: NEW TRANSLATION
+ raid_type_counter_terror_elimination_raid: "Protiteroristický likvidační nájezd" # todo: NEW TRANSLATION
+ raid_type_counter_terror_elimination_raid_desc: "Provede nájezd s cílem zlikvidovat velitelství teroristické organizace." # todo: NEW TRANSLATION
+ raid_type_drone_swarm_strikes: "Útok rojů sebevražedných dronů" # todo: NEW TRANSLATION
+ raid_type_drone_swarm_strikes_desc: "Vypustí roj sebevražedných dronů do státu, poškozující nepřátelské vybavení a ztěžující provoz operací v daném státě." # todo: NEW TRANSLATION
+ raid_type_drone_target_recon: "Cílový průzkum drony" # todo: NEW TRANSLATION
+ raid_type_drone_target_recon_desc: "Provádět časté specializované průzkumné mise pomocí bezpilotních letounů za účelem shromažďování zpravodajských informací a zlepšení vojenských operací v daném státě." # todo: CHANGED
+ raid_type_targeted_drone_strike: "Útok dronů na zařízení" # todo: NEW TRANSLATION
+ raid_type_targeted_drone_strike_desc: "Provede útok drony na výzkumné zařízení, aby zničil výzkumné vybavení a zpomalil postup nepřátelského výzkumu." # todo: NEW TRANSLATION
+ raid_type_counter_terror_drone_operations: "Protiteroristické operace s drony" # todo: NEW TRANSLATION
+ raid_type_counter_terror_drone_operations_desc: "Provede průzkumné i úderné mise proti teroristické organizaci za použití dronů." # todo: NEW TRANSLATION
+ raid_type_anti_missile_strikes: "Protiraketové údery" # todo: CHANGED
+ raid_type_anti_missile_strikes_desc: "Provádí útoky na nepřátelské §YMísta vypuštění raket§! k poškození nebo zničení těchto zařízení." # todo: NEW TRANSLATION
+ raid_type_drone_airfield_radar_strike: "Útok drony na letiště a radarové stanice" # todo: NEW TRANSLATION
+ raid_type_drone_airfield_radar_strike_desc: "Provede sebevražedný útok drony proti nepřátelským §Yletištím§! a §Yradarovým stanicím§!, čímž oslabí jejich infrastrukturu protivzdušné obrany a zkomplikuje letecké operace." # todo: NEW TRANSLATION
+ raid_type_drone_power_grid_strike: "Útok drony na elektrickou síť" # todo: NEW TRANSLATION
+ raid_type_drone_power_grid_strike_desc: "Vypustí vlnu sebevražedných dronů proti nepřátelským §Yelektrárnám§! a §Yenergetické infrastruktuře§!, čímž naruší dodávky elektřiny a zatíží průmyslovou výrobu." # todo: NEW TRANSLATION
+ raid_type_drone_rocket_site_strike: "Útok drony na raketová stanoviště" # todo: NEW TRANSLATION
+ raid_type_drone_rocket_site_strike_desc: "Provede cílený útok drony proti nepřátelským §Yodpalovacím stanovištím raket§!, poškodí raketovou infrastrukturu a potlačí jejich kapacitu balistických střel a střel s plochou dráhou letu." # todo: NEW TRANSLATION
+ metal_refining_modifier: "Doly na ocel a hliník poškozeny" # todo: NEW TRANSLATION
+ metal_minor_refining_modifier: "$metal_refining_modifier$" # todo: NEW TRANSLATION
+ metal_critical_refining_modifier: "$metal_refining_modifier$" # todo: NEW TRANSLATION
+ tech_metal_refining_modifier: "Doly na kovové prvky poškozeny" # todo: NEW TRANSLATION
+ tech_metal_minor_refining_modifier: "$tech_metal_refining_modifier$" # todo: NEW TRANSLATION
+ tech_metal_critical_refining_modifier: "$tech_metal_refining_modifier$" # todo: NEW TRANSLATION
+ rare_metal_refining_modifier: "Doly vzácných kovů poškozeny" # todo: NEW TRANSLATION
+ rare_metal_minor_refining_modifier: "$rare_metal_refining_modifier$" # todo: NEW TRANSLATION
+ rare_metal_critical_refining_modifier: "$rare_metal_refining_modifier$" # todo: NEW TRANSLATION
+ oil_refining_modifier: "Ropné vrty a rafinerie poškozeny" # todo: NEW TRANSLATION
+ oil_minor_refining_modifier: "$oil_refining_modifier$" # todo: NEW TRANSLATION
+ oil_critical_refining_modifier: "$oil_refining_modifier$" # todo: NEW TRANSLATION
+ power_strike_modifier: "Poškozena elektrická síť" # todo: NEW TRANSLATION
+ power_minor_strike_modifier: "$power_strike_modifier$" # todo: NEW TRANSLATION
+ power_critical_strike_modifier: "$power_strike_modifier$" # todo: NEW TRANSLATION
+ beach_landing_preparation_modifier: "Přípravy na vylodění na pláži" # todo: NEW TRANSLATION
+ sucide_drone_swarms: "Roj sebevražedných dronů" # todo: NEW TRANSLATION
+ destroyed_dam: "Zničená hráz" # todo: NEW TRANSLATION
+ nuclear_fallout: "Jaderný spad" # todo: NEW TRANSLATION
+ canal_damaged_modifier: "Poškozené zámky kanálu" # todo: NEW TRANSLATION
+ special_recon: "Speciální průzkum dokončen" # todo: NEW TRANSLATION
+ targeted_drone_recon: "Cílové průzkumné lety dronů" # todo: NEW TRANSLATION
+ MD_raid_bonus: "Odvetný bonus" # todo: NEW TRANSLATION
+ plane_raid_losses_tt: "Úderná skupina ztratila §R[?raid_planes_lost|0]§! letounů, pokud používá letouny s pevným křídlem." # todo: CHANGED
+ damage_to_units_tt: "Jednotky ve státě utrpí §R[?missile_damage_to_unit|0]§! poškození organizace a §R[?str_dam|0]§! poškození síly." # todo: NEW TRANSLATION
+ has_been_nuked: "Byl zasažen jaderným úderem!" # todo: NEW TRANSLATION
+ enable_nuclear_strikes_tt: "Povolí jaderné útoky, když je ve válce." # todo: NEW TRANSLATION
+ strike_aborted_tt: "Taktický jaderný úder zrušen" # todo: NEW TRANSLATION
+ nuclear_power_def_tt: "§YTaktické§! a §YStátní úrovně jaderných útoků§! lze provádět pouze na §YCored§! a §Ypřisouzených§! státech.\n\n§YNukleární útoky§! budou také vyžadovat §Y50%§! §Rlimit kapitulace§! k provedení jako první útok." # todo: NEW TRANSLATION
+ nuclear_power_off_tt: "§YTaktické§! a §YStátní úrovně jaderných útoků§! mohou být provedeny na jakýkoli cíl.\n\n§YJaderné útoky§! mohou být provedeny kdykoliv během konfliktu, ale země budou čelit negativním důsledkům za provedení prvního útoku s §Rlimtem kapitulace§! nižším než §Y50%§!" # todo: NEW TRANSLATION
+ no_use_case_tt: "Země není schopna provádět žádné jaderné útoky." # todo: NEW TRANSLATION
+ strat_retaliation_only_tt: "Země může provést pouze §RPlný jaderný útok§!, poté co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
+ tac_and_strat_retaliation_tt: "Země může provádět pouze jaderné útoky poté, co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
+ tac_first_use_strat_retal_tt: "Země je schopna provést §YTaktické§! a §YStátní úrovně§! jaderné útoky v souladu se svým §YJaderný stav§!, a §RPlný jaderný útok§! poté, co byla nejprve napadena jaderným útokem." # todo: NEW TRANSLATION
+ full_first_use_tt: "Národ může provést jakýkoli jaderný úder v mezích svého §Yjaderného postoje§!, aniž by na něj musel být nejprve proveden jaderný úder." # todo: CHANGED
+ strat_nuclear_strike_wt_tt: "Provedený strategický jaderný úder" # todo: NEW TRANSLATION
+ state_nuclear_strike_wt_tt: "Proveden jaderný úder na úrovni státu" # todo: CHANGED
+ tactical_nuclear_strike_wt_tt: "Proveden taktický jaderný úder" # todo: CHANGED
+ MD_raid.1.t: "[FROM.GetName] porušuje naši územní integritu!" # todo: NEW TRANSLATION
+ MD_raid.1.d: "Zprávy naznačují, že [FROM.GetLeader], vůdce [FROM.GetName], schválil sérii koordinovaných útoků na naši zemi. Tato agrese naznačuje zjevné pohrdání, nebo zmatení, hranicemi mezi našimi územími. Pro mnoho zde, zejména nacionalisté a patrioti, je to vnímáno jako otevřený akt války vyžadující silnou reakci. Avšak jiní doma i v zahraničí volají po zdrženlivosti, prosazují deeskalaci, aby se zabránilo plnohodnotnému konfliktu." # todo: NEW TRANSLATION
+ MD_raid.1.a: "Akt války se nesmí nechat nepotrestán!" # todo: NEW TRANSLATION
+ MD_raid.1.NATO: "Aktivovat článek 5 NATO" # todo: NEW TRANSLATION
+ MD_raid.1.b: "Slibte veřejnosti odpověď!" # todo: NEW TRANSLATION
+ MD_raid.1.c: "Žádejte reparace a zmírnění napětí od [FROM.GetName]" # todo: NEW TRANSLATION
+ MD_raid.1.e: "Vydat diplomatický protest" # todo: NEW TRANSLATION
+ MD_raid.2.t: "[FROM.GetName] žádá reparace" # todo: NEW TRANSLATION
+ MD_raid.2.d: "Právě jsme obdrželi komuniké od [FROM.GetName]. Požadují odškodnění za hospodářské škody, které podle svých tvrzení utrpěli. V nedávném veřejném projevu [FROM.GetLeader] varoval, že jakékoli odmítnutí zaplatit se setká s „rychlými a tvrdými“ následky." # todo: CHANGED
+ MD_raid.2.a: "Nezaplatíme ani korunu." # todo: NEW TRANSLATION
+ MD_raid.2.b: "Cena za mír?" # todo: NEW TRANSLATION
+ MD_raid.3.t: "[FROM.GetName] souhlasí s reparacemi a slíbí zmírnit napětí" # todo: NEW TRANSLATION
+ MD_raid.3.d: "Naše hrozby odvetou přesvědily vedení [FROM.GetName], aby souhlasilo a poskytlo prostředky potřebné k pokrytí škod způsobených jejich neoprávněnými a nezákonnými porušením naší územní integrity. Dále se zavázali zmírnit napětí otevřeným dialogem a slíbili zdržet se budoucích útoků či nepřátelského chování, usilující o obnovení alespoň jakéhosi stability v regionu." # todo: NEW TRANSLATION
+ MD_raid.3.a: "Dobře" # todo: NEW TRANSLATION
+ MD_raid.4.t: "[FROM.GetName] Odmítá platit reparace" # todo: NEW TRANSLATION
+ MD_raid.4.d: "V nedávném projevu k davu [FROM.GetLeader] směle prohlásil, že jejich vláda nezaplatí „ani jedinou minci“. Pro náš stát je to hluboce ponižující okamžik. Nejenže byla naše územní celistvost narušena jejich počátečním útokem, ale nyní je ohrožena i naše důvěryhodnost na mezinárodní scéně." # todo: CHANGED
+ MD_raid.4.a: "Musíme se odvetou!" # todo: NEW TRANSLATION
+ MD_raid.4.b: "Hrajte to, jako by se nic nestalo." # todo: NEW TRANSLATION
+ MD_raid.4.c: "Žádejte mezinárodní sankce!" # todo: NEW TRANSLATION
+ MD_raid.5.t: "Naše vláda čelí mezinárodnímu i domácímu ponížení." # todo: NEW TRANSLATION
+ MD_raid.5.d: "Zahraniční reportéři k popisu naší reakce na nedávné útoky cizích aktérů použili výrazy jako „prázdná slova“, „prázdné hrozby“ a „papírový tygr“. Naše neschopnost rozhodně reagovat zasadila důvěryhodnosti naší vlády těžkou ránu a zpochybnila naši armádu jako životaschopný prostředek obrany." # todo: CHANGED
+ MD_raid.5.a: "Sakra" # todo: NEW TRANSLATION
+ MD_raid.6.t: "Odplata!" # todo: NEW TRANSLATION
+ MD_raid.6.d: "Naše nedávné vojenské operace na cizím území nezůstaly bez povšimnutí režimu [FROM.capital.GetCapitalVictoryPointName]. V reakci na to vydali striktní varování a slíbili rychlou a rozhodnou odvetu proti naší zemi. Napětí v naší zemi roste, jak se připravujeme na nadcházející reakci, kterou oznámili, že přijde." # todo: NEW TRANSLATION
+ MD_raid.6.a: "Možná jen blafují" # todo: NEW TRANSLATION
+ MD_raid.10.t: "[FROM.GetName] zaútočil na našeho souseda [FROM.FROM.GetName]!" # todo: NEW TRANSLATION
+ MD_raid.10.d: "Náš soused [FROM.FROM.GetName] byl právě napaden [FROM.GetName]! Bez oficiálního vyhlášení války před útokem je to zjevné porušení regionální územní integrity ze strany nepřátelské moci. Region očekává jejich reakci na tento útok s napětím." # todo: NEW TRANSLATION
+ MD_raid.10.a: "Budeme příště my?" # todo: NEW TRANSLATION
+ MD_raid.10.b: "Zřejmě si to zasloužili." # todo: NEW TRANSLATION
+ MD_raid.12.t: "[FROM.GetName] zaútočil na [FROM.FROM.GetName]!" # todo: NEW TRANSLATION
+ MD_raid.12.d: "Ve šokujícím a neomaleném činu agrese povolil [FROM.GetLeader] vojenský útok svých sil proti našemu spojenci [FROM.FROM.GetName]. Tento drzý útok vyvolal šok v naší zemi, rozpoutal pobouření veřejnosti a vyvolal požadavky na rozhodný postup naší vlády. Zpráva je jasná: takový nevyprovokovaný útok nelze a nebude ignorován." # todo: NEW TRANSLATION
+ MD_raid.12.a: "Vždy budeme stát po boku našich spojenců!" # todo: NEW TRANSLATION
+ MD_raid.12.b: "Tak jako tak jsme je neměli rádi." # todo: NEW TRANSLATION
+ MD_raid.13.t: "[FROM.GetName] vyzývá k sankcím!" # todo: NEW TRANSLATION
+ MD_raid.13.d: "[FROM.GetLeader] požádal mezinárodní společenství, aby na nás uvalilo sankce po našem odmítnutí platit jejich absurdní reparace. Čas ukáže, zda svět jejich žádost podpoří. Budeme čelit mezinárodním, politickým a ekonomickým sankcím, které se budou zhoršovat v závislosti na tom, kolik dalších zemí se k sankcím proti nám připojí! Země se budou častěji přidávat ke sankcím, čím více budou vůči nám nepřátelské, nebo pokud budou diplomaticky či ekonomicky proti nám." # todo: NEW TRANSLATION
+ MD_raid.13.a: "Naše ekonomika obstojí!" # todo: NEW TRANSLATION
+ MD_raid.14.t: "[FROM.FROM.GetName] Žádá mezinárodní sankce!" # todo: NEW TRANSLATION
+ MD_raid.14.d: "Vůdce [FROM.FROM.GetLeader] požádal mezinárodní společenství, aby uvalilo sankce na [FROM.GetName] poté, co odmítli zaplatit požadované reparace po jejich vojenském útoku na [FROM.FROM.GetName]. Svět nyní musí reagovat na jejich žádost:" # todo: NEW TRANSLATION
+ MD_raid.14.a: "Připojíme se ke sankcím!" # todo: NEW TRANSLATION
+ MD_raid.14.b: "Ne, teď ne." # todo: NEW TRANSLATION
+ MD_raid.16.t: "Krize hrozí po [FROM.FROM.GetAdjective] útocích na [FROM.GetName]" # todo: NEW TRANSLATION
+ MD_raid.16.d: "Po provokativních úderech [FROM.FROM.GetName] na území [FROM.GetAdjective] dosáhlo napětí bodu varu. V nekompromisním prohlášení [FROM.GetLeader], vůdce [FROM.GetName], prohlásil, že jejich vláda rozhodně odpoví. Oznámili plány na mobilizaci vojsk a postup do [FROM.FROM.GetAdjective] území a přísahali, že „potlačí vzteklé tyrany v [FROM.FROM.capital.GetCapitalVictoryPointName]“ a „v případě nutnosti obnoví pořádek silou“. Tento krok podtrhuje význam regionální a globální stability a ukazuje nebezpečí, která mohou vzniknout v důsledku nedostatku diplomacie. V současné době zůstávají diplomatické kanály němé, což zesiluje obavy, že tato eskalace by mohla přerůst v nekontrolovatelný střet s ničivými důsledky pro mezinárodní mír a bezpečnost." # todo: CHANGED
+ MD_raid.16.a: "Co se stane dál?" # todo: NEW TRANSLATION
+ MD_raid.17.t: "[FROM.GetName] Aktivuje článek 5 NATO" # todo: NEW TRANSLATION
+ MD_raid.17.d: "Po útocích [FROM.FROM.GetAdjective] na [FROM.GetAdjective] půdu učinila vláda v [FROM.capital.GetCapitalVictoryPointName] rozhodný krok a aktivovala NATO Článek 5, vyzývá své spojence k společné odpovědi na agresi. Útoky [FROM.FROM.GetName], popisované jako neodvetné a neprovokované, výrazně eskalovaly napětí a uvedly situaci na práh války. Rozhodnutí aktivovat Článek 5 NATO vyslalo šokující vlny na mezinárodní scénu, světoví lídři spěchají reagovat na to, co by se mohlo stát jedním z nejvýznamnějších testů aliance v moderní historii. Diplomati a analytici varují před dalekosáhlými důsledky tohoto vývoje, neboť potenciál pro další eskalaci visí nad globem." # todo: NEW TRANSLATION
+ MD_raid.17.a: "Obří národ byl vyprovokován" # todo: NEW TRANSLATION
+ MD_nuclear_energy.1.t: "Varování k jaderné energii" # todo: NEW TRANSLATION
+ MD_nuclear_energy.1.d: "Ověřte, že máte zapnutý nápad na generování jaderné energie před stavbou reaktorů. Jinak reaktory budou stát neaktivně a neposkytnou žádnou energii vaší zemi." # todo: NEW TRANSLATION
+ MD_nuclear_energy.1.a: "OK" # todo: NEW TRANSLATION
+ MD_nuclear_energy.1.b: "Změnit náš postoj k jaderné energetice" # todo: NEW TRANSLATION
+ disable_raid_notifs_TT: "§CPoznámka:\n - Můžete vypnout oznámení o událostech týkajících se nájezdů v nabídce rozhodnutí §H'[ROOT.GetFlag][ROOT.GetAdjective] Zpráva o zahraničním vlivu'§!\n - Nadále budete dostávat oznámení o nájezdech na našem území§!" # todo: CHANGED
+ has_modern_landing_craft_TT: "Protože nemáme vyzkoumané §Hmoderní výsadkové lodě§!, jsou naše nájezdy omezeny pouze na náš vlastní kontinent." # todo: CHANGED
+ has_spec_ops_4_TT: "Protože nemáme vyzkoumané §Hzbraně určené pro speciální jednotky§!, jsou naše nájezdy omezeny pouze na náš vlastní kontinent." # todo: CHANGED
+ MD_timed_raid_TT: "§RBudeme mít 270 dní na reakci s nižšími náklady na nájezdy!§!" # todo: NEW TRANSLATION
+ MD_reparation_TT: "§HZaplatíme:§!" # todo: NEW TRANSLATION
+ MD_reparation2_TT: "§HOni slíbili, že nám po dobu roku neprovedou útok!§!\n§RPokud je napadneme, nebudou nám důvěřovat dlouho§!" # todo: NEW TRANSLATION
+ nation_on_same_continent: "Cílová země musí být na stejné pevnině." # todo: NEW TRANSLATION
+ RAID_war_instantly_TT: "§ROkamžitě vyvolá válku!§!" # todo: NEW TRANSLATION
+ has_nuclear_weapons_in_arsenal_tt: "Nejméně §Y[?temp_check|0]§! §Yjaderně schopné zbraně§! (ICBMs or IRBMs) musí být ve naší zásobě." # todo: NEW TRANSLATION
+ is_able_to_launch_a_strike_type_tt: "Náš §Njaderný stav§! umožňuje §Yútočné použití§! z našeho §Njaderného arzenálu§! nebo §Y[?var:target_state.GetName]§! je vlastněno nebo nárokováno [ROOT.GetNameWithFlag] a [ROOT.GetNameWithFlag] má více než §Y50%§! Pokrok v kapitulaci." # todo: NEW TRANSLATION
+ is_able_to_use_nuclear_strikes_tt: "Náš §Njaderný postoj ke zbraním§! umožňuje §Yúplné použití§! našeho §Njaderného arzenálu§! nebo jsme byli zasaženi jako první." # todo: NEW TRANSLATION
+ is_able_to_use_nuclear_strikes_tac_tt: "Náš §Njaderný postoj ke zbraním§! umožňuje §YTaktické první použití§! nebo §Yúplné použití§! z našeho §Njaderného arzenálu§! nebo jsme byli zasaženi jako první." # todo: NEW TRANSLATION
+ guided_missile: "Klouzavá střela" # todo: NEW TRANSLATION
+ nuclear_ballistic_missile: "NIRBM" # todo: NEW TRANSLATION
+ fuel_production_storage_raid_air_carrier: "Nájezd na palivovou infrastrukturu – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ metal_production_raid_air_carrier: "Nájezd na produkci kovů – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ state_power_strike_air_carrier: "Úder na elektrárny – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ production_strike_carrier: "Úder na výrobu – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ infrastructure_strike_carrier: "Úder na infrastrukturu – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ facility_strike_carrier: "Úder na zařízení – přímý útok z letadlové lodi" # todo: NEW TRANSLATION
+ PER_raid_hezbollah_carrier: "Nájezd proti Hizballáhu – přímý útok z letadlové lodi" # todo: NEW TRANSLATION

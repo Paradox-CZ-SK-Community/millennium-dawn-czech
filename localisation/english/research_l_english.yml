@@ -1,153 +1,142 @@
 ﻿l_english:
-  RESEARCH_BONUSES_TOOLTIP: "Omezené technologické bonusy, které máme:" # todo: NEW TRANSLATION
-  RESEARCH_BONUSES_EMPTY_TOOLTIP: "Zde budou uvedeny omezené technologické bonusy." # todo: NEW TRANSLATION
-  RESEARCH_BONUS_SPEED_DESC: "§Y$COUNT$x§! $VALUE|G%0$ rychlost výzkumu z $NAME$" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_AHEAD_DESC: "§Y$COUNT$x§! $VALUE|G.1$ roky dopředného snížení z $NAME$" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_SPEED_AHEAD_DESC: "§Y$COUNT$x§! $VALUE1|G%0$ rychlost výzkumu a $VALUE2|G.1$ roky dopředného snížení z $NAME$" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "Rychlost výzkumu bude zvýšena o $VALUE|G%0$" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_AHEAD_NO_COUNT_DESC: "Penalizace za čas dopředu bude snížena o $VALUE|.1G$ let" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC: "Rychlost výzkumu bude zvýšena o $VALUE|G%0$ a penalizace za čas dopředného snížení bude snížena o $VALUE2|.1G$ let" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_VALUE_DESC: "Bonus výzkumu: $VALUE|Y%0$" # todo: NEW TRANSLATION
-  RESEARCH_BONUS_COST_REDUCTION: "Bonus snížení nákladů: $NAME$: -$VALUE|G%0$" # todo: NEW TRANSLATION
-  TECH_BASE_COST: "Základní náklad: $BASE|Y0$ dny\n" # todo: NEW TRANSLATION
-  TECH_ALREADY_RESEARCHED_COST: "Již prozkoumáno: $POINTS|0Y$ dny\n" # todo: NEW TRANSLATION
-  RESEARCH_NO_RESEARCH: "Nepoužito" # todo: NEW TRANSLATION
-  RESEARCH_RESEARCH: "Výzkum" # todo: NEW TRANSLATION
-  RESEARCH_TAB_SLOTS: "Výzkumné sloty" # todo: NEW TRANSLATION
-  RESEARCH_TAB_FACILITIES: "Experimentální zařízení" # todo: NEW TRANSLATION
-  RESEARCH_DONE: "Prozkoumáno" # todo: NEW TRANSLATION
-  RESEARCH_TIME_TO_COMPLETE: "Doba výzkumu: $TIME|H$" # todo: NEW TRANSLATION
-  RESEARCH_IDEA_BONUS_ENTRY: "$IDEA$: $FACTOR|G=0%$" # todo: NEW TRANSLATION
-  RESEARCH_IDEA_PENALTY_ENTRY: "$IDEA$: $FACTOR|R=0%$" # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_TITLE: "Nahradit výzkum" # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_DESC: "Chcete skutečně provést výzkum §Y$NEW_TECH$§! namísto §Y$OLD_TECH$§! s pokrokem §Y$PROGRESS|%0$§!?" # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_TRANSFER: "\n$SAVED|H0$ den(y) dříve uloženého výzkumu bude převedeno na novou technologii." # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_EXCLUSIVE_TITLE: "Nahraďte vzájemně vylučující výzkum" # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_EXCLUSIVE_DESC: "Chcete skutečně provést výzkum §Y$NEW_TECH$§! namísto §Y$OLD_TECH$§! a všech jeho dílčích technologií?" # todo: NEW TRANSLATION
-  RESEARCH_REPLACE_MIO_TITLE: "Nahraďte tým návrhu" # todo: NEW TRANSLATION
-  RESEARCH_MIO_XP_COST_DESC: "Přiřazení $ORG|H$ k $TECH|H$ bude stát $COST$." # todo: NEW TRANSLATION
-  RESEARCH_MIO_XP_COST_DESC_REPLACE: "Přiřazení $ORG|H$ namísto $OLD_ORG|H$ k $TECH|H$ s nákladem $COST$." # todo: NEW TRANSLATION
-  RESEARCH_EXCLUSIVE_INFO_TITLE_TOOLTIP: "§RThe technology is mutually exclusive with:§!" # todo: NEW TRANSLATION
-  RESEARCH_DOCTRINE_EXCLUSIVE_INFO_TITLE_TOOLTIP: "§RThe doctrine is mutually exclusive with:§!" # todo: NEW TRANSLATION
-  RESEARCH_EXCLUSIVE_INFO_DESC: "Vzájemně vylučováno s" # todo: NEW TRANSLATION
-  RESEARCH_EXCLUSIVE_INFO_ENTRY: "$TECH|Y$" # todo: NEW TRANSLATION
-  RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE: "§RTechnologie je $YEARS|2$ let dopředu. Čím více je dopředu, tím větší je časová penalizace.§!" # todo: NEW TRANSLATION
-  RESEARCH_YEAR_AHEAD_PENALTY: "§RTechnologie je $YEARS|2$ roky dopředu (+$VALUE|%0$). Penalizace bude časem klesat.§!" # todo: NEW TRANSLATION
-  RESEARCH_YEAR_AHEAD_PENALTY_RED: "§RTechnologie je $YEARS|2$ roky dopředu (+$VALUE|%0$), ale penalizace za čas dopředu byla snížena o $REDUCED_YEARS|.1$ let (+$RED|%0$) kvůli národním fokusům. Penalizace bude časem klesat.§!" # todo: NEW TRANSLATION
-  RESEARCH_TECH_UNUSED: "§GKlikněte pro výzkum§!\nBěhem 30 dnů můžete vybrat novou oblast výzkumu bez ztráty výzkumného času." # todo: NEW TRANSLATION
-  RESEARCH_NO_LONGER_AVAILABLE: "$RESEARCH|H$\n§RNení již k dispozici - Bude odstraněn následující den§!" # todo: NEW TRANSLATION
-  RESEARCH_EQUIPMENT_HEADER: "Vybavení" # todo: NEW TRANSLATION
-  RESEARCH_UPGRADES_HEADER: "Vylepšení" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_HEADER: "Odemknutí" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_EQUIPMENT_HEADER: "§TUmožňuje $EQUIPMENTS$§!" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_EQUIPMENT_MODULES_HEADER: "§TUmožňuje $MODULES$§!" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_BUILDINGS_HEADER: "§TUmožňuje budovu: $BUILDINGS$§!" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_SUBUNITS_HEADER: "§TUmožňuje jednotky: $SUBUNITS$§!" # todo: NEW TRANSLATION
-  RESEARCH_UNLOCKS_TACTICS_HEADER: "§TUmožňuje taktiku: $TACTICS$§!" # todo: NEW TRANSLATION
-  RESEARCH_MODIFIERS_HEADER: "Globální statistiky" # todo: NEW TRANSLATION
-  RESEARCH_MESSAGE_UNLOCKED_TITLE: "Výzkum dokončen!" # todo: NEW TRANSLATION
-  RESEARCH_MESSAGE_UNLOCKED_DESC: "Naše země dokončila výzkum na $NAME|Y$.\n $DESC$" # todo: NEW TRANSLATION
-  RESEARCH_INSTANT_DESC: "Výzkum je okamžitý při změně stromu s více než jednou technologií ve stávajícím stromu." # todo: NEW TRANSLATION
-  infantry_folder: "Pěchota" # todo: NEW TRANSLATION
-  infantry_folder_desc: "Vybavení a zbraně pro pěchotní síly." # todo: NEW TRANSLATION
-  support_folder: "Podpůrné jednotky" # todo: NEW TRANSLATION
-  support_folder_desc: "Průzkumné jednotky, inženýři, polní nemocnice a další podpůrné jednotky." # todo: NEW TRANSLATION
-  armour_folder: "Pancéřování" # todo: NEW TRANSLATION
-  armour_folder_desc: "Tanky a jejich varianty." # todo: NEW TRANSLATION
-  nsb_armour_folder: "Pancéřování" # todo: NEW TRANSLATION
-  nsb_armour_folder_desc: "Tanky a jejich varianty." # todo: NEW TRANSLATION
-  artillery_folder: "Dělostřelectvo" # todo: NEW TRANSLATION
-  artillery_folder_desc: "Dělostřelecké, protitankové a protiletecké zbraně pro divize." # todo: NEW TRANSLATION
-  land_doctrine: "Pozemní doktrína" # todo: NEW TRANSLATION
-  land_doctrine_folder: "Pozemní doktrína" # todo: NEW TRANSLATION
-  land_doctrine_folder_desc: "Pozemní doktrína, způsoby boje vašich pozemních sil." # todo: NEW TRANSLATION
-  naval_folder: "Námořní" # todo: NEW TRANSLATION
-  naval_folder_desc: "Lodě a ponorky." # todo: NEW TRANSLATION
-  naval_doctrine: "Námořní doktrína" # todo: NEW TRANSLATION
-  naval_doctrine_folder: "Námořní doktrína" # todo: NEW TRANSLATION
-  naval_doctrine_folder_desc: "Námořní doktrína, jak bojuje vaše námořnictvo." # todo: NEW TRANSLATION
-  air_techs_folder: "Letectvo" # todo: NEW TRANSLATION
-  air_techs_folder_desc: "Letadla a jejich varianty." # todo: NEW TRANSLATION
-  air_doctrine: "Letecká doktrína" # todo: NEW TRANSLATION
-  air_doctrine_folder: "Letecká doktrína" # todo: NEW TRANSLATION
-  air_doctrine_folder_desc: "Letecká doktrína, jak bojuje vaše letectvo." # todo: NEW TRANSLATION
-  click_to_open_doctrine: "§GKlikněte§! pro otevření doktrín" # todo: NEW TRANSLATION
-  industry_folder: "Průmysl" # todo: NEW TRANSLATION
-  industry: "Průmysl" # todo: NEW TRANSLATION
-  industry_folder_desc: "Průmysl a výroba." # todo: NEW TRANSLATION
-  secret_weapons_folder: "Tajemné zbraně" # todo: NEW TRANSLATION
-  secret_weapons_folder_desc: "Zázračné zbraně, výsledek šílené vědy." # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_DONE: "§TProzkoumaný čas: $WEEKS|H$§!" # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_COMPACT: "§T$DAYS|H$ den(y)§!" # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_COMPACT_WITH_XP: "§T$DAYS|H$ den(y) ($XP_TEXT$)§!" # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_DAYS: "$NUM|H$" # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_DAYS_GOOD: "$NUM|G$ £increase_reversed_texticon " # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_DAYS_BAD: "$NUM|R$ £decrease_reversed_texticon " # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS_INSTANT: "§TOkamžitě§!" # todo: NEW TRANSLATION
-  already_researching: "§GJiž provádíte výzkum této technologie.§!" # todo: NEW TRANSLATION
-  RESEARCH_DESIGN_TEAM_IS_BUSY: "$NAME|H$ je momentálně zaneprázdněn:" # todo: NEW TRANSLATION
-  MUTUALLY_EXCLUSIVE_TREE: "§TVětve jsou vzájemně vylučující. Výzkum může postupovat jen v jedné z větví.§!" # todo: NEW TRANSLATION
-  base_cost: "Základní náklad" # todo: NEW TRANSLATION
-  civilian_industry: "Civilní průmysl" # todo: NEW TRANSLATION
-  military_industry: "Vojenský průmysl" # todo: NEW TRANSLATION
-  research_requirements_or: "Vyžaduje jednu z následujících technologií:" # todo: NEW TRANSLATION
-  research_requirements_and: "Vyžaduje následující technologie:" # todo: NEW TRANSLATION
-  RESEARCH_REQUIREMENTS_SINGLE: "§RVyžaduje technologii ($TECH$)§!" # todo: NEW TRANSLATION
-  RESEARCH_DOCTRINE_REQUIREMENTS_SINGLE: "§RVyžaduje doktrínu ($TECH$)§!" # todo: NEW TRANSLATION
-  UNUSED_SLOT: "Vyberte technologii k výzkumu" # todo: NEW TRANSLATION
-  ETA_SHORT_D: "§T$DAYS|H$ den(y)§!" # todo: NEW TRANSLATION
-  ETA_SHORT_W: "§T$WEEKS|H$ týden(y)§!" # todo: NEW TRANSLATION
-  ETA_DAYS_WEEKS: "§T$DAYS|H$ den(y) a $WEEKS|H$ týden(y) z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
-  ETA_WEEKS: "§T$WEEKS|H$ týdny z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
-  ETA_DAYS: "§T$DAYS|H$ den(y) z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
-  RESEARCH_PROGRESS: "§T$PROGRESS|%1H$ dokončeno.§!" # todo: NEW TRANSLATION
-  RESEARCH_IS_BEING_RESEARCHED: "Probíhá výzkum: " # todo: NEW TRANSLATION
-  RESEARCH_HAS_STARTED_RESEARCH: "Dříve byl výzkum proveden: " # todo: NEW TRANSLATION
-  DAYS_SAVED: "§T$DAYS|H$ den(y) z $MAX|H$ dní uložených.§!" # todo: NEW TRANSLATION
-  DAYS_SAVED_DESC: "§TMůžete uložit maximálně $MAX|H$ výzkumných dní na jedno výzkumné místo. Přiřaďte technologii, která využije uložené výzkumné dny.§!" # todo: NEW TRANSLATION
-  DAYS_SAVED_RESEARCH_DESC: "Dny uložené: $DAYS|0G$\n" # todo: NEW TRANSLATION
-  NO_RESEARCH_PENALTY: "§GTechnologie je aktuální - bez penalizace za výzkum§!" # todo: NEW TRANSLATION
-  FINISHED_RESEARCH_POPUP_DESC: "...a $NUM|H$ dalších efektů. Zobrazit Detaily." # todo: NEW TRANSLATION
-  UNLOCK_DIVISION_TEMPLATE: "Odemkne bezplatnou šablonu divize!" # todo: NEW TRANSLATION
-  INFANTRY_TITLE_MOTORISED: "MOBILNÍ PĚCHOTA" # todo: NEW TRANSLATION
-  ARMOUR_TITLE: "PANCÉŘÍ" # todo: NEW TRANSLATION
-  ARMOUR_TITLE_HEAVY: "Těžké" # todo: NEW TRANSLATION
-  ARMOUR_TITLE_MEDIUM: "Střední" # todo: NEW TRANSLATION
-  ARMOUR_TITLE_LIGHT: "Lehké" # todo: NEW TRANSLATION
-  ARMOUR_TITLE_AMPH: "AMFIBICKÉ" # todo: NEW TRANSLATION
-  ARTILLERY_TITLE_ROCKET: "RAKETOVÉ DĚLOSTŘELSTVO" # todo: NEW TRANSLATION
-  ARTILLERY_TITLE_AT: "PROTITANKOVÉ" # todo: NEW TRANSLATION
-  ARTILLERY_TITLE: "DĚLOSTŘELSTVO" # todo: NEW TRANSLATION
-  ARTILLERT_TITLE_AA: "PROTILETADLOVÉ" # todo: NEW TRANSLATION
-  NAVAL_TITLE_ARMOR: "PANCÉŘOVÁ LODĚ" # todo: NEW TRANSLATION
-  NAVAL_TITLE_TRANSPORTS: "TRANSPORTY" # todo: NEW TRANSLATION
-  INDUSTRY_TITLE_OIL: "Syntetický olej" # todo: NEW TRANSLATION
-  NAVAL_TITLE_ARMAMENT: "ZBRANĚ" # todo: NEW TRANSLATION
-  NAVAL_TITLE_TORPEDOES: "TORPÉDA" # todo: NEW TRANSLATION
-  NAVAL_TITLE_DAMAGE_CONTROL: "ŘÍZENÍ POŠKOZENÍ" # todo: NEW TRANSLATION
-  NAVAL_TITLE_FIRE_CONTROL: "METODY ŘÍZENÍ PALBY" # todo: NEW TRANSLATION
-  SURRENDER_REDUCTION_TOOLTIP: "Spolupráce v $COUNTRY|H$ sníží jejich kapitulaci o $VALUE|+%.0$" # todo: NEW TRANSLATION
-  COLLABORATION_EFFECTS_TOOLTIP: "Máte $COLLABORATION|+%.0$ spolupráce v $COUNTRY|H$. To sníží jejich kapitulaci o $SURRENDER|+%.0$ a poskytne $COMPLIANCE|+%.0$ poslušnost po kapitulaci nepřítele, která bude použita pro odemykání dalších modifikátorů poslušnosti." # todo: NEW TRANSLATION
-  COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP: "$OTHER_COUNTRY|H$ má $COLLABORATION|+%.0$ spolupráce v $COUNTRY|H$. To sníží kapitulaci $COUNTRY|H$ o $SURRENDER|+%.0$ a poskytne $COMPLIANCE|+%.0$ poslušnost po kapitulaci nepřítele, která bude použita pro odemykání dalších modifikátorů poslušnosti." # todo: NEW TRANSLATION
-  SUPPORT_TITLE_TRAINS: "Vlaky" # todo: NEW TRANSLATION
-  no_doctrine_chosen: "Není vybrána doktrína" # todo: NEW TRANSLATION
-  RESEARCH_SPEED: "Rychlost výzkumu:" # todo: NEW TRANSLATION
-  LIMITED_RESEARCH_BONUS: "Omezené bonusy:" # todo: NEW TRANSLATION
-  mio_cat_tech_all_armor_and_modules: "Všechny technologie pancéřování a moduly" # todo: NEW TRANSLATION
-  mio_cat_tech_light_armor_and_modules: "Lehké pancéřování a moduly" # todo: NEW TRANSLATION
-  mio_cat_tech_medium_armor_and_modules: "Střední pancéřování a moduly" # todo: NEW TRANSLATION
-  mio_cat_tech_heavy_armor_and_modules: "Těžké pancéřování a moduly" # todo: NEW TRANSLATION
-  mio_cat_all_artillery_equipment: "Všechny dělostřelecké technologie" # todo: NEW TRANSLATION
-  mio_cat_all_light_fighter_and_modules: "Všechny technologie stíhačů" # todo: NEW TRANSLATION
-  mio_cat_all_cas_and_modules: "Všechny technologie CAS" # todo: NEW TRANSLATION
-  mio_cat_all_naval_bomber_and_modules: "Všechny technologie námořních bomberů" # todo: NEW TRANSLATION
-  mio_cat_all_light_aircraft_and_modules: "Všechny technologie lehkých letounů" # todo: NEW TRANSLATION
-  mio_cat_all_medium_aircraft_and_modules: "Všechny technologie středních letounů" # todo: NEW TRANSLATION
-  mio_cat_all_heavy_aircraft_and_modules: "Všechny technologie těžkých letounů" # todo: NEW TRANSLATION
-  mio_cat_tech_all_capital_ship_and_modules: "Všechny technologie kapitálových lodí" # todo: NEW TRANSLATION
-  mio_cat_tech_all_screen_ship_and_modules: "Všechny technologie Doprovodných lodí" # todo: NEW TRANSLATION
-  mio_cat_tech_all_submarine_and_modules: "Všechny technologie ponorek" # todo: NEW TRANSLATION
-  mio_cat_tech_all_carrier_and_modules: "Všechny technologie letadlových lodí" # todo: NEW TRANSLATION
-  mio_cat_tech_all_cruiser_and_modules: "Všechny technologie křižníků" # todo: NEW TRANSLATION
-  mio_cat_tech_all_destroyer_and_modules: "Všechny technologie torpédoborců" # todo: NEW TRANSLATION
-  mio_cat_tech_all_motorized_mechanized: "Všechny motorizované a mechanizované technologie" # todo: NEW TRANSLATION
+ RESEARCH_BONUSES_TOOLTIP: "Omezené technologické bonusy, které máme:" # todo: NEW TRANSLATION
+ RESEARCH_BONUSES_EMPTY_TOOLTIP: "Zde budou uvedeny omezené technologické bonusy." # todo: NEW TRANSLATION
+ RESEARCH_BONUS_SPEED_DESC: "§Y$COUNT$x§! $VALUE|G%0$ rychlost výzkumu z $NAME$" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_AHEAD_DESC: "§Y$COUNT$x§! $VALUE|G.1$ roky dopředného snížení z $NAME$" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_SPEED_AHEAD_DESC: "§Y$COUNT$x§! $VALUE1|G%0$ rychlost výzkumu a $VALUE2|G.1$ roky dopředného snížení z $NAME$" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "Rychlost výzkumu bude zvýšena o $VALUE|G%0$" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_AHEAD_NO_COUNT_DESC: "Penalizace za čas dopředu bude snížena o $VALUE|.1G$ let" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC: "Rychlost výzkumu bude zvýšena o $VALUE|G%0$ a penalizace za čas dopředného snížení bude snížena o $VALUE2|.1G$ let" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_VALUE_DESC: "Bonus výzkumu: $VALUE|Y%0$" # todo: NEW TRANSLATION
+ RESEARCH_BONUS_COST_REDUCTION: "Bonus snížení nákladů: $NAME$: -$VALUE|G%0$" # todo: NEW TRANSLATION
+ TECH_BASE_COST: "Základní náklad: $BASE|Y0$ dny\n" # todo: NEW TRANSLATION
+ TECH_ALREADY_RESEARCHED_COST: "Již prozkoumáno: $POINTS|0Y$ dny\n" # todo: NEW TRANSLATION
+ RESEARCH_NO_RESEARCH: "Nepoužito" # todo: NEW TRANSLATION
+ RESEARCH_RESEARCH: "Výzkum" # todo: NEW TRANSLATION
+ RESEARCH_TAB_SLOTS: "Výzkumné sloty" # todo: NEW TRANSLATION
+ RESEARCH_TAB_FACILITIES: "Experimentální zařízení" # todo: NEW TRANSLATION
+ RESEARCH_DONE: "Prozkoumáno" # todo: NEW TRANSLATION
+ RESEARCH_TIME_TO_COMPLETE: "Doba výzkumu: $TIME|H$" # todo: NEW TRANSLATION
+ RESEARCH_IDEA_BONUS_ENTRY: "$IDEA$: $FACTOR|G=0%$" # todo: NEW TRANSLATION
+ RESEARCH_IDEA_PENALTY_ENTRY: "$IDEA$: $FACTOR|R=0%$" # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_TITLE: "Nahradit výzkum" # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_DESC: "Chcete skutečně provést výzkum §Y$NEW_TECH$§! namísto §Y$OLD_TECH$§! s pokrokem §Y$PROGRESS|%0$§!?" # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_TRANSFER: "\n$SAVED|H0$ den(y) dříve uloženého výzkumu bude převedeno na novou technologii." # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_EXCLUSIVE_TITLE: "Nahraďte vzájemně vylučující výzkum" # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_EXCLUSIVE_DESC: "Chcete skutečně provést výzkum §Y$NEW_TECH$§! namísto §Y$OLD_TECH$§! a všech jeho dílčích technologií?" # todo: NEW TRANSLATION
+ RESEARCH_REPLACE_MIO_TITLE: "Nahraďte tým návrhu" # todo: NEW TRANSLATION
+ RESEARCH_MIO_XP_COST_DESC: "Přiřazení $ORG|H$ k $TECH|H$ bude stát $COST$." # todo: NEW TRANSLATION
+ RESEARCH_MIO_XP_COST_DESC_REPLACE: "Přiřazení $ORG|H$ namísto $OLD_ORG|H$ k $TECH|H$ s nákladem $COST$." # todo: NEW TRANSLATION
+ RESEARCH_EXCLUSIVE_INFO_TITLE_TOOLTIP: "§RThe technology is mutually exclusive with:§!" # todo: NEW TRANSLATION
+ RESEARCH_DOCTRINE_EXCLUSIVE_INFO_TITLE_TOOLTIP: "§RThe doctrine is mutually exclusive with:§!" # todo: NEW TRANSLATION
+ RESEARCH_EXCLUSIVE_INFO_DESC: "Vzájemně vylučováno s" # todo: NEW TRANSLATION
+ RESEARCH_EXCLUSIVE_INFO_ENTRY: "$TECH|Y$" # todo: NEW TRANSLATION
+ RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE: "§RTechnologie je $YEARS|2$ let dopředu. Čím více je dopředu, tím větší je časová penalizace.§!" # todo: NEW TRANSLATION
+ RESEARCH_YEAR_AHEAD_PENALTY: "§RTechnologie je $YEARS|2$ roky dopředu (+$VALUE|%0$). Penalizace bude časem klesat.§!" # todo: NEW TRANSLATION
+ RESEARCH_YEAR_AHEAD_PENALTY_RED: "§RTechnologie je $YEARS|2$ roky dopředu (+$VALUE|%0$), ale penalizace za čas dopředu byla snížena o $REDUCED_YEARS|.1$ let (+$RED|%0$) kvůli národním fokusům. Penalizace bude časem klesat.§!" # todo: NEW TRANSLATION
+ RESEARCH_TECH_UNUSED: "§GKlikněte pro výzkum§!\nBěhem 30 dnů můžete vybrat novou oblast výzkumu bez ztráty výzkumného času." # todo: NEW TRANSLATION
+ RESEARCH_NO_LONGER_AVAILABLE: "$RESEARCH|H$\n§RNení již k dispozici - Bude odstraněn následující den§!" # todo: NEW TRANSLATION
+ RESEARCH_EQUIPMENT_HEADER: "Vybavení" # todo: NEW TRANSLATION
+ RESEARCH_UPGRADES_HEADER: "Vylepšení" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_HEADER: "Odemknutí" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_EQUIPMENT_HEADER: "§TUmožňuje $EQUIPMENTS$§!" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_EQUIPMENT_MODULES_HEADER: "§TUmožňuje $MODULES$§!" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_BUILDINGS_HEADER: "§TUmožňuje budovu: $BUILDINGS$§!" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_SUBUNITS_HEADER: "§TUmožňuje jednotky: $SUBUNITS$§!" # todo: NEW TRANSLATION
+ RESEARCH_UNLOCKS_TACTICS_HEADER: "§TUmožňuje taktiku: $TACTICS$§!" # todo: NEW TRANSLATION
+ RESEARCH_MODIFIERS_HEADER: "Globální statistiky" # todo: NEW TRANSLATION
+ RESEARCH_MESSAGE_UNLOCKED_TITLE: "Výzkum dokončen!" # todo: NEW TRANSLATION
+ RESEARCH_MESSAGE_UNLOCKED_DESC: "Naše země dokončila výzkum na $NAME|Y$.\n $DESC$" # todo: NEW TRANSLATION
+ RESEARCH_INSTANT_DESC: "Výzkum je okamžitý při změně stromu s více než jednou technologií ve stávajícím stromu." # todo: NEW TRANSLATION
+ infantry_folder: "Pěchota" # todo: NEW TRANSLATION
+ infantry_folder_desc: "Vybavení a zbraně pro pěchotní síly." # todo: NEW TRANSLATION
+ support_folder_desc: "Průzkumné jednotky, inženýři, polní nemocnice a další podpůrné jednotky." # todo: NEW TRANSLATION
+ nsb_armour_folder: "Pancéřování" # todo: NEW TRANSLATION
+ nsb_armour_folder_desc: "Tanky a jejich varianty." # todo: NEW TRANSLATION
+ artillery_folder: "Dělostřelectvo" # todo: NEW TRANSLATION
+ artillery_folder_desc: "Dělostřelecké, protitankové a protiletecké zbraně pro divize." # todo: NEW TRANSLATION
+ land_doctrine: "Pozemní doktrína" # todo: NEW TRANSLATION
+ land_doctrine_folder: "Pozemní doktrína" # todo: NEW TRANSLATION
+ land_doctrine_folder_desc: "Pozemní doktrína, způsoby boje vašich pozemních sil." # todo: NEW TRANSLATION
+ naval_doctrine: "Námořní doktrína" # todo: NEW TRANSLATION
+ naval_doctrine_folder: "Námořní doktrína" # todo: NEW TRANSLATION
+ naval_doctrine_folder_desc: "Námořní doktrína, jak bojuje vaše námořnictvo." # todo: NEW TRANSLATION
+ air_doctrine: "Letecká doktrína" # todo: NEW TRANSLATION
+ air_doctrine_folder: "Letecká doktrína" # todo: NEW TRANSLATION
+ air_doctrine_folder_desc: "Letecká doktrína, jak vaše letectvo bojuje." # todo: CHANGED
+ click_to_open_doctrine: "§GKlikněte§! pro otevření doktrín" # todo: NEW TRANSLATION
+ industry_folder: "Průmysl" # todo: NEW TRANSLATION
+ industry_folder_desc: "Průmysl a výroba." # todo: NEW TRANSLATION
+ secret_weapons_folder: "Tajemné zbraně" # todo: NEW TRANSLATION
+ secret_weapons_folder_desc: "Zázračné zbraně, výsledek šílené vědy." # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_DONE: "§TProzkoumaný čas: $WEEKS|H$§!" # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_COMPACT: "§T$DAYS|H$ den(y)§!" # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_COMPACT_WITH_XP: "§T$DAYS|H$ den(y) ($XP_TEXT$)§!" # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_DAYS: "$NUM|H$" # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_DAYS_GOOD: "$NUM|G$ £increase_reversed_texticon " # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_DAYS_BAD: "$NUM|R$ £decrease_reversed_texticon " # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS_INSTANT: "§TOkamžitě§!" # todo: NEW TRANSLATION
+ already_researching: "§GJiž provádíte výzkum této technologie.§!" # todo: NEW TRANSLATION
+ RESEARCH_DESIGN_TEAM_IS_BUSY: "$NAME|H$ je momentálně zaneprázdněn:" # todo: NEW TRANSLATION
+ MUTUALLY_EXCLUSIVE_TREE: "§TVětve jsou vzájemně vylučující. Výzkum může postupovat jen v jedné z větví.§!" # todo: NEW TRANSLATION
+ base_cost: "Základní náklad" # todo: NEW TRANSLATION
+ civilian_industry: "Civilní průmysl" # todo: NEW TRANSLATION
+ military_industry: "Vojenský průmysl" # todo: NEW TRANSLATION
+ research_requirements_or: "Vyžaduje jednu z následujících technologií:" # todo: NEW TRANSLATION
+ research_requirements_and: "Vyžaduje následující technologie:" # todo: NEW TRANSLATION
+ RESEARCH_REQUIREMENTS_SINGLE: "§RVyžaduje technologii ($TECH$)§!" # todo: NEW TRANSLATION
+ RESEARCH_DOCTRINE_REQUIREMENTS_SINGLE: "§RVyžaduje doktrínu ($TECH$)§!" # todo: NEW TRANSLATION
+ UNUSED_SLOT: "Vyberte technologii k výzkumu" # todo: NEW TRANSLATION
+ ETA_SHORT_D: "§T$DAYS|H$ den(y)§!" # todo: NEW TRANSLATION
+ ETA_SHORT_W: "§T$WEEKS|H$ týden(y)§!" # todo: NEW TRANSLATION
+ ETA_DAYS_WEEKS: "§T$DAYS|H$ den(y) a $WEEKS|H$ týden(y) z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
+ ETA_WEEKS: "§T$WEEKS|H$ týdny z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
+ ETA_DAYS: "§T$DAYS|H$ den(y) z $COST|H$ dní zbývá.§!" # todo: NEW TRANSLATION
+ RESEARCH_PROGRESS: "§T$PROGRESS|%1H$ dokončeno.§!" # todo: NEW TRANSLATION
+ RESEARCH_IS_BEING_RESEARCHED: "Probíhá výzkum: " # todo: NEW TRANSLATION
+ RESEARCH_HAS_STARTED_RESEARCH: "Dříve byl výzkum proveden: " # todo: NEW TRANSLATION
+ DAYS_SAVED: "§T$DAYS|H$ den(y) z $MAX|H$ dní uložených.§!" # todo: NEW TRANSLATION
+ DAYS_SAVED_DESC: "§TMůžete uložit maximálně $MAX|H$ výzkumných dní na jedno výzkumné místo. Přiřaďte technologii, která využije uložené výzkumné dny.§!" # todo: NEW TRANSLATION
+ DAYS_SAVED_RESEARCH_DESC: "Dny uložené: $DAYS|0G$\n" # todo: NEW TRANSLATION
+ NO_RESEARCH_PENALTY: "§GTechnologie je aktuální - bez penalizace za výzkum§!" # todo: NEW TRANSLATION
+ FINISHED_RESEARCH_POPUP_DESC: "...a $NUM|H$ dalších efektů. Zobrazit Detaily." # todo: NEW TRANSLATION
+ UNLOCK_DIVISION_TEMPLATE: "Odemkne bezplatnou šablonu divize!" # todo: NEW TRANSLATION
+ ARMOUR_TITLE: "PANCÉŘÍ" # todo: NEW TRANSLATION
+ ARMOUR_TITLE_HEAVY: "Těžké" # todo: NEW TRANSLATION
+ ARMOUR_TITLE_MEDIUM: "Střední" # todo: NEW TRANSLATION
+ ARMOUR_TITLE_LIGHT: "Lehké" # todo: NEW TRANSLATION
+ ARMOUR_TITLE_AMPH: "AMFIBICKÉ" # todo: NEW TRANSLATION
+ ARTILLERY_TITLE_ROCKET: "RAKETOVÉ DĚLOSTŘELSTVO" # todo: NEW TRANSLATION
+ ARTILLERY_TITLE_AT: "PROTITANKOVÉ" # todo: NEW TRANSLATION
+ ARTILLERY_TITLE: "DĚLOSTŘELSTVO" # todo: NEW TRANSLATION
+ ARTILLERT_TITLE_AA: "PROTILETADLOVÉ" # todo: NEW TRANSLATION
+ NAVAL_TITLE_ARMOR: "PANCÉŘOVÁ LODĚ" # todo: NEW TRANSLATION
+ NAVAL_TITLE_TRANSPORTS: "TRANSPORTY" # todo: NEW TRANSLATION
+ INDUSTRY_TITLE_OIL: "Syntetický olej" # todo: NEW TRANSLATION
+ NAVAL_TITLE_DAMAGE_CONTROL: "ŘÍZENÍ POŠKOZENÍ" # todo: NEW TRANSLATION
+ NAVAL_TITLE_FIRE_CONTROL: "METODY ŘÍZENÍ PALBY" # todo: NEW TRANSLATION
+ SURRENDER_REDUCTION_TOOLTIP: "Spolupráce v $COUNTRY|H$ sníží jejich kapitulaci o $VALUE|+%.0$" # todo: NEW TRANSLATION
+ COLLABORATION_EFFECTS_TOOLTIP: "Máte $COLLABORATION|+%.0$ spolupráce v $COUNTRY|H$. To sníží jejich kapitulaci o $SURRENDER|+%.0$ a poskytne $COMPLIANCE|+%.0$ poslušnost po kapitulaci nepřítele, která bude použita pro odemykání dalších modifikátorů poslušnosti." # todo: NEW TRANSLATION
+ COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP: "$OTHER_COUNTRY|H$ má $COLLABORATION|+%.0$ spolupráce v $COUNTRY|H$. To sníží kapitulaci $COUNTRY|H$ o $SURRENDER|+%.0$ a poskytne $COMPLIANCE|+%.0$ poslušnost po kapitulaci nepřítele, která bude použita pro odemykání dalších modifikátorů poslušnosti." # todo: NEW TRANSLATION
+ SUPPORT_TITLE_TRAINS: "Vlaky" # todo: NEW TRANSLATION
+ no_doctrine_chosen: "Není vybrána doktrína" # todo: NEW TRANSLATION
+ RESEARCH_SPEED: "Rychlost výzkumu:" # todo: NEW TRANSLATION
+ LIMITED_RESEARCH_BONUS: "Omezené bonusy:" # todo: NEW TRANSLATION
+ mio_cat_tech_all_armor_and_modules: "Všechny technologie pancéřování a moduly" # todo: NEW TRANSLATION
+ mio_cat_tech_light_armor_and_modules: "Lehké pancéřování a moduly" # todo: NEW TRANSLATION
+ mio_cat_tech_medium_armor_and_modules: "Střední pancéřování a moduly" # todo: NEW TRANSLATION
+ mio_cat_tech_heavy_armor_and_modules: "Těžké pancéřování a moduly" # todo: NEW TRANSLATION
+ mio_cat_all_artillery_equipment: "Všechny dělostřelecké technologie" # todo: NEW TRANSLATION
+ mio_cat_all_light_fighter_and_modules: "Všechny technologie stíhačů" # todo: NEW TRANSLATION
+ mio_cat_all_cas_and_modules: "Všechny technologie CAS" # todo: NEW TRANSLATION
+ mio_cat_all_naval_bomber_and_modules: "Všechny technologie námořních bomberů" # todo: NEW TRANSLATION
+ mio_cat_all_light_aircraft_and_modules: "Všechny technologie lehkých letounů" # todo: NEW TRANSLATION
+ mio_cat_all_medium_aircraft_and_modules: "Všechny technologie středních letounů" # todo: NEW TRANSLATION
+ mio_cat_all_heavy_aircraft_and_modules: "Všechny technologie těžkých letounů" # todo: NEW TRANSLATION
+ mio_cat_tech_all_capital_ship_and_modules: "Všechny technologie kapitálových lodí" # todo: NEW TRANSLATION
+ mio_cat_tech_all_screen_ship_and_modules: "Všechny technologie Doprovodných lodí" # todo: NEW TRANSLATION
+ mio_cat_tech_all_submarine_and_modules: "Všechny technologie ponorek" # todo: NEW TRANSLATION
+ mio_cat_tech_all_carrier_and_modules: "Všechny technologie letadlových lodí" # todo: NEW TRANSLATION
+ mio_cat_tech_all_cruiser_and_modules: "Všechny technologie křižníků" # todo: NEW TRANSLATION
+ mio_cat_tech_all_destroyer_and_modules: "Všechny technologie torpédoborců" # todo: NEW TRANSLATION
+ mio_cat_tech_all_motorized_mechanized: "Všechny motorizované a mechanizované technologie" # todo: NEW TRANSLATION

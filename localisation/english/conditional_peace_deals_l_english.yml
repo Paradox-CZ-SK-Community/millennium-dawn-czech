@@ -1,71 +1,174 @@
 ﻿l_english:
-  CPD_demands_tab_button_TEXT: "Požadovat" # todo: NEW TRANSLATION
-  CPD_demands_tab_button_TEXT_DELAYED: "Budeme požadovat ústupky od cílového státu, [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
-  CPD_concessions_tab_button_TEXT: "Poskytnout ústupky" # todo: NEW TRANSLATION
-  CPD_concessions_tab_button_TEXT_DELAYED: "Nabídneme ústupky cílovému státu, [THIS.GetNameWithFlag]." # todo: NEW TRANSLATION
-  CPD_peace_deal_builder_selected_deal_type_title: "[CPD_peace_deal_builder_selected_deal_type_title]" # todo: NEW TRANSLATION
-  CPD_peace_deal_builder_selected_deal_type_title_one: "V současnosti požadujeme ústupky" # todo: NEW TRANSLATION
-  CPD_peace_deal_builder_selected_deal_type_title_two: "V současnosti nabízíme ústupky" # todo: NEW TRANSLATION
-  CPD_peace_deal_builder_ACTIONABLE_STATES_TITLE_TEXT: "Státy s možností zásahu" # todo: NEW TRANSLATION
-  CPD_peace_deal_builder_CURRENT_DEAL_TITLE_TEXT: "Aktuální dohoda" # todo: NEW TRANSLATION
-  CPD_peace_deal_explainer_ICON_TT: "Jak fungují mírové dohody" # todo: NEW TRANSLATION
-  CPD_peace_deal_explainer_ICON_TT_DELAYED: "Sestavení mírové dohody je tak jednoduché, jako vybrat záložku výše a poté v státě zvolit, co postoupit nebo požadovat.\n\nMírová dohoda s §Ynegativní§! cenou bude pravděpodobně přijata AI, zatímco dohoda s §Ypozitivní§! cenou bude méně pravděpodobná k přijetí. Celé rozpis odhodlání AI přijmout dohodu můžete vidět, když najedete myší na políčko přijetí.\n\nJakákoli mírová dohoda vytvořená pro hráče není těmito hodnotami ovlivněna." # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT: "[CPD_ANNEX_STATE_TT_LOC]" # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT_DELAYED: "[CPD_ANNEX_STATE_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT_DEMAND: "Požadovat státy" # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT_CONCESSION: "Postoupit státy" # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT_DELAYED_DEMAND: "Můžeme od protivníka §Ypožadovat státy§! a tyto státy přímo anektovat do naší země." # todo: NEW TRANSLATION
-  CPD_annex_state_button_TT_DELAYED_CONCESSION: "Můžeme nepříteli §Ypostoupit státy§!, které vlastníme, abychom ukončili konflikt." # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT: "[CPD_MAKE_PUPPET_TT_LOC]" # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT_DELAYED: "[CPD_MAKE_PUPPET_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT_DEMAND: "Vytvořit loutkovou vládu" # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT_CONCESSION: "Přenechat loutkovou vládu" # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT_DELAYED_DEMAND: "Můžeme v požadovaných státech vytvořit §Yloutkovou vládu§!, která nám bude loajální." # todo: NEW TRANSLATION
-  CPD_make_puppet_button_TT_DELAYED_CONCESSION: "Můžeme v nabízených státech povolit §Yloutkovou vládu§!, která bude loajální nepříteli." # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT: "[CPD_DEMILITARISE_TT_LOC]" # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT_DELAYED: "[CPD_DEMILITARISE_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT_DEMAND: "Požadovat demilitarizaci států" # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT_CONCESSION: "Navrhnout demilitarizaci států" # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT__DELAYED_DEMAND: "Můžeme požadovat §Ydemilitarizaci§! v daném státě, čímž se zabrání nepřátelským vojskům v tamním působení." # todo: NEW TRANSLATION
-  CPD_demilitarise_state_button_TT__DELAYED_CONCESSION: "Můžeme v daném státě postoupit §Ydemilitarizaci§!, čímž našim ozbrojeným silám bude zabráněno v tamním působení." # todo: NEW TRANSLATION
-  CPD_liberate_in_state_button_TEXT: "VYTVOŘIT SKRIPTOVANÝ TEXT PRO POŽADAVKY/ÚSTUPKY" # todo: NEW TRANSLATION
-  CPD_liberate_in_state_button_TEXT_DEMAND: "Osvobodit státy" # todo: NEW TRANSLATION
-  CPD_liberate_in_state_button_TEXT_CONCESSIONS: "Udělit státům nezávislost" # todo: NEW TRANSLATION
-  CPD_COPD_container_TITLE_TEXT: "Cena mírové dohody: [?ROOT.CPD_total_cost_of_built_peace_deal|Y0] £bodů vítězství" # todo: NEW TRANSLATION
-  CPD_add_state_with_parameters_button_TEXT: "[CPD_DEMAND_CONCESSION_COST_SWITCH_LOC]" # todo: NEW TRANSLATION
-  CPD_demand_cost_value: "[THIS.Owner.GetFlag] [THIS.GetName] [?CPD_VP_temp|-0] £bodů vítězství" # todo: NEW TRANSLATION
-  CPD_concessions_cost_value: "[THIS.Owner.GetFlag] [THIS.GetName] [?CPD_VP_temp|-0] £bodů vítězství" # todo: NEW TRANSLATION
-  CPD_clear_from_current_deal_button_TEXT: "[CPD_enacted_action_on_state] [THIS.GetName] [?CPD_value_of_state^num|+0] £bodů vítězství" # todo: NEW TRANSLATION
-  CPD_AIA_title_TEXT: "[CPD_AI_WILL_ACCEPT_LOC]" # todo: NEW TRANSLATION
-  CPD_AIA_title_TEXT_DELAYED: "AI může tuto mírovou dohodu přijmout nebo odmítnout z následujících důvodů:\n\nZákladní zdrženlivost k přijetí: §R-50§!\n\n[CPD_ai_accept_economic_cost][CPD_ai_accept_war_support][CPD_ai_accept_relative_strength][CPD_ai_accept_surrender_progress][CPD_ai_accept_battles_won][CPD_ai_accept_power_ranking][CPD_ai_accept_faction_backing][CPD_ai_accept_months_at_war][CPD_ai_accept_cost_of_peace]\n\nAktuální skóre pro přijetí AI: [CPD_ai_acceptance_total]" # todo: NEW TRANSLATION
-  CPD_AIA_yes: "§YA přijmou§!" # todo: NEW TRANSLATION
-  CPD_AIA_no: "§YA NEPŘIJMOU§!" # todo: NEW TRANSLATION
-  CPD_AIA_player: "§YOstatní hráči mohou přijmout nebo odmítnout§!" # todo: NEW TRANSLATION
-  CPD_ai_accept_economic_cost_tt: "Ekonomické náklady války: [?CPD_econ_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_war_support_tt: "Podpora války: [?CPD_WS_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_relative_strength_tt: "Relativní síla stran konfliktu: [?CPD_RSB_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_surrender_progress_tt: "Blízko kapitulace: [?CPD_SP_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_battles_won_tt: "Relativní počet vyhraných bitev: [?CPD_RBW_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_power_ranking_tt: "Hodnocení síly: [?CPD_PR_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_faction_backing_tt: "Podpora frakce: [?CPD_FB_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_months_at_war_tt: "[PREV.GetAdjective] Válečné vyčerpání: [?months_at_war_tmp|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_accept_cost_of_peace_tt: "Cena současné mírové dohody: [?v|0+]\n" # todo: NEW TRANSLATION
-  CPD_ai_acceptance_total_tt: "[?CPD_acceptance_temp|0+]\n" # todo: NEW TRANSLATION
-  CPD_cost_of_state_stored_refund: "" # todo: NEW TRANSLATION
-  CPD_clear_from_current_deal_button_TT: "[CPD_enacted_action_on_state_TT]" # todo: NEW TRANSLATION
-  CPD_annexation_of_state: "Anektovat" # todo: NEW TRANSLATION
-  CPD_puppeting_in_state: "Loutka v" # todo: NEW TRANSLATION
-  CPD_demilitarisation_of_state: "Demilitarizace" # todo: NEW TRANSLATION
-  CPD_liberation_of_state: "Osvobození" # todo: NEW TRANSLATION
-  CPD_demanding_annexation_of_state_TT: "Anektace tohoto státu je §Gpožadavkem§! od [ROOT.GetNameWithFlag]. Pokud bude mírová dohoda přijata, tento stát bude anektován do naší země a my se staneme jeho novým vlastníkem." # todo: NEW TRANSLATION
-  CPD_demanding_puppeting_in_state_TT: "Zřízení loutkové vlády v tomto státě je §Gpožadavkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát bude umístěn pod kontrolu nové loutkové vlády." # todo: NEW TRANSLATION
-  CPD_demanding_demilitarisation_of_state_TT: "Demilitarizace tohoto státu je §Gpožadavkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát již nebude moci provozovat žádné ozbrojené síly." # todo: NEW TRANSLATION
-  CPD_demanding_liberation_of_state_TT: "Osvobození PLACEHOLDER v tomto státě je §Gpožadavkem§! od [ROOT.GetNameWithFlag]" # todo: NEW TRANSLATION
-  CPD_conceding_annexation_of_state_TT: "Anektace tohoto státu je §Rústupkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát bude anektován do nepřátelské země." # todo: NEW TRANSLATION
-  CPD_conceding_puppeting_in_state_TT: "Zřízení loutkové vlády v tomto státě je §Rústupkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát bude pod kontrolou nové loutkové vlády ovládané naším nepřítelem." # todo: NEW TRANSLATION
-  CPD_conceding_demilitarisation_of_state_TT: "Demilitarizace tohoto státu je §Rústupkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát již nebude moci provozovat žádné ozbrojené síly." # todo: NEW TRANSLATION
-  CPD_conceding_liberation_of_state_TT: "Osvobození PLACEHOLDER v tomto státě je §Rústupkem§! od [ROOT.GetNameWithFlag]" # todo: NEW TRANSLATION
-  CPD_built_peace_deal_CONCESSIONS_TITLE_TEXT: "§GÚstupky§!" # todo: NEW TRANSLATION
-  CPD_built_peace_deal_DEMANDS_TITLE_TEXT: "§RPožadavky§!" # todo: NEW TRANSLATION
-  CPD_is_an_autonomy_allowed_to_receive_deal_TT: "Povoleno samostatně podepisovat mírové dohody při současném §Ystavu autonomie§!" # todo: NEW TRANSLATION
-  CPD_is_an_autonomy_allowed_to_send_deal_TT: "Povoleno samostatně nabízet mírové dohody při současném §Ystavu autonomie§!" # todo: NEW TRANSLATION
+ CPD_demands_tab_button_TEXT: "Požadovat" # todo: NEW TRANSLATION
+ CPD_demands_tab_button_TEXT_DELAYED: "Budeme požadovat ústupky od [THIS.GetNameWithFlag]." # todo: CHANGED
+ CPD_concessions_tab_button_TEXT: "Poskytnout ústupky" # todo: NEW TRANSLATION
+ CPD_concessions_tab_button_TEXT_DELAYED: "Nabídneme ústupky [THIS.GetNameWithFlag]." # todo: CHANGED
+ CPD_peace_deal_builder_selected_deal_type_title: "[CPD_peace_deal_builder_selected_deal_type_title]" # todo: NEW TRANSLATION
+ CPD_peace_deal_builder_selected_deal_type_title_one: "V současnosti požadujeme ústupky" # todo: NEW TRANSLATION
+ CPD_peace_deal_builder_selected_deal_type_title_two: "V současnosti nabízíme ústupky" # todo: NEW TRANSLATION
+ CPD_peace_deal_builder_ACTIONABLE_STATES_TITLE_TEXT: "Státy s možností zásahu" # todo: NEW TRANSLATION
+ CPD_peace_deal_builder_CURRENT_DEAL_TITLE_TEXT: "Aktuální dohoda" # todo: NEW TRANSLATION
+ CPD_STATE_ACTIONS_HEADER: "§Y--- Akce států ---§!" # todo: NEW TRANSLATION
+ CPD_COUNTRY_ACTIONS_HEADER: "§Y--- Akce zemí ---§!" # todo: NEW TRANSLATION
+ CPD_ANNEX_BTN: "Anektovat stát" # todo: NEW TRANSLATION
+ CPD_PUPPET_BTN: "Loutkový stát" # todo: NEW TRANSLATION
+ CPD_DEMILITARISE_BTN: "Demilitarizovat" # todo: NEW TRANSLATION
+ CPD_LIBERATE_BTN: "Osvobodit" # todo: NEW TRANSLATION
+ CPD_RESOURCE_RIGHTS_BTN: "Práva na zdroje" # todo: NEW TRANSLATION
+ CPD_CEASEFIRE_BTN: "Příměří" # todo: NEW TRANSLATION
+ CPD_WAR_REPS_BTN: "Válečné reparace" # todo: NEW TRANSLATION
+ CPD_NEUTRALITY_BTN: "Neutralita" # todo: NEW TRANSLATION
+ CPD_REGIME_CHANGE_BTN: "Změna režimu" # todo: NEW TRANSLATION
+ CPD_MIL_BASING_BTN: "Vojenské základny" # todo: NEW TRANSLATION
+ CPD_FULL_PUPPET_BTN: "Plná loutková závislost" # todo: NEW TRANSLATION
+ CPD_resource_rights_button_TT: "§YPráva na zdroje§!" # todo: NEW TRANSLATION
+ CPD_resource_rights_button_TT_DELAYED: "Zajištění §Ypráv na těžbu zdrojů§! odkloní produkci zdrojů vybraných států k nám. Samotné státy zůstanou pod současným vlastníkem; do naší ekonomiky bude proudit pouze ropa, ocel, hliník, kaučuk, wolfram a chrom, které produkují. Ujednání platí, dokud nebude zrušeno jinou mírovou dohodou." # todo: NEW TRANSLATION
+ CPD_military_basing_button_TT: "§YVojenské základny§!" # todo: NEW TRANSLATION
+ CPD_military_basing_button_TT_DELAYED: "§YPráva na vojenské základny§! poskytují našim silám volný průchod územím tohoto národa. Naše jednotky se mohou volně přesouvat a rozmísťovat, dokud nebude přístup odebrán." # todo: NEW TRANSLATION
+ CPD_full_puppet_button_TT: "§YPlná loutková závislost§!" # todo: NEW TRANSLATION
+ CPD_full_puppet_button_TT_DELAYED: "Požadavek na §Yplnou loutkovou závislost§! promění celý tento národ v našeho podřízeného. Zachová si své hranice a obyvatelstvo, ale ztratí nezávislost v zahraniční politice; jeho ekonomika, lidské zdroje a armáda se budou řídit námi. Jakékoli požadavky na podřízení států, které již jsou součástí této dohody, budou tímto nahrazeny." # todo: NEW TRANSLATION
+ CPD_ceasefire_button_TT: "§YPříměří§!" # todo: NEW TRANSLATION
+ CPD_ceasefire_button_TT_DELAYED: "§YPříměří§! ukončí válku s frontovou linií v jejím současném stavu. Každá strana si ponechá státy, které právě ovládá, bez ohledu na to, kdo je držel dříve. Příměří potrvá §Y720 dní§!, než bude moci kterákoli strana znovu vyhlásit válku druhé straně.\n\nPříměří a územní požadavky nemohou být součástí jedné dohody. Aktivací příměří se z aktuálního návrhu odstraní všechny položky na úrovni států." # todo: NEW TRANSLATION
+ CPD_war_reparations_button_TT: "§YVálečné reparace§!" # todo: NEW TRANSLATION
+ CPD_war_reparations_button_TT_DELAYED: "§YVálečné reparace§! zavazují poraženého po dobu jednoho roku týdně odvádět část svého HDP. Převod se v rozpočtu plátce objeví jako nový výdaj a v rozpočtu příjemce jako nový příjem.\n\n[CPD_reparations_preview]" # todo: NEW TRANSLATION
+ CPD_reparations_preview_TT: "Předpokládaný převod pro tuto dohodu: §Y£[?CPD_rep_preview_temp|.2]B týdně§! (~§Y£[?CPD_rep_preview_total_temp|.0]B§! za rok)" # todo: NEW TRANSLATION
+ CPD_forced_neutrality_button_TT: "§YNucená neutralita§!" # todo: NEW TRANSLATION
+ CPD_forced_neutrality_button_TT_DELAYED: "§YNucená neutralita§! při podpisu odstraní tento národ z jeho frakce a na §Ypět let§! mu zabrání připojit se k jiné frakci nebo ji vytvořit." # todo: NEW TRANSLATION
+ CPD_regime_change_button_TT: "§YZměna režimu§!" # todo: NEW TRANSLATION
+ CPD_regime_change_button_TT_DELAYED: "§YZměna režimu§! nahradí vládnoucí stranu cíle stranou, která je právě u moci v našem národě. Jeho koalice bude rozpuštěna a do čela bude dosazen vůdce našeho politického směru. Nová vláda bude po dobu dvou let trpět §Ypoválečnou nestabilitou§! a v islámských národech může proti vládě vnucené cizí mocností dojít k §Ysalafistickému odporu§!." # todo: NEW TRANSLATION
+ additional_income_war_reparations_tt: "$$[?CPD_reparations_weekly|+3] z §Yválečných reparací§!\n" # todo: NEW TRANSLATION
+ additional_expense_war_reparations_tt: "$$[?CPD_reparations_weekly|-3] na §Yválečné reparace§!\n" # todo: NEW TRANSLATION
+ CPD_war_reparations_payer: "Válečné reparace (plátce)" # todo: NEW TRANSLATION
+ CPD_war_reparations_payer_desc: "V důsledku mírové dohody platíme válečné reparace. Týdenní peněžní převod se po dobu §Y1 roku§! objeví v našem rozpočtu jako dodatečný výdaj." # todo: NEW TRANSLATION
+ CPD_war_reparations_receiver: "Válečné reparace (příjemce)" # todo: NEW TRANSLATION
+ CPD_war_reparations_receiver_desc: "V důsledku mírové dohody přijímáme válečné reparace. Týdenní peněžní převod se po dobu §Y1 roku§! objeví v našem rozpočtu jako dodatečný příjem." # todo: NEW TRANSLATION
+ CPD_forced_neutrality_spirit: "Vynucená neutralita" # todo: NEW TRANSLATION
+ CPD_forced_neutrality_spirit_desc: "Na základě podmínek mírové dohody má náš národ zakázáno připojovat se k vojenským aliancím nebo je vytvářet." # todo: NEW TRANSLATION
+ CPD_regime_change_instability: "Poválečná politická nestabilita" # todo: NEW TRANSLATION
+ CPD_regime_change_instability_desc: "Vynucená změna režimu destabilizovala náš politický systém." # todo: NEW TRANSLATION
+ CPD_peace_deal_explainer_ICON_TT: "Jak fungují mírové dohody" # todo: NEW TRANSLATION
+ CPD_peace_deal_explainer_ICON_TT_DELAYED: "Sestavení mírové dohody je tak jednoduché, jako vybrat záložku výše a poté v státě zvolit, co postoupit nebo požadovat.\n\nMírová dohoda s §Ynegativní§! cenou bude pravděpodobně přijata AI, zatímco dohoda s §Ypozitivní§! cenou bude méně pravděpodobná k přijetí. Celé rozpis odhodlání AI přijmout dohodu můžete vidět, když najedete myší na políčko přijetí.\n\nJakákoli mírová dohoda vytvořená pro hráče není těmito hodnotami ovlivněna." # todo: NEW TRANSLATION
+ CPD_annex_state_button_TT: "[CPD_ANNEX_STATE_TT_LOC]" # todo: NEW TRANSLATION
+ CPD_annex_state_button_TT_DELAYED: "[CPD_ANNEX_STATE_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
+ CPD_annex_state_button_TT_DEMAND: "Požadovat státy" # todo: NEW TRANSLATION
+ CPD_annex_state_button_TT_CONCESSION: "Postoupit státy" # todo: NEW TRANSLATION
+ CPD_annex_state_button_TT_DELAYED_DEMAND: "Vybraná nepřátelská území jsou připojena k našemu národu spolu s jejich obyvateli, továrnami a zdroji. Státy, na něž máme nárok, stojí polovinu strategické hodnoty; nárokované státy třetinu. Požadování území, které původní vlastník stále drží, zdvojnásobuje cenu." # todo: CHANGED
+ CPD_annex_state_button_TT_DELAYED_CONCESSION: "§YPostoupení států§! znamená jejich předání nepříteli. Každé postoupené území snižuje celkovou cenu dohody a činí naše další požadavky přijatelnějšími." # todo: CHANGED
+ CPD_make_puppet_button_TT: "[CPD_MAKE_PUPPET_TT_LOC]" # todo: NEW TRANSLATION
+ CPD_make_puppet_button_TT_DELAYED: "[CPD_MAKE_PUPPET_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
+ CPD_make_puppet_button_TT_DEMAND: "Vytvořit loutkovou vládu" # todo: NEW TRANSLATION
+ CPD_make_puppet_button_TT_CONCESSION: "Přenechat loutkovou vládu" # todo: NEW TRANSLATION
+ CPD_make_puppet_button_TT_DELAYED_DEMAND: "Požadavek na §Yloutkovou vládu§! vytvoří z vybraného nepřátelského území nový podřízený stát. Nová loutka převezme kulturu svého mateřského státu, ale v zahraniční politice bude podřízena nám. Pokud již vlastníme podřízený stát s nároky na mateřský národ, tyto státy se připojí k němu namísto vytvoření nového." # todo: CHANGED
+ CPD_make_puppet_button_TT_DELAYED_CONCESSION: "Postoupení §Yloutkové vlády§! umožní nepříteli vytvořit podřízený stát z území, která v současnosti držíme. Nová loutková vláda se mu bude zodpovídat." # todo: CHANGED
+ CPD_demilitarise_state_button_TT: "[CPD_DEMILITARISE_TT_LOC]" # todo: NEW TRANSLATION
+ CPD_demilitarise_state_button_TT_DELAYED: "[CPD_DEMILITARISE_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
+ CPD_demilitarise_state_button_TT_DEMAND: "Požadovat demilitarizaci států" # todo: NEW TRANSLATION
+ CPD_demilitarise_state_button_TT_CONCESSION: "Navrhnout demilitarizaci států" # todo: NEW TRANSLATION
+ CPD_demilitarise_state_button_TT__DELAYED_DEMAND: "Požadavek na §Ydemilitarizaci§! promění vybrané nepřátelské státy v zóny, v nichž nesmí působit žádná armáda. Jejich vlastník tam nebude moci rozmístit jednotky ani budovat opevnění." # todo: CHANGED
+ CPD_demilitarise_state_button_TT__DELAYED_CONCESSION: "Postoupení §Ydemilitarizace§! uvalí stejná omezení na naše vlastní státy. V postoupených územích nebudeme moci přesouvat ani rozmísťovat síly." # todo: CHANGED
+ CPD_liberate_in_state_button_TT: "[CPD_LIBERATE_TT_LOC]" # todo: NEW TRANSLATION
+ CPD_liberate_in_state_button_TT_DELAYED: "[CPD_LIBERATE_TT_DELAYED_LOC]" # todo: NEW TRANSLATION
+ CPD_liberate_in_state_button_TT_DEMAND: "Osvobodit státy" # todo: NEW TRANSLATION
+ CPD_liberate_in_state_button_TT_CONCESSION: "Udělit nezávislost" # todo: NEW TRANSLATION
+ CPD_liberate_in_state_button_TT_DELAYED_DEMAND: "Požadavek na §Yosvobození§! vrátí vybrané státy národu, který si na ně oprávněně činí nárok. Stále existujícímu držiteli jádra bude území předáno přímo; dávno zaniklý držitel bude oživen, aby je obdržel. Pokud již žádný držitel jádra nezůstal, bude z toho, co zbývá současnému vlastníkovi, vytvořen nový odštěpenecký stát." # todo: NEW TRANSLATION
+ CPD_liberate_in_state_button_TT_DELAYED_CONCESSION: "Přiznání §Ynezávislosti§! uvolní vybrané státy, které držíme, jejich oprávněnému nárokovateli, ať už tento národ stále existuje, nebo musí být obnoven z historie." # todo: NEW TRANSLATION
+ CPD_COPD_container_TITLE_TEXT: "Cena mírové dohody: [?ROOT.CPD_total_cost_of_built_peace_deal|Y0] £bodů vítězství" # todo: NEW TRANSLATION
+ CPD_add_state_with_parameters_button_TEXT: "[CPD_DEMAND_CONCESSION_COST_SWITCH_LOC]" # todo: NEW TRANSLATION
+ CPD_demand_cost_value: "[THIS.Owner.GetFlag] [THIS.GetName] [?CPD_VP_temp|-0] £bodů vítězství" # todo: NEW TRANSLATION
+ CPD_concessions_cost_value: "[THIS.Owner.GetFlag] [THIS.GetName] [?CPD_VP_temp|-0] £bodů vítězství" # todo: NEW TRANSLATION
+ CPD_clear_from_current_deal_button_TEXT: "[CPD_deal_row_label]" # todo: CHANGED
+ CPD_state_deal_row_format: "[CPD_enacted_action_on_state] [THIS.GetName] [?CPD_value_of_state^num|+0] £victory_points" # todo: NEW TRANSLATION
+ CPD_AIA_title_TEXT: "[CPD_AI_WILL_ACCEPT_LOC]" # todo: NEW TRANSLATION
+ CPD_AIA_title_TEXT_DELAYED: "Umělá inteligence je ochotna tuto mírovou dohodu přijmout, nebo odmítnout, z následujících důvodů:\n\nZákladní neochota přijmout: §R-100§!\n\n[CPD_ai_accept_economic_cost][CPD_ai_accept_war_support][CPD_ai_accept_relative_strength][CPD_ai_accept_surrender_progress][CPD_ai_accept_battles_won][CPD_ai_accept_sender_contribution][CPD_ai_accept_power_ranking][CPD_ai_accept_faction_backing][CPD_ai_accept_months_at_war][CPD_ai_accept_war_weariness][CPD_ai_accept_desperation][CPD_ai_acceptance_difficulty_setting][CPD_ai_accept_cost_of_peace][CPD_ai_accept_deal_fairness][CPD_ai_accept_full_puppet_aversion][CPD_ai_accept_regime_change_aversion][CPD_ai_accept_forced_neutrality_aversion][CPD_ai_accept_military_basing_aversion][CPD_ai_accept_resource_rights_aversion][CPD_ai_accept_ceasefire_acceptance]\n\nSoučasné skóre pro přijetí AI: [CPD_ai_acceptance_total]" # todo: CHANGED
+ CPD_AIA_yes: "§YA přijmou§!" # todo: NEW TRANSLATION
+ CPD_AIA_no: "§YA NEPŘIJMOU§!" # todo: NEW TRANSLATION
+ CPD_AIA_player: "§YOstatní hráči mohou přijmout nebo odmítnout§!" # todo: NEW TRANSLATION
+ CPD_ai_accept_economic_cost_tt: "Ekonomické náklady války: [?CPD_IR_temp|0+]\n" # todo: CHANGED
+ CPD_ai_accept_war_support_tt: "Podpora války: [?CPD_WS_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_relative_strength_tt: "Relativní síla stran konfliktu: [?CPD_RSB_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_surrender_progress_tt: "Blízko kapitulace: [?CPD_SP_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_battles_won_tt: "Relativní počet vyhraných bitev: [?CPD_RBW_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_sender_contribution_tt: "Válečný příspěvek navrhovatele: [?CPD_SWC_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_deal_fairness_tt: "Spravedlivost dohody: [?CPD_DF_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_power_ranking_tt: "Hodnocení síly: [?CPD_PR_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_faction_backing_tt: "Podpora frakce: [?CPD_FB_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_months_at_war_tt: "[PREV.GetAdjective] Válečné vyčerpání: [?months_at_war_tmp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_war_weariness_tt: "Zatvrzelost z dlouhé války: [?CPD_WW_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_desperation_tt: "Zoufalství ukončit válku: [?CPD_DESP_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_full_puppet_aversion_tt: "Odpor k plné loutkové závislosti: [?CPD_FP_aversion_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_regime_change_aversion_tt: "Odpor ke změně režimu: [?CPD_RC_aversion_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_forced_neutrality_aversion_tt: "Odpor k nucené neutralitě: [?CPD_FN_aversion_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_military_basing_aversion_tt: "Odpor k vojenským základnám: [?CPD_MB_aversion_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_resource_rights_aversion_tt: "Odpor k právům na zdroje: [?CPD_RR_aversion_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_ceasefire_acceptance_tt: "Přitažlivost příměří při patové situaci: [?CPD_CF_acceptance_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_acceptance_difficulty_setting_tt: "Nastavení obtížnosti hry: [?v|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_accept_cost_of_peace_tt: "Cena současné mírové dohody: [?v|0+]\n" # todo: NEW TRANSLATION
+ CPD_ai_acceptance_total_tt: "[?CPD_acceptance_temp|0+]\n" # todo: NEW TRANSLATION
+ CPD_base_reluctance: "Základní neochota přijmout" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_economic_cost_of_war: "Ekonomické náklady války" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_support_of_war: "Podpora války" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_relative_strength_of_belligerents: "Relativní síla bojujících stran" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_close_to_surrender: "Blízko kapitulace" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_battles_won: "Relativní počet vítězných bitev" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_sender_war_contribution: "Válečný příspěvek navrhovatele" # todo: NEW TRANSLATION
+ CPD_power_ranking: "Žebříček síly" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_faction_backing: "Podpora frakce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_months_at_war: "[THIS.GetNameWithFlag] Měsíců ve válce" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_difficulty_setting: "Nastavení obtížnosti hry" # todo: NEW TRANSLATION
+ CPD_accepting_peace_deal: "Cena bodu mírové dohody" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_deal_fairness: "Spravedlivost dohody" # todo: NEW TRANSLATION
+ CPD_war_weariness_rejection: "Zatvrzelost z dlouhé války" # todo: NEW TRANSLATION
+ CPD_desperation_to_end_war: "Zoufalství ukončit válku" # todo: NEW TRANSLATION
+ CPD_full_puppet_aversion: "Odpor k plné loutkové závislosti" # todo: NEW TRANSLATION
+ CPD_regime_change_aversion: "Odpor ke změně režimu" # todo: NEW TRANSLATION
+ CPD_forced_neutrality_aversion: "Odpor k nucené neutralitě" # todo: NEW TRANSLATION
+ CPD_military_basing_aversion: "Odpor k vojenským základnám" # todo: NEW TRANSLATION
+ CPD_resource_rights_aversion: "Odpor k právům na zdroje" # todo: NEW TRANSLATION
+ CPD_ceasefire_acceptance: "Přitažlivost příměří při patové situaci" # todo: NEW TRANSLATION
+ CPD_clear_from_current_deal_button_TT: "[CPD_enacted_action_on_state_TT]" # todo: NEW TRANSLATION
+ CPD_annexation_of_state: "Připojení" # todo: CHANGED
+ CPD_puppeting_in_state: "Loutková vláda v" # todo: CHANGED
+ CPD_demilitarisation_of_state: "Demilitarizace" # todo: NEW TRANSLATION
+ CPD_liberation_of_state: "Osvobození" # todo: NEW TRANSLATION
+ CPD_resource_rights_of_state: "Práva na zdroje ve státě" # todo: NEW TRANSLATION
+ CPD_demanding_annexation_of_state_TT: "Anektace tohoto státu je §Gpožadavkem§! od [ROOT.GetNameWithFlag]. Pokud bude mírová dohoda přijata, tento stát bude anektován do naší země a my se staneme jeho novým vlastníkem." # todo: NEW TRANSLATION
+ CPD_demanding_puppeting_in_state_TT: "Zřízení loutkové vlády v tomto státě je §Gpožadavkem§! od [ROOT.GetNameWithFlag]. Pokud bude dohoda přijata, tento stát bude umístěn pod kontrolu nové loutkové vlády." # todo: NEW TRANSLATION
+ CPD_demanding_demilitarisation_of_state_TT: "Demilitarizace tohoto státu je §Gpožadavkem§! [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát již nebude moci provozovat žádné vojenské síly." # todo: CHANGED
+ CPD_demanding_liberation_of_state_TT: "Osvobození tohoto státu je §Gpožadavkem§! [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát bude vrácen zemi, která je jeho právoplatným vlastníkem, jako nezávislý národ." # todo: CHANGED
+ CPD_conceding_annexation_of_state_TT: "Připojení tohoto státu je §Rústupkem§! ze strany [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát bude připojen k národu nepřítele." # todo: CHANGED
+ CPD_conceding_puppeting_in_state_TT: "Vytvoření loutky v tomto státě je §Rústupkem§! ze strany [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát bude podřízen loutkové vládě zodpovídající se nepříteli." # todo: CHANGED
+ CPD_conceding_demilitarisation_of_state_TT: "Demilitarizace tohoto státu je §Rústupkem§! ze strany [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát již nebude moci provozovat žádné vojenské síly." # todo: CHANGED
+ CPD_conceding_liberation_of_state_TT: "Osvobození tohoto státu je §Rústupkem§! ze strany [ROOT.GetNameWithFlag]. Pokud bude mír přijat, tento stát bude vrácen zemi, která je jeho právoplatným vlastníkem, jako nezávislý národ." # todo: CHANGED
+ CPD_demanding_resource_rights_TT: "Práva na těžbu zdrojů v tomto státě jsou §Gpožadavkem§! [ROOT.GetNameWithFlag]. Pokud bude mír přijat, získáme práva na zdroje produkované v tomto státě." # todo: NEW TRANSLATION
+ CPD_conceding_resource_rights_TT: "Práva na těžbu zdrojů v tomto státě jsou §Rústupkem§! [ROOT.GetNameWithFlag]. Pokud bude mír přijat, nepřítel získá práva na zdroje produkované v tomto státě." # todo: NEW TRANSLATION
+ CPD_country_action_ceasefire: "§YPříměří§!" # todo: NEW TRANSLATION
+ CPD_country_action_war_reparations: "§YVálečné reparace§!" # todo: NEW TRANSLATION
+ CPD_country_action_forced_neutrality: "§YNucená neutralita§!" # todo: NEW TRANSLATION
+ CPD_country_action_regime_change: "§YZměna režimu§!" # todo: NEW TRANSLATION
+ CPD_country_action_military_basing: "§YVojenské základny§!" # todo: NEW TRANSLATION
+ CPD_country_action_full_puppet: "§YPlná loutková závislost§!" # todo: NEW TRANSLATION
+ CPD_country_action_ceasefire_TT: "§YPříměří§! ukončí válku a současnou frontovou linii stanoví jako novou hranici. Poté bude platit §Y720denní§! příměří.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_country_action_war_reparations_TT: "§YVálečné reparace§! donutí poraženého po dobu jednoho roku odvádět příjemci týdenní část svého HDP.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_country_action_forced_neutrality_TT: "§YNucená neutralita§! odstraní cíl z jeho frakce a na pět let mu zabrání připojit se k jiné.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_country_action_regime_change_TT: "§YZměna režimu§! dosadí do vlády cíle naši vládnoucí stranu. Očekávejte dlouhodobou politickou nestabilitu.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_country_action_military_basing_TT: "§YVojenské základny§! poskytují přijímající straně volný průchod a práva na rozmístění jednotek na území druhé strany.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_country_action_full_puppet_TT: "§YPlná loutková závislost§! promění celý cílový národ v podřízený stát.\n\nKliknutím odstraníte z dohody." # todo: NEW TRANSLATION
+ CPD_built_peace_deal_CONCESSIONS_TITLE_TEXT: "§GÚstupky§!" # todo: NEW TRANSLATION
+ CPD_built_peace_deal_DEMANDS_TITLE_TEXT: "§RPožadavky§!" # todo: NEW TRANSLATION
+ CPD_has_war_contribution_TT: "Má §Yválečný příspěvek§! proti [THIS.GetName]: §Y1+ vyhraná bitva§! (aktuálně §Y[?ROOT.CPD_VP@THIS|.0]§!) nebo §Y3+ měsíce ve válce§! (aktuálně §Y[?ROOT.months_at_war|.1]§!)" # todo: NEW TRANSLATION
+ CPD_has_demands_in_deal_TT: "Dohoda obsahuje alespoň jeden §Ypožadavek§!." # todo: NEW TRANSLATION
+ CPD_is_an_autonomy_allowed_to_receive_deal_TT: "Povoleno samostatně podepisovat mírové dohody při současném §Ystavu autonomie§!" # todo: NEW TRANSLATION
+ CPD_is_an_autonomy_allowed_to_send_deal_TT: "Povoleno samostatně nabízet mírové dohody při současném §Ystavu autonomie§!" # todo: NEW TRANSLATION
+ CPD_deal_has_no_demands_TT: "Dohoda neobsahuje žádné požadavky" # todo: NEW TRANSLATION
+ CPD_is_ceasefire_only_deal_TT: "Dohoda obsahuje pouze příměří" # todo: NEW TRANSLATION
+ CPD_send_status_breakdown_TT: "Měsíce ve válce: §Y[?CPD_send_months_temp|.1]§! (požadovány §Y3§!)\nVítězství v bitvách proti [THIS.GetName]: §Y[?CPD_send_vp_temp|.0]§! (požadováno §Y1§!)" # todo: NEW TRANSLATION
+ CPD_send_ready_TT: "§GPodmínky této dohody jsou připraveny k odeslání [THIS.GetName].§!\n\n[CPD_send_status_breakdown]\n\n[CPD_deal_recap]" # todo: NEW TRANSLATION
+ CPD_send_blocked_TT: "§RJeště nemůžeme tuto dohodu odeslat.§! Odeslání §Ypožadavků§! vyžaduje §Yválečný příspěvek§! proti [THIS.GetName]: alespoň jednu vyhranou bitvu nebo tři měsíce ve válce. Dohodu obsahující pouze §Ypříměří§! lze odeslat bez příspěvku. Dohody složené výhradně z ústupků lze rovněž odeslat bez něj.\n\n[CPD_send_status_breakdown]\n\n[CPD_deal_recap]" # todo: NEW TRANSLATION
+ CPD_deal_recap_TT: "Požadavky: §Y[?CPD_recap_demands|.0]§!\nÚstupky: §Y[?CPD_recap_concessions|.0]§!\nČisté náklady: §Y[?CPD_recap_total_cost|+0]§! £victory_points" # todo: NEW TRANSLATION
+ CPD_receive_offer_TITLE_TEXT: "Nabídka míru přijata" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_receive_offer_DESC_TEXT: "Přijata byla mírová delegace z [ROOT.GetNameWithFlag], naši diplomaté posuzují nabídku, ale vy máte poslední slovo. Podepíšeme smlouvu, nebo budeme pokračovat v [CPD_receive_offer_DESC_WAR_TYPE]?" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_receive_offer_DESC_OFFENSIVE_WAR: "Ofenzivní" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_receive_offer_DESC_DEFENSIVE_WAR: "Obrana naší země" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_OFFER_CONDITIONAL_PEACE_TITLE: "Odeslat podmínky míru" # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_OFFER_CONDITIONAL_PEACE_ACTION_DESC: "Vybudováním vzájemně přijatelné §Ymírové dohody§!, můžeme ukončit tuto válku a vyhnout se tomu, aby některá z našich zemí dospěla do stavu §Ytotální války§!." # todo: NEW TRANSLATION # todo: MOVED KEY
+ CPD_selected_states_are_too_far_from_demander: "Vybrané státy jsou příliš daleko od našeho území!" # todo: NEW TRANSLATION

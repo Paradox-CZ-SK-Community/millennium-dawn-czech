@@ -1,513 +1,470 @@
 ﻿l_english:
-  south_ossetia_focus: "Fokusový strom Jižní Osetie" # todo: NEW TRANSLATION
-  SOO_Lumber_tt_focus: "§YTěžba dřeva§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  SOO_Famers_ddynamic_modifers: "Venkovské zemědělství" # todo: NEW TRANSLATION
-  Soviet_era_work_decisionstt: "£decision_icon_small §YOdemkne§! Opravy výroby §Yrozhodnutí§! " # todo: NEW TRANSLATION
-  SOO_Raise_Import_Tariffs_tt_focus: "§YTarify§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  SOO_Roki_tunnel_toll_tt_focus: "§YRoki tunelové poplatky§! dopad na §YDalší příjem§! $§G0.014§! miliardy" # todo: NEW TRANSLATION
-  SOO_russian_bank_tt_focus: "§YRuské financování§! dopad na §YDalší příjem§! $§G0.120§! miliardy" # todo: NEW TRANSLATION
-  SOO_farming_income_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.015§! miliardy" # todo: NEW TRANSLATION
-  SOO_generic_income_tt_focus: "§YVnější příjmy vlády§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  SOO_electrical_costs_income_idea_tt_focus: "§YNáklady na elektřinu§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  SOO_oil_and_gas_cost_income_idea_tt_focus: "§YNáklady na ropu a plyn§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  increase_tolls_on_Roki_Tunneltt_focus: "§YRoki tunelové poplatky§! dopad na §YDalší příjem§! $§G0.010§! miliardy" # todo: NEW TRANSLATION
-  SOO_Move_towards_cash_crop_growth_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
-  SOO_Boost_the_local_flour_production_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.008§! miliardy" # todo: NEW TRANSLATION
-  SOO_Geared_for_hardship_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.008§! miliardy" # todo: NEW TRANSLATION
-  SOO_New_battalion_tt: "§GNový pluk§! bude vytvořen pro naši armádu" # todo: NEW TRANSLATION
-  SOO_kakoyti_tt: "Eduard Kokoyti se stane prezidentem Jižní Osetie." # todo: NEW TRANSLATION
-  SOO_subsidise_the_Farmers_idea: "Dotace pro farmáře" # todo: NEW TRANSLATION
-  SOO_Boost_the_local_flour_production_idea: "Podpora místní produkce mouky" # todo: NEW TRANSLATION
-  SOO_Ossetian_Opium_produce_idea: "Osetie opiová produkce" # todo: NEW TRANSLATION
-  SOO_Raise_Import_Tariffs_idea: "Zvýšené dovozní tarify" # todo: NEW TRANSLATION
-  SOO_Raise_Import_Tariffs_idea_desc: "Další příjem: $§G0.012§!" # todo: NEW TRANSLATION
-  SOO_farming_income_idea: "Příjmy z farem" # todo: NEW TRANSLATION
-  SOO_The_soviet_era_Works_state_mod1: "Sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_The_soviet_era_Works_state_mod2: "Sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_The_soviet_era_Works_state_mod3: "Sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_The_soviet_era_Works_state_mod4: "Sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_The_soviet_era_Works_state_mod5: "Sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_grey_market: "Šedý trh" # todo: NEW TRANSLATION
-  SOO_grey_market2: "Šedý trh" # todo: NEW TRANSLATION
-  SOO_The_Ergneti_market_idea: "Ergneti trh" # todo: NEW TRANSLATION
-  SOO_Ergneti_market_regulation: "Regulace trhu Ergneti" # todo: NEW TRANSLATION
-  SOO_adopted_constitution: "Přijatá ústava" # todo: NEW TRANSLATION
-  SOO_Evaluated_constitution: "Hodnocená ústava" # todo: NEW TRANSLATION
-  SOO_faded_parliament: "Vybledlý parlament" # todo: NEW TRANSLATION
-  SOO_Ministry_of_internal_affairs_idea: "Ministerstvo vnitra" # todo: NEW TRANSLATION
-  SOO_banner_of_the_people_idea: "Prapor lidu" # todo: NEW TRANSLATION
-  SOO_SOO_Defenders_of_the_Fatherland_idea: "Ministerstvo vnitra" # todo: NEW TRANSLATION
-  SOO_Idea_Forestry_Development: "Rozvoj lesnictví" # todo: NEW TRANSLATION
-  SOO_mass_doctrine_2: "Reformy doktrín" # todo: NEW TRANSLATION
-  SOO_new_roads_idea: "Nové silnice" # todo: NEW TRANSLATION
-  SOO_tractors: "Nové traktory" # todo: NEW TRANSLATION
-  SOO_five_year_plans_idea: "Pětiletý plán" # todo: NEW TRANSLATION
-  SOO_against_georgia_idea: "Strategie války se Gruzií" # todo: NEW TRANSLATION
-  SOO_Roki_tunnel_toll: "Poplatky z tunelu Roki" # todo: NEW TRANSLATION
-  SOO_Roki_tunnel_toll_desc: "Další příjem: $§G0.010§!" # todo: NEW TRANSLATION
-  SOO_defence_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
-  SOO_invervention_rus: "Ruská doktrína vojenské intervence" # todo: NEW TRANSLATION
-  SOO_help_ossetia_SOV: "Investice do §Y[SOO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_help_ossetia_SOV_desc: "Budeme finančně podporovat rozpočet Jižní Osetie, protože tato země to sama nedokáže. Další příjem: $§R-0.120§!" # todo: NEW TRANSLATION
-  SOO_help_ossetia: "Investice z §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_help_ossetia_desc: "Rusko nám finančně pomáhá a to umožňuje naší ekonomice zůstat na vodě. Další příjem: $§G0.120§!" # todo: NEW TRANSLATION
-  SOO_develop_turism: "Rozvoj turistiky" # todo: NEW TRANSLATION
-  SOO_develop_turism_desc: "Budeme rozvíjet domácí turistiku, která by měla přinést dodatečný příjem do našeho pokladního rozpočtu. Další příjem: $§G0.100§!" # todo: NEW TRANSLATION
-  SOO_Mamison_path: "Mamison průsmyk" # todo: NEW TRANSLATION
-  SOO_Mamison_path_desc: "" # todo: NEW TRANSLATION
-  SOO_hydroelectric_dams: "Mikrohydroelektrické systémy" # todo: NEW TRANSLATION
-  SOO_Tskhinvali_district: "Okres Tskhinvali" # todo: NEW TRANSLATION
-  SOO_GAS_Electrical_lines: "Plynové a elektrické vedení" # todo: NEW TRANSLATION
-  SOO_Java_townlet: "Java městečko" # todo: NEW TRANSLATION
-  SOO_reinforced_roads: "Pevné silnice" # todo: NEW TRANSLATION
-  SOO_subsidise_the_Farmers: "Dotace pro farmáře" # todo: NEW TRANSLATION
-  SOO_subsidise_the_Farmers_desc: "Naše země je velmi chudá, musíme využít každé příležitosti k příjmu do rozpočtu. Budeme se snažit podpořit farmáře" # todo: NEW TRANSLATION
-  SOO_Roki_Tunnel_tollage: "Oprava tunelu Roki" # todo: NEW TRANSLATION
-  SOO_Roki_Tunnel_tollage_desc: "Musíme opravit tento tunel, protože jen díky němu máme spojení s Ruskem" # todo: NEW TRANSLATION
-  SOO_Tskhinvali_gas_and_electricity_network: "Zajištění energie pro Tskhinvali" # todo: NEW TRANSLATION
-  SOO_Tskhinvali_gas_and_electricity_network_desc: "Zajistíme Tskhinvali veškerou energii" # todo: NEW TRANSLATION
-  SOO_Move_towards_cash_crop_growth: "Zvýšit obrat obchodu s Ruskem" # todo: NEW TRANSLATION
-  SOO_Move_towards_cash_crop_growth_desc: "Jsme připraveni zvýšit dodávky našich zemědělských produktů do Ruska" # todo: NEW TRANSLATION
-  SOO_Rural_Revitalization: "Investice do obnovy infrastruktury" # todo: NEW TRANSLATION
-  SOO_Rural_Revitalization_desc: "Musíme obnovit naše silnice, které byly po mnoho let poškozené" # todo: NEW TRANSLATION
-  SOO_konserv_zavod: "Otevřít konzervárnu" # todo: NEW TRANSLATION
-  SOO_konserv_zavod_desc: "V naší zemi otevřeme konzervárnu, poskytneme lidem práci a získáme z toho slušný zisk" # todo: NEW TRANSLATION
-  SOO_Redevelop_the_Mamison_Pass: "Přestavět Mamison průsmyk" # todo: NEW TRANSLATION
-  SOO_Redevelop_the_Mamison_Pass_desc: "Mamison Pass je drsný a horský průsmyk na osetsko-ruské hranici. Přes něj vede Ossetská vojenská silnice, která byla vybudována v letech 1854–1889 Ruskou říší. Dnes je silnice silně překryta Transkaspickou dálnicí." # todo: NEW TRANSLATION
-  SOO_The_Ergneti_market: "Ergneti trh" # todo: NEW TRANSLATION
-  SOO_The_Ergneti_market_desc: "Ergneti je vesnice na okraji Tskhinvali, ležící na gruzínské straně hranice. Zde místní gruzínští obyvatelé míří koupit balíček levných ruských cigaret a dvanáct lahví alkoholu; trh se rozrostl do robustního černého trhu, kde se obchoduje se všemi komoditami od zemědělských produktů po průmyslové zboží. Trh sloužil jako mechanismus stanovování cen pro celý region a vytvářel sociální dynamiku. Trh Ergneti se stal nejspolehlivějším a udržitelným zdrojem příjmů pro tisíce Ossetianů i Gruzínců dohromady." # todo: NEW TRANSLATION
-  SOO_Sponsor_the_Georgian_grey_market: "Sponsor the Georgian Grey Market"  -> "Sponzorovat Gruzijský šedý trh" # todo: NEW TRANSLATION
-  SOO_Sponsor_the_Georgian_grey_market_desc: "Gruzinský šedý trh vznikl z přílivu ruského zboží proudícího do regionu. Většina zboží vstupuje přes osetskou hranici z Transkavkazské dálnice. Financování šedého trhu může vést k nevyužitému zdroji příjmů pro zemi v nouzi, jako je ta naše." # todo: NEW TRANSLATION
-  SOO_fostering_economic_ties: "Posilování hospodářských vazeb" # todo: NEW TRANSLATION
-  SOO_fostering_economic_ties_desc: "Ergneti sloužilo jako základ míru mezi jižní Osetií a Gruzií; abychom udrželi stabilní růst, musíme využít příležitost k navázání užších vztahů s gruzínským státem." # todo: NEW TRANSLATION
-  SOO_tourism: "Turismus v Jižní Osetii" # todo: NEW TRANSLATION
-  SOO_tourism_desc: "Naše země má krásné krajiny a výhledy, je čas vybudovat infrastrukturu pro turisty, aby mohli tuto krásu navštívit" # todo: NEW TRANSLATION
-  SOO_A_Shifting_market: "Přesouvající se trh" # todo: NEW TRANSLATION
-  SOO_A_Shifting_market_desc: "Gruzínská vláda trh uzavřela, musíme plánovat budoucnost pro národ a řešit tuto záležitost; mnoho lidí přijde o práci, jsme nuceni se přizpůsobit větší ruské pomoci a větším zaměřením na pašované zboží a další nelegální zdroje obchodu." # todo: NEW TRANSLATION
-  SOO_Host_transit_tax: "Poplatek za tranzit" # todo: NEW TRANSLATION
-  SOO_Host_transit_tax_desc: "Trh Ergneti se stále prohlašuje za černý trh. Abychom využili náš nevyužitý příjem, můžeme zřídit tranzitní daň na osetské straně hranice. To může mnohým nabídnout nepříjemnou volbu, ale peníze zůstanou pouze v jejich vlastním státě a ne v sousedním státě naproti hranici." # todo: NEW TRANSLATION
-  SOO_Promote_contraband: "Podpora pašovaného zboží" # todo: NEW TRANSLATION
-  SOO_Promote_contraband_desc: "Po nedávném uzavření trhu gruzínskou vládou musíme hledat jiné zdroje příjmů. Velká část populace na obou stranách hranice je nespokojena s nedávným zásahem Gruzie v trhu. Nyní jsme nuceni obchodovat se pašovaným zbožím." # todo: NEW TRANSLATION
-  SOO_regulate_the_market: "Regulace trhu" # todo: NEW TRANSLATION
-  SOO_regulate_the_market_desc: "Regulace trhu jsou nezbytné k potlačení jakéhokoli nelegálního chování. Pro gruzínskou stranu se to stane atraktivnějším, aby byl trh otevřený i v dobách změn či napětí." # todo: NEW TRANSLATION
-  SOO_Districted_Oversight: "Okresní dohled" # todo: NEW TRANSLATION
-  SOO_Districted_Oversight_desc: "S nově vznikající správní institucí gruzínských území musí začít proces začlenění znečištění do celních pravidel Ossetského státu a jeho myšlenek." # todo: NEW TRANSLATION
-  SOO_Resilient_Commerce: "Odolný obchod" # todo: NEW TRANSLATION
-  SOO_Resilient_Commerce_desc: "Budeme se snažit obchodovat aktivněji než dřív, abychom rozšířili svůj technický potenciál" # todo: NEW TRANSLATION
-  SOO_Raise_Import_Tariffs: "Zvýšit dovozní cla" # todo: NEW TRANSLATION
-  SOO_Raise_Import_Tariffs_desc: "Budeme zvyšovat dovozní cla, abychom zlepšili příjmy pro naši pokladnu" # todo: NEW TRANSLATION
-  SOO_the_Russian_bankroll: "Připustit ruské banky" # todo: NEW TRANSLATION
-  SOO_the_Russian_bankroll_desc: "Budeme muset povolit působení ruských bank na podporu naší ekonomiky" # todo: NEW TRANSLATION
-  SOO_new_developments_in_Kvaisa: "Energetika Osetie" # todo: NEW TRANSLATION
-  SOO_new_developments_in_Kvaisa_desc: "Zahájíme výstavbu elektrárny, která zajistí energetickou bezpečnost" # todo: NEW TRANSLATION
-  SOO_Boost_the_local_flour_production: "Investice do produkce mouky" # todo: NEW TRANSLATION
-  SOO_Boost_the_local_flour_production_desc: "Jakékoliv zemědělské produkty by měly být investovány naším státem" # todo: NEW TRANSLATION
-  SOO_Tractor_Imports: "Import traktorů" # todo: NEW TRANSLATION
-  SOO_Tractor_Imports_desc: "Importujeme traktory pro potřeby našeho zemědělství" # todo: NEW TRANSLATION
-  SOO_Forestry_Development: "Lesní průmysl" # todo: NEW TRANSLATION
-  SOO_Forestry_Development_desc: "Opět se pokusíme rozvíjet náš lesnický průmysl" # todo: NEW TRANSLATION
-  SOO_increase_tolls_on_Roki_Tunnel: "Zvýšit poplatky za průjezd Roki tunelu" # todo: NEW TRANSLATION
-  SOO_increase_tolls_on_Roki_Tunnel_desc: "Zvýšíme mýto na tunelu Roki" # todo: NEW TRANSLATION
-  SOO_South_Ossetian_State_University: "Jižněosetská státní univerzita" # todo: NEW TRANSLATION
-  SOO_South_Ossetian_State_University_desc: "Naše republika potřebuje ty nejlepší mozky" # todo: NEW TRANSLATION
-  SOO_Dzuarikau_Tskhinvali_pipeline: "Opravený ropovod" # todo: NEW TRANSLATION
-  SOO_Dzuarikau_Tskhinvali_pipeline_desc: "Tento ropovod je pro nás zásadní" # todo: NEW TRANSLATION
-  SOO_Develop_Tskhinvali: "Infrastruktura Tskhinvali" # todo: NEW TRANSLATION
-  SOO_Develop_Tskhinvali_desc: "Místní silnice rozhodně potřebují opravu" # todo: NEW TRANSLATION
-  SOO_Develop_Java: "Obnova Java" # todo: NEW TRANSLATION
-  SOO_Develop_Java_desc: "Tato osada také potřebuje finanční injekce" # todo: NEW TRANSLATION
-  SOO_Revive_soviet_era_works: "Oživit sovětské dědictví" # todo: NEW TRANSLATION
-  SOO_Revive_soviet_era_works_desc: "Nastal čas vrátit to, co bylo v průběhu let ztraceno a zničeno – dědictví SSSR" # todo: NEW TRANSLATION
-  SOO_Develop_Gori: "Rozvoj Gori" # todo: NEW TRANSLATION
-  SOO_Develop_Gori_desc: "Nové území naší republiky musí být také vybudováno" # todo: NEW TRANSLATION
-  SOO_private_sector: "Soukromý sektor" # todo: NEW TRANSLATION
-  SOO_private_sector_desc: "Podporujeme rozvoj soukromého sektoru na území naší republiky" # todo: NEW TRANSLATION
-  SOO_Geared_for_hardship: "Potíže s rozvojem" # todo: NEW TRANSLATION
-  SOO_Geared_for_hardship_desc: "Máme před sebou dlouhou cestu v rozvoji a oživení naší ekonomiky – zvláště zemědělství" # todo: NEW TRANSLATION
-  SOO_Gori_Tskhinvali_rail_link: "Dopravní spojení Gori – Tskhinvali" # todo: NEW TRANSLATION
-  SOO_Gori_Tskhinvali_rail_link_desc: "Propojíme naše nové území se zbytkem republiky" # todo: NEW TRANSLATION
-  SOO_Ministry_of_internal_affairs: "Ministerstvo vnitra" # todo: NEW TRANSLATION
-  SOO_Ministry_of_internal_affairs_desc: "Naše republika by měla klidně spát" # todo: NEW TRANSLATION
-  SOO_Reinforce_Parliamentary_administration: "Změna vedení Parlamentu" # todo: NEW TRANSLATION
-  SOO_Reinforce_Parliamentary_administration_desc: "Je čas na nové lidi v politice" # todo: NEW TRANSLATION
-  SOO_Dismantle_Parliamentary_Dominance: "Zrušení parlamentní nadřazenosti" # todo: NEW TRANSLATION
-  SOO_Dismantle_Parliamentary_Dominance_desc: "Parlament by neměl vládnout zemi sám" # todo: NEW TRANSLATION
-  SOO_Downplay_opposition_forces: "Potlačit opozici" # todo: NEW TRANSLATION
-  SOO_Downplay_opposition_forces_desc: "Opozice v podobě, v jaké dnes existuje, ohrožuje naši republiku a její stabilitu" # todo: NEW TRANSLATION
-  SOO_banner_of_the_people: "Vlajka lidu" # todo: NEW TRANSLATION
-  SOO_banner_of_the_people_desc: "Praví synové Osetie jsou připraveni bránit naši zemi" # todo: NEW TRANSLATION
-  SOO_Political_independent: "Politická nezávislost" # todo: NEW TRANSLATION
-  SOO_Political_independent_desc: "Naše politika bude méně podléhat jedné osobě či skupině lidí" # todo: NEW TRANSLATION
-  SOO_Defenders_of_the_Fatherland: "Obránci vlasti" # todo: NEW TRANSLATION
-  SOO_Defenders_of_the_Fatherland_desc: "Naši bojovníci budou bojovat do posledního dechu za naši vlast" # todo: NEW TRANSLATION
-  SOO_Evaluate_the_existing_constitution: "Zhodnotit současnou ústavu" # todo: NEW TRANSLATION
-  SOO_Evaluate_the_existing_constitution_desc: "Možná nastal čas změnit stávající ústavu?" # todo: NEW TRANSLATION
-  SOO_Allow_presidential_constitution_changes: "Prezidentská ústavní novela" # todo: NEW TRANSLATION
-  SOO_Allow_presidential_constitution_changes_desc: "Náš prezident má vlastní vizi ústavy" # todo: NEW TRANSLATION
-  SOO_The_Regal_Relinquishment: "Nový politický život" # todo: NEW TRANSLATION
-  SOO_The_Regal_Relinquishment_desc: "Je čas, aby naše republika vdechla život do našeho politického života" # todo: NEW TRANSLATION
-  SOO_Reform_the_distribution_of_farmland: "Zemědělská reforma" # todo: NEW TRANSLATION
-  SOO_Reform_the_distribution_of_farmland_desc: "Hlavním zdrojem našich příjmů jsou zemědělské produkty. Musíme toto odvětví reformovat kompetentně" # todo: NEW TRANSLATION
-  SOO_The_Kremlin_state: "Pro-kremlínský stát" # todo: NEW TRANSLATION
-  SOO_The_Kremlin_state_desc: "Nemáme žádné spojence kromě Ruska" # todo: NEW TRANSLATION
-  SOO_Ossetian_Patriotism_Reforms: "Osetijský patriotismus" # todo: NEW TRANSLATION
-  SOO_Ossetian_Patriotism_Reforms_desc: "Všichni by měli být informováni a připraveni bojovat za naši vlastní" # todo: NEW TRANSLATION
-  SOO_adopted_a_new_constitution: "Nová ústava" # todo: NEW TRANSLATION
-  SOO_adopted_a_new_constitution_desc: "Nastal čas přijmout novou ústavu" # todo: NEW TRANSLATION
-  SOO_Enduring_the_Sovereignty_Fight: "Pokračujte v boji za nezávislost" # todo: NEW TRANSLATION
-  SOO_Enduring_the_Sovereignty_Fight_desc: "Dokud nebudeme součástí Ruska, budeme muset bojovat za naši nezávislost" # todo: NEW TRANSLATION
-  SOO_pro_russian: "Pro-ruský kurz" # todo: NEW TRANSLATION
-  SOO_pro_russian_desc: "Naším konečným cílem je sjednocení s našimi bratry Severní Osetie a Ruskem" # todo: NEW TRANSLATION
-  SOO_integrate_to_russian_army: "Integrace do ruské armády" # todo: NEW TRANSLATION
-  SOO_integrate_to_russian_army_desc: "Jsme připraveni plně se začlenit do ruské armády" # todo: NEW TRANSLATION
-  SOO_referendum: "Referendum o připojení k Rusku" # todo: NEW TRANSLATION
-  SOO_referendum_desc: "K tomuto jsme dlouho dospěli, je čas uspořádat toto referendum" # todo: NEW TRANSLATION
-  SOO_invest: "Investice do naší ekonomiky" # todo: NEW TRANSLATION
-  SOO_invest_desc: "Rusko je ochotně připraveno investovat do naší ekonomiky" # todo: NEW TRANSLATION
-  SOO_rosbanks: "Ruské banky" # todo: NEW TRANSLATION
-  SOO_rosbanks_desc: "Ruské banky jsou připraveny vstoupit na naše území, posílí naši ekonomiku" # todo: NEW TRANSLATION
-  SOO_inverv_warfrare: "Ruská doktrina vojenské intervence" # todo: NEW TRANSLATION
-  SOO_inverv_warfrare_desc: "Budeme se řídit vojenskou doktrínou naší země a aktivně se účastnit světových konfliktů" # todo: NEW TRANSLATION
-  SOO_fight_start: "Začít boj o svobodu Osetie" # todo: NEW TRANSLATION
-  SOO_fight_start_desc: "Klan Tadeevů terorizuje naši zemi už příliš dlouho, je čas s nimi zatočit" # todo: NEW TRANSLATION
-  SOO_fight_narcota: "Zastavte distribuci drog" # todo: NEW TRANSLATION
-  SOO_fight_narcota_desc: "Zlikvidujeme všechny osoby spojené s Tedeevs, kteří jsou zapojeni do pašování drog" # todo: NEW TRANSLATION
-  SOO_fight_contrabanda: "Překonat nelegální pašování" # todo: NEW TRANSLATION
-  SOO_fight_contrabanda_desc: "Tedeevské pašování bude navždy zničeno" # todo: NEW TRANSLATION
-  SOO_fight_alchohol: "Krytí nelegálního alkoholu" # todo: NEW TRANSLATION
-  SOO_fight_alchohol_desc: "Nelegální alkohol se již nebude objevovat v naší zemi" # todo: NEW TRANSLATION
-  SOO_fight_reket: "Překonat vydírání" # todo: NEW TRANSLATION
-  SOO_fight_reket_desc: "Vypořádáme se s jejich ubohými pokusy vydírat podnikatele naší země" # todo: NEW TRANSLATION
-  SOO_fight_orujie: "Zlikvidujte kanály pašování zbraní" # todo: NEW TRANSLATION
-  SOO_fight_orujie_desc: "Zbraně již nebudou nelegálně procházet naším územím" # todo: NEW TRANSLATION
-  SOO_fight_tamojnia: "Odstraňte korupční celníky" # todo: NEW TRANSLATION
-  SOO_fight_tamojnia_desc: "Vyčistíme všechny neloajální zaměstnance našich cel" # todo: NEW TRANSLATION
-  SOO_fight_kgb: "Zbavte se korupce v KGB" # todo: NEW TRANSLATION
-  SOO_fight_kgb_desc: "I v KGB se Tadeevové dokázali nechat uplácet – je čas s tím skončit" # todo: NEW TRANSLATION
-  SOO_fight_minor: "Odstraňte korupční úředníky z Ministerstva školství" # todo: NEW TRANSLATION
-  SOO_fight_minor_desc: "Poslední osoba sedí v ministerstvu školství, což klanu Tadeevů dává moc nad zemí. Je čas ji vypořádat." # todo: NEW TRANSLATION
-  SOO_end_fight: "Osvoboďte zemi" # todo: NEW TRANSLATION
-  SOO_end_fight_desc: "Nakonec bude naše země dýchat klidem" # todo: NEW TRANSLATION
-  SOO_prepare_for_war: "Příprava na válku" # todo: NEW TRANSLATION
-  SOO_prepare_for_war_desc: "Válka je nevyhnutelná, musíme být připraveni" # todo: NEW TRANSLATION
-  SOO_call_abkhazia: "Vyzvat Abcházii" # todo: NEW TRANSLATION
-  SOO_call_abkhazia_desc: "My a Abcháziané musíme být spolu, abychom čelili hrozbě Gruzie" # todo: NEW TRANSLATION
-  SOO_establish_connection_with_kavkaz: "Sjednocení s Čečnami" # todo: NEW TRANSLATION
-  SOO_establish_connection_with_kavkaz_desc: "Možná nám Čečenci pomohou znovu jako v 90. letech" # todo: NEW TRANSLATION
-  SOO_ossetia_at_war: "Válečné zkušenosti" # todo: NEW TRANSLATION
-  SOO_ossetia_at_war_desc: "Právě teď na bojišti se stáváme silnějšími a zkušenějšími" # todo: NEW TRANSLATION
-  SOO_lessons_from_war: "Poučení z války" # todo: NEW TRANSLATION
-  SOO_lessons_from_war_desc: "Zkušenosti z této války nám daly hodně" # todo: NEW TRANSLATION
-  SOO_new_defences: "Nové vojenské investice" # todo: NEW TRANSLATION
-  SOO_new_defences_desc: "Posílíme investice do vojenské sféry" # todo: NEW TRANSLATION
-  SOO_doctrine_update: "Aktualizovaná vojenská doktrína" # todo: NEW TRANSLATION
-  SOO_doctrine_update_desc: "Naše vojenská doktrína potřebuje malou změnu" # todo: NEW TRANSLATION
-  SOO_north_ossetia_ratnik: "Plně vyzbrojit armádu systémem 'Ratnik'" # todo: NEW TRANSLATION
-  SOO_north_ossetia_ratnik_desc: "Ruské vojenské vybavení bude nejlepší volbou pro naši armádu" # todo: NEW TRANSLATION
-  SOO_submission_to_the_russian_doctrine: "Podřízení se ruské doktríně" # todo: NEW TRANSLATION
-  SOO_submission_to_the_russian_doctrine_desc: "Budeme se zcela řídit ruskou doktrínou" # todo: NEW TRANSLATION
-  SOO_Gori_pereseleniye: "Osídlování Gori" # todo: NEW TRANSLATION
-  SOO_Gori_pereseleniye_desc: "Povolíme našim občanům osídlit toto území" # todo: NEW TRANSLATION
-  SOO_foreign_relations: "Mezinárodní diplomacie" # todo: NEW TRANSLATION
-  SOO_foreign_relations_desc: "Musíme navázat mezinárodní vztahy" # todo: NEW TRANSLATION
-  SOO_reinforce_sng2: "Partneři CIS-2" # todo: NEW TRANSLATION
-  SOO_reinforce_sng2_desc: "Naši nejbližší partneři jsou členy CIS-2" # todo: NEW TRANSLATION
-  SOO_russian_ms: "Spolupráce s vojenským průmyslem Ruska" # todo: NEW TRANSLATION
-  SOO_russian_ms_desc: "Ruské vojenské vybavení je pro nás nejlepší volbou k nákupu... a jedinou" # todo: NEW TRANSLATION
-  SOO_russian_arms: "Koupit ruské tanky" # todo: NEW TRANSLATION
-  SOO_russian_arms_desc: "S ruskými tanky se dostaneme kamkoliv" # todo: NEW TRANSLATION
-  SOO_transnistria_accept: "Pašování ze Transnistrie" # todo: NEW TRANSLATION
-  SOO_transnistria_accept_desc: "Zbraňové sklady Pridnestrovie budou pro naši zemi zajímavé" # todo: NEW TRANSLATION
-  SOO_abkahz_relations: "Zlepšení vztahů s Abcházii" # todo: NEW TRANSLATION
-  SOO_abkahz_relations_desc: "Abcházii a Ossetci jsou bratři navždy" # todo: NEW TRANSLATION
-  SOO_abkahz_def_pact: "Defenzivní pakt s Abcházií" # todo: NEW TRANSLATION
-  SOO_abkahz_def_pact_desc: "Musíme být připraveni bránit se spolu s Abcházií" # todo: NEW TRANSLATION
-  SOO_trade_abk_def: "Obchod s Abcházií" # todo: NEW TRANSLATION
-  SOO_trade_abk_def_desc: "Je nutné navázat obchodní vztahy s Abcházií" # todo: NEW TRANSLATION
-  SOO_syria_relations: "Bratrský syrský lid" # todo: NEW TRANSLATION
-  SOO_syria_relations_desc: "Sýrie se ukázala být nečekaným partnerem naší země, se kterým stojí za to navázat vztahy" # todo: NEW TRANSLATION
-  SOO_venez_relations: "Spolupráce s Venezuelou" # todo: NEW TRANSLATION
-  SOO_venez_relations_desc: "I přes takovou vzdálenost jsme připraveni navázat spolupráci s Venezuelou" # todo: NEW TRANSLATION
-  SOO_shara_relat: "Spolupráce se Jižní Saharou" # todo: NEW TRANSLATION
-  SOO_shara_relat_desc: "I přes takovou velkou vzdálenost jsme připraveni navázat spolupráci s Jižní Saharou" # todo: NEW TRANSLATION
-  SOO_nikar_relations: "Spolupráce s Nikaragou" # todo: NEW TRANSLATION
-  SOO_nikar_relations_desc: "I přes takovou vzdálenost jsme připraveni navázat spolupráci s Nikaragovou" # todo: NEW TRANSLATION
-  SOO_artsakh_relations: "Spolupráce s Artsakh" # todo: NEW TRANSLATION
-  SOO_artsakh_relations_desc: "Naši partneři, bratři z Artsakh, budou výbornými spojenci" # todo: NEW TRANSLATION
-  SOO_artsakh_volunteers: "Dobrovolníci z Artsakh" # todo: NEW TRANSLATION
-  SOO_artsakh_volunteers_desc: "Dobrovolníci z Artsakh přišli pomoci naší zemi" # todo: NEW TRANSLATION
-  SOO_approach_armenia: "Podpora Arménie" # todo: NEW TRANSLATION
-  SOO_approach_armenia_desc: "Arméni a já jsme bratři a budeme si vzájemně pomáhat ve všem" # todo: NEW TRANSLATION
-  SOO_economic_pizda: "Ruské investice" # todo: NEW TRANSLATION
-  SOO_economic_pizda_desc: "Rusko je ochotně připraveno investovat do naší země" # todo: NEW TRANSLATION
-  SOO_nykhaz_russian_partnership: "Rozvoj partnerství s Ruskem" # todo: NEW TRANSLATION
-  SOO_nykhaz_russian_partnership_desc: "Rozšíříme naše partnerství s Ruskem" # todo: NEW TRANSLATION
-  SOO_further_integr_osset: "Integrace se Severní Osetií" # todo: NEW TRANSLATION
-  SOO_further_integr_osset_desc: "Jsme připraveni na integraci se Severní Osetií" # todo: NEW TRANSLATION
-  SOO_podchistit_polit_pole: "Vyčistit politické prostředí" # todo: NEW TRANSLATION
-  SOO_podchistit_polit_pole_desc: "Je čas vyčistit naše politické nepřátele" # todo: NEW TRANSLATION
-  SOO_north_ssetian_dobrovol_army: "Severoosetské dobrovolníci" # todo: NEW TRANSLATION
-  SOO_north_ssetian_dobrovol_army_desc: "Přijelo mnoho dobrovolníků ze Severní Osetie do naší země" # todo: NEW TRANSLATION
-  SOO_new_ak_rifles: "Licence na nové modely Kalašnikova" # todo: NEW TRANSLATION
-  SOO_new_ak_rifles_desc: "Jsme připraveni zahájit výrobu nejmodernějšího modelu Kalašnikova na našem území" # todo: NEW TRANSLATION
-  SOO_iron_Iroon: "Železná Alanya" # todo: NEW TRANSLATION
-  SOO_iron_Iroon_desc: "Budeme silní jako ocel, která tvořila meče a brnění našich předků — Alanové" # todo: NEW TRANSLATION
-  SOO_native_faith: "Naše pravá víra" # todo: NEW TRANSLATION
-  SOO_native_faith_desc: "Je čas, aby náš lid konečně otevřel oči a přijal pravou víru" # todo: NEW TRANSLATION
-  SOO_revive_alan_spirit: "Oživit alanského ducha" # todo: NEW TRANSLATION
-  SOO_revive_alan_spirit_desc: "Duchovní znovuzrození našeho národa právě začalo" # todo: NEW TRANSLATION
-  SOO_eurasian_ambitions: "Eurasijské ambice" # todo: NEW TRANSLATION
-  SOO_eurasian_ambitions_desc: "Naše ambice sahají daleko za obzory" # todo: NEW TRANSLATION
-  SOO_influence_iran: "Vliv v Íránu" # todo: NEW TRANSLATION
-  SOO_influence_iran_desc: "Rozšíříme náš vliv na Írán, zejména na Zoroastrijce žijící tam" # todo: NEW TRANSLATION
-  SOO_zoroastr_reb_iran: "Zoroastrijská vzpoura v Íránu" # todo: NEW TRANSLATION
-  SOO_zoroastr_reb_iran_desc: "Zoroastrijci v Íránu jsou připraveni vzbouřit se proti současné vládě!" # todo: NEW TRANSLATION
-  SOO_influence_russian_pagans: "Vliv na ruské pohanství" # todo: NEW TRANSLATION
-  SOO_influence_russian_pagans_desc: "Přátelství s pohany z Ruska přinese v budoucnu plody" # todo: NEW TRANSLATION
-  SOO_coup_in_armenia: "Bratrství s Arménií" # todo: NEW TRANSLATION
-  SOO_coup_in_armenia_desc: "Je čas, aby Arménie vstoupila do našeho velkého plánu" # todo: NEW TRANSLATION
-  SOO_coup_kob: "Je čas zničit egyptské kněze" # todo: NEW TRANSLATION
-  SOO_coup_kob_desc: "Je čas, aby naše národy bojovaly proti společnému nepříteli" # todo: NEW TRANSLATION
-  SOO_greater_scythia: "Velká Scytie" # todo: NEW TRANSLATION
-  SOO_greater_scythia_desc: "Pravé dědictví našeho národa bylo konečně znovuzrozeno. Ať žije Scytie!" # todo: NEW TRANSLATION
-  SOO_unite_with_northosset_as_rus_pup: "Sjednocená Osetinská SSR" # todo: NEW TRANSLATION
-  SOO_unite_with_northosset_as_rus_pup_desc: "Osetie bude znovu sjednocena!" # todo: NEW TRANSLATION
-  SOO_annex_abk: "Sjednotit Abcházii" # todo: NEW TRANSLATION
-  SOO_annex_abk_desc: "Je čas, aby se naši bratrští lidé sjednotili" # todo: NEW TRANSLATION
-  SOO_strike_turkey: "Konec Turecka" # todo: NEW TRANSLATION
-  SOO_strike_turkey_desc: "Turecko musí být zničeno" # todo: NEW TRANSLATION
-  SOO_revolutions_in_southcauc: "Revoluce po celém jižním Kavkaze" # todo: NEW TRANSLATION
-  SOO_revolutions_in_southcauc_desc: "Kavkazské národy musí být osvobozeny plameny revoluce" # todo: NEW TRANSLATION
-  SOO_referendums_in_northcauc: "Referenda severního Kavkazu" # todo: NEW TRANSLATION
-  SOO_referendums_in_northcauc_desc: "Bratrské republiky by se s námi měly pokojně znovu spojit" # todo: NEW TRANSLATION
-  SOO_invade_iran: "Konec Íránu" # todo: NEW TRANSLATION
-  SOO_invade_iran_desc: "Írán ztratil směr, je čas s tím skoncovat" # todo: NEW TRANSLATION
-  SOO_commi_start: "Červená Osetie" # todo: NEW TRANSLATION
-  SOO_commi_start_desc: "Cesta socialismu je pro nás tou jedinou pravou" # todo: NEW TRANSLATION
-  SOO_mnogo_parti: "Systém více stran" # todo: NEW TRANSLATION
-  SOO_mnogo_parti_desc: "Více stran – stabilnější stát" # todo: NEW TRANSLATION
-  SOO_zakonnost: "Zákonnost a pořádek" # todo: NEW TRANSLATION
-  SOO_zakonnost_desc: "Musíme uvést náš stát do dokonalého práva a pořádku" # todo: NEW TRANSLATION
-  SOO_kadrovaya_politica: "Politika kvalifikovaného personálu" # todo: NEW TRANSLATION
-  SOO_kadrovaya_politica_desc: "Kvalifikovaný nábor nás v budoucnu ochrání před nepotřebnými lidmi" # todo: NEW TRANSLATION
-  SOO_svobody: "Svoboda a práva občanů" # todo: NEW TRANSLATION
-  SOO_svobody_desc: "Zaručujeme našim občanům plnění všech jejich práv" # todo: NEW TRANSLATION
-  SOO_molodej: "Politika mládeže" # todo: NEW TRANSLATION
-  SOO_molodej_desc: "Mládež je naší budoucností a budeme do ní investovat kompetentně" # todo: NEW TRANSLATION
-  SOO_soc_sfera: "Sociální politika" # todo: NEW TRANSLATION
-  SOO_soc_sfera_desc: "Sociální sféra je jednou z priorit naší země" # todo: NEW TRANSLATION
-  SOO_restore_selhoz: "Oživit zemědělství" # todo: NEW TRANSLATION
-  SOO_restore_selhoz_desc: "Zemědělství musí být oživeno a lepší než dřív!" # todo: NEW TRANSLATION
-  SOO_free_education: "Oživit vzdělávací systém" # todo: NEW TRANSLATION
-  SOO_free_education_desc: "Našim občanům - nejlepší vzdělání" # todo: NEW TRANSLATION
-  SOO_new_economic: "Nová osetijská ekonomika" # todo: NEW TRANSLATION
-  SOO_new_economic_desc: "Naše ekonomika vzkvétá" # todo: NEW TRANSLATION
-  SOO_osetian_language: "Podpora osetského jazyka" # todo: NEW TRANSLATION
-  SOO_osetian_language_desc: "Náš jazyk a kultura by neměly být zapomenuty" # todo: NEW TRANSLATION
-  SOO_marxism: "Marxismus ve školách" # todo: NEW TRANSLATION
-  SOO_marxism_desc: "Učení Marxe nezůstanou zapomenuta" # todo: NEW TRANSLATION
-  SOO_five_year_plan: "První pětiletý plán" # todo: NEW TRANSLATION
-  SOO_five_year_plan_desc: "Volné ekonomické modely západních států nejsou pro socialistický stát budoucností. Návrat k plánované ekonomice, nejlépe ve formě klasických pětiletých plánů ve stylu sovětské éry, dá vládě neomezený vliv na dříve neomezenou ekonomiku." # todo: NEW TRANSLATION
-  SOO_connect_to_neighbours: "Připojit se k sousedům" # todo: NEW TRANSLATION
-  SOO_connect_to_neighbours_desc: "I když naši sousedé nepřistoupí na naši cestu, stále můžeme spolupracovat a udržovat slušné vztahy." # todo: NEW TRANSLATION
-  SOO_natpop_start: "Strana lidu" # todo: NEW TRANSLATION
-  SOO_natpop_start_desc: "Naše strana bude nejpopulárnější v historii naší země" # todo: NEW TRANSLATION
-  SOO_anti_birecracy: "Boj proti byrokracii" # todo: NEW TRANSLATION
-  SOO_anti_birecracy_desc: "Pryč s byrokraty a nadvládou úředníků!" # todo: NEW TRANSLATION
-  SOO_protect_small_business: "Ochrana malých podniků" # todo: NEW TRANSLATION
-  SOO_protect_small_business_desc: "Malé podniky jsou budoucnost ekonomiky naší republiky" # todo: NEW TRANSLATION
-  SOO_invest_climat: "Investiční klima" # todo: NEW TRANSLATION
-  SOO_invest_climat_desc: "Potřebujeme investice a uděláme pro to cokoli" # todo: NEW TRANSLATION
-  SOO_strahovanie: "Sociální pojištění" # todo: NEW TRANSLATION
-  SOO_strahovanie_desc: "Naši občané by měli mít všechna sociální zabezpečení" # todo: NEW TRANSLATION
-  SOO_patriotism: "Osetinský patriotismus" # todo: NEW TRANSLATION
-  SOO_patriotism_desc: "Potřebujeme patriotismus jako vzduch" # todo: NEW TRANSLATION
-  SOO_zdravo: "Zdravý národ" # todo: NEW TRANSLATION
-  SOO_zdravo_desc: "Zdravý národ znamená zdravou zemi" # todo: NEW TRANSLATION
-  SOO_ban_sects: "Zakázat sekty" # todo: NEW TRANSLATION
-  SOO_ban_sects_desc: "Sekty a hereze kazí naši společnosti. Musíme zakázat a potlačit všechny iniciátory a následovníky těchto ničivých organizací vytvořených k podkopání naší samostatnosti." # todo: NEW TRANSLATION
-  SOO_military_arms: "Náš vlastní vojenský průmysl" # todo: NEW TRANSLATION
-  SOO_military_arms_desc: "Je čas, aby naše země vyráběla vlastní zbraně pro ochranu proti vnějším nepřátelům" # todo: NEW TRANSLATION
-  SOO_nyhaz_start: "Návrat Jižní Osetie k právnímu řádu" # todo: NEW TRANSLATION
-  SOO_nyhaz_start_desc: "Nakonec skuteční patrioti své vlasti chopili moci do svých rukou" # todo: NEW TRANSLATION
-  SOO_nyhaz_narodovlastie: "Demokracie" # todo: NEW TRANSLATION
-  SOO_nyhaz_narodovlastie_desc: "Lidé mohou klidně spát - země je v bezpečných rukou" # todo: NEW TRANSLATION
-  SOO_nyhaz_razdelenie: "Dělba moci" # todo: NEW TRANSLATION
-  SOO_nyhaz_razdelenie_desc: "Skutečný princip dělby moci je jednou z našich hlavních reforem, musí být dodržován" # todo: NEW TRANSLATION
-  SOO_nyhaz_reform_pravo: "Reforma práva" # todo: NEW TRANSLATION
-  SOO_nyhaz_reform_pravo_desc: "Musíme zcela změnit tvář orgánů prosazujících právo" # todo: NEW TRANSLATION
-  SOO_nyhaz_kbg_invest: "Reforma KGB" # todo: NEW TRANSLATION
-  SOO_nyhaz_kbg_invest_desc: "Je načase, aby se KGB zcela změnilo" # todo: NEW TRANSLATION
-  SOO_nyhaz_omon_invest: "Reforma OMON" # todo: NEW TRANSLATION
-  SOO_nyhaz_omon_invest_desc: "Příslušníci pořádkových jednotek a celá struktura musí být očištěny a změněny" # todo: NEW TRANSLATION
-  SOO_nyhaz_ter_defence: "Vytvořit územní obranu" # todo: NEW TRANSLATION
-  SOO_nyhaz_ter_defence_desc: "Potřebujeme lidi, kteří ochrání naši zemi v nejtěžších momentech" # todo: NEW TRANSLATION
-  SOO_nyhaz_defence_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
-  SOO_nyhaz_defence_doctrine_desc: "Naše země nikoho neútočí, a doktrína by to měla jasně odrážet" # todo: NEW TRANSLATION
-  SOO_nyhaz_national_guard: "Národní garda" # todo: NEW TRANSLATION
-  SOO_nyhaz_national_guard_desc: "Je čas vytvořit naši vlastní národní gardu, protože naše ozbrojené síly už nestačí bránit zemi" # todo: NEW TRANSLATION
-  SOO_communism_assr: "Jihosetská sovětská republika" # todo: NEW TRANSLATION
-  SOO_skufia: "Velká Scytie" # todo: NEW TRANSLATION
-  SER_Modernise_Belgrade: "Nové traktory" # todo: NEW TRANSLATION
-  SOO_commie_modifier: "Komunistická politika Jižní Osetie" # todo: NEW TRANSLATION
-  SOO_commie_modifier_desc: "Jižní Osetie se opět vydala komunistickou cestou, rudý prapor opět ozářil naše země." # todo: NEW TRANSLATION
-  SOO_commie_start_tt: "Přidejte §Y$SOO_commie_modifier$§!, což uděluje Zisk politické síly: §G+4.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_commie_modifier_tt_intro: "Upravte §Y$SOO_commie_modifier$§! o" # todo: NEW TRANSLATION
-  SOO_commie1_tt: "$SOO_commie_modifier_tt_intro$ \n £drift_defence_texticon  Obrana proti ideologickému posunu: §R-15.00%§! \n £stability_texticon  Stabilita: §G+9.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_commie2_tt: "$SOO_commie_modifier_tt_intro$ \n £stability_texticon  Stabilita: §G+6.00%§! \n £political_violence_gain_texticon  Růst odporu: §G-10.00%§!\n £police_cost_multiplier_modifier_texticon §YNáklady na policii§! Násobitel: §R+5.00%§!\n\n " # todo: NEW TRANSLATION
-  SOO_commie3_tt: "$SOO_commie_modifier_tt_intro$ \n £stability_texticon  Stabilita: §G+4.00%§! \n £bureaucracy_cost_multiplier_modifier_texticon §YNáklady na byrokracii§! Násobitel: §R+5.00%§!\n £emerging_outlook_campaign_cost_modifier_texticon Denní podpora vznikajícího hnutí: §G+0.01%§!\n\n " # todo: NEW TRANSLATION
-  SOO_commie4_tt: "$SOO_commie_modifier_tt_intro$ \n £construction_speed_milfactory_texticon  §YVojenská továrna§! rychlost výstavby: §G+9.00%§! \n  £social_cost_multiplier_modifier_texticon §YSociální výdaje§! Násobitel: §R+5.00%§! \n £health_cost_multiplier_modifier_texticon §YNáklady na zdraví§! Násobitel: §R+5.00%§!\n\n " # todo: NEW TRANSLATION
-  SOO_commie5_tt: "$SOO_commie_modifier_tt_intro$ \n £emerging_outlook_campaign_cost_modifier_texticon Denní podpora vznikajícího hnutí: §G+0.04%§! \n  £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistického hnutí: §G+0.04%§! \n £stability_texticon  Stabilita: §R-7.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_commie6_tt: "$SOO_commie_modifier_tt_intro$ \n £emerging_outlook_campaign_cost_modifier_texticon Denní podpora vznikajícího hnutí: §G+0.05%§! \n  £education_cost_multiplier_modifier_texticon §YNáklady na vzdělávání§! Násobitel: §R+10.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_commie7_tt: "$SOO_commie_modifier_tt_intro$ \n £education_cost_multiplier_modifier_texticon §YNáklady na vzdělávání§! Násobitel: §R+9.00%§! \n Research Speed: §G+15.00%§! \n\n" # todo: NEW TRANSLATION
-  SOO_commie8_tt: "$SOO_commie_modifier_tt_intro$ \n £manpower_texticon  Najímatelná populace: §G+4.00%§! \n £social_cost_multiplier_modifier_texticon §YSociální výdaje§! Násobitel: §R+2.00%§! \n\n" # todo: NEW TRANSLATION
-  SOO_commie9_tt: "$SOO_commie_modifier_tt_intro$ \n £drift_defence_texticon  Ochrana proti posunu ideologie: §R-12.00%§! \n £political_power_texticon  Zisk politické síly: §G+3.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_natpop_modifier: "Lidová politika Jižní Osetie" # todo: NEW TRANSLATION
-  SOO_natpop_modifier_desc: "Lidová strana usiluje o to, aby občanům Jižní Osetie poskytla to nejlepší, ale kvůli poněkud vágnímu politickému programu pravděpodobně to nebude fungovat ideálně." # todo: NEW TRANSLATION
-  SOO_natpop_start_tt: "Přidejte §Y$SOO_natpop_modifier$§!, která uděluje £political_power_texticon  Zisk politické síly: §G+4.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_natpop_modifier_tt_intro: "Upravte §Y$SOO_natpop_modifier$§! o" # todo: NEW TRANSLATION
-  SOO_natpop1_tt: "$SOO_natpop_modifier_tt_intro$ \n £bureaucracy_cost_multiplier_modifier_texticon §YByrokratické náklady§! Násobič: §G-15.00%§! \n £stability_texticon  Stabilita: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_natpop2_tt: "$SOO_natpop_modifier_tt_intro$ \n £construction_speed_milfactory_texticon  §YVojenská továrna§! rychlost výstavby: §G+15.00%§! \n  £social_cost_multiplier_modifier_texticon §YSociální výdaje§! Násobič: §R+8.00%§! \n £health_cost_multiplier_modifier_texticon §YNáklady na zdravotní péči§! Násobič: §R+8.00%§!\n\n " # todo: NEW TRANSLATION
-  SOO_natpop3_tt: "$SOO_natpop_modifier_tt_intro$ \n £nationalist_outlook_campaign_cost_modifier_texticon Denní podpora nacionalistů: §G+0.03%§!\n\n" # todo: NEW TRANSLATION
-  SOO_natpop4_tt: "$SOO_natpop_modifier_tt_intro$ \n £manpower_texticon  Náborovatelná populace: §G+8.00%§!\n £health_cost_multiplier_modifier_texticon §YNáklady na zdravotní péči§! Násobič: §R+5.00%§! \n\n" # todo: NEW TRANSLATION
-  SOO_natpop5_tt: "$SOO_natpop_modifier_tt_intro$ \n £political_power_texticon  Zisk politické síly: §G+3.00%§! \n £drift_defence_texticon Ochrana proti posunu ideologie: §R-12.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_natpop6_tt: "$SOO_natpop_modifier_tt_intro$ \n Výzkumná rychlost: §G+10.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz_modifier: "Militaristická lidová politika" # todo: NEW TRANSLATION
-  SOO_nyhaz_modifier_desc: "Náš lid je unavený z věčných a klamných slibů politiků; naše země by měla povstat jako Fénix z zapomnění, je načase rozhodnout o osudu Osetie." # todo: NEW TRANSLATION
-  SOO_nyhaz_start_tt: "Přidejte §Y$SOO_nyhaz_modifier$§!, která uděluje §G+4.00%§! politickou sílu\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz_modifier_tt_intro: "Upravte §Y$SOO_nyhaz_modifier$§! o" # todo: NEW TRANSLATION
-  SOO_nyhaz1_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £drift_defence_texticon  Ochrana proti posunu ideologie: §R-15.00%§! \n £stability_texticon  Stabilita: §G+9.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz2_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £political_violence_gain_texticon  Rychlost růstu odboje: §G-10.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz3_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £police_cost_multiplier_modifier_texticon §YNáklady na policii§! Násobič: §R+5.00%§! \n £political_violence_texticon  Účinnost zahraničních podvratných činností: §G-10.00%§! \n £operatives_root_out_resistance_texticon  Efekty mise Vykoření odboje: §G+15.00%§! \n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz4_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £operatives_root_out_resistance_texticon  Efekty mise Vykoření odboje: §G+15.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz5_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £political_power_texticon  Zisk politické síly: §G+3.00%§! \n £drift_defence_texticon Ochrana proti posunu ideologie: §R-12.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_nyhaz6_tt: "$SOO_nyhaz_modifier_tt_intro$ \n £manpower_texticon  Náborovatelná populace: §G+8.00%§!\n £health_cost_multiplier_modifier_texticon §YNáklady na zdravotní péči§! Násobič: §R+5.00%§! \n\n" # todo: NEW TRANSLATION
-  SOO_bandit_modifier: "Síla klanu The Tadeev" # todo: NEW TRANSLATION
-  SOO_bandit_modifier_desc: "Klan Tedeev ovládl mnoho sfér v naší republice, doslova ztrácíme miliony, protože s nimi si s nimi nikdo nebude vyřizovat" # todo: NEW TRANSLATION
-  SOO_bandit_modifier_tt_intro: "Upravte §Y$SOO_bandit_modifier$§! o" # todo: NEW TRANSLATION
-  SOO_bandit1_tt: "$SOO_bandit_modifier_tt_intro$ \n £population_tax_income_multiplier_modifier_texticon §YPříjmy z daní z populace§! Násobič: §G+15.00%§! \n £stability_texticon  Stabilita: §G+2.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit2_tt: "$SOO_bandit_modifier_tt_intro$ \n £population_tax_income_multiplier_modifier_texticon §YPříjmy z daní z populace§! Násobič: §G+2.00%§! \n  £manpower_texticon  Náborovatelná populace: §G+4.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit3_tt: "$SOO_bandit_modifier_tt_intro$ \n £manpower_texticon  Náborovatelná populace: §G+7.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit4_tt: "$SOO_bandit_modifier_tt_intro$ \n £stability_texticon  Stabilita: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit5_tt: "$SOO_bandit_modifier_tt_intro$ \n £population_tax_income_multiplier_modifier_texticon §YPříjmy z daní z populace§! Násobič: §G+3.00%§! \n £stability_texticon  Stabilita: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit6_tt: "$SOO_bandit_modifier_tt_intro$ \n £population_tax_income_multiplier_modifier_texticon §YPříjmy z daní z populace§! Násobič: §G+20.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit7_tt: "$SOO_bandit_modifier_tt_intro$ \n £stability_texticon  Stabilita: §G+15.00%§! \n £police_cost_multiplier_modifier_texticon §YNáklady na policii§! Násobič: §G-20.00%§!\n\n" # todo: NEW TRANSLATION
-  SOO_bandit8_tt: "$SOO_bandit_modifier_tt_intro$ \n £political_power_texticon  Zisk politické síly: §G+2.00%§! \n Research Speed: §G+15.00%§! \n £education_cost_multiplier_modifier_texticon §YNáklady na vzdělání§! Násobič: §G-15.00%§!  \n\n" # todo: NEW TRANSLATION
-  Ossetia.1.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
-  Ossetia.1.d: "Stát Jižní Osetie pořádá referendum o vstupu do naší velké země. Většina obyvatel s tímto rozhodnutím souhlasila. Nyní je to na nás, zda je přijmeme do Ruska?" # todo: NEW TRANSLATION
-  Ossetia.1.a: "Samozřejmě, vítej doma!" # todo: NEW TRANSLATION
-  Ossetia.1.b: "Ne, nepotřebujeme je" # todo: NEW TRANSLATION
-  Ossetia.2.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
-  Ossetia.2.d: "Rusko souhlasilo nás přijmout!" # todo: NEW TRANSLATION
-  Ossetia.2.a: "Hurá!" # todo: NEW TRANSLATION
-  Ossetia.3.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
-  Ossetia.3.d: "Rusko nás odmítlo přijmout" # todo: NEW TRANSLATION
-  Ossetia.3.a: "Sakra" # todo: NEW TRANSLATION
-  Ossetia.4.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
-  Ossetia.4.d: "Jižní Osetie žádá o integraci se Severní Osetií, jsme připraveni vyhovět jejich požadavku?" # todo: NEW TRANSLATION
-  Ossetia.4.a: "Samozřejmě" # todo: NEW TRANSLATION
-  Ossetia.4.b: "Ne" # todo: NEW TRANSLATION
-  Ossetia.5.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
-  Ossetia.5.d: "Rusko souhlasilo" # todo: NEW TRANSLATION
-  Ossetia.5.a: "Hurá!" # todo: NEW TRANSLATION
-  Ossetia.6.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
-  Ossetia.6.d: "Rusko odmítlo" # todo: NEW TRANSLATION
-  Ossetia.6.a: "Sakra" # todo: NEW TRANSLATION
-  Ossetia.7.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
-  Ossetia.7.d: "Dědici Velké Scytie nám navrhují vytvořit alianci, která povede celý svět na správnou cestu a svrhne naše společné nepřátele" # todo: NEW TRANSLATION
-  Ossetia.7.a: "Společně očistíme svět od špíny!" # todo: NEW TRANSLATION
-  Ossetia.7.b: "Ne" # todo: NEW TRANSLATION
-  Ossetia.8.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
-  Ossetia.8.d: "Souhlasili stát našimi loajálními spojenci" # todo: NEW TRANSLATION
-  Ossetia.8.a: "Hurá!" # todo: NEW TRANSLATION
-  Ossetia.9.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
-  Ossetia.9.d: "Rozhodli se nám v našem velkém cíli nepomoci" # todo: NEW TRANSLATION
-  Ossetia.9.a: "Sakra" # todo: NEW TRANSLATION
-  Ossetia.10.t: "Osetijská politika" # todo: NEW TRANSLATION
-  Ossetia.10.d: "V chaotické politické krajině Jižní Osetie v roce 2000 se de facto nezávislý stát potýkal s trvalými výzvami k legitimnosti a územními spory s Gruzií. V čele s prezidentem Lyudvigem Čibirovem Jižní Osetie čelila krizi důvěry, když jen několik málo zemí, včetně Ruska, uznávalo její suverenitu, zatímco většina mezinárodního společenství, spojená s OSN, ji nadále považovala za nedílnou součást Gruzie. Vliv Ruska hrál klíčovou roli, politicky i vojensky, formující regionální schopnost udržet de facto nezávislost. Napětí s Gruzií zůstávalo vysoké, charakterizované občasnými výbuchy násilí podél správního hranice, bránícími snahám o mírové řešení. Za těchto okolností nevyřešené konflikty a humanitární obavy představovaly významné výzvy, zdůrazňující potřebu trvalé mezinárodní diplomatické snahy k zajištění stability v regionu." # todo: NEW TRANSLATION
-  Ossetia.10.a: "Iratta Razma" # todo: NEW TRANSLATION
-  Ossetia.11.t: "Kokoity byl zvolen prezidentem." # todo: NEW TRANSLATION
-  Ossetia.11.d: "Eduard Kokoity byl zvolen prezidentem jako opoziční kandidát v přímých lidových prezidentských volbách do funkce prezidenta Republiky Jižní Osetie." # todo: NEW TRANSLATION
-  Ossetia.11.a: "Uvidíme, jak si povede." # todo: NEW TRANSLATION
-  Ossetia.12.t: "Daurbekův návrh" # todo: NEW TRANSLATION
-  Ossetia.12.d: "Naši lidé potřebují nové vedení! Proč trávit volbami, když náš vůdce musí být nám posvěcen bohy? Navrhuji dvě řešení tohoto problému..." # todo: NEW TRANSLATION
-  Ossetia.12.a: "Ano, Daurbeku, jsi hodný." # todo: NEW TRANSLATION
-  Ossetia.12.b: "Musíme pozvat naši aristokracii z Nalčiku!" # todo: NEW TRANSLATION
-  Ossetia.12.c: "Nedotýkej se státních záležitostí, blázne." # todo: NEW TRANSLATION
-  Ossetia.13.t: "Osetie žádá o naši pomoc!" # todo: NEW TRANSLATION
-  Ossetia.13.d: "Osetie žádá naše banky, aby jim pomohly v jejich těžké finanční situaci." # todo: NEW TRANSLATION
-  Ossetia.13.a: "Jistě!" # todo: NEW TRANSLATION
-  Ossetia.13.b: "Promiň, ne." # todo: NEW TRANSLATION
-  Ossetia.14.t: "Rusko poskytuje pomoc!" # todo: NEW TRANSLATION
-  Ossetia.14.d: "Rusko nám poskytuje ekonomickou pomoc." # todo: NEW TRANSLATION
-  Ossetia.14.a: "Díky" # todo: NEW TRANSLATION
-  Ossetia.15.t: "Rusko odmítlo naši nabídku." # todo: NEW TRANSLATION
-  Ossetia.15.d: "Rusko odmítlo poskytnout nám finanční pomoc." # todo: NEW TRANSLATION
-  Ossetia.15.a: "Dobře" # todo: NEW TRANSLATION
-  Ossetia.16.t: "CIS-2 byl vytvořen" # todo: NEW TRANSLATION
-  Ossetia.16.d: "Společenství neuznávaných států je sdružením neuznaných a částečně uznávaných států v post-sovětském prostoru, založeným v roce 1992. Nové sdružení neuznávaných států vzniklo v Tiraspolu: byla podepsána dohoda o zřízení trvalého koordinujícího orgánu — Setkání ministrů zahraničních věcí — a poradní rada na odborné úrovni pro přípravné práce mezi setkáními, která měla být konána nejméně dvakrát ročně" # todo: NEW TRANSLATION
-  Ossetia.16.a: "Dobře" # todo: NEW TRANSLATION
-  SOO_greater_skifia_decisions_category: "Velká Scytie" # todo: NEW TRANSLATION
-  SOO_greater_skifia_decisions_category_desc: "" # todo: NEW TRANSLATION
-  SOO_caucas_south_attack: "Podmanit si Jižní Kavkaz" # todo: NEW TRANSLATION
-  SOO_central_azia_attack: "Podmanit si Střední Asii" # todo: NEW TRANSLATION
-  SOO_CHINA_attack: "Podmanit si Čínu" # todo: NEW TRANSLATION
-  SOO_Russia_attack: "Podmanit si Rusko" # todo: NEW TRANSLATION
-  SOO_revoult_south_caucas: "Revoluce v Jižním Kavkaze" # todo: NEW TRANSLATION
-  SOO_revoult_south_caucas_desc: "Pracující v bývalých sovětských republikách jsou tvrdě utlačováni diktátory a kapitalisty, kteří získali moc po nezákonném rozpadu SSSR! Musíme pomoci našim soudruhům a začlenit je do naší socialistické rodiny!" # todo: NEW TRANSLATION
-  SOO_firstborn_faction: "Aliance Prvorozených" # todo: NEW TRANSLATION
-  SOO_influence_on_azer: "Socialistická revoluce v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_revolution_close4: "Zavřít rozhodnutí o revoluci v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_annex4: "Staňte se jednou zemí s bratrskou §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_of_local_military24: "Podplácejte vojenské generály v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_corrupt_local_officials24: "Podplácení zkorumpovaných úředníků ve §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_protest_financing24: "Financování protestů ve §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_promotion_of_communist_ideology_in_government24: "Rozvíjejte komunistickou ideologii v vládě §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_influence_on_georgia: "Socialistická revoluce v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_revolution_close5: "Uzavřete rozhodnutí o revoluci v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_annex5: "Staňte se jednou zemí s bratrskou §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_of_local_military25: "Podplácejte vojenské generály v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_corrupt_local_officials25: "Podplácení zkorumpovaných úředníků ve §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_protest_financing25: "Financování protestů ve §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_promotion_of_communist_ideology_in_government25: "Rozvíjejte komunistickou ideologii v vládě §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_influence_on_armenia: "Socialistická revoluce v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_revolution_close6: "Uzavřete rozhodnutí o revoluci v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_annex6: "Staňte se jednou zemí s bratrskou §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_of_local_military26: "Podplácejte vojenské generály v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_corrupt_local_officials26: "Podplácení zkorumpovaných úředníků ve §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_protest_financing26: "Financování protestů ve §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_promotion_of_communist_ideology_in_government26: "Rozvíjejte komunistickou ideologii v vládě §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_influence_on_abkhazia: "Socialistická revoluce v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_revolution_close: "Uzavřete rozhodnutí o revoluci v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_annex: "Staňte se jednou zemí s bratrskou §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_of_local_military: "Podplácejte vojenské generály v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_bribing_corrupt_local_officials: "Podplácení zkorumpovaných úředníků ve §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_protest_financing: "Financování protestů ve §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_cis_promotion_of_communist_ideology_in_government: "Rozvíjejte komunistickou ideologii v vládě §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
-  SOO_rebper: "Budeme podporovat Zoroastrijce v Íránu a tam rozpoutáme povstání!" # todo: NEW TRANSLATION
-  Ukr_scyth_reb: "Budeme podporovat Assianisty na Ukrajině a tam rozpoutáme povstání!" # todo: NEW TRANSLATION
-  SOO_India_attack: "Pozvěte Indii" # todo: NEW TRANSLATION
-  SOO_influence_russia: "Podpořte naše bratry v Rusku" # todo: NEW TRANSLATION
-  SOO_libya_attack: "Vraťte zpět Království Alánů a Vandálů" # todo: NEW TRANSLATION
-  SOO_spain_attack: "Přiveďte Španělsko k jeho alanovským kořenům" # todo: NEW TRANSLATION
-  SOO_influence_ukraine: "Skýtská komunita Ukrajiny" # todo: NEW TRANSLATION
-  SOO_hungary_attack: "Připomeňte Maďarům jejich původ" # todo: NEW TRANSLATION
-  SOO_defenders_of_iron_idea: "Ochránci Irystonu" # todo: NEW TRANSLATION
-  SOO_defenders_of_iron_idea_desc: "Osetinci byli vždy proslulí svou sílou a odvahou, stejně jako smyslem pro povinnost vůči vlasti. Vzhledem k přítomnosti tak agresivního souseda, jakým je Gruzie, vedle nich, jsou nuceni být neustále připraveni na invazi" # todo: NEW TRANSLATION
-  SOO_idea_focus_northossetia_volunteers: "Dobrovolníci z Jižní Osetie" # todo: NEW TRANSLATION
-  SOO_idea_focus_northossetia_volunteers_desc: "Osetinci byli vždy proslulí svým bratrským duchem a ochotou pomáhat bratrským národům" # todo: NEW TRANSLATION
-  SOO_victory_war_idea: "Vítězství ve válce za nezávislost" # todo: NEW TRANSLATION
-  SOO_victory_war_idea_desc: "Osetinci si v 90. letech obhájili právo na nezávislost; to je jejich hlavní jádro v boji za nezávislost a v další cestě" # todo: NEW TRANSLATION
-  SOO_outdated_army_idea: "Zastaralá armáda" # todo: NEW TRANSLATION
-  SOO_outdated_army_idea_desc: "Osetská armáda byla dlouho nekonzistentní s moderní realitou, její zbraně jsou zastaralé a je třeba je nahradit" # todo: NEW TRANSLATION
-  SOO_puppet_of_georgia: "Loutka Gruzie" # todo: NEW TRANSLATION
-  SOO_puppet_of_georgia_desc: "Nyní jsme se stali loutkou Gruzie... Budeme s tím muset žít dál." # todo: NEW TRANSLATION
-  SOO_mix_the_population: "Návrat obyvatel" # todo: NEW TRANSLATION
-  SOO_mix_the_population_desc: "Nyní musíme vyměnit obyvatelstvo." # todo: NEW TRANSLATION
-  SOO_integration_into_georgian_system: "Integrace do gruzínského systému" # todo: NEW TRANSLATION
-  SOO_integration_into_georgian_system_desc: "Nyní musíme sloučit naše vládní struktury." # todo: NEW TRANSLATION
-  SOO_ossetian_georgian_friendship: "Autonomní přátelství" # todo: NEW TRANSLATION
-  SOO_ossetian_georgian_friendship_desc: "Budeme nyní integrováni jako autonomní stát a osa války je pohřena." # todo: NEW TRANSLATION
-  SOO_idea_pro_farmers: "Politiky pro zemědělce" # todo: NEW TRANSLATION
-  SOO_reforming_army_mechanize: "Modernizovaný model ruské armády" # todo: NEW TRANSLATION
-  SOO_north_caucas_revoult_tt: "Pokud budeme mít loutky mezi zeměmi Severního Kavkazu, uspořádají referenda o jejich připojení k nám" # todo: NEW TRANSLATION
+ south_ossetia_focus: "Fokusový strom Jižní Osetie" # todo: NEW TRANSLATION
+ SOO_Lumber_tt_focus: "§YTěžba dřeva§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
+ SOO_Raise_Import_Tariffs_tt_focus: "§YTarify§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
+ SOO_Roki_tunnel_toll_tt_focus: "§YRoki tunelové poplatky§! dopad na §YDalší příjem§! $§G0.014§! miliardy" # todo: NEW TRANSLATION
+ SOO_electrical_costs_income_idea_tt_focus: "§YNáklady na elektřinu§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
+ SOO_oil_and_gas_cost_income_idea_tt_focus: "§YNáklady na ropu a plyn§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
+ SOO_increase_tolls_on_Roki_Tunnel_tt_focus: "§YVýběr mýtného v tunelu Roki§! dopad na §YDodatečný příjem§! $§G0.010§! miliardy" # todo: NEW TRANSLATION
+ SOO_Move_towards_cash_crop_growth_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.012§! miliardy" # todo: NEW TRANSLATION
+ SOO_Boost_the_local_flour_production_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.008§! miliardy" # todo: NEW TRANSLATION
+ SOO_Geared_for_hardship_tt_focus: "§YZemědělský sektor§! dopad na §YDalší příjem§! $§G0.008§! miliardy" # todo: NEW TRANSLATION
+ SOO_New_battalion_tt: "§GNový pluk§! bude vytvořen pro naši armádu" # todo: NEW TRANSLATION
+ SOO_subsidise_the_Farmers_idea: "Dotace pro farmáře" # todo: NEW TRANSLATION
+ SOO_Boost_the_local_flour_production_idea: "Podpora místní produkce mouky" # todo: NEW TRANSLATION
+ SOO_Ossetian_Opium_produce_idea: "Osetie opiová produkce" # todo: NEW TRANSLATION
+ SOO_Raise_Import_Tariffs_idea: "Zvýšené dovozní tarify" # todo: NEW TRANSLATION
+ SOO_Raise_Import_Tariffs_idea_desc: "Další příjem: $§G0.012§!" # todo: NEW TRANSLATION
+ SOO_farming_income_idea: "Příjmy z farem" # todo: NEW TRANSLATION
+ SOO_The_soviet_era_Works_state_mod1: "Sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_The_soviet_era_Works_state_mod2: "Sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_The_soviet_era_Works_state_mod3: "Sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_The_soviet_era_Works_state_mod4: "Sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_The_soviet_era_Works_state_mod5: "Sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_grey_market: "Šedý trh" # todo: NEW TRANSLATION
+ SOO_grey_market2: "Šedý trh" # todo: NEW TRANSLATION
+ SOO_The_Ergneti_market_idea: "Ergneti trh" # todo: NEW TRANSLATION
+ SOO_Ergneti_market_regulation: "Regulace trhu Ergneti" # todo: NEW TRANSLATION
+ SOO_adopted_constitution: "Přijatá ústava" # todo: NEW TRANSLATION
+ SOO_Evaluated_constitution: "Hodnocená ústava" # todo: NEW TRANSLATION
+ SOO_faded_parliament: "Vybledlý parlament" # todo: NEW TRANSLATION
+ SOO_Ministry_of_internal_affairs_idea: "Ministerstvo vnitra" # todo: NEW TRANSLATION
+ SOO_banner_of_the_people_idea: "Prapor lidu" # todo: NEW TRANSLATION
+ SOO_SOO_Defenders_of_the_Fatherland_idea: "Ministerstvo vnitra" # todo: NEW TRANSLATION
+ SOO_Idea_Forestry_Development: "Rozvoj lesnictví" # todo: NEW TRANSLATION
+ SOO_new_roads_idea: "Nové silnice" # todo: NEW TRANSLATION
+ SOO_tractors: "Nové traktory" # todo: NEW TRANSLATION
+ SOO_five_year_plans_idea: "Pětiletý plán" # todo: NEW TRANSLATION
+ SOO_against_georgia_idea: "Strategie války se Gruzií" # todo: NEW TRANSLATION
+ SOO_Roki_tunnel_toll: "Poplatky z tunelu Roki" # todo: NEW TRANSLATION
+ SOO_Roki_tunnel_toll_desc: "Další příjem: $§G0.010§!" # todo: NEW TRANSLATION
+ SOO_defence_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
+ SOO_invervention_rus: "Ruská doktrína vojenské intervence" # todo: NEW TRANSLATION
+ SOO_help_ossetia_SOV: "Investice do §Y[SOO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_help_ossetia_SOV_desc: "Budeme finančně podporovat rozpočet Jižní Osetie, protože tato země to sama nedokáže. Další příjem: $§R-0.120§!" # todo: NEW TRANSLATION
+ SOO_help_ossetia: "Investice z §Y[SOV.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_help_ossetia_desc: "Rusko nám finančně pomáhá a to umožňuje naší ekonomice zůstat na vodě. Další příjem: $§G0.120§!" # todo: NEW TRANSLATION
+ SOO_develop_turism: "Rozvoj turistiky" # todo: NEW TRANSLATION
+ SOO_develop_turism_desc: "Budeme rozvíjet domácí turistiku, která by měla přinést dodatečný příjem do našeho pokladního rozpočtu. Další příjem: $§G0.100§!" # todo: NEW TRANSLATION
+ SOO_Mamison_path: "Mamison průsmyk" # todo: NEW TRANSLATION
+ SOO_Mamison_path_desc: "" # todo: NEW TRANSLATION
+ SOO_hydroelectric_dams: "Mikrohydroelektrické systémy" # todo: NEW TRANSLATION
+ SOO_Tskhinvali_district: "Okres Tskhinvali" # todo: NEW TRANSLATION
+ SOO_GAS_Electrical_lines: "Plynové a elektrické vedení" # todo: NEW TRANSLATION
+ SOO_Java_townlet: "Java městečko" # todo: NEW TRANSLATION
+ SOO_subsidise_the_Farmers: "Dotace pro farmáře" # todo: NEW TRANSLATION
+ SOO_subsidise_the_Farmers_desc: "Naše země je velmi chudá; musíme využít každou příležitost k vytvoření příjmů pro rozpočet. Pokusíme se podpořit naše zemědělce." # todo: CHANGED
+ SOO_Roki_Tunnel_tollage: "Oprava tunelu Roki" # todo: NEW TRANSLATION
+ SOO_Roki_Tunnel_tollage_desc: "Musíme opravit tento tunel, protože je naším jediným spojením s Ruskem." # todo: CHANGED
+ SOO_Tskhinvali_gas_and_electricity_network: "Zajištění energie pro Tskhinvali" # todo: NEW TRANSLATION
+ SOO_Tskhinvali_gas_and_electricity_network_desc: "Zajistíme Cchinvalu vše, co potřebuje z hlediska energetiky." # todo: CHANGED
+ SOO_Move_towards_cash_crop_growth: "Zvýšit obrat obchodu s Ruskem" # todo: NEW TRANSLATION
+ SOO_Move_towards_cash_crop_growth_desc: "Jsme připraveni zvýšit dodávky našich zemědělských produktů do Ruska." # todo: CHANGED
+ SOO_Rural_Revitalization: "Investice do obnovy infrastruktury" # todo: NEW TRANSLATION
+ SOO_Rural_Revitalization_desc: "Musíme obnovit naše silnice, které během mnoha let zchátraly." # todo: CHANGED
+ SOO_konserv_zavod: "Otevřít konzervárnu" # todo: NEW TRANSLATION
+ SOO_konserv_zavod_desc: "Otevřeme v naší zemi konzervárnu, která lidem poskytne práci a bude vytvářet solidní zisk." # todo: CHANGED
+ SOO_Redevelop_the_Mamison_Pass: "Přestavět Mamison průsmyk" # todo: NEW TRANSLATION
+ SOO_Redevelop_the_Mamison_Pass_desc: "Mamisonský průsmyk je drsný horský průsmyk na hranici Osetie a Ruska. Překonává jej Osetská vojenská silnice, vybudovaná Ruskou říší v letech 1854 až 1889, ačkoli dnes je značně zastíněna Zakavkazskou magistrálou." # todo: CHANGED
+ SOO_The_Ergneti_market: "Ergneti trh" # todo: NEW TRANSLATION
+ SOO_The_Ergneti_market_desc: "Ergneti je vesnice na okraji Cchinvalu, která se nachází na gruzínské straně hranice. To, co začalo jako místo, kde místní gruzínští obyvatelé nakupovali levné ruské zboží, se rozrostlo v rozsáhlý černý trh, na němž se obchoduje se vším od zemědělských produktů až po průmyslové zboží. Ergnetijský trh se stal nejspolehlivějším a nejtrvalejším zdrojem příjmů pro tisíce Osetinců i Gruzínů." # todo: CHANGED
+ SOO_Sponsor_the_Georgian_grey_market: "Sponsor the Georgian Grey Market"  -> "Sponzorovat Gruzijský šedý trh" # todo: NEW TRANSLATION
+ SOO_Sponsor_the_Georgian_grey_market_desc: "Gruzínský šedý trh vyrostl z přívalu ruského zboží proudícího do regionu, přičemž většina z něj překračuje osetskou hranici po Zakavkazské magistrále. Podpora šedého trhu by mohla přinést dosud nevyužitý zdroj příjmů pro potřebný stát, jako je ten náš." # todo: CHANGED
+ SOO_fostering_economic_ties: "Posilování hospodářských vazeb" # todo: NEW TRANSLATION
+ SOO_fostering_economic_ties_desc: "Ergneti sloužilo jako základní kámen míru mezi Jižní Osetií a Gruzií. Chceme-li zůstat na cestě stabilního růstu, musíme využít příležitosti k navázání užších vztahů s gruzínským státem." # todo: CHANGED
+ SOO_tourism: "Turismus v Jižní Osetii" # todo: NEW TRANSLATION
+ SOO_tourism_desc: "Naše země má nádhernou krajinu a krásné výhledy. Je čas rozvinout infrastrukturu potřebnou k tomu, aby turisté mohli tuto krásu poznat." # todo: CHANGED
+ SOO_A_Shifting_market: "Přesouvající se trh" # todo: NEW TRANSLATION
+ SOO_A_Shifting_market_desc: "Gruzínská vláda trh uzavřela. Musíme plánovat budoucnost národa a tento problém řešit; jelikož mnoho lidí přišlo o práci, jsme nuceni se přizpůsobit větší závislostí na ruské pomoci a větším zaměřením na pašování a další nelegální zdroje obchodu." # todo: CHANGED
+ SOO_Host_transit_tax: "Poplatek za tranzit" # todo: NEW TRANSLATION
+ SOO_Host_transit_tax_desc: "Ergnetijský trh stále funguje jako černý trh. Abychom využili dosud nevyužité příjmy, můžeme na osetské straně hranice zavést tranzitní poplatek. Pro mnohé to může být nevítané opatření, ale příjmy zůstanou v našem vlastním státě, místo aby proudily k sousedovi za hranicí." # todo: CHANGED
+ SOO_Promote_contraband: "Podpora pašovaného zboží" # todo: NEW TRANSLATION
+ SOO_Promote_contraband_desc: "Po nedávném uzavření trhu gruzínskou vládou musíme získávat příjmy jinými způsoby. Velká část obyvatelstva na obou stranách hranice je pobouřena tím, že Gruzie trh zlikvidovala. Nyní jsme nuceni zapojit se do obchodu s pašovaným zbožím." # todo: CHANGED
+ SOO_regulate_the_market: "Regulace trhu" # todo: NEW TRANSLATION
+ SOO_regulate_the_market_desc: "Regulace trhu jsou nutné k odstranění nezákonného jednání. Díky tomu bude pro gruzínskou stranu přitažlivější trh ponechat otevřený i v době změn nebo rostoucího napětí." # todo: CHANGED
+ SOO_Districted_Oversight: "Okresní dohled" # todo: NEW TRANSLATION
+ SOO_Districted_Oversight_desc: "S touto nově vzniklou správou musí řídící orgán gruzínských území zahájit proces začleňování obyvatelstva do zvyků a zákonů osetského státu." # todo: CHANGED
+ SOO_Resilient_Commerce: "Odolný obchod" # todo: NEW TRANSLATION
+ SOO_Resilient_Commerce_desc: "Budeme obchodovat aktivněji než dříve, abychom rozšířili svůj ekonomický potenciál." # todo: CHANGED
+ SOO_Raise_Import_Tariffs: "Zvýšit dovozní cla" # todo: NEW TRANSLATION
+ SOO_Raise_Import_Tariffs_desc: "Zvýšíme dovozní cla, abychom zlepšili příjmy naší státní pokladny." # todo: CHANGED
+ SOO_the_Russian_bankroll: "Připustit ruské banky" # todo: NEW TRANSLATION
+ SOO_the_Russian_bankroll_desc: "Budeme muset umožnit ruským bankám vstoupit na náš trh, aby podpořily naši ekonomiku." # todo: CHANGED
+ SOO_new_developments_in_Kvaisa: "Energetika Osetie" # todo: NEW TRANSLATION
+ SOO_new_developments_in_Kvaisa_desc: "Zahájíme výstavbu elektrárny, abychom zajistili naši energetickou bezpečnost." # todo: CHANGED
+ SOO_Boost_the_local_flour_production: "Investice do produkce mouky" # todo: NEW TRANSLATION
+ SOO_Boost_the_local_flour_production_desc: "Náš stát by měl investovat do všech zemědělských odvětví, počínaje místní výrobou mouky." # todo: CHANGED
+ SOO_Tractor_Imports: "Import traktorů" # todo: NEW TRANSLATION
+ SOO_Tractor_Imports_desc: "Dovezeme traktory, abychom uspokojili potřeby našeho zemědělství." # todo: CHANGED
+ SOO_Forestry_Development: "Lesní průmysl" # todo: NEW TRANSLATION
+ SOO_Forestry_Development_desc: "Budeme znovu pracovat na rozvoji našeho lesnického průmyslu." # todo: CHANGED
+ SOO_increase_tolls_on_Roki_Tunnel: "Zvýšit poplatky za průjezd Roki tunelu" # todo: NEW TRANSLATION
+ SOO_increase_tolls_on_Roki_Tunnel_desc: "Zvýšíme poplatky vybírané v Rokském tunelu." # todo: CHANGED
+ SOO_South_Ossetian_State_University: "Jižněosetská státní univerzita" # todo: NEW TRANSLATION
+ SOO_South_Ossetian_State_University_desc: "Naše republika potřebuje ty nejlepší mozky. Investice do vysokého školství zajistí naši budoucnost." # todo: CHANGED
+ SOO_Dzuarikau_Tskhinvali_pipeline: "Opravený ropovod" # todo: NEW TRANSLATION
+ SOO_Dzuarikau_Tskhinvali_pipeline_desc: "Tento plynovod je zásadní pro naše zásobování energií." # todo: CHANGED
+ SOO_Develop_Tskhinvali: "Infrastruktura Tskhinvali" # todo: NEW TRANSLATION
+ SOO_Develop_Tskhinvali_desc: "Místní silnice v Cchinvalu zjevně potřebují opravu." # todo: CHANGED
+ SOO_Develop_Java: "Obnova Java" # todo: NEW TRANSLATION
+ SOO_Develop_Java_desc: "Tato osada také potřebuje finanční investice." # todo: CHANGED
+ SOO_Revive_soviet_era_works: "Oživit sovětské dědictví" # todo: NEW TRANSLATION
+ SOO_Revive_soviet_era_works_desc: "Je čas obnovit to, co bylo během let ztraceno a zničeno: dědictví SSSR." # todo: CHANGED
+ SOO_Develop_Gori: "Rozvoj Gori" # todo: NEW TRANSLATION
+ SOO_Develop_Gori_desc: "Nová území naší republiky je také třeba rozvíjet." # todo: CHANGED
+ SOO_private_sector: "Soukromý sektor" # todo: NEW TRANSLATION
+ SOO_private_sector_desc: "Budeme podporovat rozvoj soukromého sektoru v celé naší republice." # todo: CHANGED
+ SOO_Geared_for_hardship: "Potíže s rozvojem" # todo: NEW TRANSLATION
+ SOO_Geared_for_hardship_desc: "V rozvoji a oživení naší ekonomiky, zejména zemědělství, nás čeká ještě dlouhá cesta." # todo: CHANGED
+ SOO_Gori_Tskhinvali_rail_link: "Dopravní spojení Gori – Tskhinvali" # todo: NEW TRANSLATION
+ SOO_Gori_Tskhinvali_rail_link_desc: "Propojíme naše nové území se zbytkem republiky." # todo: CHANGED
+ SOO_Ministry_of_internal_affairs: "Ministerstvo vnitra" # todo: NEW TRANSLATION
+ SOO_Ministry_of_internal_affairs_desc: "Naše republika by měla být schopna klidně spát." # todo: CHANGED
+ SOO_Reinforce_Parliamentary_administration: "Změna vedení Parlamentu" # todo: NEW TRANSLATION
+ SOO_Reinforce_Parliamentary_administration_desc: "Je čas na nové lidi v politice." # todo: CHANGED
+ SOO_Dismantle_Parliamentary_Dominance: "Zrušení parlamentní nadřazenosti" # todo: NEW TRANSLATION
+ SOO_Dismantle_Parliamentary_Dominance_desc: "Parlament by neměl vládnout zemi sám." # todo: CHANGED
+ SOO_Downplay_opposition_forces: "Potlačit opozici" # todo: NEW TRANSLATION
+ SOO_Downplay_opposition_forces_desc: "Opozice v podobě, v jaké nyní existuje, ohrožuje naši republiku a její stabilitu." # todo: CHANGED
+ SOO_banner_of_the_people: "Vlajka lidu" # todo: NEW TRANSLATION
+ SOO_banner_of_the_people_desc: "Praví synové Osetie jsou připraveni bránit naši zemi" # todo: NEW TRANSLATION
+ SOO_Political_independent: "Politická nezávislost" # todo: NEW TRANSLATION
+ SOO_Political_independent_desc: "Naše politika bude méně podléhat vlivu jediné osoby či skupiny." # todo: CHANGED
+ SOO_Defenders_of_the_Fatherland: "Obránci vlasti" # todo: NEW TRANSLATION
+ SOO_Defenders_of_the_Fatherland_desc: "Naši bojovníci budou bojovat do posledního dechu za naši vlast" # todo: NEW TRANSLATION
+ SOO_Evaluate_the_existing_constitution: "Zhodnotit současnou ústavu" # todo: NEW TRANSLATION
+ SOO_Evaluate_the_existing_constitution_desc: "Možná nastal čas změnit stávající ústavu?" # todo: NEW TRANSLATION
+ SOO_Allow_presidential_constitution_changes: "Prezidentská ústavní novela" # todo: NEW TRANSLATION
+ SOO_Allow_presidential_constitution_changes_desc: "Náš prezident má vlastní představu o ústavě." # todo: CHANGED
+ SOO_The_Regal_Relinquishment: "Nový politický život" # todo: NEW TRANSLATION
+ SOO_The_Regal_Relinquishment_desc: "Je čas vdechnout nový život politické scéně naší republiky." # todo: CHANGED
+ SOO_Reform_the_distribution_of_farmland: "Zemědělská reforma" # todo: NEW TRANSLATION
+ SOO_Reform_the_distribution_of_farmland_desc: "Hlavním zdrojem našich příjmů jsou zemědělské produkty. Toto odvětví musíme moudře reformovat." # todo: CHANGED
+ SOO_The_Kremlin_state: "Pro-kremlínský stát" # todo: NEW TRANSLATION
+ SOO_The_Kremlin_state_desc: "Nemáme žádné spojence kromě Ruska" # todo: NEW TRANSLATION
+ SOO_Ossetian_Patriotism_Reforms: "Osetijský patriotismus" # todo: NEW TRANSLATION
+ SOO_Ossetian_Patriotism_Reforms_desc: "Každý by si měl být vědom své povinnosti a být připraven bojovat za naši vlast." # todo: CHANGED
+ SOO_adopted_a_new_constitution: "Nová ústava" # todo: NEW TRANSLATION
+ SOO_adopted_a_new_constitution_desc: "Je čas přijmout novou ústavu." # todo: CHANGED
+ SOO_Enduring_the_Sovereignty_Fight: "Pokračujte v boji za nezávislost" # todo: NEW TRANSLATION
+ SOO_Enduring_the_Sovereignty_Fight_desc: "Dokud nebudeme součástí Ruska, budeme muset bojovat za svou nezávislost." # todo: CHANGED
+ SOO_pro_russian: "Pro-ruský kurz" # todo: NEW TRANSLATION
+ SOO_pro_russian_desc: "Naším konečným cílem je znovusjednocení s našimi bratry v Severní Osetii a s Ruskem." # todo: CHANGED
+ SOO_integrate_to_russian_army: "Integrace do ruské armády" # todo: NEW TRANSLATION
+ SOO_integrate_to_russian_army_desc: "Jsme připraveni plně se integrovat do ruské armády." # todo: CHANGED
+ SOO_referendum: "Referendum o připojení k Rusku" # todo: NEW TRANSLATION
+ SOO_referendum_desc: "Dlouho jsme k tomu směřovali. Je čas uspořádat toto referendum." # todo: CHANGED
+ SOO_invest: "Investice do naší ekonomiky" # todo: NEW TRANSLATION
+ SOO_invest_desc: "Rusko je připraveno velkoryse investovat do naší ekonomiky." # todo: CHANGED
+ SOO_rosbanks: "Ruské banky" # todo: NEW TRANSLATION
+ SOO_rosbanks_desc: "Ruské banky jsou připraveny vstoupit na naše území. To posílí naši ekonomiku." # todo: CHANGED
+ SOO_inverv_warfrare: "Ruská doktrina vojenské intervence" # todo: NEW TRANSLATION
+ SOO_inverv_warfrare_desc: "Budeme se řídit vojenskou doktrínou naší země a aktivně se účastnit světových konfliktů." # todo: CHANGED
+ SOO_fight_start: "Začít boj o svobodu Osetie" # todo: NEW TRANSLATION
+ SOO_fight_start_desc: "Klan Tadejevových terorizuje naši zemi příliš dlouho. Je čas s nimi skoncovat." # todo: CHANGED
+ SOO_fight_narcota: "Zastavte distribuci drog" # todo: NEW TRANSLATION
+ SOO_fight_narcota_desc: "Zlikvidujeme všechny osoby spojené s Tedeevs, kteří jsou zapojeni do pašování drog" # todo: NEW TRANSLATION
+ SOO_fight_contrabanda: "Překonat nelegální pašování" # todo: NEW TRANSLATION
+ SOO_fight_contrabanda_desc: "Pašerácké sítě Tadejevových budou navždy zničeny." # todo: CHANGED
+ SOO_fight_alchohol: "Potlačit nelegální alkohol" # todo: CHANGED
+ SOO_fight_alchohol_desc: "Nelegální alkohol se již v naší zemi nebude objevovat." # todo: CHANGED
+ SOO_fight_reket: "Překonat vydírání" # todo: NEW TRANSLATION
+ SOO_fight_reket_desc: "Ukončíme jejich pokusy vydírat podnikatele v naší zemi." # todo: CHANGED
+ SOO_fight_orujie: "Zlikvidujte kanály pašování zbraní" # todo: NEW TRANSLATION
+ SOO_fight_orujie_desc: "Zbraně už nebudou nelegálně proudit přes naši zemi." # todo: CHANGED
+ SOO_fight_tamojnia: "Odstraňte korupční celníky" # todo: NEW TRANSLATION
+ SOO_fight_tamojnia_desc: "Z naší celní služby odstraníme všechny neloajální zaměstnance." # todo: CHANGED
+ SOO_fight_kgb: "Zbavte se korupce v KGB" # todo: NEW TRANSLATION
+ SOO_fight_kgb_desc: "Dokonce i v KGB našli Tadejevovi lidi, které bylo možné podplatit. Je čas s tím skoncovat." # todo: CHANGED
+ SOO_fight_minor: "Odstraňte korupční úředníky z Ministerstva školství" # todo: NEW TRANSLATION
+ SOO_fight_minor_desc: "Poslední informátorka Tadejevových sedí na ministerstvu školství a poskytuje klanu oporu v zemi. Je čas si s ní poradit." # todo: CHANGED
+ SOO_end_fight: "Osvoboďte zemi" # todo: NEW TRANSLATION
+ SOO_end_fight_desc: "Konečně si naše země může oddechnout v klidu." # todo: CHANGED
+ SOO_prepare_for_war: "Příprava na válku" # todo: NEW TRANSLATION
+ SOO_prepare_for_war_desc: "Válka je nevyhnutelná. Musíme na ni být připraveni." # todo: CHANGED
+ SOO_call_abkhazia: "Vyzvat Abcházii" # todo: NEW TRANSLATION
+ SOO_call_abkhazia_desc: "My i Abcházci musíme stát společně, abychom čelili hrozbě z Gruzie." # todo: CHANGED
+ SOO_establish_connection_with_kavkaz: "Sjednocení s Čečnami" # todo: NEW TRANSLATION
+ SOO_establish_connection_with_kavkaz_desc: "Možná nám Čečenci znovu pomohou, stejně jako v 90. letech." # todo: CHANGED
+ SOO_ossetia_at_war: "Válečné zkušenosti" # todo: NEW TRANSLATION
+ SOO_ossetia_at_war_desc: "Právě teď na bojišti se stáváme silnějšími a zkušenějšími" # todo: NEW TRANSLATION
+ SOO_lessons_from_war: "Poučení z války" # todo: NEW TRANSLATION
+ SOO_lessons_from_war_desc: "Zkušenost z této války nás mnohému naučila." # todo: CHANGED
+ SOO_new_defences: "Nové vojenské investice" # todo: NEW TRANSLATION
+ SOO_new_defences_desc: "Zvýšíme své investice do vojenského sektoru." # todo: CHANGED
+ SOO_doctrine_update: "Aktualizovaná vojenská doktrína" # todo: NEW TRANSLATION
+ SOO_doctrine_update_desc: "Naše vojenská doktrína potřebuje určité úpravy." # todo: CHANGED
+ SOO_north_ossetia_ratnik: "Plně vyzbrojit armádu systémem 'Ratnik'" # todo: NEW TRANSLATION
+ SOO_north_ossetia_ratnik_desc: "Ruské vojenské vybavení bude nejlepší volbou pro naši armádu" # todo: NEW TRANSLATION
+ SOO_submission_to_the_russian_doctrine: "Podřízení se ruské doktríně" # todo: NEW TRANSLATION
+ SOO_submission_to_the_russian_doctrine_desc: "Budeme se zcela řídit ruskou doktrínou" # todo: NEW TRANSLATION
+ SOO_Gori_pereseleniye: "Osídlování Gori" # todo: NEW TRANSLATION
+ SOO_Gori_pereseleniye_desc: "Umožníme našim občanům usadit se na tomto území." # todo: CHANGED
+ SOO_foreign_relations: "Mezinárodní diplomacie" # todo: NEW TRANSLATION
+ SOO_foreign_relations_desc: "Musíme navázat mezinárodní vztahy." # todo: CHANGED
+ SOO_reinforce_sng2: "Partneři CIS-2" # todo: NEW TRANSLATION
+ SOO_reinforce_sng2_desc: "Našimi nejbližšími partnery jsou členové SNS-2." # todo: CHANGED
+ SOO_russian_ms: "Spolupráce s vojenským průmyslem Ruska" # todo: NEW TRANSLATION
+ SOO_russian_ms_desc: "Ruské vojenské vybavení je pro nás nejlepší a jedinou možností nákupu." # todo: CHANGED
+ SOO_russian_arms: "Koupit ruské tanky" # todo: NEW TRANSLATION
+ SOO_russian_arms_desc: "S ruskými tanky se můžeme dostat kamkoli." # todo: CHANGED
+ SOO_transnistria_accept: "Pašování ze Transnistrie" # todo: NEW TRANSLATION
+ SOO_transnistria_accept_desc: "Zbrojní sklady Podněstří budou pro naši zemi velmi zajímavé." # todo: CHANGED
+ SOO_abkahz_relations: "Zlepšení vztahů s Abcházii" # todo: NEW TRANSLATION
+ SOO_abkahz_relations_desc: "Abcházci a Osetinci jsou navždy bratři." # todo: CHANGED
+ SOO_abkahz_def_pact: "Defenzivní pakt s Abcházií" # todo: NEW TRANSLATION
+ SOO_abkahz_def_pact_desc: "Musíme být připraveni bránit se společně s Abcházci." # todo: CHANGED
+ SOO_trade_abk_def: "Obchod s Abcházií" # todo: NEW TRANSLATION
+ SOO_trade_abk_def_desc: "Je nutné navázat obchodní vztahy s Abcházií." # todo: CHANGED
+ SOO_syria_relations: "Bratrský syrský lid" # todo: NEW TRANSLATION
+ SOO_syria_relations_desc: "Sýrie se ukázala být nečekaným partnerem, s nímž stojí za to navázat užší vztahy." # todo: CHANGED
+ SOO_venez_relations: "Spolupráce s Venezuelou" # todo: NEW TRANSLATION
+ SOO_venez_relations_desc: "Navzdory velké vzdálenosti jsme připraveni navázat spolupráci s Venezuelou." # todo: CHANGED
+ SOO_shara_relat: "Spolupráce se Jižní Saharou" # todo: NEW TRANSLATION
+ SOO_shara_relat_desc: "Navzdory velké vzdálenosti jsme připraveni navázat spolupráci s Jižní Saharou." # todo: CHANGED
+ SOO_nikar_relations: "Spolupráce s Nikaragou" # todo: NEW TRANSLATION
+ SOO_nikar_relations_desc: "Navzdory velké vzdálenosti jsme připraveni navázat spolupráci s Nikaraguou." # todo: CHANGED
+ SOO_artsakh_relations: "Spolupráce s Artsakh" # todo: NEW TRANSLATION
+ SOO_artsakh_relations_desc: "Naši partneři a bratři z Arcachu budou vynikajícími spojenci." # todo: CHANGED
+ SOO_artsakh_volunteers: "Dobrovolníci z Artsakh" # todo: NEW TRANSLATION
+ SOO_artsakh_volunteers_desc: "Dobrovolníci z Arcachu přišli na pomoc naší zemi." # todo: CHANGED
+ SOO_approach_armenia: "Podpora Arménie" # todo: NEW TRANSLATION
+ SOO_approach_armenia_desc: "Arméni a my jsme bratrské národy a budeme si navzájem pomáhat ve všem." # todo: CHANGED
+ SOO_economic_pizda: "Ruské investice" # todo: NEW TRANSLATION
+ SOO_economic_pizda_desc: "Rusko je připraveno investovat do naší země." # todo: CHANGED
+ SOO_nykhaz_russian_partnership: "Rozvoj partnerství s Ruskem" # todo: NEW TRANSLATION
+ SOO_nykhaz_russian_partnership_desc: "Rozšíříme naše partnerství s Ruskem." # todo: CHANGED
+ SOO_further_integr_osset: "Integrace se Severní Osetií" # todo: NEW TRANSLATION
+ SOO_further_integr_osset_desc: "Jsme připraveni na integraci se Severní Osetií." # todo: CHANGED
+ SOO_podchistit_polit_pole: "Vyčistit politické prostředí" # todo: NEW TRANSLATION
+ SOO_podchistit_polit_pole_desc: "Je čas vypořádat se s našimi politickými nepřáteli." # todo: CHANGED
+ SOO_north_ssetian_dobrovol_army: "Severoosetské dobrovolníci" # todo: NEW TRANSLATION
+ SOO_north_ssetian_dobrovol_army_desc: "Do naší země přišlo mnoho dobrovolníků ze Severní Osetie." # todo: CHANGED
+ SOO_new_ak_rifles: "Licence na nové modely Kalašnikova" # todo: NEW TRANSLATION
+ SOO_new_ak_rifles_desc: "Jsme připraveni zahájit licenční výrobu nejnovějších modelů útočných pušek Kalašnikov na našem území." # todo: CHANGED
+ SOO_iron_Iroon: "Železná Alanya" # todo: NEW TRANSLATION
+ SOO_iron_Iroon_desc: "Budeme silní jako ocel, z níž byly ukuty meče a brnění našich předků: Alanů." # todo: CHANGED
+ SOO_native_faith: "Naše pravá víra" # todo: NEW TRANSLATION
+ SOO_native_faith_desc: "Je čas, aby naši lidé otevřeli oči a přijali pravé náboženství." # todo: CHANGED
+ SOO_revive_alan_spirit: "Oživit alanského ducha" # todo: NEW TRANSLATION
+ SOO_revive_alan_spirit_desc: "Duchovní znovuzrození našeho národa právě začalo" # todo: NEW TRANSLATION
+ SOO_eurasian_ambitions: "Eurasijské ambice" # todo: NEW TRANSLATION
+ SOO_eurasian_ambitions_desc: "Naše ambice sahají daleko za obzory" # todo: NEW TRANSLATION
+ SOO_influence_iran: "Vliv v Íránu" # todo: NEW TRANSLATION
+ SOO_influence_iran_desc: "Rozšíříme náš vliv na Írán, zejména na Zoroastrijce žijící tam" # todo: NEW TRANSLATION
+ SOO_zoroastr_reb_iran: "Zoroastrijská vzpoura v Íránu" # todo: NEW TRANSLATION
+ SOO_zoroastr_reb_iran_desc: "Zoroastrijci v Íránu jsou připraveni vzbouřit se proti současné vládě!" # todo: NEW TRANSLATION
+ SOO_influence_russian_pagans: "Vliv na ruské pohanství" # todo: NEW TRANSLATION
+ SOO_influence_russian_pagans_desc: "Přátelství s pohany z Ruska přinese v budoucnu své ovoce." # todo: CHANGED
+ SOO_coup_in_armenia: "Bratrství s Arménií" # todo: NEW TRANSLATION
+ SOO_coup_in_armenia_desc: "Je čas, aby se Arménie stala součástí našeho velkého plánu." # todo: CHANGED
+ SOO_coup_kob: "Je čas zničit egyptské kněze" # todo: NEW TRANSLATION
+ SOO_coup_kob_desc: "Je čas, aby naše národy bojovaly proti společnému nepříteli" # todo: NEW TRANSLATION
+ SOO_greater_scythia: "Velká Scytie" # todo: NEW TRANSLATION
+ SOO_greater_scythia_desc: "Pravé dědictví našeho národa bylo konečně znovuzrozeno. Ať žije Scytie!" # todo: NEW TRANSLATION
+ SOO_unite_with_northosset_as_rus_pup: "Sjednocená Osetinská SSR" # todo: NEW TRANSLATION
+ SOO_unite_with_northosset_as_rus_pup_desc: "Osetie bude znovu sjednocena!" # todo: NEW TRANSLATION
+ SOO_annex_abk: "Sjednotit Abcházii" # todo: NEW TRANSLATION
+ SOO_annex_abk_desc: "Je čas, aby se naše bratrské národy sjednotily." # todo: CHANGED
+ SOO_strike_turkey: "Konec Turecka" # todo: NEW TRANSLATION
+ SOO_strike_turkey_desc: "Turecko musí být zničeno" # todo: NEW TRANSLATION
+ SOO_revolutions_in_southcauc: "Revoluce po celém jižním Kavkaze" # todo: NEW TRANSLATION
+ SOO_revolutions_in_southcauc_desc: "Kavkazské národy musí být osvobozeny plameny revoluce" # todo: NEW TRANSLATION
+ SOO_referendums_in_northcauc: "Referenda severního Kavkazu" # todo: NEW TRANSLATION
+ SOO_referendums_in_northcauc_desc: "Bratrské republiky by se s námi měly pokojně znovu spojit" # todo: NEW TRANSLATION
+ SOO_invade_iran: "Konec Íránu" # todo: NEW TRANSLATION
+ SOO_invade_iran_desc: "Írán ztratil svou cestu. Je čas s tím skoncovat." # todo: CHANGED
+ SOO_commi_start: "Červená Osetie" # todo: NEW TRANSLATION
+ SOO_commi_start_desc: "Cesta socialismu je pro nás tou jedinou pravou" # todo: NEW TRANSLATION
+ SOO_mnogo_parti: "Vícestranický systém" # todo: CHANGED
+ SOO_mnogo_parti_desc: "Více stran znamená stabilnější stát." # todo: CHANGED
+ SOO_zakonnost: "Zákonnost a pořádek" # todo: NEW TRANSLATION
+ SOO_zakonnost_desc: "Musíme uvést náš stát do dokonalého práva a pořádku" # todo: NEW TRANSLATION
+ SOO_kadrovaya_politica: "Politika kvalifikovaného personálu" # todo: NEW TRANSLATION
+ SOO_kadrovaya_politica_desc: "Kvalifikovaný nábor nás v budoucnu ochrání před nepotřebnými lidmi" # todo: NEW TRANSLATION
+ SOO_svobody: "Svoboda a práva občanů" # todo: NEW TRANSLATION
+ SOO_svobody_desc: "Garantujeme našim občanům naplnění všech jejich práv." # todo: CHANGED
+ SOO_molodej: "Politika mládeže" # todo: NEW TRANSLATION
+ SOO_molodej_desc: "Mládež je naší budoucností a budeme do ní moudře investovat." # todo: CHANGED
+ SOO_soc_sfera: "Sociální politika" # todo: NEW TRANSLATION
+ SOO_soc_sfera_desc: "Sociální oblast je jednou z priorit naší země." # todo: CHANGED
+ SOO_restore_selhoz: "Oživit zemědělství" # todo: NEW TRANSLATION
+ SOO_restore_selhoz_desc: "Zemědělství musí být oživeno a lepší než dřív!" # todo: NEW TRANSLATION
+ SOO_free_education: "Oživit vzdělávací systém" # todo: NEW TRANSLATION
+ SOO_free_education_desc: "Naši občané si zaslouží nejlepší vzdělání." # todo: CHANGED
+ SOO_new_economic: "Nová osetijská ekonomika" # todo: NEW TRANSLATION
+ SOO_new_economic_desc: "Naše ekonomika vzkvétá" # todo: NEW TRANSLATION
+ SOO_osetian_language: "Podpora osetského jazyka" # todo: NEW TRANSLATION
+ SOO_osetian_language_desc: "Náš jazyk a kultura by neměly být zapomenuty" # todo: NEW TRANSLATION
+ SOO_marxism: "Marxismus ve školách" # todo: NEW TRANSLATION
+ SOO_marxism_desc: "Učení Marxe nezůstanou zapomenuta" # todo: NEW TRANSLATION
+ SOO_five_year_plan: "První pětiletý plán" # todo: NEW TRANSLATION
+ SOO_five_year_plan_desc: "Volné ekonomické modely západních států nemají pro socialistický stát žádnou budoucnost. Návrat k plánovanému hospodářství, pokud možno v podobě klasických pětiletých plánů sovětského typu, poskytne vládě pevnou kontrolu nad dříve neregulovanou ekonomikou." # todo: CHANGED
+ SOO_connect_to_neighbours: "Připojit se k sousedům" # todo: NEW TRANSLATION
+ SOO_connect_to_neighbours_desc: "I když ne všichni naši sousedé kráčejí stejnou cestou jako my, stále můžeme spolupracovat a udržovat slušné vztahy." # todo: CHANGED
+ SOO_natpop_start: "Strana lidu" # todo: NEW TRANSLATION
+ SOO_natpop_start_desc: "Naše strana bude nejpopulárnější v dějinách naší země." # todo: CHANGED
+ SOO_anti_birecracy: "Boj proti byrokracii" # todo: NEW TRANSLATION
+ SOO_anti_birecracy_desc: "Pryč s byrokraty a nadvládou úředníků!" # todo: NEW TRANSLATION
+ SOO_protect_small_business: "Ochrana malých podniků" # todo: NEW TRANSLATION
+ SOO_protect_small_business_desc: "Malé podniky jsou budoucností ekonomiky naší republiky." # todo: CHANGED
+ SOO_invest_climat: "Investiční klima" # todo: NEW TRANSLATION
+ SOO_invest_climat_desc: "Potřebujeme investice a uděláme cokoli, abychom je přilákali." # todo: CHANGED
+ SOO_strahovanie: "Sociální pojištění" # todo: NEW TRANSLATION
+ SOO_strahovanie_desc: "Naši občané by měli mít všechny sociální jistoty." # todo: CHANGED
+ SOO_patriotism: "Osetinský patriotismus" # todo: NEW TRANSLATION
+ SOO_patriotism_desc: "Patriotismus potřebujeme stejně jako vzduch." # todo: CHANGED
+ SOO_zdravo: "Zdravý národ" # todo: NEW TRANSLATION
+ SOO_zdravo_desc: "Zdravý národ znamená zdravou zemi" # todo: NEW TRANSLATION
+ SOO_ban_sects: "Zakázat sekty" # todo: NEW TRANSLATION
+ SOO_ban_sects_desc: "Sekty a hereze rozkládají naši společnost. Musíme zakázat a potlačit všechny iniciátory a stoupence těchto destruktivních organizací vytvořených s cílem podkopat nás samotné." # todo: CHANGED
+ SOO_military_arms: "Náš vlastní vojenský průmysl" # todo: NEW TRANSLATION
+ SOO_military_arms_desc: "Je čas, aby naše země začala vyrábět vlastní zbraně na obranu před vnějšími nepřáteli." # todo: CHANGED
+ SOO_nyhaz_start: "Návrat Jižní Osetie k právnímu řádu" # todo: NEW TRANSLATION
+ SOO_nyhaz_start_desc: "Konečně převzali moc do vlastních rukou skuteční vlastenci této země." # todo: CHANGED
+ SOO_nyhaz_narodovlastie: "Demokracie" # todo: NEW TRANSLATION
+ SOO_nyhaz_narodovlastie_desc: "Lidé mohou klidně spát. Země je v bezpečných rukou." # todo: CHANGED
+ SOO_nyhaz_razdelenie: "Dělba moci" # todo: NEW TRANSLATION
+ SOO_nyhaz_razdelenie_desc: "Skutečný princip dělby moci je jednou z našich hlavních reforem a musí být zachován." # todo: CHANGED
+ SOO_nyhaz_reform_pravo: "Reforma práva" # todo: NEW TRANSLATION
+ SOO_nyhaz_reform_pravo_desc: "Musíme zcela proměnit naše donucovací orgány." # todo: CHANGED
+ SOO_nyhaz_kbg_invest: "Reforma KGB" # todo: NEW TRANSLATION
+ SOO_nyhaz_kbg_invest_desc: "Je čas, aby KGB prošla kompletní přestavbou." # todo: CHANGED
+ SOO_nyhaz_omon_invest: "Reforma OMON" # todo: NEW TRANSLATION
+ SOO_nyhaz_omon_invest_desc: "Pohotovostní policie a celá struktura OMON musí být očištěny a reformovány." # todo: CHANGED
+ SOO_nyhaz_ter_defence: "Vytvořit územní obranu" # todo: NEW TRANSLATION
+ SOO_nyhaz_ter_defence_desc: "Potřebujeme lidi připravené chránit naši zemi v jejích nejtěžších chvílích." # todo: CHANGED
+ SOO_nyhaz_defence_doctrine: "Obranná doktrína" # todo: NEW TRANSLATION
+ SOO_nyhaz_defence_doctrine_desc: "Naše země nikoho neútočí, a doktrína by to měla jasně odrážet" # todo: NEW TRANSLATION
+ SOO_nyhaz_national_guard: "Národní garda" # todo: NEW TRANSLATION
+ SOO_nyhaz_national_guard_desc: "Je čas vytvořit vlastní národní gardu, protože naše ozbrojené síly již k obraně země nestačí." # todo: CHANGED
+ SOO_communism_assr: "Jihosetská sovětská republika" # todo: NEW TRANSLATION
+ SOO_skufia: "Velká Scytie" # todo: NEW TRANSLATION
+ SER_Modernise_Belgrade: "Nové traktory" # todo: NEW TRANSLATION
+ SOO_commie_modifier: "Komunistická politika Jižní Osetie" # todo: NEW TRANSLATION
+ SOO_commie_modifier_desc: "Jižní Osetie se opět vydala komunistickou cestou, rudý prapor opět ozářil naše země." # todo: NEW TRANSLATION
+ SOO_natpop_modifier: "Lidová politika Jižní Osetie" # todo: NEW TRANSLATION
+ SOO_natpop_modifier_desc: "Lidová strana usiluje o to, aby občanům Jižní Osetie poskytla to nejlepší, ale kvůli poněkud vágnímu politickému programu pravděpodobně to nebude fungovat ideálně." # todo: NEW TRANSLATION
+ SOO_nyhaz_modifier: "Militaristická lidová politika" # todo: NEW TRANSLATION
+ SOO_nyhaz_modifier_desc: "Naši lidé jsou unaveni nekonečnými falešnými sliby politiků. Naše země by měla povstat jako Fénix z nicoty. Je čas rozhodnout o osudu Osetie." # todo: CHANGED
+ SOO_bandit_modifier: "Síla klanu The Tadeev" # todo: NEW TRANSLATION
+ SOO_bandit_modifier_desc: "Klan Tedějevových převzal kontrolu nad mnoha oblastmi v naší republice. Ztrácíme miliony, protože nikdo není ochoten se s nimi vypořádat." # todo: CHANGED
+ Ossetia.1.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
+ Ossetia.1.d: "Stát Jižní Osetie pořádá referendum o vstupu do naší velké země. Většina obyvatel s tímto rozhodnutím souhlasila. Nyní je to na nás, zda je přijmeme do Ruska?" # todo: NEW TRANSLATION
+ Ossetia.1.a: "Samozřejmě, vítej doma!" # todo: NEW TRANSLATION
+ Ossetia.1.b: "Ne, nepotřebujeme je" # todo: NEW TRANSLATION
+ Ossetia.2.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
+ Ossetia.2.d: "Rusko souhlasilo nás přijmout!" # todo: NEW TRANSLATION
+ Ossetia.2.a: "Hurá!" # todo: NEW TRANSLATION
+ Ossetia.3.t: "Referendum v Jižní Osetii" # todo: NEW TRANSLATION
+ Ossetia.3.d: "Rusko nás odmítlo přijmout" # todo: NEW TRANSLATION
+ Ossetia.3.a: "Sakra" # todo: NEW TRANSLATION
+ Ossetia.4.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
+ Ossetia.4.d: "Jižní Osetie žádá o integraci se Severní Osetií, jsme připraveni vyhovět jejich požadavku?" # todo: NEW TRANSLATION
+ Ossetia.4.a: "Samozřejmě" # todo: NEW TRANSLATION
+ Ossetia.4.b: "Ne" # todo: NEW TRANSLATION
+ Ossetia.5.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
+ Ossetia.5.d: "Rusko souhlasilo" # todo: NEW TRANSLATION
+ Ossetia.5.a: "Hurá!" # todo: NEW TRANSLATION
+ Ossetia.6.t: "Sloučení Jižní a Severní Osetie" # todo: NEW TRANSLATION
+ Ossetia.6.d: "Rusko odmítlo" # todo: NEW TRANSLATION
+ Ossetia.6.a: "Sakra" # todo: NEW TRANSLATION
+ Ossetia.7.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
+ Ossetia.7.d: "Dědici Velké Scytie nám navrhují vytvořit alianci, která povede celý svět na správnou cestu a svrhne naše společné nepřátele" # todo: NEW TRANSLATION
+ Ossetia.7.a: "Společně očistíme svět od špíny!" # todo: NEW TRANSLATION
+ Ossetia.7.b: "Ne" # todo: NEW TRANSLATION
+ Ossetia.8.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
+ Ossetia.8.d: "Souhlasili stát našimi loajálními spojenci" # todo: NEW TRANSLATION
+ Ossetia.8.a: "Hurá!" # todo: NEW TRANSLATION
+ Ossetia.9.t: "Aliance Prvorozených" # todo: NEW TRANSLATION
+ Ossetia.9.d: "Rozhodli se nám v našem velkém cíli nepomoci" # todo: NEW TRANSLATION
+ Ossetia.9.a: "Sakra" # todo: NEW TRANSLATION
+ Ossetia.10.t: "Osetijská politika" # todo: NEW TRANSLATION
+ Ossetia.10.d: "V chaotické politické krajině Jižní Osetie v roce 2000 se de facto nezávislý stát potýkal s trvalými výzvami k legitimnosti a územními spory s Gruzií. V čele s prezidentem Lyudvigem Čibirovem Jižní Osetie čelila krizi důvěry, když jen několik málo zemí, včetně Ruska, uznávalo její suverenitu, zatímco většina mezinárodního společenství, spojená s OSN, ji nadále považovala za nedílnou součást Gruzie. Vliv Ruska hrál klíčovou roli, politicky i vojensky, formující regionální schopnost udržet de facto nezávislost. Napětí s Gruzií zůstávalo vysoké, charakterizované občasnými výbuchy násilí podél správního hranice, bránícími snahám o mírové řešení. Za těchto okolností nevyřešené konflikty a humanitární obavy představovaly významné výzvy, zdůrazňující potřebu trvalé mezinárodní diplomatické snahy k zajištění stability v regionu." # todo: NEW TRANSLATION
+ Ossetia.10.a: "Iratta Razma" # todo: NEW TRANSLATION
+ Ossetia.11.t: "Kokoity byl zvolen prezidentem." # todo: NEW TRANSLATION
+ Ossetia.11.d: "Eduard Kokoity byl zvolen prezidentem jako opoziční kandidát v přímých lidových prezidentských volbách do funkce prezidenta Republiky Jižní Osetie." # todo: NEW TRANSLATION
+ Ossetia.11.a: "Uvidíme, jak si povede." # todo: NEW TRANSLATION
+ Ossetia.12.t: "Daurbekův návrh" # todo: NEW TRANSLATION
+ Ossetia.12.d: "Naši lidé potřebují nové vedení! Proč trávit volbami, když náš vůdce musí být nám posvěcen bohy? Navrhuji dvě řešení tohoto problému..." # todo: NEW TRANSLATION
+ Ossetia.12.a: "Ano, Daurbeku, jsi hodný." # todo: NEW TRANSLATION
+ Ossetia.12.b: "Musíme pozvat naši aristokracii z Nalčiku!" # todo: NEW TRANSLATION
+ Ossetia.12.c: "Nedotýkej se státních záležitostí, blázne." # todo: NEW TRANSLATION
+ Ossetia.13.t: "Osetie žádá o naši pomoc!" # todo: NEW TRANSLATION
+ Ossetia.13.d: "Osetie žádá naše banky o pomoc ve své obtížné finanční situaci." # todo: CHANGED
+ Ossetia.13.a: "Jistě!" # todo: NEW TRANSLATION
+ Ossetia.13.b: "Promiňte, ne." # todo: CHANGED
+ Ossetia.14.t: "Rusko poskytuje pomoc!" # todo: NEW TRANSLATION
+ Ossetia.14.d: "Rusko nám poskytuje hospodářskou pomoc." # todo: CHANGED
+ Ossetia.14.a: "Díky" # todo: NEW TRANSLATION
+ Ossetia.15.t: "Rusko odmítlo naši nabídku." # todo: NEW TRANSLATION
+ Ossetia.15.d: "Rusko odmítlo poskytnout nám finanční pomoc." # todo: NEW TRANSLATION
+ Ossetia.15.a: "Dobře" # todo: NEW TRANSLATION
+ Ossetia.16.t: "CIS-2 byl vytvořen" # todo: NEW TRANSLATION
+ Ossetia.16.d: "Společenství neuznaných států je sdružení neuznaných a částečně uznaných států v postsovětském prostoru, založené v roce 1992. V Tiraspolu vzniklo nové sdružení neuznaných států: byla podepsána dohoda o zřízení stálého koordinačního orgánu, setkání ministrů zahraničí a poradního sboru na expertní úrovni pro přípravné práce mezi jednotlivými setkáními, která se měla konat nejméně dvakrát ročně." # todo: CHANGED
+ Ossetia.16.a: "Dobře" # todo: NEW TRANSLATION
+ SOO_greater_skifia_decisions_category: "Velká Scytie" # todo: NEW TRANSLATION
+ SOO_greater_skifia_decisions_category_desc: "" # todo: NEW TRANSLATION
+ SOO_caucas_south_attack: "Podmanit si Jižní Kavkaz" # todo: NEW TRANSLATION
+ SOO_central_azia_attack: "Podmanit si Střední Asii" # todo: NEW TRANSLATION
+ SOO_CHINA_attack: "Podmanit si Čínu" # todo: NEW TRANSLATION
+ SOO_Russia_attack: "Podmanit si Rusko" # todo: NEW TRANSLATION
+ SOO_revoult_south_caucas: "Revoluce v Jižním Kavkaze" # todo: NEW TRANSLATION
+ SOO_revoult_south_caucas_desc: "Pracující v bývalých sovětských republikách jsou tvrdě utlačováni diktátory a kapitalisty, kteří získali moc po nezákonném rozpadu SSSR! Musíme pomoci našim soudruhům a začlenit je do naší socialistické rodiny!" # todo: NEW TRANSLATION
+ SOO_firstborn_faction: "Aliance Prvorozených" # todo: NEW TRANSLATION
+ SOO_influence_on_azer: "Socialistická revoluce v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_revolution_close4: "Zavřít rozhodnutí o revoluci v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_annex4: "Staňte se jednou zemí s bratrskou §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_of_local_military24: "Podplácejte vojenské generály v §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_corrupt_local_officials24: "Podplácení zkorumpovaných úředníků ve §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_protest_financing24: "Financování protestů ve §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_promotion_of_communist_ideology_in_government24: "Rozvíjejte komunistickou ideologii v vládě §Y[AZE.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_influence_on_georgia: "Socialistická revoluce v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_revolution_close5: "Uzavřete rozhodnutí o revoluci v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_annex5: "Staňte se jednou zemí s bratrskou §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_of_local_military25: "Podplácejte vojenské generály v §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_corrupt_local_officials25: "Podplácení zkorumpovaných úředníků ve §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_protest_financing25: "Financování protestů ve §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_promotion_of_communist_ideology_in_government25: "Rozvíjejte komunistickou ideologii v vládě §Y[GEO.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_influence_on_armenia: "Socialistická revoluce v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_revolution_close6: "Uzavřete rozhodnutí o revoluci v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_annex6: "Staňte se jednou zemí s bratrskou §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_of_local_military26: "Podplácejte vojenské generály v §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_corrupt_local_officials26: "Podplácení zkorumpovaných úředníků ve §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_protest_financing26: "Financování protestů ve §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_promotion_of_communist_ideology_in_government26: "Rozvíjejte komunistickou ideologii v vládě §Y[ARM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_influence_on_abkhazia: "Socialistická revoluce v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_revolution_close: "Uzavřete rozhodnutí o revoluci v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_annex: "Staňte se jednou zemí s bratrskou §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_of_local_military: "Podplácejte vojenské generály v §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_bribing_corrupt_local_officials: "Podplácení zkorumpovaných úředníků ve §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_protest_financing: "Financování protestů ve §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_cis_promotion_of_communist_ideology_in_government: "Rozvíjejte komunistickou ideologii v vládě §Y[ABK.GetNameWithFlag]§!" # todo: NEW TRANSLATION
+ SOO_rebper: "Budeme podporovat Zoroastrijce v Íránu a tam rozpoutáme povstání!" # todo: NEW TRANSLATION
+ Ukr_scyth_reb: "Budeme podporovat Assianisty na Ukrajině a tam rozpoutáme povstání!" # todo: NEW TRANSLATION
+ SOO_India_attack: "Pozvěte Indii" # todo: NEW TRANSLATION
+ SOO_influence_russia: "Podpořte naše bratry v Rusku" # todo: NEW TRANSLATION
+ SOO_influence_russia_tt: "Vyžaduje, aby Jižní Osetie byla největším vlivovým činitelem Ruska" # todo: NEW TRANSLATION
+ SOO_libya_attack: "Vraťte zpět Království Alánů a Vandálů" # todo: NEW TRANSLATION
+ SOO_spain_attack: "Přivést Španělsko zpět k jeho alanským kořenům" # todo: CHANGED
+ SOO_influence_ukraine: "Skýtská komunita Ukrajiny" # todo: NEW TRANSLATION
+ SOO_influence_ukraine_tt: "Vyžaduje, aby Jižní Osetie byla největším vlivovým činitelem Ukrajiny" # todo: NEW TRANSLATION
+ SOO_hungary_attack: "Připomeňte Maďarům jejich původ" # todo: NEW TRANSLATION
+ SOO_defenders_of_iron_idea: "Ochránci Irystonu" # todo: NEW TRANSLATION
+ SOO_defenders_of_iron_idea_desc: "Osetinci byli vždy proslulí svou sílou a odvahou, stejně jako smyslem pro povinnost vůči vlasti. Vzhledem k přítomnosti tak agresivního souseda, jakým je Gruzie, vedle nich, jsou nuceni být neustále připraveni na invazi" # todo: NEW TRANSLATION
+ SOO_idea_focus_northossetia_volunteers: "Dobrovolníci z Jižní Osetie" # todo: NEW TRANSLATION
+ SOO_idea_focus_northossetia_volunteers_desc: "Osetinci byli vždy proslulí svým bratrským duchem a ochotou pomáhat bratrským národům" # todo: NEW TRANSLATION
+ SOO_victory_war_idea: "Vítězství ve válce za nezávislost" # todo: NEW TRANSLATION
+ SOO_victory_war_idea_desc: "Osetinci si v 90. letech obhájili právo na nezávislost; to je jejich hlavní jádro v boji za nezávislost a v další cestě" # todo: NEW TRANSLATION
+ SOO_outdated_army_idea: "Zastaralá armáda" # todo: NEW TRANSLATION
+ SOO_outdated_army_idea_desc: "Osetská armáda byla dlouho nekonzistentní s moderní realitou, její zbraně jsou zastaralé a je třeba je nahradit" # todo: NEW TRANSLATION
+ SOO_puppet_of_georgia: "Loutka Gruzie" # todo: NEW TRANSLATION
+ SOO_puppet_of_georgia_desc: "Nyní jsme se stali loutkou Gruzie... Budeme s tím muset žít dál." # todo: NEW TRANSLATION
+ SOO_mix_the_population: "Návrat obyvatel" # todo: NEW TRANSLATION
+ SOO_mix_the_population_desc: "Nyní musíme vyměnit obyvatelstvo." # todo: NEW TRANSLATION
+ SOO_integration_into_georgian_system: "Integrace do gruzínského systému" # todo: NEW TRANSLATION
+ SOO_integration_into_georgian_system_desc: "Nyní musíme sloučit naše vládní struktury." # todo: NEW TRANSLATION
+ SOO_ossetian_georgian_friendship: "Autonomní přátelství" # todo: NEW TRANSLATION
+ SOO_ossetian_georgian_friendship_desc: "Nyní budeme integrováni jako autonomní stát a válečná sekera bude zakopána." # todo: CHANGED
+ SOO_idea_pro_farmers: "Politiky pro zemědělce" # todo: NEW TRANSLATION
+ SOO_reforming_army_mechanize: "Modernizovaný model ruské armády" # todo: NEW TRANSLATION

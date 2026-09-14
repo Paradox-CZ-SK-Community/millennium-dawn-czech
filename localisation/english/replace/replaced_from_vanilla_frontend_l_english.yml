@@ -1,215 +1,213 @@
 ﻿l_english:
-  MATCHMAKING_FILTER_NOPASSWORD: "Bez hesla" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_NOTFULL: "Nezaplněný" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_HASPLAYERS: "Má hráče" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_MOD: "MOD" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_VERSION: "Verze" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_FILTER_NAME: "Název" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_FILTER_SEARCH: "Tagy" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVERS_DOSEARCH: "Hledat" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVERS_DOFILTERS: "Filtruj" # todo: NEW TRANSLATION
-  MATCHMAKING_QUICK_REFRESH: "Rychlé obnovení" # todo: NEW TRANSLATION
-  MATCHMAKING_REFRESH_LAN: "Obnovit LAN" # todo: NEW TRANSLATION
-  MATCHMAKING_REFRESH_LAN_STOP: "Zastavit" # todo: NEW TRANSLATION
-  MATCHMAKING_REFRESH_INTERNET: "Obnovit Internet" # todo: NEW TRANSLATION
-  MATCHMAKING_JOIN_SERVER: "Připojit se" # todo: NEW TRANSLATION
-  MATCHMAKING_HOST_SERVER: "Hostitelský server" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_PASSWORD: "Heslo" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_NAME: "Název" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_SLOTS: "Sloty" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_VERSION: "Verze" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_TAGS: "Tagy" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_HOST_TAGS: "Tagy serveru" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_HOST_TITLE: "Hostitelský server" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_MOD: "MOD" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_STATUS: "Stav" # todo: NEW TRANSLATION
-  MATCHMAKING_CLIENT_STATUS: "Stav:" # todo: NEW TRANSLATION
-  MATCHMAKING_CLIENT_STATUS_IDLE: "Volný" # todo: NEW TRANSLATION
-  MATCHMAKING_CLIENT_STATUS_SCAN: "Skenování..." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_DESC: "Popis serveru" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_CONNECT_TITLE: "Připojit ke ID serveru" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_CONNECT_ADDRESS: "ID serveru" # todo: NEW TRANSLATION
-  MATCHMAKING_TITLE: "Multiplayer" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVERS: "Servery" # todo: NEW TRANSLATION
-  MATCHMAKING_COMMUNITY: "Komunita" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_STATUS_STARTING: "Spouštění" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_STATUS_RUNNING: "Běží" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_STATUS_STOPPED: "Zastaveno" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVERS_NOSERVERS: "Nebyl nalezen žádný server." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVERS_SEARCHING: "Hledání..." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_KICKED: "$NAME$ byl vyhozen ze serveru." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_BANNED: "$NAME$ byl zabanován ze serveru." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_BADVERSION: "Host má jinou verzi hry" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_HOTJOIN_DECLINED: "Server odmítl žádost o připojení" # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_NAME_TAKEN: "Vaše jméno je již obsazeno." # todo: NEW TRANSLATION
-  MATCHMAKING_SERVER_NAME_INVALID: "Vaše jméno je neplatné." # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_PASSWORD: "Seřadit podle hesla" # todo: NEW TRANSLATION
-  SORT_BY_NAME: "Seřadit podle jména" # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_MOD: "Seřadit podle MOD" # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_VERSION: "Seřadit podle verze" # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_TAGS: "Seřadit podle štítků" # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_SLOTS: "Seřadit podle slotů" # todo: NEW TRANSLATION
-  MATCHMAKING_SORT_BY_STATUS: "Seřadit podle stavu" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_NAMES: "Filtr podle jména" # todo: NEW TRANSLATION
-  MATCHMAKING_FILTER_TAGS: "Filtr podle štítků" # todo: NEW TRANSLATION
-  SM_OPTIONS: "Možnosti" # todo: NEW TRANSLATION
-  SM_GAME: "Hra" # todo: NEW TRANSLATION
-  SM_VIDEO: "Video" # todo: NEW TRANSLATION
-  SM_AUDIO: "Zvuk" # todo: NEW TRANSLATION
-  SM_CONTROLS: "Ovládání" # todo: NEW TRANSLATION
-  SM_MASTER_VOLUME: "Hlavní hlasitost" # todo: NEW TRANSLATION
-  SM_EFFECT_VOLUME: "Hlasitost efektů" # todo: NEW TRANSLATION
-  SM_MUSIC_VOLUME: "Hlasitost hudby" # todo: NEW TRANSLATION
-  SM_SCROLL_SPEED: "Rychlost posouvání" # todo: NEW TRANSLATION
-  SM_ZOOM_SPEED: "Rychlost zoomu" # todo: NEW TRANSLATION
-  SM_MOUSE_SPEED: "Rychlost myši" # todo: NEW TRANSLATION
-  SM_MODE: "Režim" # todo: NEW TRANSLATION
-  SM_RESOLUTION: "Rozlišení" # todo: NEW TRANSLATION
-  SM_REFRESH_RATE: "Obnovovací frekvence" # todo: NEW TRANSLATION
-  SM_GAMMA_TOOLTIP: "Povoleno v režimu celé obrazovky" # todo: NEW TRANSLATION
-  SM_SHADOWS: "Stíny" # todo: NEW TRANSLATION
-  SM_WINDOWED: "Okno" # todo: NEW TRANSLATION
-  SM_FULLSCREEN: "Na celou obrazovku" # todo: NEW TRANSLATION
-  SM_BORDERLESS: "Bez okrajů" # todo: NEW TRANSLATION
-  SM_NATIVE: "Plocha" # todo: NEW TRANSLATION
-  SM_TREES: "3D stromy" # todo: NEW TRANSLATION
-  SM_SKIP_SETUP: "Přeskočit jednoduché nastavení" # todo: NEW TRANSLATION
-  SM_DECORATIVE_MAPITEMS: "Dekorativní prvky mapy" # todo: NEW TRANSLATION
-  SM_DIFFICULTY: "Obtížnost" # todo: NEW TRANSLATION
-  SM_AUTOSAVE_INTERVAL: "Interval automatického ukládání" # todo: NEW TRANSLATION
-  SM_APPLY: "Použít" # todo: NEW TRANSLATION
-  SM_ALERT: "Upozornění" # todo: NEW TRANSLATION
-  SM_RESTART: "K změně je nutný restart." # todo: NEW TRANSLATION
-  SM_WP: "Chyba zápisu do nastavení. Zkontrolujte, že soubor není chráněn proti zápisu a zkuste to znovu" # todo: NEW TRANSLATION
-  SM_MULTISAMPLE: "Úroveň multisamplingu" # todo: NEW TRANSLATION
-  SM_AMBIENT_OBJECTS: "Okolní objekty" # todo: NEW TRANSLATION
-  SM_VOICE_VOLUME: "Hlasitost řeči" # todo: NEW TRANSLATION
-  SM_VSYNC: "Vertikální synchronizace" # todo: NEW TRANSLATION
-  SM_WEATHER: "Počasí" # todo: NEW TRANSLATION
-  SM_WATER_REFL: "Odrazy" # todo: NEW TRANSLATION
-  SM_TEX_QUALITY: "Kvalita textur" # todo: NEW TRANSLATION
-  SM_TEX_QUALITY_LOW: "Nízká" # todo: NEW TRANSLATION
-  SM_TEX_QUALITY_MEDIUM: "Střední" # todo: NEW TRANSLATION
-  SM_TEX_QUALITY_HIGH: "Vysoká" # todo: NEW TRANSLATION
-  SM_UI_SCALING: "Škálování UI (Experimentální)" # todo: NEW TRANSLATION
-  SM_CITIES: "Města" # todo: NEW TRANSLATION
-  SM_UNITS: "3D jednotky" # todo: NEW TRANSLATION
-  SM_BUILDINGS: "3D budovy" # todo: NEW TRANSLATION
-  SM_RIVERS: "Řeky" # todo: NEW TRANSLATION
-  SM_HIGH_GFX_SHADERS: "Vysoká kvalita pixel shaderů" # todo: NEW TRANSLATION
-  SM_FULL_MAP_RES: "Plné rozlišení vykreslování" # todo: NEW TRANSLATION
-  RESTART_REQ: "Restart vyžadován" # todo: NEW TRANSLATION
-  RESTART_REQ_DESC: "Pro aplikaci těchto změn je nutný restart hry." # todo: NEW TRANSLATION
-  NEVER: "Nikdy" # todo: NEW TRANSLATION
-  MONTHLY: "Měsíční" # todo: NEW TRANSLATION
-  HALFYEAR: "Půlrok" # todo: NEW TRANSLATION
-  YEARLY: "Roční" # todo: NEW TRANSLATION
-  FE_HOTJOIN_LABEL: "Rychlé připojení" # todo: NEW TRANSLATION
-  FE_COOP_LABEL: "Kooperativní" # todo: NEW TRANSLATION
-  FE_COOP_LABEL_DESC: "Povolí více hráčů ovládat jednu zemi" # todo: NEW TRANSLATION
-  FE_HOTJOIN_TOOLTIP: "Povolit hráčům rychlé připojení" # todo: NEW TRANSLATION
-  FE_COOP_TOOLTIP: "Povolit hráčům hrát stejnou zemi" # todo: NEW TRANSLATION
-  HINTS_ACTIVE: "Nápovědy aktivní" # todo: NEW TRANSLATION
-  NATO_COUNTERS: "Používat symboly NATO" # todo: NEW TRANSLATION
-  PAUSE_ON_POPUPS: "Pozastavit při oznámeních" # todo: NEW TRANSLATION
-  PAUSE_ON_POPUPS_DESC: "Pozastaví vyskakovací notifikace. Nebude mít vliv na události." # todo: NEW TRANSLATION
-  EXTERNAL_BROWSER: "Použít externí webový prohlížeč" # todo: NEW TRANSLATION
-  HOME_WIKI: "Použít offline wiki jako výchozí" # todo: NEW TRANSLATION
-  BAD_SERVER_PASSWORD: "Nesprávné heslo" # todo: NEW TRANSLATION
-  PLAYER_BANNED: "$NAME$ byl zabanován hostitelem." # todo: NEW TRANSLATION
-  PLAYER_KICKED: "$NAME$ byl vyhozen hostitelem." # todo: NEW TRANSLATION
-  FE_START: "SPUSTIT" # todo: NEW TRANSLATION
-  FE_YES: "Ano" # todo: NEW TRANSLATION
-  FE_NO: "Ne" # todo: NEW TRANSLATION
-  YES: "Ano" # todo: NEW TRANSLATION
-  NO: "Ne" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_CUSTOM: "Nastavit vlastní herní pravidla." # todo: NEW TRANSLATION
-  FE_DIFFICULTY_CUSTOM_BTN: "Vlastní herní pravidla" # todo: NEW TRANSLATION
-  FE_DIFFICULTY: "Obtížnost" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_VERY_EASY: "Civilní" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_VERY_EASY_TOOLTIP: "§L\"Můžeme to zvládnout!\"§!" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_EASY: "Nábor" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_EASY_TOOLTIP: "§L\"Věřím plně ve vaši odvahu, oddanost povinnosti a bojovou dovednost. Přijmeme nic méně než plné vítězství. Hodně štěstí!\"§!" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_NORMAL: "Normální" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_NORMAL_TOOLTIP: "§L\"Nepřítel je silný. Může vrátit naše síly. Úspěch možná nepřijde rychlým tempem, ale vrátíme se znovu a znovu.\"§!" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_HARD: "Veterán" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_HARD_TOOLTIP: "§L\"O třicet let, až budeš u krbu se svým vnukem na kolenou a on se zeptá: 'Co jsi dělal ve velké Druhé světové válce?' Nebudeš muset kašlat a říci: 'No, tvůj dědeček šel po hnoji v Louisianě.'\"§!" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_VERY_HARD: "Elitní" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_VERY_HARD_TOOLTIP: "§L\"Nemám co nabídnout než krev, dřinu, slzy a pot.\"§!" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_UNKNOWN: "Tajná obtížnost" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP: "\n\nHráč:\n$PLAYERMOD$" # todo: NEW TRANSLATION
-  FE_DIFFICULTY_MODIFIER_AI_TOOLTIP: "\n\nAI:\n$AIMOD$" # todo: NEW TRANSLATION
-  FE_IRONMAN_MP_BLOCKED: "§RIronman režim nelze hrát v multiplayer.§!" # todo: NEW TRANSLATION
-  FE_CUSTOM_DIFFICULTY_TOOLTIP: "Použito na: $COUNTRIES$\n$MODIFIER$" # todo: NEW TRANSLATION
-  FE_RESET: "Resetovat" # todo: NEW TRANSLATION
-  CUSTOM_GAME_RULES_TITLE: "Vlastní herní pravidla" # todo: NEW TRANSLATION
-  CUSTOM_GAME_RULE_OPTION_DISALLOWS_ACHIEVEMENTS: "§RNeumožňuje získávání úspěchů.§!" # todo: NEW TRANSLATION
-  CUSTOM_GAME_RULES_ALLOW_ACHIEVEMENTS: "Všechna herní pravidla umožňují získávání úspěchů." # todo: NEW TRANSLATION
-  CUSTOM_DIFFICULTY_GROUP_NAME: "Národní buffy a debuffy" # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_LOAD: "Načíst přednastavení" # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_LOAD_TOOLTIP: "Načte dříve uloženou sadu upravených pravidel hry." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_SAVE: "Uložit přednastavení" # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_SAVE_TOOLTIP: "Uloží tuto sadu upravených pravidel pro budoucí použití při startu nových her." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP: "§HVlastní možnosti§!\nNěkterá pravidla v této skupině jsou nakonfigurována nestandardně." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GKlikněte§! pro reset celé skupiny na výchozí nastavení." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP: "§HVýchozí možnosti§!\nKaždé pravidlo v této skupině je nastaveno na výchozí volbu." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_REVERT: "Obnovit" # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP: "Obnoví všechna upravená pravidla na jejich výchozí volby." # todo: NEW TRANSLATION
-  CUSTOM_GAME_SETTINGS_BACK: "Zpět" # todo: NEW TRANSLATION
-  DAILY: "Denně" # todo: NEW TRANSLATION
-  WEEKLY: "Týdně" # todo: NEW TRANSLATION
-  GAMESETUP_SELECT_SCENARIO: "Vyberte scénář nebo načtěte hru" # todo: NEW TRANSLATION
-  INTERESTING_COUNTRIES_OTHER_COUNTRIES: "Na mapu" # todo: NEW TRANSLATION
-  CHAT_WHISPER_TO: "Pro $NAME|H$" # todo: NEW TRANSLATION
-  CHAT_SYSTEM: "Systémová zpráva" # todo: NEW TRANSLATION
-  CHAT_ERROR_UNKNOWNUSER: "Neznámý uživatel." # todo: NEW TRANSLATION
-  FE_CHANGE_SCENARIO_ONLY_SERVER: "§RMůže být změněno pouze hostitelem§!" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_CHEATS: "Žádné cheaty ani modifikované hry/ukládání" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_LOGGED_IN_PARADOX: "Přihlášeno pomocí Paradox účtu" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_LOGGED_IN_MICROSOFT: "Přihlášeno pomocí účtu Microsoft" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_DIFFICULTY: "Běžná nebo vyšší obtížnost" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_OK: "§HMůžete získat úspěchy!§!" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_MOD_OK: "§HMůžete získat úspěchy i z módů!§!" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_NOT_OK: "§RNelze získat úspěchy.§!" # todo: NEW TRANSLATION
-  ACHIEVEMENTS_MOSTLY_NOT_OK: "§RNelze získat většinu úspěchů.§!" # todo: NEW TRANSLATION
-  diff_strong_ai_generic: "Silnější AI" # todo: NEW TRANSLATION
-  custom_diff_strong_ger: "@GER Posílení Německa" # todo: NEW TRANSLATION
-  custom_diff_strong_ita: "@ITA Posílení Itálie" # todo: NEW TRANSLATION
-  custom_diff_strong_sov: "@SOV Posílení Ruska" # todo: NEW TRANSLATION
-  custom_diff_strong_fra: "@FRA Posílení Francie" # todo: NEW TRANSLATION
-  custom_diff_strong_eng: "@ENG Posílení Spojeného Království" # todo: NEW TRANSLATION
-  custom_diff_strong_usa: "@USA Posílení USA" # todo: NEW TRANSLATION
-  custom_diff_strong_jap: "@JAP Posílení Japonska" # todo: NEW TRANSLATION
-  custom_diff_strong_chi: "@CHI Posílení Číny" # todo: NEW TRANSLATION
-  achievement_has_joined_faction: "Přidal(a) se k frakci" # todo: NEW TRANSLATION
-  achievement_has_dropped_nuke: "Použil(a) jadernou bombu" # todo: NEW TRANSLATION
-  achievement_france_surrender: "Francie kapitulovala" # todo: NEW TRANSLATION
-  achievement_won_spanish_civil_war: "Vyhrál(a) občanskou válku ve Španělsku" # todo: NEW TRANSLATION
-  achievement_failed_sunset_invasion: "Nedodržel(a) pravidla Sunset Invasion." # todo: NEW TRANSLATION
-  achievement_has_nuked_california: "Použil(a) jadernou bombu na Kalifornii." # todo: NEW TRANSLATION
-  achievement_med_plutonium: "Použil(a) jadernou bombu na Dánsku." # todo: NEW TRANSLATION
-  POL_vojtek_commander: "Zjistil(a) jak spustit toto ocenění." # todo: NEW TRANSLATION
-  SAF_released_ANG: "Angola byla uvolněna" # todo: NEW TRANSLATION
-  SAF_released_MZB: "Mozambik byl uvolněn" # todo: NEW TRANSLATION
-  SAF_released_BOT: "Botswana byla uvolněna" # todo: NEW TRANSLATION
-  SAF_released_ZIM: "Zimbabwe bylo uvolněno" # todo: NEW TRANSLATION
-  SAF_released_KEN: "Keňa byla uvolněna" # todo: NEW TRANSLATION
-  SAF_released_COG: "Kongo byl uvolněn" # todo: NEW TRANSLATION
-  achievement_AST_nuke_self: "Použil(a) jadernou bombu na australské jádrové území." # todo: NEW TRANSLATION
-  achievement_EGY_colony: "Dosáhl(a) koloniálního stavu" # todo: NEW TRANSLATION
-  achievement_EGY_dominion: "Dosáhl postavení dominium" # todo: NEW TRANSLATION
-  achievement_EGY_free: "Dosáhl stavu svobody" # todo: NEW TRANSLATION
-  ROM_lost_starting_state: "Rumunsko ztratilo jedno ze svých výchozích států" # todo: NEW TRANSLATION
-  YUG_delcared_war_on_axis_allies: "Vyhlásil(a) válku Ose či Spojencům, když byl(a) v Ose nebo Spojencích" # todo: NEW TRANSLATION
-  achievement_carol_II_is_leader: "Carol II. je současný vůdce země" # todo: NEW TRANSLATION
-  CHAT_ERROR_MUTE_MISSINGARGS: "Neplatná syntaxe, očekáváno: /mute <uživatelské_jméno>" # todo: NEW TRANSLATION
-  CHAT_ERROR_UNMUTE_MISSINGARGS: "Neplatná syntaxe, očekáváno: /unmute <uživatelské_jméno>" # todo: NEW TRANSLATION
-  CHAT_ERROR_MUTEUNMUTE_SELF: "Nelze ztlumit ani zrušit ztlumení sebe sama!" # todo: NEW TRANSLATION
-  CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_SINGULAR: "Příliš často posíláte zprávy. Počkejte §Y1§! sekundu než pošlete další." # todo: NEW TRANSLATION
-  CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL: "Příliš často posíláte zprávy. Počkejte $TIME|Y$ sekund, než pošlete další." # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_DEMAND: "" # todo: NEW TRANSLATION
-  TOPBAR_ENERGY_GENERATED: "" # todo: NEW TRANSLATION
-  TOPBAR_COAL_CURRENTLY_USED: "" # todo: NEW TRANSLATION
-  TOPBAR_MAXIMUM_ENERGY_GENERATED: "" # todo: NEW TRANSLATION
-  TOPBAR_TOTAL_COAL: "" # todo: NEW TRANSLATION
-  MENU_BAR_GAME_WIKI: "Nahlásit problém" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_NOPASSWORD: "Bez hesla" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_NOTFULL: "Nezaplněný" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_HASPLAYERS: "Má hráče" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_MOD: "MOD" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_VERSION: "Verze" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_FILTER_NAME: "Název" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_FILTER_SEARCH: "Tagy" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVERS_DOSEARCH: "Hledat" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVERS_DOFILTERS: "Filtruj" # todo: NEW TRANSLATION
+ MATCHMAKING_QUICK_REFRESH: "Rychlé obnovení" # todo: NEW TRANSLATION
+ MATCHMAKING_REFRESH_LAN: "Obnovit LAN" # todo: NEW TRANSLATION
+ MATCHMAKING_REFRESH_LAN_STOP: "Zastavit" # todo: NEW TRANSLATION
+ MATCHMAKING_REFRESH_INTERNET: "Obnovit Internet" # todo: NEW TRANSLATION
+ MATCHMAKING_JOIN_SERVER: "Připojit se" # todo: NEW TRANSLATION
+ MATCHMAKING_HOST_SERVER: "Hostitelský server" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_PASSWORD: "Heslo" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_NAME: "Název" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_SLOTS: "Sloty" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_VERSION: "Verze" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_TAGS: "Tagy" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_HOST_TAGS: "Tagy serveru" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_HOST_TITLE: "Hostitelský server" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_MOD: "MOD" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_STATUS: "Stav" # todo: NEW TRANSLATION
+ MATCHMAKING_CLIENT_STATUS: "Stav:" # todo: NEW TRANSLATION
+ MATCHMAKING_CLIENT_STATUS_IDLE: "Volný" # todo: NEW TRANSLATION
+ MATCHMAKING_CLIENT_STATUS_SCAN: "Skenování..." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_DESC: "Popis serveru" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_CONNECT_TITLE: "Připojit ke ID serveru" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_CONNECT_ADDRESS: "ID serveru" # todo: NEW TRANSLATION
+ MATCHMAKING_TITLE: "Multiplayer" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVERS: "Servery" # todo: NEW TRANSLATION
+ MATCHMAKING_COMMUNITY: "Komunita" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_STATUS_STARTING: "Spouštění" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_STATUS_RUNNING: "Běží" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_STATUS_STOPPED: "Zastaveno" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVERS_NOSERVERS: "Nebyl nalezen žádný server." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVERS_SEARCHING: "Hledání..." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_KICKED: "$NAME$ byl vyhozen ze serveru." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_BANNED: "$NAME$ byl zabanován ze serveru." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_BADVERSION: "Host má jinou verzi hry" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_HOTJOIN_DECLINED: "Server odmítl žádost o připojení" # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_NAME_TAKEN: "Vaše jméno je již obsazeno." # todo: NEW TRANSLATION
+ MATCHMAKING_SERVER_NAME_INVALID: "Vaše jméno je neplatné." # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_PASSWORD: "Seřadit podle hesla" # todo: NEW TRANSLATION
+ SORT_BY_NAME: "Seřadit podle jména" # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_MOD: "Seřadit podle MOD" # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_VERSION: "Seřadit podle verze" # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_TAGS: "Seřadit podle štítků" # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_SLOTS: "Seřadit podle slotů" # todo: NEW TRANSLATION
+ MATCHMAKING_SORT_BY_STATUS: "Seřadit podle stavu" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_NAMES: "Filtr podle jména" # todo: NEW TRANSLATION
+ MATCHMAKING_FILTER_TAGS: "Filtr podle štítků" # todo: NEW TRANSLATION
+ SM_OPTIONS: "Možnosti" # todo: NEW TRANSLATION
+ SM_GAME: "Hra" # todo: NEW TRANSLATION
+ SM_VIDEO: "Video" # todo: NEW TRANSLATION
+ SM_AUDIO: "Zvuk" # todo: NEW TRANSLATION
+ SM_CONTROLS: "Ovládání" # todo: NEW TRANSLATION
+ SM_MASTER_VOLUME: "Hlavní hlasitost" # todo: NEW TRANSLATION
+ SM_EFFECT_VOLUME: "Hlasitost efektů" # todo: NEW TRANSLATION
+ SM_MUSIC_VOLUME: "Hlasitost hudby" # todo: NEW TRANSLATION
+ SM_SCROLL_SPEED: "Rychlost posouvání" # todo: NEW TRANSLATION
+ SM_ZOOM_SPEED: "Rychlost zoomu" # todo: NEW TRANSLATION
+ SM_MOUSE_SPEED: "Rychlost myši" # todo: NEW TRANSLATION
+ SM_MODE: "Režim" # todo: NEW TRANSLATION
+ SM_RESOLUTION: "Rozlišení" # todo: NEW TRANSLATION
+ SM_REFRESH_RATE: "Obnovovací frekvence" # todo: NEW TRANSLATION
+ SM_GAMMA_TOOLTIP: "Povoleno v režimu celé obrazovky" # todo: NEW TRANSLATION
+ SM_SHADOWS: "Stíny" # todo: NEW TRANSLATION
+ SM_WINDOWED: "Okno" # todo: NEW TRANSLATION
+ SM_FULLSCREEN: "Na celou obrazovku" # todo: NEW TRANSLATION
+ SM_BORDERLESS: "Bez okrajů" # todo: NEW TRANSLATION
+ SM_NATIVE: "Plocha" # todo: NEW TRANSLATION
+ SM_TREES: "3D stromy" # todo: NEW TRANSLATION
+ SM_SKIP_SETUP: "Přeskočit jednoduché nastavení" # todo: NEW TRANSLATION
+ SM_DECORATIVE_MAPITEMS: "Dekorativní prvky mapy" # todo: NEW TRANSLATION
+ SM_DIFFICULTY: "Obtížnost" # todo: NEW TRANSLATION
+ SM_AUTOSAVE_INTERVAL: "Interval automatického ukládání" # todo: NEW TRANSLATION
+ SM_APPLY: "Použít" # todo: NEW TRANSLATION
+ SM_ALERT: "Upozornění" # todo: NEW TRANSLATION
+ SM_RESTART: "K změně je nutný restart." # todo: NEW TRANSLATION
+ SM_WP: "Chyba zápisu do nastavení. Zkontrolujte, že soubor není chráněn proti zápisu a zkuste to znovu" # todo: NEW TRANSLATION
+ SM_MULTISAMPLE: "Úroveň multisamplingu" # todo: NEW TRANSLATION
+ SM_AMBIENT_OBJECTS: "Okolní objekty" # todo: NEW TRANSLATION
+ SM_VOICE_VOLUME: "Hlasitost řeči" # todo: NEW TRANSLATION
+ SM_VSYNC: "Vertikální synchronizace" # todo: NEW TRANSLATION
+ SM_WEATHER: "Počasí" # todo: NEW TRANSLATION
+ SM_WATER_REFL: "Odrazy" # todo: NEW TRANSLATION
+ SM_TEX_QUALITY: "Kvalita textur" # todo: NEW TRANSLATION
+ SM_TEX_QUALITY_LOW: "Nízká" # todo: NEW TRANSLATION
+ SM_TEX_QUALITY_MEDIUM: "Střední" # todo: NEW TRANSLATION
+ SM_TEX_QUALITY_HIGH: "Vysoká" # todo: NEW TRANSLATION
+ SM_UI_SCALING: "Škálování UI (Experimentální)" # todo: NEW TRANSLATION
+ SM_CITIES: "Města" # todo: NEW TRANSLATION
+ SM_UNITS: "3D jednotky" # todo: NEW TRANSLATION
+ SM_BUILDINGS: "3D budovy" # todo: NEW TRANSLATION
+ SM_RIVERS: "Řeky" # todo: NEW TRANSLATION
+ SM_HIGH_GFX_SHADERS: "Vysoká kvalita pixel shaderů" # todo: NEW TRANSLATION
+ SM_FULL_MAP_RES: "Plné rozlišení vykreslování" # todo: NEW TRANSLATION
+ RESTART_REQ: "Restart vyžadován" # todo: NEW TRANSLATION
+ RESTART_REQ_DESC: "Pro aplikaci těchto změn je nutný restart hry." # todo: NEW TRANSLATION
+ NEVER: "Nikdy" # todo: NEW TRANSLATION
+ MONTHLY: "Měsíční" # todo: NEW TRANSLATION
+ HALFYEAR: "Půlrok" # todo: NEW TRANSLATION
+ YEARLY: "Roční" # todo: NEW TRANSLATION
+ FE_HOTJOIN_LABEL: "Rychlé připojení" # todo: NEW TRANSLATION
+ FE_COOP_LABEL: "Kooperativní" # todo: NEW TRANSLATION
+ FE_COOP_LABEL_DESC: "Povolí více hráčů ovládat jednu zemi" # todo: NEW TRANSLATION
+ FE_HOTJOIN_TOOLTIP: "Povolit hráčům rychlé připojení" # todo: NEW TRANSLATION
+ FE_COOP_TOOLTIP: "Povolit hráčům hrát stejnou zemi" # todo: NEW TRANSLATION
+ HINTS_ACTIVE: "Nápovědy aktivní" # todo: NEW TRANSLATION
+ NATO_COUNTERS: "Používat symboly NATO" # todo: NEW TRANSLATION
+ PAUSE_ON_POPUPS: "Pozastavit při oznámeních" # todo: NEW TRANSLATION
+ PAUSE_ON_POPUPS_DESC: "Pozastaví vyskakovací notifikace. Nebude mít vliv na události." # todo: NEW TRANSLATION
+ EXTERNAL_BROWSER: "Použít externí webový prohlížeč" # todo: NEW TRANSLATION
+ HOME_WIKI: "Použít offline wiki jako výchozí" # todo: NEW TRANSLATION
+ BAD_SERVER_PASSWORD: "Nesprávné heslo" # todo: NEW TRANSLATION
+ PLAYER_BANNED: "$NAME$ byl zabanován hostitelem." # todo: NEW TRANSLATION
+ PLAYER_KICKED: "$NAME$ byl vyhozen hostitelem." # todo: NEW TRANSLATION
+ FE_START: "SPUSTIT" # todo: NEW TRANSLATION
+ FE_YES: "Ano" # todo: NEW TRANSLATION
+ FE_NO: "Ne" # todo: NEW TRANSLATION
+ YES: "Ano" # todo: NEW TRANSLATION
+ NO: "Ne" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_CUSTOM: "Nastavit vlastní herní pravidla." # todo: NEW TRANSLATION
+ FE_DIFFICULTY_CUSTOM_BTN: "Vlastní herní pravidla" # todo: NEW TRANSLATION
+ FE_DIFFICULTY: "Obtížnost" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_VERY_EASY: "Civilní" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_VERY_EASY_TOOLTIP: "§L\"Můžeme to zvládnout!\"§!" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_EASY: "Nábor" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_EASY_TOOLTIP: "§L\"Věřím plně ve vaši odvahu, oddanost povinnosti a bojovou dovednost. Přijmeme nic méně než plné vítězství. Hodně štěstí!\"§!" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_NORMAL: "Normální" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_NORMAL_TOOLTIP: "§L\"Nepřítel je silný. Může vrátit naše síly. Úspěch možná nepřijde rychlým tempem, ale vrátíme se znovu a znovu.\"§!" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_HARD: "Veterán" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L\"O třicet let, až budeš u krbu se svým vnukem na kolenou a on se zeptá: 'Co jsi dělal ve velké Druhé světové válce?' Nebudeš muset kašlat a říci: 'No, tvůj dědeček šel po hnoji v Louisianě.'\"§!" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_VERY_HARD: "Elitní" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_VERY_HARD_TOOLTIP: "§L\"Nemám co nabídnout než krev, dřinu, slzy a pot.\"§!" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_UNKNOWN: "Tajná obtížnost" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP: "\n\nHráč:\n$PLAYERMOD$" # todo: NEW TRANSLATION
+ FE_DIFFICULTY_MODIFIER_AI_TOOLTIP: "\n\nAI:\n$AIMOD$" # todo: NEW TRANSLATION
+ FE_IRONMAN_MP_BLOCKED: "§RIronman režim nelze hrát v multiplayer.§!" # todo: NEW TRANSLATION
+ FE_CUSTOM_DIFFICULTY_TOOLTIP: "Použito na: $COUNTRIES$\n$MODIFIER$" # todo: NEW TRANSLATION
+ FE_RESET: "Resetovat" # todo: NEW TRANSLATION
+ CUSTOM_GAME_RULES_TITLE: "Vlastní herní pravidla" # todo: NEW TRANSLATION
+ CUSTOM_GAME_RULE_OPTION_DISALLOWS_ACHIEVEMENTS: "§RNeumožňuje získávání úspěchů.§!" # todo: NEW TRANSLATION
+ CUSTOM_GAME_RULES_ALLOW_ACHIEVEMENTS: "Všechna herní pravidla umožňují získávání úspěchů." # todo: NEW TRANSLATION
+ CUSTOM_DIFFICULTY_GROUP_NAME: "Národní buffy a debuffy" # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_LOAD: "Načíst přednastavení" # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_LOAD_TOOLTIP: "Načte dříve uloženou sadu upravených pravidel hry." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_SAVE: "Uložit přednastavení" # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_SAVE_TOOLTIP: "Uloží tuto sadu upravených pravidel pro budoucí použití při startu nových her." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP: "§HVlastní možnosti§!\nNěkterá pravidla v této skupině jsou nakonfigurována nestandardně." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GKlikněte§! pro reset celé skupiny na výchozí nastavení." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP: "§HVýchozí možnosti§!\nKaždé pravidlo v této skupině je nastaveno na výchozí volbu." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_REVERT: "Obnovit" # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP: "Obnoví všechna upravená pravidla na jejich výchozí volby." # todo: NEW TRANSLATION
+ CUSTOM_GAME_SETTINGS_BACK: "Zpět" # todo: NEW TRANSLATION
+ DAILY: "Denně" # todo: NEW TRANSLATION
+ WEEKLY: "Týdně" # todo: NEW TRANSLATION
+ GAMESETUP_SELECT_SCENARIO: "Vyberte scénář nebo načtěte hru" # todo: NEW TRANSLATION
+ INTERESTING_COUNTRIES_OTHER_COUNTRIES: "Na mapu" # todo: NEW TRANSLATION
+ CHAT_WHISPER_TO: "Pro $NAME|H$" # todo: NEW TRANSLATION
+ CHAT_SYSTEM: "Systémová zpráva" # todo: NEW TRANSLATION
+ CHAT_ERROR_UNKNOWNUSER: "Neznámý uživatel." # todo: NEW TRANSLATION
+ FE_CHANGE_SCENARIO_ONLY_SERVER: "§RMůže být změněno pouze hostitelem§!" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_CHEATS: "Žádné cheaty ani modifikované hry/ukládání" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_DIFFICULTY: "Běžná nebo vyšší obtížnost" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_OK: "§HMůžete získat úspěchy!§!" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_MOD_OK: "§HMůžete získat úspěchy i z módů!§!" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_NOT_OK: "§RNelze získat úspěchy.§!" # todo: NEW TRANSLATION
+ ACHIEVEMENTS_MOSTLY_NOT_OK: "§RNelze získat většinu úspěchů.§!" # todo: NEW TRANSLATION
+ diff_strong_ai_generic: "Silnější AI" # todo: NEW TRANSLATION
+ custom_diff_strong_ger: "@GER Posílení Německa" # todo: NEW TRANSLATION
+ custom_diff_strong_ita: "@ITA Posílení Itálie" # todo: NEW TRANSLATION
+ custom_diff_strong_sov: "@SOV Posílení Ruska" # todo: NEW TRANSLATION
+ custom_diff_strong_fra: "@FRA Posílení Francie" # todo: NEW TRANSLATION
+ custom_diff_strong_eng: "@ENG Posílení Spojeného Království" # todo: NEW TRANSLATION
+ custom_diff_strong_usa: "@USA Posílení USA" # todo: NEW TRANSLATION
+ custom_diff_strong_jap: "@JAP Posílení Japonska" # todo: NEW TRANSLATION
+ custom_diff_strong_chi: "@CHI Posílení Číny" # todo: NEW TRANSLATION
+ achievement_has_joined_faction: "Přidal(a) se k frakci" # todo: NEW TRANSLATION
+ achievement_has_dropped_nuke: "Použil(a) jadernou bombu" # todo: NEW TRANSLATION
+ achievement_france_surrender: "Francie kapitulovala" # todo: NEW TRANSLATION
+ achievement_won_spanish_civil_war: "Vyhrál(a) občanskou válku ve Španělsku" # todo: NEW TRANSLATION
+ achievement_failed_sunset_invasion: "Nedodržel(a) pravidla Sunset Invasion." # todo: NEW TRANSLATION
+ achievement_has_nuked_california: "Použil(a) jadernou bombu na Kalifornii." # todo: NEW TRANSLATION
+ achievement_med_plutonium: "Použil(a) jadernou bombu na Dánsku." # todo: NEW TRANSLATION
+ POL_vojtek_commander: "Zjistil(a) jak spustit toto ocenění." # todo: NEW TRANSLATION
+ SAF_released_ANG: "Angola byla uvolněna" # todo: NEW TRANSLATION
+ SAF_released_MZB: "Mozambik byl uvolněn" # todo: NEW TRANSLATION
+ SAF_released_BOT: "Botswana byla uvolněna" # todo: NEW TRANSLATION
+ SAF_released_ZIM: "Zimbabwe bylo uvolněno" # todo: NEW TRANSLATION
+ SAF_released_KEN: "Keňa byla uvolněna" # todo: NEW TRANSLATION
+ SAF_released_COG: "Kongo byl uvolněn" # todo: NEW TRANSLATION
+ achievement_AST_nuke_self: "Použil(a) jadernou bombu na australské jádrové území." # todo: NEW TRANSLATION
+ achievement_EGY_colony: "Dosáhl(a) koloniálního stavu" # todo: NEW TRANSLATION
+ achievement_EGY_dominion: "Dosáhl postavení dominium" # todo: NEW TRANSLATION
+ achievement_EGY_free: "Dosáhl stavu svobody" # todo: NEW TRANSLATION
+ ROM_lost_starting_state: "Rumunsko ztratilo jedno ze svých výchozích států" # todo: NEW TRANSLATION
+ YUG_delcared_war_on_axis_allies: "Vyhlásil(a) válku Ose či Spojencům, když byl(a) v Ose nebo Spojencích" # todo: NEW TRANSLATION
+ achievement_carol_II_is_leader: "Carol II. je současný vůdce země" # todo: NEW TRANSLATION
+ CHAT_ERROR_MUTE_MISSINGARGS: "Neplatná syntaxe, očekáváno: /mute <uživatelské_jméno>" # todo: NEW TRANSLATION
+ CHAT_ERROR_UNMUTE_MISSINGARGS: "Neplatná syntaxe, očekáváno: /unmute <uživatelské_jméno>" # todo: NEW TRANSLATION
+ CHAT_ERROR_MUTEUNMUTE_SELF: "Nelze ztlumit ani zrušit ztlumení sebe sama!" # todo: NEW TRANSLATION
+ CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_SINGULAR: "Příliš často posíláte zprávy. Počkejte §Y1§! sekundu než pošlete další." # todo: NEW TRANSLATION
+ CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL: "Příliš často posíláte zprávy. Počkejte $TIME|Y$ sekund, než pošlete další." # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_DEMAND: "" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_GENERATED: "" # todo: NEW TRANSLATION
+ TOPBAR_COAL_CURRENTLY_USED: "" # todo: NEW TRANSLATION
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "" # todo: NEW TRANSLATION
+ TOPBAR_TOTAL_COAL: "" # todo: NEW TRANSLATION
+ MENU_BAR_GAME_WIKI: "Nahlásit problém" # todo: NEW TRANSLATION

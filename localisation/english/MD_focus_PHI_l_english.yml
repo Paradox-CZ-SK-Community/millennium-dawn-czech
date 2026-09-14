@@ -1,0 +1,277 @@
+﻿l_english:
+ philippines_focus: "Filipínské zaměření" # todo: NEW TRANSLATION
+ phi_milf_exists: "§YMoro Islamic Liberation Front§! je aktivní" # todo: NEW TRANSLATION
+ PHI_milf_defeated: "§YMoro Islamic Liberation Front§! byla poražena" # todo: NEW TRANSLATION
+ PHI_permanent_ceasefire: "V Bangsamoru platí §Ytrvalé příměří§!" # todo: NEW TRANSLATION
+ PHI_npa_exists: "§RNew People's Army§! je aktivní" # todo: NEW TRANSLATION
+ PHI_ended_the_communist_insurgency: "§RKomunistické povstání§! skončilo" # todo: NEW TRANSLATION
+ PHI_anti_dynasty_law_active: "§YZákon proti politickým dynastiím§! je v platnosti" # todo: NEW TRANSLATION
+ PHI_edsa_dos_resolved: "§YKrize EDSA Dos§! byla vyřešena" # todo: NEW TRANSLATION
+ PHI_strength_of_milf_greater_0_tt: "Vyžaduje více než 0% £generic_anarchist_communism_small §Ysíly MILF§!\n" # todo: NEW TRANSLATION
+ PHI_strength_of_milf_equals_0_tt: "Vyžaduje 0% £generic_anarchist_communism_small §Ysíly MILF§!\n" # todo: NEW TRANSLATION
+ PHI_strength_of_milf_below_15_tt: "Vyžaduje méně než 15% £generic_anarchist_communism_small §Ysíly MILF§!\n" # todo: NEW TRANSLATION
+ PHI_strength_of_npa_greater_0_tt: "Vyžaduje více než 0% £generic_Communist_State_small §Rsíly NPA§!\n" # todo: NEW TRANSLATION
+ PHI_strength_of_npa_equals_0_tt: "Vyžaduje 0% £generic_Communist_State_small §Rsíly NPA§!\n" # todo: NEW TRANSLATION
+ PHI_strength_of_npa_below_15_tt: "Vyžaduje méně než 15% £generic_Communist_State_small §Rsíly NPA§!\n" # todo: NEW TRANSLATION
+ PHI_change_milf_strength_tt: "£generic_anarchist_communism_small §YSíla MILF§! se mění o [?temp_change|0+] (současná hodnota: [?PHI.PHI_strength_of_milf|Y0])\n" # todo: NEW TRANSLATION
+ PHI_change_npa_strength_tt: "£generic_Communist_State_small §RSíla NPA§! se mění o [?temp_change|0+] (současná hodnota: [?PHI.PHI_strength_of_npa|Y0])\n" # todo: NEW TRANSLATION
+ PHI_islamism_dynamic_modifier: "Vzestup radikálního islamismu" # todo: NEW TRANSLATION
+ PHI_islamism_dynamic_modifier_tooltip: "Islamismus je součástí Filipín již po staletí. V poslední době se to začalo měnit a jižní část země zažívá extrémní radikalizaci." # todo: NEW TRANSLATION
+ PHI_npa_insurgency_dynamic_modifier: "Protrahovaná lidová válka" # todo: NEW TRANSLATION
+ PHI_npa_insurgency_dynamic_modifier_tooltip: "Komunistická strana Filipín vede od roku 1969 venkovskou partyzánskou válku prostřednictvím své New People's Army. Její kádry vybírají daně ve vesnicích, přepadávají hlídky a soupeří o místní správu na Luzonu, Samaru a východním Mindanau." # todo: NEW TRANSLATION
+ PHI_milf_decisions_category: "Konflikt Moro" # todo: NEW TRANSLATION
+ PHI_milf_decisions_category_desc: "Konflikt Moro označuje sérii ozbrojených střetů v provincii Mindanao. Konflikt Moro začal v důsledku přesídlovací politiky uplatňované na území Filipínského Commonwealthu v roce 1935. Explodoval poté, co bylo v Corregidoru zavražděno 11 muslimských vojenských kadetů. Moro Islamic National Front vznikla krátce poté, v roce 1969, a od té doby je v otevřeném konfliktu s vládními silami.\n £generic_anarchist_communism_small §RSíla MILF:§! [?PHI.PHI_strength_of_milf|20]%" # todo: NEW TRANSLATION
+ PHI_anti_muslim_propaganda: "Protimuslimská propaganda" # todo: NEW TRANSLATION
+ PHI_anti_muslim_propaganda_desc: "Směřovat státní média a veřejná sdělení proti vlivu radikálních islamistických povstaleckých skupin působících na Mindanau." # todo: NEW TRANSLATION
+ PHI_crush_the_moro_insurgency: "Rozdrtit povstání Moro" # todo: NEW TRANSLATION
+ PHI_crush_the_moro_insurgency_desc: "Poté, co byla Moro Islamic Liberation Front zredukována na rozptýlené zbytky, mohou Ozbrojené síly prohlásit tažení na Mindanau za ukončené. Velení nad jižními provinciemi se vrátí civilní vládě a povstání skončí silou zbraní, nikoli vyjednáváním." # todo: NEW TRANSLATION
+ PHI_sign_the_bangsamoro_agreement: "Podepsat dohodu o Bangsamoru" # todo: NEW TRANSLATION
+ PHI_sign_the_bangsamoro_agreement_desc: "Jednání v Kuala Lumpuru zprostředkovaná Malajsií přivedla Frontu k jednacímu stolu. Komplexní dohoda by odzbrojila její bojovníky, nahradila Autonomní oblast muslimského Mindanaa entitou Bangsamoro se skutečnými fiskálními a zákonodárnými pravomocemi a zavázala Manilu k financování přechodu." # todo: NEW TRANSLATION
+ PHI_communist_insurgency_category: "Vzpoura New People's Army" # todo: NEW TRANSLATION
+ PHI_communist_insurgency_category_desc: "Vzpoura New People's Army je nejstarším komunistickým povstáním na světě. NPA bojuje proti filipínské národní vládě nepřetržitě od roku 1969.\n\nJe čas vynaložit úsilí na rozdrcení této vzpoury.\n £generic_Communist_State_small §RSíla NPA:§! [?PHI.PHI_strength_of_npa|20]%" # todo: NEW TRANSLATION
+ PHI_sustained_military_offensive: "Dlouhodobá vojenská ofenzíva" # todo: NEW TRANSLATION
+ PHI_sustained_military_offensive_desc: "Nasadit armádní a četnické jednotky k vyčištění partyzánských front v Sierra Madre, na Samaru a ve vnitrozemí Davau. Razie oslabí New People's Army rychleji než jakákoli jiná metoda, avšak dlouhodobé operace na venkově připraví vládu o podporu venkovského obyvatelstva." # todo: NEW TRANSLATION
+ PHI_peace_and_development_teams: "Týmy míru a rozvoje" # todo: NEW TRANSLATION
+ PHI_peace_and_development_teams_desc: "Nasadit smíšené civilně-vojenské týmy do barangayů pod vlivem partyzánů a spojit výstavbu silnic a škol s prací místní správy. Odepřít povstalcům základnu pro nábor je pomalejší než razie a značně dražší, ale nestojí žádnou stabilitu." # todo: NEW TRANSLATION
+ PHI_amnesty_for_returning_cadres: "Amnestie pro navracející se kádry" # todo: NEW TRANSLATION
+ PHI_amnesty_for_returning_cadres_desc: "Nabídnout právní imunitu, finanční pomoc a podporu obživy bojovníkům, kteří odevzdají zbraně. Masové přeběhnutí vyprázdní partyzánské fronty, avšak omilostnění povstalců připraví vládu o respekt důstojnického sboru a obětí povstání." # todo: NEW TRANSLATION
+ PHI_defeat_the_new_peoples_army: "Porazit New People's Army" # todo: NEW TRANSLATION
+ PHI_defeat_the_new_peoples_army_desc: "Partyzánské fronty byly rozbity a Ústřední výbor je rozptýlen v zahraničí. Prohlášení povstání za vojensky poražené ukončí nejdéle trvající komunistické povstání na světě." # todo: NEW TRANSLATION
+ PHI_conclude_the_oslo_talks: "Uzavřít jednání v Oslu" # todo: NEW TRANSLATION
+ PHI_conclude_the_oslo_talks_desc: "Norští prostředníci udržovali po léta otevřený komunikační kanál s Národní demokratickou frontou. Konečné urovnání by vyměnilo politickou amnestii a závazky k pozemkové reformě za trvalou demobilizaci New People's Army." # todo: NEW TRANSLATION
+ PHI_anti_dynasty_law: "Zákon proti politickým dynastiím" # todo: NEW TRANSLATION
+ PHI_anti_dynasty_law_desc: "Článek II, oddíl 26 ústavy z roku 1987 zakazuje politické dynastie, avšak Kongres nikdy nepřijal prováděcí zákon a rodiny ovládající zákonodárný sbor k tomu nemají důvod. Prosazení zákona by zabránilo příbuzným úřadujících představitelů nastoupit po nich ve funkci, přerušilo vliv provinčních klanů na celostátní politiku a otevřelo vedení každé strany kandidátům mimo velké rodiny." # todo: NEW TRANSLATION
+ PHI_corruption_battle_mechanic_category: "Boj proti korupci" # todo: NEW TRANSLATION
+ PHI_corruption_battle_mechanic_category_desc: "Desetiletí klientelistické politiky, slabé instituce a zakořeněné zájmy zanechaly korupci hluboce zakořeněnou téměř na všech úrovních vlády. Její vymýcení bude vyžadovat dlouhodobá, cílená vyšetřování napříč byrokracií, armádou a soukromým sektorem. Jak se reformy ujmou a instituce posílí, budoucí vyšetřování budou snazší a účinnější.\n\nSoučasná úroveň korupce:  [Root.GetPHI_corruption_tier_number]\nSoučasná síla korupce: [?PHI_corruption_strength|Y0]" # todo: NEW TRANSLATION
+ PHI_change_the_strength_of_corruption_tt: "§YSíla korupce§! se mění o [?temp_change|0+] (současná hodnota: [?PHI.PHI_corruption_strength|Y0])\n" # todo: NEW TRANSLATION
+ PHI_corp_nothing_tt: "§R75%§!: Nic se nestane / byrokratické selhání.\nŽádný pokrok v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_corp_minor_tt: "§Y65%§!: Odhalen menší korupční kruh.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_corp_major_tt: "§Y35%§!: Velký korporátní skandál.\n§G-10§! pokroku v boji proti korupci. §R-2%§! stability." # todo: NEW TRANSLATION
+ PHI_corp_huge_tt: "§G10%§!: Odhalena korupce vysoké hodnoty.\n§G-20§! pokroku v boji proti korupci. §R-5%§! průmyslu na 180 dní." # todo: NEW TRANSLATION
+ PHI_contracts_nothing_tt: "§R70%§!: Nenalezeny žádné důkazy.\nŽádná změna." # todo: NEW TRANSLATION
+ PHI_contracts_minor_tt: "§Y55%§!: Odhaleno menší špatné hospodaření.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_contracts_major_tt: "§Y30%§!: Velká korupce při zadávání zakázek.\n§G-10§! pokroku v boji proti korupci. §R-3%§! rychlosti výstavby." # todo: NEW TRANSLATION
+ PHI_contracts_huge_tt: "§G15%§!: Odhaleno celostátní zpronevěření.\n§G-20§! pokroku v boji proti korupci. §R-2%§! stability." # todo: NEW TRANSLATION
+ PHI_tax_nothing_tt: "§R80%§!: Nebyly nalezeny přesvědčivé důkazy.\nŽádná změna." # todo: NEW TRANSLATION
+ PHI_tax_minor_tt: "§Y50%§!: Odhaleno drobné úplatkářství.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_tax_major_tt: "§Y25%§!: Odhalen kruh celních podvodníků.\n§G-10§! pokroku v boji proti korupci. §R-10%§! daňových příjmů po dobu 2 měsíců." # todo: NEW TRANSLATION
+ PHI_tax_huge_tt: "§G10%§!: Zapojeni nejvyšší představitelé.\n§G-25§! pokroku v boji proti korupci. §R-15%§! zahraničních investic po dobu 6 měsíců." # todo: NEW TRANSLATION
+ PHI_military_nothing_tt: "§R80%§!: Žádné důkazy nebo vše bylo utajeno.\nŽádná změna." # todo: NEW TRANSLATION
+ PHI_military_minor_tt: "§Y60%§!: Přistiženi nižší důstojníci.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_military_major_tt: "§Y25%§!: Zapojen generální štáb.\n§G-10§! pokroku v boji proti korupci. §R-3%§! organizace armády po dobu 90 dní." # todo: NEW TRANSLATION
+ PHI_military_huge_tt: "§G10%§!: Odhalen vysoký vojenský představitel.\n§G-20§! pokroku v boji proti korupci. §R-5%§! stability. §R-5§! armádních zkušeností." # todo: NEW TRANSLATION
+ PHI_purge_nothing_tt: "§R70%§!: Žádné významné výsledky.\nŽádná změna." # todo: NEW TRANSLATION
+ PHI_purge_minor_tt: "§Y60%§!: Nalezena malá síť úplatkářství.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_purge_major_tt: "§Y35%§!: Odhalen velký místní syndikát.\n§G-10§! pokroku v boji proti korupci. §R+1%§! cíle odporu." # todo: NEW TRANSLATION
+ PHI_purge_huge_tt: "§G10%§!: Svržena politická dynastie.\n§G-20§! pokroku v boji proti korupci. §R+2%§! cíle odporu. §G+3%§! stability po 90 dnech." # todo: NEW TRANSLATION
+ PHI_offshore_nothing_tt: "§R85%§!: Nenalezena žádná stopa.\nŽádná změna." # todo: NEW TRANSLATION
+ PHI_offshore_minor_tt: "§Y50%§!: Vystopovány menší účty.\n§G-5§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_offshore_major_tt: "§Y20%§!: Nalezena velká síť praní peněz.\n§G-25§! pokroku v boji proti korupci." # todo: NEW TRANSLATION
+ PHI_offshore_huge_tt: "§G5%§!: Odhaleno zahraniční jmění.\n§G-40§! pokroku v boji proti korupci. §G-10%§! nákladů na zahraniční investice po dobu 6 měsíců." # todo: NEW TRANSLATION
+ PHI_investigate_corporations: "Vyšetřovat korporace" # todo: NEW TRANSLATION
+ PHI_investigate_corporations_desc: "Velké filipínské konglomeráty dlouhodobě udržují úzké vztahy s regulačními orgány a zákonodárci. Zaměřené vyšetřování firemního účetnictví, daňových přiznání a vládních zakázek by mohlo odhalit úplatkářství a zpronevěru, jeho výsledek však závisí na tom, jak hluboce je korupce v současnosti zakořeněná.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_audit_government_contracts: "Prověřit vládní zakázky" # todo: NEW TRANSLATION
+ PHI_audit_government_contracts_desc: "Zakázky na veřejnou infrastrukturu a nákupy jsou nechvalně známými zdroji úplatkářství, přičemž provize a nadsazené faktury odčerpávají prostředky z veřejných projektů. Důkladný audit nedávných zakázek může odhalit podvody, úředníci, kteří mají co skrývat, však budou kontrole vzdorovat.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_inspect_tax_bureau: "Prověřit daňový úřad" # todo: NEW TRANSLATION
+ PHI_inspect_tax_bureau_desc: "Úřad pro vnitřní příjmy sužují obvinění z úplatkářství, tajných dohod a falšování záznamů. Interní kontrola by mohla získat zpět ztracené příjmy a vymýtit zkorumpované agenty, avšak vlastní korupce úřadu může chránit ty nejhorší viníky.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_investigate_the_military: "Vyšetřovat armádu" # todo: NEW TRANSLATION
+ PHI_investigate_the_military_desc: "Skandály kolem nákupů a fiktivní vojáci dlouhodobě vyčerpávají rozpočet Ozbrojených sil Filipín. Vyšetřování vojenských financí riskuje třenice s důstojnickým sborem, úspěšné šetření však může získat zpět ukradené prostředky a obnovit disciplínu v řadách.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_purge_local_officials: "Očistit místní úředníky" # todo: NEW TRANSLATION
+ PHI_purge_local_officials_desc: "Místním správním jednotkám, od provinčních sídel po barangayové úřady, často dominují politické dynastie, které považují veřejné funkce za rodinný podnik. Cílená čistka zkorumpovaných místních úředníků může zlomit jejich moc, zakořeněné dynastie však mohou vzdorovat všemi prostředky.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_trace_offshore_accounts: "Vystopovat zahraniční účty" # todo: NEW TRANSLATION
+ PHI_trace_offshore_accounts_desc: "Nezákonně nabyté jmění z desetiletí úplatkářství bylo často převáděno na zahraniční účty a do fiktivních společností v cizině. Vystopování těchto účtů je pomalé, nákladné a diplomaticky citlivé, úspěšné pátrání však může získat zpět obrovské částky a zasadit těžkou ránu sítím, které je vytvořily.\n\nSoučasná úroveň korupce: [ROOT.GetPHI_corruption_tier_number]" # todo: NEW TRANSLATION
+ PHI_police_investiture: "Investice do policie" # todo: NEW TRANSLATION
+ PHI_police_investiture_desc: "Přesměrovat vládní prostředky na posílení Filipínské národní policie a zlepšit účinnost vyšetřovatelů za cenu vyšších policejních výdajů." # todo: NEW TRANSLATION
+ PHI_police_investiture_active_tt: "Vyšší financování policie je aktivní. Všechna protikorupční vyšetřování mají vyšší šanci na úspěch.\n§R+20%§! nákladů na policii. §R-15§! maximální velitelské síly." # todo: NEW TRANSLATION
+ PHI_corporate_scandal_industry: "Korporátní skandál" # todo: NEW TRANSLATION
+ PHI_corporate_scandal_industry_desc: "Odhalení korupce vysoké hodnoty ve firmách otřáslo důvěrou investorů v náš průmyslový sektor." # todo: NEW TRANSLATION
+ PHI_procurement_scandal_construction: "Skandál kolem zakázek" # todo: NEW TRANSLATION
+ PHI_procurement_scandal_construction_desc: "Odhalení rozsáhlé korupce ve vládních zakázkách zpomalilo výstavbu, protože smlouvy jsou přezkoumávány." # todo: NEW TRANSLATION
+ PHI_customs_fraud_tax: "Odhalené celní podvody" # todo: NEW TRANSLATION
+ PHI_customs_fraud_tax_desc: "Síť celních podvodů narušila výběr daní, zatímco úřad prochází restrukturalizací." # todo: NEW TRANSLATION
+ PHI_tax_scandal_investment: "Skandál daňového úřadu" # todo: NEW TRANSLATION
+ PHI_tax_scandal_investment_desc: "Korupce na nejvyšších místech daňového úřadu odradila zahraniční investory." # todo: NEW TRANSLATION
+ PHI_military_scandal_org: "Vojenský korupční skandál" # todo: NEW TRANSLATION
+ PHI_military_scandal_org_desc: "Korupce v generálním štábu narušila velitelské struktury a soudržnost jednotek." # todo: NEW TRANSLATION
+ PHI_offshore_fortune_investment: "Získané zahraniční prostředky" # todo: NEW TRANSLATION
+ PHI_offshore_fortune_investment_desc: "Zabavená zahraniční aktiva byla znovu investována a otevřela nové kanály zahraničních investic." # todo: NEW TRANSLATION
+ PHI_locked_corruption: "Zakořeněná korupce" # todo: NEW TRANSLATION
+ PHI_locked_corruption_desc: "§RKorupční zákony nelze měnit ručně§!\nLéta klientelistické politiky, byrokratické neefektivity a zakořeněných zvláštních zájmů vetkala korupci do samotné struktury filipínského státu. Veřejné zdroje jsou pravidelně odkláněny, odpovědnost zůstává slabá a mocné osobnosti nadále těží ze statu quo. Skutečné reformy nelze dosáhnout pouhým nařízením. Boj proti korupci bude vyžadovat odhodlaná vyšetřování, silnější instituce a vládu ochotnou postavit se těm, kdo ze systému profitují. " # todo: NEW TRANSLATION
+ PHI_corruption_eradicated: "Čistá správa" # todo: NEW TRANSLATION
+ PHI_corruption_eradicated_desc: "Po letech vytrvalých reforem dosáhly Filipíny něčeho, co je v jejich dějinách vzácné: vlády fungující s opravdovou integritou. Instituce jsou silnější, důvěra veřejnosti byla obnovena a kruh úplatkářství byl prozatím prolomen. Udržení tohoto standardu bude vyžadovat trvalou ostražitost." # todo: NEW TRANSLATION
+ PHI_corruption_event.1.t: "Úroveň korupce snížena" # todo: NEW TRANSLATION
+ PHI_corruption_event.1.d: "Naše neúnavné úsilí přineslo ovoce. Zkorumpované sítě byly rozloženy a byla nastolena nová úroveň odpovědnosti." # todo: NEW TRANSLATION
+ PHI_corruption_event.1.a: "Konečně pokrok." # todo: NEW TRANSLATION
+ PHI_corruption_event.2.t: "Korupce se zhoršuje" # todo: NEW TRANSLATION
+ PHI_corruption_event.2.d: "Navzdory našemu úsilí zkorumpované síly upevnily své sevření. Úplatkářství a korupce se rozšířily ještě hlouběji do státních institucí." # todo: NEW TRANSLATION
+ PHI_corruption_event.2.a: "Musíme si vést lépe." # todo: NEW TRANSLATION
+ PHI_corruption_event.10.t: "Vyšetřování: Podezření na utajování" # todo: NEW TRANSLATION
+ PHI_corruption_event.10.d: "Naši vyšetřovatelé narazili na zeď právníků, zapečetěných dokumentů a náhlé ztráty paměti. Někdo mocný zametá stopy, ale nemůžeme to dokázat." # todo: NEW TRANSLATION
+ PHI_corruption_event.10.a: "Dál je sledujte." # todo: NEW TRANSLATION
+ PHI_corruption_event.11.t: "Vyšetřování: Odhalen korupční kruh" # todo: NEW TRANSLATION
+ PHI_corruption_event.11.d: "Byl odhalen korupční kruh střední úrovně působící v soukromém sektoru. Několik vedoucích pracovníků čelí obviněním a část zpronevěřených prostředků byla získána zpět." # todo: NEW TRANSLATION
+ PHI_corruption_event.11.a: "Stíhat je." # todo: NEW TRANSLATION
+ PHI_corruption_event.12.t: "Vyšetřování: Odhalen korporátní skandál" # todo: NEW TRANSLATION
+ PHI_corruption_event.12.d: "Obrovský korporátní skandál otřásl podnikatelským sektorem. Vedoucí pracovníci se spolčili se státními úředníky, aby odčerpávali veřejné prostředky. Následky otřásly důvěrou investorů." # todo: NEW TRANSLATION
+ PHI_corruption_event.12.a: "Zabavit jejich majetek." # todo: NEW TRANSLATION
+ PHI_corruption_event.13.t: "Vyšetřování: Odhalena korupce vysoké hodnoty" # todo: NEW TRANSLATION
+ PHI_corruption_event.13.d: "Mimořádný objev: síť korupce vysoké hodnoty zasahující až na samý vrchol soukromého sektoru byla zcela odhalena. Zabavují se aktiva v hodnotě miliard." # todo: NEW TRANSLATION
+ PHI_corruption_event.13.a: "Na to se nezapomene." # todo: NEW TRANSLATION
+ PHI_corruption_event.20.t: "Audit: Nenalezeny žádné důkazy" # todo: NEW TRANSLATION
+ PHI_corruption_event.20.d: "Audit nepřinesl nic, s čím by se dalo pracovat. Každá prověřená smlouva na papíře obstála. Buď jsou účetní knihy čisté, nebo je někdo uklidil před naším příchodem." # todo: NEW TRANSLATION
+ PHI_corruption_event.20.a: "Snažili jsme se." # todo: NEW TRANSLATION
+ PHI_corruption_event.21.t: "Audit: Odhaleno špatné hospodaření" # todo: NEW TRANSLATION
+ PHI_corruption_event.21.d: "Auditoři odhalili nedbalé účetnictví a nadsazené faktury napříč několika odděleními. Špatně spravované prostředky byly vymoženy zpět." # todo: NEW TRANSLATION
+ PHI_corruption_event.21.a: "Vyvodit odpovědnost." # todo: NEW TRANSLATION
+ PHI_corruption_event.22.t: "Audit: Odhalena korupce při zadávání zakázek" # todo: NEW TRANSLATION
+ PHI_corruption_event.22.d: "Byla odhalena hluboce zakořeněná síť při zadávání zakázek. Úředníci systematicky přidělovali smlouvy fiktivním společnostem výměnou za provize." # todo: NEW TRANSLATION
+ PHI_corruption_event.22.a: "Rozložit tuto síť." # todo: NEW TRANSLATION
+ PHI_corruption_event.23.t: "Audit: Odhalena celostátní zpronevěra" # todo: NEW TRANSLATION
+ PHI_corruption_event.23.d: "Byl odhalen ohromující zpronevěřovací systém zasahující několik ministerstev. Rozsah krádeží z veřejných pokladen je národním skandálem." # todo: NEW TRANSLATION
+ PHI_corruption_event.23.a: "Tohle nyní končí." # todo: NEW TRANSLATION
+ PHI_corruption_event.30.t: "Daňová kontrola: Žádná zjištění" # todo: NEW TRANSLATION
+ PHI_corruption_event.30.d: "Inspektoři nenašli žádné přímé důkazy pochybení. Agenti spolupracovali a záznamy se zdály být v pořádku. Vyšetřování končí bez výsledku." # todo: NEW TRANSLATION
+ PHI_corruption_event.30.a: "Zpátky do práce." # todo: NEW TRANSLATION
+ PHI_corruption_event.31.t: "Daňová kontrola: Odhaleno úplatkářství" # todo: NEW TRANSLATION
+ PHI_corruption_event.31.d: "Několik nižších daňových agentů bylo přistiženo při přijímání úplatků za snížení vyměřených částek. Byli propuštěni a nedoplatky na daních byly vymoženy." # todo: NEW TRANSLATION
+ PHI_corruption_event.31.a: "Udělat čistku." # todo: NEW TRANSLATION
+ PHI_corruption_event.32.t: "Daňová kontrola: Odhaleny celní podvody" # todo: NEW TRANSLATION
+ PHI_corruption_event.32.d: "Sofistikovaný kruh celních podvodníků byl rozložen. Pašeráci po léta upláceli vysoké agenty, aby propouštěli nezdaněné zásilky." # todo: NEW TRANSLATION
+ PHI_corruption_event.32.a: "Reformovat úřad." # todo: NEW TRANSLATION
+ PHI_corruption_event.33.t: "Daňová kontrola: Zapojeni nejvyšší představitelé" # todo: NEW TRANSLATION
+ PHI_corruption_event.33.d: "Nejvyšší představitelé Úřadu pro vnitřní příjmy byli zapojeni do systémového korupčního schématu. Skandál znepokojil zahraniční investory a otřásl důvěrou veřejnosti." # todo: NEW TRANSLATION
+ PHI_corruption_event.33.a: "Stíhat každého z nich." # todo: NEW TRANSLATION
+ PHI_corruption_event.40.t: "Vojenské vyšetřování: Důkazy byly utajeny" # todo: NEW TRANSLATION
+ PHI_corruption_event.40.d: "Armáda semkla řady. Naši vyšetřovatelé narazili na odmítání spolupráce na každé úrovni. Pokud korupce existuje, byla hluboko pohřbena." # todo: NEW TRANSLATION
+ PHI_corruption_event.40.a: "Vrátíme se." # todo: NEW TRANSLATION
+ PHI_corruption_event.41.t: "Vojenské vyšetřování: Přistiženi důstojníci" # todo: NEW TRANSLATION
+ PHI_corruption_event.41.d: "Několik nižších důstojníků bylo přistiženo při odklánění přídělů paliva a vybavení pro osobní prospěch. Byli postaveni před vojenský soud." # todo: NEW TRANSLATION
+ PHI_corruption_event.41.a: "Spravedlnosti bylo učiněno zadost." # todo: NEW TRANSLATION
+ PHI_corruption_event.42.t: "Vojenské vyšetřování: Zapojen generální štáb" # todo: NEW TRANSLATION
+ PHI_corruption_event.42.d: "Členové generálního štábu byli zapojeni do korupčního kruhu spojeného se zakázkami na obranné vybavení. Skandál narušil velení." # todo: NEW TRANSLATION
+ PHI_corruption_event.42.a: "Očistit řady." # todo: NEW TRANSLATION
+ PHI_corruption_event.43.t: "Vojenské vyšetřování: Odhalen vysoký představitel" # todo: NEW TRANSLATION
+ PHI_corruption_event.43.d: "Vysoký vojenský představitel byl veřejně odhalen při zpronevěře obranných prostředků po mnoho let. Odhalení šokovalo ozbrojené síly i veřejnost." # todo: NEW TRANSLATION
+ PHI_corruption_event.43.a: "Nikdo nestojí nad zákonem." # todo: NEW TRANSLATION
+ PHI_corruption_event.50.t: "Čistka: Žádné významné výsledky" # todo: NEW TRANSLATION
+ PHI_corruption_event.50.d: "Místní úředníci drželi hlavy skloněné a čistka nalezla jen málo, proti čemu by bylo možné zasáhnout. Buď se sítě stáhly do ústraní, nebo byly předem varovány." # todo: NEW TRANSLATION
+ PHI_corruption_event.50.a: "Zkusíme to znovu." # todo: NEW TRANSLATION
+ PHI_corruption_event.51.t: "Čistka: Nalezena síť úplatkářství" # todo: NEW TRANSLATION
+ PHI_corruption_event.51.d: "Malá síť úplatkářství působící v místní byrokracii byla rozložena. Několik úředníků bylo odvoláno z funkcí." # todo: NEW TRANSLATION
+ PHI_corruption_event.51.a: "Dobře jim tak." # todo: NEW TRANSLATION
+ PHI_corruption_event.52.t: "Čistka: Odhalen místní syndikát" # todo: NEW TRANSLATION
+ PHI_corruption_event.52.d: "Byl odhalen velký místní syndikát působící uvnitř regionální vlády. Jeho odstranění narušilo místní mocenské struktury a vyvolalo nepokoje." # todo: NEW TRANSLATION
+ PHI_corruption_event.52.a: "Stabilita bude následovat." # todo: NEW TRANSLATION
+ PHI_corruption_event.53.t: "Čistka: Svržena politická dynastie" # todo: NEW TRANSLATION
+ PHI_corruption_event.53.d: "Byla svržena zakořeněná politická dynastie, která po desetiletí ovládala místní vládu. Její majetek byl zabaven, její stoupenci však zůstávají neklidní." # todo: NEW TRANSLATION
+ PHI_corruption_event.53.a: "Začíná nová éra." # todo: NEW TRANSLATION
+ PHI_corruption_event.60.t: "Pátrání v zahraničí: Nenalezena žádná stopa" # todo: NEW TRANSLATION
+ PHI_corruption_event.60.d: "Naši finanční vyšetřovatelé se dostali do slepé uličky. Každá stopa se rozplynula v anonymních fiktivních společnostech v několika jurisdikcích. Peníze zmizely." # todo: NEW TRANSLATION
+ PHI_corruption_event.60.a: "Ztratili jsme je." # todo: NEW TRANSLATION
+ PHI_corruption_event.61.t: "Pátrání v zahraničí: Nalezeny menší účty" # todo: NEW TRANSLATION
+ PHI_corruption_event.61.d: "Bylo identifikováno a zmrazeno několik menších zahraničních účtů spojených se státními úředníky. Částky jsou skromné, precedens je však významný." # todo: NEW TRANSLATION
+ PHI_corruption_event.61.a: "Zmrazit všechno." # todo: NEW TRANSLATION
+ PHI_corruption_event.62.t: "Pátrání v zahraničí: Odhalena síť praní peněz" # todo: NEW TRANSLATION
+ PHI_corruption_event.62.d: "Velká síť praní peněz převádějící prostředky přes zahraniční účty byla rozložena. Významná částka byla repatriována do filipínské státní pokladny." # todo: NEW TRANSLATION
+ PHI_corruption_event.62.a: "Přivést je domů." # todo: NEW TRANSLATION
+ PHI_corruption_event.63.t: "Pátrání v zahraničí: Odhaleno zahraniční jmění" # todo: NEW TRANSLATION
+ PHI_corruption_event.63.d: "Mimořádný objev: bylo odhaleno a zabaveno obrovské zahraniční jmění patřící vysokým představitelům. Tento neočekávaný zisk je historický a vysílá silný vzkaz." # todo: NEW TRANSLATION
+ PHI_corruption_event.63.a: "Lidé se to dozvědí." # todo: NEW TRANSLATION
+ PHI_corruption_event.99.t: "Obnovena důvěra veřejnosti" # todo: NEW TRANSLATION
+ PHI_corruption_event.99.d: "Po odstranění staré politické dynastie od moci místní komunity pomalu obnovují důvěru ve své instituce. Uchytává se opatrný optimismus." # todo: NEW TRANSLATION
+ PHI_corruption_event.99.a: "Lidé stojí za námi." # todo: NEW TRANSLATION
+ PHI_corruption_event.100.t: "Dokázali jsme to" # todo: NEW TRANSLATION
+ PHI_corruption_event.100.d: "Po letech pečlivého vyšetřování, stíhání a institucionálních reforem dosáhl náš protikorupční boj milníku, který málokdo považoval za možný. Zakořeněné sítě úplatkářství a klientelismu, které kdysi ochromovaly naši vládu, byly rozloženy. Filipíny stojí na prahu nové éry, definované nikoli tím, co úředníci ukradnou, ale tím, co vybudují." # todo: NEW TRANSLATION
+ PHI_corruption_event.100.a: "Dnes začínají nové Filipíny." # todo: NEW TRANSLATION
+ PHI_corruption_event.200.t: "Skandál kolem lobbingu korporací" # todo: NEW TRANSLATION
+ PHI_corruption_event.200.d: "Kolují zvěsti, že velký konglomerát využil tajné dary k ovlivnění nedávné legislativy. Veřejnost si toho všímá a opozice cítí krev." # todo: NEW TRANSLATION
+ PHI_corruption_event.200.a: "Ignorovat to. Nemůžeme bojovat se všemi." # todo: NEW TRANSLATION
+ PHI_corruption_event.200.b: "Zahájit omezený audit." # todo: NEW TRANSLATION
+ PHI_corruption_event.200.c: "Veřejně je odsoudit." # todo: NEW TRANSLATION
+ PHI_corruption_event.201.t: "Fiktivní projekty" # todo: NEW TRANSLATION
+ PHI_corruption_event.201.d: "Parlamentní zpráva odhalila několik státem financovaných infrastrukturních projektů, po jejichž dokončení není ani stopy: žádné postavené silnice, žádné stojící budovy, žádní najatí dělníci. Peníze jednoduše zmizely." # todo: NEW TRANSLATION
+ PHI_corruption_event.201.a: "Zametat to pod koberec." # todo: NEW TRANSLATION
+ PHI_corruption_event.201.b: "Obvinit místní úředníky." # todo: NEW TRANSLATION
+ PHI_corruption_event.201.c: "Zahájit oficiální vyšetřování." # todo: NEW TRANSLATION
+ PHI_corruption_event.202.t: "Daňový únik" # todo: NEW TRANSLATION
+ PHI_corruption_event.202.d: "Whistleblower vystoupil s důkazy, že se nejvyšší vládní představitelé vyhýbají placení daní prostřednictvím sítě falešných fiktivních společností. Dokumenty již kolují v tisku." # todo: NEW TRANSLATION
+ PHI_corruption_event.202.a: "Vyřešit to potichu." # todo: NEW TRANSLATION
+ PHI_corruption_event.202.b: "Udělat z nich odstrašující příklad." # todo: NEW TRANSLATION
+ PHI_corruption_event.202.c: "Nabídnout shovívavost výměnou za spolupráci." # todo: NEW TRANSLATION
+ PHI_corruption_event.203.t: "Podvod při vojenských nákupech" # todo: NEW TRANSLATION
+ PHI_corruption_event.203.d: "Vyšetřování odhalilo chybějící zásilky zbraní určené Ozbrojeným silám Filipín. Faktury byly podepsány, dodávky zaznamenány, vybavení však není nikde k nalezení." # todo: NEW TRANSLATION
+ PHI_corruption_event.203.a: "Odmítnout tato obvinění." # todo: NEW TRANSLATION
+ PHI_corruption_event.203.b: "Potrestat několik obětních beránků." # todo: NEW TRANSLATION
+ PHI_corruption_event.203.c: "Zahájit úplné vyšetřování." # todo: NEW TRANSLATION
+ PHI_corruption_event.204.t: "Provinční mafiánské sítě" # todo: NEW TRANSLATION
+ PHI_corruption_event.204.d: "Policejní zpravodajské zprávy potvrdily to, co mnozí místní již věděli: několik provinčních a barangayových úředníků aktivně spolupracuje s organizovanými zločineckými syndikáty. Ochranné peníze si předávají na všech úrovních." # todo: NEW TRANSLATION
+ PHI_corruption_event.204.a: "Ignorovat to." # todo: NEW TRANSLATION
+ PHI_corruption_event.204.b: "Veřejně je zatknout." # todo: NEW TRANSLATION
+ PHI_corruption_event.204.c: "Nahradit je loajalisty." # todo: NEW TRANSLATION
+ PHI_corruption_event.205.t: "Zahraniční systém provizí" # todo: NEW TRANSLATION
+ PHI_corruption_event.205.d: "Objevily se důkazy, že zahraniční stavební a energetické společnosti uplácely vysoké představitele, aby získaly lukrativní vládní zakázky. Stopa na papíře vede až do hlavního města." # todo: NEW TRANSLATION
+ PHI_corruption_event.205.a: "Všechno popřít." # todo: NEW TRANSLATION
+ PHI_corruption_event.205.b: "Uvalit na ně potichu sankce." # todo: NEW TRANSLATION
+ PHI_corruption_event.205.c: "Udělat veřejný příklad." # todo: NEW TRANSLATION
+ PHI_corruption_event.206.t: "Byrokratický rozklad" # todo: NEW TRANSLATION
+ PHI_corruption_event.206.d: "Drobná korupce se ve vládních úřadech stále více normalizuje. Úředníci očekávají obálky. Inspektoři potřebují přesvědčit. Povolení mají cenu přesahující jejich oficiální poplatek. Kultura drobné korupce narušuje důvěru v instituce." # todo: NEW TRANSLATION
+ PHI_corruption_event.206.a: "Nechat jim jejich malé výhody." # todo: NEW TRANSLATION
+ PHI_corruption_event.206.b: "Vydat symbolické reformy." # todo: NEW TRANSLATION
+ PHI_corruption_event.206.c: "Přeložit několik úředníků." # todo: NEW TRANSLATION
+ PHI_corruption_number_01: "(1) Zanedbatelná korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_02: "(2) Mírná korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_03: "(3) Umírněná korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_04: "(4) Střední korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_05: "(5) Rozšířená korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_06: "(6) Systémová korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_07: "(7) Neomezená korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_08: "(8) Bujná korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_09: "(9) Ochromující korupce" # todo: NEW TRANSLATION
+ PHI_corruption_number_10: "(10) Paralyzující korupce" # todo: NEW TRANSLATION
+ PHI_corruption_strength_exact_tt: "§YSíla korupce§! snížena o §R[?PHI_corruption_roll|0]§! (současná hodnota: §Y[?PHI_corruption_strength|0]§!)" # todo: NEW TRANSLATION
+ PHI_edsa_dos_category: "Krize EDSA Dos" # todo: NEW TRANSLATION
+ PHI_edsa_dos_category_desc: "Obvinění z korupce destabilizovala vládu. Impeachmentové řízení ochromilo správu země. Lidé sledují situaci a jsou stále netrpělivější. Proveďte rozhodnutí §YOtevřít druhou obálku§! před vypršením časovače." # todo: NEW TRANSLATION
+ PHI_the_people_grow_disillusioned: "Lidé ztrácejí iluze..." # todo: NEW TRANSLATION
+ PHI_the_people_grow_disillusioned_desc: "Hlasování senátu o potlačení klíčových důkazů impeachmentu rozhořčilo veřejnost. Statisíce lidí míří ke svatyni EDSA. Čas se krátí." # todo: NEW TRANSLATION
+ PHI_open_the_second_envelope: "Otevřít druhou obálku" # todo: NEW TRANSLATION
+ PHI_open_the_second_envelope_desc: "Navzdory hlasování senátu v poměru 11–10 o potlačení důkazů stále máme možnost povolit otevření kontroverzních důkazů. Politicky nám to uškodí, může to však být jediný způsob, jak zachovat důvěru v instituce a zabránit pádu vlády." # todo: NEW TRANSLATION
+ PHI_edsa_corruption_below_55_tt: "§YSíla korupce§! musí být nižší než §Y55§! (současná hodnota: [?PHI.PHI_corruption_strength|Y0])" # todo: NEW TRANSLATION
+ PHI_edsa_stability_above_60_tt: "§YStabilita§! musí být vyšší než §Y60%§!" # todo: NEW TRANSLATION
+ PHI_edsa_dos_impeachment_atmosphere: "Paralýza impeachmentem" # todo: NEW TRANSLATION
+ PHI_edsa_dos_impeachment_atmosphere_desc: "Impeachmentové řízení dominuje každému zpravodajství. Politický kapitál denně mizí, zatímco národ sleduje vládu bojující o přežití." # todo: NEW TRANSLATION
+ PHI_edsa_dos_recovery_spirit: "Stabilizace po EDSA" # todo: NEW TRANSLATION
+ PHI_edsa_dos_recovery_spirit_desc: "Nová vláda převzala moc za mimořádných okolností. Přísliby reforem vyvolávají opatrný optimismus veřejnosti, hluboká politická zranění však přetrvávají." # todo: NEW TRANSLATION
+ PHI.1.t: "Vypuká skandál Juetengate" # todo: NEW TRANSLATION
+ PHI.1.d: "Whistleblower vystoupil s obviněním, že prezident Joseph Estrada a členové jeho nejužšího kruhu přijali miliony na úplatcích z juetengu. Veřejné pobouření rychle roste, protože zprávy médií odhalují hlubší vrstvy korupce uvnitř vlády. Opoziční představitelé, církevní vůdci a organizace občanské společnosti začali pořádat demonstrace požadující, aby se vláda zodpovídala. S rostoucím napětím v celé zemi se nyní musí vláda rozhodnout, jak na sílící nepokoje odpoví. Nebo bude čelit úplnému konci své vlády." # todo: NEW TRANSLATION
+ PHI.1.a: "Tohle může přerůst v něco většího..." # todo: NEW TRANSLATION
+ PHI_edsa_dos_tt: "§YPrezident Joseph Estrada byl přistižen při nakládání s nelegálními penězi a lidé vycházejí do ulic. Pokud to nevyřešíme§!, §Rmůže to znamenat konec celé naší vlády, jak ji známe§!." # todo: NEW TRANSLATION
+ PHI.2.t: "Konec cesty" # todo: NEW TRANSLATION
+ PHI.2.d: "Začalo to odchodem ze soudní síně. Když senát hlasoval v poměru 11–10 o potlačení klíčových důkazů impeachmentu, celý žalobní tým opustil soudní síň. Během několika hodin začaly statisíce Filipínců proudit ke svatyni EDSA v masové demonstraci připomínající původní Lidovou mocenskou revoluci z roku 1986. Během několika dnů Ozbrojené síly Filipín a Filipínská národní policie stáhly svou podporu vládě. Ministři kabinetu hromadně rezignovali. Předseda Nejvyššího soudu Hilario Davide Jr. složil přísahu viceprezidentce Glorii Macapagal-Arroyo. Joseph Estrada opustil palác Malacañang, aniž by formálně rezignoval. Začíná nová kapitola." # todo: NEW TRANSLATION
+ PHI.2.a: "Lid promluvil." # todo: NEW TRANSLATION
+ PHI.3.t: "Inaugurace Glorie Macapagal Arroyo" # todo: NEW TRANSLATION
+ PHI.3.d: "Poté, co Joseph Estrada opustil úřad prezidenta Filipín, byla Gloria Arroyo, viceprezidentka Josepha Estrady ze strany Lakas-CMD £PHI_conservatism, uvedena do úřadu jako čtrnáctá prezidentka Filipín. Někteří mohou tvrdit, že Arroyové nástup do prezidentského úřadu byl nelegitimní, lidé se však radují, protože další zkorumpovaný vůdce byl svržen vlnou revoluce a protestů. Ačkoli bude zotavení vlády Arroyo nějakou dobu trvat, změna je možná konečně ve vzduchu, neboť Arroyo slibuje zacelit rány po svrženém prezidentovi." # todo: NEW TRANSLATION
+ PHI.3.a: "Ve vzduchu možná visí změna." # todo: NEW TRANSLATION
+ PHI.4.t: "Druhá obálka je otevřena" # todo: NEW TRANSLATION
+ PHI.4.d: "Po dnech politických nepokojů senát hlasoval pro otevření kontroverzní „Druhé obálky“. To, co se mělo stát rozhodujícím okamžikem impeachmentového řízení, místo toho přináší národu krátký pocit úlevy. Důkazy nyní vstupují do soudního procesu, žalobci opouštějí plány na hromadný odchod a volání po další Lidové mocenské revoluci rychle ztrácí na síle.\nPrezident Joseph Estrada přežil politickou bouři dne, jeho vláda však zůstává hluboce zraněná. Obvinění z korupce nadále dominují titulkům, finanční trhy zůstávají neklidné a spojenci i odpůrci chápou, že bitva impeachmentu zdaleka neskončila. Vláda se vyhnula zhroucení, její budoucnost však nyní zcela závisí na výsledku řízení." # todo: NEW TRANSLATION
+ PHI.4.a: "Republika zatím drží..." # todo: NEW TRANSLATION
+ PHI.5.t: "Tažení na Mindanau končí" # todo: NEW TRANSLATION
+ PHI.5.d: "Poslední organizované základny Moro Islamic Liberation Front byly obsazeny. Z Fronty zůstala hrstka uprchlých velitelů bez území, příjmů či velitelské struktury schopné je koordinovat. Jižní velitelství předalo odpovědnost za znovu získané obce zpět civilním úřadům a Ozbrojené síly snižují stav na posádkovou úroveň.\n\nPovstání končí bez podpisu jakéhokoli dokumentu. Zda s ním skončily i křivdy, které ho vytvořily, je zcela jiná otázka." # todo: NEW TRANSLATION
+ PHI.5.a: "Mindanao je pod naší kontrolou." # todo: NEW TRANSLATION
+ PHI.6.t: "Komplexní dohoda o Bangsamoru" # todo: NEW TRANSLATION
+ PHI.6.d: "Po letech vyjednávání zprostředkovaného Malajsií vláda a Moro Islamic Liberation Front podepsaly komplexní dohodu. Fronta pod nezávislým dohledem vyřadí své zbraně a bojovníky z činnosti. Autonomní oblast muslimského Mindanaa výměnou ustoupí entitě Bangsamoro s vlastním parlamentem, stanoveným podílem na národních příjmech a pravomocí spravovat své vnitřní záležitosti.\n\nPřechod bude Manilu stát značné množství peněz a část suverenity nad jihem. Zároveň ukončí čtyři desetiletí války." # todo: NEW TRANSLATION
+ PHI.6.a: "Mír za tu cenu stojí." # todo: NEW TRANSLATION
+ PHI.7.t: "Nejdelší povstání je zlomeno" # todo: NEW TRANSLATION
+ PHI.7.d: "Partyzánské fronty New People's Army byly rozloženy jednu oblast po druhé. Její regionální výbory byly zajaty nebo rozprášeny, venkovské sítě výběru daní rozbity a zbytky Ústředního výboru z exilu v Nizozemsku nic neřídí.\n\nKomunistická strana Filipín zahájila svou protrahovanou lidovou válku v roce 1969. Přežila Marcosovu diktaturu, čtyři prezidenty a každý mírový proces, o který se od té doby někdo pokusil. Tento proces však nepřežije." # todo: NEW TRANSLATION
+ PHI.7.a: "Padesát let války je u konce." # todo: NEW TRANSLATION
+ PHI.8.t: "Urovnání v Oslu" # todo: NEW TRANSLATION
+ PHI.8.d: "Norská vláda hostila poslední kolo jednání mezi Manilou a Národní demokratickou frontou. Dohoda poskytuje amnestii politickým vězňům a zavazuje vládu k programu pozemkové reformy a investic na venkově. New People's Army na oplátku trvale demobilizuje a Fronta bude o moc usilovat prostřednictvím legálních stran.\n\nTvrďáci na obou stranách dohodu odsuzují. Ani jedna strana však nemá síly pokračovat bez té druhé." # todo: NEW TRANSLATION
+ PHI.8.a: "Válka končí u jednacího stolu." # todo: NEW TRANSLATION
+ PHI.9.t: "Zákon proti politickým dynastiím prošel" # todo: NEW TRANSLATION
+ PHI.9.d: "Navzdory všem očekáváním přijal Kongres prováděcí zákon k článku II, oddílu 26 ústavy. Příbuzní úřadujících představitelů do druhého stupně příbuzenství nesmějí po nich nastoupit do úřadu ani současně zastávat funkci ve stejné jurisdikci.\n\nProvinční klany, které po generace dodávaly guvernéry, kongresmany a prezidenty, nyní čelí volební mapě, kterou nemohou zdědit. Vedení stran je otevřeno kandidátům bez rodinného zázemí a mnoho politických kariér skončilo v okamžiku, kdy prezident zákon podepsal." # todo: NEW TRANSLATION
+ PHI.9.a: "Rodiny nevlastní Republiku." # todo: NEW TRANSLATION
+ PHI_news.1.t: "Estrada sesazen ve druhé Lidové mocenské revoluci" # todo: NEW TRANSLATION
+ PHI_news.1.d: "Prezident Joseph Estrada byl po dnech masových demonstrací donucen opustit úřad a zhroucení impeachmentového řízení vyvolalo v Manile politickou krizi. Když Ozbrojené síly a Filipínská národní policie stáhly podporu obléhanému prezidentovi, viceprezidentka Gloria Macapagal Arroyo složila přísahu a ukončila vládu Estrady. Vlády napříč Asií uvítaly pokojné předání moci a zároveň pozorně sledují politickou budoucnost Filipín." # todo: NEW TRANSLATION
+ PHI_news.1.a: "Dramatický konec Estradova prezidentství." # todo: NEW TRANSLATION
+ PHI_news.2.t: "Estrada přežil krizi" # todo: NEW TRANSLATION
+ PHI_news.2.d: "Filipínský prezident Joseph Estrada jen těsně překonal nejzávažnější politickou krizi svého prezidentství. Poté, co senát hlasoval pro přijetí kontroverzní Druhé obálky jako důkazu, impeachmentové řízení pokračovalo namísto zhroucení v politický chaos.\nRozhodnutí dočasně zmírnilo obavy z masových demonstrací a dalšího hnutí Lidové moci a umožnilo Estradovi zůstat ve funkci, zatímco soudní proces pokračuje. Navzdory této úlevě obvinění z korupce nadále vrhají na vládu dlouhý stín a zahraniční vlády i finanční trhy zůstávají nejisté ohledně politické budoucnosti země." # todo: NEW TRANSLATION
+ PHI_news.2.a: "Estrada zůstává u moci." # todo: NEW TRANSLATION

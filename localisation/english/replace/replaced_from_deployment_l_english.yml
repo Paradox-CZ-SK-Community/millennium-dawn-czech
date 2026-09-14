@@ -1,28 +1,36 @@
 ﻿l_english:
-  DIVISION_QUEUED: "$N$ jednotka" # todo: NEW TRANSLATION
-  DIVISIONS_QUEUED: "$N$ jednotky" # todo: NEW TRANSLATION
-  ARMY_LEDGER_ARMIES: "Jednotky" # todo: NEW TRANSLATION
-  ARMY_LEDGER_THRESHOLD_EQUIPMENT_RATIO: "Splněný poměr vybavení u nasazených jednotek" # todo: NEW TRANSLATION
-  ARMY_LEDGER_THRESHOLD_BASIC_TEMPLATE_INFO: "Seznam šablon jednotek" # todo: NEW TRANSLATION
-  ARMY_LEDGER_THRESHOLD_FUZZY_TEMPLATE_COUNT: "Přibližné počty jednotek na šablonu" # todo: NEW TRANSLATION
-  ARMY_LEDGER_THRESHOLD_TEMPLATE_COUNT: "Počty jednotek na šablonu" # todo: NEW TRANSLATION
-  TRIGGER_DIVISIONS_MORE_THAN: "Má více než $AMOUNT|H$ jednotek" # todo: NEW TRANSLATION
-  TRIGGER_DIVISIONS_LESS_THAN: "Má alespoň $AMOUNT|H$ jednotek" # todo: NEW TRANSLATION
-  TRIGGER_DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
-  DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
-  DIVISIONS_COUNTRY: "§T$COUNTRY|H$ má $VAL|H$ jednotek§!" # todo: NEW TRANSLATION
-  ARMY_TAB: "Jednotky" # todo: NEW TRANSLATION
-  ARMY_ARMY_LABEL: "Přehled jednotek" # todo: NEW TRANSLATION
-  TOPBAR_ARMY_DESC: "Zobrazit přehled vašich jednotek." # todo: NEW TRANSLATION
-  COMBAT_COMMITED_LABEL: "$COUNT$ jednotek" # todo: NEW TRANSLATION
-  ARMY_ARMY_LABEL: "Přehled jednotek" # todo: NEW TRANSLATION
-  ARMY_DIVISONS_TAB: "§YJednotky§!" # todo: NEW TRANSLATION
-  ARMY_DIVISIONS_ACTIVE: "$N$ bojových jednotek" # todo: NEW TRANSLATION
-  ARMY_DIVISIONS_BUTTON: "§GKlikněte§! pro výběr.\n§GKlikněte§! při §Hpodržení Shiftu§! pro výběr více jednotek.\n§GKlikněte pravým tlačítkem§! pro přesunutí zobrazení na jednotku." # todo: NEW TRANSLATION
-  EXP_MULTIPLE_DIVISIONS: "$COUNT$/$TOTAL$ jednotek" # todo: NEW TRANSLATION
-  EXP_SINGLE_DIVISION: "1 jednotka" # todo: NEW TRANSLATION
-  VOL_MULTIPLE_DIVISIONS: "$COUNT$ jednotek" # todo: NEW TRANSLATION
-  VOL_SINGLE_DIVISION: "1 jednotka" # todo: NEW TRANSLATION
-  LEDGER_DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
-  REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT: "$NUM_DIVS|Y$ celkem jednotek" # todo: NEW TRANSLATION
-  UNITS_VIEW_DIVISIONS_COUNT: "$DIV|G$ jednotek" # todo: NEW TRANSLATION
+ DIVISION_QUEUED: "$N$ jednotka" # todo: NEW TRANSLATION
+ DIVISIONS_QUEUED: "$N$ jednotky" # todo: NEW TRANSLATION
+ ARMY_LEDGER_ARMIES: "Jednotky" # todo: NEW TRANSLATION
+ ARMY_LEDGER_THRESHOLD_EQUIPMENT_RATIO: "Splněný poměr vybavení u nasazených jednotek" # todo: NEW TRANSLATION
+ ARMY_LEDGER_THRESHOLD_BASIC_TEMPLATE_INFO: "Seznam šablon jednotek" # todo: NEW TRANSLATION
+ ARMY_LEDGER_THRESHOLD_FUZZY_TEMPLATE_COUNT: "Přibližné počty jednotek na šablonu" # todo: NEW TRANSLATION
+ ARMY_LEDGER_THRESHOLD_TEMPLATE_COUNT: "Počty jednotek na šablonu" # todo: NEW TRANSLATION
+ TRIGGER_DIVISIONS_MORE_THAN: "Má více než $AMOUNT|H$ jednotek" # todo: NEW TRANSLATION
+ TRIGGER_DIVISIONS_LESS_THAN: "Má alespoň $AMOUNT|H$ jednotek" # todo: NEW TRANSLATION
+ TRIGGER_DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
+ DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
+ DIVISIONS_COUNTRY: "§T$COUNTRY|H$ má $VAL|H$ jednotek§!" # todo: NEW TRANSLATION
+ ARMY_TAB: "Jednotky" # todo: NEW TRANSLATION
+ TOPBAR_ARMY_DESC: "Zobrazit přehled vašich jednotek." # todo: NEW TRANSLATION
+ COMBAT_COMMITED_LABEL: "$COUNT$ jednotek" # todo: NEW TRANSLATION
+ ARMY_ARMY_LABEL: "Přehled jednotek" # todo: NEW TRANSLATION
+ ARMY_DIVISONS_TAB: "§YJednotky§!" # todo: NEW TRANSLATION
+ ARMY_DIVISIONS_ACTIVE: "$N$ bojových jednotek" # todo: NEW TRANSLATION
+ ARMY_DIVISIONS_BUTTON: "§GKlikněte§! pro výběr.\n§GKlikněte§! při §Hpodržení Shiftu§! pro výběr více jednotek.\n§GKlikněte pravým tlačítkem§! pro přesunutí zobrazení na jednotku." # todo: NEW TRANSLATION
+ EXP_MULTIPLE_DIVISIONS: "$COUNT$/$TOTAL$ jednotek" # todo: NEW TRANSLATION
+ EXP_SINGLE_DIVISION: "1 jednotka" # todo: NEW TRANSLATION
+ VOL_MULTIPLE_DIVISIONS: "$COUNT$ jednotek" # todo: NEW TRANSLATION
+ VOL_SINGLE_DIVISION: "1 jednotka" # todo: NEW TRANSLATION
+ LEDGER_DIVISIONS: "Jednotky" # todo: NEW TRANSLATION
+ REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT: "$NUM_DIVS|Y$ celkem jednotek" # todo: NEW TRANSLATION
+ UNITS_VIEW_DIVISIONS_COUNT: "$DIV|G$ jednotek" # todo: NEW TRANSLATION
+ group_militia_title: "Milicní roty" # todo: NEW TRANSLATION
+ group_airborne_infantry_title: "Výsadkové roty" # todo: NEW TRANSLATION
+ group_airmobile_title: "Leteckomobilní roty" # todo: NEW TRANSLATION
+ group_special_forces_title: "Rangerské roty/roty speciálních operací" # todo: NEW TRANSLATION
+ group_marine_infantry_title: "Námořní pěchotní roty" # todo: NEW TRANSLATION
+ group_infantry_title: "Pěší roty" # todo: NEW TRANSLATION
+ group_mobile_title: "Motorizované roty" # todo: NEW TRANSLATION
+ group_armor_title: "Mechanizované/obrněné roty" # todo: NEW TRANSLATION
+ group_combat_support_title: "Roty bojové podpory" # todo: NEW TRANSLATION

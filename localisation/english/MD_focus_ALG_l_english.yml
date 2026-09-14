@@ -1,0 +1,989 @@
+﻿l_english:
+ algeria_focus: "Alžírský strom zaměření" # todo: NEW TRANSLATION
+ ALG_political_tree_shortcut: "Politický strom" # todo: NEW TRANSLATION
+ ALG_foreign_policy_shortcut: "Zahraniční politika" # todo: NEW TRANSLATION
+ ALG_industry_shortcut: "Hospodářská obnova" # todo: NEW TRANSLATION
+ ALG_military_shortcut: "Alžírské ozbrojené síly" # todo: NEW TRANSLATION
+ ALG_the_nation_stands_at_a_crossroads: "Národ stojí na rozcestí" # todo: NEW TRANSLATION
+ ALG_the_nation_stands_at_a_crossroads_desc: "Alžírsko vychází z Černé dekády zjizvené. Více než 200 000 mrtvých, celé vesnice srovnané se zemí a ekonomika zničená občanskou válkou. Prezident Bouteflika vsadil svůj mandát na Občanskou shodu, nabízí ozbrojencům amnestii a slibuje reformy. Za ním však stojí le Pouvoir, tajemná síť generálů a zpravodajských důstojníků, kteří vládnou Alžírsku od získání nezávislosti. Budoucnost patří tomu, kdo ovládne to, co přijde." # todo: NEW TRANSLATION
+ ALG_restore_the_presidency_desc: "Po politických otřesech bylo prezidentské úřadování oslabeno. Je čas obnovit autoritu našeho zvoleného vůdce a znovu zavést demokratické normy, které byly narušeny. Obnovením prezidentského úřadu můžeme naší vládě vrátit stabilitu a důvěru." # todo: NEW TRANSLATION
+ ALG_emergency_rule_continues: "§RVýjimečný stav pokračuje§!" # todo: NEW TRANSLATION
+ ALG_emergency_rule_continues_desc: "Protože národ stále prochází nepokoji, vláda se rozhodla prodloužit výjimečný stav. Ačkoli je toto opatření nezbytné pro udržení pořádku, přichází za cenu občanských svobod a demokratických procesů. Při plavbě těmito rozbouřenými vodami musíme postupovat obezřetně." # todo: NEW TRANSLATION
+ ALG_national_reconciliation: "Národní usmíření" # todo: NEW TRANSLATION
+ ALG_national_reconciliation_desc: "Abychom zacelili rány rozdělení a konfliktu, musíme se vydat cestou národního usmíření. Podporou dialogu mezi všemi frakcemi a řešením jejich křivd můžeme vybudovat jednotnější společnost a položit základy trvalého míru." # todo: NEW TRANSLATION
+ ALG_moderate_islamist_talks: "Jednání s umírněnými islamisty" # todo: NEW TRANSLATION
+ ALG_moderate_islamist_talks_desc: "Ve snaze překlenout rozdělení a podpořit stabilitu zahajujeme jednání s umírněnými islamistickými frakcemi. Konstruktivním dialogem chceme najít společnou půdu a vytvořit politické prostředí, v němž mohou rozmanité hlasy pokojně soužít." # todo: NEW TRANSLATION
+ ALG_charter_for_civil_peace: "Charta občanského míru" # todo: NEW TRANSLATION
+ ALG_charter_for_civil_peace_desc: "Pro zajištění trvalé stability a společenské harmonie navrhujeme Chartu občanského míru. Tento dokument vymezí práva a povinnosti všech občanů a podpoří toleranci, porozumění a spolupráci mezi různými skupinami v naší společnosti." # todo: NEW TRANSLATION
+ ALG_open_democratic_path: "Otevřít demokratickou cestu" # todo: NEW TRANSLATION
+ ALG_open_democratic_path_desc: "Je čas plně přijmout demokracii a otevřít cestu ke světlejší budoucnosti. Zavedením reforem, které posílí naše občany a podpoří politickou účast, můžeme vytvořit živou demokratickou společnost odrážející vůli lidu." # todo: NEW TRANSLATION
+ ALG_clamp_down_on_extremism: "Tvrdě zakročit proti extremismu" # todo: NEW TRANSLATION
+ ALG_clamp_down_on_extremism_desc: "Pomocí vojenských tribunálů a zpravodajských sil vláda odstraní všechny zbývající radikální islamistické a politické hrozby." # todo: NEW TRANSLATION
+ ALG_counterterrorism_program: "Protiteroristický program" # todo: NEW TRANSLATION
+ ALG_counterterrorism_program_desc: "Musíme vytvořit moderní bezpečnostní aparát, který bude sledovat, infiltrovat a likvidovat hrozby dříve, než destabilizují Alžírsko." # todo: NEW TRANSLATION
+ ALG_authoritarian_restoration: "Obnova autoritářství" # todo: NEW TRANSLATION
+ ALG_authoritarian_restoration_desc: "Stabilitu lze zaručit pouze pevnou, centralizovanou vládou. Armáda převezme plnou odpovědnost za budoucnost národa." # todo: NEW TRANSLATION
+ ALG_counterterrorism_agency: "Protiteroristická agentura" # todo: NEW TRANSLATION
+ ALG_counterterrorism_agency_desc: "Département du Renseignement et de la Sécurité (DRS) byl po občanské válce znovu vybudován z pozůstatků staré vojenské zpravodajské služby Sécurité Militaire (SM). DRS, který fungoval téměř zcela nezávisle na civilním dohledu, se stal nejmocnější institucí v Alžírsku, obávanější než samotné předsednictví." # todo: NEW TRANSLATION
+ ALG_extremism_crackdown_modifier: "Tvrdý zásah proti extremismu" # todo: NEW TRANSLATION
+ ALG_extremism_crackdown_modifier_desc: "V reakci na rostoucí hrozby extremistických skupin, které se snaží destabilizovat náš národ, zavádíme rozsáhlý zásah proti radikalismu. Tato iniciativa má za cíl rozložit extremistické sítě, posílit dohled a zlepšit schopnosti donucovacích orgánů. Podporou kultury tolerance a porozumění chceme řešit kořeny extremismu a zároveň zajistit bezpečnost našich občanů. Těmito opatřeními vytvoříme soudržnější společnost a ochráníme naše demokratické hodnoty." # todo: NEW TRANSLATION
+ ALG_military_regime_restored: "Obnovena vojenská vláda" # todo: NEW TRANSLATION
+ ALG_military_regime_restored_desc: "Po letech politické nestability armáda znovu získala kontrolu a obnovila pořádek. Režim se zaměřuje na disciplínu, národní bezpečnost a přísnou správu, aby obnovil sílu a jednotu národa." # todo: NEW TRANSLATION
+ ALG_reconciliation_path_category: "Národní usmíření" # todo: NEW TRANSLATION
+ ALG_reconciliation_path_category_desc: "\n£AFG_menu1\n\n\n\nAbychom zacelili rány rozdělení a konfliktu, musíme se vydat cestou národního usmíření. Podporou dialogu mezi všemi frakcemi a řešením jejich křivd můžeme vybudovat jednotnější společnost a položit základy trvalého míru." # todo: NEW TRANSLATION
+ ALG_pardon_moderate_islamist: "Pardonovat umírněné islamisty" # todo: NEW TRANSLATION
+ ALG_pardon_moderate_islamist_desc: "Bývalým nenásilným islamistům může být nabídnuta podmíněná amnestie výměnou za odzbrojení a zřeknutí se politického násilí." # todo: NEW TRANSLATION
+ ALG_initiate_national_dialogues: "Zahájit národní dialog" # todo: NEW TRANSLATION
+ ALG_initiate_national_dialogues_desc: "Bude zahájeno národní fórum, které zapojí bývalé povstalce, politické strany a občanskou společnost do budování nového Alžírska." # todo: NEW TRANSLATION
+ ALG_reintegrate_former_fighter: "Reintegrovat bývalé bojovníky" # todo: NEW TRANSLATION
+ ALG_reintegrate_former_fighter_desc: "Program reintegrace odevzdaných povstalců do civilního života prostřednictvím práce, bydlení nebo národní služby." # todo: NEW TRANSLATION
+ ALG_crackdown_category: "Autoritářské represe" # todo: NEW TRANSLATION
+ ALG_crackdown_category_desc: "\n£TAJ_desctext_pamir\n\n\n\nAbychom zajistili stabilitu státu, musíme potlačit podvratné živly a posílit naše vnitřní bezpečnostní síly." # todo: NEW TRANSLATION
+ ALG_arrest_political_opponents: "Zatknout politické odpůrce" # todo: NEW TRANSLATION
+ ALG_arrest_political_opponents_desc: "Vnitřní hrozby neutralizujeme odstraněním radikálních politických aktérů z veřejného prostoru." # todo: NEW TRANSLATION
+ ALG_expand_surveillance_services: "Rozšířit sledovací služby" # todo: NEW TRANSLATION
+ ALG_expand_surveillance_services_desc: "Rozsáhlá zpravodajská síť bude sledovat obyvatelstvo a zabrání šíření nepokojů dříve, než se rozšíří." # todo: NEW TRANSLATION
+ ALG_ban_opposition_parties: "Zakázat opoziční strany" # todo: NEW TRANSLATION
+ ALG_ban_opposition_parties_desc: "Všechny politické strany, které nejsou v souladu s národní jednotou, budou vyloučeny z politické účasti." # todo: NEW TRANSLATION
+ ALG_economic_recovery_category: "Program hospodářské obnovy" # todo: NEW TRANSLATION
+ ALG_economic_recovery_category_desc: "\n£MAIN_desctext_dept\n\n\n\nMMF nabízí podmíněnou podporu a Alžírsko nyní může zahájit rozsáhlejší reformy, čerpat půjčky a provádět privatizaci." # todo: NEW TRANSLATION
+ ALG_accept_imf_loan: "Přijmout půjčku od MMF" # todo: NEW TRANSLATION
+ ALG_accept_imf_loan_desc: "Můžeme přijmout finanční pomoc od MMF, stabilizovat měnu a zahájit reformy. Cena za to bude dlouhodobý dluh a přísné podmínky." # todo: NEW TRANSLATION
+ ALG_start_oil_licensing: "Otevřít těžbu ropy zahraničním společnostem" # todo: NEW TRANSLATION
+ ALG_start_oil_licensing_desc: "Umožnění nadnárodním společnostem přístup k ropným zásobám by mohlo urychlit růst, ale také zvýšit zahraniční vliv." # todo: NEW TRANSLATION
+ ALG_repay_imf_loan: "Splatit půjčku od MMF" # todo: NEW TRANSLATION
+ ALG_repay_imf_loan_desc: "Jakmile se naše finance stabilizují, můžeme splatit půjčku a snížit mezinárodní závislost." # todo: NEW TRANSLATION
+ ALG_improve_public_services: "Zlepšit veřejné služby" # todo: NEW TRANSLATION
+ ALG_improve_public_services_desc: "Rozšíříme zdravotnictví, školství a podporu obětí války." # todo: NEW TRANSLATION
+ ALG_international_aid_effort: "Mezinárodní pomoc" # todo: NEW TRANSLATION
+ ALG_international_aid_effort_desc: "Spolupráce s OSN a dárci může nastartovat základní služby a obnovu." # todo: NEW TRANSLATION
+ ALG_building_civil_society: "Budování občanské společnosti" # todo: NEW TRANSLATION
+ ALG_building_civil_society_desc: "Posílení komunit a sociálních programů může pomoci zabránit obnovení konfliktu." # todo: NEW TRANSLATION
+ ALG_economic_recovery_program: "Program hospodářské obnovy" # todo: NEW TRANSLATION
+ ALG_economic_recovery_program_desc: "Spouštíme národní plán růstu podporovaný zahraniční pomocí a reformou státu." # todo: NEW TRANSLATION
+ ALG_remove_international_monitors: "Odstranit mezinárodní pozorovatele" # todo: NEW TRANSLATION
+ ALG_remove_international_monitors_desc: "Alžírsko se dostatečně zotavilo, aby znovu získalo plnou suverenitu nad svou hospodářskou cestou." # todo: NEW TRANSLATION
+ ALG_postwar_recovery_program: "Poválečný program obnovy" # todo: NEW TRANSLATION
+ ALG_postwar_recovery_program_desc: "Válka skončila. Nyní začneme obnovovat stát, ekonomiku a společnost." # todo: NEW TRANSLATION
+ ALG_un_aid_mission: "Mise OSN pro pomoc" # todo: NEW TRANSLATION
+ ALG_un_aid_mission_desc: "Pomoc OSN a nevládní organizace podpoří naše základní veřejné služby." # todo: NEW TRANSLATION
+ ALG_social_healing_programs: "Programy společenského uzdravení" # todo: NEW TRANSLATION
+ ALG_social_healing_programs_desc: "S poválečnými traumaty a nedůvěrou je třeba se vypořádat prostřednictvím sociálních programů a usmíření." # todo: NEW TRANSLATION
+ ALG_public_services_funding: "Financování veřejných služeb" # todo: NEW TRANSLATION
+ ALG_public_services_funding_desc: "Obnovíme přístup ke zdravotní péči, bydlení a programům zaměstnanosti." # todo: NEW TRANSLATION
+ ALG_finalize_recovery_phase: "Dokončit fázi obnovy" # todo: NEW TRANSLATION
+ ALG_finalize_recovery_phase_desc: "Po obnovení stability můžeme omezit zahraniční dohled a získat zpět hospodářskou autonomii." # todo: NEW TRANSLATION
+ ALG_change_the_economy: "Změnit hospodářský model" # todo: NEW TRANSLATION
+ ALG_change_the_economy_desc: "Je čas si vybrat: zachováme státní kontrolu, nebo liberalizujeme?" # todo: NEW TRANSLATION
+ ALG_preserve_state_controlled_oil: "Zachovat státní kontrolu nad ropou" # todo: NEW TRANSLATION
+ ALG_preserve_state_controlled_oil_desc: "Sonatrach musí zůstat páteří naší suverenity a ekonomiky." # todo: NEW TRANSLATION
+ ALG_industrial_expansion_plan: "Plán průmyslové expanze" # todo: NEW TRANSLATION
+ ALG_industrial_expansion_plan_desc: "Zvýšíme domácí výrobu prostřednictvím infrastruktury a továren." # todo: NEW TRANSLATION
+ ALG_open_market_reforms: "Reformy otevřeného trhu" # todo: NEW TRANSLATION
+ ALG_open_market_reforms_desc: "Alžírsko může přilákat investice a podpořit růst deregulací klíčových sektorů." # todo: NEW TRANSLATION
+ ALG_oil_licensing_program: "Spustit program těžebních licencí" # todo: NEW TRANSLATION
+ ALG_oil_licensing_program_desc: "Zahraniční společnosti mohou žádat o těžbu ropných polí na základě licenčních smluv." # todo: NEW TRANSLATION
+ ALG_urban_or_rural_development: "Kmeny, nebo města?" # todo: NEW TRANSLATION
+ ALG_urban_or_rural_development_desc: "Má se naše poválečné úsilí zaměřit na kmenové oblasti, nebo na velká města?" # todo: NEW TRANSLATION
+ ALG_empower_rural_provinces: "Posílit venkovské provincie" # todo: NEW TRANSLATION
+ ALG_empower_rural_provinces_desc: "Náš venkovský jih a kabylská srdce země obdrží přímé investice." # todo: NEW TRANSLATION
+ ALG_tribal_consultative_council: "Zřídit kmenovou poradní radu" # todo: NEW TRANSLATION
+ ALG_tribal_consultative_council_desc: "Místní starší a regionální představitelé pomohou řídit priority rozvoje." # todo: NEW TRANSLATION
+ ALG_urbanization_initiative: "Spustit urbanizační iniciativu" # todo: NEW TRANSLATION
+ ALG_urbanization_initiative_desc: "Městská centra jako Alžír a Oran jsou klíčem k naší modernizaci." # todo: NEW TRANSLATION
+ ALG_expand_the_capital: "Rozšířit hlavní město" # todo: NEW TRANSLATION
+ ALG_expand_the_capital_desc: "Rozšíříme infrastrukturu a úřady v Alžíru, aby se stal skutečným moderním centrem." # todo: NEW TRANSLATION
+ ALG_foreign_policy_review: "Přezkoumat doktrínu zahraniční politiky" # todo: NEW TRANSLATION
+ ALG_foreign_policy_review_desc: "S návratem vnitřní stability musí Alžírsko znovu definovat svou úlohu na světové scéně." # todo: NEW TRANSLATION
+ MSP_foreign_policy_review: "Přezkoumat doktrínu zahraniční politiky" # todo: NEW TRANSLATION
+ MSP_foreign_policy_review_desc: "S návratem vnitřní stability musí Alžírsko znovu definovat svou úlohu na světové scéně." # todo: NEW TRANSLATION
+ ALG_africa_and_arab_nations: "Afrika a arabské národy" # todo: NEW TRANSLATION
+ ALG_africa_and_arab_nations_desc: "Zaměříme se na vedení diplomacie a rozvoje v Africe i arabském světě." # todo: NEW TRANSLATION
+ ALG_western_sahara_position: "Podpořit Západní Saharu" # todo: NEW TRANSLATION
+ ALG_western_sahara_position_desc: "Znovu potvrzujeme svou podporu sahrawské nezávislosti proti marockým nárokům." # todo: NEW TRANSLATION
+ ALG_african_union_engagement: "Vstoupit do Africké unie" # todo: NEW TRANSLATION
+ ALG_african_union_engagement_desc: "Alžírsko se musí znovu připojit a převzít vedoucí úlohu v kontinentální diplomacii." # todo: NEW TRANSLATION
+ ALG_sahel_initiatives: "Rozšířit vliv v Sahelu" # todo: NEW TRANSLATION
+ ALG_sahel_initiatives_desc: "Nestabilitu a terorismus v Sahelu budeme potírat prostřednictvím měkké síly a obrany." # todo: NEW TRANSLATION
+ ALG_choose_global_partner: "Zvolit globálního partnera" # todo: NEW TRANSLATION
+ ALG_choose_global_partner_desc: "Musíme se hospodářsky a vojensky spojit s jednou ze světových supervelmocí." # todo: NEW TRANSLATION
+ ALG_align_with_us: "Spojit se se Spojenými státy" # todo: NEW TRANSLATION
+ ALG_align_with_us_desc: "Spolupráce se Spojenými státy může přinést bezpečnost a hospodářský vliv." # todo: NEW TRANSLATION
+ ALG_align_with_china: "Spojit se s Čínskou lidovou republikou" # todo: NEW TRANSLATION
+ ALG_align_with_china_desc: "Čína nabízí hospodářský rozvoj bez vměšování a značný investiční potenciál." # todo: NEW TRANSLATION
+ ALG_align_with_russia: "Spojit se s Ruskou federací" # todo: NEW TRANSLATION
+ ALG_align_with_russia_desc: "Rusko poskytuje vojenské technologie a sdílí alžírský skepticismus vůči západní dominanci." # todo: NEW TRANSLATION
+ ALG_non_aligned_revival: "Obnovit nezúčastněnou zahraniční politiku" # todo: NEW TRANSLATION
+ ALG_non_aligned_revival_desc: "Obnovíme ducha neutrality a solidarity jihu, stejně jako v 60. letech." # todo: NEW TRANSLATION
+ ALG_global_south_solidarity: "Solidarita globálního Jihu" # todo: NEW TRANSLATION
+ ALG_global_south_solidarity_desc: "Alžírsko posílí vztahy s postkoloniálními národy prostřednictvím obchodu, diplomacie a pomoci." # todo: NEW TRANSLATION
+ ALG_future_national_policy: "§G Budoucnost Alžírska§!" # todo: NEW TRANSLATION
+ ALG_future_national_policy_desc: "Po skončení občanské války musíme nyní určit nový politický směr Alžírska.\n §RPOZNÁMKA§!: §YPokud zvolíte toto zaměření, odemknou se zaměření, která nakonec přepíší současný strom zaměření vlastním stromem pro každou stranu. Před jeho dokončením proto dokončete ostatní důležitá zaměření§!" # todo: NEW TRANSLATION
+ ALG_approach_nato: "§CPřiblížit se NATO§!" # todo: NEW TRANSLATION
+ ALG_approach_nato_desc: "Orientace na Západ by mohla přinést hospodářský růst a bezpečnostní záruky." # todo: NEW TRANSLATION
+ ALG_aspire_nato_support: "Usilovat o partnerství s NATO" # todo: NEW TRANSLATION
+ ALG_aspire_nato_support_desc: "Splněním podmínek se Alžírsko může stát významným spojencem mimo NATO." # todo: NEW TRANSLATION
+ ALG_invite_western_investors: "Pozvat západní investory" # todo: NEW TRANSLATION
+ ALG_invite_western_investors_desc: "Přilákat kapitál a obchod z demokratických národů." # todo: NEW TRANSLATION
+ ALG_request_us_protection: "Požádat o ochranu USA" # todo: NEW TRANSLATION
+ ALG_request_us_protection_desc: "Alžírsko požádá Spojené státy o vojenskou ochranu nebo bezpečnostní záruky." # todo: NEW TRANSLATION
+ ALG_remain_neutral: "§gZůstat neutrální§!" # todo: NEW TRANSLATION
+ ALG_remain_neutral_desc: "Neangažovanost nabízí svobodu diplomacie a domácí stabilitu." # todo: NEW TRANSLATION
+ ALG_economy_first: "Dát přednost ekonomice" # todo: NEW TRANSLATION
+ ALG_economy_first_desc: "Omezíme vojenské výdaje a podpoříme vzdělávání a dlouhodobý rozvoj." # todo: NEW TRANSLATION
+ ALG_seek_un_protection: "Vyhledat mezinárodní ochranu" # todo: NEW TRANSLATION
+ ALG_seek_un_protection_desc: "Pokud hrozby vzrostou, obrátíme se pro ochranu na Radu bezpečnosti OSN." # todo: NEW TRANSLATION
+ ALG_align_with_china1: "§tSpojit se s Čínou a Ruskem§!" # todo: NEW TRANSLATION
+ ALG_align_with_china1_desc: "Východní mocnosti poskytují alternativu k orientaci na NATO." # todo: NEW TRANSLATION
+ ALG_join_sco: "Požádat o vstup do ŠOS" # todo: NEW TRANSLATION
+ ALG_join_sco_desc: "Šanghajská organizace pro spolupráci nabízí hospodářské a bezpečnostní výhody." # todo: NEW TRANSLATION
+ ALG_invite_eastern_investors: "Pozvat východní investory" # todo: NEW TRANSLATION
+ ALG_invite_eastern_investors_desc: "Navážeme partnerství s čínskými a ruskými infrastrukturními společnostmi." # todo: NEW TRANSLATION
+ ALG_request_chinese_protection: "Požádat o čínskou ochranu" # todo: NEW TRANSLATION
+ ALG_request_chinese_protection_desc: "Peking může souhlasit se zárukou alžírské nezávislosti a investic." # todo: NEW TRANSLATION
+ ALG_reform_the_military: "Reformovat armádu" # todo: NEW TRANSLATION
+ ALG_reform_the_military_desc: "Alžírská armáda vyžaduje hlubokou strukturální reformu, aby dokázala čelit výzvám 21. století." # todo: NEW TRANSLATION
+ ALG_military_academy_upgrade: "Modernizovat vojenskou akademii" # todo: NEW TRANSLATION
+ ALG_military_academy_upgrade_desc: "Investice do vzdělávání jsou klíčem k vybudování schopných a profesionálních důstojníků." # todo: NEW TRANSLATION
+ ALG_internal_security_brigade: "Vytvořit brigády vnitřní bezpečnosti" # todo: NEW TRANSLATION
+ ALG_internal_security_brigade_desc: "Musíme zajistit vnitřní pořádek prostřednictvím specializovaných jednotek vnitřní bezpečnosti." # todo: NEW TRANSLATION
+ ALG_military_industry_support: "Podpořit vojenský průmysl" # todo: NEW TRANSLATION
+ ALG_military_industry_support_desc: "Posílení naší vojensko-průmyslové základny pomůže zajistit soběstačnost." # todo: NEW TRANSLATION
+ ALG_anti_air_force: "Zřídit protiletadlové velitelství" # todo: NEW TRANSLATION
+ ALG_anti_air_force_desc: "Schopnosti protivzdušné obrany jsou zásadní pro ochranu našeho vzdušného prostoru." # todo: NEW TRANSLATION
+ ALG_mechanized_modernization: "Modernizace mechanizovaných sil" # todo: NEW TRANSLATION
+ ALG_mechanized_modernization_desc: "Moderní mechanizované jednotky jsou jádrem účinných pozemních sil." # todo: NEW TRANSLATION
+ ALG_uav_development: "Program vývoje dronů" # todo: NEW TRANSLATION
+ ALG_uav_development_desc: "Bezpilotní letecké systémy nám poskytnou schopnosti průzkumu a přesných úderů." # todo: NEW TRANSLATION
+ ALG_national_guard_initiative: "Iniciativa národní gardy" # todo: NEW TRANSLATION
+ ALG_national_guard_initiative_desc: "Obranné sbory založené na občanech mohou pomoci stabilizovat venkovské a pohraniční oblasti." # todo: NEW TRANSLATION
+ ALG_air_force_reform: "Reformovat letectvo" # todo: NEW TRANSLATION
+ ALG_air_force_reform_desc: "Obnova doktrín a vybavení je klíčová pro naši vzdušnou převahu." # todo: NEW TRANSLATION
+ ALG_infantry_equipment_project: "Modernizovat pěchotní vybavení" # todo: NEW TRANSLATION
+ ALG_infantry_equipment_project_desc: "Naše pěchota si zaslouží nejmodernější zbraně a ochranné vybavení." # todo: NEW TRANSLATION
+ ALG_ballistic_program: "Program balistických raket" # todo: NEW TRANSLATION
+ ALG_ballistic_program_desc: "Rozšíření našich raketových schopností posílí strategické odstrašení." # todo: NEW TRANSLATION
+ ALG_simulation_center: "Vojenské simulační centrum" # todo: NEW TRANSLATION
+ ALG_simulation_center_desc: "Zřízení moderních výcvikových center výrazně zlepší naši bojovou připravenost." # todo: NEW TRANSLATION
+ ALG_logistics_command: "Zřídit logistické velitelství" # todo: NEW TRANSLATION
+ ALG_logistics_command_desc: "Zefektivnění logistiky zajistí, že naše jednotky zůstanou bojeschopné." # todo: NEW TRANSLATION
+ ALG_military_doctrine_finalization: "Dokončit vojenskou doktrínu" # todo: NEW TRANSLATION
+ ALG_military_doctrine_finalization_desc: "Musíme sjednotit reformy do moderní doktríny." # todo: NEW TRANSLATION
+ ALG_foreign_arms_contracts: "Smlouvy na zahraniční zbraně" # todo: NEW TRANSLATION
+ ALG_foreign_arms_contracts_desc: "Strategická partnerství nám mohou pomoci rychle zaplnit mezery v našem arzenálu." # todo: NEW TRANSLATION
+ ALG_local_armor_production: "Domácí výroba obrněné techniky" # todo: NEW TRANSLATION
+ ALG_local_armor_production_desc: "Zahájení domácí výroby obrněných transportérů a tanků zajistí autonomii a růst." # todo: NEW TRANSLATION
+ ALG_military_university_program: "Program vojenské univerzity" # todo: NEW TRANSLATION
+ ALG_military_university_program_desc: "Investice do vojenských akademií připraví další generaci našich vůdců." # todo: NEW TRANSLATION
+ ALG_heavy_artillery_project: "Iniciativa těžkého dělostřelectva" # todo: NEW TRANSLATION
+ ALG_heavy_artillery_project_desc: "Upřednostníme domácí výzkum a vývoj těžkého dělostřelectva." # todo: NEW TRANSLATION
+ ALG_special_operations_command: "Velitelství speciálních operací" # todo: NEW TRANSLATION
+ ALG_special_operations_command_desc: "Centralizované velitelství elitních jednotek zlepší koordinaci a účinnost." # todo: NEW TRANSLATION
+ ALG_joint_command_center: "Zřídit společné velitelské centrum" # todo: NEW TRANSLATION
+ ALG_joint_command_center_desc: "Spojení jednotlivých složek do centra společných operací posílí strategickou integraci." # todo: NEW TRANSLATION
+ ALG_indigenous_rifle_program: "Program domácích pušek" # todo: NEW TRANSLATION
+ ALG_indigenous_rifle_program_desc: "Vývoj vlastních pokročilých ručních zbraní je národní prioritou." # todo: NEW TRANSLATION
+ ALG_integrated_defense_network: "Integrovaná obranná síť" # todo: NEW TRANSLATION
+ ALG_integrated_defense_network_desc: "Jednotný radarový a komunikační systém posílí národní obranu." # todo: NEW TRANSLATION
+ ALG_advanced_command_structure: "Pokročilá velitelská struktura" # todo: NEW TRANSLATION
+ ALG_advanced_command_structure_desc: "Zavedeme moderní velitelský systém C4ISR pro digitální bojiště." # todo: NEW TRANSLATION
+ ALG_military_modernization_complete: "Vojenská modernizace dokončena" # todo: NEW TRANSLATION
+ ALG_military_modernization_complete_desc: "Naše dlouhá cesta reformy konečně přinesla ovoce. Alžírsko nyní disponuje moderními a soudržnými ozbrojenými silami." # todo: NEW TRANSLATION
+ ALG_idea_non_aligned_policy: "Nezúčastněná zahraniční politika" # todo: NEW TRANSLATION
+ ALG_idea_non_aligned_policy_desc: "Naše nezávislá cesta nám umožňuje těžit ze všech bloků, aniž bychom se k některému připojili." # todo: NEW TRANSLATION
+ ALG_presidential_succession_crisis: "Krize nástupnictví prezidenta" # todo: NEW TRANSLATION
+ ALG_presidential_succession_crisis_desc: "S úpadkem stability se znovu vynořuje otázka vedení. Budeme pokračovat pod starým režimem, nebo vykročíme novou cestou?" # todo: NEW TRANSLATION
+ ALG_stay_with_bouteflika: "Udržet Boutefliku ve vedení" # todo: NEW TRANSLATION
+ ALG_stay_with_bouteflika_desc: "Bouteflika představuje kontinuitu — a korupci. Můžeme získat finanční stabilitu, ale za cenu legitimity." # todo: NEW TRANSLATION
+ ALG_choose_tebboune: "Jmenovat Tebbounea" # todo: NEW TRANSLATION
+ ALG_choose_tebboune_desc: "Umírněný technokrat se stabilizačními reformami, který však státní pokladnu přijde draho." # todo: NEW TRANSLATION
+ ALG_choose_msp: "Jmenovat vůdce MSP" # todo: NEW TRANSLATION
+ ALG_choose_msp_desc: "Islamistická alternativa spojená s Muslimským bratrstvem. Přinese popularitu v určitých kruzích, ale hrozí občanský konflikt s pevně zakořeněnou vojenskou elitou." # todo: NEW TRANSLATION
+ ALG_random_president: "Zvolit náhodného prezidenta" # todo: NEW TRANSLATION
+ ALG_random_president_desc: "Nepředvídatelná volba. Tento nový prezident může Alžírsko zachránit, nebo zničit." # todo: NEW TRANSLATION
+ ALG_resolve_presidency_crisis: "Krize prezidentského úřadu vyřešena" # todo: NEW TRANSLATION
+ ALG_resolve_presidency_crisis_desc: "Otázka vedení byla zodpovězena. Nyní je čas kráčet vpřed." # todo: NEW TRANSLATION
+ ALG_idea_bouteflika_legacy: "Bouteflikův odkaz" # todo: NEW TRANSLATION
+ ALG_idea_bouteflika_legacy_desc: "Navzdory hluboké korupci a nedůvěře zůstává Bouteflikova éra synonymem minulého způsobu vládnutí Alžírska. Jeho síť zůstává vlivná." # todo: NEW TRANSLATION
+ ALG_idea_tebboune_moderate: "Umírněné Tebbouneovo prezidentství" # todo: NEW TRANSLATION
+ ALG_idea_tebboune_moderate_desc: "Tebboune se svou pověstí stability a postupných reforem usiluje o zachování pořádku a současné zlepšení správy." # todo: NEW TRANSLATION
+ ALG_idea_msp_presidency: "Prezidentství MSP" # todo: NEW TRANSLATION
+ ALG_idea_msp_presidency_desc: "Hnutí společnosti za mír převzalo moc. Zda jde o pokojnou proměnu, nebo sestup do konfliktu, se teprve ukáže." # todo: NEW TRANSLATION
+ ALG_idea_random_good: "Schopný nový prezident" # todo: NEW TRANSLATION
+ ALG_idea_random_good_desc: "Díky štěstí nebo strategii je nový prezident kompetentní a inspirovaný a přináší reformy a směr." # todo: NEW TRANSLATION
+ ALG_idea_random_bad: "Neschopný nový prezident" # todo: NEW TRANSLATION
+ ALG_idea_random_bad_desc: "Tento vůdce je nepřipravený, zahlcený a možná zkorumpovaný. Pro kritickou dobu jde o špatnou volbu." # todo: NEW TRANSLATION
+ ALG_presidency.1.t: "Napětí s armádou" # todo: NEW TRANSLATION
+ ALG_presidency.1.d: "Po jmenování vůdce MSP prezidentem je vojenská elita rozzuřená. Považuje to za hrozbu pro své dlouholeté držení moci. Kolují zvěsti o tajných mobilizacích a ozbrojené jednotky loajální staré gardě se začínají přesouvat. Přijme armáda tuto změnu, nebo se vzbouří?" # todo: NEW TRANSLATION
+ ALG_presidency.1.a: "Armáda přijímá novou vládu" # todo: NEW TRANSLATION
+ ALG_presidency.1.b: "Armáda se bouří – začíná občanská válka!" # todo: NEW TRANSLATION
+ ALG_presidency_army_accepts_tt: "Armáda neochotně přijímá vládu MSP. Prozatím panuje mír." # todo: NEW TRANSLATION
+ ALG_presidency_army_civilwar_tt: "Vojenský převrat propuká v otevřenou občanskou válku!" # todo: NEW TRANSLATION
+ ALG_economy_digital_initiative: "Iniciativa digitální ekonomiky" # todo: NEW TRANSLATION
+ ALG_economy_digital_initiative_desc: "Alžírsko musí přijmout digitální věk, aby modernizovalo svou ekonomiku. Investice do technologické infrastruktury, služeb elektronické vlády a programů digitální gramotnosti nás připraví na ekonomiku 21. století." # todo: NEW TRANSLATION
+ ALG_digital_initiative_tt: "§GAlžírsko zahajuje rozsáhlý program digitální transformace:§!\n- Modernizace vládních služeb\n- Rozšíření internetové infrastruktury\n- Podpora technologických startupů\n- Školení pracovní síly v digitálních dovednostech" # todo: NEW TRANSLATION
+ ALG_digital_economy_initiative: "Iniciativa digitální ekonomiky" # todo: NEW TRANSLATION
+ ALG_digital_economy_initiative_desc: "Naše investice do digitální infrastruktury a technologického vzdělávání přinášejí ovoce. Vládní služby jsou efektivnější, podniky přijímají moderní postupy a na pracovní trh vstupuje nová generace technicky zdatných pracovníků." # todo: NEW TRANSLATION
+ ALG_arpt_regulatory_framework: "Zřídit regulační úřad ARPT" # todo: NEW TRANSLATION
+ ALG_arpt_regulatory_framework_desc: "Autorité de Régulation de la Poste et des Télécommunications (ARPT) zajistí konkurenční telekomunikační trh a ochranu práv spotřebitelů." # todo: NEW TRANSLATION
+ ALG_algerie_telecom_expansion: "Modernizace Algerie Telecom" # todo: NEW TRANSLATION
+ ALG_algerie_telecom_expansion_desc: "Modernizujeme a rozšíříme infrastrukturu Algerie Telecom, abychom zlepšili širokopásmový přístup a veřejnou komunikaci." # todo: NEW TRANSLATION
+ ALG_nedjma_and_mobilis: "Konkurence Nedjma a Mobilis" # todo: NEW TRANSLATION
+ ALG_nedjma_and_mobilis_desc: "Podpora zdravé konkurence mezi telekomunikačními operátory, jako jsou Nedjma a Mobilis, sníží ceny a zlepší kvalitu služeb." # todo: NEW TRANSLATION
+ ALG_fiber_optic_program: "Optická infrastruktura" # todo: NEW TRANSLATION
+ ALG_fiber_optic_program_desc: "Investujeme do celostátního rozšíření optických vláken, abychom zvýšili konektivitu a rychlost sítě v celé zemi." # todo: NEW TRANSLATION
+ ALG_4g_rollout: "Zavést služby 4G" # todo: NEW TRANSLATION
+ ALG_4g_rollout_desc: "Spuštění mobilního internetu 4G promění konektivitu a umožní lepší elektronické služby a digitální produktivitu." # todo: NEW TRANSLATION
+ ALG_air_algerie_modernization: "Modernizace Air Algérie" # todo: NEW TRANSLATION
+ ALG_air_algerie_modernization_desc: "Posílení flotily a tras Air Algérie podpoří cestovní ruch a zlepší mezinárodní logistiku." # todo: NEW TRANSLATION
+ ALG_international_airports_upgrade: "Modernizovat hlavní letiště" # todo: NEW TRANSLATION
+ ALG_international_airports_upgrade_desc: "Investujeme do letišť v Alžíru, Oranu a Constantine, aby se stala centry regionální i globální letecké dopravy." # todo: NEW TRANSLATION
+ ALG_aadl_housing_projects: "Bytové programy AADL" # todo: NEW TRANSLATION
+ ALG_aadl_housing_projects_desc: "Národní agentura pro zlepšení a rozvoj bydlení zajistí dotované bydlení a městský rozvoj pro rostoucí městské obyvatelstvo." # todo: NEW TRANSLATION
+ ALG_urbanization_initiatives: "Iniciativy městského rozvoje" # todo: NEW TRANSLATION
+ ALG_urbanization_initiatives_desc: "Rozšiřování silnic, inženýrských sítí a stavebních zón podpoří růst našich měst a zlepší kvalitu života." # todo: NEW TRANSLATION
+ ALG_arpt_regulation: "Regulační úřad ARPT" # todo: NEW TRANSLATION
+ ALG_arpt_regulation_desc: "ARPT zajišťuje spravedlivé tržní postupy, konkurenci a ochranu spotřebitelů v telekomunikačním sektoru." # todo: NEW TRANSLATION
+ ALG_algerie_telecom_program: "Program Algerie Telecom" # todo: NEW TRANSLATION
+ ALG_algerie_telecom_program_desc: "Komplexní plán modernizace státního telekomunikačního operátora." # todo: NEW TRANSLATION
+ ALG_mobile_operator_competition: "Reforma konkurence v telekomunikacích" # todo: NEW TRANSLATION
+ ALG_mobile_operator_competition_desc: "Konkurence mezi Nedjma a Mobilis podpořila inovace a dostupné ceny." # todo: NEW TRANSLATION
+ ALG_4g_coverage: "Celostátní pokrytí 4G" # todo: NEW TRANSLATION
+ ALG_4g_coverage_desc: "Pokročilé mobilní širokopásmové připojení zlepšuje komunikaci a podporuje digitální ekonomiku." # todo: NEW TRANSLATION
+ ALG_national_innovation_push: "Národní podpora inovací" # todo: NEW TRANSLATION
+ ALG_national_innovation_push_desc: "Vládou podporovaná iniciativa na podporu inovací a technologického rozvoje ve všech sektorech." # todo: NEW TRANSLATION
+ ALG_highway_project: "Projekt dálnice Východ–Západ" # todo: NEW TRANSLATION
+ ALG_highway_project_desc: "Projekt v hodnotě 13 miliard dolarů spojí východ a západ, modernizuje dopravu a zkrátí cestovní dobu." # todo: NEW TRANSLATION
+ ALG_air_algerie_investment: "Investice do Air Algérie" # todo: NEW TRANSLATION
+ ALG_air_algerie_investment_desc: "Rozšíření národní letecké společnosti Alžírska otevírá nové obchodní a cestovní příležitosti." # todo: NEW TRANSLATION
+ ALG_air_hub_status: "Regionální letecký uzel Alžír" # todo: NEW TRANSLATION
+ ALG_air_hub_status_desc: "Alžír má potenciál stát se ústředním uzlem mezi Afrikou, Evropou a Blízkým východem." # todo: NEW TRANSLATION
+ ALG_aadl_program: "Bytová iniciativa AADL" # todo: NEW TRANSLATION
+ ALG_aadl_program_desc: "Národní agentura pro zlepšení a rozvoj bydlení chce vybudovat dostupné bydlení pro tisíce rodin po celém Alžírsku." # todo: NEW TRANSLATION
+ ALG_kabylia_unrest: "Nepokoje v Kabýlii" # todo: NEW TRANSLATION
+ ALG_kabylia_unrest_desc: "Od „Berberského jara“ v roce 1980 je Kabýlie poznamenána pravidelnými protesty, kulturními požadavky a nedůvěrou vůči ústřední vládě. Toto napětí doutná pod povrchem, podkopává stabilitu a hrozí přerůst v širší nepokoje, pokud nebude řešeno. Bez řešení by se události mohly v budoucnu dramaticky vyostřit." # todo: NEW TRANSLATION
+ ALG_black_spring.1.t: "Nepokoje v Kabýlii" # todo: NEW TRANSLATION
+ ALG_black_spring.1.d: "Po zabití Massinissy Guermah četnickými silami vypukly v Kabýlii masové protesty. Nepokoje každým dnem sílí." # todo: NEW TRANSLATION
+ ALG_black_spring.1.a: "Tohle musíme řešit." # todo: NEW TRANSLATION
+ ALG_black_decade: "Černá dekáda" # todo: NEW TRANSLATION
+ ALG_black_decade_desc: "Alžírská občanská válka, v Alžírsku známá jako Černá dekáda, byla občanskou válkou mezi alžírskou vládou a různými islamistickými povstaleckými skupinami od 11. ledna 1992, kdy převrat zmařil islamistické volební vítězství, do 8. února 2002. Válka začala pomalu, protože se zpočátku zdálo, že vláda islamistické hnutí úspěšně rozdrtila. Objevily se však ozbrojené skupiny, které vyhlásily džihád, a do roku 1994 násilí dosáhlo takové úrovně, že se zdálo, že ho vláda nemusí zvládnout. V letech 1996–1997 bylo zřejmé, že islamistický odpor ztratil lidovou podporu, přesto boje pokračovaly ještě několik let." # todo: NEW TRANSLATION
+ ALG_maghreb_invite.1.t: "Pozvání do Maghrebské unie" # todo: NEW TRANSLATION
+ ALG_maghreb_invite.1.d: "Alžírsko navrhuje severoafrickou hospodářskou a vojenskou alianci. Připojíme se?" # todo: NEW TRANSLATION
+ ALG_maghreb_invite.1.a: "Připojit se k Unii" # todo: NEW TRANSLATION
+ ALG_maghreb_invite.1.b: "Odmítnout (pouze Maroko)" # todo: NEW TRANSLATION
+ ALG_maghreb_trade_hub: "Obchodní centrum Maghrebu" # todo: NEW TRANSLATION
+ ALG_maghreb_trade_hub_desc: "Naše ekonomika vzkvétá jako centrum severoafrického obchodu." # todo: NEW TRANSLATION
+ ALG_maghreb_diplomacy: "Maghrebská diplomacie" # todo: NEW TRANSLATION
+ ALG_maghreb_diplomacy_desc: "Alžírsko se prosazuje jako vůdce severní Afriky a podporuje jednotu prostřednictvím obchodu a společné bezpečnosti." # todo: NEW TRANSLATION
+ ALG_maghreb_union_tt: "Vznikla Maghrebská unie\nAlžírsko, Tunisko a další severoafrické národy nyní pod naším vedením sdílejí hospodářské a vojenské vazby." # todo: NEW TRANSLATION
+ ALG_trade_allies: "Obchodní spojenci" # todo: NEW TRANSLATION
+ ALG_egypt_algiers_axis: "Osa Egypt–Alžír" # todo: NEW TRANSLATION
+ ALG_egypt_algiers_axis_desc: "Naše vztahy s Egyptem sahají daleko do minulosti. Musíme pokračovat v posilování našeho postavení v Africe a vést tento kontinent." # todo: NEW TRANSLATION
+ FIS_Are_Terrorists: "FIS jsou teroristé" # todo: NEW TRANSLATION
+ ALG_un_peacekeepers: "Nasazení mírových sil OSN" # todo: NEW TRANSLATION
+ ALG_un_peacekeepers_desc: "Organizace spojených národů vyslala mírové síly, aby stabilizovaly region a zabránily dalšímu konfliktu. Jejich úkolem je udržovat pořádek, chránit civilisty a podporovat diplomatické úsilí směřující k trvalému míru." # todo: NEW TRANSLATION
+ ALG_civil_war_recovered: "Občanská válka překonána" # todo: NEW TRANSLATION
+ ALG_civil_war_recovered_desc: "Národ vyšel z otřesů občanské války a zahájil dlouhý proces uzdravení a obnovy. Úsilí se soustředí na obnovení jednoty, rekonstrukci infrastruktury a prevenci budoucích vnitřních konfliktů." # todo: NEW TRANSLATION
+ ALG_sonatrach_restructure: "Restrukturalizace Sonatrachu" # todo: NEW TRANSLATION
+ ALG_sonatrach_restructure_desc: "Národní ropná společnost Sonatrach prochází rozsáhlou restrukturalizací s cílem zvýšit efektivitu, produkci a hospodářskou stabilitu. Tato proměna má posílit energetický sektor země a podpořit dlouhodobý růst." # todo: NEW TRANSLATION
+ ALG_investment_boom_modifier: "Investiční boom" # todo: NEW TRANSLATION
+ ALG_investment_boom_modifier_desc: "Země zažívá příliv domácích i zahraničních investic, který pohání rychlý hospodářský růst a rozvoj. Tento boom posiluje průmyslovou kapacitu, infrastrukturu a celkovou prosperitu." # todo: NEW TRANSLATION
+ ALG_foreign_oil_licensing_bonus: "Zahraniční těžební licence" # todo: NEW TRANSLATION
+ ALG_foreign_oil_licensing_bonus_desc: "Dočasně poskytuje zahraničním společnostem přístup k našim ropným polím a zvyšuje naši těžební kapacitu." # todo: NEW TRANSLATION
+ ALG_idea_pro_palestinian_campaign: "Kampaň na podporu Palestiny" # todo: NEW TRANSLATION
+ ALG_idea_pro_palestinian_campaign_desc: "Zlepšuje vztahy s palestinskými skupinami a potenciálně zvyšuje podporu alžírských hnutí za nezávislost v regionu." # todo: NEW TRANSLATION
+ ALG_idea_palestinian_backing: "Alžírská podpora palestinských práv" # todo: NEW TRANSLATION
+ ALG_idea_palestinian_backing_desc: "Analýza historické a současné podpory Alžírska palestinským právům, včetně diplomatických postojů, iniciativ humanitární pomoci a širšího politického zapojení." # todo: NEW TRANSLATION
+ ALG_idea_palestinian_aid_fund: "Alžírský palestinský fond pomoci" # todo: NEW TRANSLATION
+ ALG_idea_palestinian_aid_fund_desc: "Fond zřízený Alžírskem za účelem poskytování humanitární a rozvojové pomoci palestinskému lidu. Může zahrnovat krizovou pomoc, rozvoj infrastruktury, vzdělávání a iniciativy hospodářského posílení." # todo: NEW TRANSLATION
+ ALG_crackdown_backfired: "Represe se obrátily proti nám" # todo: NEW TRANSLATION
+ ALG_idea_refoming_education1: "Reforma vzdělávání" # todo: NEW TRANSLATION
+ ALG_idea_refoming_education: "Reforma vzdělávání" # todo: NEW TRANSLATION
+ ALG_university_expansion: "Rozšíření univerzit" # todo: NEW TRANSLATION
+ ALG_basic_income_support: "Podpora základního příjmu" # todo: NEW TRANSLATION
+ ALG_housing_support_idea: "Podpora bydlení" # todo: NEW TRANSLATION
+ ALG_childcare_reform: "Reforma péče o děti" # todo: NEW TRANSLATION
+ ALG_civil_rights: "Udělit občanská práva" # todo: NEW TRANSLATION
+ ALG_public_admin_reform: "Bezplatná veřejná doprava" # todo: NEW TRANSLATION
+ MSP_switch_to_morocco: "Opustit podporu Sahrawi" # todo: NEW TRANSLATION
+ MSP_switch_to_morocco_desc: "Podpora Sahrawi zhoršila naše vztahy s Marokem. Maroko je rostoucí hospodářská velmoc a silný národ přímo vedle nás. Nejrozumnější by bylo upustit od naší nesmyslné podpory Sahrawi a místo toho s Marokem navázat přátelské vztahy." # todo: NEW TRANSLATION
+ MSP_influence_mauritania: "Ovlivnit Mauritánii" # todo: NEW TRANSLATION
+ MSP_influence_mauritania_desc: "Mauritánie vedla po odchodu Španělska z regionu krátkou válku s Marokem o Západní Saharu. Území již nenárokuje, ale konflikt v Západní Sahaře pozorně sleduje a patří k podporovatelům Polisaria. Pro vyřešení konfliktu v Západní Sahaře je důležité zvýšit naši kontrolu nad Mauritánií." # todo: NEW TRANSLATION
+ MSP_casablanca_accords: "Casablanské dohody" # todo: NEW TRANSLATION
+ MSP_casablanca_accords_desc: "Konflikt v Západní Sahaře je po desetiletí zmrazený a nikomu se ho nepodařilo vyřešit. Musíme využít svůj vliv v regionu k jeho ukončení." # todo: NEW TRANSLATION
+ ALG_influence_mauritania: "Ovlivnit Mauritánii" # todo: NEW TRANSLATION
+ ALG_influence_mauritania_desc: "Mauritánie vedla krátkou válku proti Maroku o Západní Saharu poté, co se Španělsko z regionu stáhlo. Území již nenárokuje, ale konflikt o Západní Saharu pozorně sleduje a patří mezi podporovatele Polisaria. Pro vyřešení konfliktu o Západní Saharu je důležité zvýšit naši kontrolu nad ní." # todo: NEW TRANSLATION
+ ALG_energy_reform: "Energetická reforma" # todo: NEW TRANSLATION
+ ALG_energy_reform_desc: "Musíme vyřešit náš energetický problém. Reformou energetického průmyslu můžeme distribuovat energii po celé zemi." # todo: NEW TRANSLATION
+ ALG_focus_on_oil: "Zaměřit se na ropu" # todo: NEW TRANSLATION
+ ALG_focus_on_oil_desc: "Po celém Alžírsku se nachází mnoho nevyužitých ropných ložisek a podle některých studií může být Alžírsko jednou z nejbohatších ropných zemí světa. Většina této ropy však stále zůstává nevyužita. Proto bychom se měli zaměřit na ropu." # todo: NEW TRANSLATION
+ ALG_focus_on_oil_tt: "§CZaměření na ropu nám umožní vydělat více při prodeji energie sousedům, ale bude katastrofální pro Hassi Messaoud!§!" # todo: NEW TRANSLATION
+ ALG_focus_on_renewables: "Zaměřit se na obnovitelné zdroje" # todo: NEW TRANSLATION
+ ALG_focus_on_renewables_desc: "Alžírsko je země, kde žádná vesnice není příliš malá na slunce. Musíme jít zbytku světa příkladem a vybudovat udržitelnou energetickou síť. Bude to drahé, ale budoucí generace to ocení." # todo: NEW TRANSLATION
+ ALG_focus_on_renewables_tt: "§CZaměření na obnovitelnou energii nepřinese tolik zisku jako využití ropy, ale bude lepší pro Hassi Messaoud!§!" # todo: NEW TRANSLATION
+ ALG_oil_production: "Spolupracovat se Sonatrach" # todo: NEW TRANSLATION
+ ALG_oil_production_desc: "Hlavní alžírskou ropnou a plynárenskou společností je Sonatrach, státem vlastněný podnik. Je významným hráčem na světovém energetickém trhu a aktivně hledá investice a partnerství v ropném a plynárenském sektoru. Sonatrach se podílí na všech aspektech uhlovodíkového řetězce, od průzkumu a těžby až po rafinaci a distribuci." # todo: NEW TRANSLATION
+ ALG_grid_expansion: "Rozšíření sítě" # todo: NEW TRANSLATION
+ ALG_grid_expansion_desc: "Je dobře, že dokážeme vyrábět vlastní elektřinu, ale potřebujeme také robustní elektrickou síť, která ji rozvede po celé zemi i k našim sousedům." # todo: NEW TRANSLATION
+ ALG_solar_panel_grid: "Síť solárních panelů" # todo: NEW TRANSLATION
+ ALG_solar_panel_grid_desc: "Vzhledem k naší geografické poloze je v Alžírsku téměř vždy dostatek slunečního svitu. Díky tomu je ideálním místem pro výstavbu solárních elektráren." # todo: NEW TRANSLATION
+ ALG_hassi_massoud_exploitation: "Těžba v Hassi Messaoud" # todo: NEW TRANSLATION
+ ALG_resource_excavation_research: "Výzkum těžby ropy" # todo: NEW TRANSLATION
+ ALG_resource_excavation_research_desc: "Část ropy se nachází na těžko dostupných místech. Musíme spolupracovat s Alžírskou univerzitou 1 a najít způsoby, jak vytěžit každý možný kus ropy." # todo: NEW TRANSLATION
+ ALG_wind_turbine_research: "Výzkum větrných turbín" # todo: NEW TRANSLATION
+ ALG_wind_turbine_research_desc: "Při současné úrovni technologií je výstavba větrných parků v Alžírsku nemožná. Větrné podmínky jednoduše nejsou vhodné pro dnešní turbíny. Musíme investovat do výzkumu řešení tohoto problému." # todo: NEW TRANSLATION
+ ALG_ethanol_power_plant: "Elektrárna na etanol" # todo: NEW TRANSLATION
+ ALG_ethanol_power_plant_desc: "Využitím etanolu získaného z kravského hnoje můžeme vytvořit udržitelný způsob výroby elektřiny." # todo: NEW TRANSLATION
+ ALG_algeria_steelworks: "Alžírské ocelárny" # todo: NEW TRANSLATION
+ ALG_algeria_steelworks_desc: "Musíme vytěžit více ropy! Díky přebytečné ropě můžeme také vybudovat ocelárnu." # todo: NEW TRANSLATION
+ ALG_Adrar_wind_park: "Větrný park Adrar" # todo: NEW TRANSLATION
+ ALG_Adrar_wind_park_desc: "Větrná farma Adrar je přírodní farma v jižní části Alžírska. Terén v její blízkosti je vhodný pro výstavbu větrných farem, a právě zde vybudujeme první alžírskou větrnou farmu." # todo: NEW TRANSLATION
+ ALG_national_space_program: "Národní vesmírný program" # todo: NEW TRANSLATION
+ ALG_national_space_program_desc: "Alžírsko musí založit národní vesmírný program a připojit se k vesmírným národům. Tato iniciativa položí základy budoucích úspěchů v průzkumu vesmíru a satelitních technologiích." # todo: NEW TRANSLATION
+ ALG_arab_world_outreach: "Prohloubit arabské diplomatické vazby" # todo: NEW TRANSLATION
+ ALG_arab_world_outreach_desc: "Abychom posílili vliv Alžírska v arabském světě, musíme oživit naše diplomatické kontakty a koordinační úsilí. Prostřednictvím bilaterálních návštěv, summitů a obchodních iniciativ se Alžírsko může prosadit jako sjednocující síla v regionu." # todo: NEW TRANSLATION
+ ALG_join_arab_league: "Posílit angažovanost v Arabské lize" # todo: NEW TRANSLATION
+ ALG_join_arab_league_desc: "Jako stávající člen Arabské ligy můžeme jít dál než jen k účasti a přijmout vedoucí diplomatickou úlohu. Podpora hospodářské koordinace, konzultací v oblasti obrany a kulturní solidarity posílí naše postavení v arabském světě." # todo: NEW TRANSLATION
+ ALG_support_palestine: "Podpořit palestinskou věc" # todo: NEW TRANSLATION
+ ALG_support_palestine_desc: "Dlouhodobé vztahy Alžírska s Palestinou vycházejí ze sdílených historických zkušeností a politické solidarity. Toto spojení se projevuje různými způsoby, včetně diplomatické podpory palestinského sebeurčení a humanitární pomoci. Oddanost Alžírska palestinské věci je klíčovou součástí jeho zahraniční politiky." # todo: NEW TRANSLATION
+ ALG_algeria_algiers_axis: "Vytvořit osu Egypt–Alžír" # todo: NEW TRANSLATION
+ ALG_algeria_algiers_axis_desc: "Užším spojenectvím s Egyptem může Alžírsko pomoci vytvořit mocný regionální blok schopný vést arabskou jednotu, zajistit stabilitu severní Afriky a vyvažovat zahraniční vliv." # todo: NEW TRANSLATION
+ ALG_condemn_israel: "Odsoudit izraelské kroky" # todo: NEW TRANSLATION
+ ALG_condemn_israel_desc: "S ohledem na pokračující agresi a porušování lidských práv Alžírsko formálně odsoudí izraelské kroky na mezinárodní scéně, získá podporu pro spravedlivý mír a odmítne normalizaci bez vyřešení konfliktu." # todo: NEW TRANSLATION
+ ALG_palestinian_aid_package: "Balíček pomoci Palestině" # todo: NEW TRANSLATION
+ ALG_palestinian_aid_package_desc: "Vyčleníme prostředky na poskytnutí humanitární, ekonomické a technické pomoci palestinským územím, aby závazek Alžírska nezůstal jen u slov, ale proměnil se ve skutečnou a účinnou pomoc." # todo: NEW TRANSLATION
+ ALG_pan_african_defense_initiative: "Panafrická obranná iniciativa" # todo: NEW TRANSLATION
+ ALG_pan_african_defense_initiative_desc: "V zájmu ochrany africké suverenity a posílení kontinentální stability Alžírsko navrhne koordinovanou africkou obrannou iniciativu, která vybuduje kolektivní vojenskou připravenost proti společným hrozbám." # todo: NEW TRANSLATION
+ ALG_send_troops_to_sahel: "Nasadit síly v Sahelu" # todo: NEW TRANSLATION
+ ALG_send_troops_to_sahel_desc: "V reakci na rostoucí nestabilitu v Sahelu vyšle Alžírsko vojáky na podporu mírových operací, ochrany hranic a protiteroristických kampaní ve spolupráci s regionálními vládami." # todo: NEW TRANSLATION
+ ALG_sahel_stabilization_force: "Stabilizační síly Sahelu" # todo: NEW TRANSLATION
+ ALG_sahel_stabilization_force_desc: "Alžírsko převezme vedoucí úlohu při vytvoření stálých stabilizačních sil Sahelu, afrického bezpečnostního rámce vedeného Afričany, který bude čelit povstáním a zločineckým sítím v regionu." # todo: NEW TRANSLATION
+ ALG_exploit_sahel_resources: "Využít zdroje Sahelu" # todo: NEW TRANSLATION
+ ALG_exploit_sahel_resources_desc: "Alžírský vliv v Sahelu poskytuje přístup k nevyužitým přírodním zdrojům. Vyjednáváním o těžebních a infrastrukturních kontraktech můžeme v regionu zajistit ekonomické zisky a strategická partnerství." # todo: NEW TRANSLATION
+ ALG_propose_maghreb_union: "Navrhnout Maghrebskou unii" # todo: NEW TRANSLATION
+ ALG_propose_maghreb_union_desc: "Nastal čas oživit vizi sjednoceného Maghrebu. Alžírsko převezme iniciativu a navrhne obnovení integračního úsilí se zaměřením na hospodářskou spolupráci, společnou infrastrukturu a diplomatické sladění." # todo: NEW TRANSLATION
+ ALG_economic_integration_initiative: "Hospodářská integrace Maghrebu" # todo: NEW TRANSLATION
+ ALG_economic_integration_initiative_desc: "Snižováním cel, investicemi do infrastruktury a koordinací diskusí o měnové politice bude Alžírsko prosazovat vytvoření společné maghrebské hospodářské zóny, z níž budou těžit všechny členské státy." # todo: NEW TRANSLATION
+ ALG_maghreb_joint_defense_pact: "Společný obranný pakt Maghrebu" # todo: NEW TRANSLATION
+ ALG_maghreb_joint_defense_pact_desc: "Bezpečný Maghreb vyžaduje kolektivní obranu. Navrhneme regionální vojenský pakt zaměřený na ochranu hranic, sdílení zpravodajských informací a společná vojenská cvičení." # todo: NEW TRANSLATION
+ ALG_idea_joint_military_arab: "Společná arabská armáda" # todo: NEW TRANSLATION
+ palestine_issue_very_positive: "Podpora palestinské otázky" # todo: NEW TRANSLATION
+ ALG_algerian_airforce: "Modernizovat alžírské letectvo" # todo: NEW TRANSLATION
+ ALG_algerian_airforce_desc: "Moderní a schopné letectvo je nezbytné pro národní obranu. Investujeme do restrukturalizace, výcviku pilotů a nákupu vybavení, abychom posílili leteckou připravenost." # todo: NEW TRANSLATION
+ ALG_buy_russia_su_27: "Zakoupit ruské letouny SU-27" # todo: NEW TRANSLATION
+ ALG_buy_russia_su_27_desc: "V rámci modernizace našeho letectva vyjednáme s Ruskem o nákupu série stíhaček SU-27, čímž posílíme naši vzdušnou převahu a strategické odstrašení." # todo: NEW TRANSLATION
+ ALG_oum_el_bouaghi_airbase: "Rozšířit leteckou základnu Oum El Bouaghi" # todo: NEW TRANSLATION
+ ALG_oum_el_bouaghi_airbase_desc: "Oum El Bouaghi, strategicky položené na východě, bude rozšířeno na hlavní operační centrum alžírského letectva, což zlepší naše schopnosti rychlého nasazení." # todo: NEW TRANSLATION
+ ALG_protect_the_skies: "Chránit oblohu" # todo: NEW TRANSLATION
+ ALG_protect_the_skies_desc: "S rostoucími regionálními vzdušnými hrozbami musí Alžírsko zajistit schopnost odhalit a zachytit jakýkoli průnik. Posílení protivzdušné obrany je prioritou národní bezpečnosti." # todo: NEW TRANSLATION
+ ALG_russia_mig_servicing: "Servisní smlouvy na ruské MiGy" # todo: NEW TRANSLATION
+ ALG_russia_mig_servicing_desc: "Údržba a modernizace naší flotily MiGů vyžaduje hlubší spolupráci s ruskými dodavateli. Tyto servisní dohody zajistí dlouhodobou provozuschopnost stávajících letounů." # todo: NEW TRANSLATION
+ ALG_bosnian_parts: "Zajistit bosenské náhradní díly" # todo: NEW TRANSLATION
+ ALG_bosnian_parts_desc: "Alžírsko zajistí přebytečné komponenty z bosenského obranného průmyslu na podporu a modernizaci našich stárnoucích letounů, čímž zajistí nákladově efektivní údržbu a opravy." # todo: NEW TRANSLATION
+ ALG_comprehensive_radar_installations: "Rozšířit radarové pokrytí" # todo: NEW TRANSLATION
+ ALG_comprehensive_radar_installations_desc: "Pro dosažení úplného radarového pokrytí celé země vybudujeme podél alžírských hranic a pobřeží moderní radarová stanoviště a odstraníme všechna slepá místa v našem vzdušném prostoru." # todo: NEW TRANSLATION
+ ALG_reform_or_control: "Reforma, nebo kontrola" # todo: NEW TRANSLATION
+ ALG_reform_or_control_desc: "Alžírsko stojí na politické křižovatce. Volba mezi skutečnou demokratickou reformou a upevněním autoritářské kontroly určí budoucnost národa." # todo: NEW TRANSLATION
+ ALG_legalize_moderate_islamists: "Legalizovat umírněné islamisty" # todo: NEW TRANSLATION
+ ALG_legalize_moderate_islamists_desc: "Uznání umírněných islamistických stran nabízí cestu ke stabilitě prostřednictvím začlenění. Pečlivě kontrolovaná účast ve volbách může zmírnit radikální nálady." # todo: NEW TRANSLATION
+ ALG_restore_elections: "Obnovit volební procesy" # todo: NEW TRANSLATION
+ ALG_restore_elections_desc: "Aby stát znovu získal legitimitu, musí Alžírsko obnovit svobodné a spravedlivé volby. Transparentnost a odpovědnost budou pilíři naší nové politické éry." # todo: NEW TRANSLATION
+ ALG_public_media_and_transparency: "Posílit veřejná média a transparentnost" # todo: NEW TRANSLATION
+ ALG_public_media_and_transparency_desc: "Reforma státních médií a svoboda tisku jsou zásadní pro obnovení důvěry veřejnosti. Informovaní občané jsou nezbytní pro demokratický rozvoj." # todo: NEW TRANSLATION
+ ALG_crackdown_on_opposition: "Tvrdě zasáhnout proti opozici" # todo: NEW TRANSLATION
+ ALG_crackdown_on_opposition_desc: "Abychom zabránili destabilizaci, musí být nesouhlas potlačen. Dohled, cenzura a cílená zatýkání zneškodní protivládní živly." # todo: NEW TRANSLATION
+ ALG_state_surveillance_network: "Státní sledovací síť" # todo: NEW TRANSLATION
+ ALG_state_surveillance_network_desc: "Rozšíříme národní zpravodajskou síť pro sledování politických aktivit, aby byly hrozby zneškodněny dříve, než mohou eskalovat." # todo: NEW TRANSLATION
+ ALG_joint_governance_experiment: "Experiment se společnou správou" # todo: NEW TRANSLATION
+ ALG_joint_governance_experiment_desc: "Vyzkoušíme novou formu dělení moci mezi sekulárními a náboženskými silami, abychom zabránili obnovení konfliktu. Tento riskantní experiment může přinést mír, nebo ochromení." # todo: NEW TRANSLATION
+ ALG_a_radical_reorientation: "Radikální přesměrování" # todo: NEW TRANSLATION
+ ALG_a_radical_reorientation_desc: "Dosavadní řád selhal. Díky božskému mandátu a ideologické jasnosti se otevírá nová cesta vedená nekompromisní vírou a odmítnutím legitimity sekulárního státu." # todo: NEW TRANSLATION
+ ALG_covert_support_for_islamist_radicals: "Tajná podpora islamistických radikálů" # todo: NEW TRANSLATION
+ ALG_covert_support_for_islamist_radicals_desc: "Radikální sítě zůstávají aktivní ve stínech. Strategickým financováním a tajnou logistickou pomocí můžeme tyto skupiny posílit, aby zevnitř působily proti režimu." # todo: NEW TRANSLATION
+ ALG_tolerate_radical_preachers: "Tolerovat radikální kazatele" # todo: NEW TRANSLATION
+ ALG_tolerate_radical_preachers_desc: "Kazatelna je mocným nástrojem. Přivíráním očí nad podněcujícími kázáními umožníme, aby se ideologie přirozeně šířila mešitami a médii a radikalizovala obyvatelstvo v náš prospěch." # todo: NEW TRANSLATION
+ ALG_welcome_militants: "Přivítat zahraniční militanty" # todo: NEW TRANSLATION
+ ALG_welcome_militants_desc: "Naše věc nezná hranice. Zahraniční bojovníci sdílející naši ideologii mohou být bezpečně ukryti a začleněni do místních buněk, čímž přinesou bojové zkušenosti a neochvějné odhodlání." # todo: NEW TRANSLATION
+ ALG_arms_smuggling: "Operace pašování zbraní" # todo: NEW TRANSLATION
+ ALG_arms_smuggling_desc: "Abychom se připravili na budoucí střet, musíme vybudovat podzemní zásobovací řetězce pro zbraně a munici. Aliance s nadnárodními obchodníky se zbraněmi naplní naše potřeby." # todo: NEW TRANSLATION
+ ALG_start_the_uprising: "Zahájit povstání" # todo: NEW TRANSLATION
+ ALG_start_the_uprising_desc: "Nastal čas. S aktivovanými sítěmi, ozbrojenými bojovníky a šířící se ideologií povstaneme proti režimu a vyhlásíme nový islámský řád." # todo: NEW TRANSLATION
+ ALG_clamp_down_on_vices: "Zakročit proti neřestem" # todo: NEW TRANSLATION
+ ALG_clamp_down_on_vices_desc: "Hazard, alkohol a morální úpadek nemají v naší společnosti místo. Rozsáhlá kampaň na odstranění těchto neřestí očistí národ a upevní náboženskou autoritu." # todo: NEW TRANSLATION
+ ALG_revolutionize_the_ulema: "Revolucionizovat učené duchovenstvo" # todo: NEW TRANSLATION
+ ALG_revolutionize_the_ulema_desc: "Náboženské zřízení se musí postavit na stranu revoluční věci. Tradiční učenci budou odstraněni nebo převychováni, zatímco jejich místo zaujmou loajální duchovní jako duchovní vůdci státu." # todo: NEW TRANSLATION
+ ALG_traditional_gender_roles: "Posílit tradiční genderové role" # todo: NEW TRANSLATION
+ ALG_traditional_gender_roles_desc: "Moderní éra narušila přirozený řád. Vrátíme se k božsky ustanoveným rolím mužů a žen a zavedeme přísný právní rámec, který tyto hodnoty odráží." # todo: NEW TRANSLATION
+ ALG_pledge_allegiance_to_al_qaeda: "Přísahat věrnost al-Káidě" # todo: NEW TRANSLATION
+ ALG_pledge_allegiance_to_al_qaeda_desc: "Aby globální džihád uspěl, je nezbytná jednota. Přísaháme věrnost al-Káidě, ztotožníme se s její vizí a získáme podporu širší islamistické sítě." # todo: NEW TRANSLATION
+ ALG_pledge_allegiance_to_daesh: "Přísahat věrnost Islámskému státu" # todo: NEW TRANSLATION
+ ALG_pledge_allegiance_to_daesh_desc: "Al-Káida je zchátralé a upadající hnutí, které ztratilo ze zřetele svůj původní cíl vést globální džihád a místo toho uvízlo v místních záležitostech. Je čas, aby její místo zaujalo nové hnutí s novým smyslem pro účel." # todo: NEW TRANSLATION
+ ALG_secure_the_loyalty_of_aqim: "Zajistit loajalitu AQIM" # todo: NEW TRANSLATION
+ ALG_secure_the_loyalty_of_aqim_desc: "Al-Káida v islámském Maghrebu musí uznat naše vedení a koordinovat svou činnost s naším státem. Jejich loajalita zajistí trvalou kontrolu nad regionálními džihádistickými operacemi." # todo: NEW TRANSLATION
+ ALG_war_on_daesh: "Válka proti Dá‘iši" # todo: NEW TRANSLATION
+ ALG_secure_the_loyalty_effect_tt: "Účinky závisejí na tom, zda jsou některé z následujících zemí našimi loutkami: [AQY.GetNameWithFlag], [NUS.GetNameWithFlag], [TTP.GetNameWithFlag]" # todo: NEW TRANSLATION
+ ALG_war_on_daesh_desc: "Takzvaný „Islámský stát“ představuje jasnou hrozbu pro naše vedení globálního džihádistického hnutí. Jejich odmítání naší autority a nekonvenční taktiky již nelze tolerovat. Nastal čas zahájit totální válku proti povýšené Dá‘iši." # todo: NEW TRANSLATION
+ ALG_jihad_in_the_maghreb: "Džihád v Maghrebu" # todo: NEW TRANSLATION
+ ALG_jihad_in_the_maghreb_desc: "Sekulární režimy Maroka, Tuniska a Alžírska musí padnout. Svůj chalífát rozšíříme silou a zahájíme regionální kampaň náboženské války a územní expanze." # todo: NEW TRANSLATION
+ ALG_jihad_in_arabia: "Džihád v Arábii" # todo: NEW TRANSLATION
+ ALG_jihad_in_arabia_desc: "Arabský poloostrov, domov svatých míst Mekky a Medíny, je snad nábožensky nejvýznamnějším územím na světě. Proto nelze dovolit, aby mu nadále vládly nedostatečně zbožné a zkorumpované vlády." # todo: NEW TRANSLATION
+ ALG_jihad_in_the_levant: "Džihád v Iráku a aš-Šámu" # todo: NEW TRANSLATION
+ ALG_jihad_in_the_levant_desc: "Irák a Levanta jsou regiony rozvrácené cizími silami už od koloniální éry. Křižácké a sionistické okupanty v Levantě lze vyhnat pouze silou zbraní." # todo: NEW TRANSLATION
+ ALG_jihad_in_west_africa: "Džihád v západní Africe" # todo: NEW TRANSLATION
+ ALG_jihad_in_west_africa_desc: "Naše revoluce nekončí v Maghrebu. Nastal čas vyvézt džihád do západní Afriky, svrhnout režimy v Mali, Nigeru a Mauritánii a pochodovat na jih." # todo: NEW TRANSLATION
+ AlgeriaFocus.56.t: "[FROM.GetNameDef] podporuje naši nezávislost" # todo: NEW TRANSLATION
+ AlgeriaFocus.56.d: "[FROM.GetNameDef] potvrdilo svou podporu naší nezávislosti na Maroku a naznačilo, že s námi chce v budoucnu spolupracovat ještě úžeji." # todo: NEW TRANSLATION
+ AlgeriaFocus.56.a: "Skvělé" # todo: NEW TRANSLATION
+ AlgeriaFocus.57.t: "[FROM.GetNameDef] nás opouští" # todo: NEW TRANSLATION
+ AlgeriaFocus.57.d: "[FROM.GetNameDef] stáhlo svou podporu naší nezávislosti. Po desetiletí nás podporovalo, ale zdá se, že nás nyní opustilo, aby zlepšilo vztahy s Marokem." # todo: NEW TRANSLATION
+ AlgeriaFocus.57.a: "Zrádci!" # todo: NEW TRANSLATION
+ algeria_algerian_foreign_policy: "Alžírská zahraniční politika" # todo: NEW TRANSLATION
+ AlgeriaFocus.64.t: "[FROM.GetNameDef] požaduje autonomii Kréty" # todo: NEW TRANSLATION
+ AlgeriaFocus.64.d: "Vláda [FROM.GetAdjective] uvedla, že má obavy z našeho postavení na ostrově Kréta. Podle ní naše pevná kontrola nad ostrovem ohrožuje její bezpečnost. Požaduje, aby Krétě byla udělena omezená autonomie, která zajistí naši menší vojenskou a politickou přítomnost v oblasti." # todo: NEW TRANSLATION
+ AlgeriaFocus.64.a: "Myslím, že můžeme" # todo: NEW TRANSLATION
+ AlgeriaFocus.64.b: "To je směšné" # todo: NEW TRANSLATION
+ AlgeriaFocus.65.t: "[FROM.GetNameDef] souhlasí" # todo: NEW TRANSLATION
+ AlgeriaFocus.65.d: "Vláda [FROM.GetAdjective] přijala naše požadavky na zvýšení autonomie krétského lidu." # todo: NEW TRANSLATION
+ AlgeriaFocus.65.a: "Úspěch" # todo: NEW TRANSLATION
+ AlgeriaFocus.66.t: "[FROM.GetNameDef] odmítá" # todo: NEW TRANSLATION
+ AlgeriaFocus.66.d: "Vláda [FROM.GetAdjective] odmítla naše požadavky na zvýšení autonomie krétského lidu." # todo: NEW TRANSLATION
+ AlgeriaFocus.66.a: "Budou toho litovat" # todo: NEW TRANSLATION
+ AlgeriaFocus.66.b: "Počkáme si na vhodný okamžik" # todo: NEW TRANSLATION
+ AlgeriaFocus.67.t: "Hamás zahajuje novou intifádu" # todo: NEW TRANSLATION
+ AlgeriaFocus.67.d: "Hamás vyhlásil proti nám novou intifádu. Pozorujeme zvýšenou aktivitu bojovníků Hamásu a proti naší vládě nad Palestinou již proběhlo několik demonstrací. Máme zprávy, že za vyzbrojováním a motivováním Hamásu k této nové kampani může stát Alžírsko." # todo: NEW TRANSLATION
+ AlgeriaFocus.67.a: "Budou toho litovat" # todo: NEW TRANSLATION
+ AlgeriaFocus.68.t: "[FROM.GetNameDef] sponzoruje novou intifádu" # todo: NEW TRANSLATION
+ AlgeriaFocus.68.d: "[FROM.GetAdjective] nám poslalo zbraně a peníze, abychom zahájili novou intifádu proti Izraeli. U našich kanceláří již čeká řada nových rekrutů a lidé se mobilizují k protestům proti izraelským okupantům." # todo: NEW TRANSLATION
+ AlgeriaFocus.68.a: "Děkujeme Alžírsku" # todo: NEW TRANSLATION
+ AlgeriaFocus.69.t: "Hamás povstává" # todo: NEW TRANSLATION
+ AlgeriaFocus.69.d: "Dostáváme zprávy, že bojovníci Hamásu přebírají klíčové instituce a budovy v Pásmu Gazy. Přísahali, že Izrael bude čelit nové intifádě." # todo: NEW TRANSLATION
+ AlgeriaFocus.69.a: "Zatraceně" # todo: NEW TRANSLATION
+ AlgeriaFocus.69.b: "Zničte je!" # todo: NEW TRANSLATION
+ AlgeriaFocus.70.t: "[FROM.GetNameDef] kontaktuje Tubu" # todo: NEW TRANSLATION
+ AlgeriaFocus.70.d: "Obdrželi jsme zprávy, že Alžírsko začalo vyzbrojovat povstalce z řad Tubu na severu naší země. Pokud Alžírsko zaútočí, tito povstalci se k němu jistě připojí." # todo: NEW TRANSLATION
+ AlgeriaFocus.70.a: "Znepokojivé" # todo: NEW TRANSLATION
+ AlgeriaFocus.71.t: "[FROM.GetNameDef] navrhuje společnou těžbu" # todo: NEW TRANSLATION
+ AlgeriaFocus.71.d: "Vláda [FROM.GetAdjective] navrhla společný projekt těžby uranu v pásu Aouzou. Ten v budoucnu poskytne zdroje oběma našim zemím. Jak bychom měli odpovědět?" # todo: NEW TRANSLATION
+ AlgeriaFocus.71.a: "Skvělý nápad!" # todo: NEW TRANSLATION
+ AlgeriaFocus.71.b: "Je nám to jedno" # todo: NEW TRANSLATION
+ AlgeriaFocus.72.t: "[FROM.GetNameDef] přijímá naši dohodu" # todo: NEW TRANSLATION
+ AlgeriaFocus.72.d: "Vláda [FROM.GetAdjective] přijala naši dohodu o společné těžbě." # todo: NEW TRANSLATION
+ AlgeriaFocus.72.a: "Skvělé" # todo: NEW TRANSLATION
+ AlgeriaFocus.73.t: "[FROM.GetNameDef] odmítá naši dohodu" # todo: NEW TRANSLATION
+ AlgeriaFocus.73.d: "Vláda [FROM.GetAdjective] odmítla naši dohodu o společné těžbě." # todo: NEW TRANSLATION
+ AlgeriaFocus.73.a: "Zatraceně" # todo: NEW TRANSLATION
+ AlgeriaFocus.74.t: "[FROM.GetNameDef] zahajuje těžbu uranu" # todo: NEW TRANSLATION
+ AlgeriaFocus.74.d: "[FROM.GetNameDef] zahájilo těžbu uranu v pásu Aouzou. Většina zdrojů sice připadne jim, ale my získáme malý podíl a [FROM.GetAdjective] souhlasilo s uhrazením všech nákladů na těžbu." # todo: NEW TRANSLATION
+ AlgeriaFocus.74.a: "Dobře" # todo: NEW TRANSLATION
+ AlgeriaFocus.91.t: "Rozšíření vlády" # todo: NEW TRANSLATION
+ AlgeriaFocus.91.d: "Nyní, když jsme převzali moc, musíme upevnit své postavení a pokračovat v reformách rozšířením naší základny podpory. Dvě strany nám nabídly spojenectví, ovšem za určitých podmínek. Malou, ale ambiciózní stranu vedou decentralisté usilující o přenesení moci a zavedení iniciativ přímé demokracie. Druhou stranu vedou populističtí republikáni, kteří usilují o centralizovanou byrokratickou mocenskou základnu schopnou působit jako účinná sjednocující síla pořádku a spravedlnosti a jsou zcela proti decentralizaci. Spojíme se s:" # todo: NEW TRANSLATION
+ AlgeriaFocus.91.a: "Decentralisty" # todo: NEW TRANSLATION
+ AlgeriaFocus.91.b: "Populistickými republikány" # todo: NEW TRANSLATION
+ AlgeriaFocus.91.c: "Ano, o tom můžeme mluvit později" # todo: NEW TRANSLATION
+ ALG_algiers_metro_expansion_desc: "Alžír trpí dopravními zácpami a zastaralou infrastrukturou. Rozšíření systému metra nejen modernizuje dopravu, ale také vyšle investorům i občanům signál o pokroku." # todo: NEW TRANSLATION
+ ALG_cevital_group_expansion: "Rozšíření skupiny Cevital" # todo: NEW TRANSLATION
+ ALG_cevital_group_expansion_desc: "Cevital, přední alžírský koncern, má potenciál stát se kontinentální velmocí. Podpora jeho růstu vytvoří pracovní místa a urychlí průmyslovou modernizaci." # todo: NEW TRANSLATION
+ ALG_scientific_research_push: "Podpora vědeckého výzkumu" # todo: NEW TRANSLATION
+ ALG_scientific_research_push_desc: "Inovace je klíčem k dlouhodobému růstu. Investicemi do vědeckého výzkumu může Alžírsko položit základy ekonomiky založené na znalostech." # todo: NEW TRANSLATION
+ ALG_expand_higher_education: "Rozšíření vysokoškolského vzdělávání" # todo: NEW TRANSLATION
+ ALG_expand_higher_education_desc: "Univerzity a technické školy musí být rozšířeny a modernizovány, aby dokázaly naplnit požadavky 21. století. Vzdělanější obyvatelstvo posílí společnost i ekonomiku." # todo: NEW TRANSLATION
+ ALG_digitalize_education: "Digitalizace vzdělávání" # todo: NEW TRANSLATION
+ ALG_digitalize_education_desc: "Digitální platformy, online výuka a integrace informačních technologií způsobí revoluci v alžírském školství a vytvoří kvalifikovanější a přizpůsobivější pracovní sílu." # todo: NEW TRANSLATION
+ ALG_national_research_program: "Zahájení národního výzkumného programu" # todo: NEW TRANSLATION
+ ALG_national_research_program_desc: "Koordinovaný národní výzkumný program propojí univerzity, průmysl a vládu a umožní Alžírsku držet krok s globálním technologickým pokrokem." # todo: NEW TRANSLATION
+ ALG_industry: "Rozšíření alžírského průmyslu" # todo: NEW TRANSLATION
+ ALG_industry_desc: "Alžírský průmysl musí být diverzifikován a modernizován. Podporou průmyslového růstu můžeme snížit závislost na uhlovodících a vytvořit vyváženější ekonomiku." # todo: NEW TRANSLATION
+ ALG_constantine_hub: "Rozvoj konstantinského průmyslového centra" # todo: NEW TRANSLATION
+ ALG_constantine_hub_desc: "Město Konstantina je významným regionálním centrem. Investice zde vytvoří nové průmyslové centrum, které rozšíří růst mimo Alžír." # todo: NEW TRANSLATION
+ ALG_tlemcen_agro_industry: "Podpora zemědělsko-potravinářského průmyslu v Tlemcenu" # todo: NEW TRANSLATION
+ ALG_tlemcen_agro_industry_desc: "Zemědělství a zpracování potravin v Tlemcenu lze rozvinout v mocné zemědělsko-průmyslové odvětví, které uživí národ a vytvoří pracovní místa." # todo: NEW TRANSLATION
+ ALG_snvi_modernization: "Modernizace SNVI" # todo: NEW TRANSLATION
+ ALG_snvi_modernization_desc: "SNVI, alžírský národní výrobce vozidel, musí být modernizován, aby mohl konkurovat na světovém trhu. Rozšíření výrobní kapacity posílí naši dopravní a průmyslovou základnu." # todo: NEW TRANSLATION
+ ALG_annaba_steel_complex: "Ocelárenský komplex v Annábě" # todo: NEW TRANSLATION
+ ALG_annaba_steel_complex_desc: "V Annábě se nachází největší alžírská ocelárna. Její modernizace a rozšíření poskytnou základ budoucím infrastrukturním a obranným odvětvím." # todo: NEW TRANSLATION
+ ALG_arzew_refinery: "Rozšíření arzewské rafinerie" # todo: NEW TRANSLATION
+ ALG_arzew_refinery_desc: "Rafinerie v Arzewu je zásadním článkem našeho energetického exportu. Rozšíření její kapacity zajistí příliv zahraniční měny a posílí dominanci Sonatrachu." # todo: NEW TRANSLATION
+ ALG_pipeline_modernization: "Modernizace potrubí" # todo: NEW TRANSLATION
+ ALG_pipeline_modernization_desc: "Moderní potrubní systém je nezbytný pro bezpečný a efektivní vývoz energie. Modernizace našich potrubí zabrání ztrátám a zlepší mezinárodní spolehlivost." # todo: NEW TRANSLATION
+ ALG_skikda_port_modernization: "Modernizace přístavu Skikda" # todo: NEW TRANSLATION
+ ALG_skikda_port_modernization_desc: "Přístav Skikda je klíčový pro obchod a vývoz energie. Modernizace jeho zařízení zajistí, že Alžírsko zůstane konkurenceschopným námořním centrem." # todo: NEW TRANSLATION
+ ALG_grant_foreign_energy_concessions: "Udělení zahraničních energetických koncesí" # todo: NEW TRANSLATION
+ ALG_grant_foreign_energy_concessions_desc: "Udělením vybraných koncesí zahraničním společnostem může Alžírsko přilákat kapitál a technologie, ovšem za cenu rizika částečného oslabení své energetické nezávislosti." # todo: NEW TRANSLATION
+ ALG_hassi_messaoud_expansion: "Rozšíření ropného pole Hassi Messaoud" # todo: NEW TRANSLATION
+ ALG_hassi_messaoud_expansion_desc: "Ropné pole Hassi Messaoud je největší v Alžírsku. Rozšíření těžební a rafinérské kapacity výrazně zvýší naši energetickou produkci." # todo: NEW TRANSLATION
+ ALG_expand_sonatrach: "Rozšíření Sonatrachu" # todo: NEW TRANSLATION
+ ALG_expand_sonatrach_desc: "Sonatrach je srdcem alžírské ekonomiky. Posílení této společnosti zajistí naši globální úlohu v těžbě ropy a zemního plynu." # todo: NEW TRANSLATION
+ ALG_protect_oil_gas_facilities: "Ochrana ropných a plynových zařízení" # todo: NEW TRANSLATION
+ ALG_protect_oil_gas_facilities_desc: "Naše energetická infrastruktura je v dobách války či nepokojů zranitelná. Posílení obrany ropných a plynových zařízení je zásadní pro národní bezpečnost." # todo: NEW TRANSLATION
+ ALG_minister_of_agriculture_reforms: "Program zemědělské reformy" # todo: NEW TRANSLATION
+ ALG_minister_of_agriculture_reforms_desc: "Léta zanedbávání oslabila alžírské zemědělství. Nové reformy pod vedením ministerstva zemědělství obnoví produktivitu a sníží závislost na dovozu potravin." # todo: NEW TRANSLATION
+ ALG_modernize_agricultural_sector: "Modernizace zemědělského sektoru" # todo: NEW TRANSLATION
+ ALG_modernize_agricultural_sector_desc: "Léta konfliktů a zanedbávání zanechala alžírské farmy zastaralé a neefektivní. Mechanizace, zavlažovací systémy a dotace oživí zemědělský sektor a zajistí potravinovou bezpečnost našeho lidu." # todo: NEW TRANSLATION
+ ALG_rural_development_program: "Program rozvoje venkova" # todo: NEW TRANSLATION
+ ALG_rural_development_program_desc: "Alžírské vesnice dlouhodobě trpí nedostatkem investic. Přesměrováním prostředků do venkovské infrastruktury, energetiky a pracovních míst snížíme nerovnost mezi městy a venkovem a posílíme národní jednotu." # todo: NEW TRANSLATION
+ ALG_promote_algerian_produce: "Podpora alžírské produkce" # todo: NEW TRANSLATION
+ ALG_promote_algerian_produce_desc: "Naše půda poskytuje širokou škálu plodin a přírodních produktů, avšak místním trhům dominují zahraniční dovozy. Pomocí značek, dotací a obchodních pobídek zvýšíme prestiž alžírského zboží doma i v zahraničí." # todo: NEW TRANSLATION
+ ALG_build_farm_to_market_roads: "Silnice z farem na trhy" # todo: NEW TRANSLATION
+ ALG_build_farm_to_market_roads_desc: "Zemědělci potřebují lepší přístup ke spotřebitelům a exportním trasám. Výstavba silnic z venkovských oblastí do městských center a přes tuniské hranice posílí naše zemědělství i regionální vazby." # todo: NEW TRANSLATION
+ ALG_new_agro_industrial_complexes: "Nové zemědělsko-průmyslové komplexy" # todo: NEW TRANSLATION
+ ALG_new_agro_industrial_complexes_desc: "Alžírsko musí propojit zemědělství s moderním průmyslem. Výstavbou zemědělsko-průmyslových komplexů můžeme vytvářet produkty s vyšší přidanou hodnotou, pracovní místa a zvyšovat příjmy na venkově." # todo: NEW TRANSLATION
+ ALG_invest_tourism: "Investice do cestovního ruchu" # todo: NEW TRANSLATION
+ ALG_invest_tourism_desc: "Cestovní ruch v Alžírsku kdysi vzkvétal, než válečná léta odradila návštěvníky. Opatrnými investicemi a zlepšením bezpečnosti můžeme začít obnovovat toto životně důležité odvětví." # todo: NEW TRANSLATION
+ ALG_restore_hotel_resorts: "Obnova hotelových resortů" # todo: NEW TRANSLATION
+ ALG_restore_hotel_resorts_desc: "Mnoho alžírských resortů a hotelů leží v troskách nebo chátrá. Jejich renovace pomůže přilákat zahraniční návštěvníky a poskytne domácí pracovní místa." # todo: NEW TRANSLATION
+ ALG_blida_airbase_modernization: "Modernizace letecké základny Blída" # todo: NEW TRANSLATION
+ ALG_blida_airbase_modernization_desc: "Letecká základna Blída je klíčovým zařízením pro civilní dopravu i vojenskou přepravu. Její modernizace zlepší propojení Alžírska a podpoří regionální obchod." # todo: NEW TRANSLATION
+ ALG_algiers_oran_highway: "Dálnice Alžír–Oran" # todo: NEW TRANSLATION
+ ALG_algiers_oran_highway_desc: "Propojení Alžíru s Oranem moderní dálnicí zkrátí přepravní časy, podpoří obchod a posílí hospodářskou páteř Alžírska." # todo: NEW TRANSLATION
+ ALG_east_west_highway_project: "Projekt východo-západní dálnice" # todo: NEW TRANSLATION
+ ALG_east_west_highway_project_desc: "Východo-západní dálnice, táhnoucí se napříč celým Alžírskem, bude jedním z největších infrastrukturních projektů v Africe. Propojí naše regiony a podnítí obchod." # todo: NEW TRANSLATION
+ ALG_ski_resorts_of_tikjda: "Lyžařské resorty v Tikjdě" # todo: NEW TRANSLATION
+ ALG_ski_resorts_of_tikjda_desc: "V kabylských horách leží Tikjda, resort s nevyužitým potenciálem. Modernizace jeho zařízení a podpora zimního cestovního ruchu diverzifikují hospodářskou základnu Alžírska." # todo: NEW TRANSLATION
+ ALG_north_african_tourism_hub: "Centrum severoafrického cestovního ruchu" # todo: NEW TRANSLATION
+ ALG_north_african_tourism_hub_desc: "Investicemi do našich pobřeží, kulturního dědictví a přírodní krajiny se Alžírsko může stát přední turistickou destinací v severní Africe a konkurovat našim středomořským sousedům." # todo: NEW TRANSLATION
+ ALG_it_investments: "Investice do IT" # todo: NEW TRANSLATION
+ ALG_it_investments_desc: "Vzhledem k rychlosti vývoje IT technologií se bez nich v budoucnu neobejdeme. Je tedy nejvyšší čas do tohoto odvětví investovat." # todo: NEW TRANSLATION
+ ALG_infrastructure_investments: "Investice do infrastruktury" # todo: NEW TRANSLATION
+ ALG_infrastructure_investments_desc: "Naše infrastruktura je po 90. letech v žalostném stavu. Je nejvyšší čas ji obnovit." # todo: NEW TRANSLATION
+ ALG_science_idea: "Alžírská věda a vzdělávání" # todo: NEW TRANSLATION
+ ALG_fuel: "Alžírské palivo" # todo: NEW TRANSLATION
+ ALG_dziri: "Dziri" # todo: NEW TRANSLATION
+ ALG_dziri_desc: "Alžírsko musí řešit naléhavé společenské otázky: od tradic a islámu po práva Amazighů a demokratické reformy. Cesta, kterou zvolíme, utváří národ." # todo: NEW TRANSLATION
+ ALG_traditions_matter: "Na tradicích záleží" # todo: NEW TRANSLATION
+ ALG_traditions_matter_desc: "Alžírský lid pevně lpí na víře, rodině a národní identitě. Naše vláda musí tyto tradice respektovat, pokud si chceme zachovat legitimitu." # todo: NEW TRANSLATION
+ ALG_restrict_women_roles: "Zachování rodinného zákoníku" # todo: NEW TRANSLATION
+ ALG_restrict_women_roles_desc: "Konzervativní představitelé tvrdí, že úloha žen by měla zůstat zaměřena na rodinu. Reforma rodinného zákoníku by mohla rozzlobit náboženské autority i veřejnost." # todo: NEW TRANSLATION
+ ALG_expand_berber_rights: "Uznání práv Amazighů" # todo: NEW TRANSLATION
+ ALG_expand_berber_rights_desc: "Hnutí za berberskou identitu požaduje úplné kulturní a jazykové uznání. Přiznání práv Amazighům by zmírnilo napětí, ale mohlo by odcizit zastánce tvrdé linie." # todo: NEW TRANSLATION
+ ALG_censor_internet: "Cenzura internetu" # todo: NEW TRANSLATION
+ ALG_censor_internet_desc: "Sociální média a online aktivismus podnítily protesty. Omezení online svobod obnoví státní kontrolu, ale poškodí náš mezinárodní obraz." # todo: NEW TRANSLATION
+ ALG_open_civil_society: "Otevření občanské společnosti" # todo: NEW TRANSLATION
+ ALG_open_civil_society_desc: "Demokratické síly tlačí na svobodnou občanskou společnost, nevládní organizace a sdružení Hiraku. Otevření tohoto prostoru posílí legitimitu, ale hrozí politickou fragmentací." # todo: NEW TRANSLATION
+ ALG_integration_policy: "Integrační politika" # todo: NEW TRANSLATION
+ ALG_integration_policy_desc: "Migranti ze subsaharské Afriky a vracející se diaspora čelí problémům. Strukturovaná integrační politika může snížit společenské napětí a podpořit soudržnost." # todo: NEW TRANSLATION
+ ALG_marriage_subsidies: "Dotace na sňatky" # todo: NEW TRANSLATION
+ ALG_marriage_subsidies_desc: "Mladí lidé mají potíže uzavírat sňatky a zakládat rodiny. Dotace na bydlení a svatby stabilizují společnost a podpoří zakládání rodin." # todo: NEW TRANSLATION
+ ALG_constitutionalize_rights: "Zakotvení práv v ústavě" # todo: NEW TRANSLATION
+ ALG_constitutionalize_rights_desc: "Občanské svobody, práva žen a uznání Amazighů můžeme prostřednictvím ústavní reformy trvale zakotvit. To by signalizovalo trvalou společenskou změnu." # todo: NEW TRANSLATION
+ ALG_berber_right: "Uznání Amazighů" # todo: NEW TRANSLATION
+ ALG_berber_right_desc: "Identita Amazighů byla oficiálně uznána, což posílilo stabilitu v regionech s berberskou většinou." # todo: NEW TRANSLATION
+ Algeria.238.t: "Stabilizace Mali" # todo: NEW TRANSLATION
+ Algeria.238.d: "Probíhající konflikt v Mali ohrožuje destabilizací celý region Sahelu. Tuáregští separatisté a džihádistické skupiny vytvořili bezpečnostní krizi na naší jižní hranici. Alžírsko si nemůže dovolit zůstat pasivní, zatímco se nestabilita šíří. Musíme se rozhodnout, zda podpoříme malijskou vládu při obnově pořádku, nebo zahájíme jednání s tuáregskými frakcemi v naději na trvalé urovnání." # todo: NEW TRANSLATION
+ Algeria.238.a: "Podpořit malijskou vládu" # todo: NEW TRANSLATION
+ Algeria.238.b: "Poskytnout podporu tuáregským silám" # todo: NEW TRANSLATION
+ ALG_us_invest_tt: "Vyhledat americké investice v Alžírsku" # todo: NEW TRANSLATION
+ ALG_fra_invest_tt: "Vyhledat francouzské investice v Alžírsku" # todo: NEW TRANSLATION
+ ALG_eng_invest_tt: "Vyhledat anglické investice v Alžírsku" # todo: NEW TRANSLATION
+ ALG_chi_invest_tt: "Vyhledat čínské investice v Alžírsku" # todo: NEW TRANSLATION
+ ALG_rus_invest_tt: "Vyhledat ruské investice v Alžírsku" # todo: NEW TRANSLATION
+ ALG_open_to_west: "Otevření Západu" # todo: NEW TRANSLATION
+ ALG_open_to_west_desc: "Alžírsko dlouhodobě usilovalo o neutralitu, ale časy se mění. Užší spojení se západním světem by nám mohlo přinést stabilitu, bezpečnost a investiční příležitosti." # todo: NEW TRANSLATION
+ ALG_nato_partnership: "Partnerství s NATO" # todo: NEW TRANSLATION
+ ALG_nato_partnership_desc: "Prozkoumáme strukturovanou spolupráci s NATO. Toto partnerství posílí mezinárodní postavení Alžírska a pomůže modernizovat naše ozbrojené síly." # todo: NEW TRANSLATION
+ ALG_energy_partnership_eu: "Energetické partnerství s EU" # todo: NEW TRANSLATION
+ ALG_energy_partnership_eu_desc: "Obrovské energetické zásoby Alžírska jsou v Evropě velmi žádané. Navázáním energetických partnerství s Francií a Spojeným královstvím můžeme zajistit lukrativní smlouvy a dlouhodobé investice." # todo: NEW TRANSLATION
+ ALG_strengthen_eu_trade: "Posílení obchodních vztahů s EU" # todo: NEW TRANSLATION
+ ALG_strengthen_eu_trade_desc: "Evropa zůstává naším největším obchodním partnerem. Posílení těchto ekonomických vazeb stabilizuje náš exportní trh a dále začlení Alžírsko do globálního obchodu." # todo: NEW TRANSLATION
+ ALG_expand_us_partnership: "Rozšíření partnerství s USA" # todo: NEW TRANSLATION
+ ALG_expand_us_partnership_desc: "Spojené státy usilují o stabilitu v severní Africe. Rozšířením hospodářské a bezpečnostní spolupráce s Washingtonem může Alžírsko přilákat investice a získat mocného spojence." # todo: NEW TRANSLATION
+ ALG_become_nato_ally: "Stát se spojencem NATO" # todo: NEW TRANSLATION
+ ALG_become_nato_ally_desc: "Ačkoli by plné členství v NATO mohlo být předčasné, Alžírsko může získat status důvěryhodného spojence. To by nám poskytlo přístup k vojenským znalostem, společným cvičením a diplomatickému vlivu." # todo: NEW TRANSLATION
+ ALG_exchange_research_with_nato: "Výměna výzkumu s NATO" # todo: NEW TRANSLATION
+ ALG_exchange_research_with_nato_desc: "Vědecká spolupráce se spojenci v NATO umožní Alžírsku těžit ze společného výzkumu, sdílení vojenských technologií a modernizace našich vzdělávacích a výzkumných institucí." # todo: NEW TRANSLATION
+ ALG_get_nato_military_exp: "Získání vojenských zkušeností NATO" # todo: NEW TRANSLATION
+ ALG_get_nato_military_exp_desc: "Rozsáhlý vojenský výcvik a doktrína NATO nabízejí cenné znalosti. Alžírské ozbrojené síly se modernizují prostřednictvím společných cvičení a strategického vedení." # todo: NEW TRANSLATION
+ ALG_counterterrorism_coordination: "Koordinace boje proti terorismu" # todo: NEW TRANSLATION
+ ALG_counterterrorism_coordination_desc: "Terorismus zůstává v severní Africe významnou hrozbou. Koordinací s zpravodajskými a protiteroristickými jednotkami NATO může Alžírsko posílit domácí bezpečnost i regionální stabilitu." # todo: NEW TRANSLATION
+ ALG_get_investements_from_nato: "Přilákání investic NATO" # todo: NEW TRANSLATION
+ ALG_get_investements_from_nato_desc: "Naše sbližování s NATO přiláká od členských zemí ekonomickou podporu a infrastrukturní projekty a zajistí dlouhodobé přínosy pro alžírskou ekonomiku." # todo: NEW TRANSLATION
+ ALG_strengthen_democratic_norms: "Posílení demokratických norem" # todo: NEW TRANSLATION
+ ALG_strengthen_democratic_norms_desc: "Pro úplné začlenění do západního světa musí Alžírsko posílit demokratické instituce. To zahrnuje ochranu občanských svobod, podporu pluralismu a povzbuzení politických reforem." # todo: NEW TRANSLATION
+ ALG_seek_greater_influence_in_wto: "Snaha o větší vliv ve WTO" # todo: NEW TRANSLATION
+ ALG_seek_greater_influence_in_wto_desc: "S rozvojem Alžírska musíme rozšířit svou úlohu ve Světové obchodní organizaci a zajistit, aby byl náš hlas slyšet v globálních ekonomických jednáních." # todo: NEW TRANSLATION
+ ALG_seek_security_council_seat: "Snaha o křeslo v Radě bezpečnosti OSN" # todo: NEW TRANSLATION
+ ALG_seek_security_council_seat_desc: "Diplomatická historie Alžírska a jeho mírové mise nám dávají silné argumenty pro trvalé zastoupení v Radě bezpečnosti OSN. Musíme o tento cíl usilovat." # todo: NEW TRANSLATION
+ ALG_join_nato: "Vstup do NATO" # todo: NEW TRANSLATION
+ ALG_join_nato_desc: "Po desetiletích neutrality a opatrného balancování se Alžírsko připravuje na historický krok: plné členství v NATO. Toto rozhodnutí upevní naše místo mezi západními mocnostmi a přetvoří naši zahraniční politiku." # todo: NEW TRANSLATION
+ ALG_global_companies: "Pozvání globálních korporací" # todo: NEW TRANSLATION
+ ALG_global_companies_desc: "Otevřením našich trhů zahraničním investorům může Alžírsko přilákat globální korporace, aby v naší ekonomice založily své pobočky. To podpoří průmyslový růst, transfer technologií a mezinárodní prestiž." # todo: NEW TRANSLATION
+ ALG_huawei: "Telekomunikace Huawei" # todo: NEW TRANSLATION
+ ALG_huawei_desc: "Huawei nabídla vybudování pokročilé telekomunikační infrastruktury v Alžírsku, čímž nám poskytne moderní digitální páteř a upevní naši úlohu v informačním věku." # todo: NEW TRANSLATION
+ ALG_hyundai: "Průmyslové rozšíření Hyundai" # todo: NEW TRANSLATION
+ ALG_hyundai_desc: "Hyundai projevil zájem o investice do alžírského automobilového a průmyslového sektoru. Přijetím jejich továren můžeme podpořit zaměstnanost a technologický rozvoj." # todo: NEW TRANSLATION
+ ALG_weapons_expert: "Zahraniční odborné znalosti v oblasti zbraní" # todo: NEW TRANSLATION
+ ALG_weapons_expert_desc: "Spoluprací se zahraničními obrannými firmami může Alžírsko získat nové znalosti v oblasti podpůrných zbraní a taktických systémů a posílit své pozemní síly." # todo: NEW TRANSLATION
+ ALG_airburst_weapons: "Vývoj zbraní s vzdušným výbuchem" # todo: NEW TRANSLATION
+ ALG_airburst_weapons_desc: "Technologie vzdušného výbuchu umožňuje pěchotě zasahovat nepřátele ukryté za překážkami nebo v opevněných pozicích. Investice do tohoto špičkového systému výrazně zvýší naši účinnost na bojišti." # todo: NEW TRANSLATION
+ ALG_vehicle_industry: "Rozšíření automobilového průmyslu" # todo: NEW TRANSLATION
+ ALG_vehicle_industry_desc: "Partnerstvím s globálními výrobci automobilů a průmyslovými firmami může Alžírsko vybudovat silný průmysl vojenských i civilních vozidel a podpořit obranu i ekonomiku." # todo: NEW TRANSLATION
+ ALG_advanced_ultility_vehicle: "Pokročilá užitková vozidla" # todo: NEW TRANSLATION
+ ALG_advanced_ultility_vehicle_desc: "Náš automobilový sektor musí přejít k pokročilému vývoji. Výroba moderních a spolehlivých užitkových vozidel posílí logistiku a efektivitu dopravy." # todo: NEW TRANSLATION
+ ALG_sat_tech: "Spolupráce v oblasti satelitních technologií" # todo: NEW TRANSLATION
+ ALG_sat_tech_desc: "Díky partnerství s globálními firmami může Alžírsko vyvinout pokročilé satelitní technologie a zlepšit své sledovací, komunikační a polohovací systémy." # todo: NEW TRANSLATION
+ ALG_advanced_radar: "Pokročilé radarové systémy" # todo: NEW TRANSLATION
+ ALG_advanced_radar_desc: "Moderní radarové a detekční technologie poskytnou Alžírsku lepší obranné schopnosti a umožní jeho začlenění do pokročilých regionálních bezpečnostních struktur." # todo: NEW TRANSLATION
+ ALG_microsoft: "Digitální infrastruktura Microsoftu" # todo: NEW TRANSLATION
+ ALG_microsoft_desc: "Partnerstvím se společností Microsoft může Alžírsko modernizovat své IT a softwarové sektory, posílit kybernetickou bezpečnost, digitální správu a technologicky řízený růst." # todo: NEW TRANSLATION
+ ALG_Lenovo: "Technologické investice Lenova" # todo: NEW TRANSLATION
+ ALG_Lenovo_desc: "Lenovo má zájem rozšířit svou přítomnost v Alžírsku. Spolupráce s touto společností posílí náš průmysl počítačového hardwaru a podpoří technologické inovace." # todo: NEW TRANSLATION
+ ALG_Danone: "Rozšíření potravinářského průmyslu Danone" # todo: NEW TRANSLATION
+ ALG_Danone_desc: "Přijetí investic společnosti Danone do alžírského potravinářského sektoru podpoří výživu, standardy výroby potravin a mezinárodní obchodní vztahy." # todo: NEW TRANSLATION
+ ALG_toyota: "Průmyslové partnerství s Toyotou" # todo: NEW TRANSLATION
+ ALG_toyota_desc: "Pozváním Toyoty k založení průmyslových a automobilových závodů může Alžírsko zvýšit výrobu vozidel, vytvořit pracovní místa a podpořit technologický pokrok v automobilovém sektoru." # todo: NEW TRANSLATION
+ ALG_terror_2013_medium_tt: "Situace se zhoršuje, což podněcuje §ORadikalizaci§! a snižuje §Rstabilitu§!." # todo: NEW TRANSLATION
+ ALG_terror_2013_high_tt: "Útok se vymyká kontrole. §RNárodní stabilita prudce klesá§!, zatímco §Oradikální povstalci§! získávají půdu." # todo: NEW TRANSLATION
+ ALG_healthcare_reform_tt: "§YVeřejná nespokojenost§! musí být nižší než §Y40§!, aby mohla být zahájena reforma zdravotnictví." # todo: NEW TRANSLATION
+ ALG_education_reform_tt: "§YVeřejná nespokojenost§! musí být nižší než §Y40§!, aby mohla být zahájena reforma školství." # todo: NEW TRANSLATION
+ ALG_unemployment_reform_tt: "§YVeřejná nespokojenost§! musí být nižší než §Y40§!, aby mohla být zahájena reforma nezaměstnanosti." # todo: NEW TRANSLATION
+ ALG_employment_TT: "§HNezaměstnanost§! je nižší než §H20%§!" # todo: NEW TRANSLATION
+ ALG_grand_mosque: "Velká mešita v Alžíru" # todo: NEW TRANSLATION
+ ALG_grand_mosque_desc: "Velká mešita v Alžíru, symbol duchovního a kulturního obrození Alžírska, patří mezi nejvyšší a nejvelkolepější mešity na světě. Její výstavba nejen demonstruje architektonické ambice národa, ale slouží také jako maják islámského dědictví a jednoty. Dokončení tohoto monumentálního projektu posílí národní hrdost a rozšíří vliv Alžírska napříč muslimským světem." # todo: NEW TRANSLATION
+ ALG_big_cities_or_rising_states: "Program městského nebo regionálního rozvoje" # todo: NEW TRANSLATION
+ ALG_big_cities_or_rising_states_desc: "Po programu poválečné obnovy musí vláda rozhodnout o dalším kroku. Máme soustředit zdroje na hlavní pobřežní města a posílit tak průmyslovou páteř Alžírska, nebo pozvednout vnitrozemské a pouštní oblasti a dosáhnout vyváženého národního růstu?" # todo: NEW TRANSLATION
+ ALG_focus_on_big_cities: "Zaměření na velká města" # todo: NEW TRANSLATION
+ ALG_focus_on_big_cities_desc: "Městská centra jako Alžír, Oran a Konstantina jsou motory alžírského hospodářství. Zaměřením rozvojového úsilí na ně můžeme modernizovat infrastrukturu a zvýšit produktivitu." # todo: NEW TRANSLATION
+ ALG_rising_states_program: "Program rozvíjejících se oblastí" # todo: NEW TRANSLATION
+ ALG_rising_states_program_desc: "Zatímco pobřežní města prosperují, vnitrozemské oblasti zaostávají. Program rozvíjejících se oblastí má přivést silnice, školy a průmysl do srdce Alžírska a zajistit, aby žádná provincie nezůstala pozadu." # todo: NEW TRANSLATION
+ ALG_develop_atlas: "Rozvoj alžírského Atlasu" # todo: NEW TRANSLATION
+ ALG_develop_atlas_desc: "Hornaté oblasti Atlasu mají velký potenciál pro zemědělství a drobný průmysl. Investice zde zlepší místní životní úroveň a vytvoří dlouhodobou potravinovou bezpečnost." # todo: NEW TRANSLATION
+ ALG_develop_kabylia: "Rozšíření regionu Kabylie" # todo: NEW TRANSLATION
+ ALG_develop_kabylia_desc: "Kabylie má silnou kulturní identitu a pracovité obyvatelstvo. Rozvoj infrastruktury a úřadů posílí regionální hrdost i národní jednotu." # todo: NEW TRANSLATION
+ ALG_develop_aures: "Zemědělský růst v Aurès" # todo: NEW TRANSLATION
+ ALG_develop_aures_desc: "Pohoří Aurès je domovem rozsáhlé zemědělské půdy a pracovitých komunit. Modernizace zemědělské výroby zde sníží venkovskou chudobu a stabilizuje zásobování potravinami." # todo: NEW TRANSLATION
+ ALG_expand_oran: "Rozšíření průmyslové zóny Oranu" # todo: NEW TRANSLATION
+ ALG_expand_oran_desc: "Oran je jedním z nejvýznamnějších průmyslových a přístavních měst Alžírska. Rozšíření jeho průmyslové zóny vytvoří nová pracovní místa a podpoří vývoz." # todo: NEW TRANSLATION
+ ALG_expand_algiers: "Modernizace Alžíru" # todo: NEW TRANSLATION
+ ALG_expand_algiers_desc: "Alžír jako tepající srdce Alžírska musí pokračovat ve svém rozvoji. Nové úřady, infrastruktura a městské reformy z něj vytvoří vzorové severoafrické hlavní město." # todo: NEW TRANSLATION
+ ALG_expand_constantine: "Investice do Konstantiny" # todo: NEW TRANSLATION
+ ALG_expand_constantine_desc: "Dlouhá tradice vzdělávání a kultury činí z Konstantiny ideální centrum vyššího vzdělávání a inovací. Investice zde vytvoří novou generaci alžírských myslitelů a inženýrů." # todo: NEW TRANSLATION
+ ALG_develop_tamanrasset: "Rozvoj infrastruktury Tamanrassetu" # todo: NEW TRANSLATION
+ ALG_develop_tamanrasset_desc: "Hluboko v Sahaře je Tamanrasset klíčem k logistice jižního Alžírska. Silnice, zásobovací uzly a komunikační infrastruktura propojí poušť se severem." # todo: NEW TRANSLATION
+ ALG_develop_mzab: "Energetické posílení údolí Mzab" # todo: NEW TRANSLATION
+ ALG_develop_mzab_desc: "Region Mzab má odolného ducha a rostoucí energetické potřeby. Výstavba nových elektráren poskytne místnímu obyvatelstvu elektřinu a pracovní místa." # todo: NEW TRANSLATION
+ ALG_develop_granderg: "Využití zdrojů Grand Ergu" # todo: NEW TRANSLATION
+ ALG_develop_granderg_desc: "Grand Erg Occidental může vypadat prázdně, ale jeho podzemní bohatství vypráví jiný příběh. Rozvoj těžby ropy zde posílí postavení Alžírska jako producenta energie." # todo: NEW TRANSLATION
+ ALG_FIS.1.t: "Návrat Ulemů" # todo: NEW TRANSLATION
+ ALG_FIS.1.d: "V rámci Islámské fronty spásy vznikla intenzivní debata o směřování našeho hnutí. Wahhábističtí učenci, inspirovaní přísnými saúdskými výklady, volají po úplném očištění alžírského islámu a politiky od toho, co považují za zkažené novoty. Tradiční alžírští Ulemové mezitím prosazují návrat k duchovnímu vedení a národní reformě v rámci tolerantnějšího islámského systému.\n\nNaše volba určí duši hnutí." # todo: NEW TRANSLATION
+ ALG_FIS.1.a: "Následujme wahhábistické Ulemy. Očistěme a posilme víru" # todo: NEW TRANSLATION
+ ALG_FIS.1.b: "Podpořme tradiční Ulemy. Reformujme a veďme národ" # todo: NEW TRANSLATION
+ ALG_FIS.2.t: "Budoucnost Islámské fronty spásy" # todo: NEW TRANSLATION
+ ALG_FIS.2.d: "V roce 1991, po masových demonstracích vedených Islámskou frontou spásy (FIS), alžírské úřady odpověděly silou, což znamenalo jeden z nejkrvavějších zlomů v moderních dějinách národa. Zakladatel hnutí Abbasi Madani byl po červnových událostech odsouzen k patnácti letům vězení. Během nich armáda a policie násilně rozehnaly tisíce příznivců FIS. Generál Khaled Nezzar nařídil Madaniho zatčení a vyhlásil výjimečný stav s cílem stranu rozložit a potlačit islamistický vliv. Tvrdý zásah vedl k chaosu, civilním obětem a rozpuštění veškeré naděje na pokojnou reformu — jiskře, která zažehla ničivou alžírskou občanskou válku, později známou jako Černé desetiletí. S Abbasi Madanim ve vězení a vedením FIS rozptýleným se uvnitř hnutí objevily nové osobnosti. Nyní, když se náš vliv tiše vrací, vyvstává otázka: kdo nás provede touto érou krve a obětí k nové vizi Alžírska?" # todo: NEW TRANSLATION
+ ALG_FIS.2.a: "Jmenujme spoluzakladatele a hlas lidu. Aliho Belhadje" # todo: NEW TRANSLATION
+ ALG_FIS.2.b: "Přijměme cestu boje. Abdelhak Layada, zakladatel GIA" # todo: NEW TRANSLATION
+ ALG_ps_victory: "Vítězství Lidové fronty spásy" # todo: NEW TRANSLATION
+ ALG_ps_victory_desc: "Islámská fronta spásy zvítězila. Alžírsko stojí na rozcestí mezi vírou a řádem, mezi mešitou a kasárnami. Nyní musíme upevnit tento nový úsvit moci." # todo: NEW TRANSLATION
+ ALG_consolidate_power: "Upevnění nového řádu" # todo: NEW TRANSLATION
+ ALG_consolidate_power_desc: "Moc musí být zajištěna na všech úrovních společnosti. Strana, Ulemové a ozbrojené skupiny nyní musí sloužit jedinému účelu — zachování naší vlády." # todo: NEW TRANSLATION
+ ALG_national_reconstruction: "Národní obnova" # todo: NEW TRANSLATION
+ ALG_national_reconstruction_desc: "Náš válkou zničený národ musí být znovu vybudován z trosek. Obnova bude vyžadovat víru i pragmatismus, když obnovíme průmysl a důvěru veřejnosti." # todo: NEW TRANSLATION
+ ALG_religious_reconciliation: "Náboženské usmíření" # todo: NEW TRANSLATION
+ ALG_religious_reconciliation_desc: "Rozpory mezi alžírskými islámskými učenci ohrožují naši jednotu. Musíme překonat naše rozdíly a vytvořit jednotný náboženský základ nového státu." # todo: NEW TRANSLATION
+ ALG_crackdown_purges: "Tvrdé zásahy a čistky" # todo: NEW TRANSLATION
+ ALG_crackdown_purges_desc: "Abychom si udrželi moc, musíme odstranit opozici. Zbytky starého režimu, sekulární důstojníci a disidentské frakce musí být očištěny." # todo: NEW TRANSLATION
+ ALG_unify_parties: "Sjednocení islámských hnutí" # todo: NEW TRANSLATION
+ ALG_unify_parties_desc: "Rozmanité islamistické skupiny, které podpořily náš vzestup, nyní musí být sjednoceny pod jediným praporem. Jednota Ummy začíná doma." # todo: NEW TRANSLATION
+ ALG_infrastructure_crash: "Obnova infrastruktury" # todo: NEW TRANSLATION
+ ALG_infrastructure_crash_desc: "Občanská válka zanechala naši infrastrukturu v troskách. Zahájíme nouzové programy na obnovu silnic, mostů a veřejných sítí." # todo: NEW TRANSLATION
+ ALG_industry_investment: "Průmyslové investice" # todo: NEW TRANSLATION
+ ALG_industry_investment_desc: "Pro udržení dlouhodobé obnovy musíme investovat do národního průmyslu a podporovat místní podnikatele vedené islámskými hospodářskými zásadami." # todo: NEW TRANSLATION
+ ALG_madrasa_reforms: "Reformy medres" # todo: NEW TRANSLATION
+ ALG_madrasa_reforms_desc: "Vzdělávání musí odpovídat moderním potřebám i náboženským hodnotám. Reforma našich medres zajistí novou generaci učenců a inženýrů pevně zakotvených ve víře." # todo: NEW TRANSLATION
+ ALG_community_outreach: "Programy spolupráce s komunitami" # todo: NEW TRANSLATION
+ ALG_community_outreach_desc: "Posílíme naše spojení s místními komunitami prostřednictvím sociálních iniciativ a budeme podporovat jednotu a solidaritu pod záštitou islámských hodnot." # todo: NEW TRANSLATION
+ ALG_internal_security: "Aparát vnitřní bezpečnosti" # todo: NEW TRANSLATION
+ ALG_internal_security_desc: "Musíme vytvořit loajální síť vnitřní bezpečnosti, která potlačí nepokoje a ochrání revoluci zevnitř." # todo: NEW TRANSLATION
+ ALG_intelligence_network: "Islámský zpravodajský úřad" # todo: NEW TRANSLATION
+ ALG_intelligence_network_desc: "Účinná zpravodajská služba nám umožní předvídat hrozby a zneškodnit spiknutí dříve, než zapustí kořeny." # todo: NEW TRANSLATION
+ ALG_transport_upgrade: "Modernizace dopravy" # todo: NEW TRANSLATION
+ ALG_transport_upgrade_desc: "Moderní dopravní systémy urychlí obchod, zlepší mobilitu a propojí alžírské regiony těsněji než kdy dříve." # todo: NEW TRANSLATION
+ ALG_energy_program: "Národní energetický program" # todo: NEW TRANSLATION
+ ALG_energy_program_desc: "Rozvoj obnovitelných i konvenčních zdrojů energie poskytne páteř nové alžírské ekonomice." # todo: NEW TRANSLATION
+ ALG_scholastic_centers: "Výzkumná centra učenců" # todo: NEW TRANSLATION
+ ALG_scholastic_centers_desc: "Naši učenci a vědci budou pracovat bok po boku na rozvoji islámského poznání i moderní vědy ve prospěch národního pokroku." # todo: NEW TRANSLATION
+ ALG_social_welfare: "Rozšíření sociální péče" # todo: NEW TRANSLATION
+ ALG_social_welfare_desc: "Postaráme se o chudé, vdovy a vysídlené a zajistíme, aby každý Alžířan těžil z požehnání naší vládní politiky založené na víře." # todo: NEW TRANSLATION
+ ALG_military_rebuild: "Obnova armády víry" # todo: NEW TRANSLATION
+ ALG_military_rebuild_desc: "Armáda musí být obnovena a očištěna od korupce. Disciplinované vojsko bude bránit revoluci i národ." # todo: NEW TRANSLATION
+ ALG_garrison_restructure: "Reorganizace posádek" # todo: NEW TRANSLATION
+ ALG_garrison_restructure_desc: "Musíme reorganizovat naše posádky, abychom zajistili loajalitu, efektivitu a připravenost vůči vnějším i vnitřním hrozbám." # todo: NEW TRANSLATION
+ ALG_factory_output: "Rozšíření průmyslové výroby" # todo: NEW TRANSLATION
+ ALG_factory_output_desc: "Naše investice přinášejí výsledky. Továrny nyní poběží na plnou kapacitu a podpoří hospodářský růst." # todo: NEW TRANSLATION
+ ALG_oil_and_minerals: "Rozvoj ropy a nerostných surovin" # todo: NEW TRANSLATION
+ ALG_oil_and_minerals_desc: "Bohaté přírodní zdroje Alžírska jsou božím darem. Zodpovědně je využijeme, abychom zajistili energetickou nezávislost." # todo: NEW TRANSLATION
+ ALG_religious_council: "Zřízení náboženské rady" # todo: NEW TRANSLATION
+ ALG_religious_council_desc: "Nejvyšší rada Ulemů bude určovat morální a duchovní směřování národa a zajišťovat, aby každý zákon odpovídal šaríe." # todo: NEW TRANSLATION
+ ALG_national_cohesion: "Národní soudržnost" # todo: NEW TRANSLATION
+ ALG_national_cohesion_desc: "Skrze sociální péči a víru zacelíme válečné rozdělení a vytvoříme novou, sjednocenou alžírskou identitu." # todo: NEW TRANSLATION
+ ALG_border_defences: "Posílení hranic" # todo: NEW TRANSLATION
+ ALG_border_defences_desc: "Naše hranice musí být opevněny proti infiltraci a pašování. Nepřátelé revoluce číhají za hranicemi i uvnitř." # todo: NEW TRANSLATION
+ ALG_strategic_reserves: "Program strategických rezerv" # todo: NEW TRANSLATION
+ ALG_strategic_reserves_desc: "Budeme hromadit zásoby a rozšiřovat rezervy, abychom zajistili vytrvalost v době války či hospodářské nestability." # todo: NEW TRANSLATION
+ ALG_heavy_industry: "Rozvoj těžkého průmyslu" # todo: NEW TRANSLATION
+ ALG_heavy_industry_desc: "Rozšíříme naši průmyslovou základnu za hranice spotřebního zboží a zaměříme se na těžké stroje, ocel a výrobu zbraní." # todo: NEW TRANSLATION
+ ALG_international_trade: "Rozšíření mezinárodního obchodu" # todo: NEW TRANSLATION
+ ALG_international_trade_desc: "Obchodem s přátelskými národy islámského světa se Alžírsko může stát centrem obchodu založeného na víře." # todo: NEW TRANSLATION
+ ALG_cultural_influence: "Iniciativa kulturního vlivu" # todo: NEW TRANSLATION
+ ALG_cultural_influence_desc: "Budeme šířit naši kulturu, naši víru a náš příklad a propagovat alžírský model islámského obrození." # todo: NEW TRANSLATION
+ ALG_welfare_programs: "Programy sociální péče" # todo: NEW TRANSLATION
+ ALG_welfare_programs_desc: "Komplexní sociální iniciativy posílí naši legitimitu a ochrání zranitelné." # todo: NEW TRANSLATION
+ ALG_army_of_salvation: "Armáda spásy" # todo: NEW TRANSLATION
+ ALG_army_of_salvation_desc: "Armáda spásy bude štítem islámu a mečem Alžírska — disciplinovaná, věrná a neústupná." # todo: NEW TRANSLATION
+ ALG_nation_energy_independence: "Národní energetická nezávislost" # todo: NEW TRANSLATION
+ ALG_nation_energy_independence_desc: "Jakmile bude naše energetika plně pod domácí kontrolou, osvobodíme se od zahraniční závislosti." # todo: NEW TRANSLATION
+ ALG_international_outreach: "Mezinárodní islámská spolupráce" # todo: NEW TRANSLATION
+ ALG_international_outreach_desc: "Podáme ruku islámskému světu a vybudujeme mosty s hnutími a národy, které sdílejí naši vizi." # todo: NEW TRANSLATION
+ ALG_regional_leadership: "Regionální vůdcovství" # todo: NEW TRANSLATION
+ ALG_regional_leadership_desc: "Alžírsko se prosadí jako politický, náboženský a hospodářský lídr v severní Africe i za jejími hranicemi." # todo: NEW TRANSLATION
+ ALG_technological_renaissance: "Technologická renesance" # todo: NEW TRANSLATION
+ ALG_technological_renaissance_desc: "Víra a věda nejsou nepřátelé. Pod vedením božského záměru přijmeme moderní výzkum a posílíme naše vojenské i technologické schopnosti." # todo: NEW TRANSLATION
+ ALG_islamic_coalition: "Vytvoření islámské koalice" # todo: NEW TRANSLATION
+ ALG_islamic_coalition_desc: "Jednotu Ummy je třeba obnovit prostřednictvím spolupráce. Alžírsko povede koalici islámských národů k vzájemné prosperitě." # todo: NEW TRANSLATION
+ ALG_grand_strategy: "Velká strategie" # todo: NEW TRANSLATION
+ ALG_grand_strategy_desc: "Náš národ nyní stojí pevně — vojensky, hospodářsky i duchovně. Nastal čas načrtnout dlouhodobou vizi naší civilizace." # todo: NEW TRANSLATION
+ ALG_final_salvation: "Konečná spása" # todo: NEW TRANSLATION
+ ALG_final_salvation_desc: "Poslední krok na naší cestě k vytvoření společnosti plně vedené božským zákonem a morální silou." # todo: NEW TRANSLATION
+ ALG_restoration_of_the_ummah: "Obnova Ummy" # todo: NEW TRANSLATION
+ ALG_restoration_of_the_ummah_desc: "Vize sjednoceného islámského světa je na dosah. Věřící znovu povstanou pod jediným praporem." # todo: NEW TRANSLATION
+ ALG_guidance_council: "Rada vedení" # todo: NEW TRANSLATION
+ ALG_guidance_council_desc: "Rada předních učenců bude dohlížet na naši politiku a zajišťovat, aby vláda zůstala věrná božskému vedení." # todo: NEW TRANSLATION
+ ALG_restore_the_ummah_experiment: "Experiment s Ummou" # todo: NEW TRANSLATION
+ ALG_restore_the_ummah_experiment_desc: "Pokusíme se vytvořit nový model vlády, který spojí víru, právo a vedení a bude inspirací pro muslimský svět." # todo: NEW TRANSLATION
+ ALG_victory_of_the_faithful: "Vítězství věřících" # todo: NEW TRANSLATION
+ ALG_victory_of_the_faithful_desc: "Naše vytrvalost a oddanost přinesly vítězství. Alžírsko nyní bude stát jako bašta věřících po celém světě." # todo: NEW TRANSLATION
+ ALG_exterminate_corruption: "Vymýcení korupce" # todo: NEW TRANSLATION
+ ALG_exterminate_corruption_desc: "Vymýtíme korupci z každé instituce. Žádný úředník, voják ani duchovní nebude stát nad božskou spravedlností." # todo: NEW TRANSLATION
+ ALG_to_serve_allah: "Sloužit Alláhovi" # todo: NEW TRANSLATION
+ ALG_to_serve_allah_desc: "Naše vláda neslouží světským ambicím, ale jedině Alláhovi. Každá politika, každá reforma a každý boj musí odrážet podřízení se Jeho božské vůli. Sloužit Alláhovi znamená očistit národ i duši." # todo: NEW TRANSLATION
+ ALG_economic_islamization: "Islamizace hospodářství" # todo: NEW TRANSLATION
+ ALG_economic_islamization_desc: "Přebudujeme naše hospodářství na islámských základech. Systémy založené na úrocích a korupce budou nahrazeny financováním v souladu se šaríou, etickým obchodem a spravedlivým rozdělením bohatství." # todo: NEW TRANSLATION
+ FIS_rust_belt_rejuvenation: "Obnova rezavého pásu" # todo: NEW TRANSLATION
+ ALG_rust_belt_rejuvenation_desc: "Továrny opuštěné během let nepokojů znovu ožijí. Naši dělníci, vedeni vírou a cílem, obnoví průmyslové srdce Alžírska." # todo: NEW TRANSLATION
+ FIS_rule_to_perfection: "Vláda k dokonalosti" # todo: NEW TRANSLATION
+ ALG_rule_to_perfection_desc: "Naše správa musí být zdokonalena a dovedena k dokonalosti. Chalífát mysli, stav duše, dokonalost správy skrze božskou kázeň." # todo: NEW TRANSLATION
+ FIS_new_islamic_architecture: "Nová islámská architektura" # todo: NEW TRANSLATION
+ ALG_new_islamic_architecture_desc: "Nová éra vyžaduje novou tvář našeho národa. Prostřednictvím mešit, škol a občanských budov bude krása islámského umění symbolizovat znovuzrození Alžírska." # todo: NEW TRANSLATION
+ FIS_prioritize_military_industries: "Upřednostnění vojenského průmyslu" # todo: NEW TRANSLATION
+ ALG_prioritize_military_industries_desc: "Věrná armáda musí být vyzbrojena věrným průmyslem. Upřednostníme vojenskou výrobu a zajistíme, aby naše obrana stála na domácí síle." # todo: NEW TRANSLATION
+ FIS_industrialize_the_umma: "Industrializace Ummy" # todo: NEW TRANSLATION
+ ALG_industrialize_the_umma_desc: "Průmysl má sloužit islámu, nikoli chamtivosti. Umma se musí stát soběstačnou, produktivní a hrdou — civilizací poháněnou ocelí i vírou." # todo: NEW TRANSLATION
+ ALG_militarize_the_nation: "Militarizace národa" # todo: NEW TRANSLATION
+ ALG_militarize_the_nation_desc: "Každý věřící musí být připraven bránit Ummu. Připravíme naši společnost na úplnou mobilizaci pod božským velením." # todo: NEW TRANSLATION
+ ALG_soldiers_of_faith: "Vojáci víry" # todo: NEW TRANSLATION
+ ALG_soldiers_of_faith_desc: "Naši vojáci nebojují za půdu ani moc, ale za samotnou víru. Armáda víry bude štítem islámu a mečem národa." # todo: NEW TRANSLATION
+ ALG_forged_in_belief: "Ukuti ve víře" # todo: NEW TRANSLATION
+ ALG_forged_in_belief_desc: "Víra je naší ocelí — nezlomnou a neústupnou. Alžírští vojáci jsou ukuti ve víře a vedeni božským přesvědčením." # todo: NEW TRANSLATION
+ ALG_disciplined_army_of_god: "Disciplinovaná Boží armáda" # todo: NEW TRANSLATION
+ ALG_disciplined_army_of_god_desc: "Ukutíme armádu založenou na poslušnosti, čistotě a neochvějné oddanosti. Každý voják je zároveň válečníkem i služebníkem Boha." # todo: NEW TRANSLATION
+ ALG_made_of_steel_and_faith: "Z oceli a víry" # todo: NEW TRANSLATION
+ ALG_made_of_steel_and_faith_desc: "Naše legie budou pochodovat se silou železa a vírou proroků. Kázeň a víra splynou v nezlomnou sílu." # todo: NEW TRANSLATION
+ ALG_unrestricted_research: "Neomezený výzkum" # todo: NEW TRANSLATION
+ ALG_unrestricted_research_desc: "Věda není nepřítelem víry. Pod vedením božského záměru přijmeme moderní výzkum a posílíme naše vojenské i technologické schopnosti." # todo: NEW TRANSLATION
+ ALG_ai_military_integration: "Integrace umělé inteligence do armády" # todo: NEW TRANSLATION
+ ALG_ai_military_integration_desc: "Umělá inteligence a automatizace se stanou nástroji ve službě božského řádu. Tyto systémy začleníme do naší obranné struktury, abychom zvýšili přesnost a kontrolu." # todo: NEW TRANSLATION
+ ALG_new_executors_continent: "Noví vykonavatelé kontinentu" # todo: NEW TRANSLATION
+ ALG_new_executors_continent_desc: "Alžírsko je připraveno prosazovat božskou spravedlnost v celé Africe. Naše víra a ocel utvoří osud kontinentu." # todo: NEW TRANSLATION
+ ALG_the_future_in_the_present: "Budoucnost v přítomnosti" # todo: NEW TRANSLATION
+ ALG_the_future_in_the_present_desc: "Budoucnost již nastala, vedena Alláhovou moudrostí a posílena lidskou inovací. Náš národ povede věřící do nového věku." # todo: NEW TRANSLATION
+ ALG_destroy_their_will: "Zničit jejich vůli" # todo: NEW TRANSLATION
+ ALG_destroy_their_will_desc: "Rozdrtíme všechny, kdo odporují víře — v mysli, vůli i těle. Odpor bude zlomen a zvítězí božský řád." # todo: NEW TRANSLATION
+ ALG_fis_win: "Vítězství Islámské fronty spásy" # todo: NEW TRANSLATION
+ ALG_fis_win_desc: "Díky vytrvalosti, jednotě a božskému vedení Islámská fronta spásy zvítězila nad svými protivníky. Cesta před námi je cestou duchovní vlády a obnovy. Pro Alžírsko začíná nová kapitola, definovaná vírou, spravedlností a Alláhovou vůlí." # todo: NEW TRANSLATION
+ ALG_fis_win_tt: "§YOdemkne strom zaměření Islámské fronty spásy (FIS)§!" # todo: NEW TRANSLATION
+ ALG_FIS_return: "Návrat Islámské fronty spásy" # todo: NEW TRANSLATION
+ FIS_jamiat_al_karaouine: "Univerzita Al Karaouine" # todo: NEW TRANSLATION
+ ALG_declare_jihad: "Vyhlášení džihádu" # todo: NEW TRANSLATION
+ ALG_declare_jihad_desc: "Naše hnutí dospělo. Už se nebudeme omezovat na kázání a reformy. Nastal čas sjednotit věřící ve zbrani a vyhlásit džihád proti korupci a tyranii v zemích islámu." # todo: NEW TRANSLATION
+ ALG_tharir_al_aqsa: "Tahrír al-Aksá" # todo: NEW TRANSLATION
+ ALG_tharir_al_aqsa_desc: "Osvobození Al-Aksá je věčnou povinností Ummy. Shromáždíme věřící napříč Blízkým východem a vytvoříme posvátnou alianci pod jediným praporem odporu a jednoty." # todo: NEW TRANSLATION
+ ALG_faction_with_middle_east: "Sjednotit se s blízkovýchodní frontou" # todo: NEW TRANSLATION
+ ALG_faction_with_middle_east_desc: "Blízký východ zůstává duchovním srdcem islámu. Od Damašku po Mekku bude naše výzva znít a sjednotí sunnitské národy, které touží bránit Al-Aksá a vzdorovat utlačovatelům." # todo: NEW TRANSLATION
+ ALG_faction_with_north_africa: "Sjednotit se se severoafrickou frontou" # todo: NEW TRANSLATION
+ ALG_faction_with_north_africa_desc: "Naši bratři v severní Africe, od libyjských pouští po káhirské ulice, prožili stejné boje. Je čas oslovit je a pozvat je k naší věci." # todo: NEW TRANSLATION
+ ALG_faction_with_asia: "Sjednotit se s východní frontou" # todo: NEW TRANSLATION
+ ALG_faction_with_asia_desc: "Světlo islámu září i za Arábií. Národy Střední a Jižní Asie musí být vyzvány, aby se připojily k vzestupu Ummy — od stepí po ostrovy Východu." # todo: NEW TRANSLATION
+ ALG_faction.1.t: "Pozvání z Alžíru" # todo: NEW TRANSLATION
+ ALG_faction.1.d: "Naši vládu zastihlo diplomatické komuniké z Alžíru. Islámská fronta spásy, která nyní vládne Alžírsku, zve národy Blízkého východu, aby se připojily k nové koalici, Frontě osvobození Al-Aksá, jejímž cílem je koordinovat politickou a materiální podporu pro obranu a osvobození Al-Aksá. Přijetí by nás zavázalo k regionální věci; odmítnutí by nás oddělilo od alžírského projektu. Jak odpovíme?" # todo: NEW TRANSLATION
+ ALG_faction.1.a: "Přijmout, připojit se k Frontě osvobození Al-Aksá" # todo: NEW TRANSLATION
+ ALG_faction.1.b: "Odmítnout, k této regionální koalici se nepřipojíme" # todo: NEW TRANSLATION
+ ALG_faction.2.t: "Návrh z Maghrebu" # todo: NEW TRANSLATION
+ ALG_faction.2.d: "Delegace z Alžírska formálně pozvaly severoafrické vlády, aby přislíbily spolupráci v rámci nové koalice, Fronty osvobození Al-Aksá. Návrh usiluje o vytvoření maghrebské fronty ke koordinaci politického tlaku a humanitární podpory Palestině. Připojení by prohloubilo vztahy s Alžírem; odmítnutí by zachovalo naši současnou samostatnost. Jak odpovíme?" # todo: NEW TRANSLATION
+ ALG_faction.2.a: "Ano, Maghreb bude stát při sobě" # todo: NEW TRANSLATION
+ ALG_faction.2.b: "Ne, touto cestou se nevydáme" # todo: NEW TRANSLATION
+ ALG_faction.3.t: "Výzva z Alžíru na Východ" # todo: NEW TRANSLATION
+ ALG_faction.3.d: "Alžírští vyslanci oslovili asijské muslimské národy s nabídkou: připojit se k Frontě osvobození Al-Aksá, koalici zaměřené na koordinaci diplomatického, politického a materiálního úsilí na obranu Al-Aksá. Iniciativa žádá solidaritu napříč regiony, zároveň však hrozí zatažením do širších konfliktů. Připojíme se ke koalici Alžíru?" # todo: NEW TRANSLATION
+ ALG_faction.3.a: "Připojit se, odpovíme na výzvu k solidaritě" # todo: NEW TRANSLATION
+ ALG_faction.3.b: "Odmítnout, musíme se vyhnout tomuto zapletení" # todo: NEW TRANSLATION
+ ALG_islamic_offices: "Zřízení islámských úřadů" # todo: NEW TRANSLATION
+ ALG_islamic_offices_desc: "Abychom mohli vládnout podle zásad islámu, musí naše hnutí vybudovat organizovanou strukturu schopnou spravovat víru i stát. Zřízením islámských úřadů po celé zemi budeme dohlížet na náboženské vzdělávání, sociální záležitosti a morální vedení a zajistíme, aby vláda odpovídala hodnotám Ummy. Tyto úřady budou páteří našeho nového řádu a sjednotí lid pod vírou, kázní a spravedlností." # todo: NEW TRANSLATION
+ alg_politics_news.1.t: "Abdallah Djaballah zakládá FJD" # todo: NEW TRANSLATION
+ alg_politics_news.1.d: "Abdallah Djaballah, bývalý vůdce Hnutí za národní reformu (Islah) a zakladatel Ennahdy, oznámil vznik nové politické strany, Front pour la Justice et le Développement (FJD). FJD, inspirovaná tureckou Stranou spravedlnosti a rozvoje (AKP), usiluje o spojení islámských zásad s politickou umírněností a národním rozvojem. Hnutí chce obnovit důvěru veřejnosti v islamistickou politiku důrazem na spravedlnost, reformy a etickou vládu v alžírské éře po občanské válce." # todo: NEW TRANSLATION
+ alg_politics_news.1.a: "Na alžírskou politickou scénu vstupuje nové islamistické hnutí." # todo: NEW TRANSLATION
+ algerian.1.t: "Alžírská žádost o investice do infrastruktury" # todo: NEW TRANSLATION
+ algerian.1.d: "Alžírská vláda nás oslovila s návrhem financovat výstavbu silnic spojujících farmy s trhy a rozvoj venkovské infrastruktury. Tato investice by zlepšila zemědělskou distribuci a průmyslovou kapacitu v Alžírsku a zároveň nám umožnila rozšířit politický a hospodářský vliv. Iniciativa by však vyžadovala finanční příspěvek z naší pokladny." # todo: NEW TRANSLATION
+ algerian.1.a: "Financovat infrastrukturní projekt" # todo: NEW TRANSLATION
+ algerian.1.b: "Odmítnout žádost" # todo: NEW TRANSLATION
+ algerian.4.t: "Schválena spolupráce v oblasti infrastruktury" # todo: NEW TRANSLATION
+ algerian.4.d: "Tunisko souhlasilo s podporou naší iniciativy v oblasti infrastruktury spojující farmy s trhy. Investice posílí naše venkovské hospodářství a průmyslovou kapacitu a zároveň zlepší bilaterální vztahy." # todo: NEW TRANSLATION
+ algerian.4.a: "Krok vpřed pro naše hospodářství" # todo: NEW TRANSLATION
+ algerian.5.t: "Financování infrastruktury zamítnuto" # todo: NEW TRANSLATION
+ algerian.5.d: "Tunisko odmítlo financovat naši navrhovanou infrastrukturní iniciativu. Bez zahraniční podpory bude rozvoj silnic spojujících farmy s trhy a souvisejících projektů opožděn." # todo: NEW TRANSLATION
+ algerian.5.a: "Poradíme si sami" # todo: NEW TRANSLATION
+ algeria_news.30.t: "Povstání Černého jara" # todo: NEW TRANSLATION
+ algeria_news.30.d: "Po letech nepokojů v regionu Kabylie musíte rozhodnout, jak odpovědět na rostoucí požadavky berberského obyvatelstva." # todo: NEW TRANSLATION
+ algeria_news.30.a: "Udělit Kabylům úplnou nezávislost" # todo: NEW TRANSLATION
+ algeria_news.30.b: "Udělit Kabylům autonomii" # todo: NEW TRANSLATION
+ algeria_news.30.c: "Potlačit povstání" # todo: NEW TRANSLATION
+ algeria_news.30_a_tt: "Volba této cesty vytvoří nezávislý kabylský stát. Stabilita vzroste a získáme politickou moc." # todo: NEW TRANSLATION
+ algeria_news.30_b_tt: "Volba autonomie udělí Kabylům omezenou samosprávu (Barbacha). Stabilita mírně vzroste a získáme politickou moc." # todo: NEW TRANSLATION
+ algeria_news.30_c_tt: "Potlačení Kabylů sníží stabilitu a podporu války, ale získáte určitou politickou moc." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.43.t: "Pozvání do Rady islámských světů" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.43.d: "Vedení [Root.GetName] obdrželo formální pozvání ke vstupu do Rady islámských světů. Členství by posílilo hospodářskou spolupráci mezi islámskými národy, otevřelo nové obchodní příležitosti a upevnilo naše společné politické směřování. Připojení by nás však mohlo vzdálit od neislámských hospodářských bloků." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.43.a: "Připojit se k Radě" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.43.b: "Odmítnout pozvání" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.41.t: "Pozvání do Rady islámských světů" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.41.d: "Alžírsko nás formálně pozvalo ke vstupu do Rady islámských světů. Návrh zdůrazňuje hospodářskou spolupráci, politickou koordinaci a posílení vazeb mezi islámskými národy. Přijetí by mohlo zlepšit naše regionální postavení, zatímco odmítnutí může napnout vztahy." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.41.a: "Je to dobrý nápad" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.41.b: "Nemáme zájem" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.411.t: "Irák odmítá pozvání" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.411.d: "Irácká vláda zdvořile odmítla naše pozvání ke vstupu do Rady islámských světů s odvoláním na strategické úvahy a národní priority." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.411.a: "Je to nešťastné, ale bereme na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.42.t: "Pozvání do Rady islámských světů" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.42.d: "Obdrželi jsme oficiální odpověď týkající se naší iniciativy rozšířit Radu islámských světů. Pozvaný národ zvažuje, zda se hospodářsky a politicky spojit s CIW." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.42.a: "Přivítat je v Radě" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.42.b: "Odmítli" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.421.t: "Pozvání odmítnuto" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.421.d: "Pozvaná země odmítla účast v Radě islámských světů. Naše diplomatické úsilí bude nutné přesměrovat jinam." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.421.a: "Dobrá tedy" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.81.t: "Pozvání do aliance CIW" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.81.desc: "Obdrželi jsme pozvání ke vstupu do aliance Rady islámských světů. Návrh slibuje větší spolupráci a vzájemnou podporu, může však na oplátku vyžadovat ústupky." # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.81.a: "Pouze s odpovídajícími zárukami" # todo: NEW TRANSLATION
+ AlgeriaFocusEvents.81.b: "Rozhodně ne" # todo: NEW TRANSLATION
+ ALG_power_struggle_resistance_dominant: "§RLid otevřeně vzdoruje režimu§!" # todo: NEW TRANSLATION
+ ALG_power_struggle_army_dominant: "§BArmáda pevně kontroluje situaci§!" # todo: NEW TRANSLATION
+ ALG_power_struggle_resistance_rising: "§YVeřejný tlak na establishment sílí§!" # todo: NEW TRANSLATION
+ ALG_power_struggle_army_rising: "§YArmáda znovu upevňuje svou moc§!" # todo: NEW TRANSLATION
+ ALG_power_struggle_stable: "§WProzatím trvá křehká rovnováha§!" # todo: NEW TRANSLATION
+ ALG_grievance_muted: "§GPotlačená nespokojenost§!" # todo: NEW TRANSLATION
+ ALG_grievance_simmering: "§YVroucí rozhořčení§!" # todo: NEW TRANSLATION
+ ALG_grievance_widespread: "§YRozšířený hněv§!" # todo: NEW TRANSLATION
+ ALG_grievance_revolt: "§ROtevřené povstání§!" # todo: NEW TRANSLATION
+ ALG_army_grip_collapsing: "§RKolabující§!" # todo: NEW TRANSLATION
+ ALG_army_grip_weakening: "§YSlábnoucí§!" # todo: NEW TRANSLATION
+ ALG_army_grip_firm: "§BPevná§!" # todo: NEW TRANSLATION
+ ALG_army_grip_absolute: "§BAbsolutní§!" # todo: NEW TRANSLATION
+ ALG_west_alignment_tt: "Formalizovat strategické partnerství se Spojenými státy a prohloubit vazby s NATO a EU. To umožní přístup k západním technologiím a investicím, ale může napnout vztahy s Čínou a Ruskem." # todo: NEW TRANSLATION
+ ALG_china_alignment_tt: "Prohloubit spolupráci s Čínou v rámci Iniciativy pásu a stezky. Očekávejte rozsáhlé investice do infrastruktury a růst obchodu, západní mocnosti však budou ostražité." # todo: NEW TRANSLATION
+ alg_crackdown.1.t: "V Alžíru propukají protesty" # todo: NEW TRANSLATION
+ alg_crackdown.1.d: "Zatčení opozičních představitelů vyvolalo pouliční demonstrace. Demonstranti požadují politické reformy a konec represí." # todo: NEW TRANSLATION
+ alg_crackdown.1.a: "Rozdrtit protesty." # todo: NEW TRANSLATION
+ alg_crackdown.1.b: "Propustit některé zadržené." # todo: NEW TRANSLATION
+ alg_crackdown.2.t: "Celostátní stávky a demonstrace" # todo: NEW TRANSLATION
+ alg_crackdown.2.d: "Zákaz opozičních stran vyvolal masové hnutí připomínající protesty Hiraku. Země je paralyzována." # todo: NEW TRANSLATION
+ alg_crackdown.2.a: "Nasadit armádu." # todo: NEW TRANSLATION
+ alg_crackdown.2.b: "Zahájit dialog a zákaz zrušit." # todo: NEW TRANSLATION
+ democratic_reforms: "Proces demokratických reforem" # todo: NEW TRANSLATION
+ ALG_healthcare_success_tt: "Naše reforma zdravotnictví zlepší veřejné zdraví a zmírní nespokojenost." # todo: NEW TRANSLATION
+ ALG_healthcare_failure_tt: "Neschopnost provést reformu zdravotnictví prohloubí veřejný hněv a posílí politické postavení armády." # todo: NEW TRANSLATION
+ ALG_education_success_tt: "Reforma školství modernizuje naši pracovní sílu a sníží nespokojenost." # todo: NEW TRANSLATION
+ ALG_education_failure_tt: "Krize školství pokračuje. Frustrace veřejnosti narůstá." # todo: NEW TRANSLATION
+ ALG_unemployment_success_tt: "Programy tvorby pracovních míst sníží nezaměstnanost a stabilizují zemi." # todo: NEW TRANSLATION
+ ALG_unemployment_failure_tt: "Neschopnost řešit nezaměstnanost vyvolá stávky a nepokoje." # todo: NEW TRANSLATION
+ ALG_tamazgha.1.t: "Pozvání z Tamazghy" # todo: NEW TRANSLATION
+ ALG_tamazgha.1.d: "Vláda [FROM.GetName], nyní přejmenovaná na „Tamazgha“, se na nás obrátila s návrhem vytvořit novou regionální alianci založenou na společném amazighském dědictví a kulturní spolupráci. Tvrdí, že tato konfederace zajistí vzájemný hospodářský rozvoj, bezpečnost a odmítnutí zastaralých panarabských struktur, jako je Arabská liga.\n\nZatímco někteří členové naší vlády to považují za historickou příležitost, jiní zpochybňují záměry Tamazghy a její dlouhodobé cíle." # todo: NEW TRANSLATION
+ ALG_tamazgha.1.a: "Připojíme se ke konfederaci Tamazgha." # todo: NEW TRANSLATION
+ ALG_tamazgha.1.b: "Tohle není náš boj." # todo: NEW TRANSLATION
+ ALG_election_time_idea: "Příprava na příští volby" # todo: NEW TRANSLATION
+ ALG_casablanca_decisions: "Casabланská iniciativa" # todo: NEW TRANSLATION
+ ALG_casablanca_decisions_desc: "Diplomatické možnosti, jak vyvíjet tlak na Maroko ohledně Západní Sahary prostřednictvím Africké unie nebo mezinárodních kanálů." # todo: NEW TRANSLATION
+ ALG_casablanca_mission_tt: "Zahájit misi Casablanské iniciativy. Nejprve je nutné zvolit přístup. Mise trvá 180 dní a přinese výsledek nízké, střední nebo vysoké úrovně." # todo: NEW TRANSLATION
+ ALG_casablanca_mission_desc: "Zahájit časově omezený diplomatický tlak. Výsledek určí, zda tlak AU může odstranit marocké nároky, nebo při velkém úspěchu odstranit i jádra." # todo: NEW TRANSLATION
+ ALG_casablanca_approach_tt: "Zvolit strategický přístup pro Casablanskou iniciativu. Lze zvolit pouze jeden přístup; poté spusťte misi prostřednictvím její dlaždice." # todo: NEW TRANSLATION
+ ALG_casablanca_approach_great_powers: "Získat přízeň velmocí" # todo: NEW TRANSLATION
+ ALG_casablanca_approach_great_powers_desc: "Vynaložit politickou moc na získání přízně velmocí (USA/Španělsko/Rusko). Nejvyšší šance na rozhodující tlak AU, ale za vysokou cenu a s politickým rizikem." # todo: NEW TRANSLATION
+ ALG_casablanca_approach_regional: "Pouze regionální zaměření" # todo: NEW TRANSLATION
+ ALG_casablanca_approach_regional_desc: "Spolehnout se na regionální partnery a vyhnout se vlivu velmocí. Levnější a méně riskantní, ale s menší pravděpodobností rozhodujícího výsledku." # todo: NEW TRANSLATION
+ ALG_casablanca_approach_mixed: "Smíšená strategie" # todo: NEW TRANSLATION
+ ALG_casablanca_approach_mixed_desc: "Spojit regionální a mezinárodní tlak. Vyvážené náklady i šance." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.100.t: "Casablanská iniciativa: Získávání přízně velmocí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.100.d: "Alžírsko se rozhodlo získat podporu velmocí pro svou Casablanskou iniciativu. Je to nákladné, ale zvyšuje to šanci na silný výsledek v AU." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.101.t: "Casablanská iniciativa: Regionální přístup" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.101.d: "Alžírsko sleduje čistě regionální diplomatickou cestu a spoléhá se na sousední státy a spojence v Africké unii." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.102.t: "Casablanská iniciativa: Smíšená strategie" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.102.d: "Alžírsko spojí regionální a mezinárodní úsilí, aby zvýšilo tlak a zároveň omezilo rizika." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.103.t: "Casablanská iniciativa: Velký úspěch" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.103.d: "Casablanská iniciativa dosáhla rozhodujícího výsledku v procesu AU/OSN. Diplomatický tlak má skutečnou dynamiku; Alžírsko je v silné pozici, aby přimělo Maroko vzdát se diplomatických nároků a podle vašeho zaměření odstranit i jádra." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.104.t: "Casablanská iniciativa: Mírný úspěch" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.104.d: "Casablanská iniciativa přinesla významný diplomatický výsledek. Tlak na Maroko vzrostl; AU podporuje naši věc, ale není rozhodující." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.105.t: "Casablanská iniciativa: Skromný výsledek" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.105.d: "Casablanská iniciativa získala v AU pouze skromné sympatie. K vynucení zásadních ústupků bude zapotřebí další práce." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.106.t: "Casablanská iniciativa: Mise vypršela" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.106.d: "Uplynul čas bez hmatatelného výsledku. Diplomatická dynamika je ztracena." # todo: NEW TRANSLATION
+ AlgeriaFocusNews.100.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.101.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.102.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.103.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.104.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.105.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ AlgeriaFocusNews.106.a: "Vzít na vědomí" # todo: NEW TRANSLATION
+ ALG_morocco.2.t: "Tlak AU/OSN na Maroko" # todo: NEW TRANSLATION
+ ALG_morocco.2.d: "Po alžírské diplomatické kampani v AU a OSN čelí Maroko mezinárodnímu tlaku kvůli Západní Sahaře. Podvolí se království požadavkům, nebo bude vzdorovat a riskovat sankce?" # todo: NEW TRANSLATION
+ ALG_morocco.2.a: "Podvolit se pod tlakem" # todo: NEW TRANSLATION
+ ALG_morocco.2.b: "Vzdorovat tlaku a riskovat sankce" # todo: NEW TRANSLATION
+ Algeria_events.5.t: "Úspěšná kampaň proti pytláctví" # todo: NEW TRANSLATION
+ Algeria_events.5.desc: "Díky našemu koordinovanému úsilí byly v uplynulých měsících ochráněny stovky ohrožených zvířat. To nejen omezilo nelegální lov, ale také pomohlo zachovat křehké pouštní ekosystémy a zpomalit dopady desertifikace v postižených oblastech." # todo: NEW TRANSLATION
+ Algeria_events.5.a: "Vynikající" # todo: NEW TRANSLATION
+ Algeria_events.6.t: "Neúspěšná kampaň proti pytláctví" # todo: NEW TRANSLATION
+ Algeria_events.6.desc: "Navzdory našim pokusům chránit divokou přírodu pytláci pokračují ve své činnosti jako obvykle. Pouštní ekosystém zůstává ohrožen a naše kampaň měla jen malý účinek na omezení desertifikace či nelegálního lovu." # todo: NEW TRANSLATION
+ Algeria_events.6.a: "Všechno to úsilí přišlo vniveč!" # todo: NEW TRANSLATION
+ ALG_ethnic_arab_display: "Arabové: [?ALG_ethnic_arab]%" # todo: NEW TRANSLATION
+ ALG_ethnic_kabyle_display: "Kabylové: [?ALG_ethnic_kabyle]%" # todo: NEW TRANSLATION
+ ALG_kabyle_content: "Kabylská spolupráce" # todo: NEW TRANSLATION
+ ALG_kabyle_content_desc: "Kabylové, tradičně známí vysokou úrovní vzdělání, s nadšením přispívají k národnímu rozvoji a výzkumu." # todo: NEW TRANSLATION
+ ALG_kabyle_discontent: "Hnutí za autonomii Kabylie" # todo: NEW TRANSLATION
+ ALG_kabyle_discontent_desc: "Kabylští aktivisté organizují protesty a požadují uznání tamazightu a větší regionální autonomii. Nad regionem se vznáší stín Černého jara." # todo: NEW TRANSLATION
+ ALG_kabyle_unrest: "Krize v Kabylie" # todo: NEW TRANSLATION
+ ALG_kabyle_unrest_desc: "Region Kabylie otevřeně povstal. Protesty, stávky a občanská neposlušnost paralyzují region. Je nutná naléhavá akce." # todo: NEW TRANSLATION
+ ALG_black_spring_happened: "Došlo k Černému jaru" # todo: NEW TRANSLATION
+ ALG_has_conducted_census: "Provedlo celostátní sčítání lidu" # todo: NEW TRANSLATION
+ ALG_ethnic_system_active: "Etnické záležitosti zavedeny" # todo: NEW TRANSLATION
+ ALG_can_enact_ethnic_policy: "Lze přijmout novou etnickou politiku" # todo: NEW TRANSLATION
+ algeria_power_balance: "Alžírský politický boj" # todo: NEW TRANSLATION
+ algeria_old_guard: "Le Pouvoir (stará garda)" # todo: NEW TRANSLATION
+ algeria_reformists: "Hnutí Hirak (reformisté)" # todo: NEW TRANSLATION
+ algeria_compromise_range: "Křehký kompromis" # todo: NEW TRANSLATION
+ algeria_compromise_range_desc: "Ani jedna strana nedominujte. Přetrvává neklidná patová situace, zatímco se obě frakce snaží získat výhodu." # todo: NEW TRANSLATION
+ old_guard_leaning: "Vliv staré gardy" # todo: NEW TRANSLATION
+ old_guard_leaning_desc: "Vojenský establishment začíná znovu upevňovat svou tradiční dominanci." # todo: NEW TRANSLATION
+ old_guard_partial_control: "Upevnění staré gardy" # todo: NEW TRANSLATION
+ old_guard_partial_control_desc: "Le Pouvoir utahuje svou kontrolu. Hlasy reformistů jsou marginalizovány." # todo: NEW TRANSLATION
+ old_guard_strong_control: "Autoritářský posun" # todo: NEW TRANSLATION
+ old_guard_strong_control_desc: "Bezpečnostní aparát dominuje politickému životu. Demokratické instituce erodují." # todo: NEW TRANSLATION
+ old_guard_full_control: "Vojenská dominance" # todo: NEW TRANSLATION
+ old_guard_full_control_desc: "Le Pouvoir ovládá Alžírsko železnou pěstí. Občanské svobody jsou výrazně omezeny." # todo: NEW TRANSLATION
+ reformists_leaning: "Reformistické probouzení" # todo: NEW TRANSLATION
+ reformists_leaning_desc: "Občanská společnost získává odvahu. Duch Hiraku ožívá." # todo: NEW TRANSLATION
+ reformists_gaining_ground: "Dynamika reforem" # todo: NEW TRANSLATION
+ reformists_gaining_ground_desc: "Reformní hnutí sílí. Stará garda se snaží udržet kontrolu." # todo: NEW TRANSLATION
+ reformists_strong_momentum: "Demokratický vzestup" # todo: NEW TRANSLATION
+ reformists_strong_momentum_desc: "Reformisté dominují veřejnému diskurzu. Skutečná změna se zdá být možná." # todo: NEW TRANSLATION
+ reformists_victory: "Demokratický přechod" # todo: NEW TRANSLATION
+ reformists_victory_desc: "Alžírsko přijímá civilní vládu a pluralismus. Moc Le Pouvoiru je zlomena." # todo: NEW TRANSLATION
+ ALG_political_struggle: "Alžírský politický boj" # todo: NEW TRANSLATION
+ ALG_political_struggle_desc: "Boj mezi starou gardou a reformisty utvoří budoucnost Alžírska.\nSoučasná rovnováha: [ALG_power_struggle_state]\nVliv armády: [ALG_army_grip_text]\nVeřejná nespokojenost: [ALG_grievance_text]" # todo: NEW TRANSLATION
+ ALG_power_struggle_state: "Politická situace" # todo: NEW TRANSLATION
+ ALG_boost_reformists_tt: "Přesměrovat zdroje k reformistickým politikům a skupinám občanské společnosti.\nPosune rovnováhu směrem k reformistům o §G+0.15§!." # todo: NEW TRANSLATION
+ ALG_boost_old_guard_tt: "Posílit podporu mezi válečnými veterány a bezpečnostním establishmentem.\nPosune rovnováhu směrem ke staré gardě o §R-0.15§!." # todo: NEW TRANSLATION
+ ALG_rally_students_tt: "Mobilizovat studentská hnutí a mladé aktivisty na podporu reforem.\nPosune rovnováhu směrem k reformistům o §G+0.08§!." # todo: NEW TRANSLATION
+ ALG_mobilize_veterans_tt: "Shromáždit veterány války za nezávislost a penzionované důstojníky.\nPosune rovnováhu směrem ke staré gardě o §R-0.08§!." # todo: NEW TRANSLATION
+ ALG_bribe_elites_tt: "Využít klientelismus k zajištění loajality elit.\nPosune rovnováhu směrem ke staré gardě o §R-0.05§!.\nStojí §R30§! z pokladny. Hrozí podnícení korupce." # todo: NEW TRANSLATION
+ ALG_compromise_tt: "Zprostředkovat dohodu o sdílení moci mezi reformisty a starou gardou.\nPosune rovnováhu směrem ke středu o §W±0.08§!." # todo: NEW TRANSLATION
+ ALG_media_campaign_reform_tt: "Zahájit mediální kampaň propagující demokratické hodnoty.\nPosune rovnováhu směrem k reformistům o §G+0.05§!." # todo: NEW TRANSLATION
+ ALG_security_crackdown_tt: "Pověřit bezpečnostní síly tvrdým zásahem proti disentu.\nPosune rovnováhu směrem ke staré gardě o §R-0.05§!." # todo: NEW TRANSLATION
+ ALG_world_tension_security_tt: "Globální nestabilita ospravedlňuje posílení bezpečnostního aparátu.\nPosune rovnováhu směrem ke staré gardě o §R-0.08§!." # todo: NEW TRANSLATION
+ ALG_world_tension_high_security_tt: "Vážné globální napětí vyžaduje mimořádná bezpečnostní opatření.\nPosune rovnováhu směrem ke staré gardě o §R-0.12§!." # todo: NEW TRANSLATION
+ ALG_crackdown_momentum_tt: "Naše politika tvrdých zásahů posiluje postavení staré gardy.\nPosune rovnováhu směrem ke staré gardě o §R-0.10§!." # todo: NEW TRANSLATION
+ ALG_reconciliation_momentum_tt: "Náš přístup založený na usmíření posiluje hlasy reformistů.\nPosune rovnováhu směrem k reformistům o §G+0.10§!." # todo: NEW TRANSLATION
+ ALG_oil_patronage_tt: "Využít příjmy z ropy k financování klientelistických sítí.\nPosune rovnováhu směrem ke staré gardě o §R-0.06§!.\nStojí §R25§! z pokladny, ale zvyšuje stabilitu." # todo: NEW TRANSLATION
+ ALG_economic_reforms_tt: "Provést hospodářskou liberalizaci a opatření na podporu transparentnosti.\nPosune rovnováhu směrem k reformistům o §G+0.08§!." # todo: NEW TRANSLATION
+ ALG_elite_patronage: "Klientelistické sítě elit" # todo: NEW TRANSLATION
+ ALG_elite_patronage_desc: "Kupujeme stabilitu prostřednictvím klientelismu, ale tím prohlubujeme korupci a vyčerpáváme zdroje." # todo: NEW TRANSLATION

@@ -1,0 +1,625 @@
+﻿l_english:
+ saudi_focus_tree: "Strom zaměření Saúdské Arábie" # todo: NEW TRANSLATION
+ SAU_accession_to_the_sco: "Přistoupení k SCO" # todo: NEW TRANSLATION
+ SAU_accession_to_the_sco_desc: "Rijád se v roce 2023 stal partnerem pro dialog Šanghajské organizace pro spolupráci. Plné členství by prohloubilo vztahy s Čínou a Ruskem, ale vyžadovalo by také užší spolupráci s Íránem." # todo: NEW TRANSLATION
+ SAU_the_royal_saudi_air_force: "Královské saúdskoarabské letectvo" # todo: NEW TRANSLATION
+ SAU_the_royal_saudi_air_force_desc: "Rozvinout Královské saúdskoarabské letectvo (RSAF) v nejsilnější leteckou sílu v Perském zálivu." # todo: NEW TRANSLATION
+ SAU_peace_sun_f_15_eagle_program: "Peace Sun: Program F-15 Eagle" # todo: NEW TRANSLATION
+ SAU_peace_sun_f_15_eagle_program_desc: "Spustit program Peace Sun se Spojenými státy a přivést F-15 Eagle do Království." # todo: NEW TRANSLATION
+ SAU_f_15c_d_eagle_squadrons: "Letky F-15C/D Eagle" # todo: NEW TRANSLATION
+ SAU_f_15c_d_eagle_squadrons_desc: "Nasadit letky F-15C/D Eagle k získání a udržení vzdušné převahy nad saúdským nebem." # todo: NEW TRANSLATION
+ SAU_f_15s_eagle: "F-15S Eagle" # todo: NEW TRANSLATION
+ SAU_f_15s_eagle_desc: "Získat F-15S Eagle v rámci Peace Sun IX, schopný bojovat o vzdušnou převahu a provádět hluboké údery." # todo: NEW TRANSLATION
+ SAU_tornado_gr4: "Tornado GR4" # todo: NEW TRANSLATION
+ SAU_tornado_gr4_desc: "Dohoda Al-Yamamah s Británií přivede Tornado GR4 do saúdské služby. Jeho úderné schopnosti jsou spojeny s dlouhodobou závislostí na britském výcviku, náhradních dílech a údržbě." # todo: NEW TRANSLATION
+ SAU_panavia_tornado: "Panavia Tornado" # todo: NEW TRANSLATION
+ SAU_panavia_tornado_desc: "Nasadit letky Panavia Tornado v úderných, průzkumných a protivzdušných rolích." # todo: NEW TRANSLATION
+ SAU_the_european_typhoon_al_salam_deal: "Evropský Typhoon: Dohoda Al Salam" # todo: NEW TRANSLATION
+ SAU_the_european_typhoon_al_salam_deal_desc: "Podepsat dohodu Al Salam na dodávku Typhoonu, moderního víceúčelového stíhacího letounu pro nové století." # todo: NEW TRANSLATION
+ SAU_f_15sa_advanced_eagle: "F-15SA Advanced Eagle" # todo: NEW TRANSLATION
+ SAU_f_15sa_advanced_eagle_desc: "F-15SA je víc než pouhý nákup. Jeho avionika, výzbroj a nároky na údržbu vyžadují saúdskou podpůrnou základnu schopnou udržet Advanced Eagle ve vzduchu." # todo: NEW TRANSLATION
+ SAU_e_3_sentry_awacs: "E-3 Sentry AWACS" # todo: NEW TRANSLATION
+ SAU_e_3_sentry_awacs_desc: "Provozovat E-3 Sentry AWACS k pozorování a řízení celé vzdušné situace a k navádění stíhaček." # todo: NEW TRANSLATION
+ SAU_aerial_refueling_fleet: "Flotila pro doplňování paliva za letu" # todo: NEW TRANSLATION
+ SAU_aerial_refueling_fleet_desc: "Vybudovat flotilu tankerů, aby saúdské letouny mohly hlídkovat nad celým Královstvím a útočit na dlouhou vzdálenost." # todo: NEW TRANSLATION
+ SAU_c_130_hercules_airlift: "Letecká přeprava C-130 Hercules" # todo: NEW TRANSLATION
+ SAU_c_130_hercules_airlift_desc: "Rozšířit flotilu C-130 Hercules k rychlé přepravě vojáků a zásob kamkoli v zemi." # todo: NEW TRANSLATION
+ SAU_king_abdulaziz_air_base: "Letecká základna krále Abdulazize" # todo: NEW TRANSLATION
+ SAU_king_abdulaziz_air_base_desc: "Rozvinout leteckou základnu krále Abdulazize v Dhahránu, která střeží Východní provincii a Perský záliv." # todo: NEW TRANSLATION
+ SAU_king_khalid_air_base: "Letecká základna krále Chálida" # todo: NEW TRANSLATION
+ SAU_king_khalid_air_base_desc: "Rozvinout leteckou základnu krále Chálida v Chamis Mušajtu, opevněnou jižní základnu kryjící jemenskou hranici." # todo: NEW TRANSLATION
+ SAU_prince_sultan_air_base: "Letecká základna prince Sultána" # todo: NEW TRANSLATION
+ SAU_prince_sultan_air_base_desc: "Rozvinout leteckou základnu prince Sultána v Al Kharji, centrální uzel hluboko uvnitř Království." # todo: NEW TRANSLATION
+ SAU_precision_guided_munitions: "Přesně naváděná munice" # todo: NEW TRANSLATION
+ SAU_precision_guided_munitions_desc: "Skladovat přesně naváděné bomby a střely, aby jediný výpad dokázal zničit to, k čemu dříve bylo zapotřebí mnoha útoků." # todo: NEW TRANSLATION
+ SAU_saudi_uav_program: "Saúdský program bezpilotních letounů" # todo: NEW TRANSLATION
+ SAU_saudi_uav_program_desc: "Zahájit saúdský program dronů pro vytrvalý průzkum a přesné údery." # todo: NEW TRANSLATION
+ SAU_air_operations_command: "Velitelství leteckých operací" # todo: NEW TRANSLATION
+ SAU_air_operations_command_desc: "Zřídit ústřední Velitelství leteckých operací, které bude plánovat a vést celou leteckou kampaň jako jeden celek." # todo: NEW TRANSLATION
+ SAU_secure_support_in_the_al_madinah_province: "Zajistit podporu v provincii Al-Madína" # todo: NEW TRANSLATION
+ SAU_secure_support_in_the_al_madinah_province_desc: "Medína ukrývá Prorokovu mešitu a vlivné duchovní zázemí. Zajištění podpory jejích učenců pomůže legitimizovat Radu a snížit náboženský odpor." # todo: NEW TRANSLATION
+ SAU_the_house_of_al_saud: "Rod Al Saud" # todo: NEW TRANSLATION
+ SAU_the_house_of_al_saud_desc: "Abdulaziz ibn Saud vytvořil systém nástupnictví, v němž trůn přecházel mezi jeho syny podle seniority. Po šesti králích a sedmdesáti letech zbývající způsobilí bratři stárnou a Království se musí připravit na nástup další generace." # todo: NEW TRANSLATION
+ SAU_ground_broken_at_rabigh: "Zahájení výstavby v Rabighu" # todo: NEW TRANSLATION
+ SAU_ground_broken_at_rabigh_desc: "Království zahájí výstavbu hospodářského města o rozloze 68 kilometrů čtverečních u Rabighu, plánovaného pro dva miliony obyvatel a velký přístav v Rudém moři. Jde o největší ze šesti hospodářských měst, jejichž cílem je přilákat soukromé investice vedle státního financování." # todo: NEW TRANSLATION
+ SAU_hold_municipal_elections: "Uspořádat komunální volby" # todo: NEW TRANSLATION
+ SAU_hold_municipal_elections_desc: "Muži starší jednadvaceti let zvolí polovinu křesel v obecních radách, zatímco vláda jmenuje zbytek. Rady mají omezené pravomoci nad službami, jako je kanalizace, pouliční osvětlení a povolení, ale hlasování vytváří důležitý politický precedens." # todo: NEW TRANSLATION
+ SAU_establish_the_peoples_council: "Zřídit Lidovou radu" # todo: NEW TRANSLATION
+ SAU_establish_the_peoples_council_desc: "Království zřídí volenou radu s pravomocí navrhovat zákony o vnitřních záležitostech. Král si zachová absolutní veto, ale jeho uplatnění ponese viditelné politické náklady." # todo: NEW TRANSLATION
+ SAU_securing_our_future: "Zajistit naši budoucnost" # todo: NEW TRANSLATION
+ SAU_securing_our_future_desc: "Království zpřísní kontrolu publikací prostřednictvím licencí, schválených editorů a omezení citlivých témat. To oslabí organizovanou opozici a posílí režim, ale také odradí kvalifikované absolventy od návratu a zabrání ministerstvům přijímat upřímnou kritiku." # todo: NEW TRANSLATION
+ SAU_intervention_in_bahrain: "Intervence v Bahrajnu" # todo: NEW TRANSLATION
+ SAU_intervention_in_bahrain_desc: "Síly Peninsula Shield zasáhly v Bahrajnu v březnu 2011 na žádost bahrajnské vlády a pomohly potlačit nepokoje v Manámě. Království tento závazek obnoví a připraví se bránit rod Chalífa bez čekání na další summit GCC." # todo: NEW TRANSLATION
+ SAU_investigate_the_east: "Vyšetřovat Východ" # todo: NEW TRANSLATION
+ SAU_investigate_the_east_desc: "Protesty v Katífu a Awamíji se rozšířily od požadavků týkajících se nezaměstnanosti a zadržovaných osob k širším politickým křivdám. Ministerstvo vnitra prošetří opoziční činnost ve Východní provincii a zakročí proti identifikovaným hrozbám." # todo: NEW TRANSLATION
+ SAU_women_in_the_shura_council: "Ženy v Radě šúrá" # todo: NEW TRANSLATION
+ SAU_women_in_the_shura_council_desc: "V Poradní radě dosud nesloužila žádná žena, ačkoli základní zákon jejich jmenování nezakazuje. Král může ženy jmenovat přímo, ale musí tak učinit navzdory očekávanému odporu konzervativních učenců." # todo: NEW TRANSLATION
+ SAU_the_oil_defense_strategy: "Strategie obrany ropy" # todo: NEW TRANSLATION
+ SAU_the_oil_defense_strategy_desc: "Království závisí na malém počtu ropných zařízení podél pobřeží Perského zálivu. Jednotná strategie obrany ropy zkoordinuje rozpočet a ochrání tato zařízení, zatímco stát bude rozvíjet jejich alternativy." # todo: NEW TRANSLATION
+ SAU_national_security_threats: "Hrozby národní bezpečnosti" # todo: NEW TRANSLATION
+ SAU_national_security_threats_desc: "Saúdská národní bezpečnost čelí čtyřem propojeným hrozbám: válce na jižní hranici, džihádistickému náboru, nepokojům mezi šíitským obyvatelstvem poblíž ropných polí a skupinám podporovaným Íránem na hranicích Království. K posuzování a koordinaci politiky proti všem čtyřem bude financována jediná služba." # todo: NEW TRANSLATION
+ SAU_the_riyadh_meeting_operation_decisive_storm: "Schůzka v Rijádu: Operace Rozhodná bouře" # todo: NEW TRANSLATION
+ SAU_the_riyadh_meeting_operation_decisive_storm_desc: "V Rijádu se shromáždila koalice devíti států a 26. března 2015 zahájila operaci Rozhodná bouře, která spojila letecké operace s námořní blokádou. Saúdští plánovači očekávali krátkou kampaň navzdory varováním Jemenců obeznámených s konfliktem." # todo: NEW TRANSLATION
+ SAU_the_tenth_five_year_plan: "Desátý pětiletý plán" # todo: NEW TRANSLATION
+ SAU_the_tenth_five_year_plan_desc: "Desátý pětiletý plán stanovuje cíle pro růst mimo ropný sektor, zaměstnanost Saúdů a diverzifikaci ekonomiky. Předchozí plány slibovaly podobné věci, ale klesající rezervy činí jejich provedení stále naléhavějším." # todo: NEW TRANSLATION
+ SAU_defying_the_ajam: "Vzdorovat Ajamům" # todo: NEW TRANSLATION
+ SAU_defying_the_ajam_desc: "Poprava Nimra al-Nimra, vypálení saúdského velvyslanectví v Teheránu a přerušení diplomatických vztahů prudce vyhrotily soupeření s Íránem. Království přijme ekonomické a diplomatické náklady, místo aby vypadalo, že ustupuje." # todo: NEW TRANSLATION
+ SAU_aramco_ipo: "IPO Aramca" # todo: NEW TRANSLATION
+ SAU_aramco_ipo_desc: "Saúdská Aramco nabídla v prosinci 2019 na burze Tadawul 1,5 % svých akcií a získala přibližně 25 miliard dolarů. Prodej nedosáhl korunním princem navrhovaného ocenění ve výši dvou bilionů dolarů ani zahraničního uvedení na burzu, přesto zůstal největším prodejem státního majetku v regionu." # todo: NEW TRANSLATION
+ SAU_vision_2030_announced: "Vyhlášení Vize 2030" # todo: NEW TRANSLATION
+ SAU_vision_2030_announced_desc: "Vize 2030 byla vyhlášena v dubnu 2016 s cíli vytvořit státní fond v hodnotě dvou bilionů dolarů, snížit závislost na ropě, zvýšit zaměstnanost v soukromém sektoru a provést rozsáhlé sociální reformy. Na rozdíl od dřívějších diverzifikačních plánů stanovuje pevný termín pro jejich uskutečnění." # todo: NEW TRANSLATION
+ SAU_saudi_israel_normalization_track: "Cesta k normalizaci vztahů mezi Saúdskou Arábií a Izraelem" # todo: NEW TRANSLATION
+ SAU_saudi_israel_normalization_track_desc: "Saúdská Arábie nemá s Izraelem smluvní ani ambasádní vztahy, ale povoluje izraelské přelety a udržuje diskrétní zpravodajské kontakty. Rijád veřejně nadále požaduje pokrok v otázce Palestiny, zatímco v soukromí diskutuje o normalizaci za odlišných podmínek." # todo: NEW TRANSLATION
+ SAU_establish_corruption_courts: "Zřídit protikorupční soudy" # todo: NEW TRANSLATION
+ SAU_establish_corruption_courts_desc: "Království zřídí specializované protikorupční soudy a stálou komisi s pravomocí nad ministry a princi. Jejich důvěryhodnost bude záviset na tom, zda budou stíhat vysoce postavené obžalované stejně jako běžné úředníky." # todo: NEW TRANSLATION
+ SAU_the_ritz_carlton_purge: "Čistka v Ritz-Carltonu" # todo: NEW TRANSLATION
+ SAU_the_ritz_carlton_purge_desc: "Protikorupční kampaň zadržela v hotelu Ritz-Carlton přibližně dvě stě princů a podnikatelů a získala značný majetek. Zároveň upevnila pravomoc korunního prince nad královskou rodinou." # todo: NEW TRANSLATION
+ SAU_backdoor_deals: "Dohody v zákulisí" # todo: NEW TRANSLATION
+ SAU_backdoor_deals_desc: "Zadržení v Ritz-Carltonu budou propuštěni po soukromě vyjednaných finančních vyrovnáních namísto veřejných procesů. To rychle obnoví majetek, ale nedostatek transparentních řízení poškodí důvěru v právní stát." # todo: NEW TRANSLATION
+ SAU_a_new_kingdom: "Nové království" # todo: NEW TRANSLATION
+ SAU_a_new_kingdom_desc: "Abdullah vládl jménem Fahda po většinu desetiletí před Fahdovou smrtí. Jeho nástup nezmění ústavní pořádek, ale poskytne mu přímou pravomoc uskutečňovat politiky, které dříve pouze navrhoval." # todo: NEW TRANSLATION
+ SAU_consolidating_the_crown: "Upevnění koruny" # todo: NEW TRANSLATION
+ SAU_consolidating_the_crown_desc: "Královský dekret vytvoří Radu věrnosti složenou ze synů a vnuků Abdulazize, která bude potvrzovat korunní prince a posuzovat způsobilost krále. Tím vznikne první písemný postup nástupnictví, ačkoli schopnost Rady omezovat krále zůstane nejistá." # todo: NEW TRANSLATION
+ SAU_scholarship_programs_abroad: "Zahraniční stipendijní programy" # todo: NEW TRANSLATION
+ SAU_scholarship_programs_abroad_desc: "Stipendijní program bude financovat studium desítek tisíc Saúdů a jejich rodin v zahraničí. Rozšíří kvalifikovanou pracovní sílu Království a zároveň vystaví studenty politickým a společenským systémům odlišným od těch v Saúdské Arábii." # todo: NEW TRANSLATION
+ SAU_expand_the_national_guard: "Rozšířit Národní gardu" # todo: NEW TRANSLATION
+ SAU_expand_the_national_guard_desc: "Národní garda je rekrutována z kmenů historicky loajálních Abdulazizovi a působí mimo běžné vojenské velení. Její rozšíření ochrání trůn a zabrání pravidelnému důstojnickému sboru ovládnout veškerou ozbrojenou moc v Království." # todo: NEW TRANSLATION
+ SAU_joining_the_wto: "Připojení k WTO" # todo: NEW TRANSLATION
+ SAU_joining_the_wto_desc: "Po dvanácti letech vyjednávání se Království připojí k WTO prostřednictvím závazných cel, otevření sektoru služeb, přijetí zahraničních bank a pojišťoven a revize obchodního práva. Členství omezí část obchodní autonomie, ale poskytne Saúdské Arábii hlas v systému řídícím její vývoz ropy." # todo: NEW TRANSLATION
+ SAU_al_saud_national_dialogue: "Národní dialog" # todo: NEW TRANSLATION
+ SAU_al_saud_national_dialogue_desc: "Národní dialog spojí šíitské duchovní, salafistické učence, ženy a muže k diskusi o celostátních otázkách a předložení závěrů králi. Nemá zákonodárnou pravomoc, ale umožňuje neobvykle širokou veřejnou debatu." # todo: NEW TRANSLATION
+ SAU_counter_terrorism_cooperation: "Spolupráce v boji proti terorismu" # todo: NEW TRANSLATION
+ SAU_counter_terrorism_cooperation_desc: "Bombové útoky na obytné komplexy v roce 2003 ukázaly, že al-Káida cílí na saúdský stát stejně jako na Američany v Království. Saúdská Arábie odpoví raziemi, seznamy sledovaných osob, finančním vyšetřováním a programy rehabilitace bojovníků v úzké spolupráci s americkými zpravodajskými službami." # todo: NEW TRANSLATION
+ SAU_the_atlantic_realignment: "Atlantické přeskupení" # todo: NEW TRANSLATION
+ SAU_the_atlantic_realignment_desc: "Rada bude usilovat o uznání a podporu Washingtonu tím, že zdůrazní, že saúdský vývoz ropy bude za nové vlády pokračovat. Tím se prověří, zda Spojené státy oceňují vztah se saúdským státem více než sesazenou monarchii." # todo: NEW TRANSLATION
+ SAU_foreign_water_operators: "Zahraniční provozovatelé vody" # todo: NEW TRANSLATION
+ SAU_foreign_water_operators_desc: "Odsolovací program je zadán v mezinárodním výběrovém řízení. Závody rostou rychleji než cokoli, co Království vybudovalo samo, a muži, kteří je řídí, odpovídají centrále v zahraničí.\n\n§GPoskytuje zahraniční provozovatele vody§! a §Yzmírňuje vodní krizi o jeden stupeň§!, za cenu §Rvlívu Ameriky v Království§!.\n\nEfektivní, ale s trvalou rukou na kohoutku." # todo: NEW TRANSLATION
+ SAU_among_the_major_powers: "Mezi velmocemi" # todo: NEW TRANSLATION
+ SAU_among_the_major_powers_desc: "Ropa činí Království nepostradatelným, ale nepostradatelnost není totéž co bezpečí. Překročme hranice regionu k mocnostem, které utvářejí světový řád, a rozhodněme, o kterou z nich se Rijád opře." # todo: NEW TRANSLATION
+ SAU_anti_iranian_propaganda: "Protiíránská propaganda" # todo: NEW TRANSLATION
+ SAU_anti_iranian_propaganda_desc: "Království využije své mediální sítě ke kritice Islámské republiky a k budování sunnitské podpory proti íránskému vlivu." # todo: NEW TRANSLATION
+ SAU_appoint_loyalists_in_the_provinces: "Jmenovat loajalisty v provinciích" # todo: NEW TRANSLATION
+ SAU_appoint_loyalists_in_the_provinces_desc: "Nová vláda nahradí královské guvernéry provincií loajálními sloužícími důstojníky. Tím odstraní důležitý zdroj knížecí moci a podřídí provincie vojenské kontrole." # todo: NEW TRANSLATION
+ SAU_unity_freedom_socialism: "Jednota, svoboda, socialismus" # todo: NEW TRANSLATION
+ SAU_unity_freedom_socialism_desc: "Tři slova Ba'athu se stanou zákonem země: jednota arabského národa, osvobození od kolonizátora a socialismus pro lid." # todo: NEW TRANSLATION
+ SAU_cells_across_the_arab_world: "Buňky napříč arabským světem" # todo: NEW TRANSLATION
+ SAU_cells_across_the_arab_world_desc: "Strana zřídí buňky Ba'athu v arabských metropolích, aby organizovala a podporovala budoucí revoluce." # todo: NEW TRANSLATION
+ SAU_the_sword_of_unity: "Meč jednoty" # todo: NEW TRANSLATION
+ SAU_the_sword_of_unity_desc: "Arabské státy, které odmítnou dobrovolné sjednocení, budou silou přivedeny do nového pořádku." # todo: NEW TRANSLATION
+ SAU_purge_the_reactionaries: "Očistit reakcionáře" # todo: NEW TRANSLATION
+ SAU_purge_the_reactionaries_desc: "Revoluční vláda odstraní monarchisty, islamisty a zahraniční agenty, kteří ohrožují vládu Ba'athu." # todo: NEW TRANSLATION
+ SAU_the_united_arab_republic: "Sjednocená arabská republika" # todo: NEW TRANSLATION
+ SAU_the_united_arab_republic_desc: "Arabské země budou sjednoceny v jediném revolučním státě zvaném Sjednocená arabská republika." # todo: NEW TRANSLATION
+ SAU_one_arab_nation: "Jeden arabský národ" # todo: NEW TRANSLATION
+ SAU_one_arab_nation_desc: "Vymazat hranice narýsované Sykesem a Picotem a naučit celou generaci, že existuje pouze jediný arabský národ nesoucí věčné poselství." # todo: NEW TRANSLATION
+ SAU_the_vanguard_of_the_arabs: "Předvoj Arabů" # todo: NEW TRANSLATION
+ SAU_the_vanguard_of_the_arabs_desc: "Arábie si nárokuje vedení arabského světa od Atlantiku po Perský záliv a bude řídit širší nacionalistické hnutí." # todo: NEW TRANSLATION
+ SAU_expel_the_imperialists: "Vyhnat imperialisty" # todo: NEW TRANSLATION
+ SAU_expel_the_imperialists_desc: "Vyhnat poslední zahraniční základny a poradce z arabské půdy a roztrhat nerovné smlouvy koloniální éry." # todo: NEW TRANSLATION
+ SAU_industrialize_the_nation: "Industrializovat národ" # todo: NEW TRANSLATION
+ SAU_industrialize_the_nation_desc: "Národní průmyslový plán vybuduje ocelárny, přehrady a továrny, aby republika mohla vyrábět vlastní základní zboží a zbraně." # todo: NEW TRANSLATION
+ SAU_the_revolutionary_command_council: "Revoluční velitelská rada" # todo: NEW TRANSLATION
+ SAU_the_revolutionary_command_council_desc: "Svěřit nejvyšší pravomoc radě vůdců strany a spojit stranu se státem v jedinou revoluční vůli." # todo: NEW TRANSLATION
+ SAU_pan_arab_solidarity: "Všearabská solidarita" # todo: NEW TRANSLATION
+ SAU_pan_arab_solidarity_desc: "Stát při každém arabském boji od Palestiny po Maghreb a učinit z Arábie patrona nacionalistické věci." # todo: NEW TRANSLATION
+ SAU_build_the_party: "Budovat stranu" # todo: NEW TRANSLATION
+ SAU_build_the_party_desc: "Revoluce zorganizuje disciplinovanou stranu s buňkami sahajícími od vesnic až k národnímu vedení." # todo: NEW TRANSLATION
+ SAU_arab_republic_secular_republic: "Sekulární republika" # todo: NEW TRANSLATION
+ SAU_arab_republic_secular_republic_desc: "Oddělit mešitu od státu a svázat národ arabskou identitou namísto sektářství, aby sunnité a šíité, muslimové a křesťané stáli jako jeden." # todo: NEW TRANSLATION
+ SAU_the_arab_socialist_path: "Arabská socialistická cesta" # todo: NEW TRANSLATION
+ SAU_the_arab_socialist_path_desc: "Odmítnout kapitalismus i sovětský komunismus ve prospěch zřetelně arabského socialismu: rozhodující odvětví v rukou lidu, drobný obchodník ponechán svobodě." # todo: NEW TRANSLATION
+ SAU_nationalize_the_heights: "Znárodnit vrcholy" # todo: NEW TRANSLATION
+ SAU_nationalize_the_heights_desc: "Zabavit ropu, banky a velké podniky zahraničním koncesionářům a starým rodinám a obrátit jejich bohatství ve prospěch národa." # todo: NEW TRANSLATION
+ SAU_land_to_the_peasants: "Půdu rolníkům" # todo: NEW TRANSLATION
+ SAU_land_to_the_peasants_desc: "Rozdělit velkostatky a dát půdu felláhům, kteří ji obdělávají, čímž skončí feudální sevření venkova." # todo: NEW TRANSLATION
+ SAU_the_officer_corps: "Důstojnický sbor" # todo: NEW TRANSLATION
+ SAU_the_officer_corps_desc: "Strana bude rekrutovat mladé důstojníky a využívat ozbrojené síly k výuce a prosazování doktríny Ba'athu." # todo: NEW TRANSLATION
+ SAU_arm_the_vanguard: "Vyzbrojit předvoj" # todo: NEW TRANSLATION
+ SAU_arm_the_vanguard_desc: "Vedle pravidelné armády budou zřízeny politicky spolehlivé stranické milice." # todo: NEW TRANSLATION
+ SAU_forge_the_national_army: "Ukout národní armádu" # todo: NEW TRANSLATION
+ SAU_forge_the_national_army_desc: "Vybudovat moderní mechanizovanou armádu hodnou arabského národa a schopnou nést revoluci za naše hranice." # todo: NEW TRANSLATION
+ SAU_saudi_aramco: "Saudi Aramco" # todo: NEW TRANSLATION
+ SAU_saudi_aramco_desc: "§YSaúdská arabská ropná společnost§! je největším ropným podnikem na Zemi a páteří Království. Tato větev buduje ropný sektor pole po poli a poté zavazuje Aramco ke §Ystrategické doktríně§! – §Yčerpat více, více rafinovat nebo vyvážet za maximální příjem§! – přičemž vše napájí jediného §Ynárodního ducha Saudi Aramco§!." # todo: NEW TRANSLATION
+ SAU_arm_the_anti_iranian_groups: "Vyzbrojit protiíránské skupiny" # todo: NEW TRANSLATION
+ SAU_arm_the_anti_iranian_groups_desc: "Království vyzbrojí protivládní skupiny mezi íránskými Balúči a Araby a rozšíří konflikt na íránské území." # todo: NEW TRANSLATION
+ SAU_the_saudi_armed_forces: "Saúdské ozbrojené síly" # todo: NEW TRANSLATION
+ SAU_the_saudi_armed_forces_desc: "Sjednotit a modernizovat pozemní, námořní a letecké síly Království v jedinou profesionální armádu." # todo: NEW TRANSLATION
+ SAU_lessons_of_the_gulf_war: "Poučení z války v Perském zálivu" # todo: NEW TRANSLATION
+ SAU_lessons_of_the_gulf_war_desc: "V roce 1990 Saddamův Irák obsadil Kuvajt a shromáždil síly na naší hranici; Království zachránila pouze zahraniční koalice a bitva o Chafdží se odehrála na saúdské půdě. Operace Pouštní bouře odhalila, jak závislí jsme na ostatních – už nikdy více." # todo: NEW TRANSLATION
+ SAU_ministry_of_defence_and_aviation: "Ministerstvo obrany a letectví" # todo: NEW TRANSLATION
+ SAU_ministry_of_defence_and_aviation_desc: "Reorganizovat Ministerstvo obrany a letectví (MODA) v moderní velení schopné plánovat, rozpočtovat a řídit všechny ozbrojené síly." # todo: NEW TRANSLATION
+ SAU_the_general_staff: "Generální štáb" # todo: NEW TRANSLATION
+ SAU_the_general_staff_desc: "Vybudovat profesionální Generální štáb, který bude vytvářet válečné plány, vést cvičení a řídit operace." # todo: NEW TRANSLATION
+ SAU_the_royal_saudi_land_forces: "Královské saúdskoarabské pozemní síly" # todo: NEW TRANSLATION
+ SAU_the_royal_saudi_land_forces_desc: "Vybudovat Královské saúdskoarabské pozemní síly (RSLF) v moderní, mobilní armádu se sídlem v Rijádu." # todo: NEW TRANSLATION
+ SAU_saudi_arabian_national_guard: "Saúdskoarabská národní garda" # todo: NEW TRANSLATION
+ SAU_saudi_arabian_national_guard_desc: "Rozšířit Saúdskoarabskou národní gardu (SANG), kmenovou sílu loajální trůnu, která střeží královskou rodinu a svatá města." # todo: NEW TRANSLATION
+ SAU_king_abdulaziz_royal_guard: "Královská garda krále Abdulazize" # todo: NEW TRANSLATION
+ SAU_king_abdulaziz_royal_guard_desc: "Posílit pluk Královské gardy, elitní jednotku přísahající chránit osobu krále." # todo: NEW TRANSLATION
+ SAU_m1a2_abrams_main_battle_tank: "Hlavní bojový tank M1A2 Abrams" # todo: NEW TRANSLATION
+ SAU_m1a2_abrams_main_battle_tank_desc: "Získat americký M1A2 Abrams, nejtěžší a nejschopnější tank v regionu a páteř saúdských obrněných sil." # todo: NEW TRANSLATION
+ SAU_armored_brigades: "Obrněné brigády" # todo: NEW TRANSLATION
+ SAU_armored_brigades_desc: "Vytvořit a vybavit těžké obrněné brigády pro rozhodující manévrovou válku v otevřené poušti." # todo: NEW TRANSLATION
+ SAU_mechanized_infantry: "Mechanizovaná pěchota" # todo: NEW TRANSLATION
+ SAU_mechanized_infantry_desc: "Vytvořit mechanizovanou pěchotu k držení území a podpoře obrněných hrotů." # todo: NEW TRANSLATION
+ SAU_m109_self_propelled_artillery: "Samohybné dělostřelectvo M109" # todo: NEW TRANSLATION
+ SAU_m109_self_propelled_artillery_desc: "Nasadit samohybnou houfnici M109 a poskytnout divizím mobilní, chráněnou palebnou podporu." # todo: NEW TRANSLATION
+ SAU_astros_ii_rocket_artillery: "Raketové dělostřelectvo ASTROS II" # todo: NEW TRANSLATION
+ SAU_astros_ii_rocket_artillery_desc: "Získat brazilský raketomet ASTROS II pro hromadné bombardování na velkou vzdálenost." # todo: NEW TRANSLATION
+ SAU_royal_saudi_strategic_missile_force: "Královské saúdskoarabské strategické raketové síly" # todo: NEW TRANSLATION
+ SAU_royal_saudi_strategic_missile_force_desc: "Zřídit Strategické raketové síly jako samostatný druh vojska a strategický odstrašující prostředek Království." # todo: NEW TRANSLATION
+ SAU_df_3_ballistic_missiles: "Balistické střely DF-3" # todo: NEW TRANSLATION
+ SAU_df_3_ballistic_missiles_desc: "Tajný nákup čínských střel DF-3 v roce 1988 poskytl Rijádu strategický dosah, který žádné sousední hlavní město nemohlo ignorovat. Vybudovat síly, jež udrží tento odstrašující prostředek důvěryhodným." # todo: NEW TRANSLATION
+ SAU_army_aviation_and_apache_gunships: "Armádní letectvo a bitevní vrtulníky Apache" # todo: NEW TRANSLATION
+ SAU_army_aviation_and_apache_gunships_desc: "Zřídit Velitelství armádního letectva a získat AH-64 Apache, ničitele tanků pro vlastní leteckou složku armády." # todo: NEW TRANSLATION
+ SAU_special_forces_command: "Velitelství speciálních sil" # todo: NEW TRANSLATION
+ SAU_special_forces_command_desc: "Vybudovat Velitelství speciálních sil pro nájezdy, boj proti terorismu a průzkum za nepřátelskými liniemi." # todo: NEW TRANSLATION
+ SAU_roll_back_iran_in_the_gulf: "Vytlačit Írán z Perského zálivu" # todo: NEW TRANSLATION
+ SAU_roll_back_iran_in_the_gulf_desc: "Írán využívá politické a milicionářské sítě k rozšiřování svého vlivu v Bahrajnu, Iráku a jinde podél Perského zálivu. Království podpoří místní vlády a frakce, které mohou tento vliv omezit." # todo: NEW TRANSLATION
+ SAU_the_basra_grid_connection: "Připojení Basry k elektrické síti" # todo: NEW TRANSLATION
+ SAU_the_basra_grid_connection_desc: "Jih Iráku se během výpadků elektřiny dusí, zatímco dováží íránskou energii. Připojme Basru k síti Perského zálivu a nahraďme íránskou elektřinu saúdským proudem." # todo: NEW TRANSLATION
+ SAU_counter_iranian_influence: "Čelit íránskému vlivu" # todo: NEW TRANSLATION
+ SAU_counter_iranian_influence_desc: "Íránské milice a peníze zaplavily vakuum po Saddámovi. Zahajme dlouhé tažení za vyproštění Iráku ze sevření Islámské republiky." # todo: NEW TRANSLATION
+ SAU_buy_the_iraqi_parliament: "Koupit irácký parlament" # todo: NEW TRANSLATION
+ SAU_buy_the_iraqi_parliament_desc: "Království využije finanční podporu k zajištění podpory iráckých parlamentních bloků a ministrů. Cílem je odklonit Bagdád od Teheránu směrem k Rijádu." # todo: NEW TRANSLATION
+ SAU_chinese_mediation: "Čínské zprostředkování" # todo: NEW TRANSLATION
+ SAU_chinese_mediation_desc: "Čína je významným odběratelem jak Saúdské Arábie, tak Íránu a nabídla se jako prostředník mezi nimi. Přijetí její role by mohlo stabilizovat vztahy, aniž by vyřešilo širší strategické soupeření." # todo: NEW TRANSLATION
+ SAU_the_agrarian_revolution: "Zemědělská revoluce" # todo: NEW TRANSLATION
+ SAU_the_agrarian_revolution_desc: "Proměna venkova je dokončena, jeho přebytky živí města i revoluci." # todo: NEW TRANSLATION
+ SAU_collectivization: "Kolektivizace" # todo: NEW TRANSLATION
+ SAU_collectivization_desc: "Soukromé farmy se slučují do rozsáhlých kolektivů, na nichž se pracuje společně a které se řídí plánem." # todo: NEW TRANSLATION
+ SAU_dictatorship_of_the_proletariat: "Diktatura proletariátu" # todo: NEW TRANSLATION
+ SAU_dictatorship_of_the_proletariat_desc: "Moc je soustředěna v rukou dělnické třídy prostřednictvím jediné revoluční strany, která netoleruje žádný odpor." # todo: NEW TRANSLATION
+ SAU_ignite_the_gulf: "Zapálit Perský záliv" # todo: NEW TRANSLATION
+ SAU_ignite_the_gulf_desc: "Dělnický stát poskytne agentům a zbraně revolučním hnutím v monarchiích Perského zálivu." # todo: NEW TRANSLATION
+ SAU_land_to_the_fellahin: "Půda felláhům" # todo: NEW TRANSLATION
+ SAU_land_to_the_fellahin_desc: "Velkostatky jsou rozparcelovány a předány rolníkům, kteří je obdělávají." # todo: NEW TRANSLATION
+ SAU_embrace_moscow: "Přiklonit se k Moskvě" # todo: NEW TRANSLATION
+ SAU_embrace_moscow_desc: "Arábie se připojí k sovětskému bloku a vymění ropu za zbraně a politickou podporu." # todo: NEW TRANSLATION
+ SAU_nationalize_the_oil_fields: "Znárodnit ropná pole" # todo: NEW TRANSLATION
+ SAU_nationalize_the_oil_fields_desc: "Bohatství pod pískem patří lidu, nikoli princům. ARAMCO je zabaveno a svěřeno pod kontrolu dělníků." # todo: NEW TRANSLATION
+ SAU_the_new_arab_man: "Nový arabský člověk" # todo: NEW TRANSLATION
+ SAU_the_new_arab_man_desc: "Pěstuje se nová revoluční kultura, která odstraňuje pověry a hierarchie starého řádu." # todo: NEW TRANSLATION
+ SAU_the_non_aligned_road: "Cesta nezúčastněnosti" # todo: NEW TRANSLATION
+ SAU_the_non_aligned_road_desc: "Arábie nastupuje nezávislý kurz a vede nezúčastněné národy proti imperialismu i sovětské nadvládě." # todo: NEW TRANSLATION
+ SAU_soviets_of_the_oil_workers: "Sověty ropných dělníků" # todo: NEW TRANSLATION
+ SAU_soviets_of_the_oil_workers_desc: "Volené dělnické rady budou spravovat ropná pole a vytvoří ústřední instituci proletářského státu." # todo: NEW TRANSLATION
+ SAU_toward_pan_arab_union: "Směrem k panarabské unii" # todo: NEW TRANSLATION
+ SAU_toward_pan_arab_union_desc: "Revoluce se šíří navenek a usiluje o sjednocení s ostatními pokrokovými arabskými státy." # todo: NEW TRANSLATION
+ SAU_the_peoples_republic_of_arabia: "Lidová republika Arábie" # todo: NEW TRANSLATION
+ SAU_the_peoples_republic_of_arabia_desc: "Prozatímní řád ustupuje plně ustavenému dělnickému státu: Lidové republice Arábie." # todo: NEW TRANSLATION
+ SAU_progressive_islam: "Pokrokový islám" # todo: NEW TRANSLATION
+ SAU_progressive_islam_desc: "Namísto potlačení víry strana získá pokrokové duchovní, aby hlásali socialismus slučitelný s islámem." # todo: NEW TRANSLATION
+ SAU_a_proletarian_nation: "Proletářský národ" # todo: NEW TRANSLATION
+ SAU_a_proletarian_nation_desc: "Arábie bude definovat národní identitu prostřednictvím dělníků a práce, nikoli kmenové příslušnosti či věrnosti monarchii." # todo: NEW TRANSLATION
+ SAU_form_the_red_guard: "Vytvořit Rudou gardu" # todo: NEW TRANSLATION
+ SAU_regularize_the_red_guard: "Uspořádat Rudou gardu" # todo: NEW TRANSLATION
+ SAU_regularize_the_red_guard_desc: "Přetvořit revoluční milice v profesionální Rudou armádu se standardizovaným vybavením, vycvičenými důstojníky a válečným průmyslem, který je vyzbrojí." # todo: NEW TRANSLATION
+ SAU_the_peoples_militia: "Lidové milice" # todo: NEW TRANSLATION
+ SAU_the_peoples_militia_desc: "Ponechat revoluci v rukou lidu a vyzbrojit každého dělníka a rolníka jako milicionáře připraveného bránit republiku." # todo: NEW TRANSLATION
+ SAU_form_the_red_guard_desc: "Revoluční milice složená z ropných dělníků a městské chudiny, která přísahala bránit revoluci." # todo: NEW TRANSLATION
+ SAU_rural_literacy_brigades: "Venkovské brigády gramotnosti" # todo: NEW TRANSLATION
+ SAU_rural_literacy_brigades_desc: "Kádry se rozptýlí po venkově, aby učily číst, psát a revoluční nauku." # todo: NEW TRANSLATION
+ SAU_state_atheism: "Státní ateismus" # todo: NEW TRANSLATION
+ SAU_state_atheism_desc: "Náboženství je prohlášeno za opium lidu. Duchovní jsou zbaveni moci a mešity umlknou." # todo: NEW TRANSLATION
+ SAU_state_industrialization: "Státní industrializace" # todo: NEW TRANSLATION
+ SAU_state_industrialization_desc: "Vláda využije urychlené státní programy k výstavbě oceláren, přehrad a továren po celé Arábii." # todo: NEW TRANSLATION
+ SAU_vanguard_of_the_region: "Předvoj regionu" # todo: NEW TRANSLATION
+ SAU_vanguard_of_the_region_desc: "Arábie se staví do čela revoluce v arabském světě a Perském zálivu." # todo: NEW TRANSLATION
+ SAU_womens_emancipation: "Emancipace žen" # todo: NEW TRANSLATION
+ SAU_womens_emancipation_desc: "Ženy vstoupí do pracovních sil i strany jako právně a politicky rovnocenné občanky, čímž skončí omezení jejich účasti ve starém řádu." # todo: NEW TRANSLATION
+ SAU_a_strategic_partnership_with_china: "Strategické partnerství s Čínou" # todo: NEW TRANSLATION
+ SAU_a_strategic_partnership_with_china_desc: "Zvolit Peking namísto Washingtonu za hlavního velmocenského partnera Království. Čínský kapitál a čínské zbraně přicházejí bez kázání, ale také bez starých amerických záruk." # todo: NEW TRANSLATION
+ SAU_conscript_the_kingdom: "Mobilizovat Království" # todo: NEW TRANSLATION
+ SAU_conscript_the_kingdom_desc: "Království se tradičně spoléhalo na dobrovolníky z důvěryhodných kmenů namísto odvodu. Rada přijme politická rizika masové armády, aby zvýšila dostupnou živou sílu." # todo: NEW TRANSLATION
+ SAU_oil_for_security: "Ropa za bezpečnost" # todo: NEW TRANSLATION
+ SAU_oil_for_security_desc: "Tato dohoda je stará jako setkání na palubě USS Quincy: saúdská ropa udržuje americkou ekonomiku v chodu a americké zbraně udržují Království v bezpečí. Prohlubme petrodolarové partnerství, které zajišťuje fungování říše." # todo: NEW TRANSLATION
+ SAU_cooperation_with_the_east: "Spolupráce s Východem" # todo: NEW TRANSLATION
+ SAU_cooperation_with_the_east_desc: "Těžiště světové ekonomiky se posouvá k Asii a Asie prahne po ropě. Otevřeme Království rostoucím mocnostem Východu a pojistíme se proti nespolehlivému Západu." # todo: NEW TRANSLATION
+ SAU_cooperation_with_the_west: "Spolupráce se Západem" # todo: NEW TRANSLATION
+ SAU_cooperation_with_the_west_desc: "Washington a jeho spojenci zajišťují bezpečnost Perského zálivu již od dob krále Abdulazize. Pevně zakotvěme Království v západním táboře a vyměňme světovou ropu za světovou ochranu." # todo: NEW TRANSLATION
+ SAU_engage_the_new_baghdad: "Navázat vztahy s novým Bagdádem" # todo: NEW TRANSLATION
+ SAU_engage_the_new_baghdad_desc: "V Bagdádu vládne nová vláda vedená šíity, o kterou se uchází Teherán. Spolkněme staré nepřátelství a přitáhněme nový Irák do arabského společenství." # todo: NEW TRANSLATION
+ SAU_counter_the_baathist_remnant: "Čelit pozůstatkům Baas" # todo: NEW TRANSLATION
+ SAU_counter_the_baathist_remnant_desc: "Ať už Saddám padl, nebo pouze zaváhal, Baas zůstává ve stínech Iráku silou. Odepřeme zatvrzelým stoupencům starého režimu jakoukoli cestu zpět k moci." # todo: NEW TRANSLATION
+ SAU_crackdown_on_the_opposition: "Zásah proti opozici" # todo: NEW TRANSLATION
+ SAU_crackdown_on_the_opposition_desc: "Mabahith vede rozsáhlé spisy o šíitských organizátorech, duchovních Sahwy a liberálních petentech. Rada tyto záznamy využije k identifikaci a potlačení opozice proti vojenské vládě." # todo: NEW TRANSLATION
+ SAU_declare_the_republic_of_arabia: "Vyhlásit Republiku Arábie" # todo: NEW TRANSLATION
+ SAU_declare_the_republic_of_arabia_desc: "Monarchie padla a prozatímní rada drží moc jménem lidu. Nyní je staré království definitivně rozpuštěno a je vyhlášen nový stát: Republika Arábie, založená na vůli svých občanů, nikoli na pokrevní linii dynastie." # todo: NEW TRANSLATION
+ SAU_the_defense_industries_act: "Zákon o obranném průmyslu" # todo: NEW TRANSLATION
+ SAU_the_defense_industries_act_desc: "Saúdská Arábie je dlouhodobě závislá na dovozu zbraní a zahraničních náhradních dílů. Zákon o obranném průmyslu vyžádá domácí výrobu tam, kde je to možné, a licenční výrobu tam, kde je to nutné, navzdory vyšším nákladům a nižší krátkodobé efektivitě." # todo: NEW TRANSLATION
+ SAU_disband_the_national_guard: "Rozpustit Národní gardu" # todo: NEW TRANSLATION
+ SAU_disband_the_national_guard_desc: "Národní garda byla vytvořena z loajálních kmenů, aby chránila trůn před pravidelnou armádou. Rada rozpustí její pluky a nabídne jejich příslušníkům místa v pravidelných ozbrojených silách, čímž odstraní nezávislou vojenskou základnu monarchie." # todo: NEW TRANSLATION
+ SAU_the_economy_under_military_order: "Ekonomika pod vojenskou správou" # todo: NEW TRANSLATION
+ SAU_the_economy_under_military_order_desc: "Důstojníci převezmou kontrolu nad společnostmi Aramco a SABIC, přístavy a hlavními dodavateli. Ropné operace mohou pokračovat pod vedením dosavadních inženýrů, ale vojenská správa pravděpodobně sníží efektivitu ve zbytku ekonomiky." # todo: NEW TRANSLATION
+ SAU_emergency_tribunal: "Mimořádný tribunál" # todo: NEW TRANSLATION
+ SAU_emergency_tribunal_desc: "Soudy svolané pod vojenskou pravomocí, rozhodující bez možnosti odvolání, budou soudit trestné činy, nad nimiž běžné soudy nikdy neměly pravomoc. Ulamá jsou konzultováni ohledně podoby řízení, nikoli verdiktů." # todo: NEW TRANSLATION
+ SAU_energy_subsidies_for_jordan: "Energetické dotace pro Jordánsko" # todo: NEW TRANSLATION
+ SAU_energy_subsidies_for_jordan_desc: "Jordánsko nemá vlastní ropu a pociťuje každý výkyv trhu. Připoutejme království k saúdské velkorysosti prostřednictvím levného paliva a zlevněné ropy." # todo: NEW TRANSLATION
+ SAU_aid_sudan: "Pomoc Súdánu" # todo: NEW TRANSLATION
+ SAU_aid_sudan_desc: "Chartúm potřebuje financování, které mu Teherán neposkytl. Saúdská pomoc může koupit rozchod s Íránem, ale také připoutá Rijád k vládě, která je již izolována západními sankcemi." # todo: NEW TRANSLATION
+ SAU_side_with_algeria: "Postavit se na stranu Alžírska" # todo: NEW TRANSLATION
+ SAU_side_with_algeria_desc: "Rijád nemůže stejně vřele usilovat o přízeň Alžíru a Rabatu, zatímco jejich rivalita rozděluje Maghreb. Alžírsko nabízí těžce získané zkušenosti s islamistickými povstáními, ale jeho volba znamená ochlazení vztahů s monarchistickým spojencem v Maroku." # todo: NEW TRANSLATION
+ SAU_back_the_brotherhood: "Podpořit Bratrstvo" # todo: NEW TRANSLATION
+ SAU_back_the_brotherhood_desc: "Egypt je rodištěm Bratrstva i centrem arabského světa. Podpora hnutí by Rijádu poskytla populární islamistickou síť v zahraničí, ale hrozila by třenice s vládami, které se Bratrstva obávají u volebních uren." # todo: NEW TRANSLATION
+ SAU_back_the_strongman: "Podpořit silného vůdce" # todo: NEW TRANSLATION
+ SAU_back_the_strongman_desc: "Egyptští generálové slibují pořádek, nepřátelství vůči Bratrstvu a stát dostatečně silný, aby udržel centrum arabského světa. Saúdské peníze mohou tento pořádek udržet a Káhiru sladit s Rijádem." # todo: NEW TRANSLATION
+ SAU_befriend_the_turks: "Spřátelit se s Turky" # todo: NEW TRANSLATION
+ SAU_befriend_the_turks_desc: "[befriend_the_turks_description]" # todo: NEW TRANSLATION
+ SAU_contain_the_turks: "Zadržet Turky" # todo: NEW TRANSLATION
+ SAU_contain_the_turks_desc: "Nemůžeme Turecku dovolit prosazovat jeho zájmy na Blízkém východě. [TUR.GetLeader]'s podpora politického islámu hrozí posílením nebezpečného populistického hnutí, které se může pokusit svrhnout naši vládu." # todo: NEW TRANSLATION
+ SAU_influence_muslim_europe: "Ovlivnit muslimskou Evropu" # todo: NEW TRANSLATION
+ SAU_influence_muslim_europe_desc: "Balkán je domovem muslimských komunit, které mají jen málo důvodů hledět k Rijádu. Stipendia, mešity a charitativní sítě mohou proměnit sdílenou víru v trvalý saúdský vliv v Evropě." # todo: NEW TRANSLATION
+ SAU_influence_north_africa: "Ovlivnit severní Afriku" # todo: NEW TRANSLATION
+ SAU_influence_north_africa_desc: "Maghreb hledí na sever k Evropě a na jih k Africe častěji než na východ k Rijádu. Saúdské peníze a diplomacie to mohou změnit, ale každý krok vstupuje do rivality mezi Alžírskem a Marokem." # todo: NEW TRANSLATION
+ SAU_side_with_morocco: "Postavit se na stranu Maroka" # todo: NEW TRANSLATION
+ SAU_side_with_morocco_desc: "Maroko sdílí zájem Království na zachování monarchistické vlády a omezení alžírského vlivu. Postavení se na stranu Rabatu posílí přirozeného partnera, ale uzavře dveře v Alžíru." # todo: NEW TRANSLATION
+ SAU_sanction_sudan: "Uvalit sankce na Súdán" # todo: NEW TRANSLATION
+ SAU_sanction_sudan_desc: "[SUD.GetLeader]'s vláda byla sužována mezinárodními kontroverzemi. Za jeho vlády byl Súdán obviněn, že je státním sponzorem terorismu i významným porušovatelem lidských práv. Západní země následně na tento darebácký stát uvalily sankce, což bychom měli následovat." # todo: NEW TRANSLATION
+ SAU_sanction_turkey: "Uvalit sankce na Turecko" # todo: NEW TRANSLATION
+ SAU_sanction_turkey_desc: "Navzdory našim varováním Turecko pokračuje v zasahování do arabského světa. Nemáme jinou možnost než použít donucovací prostředky, abychom Turecko odradili od naplňování jeho imperialistických ambicí." # todo: NEW TRANSLATION
+ SAU_security_guarantees: "Bezpečnostní záruky" # todo: NEW TRANSLATION
+ SAU_security_guarantees_desc: "Úzké vztahy s Ankarou mají malou cenu, pokud zmizí v krizi. Vzájemná záruka by spojila tureckou a saúdskou bezpečnost a varovala každého nepřítele, že útok na jednoho znamená čelit oběma." # todo: NEW TRANSLATION
+ SAU_turkish_bases: "Turecké základny" # todo: NEW TRANSLATION
+ SAU_turkish_bases_desc: "Poskytnutí vojenského přístupu Turecku by Ankaře dalo přímý důvod chránit Království. Zároveň by však poskytlo konkurenční regionální mocnosti opěrný bod na saúdské půdě." # todo: NEW TRANSLATION
+ SAU_libyan_arms_shipments: "Dodávky zbraní do Libye" # todo: NEW TRANSLATION
+ SAU_libyan_arms_shipments_desc: "Rozštěpený libyjský stát se stal tržištěm zahraničních zbraní a peněz. S ústupem západních mocností mohou saúdské dodávky koupit přátelskou frakci i místo v boji o její ropu a přístavy." # todo: NEW TRANSLATION
+ SAU_the_faisalite_resurgence: "Faisalitské obrození" # todo: NEW TRANSLATION
+ SAU_the_faisalite_resurgence_desc: "Faisalitský program se po generaci zanedbávání vrací. Volá po úspornosti, soběstačnosti a Království, které zastupuje ummu, místo aby záviselo na Washingtonu." # todo: NEW TRANSLATION
+ SAU_centralization_of_the_provincial_emirates: "Centralizace provinčních emirátů" # todo: NEW TRANSLATION
+ SAU_centralization_of_the_provincial_emirates_desc: "Provinční emíři spravovali své oblasti jako soukromá panství od jejich založení. Rijád odvolá jejich listiny a vydá nové — kratší, odvolatelné a podepsané králem." # todo: NEW TRANSLATION
+ SAU_the_sovereign_civil_service: "Suverénní státní služba" # todo: NEW TRANSLATION
+ SAU_the_sovereign_civil_service_desc: "Státní služba bude využívat zkoušky pro jmenování a služební záznamy pro povyšování. Tím se omezí vliv rodinných vazeb na zaměstnávání ve vládě." # todo: NEW TRANSLATION
+ SAU_reorganization_of_the_majlis_ash_shura: "Reorganizace Madžlisu aš-Šúrá" # todo: NEW TRANSLATION
+ SAU_reorganization_of_the_majlis_ash_shura_desc: "Miteb rozšíří a reorganizuje Madžlis aš-Šúrá a poskytne mu přístup k podstatným vládním záležitostem. Zůstane podřízen králi, ale získá jasnější poradní a správní úlohu." # todo: NEW TRANSLATION
+ SAU_the_national_cadre_initiative: "Iniciativa národních kádrů" # todo: NEW TRANSLATION
+ SAU_the_national_cadre_initiative_desc: "Království vycvičí saúdské občany, aby nahradili zahraniční pracovníky ve strategicky důležitých povoláních. Krátkodobá efektivita může klesnout, zatímco národní pracovní síla získá zkušenosti." # todo: NEW TRANSLATION
+ SAU_events.124.d: "Když Faisal v roce 1964 převzal trůn po svém bratrovi, měl v ruce fatvu a Rada ministrů už byla pod ním reorganizována – mešita i státní aparát se pohnuly v témže týdnu. Saud dovedl Království na pokraj bankrotu; Faisal odpověděl úsporami, o které nikdo nežádal, a Desetibodovým programem, o němž nikdo nehlasoval.\n\nProgram má být obnoven. Jedinou zbývající otázkou je, pod čím jménem bude obnoven – duchovní si pamatují krále, který vládl spolu s nimi, zatímco ministerstva si pamatují krále, který řídil stát sám." # todo: NEW TRANSLATION
+ SAU_events.124.t: "Faisalistické obrození" # todo: NEW TRANSLATION
+ SAU_events.125.a: "Odkupte jejich výsady." # todo: NEW TRANSLATION
+ SAU_events.125.b: "Nahraďte je bez okolků." # todo: NEW TRANSLATION
+ SAU_events.125.d: "Abdulaziz spojil poloostrov sňatky a stipendii a zanechal své syny jako správce provincií, které byly v každém praktickém ohledu jejich vlastní. Faisal strávil jedenáct let uvolňováním ministerstev z tohoto uspořádání a nikdy to zcela nedokončil.\n\nVýsady lze odkoupit za cenu, kterou pocítí státní pokladna, nebo je lze jednoduše zrušit – což je levnější a vytvoří nepřátele uvnitř rodiny, kteří přežijí krále, jenž je zplodil." # todo: NEW TRANSLATION
+ SAU_events.125.t: "Centralizace provinčních emirátů" # todo: NEW TRANSLATION
+ SAU_events.126.a: "Dejte jim soudy." # todo: NEW TRANSLATION
+ SAU_events.126.b: "Dejte jim školy." # todo: NEW TRANSLATION
+ SAU_events.126.d: "Faisal vládl s učenci po boku a platil za to po částech. Když v roce 1965 přivedl do Království televizi, jeho vlastní synovec zemřel při útoku na stanici v Rijádu a o deset let později vešel bratr tohoto muže do medžlisu a zastřelil krále. Spojenectví s ulemou nikdy nebylo pouhou ozdobou a nikdy nebylo zadarmo.\n\nTo, co jim nyní vrátíme, rozhodne, o jaké Království jde. Soudy by z nich učinily arbitry práva. Školy by z nich učinily tvůrce příští generace." # todo: NEW TRANSLATION
+ SAU_events.126.t: "Posílení autority ulemy" # todo: NEW TRANSLATION
+ SAU_events.127.a: "Vyžeňte je." # todo: NEW TRANSLATION
+ SAU_events.127.b: "Převychovejte je." # todo: NEW TRANSLATION
+ SAU_events.127.d: "Ironie neušla nikomu: Faisal vybudoval technokracii vlastníma rukama, posílal Saúdy do Káhiry, Londýna a Kalifornie a po návratu jim svěřoval ministerstva. Zaki Yamani vedl ropný resort s diplomem z Harvardu v kapse a dělal to lépe než kdokoli, koho mohlo Království vychovat doma.\n\nMuži se však vrátili s více než jen kvalifikací a Rada nyní diskutuje, zda je odpovědí letiště, nebo učebna." # todo: NEW TRANSLATION
+ SAU_events.127.t: "Čistka mezi pozápadnělou elitou" # todo: NEW TRANSLATION
+ SAU_events.128.a: "Jmenujte na základě zkoušek." # todo: NEW TRANSLATION
+ SAU_events.128.b: "Jmenujte na základě loajality." # todo: NEW TRANSLATION
+ SAU_events.128.d: "Před Faisalem zde téměř nebyl stát, který by bylo třeba personálně obsadit. Finance Království procházely domácností samotného krále a hrstkou důvěryhodných obchodníků a rozdíl mezi státní pokladnou a královskou peněženkou byl otázkou názoru. Vybudoval ministerstva tam, kde dříve byli jen služebníci.\n\nK čemu má nová byrokracie skutečně sloužit, nebylo nikdy rozhodnuto. Služba vybraná zkouškami bude schopná, ale nebude vděčná. Služba vybraná podle loajality nebude ani jedno." # todo: NEW TRANSLATION
+ SAU_events.128.t: "Suverénní státní služba" # todo: NEW TRANSLATION
+ SAU_events.129.a: "Nechte je hlídkovat v plné síle." # todo: NEW TRANSLATION
+ SAU_events.129.b: "Ponechte je v poradní roli." # todo: NEW TRANSLATION
+ SAU_events.129.d: "Výbor pro podporu ctnosti a prevenci neřesti byl jen rozptýlenou skupinou místních vykonavatelů, dokud mu stát neposkytl rozpočet, uniformu a řetězec velení. Faisal potřeboval usmířit duchovní s televizí, dívčími školami a zahraničními inženýry procházejícími ulicemi Dhahránu a Výbor byl součástí ceny, kterou za to zaplatil.\n\nNikdy to nebyla tak docela policejní síla a zároveň jí nikdy tak docela nebyla." # todo: NEW TRANSLATION
+ SAU_events.129.t: "Návrat výborů ctnosti" # todo: NEW TRANSLATION
+ SAU_events.13.a: "Přijměte investiční dohodu." # todo: NEW TRANSLATION
+ SAU_events.13.d: "Rijád odkládá stará podezření stranou a nabízí Paříži rozsáhlou investiční dohodu: saúdský kapitál pro francouzský průmysl a francouzské know-how pro Království. Obě vlády mohou získat." # todo: NEW TRANSLATION
+ SAU_events.13.t: "[SAU.GetFlag] Francouzsko-saúdská investiční dohoda" # todo: NEW TRANSLATION
+ SAU_events.130.a: "Rušte satelity." # todo: NEW TRANSLATION
+ SAU_events.130.b: "Kupte sítě." # todo: NEW TRANSLATION
+ SAU_events.130.d: "Faisal vedl svou první mediální válku proti Násirovu Hlasu Arabů, který vysílal do saúdských kasáren a říkal saúdským vojákům, že jejich král je americkým sluhou. Rijád odpověděl vlastními vysílači a velkým množstvím peněz tiše umístěných u redaktorů v Bejrútu a Káhiře.\n\nPonaučení zůstalo: vysílání nelze přesvědčit argumenty. Lze je pouze rušit, nebo koupit." # todo: NEW TRANSLATION
+ SAU_events.130.t: "Zákaz zahraničních médií" # todo: NEW TRANSLATION
+ SAU_events.131.a: "Posaďte významné osobnosti." # todo: NEW TRANSLATION
+ SAU_events.131.b: "Rozšiřte členství." # todo: NEW TRANSLATION
+ SAU_events.131.d: "Desetibodový program z roku 1962 slíbil Království poradní radu. Faisal vládl dalších třináct let a nikdy ji nesvolal; nakonec ji v roce 1992 ustavil Fahd – o třicet let později a jmenovanou, nikoli volenou.\n\nSlib se nyní dává znovu a složení je celým jádrem sporu. Významné osobnosti by z ní učinily dvůr. Širší členství by z ní učinilo něco, co dvůr nedokáže zcela předvídat." # todo: NEW TRANSLATION
+ SAU_events.131.t: "Reorganizace Madžlis aš-Šúrá" # todo: NEW TRANSLATION
+ SAU_events.132.a: "Technické instituty." # todo: NEW TRANSLATION
+ SAU_events.132.b: "Vojenské akademie." # todo: NEW TRANSLATION
+ SAU_events.132.d: "Rozmach vybudovaly ruce jiných – jemenští dělníci, egyptští učitelé, palestinští úředníci a časem více než milion lidí z jižní Asie. Faisalovou odpovědí bylo vzdělávání v měřítku, o jaké se poloostrov nikdy nepokusil: Univerzita krále Abdulazize byla otevřena v roce 1967, stipendijní programy vyslaly tisíce lidí do zahraničí a Království začalo vyrábět vlastní střední třídu.\n\nK čemu má být tato třída vyrobena, je rozhodnutí, které stojí před Radou." # todo: NEW TRANSLATION
+ SAU_events.132.t: "Iniciativa národních kádrů" # todo: NEW TRANSLATION
+ SAU_events.133.a: "Úplně ji uzavřete." # todo: NEW TRANSLATION
+ SAU_events.133.b: "Přijměte ty, které potřebujeme." # todo: NEW TRANSLATION
+ SAU_events.133.d: "V 70. letech se zahraniční pracovní síla blížila třetině všech lidí uvnitř hranic a vykonávala většinu práce, která udržovala světla v chodu. Faisal přijal pracovní sílu a obával se politiky, která s ní přicházela – Palestinci přinesli svou věc, Jemenci početnost a Egypťané Násira.\n\nUzavření hranice vrátí národ sám sobě a předá ministerstvům nedostatek pracovních sil, na který nemají vůbec žádný plán." # todo: NEW TRANSLATION
+ SAU_events.133.t: "Uzavřená hranice" # todo: NEW TRANSLATION
+ SAU_events.134.a: "Opevněte pobřeží." # todo: NEW TRANSLATION
+ SAU_events.134.b: "Opevněte vnitrozemí." # todo: NEW TRANSLATION
+ SAU_events.134.d: "Faisalovo Království obklopovali lidé, kteří si přáli jeho zánik: Násirův Egypt přes Rudé moře, republikáni v Saná, baasisté v Bagdádu a Damašku a Sovětský svaz, který odepsal rod Saúdů jako relikt čekající na pohřeb. Vybudoval Národní gardu proti převratu a nakoupil americká letadla proti invazi, přičemž si nikdy nebyl zcela jistý, co přijde dříve.\n\nKrálovství nyní musí rozhodnout, na jakou hrozbu se skutečně připravuje." # todo: NEW TRANSLATION
+ SAU_events.134.t: "Pevnostní království" # todo: NEW TRANSLATION
+ SAU_events.135.a: "Svolejte ji do Mekky." # todo: NEW TRANSLATION
+ SAU_events.135.b: "Svolejte ji v zahraničí." # todo: NEW TRANSLATION
+ SAU_events.135.d: "Když v srpnu 1969 hořel al-Aksá, Faisal během několika týdnů svolal představitele muslimského světa do Rabatu a ještě před koncem roku vznikla Organizace islámské konference. Byla odpovědí na Násirovu Arabskou ligu – ne arabskou a sekulární, nýbrž muslimskou a vedenou z Mekky.\n\nMísto, kde Království svolá věřící, je samo o sobě prohlášením. Svatá města propůjčují legitimitu, kterou žádný konferenční sál v zahraničí poskytnout nemůže." # todo: NEW TRANSLATION
+ SAU_events.135.t: "Konference islámské solidarity" # todo: NEW TRANSLATION
+ SAU_events.136.a: "Otevřeně pohrozte embargem." # todo: NEW TRANSLATION
+ SAU_events.136.b: "Uplatněte je potichu." # todo: NEW TRANSLATION
+ SAU_events.136.d: "Sedmnáctého října 1973 Faisal omezil těžbu a uzavřel kohouty Spojeným státům. Cena barelu během jediné sezóny vzrostla ze tří dolarů téměř na dvanáct, Západ zjistil, jakou cenu má jeho pohodlí, a Království zjistilo, že drží zbraň, o níž nikdy neuvažovalo, že ji použije.\n\nOd té doby nebyla použita. Ministerstvo po celou dobu udržovalo údaje aktuální." # todo: NEW TRANSLATION
+ SAU_events.136.t: "Duch roku 1973" # todo: NEW TRANSLATION
+ SAU_events.137.a: "Nejprve zbraně." # todo: NEW TRANSLATION
+ SAU_events.137.b: "Nejprve všechno ostatní." # todo: NEW TRANSLATION
+ SAU_events.137.d: "Království těží ropu, prodává ji do zahraničí a zpět nakupuje vše, co potřebuje – včetně potrubí, kterým ropa proudí. Faisalovy pětileté plány měly tento kruh prolomit a do značné míry uspěly ve vybudování věcí, které ropu přepravují rychleji.\n\nSubstituce musí někde začít a místo, kde začne, rozhodne o tom, co může Království dělat bez ptaní se kohokoli o svolení." # todo: NEW TRANSLATION
+ SAU_events.137.t: "Odstranění zahraniční závislosti" # todo: NEW TRANSLATION
+ SAU_events.138.a: "Financujte ji." # todo: NEW TRANSLATION
+ SAU_events.138.b: "Personálně ji obsadťe." # todo: NEW TRANSLATION
+ SAU_events.138.d: "Faisal založil Muslimskou světovou ligu v Mekce v roce 1962 a o sedm let později přivedl k životu Organizaci islámské konference. Obě sídlily tam, kam dosáhly saúdské peníze, a obě byly vybudovány jako odpověď na panarabismus, v němž nebylo místo pro krále.\n\nJeho nástupci dál platili účty a postupně přestali určovat agendu. Peníze kupují úctu; úředníci kupují kontrolu. Není to totéž." # todo: NEW TRANSLATION
+ SAU_events.138.t: "Obnovení vedení OIC" # todo: NEW TRANSLATION
+ SAU_events.139.a: "Přísná kvóta." # todo: NEW TRANSLATION
+ SAU_events.139.b: "Postupná kvóta." # todo: NEW TRANSLATION
+ SAU_events.139.d: "Aramco mělo nakupovat saúdské zboží tam, kde existovalo, a tam, kde neexistovalo, Království platilo zahraničním firmám, aby postavily továrnu, která je vyrobí. Bylo to pomalé, drahé a zůstává to jediným způsobem, jak země dovážející vlastní vrtáky přestane tak činit.\n\nTo, jak tvrdě je hranice nastavena, rozhodne, zda ministerstva vyhoví, nebo se jednoduše naučí podávat žádosti o výjimky." # todo: NEW TRANSLATION
+ SAU_events.139.t: "Kvóta domácích dodávek" # todo: NEW TRANSLATION
+ SAU_events.14.a: "Přijměte investici." # todo: NEW TRANSLATION
+ SAU_events.14.b: "Nabídku odmítněte." # todo: NEW TRANSLATION
+ SAU_events.14.d: "Saúdská Arábie nabízí investice do našeho průmyslu výměnou za hlubší hospodářské vazby. Přijetí by přineslo nové továrny a saúdský vliv." # todo: NEW TRANSLATION
+ SAU_events.14.t: "[SAU.GetFlag] Investice v zemích NATO" # todo: NEW TRANSLATION
+ SAU_events.140.a: "Nechte ho následovat Faisala. Garda to unese." # todo: NEW TRANSLATION
+ SAU_events.140.b: "Faisalovo Království zemřelo s Faisalem. Nechte ho odpočívat." # todo: NEW TRANSLATION
+ SAU_events.140.d: "Fahd je pohřben a Abdullah je konečně králem vlastním jménem, po deseti letech vlády jménem jiného muže. Nástupnictví je otevřené a princové už začali počítat.\n\nKrálův vlastní syn za ním přichází s argumentem, nikoli s nárokem. Miteb velí Národní gardě – kmenovým oddílům, mužům z vnitrozemí a síle vytvořené přesně proto, že běžné armádě nebylo možné věřit v blízkosti trůnu. Čte Faisala: úspornost, soběstačnost, Království, které mluvilo za ummu a o nic nežádalo Washington. Strýc, který takto vládl, byl zastřelen vlastním synovcem a každý muž v místnosti to ví.\n\nFaisalův program nemá dědice. Miteb žádá, aby se jím stal." # todo: NEW TRANSLATION
+ SAU_events.140.t: "Faisalistické obrození" # todo: NEW TRANSLATION
+ SAU_events.141.a: "Nechte trh, ať si najde vlastní dno." # todo: NEW TRANSLATION
+ SAU_events.141.b: "Stát bude nakupovat. Nesmíme dovolit, aby se z toho stala politika." # todo: NEW TRANSLATION
+ SAU_events.141.d: "Dvacátého pátého února uzavřel index všech akcií Tadawulu na hodnotě 20 634 a poté přestal růst. Od té doby nepřestal klesat.\n\nNejde o krach bank a institucí. Téměř polovina dospělé populace Království byla na tomto trhu – učitelé, řidiči, vojáci a státní zaměstnanci – mnozí s akciemi koupenými za vypůjčené peníze za ceny, které žádné výnosy nemohly ospravedlnit. Makléřská pracoviště byla otevřena v nákupních centrech. Ženy obchodovaly z oddělených místností. Po dva roky to byla národní zábava.\n\nNež index najde své dno, ztratí téměř dvě třetiny hodnoty a s nimi několik set miliard rijálů úspor domácností. Úřad pro kapitálový trh existuje tři roky a nikdy nic podobného nezažil. Rada musí rozhodnout, zda stát chytí padající nůž, nebo nechá trh předat lekci, kterou právě udílí." # todo: NEW TRANSLATION
+ SAU_events.141.t: "Černý únor" # todo: NEW TRANSLATION
+ SAU_events.142.a: "Omezte těžbu. Braňte cenu." # todo: NEW TRANSLATION
+ SAU_events.142.b: "Udržte těžbu. Nechte nejprve zkrachovat drahé producenty." # todo: NEW TRANSLATION
+ SAU_events.142.d: "Cena barelu klesá a nevykazuje žádné známky zastavení. Rozpočet byl sestaven na předpokladech, které už neplatí, a každé ministerstvo brzy zjistí, které jeho programy byly dostupné a které byly jen financované.\nRijád už tu bylo. Na začátku 80. let omezilo vlastní těžbu, aby udrželo cenu, sledovalo, jak každý jiný producent tiše prodává do uvolněného prostoru, a vidělo, jak saúdská produkce klesla přibližně o tři čtvrtiny, zatímco cena se stejně zhroutila. Lekce byla drahá a na ministerstvu se o ní stále diskutuje.\nKrálovství drží nejlevnější barely na světě. To je jeho jediná skutečná výhoda a lze ji utratit za obranu ceny pro všechny, nebo za přežití producentů, kteří si nemohou dovolit prodávat za tyto částky." # todo: NEW TRANSLATION
+ SAU_events.142.t: "Kolaps ceny ropy" # todo: NEW TRANSLATION
+ SAU_events.143.a: "Tvrdá lekce v drahé učebně." # todo: NEW TRANSLATION
+ SAU_events.143.d: "Saúdská burza během několika měsíců přišla o většinu své hodnoty a vymazala několik set miliard rijálů majetku domácností. Na trh této velikosti neobvykle dopadly ztráty téměř výhradně na běžné Saúdy, nikoli na instituce – učitele, řidiče a státní zaměstnance, kteří nakupovali na vrcholu, mnozí na úvěr. Analytici v zahraničí poznamenávají, že největší světový vývozce ropy právě zjistil, že má také třídu drobných investorů, a vůbec netuší, co s ní." # todo: NEW TRANSLATION
+ SAU_events.143.t: "Rijád: Tadawul se hroutí" # todo: NEW TRANSLATION
+ SAU_events.144.a: "Barel rozhoduje, jako vždy." # todo: NEW TRANSLATION
+ SAU_events.144.d: "Cena ropy prorazila každé dno, které jí analytici vytyčili. Vývozní státy přepisují rozpočty vyrovnané na předpokladech, které jsou nyní viditelně bezcenné, zatímco dovozci si užívají neočekávaný zisk, který si netroufají příliš hlasitě oslavovat. Všechny oči míří na Rijád, jenž drží nejlevnější barely na světě, a tedy jediné rozhodnutí, na kterém záleží: omezit těžbu a držet cenu pro všechny, nebo dál čerpat a zjistit, kdo se zhroutí jako první." # todo: NEW TRANSLATION
+ SAU_events.144.t: "Cena ropy se hroutí" # todo: NEW TRANSLATION
+ SAU_events.145.a: "Chraňte Gardu. Ona chrání nás." # todo: NEW TRANSLATION
+ SAU_events.145.b: "Obě služby to ponesou stejně." # todo: NEW TRANSLATION
+ SAU_events.145.d: "Rezervy se tenčí a rozpočet nevychází. Nejprve přijdou na řadu dotace, pak kapitálové projekty a nyní ministerstvo financí sáhlo na rozpočtovou položku obrany.\n\nPotíž je v tom, že Království nemá jednu armádu. Má pravidelné síly pod ministerstvem obrany a Národní gardu – rekrutovanou z loajálních kmenů vnitrozemí, posádkou kolem Rijádu a ropných polí a podřízenou přímo trůnu. Garda existuje proto, že synové Abdulazize armádě nevěřili, a od té doby je podle toho placena.\n\nŠkrty mohou dopadnout na obě, nebo může být Garda ochráněna a pravidelným důstojníkům řečeno, aby si poradili. Jedna z těchto voleb udrží trůn v bezpečí letos. Druhá za deset let.\n\n§HDůstojnický sbor§!: [ROOT.GetSAUArmyGrievance] (§Y[?SAU_army_grievance|0]§! ze §Y100§!)\n[ROOT.GetSAUArmyGrievanceEffect]" # todo: NEW TRANSLATION
+ SAU_events.145.t: "Nerovnoměrné škrty" # todo: NEW TRANSLATION
+ SAU_events.146.a: "Pošlete Gardu. Vyčistěte ulice." # todo: NEW TRANSLATION
+ SAU_events.146.b: "Nikdo nebude nasazen. Najděte peníze a kupte si klid." # todo: NEW TRANSLATION
+ SAU_events.146.d: "Úsporná opatření dorazila do ulic. V Katífu a Dammámu jsou davy a menší shromáždění v Rijádu, o nichž ministerstva tvrdí, že to žádné davy nejsou.\n\nNárodní garda je nástrojem pro tento účel – vždy jím byla, to je celý její smysl – a je připravena, financovaná a ochotná. Pravidelný důstojnický sbor osloven nebyl a velmi pozorně sleduje, kdo osloven bude.\n\nKaždý plukovník ministerstva obrany chápe, co znamená, pokud je nasazena Garda, zatímco jejich vlastní jednotky sedí bez žoldu v kasárnách. Znamená to, že trůn veřejně a natrvalo rozhodl, které armádě důvěřuje.\n\n§HDůstojnický sbor§!: [ROOT.GetSAUArmyGrievance] (§Y[?SAU_army_grievance|0]§! ze §Y100§!)\n[ROOT.GetSAUArmyGrievanceEffect]" # todo: NEW TRANSLATION
+ SAU_events.146.t: "Rozkaz k nasazení" # todo: NEW TRANSLATION
+ SAU_events.147.a: "Postupte na Rijád. Garda nebude mít čas reagovat." # todo: NEW TRANSLATION
+ SAU_events.147.b: "Tohle ne. Jsme vojáci, ne politici." # todo: NEW TRANSLATION
+ SAU_events.147.d: "Je tedy rozhodnuto. Garda je placená a důvěryhodná; armáda není ani jedno. Mužům, kteří létají s letadly, velí obrněncům a drží hranici, bylo bez jediného přímého slova sděleno, že jsou ve vlastní zemi druhou armádou.\n\nPro to, co bude následovat, existuje precedens. V roce 1969 se spiknutí letectva a armádních důstojníků – násirovců, Hidžázců a mužů unavených vládou jedné rodiny – přiblížilo svržení Faisala na vzdálenost jediné zpravodajské zprávy. Stovky lidí byly zatčeny. Království se poučilo, že pravidelným silám nelze věřit, posílilo Gardu a nikdy se nezeptalo, proč po tom důstojníci toužili.\n\nŠtáb se už několik týdnů schází. O rozpočtech už nediskutuje.\n\n§HDůstojnický sbor§!: [ROOT.GetSAUArmyGrievance] (§Y[?SAU_army_grievance|0]§! ze §Y100§!)\n[ROOT.GetSAUArmyGrievanceEffect]" # todo: NEW TRANSLATION
+ SAU_events.147.t: "Důstojníci rozhodují" # todo: NEW TRANSLATION
+ SAU_events.148.a: "Království má novou vládu." # todo: NEW TRANSLATION
+ SAU_events.148.d: "Jednotky saúdské pravidelné armády před úsvitem vstoupily do Rijádu a drží ministerstva, vysílací úřad a přístupy ke královským palácům. Kasárna Národní gardy byla obklíčena ve stejnou hodinu a nekladla odpor. Nejvyšší vojenská rada oznámila, že obnovuje veřejný pořádek a že ústavní postavení trůnu zůstává nezměněno – formule, kterou lze podle pozorovatelů vykládat několika způsoby.\n\nAramco hlásí běžné nakládání v Ras Tanúře. To je jediná věta z celého hlášení, kterou čtou ropné trhy." # todo: NEW TRANSLATION
+ SAU_events.148.t: "Rijád: obrněnce v ulicích" # todo: NEW TRANSLATION
+ SAU_events.149.a: "Vyhlaste arabskou socialistickou republiku." # todo: NEW TRANSLATION
+ SAU_events.149.b: "Vyhlaste islámskou republiku." # todo: NEW TRANSLATION
+ SAU_events.149.c: "Vyhlaste konstituční republiku." # todo: NEW TRANSLATION
+ SAU_events.149.d: "Trůn skončil. Rada má ministerstva, vysílací úřad i přístupy ke každému paláci v Rijádu a zjistila to, co zjistí každá junta: zmocnit se země trvá noc, ale vládnout jí vyžaduje jméno.\nMusí být vyhlášena republika a republika musí být vyhlášena jako něco. Důstojníci v místnosti se neshodnou na čem. Někteří sloužili po boku Iráčanů a Syřanů a vrátili se s obdivem k Baas – jeden arabský národ, jedna strana, armáda jako jeho páteř. Jiní ukazují na Katíf a Východní provincii a tvrdí, že jedinou masovou komunitou, kterou Království kdy potlačovalo, je ta, která by republiku nesla na svých bedrech. Mladší frakce, muži vyslaní studovat do zahraničí, chce ústavu, parlament a to, aby slovo republika znamenalo totéž jako všude jinde. A několik tišších mužů čte věci, za něž by je Mabhith kdysi zatkl.\nAť bude dnes večer oznámeno cokoli, bude to oznámeno jménem saúdského lidu – a nikdo se ho na nic neptal." # todo: NEW TRANSLATION
+ SAU_events.149.e: "Vyhlaste lidovou republiku." # todo: NEW TRANSLATION
+ SAU_events.149.t: "Al-Džumhúríja" # todo: NEW TRANSLATION
+ SAU_events.15.a: "Přijměte námořní partnerství." # todo: NEW TRANSLATION
+ SAU_events.15.b: "Nabídku odmítněte." # todo: NEW TRANSLATION
+ SAU_events.15.d: "Rijád přichází do Madridu s námořní nabídkou: španělské loděnice by stavěly pro Královské saúdské námořnictvo a saúdské peníze by proudily do španělského průmyslu." # todo: NEW TRANSLATION
+ SAU_events.15.t: "[SAU.GetFlag] Saúdsko-španělské partnerství" # todo: NEW TRANSLATION
+ SAU_events.150.a: "Pohlťte je. Mohou nosit naši uniformu." # todo: NEW TRANSLATION
+ SAU_events.150.b: "Gardu zcela rozpusťte. Pošlete je domů." # todo: NEW TRANSLATION
+ SAU_events.150.c: "Ponechte zbytek pod naším velením." # todo: NEW TRANSLATION
+ SAU_events.150.d: "Sedmdesát pět tisíc mužů, povolaných z kmenů Nadždu, protože synové Abdulazize nedůvěřovali profesionální armádě, a vyzbrojených natolik dobře, že žádná profesionální armáda nemohla postoupit na Rijád, aniž by se s nimi nejprve utkala. Té noci byli obklíčeni v kasárnách a nevystřelili. Nyní musí Rada rozhodnout, co s nimi.\n\nNejde o nepřátelskou formaci. Její důstojníci jsou bratranci a sousedé mužů, kteří na ně míří zbraněmi, a každý její voják patří ke kmeni s nárokem na stát. Rozpuštění ušetří Radě velké peníze a vytvoří velké množství nepřátel ve vnitrozemí. Pohlcení zdvojnásobí její stav a spolkne sedmdesát pět tisíc mužů, jejichž loajalita až do minulého týdne výslovně patřila někomu jinému." # todo: NEW TRANSLATION
+ SAU_events.150.t: "Rozpuštění Gardy" # todo: NEW TRANSLATION
+ SAU_events.184.d: "Žádné prohlášení, žádné odmítnutí, žádné setkání. Žádost je potvrzena náměstkem pomocného ministra a nikdy není zodpovězena; po několika měsících je jasné, že neodpověď byla odpovědí. Osmdesát let trvající uspořádání nebylo odmítnuto. Bylo jednoduše ponecháno svému tichému zániku, způsobem, jakým takové věci vždy končí." # todo: NEW TRANSLATION
+ SAU_events.184.t: "Záruka nikoho" # todo: NEW TRANSLATION
+ SAU_events.185.a: "Nechte je číst." # todo: NEW TRANSLATION
+ SAU_events.185.b: "Království má jednu zahraniční politiku." # todo: NEW TRANSLATION
+ SAU_events.185.d: "Čtyři měsíce po začátku nové vlády se v Mekce sešla Organizace islámské konference – těleso, které král Faisal vybudoval poté, co v roce 1969 vyhořela Al-Aksá, a které svolal ve svém vlastním městě jeho mladší bratr. Byl dohodnut desetiletý akční program a všichni se vrátili domů. V jídelnách Národní gardy však čtou starší projevy, ty z roku 1973, a připomínají si, že Faisal u programů neskončil. Mutajb bin Abdalláh velí gardě. A se čtením nepřestal." # todo: NEW TRANSLATION
+ SAU_events.185.t: "Summit v Mekce" # todo: NEW TRANSLATION
+ SAU_events.186.a: "Financujte to otevřeně, jménem Království." # todo: NEW TRANSLATION
+ SAU_events.186.b: "Nechte gardu, ať to potichu zaplatí." # todo: NEW TRANSLATION
+ SAU_events.186.c: "Držte ho na uzdě." # todo: NEW TRANSLATION
+ SAU_events.186.d: "V roce 1969 vyhořela Al-Aksá a Faisal nechal do měsíce shromáždit představitele muslimského světa v Rabatu; Organizace islámské konference existuje právě díky tomu. Kruh kolem Mutajba chce summit znovu svolat a otevřeně financovat Muslimskou světovou ligu – jménem Království, na náklady Království, s vlajkou Království na pódiu. Není to malá žádost. Je to však přesně to, co udělal jeho strýc.\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.186.t: "Vzpomínka na Rabat" # todo: NEW TRANSLATION
+ SAU_events.187.a: "Faisal přece jen má dědice." # todo: NEW TRANSLATION
+ SAU_events.187.d: "RIJÁD – Velitel saúdskoarabské Národní gardy strávil týden tím, že v malém zopakoval to, co jeho strýc udělal v plném rozsahu. Rozpočet Muslimské světové ligy byl obnoven téměř na úroveň svého podílu ze 70. let, Islámská rozvojová banka má být rekapitalizována z prostředků napojených na gardu a Mutajb bin Abdalláh – vůbec poprvé jako sloužící saúdský velitel, nikoli ministr – vyzval ke svolání Organizace islámské spolupráce na mimořádné zasedání.\n\nKrál Faisal založil Ligu v Mekce v roce 1962 a v roce 1969 svolal Organizaci do Rabatu; v říjnu 1973 ukázal, čeho může Království dosáhnout, když se rozhodne jednat místo zprostředkování. Garda není stát a její velitel není král. Oba tyto body se v Rijádu zmiňují mnohem častěji než před měsícem." # todo: NEW TRANSLATION
+ SAU_events.187.t: "Faisal má dědice" # todo: NEW TRANSLATION
+ SAU_events.188.a: "Řekněte nahlas to, co se už říká soukromě." # todo: NEW TRANSLATION
+ SAU_events.188.b: "Válka Washingtonu není naše, abychom ji vyprávěli." # todo: NEW TRANSLATION
+ SAU_events.188.d: "Na druhé straně hranice, kterou Království nikdy nedokázalo uzavřít, se v Mezopotámii nacházejí americké divize. Ať už Washington toto uspořádání nazývá jakkoli, každý kazatel od Burajdy po Abhá je popisuje stejně a fakta jim neodporují. Kruh kolem Mutajba přestal diskutovat o tom, zda měl Faisal ohledně Západu pravdu. Zaměřil se na to, co z jeho pravdy vyplývá.\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.188.t: "Okupace za humny" # todo: NEW TRANSLATION
+ SAU_events.189.a: "Království se nereformuje kvůli potlesku ze zahraničí." # todo: NEW TRANSLATION
+ SAU_events.189.b: "Století na nás nepočká." # todo: NEW TRANSLATION
+ SAU_events.189.d: "Jednotlivě jsou dekrety skromné – zde uvolněné pravidlo, tam restrukturalizované ministerstvo, jinde otevřená profese lidem, kterým do ní dříve nebyl povolen vstup. Dohromady jde o největší společenskou změnu od doby, kdy školy přijaly dívky, a nikdo v Rijádu nepředstírá, že nebyly sepsány s jedním okem upřeným na to, jak budou čteny ve Washingtonu a Londýně. Kazatelny si všimly druhé části o něco více než té první.\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.189.t: "Království se otevírá" # todo: NEW TRANSLATION
+ SAU_events.19.a: "Posilte hranici." # todo: NEW TRANSLATION
+ SAU_events.19.d: "Bojovníci z [ROOT.SAU_GetFrontName] překročili hranici a udeřili na vojenské sklady, než se rozplynuli v noci. Naše síly se horečně snaží reagovat." # todo: NEW TRANSLATION
+ SAU_events.19.t: "Vpád přes hranici" # todo: NEW TRANSLATION
+ SAU_events.190.a: "Položte Faisalovu otázku nahlas." # todo: NEW TRANSLATION
+ SAU_events.190.b: "Rezerva není zbraň." # todo: NEW TRANSLATION
+ SAU_events.190.d: "Další muslimské hlavní město, další americká letecká kampaň, další saúdské prohlášení vyzývající všechny strany ke zdrženlivosti. Kruh kolem Mutajba přestal sepisovat prohlášení. Místo toho šíří jednu otázku, přesně tu, na kterou Faisal odpověděl v říjnu 1973: k čemu je největší ropná rezerva na světě, pokud po ní nikdy nesáhneme?\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.190.t: "Příští válka" # todo: NEW TRANSLATION
+ SAU_events.191.a: "Nechte to běžet. Měl by stát v jeho čele." # todo: NEW TRANSLATION
+ SAU_events.191.b: "Veďte to prostřednictvím ministerstev." # todo: NEW TRANSLATION
+ SAU_events.191.c: "Rozpusťte to, než pojmenuje krále." # todo: NEW TRANSLATION
+ SAU_events.191.d: "Přestalo jít o rozhovor mezi důstojníky. Faisalův portrét je ve výlohách na ulici Olaya; páteční kázání v Burajdě a Unaizahu se šest týdnů věnují stejnému tématu a vlastní branci gardy citují vysílání z roku 1973 svým instruktorům. Nikdo to nezorganizoval a každý poznává, kam to směřuje. Mutajb bin Abdalláh veřejně nic neřekl, což se nyní samo čte jako prohlášení.\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.191.t: "Ulice si pamatují Faisala" # todo: NEW TRANSLATION
+ SAU_events.192.a: "Faisalova odpověď. Řekněte ji jeho slovy." # todo: NEW TRANSLATION
+ SAU_events.192.b: "Otevřete pokladnu těm, kteří jsou pod palbou." # todo: NEW TRANSLATION
+ SAU_events.192.c: "Prohlášení vyzývající všechny strany ke zdrženlivosti." # todo: NEW TRANSLATION
+ SAU_events.192.d: "Izraelské síly zasahují proti arabskému státu a televize Království to vysílá živě a bez přerušení. Během jediného dne jsou nápisy stejně americké jako izraelské – letadla, munice i veto, které bude následovat v Radě bezpečnosti. To je půda, kterou si Faisal zvolil v roce 1973, a argument se mezitím nezměnil: Království drží největší ropnou rezervu na světě a nikdy nebylo ochotné po ní sáhnout.\n\n§HFaisalistické smýšlení§!: [ROOT.GetSAUFaisaliteConviction] (§Y[?SAU_faisalite_conviction|0]§! ze §Y100§!)" # todo: NEW TRANSLATION
+ SAU_events.192.t: "Další válka a stejná otázka" # todo: NEW TRANSLATION
+ SAU_events.193.a: "Ať záznam ukáže, že to bylo vyřešeno u stolu." # todo: NEW TRANSLATION
+ SAU_events.193.d: "Má šedesát stran a doporučuje téměř přesně to, o co plukovníci žádali od začátku – což se stává, když komisi dovolíte vybrat si vlastní členy. Povýšení jsou zveřejněna, nedoplatky vyrovnány a důstojníkům uvedeným ve spisech ministerstva vnitra je potichu sděleno, že i tyto spisy byly uzavřeny.\n\nK žádnému převratu nedojde. Vojáci Království dostali důvod nebýt těmi, kdo to ukončí, a armádě to obvykle stačí." # todo: NEW TRANSLATION
+ SAU_events.193.t: "Komise podává zprávu" # todo: NEW TRANSLATION
+ SAU_events.194.a: "Pak je dohodnuto. Předložte otázku všem." # todo: NEW TRANSLATION
+ SAU_events.194.b: "Království odpoví Jemenu samo." # todo: NEW TRANSLATION
+ SAU_events.194.d: "Dorazí během jediného víkendu a program není nikdy zveřejněn. Kuvajt vysílá šejka Mohammeda Al-Chálida Al-Sabáha, místopředsedu vlády a ministra vnitra; Katar vysílá svého premiéra, šejka Abdalláha bin Násira Al Tháního, který rovněž vede resort vnitra. Emiráťané už v budově jsou.\n\nHlavní město padlo Húsiům a uznávaný prezident je někde na jih od něj, bez armády, která by stála za řeč. Otázkou před místností není, zda může Perský záliv jednat. Jde o to, zda bude jednat jedním podpisem, nebo několika – a každý stát v koridoru si o tom rozhodne sám." # todo: NEW TRANSLATION
+ SAU_events.194.t: "Jednání v Rijádu" # todo: NEW TRANSLATION
+ SAU_events.195.a: "Podepište to. Všemi nezbytnými prostředky." # todo: NEW TRANSLATION
+ SAU_events.195.b: "Jemen nebude zachráněn jako protektorát." # todo: NEW TRANSLATION
+ SAU_events.195.d: "Saúdská žádost je předložena přímo prezidentovi a nejde ani tak o nabídku pomoci jako o žádost o svolení. Rijád chce dopis: výzvu Radě bezpečnosti a samostatnou výzvu státům Rady pro spolupráci v Zálivu, aby zasáhly §Yvšemi nezbytnými prostředky§!.\n\nUznaná vláda může podle práva pozvat cizí síly na vlastní území a tento dopis je celým právním základem toho, co následuje. Podepsaný přivede letectva Perského zálivu. Nepodepsaný ponechá republiku čelit Húsiům s tím, co jí ještě zbylo – a zachová jí právo později tvrdit, že nikdy nebyla něčím klientem." # todo: NEW TRANSLATION
+ SAU_events.195.t: "Otázka z Rijádu" # todo: NEW TRANSLATION
+ SAU_events.196.a: "Operace Rozhodná bouře začíná." # todo: NEW TRANSLATION
+ SAU_events.196.b: "Pouze vzduch a moře. Žádný saúdský voják nepřekročí hranici." # todo: NEW TRANSLATION
+ SAU_events.196.d: "Oznámení není učiněno v Rijádu. Adel al-Džubajr, velvyslanec Království ve Spojených státech, jej čte na ambasádě ve Washingtonu, zatímco první letadla už jsou ve vzduchu – volba místa, která každému hlavnímu městu světa říká, kdo byl konzultován a kdy.\n\nOperace Rozhodná bouře. Státy, které na pozvání odpověděly, jsou jmenovány jako účastníci; někteří z nich se z vysílání dozvídají rozsah své účasti. Deklarovaným cílem je obnova legitimní vlády. Žádné datum konce není uvedeno a nikdo se na něj neptá.\n\n§HPartneři koalice§!: §Y[?SAU_coalition_partners|0]§!" # todo: NEW TRANSLATION
+ SAU_events.196.t: "Prohlášení" # todo: NEW TRANSLATION
+ SAU_events.197.a: "Perský záliv vstoupil do války." # todo: NEW TRANSLATION
+ SAU_events.197.d: "WASHINGTON – Koalice vedená Saúdskou Arábií dnes zahájila letecké operace nad Jemenem, oznámené ze saúdské ambasády zde, nikoli z Rijádu. Království odkazuje na písemnou žádost uznávaného prezidenta Jemenu a na ustanovení o kolektivní obraně Rady pro spolupráci v Zálivu.\n\nTeherán operaci odsoudil a popírá, že by vyzbrojoval hnutí Húsíů. Washington potvrdil poskytování logistické a zpravodajské podpory, přičemž do operace nezapojí žádná vlastní letadla. Žádný člen koalice neuvedl odhad, jak dlouho má kampaň trvat." # todo: NEW TRANSLATION
+ SAU_events.197.t: "Operace Rozhodná bouře" # todo: NEW TRANSLATION
+ SAU_events.198.a: "Budeme létat po boku Království." # todo: NEW TRANSLATION
+ SAU_events.198.b: "Tohle není naše válka." # todo: NEW TRANSLATION
+ SAU_events.198.d: "Žádost přichází prostřednictvím saúdského velvyslance a je neobvykle přímá: letadla, posádky k jejich obsluze, nebo v krajním případě jméno v komuniké. Království sestavuje koalici proti postupu Húsiů a raději by ji nesestavovalo samo.\n\nPřipojení přináší v Rijádu značný kredit a podíl na tom, co bude následovat. Odmítnutí stojí tento kredit a nic dalšího – a válka nemá stanovené datum konce." # todo: NEW TRANSLATION
+ SAU_events.198.t: "Rijád nás žádá, abychom létali" # todo: NEW TRANSLATION
+ SAU_events.199.a: "Pak nepůjdeme tam, kam jsme nebyli pozváni." # todo: NEW TRANSLATION
+ SAU_events.199.b: "Jejich podpis nepotřebujeme." # todo: NEW TRANSLATION
+ SAU_events.199.d: "San'á odpovídá zdvořile, bez spěchu a zcela záporně. K Radě bezpečnosti nepřijde žádná výzva a Záliv nebude o nic požádán; Království je za svou starost poděkováno jazykem, který vlády používají pro starost, již hodlají ignorovat.\n\nBez tohoto dopisu není pozvání a bez pozvání je letecká kampaň nad Jemenem jednoduše leteckou kampaní nad Jemenem. Rijád může přesto jednat. Udělá to na vlastní účet a každé hlavní město to tak zaznamená." # todo: NEW TRANSLATION
+ SAU_events.199.t: "Dopis nepřichází" # todo: NEW TRANSLATION
+ SAU_events.2.a: "Ať žije král!" # todo: NEW TRANSLATION
+ SAU_events.2.d: "Abdalláh bin Abd al-Azíz Al-Saud byl formálně prohlášen králem Saúdské Arábie a strážcem dvou svatých mešit. Po faktickém vládnutí od roku 1995 přináší jeho formální nástup do úřadu Království stabilitu a kontinuitu. Král Abdalláh je znám svými opatrnými reformními sklony a snahou podporovat mezináboženský dialog." # todo: NEW TRANSLATION
+ SAU_events.2.t: "Král Abdalláh nastupuje na trůn" # todo: NEW TRANSLATION
+ SAU_events.20.a: "Džajš al-Islám (Armáda islámu)" # todo: NEW TRANSLATION
+ SAU_events.20.b: "Ansár al-Haramajn (Obránci dvou svatých mešit)" # todo: NEW TRANSLATION
+ SAU_events.20.c: "Katáib al-Aksá (Brigády al-Aksá)" # todo: NEW TRANSLATION
+ SAU_events.20.d: "Nové hnutí podporované Saúdskou Arábií potřebuje jméno, než se představí světu. Jeho zvolený prapor určí, jak o něm budou mluvit příznivci i nepřátelé." # todo: NEW TRANSLATION
+ SAU_events.20.e: "Liwá at-Tawhíd (Brigáda monoteismu)" # todo: NEW TRANSLATION
+ SAU_events.20.t: "Jméno fronty" # todo: NEW TRANSLATION
+ SAU_events.200.a: "Reformujte tak daleko, jak to ministerstva unesou." # todo: NEW TRANSLATION
+ SAU_events.200.b: "Změnilo se jen jméno na dekretech." # todo: NEW TRANSLATION
+ SAU_events.200.c: "Otevřete ekonomiku a nechte politiku následovat." # todo: NEW TRANSLATION
+ SAU_events.200.d: "Fahd je pohřben v Al Oud v neoznačeném hrobě, jak vyžaduje doktrína, a Abdalláh je králem vlastním jménem po desetiletí vládnutí jménem někoho jiného. Soustrast přichází z devadesáti hlavních měst a první zasedání vlády se koná ještě tentýž týden.\n\nVšechno, co chtěl od mrtvice udělat, může nyní nařídit, nikoli pouze navrhovat, a ministerstva to vědí. Co zatím nevědí, je, kolik z toho stále hodlá uskutečnit. V této vládě jsou muži, kteří deset let předpokládali, že odpovědí bude jen velmi málo." # todo: NEW TRANSLATION
+ SAU_events.200.t: "Nové Království" # todo: NEW TRANSLATION
+ SAU_events.201.a: "Nechte o nástupnictví rozhodnout Radu oddanosti." # todo: NEW TRANSLATION
+ SAU_events.201.b: "Král jmenuje svého dědice. Rada mu zatleská." # todo: NEW TRANSLATION
+ SAU_events.201.c: "Místo toho si kupte souhlas rodiny." # todo: NEW TRANSLATION
+ SAU_events.201.d: "Nástupnictví se od roku 1953 řídí senioritou mezi bratry, což fungovalo, dokud byli bratři a dokázali se dohodnout. Každým rokem je jich méně a obojího ubývá; poslední dvě předání moci řídili muži, kteří už nebudou naživu, aby řídili to příští.\n\nNávrh na stole počítá se stálou radou synů a vnuků Abd al-Azíze, která by měla pravomoc potvrdit korunního prince a rozhodovat o způsobilosti krále. Byla by to první písemná procedura, jakou trůn kdy měl. Zároveň by šlo o první orgán v dějinách Království, který by měl nárok rozhodovat o samotném králi, a ne každý v místnosti si toho nevšiml." # todo: NEW TRANSLATION
+ SAU_events.201.t: "Upevnění koruny" # todo: NEW TRANSLATION
+ SAU_events.202.a: "Nechte je mluvit a zveřejněte, co řeknou." # todo: NEW TRANSLATION
+ SAU_events.202.b: "Mohou se sejít. Program je náš." # todo: NEW TRANSLATION
+ SAU_events.202.d: "Sál je uspořádán tak, aby šíitský duchovní z Qatífu seděl na doslech od salafistického učence z Rijádu, a ženy jsou poprvé v dějinách Království přítomny za zástěnou. Nic, o čem se zde rozhodne, nikoho nezavazuje. To je smyslem tohoto shromáždění i námitkou proti němu.\n\nDelegáti řeknou to, co jim bude dovoleno říct. Kolik toho bude, zatím nebylo rozhodnuto, a dva muži, kteří o tom rozhodnou, se neshodují: jeden tvrdí, že zasedání, které nic nezmění, je horší než žádné zasedání; druhý, že zasedání, které něco změní, je prvním z řady, kterou nikdo neovládne." # todo: NEW TRANSLATION
+ SAU_events.202.t: "Národní dialog" # todo: NEW TRANSLATION
+ SAU_events.203.a: "Přijměte Washingtonskou nabídku v plném rozsahu." # todo: NEW TRANSLATION
+ SAU_events.203.b: "Mabáhith si poradí sám." # todo: NEW TRANSLATION
+ SAU_events.203.c: "Rehabilitujte je. Vězení jen vytvoří další." # todo: NEW TRANSLATION
+ SAU_events.203.d: "Komplexy v Al Hamře a Išbilíji vybombardovali muži, kteří zde vyrostli, chodili zde do školy a byli financováni prostřednictvím zde registrovaných charit. Ať už se předpokládalo, že spor se týká čehokoli, nyní je prokazatelně veden proti samotnému Království.\n\nWashington nabízí styčnou buňku, propojení seznamů sledovaných osob a přístup k signálům, které nikdy s nikým v regionu nesdílel. Přijetí znamená americké důstojníky čtoucí saúdské spisy. Odmítnutí znamená dělat to sám v zemi, kde mnoho lidí v tichosti souhlasí s atentátníky." # todo: NEW TRANSLATION
+ SAU_events.203.t: "Protiteroristická spolupráce" # todo: NEW TRANSLATION
+ SAU_events.204.a: "Polovinu míst a muže na seznamech." # todo: NEW TRANSLATION
+ SAU_events.204.b: "Jmenujte je všechny a nazvěte to konzultací." # todo: NEW TRANSLATION
+ SAU_events.204.c: "Zařaďte na seznamy také ženy." # todo: NEW TRANSLATION
+ SAU_events.204.d: "Polovina míst v obecních radách bude volena, druhá polovina jmenována; samotné rady získají pravomoc nad odvodňováním, pouličním osvětlením a stavebními povoleními. V paláci nikdo nepředstírá, že jde o předání moci.\n\nNámitkou není, že rady napáchají škodu. Jde o to, že Saúdové budou hlasovat a že precedens, na rozdíl od dekretu, nelze následující rok potichu odvolat." # todo: NEW TRANSLATION
+ SAU_events.204.t: "Obecní volby" # todo: NEW TRANSLATION
+ SAU_events.205.a: "Naposledy to bylo poradní." # todo: NEW TRANSLATION
+ SAU_events.205.d: "Rada právě zasedala, když dorazil příkaz, který se nijak nevysvětloval. Členům bylo v čtyřřádkovém komuniké poděkováno za službu, budova byla uzavřena a spisy, které směli roky číst, se vrátily na ministerstva, odkud pocházely.\n\nZasedala z králova svolení. Král už není, nebo už není z rodu Saúdů, a tak není ani Rada. Nikdo v Rijádu nečekal, že přežije týden, a nikdo to neřekl nahlas." # todo: NEW TRANSLATION
+ SAU_events.205.t: "Rada je rozpuštěna" # todo: NEW TRANSLATION
+ SAU_events.206.a: "Nechte to projít." # todo: NEW TRANSLATION
+ SAU_events.206.b: "Koruna souhlas odepře." # todo: NEW TRANSLATION
+ SAU_events.206.d: "Reformní křídlo si návrh samo vyčíslilo, což je nové, a vyčíslení je optimistické, což nové není. Silnice do vesnic, které minula hlavní síť, voda do čtvrtí, jež ji stále nakupují z cisteren, a ustanovení vyžadující, aby ministerstvo zveřejnilo, za co utrácí.\n\nMinisterstvu vadí právě poslední ustanovení." # todo: NEW TRANSLATION
+ SAU_events.206.t: "Návrh reformistů" # todo: NEW TRANSLATION
+ SAU_events.207.a: "Nechte to projít." # todo: NEW TRANSLATION
+ SAU_events.207.b: "Koruna souhlas odepře." # todo: NEW TRANSLATION
+ SAU_events.207.d: "Tradicionalistické křídlo navrhuje to, co navrhovalo vždy a co nikdy předtím nedokázalo předložit k hlasování: řádně financované nadace, zvýšení příspěvků na bydlení a plán klinik pro provincie, které od ropného boomu žádnou nemají.\n\nMinisterstvo financí označuje výpočty za aspirativní. Křídlo odpovídá, že opačným směrem byly výpočty aspirativní už třicet let." # todo: NEW TRANSLATION
+ SAU_events.207.t: "Návrh tradicionalistů" # todo: NEW TRANSLATION
+ SAU_events.208.a: "Nechte to projít." # todo: NEW TRANSLATION
+ SAU_events.208.b: "Koruna souhlas odepře." # todo: NEW TRANSLATION
+ SAU_events.208.d: "Provinční členové se spojili, což nikdo v Rijádu nečekal, že zvládnou. Saúdské kvóty na zaměstnávání s opravdovou vahou, konec sponzorských ujednání, která vážou pracovníka k jednomu zaměstnavateli, a inspektorát podřízený Radě, nikoli ministerstvu, které kontroluje.\n\nKaždý obchodní dům v Džiddě tento týden napsal paláci. Křídlo to ví a přesto hlasování naplánovalo." # todo: NEW TRANSLATION
+ SAU_events.208.t: "Návrh provinčních poslanců" # todo: NEW TRANSLATION
+ SAU_events.209.a: "Třicet míst královským dekretem." # todo: NEW TRANSLATION
+ SAU_events.209.b: "Komora zůstane taková, jaká je." # todo: NEW TRANSLATION
+ SAU_events.209.d: "Třicet míst zaručených dekretem, aby žádný budoucí král nemohl jejich počet potichu nechat zaniknout – pětina komory. Vstupovaly by samostatnými dveřmi a seděly v oddělené části; fotografie by však cestovaly mnohem dál než zasedací plán.\n\nDopis podepsalo přes čtyřicet předních učenců. Dopis ničím nevyhrožuje, protože to není potřeba." # todo: NEW TRANSLATION
+ SAU_events.209.t: "Ženy v Radě šúry" # todo: NEW TRANSLATION
+ SAU_events.21.a: "Pozorně sledujte vývoj." # todo: NEW TRANSLATION
+ SAU_events.21.d: "Dosud neznámé hnutí, které si říká [ROOT.SAU_GetFrontName], oznámilo svou existenci na celém Západním břehu a uvnitř samotných hranic Izraele. V koordinovaných prohlášeních přísahá ozbrojený odpor až do osvobození a přisuzuje si vlnu nedávných útoků. Zpravodajské služby se horečně snaží vysledovat jeho původ, financování a dosah." # todo: NEW TRANSLATION
+ SAU_events.21.t: "Ve Svaté zemi povstává nová fronta" # todo: NEW TRANSLATION
+ SAU_events.210.a: "Perský záliv o monarchii nepřijde." # todo: NEW TRANSLATION
+ SAU_events.210.d: "MANÁMA – Saúdská obrněná vozidla před úsvitem překročila hráz krále Fahda a bez jediného výstřelu dorazila do hlavního města. Rijád popisuje nasazení jako operaci Sil štítu poloostrova provedenou na žádost legitimní vlády Bahrajnu a odmítá upřesnit, která vláda o něj požádala.\n\nTeherán to označil za okupaci. Washington vyzval všechny strany ke zdrženlivosti a nikoho nepožádal o odchod. Rodina Chalífa je zpět v paláci a uspořádání, které ji tam vrátilo, je nyní veřejným záznamem, nikoli soukromým porozuměním." # todo: NEW TRANSLATION
+ SAU_events.210.t: "Hráz" # todo: NEW TRANSLATION
+ SAU_events.211.a: "Čerpejte. Ropná pole jsou strategií." # todo: NEW TRANSLATION
+ SAU_events.211.b: "Vybudujte průmysl, který přežije vrty." # todo: NEW TRANSLATION
+ SAU_events.211.c: "Provádějte průzkum. Tam venku toho je víc." # todo: NEW TRANSLATION
+ SAU_events.211.d: "Abkajk zpracovává většinu ropy Království v jediném zařízení a Ras Tanura ji nakládá v jiném. Dva úspěšné útoky by světové ekonomice způsobily větší škody, než by dokázala kterákoli armáda v regionu za rok, a ministerstvo bylo konečně požádáno, aby nahlas řeklo, co s tím hodlá dělat.\n\nPeníze jsou jen na jednu odpověď, ne na tři. Čerpat více, dokud jsou pole v bezpečí; vybudovat průmysl, který přežije jejich ztrátu; nebo přestat předpokládat, že ropná pole, která už Království má, jsou všechna, která existují." # todo: NEW TRANSLATION
+ SAU_events.211.t: "Strategie ochrany ropy" # todo: NEW TRANSLATION
+ SAU_events.212.a: "Nechte soudní lavici mířit vzhůru." # todo: NEW TRANSLATION
+ SAU_events.212.d: "Zákon byl vždy dostačující. Chyběla pouze lavice ochotná uplatnit jej výše – soud, který by mohl předvolat ministra, komise, která by mohla otevřít účty prince, a soudce, který by poté stále měl kariéru.\n\nBude fungovat přesně tak dobře, jak dobře s ním bude král trpělivý, a každý, kdo by mohl být předvolán, to ví. Peníze se přestanou pohybovat už v týdnu, kdy budou soudy oznámeny." # todo: NEW TRANSLATION
+ SAU_events.212.t: "Soudy pro korupci" # todo: NEW TRANSLATION
+ SAU_events.213.a: "Nikdo nestojí nad spisem." # todo: NEW TRANSLATION
+ SAU_events.213.d: "Přibližně dvě stě princů, ministrů a podnikatelů je po měsíce drženo v nejdražším hotelu v zemi. Údajně se podařilo získat zpět sto miliard dolarů. Obvinění nejsou zveřejněna, rozsudky nejsou vyneseny a propuštění se vyjednává jedno po druhém.\n\nJe to popisováno jako protikorupční kampaň. Ve skutečnosti jde o okamžik, kdy rodina přestala být kolektivem a stala se publikem; každý investor na světě sledoval, jak k tomu došlo." # todo: NEW TRANSLATION
+ SAU_events.213.t: "Ritz-Carlton" # todo: NEW TRANSLATION
+ SAU_events.214.a: "Vyřešte to potichu. Stejně k tomu mělo dojít." # todo: NEW TRANSLATION
+ SAU_events.214.d: "Propuštění se vyjednává jedno po druhém a podmínky nejsou nikdy zveřejněny: zde převedená společnost, tam rozpuštěná nadace, jinde potichu zajištěné místo pro syna. Všichni zúčastnění chápou, že nejde o právní, nýbrž politické nástroje.\n\nPeníze se téměř okamžitě vracejí do země, protože muži, kteří je vracejí, mají nyní důvod držet je tam, kde je lze sledovat. Spis o každém z nich zůstává otevřený v zásuvce v Rijádu." # todo: NEW TRANSLATION
+ SAU_events.214.t: "Dohody zadními vrátky" # todo: NEW TRANSLATION
+ SAU_events.215.a: "Rodina si bude muset najít něco jiného, o čem se bude hádat." # todo: NEW TRANSLATION
+ SAU_events.215.d: "Princové si stále počítali vzájemnou podporu, když důstojníci přestali počítat úplně se vším. Není koho jmenovat dědicem, protože není trůn, který by se dědil – Rada otázku odložila a nemá v úmyslu ji znovu otevřít.\n\nMuži, kteří poslední roky budovali své frakce, zjistili, že frakce má cenu pouze podle hodnoty instituce, která za ní stojí, a institucí stojící za všemi z nich byla monarchie." # todo: NEW TRANSLATION
+ SAU_events.215.t: "Nástupnictví je uzavřeno" # todo: NEW TRANSLATION
+ SAU_events.216.a: "Nechte je kázat otevřeně." # todo: NEW TRANSLATION
+ SAU_events.216.b: "Nechte to jen v jídelnách." # todo: NEW TRANSLATION
+ SAU_events.216.c: "Řekněte jim, že Království má vždy jednoho krále." # todo: NEW TRANSLATION
+ SAU_events.216.d: "Mutajbovi lidé položili stejnou otázku Dívánu už potřetí v tomto roce a tentokrát se ani neobtěžovali formulovat ji jako otázku. Království se označuje za strážce dvou mešit a chová se jako klient. Faisal takový nebyl. To je celý argument a při bližším zkoumání se nestává složitějším.\n\nNástupnictví je nejisté, což znamená, že vše, co se nyní řekne, se říká před muži, kteří si vybírají stranu." # todo: NEW TRANSLATION
+ SAU_events.216.t: "Kruh se ptá znovu" # todo: NEW TRANSLATION
+ SAU_events.217.a: "Království pokračuje." # todo: NEW TRANSLATION
+ SAU_events.217.d: "Rijád oznámil smrt krále Fahda bin Abd al-Azíze Al Saúda, který držel trůn dvacet tři let a od mrtvice v roce 1995 vykonával jen málo práce, jež s ním souvisela. Království, které opouští, bylo deset let spravováno jeho jménem a rukou jeho bratra; přechod oznámený dnes ráno mění na dokumentech titul, nikoli muže, který je podepisuje.\n\nKorunní princ Abdalláh nastupuje. Je mu už přes osmdesát. Muži, na nichž záleží, se nedívají na něj – dívají se za něj, na toho, kdo bude jmenován příště." # todo: NEW TRANSLATION
+ SAU_events.217.t: "Smrt krále Fahda" # todo: NEW TRANSLATION
+ SAU_events.218.a: "Nástupnictví je nyní hlavním příběhem." # todo: NEW TRANSLATION
+ SAU_events.218.d: "Král Abdalláh bin Abd al-Azíz Al Saud zemřel a s ním odchází poslední z bratrů, kteří mohli uplatnit nárok na trůn pouze na základě seniority, aniž by se někdo ptal podruhé. Byl pohřben v neoznačeném hrobě v al-Oudu, jak vyžaduje obřad a jak byli pohřbeni všichni králové před ním.\n\nSalman nastupuje během několika hodin. Následuje část, kterou Království odkládalo třicet let: koruna nakonec musí přejít na generaci, která k ní nemá automatický nárok, a každý nyní žijící princ to ví." # todo: NEW TRANSLATION
+ SAU_events.218.t: "Smrt krále Abdalláha" # todo: NEW TRANSLATION
+ SAU_events.219.a: "Ať žije král." # todo: NEW TRANSLATION
+ SAU_events.219.d: "Král je mrtev. Rijád zveřejnil oznámení s úsporností jazyka, kterou si vyhrazuje pro trůn, a korunní princ již obdržel bay'u od starších princů, ulamá a mužů velících gardě.\n\nVláda, která dnes končí, začala starým mužem a Královstvím, které stále fungovalo na představě, že koruna přechází mezi bratry do strany. Končí s touto představou, kterou rozebral sám král ve prospěch nástupnictví, jež bylo světu předloženo jako vyřešené." # todo: NEW TRANSLATION
+ SAU_events.219.t: "Smrt krále Salmana" # todo: NEW TRANSLATION
+ SAU_events.22.a: "Nechte ropu proudit na jih." # todo: NEW TRANSLATION
+ SAU_events.22.b: "Naše země není saúdská dálnice." # todo: NEW TRANSLATION
+ SAU_events.22.d: "Saúdové žádají, aby jejich jižními provinciemi vedl ropovod k Arabskému moři. Tranzitní poplatky by naplnily naši pokladnu a Rijád by nám dlužil laskavost, kterou by jen těžko splatil." # todo: NEW TRANSLATION
+ SAU_events.22.t: "Ropovod k moři" # todo: NEW TRANSLATION
+ SAU_events.24.a: "Postavte ropovod." # todo: NEW TRANSLATION
+ SAU_events.24.b: "Nabídku odmítněte." # todo: NEW TRANSLATION
+ SAU_events.24.d: "Saúdská Arábie nabízí vést svou ropu přes naše území směrem k Turecku a Evropě. Irák by se stal mostem mezi Zálivem a Západem a tranzitní příjmy by znovu vybudovaly národ." # todo: NEW TRANSLATION
+ SAU_events.24.t: "Ropovod do Evropy" # todo: NEW TRANSLATION
+ SAU_events.25.a: "Pošlete je domů s prázdnýma rukama." # todo: NEW TRANSLATION
+ SAU_events.25.d: "Rod Saúdů vysílá vyslance s návrhem ropovodu přes naši půdu. Zapomínají, kdo zde vládne. Irák se nikomu neklaní, nejméně ze všech Rijádu." # todo: NEW TRANSLATION
+ SAU_events.25.t: "Saúdský vyslanec v Bagdádu" # todo: NEW TRANSLATION
+ SAU_events.26.a: "Výborně." # todo: NEW TRANSLATION
+ SAU_events.26.d: "Svářeči pokládají poslední úsek a ventily se otevírají. Saúdská ropa nyní proudí novou tepnou k moři a sevření Království nad světovou energií se utahuje." # todo: NEW TRANSLATION
+ SAU_events.26.t: "Ropa proudí" # todo: NEW TRANSLATION
+ SAU_events.27.a: "Najdeme jinou cestu." # todo: NEW TRANSLATION
+ SAU_events.27.d: "Dohoda ztroskotala. Prozatím zůstává tato cesta k moři mimo náš dosah a Hormuz je stále našimi jedinými dveřmi." # todo: NEW TRANSLATION
+ SAU_events.27.t: "Cesta je uzavřena" # todo: NEW TRANSLATION
+ SAU_events.28.a: "Drahý neúspěch." # todo: NEW TRANSLATION
+ SAU_events.28.d: "Válka dorazila k ropovodu. Sabotéři zničili jeho část a ropa přestala proudit. Dokud nebude jižní Jemen zajištěn, je cesta k Arabskému moři ztracena." # todo: NEW TRANSLATION
+ SAU_events.28.t: "Ropovod je přerušen" # todo: NEW TRANSLATION
+ SAU_events.29.a: "Otevřete trasu." # todo: NEW TRANSLATION
+ SAU_events.29.b: "Saúdy odmítněte." # todo: NEW TRANSLATION
+ SAU_events.29.d: "Rijád žádá o vedení ropovodu přes naše království směrem ke Středozemnímu moři. Samotné tranzitní poplatky by stabilizovaly naše finance a Saúdové jsou štědří přátelé." # todo: NEW TRANSLATION
+ SAU_events.29.t: "Ropovod přes Jordánsko" # todo: NEW TRANSLATION
+ SAU_events.3.a: "Přijměte saúdskou nabídku." # todo: NEW TRANSLATION
+ SAU_events.3.b: "Odmítněte saúdskou nabídku." # todo: NEW TRANSLATION
+ SAU_events.3.d: "Rijád nabízí čínským společnostem přístup k saúdským zemědělským a energetickým projektům. Přijetí by prohloubilo hospodářské vazby mezi Čínou a Královstvím." # todo: NEW TRANSLATION
+ SAU_events.3.t: "[SAU.GetFlag] Saúdsko-čínská dohoda [CHI.GetFlag]" # todo: NEW TRANSLATION
+ SAU_events.30.a: "Přivítejte ropovod." # todo: NEW TRANSLATION
+ SAU_events.30.b: "Sýrie není na prodej." # todo: NEW TRANSLATION
+ SAU_events.30.d: "Poté, co souhlasilo Jordánsko, navrhují Saúdové vést svou ropu přes naše území k moři. Svobodná a prosperující Sýrie by na tom značně vydělala a přátelství s Rijádem stojí za to." # todo: NEW TRANSLATION
+ SAU_events.30.t: "Nabídka z Rijádu" # todo: NEW TRANSLATION
+ SAU_events.300.a: "Nezávislí technokraté." # todo: NEW TRANSLATION
+ SAU_events.300.b: "Královský dohled je nezbytný." # todo: NEW TRANSLATION
+ SAU_events.300.c: "Přiveďte zahraniční experty." # todo: NEW TRANSLATION
+ SAU_events.300.d: "Zákon o §Lkapitálovém trhu§! je podepsán. Nyní musíme rozhodnout: kdo usedne do čela nové §LAutority kapitálového trhu§!? Technokraté požadují nezávislost; §HKrálovský dvůr§! žádá dohled; zahraniční poradci nabízejí své zkušenosti. Tato volba určí finanční architekturu království na celou generaci." # todo: NEW TRANSLATION
+ SAU_events.300.t: "§HKrálovský dekret M/30 – provedení§!" # todo: NEW TRANSLATION
+ SAU_events.301.a: "Anglosaský rámec." # todo: NEW TRANSLATION
+ SAU_events.301.b: "Rámec s prioritou šaríy." # todo: NEW TRANSLATION
+ SAU_events.301.c: "Hybridní model." # todo: NEW TRANSLATION
+ SAU_events.301.d: "Formální začlenění mění podobu podnikové krajiny. Akciové společnosti, společnosti s ručením omezeným – §LKrálovství§! si musí zvolit svůj model. §LAnglosaský§! rámec nabízí efektivitu za cenu zahraničního vlivu; rámec s prioritou §Lšaríy§! nabízí legitimitu za cenu rychlosti; §Lhybrid§! volí umírněnou střední cestu." # todo: NEW TRANSLATION
+ SAU_events.301.t: "§HPrávní reformy roku 2007§!" # todo: NEW TRANSLATION
+ SAU_events.310.a: "Americký výcvik a partnerství" # todo: NEW TRANSLATION
+ SAU_events.310.b: "Kolektivní obrana GCC" # todo: NEW TRANSLATION
+ SAU_events.310.c: "Profesionalita ve stylu NATO" # todo: NEW TRANSLATION
+ SAU_events.310.d: "Domácí soběstačnost" # todo: NEW TRANSLATION
+ SAU_events.310.desc: "Operace Pouštní bouře pokořila každou armádu, která ji sledovala. Královské saúdské pozemní síly si vedle koaličních partnerů vedly přijatelně – generální štáb však zná pravdu: bez americké vzdušné síly, logistiky a velení nebyla armáda Království připravena.\n\nVálečné hry skončily a verdikt je znám. Nyní si Království musí zvolit model, podle něhož obnoví své ozbrojené síly. Každá cesta nás jedním způsobem posílí a jiným oslabí – žádná volba není bez ceny.\n\n§YNajeďte kurzorem na každou možnost a zjistěte, co přesně přináší a co stojí.§!" # todo: NEW TRANSLATION
+ SAU_events.310.t: "Válečné hry: Poučení z války v Zálivu" # todo: NEW TRANSLATION
+ SAU_events.311.a: "Národní garda: Stráž režimu" # todo: NEW TRANSLATION
+ SAU_events.311.b: "Národní garda: Kmenové odvody" # todo: NEW TRANSLATION
+ SAU_events.311.c: "Národní garda: Vnitřní bezpečnost" # todo: NEW TRANSLATION
+ SAU_events.311.desc: "Saúdskoarabská Národní garda musí rozhodnout, k čemu skutečně slouží. Každá cesta představuje trvalý kompromis – jedním způsobem nás posílí a jiným oslabí.\n\n§YNajeďte kurzorem na možnost a zjistěte, co přesně přináší a co stojí.§!" # todo: NEW TRANSLATION
+ SAU_events.311.t: "Cvičení připravenosti Národní gardy" # todo: NEW TRANSLATION
+ SAU_events.312.a: "Obrněné síly: Úder a průlom" # todo: NEW TRANSLATION
+ SAU_events.312.b: "Obrněné síly: Kombinované zbraně" # todo: NEW TRANSLATION
+ SAU_events.312.c: "Obrněné síly: Obranná zeď" # todo: NEW TRANSLATION
+ SAU_events.312.desc: "Jak bude obrněný sbor bojovat se svými novými Abramsy? Každá cesta představuje trvalý kompromis – jedním způsobem nás posílí a jiným oslabí.\n\n§YNajeďte kurzorem na možnost a zjistěte, co přesně přináší a co stojí.§!" # todo: NEW TRANSLATION
+ SAU_events.312.t: "Výcvik střelby z Abramsů" # todo: NEW TRANSLATION

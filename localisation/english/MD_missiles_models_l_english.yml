@@ -1,1501 +1,865 @@
 ﻿l_english:
-  missile_generic_ID_11_loc_key: "ICBM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_12_loc_key: "ICBM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_13_loc_key: "ICBM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_14_loc_key: "ICBM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_15_loc_key: "ICBM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_16_loc_key: "ICBM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_17_loc_key: "ICBM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_18_loc_key: "ICBM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_21_loc_key: "IRBM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_22_loc_key: "IRBM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_23_loc_key: "IRBM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_24_loc_key: "IRBM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_25_loc_key: "IRBM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_26_loc_key: "IRBM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_27_loc_key: "IRBM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_28_loc_key: "IRBM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_31_loc_key: "SLBM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_32_loc_key: "SLBM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_33_loc_key: "SLBM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_34_loc_key: "SLBM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_35_loc_key: "SLBM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_36_loc_key: "SLBM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_37_loc_key: "SLBM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_38_loc_key: "SLBM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_41_loc_key: "ALCM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_42_loc_key: "ALCM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_43_loc_key: "ALCM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_44_loc_key: "ALCM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_45_loc_key: "ALCM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_46_loc_key: "ALCM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_47_loc_key: "ALCM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_48_loc_key: "ALCM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_51_loc_key: "GLCM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_52_loc_key: "GLCM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_53_loc_key: "GLCM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_54_loc_key: "GLCM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_55_loc_key: "GLCM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_56_loc_key: "GLCM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_57_loc_key: "GLCM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_58_loc_key: "GLCM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_61_loc_key: "SLCM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_62_loc_key: "SLCM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_63_loc_key: "SLCM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_64_loc_key: "SLCM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_65_loc_key: "SLCM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_66_loc_key: "SLCM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_67_loc_key: "SLCM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_68_loc_key: "SLCM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_71_loc_key: "HSCM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_72_loc_key: "HSCM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_80_loc_key: "SAM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_81_loc_key: "SAM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_82_loc_key: "SAM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_83_loc_key: "SAM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_84_loc_key: "SAM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_85_loc_key: "SAM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_86_loc_key: "SAM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_87_loc_key: "SAM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_90_loc_key: "ABM 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_91_loc_key: "ABM 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_92_loc_key: "ABM 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_93_loc_key: "ABM 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_94_loc_key: "ABM 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_95_loc_key: "ABM 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_96_loc_key: "ABM 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_97_loc_key: "ABM 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_101_loc_key: "OLV 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_102_loc_key: "OLV 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_103_loc_key: "OLV 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_104_loc_key: "OLV 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_105_loc_key: "OLV 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_106_loc_key: "OLV 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_107_loc_key: "OLV 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_108_loc_key: "OLV 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_111_loc_key: "GNSS 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_112_loc_key: "GNSS 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_113_loc_key: "GNSS 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_114_loc_key: "GNSS 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_115_loc_key: "GNSS 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_116_loc_key: "GNSS 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_117_loc_key: "GNSS 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_118_loc_key: "GNSS 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_121_loc_key: "COMSAT 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_122_loc_key: "COMSAT 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_123_loc_key: "COMSAT 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_124_loc_key: "COMSAT 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_125_loc_key: "COMSAT 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_126_loc_key: "COMSAT 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_127_loc_key: "COMSAT 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_128_loc_key: "COMSAT 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_131_loc_key: "SPYSAT 1965" # todo: NEW TRANSLATION
-  missile_generic_ID_132_loc_key: "SPYSAT 1975" # todo: NEW TRANSLATION
-  missile_generic_ID_133_loc_key: "SPYSAT 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_134_loc_key: "SPYSAT 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_135_loc_key: "SPYSAT 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_136_loc_key: "SPYSAT 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_137_loc_key: "SPYSAT 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_138_loc_key: "SPYSAT 2035" # todo: NEW TRANSLATION
-  missile_generic_ID_141_loc_key: "KILLSAT 1985" # todo: NEW TRANSLATION
-  missile_generic_ID_142_loc_key: "KILLSAT 1995" # todo: NEW TRANSLATION
-  missile_generic_ID_143_loc_key: "KILLSAT 2005" # todo: NEW TRANSLATION
-  missile_generic_ID_144_loc_key: "KILLSAT 2015" # todo: NEW TRANSLATION
-  missile_generic_ID_145_loc_key: "KILLSAT 2025" # todo: NEW TRANSLATION
-  missile_generic_ID_146_loc_key: "KILLSAT 2035" # todo: NEW TRANSLATION
-  missile_USA_ID_11_loc_key: "CGM-16  Atlas" # todo: NEW TRANSLATION
-  missile_USA_ID_12_loc_key: "HGM-25A  Titan I" # todo: NEW TRANSLATION
-  missile_USA_ID_13_loc_key: "LGM-25C  Titan II" # todo: NEW TRANSLATION
-  missile_USA_ID_14_loc_key: "LGM-30A  Minuteman I" # todo: NEW TRANSLATION
-  missile_USA_ID_15_loc_key: "LGM-30F  Minuteman II" # todo: NEW TRANSLATION
-  missile_USA_ID_16_loc_key: "LGM-30G  Minuteman III" # todo: NEW TRANSLATION
-  missile_USA_ID_17_loc_key: "LGM-118A  Peacekeeper" # todo: NEW TRANSLATION
-  missile_USA_ID_18_loc_key: "LGM-182 GBSD" # todo: NEW TRANSLATION
-  missile_USA_ID_21_loc_key: "PGM-17  Thor" # todo: NEW TRANSLATION
-  missile_USA_ID_22_loc_key: "PGM-19 Jupiter" # todo: NEW TRANSLATION
-  missile_USA_ID_23_loc_key: "MGM-31A  Pershing I" # todo: NEW TRANSLATION
-  missile_USA_ID_24_loc_key: "MGM-31B  Pershing II" # todo: NEW TRANSLATION
-  missile_USA_ID_25_loc_key: "MGM-134 Midgetman" # todo: NEW TRANSLATION
-  missile_USA_ID_26_loc_key: "MGM-185 IR CPGS" # todo: NEW TRANSLATION
-  missile_USA_ID_27_loc_key: "MGM-187A Pershing III" # todo: NEW TRANSLATION
-  missile_USA_ID_28_loc_key: "MGM-187B Pershing III" # todo: NEW TRANSLATION
-  missile_USA_ID_31_loc_key: "UGM-27 Polaris" # todo: NEW TRANSLATION
-  missile_USA_ID_32_loc_key: "UGM-73 Poseidon" # todo: NEW TRANSLATION
-  missile_USA_ID_33_loc_key: "UGM-96 Trident I (C4)" # todo: NEW TRANSLATION
-  missile_USA_ID_34_loc_key: "UGM-133A Trident II (D5)" # todo: NEW TRANSLATION
-  missile_USA_ID_35_loc_key: "UGM-133A Trident II (D5LE)" # todo: NEW TRANSLATION
-  missile_USA_ID_36_loc_key: "UGM-133A Trident II (D5LE2)" # todo: NEW TRANSLATION
-  missile_USA_ID_37_loc_key: "UGM-186A Trident III" # todo: NEW TRANSLATION
-  missile_USA_ID_38_loc_key: "UGM-186B Trident III" # todo: NEW TRANSLATION
-  missile_USA_ID_41_loc_key: "AGM-28 Hound Dog" # todo: NEW TRANSLATION
-  missile_USA_ID_42_loc_key: "AGM-86 ALCM" # todo: NEW TRANSLATION
-  missile_USA_ID_43_loc_key: "AGM-84E SLAM" # todo: NEW TRANSLATION
-  missile_USA_ID_44_loc_key: "AGM-84H SLAM-ER" # todo: NEW TRANSLATION
-  missile_USA_ID_45_loc_key: "AGM-129 ACM" # todo: NEW TRANSLATION
-  missile_USA_ID_46_loc_key: "AGM-158B JASSM-ER" # todo: NEW TRANSLATION
-  missile_USA_ID_47_loc_key: "AGM-158D JASSM-XR" # todo: NEW TRANSLATION
-  missile_USA_ID_48_loc_key: "AGM-180A LRSO" # todo: NEW TRANSLATION
-  missile_USA_ID_51_loc_key: "MGM-1 Matador" # todo: NEW TRANSLATION
-  missile_USA_ID_52_loc_key: "MGM-13 Mace" # todo: NEW TRANSLATION
-  missile_USA_ID_53_loc_key: "BGM-109G Gryphon" # todo: NEW TRANSLATION
-  missile_USA_ID_54_loc_key: "GLCM 1995 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_USA_ID_55_loc_key: "GLCM 2005 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_USA_ID_56_loc_key: "GLCM 2015 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_USA_ID_57_loc_key: "BGM-109H MRC" # todo: NEW TRANSLATION
-  missile_USA_ID_58_loc_key: "BGM-109L Gryphon II" # todo: NEW TRANSLATION
-  missile_USA_ID_61_loc_key: "RGM-6 Regulus I" # todo: NEW TRANSLATION
-  missile_USA_ID_62_loc_key: "RGM-15 Regulus II" # todo: NEW TRANSLATION
-  missile_USA_ID_63_loc_key: "BGM-109A Tomahawk TLAM-A" # todo: NEW TRANSLATION
-  missile_USA_ID_64_loc_key: "BGM-109C Tomahawk TLAM-C" # todo: NEW TRANSLATION
-  missile_USA_ID_65_loc_key: "BGM-109D Tomahawk TLAM-D" # todo: NEW TRANSLATION
-  missile_USA_ID_66_loc_key: "RGM-109E Tomahawk TLAM-E" # todo: NEW TRANSLATION
-  missile_USA_ID_67_loc_key: "RGM-109F Tomahawk TLAM-F" # todo: NEW TRANSLATION
-  missile_USA_ID_68_loc_key: "RGM-109K Tomahawk TLAM-K" # todo: NEW TRANSLATION
-  missile_USA_ID_71_loc_key: "AGM-183A ARRW" # todo: NEW TRANSLATION
-  missile_USA_ID_72_loc_key: "AGM-183B Mayhem" # todo: NEW TRANSLATION
-  missile_USA_ID_80_loc_key: "MIM-23 Hawk / RIM-66A  SM-1MR" # todo: NEW TRANSLATION
-  missile_USA_ID_81_loc_key: "MIM-104A Patriot / RIM-66C  SM-2MR" # todo: NEW TRANSLATION
-  missile_USA_ID_82_loc_key: "MIM-104B (PAC-1) / RIM-67B SM-2ER" # todo: NEW TRANSLATION
-  missile_USA_ID_83_loc_key: "MIM-104C (PAC-2) / RIM-156A SM-2ER" # todo: NEW TRANSLATION
-  missile_USA_ID_84_loc_key: "MIM-104D (PAC-2/GEM) / RIM-156B  SM-2ER" # todo: NEW TRANSLATION
-  missile_USA_ID_85_loc_key: "MIM-104F (PAC-3) / RIM-174 ERAM SM-6" # todo: NEW TRANSLATION
-  missile_USA_ID_86_loc_key: "MEADS" # todo: NEW TRANSLATION
-  missile_USA_ID_87_loc_key: "NGADS" # todo: NEW TRANSLATION
-  missile_USA_ID_90_loc_key: "MIM-14 Nike Hercules / RIM-14" # todo: NEW TRANSLATION
-  missile_USA_ID_91_loc_key: "XLIM-49 Nike Zeus / RIM-49A" # todo: NEW TRANSLATION
-  missile_USA_ID_92_loc_key: "LIM-49 Spartan / RIM-49B" # todo: NEW TRANSLATION
-  missile_USA_ID_93_loc_key: "MIM-161A / RIM-161A  SM-3 Blk I" # todo: NEW TRANSLATION
-  missile_USA_ID_94_loc_key: "THAAD / RIM-161B  SM-3 Blk IA" # todo: NEW TRANSLATION
-  missile_USA_ID_95_loc_key: "GMD / RIM-161C  SM-3 Blk IB" # todo: NEW TRANSLATION
-  missile_USA_ID_96_loc_key: "NGI / RIM-161D  SM-3 Blk II" # todo: NEW TRANSLATION
-  missile_USA_ID_97_loc_key: "LIM-161E / RIM-161E  SM-3 Blk IIA" # todo: NEW TRANSLATION
-  missile_USA_ID_101_loc_key: "SM-65D Atlas" # todo: NEW TRANSLATION
-  missile_USA_ID_102_loc_key: "Titan IIIC" # todo: NEW TRANSLATION
-  missile_USA_ID_103_loc_key: "Titan IV" # todo: NEW TRANSLATION
-  missile_USA_ID_104_loc_key: "Minotaur I" # todo: NEW TRANSLATION
-  missile_USA_ID_105_loc_key: "Minotaur II" # todo: NEW TRANSLATION
-  missile_USA_ID_106_loc_key: "Minotaur III" # todo: NEW TRANSLATION
-  missile_USA_ID_107_loc_key: "Falcon 9" # todo: NEW TRANSLATION
-  missile_USA_ID_108_loc_key: "Falcon Heavy" # todo: NEW TRANSLATION
-  missile_USA_ID_111_loc_key: "GPS Block I" # todo: NEW TRANSLATION
-  missile_USA_ID_112_loc_key: "GPS Block II" # todo: NEW TRANSLATION
-  missile_USA_ID_113_loc_key: "GPS Block IIA" # todo: NEW TRANSLATION
-  missile_USA_ID_114_loc_key: "GPS Block IIR" # todo: NEW TRANSLATION
-  missile_USA_ID_115_loc_key: "GPS Block IIRM" # todo: NEW TRANSLATION
-  missile_USA_ID_116_loc_key: "GPS Block IIF" # todo: NEW TRANSLATION
-  missile_USA_ID_117_loc_key: "GPS Block III" # todo: NEW TRANSLATION
-  missile_USA_ID_118_loc_key: "GPS Block IIIF" # todo: NEW TRANSLATION
-  missile_USA_ID_121_loc_key: "IDCSP" # todo: NEW TRANSLATION
-  missile_USA_ID_122_loc_key: "DSCS II" # todo: NEW TRANSLATION
-  missile_USA_ID_123_loc_key: "DSCS III" # todo: NEW TRANSLATION
-  missile_USA_ID_124_loc_key: "Milstar Block I" # todo: NEW TRANSLATION
-  missile_USA_ID_125_loc_key: "Milstar Block II" # todo: NEW TRANSLATION
-  missile_USA_ID_126_loc_key: "AEHF Block I" # todo: NEW TRANSLATION
-  missile_USA_ID_127_loc_key: "AEHF Block II" # todo: NEW TRANSLATION
-  missile_USA_ID_128_loc_key: "AEHF Block III" # todo: NEW TRANSLATION
-  missile_USA_ID_131_loc_key: "KH-1 Corona" # todo: NEW TRANSLATION
-  missile_USA_ID_132_loc_key: "KH-8 Gambit 3" # todo: NEW TRANSLATION
-  missile_USA_ID_133_loc_key: "KH-9 Hexagon" # todo: NEW TRANSLATION
-  missile_USA_ID_134_loc_key: "KH-11 Block I Kennen" # todo: NEW TRANSLATION
-  missile_USA_ID_135_loc_key: "KH-11 Block II Crystal" # todo: NEW TRANSLATION
-  missile_USA_ID_136_loc_key: "KH-11 Block III Improved Crystal" # todo: NEW TRANSLATION
-  missile_USA_ID_137_loc_key: "KH-11 Block IV Evolved Enhanced Crystal" # todo: NEW TRANSLATION
-  missile_USA_ID_138_loc_key: "KH-11 Block V" # todo: NEW TRANSLATION
-  missile_USA_ID_141_loc_key: "SBI" # todo: NEW TRANSLATION
-  missile_USA_ID_142_loc_key: "Brilliant Pebbles" # todo: NEW TRANSLATION
-  missile_USA_ID_143_loc_key: "MiTEx" # todo: NEW TRANSLATION
-  missile_USA_ID_144_loc_key: "FASTRAC" # todo: NEW TRANSLATION
-  missile_USA_ID_145_loc_key: "ANGELS" # todo: NEW TRANSLATION
-  missile_USA_ID_146_loc_key: "Zuma" # todo: NEW TRANSLATION
-  missile_GER_ID_11_loc_key: "CGM-16  Atlas" # todo: NEW TRANSLATION
-  missile_GER_ID_12_loc_key: "HGM-25A  Titan I" # todo: NEW TRANSLATION
-  missile_GER_ID_13_loc_key: "LGM-25C  Titan II" # todo: NEW TRANSLATION
-  missile_GER_ID_14_loc_key: "LGM-30A  Minuteman I" # todo: NEW TRANSLATION
-  missile_GER_ID_15_loc_key: "LGM-30F  Minuteman II" # todo: NEW TRANSLATION
-  missile_GER_ID_16_loc_key: "LGM-30G  Minuteman III" # todo: NEW TRANSLATION
-  missile_GER_ID_17_loc_key: "LGM-118A  Peacekeeper" # todo: NEW TRANSLATION
-  missile_GER_ID_18_loc_key: "LGM-182 GBSD" # todo: NEW TRANSLATION
-  missile_GER_ID_21_loc_key: "PGM-17  Thor" # todo: NEW TRANSLATION
-  missile_GER_ID_22_loc_key: "PGM-19 Jupiter" # todo: NEW TRANSLATION
-  missile_GER_ID_23_loc_key: "MGM-31A  Pershing I" # todo: NEW TRANSLATION
-  missile_GER_ID_24_loc_key: "MGM-31B  Pershing II" # todo: NEW TRANSLATION
-  missile_GER_ID_25_loc_key: "MGM-134 Midgetman" # todo: NEW TRANSLATION
-  missile_GER_ID_26_loc_key: "MGM-185 IR CPGS" # todo: NEW TRANSLATION
-  missile_GER_ID_27_loc_key: "MGM-187A Pershing III" # todo: NEW TRANSLATION
-  missile_GER_ID_28_loc_key: "MGM-187B Pershing III" # todo: NEW TRANSLATION
-  missile_GER_ID_31_loc_key: "UGM-27 Polaris" # todo: NEW TRANSLATION
-  missile_GER_ID_32_loc_key: "UGM-73 Poseidon" # todo: NEW TRANSLATION
-  missile_GER_ID_33_loc_key: "UGM-96 Trident I (C4)" # todo: NEW TRANSLATION
-  missile_GER_ID_34_loc_key: "UGM-133A Trident II (D5)" # todo: NEW TRANSLATION
-  missile_GER_ID_35_loc_key: "UGM-133A Trident II (D5LE)" # todo: NEW TRANSLATION
-  missile_GER_ID_36_loc_key: "UGM-133A Trident II (D5LE2)" # todo: NEW TRANSLATION
-  missile_GER_ID_37_loc_key: "UGM-186A Trident III" # todo: NEW TRANSLATION
-  missile_GER_ID_38_loc_key: "UGM-186B Trident III" # todo: NEW TRANSLATION
-  missile_GER_ID_41_loc_key: "AGM-28 Hound Dog" # todo: NEW TRANSLATION
-  missile_GER_ID_42_loc_key: "AGM-86 ALCM" # todo: NEW TRANSLATION
-  missile_GER_ID_43_loc_key: "AGM-84E SLAM" # todo: NEW TRANSLATION
-  missile_GER_ID_44_loc_key: "APACHE" # todo: NEW TRANSLATION
-  missile_GER_ID_45_loc_key: "Taurus KERP-350" # todo: NEW TRANSLATION
-  missile_GER_ID_46_loc_key: "HOSBO" # todo: NEW TRANSLATION
-  missile_GER_ID_47_loc_key: "LFK-NG" # todo: NEW TRANSLATION
-  missile_GER_ID_48_loc_key: "LFK-NG2" # todo: NEW TRANSLATION
-  missile_GER_ID_51_loc_key: "MGM-1 Matador" # todo: NEW TRANSLATION
-  missile_GER_ID_52_loc_key: "MGM-13 Mace" # todo: NEW TRANSLATION
-  missile_GER_ID_53_loc_key: "BGM-109G Gryphon" # todo: NEW TRANSLATION
-  missile_GER_ID_54_loc_key: "GLCM 1995 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_GER_ID_55_loc_key: "GLCM 2005 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_GER_ID_56_loc_key: "GLCM 2015 (INF Treaty)" # todo: NEW TRANSLATION
-  missile_GER_ID_57_loc_key: "BGM-109H MRC" # todo: NEW TRANSLATION
-  missile_GER_ID_58_loc_key: "BGM-109L Gryphon II" # todo: NEW TRANSLATION
-  missile_GER_ID_61_loc_key: "RGM-6 Regulus I" # todo: NEW TRANSLATION
-  missile_GER_ID_62_loc_key: "RGM-15 Regulus II" # todo: NEW TRANSLATION
-  missile_GER_ID_63_loc_key: "RBS-15 Mk.I" # todo: NEW TRANSLATION
-  missile_GER_ID_64_loc_key: "RBS-15 Mk.II" # todo: NEW TRANSLATION
-  missile_GER_ID_65_loc_key: "RBS-15 Mk.III" # todo: NEW TRANSLATION
-  missile_GER_ID_66_loc_key: "RBS-15 Mk.IV Gungnir" # todo: NEW TRANSLATION
-  missile_GER_ID_67_loc_key: "RBS-15 Mk.V" # todo: NEW TRANSLATION
-  missile_GER_ID_68_loc_key: "RBS-15 Mk.VI" # todo: NEW TRANSLATION
-  missile_GER_ID_71_loc_key: "AGM-183A ARRW" # todo: NEW TRANSLATION
-  missile_GER_ID_72_loc_key: "AGM-183B Mayhem" # todo: NEW TRANSLATION
-  missile_GER_ID_80_loc_key: "MIM-23 Hawk / RIM-66A  SM-1MR" # todo: NEW TRANSLATION
-  missile_GER_ID_81_loc_key: "MIM-104A Patriot / RIM-66C  SM-2MR" # todo: NEW TRANSLATION
-  missile_GER_ID_82_loc_key: "MIM-104B (PAC-1) / RIM-67B SM-2ER" # todo: NEW TRANSLATION
-  missile_GER_ID_83_loc_key: "MIM-104C (PAC-2) / RIM-156A SM-2ER" # todo: NEW TRANSLATION
-  missile_GER_ID_84_loc_key: "MIM-104D (PAC-2/GEM) / RIM-156B  SM-2ER" # todo: NEW TRANSLATION
-  missile_GER_ID_85_loc_key: "MIM-104F (PAC-3) / RIM-174 ERAM SM-6" # todo: NEW TRANSLATION
-  missile_GER_ID_86_loc_key: "MEADS" # todo: NEW TRANSLATION
-  missile_GER_ID_87_loc_key: "NGADS" # todo: NEW TRANSLATION
-  missile_GER_ID_90_loc_key: "MIM-14 Nike Hercules / RIM-14" # todo: NEW TRANSLATION
-  missile_GER_ID_91_loc_key: "XLIM-49 Nike Zeus / RIM-49A" # todo: NEW TRANSLATION
-  missile_GER_ID_92_loc_key: "LIM-49 Spartan / RIM-49B" # todo: NEW TRANSLATION
-  missile_GER_ID_93_loc_key: "MIM-161A / RIM-161A  SM-3 Blk I" # todo: NEW TRANSLATION
-  missile_GER_ID_94_loc_key: "THAAD / RIM-161B  SM-3 Blk IA" # todo: NEW TRANSLATION
-  missile_GER_ID_95_loc_key: "GMD / RIM-161C  SM-3 Blk IB" # todo: NEW TRANSLATION
-  missile_GER_ID_96_loc_key: "Arrow-3" # todo: NEW TRANSLATION
-  missile_GER_ID_97_loc_key: "Arrow-4" # todo: NEW TRANSLATION
-  missile_GER_ID_101_loc_key: "SM-65D Atlas" # todo: NEW TRANSLATION
-  missile_GER_ID_102_loc_key: "Ariane 3" # todo: NEW TRANSLATION
-  missile_GER_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
-  missile_GER_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
-  missile_GER_ID_105_loc_key: "Ariane 5 GS" # todo: NEW TRANSLATION
-  missile_GER_ID_106_loc_key: "Ariane 6" # todo: NEW TRANSLATION
-  missile_GER_ID_107_loc_key: "Ariane 7" # todo: NEW TRANSLATION
-  missile_GER_ID_108_loc_key: "Ariane 8" # todo: NEW TRANSLATION
-  missile_GER_ID_111_loc_key: "GPS Block I" # todo: NEW TRANSLATION
-  missile_GER_ID_112_loc_key: "GPS Block II" # todo: NEW TRANSLATION
-  missile_GER_ID_113_loc_key: "GPS Block IIA" # todo: NEW TRANSLATION
-  missile_GER_ID_114_loc_key: "GPS Block IIR" # todo: NEW TRANSLATION
-  missile_GER_ID_115_loc_key: "GPS Block IIRM" # todo: NEW TRANSLATION
-  missile_GER_ID_116_loc_key: "GPS Block IIF" # todo: NEW TRANSLATION
-  missile_GER_ID_117_loc_key: "GPS Block III" # todo: NEW TRANSLATION
-  missile_GER_ID_118_loc_key: "GPS Block IIIF" # todo: NEW TRANSLATION
-  missile_GER_ID_121_loc_key: "IDCSP" # todo: NEW TRANSLATION
-  missile_GER_ID_122_loc_key: "DSCS II" # todo: NEW TRANSLATION
-  missile_GER_ID_123_loc_key: "DSCS III" # todo: NEW TRANSLATION
-  missile_GER_ID_124_loc_key: "Milstar Block I" # todo: NEW TRANSLATION
-  missile_GER_ID_125_loc_key: "Milstar Block II" # todo: NEW TRANSLATION
-  missile_GER_ID_126_loc_key: "AEHF Block I" # todo: NEW TRANSLATION
-  missile_GER_ID_127_loc_key: "AEHF Block II" # todo: NEW TRANSLATION
-  missile_GER_ID_128_loc_key: "AEHF Block III" # todo: NEW TRANSLATION
-  missile_GER_ID_131_loc_key: "KH-1 Corona" # todo: NEW TRANSLATION
-  missile_GER_ID_132_loc_key: "KH-8 Gambit 3" # todo: NEW TRANSLATION
-  missile_GER_ID_133_loc_key: "KH-9 Hexagon" # todo: NEW TRANSLATION
-  missile_GER_ID_134_loc_key: "KH-11 Block I Kennen" # todo: NEW TRANSLATION
-  missile_GER_ID_135_loc_key: "KH-11 Block II Crystal" # todo: NEW TRANSLATION
-  missile_GER_ID_136_loc_key: "KH-11 Block III Improved Crystal" # todo: NEW TRANSLATION
-  missile_GER_ID_137_loc_key: "KH-11 Block IV Evolved Enhanced Crystal" # todo: NEW TRANSLATION
-  missile_GER_ID_138_loc_key: "KH-11 Block V" # todo: NEW TRANSLATION
-  missile_GER_ID_141_loc_key: "SBI" # todo: NEW TRANSLATION
-  missile_GER_ID_142_loc_key: "Brilliant Pebbles" # todo: NEW TRANSLATION
-  missile_GER_ID_143_loc_key: "MiTEx" # todo: NEW TRANSLATION
-  missile_GER_ID_144_loc_key: "FASTRAC" # todo: NEW TRANSLATION
-  missile_GER_ID_145_loc_key: "ANGELS" # todo: NEW TRANSLATION
-  missile_GER_ID_146_loc_key: "Zuma" # todo: NEW TRANSLATION
-  missile_SOV_ID_11_loc_key: "R-36 Scarp" # todo: NEW TRANSLATION
-  missile_SOV_ID_12_loc_key: "R-36M Satan" # todo: NEW TRANSLATION
-  missile_SOV_ID_13_loc_key: "R-36M2 Voevoda" # todo: NEW TRANSLATION
-  missile_SOV_ID_14_loc_key: "RT-2PM Topol" # todo: NEW TRANSLATION
-  missile_SOV_ID_15_loc_key: "RT-2PM2 Topol-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_16_loc_key: "RS-24 Vars-S" # todo: NEW TRANSLATION
-  missile_SOV_ID_17_loc_key: "RS-28 Sarmat" # todo: NEW TRANSLATION
-  missile_SOV_ID_18_loc_key: "RS-28M Sarmat-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_21_loc_key: "R-14 Chusovaya" # todo: NEW TRANSLATION
-  missile_SOV_ID_22_loc_key: "RSD-10 Pioneer" # todo: NEW TRANSLATION
-  missile_SOV_ID_23_loc_key: "R-14M Kosmos" # todo: NEW TRANSLATION
-  missile_SOV_ID_24_loc_key: "R-14M2 Kapustin" # todo: NEW TRANSLATION
-  missile_SOV_ID_25_loc_key: "RSD-20 Khruschev" # todo: NEW TRANSLATION
-  missile_SOV_ID_26_loc_key: "RSD-20M Yuzhmash" # todo: NEW TRANSLATION
-  missile_SOV_ID_27_loc_key: "RSD-30 Yeltsin" # todo: NEW TRANSLATION
-  missile_SOV_ID_28_loc_key: "RSD-30M Tyuratam" # todo: NEW TRANSLATION
-  missile_SOV_ID_31_loc_key: "R-29R Stingray" # todo: NEW TRANSLATION
-  missile_SOV_ID_32_loc_key: "R-29RK Stingray II" # todo: NEW TRANSLATION
-  missile_SOV_ID_33_loc_key: "R-29RL Stingray III" # todo: NEW TRANSLATION
-  missile_SOV_ID_34_loc_key: "R-29RM Skiff" # todo: NEW TRANSLATION
-  missile_SOV_ID_35_loc_key: "R-29RMU Sineva" # todo: NEW TRANSLATION
-  missile_SOV_ID_36_loc_key: "R-29RMU2 Liner" # todo: NEW TRANSLATION
-  missile_SOV_ID_37_loc_key: "RSM-56 Bulava" # todo: NEW TRANSLATION
-  missile_SOV_ID_38_loc_key: "RSM-66 Bulava II" # todo: NEW TRANSLATION
-  missile_SOV_ID_41_loc_key: "Kh-20 Raduga" # todo: NEW TRANSLATION
-  missile_SOV_ID_42_loc_key: "Kh-55 Kent" # todo: NEW TRANSLATION
-  missile_SOV_ID_43_loc_key: "Kh-59 Ovod" # todo: NEW TRANSLATION
-  missile_SOV_ID_44_loc_key: "Kh-32 X" # todo: NEW TRANSLATION
-  missile_SOV_ID_45_loc_key: "PJ-10 BrahMos" # todo: NEW TRANSLATION
-  missile_SOV_ID_46_loc_key: "Kh-47M2 Kinzhal" # todo: NEW TRANSLATION
-  missile_SOV_ID_47_loc_key: "PJ-20 BrahMos II" # todo: NEW TRANSLATION
-  missile_SOV_ID_48_loc_key: "Kh-48 Kinzhal II" # todo: NEW TRANSLATION
-  missile_SOV_ID_51_loc_key: "P-15 Termit" # todo: NEW TRANSLATION
-  missile_SOV_ID_52_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_SOV_ID_53_loc_key: "Kh-35 Zvezda" # todo: NEW TRANSLATION
-  missile_SOV_ID_54_loc_key: "9M720 Iskander-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_55_loc_key: "9M728 Iskander-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_56_loc_key: "9M729 Iskander-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_57_loc_key: "Kh-90 Gela" # todo: NEW TRANSLATION
-  missile_SOV_ID_58_loc_key: "3M32 Zircon-R" # todo: NEW TRANSLATION
-  missile_SOV_ID_61_loc_key: "P-5 Pyatyorka" # todo: NEW TRANSLATION
-  missile_SOV_ID_62_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_SOV_ID_63_loc_key: "P-500 Bazalt" # todo: NEW TRANSLATION
-  missile_SOV_ID_64_loc_key: "P-700 Granit" # todo: NEW TRANSLATION
-  missile_SOV_ID_65_loc_key: "P-800 Oniks" # todo: NEW TRANSLATION
-  missile_SOV_ID_66_loc_key: "3M22 Zircon" # todo: NEW TRANSLATION
-  missile_SOV_ID_67_loc_key: "3M51 Alfa" # todo: NEW TRANSLATION
-  missile_SOV_ID_68_loc_key: "3M-54M2 Kalibr-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_71_loc_key: "Kh-65SE Slingshot" # todo: NEW TRANSLATION
-  missile_SOV_ID_72_loc_key: "Kh-85SE Topaz" # todo: NEW TRANSLATION
-  missile_SOV_ID_80_loc_key: "S-75 Dvina / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_81_loc_key: "S-200 / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_82_loc_key: "S-300P / S-300F" # todo: NEW TRANSLATION
-  missile_SOV_ID_83_loc_key: "S-300PM / S-300FM" # todo: NEW TRANSLATION
-  missile_SOV_ID_84_loc_key: "S-300PMU-2 / S-300FM-2" # todo: NEW TRANSLATION
-  missile_SOV_ID_85_loc_key: "S-400 / 48N6DMK" # todo: NEW TRANSLATION
-  missile_SOV_ID_86_loc_key: "S-500" # todo: NEW TRANSLATION
-  missile_SOV_ID_87_loc_key: "S-600" # todo: NEW TRANSLATION
-  missile_SOV_ID_90_loc_key: "A-35 (ABM-1 Galosh)" # todo: NEW TRANSLATION
-  missile_SOV_ID_91_loc_key: "A-135 (ABM-3 Gazelle)" # todo: NEW TRANSLATION
-  missile_SOV_ID_92_loc_key: "A-135 (ABM-4 Gorgon)" # todo: NEW TRANSLATION
-  missile_SOV_ID_93_loc_key: "S-300PMU-1 (SA-20A Gargoyle)" # todo: NEW TRANSLATION
-  missile_SOV_ID_94_loc_key: "S-300PMU-2 (SA-20B Gargoyle)" # todo: NEW TRANSLATION
-  missile_SOV_ID_95_loc_key: "S-400 (SA-21 Growler)" # todo: NEW TRANSLATION
-  missile_SOV_ID_96_loc_key: "A-235A" # todo: NEW TRANSLATION
-  missile_SOV_ID_97_loc_key: "A-235B" # todo: NEW TRANSLATION
-  missile_SOV_ID_101_loc_key: "Vostok" # todo: NEW TRANSLATION
-  missile_SOV_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
-  missile_SOV_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_104_loc_key: "N-1" # todo: NEW TRANSLATION
-  missile_SOV_ID_105_loc_key: "Proton-K BlockDM" # todo: NEW TRANSLATION
-  missile_SOV_ID_106_loc_key: "Zenit-2" # todo: NEW TRANSLATION
-  missile_SOV_ID_107_loc_key: "Soyuz-Fregat" # todo: NEW TRANSLATION
-  missile_SOV_ID_108_loc_key: "Angara 1.2-PP" # todo: NEW TRANSLATION
-  missile_SOV_ID_111_loc_key: "GLONASS Block I" # todo: NEW TRANSLATION
-  missile_SOV_ID_112_loc_key: "GLONASS Block IIa" # todo: NEW TRANSLATION
-  missile_SOV_ID_113_loc_key: "GLONASS Block IIv" # todo: NEW TRANSLATION
-  missile_SOV_ID_114_loc_key: "GLONASS-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_115_loc_key: "GLONASS-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_116_loc_key: "GLONASS-K2" # todo: NEW TRANSLATION
-  missile_SOV_ID_117_loc_key: "GLONASS-V" # todo: NEW TRANSLATION
-  missile_SOV_ID_118_loc_key: "GLONASS-KM" # todo: NEW TRANSLATION
-  missile_SOV_ID_121_loc_key: "Intersputnik" # todo: NEW TRANSLATION
-  missile_SOV_ID_122_loc_key: "Gorizont" # todo: NEW TRANSLATION
-  missile_SOV_ID_123_loc_key: "Ekspress" # todo: NEW TRANSLATION
-  missile_SOV_ID_124_loc_key: "Yamal" # todo: NEW TRANSLATION
-  missile_SOV_ID_125_loc_key: "Meridian" # todo: NEW TRANSLATION
-  missile_SOV_ID_126_loc_key: "Meridian-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_127_loc_key: "Meridian-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_128_loc_key: "Meridian-V" # todo: NEW TRANSLATION
-  missile_SOV_ID_131_loc_key: "US-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_132_loc_key: "US-KS" # todo: NEW TRANSLATION
-  missile_SOV_ID_133_loc_key: "US-KMO" # todo: NEW TRANSLATION
-  missile_SOV_ID_134_loc_key: "Yantar" # todo: NEW TRANSLATION
-  missile_SOV_ID_135_loc_key: "EKS Kupol" # todo: NEW TRANSLATION
-  missile_SOV_ID_136_loc_key: "EKS Kupol-M" # todo: NEW TRANSLATION
-  missile_SOV_ID_137_loc_key: "EKS Kupol-K" # todo: NEW TRANSLATION
-  missile_SOV_ID_138_loc_key: "EKS Kupol-V" # todo: NEW TRANSLATION
-  missile_SOV_ID_141_loc_key: "Olymp-K1" # todo: NEW TRANSLATION
-  missile_SOV_ID_142_loc_key: "Olymp-K2" # todo: NEW TRANSLATION
-  missile_SOV_ID_143_loc_key: "Olymp-K3" # todo: NEW TRANSLATION
-  missile_SOV_ID_144_loc_key: "Olymp-K4" # todo: NEW TRANSLATION
-  missile_SOV_ID_145_loc_key: "Olymp-K5" # todo: NEW TRANSLATION
-  missile_SOV_ID_146_loc_key: "Olymp-K6" # todo: NEW TRANSLATION
-  missile_CHI_ID_11_loc_key: "DF-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_12_loc_key: "DF-5" # todo: NEW TRANSLATION
-  missile_CHI_ID_13_loc_key: "DF-5B" # todo: NEW TRANSLATION
-  missile_CHI_ID_14_loc_key: "DF-31" # todo: NEW TRANSLATION
-  missile_CHI_ID_15_loc_key: "DF-31A" # todo: NEW TRANSLATION
-  missile_CHI_ID_16_loc_key: "DF-31AG" # todo: NEW TRANSLATION
-  missile_CHI_ID_17_loc_key: "DF-41" # todo: NEW TRANSLATION
-  missile_CHI_ID_18_loc_key: "DF-51" # todo: NEW TRANSLATION
-  missile_CHI_ID_21_loc_key: "DF-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_22_loc_key: "DF-2A" # todo: NEW TRANSLATION
-  missile_CHI_ID_23_loc_key: "DF-21" # todo: NEW TRANSLATION
-  missile_CHI_ID_24_loc_key: "DF-17" # todo: NEW TRANSLATION
-  missile_CHI_ID_25_loc_key: "DF-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_26_loc_key: "DF-3A" # todo: NEW TRANSLATION
-  missile_CHI_ID_27_loc_key: "DF-26" # todo: NEW TRANSLATION
-  missile_CHI_ID_28_loc_key: "DF-3B" # todo: NEW TRANSLATION
-  missile_CHI_ID_31_loc_key: "JL-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_32_loc_key: "JL-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_33_loc_key: "JL-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_34_loc_key: "JL-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_35_loc_key: "JL-5" # todo: NEW TRANSLATION
-  missile_CHI_ID_36_loc_key: "JL-6" # todo: NEW TRANSLATION
-  missile_CHI_ID_37_loc_key: "JL-7" # todo: NEW TRANSLATION
-  missile_CHI_ID_38_loc_key: "JL-8" # todo: NEW TRANSLATION
-  missile_CHI_ID_41_loc_key: "C-101" # todo: NEW TRANSLATION
-  missile_CHI_ID_42_loc_key: "C-121" # todo: NEW TRANSLATION
-  missile_CHI_ID_43_loc_key: "C-385" # todo: NEW TRANSLATION
-  missile_CHI_ID_44_loc_key: "CJ-11" # todo: NEW TRANSLATION
-  missile_CHI_ID_45_loc_key: "CJ-21" # todo: NEW TRANSLATION
-  missile_CHI_ID_46_loc_key: "KD-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_47_loc_key: "KD-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_48_loc_key: "CM-400" # todo: NEW TRANSLATION
-  missile_CHI_ID_51_loc_key: "HN-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_52_loc_key: "HN-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_53_loc_key: "HN-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_54_loc_key: "CF-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_55_loc_key: "CF-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_56_loc_key: "CJ-10" # todo: NEW TRANSLATION
-  missile_CHI_ID_57_loc_key: "CJ-20" # todo: NEW TRANSLATION
-  missile_CHI_ID_58_loc_key: "DF-100" # todo: NEW TRANSLATION
-  missile_CHI_ID_61_loc_key: "YJ-12" # todo: NEW TRANSLATION
-  missile_CHI_ID_62_loc_key: "CJ-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_63_loc_key: "YJ-83" # todo: NEW TRANSLATION
-  missile_CHI_ID_64_loc_key: "CJ-10" # todo: NEW TRANSLATION
-  missile_CHI_ID_65_loc_key: "FL-7" # todo: NEW TRANSLATION
-  missile_CHI_ID_66_loc_key: "C-301" # todo: NEW TRANSLATION
-  missile_CHI_ID_67_loc_key: "C-704" # todo: NEW TRANSLATION
-  missile_CHI_ID_68_loc_key: "KD-63" # todo: NEW TRANSLATION
-  missile_CHI_ID_71_loc_key: "DF-17" # todo: NEW TRANSLATION
-  missile_CHI_ID_72_loc_key: "Wu-17" # todo: NEW TRANSLATION
-  missile_CHI_ID_80_loc_key: "HQ-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_81_loc_key: "HQ-6" # todo: NEW TRANSLATION
-  missile_CHI_ID_82_loc_key: "HQ-7" # todo: NEW TRANSLATION
-  missile_CHI_ID_83_loc_key: "HQ-12" # todo: NEW TRANSLATION
-  missile_CHI_ID_84_loc_key: "HQ-16" # todo: NEW TRANSLATION
-  missile_CHI_ID_85_loc_key: "HQ-17" # todo: NEW TRANSLATION
-  missile_CHI_ID_86_loc_key: "HQ-9" # todo: NEW TRANSLATION
-  missile_CHI_ID_87_loc_key: "HQ-22" # todo: NEW TRANSLATION
-  missile_CHI_ID_90_loc_key: "Fan Ji-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_91_loc_key: "Fan Ji-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_92_loc_key: "Fan Ji-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_93_loc_key: "HQ-15" # todo: NEW TRANSLATION
-  missile_CHI_ID_94_loc_key: "HQ-19" # todo: NEW TRANSLATION
-  missile_CHI_ID_95_loc_key: "HQ-22" # todo: NEW TRANSLATION
-  missile_CHI_ID_96_loc_key: "Dong Neng-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_97_loc_key: "Dong Neng-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_101_loc_key: "CZ-1 (Long March 1)" # todo: NEW TRANSLATION
-  missile_CHI_ID_102_loc_key: "CZ-2 (Long March 2)" # todo: NEW TRANSLATION
-  missile_CHI_ID_103_loc_key: "CZ-3 (Long March 3)" # todo: NEW TRANSLATION
-  missile_CHI_ID_104_loc_key: "CZ-3 B (Long March 3 B)" # todo: NEW TRANSLATION
-  missile_CHI_ID_105_loc_key: "CZ-4 (Long March 4)" # todo: NEW TRANSLATION
-  missile_CHI_ID_106_loc_key: "CZ-5 (Long March 5)" # todo: NEW TRANSLATION
-  missile_CHI_ID_107_loc_key: "CZ-6 (Long March 6)" # todo: NEW TRANSLATION
-  missile_CHI_ID_108_loc_key: "CZ-7 (Long March 7)" # todo: NEW TRANSLATION
-  missile_CHI_ID_111_loc_key: "BeiDou-1A" # todo: NEW TRANSLATION
-  missile_CHI_ID_112_loc_key: "BeiDou-1B" # todo: NEW TRANSLATION
-  missile_CHI_ID_113_loc_key: "BeiDou-1C" # todo: NEW TRANSLATION
-  missile_CHI_ID_114_loc_key: "BeiDou-1D" # todo: NEW TRANSLATION
-  missile_CHI_ID_115_loc_key: "BeiDou-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_116_loc_key: "BeiDou-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_117_loc_key: "BeiDou-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_118_loc_key: "BeiDou-5" # todo: NEW TRANSLATION
-  missile_CHI_ID_121_loc_key: "TIANLIAN-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_122_loc_key: "TIANLIAN-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_123_loc_key: "TIANLIAN-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_124_loc_key: "TIANLIAN-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_125_loc_key: "TIANQI-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_126_loc_key: "TIANQI-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_127_loc_key: "TIANQI-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_128_loc_key: "TIANQI-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_131_loc_key: "YAOGAN-30" # todo: NEW TRANSLATION
-  missile_CHI_ID_132_loc_key: "YAOGAN-31" # todo: NEW TRANSLATION
-  missile_CHI_ID_133_loc_key: "ZIYUAN-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_134_loc_key: "ZIYUAN-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_135_loc_key: "ZIYUAN-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_136_loc_key: "Fanhui Shi Weixing-0" # todo: NEW TRANSLATION
-  missile_CHI_ID_137_loc_key: "Fanhui Shi Weixing-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_138_loc_key: "Fanhui Shi Weixing-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_141_loc_key: "HUAXIA-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_142_loc_key: "HUAXIA-1-1" # todo: NEW TRANSLATION
-  missile_CHI_ID_143_loc_key: "HUAXIA-1-2" # todo: NEW TRANSLATION
-  missile_CHI_ID_144_loc_key: "HUAXIA-1-3" # todo: NEW TRANSLATION
-  missile_CHI_ID_145_loc_key: "HUAXIA-1-4" # todo: NEW TRANSLATION
-  missile_CHI_ID_146_loc_key: "HUAXIA-1-5" # todo: NEW TRANSLATION
-  missile_ENG_ID_11_loc_key: "Černý rytíř" # todo: NEW TRANSLATION
-  missile_ENG_ID_12_loc_key: "Bílá královna" # todo: NEW TRANSLATION
-  missile_ENG_ID_13_loc_key: "RUGM-133 Trident II" # todo: NEW TRANSLATION
-  missile_ENG_ID_14_loc_key: "Zlatá koruna" # todo: NEW TRANSLATION
-  missile_ENG_ID_15_loc_key: "Černá královna" # todo: NEW TRANSLATION
-  missile_ENG_ID_16_loc_key: "Bílý rytíř" # todo: NEW TRANSLATION
-  missile_ENG_ID_17_loc_key: "Červený rytíř" # todo: NEW TRANSLATION
-  missile_ENG_ID_18_loc_key: "Fialový princ" # todo: NEW TRANSLATION
-  missile_ENG_ID_21_loc_key: "PGM-17A Thor" # todo: NEW TRANSLATION
-  missile_ENG_ID_22_loc_key: "PGM-19 Jupiter" # todo: NEW TRANSLATION
-  missile_ENG_ID_23_loc_key: "Blue Streak" # todo: NEW TRANSLATION
-  missile_ENG_ID_24_loc_key: "Modrý meč" # todo: NEW TRANSLATION
-  missile_ENG_ID_25_loc_key: "Modrá palice" # todo: NEW TRANSLATION
-  missile_ENG_ID_26_loc_key: "Modrá sekera" # todo: NEW TRANSLATION
-  missile_ENG_ID_27_loc_key: "Modrý bič" # todo: NEW TRANSLATION
-  missile_ENG_ID_28_loc_key: "Modré kladivo" # todo: NEW TRANSLATION
-  missile_ENG_ID_31_loc_key: "UGM-27 Polaris" # todo: NEW TRANSLATION
-  missile_ENG_ID_32_loc_key: "UGM-27 Polaris – Chevaline" # todo: NEW TRANSLATION
-  missile_ENG_ID_33_loc_key: "UGM-96 Trident I (C4)" # todo: NEW TRANSLATION
-  missile_ENG_ID_34_loc_key: "UGM-133A Trident II (D5)" # todo: NEW TRANSLATION
-  missile_ENG_ID_35_loc_key: "UGM-133A Trident II (D5LE)" # todo: NEW TRANSLATION
-  missile_ENG_ID_36_loc_key: "UGM-133A Trident II (D5LE2)" # todo: NEW TRANSLATION
-  missile_ENG_ID_37_loc_key: "UGM-186A Trident III" # todo: NEW TRANSLATION
-  missile_ENG_ID_38_loc_key: "UGM-186B Trident III" # todo: NEW TRANSLATION
-  missile_ENG_ID_41_loc_key: "Červený rapír" # todo: NEW TRANSLATION
-  missile_ENG_ID_42_loc_key: "Modrý rapír" # todo: NEW TRANSLATION
-  missile_ENG_ID_43_loc_key: "Modrá ocel" # todo: NEW TRANSLATION
-  missile_ENG_ID_44_loc_key: "Červená ocel" # todo: NEW TRANSLATION
-  missile_ENG_ID_45_loc_key: "Bouřný stín" # todo: NEW TRANSLATION
-  missile_ENG_ID_46_loc_key: "Bouřný stín Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_47_loc_key: "Bouřný stín Mk3" # todo: NEW TRANSLATION
-  missile_ENG_ID_48_loc_key: "Bouřný stín Mk4" # todo: NEW TRANSLATION
-  missile_ENG_ID_51_loc_key: "Back Rock" # todo: NEW TRANSLATION
-  missile_ENG_ID_52_loc_key: "Černý princ" # todo: NEW TRANSLATION
-  missile_ENG_ID_53_loc_key: "Červený Ranger" # todo: NEW TRANSLATION
-  missile_ENG_ID_54_loc_key: "Modrý Raptor" # todo: NEW TRANSLATION
-  missile_ENG_ID_55_loc_key: "Fialový déšť" # todo: NEW TRANSLATION
-  missile_ENG_ID_56_loc_key: "Žlutý břit" # todo: NEW TRANSLATION
-  missile_ENG_ID_57_loc_key: "Oranžový Raider" # todo: NEW TRANSLATION
-  missile_ENG_ID_58_loc_key: "Bílý havran" # todo: NEW TRANSLATION
-  missile_ENG_ID_61_loc_key: "Modrý měsíc" # todo: NEW TRANSLATION
-  missile_ENG_ID_62_loc_key: "Modrá vlna" # todo: NEW TRANSLATION
-  missile_ENG_ID_63_loc_key: "Červený úsvit" # todo: NEW TRANSLATION
-  missile_ENG_ID_64_loc_key: "BGM-109C Tomahawk TLAM-C" # todo: NEW TRANSLATION
-  missile_ENG_ID_65_loc_key: "BGM-109D Tomahawk TLAM-D" # todo: NEW TRANSLATION
-  missile_ENG_ID_66_loc_key: "RGM-109E Tomahawk TLAM-E" # todo: NEW TRANSLATION
-  missile_ENG_ID_67_loc_key: "RGM-109F Tomahawk TLAM-F" # todo: NEW TRANSLATION
-  missile_ENG_ID_68_loc_key: "RGM-109K Tomahawk TLAM-K" # todo: NEW TRANSLATION
-  missile_ENG_ID_71_loc_key: "CVS401 Perseus" # todo: NEW TRANSLATION
-  missile_ENG_ID_72_loc_key: "CVS501 Perseus Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_80_loc_key: "Thunderbird Mk1" # todo: NEW TRANSLATION
-  missile_ENG_ID_81_loc_key: "Bloodhound Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_82_loc_key: "Sea Dart" # todo: NEW TRANSLATION
-  missile_ENG_ID_83_loc_key: "Sea Dart Mod 2" # todo: NEW TRANSLATION
-  missile_ENG_ID_84_loc_key: "PAAMS / Sea Viper" # todo: NEW TRANSLATION
-  missile_ENG_ID_85_loc_key: "CAMM ER Land Ceptor / Sea Ceptor" # todo: NEW TRANSLATION
-  missile_ENG_ID_86_loc_key: "Land Ceptor Mk2 / Sea Ceptor Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_87_loc_key: "Land Ceptor Mk3 / Sea Ceptor Mk3" # todo: NEW TRANSLATION
-  missile_ENG_ID_90_loc_key: "Violet Friend" # todo: NEW TRANSLATION
-  missile_ENG_ID_91_loc_key: "Zelená jiskra" # todo: NEW TRANSLATION
-  missile_ENG_ID_92_loc_key: "Modrý vyslanec" # todo: NEW TRANSLATION
-  missile_ENG_ID_93_loc_key: "Červený Duster" # todo: NEW TRANSLATION
-  missile_ENG_ID_94_loc_key: "Green Flax" # todo: NEW TRANSLATION
-  missile_ENG_ID_95_loc_key: "Zelený ještěr" # todo: NEW TRANSLATION
-  missile_ENG_ID_96_loc_key: "Oranžový Nell" # todo: NEW TRANSLATION
-  missile_ENG_ID_97_loc_key: "Žlutý chrám" # todo: NEW TRANSLATION
-  missile_ENG_ID_101_loc_key: "Černá šipka" # todo: NEW TRANSLATION
-  missile_ENG_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
-  missile_ENG_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
-  missile_ENG_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
-  missile_ENG_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
-  missile_ENG_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
-  missile_ENG_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
-  missile_ENG_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
-  missile_ENG_ID_111_loc_key: "GIOVE-A" # todo: NEW TRANSLATION
-  missile_ENG_ID_112_loc_key: "GIOVE-B" # todo: NEW TRANSLATION
-  missile_ENG_ID_113_loc_key: "Galileo Block I" # todo: NEW TRANSLATION
-  missile_ENG_ID_114_loc_key: "Galileo Block II" # todo: NEW TRANSLATION
-  missile_ENG_ID_115_loc_key: "Galileo Block III" # todo: NEW TRANSLATION
-  missile_ENG_ID_116_loc_key: "Galileo Block IV" # todo: NEW TRANSLATION
-  missile_ENG_ID_117_loc_key: "Galileo Block V" # todo: NEW TRANSLATION
-  missile_ENG_ID_118_loc_key: "Galileo Block VI" # todo: NEW TRANSLATION
-  missile_ENG_ID_121_loc_key: "Skynet 1" # todo: NEW TRANSLATION
-  missile_ENG_ID_122_loc_key: "Skynet 2" # todo: NEW TRANSLATION
-  missile_ENG_ID_123_loc_key: "Skynet 3" # todo: NEW TRANSLATION
-  missile_ENG_ID_124_loc_key: "Skynet 4" # todo: NEW TRANSLATION
-  missile_ENG_ID_125_loc_key: "Skynet 5" # todo: NEW TRANSLATION
-  missile_ENG_ID_126_loc_key: "Skynet 6" # todo: NEW TRANSLATION
-  missile_ENG_ID_127_loc_key: "Skynet 7" # todo: NEW TRANSLATION
-  missile_ENG_ID_128_loc_key: "Skynet 8" # todo: NEW TRANSLATION
-  missile_ENG_ID_131_loc_key: "Prospero" # todo: NEW TRANSLATION
-  missile_ENG_ID_132_loc_key: "Titanite" # todo: NEW TRANSLATION
-  missile_ENG_ID_133_loc_key: "Topaz" # todo: NEW TRANSLATION
-  missile_ENG_ID_134_loc_key: "Thorite" # todo: NEW TRANSLATION
-  missile_ENG_ID_135_loc_key: "Thorite Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_136_loc_key: "Thorite Mk3" # todo: NEW TRANSLATION
-  missile_ENG_ID_137_loc_key: "Thorite Mk4" # todo: NEW TRANSLATION
-  missile_ENG_ID_138_loc_key: "Thorite Mk5" # todo: NEW TRANSLATION
-  missile_ENG_ID_141_loc_key: "Zircon" # todo: NEW TRANSLATION
-  missile_ENG_ID_142_loc_key: "Zircon Mk2" # todo: NEW TRANSLATION
-  missile_ENG_ID_143_loc_key: "Zircon Mk3" # todo: NEW TRANSLATION
-  missile_ENG_ID_144_loc_key: "Zircon Mk4" # todo: NEW TRANSLATION
-  missile_ENG_ID_145_loc_key: "Zircon Mk5" # todo: NEW TRANSLATION
-  missile_ENG_ID_146_loc_key: "Zircon Mk6" # todo: NEW TRANSLATION
-  missile_FRA_ID_11_loc_key: "T1" # todo: NEW TRANSLATION
-  missile_FRA_ID_12_loc_key: "T2" # todo: NEW TRANSLATION
-  missile_FRA_ID_13_loc_key: "T3" # todo: NEW TRANSLATION
-  missile_FRA_ID_14_loc_key: "M45-ASS" # todo: NEW TRANSLATION
-  missile_FRA_ID_15_loc_key: "T5" # todo: NEW TRANSLATION
-  missile_FRA_ID_16_loc_key: "T6" # todo: NEW TRANSLATION
-  missile_FRA_ID_17_loc_key: "T7" # todo: NEW TRANSLATION
-  missile_FRA_ID_18_loc_key: "T8" # todo: NEW TRANSLATION
-  missile_FRA_ID_21_loc_key: "S2" # todo: NEW TRANSLATION
-  missile_FRA_ID_22_loc_key: "S3" # todo: NEW TRANSLATION
-  missile_FRA_ID_23_loc_key: "S3D" # todo: NEW TRANSLATION
-  missile_FRA_ID_24_loc_key: "S4" # todo: NEW TRANSLATION
-  missile_FRA_ID_25_loc_key: "S45" # todo: NEW TRANSLATION
-  missile_FRA_ID_26_loc_key: "S5" # todo: NEW TRANSLATION
-  missile_FRA_ID_27_loc_key: "S6" # todo: NEW TRANSLATION
-  missile_FRA_ID_28_loc_key: "S7" # todo: NEW TRANSLATION
-  missile_FRA_ID_31_loc_key: "M1" # todo: NEW TRANSLATION
-  missile_FRA_ID_32_loc_key: "M20" # todo: NEW TRANSLATION
-  missile_FRA_ID_33_loc_key: "M4" # todo: NEW TRANSLATION
-  missile_FRA_ID_34_loc_key: "M45" # todo: NEW TRANSLATION
-  missile_FRA_ID_35_loc_key: "M51" # todo: NEW TRANSLATION
-  missile_FRA_ID_36_loc_key: "M51.2" # todo: NEW TRANSLATION
-  missile_FRA_ID_37_loc_key: "M51.3" # todo: NEW TRANSLATION
-  missile_FRA_ID_38_loc_key: "M52" # todo: NEW TRANSLATION
-  missile_FRA_ID_41_loc_key: "ASM" # todo: NEW TRANSLATION
-  missile_FRA_ID_42_loc_key: "ASM-B" # todo: NEW TRANSLATION
-  missile_FRA_ID_43_loc_key: "ASMP" # todo: NEW TRANSLATION
-  missile_FRA_ID_44_loc_key: "APACHE" # todo: NEW TRANSLATION
-  missile_FRA_ID_45_loc_key: "SCALP-EG" # todo: NEW TRANSLATION
-  missile_FRA_ID_46_loc_key: "ASMP-A" # todo: NEW TRANSLATION
-  missile_FRA_ID_47_loc_key: "ASN4G" # todo: NEW TRANSLATION
-  missile_FRA_ID_48_loc_key: "ASMHS-LP" # todo: NEW TRANSLATION
-  missile_FRA_ID_51_loc_key: "SSM" # todo: NEW TRANSLATION
-  missile_FRA_ID_52_loc_key: "SSM-B" # todo: NEW TRANSLATION
-  missile_FRA_ID_53_loc_key: "SSMP" # todo: NEW TRANSLATION
-  missile_FRA_ID_54_loc_key: "SSMP-A" # todo: NEW TRANSLATION
-  missile_FRA_ID_55_loc_key: "MCALP" # todo: NEW TRANSLATION
-  missile_FRA_ID_56_loc_key: "MCALP-A" # todo: NEW TRANSLATION
-  missile_FRA_ID_57_loc_key: "SSN4G" # todo: NEW TRANSLATION
-  missile_FRA_ID_58_loc_key: "MASS" # todo: NEW TRANSLATION
-  missile_FRA_ID_61_loc_key: "MSM" # todo: NEW TRANSLATION
-  missile_FRA_ID_62_loc_key: "MSM-B" # todo: NEW TRANSLATION
-  missile_FRA_ID_63_loc_key: "MSMP" # todo: NEW TRANSLATION
-  missile_FRA_ID_64_loc_key: "MSMP-A" # todo: NEW TRANSLATION
-  missile_FRA_ID_65_loc_key: "CSV401 Perseus" # todo: NEW TRANSLATION
-  missile_FRA_ID_66_loc_key: "MdCN" # todo: NEW TRANSLATION
-  missile_FRA_ID_67_loc_key: "MdCN-CM" # todo: NEW TRANSLATION
-  missile_FRA_ID_68_loc_key: "FMAN/FMC" # todo: NEW TRANSLATION
-  missile_FRA_ID_71_loc_key: "V-MAX" # todo: NEW TRANSLATION
-  missile_FRA_ID_72_loc_key: "MATHS" # todo: NEW TRANSLATION
-  missile_FRA_ID_80_loc_key: "MIM-23 Hawk" # todo: NEW TRANSLATION
-  missile_FRA_ID_81_loc_key: "MIM-23B" # todo: NEW TRANSLATION
-  missile_FRA_ID_82_loc_key: "MIM-23E/F" # todo: NEW TRANSLATION
-  missile_FRA_ID_83_loc_key: "MIM-23L/M" # todo: NEW TRANSLATION
-  missile_FRA_ID_84_loc_key: "PAAMS(E)" # todo: NEW TRANSLATION
-  missile_FRA_ID_85_loc_key: "ASTER 15" # todo: NEW TRANSLATION
-  missile_FRA_ID_86_loc_key: "ASTER 30" # todo: NEW TRANSLATION
-  missile_FRA_ID_87_loc_key: "ASTER 30 Block 1 NT" # todo: NEW TRANSLATION
-  missile_FRA_ID_90_loc_key: "ASTER 30 Block 2" # todo: NEW TRANSLATION
-  missile_FRA_ID_91_loc_key: "ABM-1" # todo: NEW TRANSLATION
-  missile_FRA_ID_92_loc_key: "ABM-2" # todo: NEW TRANSLATION
-  missile_FRA_ID_93_loc_key: "ABM-3" # todo: NEW TRANSLATION
-  missile_FRA_ID_94_loc_key: "ASTER 15 (ABM)" # todo: NEW TRANSLATION
-  missile_FRA_ID_95_loc_key: "ASTER 30 (ABM)" # todo: NEW TRANSLATION
-  missile_FRA_ID_96_loc_key: "ASTER 30 Block 1 NT (ABM)" # todo: NEW TRANSLATION
-  missile_FRA_ID_97_loc_key: "ASTER 30 Block 2 (ABM)" # todo: NEW TRANSLATION
-  missile_FRA_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
-  missile_FRA_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
-  missile_FRA_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
-  missile_FRA_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
-  missile_FRA_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
-  missile_FRA_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
-  missile_FRA_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
-  missile_FRA_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
-  missile_ITA_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
-  missile_ITA_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
-  missile_ITA_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
-  missile_ITA_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
-  missile_ITA_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
-  missile_ITA_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
-  missile_ITA_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
-  missile_ITA_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
-  missile_SPR_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
-  missile_SPR_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
-  missile_SPR_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
-  missile_SPR_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
-  missile_SPR_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
-  missile_SPR_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
-  missile_SPR_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
-  missile_SPR_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
-  missile_FRA_ID_111_loc_key: "GIOVE-A" # todo: NEW TRANSLATION
-  missile_FRA_ID_112_loc_key: "GIOVE-B" # todo: NEW TRANSLATION
-  missile_FRA_ID_113_loc_key: "Galileo Block I" # todo: NEW TRANSLATION
-  missile_FRA_ID_114_loc_key: "Galileo Block II" # todo: NEW TRANSLATION
-  missile_FRA_ID_115_loc_key: "Galileo Block III" # todo: NEW TRANSLATION
-  missile_FRA_ID_116_loc_key: "Galileo Block IV" # todo: NEW TRANSLATION
-  missile_FRA_ID_117_loc_key: "Galileo Block V" # todo: NEW TRANSLATION
-  missile_FRA_ID_118_loc_key: "Galileo Block VI" # todo: NEW TRANSLATION
-  missile_FRA_ID_121_loc_key: "Syracuse 0" # todo: NEW TRANSLATION
-  missile_FRA_ID_122_loc_key: "Syracuse 1" # todo: NEW TRANSLATION
-  missile_FRA_ID_123_loc_key: "Syracuse 2" # todo: NEW TRANSLATION
-  missile_FRA_ID_124_loc_key: "Syracuse 25" # todo: NEW TRANSLATION
-  missile_FRA_ID_125_loc_key: "Syracuse 3" # todo: NEW TRANSLATION
-  missile_FRA_ID_126_loc_key: "Syracuse 4" # todo: NEW TRANSLATION
-  missile_FRA_ID_127_loc_key: "Syracuse 5" # todo: NEW TRANSLATION
-  missile_FRA_ID_128_loc_key: "Syracuse 6" # todo: NEW TRANSLATION
-  missile_FRA_ID_131_loc_key: "Hypérion" # todo: NEW TRANSLATION
-  missile_FRA_ID_132_loc_key: "Séléné" # todo: NEW TRANSLATION
-  missile_FRA_ID_133_loc_key: "Eos" # todo: NEW TRANSLATION
-  missile_FRA_ID_134_loc_key: "Hélios 1" # todo: NEW TRANSLATION
-  missile_FRA_ID_135_loc_key: "Hélios 2" # todo: NEW TRANSLATION
-  missile_FRA_ID_136_loc_key: "CSO" # todo: NEW TRANSLATION
-  missile_FRA_ID_137_loc_key: "CERES" # todo: NEW TRANSLATION
-  missile_FRA_ID_138_loc_key: "SRESM" # todo: NEW TRANSLATION
-  missile_FRA_ID_141_loc_key: "SDS" # todo: NEW TRANSLATION
-  missile_FRA_ID_142_loc_key: "SDS2" # todo: NEW TRANSLATION
-  missile_FRA_ID_143_loc_key: "BOB" # todo: NEW TRANSLATION
-  missile_FRA_ID_144_loc_key: "BOM" # todo: NEW TRANSLATION
-  missile_FRA_ID_145_loc_key: "BOG" # todo: NEW TRANSLATION
-  missile_FRA_ID_146_loc_key: "SLMAS 'Cosmos'" # todo: NEW TRANSLATION
-  missile_ISR_ID_11_loc_key: "Jericho-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_12_loc_key: "Jericho-3 Block I" # todo: NEW TRANSLATION
-  missile_ISR_ID_13_loc_key: "Jericho-3 Block IIA" # todo: NEW TRANSLATION
-  missile_ISR_ID_14_loc_key: "Jericho-3 Block IIB" # todo: NEW TRANSLATION
-  missile_ISR_ID_15_loc_key: "Jericho-3 Block IIC" # todo: NEW TRANSLATION
-  missile_ISR_ID_16_loc_key: "Jericho-3 Block III" # todo: NEW TRANSLATION
-  missile_ISR_ID_17_loc_key: "Jericho-3 Block IV" # todo: NEW TRANSLATION
-  missile_ISR_ID_18_loc_key: "Jericho-3 Block V" # todo: NEW TRANSLATION
-  missile_ISR_ID_21_loc_key: "Jericho-2 " # todo: NEW TRANSLATION
-  missile_ISR_ID_22_loc_key: "Jericho-2 Block-A" # todo: NEW TRANSLATION
-  missile_ISR_ID_23_loc_key: "Jericho-2 Block-B" # todo: NEW TRANSLATION
-  missile_ISR_ID_24_loc_key: "Jericho-2 Block-C" # todo: NEW TRANSLATION
-  missile_ISR_ID_25_loc_key: "Jericho-2 Block-D" # todo: NEW TRANSLATION
-  missile_ISR_ID_26_loc_key: "Jericho-2 Block-E" # todo: NEW TRANSLATION
-  missile_ISR_ID_27_loc_key: "Jericho-2 Block-F" # todo: NEW TRANSLATION
-  missile_ISR_ID_28_loc_key: "Jericho-2 Block-G" # todo: NEW TRANSLATION
-  missile_ISR_ID_31_loc_key: "Gabriel-1" # todo: NEW TRANSLATION
-  missile_ISR_ID_32_loc_key: "Gabriel-1A" # todo: NEW TRANSLATION
-  missile_ISR_ID_33_loc_key: "Gabriel-2B" # todo: NEW TRANSLATION
-  missile_ISR_ID_34_loc_key: "Gabriel-2C" # todo: NEW TRANSLATION
-  missile_ISR_ID_35_loc_key: "Gabriel-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_36_loc_key: "Gabriel-4" # todo: NEW TRANSLATION
-  missile_ISR_ID_37_loc_key: "Gabriel-5" # todo: NEW TRANSLATION
-  missile_ISR_ID_38_loc_key: "Gabriel-6" # todo: NEW TRANSLATION
-  missile_ISR_ID_41_loc_key: "Delilah" # todo: NEW TRANSLATION
-  missile_ISR_ID_42_loc_key: "Delilah-Eser" # todo: NEW TRANSLATION
-  missile_ISR_ID_43_loc_key: "Delilah-Eshrim" # todo: NEW TRANSLATION
-  missile_ISR_ID_44_loc_key: "Delilah-Arbaim" # todo: NEW TRANSLATION
-  missile_ISR_ID_45_loc_key: "Delilah-Hamishim" # todo: NEW TRANSLATION
-  missile_ISR_ID_46_loc_key: "Delilah-Shishim" # todo: NEW TRANSLATION
-  missile_ISR_ID_47_loc_key: "Delilah-Shiv’im" # todo: NEW TRANSLATION
-  missile_ISR_ID_48_loc_key: "Delilah-Shmonim" # todo: NEW TRANSLATION
-  missile_ISR_ID_51_loc_key: "Delilah-GL" # todo: NEW TRANSLATION
-  missile_ISR_ID_52_loc_key: "Delilah-GL-B" # todo: NEW TRANSLATION
-  missile_ISR_ID_53_loc_key: "Delilah-GL-2A" # todo: NEW TRANSLATION
-  missile_ISR_ID_54_loc_key: "Delilah-GL-2D" # todo: NEW TRANSLATION
-  missile_ISR_ID_55_loc_key: "Delilah-GL-3B" # todo: NEW TRANSLATION
-  missile_ISR_ID_56_loc_key: "Delilah-GL-3C" # todo: NEW TRANSLATION
-  missile_ISR_ID_57_loc_key: "Delilah-GL-4X" # todo: NEW TRANSLATION
-  missile_ISR_ID_58_loc_key: "Delilah-GL-5X" # todo: NEW TRANSLATION
-  missile_ISR_ID_61_loc_key: "Delilah-SL" # todo: NEW TRANSLATION
-  missile_ISR_ID_62_loc_key: "Delilah-SL-Daug" # todo: NEW TRANSLATION
-  missile_ISR_ID_63_loc_key: "Delilah-SL-Carish" # todo: NEW TRANSLATION
-  missile_ISR_ID_64_loc_key: "Delilah-SL-Tmanoom" # todo: NEW TRANSLATION
-  missile_ISR_ID_65_loc_key: "Delilah-SL-Ariyeh" # todo: NEW TRANSLATION
-  missile_ISR_ID_66_loc_key: "Delilah-SL-Namer" # todo: NEW TRANSLATION
-  missile_ISR_ID_67_loc_key: "Delilah-SL-Nahache " # todo: NEW TRANSLATION
-  missile_ISR_ID_68_loc_key: "Delilah-SL-Yonah" # todo: NEW TRANSLATION
-  missile_ISR_ID_71_loc_key: "Maher" # todo: NEW TRANSLATION
-  missile_ISR_ID_72_loc_key: "Koliy" # todo: NEW TRANSLATION
-  missile_ISR_ID_80_loc_key: "MIM-23 Hawk" # todo: NEW TRANSLATION
-  missile_ISR_ID_81_loc_key: "Shenav" # todo: NEW TRANSLATION
-  missile_ISR_ID_82_loc_key: "MIM-72 Chaparral" # todo: NEW TRANSLATION
-  missile_ISR_ID_83_loc_key: "Shenav-2" # todo: NEW TRANSLATION
-  missile_ISR_ID_84_loc_key: "MIM-104 Patriot " # todo: NEW TRANSLATION
-  missile_ISR_ID_85_loc_key: "Iron Dome" # todo: NEW TRANSLATION
-  missile_ISR_ID_86_loc_key: "David's Sling" # todo: NEW TRANSLATION
-  missile_ISR_ID_87_loc_key: "Magen" # todo: NEW TRANSLATION
-  missile_ISR_ID_90_loc_key: "Arrow-1" # todo: NEW TRANSLATION
-  missile_ISR_ID_91_loc_key: "Arrow-2 Block-1" # todo: NEW TRANSLATION
-  missile_ISR_ID_92_loc_key: "Arrow-2 Block-2" # todo: NEW TRANSLATION
-  missile_ISR_ID_93_loc_key: "Arrow-2 Block-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_94_loc_key: "Arrow-2 Block-4" # todo: NEW TRANSLATION
-  missile_ISR_ID_95_loc_key: "Arrow-2 Block-5" # todo: NEW TRANSLATION
-  missile_ISR_ID_96_loc_key: "Arrow-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_97_loc_key: "Arrow-4" # todo: NEW TRANSLATION
-  missile_ISR_ID_101_loc_key: "Shavit" # todo: NEW TRANSLATION
-  missile_ISR_ID_102_loc_key: "Shavit-1" # todo: NEW TRANSLATION
-  missile_ISR_ID_103_loc_key: "Shavir-2" # todo: NEW TRANSLATION
-  missile_ISR_ID_104_loc_key: "Shavit-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_105_loc_key: "Shavit-4" # todo: NEW TRANSLATION
-  missile_ISR_ID_106_loc_key: "Shavit-5" # todo: NEW TRANSLATION
-  missile_ISR_ID_107_loc_key: "Shavit-6" # todo: NEW TRANSLATION
-  missile_ISR_ID_108_loc_key: "Shavit-7" # todo: NEW TRANSLATION
-  missile_ISR_ID_111_loc_key: "Eynayn Block II" # todo: NEW TRANSLATION
-  missile_ISR_ID_112_loc_key: "Eynayn Block II" # todo: NEW TRANSLATION
-  missile_ISR_ID_113_loc_key: "Eynayn Block III" # todo: NEW TRANSLATION
-  missile_ISR_ID_114_loc_key: "Eynayn Block IV" # todo: NEW TRANSLATION
-  missile_ISR_ID_115_loc_key: "Sofeh Block V" # todo: NEW TRANSLATION
-  missile_ISR_ID_116_loc_key: "Sofeh Block VI" # todo: NEW TRANSLATION
-  missile_ISR_ID_117_loc_key: "Sofeh Block VII" # todo: NEW TRANSLATION
-  missile_ISR_ID_118_loc_key: "Sofeh Block VIII" # todo: NEW TRANSLATION
-  missile_ISR_ID_121_loc_key: "Amos-1" # todo: NEW TRANSLATION
-  missile_ISR_ID_122_loc_key: "Amos-2" # todo: NEW TRANSLATION
-  missile_ISR_ID_123_loc_key: "Amos-3" # todo: NEW TRANSLATION
-  missile_ISR_ID_124_loc_key: "Amos-4" # todo: NEW TRANSLATION
-  missile_ISR_ID_125_loc_key: "Amos-5" # todo: NEW TRANSLATION
-  missile_ISR_ID_126_loc_key: "Amos-6" # todo: NEW TRANSLATION
-  missile_ISR_ID_127_loc_key: "Amos-7" # todo: NEW TRANSLATION
-  missile_ISR_ID_128_loc_key: "Amos-8" # todo: NEW TRANSLATION
-  missile_ISR_ID_131_loc_key: "Ofeq 3" # todo: NEW TRANSLATION
-  missile_ISR_ID_132_loc_key: "Ofeq 5" # todo: NEW TRANSLATION
-  missile_ISR_ID_133_loc_key: "Ofeq 7" # todo: NEW TRANSLATION
-  missile_ISR_ID_134_loc_key: "Ofeq 9" # todo: NEW TRANSLATION
-  missile_ISR_ID_135_loc_key: "TecSAR" # todo: NEW TRANSLATION
-  missile_ISR_ID_136_loc_key: "TecSAR-X" # todo: NEW TRANSLATION
-  missile_ISR_ID_137_loc_key: "EROS-A" # todo: NEW TRANSLATION
-  missile_ISR_ID_138_loc_key: "EROS-B" # todo: NEW TRANSLATION
-  missile_ISR_ID_141_loc_key: "ULTRASAT-Echad" # todo: NEW TRANSLATION
-  missile_ISR_ID_142_loc_key: "ULTRASAT-Shtaim" # todo: NEW TRANSLATION
-  missile_ISR_ID_143_loc_key: "ULTRASAT-Shalosh" # todo: NEW TRANSLATION
-  missile_ISR_ID_144_loc_key: "ULTRASAT-Arba" # todo: NEW TRANSLATION
-  missile_ISR_ID_145_loc_key: "ULTRASAT-Hamesh" # todo: NEW TRANSLATION
-  missile_ISR_ID_146_loc_key: "ULTRASATShesh" # todo: NEW TRANSLATION
-  missile_RAJ_ID_11_loc_key: "Agni-5" # todo: NEW TRANSLATION
-  missile_RAJ_ID_12_loc_key: "Agni-5A" # todo: NEW TRANSLATION
-  missile_RAJ_ID_13_loc_key: "Agni-6" # todo: NEW TRANSLATION
-  missile_RAJ_ID_14_loc_key: "Agni-7" # todo: NEW TRANSLATION
-  missile_RAJ_ID_15_loc_key: "Agni-8" # todo: NEW TRANSLATION
-  missile_RAJ_ID_16_loc_key: "Surya" # todo: NEW TRANSLATION
-  missile_RAJ_ID_17_loc_key: "Surya-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_18_loc_key: "Surya-C" # todo: NEW TRANSLATION
-  missile_RAJ_ID_21_loc_key: "Agni-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_22_loc_key: "Agni-Prime" # todo: NEW TRANSLATION
-  missile_RAJ_ID_23_loc_key: "Agni-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_24_loc_key: "Agni-2C" # todo: NEW TRANSLATION
-  missile_RAJ_ID_25_loc_key: "Agni-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_26_loc_key: "Agni-3H" # todo: NEW TRANSLATION
-  missile_RAJ_ID_27_loc_key: "Agni-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_28_loc_key: "Agni-4L" # todo: NEW TRANSLATION
-  missile_RAJ_ID_31_loc_key: "Sagarika-A" # todo: NEW TRANSLATION
-  missile_RAJ_ID_32_loc_key: "Sagarika-D" # todo: NEW TRANSLATION
-  missile_RAJ_ID_33_loc_key: "K-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_34_loc_key: "K-5" # todo: NEW TRANSLATION
-  missile_RAJ_ID_35_loc_key: "K-6" # todo: NEW TRANSLATION
-  missile_RAJ_ID_36_loc_key: "K-7" # todo: NEW TRANSLATION
-  missile_RAJ_ID_37_loc_key: "K-8" # todo: NEW TRANSLATION
-  missile_RAJ_ID_38_loc_key: "K-9" # todo: NEW TRANSLATION
-  missile_RAJ_ID_41_loc_key: "NASM-SR" # todo: NEW TRANSLATION
-  missile_RAJ_ID_42_loc_key: "BrahMos" # todo: NEW TRANSLATION
-  missile_RAJ_ID_43_loc_key: "BrahMos-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_44_loc_key: "BrahMos-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_45_loc_key: "BrahMos-3-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_46_loc_key: "BrahMos-3-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_47_loc_key: "BrahMos-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_48_loc_key: "BrahMos-4-C" # todo: NEW TRANSLATION
-  missile_RAJ_ID_51_loc_key: "Prithvi-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_52_loc_key: "Prithvi-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_53_loc_key: "Prithvi-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_54_loc_key: "Prithvi-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_55_loc_key: "Pralay" # todo: NEW TRANSLATION
-  missile_RAJ_ID_56_loc_key: "Prahaar" # todo: NEW TRANSLATION
-  missile_RAJ_ID_57_loc_key: "Nirbhay" # todo: NEW TRANSLATION
-  missile_RAJ_ID_58_loc_key: "Nirbhay-X" # todo: NEW TRANSLATION
-  missile_RAJ_ID_61_loc_key: "BrahMos-S" # todo: NEW TRANSLATION
-  missile_RAJ_ID_62_loc_key: "NGSLCM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_63_loc_key: "BrahMos-SX" # todo: NEW TRANSLATION
-  missile_RAJ_ID_64_loc_key: "BrahMos-2S" # todo: NEW TRANSLATION
-  missile_RAJ_ID_65_loc_key: "BrahMos-2SE" # todo: NEW TRANSLATION
-  missile_RAJ_ID_66_loc_key: "BrahMos-2SZ" # todo: NEW TRANSLATION
-  missile_RAJ_ID_67_loc_key: "BrahMos-3S" # todo: NEW TRANSLATION
-  missile_RAJ_ID_68_loc_key: "Brahmos-4S" # todo: NEW TRANSLATION
-  missile_RAJ_ID_71_loc_key: "Shaurya" # todo: NEW TRANSLATION
-  missile_RAJ_ID_72_loc_key: "Shaurya-E" # todo: NEW TRANSLATION
-  missile_RAJ_ID_80_loc_key: "Akash" # todo: NEW TRANSLATION
-  missile_RAJ_ID_81_loc_key: "Akash-NG" # todo: NEW TRANSLATION
-  missile_RAJ_ID_82_loc_key: "QRSAM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_83_loc_key: "VL-SRSAM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_84_loc_key: "Barak-8" # todo: NEW TRANSLATION
-  missile_RAJ_ID_85_loc_key: "MRSAM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_86_loc_key: "LRSAM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_87_loc_key: "XRSAM" # todo: NEW TRANSLATION
-  missile_RAJ_ID_90_loc_key: "Akash-1S" # todo: NEW TRANSLATION
-  missile_RAJ_ID_91_loc_key: "Akash-1SX" # todo: NEW TRANSLATION
-  missile_RAJ_ID_92_loc_key: "Pradyumna" # todo: NEW TRANSLATION
-  missile_RAJ_ID_93_loc_key: "Pradyumna-150" # todo: NEW TRANSLATION
-  missile_RAJ_ID_94_loc_key: "Barak-8 AX" # todo: NEW TRANSLATION
-  missile_RAJ_ID_95_loc_key: "Barak-8 AXR" # todo: NEW TRANSLATION
-  missile_RAJ_ID_96_loc_key: "Ashwin" # todo: NEW TRANSLATION
-  missile_RAJ_ID_97_loc_key: "Ashwin-X" # todo: NEW TRANSLATION
-  missile_RAJ_ID_101_loc_key: "GSLV Mark 1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_102_loc_key: "GSLV Mark 2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_103_loc_key: "GSLV Mark 3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_104_loc_key: "SSLV" # todo: NEW TRANSLATION
-  missile_RAJ_ID_105_loc_key: "PSLV" # todo: NEW TRANSLATION
-  missile_RAJ_ID_106_loc_key: "ULV" # todo: NEW TRANSLATION
-  missile_RAJ_ID_107_loc_key: "Agnibaan" # todo: NEW TRANSLATION
-  missile_RAJ_ID_108_loc_key: "Chetak" # todo: NEW TRANSLATION
-  missile_RAJ_ID_111_loc_key: "IRNSS-1A" # todo: NEW TRANSLATION
-  missile_RAJ_ID_112_loc_key: "IRNSS-1B" # todo: NEW TRANSLATION
-  missile_RAJ_ID_113_loc_key: "IRNSS-1C" # todo: NEW TRANSLATION
-  missile_RAJ_ID_114_loc_key: "IRNSS1-D" # todo: NEW TRANSLATION
-  missile_RAJ_ID_115_loc_key: "IRNSS-1E" # todo: NEW TRANSLATION
-  missile_RAJ_ID_116_loc_key: "IRNSS1-F" # todo: NEW TRANSLATION
-  missile_RAJ_ID_117_loc_key: "IRNSS1-H" # todo: NEW TRANSLATION
-  missile_RAJ_ID_118_loc_key: "IRNSS1-I" # todo: NEW TRANSLATION
-  missile_RAJ_ID_121_loc_key: "INSAT-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_122_loc_key: "INSAT-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_123_loc_key: "INSAT-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_124_loc_key: "INSAT-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_125_loc_key: "HAMSAT" # todo: NEW TRANSLATION
-  missile_RAJ_ID_126_loc_key: "GSAT-6" # todo: NEW TRANSLATION
-  missile_RAJ_ID_127_loc_key: "GSAT-8" # todo: NEW TRANSLATION
-  missile_RAJ_ID_128_loc_key: "GSAT-10" # todo: NEW TRANSLATION
-  missile_RAJ_ID_131_loc_key: "RISAT-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_132_loc_key: "RISAT-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_133_loc_key: "RISAT-2B" # todo: NEW TRANSLATION
-  missile_RAJ_ID_134_loc_key: "RISAT-2BR1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_135_loc_key: "RISAT-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_136_loc_key: "RISAT-3A" # todo: NEW TRANSLATION
-  missile_RAJ_ID_137_loc_key: "RISAT-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_138_loc_key: "RISAT-4X" # todo: NEW TRANSLATION
-  missile_RAJ_ID_141_loc_key: "Astrosat MK-1" # todo: NEW TRANSLATION
-  missile_RAJ_ID_142_loc_key: "Astrosat MK-2" # todo: NEW TRANSLATION
-  missile_RAJ_ID_143_loc_key: "Astrosat MK-2A" # todo: NEW TRANSLATION
-  missile_RAJ_ID_144_loc_key: "Astrosat MK-3" # todo: NEW TRANSLATION
-  missile_RAJ_ID_145_loc_key: "Astrosat MK-4" # todo: NEW TRANSLATION
-  missile_RAJ_ID_146_loc_key: "Astrosat MK-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_11_loc_key: "Ghauri-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_12_loc_key: "Ababeel-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_13_loc_key: "Ababeel-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_14_loc_key: "Ababeel-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_15_loc_key: "Shaheen-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_16_loc_key: "Shaheen-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_17_loc_key: "Shaheen-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_18_loc_key: "Shaheen-X" # todo: NEW TRANSLATION
-  missile_PAK_ID_21_loc_key: "Ghauri" # todo: NEW TRANSLATION
-  missile_PAK_ID_22_loc_key: "Ghauri-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_23_loc_key: "Ababeel" # todo: NEW TRANSLATION
-  missile_PAK_ID_24_loc_key: "Ababeel-D" # todo: NEW TRANSLATION
-  missile_PAK_ID_25_loc_key: "Shaheen-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_26_loc_key: "Shaheen-2E" # todo: NEW TRANSLATION
-  missile_PAK_ID_27_loc_key: "Shaheen-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_28_loc_key: "Shaheen-3F" # todo: NEW TRANSLATION
-  missile_PAK_ID_31_loc_key: "Shaheen-S" # todo: NEW TRANSLATION
-  missile_PAK_ID_32_loc_key: "Shaheen-SX" # todo: NEW TRANSLATION
-  missile_PAK_ID_33_loc_key: "Shaheen-2S" # todo: NEW TRANSLATION
-  missile_PAK_ID_34_loc_key: "Shaheen-3SC" # todo: NEW TRANSLATION
-  missile_PAK_ID_35_loc_key: "Ababeel-S" # todo: NEW TRANSLATION
-  missile_PAK_ID_36_loc_key: "Ababeel-2S" # todo: NEW TRANSLATION
-  missile_PAK_ID_37_loc_key: "Ababeel-3S" # todo: NEW TRANSLATION
-  missile_PAK_ID_38_loc_key: "Ababeel-4S" # todo: NEW TRANSLATION
-  missile_PAK_ID_41_loc_key: "Ra'ad" # todo: NEW TRANSLATION
-  missile_PAK_ID_42_loc_key: "Ra'ad-A" # todo: NEW TRANSLATION
-  missile_PAK_ID_43_loc_key: "Ra'ad-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_44_loc_key: "Ra'ad-2F" # todo: NEW TRANSLATION
-  missile_PAK_ID_45_loc_key: "Ra'ad-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_46_loc_key: "Ra'ad-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_47_loc_key: "Ra'ad-4G" # todo: NEW TRANSLATION
-  missile_PAK_ID_48_loc_key: "Ra'ad-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_51_loc_key: "Babur-1" # todo: NEW TRANSLATION
-  missile_PAK_ID_52_loc_key: "Babur-1A" # todo: NEW TRANSLATION
-  missile_PAK_ID_53_loc_key: "Babur-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_54_loc_key: "Babur-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_55_loc_key: "Babur-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_56_loc_key: "Babur-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_57_loc_key: "Harbah" # todo: NEW TRANSLATION
-  missile_PAK_ID_58_loc_key: "Zarb" # todo: NEW TRANSLATION
-  missile_PAK_ID_61_loc_key: "Babur-1S" # todo: NEW TRANSLATION
-  missile_PAK_ID_62_loc_key: "Babur-1AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_63_loc_key: "Babur-2S" # todo: NEW TRANSLATION
-  missile_PAK_ID_64_loc_key: "Babur-3S" # todo: NEW TRANSLATION
-  missile_PAK_ID_65_loc_key: "Babur-4S" # todo: NEW TRANSLATION
-  missile_PAK_ID_66_loc_key: "Babur-5S" # todo: NEW TRANSLATION
-  missile_PAK_ID_67_loc_key: "Harbah-S" # todo: NEW TRANSLATION
-  missile_PAK_ID_68_loc_key: "Zarb-S" # todo: NEW TRANSLATION
-  missile_PAK_ID_71_loc_key: "Babur-Z" # todo: NEW TRANSLATION
-  missile_PAK_ID_72_loc_key: "Babur-X" # todo: NEW TRANSLATION
-  missile_PAK_ID_80_loc_key: "Nasr-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_81_loc_key: "Nasr-6-10" # todo: NEW TRANSLATION
-  missile_PAK_ID_82_loc_key: "Nasr-7" # todo: NEW TRANSLATION
-  missile_PAK_ID_83_loc_key: "Abdali-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_84_loc_key: "Abdali-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_85_loc_key: "Abdali-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_86_loc_key: "Nasr-8-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_87_loc_key: "Ghaznavi" # todo: NEW TRANSLATION
-  missile_PAK_ID_90_loc_key: "Shaheen-AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_91_loc_key: "Shaheen-2AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_92_loc_key: "Shaheen-3AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_93_loc_key: "Ababeel-AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_94_loc_key: "Ababeel-2AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_95_loc_key: "Ababeel-3AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_96_loc_key: "Shaheen-5AS" # todo: NEW TRANSLATION
-  missile_PAK_ID_97_loc_key: "Shaheen-XAS" # todo: NEW TRANSLATION
-  missile_PAK_ID_101_loc_key: "Shaheen-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_102_loc_key: "Shaheen-7" # todo: NEW TRANSLATION
-  missile_PAK_ID_103_loc_key: "Shaheen-8" # todo: NEW TRANSLATION
-  missile_PAK_ID_104_loc_key: "Shaheen-9" # todo: NEW TRANSLATION
-  missile_PAK_ID_105_loc_key: "Shaheen-X" # todo: NEW TRANSLATION
-  missile_PAK_ID_106_loc_key: "Ababeel-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_107_loc_key: "Ababeel-5-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_108_loc_key: "Ababeel-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_111_loc_key: "BeiDou-1A" # todo: NEW TRANSLATION
-  missile_PAK_ID_112_loc_key: "BeiDou-1B" # todo: NEW TRANSLATION
-  missile_PAK_ID_113_loc_key: "BeiDou-1C" # todo: NEW TRANSLATION
-  missile_PAK_ID_114_loc_key: "BeiDou-1D" # todo: NEW TRANSLATION
-  missile_PAK_ID_115_loc_key: "PSGPSS" # todo: NEW TRANSLATION
-  missile_PAK_ID_116_loc_key: "PSGPSS-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_117_loc_key: "PSGPSS-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_118_loc_key: "PSGPSS-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_121_loc_key: "Badr-1" # todo: NEW TRANSLATION
-  missile_PAK_ID_122_loc_key: "Badr-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_123_loc_key: "Badr-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_124_loc_key: "Badr-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_125_loc_key: "Badr-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_126_loc_key: "Badr-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_127_loc_key: "Badr-7" # todo: NEW TRANSLATION
-  missile_PAK_ID_128_loc_key: "Badr-8" # todo: NEW TRANSLATION
-  missile_PAK_ID_131_loc_key: "PRSS-1" # todo: NEW TRANSLATION
-  missile_PAK_ID_132_loc_key: "PRSS-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_133_loc_key: "PRSS-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_134_loc_key: "PRSS-4" # todo: NEW TRANSLATION
-  missile_PAK_ID_135_loc_key: "PRSS-5" # todo: NEW TRANSLATION
-  missile_PAK_ID_136_loc_key: "PRSS-6" # todo: NEW TRANSLATION
-  missile_PAK_ID_137_loc_key: "PRSS-7" # todo: NEW TRANSLATION
-  missile_PAK_ID_138_loc_key: "PRSS-8" # todo: NEW TRANSLATION
-  missile_PAK_ID_141_loc_key: "PASS-1" # todo: NEW TRANSLATION
-  missile_PAK_ID_142_loc_key: "PASS-2" # todo: NEW TRANSLATION
-  missile_PAK_ID_143_loc_key: "PASS-2C" # todo: NEW TRANSLATION
-  missile_PAK_ID_144_loc_key: "PASS-3" # todo: NEW TRANSLATION
-  missile_PAK_ID_145_loc_key: "PASS-3-1" # todo: NEW TRANSLATION
-  missile_PAK_ID_146_loc_key: "PASS-3-Z" # todo: NEW TRANSLATION
-  missile_NKO_ID_11_loc_key: "Hwasong 5 -  Scud-B" # todo: NEW TRANSLATION
-  missile_NKO_ID_12_loc_key: "Hwasong 5b - Advanced" # todo: NEW TRANSLATION
-  missile_NKO_ID_13_loc_key: "Hwasong 6 - Scud-C" # todo: NEW TRANSLATION
-  missile_NKO_ID_14_loc_key: "Hwasong 13 - KN-08/14" # todo: NEW TRANSLATION
-  missile_NKO_ID_15_loc_key: "Hwasong 14 - KN-20" # todo: NEW TRANSLATION
-  missile_NKO_ID_16_loc_key: "Hwasong 15 - KN-22" # todo: NEW TRANSLATION
-  missile_NKO_ID_17_loc_key: "Hwasong 16 - KN-24" # todo: NEW TRANSLATION
-  missile_NKO_ID_18_loc_key: "Hwasong 18 - KN-35" # todo: NEW TRANSLATION
-  missile_NKO_ID_21_loc_key: "Hwasong 7 - Nodong" # todo: NEW TRANSLATION
-  missile_NKO_ID_22_loc_key: "Hwasong 7 - Advanced" # todo: NEW TRANSLATION
-  missile_NKO_ID_23_loc_key: "Hwasong 8 - Nodong II" # todo: NEW TRANSLATION
-  missile_NKO_ID_24_loc_key: "Hwasong 9  - KN-04" # todo: NEW TRANSLATION
-  missile_NKO_ID_25_loc_key: "Hwasong 10 - Musudan" # todo: NEW TRANSLATION
-  missile_NKO_ID_26_loc_key: "Hwasong 12 - KN-17" # todo: NEW TRANSLATION
-  missile_NKO_ID_27_loc_key: "Hwasong 12 - Advanced" # todo: NEW TRANSLATION
-  missile_NKO_ID_28_loc_key: "Hwasong 17 - KN-25" # todo: NEW TRANSLATION
-  missile_NKO_ID_31_loc_key: "R-29RK Stingray II" # todo: NEW TRANSLATION
-  missile_NKO_ID_32_loc_key: "R-29RL Stingray III " # todo: NEW TRANSLATION
-  missile_NKO_ID_33_loc_key: "Pukkuksong 1 - KN-11" # todo: NEW TRANSLATION
-  missile_NKO_ID_34_loc_key: "Pukkuksong 2 - KN-15" # todo: NEW TRANSLATION
-  missile_NKO_ID_35_loc_key: "Pukkuksong 3 - KN-28" # todo: NEW TRANSLATION
-  missile_NKO_ID_36_loc_key: "Pukkuksong 3b - KN-28 Advanced" # todo: NEW TRANSLATION
-  missile_NKO_ID_37_loc_key: "Pukkuksong 4 - KN-38" # todo: NEW TRANSLATION
-  missile_NKO_ID_38_loc_key: "Pukkuksong 5 - KN-42" # todo: NEW TRANSLATION
-  missile_NKO_ID_41_loc_key: "Kh-20 Raduga" # todo: NEW TRANSLATION
-  missile_NKO_ID_42_loc_key: "Kh-55 Kent" # todo: NEW TRANSLATION
-  missile_NKO_ID_43_loc_key: "Kh-59 Ovod" # todo: NEW TRANSLATION
-  missile_NKO_ID_44_loc_key: "Kumsong 2 - Air Variant" # todo: NEW TRANSLATION
-  missile_NKO_ID_45_loc_key: "Kumsong 3 - Air Variant v2" # todo: NEW TRANSLATION
-  missile_NKO_ID_46_loc_key: "Kumsong 4 - Air Variant v3" # todo: NEW TRANSLATION
-  missile_NKO_ID_47_loc_key: "Kumsong 5 - Air Variant v4" # todo: NEW TRANSLATION
-  missile_NKO_ID_48_loc_key: "Kumsong 6 - Air Variant v5" # todo: NEW TRANSLATION
-  missile_NKO_ID_51_loc_key: "P-15 Termit" # todo: NEW TRANSLATION
-  missile_NKO_ID_52_loc_key: "RK-55 Relief" # todo: NEW TRANSLATION
-  missile_NKO_ID_53_loc_key: "Kh-35 Zvezda" # todo: NEW TRANSLATION
-  missile_NKO_ID_54_loc_key: "Kumsong 2 - KN-00" # todo: NEW TRANSLATION
-  missile_NKO_ID_55_loc_key: "Kumsong 3 - KN-01" # todo: NEW TRANSLATION
-  missile_NKO_ID_56_loc_key: "Kumsong 4 - KN-02" # todo: NEW TRANSLATION
-  missile_NKO_ID_57_loc_key: "Kumsong 5 - KN-03" # todo: NEW TRANSLATION
-  missile_NKO_ID_58_loc_key: "Kumsong 6 - KN-04" # todo: NEW TRANSLATION
-  missile_NKO_ID_61_loc_key: "P-5 Pyatyorka" # todo: NEW TRANSLATION
-  missile_NKO_ID_62_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_NKO_ID_63_loc_key: "P-500 Bazalt" # todo: NEW TRANSLATION
-  missile_NKO_ID_64_loc_key: "P-700 Granit" # todo: NEW TRANSLATION
-  missile_NKO_ID_65_loc_key: "P-800 Oniks" # todo: NEW TRANSLATION
-  missile_NKO_ID_66_loc_key: "Kumsong 4" # todo: NEW TRANSLATION
-  missile_NKO_ID_67_loc_key: "Kumsong 5" # todo: NEW TRANSLATION
-  missile_NKO_ID_68_loc_key: "Kumsong 6" # todo: NEW TRANSLATION
-  missile_NKO_ID_71_loc_key: "Jincheng 1 " # todo: NEW TRANSLATION
-  missile_NKO_ID_72_loc_key: "Jincheng 2" # todo: NEW TRANSLATION
-  missile_NKO_ID_80_loc_key: " S-75 Dvina / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_NKO_ID_81_loc_key: "S-200" # todo: NEW TRANSLATION
-  missile_NKO_ID_82_loc_key: "S-300P / S-300F" # todo: NEW TRANSLATION
-  missile_NKO_ID_83_loc_key: "S-300PM / S-300FM" # todo: NEW TRANSLATION
-  missile_NKO_ID_84_loc_key: "KN-06" # todo: NEW TRANSLATION
-  missile_NKO_ID_85_loc_key: "KN-06 v2" # todo: NEW TRANSLATION
-  missile_NKO_ID_86_loc_key: "KN-08" # todo: NEW TRANSLATION
-  missile_NKO_ID_87_loc_key: "KN-08 v2" # todo: NEW TRANSLATION
-  missile_NKO_ID_90_loc_key: "A-35 (ABM-1 Galosh)" # todo: NEW TRANSLATION
-  missile_NKO_ID_91_loc_key: "A-135 (ABM-3 Gazelle)" # todo: NEW TRANSLATION
-  missile_NKO_ID_92_loc_key: "A-135 (ABM-4 Gorgon)" # todo: NEW TRANSLATION
-  missile_NKO_ID_93_loc_key: "S-300PMU-1 (SA-20A Gargoyle)" # todo: NEW TRANSLATION
-  missile_NKO_ID_94_loc_key: "S-300PMU-2 (SA-20B Gargoyle)" # todo: NEW TRANSLATION
-  missile_NKO_ID_95_loc_key: "S-400 (SA-21 Growler)" # todo: NEW TRANSLATION
-  missile_NKO_ID_96_loc_key: "A-235A" # todo: NEW TRANSLATION
-  missile_NKO_ID_97_loc_key: "A-235B" # todo: NEW TRANSLATION
-  missile_NKO_ID_101_loc_key: "Vostock" # todo: NEW TRANSLATION
-  missile_NKO_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
-  missile_NKO_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
-  missile_NKO_ID_104_loc_key: "Unha-1" # todo: NEW TRANSLATION
-  missile_NKO_ID_105_loc_key: "Unha-2" # todo: NEW TRANSLATION
-  missile_NKO_ID_106_loc_key: "Unha-3" # todo: NEW TRANSLATION
-  missile_NKO_ID_107_loc_key: "Unha-4" # todo: NEW TRANSLATION
-  missile_NKO_ID_108_loc_key: "Unha-5" # todo: NEW TRANSLATION
-  missile_NKO_ID_111_loc_key: "GNSS 1965" # todo: NEW TRANSLATION
-  missile_NKO_ID_112_loc_key: "GNSS 1975" # todo: NEW TRANSLATION
-  missile_NKO_ID_113_loc_key: "GNSS 1985" # todo: NEW TRANSLATION
-  missile_NKO_ID_114_loc_key: "GNSS 1995" # todo: NEW TRANSLATION
-  missile_NKO_ID_115_loc_key: "GNSS 2005" # todo: NEW TRANSLATION
-  missile_NKO_ID_116_loc_key: "GNSS 2015" # todo: NEW TRANSLATION
-  missile_NKO_ID_117_loc_key: "GNSS 2025" # todo: NEW TRANSLATION
-  missile_NKO_ID_118_loc_key: "GNSS 2035" # todo: NEW TRANSLATION
-  missile_NKO_ID_121_loc_key: "Kwangmyongsong-1" # todo: NEW TRANSLATION
-  missile_NKO_ID_122_loc_key: "Kwangmyongsong-2" # todo: NEW TRANSLATION
-  missile_NKO_ID_123_loc_key: "Kwangmyongsong-3" # todo: NEW TRANSLATION
-  missile_NKO_ID_124_loc_key: "Kwangmyongsong-4" # todo: NEW TRANSLATION
-  missile_NKO_ID_125_loc_key: "Kwangmyongsong-5" # todo: NEW TRANSLATION
-  missile_NKO_ID_126_loc_key: "Kwangmyongsong-6" # todo: NEW TRANSLATION
-  missile_NKO_ID_127_loc_key: "Kwangmyongsong-7" # todo: NEW TRANSLATION
-  missile_NKO_ID_128_loc_key: "Kwangmyongsong-8" # todo: NEW TRANSLATION
-  missile_NKO_ID_131_loc_key: "SPYSAT 1965" # todo: NEW TRANSLATION
-  missile_NKO_ID_132_loc_key: "SPYSAT 1975" # todo: NEW TRANSLATION
-  missile_NKO_ID_133_loc_key: "SPYSAT 1985" # todo: NEW TRANSLATION
-  missile_NKO_ID_134_loc_key: "SPYSAT 1995" # todo: NEW TRANSLATION
-  missile_NKO_ID_135_loc_key: "SPYSAT 2005" # todo: NEW TRANSLATION
-  missile_NKO_ID_136_loc_key: "SPYSAT 2015" # todo: NEW TRANSLATION
-  missile_NKO_ID_137_loc_key: "SPYSAT 2025" # todo: NEW TRANSLATION
-  missile_NKO_ID_138_loc_key: "SPYSAT 2035" # todo: NEW TRANSLATION
-  missile_NKO_ID_141_loc_key: "KILLSAT 1985" # todo: NEW TRANSLATION
-  missile_NKO_ID_142_loc_key: "KILLSAT 1995" # todo: NEW TRANSLATION
-  missile_NKO_ID_143_loc_key: "KILLSAT 2005" # todo: NEW TRANSLATION
-  missile_NKO_ID_144_loc_key: "KILLSAT 2015" # todo: NEW TRANSLATION
-  missile_NKO_ID_145_loc_key: "KILLSAT 2025" # todo: NEW TRANSLATION
-  missile_NKO_ID_146_loc_key: "KILLSAT 2035" # todo: NEW TRANSLATION
-  missile_PER_ID_11_loc_key: "Shahab-5" # todo: NEW TRANSLATION
-  missile_PER_ID_12_loc_key: "Shahab-6" # todo: NEW TRANSLATION
-  missile_PER_ID_13_loc_key: "Shahab-7" # todo: NEW TRANSLATION
-  missile_PER_ID_14_loc_key: "Shabab-8" # todo: NEW TRANSLATION
-  missile_PER_ID_15_loc_key: "Zorvan " # todo: NEW TRANSLATION
-  missile_PER_ID_16_loc_key: "Vayu" # todo: NEW TRANSLATION
-  missile_PER_ID_17_loc_key: "Mithara " # todo: NEW TRANSLATION
-  missile_PER_ID_18_loc_key: "Ahura Mazda" # todo: NEW TRANSLATION
-  missile_PER_ID_21_loc_key: "Shiraz-1" # todo: NEW TRANSLATION
-  missile_PER_ID_22_loc_key: "Shiraz-3" # todo: NEW TRANSLATION
-  missile_PER_ID_23_loc_key: "Shiraz-6" # todo: NEW TRANSLATION
-  missile_PER_ID_24_loc_key: "Shahab-3" # todo: NEW TRANSLATION
-  missile_PER_ID_25_loc_key: "Ghadr-1" # todo: NEW TRANSLATION
-  missile_PER_ID_26_loc_key: "Khorramshahr-1" # todo: NEW TRANSLATION
-  missile_PER_ID_27_loc_key: "Khorramshahr-3" # todo: NEW TRANSLATION
-  missile_PER_ID_28_loc_key: "Khorramshahr-5" # todo: NEW TRANSLATION
-  missile_PER_ID_31_loc_key: "Ahurani-1" # todo: NEW TRANSLATION
-  missile_PER_ID_32_loc_key: "Ahurani-2" # todo: NEW TRANSLATION
-  missile_PER_ID_33_loc_key: "Ahurani-3" # todo: NEW TRANSLATION
-  missile_PER_ID_34_loc_key: "Nanshe-1" # todo: NEW TRANSLATION
-  missile_PER_ID_35_loc_key: "Nanshe-2" # todo: NEW TRANSLATION
-  missile_PER_ID_36_loc_key: "Nanshe-3" # todo: NEW TRANSLATION
-  missile_PER_ID_37_loc_key: "Nanshe-4" # todo: NEW TRANSLATION
-  missile_PER_ID_38_loc_key: "Nanshe-5" # todo: NEW TRANSLATION
-  missile_PER_ID_41_loc_key: "Soumar-1" # todo: NEW TRANSLATION
-  missile_PER_ID_42_loc_key: "Soumar-3" # todo: NEW TRANSLATION
-  missile_PER_ID_43_loc_key: "Soumar-5" # todo: NEW TRANSLATION
-  missile_PER_ID_44_loc_key: "Ya-Ali" # todo: NEW TRANSLATION
-  missile_PER_ID_45_loc_key: "Ya-Ali C" # todo: NEW TRANSLATION
-  missile_PER_ID_46_loc_key: "Meshkat-20" # todo: NEW TRANSLATION
-  missile_PER_ID_47_loc_key: "Meshkat-120" # todo: NEW TRANSLATION
-  missile_PER_ID_48_loc_key: "Meshkat-220" # todo: NEW TRANSLATION
-  missile_PER_ID_51_loc_key: "Nazeat" # todo: NEW TRANSLATION
-  missile_PER_ID_52_loc_key: "Tondar-69" # todo: NEW TRANSLATION
-  missile_PER_ID_53_loc_key: "Zolfangar" # todo: NEW TRANSLATION
-  missile_PER_ID_54_loc_key: "Zolfangal-Ali" # todo: NEW TRANSLATION
-  missile_PER_ID_55_loc_key: "Zelzal-1" # todo: NEW TRANSLATION
-  missile_PER_ID_56_loc_key: "Zelzal-1A" # todo: NEW TRANSLATION
-  missile_PER_ID_57_loc_key: "Zelzal-2" # todo: NEW TRANSLATION
-  missile_PER_ID_58_loc_key: "Zelzal-3" # todo: NEW TRANSLATION
-  missile_PER_ID_61_loc_key: "Jask-1" # todo: NEW TRANSLATION
-  missile_PER_ID_62_loc_key: "Jask-10" # todo: NEW TRANSLATION
-  missile_PER_ID_63_loc_key: "Jask-2" # todo: NEW TRANSLATION
-  missile_PER_ID_64_loc_key: "Jask-2B" # todo: NEW TRANSLATION
-  missile_PER_ID_65_loc_key: "Jask-3" # todo: NEW TRANSLATION
-  missile_PER_ID_66_loc_key: "Jask-4" # todo: NEW TRANSLATION
-  missile_PER_ID_67_loc_key: "Jask-40" # todo: NEW TRANSLATION
-  missile_PER_ID_68_loc_key: "Jask-50" # todo: NEW TRANSLATION
-  missile_PER_ID_71_loc_key: "Abu Mahdi-1" # todo: NEW TRANSLATION
-  missile_PER_ID_72_loc_key: "Abu Mahdi-1C" # todo: NEW TRANSLATION
-  missile_PER_ID_80_loc_key: "Shalamche" # todo: NEW TRANSLATION
-  missile_PER_ID_81_loc_key: "Sayyad-1" # todo: NEW TRANSLATION
-  missile_PER_ID_82_loc_key: "Sayyad-2" # todo: NEW TRANSLATION
-  missile_PER_ID_83_loc_key: "Sayyad-3" # todo: NEW TRANSLATION
-  missile_PER_ID_84_loc_key: "Taer-1" # todo: NEW TRANSLATION
-  missile_PER_ID_85_loc_key: "Taer-2" # todo: NEW TRANSLATION
-  missile_PER_ID_86_loc_key: "Shabab Thaqeb" # todo: NEW TRANSLATION
-  missile_PER_ID_87_loc_key: "Kamin" # todo: NEW TRANSLATION
-  missile_PER_ID_90_loc_key: "Fateh-1" # todo: NEW TRANSLATION
-  missile_PER_ID_91_loc_key: "Fateh-13" # todo: NEW TRANSLATION
-  missile_PER_ID_92_loc_key: "Fateh-48" # todo: NEW TRANSLATION
-  missile_PER_ID_93_loc_key: "Fateh-90" # todo: NEW TRANSLATION
-  missile_PER_ID_94_loc_key: "Fateh-160" # todo: NEW TRANSLATION
-  missile_PER_ID_95_loc_key: "Fateh-330" # todo: NEW TRANSLATION
-  missile_PER_ID_96_loc_key: "Fateh-720" # todo: NEW TRANSLATION
-  missile_PER_ID_97_loc_key: "Fateh-1000" # todo: NEW TRANSLATION
-  missile_PER_ID_101_loc_key: "Safir" # todo: NEW TRANSLATION
-  missile_PER_ID_102_loc_key: "Safir-m" # todo: NEW TRANSLATION
-  missile_PER_ID_103_loc_key: "Simorgh" # todo: NEW TRANSLATION
-  missile_PER_ID_104_loc_key: "Simorgh-1A" # todo: NEW TRANSLATION
-  missile_PER_ID_105_loc_key: "Qased" # todo: NEW TRANSLATION
-  missile_PER_ID_106_loc_key: "Qased D" # todo: NEW TRANSLATION
-  missile_PER_ID_107_loc_key: "Zuljanah-1" # todo: NEW TRANSLATION
-  missile_PER_ID_108_loc_key: "Zuljanah-2" # todo: NEW TRANSLATION
-  missile_PER_ID_111_loc_key: "SMJ-10" # todo: NEW TRANSLATION
-  missile_PER_ID_112_loc_key: "SMJ-20" # todo: NEW TRANSLATION
-  missile_PER_ID_113_loc_key: "SMJ-30" # todo: NEW TRANSLATION
-  missile_PER_ID_114_loc_key: "SMJ-40" # todo: NEW TRANSLATION
-  missile_PER_ID_115_loc_key: "Omid" # todo: NEW TRANSLATION
-  missile_PER_ID_116_loc_key: "Zafar-2" # todo: NEW TRANSLATION
-  missile_PER_ID_117_loc_key: "Zafar-5" # todo: NEW TRANSLATION
-  missile_PER_ID_118_loc_key: "Zafar-7" # todo: NEW TRANSLATION
-  missile_PER_ID_121_loc_key: "Peyg-1" # todo: NEW TRANSLATION
-  missile_PER_ID_122_loc_key: "Peyg-2" # todo: NEW TRANSLATION
-  missile_PER_ID_123_loc_key: "Peyg-3" # todo: NEW TRANSLATION
-  missile_PER_ID_124_loc_key: "Peyg-4" # todo: NEW TRANSLATION
-  missile_PER_ID_125_loc_key: "Noor" # todo: NEW TRANSLATION
-  missile_PER_ID_126_loc_key: "Noor-3" # todo: NEW TRANSLATION
-  missile_PER_ID_127_loc_key: "Hekmat" # todo: NEW TRANSLATION
-  missile_PER_ID_128_loc_key: "Hekmat-70" # todo: NEW TRANSLATION
-  missile_PER_ID_131_loc_key: "AU-1 " # todo: NEW TRANSLATION
-  missile_PER_ID_132_loc_key: "AU-3B" # todo: NEW TRANSLATION
-  missile_PER_ID_133_loc_key: "AU-3C" # todo: NEW TRANSLATION
-  missile_PER_ID_134_loc_key: "KC-1" # todo: NEW TRANSLATION
-  missile_PER_ID_135_loc_key: "KC-2B" # todo: NEW TRANSLATION
-  missile_PER_ID_136_loc_key: "KC-30" # todo: NEW TRANSLATION
-  missile_PER_ID_137_loc_key: "KC-35C" # todo: NEW TRANSLATION
-  missile_PER_ID_138_loc_key: "KC-40" # todo: NEW TRANSLATION
-  missile_PER_ID_141_loc_key: "Fareste-1" # todo: NEW TRANSLATION
-  missile_PER_ID_142_loc_key: "Fareste-2D" # todo: NEW TRANSLATION
-  missile_PER_ID_143_loc_key: "Fareste-3" # todo: NEW TRANSLATION
-  missile_PER_ID_144_loc_key: "Fareste-4" # todo: NEW TRANSLATION
-  missile_PER_ID_145_loc_key: "Fareste-5B" # todo: NEW TRANSLATION
-  missile_PER_ID_146_loc_key: "Fareste-6D" # todo: NEW TRANSLATION
-  missile_UKR_ID_11_loc_key: "R-36 Scarp" # todo: NEW TRANSLATION
-  missile_UKR_ID_12_loc_key: "R-36M Satan" # todo: NEW TRANSLATION
-  missile_UKR_ID_13_loc_key: "R-36M2 Voevoda" # todo: NEW TRANSLATION
-  missile_UKR_ID_14_loc_key: "RT-2PM Topol" # todo: NEW TRANSLATION
-  missile_UKR_ID_15_loc_key: "RT-2PM2 Topol-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_16_loc_key: "RS-24 Vars-S" # todo: NEW TRANSLATION
-  missile_UKR_ID_17_loc_key: "RS-28 Sarmat" # todo: NEW TRANSLATION
-  missile_UKR_ID_18_loc_key: "RS-28M Sarmat-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_21_loc_key: "R-14 Chusovaya" # todo: NEW TRANSLATION
-  missile_UKR_ID_22_loc_key: "RSD-10 Pioneer" # todo: NEW TRANSLATION
-  missile_UKR_ID_23_loc_key: "R-14M Kosmos" # todo: NEW TRANSLATION
-  missile_UKR_ID_24_loc_key: "R-14M2 Kapustin" # todo: NEW TRANSLATION
-  missile_UKR_ID_25_loc_key: "RSD-20 Khruschev" # todo: NEW TRANSLATION
-  missile_UKR_ID_26_loc_key: "RSD-20M Yuzhmash" # todo: NEW TRANSLATION
-  missile_UKR_ID_27_loc_key: "RSD-30 Yeltsin" # todo: NEW TRANSLATION
-  missile_UKR_ID_28_loc_key: "RSD-30M Tyuratam" # todo: NEW TRANSLATION
-  missile_UKR_ID_31_loc_key: "R-29R Stingray" # todo: NEW TRANSLATION
-  missile_UKR_ID_32_loc_key: "R-29RK Stingray II" # todo: NEW TRANSLATION
-  missile_UKR_ID_33_loc_key: "R-29RL Stingray III" # todo: NEW TRANSLATION
-  missile_UKR_ID_34_loc_key: "R-29RM Skiff" # todo: NEW TRANSLATION
-  missile_UKR_ID_35_loc_key: "R-29RMU Sineva" # todo: NEW TRANSLATION
-  missile_UKR_ID_36_loc_key: "R-29RMU2 Liner" # todo: NEW TRANSLATION
-  missile_UKR_ID_37_loc_key: "RSM-56 Bulava" # todo: NEW TRANSLATION
-  missile_UKR_ID_38_loc_key: "RSM-66 Bulava II" # todo: NEW TRANSLATION
-  missile_UKR_ID_41_loc_key: "Kh-20 Raduga" # todo: NEW TRANSLATION
-  missile_UKR_ID_42_loc_key: "Kh-55 Kent" # todo: NEW TRANSLATION
-  missile_UKR_ID_43_loc_key: "Kh-59 Ovod" # todo: NEW TRANSLATION
-  missile_UKR_ID_44_loc_key: "Kh-32 X" # todo: NEW TRANSLATION
-  missile_UKR_ID_45_loc_key: "PJ-10 BrahMos" # todo: NEW TRANSLATION
-  missile_UKR_ID_46_loc_key: "Kh-47M2 Kinzhal" # todo: NEW TRANSLATION
-  missile_UKR_ID_47_loc_key: "PJ-20 BrahMos II" # todo: NEW TRANSLATION
-  missile_UKR_ID_48_loc_key: "Kh-48 Kinzhal II" # todo: NEW TRANSLATION
-  missile_UKR_ID_51_loc_key: "P-15 Termit" # todo: NEW TRANSLATION
-  missile_UKR_ID_52_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_UKR_ID_53_loc_key: "Kh-35 Zvezda" # todo: NEW TRANSLATION
-  missile_UKR_ID_54_loc_key: "9M720 Iskander-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_55_loc_key: "9M728 Iskander-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_56_loc_key: "9M729 Iskander-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_57_loc_key: "Kh-90 Gela" # todo: NEW TRANSLATION
-  missile_UKR_ID_58_loc_key: "3M32 Zircon-R" # todo: NEW TRANSLATION
-  missile_UKR_ID_61_loc_key: "P-5 Pyatyorka" # todo: NEW TRANSLATION
-  missile_UKR_ID_62_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_UKR_ID_63_loc_key: "P-500 Bazalt" # todo: NEW TRANSLATION
-  missile_UKR_ID_64_loc_key: "P-700 Granit" # todo: NEW TRANSLATION
-  missile_UKR_ID_65_loc_key: "P-800 Oniks" # todo: NEW TRANSLATION
-  missile_UKR_ID_66_loc_key: "3M22 Zircon" # todo: NEW TRANSLATION
-  missile_UKR_ID_67_loc_key: "3M51 Alfa" # todo: NEW TRANSLATION
-  missile_UKR_ID_68_loc_key: "3M-54M2 Kalibr-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_71_loc_key: "Kh-65SE Slingshot" # todo: NEW TRANSLATION
-  missile_UKR_ID_72_loc_key: "Kh-85SE Topaz" # todo: NEW TRANSLATION
-  missile_UKR_ID_80_loc_key: "S-75 Dvina / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_81_loc_key: "S-200 / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_82_loc_key: "S-300P / S-300F" # todo: NEW TRANSLATION
-  missile_UKR_ID_83_loc_key: "S-300PM / S-300FM" # todo: NEW TRANSLATION
-  missile_UKR_ID_84_loc_key: "S-300PMU-2 / S-300FM-2" # todo: NEW TRANSLATION
-  missile_UKR_ID_85_loc_key: "S-400 / 48N6DMK" # todo: NEW TRANSLATION
-  missile_UKR_ID_86_loc_key: "S-500" # todo: NEW TRANSLATION
-  missile_UKR_ID_87_loc_key: "S-600" # todo: NEW TRANSLATION
-  missile_UKR_ID_90_loc_key: "A-35 (ABM-1 Galosh)" # todo: NEW TRANSLATION
-  missile_UKR_ID_91_loc_key: "A-135 (ABM-3 Gazelle)" # todo: NEW TRANSLATION
-  missile_UKR_ID_92_loc_key: "A-135 (ABM-4 Gorgon)" # todo: NEW TRANSLATION
-  missile_UKR_ID_93_loc_key: "S-300PMU-1 (SA-20A Gargoyle)" # todo: NEW TRANSLATION
-  missile_UKR_ID_94_loc_key: "S-300PMU-2 (SA-20B Gargoyle)" # todo: NEW TRANSLATION
-  missile_UKR_ID_95_loc_key: "S-400 (SA-21 Growler)" # todo: NEW TRANSLATION
-  missile_UKR_ID_96_loc_key: "A-235A" # todo: NEW TRANSLATION
-  missile_UKR_ID_97_loc_key: "A-235B" # todo: NEW TRANSLATION
-  missile_UKR_ID_101_loc_key: "Vostok" # todo: NEW TRANSLATION
-  missile_UKR_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
-  missile_UKR_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_104_loc_key: "N-1" # todo: NEW TRANSLATION
-  missile_UKR_ID_105_loc_key: "Proton-K BlockDM" # todo: NEW TRANSLATION
-  missile_UKR_ID_106_loc_key: "Zenit-2" # todo: NEW TRANSLATION
-  missile_UKR_ID_107_loc_key: "Soyuz-Fregat" # todo: NEW TRANSLATION
-  missile_UKR_ID_108_loc_key: "Angara 1.2-PP" # todo: NEW TRANSLATION
-  missile_UKR_ID_111_loc_key: "GLONASS Block I" # todo: NEW TRANSLATION
-  missile_UKR_ID_112_loc_key: "GLONASS Block IIa" # todo: NEW TRANSLATION
-  missile_UKR_ID_113_loc_key: "GLONASS Block IIv" # todo: NEW TRANSLATION
-  missile_UKR_ID_114_loc_key: "GLONASS-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_115_loc_key: "GLONASS-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_116_loc_key: "GLONASS-K2" # todo: NEW TRANSLATION
-  missile_UKR_ID_117_loc_key: "GLONASS-V" # todo: NEW TRANSLATION
-  missile_UKR_ID_118_loc_key: "GLONASS-KM" # todo: NEW TRANSLATION
-  missile_UKR_ID_121_loc_key: "Intersputnik" # todo: NEW TRANSLATION
-  missile_UKR_ID_122_loc_key: "Gorizont" # todo: NEW TRANSLATION
-  missile_UKR_ID_123_loc_key: "Ekspress" # todo: NEW TRANSLATION
-  missile_UKR_ID_124_loc_key: "Yamal" # todo: NEW TRANSLATION
-  missile_UKR_ID_125_loc_key: "Meridian" # todo: NEW TRANSLATION
-  missile_UKR_ID_126_loc_key: "Meridian-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_127_loc_key: "Meridian-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_128_loc_key: "Meridian-V" # todo: NEW TRANSLATION
-  missile_UKR_ID_131_loc_key: "US-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_132_loc_key: "US-KS" # todo: NEW TRANSLATION
-  missile_UKR_ID_133_loc_key: "US-KMO" # todo: NEW TRANSLATION
-  missile_UKR_ID_134_loc_key: "Yantar" # todo: NEW TRANSLATION
-  missile_UKR_ID_135_loc_key: "EKS Kupol" # todo: NEW TRANSLATION
-  missile_UKR_ID_136_loc_key: "EKS Kupol-M" # todo: NEW TRANSLATION
-  missile_UKR_ID_137_loc_key: "EKS Kupol-K" # todo: NEW TRANSLATION
-  missile_UKR_ID_138_loc_key: "EKS Kupol-V" # todo: NEW TRANSLATION
-  missile_UKR_ID_141_loc_key: "Olymp-K1" # todo: NEW TRANSLATION
-  missile_UKR_ID_142_loc_key: "Olymp-K2" # todo: NEW TRANSLATION
-  missile_UKR_ID_143_loc_key: "Olymp-K3" # todo: NEW TRANSLATION
-  missile_UKR_ID_144_loc_key: "Olymp-K4" # todo: NEW TRANSLATION
-  missile_UKR_ID_145_loc_key: "Olymp-K5" # todo: NEW TRANSLATION
-  missile_UKR_ID_146_loc_key: "Olymp-K6" # todo: NEW TRANSLATION
-  missile_UZB_ID_11_loc_key: "R-36 Scarp" # todo: NEW TRANSLATION
-  missile_UZB_ID_12_loc_key: "R-36M Satan" # todo: NEW TRANSLATION
-  missile_UZB_ID_13_loc_key: "R-36M2 Voevoda" # todo: NEW TRANSLATION
-  missile_UZB_ID_14_loc_key: "RT-2PM Topol" # todo: NEW TRANSLATION
-  missile_UZB_ID_15_loc_key: "RT-2PM2 Topol-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_16_loc_key: "RS-24 Vars-S" # todo: NEW TRANSLATION
-  missile_UZB_ID_17_loc_key: "RS-28 Sarmat" # todo: NEW TRANSLATION
-  missile_UZB_ID_18_loc_key: "RS-28M Sarmat-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_21_loc_key: "R-14 Chusovaya" # todo: NEW TRANSLATION
-  missile_UZB_ID_22_loc_key: "RSD-10 Pioneer" # todo: NEW TRANSLATION
-  missile_UZB_ID_23_loc_key: "R-14M Kosmos" # todo: NEW TRANSLATION
-  missile_UZB_ID_24_loc_key: "R-14M2 Kapustin" # todo: NEW TRANSLATION
-  missile_UZB_ID_25_loc_key: "RSD-20 Khruschev" # todo: NEW TRANSLATION
-  missile_UZB_ID_26_loc_key: "RSD-20M Yuzhmash" # todo: NEW TRANSLATION
-  missile_UZB_ID_27_loc_key: "RSD-30 Yeltsin" # todo: NEW TRANSLATION
-  missile_UZB_ID_28_loc_key: "RSD-30M Tyuratam" # todo: NEW TRANSLATION
-  missile_UZB_ID_31_loc_key: "R-29R Stingray" # todo: NEW TRANSLATION
-  missile_UZB_ID_32_loc_key: "R-29RK Stingray II" # todo: NEW TRANSLATION
-  missile_UZB_ID_33_loc_key: "R-29RL Stingray III" # todo: NEW TRANSLATION
-  missile_UZB_ID_34_loc_key: "R-29RM Skiff" # todo: NEW TRANSLATION
-  missile_UZB_ID_35_loc_key: "R-29RMU Sineva" # todo: NEW TRANSLATION
-  missile_UZB_ID_36_loc_key: "R-29RMU2 Liner" # todo: NEW TRANSLATION
-  missile_UZB_ID_37_loc_key: "RSM-56 Bulava" # todo: NEW TRANSLATION
-  missile_UZB_ID_38_loc_key: "RSM-66 Bulava II" # todo: NEW TRANSLATION
-  missile_UZB_ID_41_loc_key: "Kh-20 Raduga" # todo: NEW TRANSLATION
-  missile_UZB_ID_42_loc_key: "Kh-55 Kent" # todo: NEW TRANSLATION
-  missile_UZB_ID_43_loc_key: "Kh-59 Ovod" # todo: NEW TRANSLATION
-  missile_UZB_ID_44_loc_key: "Kh-32 X" # todo: NEW TRANSLATION
-  missile_UZB_ID_45_loc_key: "PJ-10 BrahMos" # todo: NEW TRANSLATION
-  missile_UZB_ID_46_loc_key: "Kh-47M2 Kinzhal" # todo: NEW TRANSLATION
-  missile_UZB_ID_47_loc_key: "PJ-20 BrahMos II" # todo: NEW TRANSLATION
-  missile_UZB_ID_48_loc_key: "Kh-48 Kinzhal II" # todo: NEW TRANSLATION
-  missile_UZB_ID_51_loc_key: "P-15 Termit" # todo: NEW TRANSLATION
-  missile_UZB_ID_52_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_UZB_ID_53_loc_key: "Kh-35 Zvezda" # todo: NEW TRANSLATION
-  missile_UZB_ID_54_loc_key: "9M720 Iskander-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_55_loc_key: "9M728 Iskander-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_56_loc_key: "9M729 Iskander-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_57_loc_key: "Kh-90 Gela" # todo: NEW TRANSLATION
-  missile_UZB_ID_58_loc_key: "3M32 Zircon-R" # todo: NEW TRANSLATION
-  missile_UZB_ID_61_loc_key: "P-5 Pyatyorka" # todo: NEW TRANSLATION
-  missile_UZB_ID_62_loc_key: "Rk-55 Relief" # todo: NEW TRANSLATION
-  missile_UZB_ID_63_loc_key: "P-500 Bazalt" # todo: NEW TRANSLATION
-  missile_UZB_ID_64_loc_key: "P-700 Granit" # todo: NEW TRANSLATION
-  missile_UZB_ID_65_loc_key: "P-800 Oniks" # todo: NEW TRANSLATION
-  missile_UZB_ID_66_loc_key: "3M22 Zircon" # todo: NEW TRANSLATION
-  missile_UZB_ID_67_loc_key: "3M51 Alfa" # todo: NEW TRANSLATION
-  missile_UZB_ID_68_loc_key: "3M-54M2 Kalibr-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_71_loc_key: "Kh-65SE Slingshot" # todo: NEW TRANSLATION
-  missile_UZB_ID_72_loc_key: "Kh-85SE Topaz" # todo: NEW TRANSLATION
-  missile_UZB_ID_80_loc_key: "S-75 Dvina / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_81_loc_key: "S-200 / S-75M-2 Volkhov-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_82_loc_key: "S-300P / S-300F" # todo: NEW TRANSLATION
-  missile_UZB_ID_83_loc_key: "S-300PM / S-300FM" # todo: NEW TRANSLATION
-  missile_UZB_ID_84_loc_key: "S-300PMU-2 / S-300FM-2" # todo: NEW TRANSLATION
-  missile_UZB_ID_85_loc_key: "S-400 / 48N6DMK" # todo: NEW TRANSLATION
-  missile_UZB_ID_86_loc_key: "S-500" # todo: NEW TRANSLATION
-  missile_UZB_ID_87_loc_key: "S-600" # todo: NEW TRANSLATION
-  missile_UZB_ID_90_loc_key: "A-35 (ABM-1 Galosh)" # todo: NEW TRANSLATION
-  missile_UZB_ID_91_loc_key: "A-135 (ABM-3 Gazelle)" # todo: NEW TRANSLATION
-  missile_UZB_ID_92_loc_key: "A-135 (ABM-4 Gorgon)" # todo: NEW TRANSLATION
-  missile_UZB_ID_93_loc_key: "S-300PMU-1 (SA-20A Gargoyle)" # todo: NEW TRANSLATION
-  missile_UZB_ID_94_loc_key: "S-300PMU-2 (SA-20B Gargoyle)" # todo: NEW TRANSLATION
-  missile_UZB_ID_95_loc_key: "S-400 (SA-21 Growler)" # todo: NEW TRANSLATION
-  missile_UZB_ID_96_loc_key: "A-235A" # todo: NEW TRANSLATION
-  missile_UZB_ID_97_loc_key: "A-235B" # todo: NEW TRANSLATION
-  missile_UZB_ID_101_loc_key: "Vostok" # todo: NEW TRANSLATION
-  missile_UZB_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
-  missile_UZB_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_104_loc_key: "N-1" # todo: NEW TRANSLATION
-  missile_UZB_ID_105_loc_key: "Proton-K BlockDM" # todo: NEW TRANSLATION
-  missile_UZB_ID_106_loc_key: "Zenit-2" # todo: NEW TRANSLATION
-  missile_UZB_ID_107_loc_key: "Soyuz-Fregat" # todo: NEW TRANSLATION
-  missile_UZB_ID_108_loc_key: "Angara 1.2-PP" # todo: NEW TRANSLATION
-  missile_UZB_ID_111_loc_key: "GLONASS Block I" # todo: NEW TRANSLATION
-  missile_UZB_ID_112_loc_key: "GLONASS Block IIa" # todo: NEW TRANSLATION
-  missile_UZB_ID_113_loc_key: "GLONASS Block IIv" # todo: NEW TRANSLATION
-  missile_UZB_ID_114_loc_key: "GLONASS-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_115_loc_key: "GLONASS-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_116_loc_key: "GLONASS-K2" # todo: NEW TRANSLATION
-  missile_UZB_ID_117_loc_key: "GLONASS-V" # todo: NEW TRANSLATION
-  missile_UZB_ID_118_loc_key: "GLONASS-KM" # todo: NEW TRANSLATION
-  missile_UZB_ID_121_loc_key: "Intersputnik" # todo: NEW TRANSLATION
-  missile_UZB_ID_122_loc_key: "Gorizont" # todo: NEW TRANSLATION
-  missile_UZB_ID_123_loc_key: "Ekspress" # todo: NEW TRANSLATION
-  missile_UZB_ID_124_loc_key: "Yamal" # todo: NEW TRANSLATION
-  missile_UZB_ID_125_loc_key: "Meridian" # todo: NEW TRANSLATION
-  missile_UZB_ID_126_loc_key: "Meridian-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_127_loc_key: "Meridian-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_128_loc_key: "Meridian-V" # todo: NEW TRANSLATION
-  missile_UZB_ID_131_loc_key: "US-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_132_loc_key: "US-KS" # todo: NEW TRANSLATION
-  missile_UZB_ID_133_loc_key: "US-KMO" # todo: NEW TRANSLATION
-  missile_UZB_ID_134_loc_key: "Yantar" # todo: NEW TRANSLATION
-  missile_UZB_ID_135_loc_key: "EKS Kupol" # todo: NEW TRANSLATION
-  missile_UZB_ID_136_loc_key: "EKS Kupol-M" # todo: NEW TRANSLATION
-  missile_UZB_ID_137_loc_key: "EKS Kupol-K" # todo: NEW TRANSLATION
-  missile_UZB_ID_138_loc_key: "EKS Kupol-V" # todo: NEW TRANSLATION
-  missile_UZB_ID_141_loc_key: "Olymp-K1" # todo: NEW TRANSLATION
-  missile_UZB_ID_142_loc_key: "Olymp-K2" # todo: NEW TRANSLATION
-  missile_UZB_ID_143_loc_key: "Olymp-K3" # todo: NEW TRANSLATION
-  missile_UZB_ID_144_loc_key: "Olymp-K4" # todo: NEW TRANSLATION
-  missile_UZB_ID_145_loc_key: "Olymp-K5" # todo: NEW TRANSLATION
-  missile_UZB_ID_146_loc_key: "Olymp-K6" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_0_loc_key: "Jaderná hlavice 15 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_1_loc_key: "Jaderná hlavice 20 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_2_loc_key: "Jaderná hlavice 30 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_3_loc_key: "Jaderná hlavice 45 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_4_loc_key: "Jaderná hlavice 60 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_5_loc_key: "Termonukleární hlavice 100 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_6_loc_key: "Termonukleární hlavice 150 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_7_loc_key: "Termonukleární hlavice 300 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_8_loc_key: "Termonukleární hlavice 500 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_9_loc_key: "Termonukleární hlavice 1 Mt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_10_loc_key: "Termonukleární hlavice 3 Mt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_11_loc_key: "Termonukleární hlavice 5 Mt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_12_loc_key: "Termonukleární hlavice 10 Mt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_13_loc_key: "Mini jaderná hlavice 5 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_14_loc_key: "Neutronová bomba 1 kt" # todo: NEW TRANSLATION
-  nuclear_warhead_generic_ID_15_loc_key: "Špinavá bomba" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_0_loc_key: "Vysoko výbušný 450 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_1_loc_key: "Klusterová munice 450 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_2_loc_key: "Zápalná munice 450 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_3_loc_key: "Protielektrická hlavice" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_4_loc_key: "Protiradiční hlavice" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_5_loc_key: "Elektromagnetický puls (EMP)" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_6_loc_key: "Bomblety proti ranvejím" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_7_loc_key: "Termobarická hlavice" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_8_loc_key: "Vysoko výbušný 900 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_9_loc_key: "Klusterová munice 900 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_10_loc_key: "Zápalná munice 900 kg" # todo: NEW TRANSLATION
-  conventional_warhead_generic_ID_11_loc_key: "Bunkrová hlavice 900 kg" # todo: NEW TRANSLATION
+ missile_generic_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_generic_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_generic_ID_101_loc_key: "OLV 1965" # todo: NEW TRANSLATION
+ missile_generic_ID_102_loc_key: "OLV 1975" # todo: NEW TRANSLATION
+ missile_generic_ID_103_loc_key: "OLV 1985" # todo: NEW TRANSLATION
+ missile_generic_ID_104_loc_key: "OLV 1995" # todo: NEW TRANSLATION
+ missile_generic_ID_105_loc_key: "OLV 2005" # todo: NEW TRANSLATION
+ missile_generic_ID_106_loc_key: "OLV 2015" # todo: NEW TRANSLATION
+ missile_generic_ID_107_loc_key: "OLV 2025" # todo: NEW TRANSLATION
+ missile_generic_ID_108_loc_key: "OLV 2035" # todo: NEW TRANSLATION
+ missile_generic_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_generic_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_generic_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_generic_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_generic_ID_121_loc_key: "GNSS 1965" # todo: CHANGED
+ missile_generic_ID_122_loc_key: "GNSS 1975" # todo: CHANGED
+ missile_generic_ID_123_loc_key: "GNSS 1985" # todo: CHANGED
+ missile_generic_ID_124_loc_key: "GNSS 1995" # todo: CHANGED
+ missile_generic_ID_125_loc_key: "GNSS 2005" # todo: CHANGED
+ missile_generic_ID_126_loc_key: "GNSS 2015" # todo: CHANGED
+ missile_generic_ID_127_loc_key: "GNSS 2025" # todo: CHANGED
+ missile_generic_ID_128_loc_key: "GNSS 2035" # todo: CHANGED
+ missile_generic_ID_129_loc_key: "GNSS 2045" # todo: NEW TRANSLATION
+ missile_generic_ID_130_loc_key: "GNSS 2055" # todo: NEW TRANSLATION
+ missile_generic_ID_131_loc_key: "GNSS 2065" # todo: CHANGED
+ missile_generic_ID_132_loc_key: "GNSS 2075" # todo: CHANGED
+ missile_generic_ID_141_loc_key: "COMSAT 1965" # todo: CHANGED
+ missile_generic_ID_142_loc_key: "COMSAT 1975" # todo: CHANGED
+ missile_generic_ID_143_loc_key: "COMSAT 1985" # todo: CHANGED
+ missile_generic_ID_144_loc_key: "COMSAT 1995" # todo: CHANGED
+ missile_generic_ID_145_loc_key: "COMSAT 2005" # todo: CHANGED
+ missile_generic_ID_146_loc_key: "COMSAT 2015" # todo: CHANGED
+ missile_generic_ID_147_loc_key: "COMSAT 2025" # todo: NEW TRANSLATION
+ missile_generic_ID_148_loc_key: "COMSAT 2035" # todo: NEW TRANSLATION
+ missile_generic_ID_149_loc_key: "COMSAT 2045" # todo: NEW TRANSLATION
+ missile_generic_ID_150_loc_key: "COMSAT 2055" # todo: NEW TRANSLATION
+ missile_generic_ID_151_loc_key: "COMSAT 2065" # todo: NEW TRANSLATION
+ missile_generic_ID_152_loc_key: "COMSAT 2075" # todo: NEW TRANSLATION
+ missile_generic_ID_161_loc_key: "SPYSAT 1965" # todo: NEW TRANSLATION
+ missile_generic_ID_162_loc_key: "SPYSAT 1975" # todo: NEW TRANSLATION
+ missile_generic_ID_163_loc_key: "SPYSAT 1985" # todo: NEW TRANSLATION
+ missile_generic_ID_164_loc_key: "SPYSAT 1995" # todo: NEW TRANSLATION
+ missile_generic_ID_165_loc_key: "SPYSAT 2005" # todo: NEW TRANSLATION
+ missile_generic_ID_166_loc_key: "SPYSAT 2015" # todo: NEW TRANSLATION
+ missile_generic_ID_167_loc_key: "SPYSAT 2025" # todo: NEW TRANSLATION
+ missile_generic_ID_168_loc_key: "SPYSAT 2035" # todo: NEW TRANSLATION
+ missile_generic_ID_169_loc_key: "SPYSAT 2045" # todo: NEW TRANSLATION
+ missile_generic_ID_170_loc_key: "SPYSAT 2055" # todo: NEW TRANSLATION
+ missile_generic_ID_171_loc_key: "SPYSAT 2065" # todo: NEW TRANSLATION
+ missile_generic_ID_172_loc_key: "SPYSAT 2075" # todo: NEW TRANSLATION
+ missile_generic_ID_181_loc_key: "KILLSAT 1985" # todo: NEW TRANSLATION
+ missile_generic_ID_182_loc_key: "KILLSAT 1995" # todo: NEW TRANSLATION
+ missile_generic_ID_183_loc_key: "KILLSAT 2005" # todo: NEW TRANSLATION
+ missile_generic_ID_184_loc_key: "KILLSAT 2015" # todo: NEW TRANSLATION
+ missile_generic_ID_185_loc_key: "KILLSAT 2025" # todo: NEW TRANSLATION
+ missile_generic_ID_186_loc_key: "KILLSAT 2035" # todo: NEW TRANSLATION
+ missile_generic_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_generic_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_generic_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_generic_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_USA_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_USA_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_USA_ID_101_loc_key: "SM-65D Atlas" # todo: NEW TRANSLATION
+ missile_USA_ID_102_loc_key: "Titan IIIC" # todo: NEW TRANSLATION
+ missile_USA_ID_103_loc_key: "Titan IV" # todo: NEW TRANSLATION
+ missile_USA_ID_104_loc_key: "Minotaur I" # todo: NEW TRANSLATION
+ missile_USA_ID_105_loc_key: "Minotaur II" # todo: NEW TRANSLATION
+ missile_USA_ID_106_loc_key: "Minotaur III" # todo: NEW TRANSLATION
+ missile_USA_ID_107_loc_key: "Falcon 9" # todo: NEW TRANSLATION
+ missile_USA_ID_108_loc_key: "Falcon Heavy" # todo: NEW TRANSLATION
+ missile_USA_ID_109_loc_key: "Hvězdná loď I" # todo: NEW TRANSLATION
+ missile_USA_ID_110_loc_key: "Hvězdná loď II" # todo: NEW TRANSLATION
+ missile_USA_ID_111_loc_key: "Starship III" # todo: CHANGED
+ missile_USA_ID_112_loc_key: "Starship IV" # todo: CHANGED
+ missile_USA_ID_121_loc_key: "GPS Blok I" # todo: CHANGED
+ missile_USA_ID_122_loc_key: "GPS Blok II" # todo: CHANGED
+ missile_USA_ID_123_loc_key: "GPS Blok IIA" # todo: CHANGED
+ missile_USA_ID_124_loc_key: "GPS Blok IIR" # todo: CHANGED
+ missile_USA_ID_125_loc_key: "GPS Blok IIRM" # todo: CHANGED
+ missile_USA_ID_126_loc_key: "GPS Blok IIF" # todo: CHANGED
+ missile_USA_ID_127_loc_key: "GPS Blok III" # todo: CHANGED
+ missile_USA_ID_128_loc_key: "GPS Blok IIIF" # todo: CHANGED
+ missile_USA_ID_129_loc_key: "GPS Blok IV" # todo: NEW TRANSLATION
+ missile_USA_ID_130_loc_key: "GPS Blok IVA" # todo: NEW TRANSLATION
+ missile_USA_ID_131_loc_key: "GPS Blok IVR" # todo: CHANGED
+ missile_USA_ID_132_loc_key: "GPS Blok IVR" # todo: CHANGED
+ missile_USA_ID_141_loc_key: "IDCSP" # todo: CHANGED
+ missile_USA_ID_142_loc_key: "DSCS II" # todo: CHANGED
+ missile_USA_ID_143_loc_key: "DSCS III" # todo: CHANGED
+ missile_USA_ID_144_loc_key: "Milstar Blok I" # todo: CHANGED
+ missile_USA_ID_145_loc_key: "Milstar Blok II" # todo: CHANGED
+ missile_USA_ID_146_loc_key: "AEHF Blok I" # todo: CHANGED
+ missile_USA_ID_147_loc_key: "AEHF Blok II" # todo: NEW TRANSLATION
+ missile_USA_ID_148_loc_key: "AEHF Blok III" # todo: NEW TRANSLATION
+ missile_USA_ID_149_loc_key: "AEHF Blok IV" # todo: NEW TRANSLATION
+ missile_USA_ID_150_loc_key: "AEHF Blok V" # todo: NEW TRANSLATION
+ missile_USA_ID_151_loc_key: "AEHF Blok VI" # todo: NEW TRANSLATION
+ missile_USA_ID_152_loc_key: "AEHF Blok VII" # todo: NEW TRANSLATION
+ missile_USA_ID_161_loc_key: "KH-1 Corona" # todo: NEW TRANSLATION
+ missile_USA_ID_162_loc_key: "KH-8 Gambit 3" # todo: NEW TRANSLATION
+ missile_USA_ID_163_loc_key: "KH-9 Hexagon" # todo: NEW TRANSLATION
+ missile_USA_ID_164_loc_key: "KH-11 Blok I Kennen" # todo: NEW TRANSLATION
+ missile_USA_ID_165_loc_key: "KH-11 Blok II Crystal" # todo: NEW TRANSLATION
+ missile_USA_ID_166_loc_key: "KH-11 Blok III Zlepšený Crystal" # todo: NEW TRANSLATION
+ missile_USA_ID_167_loc_key: "KH-11 Blok IV Vyvinutý vylepšený Crystal" # todo: NEW TRANSLATION
+ missile_USA_ID_168_loc_key: "KH-11 Blok V" # todo: NEW TRANSLATION
+ missile_USA_ID_169_loc_key: "KH-11 Blok VI" # todo: NEW TRANSLATION
+ missile_USA_ID_170_loc_key: "KH-11 Blok VII" # todo: NEW TRANSLATION
+ missile_USA_ID_171_loc_key: "KH-11 Blok VIII" # todo: NEW TRANSLATION
+ missile_USA_ID_172_loc_key: "KH-11 Blok IX" # todo: NEW TRANSLATION
+ missile_USA_ID_181_loc_key: "SBI" # todo: NEW TRANSLATION
+ missile_USA_ID_182_loc_key: "Brilantní oblázky" # todo: NEW TRANSLATION
+ missile_USA_ID_183_loc_key: "MiTEx" # todo: NEW TRANSLATION
+ missile_USA_ID_184_loc_key: "FASTRAC" # todo: NEW TRANSLATION
+ missile_USA_ID_185_loc_key: "ANGELS" # todo: NEW TRANSLATION
+ missile_USA_ID_186_loc_key: "Zuma" # todo: NEW TRANSLATION
+ missile_USA_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_USA_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_USA_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_USA_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_GER_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_GER_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_GER_ID_101_loc_key: "SM-65D Atlas" # todo: NEW TRANSLATION
+ missile_GER_ID_102_loc_key: "Ariane 3" # todo: NEW TRANSLATION
+ missile_GER_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
+ missile_GER_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
+ missile_GER_ID_105_loc_key: "Ariane 5 GS" # todo: NEW TRANSLATION
+ missile_GER_ID_106_loc_key: "Ariane 6" # todo: NEW TRANSLATION
+ missile_GER_ID_107_loc_key: "Ariane 7" # todo: NEW TRANSLATION
+ missile_GER_ID_108_loc_key: "Ariane 8" # todo: NEW TRANSLATION
+ missile_GER_ID_109_loc_key: "Ariane 9" # todo: NEW TRANSLATION
+ missile_GER_ID_110_loc_key: "Ariane 10" # todo: NEW TRANSLATION
+ missile_GER_ID_111_loc_key: "Ariane 11" # todo: CHANGED
+ missile_GER_ID_112_loc_key: "Ariane 12" # todo: CHANGED
+ missile_GER_ID_121_loc_key: "GPS Blok I" # todo: CHANGED
+ missile_GER_ID_122_loc_key: "GPS Blok II" # todo: CHANGED
+ missile_GER_ID_123_loc_key: "GPS Blok IIA" # todo: CHANGED
+ missile_GER_ID_124_loc_key: "GPS Blok IIR" # todo: CHANGED
+ missile_GER_ID_125_loc_key: "GPS Blok IIRM" # todo: CHANGED
+ missile_GER_ID_126_loc_key: "GPS Blok IIF" # todo: CHANGED
+ missile_GER_ID_127_loc_key: "GPS Blok III" # todo: CHANGED
+ missile_GER_ID_128_loc_key: "GPS Blok IIIF" # todo: CHANGED
+ missile_GER_ID_129_loc_key: "GPS Blok IV" # todo: NEW TRANSLATION
+ missile_GER_ID_130_loc_key: "GPS Blok IVA" # todo: NEW TRANSLATION
+ missile_GER_ID_131_loc_key: "GPS Blok IVR" # todo: CHANGED
+ missile_GER_ID_132_loc_key: "GPS Blok IVR" # todo: CHANGED
+ missile_GER_ID_141_loc_key: "IDCSP" # todo: CHANGED
+ missile_GER_ID_142_loc_key: "DSCS II" # todo: CHANGED
+ missile_GER_ID_143_loc_key: "DSCS III" # todo: CHANGED
+ missile_GER_ID_144_loc_key: "Milstar Blok I" # todo: CHANGED
+ missile_GER_ID_145_loc_key: "Milstar Blok II" # todo: CHANGED
+ missile_GER_ID_146_loc_key: "AEHF Blok I" # todo: CHANGED
+ missile_GER_ID_147_loc_key: "AEHF Blok II" # todo: NEW TRANSLATION
+ missile_GER_ID_148_loc_key: "AEHF Blok III" # todo: NEW TRANSLATION
+ missile_GER_ID_149_loc_key: "AEHF Blok IV" # todo: NEW TRANSLATION
+ missile_GER_ID_150_loc_key: "AEHF Blok V" # todo: NEW TRANSLATION
+ missile_GER_ID_151_loc_key: "AEHF Blok VI" # todo: NEW TRANSLATION
+ missile_GER_ID_152_loc_key: "AEHF Blok VII" # todo: NEW TRANSLATION
+ missile_GER_ID_161_loc_key: "KH-1 Corona" # todo: NEW TRANSLATION
+ missile_GER_ID_162_loc_key: "KH-8 Gambit 3" # todo: NEW TRANSLATION
+ missile_GER_ID_163_loc_key: "KH-9 Hexagon" # todo: NEW TRANSLATION
+ missile_GER_ID_164_loc_key: "KH-11 Blok I Kennen" # todo: NEW TRANSLATION
+ missile_GER_ID_165_loc_key: "KH-11 Blok II Crystal" # todo: NEW TRANSLATION
+ missile_GER_ID_166_loc_key: "KH-11 Blok III Zlepšený Crystal" # todo: NEW TRANSLATION
+ missile_GER_ID_167_loc_key: "KH-11 Blok IV Vyvinutý vylepšený Crystal" # todo: NEW TRANSLATION
+ missile_GER_ID_168_loc_key: "KH-11 Blok V" # todo: NEW TRANSLATION
+ missile_GER_ID_169_loc_key: "KH-11 Blok VI" # todo: NEW TRANSLATION
+ missile_GER_ID_170_loc_key: "KH-11 Blok VII" # todo: NEW TRANSLATION
+ missile_GER_ID_171_loc_key: "KH-11 Blok VIII" # todo: NEW TRANSLATION
+ missile_GER_ID_172_loc_key: "KH-11 Blok IX" # todo: NEW TRANSLATION
+ missile_GER_ID_181_loc_key: "SBI" # todo: NEW TRANSLATION
+ missile_GER_ID_182_loc_key: "Brilantní oblázky" # todo: NEW TRANSLATION
+ missile_GER_ID_183_loc_key: "MiTEx" # todo: NEW TRANSLATION
+ missile_GER_ID_184_loc_key: "FASTRAC" # todo: NEW TRANSLATION
+ missile_GER_ID_185_loc_key: "ANGELS" # todo: NEW TRANSLATION
+ missile_GER_ID_186_loc_key: "Zuma" # todo: NEW TRANSLATION
+ missile_GER_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_GER_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_GER_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_GER_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_SOV_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_SOV_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_SOV_ID_101_loc_key: "Vostok" # todo: NEW TRANSLATION
+ missile_SOV_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
+ missile_SOV_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
+ missile_SOV_ID_104_loc_key: "N-1" # todo: NEW TRANSLATION
+ missile_SOV_ID_105_loc_key: "Proton-K BlockDM" # todo: NEW TRANSLATION
+ missile_SOV_ID_106_loc_key: "Zenit-2" # todo: NEW TRANSLATION
+ missile_SOV_ID_107_loc_key: "Soyuz-Fregat" # todo: NEW TRANSLATION
+ missile_SOV_ID_108_loc_key: "Angara 1.2-PP" # todo: NEW TRANSLATION
+ missile_SOV_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_SOV_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_SOV_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_SOV_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_SOV_ID_121_loc_key: "GLONASS Blok I" # todo: CHANGED
+ missile_SOV_ID_122_loc_key: "GLONASS Blok IIa" # todo: CHANGED
+ missile_SOV_ID_123_loc_key: "GLONASS Blok IIv" # todo: CHANGED
+ missile_SOV_ID_124_loc_key: "GLONASS-M" # todo: CHANGED
+ missile_SOV_ID_125_loc_key: "GLONASS-K" # todo: CHANGED
+ missile_SOV_ID_126_loc_key: "GLONASS-K2" # todo: CHANGED
+ missile_SOV_ID_127_loc_key: "GLONASS-V" # todo: CHANGED
+ missile_SOV_ID_128_loc_key: "GLONASS-KM" # todo: CHANGED
+ missile_SOV_ID_129_loc_key: "GNSS 2045" # todo: NEW TRANSLATION
+ missile_SOV_ID_130_loc_key: "GNSS 2055" # todo: NEW TRANSLATION
+ missile_SOV_ID_131_loc_key: "GNSS 2065" # todo: CHANGED
+ missile_SOV_ID_132_loc_key: "GNSS 2075" # todo: CHANGED
+ missile_SOV_ID_141_loc_key: "Intersputnik" # todo: CHANGED
+ missile_SOV_ID_142_loc_key: "Gorizont" # todo: CHANGED
+ missile_SOV_ID_143_loc_key: "Ekspress" # todo: CHANGED
+ missile_SOV_ID_144_loc_key: "Yamal" # todo: CHANGED
+ missile_SOV_ID_145_loc_key: "Meridian" # todo: CHANGED
+ missile_SOV_ID_146_loc_key: "Meridian-M" # todo: CHANGED
+ missile_SOV_ID_147_loc_key: "Meridian-K" # todo: NEW TRANSLATION
+ missile_SOV_ID_148_loc_key: "Meridian-V" # todo: NEW TRANSLATION
+ missile_SOV_ID_149_loc_key: "COMSAT 2045" # todo: NEW TRANSLATION
+ missile_SOV_ID_150_loc_key: "COMSAT 2055" # todo: NEW TRANSLATION
+ missile_SOV_ID_151_loc_key: "COMSAT 2065" # todo: NEW TRANSLATION
+ missile_SOV_ID_152_loc_key: "COMSAT 2075" # todo: NEW TRANSLATION
+ missile_SOV_ID_161_loc_key: "US-K" # todo: NEW TRANSLATION
+ missile_SOV_ID_162_loc_key: "US-KS" # todo: NEW TRANSLATION
+ missile_SOV_ID_163_loc_key: "US-KMO" # todo: NEW TRANSLATION
+ missile_SOV_ID_164_loc_key: "Yantar" # todo: NEW TRANSLATION
+ missile_SOV_ID_165_loc_key: "EKS Kupol" # todo: NEW TRANSLATION
+ missile_SOV_ID_166_loc_key: "EKS Kupol-M" # todo: NEW TRANSLATION
+ missile_SOV_ID_167_loc_key: "EKS Kupol-K" # todo: NEW TRANSLATION
+ missile_SOV_ID_168_loc_key: "EKS Kupol-V" # todo: NEW TRANSLATION
+ missile_SOV_ID_169_loc_key: "SPYSAT 2045" # todo: NEW TRANSLATION
+ missile_SOV_ID_170_loc_key: "SPYSAT 2055" # todo: NEW TRANSLATION
+ missile_SOV_ID_171_loc_key: "SPYSAT 2065" # todo: NEW TRANSLATION
+ missile_SOV_ID_172_loc_key: "SPYSAT 2075" # todo: NEW TRANSLATION
+ missile_SOV_ID_181_loc_key: "Olymp-K1" # todo: NEW TRANSLATION
+ missile_SOV_ID_182_loc_key: "Olymp-K2" # todo: NEW TRANSLATION
+ missile_SOV_ID_183_loc_key: "Olymp-K3" # todo: NEW TRANSLATION
+ missile_SOV_ID_184_loc_key: "Olymp-K4" # todo: NEW TRANSLATION
+ missile_SOV_ID_185_loc_key: "Olymp-K5" # todo: NEW TRANSLATION
+ missile_SOV_ID_186_loc_key: "Olymp-K6" # todo: NEW TRANSLATION
+ missile_SOV_ID_187_loc_key: "Olymp-K7" # todo: NEW TRANSLATION
+ missile_SOV_ID_188_loc_key: "Olymp-K8" # todo: NEW TRANSLATION
+ missile_SOV_ID_189_loc_key: "Olymp-K9" # todo: NEW TRANSLATION
+ missile_SOV_ID_190_loc_key: "Olymp-K10" # todo: NEW TRANSLATION
+ missile_CHI_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_CHI_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_CHI_ID_101_loc_key: "CZ-1 (Long March 1)" # todo: NEW TRANSLATION
+ missile_CHI_ID_102_loc_key: "CZ-2 (Long March 2)" # todo: NEW TRANSLATION
+ missile_CHI_ID_103_loc_key: "CZ-3 (Long March 3)" # todo: NEW TRANSLATION
+ missile_CHI_ID_104_loc_key: "CZ-3 B (Long March 3 B)" # todo: NEW TRANSLATION
+ missile_CHI_ID_105_loc_key: "CZ-4 (Long March 4)" # todo: NEW TRANSLATION
+ missile_CHI_ID_106_loc_key: "CZ-5 (Long March 5)" # todo: NEW TRANSLATION
+ missile_CHI_ID_107_loc_key: "CZ-6 (Long March 6)" # todo: NEW TRANSLATION
+ missile_CHI_ID_108_loc_key: "CZ-7 (Long March 7)" # todo: NEW TRANSLATION
+ missile_CHI_ID_109_loc_key: "CZ-8 (Dlouhý pochod 8)" # todo: NEW TRANSLATION
+ missile_CHI_ID_110_loc_key: "CZ-9 (Dlouhý pochod 9)" # todo: NEW TRANSLATION
+ missile_CHI_ID_111_loc_key: "CZ-10 (Čchang-čeng 10)" # todo: CHANGED
+ missile_CHI_ID_112_loc_key: "CZ-11 (Čchang-čeng 11)" # todo: CHANGED
+ missile_CHI_ID_121_loc_key: "Pej-tou-1A" # todo: CHANGED
+ missile_CHI_ID_122_loc_key: "Pej-tou-1B" # todo: CHANGED
+ missile_CHI_ID_123_loc_key: "Pej-tou-1C" # todo: CHANGED
+ missile_CHI_ID_124_loc_key: "Pej-tou-1D" # todo: CHANGED
+ missile_CHI_ID_125_loc_key: "Pej-tou-2" # todo: CHANGED
+ missile_CHI_ID_126_loc_key: "Pej-tou-3" # todo: CHANGED
+ missile_CHI_ID_127_loc_key: "Pej-tou-4" # todo: CHANGED
+ missile_CHI_ID_128_loc_key: "Pej-tou-5" # todo: CHANGED
+ missile_CHI_ID_129_loc_key: "BeiDou-6" # todo: NEW TRANSLATION
+ missile_CHI_ID_130_loc_key: "BeiDou-7" # todo: NEW TRANSLATION
+ missile_CHI_ID_131_loc_key: "Pej-tou-8" # todo: CHANGED
+ missile_CHI_ID_132_loc_key: "Pej-tou-9" # todo: CHANGED
+ missile_CHI_ID_141_loc_key: "Tchien-lien-1" # todo: CHANGED
+ missile_CHI_ID_142_loc_key: "Tchien-lien-2" # todo: CHANGED
+ missile_CHI_ID_143_loc_key: "Tchien-lien-3" # todo: CHANGED
+ missile_CHI_ID_144_loc_key: "Tchien-lien-4" # todo: CHANGED
+ missile_CHI_ID_145_loc_key: "Tchien-čchi-1" # todo: CHANGED
+ missile_CHI_ID_146_loc_key: "Tchien-čchi-2" # todo: CHANGED
+ missile_CHI_ID_147_loc_key: "TIANQI-3" # todo: NEW TRANSLATION
+ missile_CHI_ID_148_loc_key: "TIANQI-4" # todo: NEW TRANSLATION
+ missile_CHI_ID_149_loc_key: "TIANQI-5" # todo: NEW TRANSLATION
+ missile_CHI_ID_150_loc_key: "TIANQI-6" # todo: NEW TRANSLATION
+ missile_CHI_ID_151_loc_key: "TIANQI-7" # todo: NEW TRANSLATION
+ missile_CHI_ID_152_loc_key: "TIANQI-8" # todo: NEW TRANSLATION
+ missile_CHI_ID_161_loc_key: "YAOGAN-30" # todo: NEW TRANSLATION
+ missile_CHI_ID_162_loc_key: "YAOGAN-31" # todo: NEW TRANSLATION
+ missile_CHI_ID_163_loc_key: "ZIYUAN-1" # todo: NEW TRANSLATION
+ missile_CHI_ID_164_loc_key: "ZIYUAN-2" # todo: NEW TRANSLATION
+ missile_CHI_ID_165_loc_key: "ZIYUAN-3" # todo: NEW TRANSLATION
+ missile_CHI_ID_166_loc_key: "Fanhui Shi Weixing-0" # todo: NEW TRANSLATION
+ missile_CHI_ID_167_loc_key: "Fanhui Shi Weixing-1" # todo: NEW TRANSLATION
+ missile_CHI_ID_168_loc_key: "Fanhui Shi Weixing-2" # todo: NEW TRANSLATION
+ missile_CHI_ID_169_loc_key: "Fanhui Shi Weixing-3" # todo: NEW TRANSLATION
+ missile_CHI_ID_170_loc_key: "Fanhui Shi Weixing-4" # todo: NEW TRANSLATION
+ missile_CHI_ID_171_loc_key: "Fanhui Shi Weixing-5" # todo: NEW TRANSLATION
+ missile_CHI_ID_172_loc_key: "Fanhui Shi Weixing-6" # todo: NEW TRANSLATION
+ missile_CHI_ID_181_loc_key: "HUAXIA-1" # todo: NEW TRANSLATION
+ missile_CHI_ID_182_loc_key: "HUAXIA-1-1" # todo: NEW TRANSLATION
+ missile_CHI_ID_183_loc_key: "HUAXIA-1-2" # todo: NEW TRANSLATION
+ missile_CHI_ID_184_loc_key: "HUAXIA-1-3" # todo: NEW TRANSLATION
+ missile_CHI_ID_185_loc_key: "HUAXIA-1-4" # todo: NEW TRANSLATION
+ missile_CHI_ID_186_loc_key: "HUAXIA-1-5" # todo: NEW TRANSLATION
+ missile_CHI_ID_187_loc_key: "HUAXIA-1-6" # todo: NEW TRANSLATION
+ missile_CHI_ID_188_loc_key: "HUAXIA-1-7" # todo: NEW TRANSLATION
+ missile_CHI_ID_189_loc_key: "HUAXIA-1-8" # todo: NEW TRANSLATION
+ missile_CHI_ID_190_loc_key: "HUAXIA-1-9" # todo: NEW TRANSLATION
+ missile_ENG_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_ENG_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_ENG_ID_101_loc_key: "Černá šipka" # todo: NEW TRANSLATION
+ missile_ENG_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
+ missile_ENG_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
+ missile_ENG_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
+ missile_ENG_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
+ missile_ENG_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
+ missile_ENG_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
+ missile_ENG_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
+ missile_ENG_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_ENG_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_ENG_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_ENG_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_ENG_ID_121_loc_key: "GIOVE-A" # todo: CHANGED
+ missile_ENG_ID_122_loc_key: "GIOVE-B" # todo: CHANGED
+ missile_ENG_ID_123_loc_key: "Galileo Blok I" # todo: CHANGED
+ missile_ENG_ID_124_loc_key: "Galileo Blok II" # todo: CHANGED
+ missile_ENG_ID_125_loc_key: "Galileo Blok III" # todo: CHANGED
+ missile_ENG_ID_126_loc_key: "Galileo Blok IV" # todo: CHANGED
+ missile_ENG_ID_127_loc_key: "Galileo Blok V" # todo: CHANGED
+ missile_ENG_ID_128_loc_key: "Galileo Blok VI" # todo: CHANGED
+ missile_ENG_ID_129_loc_key: "Galileo Blok VII" # todo: NEW TRANSLATION
+ missile_ENG_ID_130_loc_key: "Galileo Blok VIII" # todo: NEW TRANSLATION
+ missile_ENG_ID_131_loc_key: "Galileo Blok IX" # todo: CHANGED
+ missile_ENG_ID_132_loc_key: "Galileo Blok X" # todo: CHANGED
+ missile_ENG_ID_141_loc_key: "Skynet 1" # todo: CHANGED
+ missile_ENG_ID_142_loc_key: "Skynet 2" # todo: CHANGED
+ missile_ENG_ID_143_loc_key: "Skynet 3" # todo: CHANGED
+ missile_ENG_ID_144_loc_key: "Skynet 4" # todo: CHANGED
+ missile_ENG_ID_145_loc_key: "Skynet 5" # todo: CHANGED
+ missile_ENG_ID_146_loc_key: "Skynet 6" # todo: CHANGED
+ missile_ENG_ID_147_loc_key: "Skynet 7" # todo: NEW TRANSLATION
+ missile_ENG_ID_148_loc_key: "Skynet 8" # todo: NEW TRANSLATION
+ missile_ENG_ID_149_loc_key: "Skynet 9" # todo: NEW TRANSLATION
+ missile_ENG_ID_150_loc_key: "Skynet 10" # todo: NEW TRANSLATION
+ missile_ENG_ID_151_loc_key: "Skynet 11" # todo: NEW TRANSLATION
+ missile_ENG_ID_152_loc_key: "Skynet 12" # todo: NEW TRANSLATION
+ missile_ENG_ID_161_loc_key: "Prospero" # todo: NEW TRANSLATION
+ missile_ENG_ID_162_loc_key: "Titanite" # todo: NEW TRANSLATION
+ missile_ENG_ID_163_loc_key: "Topaz" # todo: NEW TRANSLATION
+ missile_ENG_ID_164_loc_key: "Thorite" # todo: NEW TRANSLATION
+ missile_ENG_ID_165_loc_key: "Thorite Mk2" # todo: NEW TRANSLATION
+ missile_ENG_ID_166_loc_key: "Thorite Mk3" # todo: NEW TRANSLATION
+ missile_ENG_ID_167_loc_key: "Thorite Mk4" # todo: NEW TRANSLATION
+ missile_ENG_ID_168_loc_key: "Thorite Mk5" # todo: NEW TRANSLATION
+ missile_ENG_ID_169_loc_key: "Thorite Mk6" # todo: NEW TRANSLATION
+ missile_ENG_ID_170_loc_key: "Thorite Mk7" # todo: NEW TRANSLATION
+ missile_ENG_ID_171_loc_key: "Thorite Mk8" # todo: NEW TRANSLATION
+ missile_ENG_ID_172_loc_key: "Thorite Mk9" # todo: NEW TRANSLATION
+ missile_ENG_ID_181_loc_key: "Zircon" # todo: NEW TRANSLATION
+ missile_ENG_ID_182_loc_key: "Zircon Mk2" # todo: NEW TRANSLATION
+ missile_ENG_ID_183_loc_key: "Zircon Mk3" # todo: NEW TRANSLATION
+ missile_ENG_ID_184_loc_key: "Zircon Mk4" # todo: NEW TRANSLATION
+ missile_ENG_ID_185_loc_key: "Zircon Mk5" # todo: NEW TRANSLATION
+ missile_ENG_ID_186_loc_key: "Zircon Mk6" # todo: NEW TRANSLATION
+ missile_ENG_ID_187_loc_key: "Zircon Mk7" # todo: NEW TRANSLATION
+ missile_ENG_ID_188_loc_key: "Zircon Mk8" # todo: NEW TRANSLATION
+ missile_ENG_ID_189_loc_key: "Zircon Mk9" # todo: NEW TRANSLATION
+ missile_ENG_ID_190_loc_key: "Zircon Mk10" # todo: NEW TRANSLATION
+ missile_FRA_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_FRA_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_FRA_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
+ missile_FRA_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
+ missile_FRA_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
+ missile_FRA_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
+ missile_FRA_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
+ missile_FRA_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
+ missile_FRA_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
+ missile_FRA_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
+ missile_FRA_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_FRA_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_FRA_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_FRA_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_ITA_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
+ missile_ITA_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
+ missile_ITA_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
+ missile_ITA_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
+ missile_ITA_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
+ missile_ITA_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
+ missile_ITA_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
+ missile_ITA_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
+ missile_ITA_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_ITA_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_ITA_ID_111_loc_key: "OLV 2065" # todo: NEW TRANSLATION
+ missile_ITA_ID_112_loc_key: "OLV 2075" # todo: NEW TRANSLATION
+ missile_SPR_ID_101_loc_key: "Diamant" # todo: NEW TRANSLATION
+ missile_SPR_ID_102_loc_key: "Ariane 1" # todo: NEW TRANSLATION
+ missile_SPR_ID_103_loc_key: "Ariane 4" # todo: NEW TRANSLATION
+ missile_SPR_ID_104_loc_key: "Ariane 5" # todo: NEW TRANSLATION
+ missile_SPR_ID_105_loc_key: "Vega" # todo: NEW TRANSLATION
+ missile_SPR_ID_106_loc_key: "Vega C" # todo: NEW TRANSLATION
+ missile_SPR_ID_107_loc_key: "Vega E" # todo: NEW TRANSLATION
+ missile_SPR_ID_108_loc_key: "Vega X" # todo: NEW TRANSLATION
+ missile_SPR_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_SPR_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_SPR_ID_111_loc_key: "OLV 2065" # todo: NEW TRANSLATION
+ missile_SPR_ID_112_loc_key: "OLV 2075" # todo: NEW TRANSLATION
+ missile_FRA_ID_121_loc_key: "GIOVE-A" # todo: CHANGED
+ missile_FRA_ID_122_loc_key: "GIOVE-B" # todo: CHANGED
+ missile_FRA_ID_123_loc_key: "Galileo Blok I" # todo: CHANGED
+ missile_FRA_ID_124_loc_key: "Galileo Blok II" # todo: CHANGED
+ missile_FRA_ID_125_loc_key: "Galileo Blok III" # todo: CHANGED
+ missile_FRA_ID_126_loc_key: "Galileo Blok IV" # todo: CHANGED
+ missile_FRA_ID_127_loc_key: "Galileo Blok V" # todo: CHANGED
+ missile_FRA_ID_128_loc_key: "Galileo Blok VI" # todo: CHANGED
+ missile_FRA_ID_129_loc_key: "Galileo Blok VII" # todo: NEW TRANSLATION
+ missile_FRA_ID_130_loc_key: "Galileo Blok VIII" # todo: NEW TRANSLATION
+ missile_FRA_ID_131_loc_key: "Galileo Blok IX" # todo: CHANGED
+ missile_FRA_ID_132_loc_key: "Galileo Blok X" # todo: CHANGED
+ missile_FRA_ID_141_loc_key: "Syracuse 0" # todo: CHANGED
+ missile_FRA_ID_142_loc_key: "Syracuse 1" # todo: CHANGED
+ missile_FRA_ID_143_loc_key: "Syracuse 2" # todo: CHANGED
+ missile_FRA_ID_144_loc_key: "Syracuse 25" # todo: CHANGED
+ missile_FRA_ID_145_loc_key: "Syracuse 3" # todo: CHANGED
+ missile_FRA_ID_146_loc_key: "Syracuse 4" # todo: CHANGED
+ missile_FRA_ID_147_loc_key: "Syracuse 5" # todo: NEW TRANSLATION
+ missile_FRA_ID_148_loc_key: "Syracuse 6" # todo: NEW TRANSLATION
+ missile_FRA_ID_149_loc_key: "Syracuse 7" # todo: NEW TRANSLATION
+ missile_FRA_ID_150_loc_key: "Syracuse 8" # todo: NEW TRANSLATION
+ missile_FRA_ID_151_loc_key: "Syracuse 9" # todo: NEW TRANSLATION
+ missile_FRA_ID_152_loc_key: "Syracuse 10" # todo: NEW TRANSLATION
+ missile_FRA_ID_161_loc_key: "Hypérion" # todo: NEW TRANSLATION
+ missile_FRA_ID_162_loc_key: "Séléné" # todo: NEW TRANSLATION
+ missile_FRA_ID_163_loc_key: "Eos" # todo: NEW TRANSLATION
+ missile_FRA_ID_164_loc_key: "Hélios 1" # todo: NEW TRANSLATION
+ missile_FRA_ID_165_loc_key: "Hélios 2" # todo: NEW TRANSLATION
+ missile_FRA_ID_166_loc_key: "CSO" # todo: NEW TRANSLATION
+ missile_FRA_ID_167_loc_key: "CERES" # todo: NEW TRANSLATION
+ missile_FRA_ID_168_loc_key: "SRESM" # todo: NEW TRANSLATION
+ missile_FRA_ID_169_loc_key: "SPYSAT 2045" # todo: NEW TRANSLATION
+ missile_FRA_ID_170_loc_key: "SPYSAT 2055" # todo: NEW TRANSLATION
+ missile_FRA_ID_171_loc_key: "SPYSAT 2065" # todo: NEW TRANSLATION
+ missile_FRA_ID_172_loc_key: "SPYSAT 2075" # todo: NEW TRANSLATION
+ missile_FRA_ID_181_loc_key: "SDS" # todo: NEW TRANSLATION
+ missile_FRA_ID_182_loc_key: "SDS2" # todo: NEW TRANSLATION
+ missile_FRA_ID_183_loc_key: "BOB" # todo: NEW TRANSLATION
+ missile_FRA_ID_184_loc_key: "BOM" # todo: NEW TRANSLATION
+ missile_FRA_ID_185_loc_key: "BOG" # todo: NEW TRANSLATION
+ missile_FRA_ID_186_loc_key: "SLMAS 'Cosmos'" # todo: NEW TRANSLATION
+ missile_FRA_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_FRA_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_FRA_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_FRA_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_ISR_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_ISR_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_ISR_ID_101_loc_key: "Shavit" # todo: NEW TRANSLATION
+ missile_ISR_ID_102_loc_key: "Shavit-1" # todo: NEW TRANSLATION
+ missile_ISR_ID_103_loc_key: "Shavir-2" # todo: NEW TRANSLATION
+ missile_ISR_ID_104_loc_key: "Shavit-3" # todo: NEW TRANSLATION
+ missile_ISR_ID_105_loc_key: "Shavit-4" # todo: NEW TRANSLATION
+ missile_ISR_ID_106_loc_key: "Shavit-5" # todo: NEW TRANSLATION
+ missile_ISR_ID_107_loc_key: "Shavit-6" # todo: NEW TRANSLATION
+ missile_ISR_ID_108_loc_key: "Shavit-7" # todo: NEW TRANSLATION
+ missile_ISR_ID_109_loc_key: "Shavit-8" # todo: NEW TRANSLATION
+ missile_ISR_ID_110_loc_key: "Shavit-9" # todo: NEW TRANSLATION
+ missile_ISR_ID_111_loc_key: "Shavit-10" # todo: CHANGED
+ missile_ISR_ID_112_loc_key: "Shavit-11" # todo: CHANGED
+ missile_ISR_ID_121_loc_key: "Eynayn Blok I" # todo: CHANGED
+ missile_ISR_ID_122_loc_key: "Eynayn Blok II" # todo: CHANGED
+ missile_ISR_ID_123_loc_key: "Eynayn Blok III" # todo: CHANGED
+ missile_ISR_ID_124_loc_key: "Eynayn Blok IV" # todo: CHANGED
+ missile_ISR_ID_125_loc_key: "Sofeh Blok V" # todo: CHANGED
+ missile_ISR_ID_126_loc_key: "Sofeh Blok VI" # todo: CHANGED
+ missile_ISR_ID_127_loc_key: "Sofeh Blok VII" # todo: CHANGED
+ missile_ISR_ID_128_loc_key: "Sofeh Blok VIII" # todo: CHANGED
+ missile_ISR_ID_129_loc_key: "Sofeh Blok IX" # todo: NEW TRANSLATION
+ missile_ISR_ID_130_loc_key: "Sofeh Blok X" # todo: NEW TRANSLATION
+ missile_ISR_ID_131_loc_key: "Sofeh Blok XI" # todo: CHANGED
+ missile_ISR_ID_132_loc_key: "Sofeh Blok XII" # todo: CHANGED
+ missile_ISR_ID_141_loc_key: "Amos-1" # todo: CHANGED
+ missile_ISR_ID_142_loc_key: "Amos-2" # todo: CHANGED
+ missile_ISR_ID_143_loc_key: "Amos-3" # todo: CHANGED
+ missile_ISR_ID_144_loc_key: "Amos-4" # todo: CHANGED
+ missile_ISR_ID_145_loc_key: "Amos-5" # todo: CHANGED
+ missile_ISR_ID_146_loc_key: "Amos-6" # todo: CHANGED
+ missile_ISR_ID_147_loc_key: "Amos-7" # todo: NEW TRANSLATION
+ missile_ISR_ID_148_loc_key: "Amos-8" # todo: NEW TRANSLATION
+ missile_ISR_ID_149_loc_key: "Amos-9" # todo: NEW TRANSLATION
+ missile_ISR_ID_150_loc_key: "Amos-10" # todo: NEW TRANSLATION
+ missile_ISR_ID_151_loc_key: "Amos-11" # todo: NEW TRANSLATION
+ missile_ISR_ID_152_loc_key: "Amos-12" # todo: NEW TRANSLATION
+ missile_ISR_ID_161_loc_key: "Ofeq 3" # todo: NEW TRANSLATION
+ missile_ISR_ID_162_loc_key: "Ofeq 5" # todo: NEW TRANSLATION
+ missile_ISR_ID_163_loc_key: "Ofeq 7" # todo: NEW TRANSLATION
+ missile_ISR_ID_164_loc_key: "Ofeq 9" # todo: NEW TRANSLATION
+ missile_ISR_ID_165_loc_key: "TecSAR" # todo: NEW TRANSLATION
+ missile_ISR_ID_166_loc_key: "TecSAR-X" # todo: NEW TRANSLATION
+ missile_ISR_ID_167_loc_key: "EROS-A" # todo: NEW TRANSLATION
+ missile_ISR_ID_168_loc_key: "EROS-B" # todo: NEW TRANSLATION
+ missile_ISR_ID_169_loc_key: "EROS-C" # todo: NEW TRANSLATION
+ missile_ISR_ID_170_loc_key: "EROS-D" # todo: NEW TRANSLATION
+ missile_ISR_ID_171_loc_key: "EROS-E" # todo: NEW TRANSLATION
+ missile_ISR_ID_172_loc_key: "EROS-F" # todo: NEW TRANSLATION
+ missile_ISR_ID_181_loc_key: "ULTRASAT-Echad" # todo: NEW TRANSLATION
+ missile_ISR_ID_182_loc_key: "ULTRASAT-Shtaim" # todo: NEW TRANSLATION
+ missile_ISR_ID_183_loc_key: "ULTRASAT-Shalosh" # todo: NEW TRANSLATION
+ missile_ISR_ID_184_loc_key: "ULTRASAT-Arba" # todo: NEW TRANSLATION
+ missile_ISR_ID_185_loc_key: "ULTRASAT-Hamesh" # todo: NEW TRANSLATION
+ missile_ISR_ID_186_loc_key: "ULTRASAT-Shesh" # todo: NEW TRANSLATION
+ missile_ISR_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_ISR_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_ISR_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_ISR_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_RAJ_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_RAJ_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_RAJ_ID_101_loc_key: "GSLV Mark 1" # todo: NEW TRANSLATION
+ missile_RAJ_ID_102_loc_key: "GSLV Mark 2" # todo: NEW TRANSLATION
+ missile_RAJ_ID_103_loc_key: "GSLV Mark 3" # todo: NEW TRANSLATION
+ missile_RAJ_ID_104_loc_key: "SSLV" # todo: NEW TRANSLATION
+ missile_RAJ_ID_105_loc_key: "PSLV" # todo: NEW TRANSLATION
+ missile_RAJ_ID_106_loc_key: "ULV" # todo: NEW TRANSLATION
+ missile_RAJ_ID_107_loc_key: "Agnibaan" # todo: NEW TRANSLATION
+ missile_RAJ_ID_108_loc_key: "Chetak" # todo: NEW TRANSLATION
+ missile_RAJ_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_RAJ_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_RAJ_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_RAJ_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_RAJ_ID_121_loc_key: "IRNSS-1A" # todo: CHANGED
+ missile_RAJ_ID_122_loc_key: "IRNSS-1B" # todo: CHANGED
+ missile_RAJ_ID_123_loc_key: "IRNSS-1C" # todo: CHANGED
+ missile_RAJ_ID_124_loc_key: "IRNSS1-D" # todo: CHANGED
+ missile_RAJ_ID_125_loc_key: "IRNSS-1E" # todo: CHANGED
+ missile_RAJ_ID_126_loc_key: "IRNSS1-F" # todo: CHANGED
+ missile_RAJ_ID_127_loc_key: "IRNSS1-H" # todo: CHANGED
+ missile_RAJ_ID_128_loc_key: "IRNSS1-I" # todo: CHANGED
+ missile_RAJ_ID_129_loc_key: "IRNSS1-J" # todo: NEW TRANSLATION
+ missile_RAJ_ID_130_loc_key: "IRNSS1-K" # todo: NEW TRANSLATION
+ missile_RAJ_ID_131_loc_key: "IRNSS1-L" # todo: CHANGED
+ missile_RAJ_ID_132_loc_key: "IRNSS1-M" # todo: CHANGED
+ missile_RAJ_ID_141_loc_key: "INSAT-1" # todo: CHANGED
+ missile_RAJ_ID_142_loc_key: "INSAT-2" # todo: CHANGED
+ missile_RAJ_ID_143_loc_key: "INSAT-3" # todo: CHANGED
+ missile_RAJ_ID_144_loc_key: "INSAT-4" # todo: CHANGED
+ missile_RAJ_ID_145_loc_key: "HAMSAT" # todo: CHANGED
+ missile_RAJ_ID_146_loc_key: "GSAT-6" # todo: CHANGED
+ missile_RAJ_ID_147_loc_key: "GSAT-8" # todo: NEW TRANSLATION
+ missile_RAJ_ID_148_loc_key: "GSAT-10" # todo: NEW TRANSLATION
+ missile_RAJ_ID_149_loc_key: "GSAT-12" # todo: NEW TRANSLATION
+ missile_RAJ_ID_150_loc_key: "GSAT-14" # todo: NEW TRANSLATION
+ missile_RAJ_ID_151_loc_key: "GSAT-16" # todo: NEW TRANSLATION
+ missile_RAJ_ID_152_loc_key: "GSAT-18" # todo: NEW TRANSLATION
+ missile_RAJ_ID_161_loc_key: "RISAT-1" # todo: NEW TRANSLATION
+ missile_RAJ_ID_162_loc_key: "RISAT-2" # todo: NEW TRANSLATION
+ missile_RAJ_ID_163_loc_key: "RISAT-2B" # todo: NEW TRANSLATION
+ missile_RAJ_ID_164_loc_key: "RISAT-2BR1" # todo: NEW TRANSLATION
+ missile_RAJ_ID_165_loc_key: "RISAT-3" # todo: NEW TRANSLATION
+ missile_RAJ_ID_166_loc_key: "RISAT-3A" # todo: NEW TRANSLATION
+ missile_RAJ_ID_167_loc_key: "RISAT-4" # todo: NEW TRANSLATION
+ missile_RAJ_ID_168_loc_key: "RISAT-4X" # todo: NEW TRANSLATION
+ missile_RAJ_ID_169_loc_key: "RISAT-5" # todo: NEW TRANSLATION
+ missile_RAJ_ID_170_loc_key: "RISAT-5A" # todo: NEW TRANSLATION
+ missile_RAJ_ID_171_loc_key: "RISAT-6" # todo: NEW TRANSLATION
+ missile_RAJ_ID_172_loc_key: "RISAT-6X" # todo: NEW TRANSLATION
+ missile_RAJ_ID_181_loc_key: "Astrosat MK-1" # todo: NEW TRANSLATION
+ missile_RAJ_ID_182_loc_key: "Astrosat MK-2" # todo: NEW TRANSLATION
+ missile_RAJ_ID_183_loc_key: "Astrosat MK-2A" # todo: NEW TRANSLATION
+ missile_RAJ_ID_184_loc_key: "Astrosat MK-3" # todo: NEW TRANSLATION
+ missile_RAJ_ID_185_loc_key: "Astrosat MK-4" # todo: NEW TRANSLATION
+ missile_RAJ_ID_186_loc_key: "Astrosat MK-5" # todo: NEW TRANSLATION
+ missile_RAJ_ID_187_loc_key: "Astrosat MK-6" # todo: NEW TRANSLATION
+ missile_RAJ_ID_188_loc_key: "Astrosat MK-7" # todo: NEW TRANSLATION
+ missile_RAJ_ID_189_loc_key: "Astrosat MK-8" # todo: NEW TRANSLATION
+ missile_RAJ_ID_190_loc_key: "Astrosat MK-9" # todo: NEW TRANSLATION
+ missile_PAK_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_PAK_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_PAK_ID_101_loc_key: "Shaheen-3" # todo: NEW TRANSLATION
+ missile_PAK_ID_102_loc_key: "Shaheen-7" # todo: NEW TRANSLATION
+ missile_PAK_ID_103_loc_key: "Shaheen-8" # todo: NEW TRANSLATION
+ missile_PAK_ID_104_loc_key: "Shaheen-9" # todo: NEW TRANSLATION
+ missile_PAK_ID_105_loc_key: "Shaheen-X" # todo: NEW TRANSLATION
+ missile_PAK_ID_106_loc_key: "Ababeel-5" # todo: NEW TRANSLATION
+ missile_PAK_ID_107_loc_key: "Ababeel-5-2" # todo: NEW TRANSLATION
+ missile_PAK_ID_108_loc_key: "Ababeel-6" # todo: NEW TRANSLATION
+ missile_PAK_ID_109_loc_key: "Ababeel-7" # todo: NEW TRANSLATION
+ missile_PAK_ID_110_loc_key: "Ababeel-8" # todo: NEW TRANSLATION
+ missile_PAK_ID_111_loc_key: "Ababeel-9" # todo: CHANGED
+ missile_PAK_ID_112_loc_key: "Ababeel-10" # todo: CHANGED
+ missile_PAK_ID_121_loc_key: "Pej-tou-1A" # todo: CHANGED
+ missile_PAK_ID_122_loc_key: "Pej-tou-1B" # todo: CHANGED
+ missile_PAK_ID_123_loc_key: "Pej-tou-1C" # todo: CHANGED
+ missile_PAK_ID_124_loc_key: "Pej-tou-1D" # todo: CHANGED
+ missile_PAK_ID_125_loc_key: "PSGPSS" # todo: CHANGED
+ missile_PAK_ID_126_loc_key: "PSGPSS-2" # todo: CHANGED
+ missile_PAK_ID_127_loc_key: "PSGPSS-3" # todo: CHANGED
+ missile_PAK_ID_128_loc_key: "PSGPSS-4" # todo: CHANGED
+ missile_PAK_ID_129_loc_key: "PSGPSS-5" # todo: NEW TRANSLATION
+ missile_PAK_ID_130_loc_key: "PSGPSS-6" # todo: NEW TRANSLATION
+ missile_PAK_ID_131_loc_key: "PSGPSS-7" # todo: CHANGED
+ missile_PAK_ID_132_loc_key: "PSGPSS-8" # todo: CHANGED
+ missile_PAK_ID_141_loc_key: "Badr-1" # todo: CHANGED
+ missile_PAK_ID_142_loc_key: "Badr-2" # todo: CHANGED
+ missile_PAK_ID_143_loc_key: "Badr-3" # todo: CHANGED
+ missile_PAK_ID_144_loc_key: "Badr-4" # todo: CHANGED
+ missile_PAK_ID_145_loc_key: "Badr-5" # todo: CHANGED
+ missile_PAK_ID_146_loc_key: "Badr-6" # todo: CHANGED
+ missile_PAK_ID_147_loc_key: "Badr-7" # todo: NEW TRANSLATION
+ missile_PAK_ID_148_loc_key: "Badr-8" # todo: NEW TRANSLATION
+ missile_PAK_ID_149_loc_key: "Badr-9" # todo: NEW TRANSLATION
+ missile_PAK_ID_150_loc_key: "Badr-10" # todo: NEW TRANSLATION
+ missile_PAK_ID_151_loc_key: "Badr-11" # todo: NEW TRANSLATION
+ missile_PAK_ID_152_loc_key: "Badr-12" # todo: NEW TRANSLATION
+ missile_PAK_ID_161_loc_key: "PRSS-1" # todo: NEW TRANSLATION
+ missile_PAK_ID_162_loc_key: "PRSS-2" # todo: NEW TRANSLATION
+ missile_PAK_ID_163_loc_key: "PRSS-3" # todo: NEW TRANSLATION
+ missile_PAK_ID_164_loc_key: "PRSS-4" # todo: NEW TRANSLATION
+ missile_PAK_ID_165_loc_key: "PRSS-5" # todo: NEW TRANSLATION
+ missile_PAK_ID_166_loc_key: "PRSS-6" # todo: NEW TRANSLATION
+ missile_PAK_ID_167_loc_key: "PRSS-7" # todo: NEW TRANSLATION
+ missile_PAK_ID_168_loc_key: "PRSS-8" # todo: NEW TRANSLATION
+ missile_PAK_ID_169_loc_key: "PRSS-9" # todo: NEW TRANSLATION
+ missile_PAK_ID_170_loc_key: "PRSS-10" # todo: NEW TRANSLATION
+ missile_PAK_ID_171_loc_key: "PRSS-11" # todo: NEW TRANSLATION
+ missile_PAK_ID_172_loc_key: "PRSS-12" # todo: NEW TRANSLATION
+ missile_PAK_ID_181_loc_key: "PASS-1" # todo: NEW TRANSLATION
+ missile_PAK_ID_182_loc_key: "PASS-2" # todo: NEW TRANSLATION
+ missile_PAK_ID_183_loc_key: "PASS-2C" # todo: NEW TRANSLATION
+ missile_PAK_ID_184_loc_key: "PASS-3" # todo: NEW TRANSLATION
+ missile_PAK_ID_185_loc_key: "PASS-3-1" # todo: NEW TRANSLATION
+ missile_PAK_ID_186_loc_key: "PASS-3-Z" # todo: NEW TRANSLATION
+ missile_PAK_ID_187_loc_key: "PASS-4" # todo: NEW TRANSLATION
+ missile_PAK_ID_188_loc_key: "PASS-4-1" # todo: NEW TRANSLATION
+ missile_PAK_ID_189_loc_key: "PASS-4-2" # todo: NEW TRANSLATION
+ missile_PAK_ID_190_loc_key: "PASS-5" # todo: NEW TRANSLATION
+ missile_NKO_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_NKO_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_NKO_ID_101_loc_key: "Vostock" # todo: NEW TRANSLATION
+ missile_NKO_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
+ missile_NKO_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
+ missile_NKO_ID_104_loc_key: "Unha-1" # todo: NEW TRANSLATION
+ missile_NKO_ID_105_loc_key: "Unha-2" # todo: NEW TRANSLATION
+ missile_NKO_ID_106_loc_key: "Unha-3" # todo: NEW TRANSLATION
+ missile_NKO_ID_107_loc_key: "Unha-4" # todo: NEW TRANSLATION
+ missile_NKO_ID_108_loc_key: "Unha-5" # todo: NEW TRANSLATION
+ missile_NKO_ID_109_loc_key: "Unha-6" # todo: NEW TRANSLATION
+ missile_NKO_ID_110_loc_key: "Unha-7" # todo: NEW TRANSLATION
+ missile_NKO_ID_111_loc_key: "Unha-8" # todo: CHANGED
+ missile_NKO_ID_112_loc_key: "Unha-9" # todo: CHANGED
+ missile_NKO_ID_121_loc_key: "$missile_generic_ID_121_loc_key$" # todo: CHANGED
+ missile_NKO_ID_122_loc_key: "$missile_generic_ID_122_loc_key$" # todo: CHANGED
+ missile_NKO_ID_123_loc_key: "$missile_generic_ID_123_loc_key$" # todo: CHANGED
+ missile_NKO_ID_124_loc_key: "$missile_generic_ID_124_loc_key$" # todo: CHANGED
+ missile_NKO_ID_125_loc_key: "$missile_generic_ID_125_loc_key$" # todo: CHANGED
+ missile_NKO_ID_126_loc_key: "$missile_generic_ID_126_loc_key$" # todo: CHANGED
+ missile_NKO_ID_127_loc_key: "$missile_generic_ID_127_loc_key$" # todo: CHANGED
+ missile_NKO_ID_128_loc_key: "$missile_generic_ID_128_loc_key$" # todo: CHANGED
+ missile_NKO_ID_129_loc_key: "$missile_generic_ID_129_loc_key$" # todo: NEW TRANSLATION
+ missile_NKO_ID_130_loc_key: "$missile_generic_ID_130_loc_key$" # todo: NEW TRANSLATION
+ missile_NKO_ID_131_loc_key: "$missile_generic_ID_131_loc_key$" # todo: CHANGED
+ missile_NKO_ID_132_loc_key: "$missile_generic_ID_132_loc_key$" # todo: CHANGED
+ missile_NKO_ID_141_loc_key: "Kwangmjongsong-1" # todo: CHANGED
+ missile_NKO_ID_142_loc_key: "Kwangmjongsong-2" # todo: CHANGED
+ missile_NKO_ID_143_loc_key: "Kwangmjongsong-3" # todo: CHANGED
+ missile_NKO_ID_144_loc_key: "Kwangmjongsong-4" # todo: CHANGED
+ missile_NKO_ID_145_loc_key: "Kwangmjongsong-5" # todo: CHANGED
+ missile_NKO_ID_146_loc_key: "Kwangmjongsong-6" # todo: CHANGED
+ missile_NKO_ID_147_loc_key: "Kwangmyongsong-7" # todo: NEW TRANSLATION
+ missile_NKO_ID_148_loc_key: "Kwangmyongsong-8" # todo: NEW TRANSLATION
+ missile_NKO_ID_149_loc_key: "Kwangmyongsong-9" # todo: NEW TRANSLATION
+ missile_NKO_ID_150_loc_key: "Kwangmyongsong-10" # todo: NEW TRANSLATION
+ missile_NKO_ID_151_loc_key: "Kwangmyongsong-11" # todo: NEW TRANSLATION
+ missile_NKO_ID_152_loc_key: "Kwangmyongsong-12" # todo: NEW TRANSLATION
+ missile_NKO_ID_161_loc_key: "SPYSAT 1965" # todo: NEW TRANSLATION
+ missile_NKO_ID_162_loc_key: "SPYSAT 1975" # todo: NEW TRANSLATION
+ missile_NKO_ID_163_loc_key: "SPYSAT 1985" # todo: NEW TRANSLATION
+ missile_NKO_ID_164_loc_key: "SPYSAT 1995" # todo: NEW TRANSLATION
+ missile_NKO_ID_165_loc_key: "SPYSAT 2005" # todo: NEW TRANSLATION
+ missile_NKO_ID_166_loc_key: "SPYSAT 2015" # todo: NEW TRANSLATION
+ missile_NKO_ID_167_loc_key: "SPYSAT 2025" # todo: NEW TRANSLATION
+ missile_NKO_ID_168_loc_key: "SPYSAT 2035" # todo: NEW TRANSLATION
+ missile_NKO_ID_169_loc_key: "SPYSAT 2045" # todo: NEW TRANSLATION
+ missile_NKO_ID_170_loc_key: "SPYSAT 2055" # todo: NEW TRANSLATION
+ missile_NKO_ID_171_loc_key: "SPYSAT 2065" # todo: NEW TRANSLATION
+ missile_NKO_ID_172_loc_key: "SPYSAT 2075" # todo: NEW TRANSLATION
+ missile_NKO_ID_181_loc_key: "KILLSAT 1985" # todo: NEW TRANSLATION
+ missile_NKO_ID_182_loc_key: "KILLSAT 1995" # todo: NEW TRANSLATION
+ missile_NKO_ID_183_loc_key: "KILLSAT 2005" # todo: NEW TRANSLATION
+ missile_NKO_ID_184_loc_key: "KILLSAT 2015" # todo: NEW TRANSLATION
+ missile_NKO_ID_185_loc_key: "KILLSAT 2025" # todo: NEW TRANSLATION
+ missile_NKO_ID_186_loc_key: "KILLSAT 2035" # todo: NEW TRANSLATION
+ missile_NKO_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_NKO_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_NKO_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_NKO_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_PER_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_PER_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_PER_ID_101_loc_key: "Safir" # todo: NEW TRANSLATION
+ missile_PER_ID_102_loc_key: "Safir-m" # todo: NEW TRANSLATION
+ missile_PER_ID_103_loc_key: "Simorgh" # todo: NEW TRANSLATION
+ missile_PER_ID_104_loc_key: "Simorgh-1A" # todo: NEW TRANSLATION
+ missile_PER_ID_105_loc_key: "Qased" # todo: NEW TRANSLATION
+ missile_PER_ID_106_loc_key: "Qased D" # todo: NEW TRANSLATION
+ missile_PER_ID_107_loc_key: "Zuljanah-1" # todo: NEW TRANSLATION
+ missile_PER_ID_108_loc_key: "Zuljanah-2" # todo: NEW TRANSLATION
+ missile_PER_ID_109_loc_key: "Zuljanah-3" # todo: NEW TRANSLATION
+ missile_PER_ID_110_loc_key: "Zuljanah-4" # todo: NEW TRANSLATION
+ missile_PER_ID_111_loc_key: "Zuljanah-5" # todo: CHANGED
+ missile_PER_ID_112_loc_key: "Zuljanah-6" # todo: CHANGED
+ missile_PER_ID_121_loc_key: "SMJ-10" # todo: CHANGED
+ missile_PER_ID_122_loc_key: "SMJ-20" # todo: CHANGED
+ missile_PER_ID_123_loc_key: "SMJ-30" # todo: CHANGED
+ missile_PER_ID_124_loc_key: "SMJ-40" # todo: CHANGED
+ missile_PER_ID_125_loc_key: "Omid" # todo: CHANGED
+ missile_PER_ID_126_loc_key: "Zafar-2" # todo: CHANGED
+ missile_PER_ID_127_loc_key: "Zafar-5" # todo: CHANGED
+ missile_PER_ID_128_loc_key: "Zafar-7" # todo: CHANGED
+ missile_PER_ID_129_loc_key: "Zafar-8" # todo: NEW TRANSLATION
+ missile_PER_ID_130_loc_key: "Zafar-9" # todo: NEW TRANSLATION
+ missile_PER_ID_131_loc_key: "Zafar-10" # todo: CHANGED
+ missile_PER_ID_132_loc_key: "Zafar-11" # todo: CHANGED
+ missile_PER_ID_141_loc_key: "Peyg-1" # todo: CHANGED
+ missile_PER_ID_142_loc_key: "Peyg-2" # todo: CHANGED
+ missile_PER_ID_143_loc_key: "Peyg-3" # todo: CHANGED
+ missile_PER_ID_144_loc_key: "Peyg-4" # todo: CHANGED
+ missile_PER_ID_145_loc_key: "Noor" # todo: CHANGED
+ missile_PER_ID_146_loc_key: "Noor-3" # todo: CHANGED
+ missile_PER_ID_147_loc_key: "Hekmat" # todo: NEW TRANSLATION
+ missile_PER_ID_148_loc_key: "Hekmat-70" # todo: NEW TRANSLATION
+ missile_PER_ID_149_loc_key: "Hekmat-80" # todo: NEW TRANSLATION
+ missile_PER_ID_150_loc_key: "Hekmat-90" # todo: NEW TRANSLATION
+ missile_PER_ID_151_loc_key: "Hekmat-100" # todo: NEW TRANSLATION
+ missile_PER_ID_152_loc_key: "Hekmat-200" # todo: NEW TRANSLATION
+ missile_PER_ID_161_loc_key: "AU-1 " # todo: NEW TRANSLATION
+ missile_PER_ID_162_loc_key: "AU-3B" # todo: NEW TRANSLATION
+ missile_PER_ID_163_loc_key: "AU-3C" # todo: NEW TRANSLATION
+ missile_PER_ID_164_loc_key: "KC-1" # todo: NEW TRANSLATION
+ missile_PER_ID_165_loc_key: "KC-2B" # todo: NEW TRANSLATION
+ missile_PER_ID_166_loc_key: "KC-30" # todo: NEW TRANSLATION
+ missile_PER_ID_167_loc_key: "KC-35C" # todo: NEW TRANSLATION
+ missile_PER_ID_168_loc_key: "KC-40" # todo: NEW TRANSLATION
+ missile_PER_ID_169_loc_key: "KC-45" # todo: NEW TRANSLATION
+ missile_PER_ID_170_loc_key: "KC-50" # todo: NEW TRANSLATION
+ missile_PER_ID_171_loc_key: "KC-55" # todo: NEW TRANSLATION
+ missile_PER_ID_172_loc_key: "KC-60" # todo: NEW TRANSLATION
+ missile_PER_ID_181_loc_key: "Fareste-1" # todo: NEW TRANSLATION
+ missile_PER_ID_182_loc_key: "Fareste-2D" # todo: NEW TRANSLATION
+ missile_PER_ID_183_loc_key: "Fareste-3" # todo: NEW TRANSLATION
+ missile_PER_ID_184_loc_key: "Fareste-4" # todo: NEW TRANSLATION
+ missile_PER_ID_185_loc_key: "Fareste-5B" # todo: NEW TRANSLATION
+ missile_PER_ID_186_loc_key: "Fareste-6D" # todo: NEW TRANSLATION
+ missile_PER_ID_187_loc_key: "Fareste-7" # todo: NEW TRANSLATION
+ missile_PER_ID_188_loc_key: "Fareste-8" # todo: NEW TRANSLATION
+ missile_PER_ID_189_loc_key: "Fareste-9" # todo: NEW TRANSLATION
+ missile_PER_ID_190_loc_key: "Fareste-9D" # todo: NEW TRANSLATION
+ missile_UKR_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_UKR_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_UKR_ID_101_loc_key: "Cyclone-2" # todo: CHANGED
+ missile_UKR_ID_102_loc_key: "Cyclone-3" # todo: CHANGED
+ missile_UKR_ID_103_loc_key: "Zenit-2SLB" # todo: CHANGED
+ missile_UKR_ID_104_loc_key: "Zenit-3SL" # todo: CHANGED
+ missile_UKR_ID_105_loc_key: "Zenit-3SLB" # todo: CHANGED
+ missile_UKR_ID_106_loc_key: "Cyclone-5" # todo: CHANGED
+ missile_UKR_ID_107_loc_key: "Mayak-M 3.9" # todo: CHANGED
+ missile_UKR_ID_108_loc_key: "Mayak-SH-3" # todo: CHANGED
+ missile_UKR_ID_109_loc_key: "OLV 2045" # todo: NEW TRANSLATION
+ missile_UKR_ID_110_loc_key: "OLV 2055" # todo: NEW TRANSLATION
+ missile_UKR_ID_111_loc_key: "OLV 2065" # todo: CHANGED
+ missile_UKR_ID_112_loc_key: "OLV 2075" # todo: CHANGED
+ missile_UKR_ID_121_loc_key: "GNSS 1965" # todo: CHANGED
+ missile_UKR_ID_122_loc_key: "GNSS 1975" # todo: CHANGED
+ missile_UKR_ID_123_loc_key: "GNSS 1985" # todo: CHANGED
+ missile_UKR_ID_124_loc_key: "GNSS 1995" # todo: CHANGED
+ missile_UKR_ID_125_loc_key: "GPS Blok IIRM" # todo: CHANGED
+ missile_UKR_ID_126_loc_key: "GPS Blok IIF" # todo: CHANGED
+ missile_UKR_ID_127_loc_key: "GPS Blok III" # todo: CHANGED
+ missile_UKR_ID_128_loc_key: "GPS Blok IIIF" # todo: CHANGED
+ missile_UKR_ID_129_loc_key: "GNSS 2045" # todo: NEW TRANSLATION
+ missile_UKR_ID_130_loc_key: "GNSS 2055" # todo: NEW TRANSLATION
+ missile_UKR_ID_131_loc_key: "GNSS 2065" # todo: CHANGED
+ missile_UKR_ID_132_loc_key: "GNSS 2075" # todo: CHANGED
+ missile_UKR_ID_141_loc_key: "Molniya-1" # todo: CHANGED
+ missile_UKR_ID_142_loc_key: "Strela-1" # todo: CHANGED
+ missile_UKR_ID_143_loc_key: "Gorizont" # todo: CHANGED
+ missile_UKR_ID_144_loc_key: "Lybid" # todo: CHANGED
+ missile_UKR_ID_145_loc_key: "Lybid-M" # todo: CHANGED
+ missile_UKR_ID_146_loc_key: "Lybid 2" # todo: CHANGED
+ missile_UKR_ID_147_loc_key: "Lybid 2M" # todo: NEW TRANSLATION
+ missile_UKR_ID_148_loc_key: "Lybid 3" # todo: NEW TRANSLATION
+ missile_UKR_ID_149_loc_key: "COMSAT 2045" # todo: NEW TRANSLATION
+ missile_UKR_ID_150_loc_key: "COMSAT 2055" # todo: NEW TRANSLATION
+ missile_UKR_ID_151_loc_key: "COMSAT 2065" # todo: NEW TRANSLATION
+ missile_UKR_ID_152_loc_key: "COMSAT 2075" # todo: NEW TRANSLATION
+ missile_UKR_ID_161_loc_key: "Tselina-D" # todo: NEW TRANSLATION
+ missile_UKR_ID_162_loc_key: "Tselina-2" # todo: NEW TRANSLATION
+ missile_UKR_ID_163_loc_key: "Sich-1" # todo: NEW TRANSLATION
+ missile_UKR_ID_164_loc_key: "Sich-1M" # todo: NEW TRANSLATION
+ missile_UKR_ID_165_loc_key: "Sich-2" # todo: NEW TRANSLATION
+ missile_UKR_ID_166_loc_key: "Sich-2M" # todo: NEW TRANSLATION
+ missile_UKR_ID_167_loc_key: "Sich-3-O" # todo: NEW TRANSLATION
+ missile_UKR_ID_168_loc_key: "Sich-3R" # todo: NEW TRANSLATION
+ missile_UKR_ID_169_loc_key: "SPYSAT 2045" # todo: NEW TRANSLATION
+ missile_UKR_ID_170_loc_key: "SPYSAT 2055" # todo: NEW TRANSLATION
+ missile_UKR_ID_171_loc_key: "SPYSAT 2065" # todo: NEW TRANSLATION
+ missile_UKR_ID_172_loc_key: "SPYSAT 2075" # todo: NEW TRANSLATION
+ missile_UKR_ID_181_loc_key: "KILLSAT 1985" # todo: NEW TRANSLATION
+ missile_UKR_ID_182_loc_key: "KILLSAT 1995" # todo: NEW TRANSLATION
+ missile_UKR_ID_183_loc_key: "KILLSAT 2005" # todo: NEW TRANSLATION
+ missile_UKR_ID_184_loc_key: "KILLSAT 2015" # todo: NEW TRANSLATION
+ missile_UKR_ID_185_loc_key: "KILLSAT 2025" # todo: NEW TRANSLATION
+ missile_UKR_ID_186_loc_key: "KILLSAT 2035" # todo: NEW TRANSLATION
+ missile_UKR_ID_187_loc_key: "KILLSAT 2045" # todo: NEW TRANSLATION
+ missile_UKR_ID_188_loc_key: "KILLSAT 2055" # todo: NEW TRANSLATION
+ missile_UKR_ID_189_loc_key: "KILLSAT 2065" # todo: NEW TRANSLATION
+ missile_UKR_ID_190_loc_key: "KILLSAT 2075" # todo: NEW TRANSLATION
+ missile_UZB_ID_0_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_UZB_ID_1_loc_key: "Nic" # todo: NEW TRANSLATION
+ missile_UZB_ID_101_loc_key: "Vostok" # todo: NEW TRANSLATION
+ missile_UZB_ID_102_loc_key: "Soyuz" # todo: NEW TRANSLATION
+ missile_UZB_ID_103_loc_key: "Proton-K" # todo: NEW TRANSLATION
+ missile_UZB_ID_104_loc_key: "N-1" # todo: NEW TRANSLATION
+ missile_UZB_ID_105_loc_key: "Proton-K BlockDM" # todo: NEW TRANSLATION
+ missile_UZB_ID_106_loc_key: "Zenit-2" # todo: NEW TRANSLATION
+ missile_UZB_ID_107_loc_key: "Soyuz-Fregat" # todo: NEW TRANSLATION
+ missile_UZB_ID_108_loc_key: "Angara 1.2-PP" # todo: NEW TRANSLATION
+ missile_UZB_ID_109_loc_key: "$missile_generic_ID_109_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_110_loc_key: "$missile_generic_ID_110_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_111_loc_key: "$missile_generic_ID_111_loc_key$" # todo: CHANGED
+ missile_UZB_ID_112_loc_key: "$missile_generic_ID_112_loc_key$" # todo: CHANGED
+ missile_UZB_ID_121_loc_key: "GLONASS Blok I" # todo: CHANGED
+ missile_UZB_ID_122_loc_key: "GLONASS Blok IIa" # todo: CHANGED
+ missile_UZB_ID_123_loc_key: "GLONASS Blok IIv" # todo: CHANGED
+ missile_UZB_ID_124_loc_key: "GLONASS-M" # todo: CHANGED
+ missile_UZB_ID_125_loc_key: "GLONASS-K" # todo: CHANGED
+ missile_UZB_ID_126_loc_key: "GLONASS-K2" # todo: CHANGED
+ missile_UZB_ID_127_loc_key: "GLONASS-V" # todo: CHANGED
+ missile_UZB_ID_128_loc_key: "GLONASS-KM" # todo: CHANGED
+ missile_UZB_ID_129_loc_key: "$missile_generic_ID_129_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_130_loc_key: "$missile_generic_ID_130_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_131_loc_key: "$missile_generic_ID_131_loc_key$" # todo: CHANGED
+ missile_UZB_ID_132_loc_key: "$missile_generic_ID_132_loc_key$" # todo: CHANGED
+ missile_UZB_ID_141_loc_key: "Intersputnik" # todo: CHANGED
+ missile_UZB_ID_142_loc_key: "Gorizont" # todo: CHANGED
+ missile_UZB_ID_143_loc_key: "Ekspress" # todo: CHANGED
+ missile_UZB_ID_144_loc_key: "Yamal" # todo: CHANGED
+ missile_UZB_ID_145_loc_key: "Meridian" # todo: CHANGED
+ missile_UZB_ID_146_loc_key: "Meridian-M" # todo: CHANGED
+ missile_UZB_ID_147_loc_key: "Meridian-K" # todo: NEW TRANSLATION
+ missile_UZB_ID_148_loc_key: "Meridian-V" # todo: NEW TRANSLATION
+ missile_UZB_ID_149_loc_key: "$missile_generic_ID_149_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_150_loc_key: "$missile_generic_ID_150_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_151_loc_key: "$missile_generic_ID_151_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_152_loc_key: "$missile_generic_ID_152_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_161_loc_key: "US-K" # todo: NEW TRANSLATION
+ missile_UZB_ID_162_loc_key: "US-KS" # todo: NEW TRANSLATION
+ missile_UZB_ID_163_loc_key: "US-KMO" # todo: NEW TRANSLATION
+ missile_UZB_ID_164_loc_key: "Yantar" # todo: NEW TRANSLATION
+ missile_UZB_ID_165_loc_key: "EKS Kupol" # todo: NEW TRANSLATION
+ missile_UZB_ID_166_loc_key: "EKS Kupol-M" # todo: NEW TRANSLATION
+ missile_UZB_ID_167_loc_key: "EKS Kupol-K" # todo: NEW TRANSLATION
+ missile_UZB_ID_168_loc_key: "EKS Kupol-V" # todo: NEW TRANSLATION
+ missile_UZB_ID_169_loc_key: "$missile_generic_ID_169_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_170_loc_key: "$missile_generic_ID_170_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_171_loc_key: "$missile_generic_ID_171_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_172_loc_key: "$missile_generic_ID_172_loc_key$" # todo: NEW TRANSLATION
+ missile_UZB_ID_181_loc_key: "Olymp-K1" # todo: NEW TRANSLATION
+ missile_UZB_ID_182_loc_key: "Olymp-K2" # todo: NEW TRANSLATION
+ missile_UZB_ID_183_loc_key: "Olymp-K3" # todo: NEW TRANSLATION
+ missile_UZB_ID_184_loc_key: "Olymp-K4" # todo: NEW TRANSLATION
+ missile_UZB_ID_185_loc_key: "Olymp-K5" # todo: NEW TRANSLATION
+ missile_UZB_ID_186_loc_key: "Olymp-K6" # todo: NEW TRANSLATION
+ missile_UZB_ID_187_loc_key: "Olymp-K7" # todo: NEW TRANSLATION
+ missile_UZB_ID_188_loc_key: "Olymp-K8" # todo: NEW TRANSLATION
+ missile_UZB_ID_189_loc_key: "Olymp-K9" # todo: NEW TRANSLATION
+ missile_UZB_ID_190_loc_key: "Olymp-K10" # todo: NEW TRANSLATION

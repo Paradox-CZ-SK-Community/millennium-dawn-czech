@@ -1,123 +1,102 @@
 ﻿l_english:
-  TACTIC_ATTACKER: " (Útočník)" # todo: NEW TRANSLATION
-  TACTIC_DEFENDER: " (Bránící)" # todo: NEW TRANSLATION
-  TACTIC_DESC: "Velitel každé strany si zvolí taktiku pro bitvu, která ovlivní její průběh. Velitel s vyššími dovednostmi nebo pokročilejším průzkumem má větší šanci zvolit protitaktiku, která neutralizuje protivníkovu." # todo: NEW TRANSLATION
-  city_combat: "Městský boj" # todo: NEW TRANSLATION
-  insurgency: "Povstání" # todo: NEW TRANSLATION
-  tactic_recon_insurgency_attack: "Povstalecký ofenzivní průzkum" # todo: NEW TRANSLATION
-  tactic_recon_insurgency_defender: "Povstalecký obranný průzkum" # todo: NEW TRANSLATION
-  tactic_insurgency_attacker: "Povstalecká ofenzíva" # todo: NEW TRANSLATION
-  tactic_insurgency_defender: "Povstalecká obrana" # todo: NEW TRANSLATION
-  tactic_flexible_lines: "Pružné linie" # todo: NEW TRANSLATION
-  tactic_dedicated_emplacements: "Vyhrazená palebná stanoviště" # todo: NEW TRANSLATION
-  tactic_thunder_run: "Bleskový průlom" # todo: NEW TRANSLATION
-  tactic_thunder_run_breakthrough: "Ofenzivní průlom" # todo: NEW TRANSLATION
-  tactic_thunder_run_push: "Ofenzivní postup" # todo: NEW TRANSLATION
-  tactic_thunder_run_maneuver: "Agresivní manévrování" # todo: NEW TRANSLATION
-  tactic_thunder_run_retreat: "Obranné ustoupení" # todo: NEW TRANSLATION
-  tactic_thunder_run_delay: "Zdržovací akce" # todo: NEW TRANSLATION
-  tactic_deep_battle_push: "Průlomový nátlak" # todo: NEW TRANSLATION
-  tactic_deep_battle_assault: "Pancéřovaný útok" # todo: NEW TRANSLATION
-  tactic_deep_battle_breakthrough: "Pancéřovaný průlom" # todo: NEW TRANSLATION
-  tactic_deep_battle_encirclement: "Hluboký úder" # todo: NEW TRANSLATION
-  tactic_deep_battle_rush: "Mechanizovaný nápor" # todo: NEW TRANSLATION
-  tactic_deep_battle_retreat: "Přerušení kontaktu" # todo: NEW TRANSLATION
-  tactic_deep_battle_hold: "Zdržovací akce" # todo: NEW TRANSLATION
-  tactic_deep_battle_counter_attack: "Kontratak" # todo: NEW TRANSLATION
-  tactic_insurgent_ied_strike: "Úder IED" # todo: NEW TRANSLATION
-  tactic_insurgent_vbied: "Úder VBIED" # todo: NEW TRANSLATION
-  tactic_insurgent_raid: "Přepadové taktiky" # todo: NEW TRANSLATION
-  tactic_insurgent_terror_strike: "Teroristické útoky" # todo: NEW TRANSLATION
-  tactic_insurgent_base_attack: "Útok na FOB" # todo: NEW TRANSLATION
-  tactic_insurgent_tunnel_strike: "Tunelové přepady" # todo: NEW TRANSLATION
-  tactic_insurgent_tunnel_hiding: "Úkrytné tunely" # todo: NEW TRANSLATION
-  tactic_insurgent_urban_hideouts: "Městské skrýše" # todo: NEW TRANSLATION
-  tactic_insurgent_sniper_ops: "Operace odstřelovačů" # todo: NEW TRANSLATION
-  tactic_insurgent_convoy_ambush: "Přepadení konvoje" # todo: NEW TRANSLATION
-  tactic_counter_ied: "Operace proti IED" # todo: NEW TRANSLATION
-  tactic_counter_foot_patrols: "Přítomnostní patroly" # todo: NEW TRANSLATION
-  tactic_counter_stronghold_raid: "Útoky na pevnosti" # todo: NEW TRANSLATION
-  tactic_counter_cordon_search: "Uzavření a prohledání" # todo: NEW TRANSLATION
-  tactic_counter_react_to_contact: "Reakce na kontakt" # todo: NEW TRANSLATION
-  tactic_counter_fireforce: "Palebná jednotka" # todo: NEW TRANSLATION
-  tactic_counter_perimeter_defence: "Obrana perimetru" # todo: NEW TRANSLATION
-  tactic_counter_tunnel_rats: "Tuneloví specialisté" # todo: NEW TRANSLATION
-  tactic_basic_attack: "Útok" # todo: NEW TRANSLATION
-  tactic_basic_defend: "Obrana" # todo: NEW TRANSLATION
-  tactic_counterattack: "Kontrútok" # todo: NEW TRANSLATION
-  tactic_assault: "Nápor" # todo: NEW TRANSLATION
-  tactic_cc_attack: "Útok na blízko" # todo: NEW TRANSLATION
-  tactic_cc_defend: "Obrana na blízko" # todo: NEW TRANSLATION
-  tactic_cc_storm: "Bleskový útok na blízko" # todo: NEW TRANSLATION
-  tactic_cc_local_strong_point: "Lokální opěrný bod (boje na blízko)" # todo: NEW TRANSLATION
-  tactic_cc_withdraw: "Stažení z boje na blízko" # todo: NEW TRANSLATION
-  tactic_encirclement: "Obklíčení" # todo: NEW TRANSLATION
-  tactic_delay: "Zdržení" # todo: NEW TRANSLATION
-  tactic_shock: "Šok" # todo: NEW TRANSLATION
-  tactic_tactical_withdrawal: "Taktické stažení" # todo: NEW TRANSLATION
-  tactic_tw_attack: "Útok při taktickém stažení" # todo: NEW TRANSLATION
-  tactic_tw_defend: "Stažení" # todo: NEW TRANSLATION
-  tactic_tw_chase: "Pronásledování" # todo: NEW TRANSLATION
-  tactic_tw_evade: "Vyhýbání" # todo: NEW TRANSLATION
-  tactic_tw_intercept: "Zachycení" # todo: NEW TRANSLATION
-  tactic_breakthrough: "Průlom" # todo: NEW TRANSLATION
-  tactic_ambush: "Přepadení" # todo: NEW TRANSLATION
-  tactic_blitz: "Bleskový útok" # todo: NEW TRANSLATION
-  tactic_elastic_defense: "Pružná obrana" # todo: NEW TRANSLATION
-  tactic_danger_close_combat: "Boj v bezprostřední blízkosti" # todo: NEW TRANSLATION
-  tactic_tunnel_warfare: "Tunelová válka" # todo: NEW TRANSLATION
-  tactic_insurgent_assault: "Povstalecký nápor" # todo: NEW TRANSLATION
-  tactic_backhand_blow: "Protiofenzivní úder" # todo: NEW TRANSLATION
-  tactic_seize_bridge: "Obsadit most" # todo: NEW TRANSLATION
-  tactic_attacker_sb_hold: "Udržet most" # todo: NEW TRANSLATION
-  tactic_attacker_sb_skillful_defence: "Bránit most" # todo: NEW TRANSLATION
-  tactic_defender_sb_assault: "Útok na most" # todo: NEW TRANSLATION
-  tactic_defender_sb_reckless_assault: "Bezohledný útok" # todo: NEW TRANSLATION
-  tactic_defender_sb_retake_bridge: "Znovu obsadit most" # todo: NEW TRANSLATION
-  tactic_hold_bridge: "Udržet most" # todo: NEW TRANSLATION
-  tactic_attacker_hb_attack: "Útok" # todo: NEW TRANSLATION
-  tactic_attacker_hb_rush: "Rychlý nápor na most" # todo: NEW TRANSLATION
-  tactic_attacker_hb_storm: "Vtržení na most" # todo: NEW TRANSLATION
-  tactic_defender_hb_hold: "Udržet most" # todo: NEW TRANSLATION
-  tactic_defender_hb_skillful_defence: "Bránit most" # todo: NEW TRANSLATION
-  tactic_guerrilla_tactics: "Partyzánské taktiky" # todo: NEW TRANSLATION
-  tactic_human_wave_tactics: "Hromadný nápor" # todo: NEW TRANSLATION
-  tactic_banzai_charge: "Banzai útok" # todo: NEW TRANSLATION
-  tactic_infantry_charge: "Infiltrační útok" # todo: NEW TRANSLATION
-  tactic_planned_attack: "Dobře naplánovaný útok" # todo: NEW TRANSLATION
-  tactic_relentless_assault: "Neúprosný nápor" # todo: NEW TRANSLATION
-  tactic_unexpected_thrust: "Neočekávaný úder" # todo: NEW TRANSLATION
-  tactic_overwhelming_fire: "Drtivá palba" # todo: NEW TRANSLATION
-  tactic_barrage: "Potlačující dělostřelecká palba" # todo: NEW TRANSLATION
-  tactic_tunnel_rats: "Tuneloví specialisté" # todo: NEW TRANSLATION
-  tactic_cordon_and_search: "Koordinované prohledání" # todo: NEW TRANSLATION
-  Mimicking_operations_tactic: "Napodobovací operace" # todo: NEW TRANSLATION
-  Rhizome_Manoeuver: "Rhizomový manévr" # todo: NEW TRANSLATION
-  tactic_node_defense: "Obrana uzlu" # todo: NEW TRANSLATION
-  tactic_rigid_defence: "Pevná obrana" # todo: NEW TRANSLATION
-  tactic_pincer_manouever: "Obkličovací manévr" # todo: NEW TRANSLATION
-  tactic_shock_and_awe: "Šok a hrůza" # todo: NEW TRANSLATION
-  tactic_mobile_defense: "Mobilní obrana" # todo: NEW TRANSLATION
-  tactic_basic_recon_attack: "Průzkumný útok" # todo: NEW TRANSLATION
-  tactic_aggresive_recon: "Agresivní průzkum" # todo: NEW TRANSLATION
-  tactic_limited_recon: "Omezený průzkum" # todo: NEW TRANSLATION
-  tactic_suppression_advance_recon: "Potlačující průzkum" # todo: NEW TRANSLATION
-  tactic_mobile_recon: "Mobilní průzkum" # todo: NEW TRANSLATION
-  tactic_breakthrough_recon: "Průlom v první linii" # todo: NEW TRANSLATION
-  tactic_pincer_recon: "Obkličovací manévr" # todo: NEW TRANSLATION
-  tactic_basic_recon_defense: "Kontraprůzkum" # todo: NEW TRANSLATION
-  tactic_recon_ambush: "Průzkumné přepadení" # todo: NEW TRANSLATION
-  tactic_recon_hunter_packs: "Lovící skupiny" # todo: NEW TRANSLATION
-  tactic_recon_counter_battery: "Protibaterijní palba" # todo: NEW TRANSLATION
-  tactic_recon_node_defense: "Obrana frontového uzlu" # todo: NEW TRANSLATION
-  tactic_city_attack: "Městský útok" # todo: NEW TRANSLATION
-  tactic_city_fixing_attack: "Městský fixační útok" # todo: NEW TRANSLATION
-  tactic_city_frontal_attack: "Městský frontální útok" # todo: NEW TRANSLATION
-  tactic_city_infiltration_attack: "Městský infiltrační útok" # todo: NEW TRANSLATION
-  tactic_city_node_attack: "Městský útok na taktický uzel" # todo: NEW TRANSLATION
-  tactic_city_defense: "Městská obrana" # todo: NEW TRANSLATION
-  tactic_city_layered_defense: "Městská vrstvená obrana" # todo: NEW TRANSLATION
-  tactic_city_static_defense: "Městská statická obrana bodu" # todo: NEW TRANSLATION
-  tactic_city_all_round_defense: "Městská všesměrová obrana" # todo: NEW TRANSLATION
-  tactic_city_crossfire_defense: "Městská obrana křížovou palbou" # todo: NEW TRANSLATION
-  city_attack_movement: "Začátek městského útoku" # todo: NEW TRANSLATION
+ TACTIC_ATTACKER: " (Útočník)" # todo: NEW TRANSLATION
+ TACTIC_DEFENDER: " (Bránící)" # todo: NEW TRANSLATION
+ TACTIC_DESC: "Velitel každé strany si zvolí taktiku pro bitvu, která ovlivní její průběh. Velitel s vyššími dovednostmi nebo pokročilejším průzkumem má větší šanci zvolit protitaktiku, která neutralizuje protivníkovu." # todo: NEW TRANSLATION
+ city_combat: "Městský boj" # todo: NEW TRANSLATION
+ insurgency: "Povstání" # todo: NEW TRANSLATION
+ tactic_recon_insurgency_attack: "Povstalecký ofenzivní průzkum" # todo: NEW TRANSLATION
+ tactic_recon_insurgency_defender: "Povstalecký obranný průzkum" # todo: NEW TRANSLATION
+ tactic_insurgency_attacker: "Povstalecká ofenzíva" # todo: NEW TRANSLATION
+ tactic_insurgency_defender: "Povstalecká obrana" # todo: NEW TRANSLATION
+ tactic_flexible_lines: "Pružné linie" # todo: NEW TRANSLATION
+ tactic_dedicated_emplacements: "Vyhrazená palebná stanoviště" # todo: NEW TRANSLATION
+ tactic_thunder_run: "Bleskový průlom" # todo: NEW TRANSLATION
+ tactic_thunder_run_breakthrough: "Ofenzivní průlom" # todo: NEW TRANSLATION
+ tactic_thunder_run_push: "Ofenzivní postup" # todo: NEW TRANSLATION
+ tactic_thunder_run_maneuver: "Agresivní manévrování" # todo: NEW TRANSLATION
+ tactic_thunder_run_retreat: "Obranné ustoupení" # todo: NEW TRANSLATION
+ tactic_thunder_run_delay: "Zdržovací akce" # todo: NEW TRANSLATION
+ tactic_deep_battle_push: "Průlomový nátlak" # todo: NEW TRANSLATION
+ tactic_deep_battle_assault: "Pancéřovaný útok" # todo: NEW TRANSLATION
+ tactic_deep_battle_breakthrough: "Pancéřovaný průlom" # todo: NEW TRANSLATION
+ tactic_deep_battle_encirclement: "Hluboký úder" # todo: NEW TRANSLATION
+ tactic_deep_battle_rush: "Mechanizovaný nápor" # todo: NEW TRANSLATION
+ tactic_deep_battle_retreat: "Přerušení kontaktu" # todo: NEW TRANSLATION
+ tactic_deep_battle_hold: "Zdržovací akce" # todo: NEW TRANSLATION
+ tactic_deep_battle_counter_attack: "Kontratak" # todo: NEW TRANSLATION
+ tactic_insurgent_ied_strike: "Úder IED" # todo: NEW TRANSLATION
+ tactic_insurgent_vbied: "Úder VBIED" # todo: NEW TRANSLATION
+ tactic_insurgent_raid: "Přepadové taktiky" # todo: NEW TRANSLATION
+ tactic_insurgent_terror_strike: "Teroristické útoky" # todo: NEW TRANSLATION
+ tactic_insurgent_base_attack: "Útok na FOB" # todo: NEW TRANSLATION
+ tactic_insurgent_tunnel_strike: "Tunelové přepady" # todo: NEW TRANSLATION
+ tactic_insurgent_tunnel_hiding: "Úkrytné tunely" # todo: NEW TRANSLATION
+ tactic_insurgent_urban_hideouts: "Městské skrýše" # todo: NEW TRANSLATION
+ tactic_insurgent_sniper_ops: "Operace odstřelovačů" # todo: NEW TRANSLATION
+ tactic_insurgent_convoy_ambush: "Přepadení konvoje" # todo: NEW TRANSLATION
+ tactic_counter_ied: "Operace proti IED" # todo: NEW TRANSLATION
+ tactic_counter_foot_patrols: "Přítomnostní patroly" # todo: NEW TRANSLATION
+ tactic_counter_stronghold_raid: "Útoky na pevnosti" # todo: NEW TRANSLATION
+ tactic_counter_cordon_search: "Uzavření a prohledání" # todo: NEW TRANSLATION
+ tactic_counter_react_to_contact: "Reakce na kontakt" # todo: NEW TRANSLATION
+ tactic_counter_fireforce: "Palebná jednotka" # todo: NEW TRANSLATION
+ tactic_counter_perimeter_defence: "Obrana perimetru" # todo: NEW TRANSLATION
+ tactic_counter_tunnel_rats: "Tuneloví specialisté" # todo: NEW TRANSLATION
+ tactic_basic_attack: "Útok" # todo: NEW TRANSLATION
+ tactic_basic_defend: "Obrana" # todo: NEW TRANSLATION
+ tactic_counterattack: "Kontrútok" # todo: NEW TRANSLATION
+ tactic_assault: "Nápor" # todo: NEW TRANSLATION
+ tactic_cc_attack: "Útok na blízko" # todo: NEW TRANSLATION
+ tactic_cc_defend: "Obrana na blízko" # todo: NEW TRANSLATION
+ tactic_cc_storm: "Bleskový útok na blízko" # todo: NEW TRANSLATION
+ tactic_cc_local_strong_point: "Lokální opěrný bod (boje na blízko)" # todo: NEW TRANSLATION
+ tactic_cc_withdraw: "Stažení z boje na blízko" # todo: NEW TRANSLATION
+ tactic_encirclement: "Obklíčení" # todo: NEW TRANSLATION
+ tactic_delay: "Zdržení" # todo: NEW TRANSLATION
+ tactic_shock: "Šok" # todo: NEW TRANSLATION
+ tactic_tactical_withdrawal: "Taktické stažení" # todo: NEW TRANSLATION
+ tactic_tw_attack: "Útok při taktickém stažení" # todo: NEW TRANSLATION
+ tactic_tw_defend: "Stažení" # todo: NEW TRANSLATION
+ tactic_tw_chase: "Pronásledování" # todo: NEW TRANSLATION
+ tactic_tw_evade: "Vyhýbání" # todo: NEW TRANSLATION
+ tactic_tw_intercept: "Zachycení" # todo: NEW TRANSLATION
+ tactic_breakthrough: "Průlom" # todo: NEW TRANSLATION
+ tactic_ambush: "Přepadení" # todo: NEW TRANSLATION
+ tactic_backhand_blow: "Protiofenzivní úder" # todo: NEW TRANSLATION
+ tactic_seize_bridge: "Obsadit most" # todo: NEW TRANSLATION
+ tactic_attacker_sb_hold: "Udržet most" # todo: NEW TRANSLATION
+ tactic_attacker_sb_skillful_defence: "Bránit most" # todo: NEW TRANSLATION
+ tactic_defender_sb_assault: "Útok na most" # todo: NEW TRANSLATION
+ tactic_defender_sb_reckless_assault: "Bezohledný útok" # todo: NEW TRANSLATION
+ tactic_defender_sb_retake_bridge: "Znovu obsadit most" # todo: NEW TRANSLATION
+ tactic_hold_bridge: "Udržet most" # todo: NEW TRANSLATION
+ tactic_attacker_hb_attack: "Útok" # todo: NEW TRANSLATION
+ tactic_attacker_hb_rush: "Rychlý nápor na most" # todo: NEW TRANSLATION
+ tactic_attacker_hb_storm: "Vtržení na most" # todo: NEW TRANSLATION
+ tactic_defender_hb_hold: "Udržet most" # todo: NEW TRANSLATION
+ tactic_defender_hb_skillful_defence: "Bránit most" # todo: NEW TRANSLATION
+ tactic_basic_recon_attack: "Průzkumný útok" # todo: NEW TRANSLATION
+ tactic_aggresive_recon: "Agresivní průzkum" # todo: NEW TRANSLATION
+ tactic_limited_recon: "Omezený průzkum" # todo: NEW TRANSLATION
+ tactic_suppression_advance_recon: "Potlačující průzkum" # todo: NEW TRANSLATION
+ tactic_mobile_recon: "Mobilní průzkum" # todo: NEW TRANSLATION
+ tactic_breakthrough_recon: "Průlom v první linii" # todo: NEW TRANSLATION
+ tactic_pincer_recon: "Obkličovací manévr" # todo: NEW TRANSLATION
+ tactic_basic_recon_defense: "Kontraprůzkum" # todo: NEW TRANSLATION
+ tactic_recon_ambush: "Průzkumné přepadení" # todo: NEW TRANSLATION
+ tactic_recon_hunter_packs: "Lovící skupiny" # todo: NEW TRANSLATION
+ tactic_recon_counter_battery: "Protibaterijní palba" # todo: NEW TRANSLATION
+ tactic_recon_node_defense: "Obrana frontového uzlu" # todo: NEW TRANSLATION
+ tactic_city_attack: "Městský útok" # todo: NEW TRANSLATION
+ tactic_city_fixing_attack: "Městský fixační útok" # todo: NEW TRANSLATION
+ tactic_city_frontal_attack: "Městský frontální útok" # todo: NEW TRANSLATION
+ tactic_city_infiltration_attack: "Městský infiltrační útok" # todo: NEW TRANSLATION
+ tactic_city_node_attack: "Městský útok na taktický uzel" # todo: NEW TRANSLATION
+ tactic_city_defense: "Městská obrana" # todo: NEW TRANSLATION
+ tactic_city_layered_defense: "Městská vrstvená obrana" # todo: NEW TRANSLATION
+ tactic_city_static_defense: "Městská statická obrana bodu" # todo: NEW TRANSLATION
+ tactic_city_all_round_defense: "Městská všesměrová obrana" # todo: NEW TRANSLATION
+ tactic_city_crossfire_defense: "Městská obrana křížovou palbou" # todo: NEW TRANSLATION
+ city_attack_movement: "Začátek městského útoku" # todo: NEW TRANSLATION
+ tactic_veil_of_sands: "Písečný závoj" # todo: NEW TRANSLATION
+ tactic_spartan_defense: "Spartská obrana" # todo: NEW TRANSLATION

@@ -1,28 +1,14 @@
 ﻿l_english:
-  script.0.yes: "§GAno:§! " # todo: NEW TRANSLATION
-  script.0.no: "§RNe:§! " # todo: NEW TRANSLATION
-  script.0.abstain: "§YZdržel se:§! " # todo: NEW TRANSLATION
-  script.0.result: "§YOficiální výsledky§!: " # todo: NEW TRANSLATION
-  script.0.opinion: "názor " # todo: NEW TRANSLATION
-  script.0.government: "vláda " # todo: NEW TRANSLATION
-  script.0.increase: "§GZvýšení§! " # todo: NEW TRANSLATION
-  script.0.decrease: "§RSnížení§! " # todo: NEW TRANSLATION
-  script.0.hostile: "§RNepřátelský§! " # todo: NEW TRANSLATION
-  script.0.negative: "§RNegativní§! " # todo: NEW TRANSLATION
-  script.0.indifferent: "§YLhostejný§! " # todo: NEW TRANSLATION
-  script.0.positive: "§GPozitivní§! " # todo: NEW TRANSLATION
-  script.0.enthusiastic: "§GNadšený§! " # todo: NEW TRANSLATION
-  script.0.Root_opinion_of_adj: "§YNázor§! [Root.GetAdjective] vlády: " # todo: NEW TRANSLATION
-  script.0.from: "z " # todo: NEW TRANSLATION
-  script.0.to: "na " # todo: NEW TRANSLATION
-  script.0.of: "z " # todo: NEW TRANSLATION
-  script.0.for: "pro " # todo: NEW TRANSLATION
-  script.0.newline: " \n" # todo: NEW TRANSLATION
-  script.0.semicolon: ": " # todo: NEW TRANSLATION
-  script.0.dash: "- " # todo: NEW TRANSLATION
-  script.0.dot: ". " # todo: NEW TRANSLATION
-  script.0.line: "-------------\n" # todo: NEW TRANSLATION
-  TAG_get_name: "[?var:selected_tag.GetName]" # todo: NEW TRANSLATION
-  TAG_get_name_with_flag: "[?var:selected_tag.GetNameWithFlag]" # todo: NEW TRANSLATION
-  TAG_get_leader: "[?var:selected_tag.GetLeader]" # todo: NEW TRANSLATION
-  TAG_get_adjective: "[?var:selected_tag.GetAdjective]" # todo: NEW TRANSLATION
+ script.0.yes: "§GAno:§! " # todo: NEW TRANSLATION
+ script.0.no: "§RNe:§! " # todo: NEW TRANSLATION
+ script.0.opinion: "názor " # todo: NEW TRANSLATION
+ script.0.from: "z " # todo: NEW TRANSLATION
+ script.0.to: "na " # todo: NEW TRANSLATION
+ script.0.of: "z " # todo: NEW TRANSLATION
+ script.0.for: "pro " # todo: NEW TRANSLATION
+ script.0.newline: " \n" # todo: NEW TRANSLATION
+ script.0.line: "-------------\n" # todo: NEW TRANSLATION
+ TAG_get_name: "[?var:selected_tag.GetName]" # todo: NEW TRANSLATION
+ TAG_get_name_with_flag: "[?var:selected_tag.GetNameWithFlag]" # todo: NEW TRANSLATION
+ TAG_get_leader: "[?var:selected_tag.GetLeader]" # todo: NEW TRANSLATION
+ TAG_get_adjective: "[?var:selected_tag.GetAdjective]" # todo: NEW TRANSLATION

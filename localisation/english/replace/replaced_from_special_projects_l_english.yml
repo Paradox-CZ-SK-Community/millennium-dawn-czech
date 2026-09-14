@@ -1,462 +1,560 @@
 ﻿l_english:
-  specialization: "Specializace" # todo: NEW TRANSLATION
-  specialization_nuclear: "Civilní výzkum a vývoj" # todo: NEW TRANSLATION
-  specialization_naval: "Výzkum a vývoj námořní války" # todo: NEW TRANSLATION
-  specialization_air: "Výzkum a vývoj avioniky a letectví" # todo: NEW TRANSLATION
-  specialization_land: "Výzkum a vývoj pozemních bojů" # todo: NEW TRANSLATION
-  specialization_nuclear_short: "Civilní" # todo: NEW TRANSLATION
-  specialization_naval_short: "Námořní" # todo: NEW TRANSLATION
-  specialization_air_short: "Letecký" # todo: NEW TRANSLATION
-  specialization_land_short: "Pozemní" # todo: NEW TRANSLATION
-  sp_tag_nuclear_weapons: "Projekty jaderných zbraní" # todo: NEW TRANSLATION
-  sp_tag_civilian: "Civilní výzkumné projekty" # todo: NEW TRANSLATION
-  sp_tag_energy: "Energetické projekty" # todo: NEW TRANSLATION
-  sp_tag_telecommunications: "Telekomunikační projekty" # todo: NEW TRANSLATION
-  sp_tag_naval_vehicles: "Námořní projekty" # todo: NEW TRANSLATION
-  sp_tag_stealth_frigates: "Projekty tichých fregat" # todo: NEW TRANSLATION
-  sp_tag_stealth_corvettes: "Projekty tichých korvet" # todo: NEW TRANSLATION
-  sp_tag_stealth_destroyers: "Projekty tichých torpédoborců" # todo: NEW TRANSLATION
-  sp_tag_avionics_aeronautics: "Letecké projekty" # todo: NEW TRANSLATION
-  sp_tag_ballistic_missiles: "Projekty balistických raket" # todo: NEW TRANSLATION
-  sp_tag_space_equipment: "Projekty vesmírného vybavení" # todo: NEW TRANSLATION
-  sp_tag_space_exploration: "Projekty vesmírného průzkumu" # todo: NEW TRANSLATION
-  sp_tag_aircraft_engines: "Projekty leteckých motorů" # todo: NEW TRANSLATION
-  sp_tag_pilotless_vehicles: "Projekty bezpilotních letounů" # todo: NEW TRANSLATION
-  sp_tag_armored_vehicles: "Projekty obrněných vozidel" # todo: NEW TRANSLATION
-  sp_tag_infantry_equipment: "Projekty výstroje pěchoty" # todo: NEW TRANSLATION
-  sp_tag_mech_suits: "Projekty mech obleků" # todo: NEW TRANSLATION
-  sp_tag_nuclear_weapons_speed_factor: "$sp_tag_nuclear_weapons$ Speed" # todo: NEW TRANSLATION
-  sp_tag_nuclear_weapons_speed_factor_tt: "$sp_tag_civilian_speed_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_civilian_speed_factor: "$sp_tag_civilian$ Speed" # todo: NEW TRANSLATION
-  sp_tag_civilian_speed_factor_tt: " $sp_tag_civilian_speed_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_energy_speed_factor: "$sp_tag_energy$ Speed" # todo: NEW TRANSLATION
-  sp_tag_energy_speed_factor_tt: " $sp_tag_energy_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_telecommunications_speed_factor: "$sp_tag_telecommunications$ Speed" # todo: NEW TRANSLATION
-  sp_tag_telecommunications_speed_factor_tt: " $sp_tag_telecommunications_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_naval_vehicles_speed_factor: "$sp_tag_naval_vehicles$ Speed" # todo: NEW TRANSLATION
-  sp_tag_naval_vehicles_speed_factor_tt: " $sp_tag_naval_vehicles_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_stealth_frigates_speed_factor: "$sp_tag_stealth_frigates$ Speed" # todo: NEW TRANSLATION
-  sp_tag_stealth_frigates_speed_factor_tt: " $sp_tag_stealth_frigates_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_stealth_corvettes_speed_factor: "$sp_tag_stealth_corvettes$ Speed" # todo: NEW TRANSLATION
-  sp_tag_stealth_corvettes_speed_factor_tt: " $sp_tag_stealth_corvettes_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_stealth_destroyers_speed_factor: "$sp_tag_stealth_destroyers$ Speed" # todo: NEW TRANSLATION
-  sp_tag_stealth_destroyers_speed_factor_tt: " $sp_tag_stealth_destroyers$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_avionics_aeronautics_speed_factor: "$sp_tag_avionics_aeronautics$ Speed" # todo: NEW TRANSLATION
-  sp_tag_avionics_aeronautics_speed_factor_tt: " $sp_tag_avionics_aeronautics_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_ballistic_missiles_speed_factor: "$sp_tag_ballistic_missiles$ Speed" # todo: NEW TRANSLATION
-  sp_tag_ballistic_missiles_speed_factor_tt: " $sp_tag_ballistic_missiles_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_space_equipment_speed_factor: "$sp_tag_space_equipment$ Speed" # todo: NEW TRANSLATION
-  sp_tag_space_equipment_speed_factor_tt: " $sp_tag_space_equipment_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_space_exploration_speed_factor: "$sp_tag_space_exploration$ Speed" # todo: NEW TRANSLATION
-  sp_tag_space_exploration_speed_factor_tt: " $sp_tag_space_exploration_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_aircraft_engines_speed_factor: "$sp_tag_aircraft_engines$ Speed" # todo: NEW TRANSLATION
-  sp_tag_aircraft_engines_speed_factor_tt: " $sp_tag_aircraft_engines_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_pilotless_vehicles_speed_factor: "$sp_tag_pilotless_vehicles$ Speed" # todo: NEW TRANSLATION
-  sp_tag_pilotless_vehicles_speed_factor_tt: " $sp_tag_pilotless_vehicles_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_armored_vehicles_speed_factor: "$sp_tag_armored_vehicles$ Speed" # todo: NEW TRANSLATION
-  sp_tag_armored_vehicles_speed_factor_tt: " $sp_tag_armored_vehicles_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_infantry_equipment_speed_factor: "$sp_tag_infantry_equipment$ Speed" # todo: NEW TRANSLATION
-  sp_tag_infantry_equipment_speed_factor_tt: " $sp_tag_infantry_equipment_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_tag_mech_suits_speed_factor: "$sp_tag_mech_suits$ Speed" # todo: NEW TRANSLATION
-  sp_tag_mech_suits_speed_factor_tt: " $sp_tag_mech_suits_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
-  sp_caseless_ammunition: "Bezzápalová munice" # todo: NEW TRANSLATION
-  sp_caseless_ammunition_desc: "Tím, že projektil a pohonná látka jsou spojeny do jednoho tělesa, můžeme snížit hmotnost munice i její výrobní náklady." # todo: NEW TRANSLATION
-  sp_fire_support_land_drone: "Drony podpůrné palby" # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_desc: "Máme vzdušné drony, ale vývoj pozemních dronů by zvýšil palebnou sílu naší pěchoty." # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality: "Taktická rozšířená realita" # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality_desc: "Vytvoření nositelného zařízení pro zobrazení živých informací v zorném poli našich vojáků určitě zlepší jejich efektivitu v boji." # todo: NEW TRANSLATION
-  sp_double_shot_rifle: "Dvojstřelná puška" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_desc: "Když naše speciální jednotky zaútočí, cílem je rychle vyslat krátký slabý výstřel přesně. Toho lze nejlépe dosáhnout vytvořením speciální zbraně právě pro naše speciální jednotky." # todo: NEW TRANSLATION
-  sp_double_shot_rifle_tt: "Zvyšuje všech §YSpeciální síly§! jednotky §YObrana§! a §YPrůlom§! o §G5%§!\n" # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton: "Experimentální exoskelet" # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton_desc: "Exoskelet je mechanický oblek určený k zvýšení schopností nositele. Může mít podobu vyšší rychlosti, síly nebo reakční doby. Vývoj obleku pro vojenské použití by mohl učinit naše vojáky efektivnějšími." # todo: NEW TRANSLATION
-  sp_active_camouflage: "Aktivní maskování" # todo: NEW TRANSLATION
-  sp_active_camouflage_desc: "Maskování je dobré pro skrývání vojáků, ale většinou znamená kompromis vzhledem k prostředí boje. Pokud bychom dokázali navrhnout maskování, které se dokáže adaptovat na okolní terén, naši vojáci by byli téměř neviditelní pro nepřítele." # todo: NEW TRANSLATION
-  sp_coilgun_memes: "Infantrie coilguny" # todo: NEW TRANSLATION
-  sp_coilgun_memes_desc: "Provedením parodie na technologii railgunu našich tanků můžeme pěchotě poskytnout tungstenový projektil letící rychlostí Mach. \nNedrážejte vývojáře, slibuji, že podobné věci zvládnu za jeden večer." # todo: NEW TRANSLATION
-  sp_truck_modular_seating: "Modulární sezení v nákladních vozech" # todo: NEW TRANSLATION
-  sp_truck_modular_seating_desc: "Při přepravě nákladními vozy naši vojáci většinou sedí na korbě volně. Měli bychom vyvinout modulární uspořádání sedadel, které se vejde do kteréhokoli našeho vozu. Tím bude přeprava jednotek organizovanější a výstup méně efektivní." # todo: NEW TRANSLATION
-  sp_utility_vehicle_electric_engines: "Elektrické motory pro nákladní vozy" # todo: NEW TRANSLATION
-  sp_utility_vehicle_electric_engines_desc: "Elektrické motory existují již dlouho a získávají popularitu na civilním trhu. Můžeme vyvinout motor pro použití v našich vojenských vozech, aby jsme snížili naši závislost na palivu." # todo: NEW TRANSLATION
-  sp_armoured_vehicle_project: "Experimentování s obrněnými vozidly" # todo: NEW TRANSLATION
-  sp_armoured_vehicle_project_desc: "Pokud chceme někdy vyrobit domácí obrněná vozidla, musíme investovat čas a úsilí do experimentování s různými konstrukcemi vozidel." # todo: NEW TRANSLATION
-  sp_armoured_vehicle_project_tt: "Budeme moci vyzkoumat §YTrupy hlavních bitevních tanků§!, §YTrupy obrněných bojových vozidel§!, §YTrupy lehkých tanků§!, §YTrupy samohybných děl§! a §YTrupy samohybných protiletadlových děl§!" # todo: NEW TRANSLATION
-  sp_tank_nera_armor: "Těžký NERA kompozit" # todo: NEW TRANSLATION
-  sp_tank_nera_armor_desc: "Můžeme zkoumat pokročilé materiály k výrobě těžších a odolnějších typů pancíře, např. vložky z olova z mořské vody." # todo: NEW TRANSLATION
-  sp_tank_nera_armor_tt: "Budeme moci na našich tancích instalovat pokročilejší pancíř." # todo: NEW TRANSLATION
-  sp_tank_support_drones: "Drony podpory tanků" # todo: NEW TRANSLATION
-  sp_tank_support_drones_desc: "Drony jsou na bojišti stále častější. Jelikož mají naše tanky omezené vidění, mohlo by dávat smysl integrovat řídicí středisko dronů do tanku a vybavit ho vypouštěcím dronem. Tím bude operátor tanku moci lépe sledovat bojiště." # todo: NEW TRANSLATION
-  sp_tank_support_drones_2: "Bojové drony pro tanky" # todo: NEW TRANSLATION
-  sp_tank_support_drones_2_desc: "Kromě dohledu budou bojové drony tanků schopny identifikovat a značit cíle a dokonce bojovat proti některým cílům s exploziemi nebo namontovanými zbraněmi." # todo: NEW TRANSLATION
-  sp_21stcentury_thermal: "2. generace termálních a elektronických systémů" # todo: NEW TRANSLATION
-  sp_21stcentury_thermal_desc: "Pokrok v elektronice nám umožňuje uvádět na bojiště stále menší a výkonnější elektroniku pro naše bojová vozidla." # todo: NEW TRANSLATION
-  sp_21stcentury_thermal_reward_improved_targeting: "Vylepšené zaměřování" # todo: NEW TRANSLATION
-  sp_21stcentury_thermal_reward_improved_targeting_desc: "Můžeme jemně doladit určité detaily našeho termálního projektu." # todo: NEW TRANSLATION
-  sp_futuretank_electronics: "4. Generace termálních a elektronických systémů" # todo: NEW TRANSLATION
-  sp_futuretank_electronics_desc: "Pokrok v elektronice nám umožňuje uvádět na bojiště stále menší a výkonnější elektroniku pro naše bojová vozidla." # todo: NEW TRANSLATION
-  sp_active_protection_systems: "Systémy aktivní ochrany" # todo: NEW TRANSLATION
-  sp_active_protection_systems_desc: "Není dostatečné jen skrývat naše tanky dýmem. Musíme integrovat systém proti projektilům, který zničí nadcházející rakety a penetrátory." # todo: NEW TRANSLATION
-  sp_4thgen_tankhull: "Design tanku čtvrté generace" # todo: NEW TRANSLATION
-  sp_4thgen_tankhull_desc: "Budeme potřebovat klíčovou redizajn older designs, abychom vytvořili naše budoucí konstrukce tanků." # todo: NEW TRANSLATION
-  sp_5thgen_tankhull: "Design tanku páté generace" # todo: NEW TRANSLATION
-  sp_5thgen_tankhull_desc: "Bitevní pole se stává smrtelnějším s každým rokem. Musíme přizpůsobit naše tanky, jinak zůstanou zastaralé." # todo: NEW TRANSLATION
-  sp_tank_electric_engine: "Elektrický pohon tanku" # todo: NEW TRANSLATION
-  sp_tank_electric_engine_desc: "Naše dřívější elektrické pohonné bloky napájely jenauxiliární zařízení tanku. Při dostatečné investici bychom mohli vytvořit plně elektrický pohon tanku." # todo: NEW TRANSLATION
-  sp_tank_aa_launchers: "Tankově namontované SAM" # todo: NEW TRANSLATION
-  sp_tank_aa_launchers_desc: "Tanky bývají zranitelné vůči jakémukoli vzdušnému cíli, a to i s omezenou ochranou. Vystřelovat ATGM z tanků již bylo prokázanou metodou, ale možná bychom je mohli použít i pro vypuštění protileteckých raket." # todo: NEW TRANSLATION
-  sp_tank_self_sharpening_ammo: "Samoostřující tyče" # todo: NEW TRANSLATION
-  sp_tank_self_sharpening_ammo_desc: "Při specifickém teplotním ošetření můžeme zlepšit mikrostrukturu wolframových penetrátorů pro zvýšení odolnosti projektilu během penetrace." # todo: NEW TRANSLATION
-  sp_tank_thermal_camo: "Termální kamufláž" # todo: NEW TRANSLATION
-  sp_tank_thermal_camo_desc: "Se speciálním povlakem a maskovacími prostředky můžeme snížit tepelný otisk našich vozidel, čímž bude jejich detekce tepelnými kamerami a tepelnými naváděnými střelami mnohem obtížnější." # todo: NEW TRANSLATION
-  sp_tank_chameleon_camo: "Chameleon kamufláž" # todo: NEW TRANSLATION
-  sp_tank_chameleon_camo_desc: "Se speciálním pláštěm můžeme naše vozidla napodobit okolí tím, že na jejich viditelné straně promítáme to, co je za nimi." # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets: "Věže supertěžkých tanků" # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets_desc: "Abychom vybavili naše tanky těžšími zbraněmi, musíme najít proveditelný způsob, jak vytvořit větší věž." # todo: NEW TRANSLATION
-  sp_double_barrel_cannons: "Dvojhlavňový tank" # todo: NEW TRANSLATION
-  sp_double_barrel_cannons_desc: "Proběhlo několik pokusů o vytvoření tanků se dvěma hlavněmi, ale byly odmítnuty jako neefektivní. Pokud vyvineme efektivní nabíjecí mechanismus, mohli bychom využít obě zbraně." # todo: NEW TRANSLATION
-  sp_railgun_cannon: "dráhový kanón" # todo: NEW TRANSLATION
-  sp_railgun_cannon_desc: "Railgun používá dva kovové vodiče, na které je dodáván elektrický proud, aby poháněl magnetický projektil skrz hlaveň. To umožňuje projektilu menšího než konvenční způsobit velké poškození bez výbušného materiálu." # todo: NEW TRANSLATION
-  sp_railgun_cannon_2: "Plazmový railgun" # todo: NEW TRANSLATION
-  sp_railgun_cannon_2_desc: "Namísto pevného projektilu používá plazmový railgun elektromagnetické síly k urychlení plazmových plynů na vysoké rychlosti. Při zásahu cíle kromě obrovského tepla a kinetické síly plazma navíc vyzařuje elektromagnetické záření, které ruší elektroniku." # todo: NEW TRANSLATION
-  sp_tank_based_laser_main_cannons: "Laserové hlavní kanóny" # todo: NEW TRANSLATION
-  sp_tank_based_laser_main_cannons_desc: "Vytvořením velké energetické zbraně, která dokáže koncentrovat silný laser, bychom mohli vyvinout hlavní zbraň tanku schopnou prorazit prakticky cokoli." # todo: NEW TRANSLATION
-  sp_tank_based_laser_point_defense: "Laserová bodová obrana tanku" # todo: NEW TRANSLATION
-  sp_tank_based_laser_point_defense_desc: "Kromě systémů aktivní ochrany bychom mohli vyvinout malé laserové zbraně, které by ničily přilétající rakety pro naše tanky." # todo: NEW TRANSLATION
-  sp_afv_double_cannons: "Dvojité dělo" # todo: NEW TRANSLATION
-  sp_afv_double_cannons_desc: "Obvykle jsou naše lehké obrněné bojové vozidla vybavena jednou zbraní, obvykle autocanonou. Mohli bychom však vyvinout systém pro namontování dvou kanónů vedle sebe." # todo: NEW TRANSLATION
-  sp_tank_stealth_armor_early: "Raná stealth zbroj" # todo: NEW TRANSLATION
-  sp_tank_stealth_armor_early_desc: "Vytvořením brnění, které nejen chrání naše tanky, ale také poskytuje lepší maskování, můžeme přijmout nejlepší teorie pancéřování: že nebýt zasažen je lepší než zastavit zásah." # todo: NEW TRANSLATION
-  sp_automatic_twin_barrel_mortar_turret: "Automatická dvojhlavňová minometná věž" # todo: NEW TRANSLATION
-  sp_automatic_twin_barrel_mortar_turret_desc: "Minometné věže jsou už dávno, ale pokud do téže věže namontujeme dva minomety, dosáhneme výrazně vyšší kadence střelby a současného dopadu více projektilů." # todo: NEW TRANSLATION
-  sp_ground_fireandforget: "ATGM s palbou a zapomenutím" # todo: NEW TRANSLATION
-  sp_ground_fireandforget_desc: "Miniaturizace elektroniky nyní umožňuje, aby střela sama naváděla na cíl prostřednictvím termických zámků." # todo: NEW TRANSLATION
-  sp_multipurpose_warhead: "Víceúčelové hlavice" # todo: NEW TRANSLATION
-  sp_multipurpose_warhead_desc: "Máme rakety proti tankům a rakety proti letadlům. Co kdybychom ale mohli zajistit, aby naše rakety byly účinné i proti oběma typům cílů? Tak by v nouzi protitankové i protiletadlové rakety mohly být použity i proti jiným cílům." # todo: NEW TRANSLATION
-  sp_naval_vessel_project: "Experimenty s námořními plavidly" # todo: NEW TRANSLATION
-  sp_naval_vessel_project_desc: "Abychom mohli plout po sedmi mořích (nebo i po našem zahradním bazénu), musíme vyhradit prostředky na vývoj experimentálních válečných lodí." # todo: NEW TRANSLATION
-  sp_naval_vessel_project_tt: "Odemkne následující §YTechnologické linie§!:\\n- §YKorpový trup korvet§!\\n- §YKorpový trup fregat§!\\n- §YKorpový trup torpédoborců§!\\n- §YKorpový trup křižníků§!\\n- §YTrupy pro operátory vrtulníků§!\\n- §YTrupy letadlových lodí§!\\n- §YTrupy útočných ponorek§! a §YTrupy ponorek s řízenými střelami§!" # todo: NEW TRANSLATION
-  sp_stealth_corvette: "Stealth korvety" # todo: NEW TRANSLATION
-  sp_stealth_corvette_desc: "Malé stealth korvety jsou skvělou možností, jak rozšířit naši schopnost bojovat proti nepřátelským mocnostem, aniž by jejich lodě nás mohly detekovat." # todo: NEW TRANSLATION
-  sp_stealth_frigate: "Stealth fregaty" # todo: NEW TRANSLATION
-  sp_stealth_frigate_desc: "Přechod v designu některých našich fregat se začíná měnit. Rozhodli jsme se, že je nejlepší investovat do stealth designů, aby naše fregaty byly v co nejvýhodnějších pozicích." # todo: NEW TRANSLATION
-  sp_stealth_destroyer: "Stealth torpédoborec" # todo: NEW TRANSLATION
-  sp_stealth_destroyer_desc: "Nová vlna námořní technologie se vyvíjí různými výrobci bez úspěchu. Měli bychom podporovat tuto novou technologii, aby naše torpédoborce byly téměř neodhalitelné a mohly zaútočit dříve, než nepřítel zjistí naši přítomnost." # todo: NEW TRANSLATION
-  sp_stealth_corvette_tt: "Odemkne technologickou linii §YTrup stealth korvety§!" # todo: NEW TRANSLATION
-  sp_stealth_frigate_tt: "Odemkne technologickou linii §YTrup stealth fregaty§!" # todo: NEW TRANSLATION
-  sp_stealth_destroyer_tt: "Odemkne technologickou linii §YTrup stealth torpédoborce§!" # todo: NEW TRANSLATION
-  sp_stealth_corvette_non_mtg: "Stealth korvety" # todo: NEW TRANSLATION
-  sp_stealth_corvette_non_mtg_desc: "Malé stealth korvety jsou skvělou možností, jak rozšířit naši schopnost bojovat proti nepřátelským mocnostem, aniž by jejich lodě nás mohly detekovat." # todo: NEW TRANSLATION
-  sp_stealth_frigate_non_mtg: "Stealth fregaty" # todo: NEW TRANSLATION
-  sp_stealth_frigate_non_mtg_desc: "Přechod v designu některých našich fregat se začíná měnit. Rozhodli jsme se, že je nejlepší investovat do stealth designů, aby naše fregaty byly v co nejvýhodnějších pozicích." # todo: NEW TRANSLATION
-  sp_stealth_destroyer_non_mtg: "Stealth torpédoborec" # todo: NEW TRANSLATION
-  sp_stealth_destroyer_non_mtg_desc: "Nová vlna námořní technologie se vyvíjí různými výrobci bez úspěchu. Měli bychom podporovat tuto novou technologii, aby naše torpédoborce byly téměř neodhalitelné a mohli jsme zaútočit dříve, než nepřítel zjistí naši přítomnost." # todo: NEW TRANSLATION
-  sp_medium_naval_nuclear_engines: "Námořní jaderné inženýrství" # todo: NEW TRANSLATION
-  sp_medium_naval_nuclear_engines_desc: "Po vynálezu jaderných reaktorů a energie jsme začali zkoumat možnost namontovat jaderné motory na naše námořní plavidla. To minimalizuje čas potřebný v suchém doku." # todo: NEW TRANSLATION
-  sp_advanced_ballistic_propulsion_systems: "Pokročilé balistické pohonné systémy" # todo: NEW TRANSLATION
-  sp_advanced_ballistic_propulsion_systems_desc: "Vynález některých pokročilých balistických pohonných systémů přiměl naše vědce k zamyšlení nad otázkou: Co kdyby? Začali vyvíjet nové formy balistických pohonných systémů, využívající elektromagnetickou propulsion, aby vybudovali zbraně schopné vystřelit projektil rychleji, než si kdo dokázal představit." # todo: NEW TRANSLATION
-  sp_rail_gun_naval_cannons: "Railgun námořní kanóny" # todo: NEW TRANSLATION
-  sp_rail_gun_naval_cannons_desc: "Railgun kanóny používají elektromagnetickou pohon k pohánění projektilu vzduchem, aby způsobili škody při extrémních rychlostech. Projektil sám neobsahuje výbušné látky a spoléhá na tuto vysokou rychlost k prorážení pancíře." # todo: NEW TRANSLATION
-  sp_rail_gun_naval_cannons_tt: "Odemkne následující §YTechnologické linie§!:\\n- §YRailgun námořní kanóny§!" # todo: NEW TRANSLATION
-  sp_supercarrier_1: "Rané supercarrier" # todo: NEW TRANSLATION
-  sp_supercarrier_1_desc: "Rozšířená palubní plocha a schopnost budovat lodě této velikosti budou klíčové pro naši dlouhodobou projekci síly." # todo: NEW TRANSLATION
-  sp_supercarrier_2: "Pozdní supercarrier" # todo: NEW TRANSLATION
-  sp_supercarrier_2_desc: "S přidáním jaderných motorů má více síly znamená větší lodě a velkou palubu." # todo: NEW TRANSLATION
-  sp_aircraft_project: "Experimenty s letadly" # todo: NEW TRANSLATION
-  sp_aircraft_project_desc: "Letadla jsou vysoce technická zařízení vyžadující vysoce vyspělý průmysl k návrhu a výrobě. Pokud chceme někdy mít vlastní letadla, musí se provádět experimenty." # todo: NEW TRANSLATION
-  sp_aircraft_project_bba_tt: "Odemknou následující §YTechnologické linie§!:\\n- §YLehké konstrukce trupů letounů§!\\n- §YStřední konstrukce trupů letounů§!\\n- §YTěžké konstrukce trupů letounů§!\\n- §YÚtočné vrtulníky§!\\n- §YTransportní vrtulníky§!\\n" # todo: NEW TRANSLATION
-  sp_aircraft_project_non_bba_tt: "Odemknou následující §YTechnologické linie§!:\\n- §YBojové letouny§!\\n- §YBlízká letecká podpora§!\\n- §YBombardéry§!\\n- §YBezpilotní bojová letadla§!\\n- §YLehké stíhače§!\\n" # todo: NEW TRANSLATION
-  sp_helicopter_project: "Experimenty s návrhem vrtulníků" # todo: NEW TRANSLATION
-  sp_helicopter_project_desc: "Podobně jako navrhování auta a dalších vozidel, navrhování a stavba vrtulníků vyžaduje místní know-how k výrobě těchto specializovaných strojů lokálně. Měli bychom provést několik návrhových experimentů, dokud nevyvineme vlastní verzi." # todo: NEW TRANSLATION
-  sp_helicopter_project_tt: "Odemkne následující §YTechnologické linie§!:\\n- §YTransportní vrtulníky§!\\n- §YÚtočné vrtulníky§!\\n" # todo: NEW TRANSLATION
-  sp_5thgen_airframe_tt: "Důležitý krok k výzkumu §YPáté generace trupů letounů§!" # todo: NEW TRANSLATION
-  sp_experimental_engines: "Experimentální typy motorů" # todo: NEW TRANSLATION
-  sp_experimental_engines_desc: "Existuje řada různých experimentálních typů motorů, které byly předloženy týmům pro výzkum a vývoj různých skupin. Investice do experimentování motorů a experimentálních typů nám může poskytnout technologický náskok nad našimi nepřáteli ve vzduchu." # todo: NEW TRANSLATION
-  sp_modern_air_electronics: "Moderní letecká elektronika" # todo: NEW TRANSLATION
-  sp_modern_air_electronics_desc: "Nová generace pokroku v elektronice pro vzdušné radary, kokpity a další systémy." # todo: NEW TRANSLATION
-  sp_future_air_electronics_tt: "Odemkne §Y2020 leteckou elektroniku§!" # todo: NEW TRANSLATION
-  sp_future_air_electronics: "Budoucí letecká elektronika" # todo: NEW TRANSLATION
-  sp_future_air_electronics_desc: "Sloučení nejnovějších technologií v AI, laserových systémech a nanotechnologiích pro vysoce efektivní letecké vybavení." # todo: NEW TRANSLATION
-  sp_modern_air_weapons: "Chytré letecké zbraně" # todo: NEW TRANSLATION
-  sp_modern_air_weapons_desc: "Chytré cílení, zbraň osazené radary mmWave, zaměření po vypuštění. Nová generace zbraní otevírá cestu budoucímu bojišti." # todo: NEW TRANSLATION
-  sp_modern_air_weapons_tt: "Odemkne §Y2020 letecké zbraně§!" # todo: NEW TRANSLATION
-  sp_future_air_weapons: "AI-vylepšené letecké zbraně" # todo: NEW TRANSLATION
-  sp_future_air_weapons_desc: "Vylepšování předchozí generace vzdušných raket a senzorů pomocí AI procesorů a ještě přesnější detekce a cílení." # todo: NEW TRANSLATION
-  sp_future_air_weapons_tt: "Odemkne §Y2030 letecké zbraně§!" # todo: NEW TRANSLATION
-  sp_hypersonic_missile: "Hypersonické střely" # todo: NEW TRANSLATION
-  sp_hypersonic_missile_desc: "Hypersonické střely poskytnou naší strategické raketové síle schopnost zasáhnout hluboko do nepřátelského území rychlostmi, o nichž se dříve myslelo, že jsou nemožné." # todo: NEW TRANSLATION
-  sp_hypersonic_missile_tt: "Odemkněte §Ytechnologii hypersonických střel§!" # todo: NEW TRANSLATION
-  sp_nuclear_engines: "Jaderné motory pro letadla" # todo: NEW TRANSLATION
-  sp_nuclear_engines_desc: "Po řadě úspěchů v miniaturizaci větších jaderných motorů a nasazení jaderných motorů na nosičích a podobně. Vědci začali navrhovat a vyvíjet menší verzi jaderného motoru, který by se montoval na letadla, čímž by se zrušila nutnost mít palivo na palubě letadla. To umožní delší nasazení a efektivnější udržování našich letounů na obloze, zatímco naši nepřátelé budou muset přistávat." # todo: NEW TRANSLATION
-  sp_solar_engines: "Solární motory" # todo: NEW TRANSLATION
-  sp_solar_engines_desc: "V souvislosti s vývojem experimentálních typů motorů je solární motor dalším navrhovaným typem motoru, který se objevil. Montáž solárních motorů na trup letadla nebo jejich integrace do konstrukce letadla umožní letadlu během letu samostatně získávat energii na obloze." # todo: NEW TRANSLATION
-  sp_scramjet_engines: "Scramjetové motory" # todo: NEW TRANSLATION
-  sp_scramjet_engines_desc: "Scramjet je varianta ramjetu. Místo toho, aby zpomaloval proudící vzduch na subsonické rychlosti, scramjet zapaluje vzduch při nadzvukových rychlostech. To umožňuje letadlu mnohem vyšší rychlosti." # todo: NEW TRANSLATION
-  sp_ramjet_engines: "Turboramjetové motory" # todo: NEW TRANSLATION
-  sp_ramjet_engines_desc: "Na rozdíl od běžného turbojetu, ramjet nasává vzduch pohybem namísto turbíny. Tím vzniká efektivnější a jednodušší motor, ale omezuje provoz letadla při nízkých rychlostech." # todo: NEW TRANSLATION
-  sp_5thgen_airframe: "Konstrukce páté generace letounu" # todo: NEW TRANSLATION
-  sp_5thgen_airframe_desc: "Nová generace konstrukce letounu. Rychlejší, lépe maskující radar a smrtelnější." # todo: NEW TRANSLATION
-  sp_fully_autonomous_computers_framework: "Plně autonomní počítačové rámce" # todo: NEW TRANSLATION
-  sp_fully_autonomous_computers_framework_desc: "Abychom mohli učinit kroky k vytvoření autonomního letectva, musíme experimentovat a položit základy pro autonomní počítače." # todo: NEW TRANSLATION
-  sp_fully_autonomous_fighters: "Plně autonomní stíhače" # todo: NEW TRANSLATION
-  sp_fully_autonomous_fighters_desc: "Plně počítačem řízený stíhací letoun by nám zcela ušetřil životy pilotů a nemuseli bychom se spoléhat na dlouhé vycvikové programy k doplnění ztrát." # todo: NEW TRANSLATION
-  sp_fully_autonomous_bombers: "Plně autonomní bombardéry" # todo: NEW TRANSLATION
-  sp_fully_autonomous_bombers_desc: "Plně počítačem řízený bombardér by nám zcela ušetřil životy pilotů a nemuseli bychom se spoléhat na dlouhé vycvikové programy k doplnění ztrát." # todo: NEW TRANSLATION
-  sp_stealth_technology: "Experimenty s maskováním" # todo: NEW TRANSLATION
-  sp_stealth_technology_desc: "Abychom získali výhodu nad nepřítelem, musíme přijít na způsob, jak učinit naše stíhače méně detekovatelnými radarem." # todo: NEW TRANSLATION
-  sp_arsenal_bird: "Arsenal Bird" # todo: NEW TRANSLATION
-  sp_aresnal_bird_desc: "S rozvojem plně autonomních letounů, jaderně poháněných motorů pro letadla a pokročilých systémů řízení letu můžeme postavit letoun, který na sobě unese celou droní leteckou sílu. Tento letoun, i když je extrémně drahý, bude vrcholem leteckých bojových systémů." # todo: NEW TRANSLATION
-  sp_fusion_reactors: "Fúzní reaktory" # todo: NEW TRANSLATION
-  sp_fusion_reactors_desc: "Fúzní reaktor je jaderný reaktor, který vyrábí elektřinu pomocí jaderné fúze namísto štěpení. Fúze je obecně považována za budoucnost jaderných reaktorů a může generovat téměř čtyřnásobný energetický výstup na kilogram jaderného paliva." # todo: NEW TRANSLATION
-  sp_space_based_solar_farms: "Solární farmy ve vesmíru" # todo: NEW TRANSLATION
-  sp_space_based_solar_farms_desc: "Využití solární energie na Zemi je široce rozšířenou a stálou technologií. Stala se stejně běžnou jako větrná a vodní energie a je jedním z našich hlavních zdrojů energie. Byla navržena myšlenka začít budovat solární pole panelů ve vesmíru a energie by se přenášela na Zemi z různých velikostí družic a dalších zařízení, aby se pomohlo vyhovět rostoucí poptávce po energii." # todo: NEW TRANSLATION
-  sp_improved_based_solar_farms: "Vylepšené solární farmy" # todo: NEW TRANSLATION
-  sp_improved_based_solar_farms_desc: "Zavedením dalších změn, jako jsou lepší fotovoltaické články a vylepšení základů této technologie, nám umožní dále zlepšit účinnost našich solárních farem." # todo: NEW TRANSLATION
-  sp_improved_maglev_trains: "Maglevové vlaky" # todo: NEW TRANSLATION
-  sp_improved_maglev_trains_desc: "Zaměření na vylepšení a důraz na naše starší maglev vlaky je nezbytný pro budoucnost naší země a ekonomiky. Tyto vlaky jsou klíčem k části budoucnosti, kde doprava je téměř okamžitá, dokud je infrastruktura." # todo: NEW TRANSLATION
-  sp_construction_exoskeletons: "Stavební exoskeletony" # todo: NEW TRANSLATION
-  sp_construction_exoskeletons_desc: "Stavební exoskeletony jsou směsicí různých malých, středních a velkých exoskeletonů vyvinutých výhradně k nahrazení nákladných strojů jako je jeřáb, vysokozdvižný vozík a další, které může obsluhovat jen jeden operátor. Tato technologie nám umožnila posunout naše stavební inženýrství o několik desetiletí dopředu a učinit výstavbu extrémně efektivní a cenově velmi výhodnou." # todo: NEW TRANSLATION
-  sp_thorium_nuclear_fuel: "Thoriové jaderné palivo" # todo: NEW TRANSLATION
-  sp_thorium_nuclear_fuel_desc: "Thoriové palivo je pečlivě studováno a vyhledáváno pro široké komerční využití díky své dostupnosti a vyššímu výstupu. Vývoj stabilního a funkčního jaderného reaktoru a jaderného paliva pro použití v našich jaderných reaktorech bude obrovským přínosem pro naši jadernou infrastrukturu a energetickou síť." # todo: NEW TRANSLATION
-  sp_wireless_power_grid_expansion: "Rozšíření bezdrátové energetické sítě" # todo: NEW TRANSLATION
-  sp_wireless_power_grid_expansion_desc: "Rozšíření naší energetické sítě o další prostředky pro bezdrátový přenos energie na střední a dlouhé vzdálenosti by mělo pomoci snížit infrastrukturu, kterou musíme udržovat, a umožnit zvýšení naší produkce při eliminaci energetických ztrát." # todo: NEW TRANSLATION
-  sp_improved_synthetic_diamonds: "Vylepšené syntetické diamanty" # todo: NEW TRANSLATION
-  sp_improved_synthetic_diamonds_desc: "Rozšíření výroby a zpracování syntetických diamantů, aby byly levnější a produktivnější, přiměje čím dál více průmyslu k využívání diamantů vypěstovaných v laboratoři. Přechod na diamanty vypěstované v laboratoři umožní výrazně levnější zdravotnické pomůcky, počítačové součástky a mnohem více." # todo: NEW TRANSLATION
-  sp_atmospheric_water_recycling: "Recyklace vody z atmosféry" # todo: NEW TRANSLATION
-  sp_atmospheric_water_recycling_desc: "Zavedením a vývojem schopnosti recyklovat vodu z atmosféry umožníme zemědělství v oblastech, které dříve nebyly považovány za vhodné pro zemědělské využití. Také nám to umožní čistit vodu a eliminovat potřebu agresivnějších metod čerpání vody ze země nebo z místních akvifer." # todo: NEW TRANSLATION
-  sp_space_program_gdm: "Vesmírný program" # todo: NEW TRANSLATION
-  sp_space_program_gdm_desc: "Každý chce do vesmíru, kromě Polska. Polsko neumí do vesmíru." # todo: NEW TRANSLATION
-  sp_space_program_tt: "Odemknou se následující §YTechnologické linie§!:\n- §YGNSS§!\n- §YCOMSAT§!\n- §YSPYSAT§!\n- §YOLV§!\n" # todo: NEW TRANSLATION
-  sp_space_weapons: "Vesmírné zbraně" # todo: NEW TRANSLATION
-  sp_space_weapons_gdm: "Vesmírné zbraně" # todo: NEW TRANSLATION
-  sp_space_weapons_gdm_desc: "Dříve to byla vědecká fantastika, naši vědci konečně začali navrhovat KILLSATy a další zbraně, které lze použít ve vakuu vesmíru. Schopnost používat tyto zbraně posílí naši obranu i ofenzivu, protože budeme moci zasahovat, rušit a bránit protivníky ve hvězdách." # todo: NEW TRANSLATION
-  sp_space_program_non_gdm: "Vesmírný program" # todo: NEW TRANSLATION
-  sp_space_program_non_gdm_desc: "Každý chce do vesmíru, kromě Polska. Polsko neumí do vesmíru." # todo: NEW TRANSLATION
-  sp_space_weapons_non_gdm: "Vesmírné zbraně" # todo: NEW TRANSLATION
-  sp_space_weapons_non_gdm_desc: "Dříve to byla vědecká fantastika, naši vědci konečně začali navrhovat KILLSATy a další zbraně, které lze použít ve vakuu vesmíru. Schopnost používat tyto zbraně posílí naši obranu i ofenzivu, protože budeme moci zasahovat, rušit a bránit protivníky ve hvězdách." # todo: NEW TRANSLATION
-  sp_space_weapons_tt: "Odemknou se následující §YTechnologické linie§!:\n- §YKILLSAT§!" # todo: NEW TRANSLATION
-  sp_electronic_government: "Elektronická vláda" # todo: NEW TRANSLATION
-  sp_electronic_government_desc: "Aby byla maximalizována efektivita státu, občané by měli mít možnost přistupovat ke své vládě a komunikovat s ní z pohodlí domova. To podpoří internetovou gramotnost občanů a sníží vládní výdaje na astronomicky nízké úrovně." # todo: NEW TRANSLATION
-  sp_nuclear_warhead_program: "Program jaderných hlavic" # todo: NEW TRANSLATION
-  sp_nuclear_warhead_program_desc: "Složitosť vývoje jaderné hlavice je jednou z mnoha zkoušek a útrap. Stavba hlavice schopné zničit na obrovskou škálu není jen inženýrský, mechanický a fyzikální výkon, ale i důkaz vůle lidstva po zničení druhých." # todo: NEW TRANSLATION
-  sp_nuclear_warhead_program_tt: "Odemknou se následující §YNukární statusy§!:\n- §YJaderná síla (Defenzivní)§!\n- §YJaderná síla (Ofenzivní)§!\n" # todo: NEW TRANSLATION
-  sp_missile_project: "Experimentace střel" # todo: NEW TRANSLATION
-  sp_missile_project_desc: "Střely mohou být levnou alternativou, když si nemůžeme dovolit skutečné letadlo. Musíme investovat do vědy o střelách (ne do raketové vědy), abychom získali další útočné možnosti" # todo: NEW TRANSLATION
-  sp_missile_project_tt: "Budeme moci zkoumat §YMezikontinentální balistické střely§!, §YBalistické střely středního doletu§!, §YKřižující střely vypouštěné ze země§! a §YStřely země–vzduch§!" # todo: NEW TRANSLATION
-  sp_missile_project_non_got: "Experimentace střel" # todo: NEW TRANSLATION
-  sp_missile_project_non_got_desc: "Střely mohou být levnou alternativou, když si nemůžeme dovolit skutečné letadlo. Musíme investovat do vědy o střelách (ne do raketové vědy), abychom získali další útočné možnosti" # todo: NEW TRANSLATION
-  sp_missile_project_non_got_tt: "Budeme moci zkoumat §YMezikontinentální balistické střely§!, §YBalistické střely středního doletu§!, §YKřižující střely vypouštěné ze země§! a §YStřely země–vzduch§!" # todo: NEW TRANSLATION
-  sp_land_generic_reward_scientist_xp_1: "Nové poznatky" # todo: NEW TRANSLATION
-  sp_land_generic_reward_scientist_xp_2: "Vylepšené odborné znalosti" # todo: NEW TRANSLATION
-  sp_land_generic_reward_scientist_xp_3: "Průlomové poznání" # todo: NEW TRANSLATION
-  sp_land_generic_reward_army_xp_1: "Inovace na bojišti" # todo: NEW TRANSLATION
-  sp_land_generic_reward_army_xp_2: "Operativní vhled" # todo: NEW TRANSLATION
-  sp_land_generic_reward_army_xp_3: "Přizpůsobené polní taktiky" # todo: NEW TRANSLATION
-  sp_land_generic_reward_major_progress_1: "Slibný prototyp" # todo: NEW TRANSLATION
-  sp_land_generic_reward_major_progress_2: "Úspěšný kritický test" # todo: NEW TRANSLATION
-  sp_land_generic_reward_major_progress_3: "Průlomový objev" # todo: NEW TRANSLATION
-  sp_land_generic_reward_test_failure_1: "Nejednoznačný test" # todo: NEW TRANSLATION
-  sp_land_generic_reward_test_failure_2: "Zjištěná vada návrhu" # todo: NEW TRANSLATION
-  sp_land_generic_reward_test_failure_3: "Mírné selhání testu" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_tech_1: "Průkopnické techniky" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_tech_2: "Inovativní pokroky" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_tech_3: "Experimentální metodologie" # todo: NEW TRANSLATION
-  sp_land_generic_reward_option_armor_tech_bonus_name: "Experimentální výzkum obrněných vozidel" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_option_artillery_tech_bonus_name: "Experimentální výzkum dělostřelectva" # todo: NEW TRANSLATION
-  sp_land_generic_reward_infantry_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_infantry_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_infantry_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_option_infantry_tech_bonus_name: "Experimentální výzkum pěchotních zbraní" # todo: NEW TRANSLATION
-  sp_land_generic_reward_motorised_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_motorised_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_motorised_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
-  sp_land_generic_reward_option_motorised_tech_bonus_name: "Experimentální výzkum užitkových vozidel" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_bonus_1: "Vylepšené pancíře" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_bonus_2: "Zlepšení balistické odolnosti" # todo: NEW TRANSLATION
-  sp_land_generic_reward_armor_bonus_3: "Vylepšené pancířové slitiny" # todo: NEW TRANSLATION
-  sp_land_generic_reward_engine_bonus_1: "Motory s lepší spotřebou paliva" # todo: NEW TRANSLATION
-  sp_land_generic_reward_engine_bonus_2: "Vylepšená spolehlivost motorů" # todo: NEW TRANSLATION
-  sp_land_generic_reward_engine_bonus_3: "Optimalizovaný výkon motorů" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_bonus_1: "Vylepšená přesnost na dálku" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_bonus_2: "Nové systémy snižování zpětného rázu" # todo: NEW TRANSLATION
-  sp_land_generic_reward_artillery_bonus_3: "Pokročilý design ústí hlavně" # todo: NEW TRANSLATION
-  sp_land_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
-  sp_land_generic_reward_critical_failure: "Kritické selhání" # todo: NEW TRANSLATION
-  sp_caseless_ammunition_reward_new_propellant: "Nová pohonná látka" # todo: NEW TRANSLATION
-  sp_caseless_ammunition_reward_new_propellant_desc: "Naši inženýři objevili teplotně odolnou pohonnou látku, která by měla pomoci snížit přehřívání." # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_reward_improved_communication: "Nová komunikační metoda dronů" # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_reward_improved_communication_desc: "Při vývoji efektivního řídicího systému pro naše drony naši inženýři vyvinuli vylepšenou metodu bezdrátové komunikace. Můžeme tento průlom využít buď v civilních, nebo vojenských aplikacích." # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_reward_improved_communication_civilian_application: "Civilní použití" # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_reward_improved_communication_military_application: "Vojenské použití" # todo: NEW TRANSLATION
-  sp_fire_support_land_drone_reward_improved_communication_tech_bonus: "Vylepšená bezdrátová komunikace" # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality_reward_civilian_interest: "Civilní zájem" # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality_reward_civilian_interest_desc: "Technologická společnost projevila zájem o vojenský výzkumný projekt v oblasti rozšířené reality. Chtějí posílit spolupráci mezi civilním a vojenským průmyslovým komplexem. Můžeme buď zřídit továrnu poskytující hardware pro civilní sektor, nebo můžeme využít zdroje společnosti k výrobě vybavení pro armádu." # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality_reward_civilian_interest_civ_factory: "Civilní investice" # todo: NEW TRANSLATION
-  sp_tactical_augmented_reality_reward_civilian_interest_mil_factory: "Vojenské investice" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_double_shot_type: "Metoda dvojité střelby" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_double_shot_type_desc: "Naši inženýři byli kontaktováni dvěma firmami, obě mají unikátní metodu poskytování více počáteční palebné síly. Jedna firma navrhuje útočnou pušku se dvěma hlavně, která může střílet v krátkých sledech. Druhá firma chce implementovat kladkový systém, který umožní cyklus závěru dvakrát za akci a vystřelit dvě náboje po sobě. Kterou bychom měli zvolit?" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_double_shot_type_double_barrel: "Dvojhlavňová hlaveň" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_double_shot_type_pulley: "Kladkostroj" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_improved_firing_rate: "Vylepšená kadence střelby" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_improved_firing_rate_desc: "Při vývoji rychlopalné zbraně pro naše speciální jednotky naši inženýři zjistili, jak zvýšit kadenci našich stávajících pěchotních zbraní, aniž by došlo ke zhoršení přesnosti. Tuto metodu můžeme aplikovat buď na naše hlavní útočné pušky, nebo na naše podpůrné kulomety." # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_improved_firing_rate_offence: "Útočné pušky" # todo: NEW TRANSLATION
-  sp_double_shot_rifle_reward_improved_firing_rate_defence: "Kulomety" # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton_reward_engineers: "Zájem armádních inženýrů" # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton_reward_engineers_desc: "Inženýrský sbor naší armády projevil zájem o náš projekt exoskeletonu. S exoskeletonem, který zvyšuje sílu nositele, by mohli zvýšit efektivitu bojových inženýrů. Můžeme vyvinout oblek, který vyniká ve stavbě opevnění, nebo ten, který pomáhá při obnově poškozené vojenské techniky." # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton_reward_engineers_defence: "Oblek pro opevnění" # todo: NEW TRANSLATION
-  sp_experimental_exoskeleton_reward_engineers_recovery: "Oblek pro obnovu" # todo: NEW TRANSLATION
-  sp_tank_support_drones_reward_improved_visibility: "Vylepšené vidění" # todo: NEW TRANSLATION
-  sp_tank_support_drones_reward_improved_visibility_desc: "Při práci na vizuálních displejích pro nové tankové podpůrné drony vyvinuli naši inženýři kamerový systém, který by měl zlepšit výhled posádek z jejich tanků." # todo: NEW TRANSLATION
-  sp_tank_support_drones_reward_improved_targeting: "Vylepšené cílení" # todo: NEW TRANSLATION
-  sp_tank_support_drones_reward_improved_targeting_desc: "Při práci na softwaru pro rozpoznávání hrozeb pro naše bojové drony se inženýři podařilo vytvořit verzi kompatibilní s naším stávajícím tankovým softwarem. Díky tomu budeme moci vylepšit cílení pro naše tanky." # todo: NEW TRANSLATION
-  sp_active_camouflage_reward_vehicle_protection: "Maskování vozidel" # todo: NEW TRANSLATION
-  sp_active_camouflage_reward_vehicle_protection_desc: "Některé výzkumy osobního maskování by šly aplikovat i na naše vozidla. Můžeme upřednostnit maskování našich vozidel buď proti pozemním, nebo vůči vzdušným nepřátelům." # todo: NEW TRANSLATION
-  sp_active_camouflage_reward_vehicle_protection_ground: "Pozemní nepřátelé" # todo: NEW TRANSLATION
-  sp_active_camouflage_reward_vehicle_protection_ground_air: "Nepřátelé ve vzduchu" # todo: NEW TRANSLATION
-  sp_active_protection_systems_reward_improved_targeting: "Vylepšené cílení" # todo: NEW TRANSLATION
-  sp_active_protection_systems_reward_improved_targeting_desc: "Naši inženýři vyvinuli nový systém pro detekci přijíždějících projektilů. Domnívají se, že některé algoritmy by mohly být použity k vylepšení detekce letadel." # todo: NEW TRANSLATION
-  sp_tank_electric_engine_hybrid_mode: "Vylepšené motory" # todo: NEW TRANSLATION
-  sp_tank_electric_engine_hybrid_mode_desc: "Využitím zkušeností z vývoje elektrických motorů se naši inženýři podařilo vylepšit stávající modely pro dieselové a turbínové motory." # todo: NEW TRANSLATION
-  sp_tank_aa_launchers_reward_multi_launcher_missile: "Retrofitovaná raketa" # todo: NEW TRANSLATION
-  sp_tank_aa_launchers_reward_multi_launcher_missile_desc: "Při vývoji SAM spouště pro naše tanky naši inženýři krátce experimentovali s projektily vystřelovanými z hlavně. Zjistili, že by mohli vyvinout raketu, která by pasovala do většiny našich tankových hlavní, i když by nebyla optimální. Podobně by mohli raketu učinit kompatibilní napříč více generacemi našich MANPADS." # todo: NEW TRANSLATION
-  sp_tank_aa_launchers_reward_utlise_in_tanks: "Vystřelování z hlavně" # todo: NEW TRANSLATION
-  sp_tank_aa_launchers_reward_utilise_in_manpads: "Kompatibilní napříč generacemi" # todo: NEW TRANSLATION
-  sp_tank_self_sharpening_ammo_reward_improved_alloys: "Vylepšené slitiny" # todo: NEW TRANSLATION
-  sp_tank_self_sharpening_ammo_reward_improved_alloys_desc: "Při práci na nové metodě tepelného zpracování ke zlepšení mikrostruktury wolframového penetrátoru naši materiáloví inženýři objevili metodu tepelného zpracování, která by mohla být použita k ošetření našich pancířových desek." # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets_reward_turret_ring: "Posílený věžní prstenec" # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets_reward_turret_ring_desc: "Výzva u těžší věže spočívá v tom, že je třeba vytvořit věžní prstenec, který vydrží zatížení a bude se pohybovat odpovídající rychlostí. Během vývoje super těžké věže jsme se naučili několik ponaučení a mohli bychom je uplatnit buď na zlepšení rychlosti otáčení věží, nebo na zlepšení jejich odolnosti." # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets_reward_turret_ring_speed: "Rychlejší otáčení věží" # todo: NEW TRANSLATION
-  sp_super_heavy_tank_turrets_reward_turret_ring_armour: "Zvýšit pancíř věžního prstence" # todo: NEW TRANSLATION
-  sp_double_barrel_cannons_reward_improved_autoloader: "Vylepšený automatický nabíječ" # todo: NEW TRANSLATION
-  sp_double_barrel_cannons_reward_improved_autoloader_desc: "Naši inženýři vyvinuli vylepšený automatický nabíjecí systém pro tanky při práci na systému dvojité hlavně." # todo: NEW TRANSLATION
-  sp_railgun_cannon_reward_improved_barrel: "Vylepšená hlaveň" # todo: NEW TRANSLATION
-  sp_railgun_cannon_reward_improved_barrel_desc: "Při práci na hlavni, která vydrží obrovské teplo generované railgunem, se našim inženýrům podařilo využít některé poznatky ke zlepšení našich tradičních hlavní." # todo: NEW TRANSLATION
-  sp_railgun_cannon_2_reward_improved_barrel: "Vylepšená hlaveň" # todo: NEW TRANSLATION
-  sp_railgun_cannon_2_reward_improved_barrel_desc: "Při práci na hlavni, která vydrží obrovské teplo generované railgunem, se našim inženýrům podařilo využít některé poznatky ke zlepšení našich tradičních hlavní." # todo: NEW TRANSLATION
-  sp_tank_based_laser_main_cannons_reward_air_defence: "Laser vzdušné obrany" # todo: NEW TRANSLATION
-  sp_tank_based_laser_main_cannons_reward_air_defence_desc: "S pokroky v laserových zbraních naši inženýři vyvinuli laser, který dokáže sestřelit vzdušné cíle." # todo: NEW TRANSLATION
-  sp_afv_double_cannons_reward_improved_autoloader: "Vylepšený automatický zásobník" # todo: NEW TRANSLATION
-  sp_afv_double_cannons_reward_improved_autoloader_desc: "Naši inženýři vyvinuli vylepšený automatický zásobník pro tanky při práci na systému dobíjení dvojitých kanónů." # todo: NEW TRANSLATION
-  sp_truck_modular_seating_reward_quick_release_belt: "Rychlouvolňovací bezpečnostní pás" # todo: NEW TRANSLATION
-  sp_truck_modular_seating_reward_quick_release_belt_desc: "Při práci na modulárním uspořádání sedadel naši inženýři vyvinuli nový čtyřbodový rychlouvolňovací pás. To by mělo výrazně usnadnit evakuaci zraněných z vozidel." # todo: NEW TRANSLATION
-  sp_utility_vehicle_electric_engines_reward_fuel_efficiency: "Vylepšená spotřeba paliva" # todo: NEW TRANSLATION
-  sp_utility_vehicle_electric_engines_reward_fuel_efficiency_desc: "Při vývoji nového typu baterií naši vědci našli způsob, jak některé z našich poznatků využít pro civilní sektor." # todo: NEW TRANSLATION
-  sp_utility_vehicle_electric_engines_reward_fuel_efficiency_option_tech_bonus: "Vylepšená spotřeba paliva" # todo: NEW TRANSLATION
-  sp_automatic_twin_barrel_mortar_turret_reward_improved_mortars: "Vylepšené minomety" # todo: NEW TRANSLATION
-  sp_automatic_twin_barrel_mortar_turret_reward_improved_mortars_desc: "Výzkum způsobu, jak dva minomety vystřelují současně, nám umožnil vyvinout lepší minometný systém pro naši pěchotu." # todo: NEW TRANSLATION
-  sp_multipurpose_warhead_reward_improved_warhead: "Vylepšené bojové hlavice" # todo: NEW TRANSLATION
-  sp_multipurpose_warhead_reward_improved_warhead_desc: "Při zjišťování, jak přidat protivzdušnou výkonnost protitankovým střelám a protitankovou výkonnost protiletadlovým střelám, naši inženýři přišli na způsob, jak zlepšit celkový výkon jednoho typu munice." # todo: NEW TRANSLATION
-  sp_multipurpose_warhead_reward_improved_warhead_at: "Lepší protitankový výkon" # todo: NEW TRANSLATION
-  sp_multipurpose_warhead_reward_improved_warhead_aa: "Lepší protiletadlový výkon" # todo: NEW TRANSLATION
-  sp_emp_warhead: "Vylepšená elektronická válka" # todo: NEW TRANSLATION
-  sp_emp_warhead_desc: "Oba tanky i letadla mají proti elektronickým válkám opatření, která mohou snížit dopad EMP zbraní. Vzhledem k tomu, že různé platformy používají odlišnou architekturu, můžeme efektivně zaměřit jen na jeden typ cíle." # todo: NEW TRANSLATION
-  sp_emp_warhead_reward_improved_warhead: "Elektronická zbraň" # todo: NEW TRANSLATION
-  sp_emp_warhead_reward_improved_warhead_desc: "Elektronické vybavení nám může poskytnout výhodu ve vzdušném boji." # todo: NEW TRANSLATION
-  sp_emp_warhead_reward_improved_warhead_at: "Prioritizujte pozemní cíle" # todo: NEW TRANSLATION
-  sp_emp_warhead_reward_improved_warhead_aa: "Prioritizujte vzdušné cíle" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_scientist_xp_1: "Plavání v nápadech" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_scientist_xp_2: "Utopení v kreativitě" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_scientist_xp_3: "Vana - Eureka!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_navy_xp_1: "Změna toku nápadů" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_navy_xp_2: "Vlna nápadů" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_navy_xp_3: "Tsunami inovací!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_army_xp_1: "Změna toku nápadů" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_army_xp_2: "Vlna nápadů" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_army_xp_3: "Tsunami inovací!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_major_progress_1: "Hlavní průlom!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_major_progress_2: "Skvělý úspěch!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_major_progress_3: "Obrovský pokrok!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_test_failure_1: "Zpoždění projektu!" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_test_failure_2: "Pouze drobný zádrhel" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_test_failure_3: "Katastrófické výsledky" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
-  sp_naval_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
-  sp_air_generic_reward_scientist_xp_1: "Cenné poznatky" # todo: NEW TRANSLATION
-  sp_air_generic_reward_scientist_xp_2: "Zvýšené teoretické znalosti" # todo: NEW TRANSLATION
-  sp_air_generic_reward_scientist_xp_3: "Neomezené objevy" # todo: NEW TRANSLATION
-  sp_air_generic_reward_air_xp_1: "Nádech čerstvého vzduchu" # todo: NEW TRANSLATION
-  sp_air_generic_reward_air_xp_2: "Vánek inovací" # todo: NEW TRANSLATION
-  sp_air_generic_reward_air_xp_3: "Větry změn" # todo: NEW TRANSLATION
-  sp_air_generic_reward_army_xp_1: "Nádech čerstvého vzduchu" # todo: NEW TRANSLATION
-  sp_air_generic_reward_army_xp_2: "Vánek inovací" # todo: NEW TRANSLATION
-  sp_air_generic_reward_army_xp_3: "Větry změn" # todo: NEW TRANSLATION
-  sp_air_generic_reward_major_progress_1: "Start projektu" # todo: NEW TRANSLATION
-  sp_air_generic_reward_major_progress_2: "Odborné přistání" # todo: NEW TRANSLATION
-  sp_air_generic_reward_major_progress_3: "Záblesk génia" # todo: NEW TRANSLATION
-  sp_air_generic_reward_test_failure_1: "Experiment nevyšel" # todo: NEW TRANSLATION
-  sp_air_generic_reward_test_failure_2: "Selhání bomby" # todo: NEW TRANSLATION
-  sp_air_generic_reward_test_failure_3: "Kreativní pohroma" # todo: NEW TRANSLATION
-  sp_air_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
-  sp_air_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
-  sp_air_autonomous_computers_reward_improved_detection: "Vylepšené navigační a detekční systémy" # todo: NEW TRANSLATION
-  sp_air_autonomous_computers_reward_improved_detection_desc: "S pomocí dat a strojového učení dokážeme směrovat systémy v našich stíhacích letounech, aby lépe vyhýbaly hrozbám a vyhledávaly cíle." # todo: NEW TRANSLATION
-  sp_air_autonomous_bombers_reward_improved_detection: "Lepší autonomie a rozhodování" # todo: NEW TRANSLATION
-  sp_air_autonomous_bombers_reward_improved_detection_desc: "Rozvoj autonomních bombardérů pomůže v náročných situacích, sníží potřebu zbytečných debat mezi plánovači a rozhodovateli o cílech." # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_scientist_xp_1: "Nové poznatky" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_scientist_xp_2: "Vybroušená odbornost" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_scientist_xp_3: "Průkopný objev" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_major_progress_1: "Náznak slibného prototypu" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_major_progress_2: "Klíčový test úspěšný" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_major_progress_3: "Průlomový objev" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_test_failure_1: "Testování nejasné" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_test_failure_2: "Zjištěná konstrukční vada" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_test_failure_3: "Drobné selhání testu" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
-  sp_civilian_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
-  sp_improved_nuclear_ballistic_warhead_delivery_systems: "Vylepšený balistický systém doručení jaderných hlavic" # todo: NEW TRANSLATION
-  sp_improved_nuclear_ballistic_warhead_delivery_systems_desc: "Během vývoje jaderných hlavic jsme dokázali zlepšit a rozšířit dosah našich balistických zbraňových systémů." # todo: NEW TRANSLATION
-  sp_fusion_reactors_special_project_idea: "Fúzní reaktory" # todo: NEW TRANSLATION
-  sp_improved_nuclear_reactor_centrifuge_technology_idea: "Vylepšená jaderná reaktorová centrifuga" # todo: NEW TRANSLATION
-  sp_improved_based_solar_farms_idea: "Vylepšené solární farmy" # todo: NEW TRANSLATION
-  sp_improved_space_solar_farms_idea: "Solární farmy ve vesmíru" # todo: NEW TRANSLATION
-  sp_construction_exoskeletons_idea: "Konstrukční exoskeletony" # todo: NEW TRANSLATION
-  sp_atomspheric_water_recycling_idea: "Recyklace atmosférické vody" # todo: NEW TRANSLATION
-  sp_maglev_trains_idea: "Maglev vlaky" # todo: NEW TRANSLATION
-  sp_thorium_nuclear_fuel_idea: "Thoriumové jaderné palivo" # todo: NEW TRANSLATION
-  sp_wireless_power_grid_expansion_idea: "Rozšíření bezdrátové elektrické sítě" # todo: NEW TRANSLATION
-  sp_improved_synthetic_diamonds_idea: "Vylepšený vývoj syntetických diamantů" # todo: NEW TRANSLATION
-  scientist_trait_genius: "Génius" # todo: NEW TRANSLATION
-  scientist_trait_genius_desc: "Vize, která posouvá hranice vědy a technologií s jedinečnou inovací. Tento talent se objeví jen jednou za generaci." # todo: NEW TRANSLATION
-  scientist_trait_brilliant_theorist: "Brilantní teoretik" # todo: NEW TRANSLATION
-  scientist_trait_brilliant_theorist_desc: "Mistr abstraktních konceptů a teorií, schopný revolučně změnit vojenskou strategii a vědecký výzkum." # todo: NEW TRANSLATION
-  scientist_trait_gifted_engineer: "Nadaný inženýr" # todo: NEW TRANSLATION
-  scientist_trait_gifted_engineer_desc: "Přirozeně nadaný inženýr, který zvládá řešit složité technické problémy v různých oborech." # todo: NEW TRANSLATION
-  scientist_trait_bright: "Bystrý" # todo: NEW TRANSLATION
-  scientist_trait_bright_desc: "Ostrý, rychle uvažující vědec, který vyniká při pochopení nových konceptů a jejich efektivním použití." # todo: NEW TRANSLATION
-  scientist_trait_fast_learner: "Rychlý učenec" # todo: NEW TRANSLATION
-  scientist_trait_fast_learner_desc: "Rychle se přizpůsobuje novým výzvám, učí se rychleji než spolužáci a vyniká v různých vědních oborech." # todo: NEW TRANSLATION
-  scientist_trait_resourceful: "Vynalézavý" # todo: NEW TRANSLATION
-  scientist_trait_resourceful_desc: "Vždy nachází kreativní řešení, i když zdroje jsou omezené nebo situace je kritická." # todo: NEW TRANSLATION
-  scientist_trait_nuclear_specialist: "Jaderný specialista" # todo: NEW TRANSLATION
-  scientist_trait_nuclear_specialist_desc: "Fyzik na špičce výzkumu atomů, hluboce ponořený do studie jaderného štěpení a řetězových reakcí." # todo: NEW TRANSLATION
-  scientist_trait_civilian_technology_expert: "Odborník na civilní technologie" # todo: NEW TRANSLATION
-  scientist_trait_civilian_technology_expert_desc: "Odborník na vývoj technologií určených pro civilní sektor." # todo: NEW TRANSLATION
-  scientist_trait_energy_expert: "Odborník na energetiku" # todo: NEW TRANSLATION
-  scientist_trait_energy_expert_desc: "Veterán z několika energetických společností schopný vyvinout nové způsoby výroby energie." # todo: NEW TRANSLATION
-  scientist_trait_telecommunications_expert: "Telekomunikační expert" # todo: NEW TRANSLATION
-  scientist_trait_telecommunications_expert_desc: "Osoba narozená s telefonem v ruce, odborník na hledání způsobů, jak zpřístupnit porno na každém vašem zařízení." # todo: NEW TRANSLATION
-  scientist_trait_naval_vessels_specialist: "Námořní specialista" # todo: NEW TRANSLATION
-  scientist_trait_naval_vessels_specialist_desc: "Specialista na všechna námořní plavidla." # todo: NEW TRANSLATION
-  scientist_trait_stealth_specialist: "Specialista tichých lodí" # todo: NEW TRANSLATION
-  scientist_trait_stealth_specialist_desc: "Specializovaný na vývoj lodí s minimálním radarovým a sonarovým podpisem." # todo: NEW TRANSLATION
-  scientist_trait_avionics_specialist: "Letecký specialista" # todo: NEW TRANSLATION
-  scientist_trait_avionics_specialist_desc: "Specialista na aerodynamiku a návrh letadel, schopný vyvíjet vynikající rámce, motory a designy pro dominaci na obloze." # todo: NEW TRANSLATION
-  scientist_trait_missile_specialist: "Raketový specialista" # todo: NEW TRANSLATION
-  scientist_trait_missile_specialist_desc: "Specializovaný na technologii raket, zaměřený na principy pohonu v balistických a řízených raketových programech." # todo: NEW TRANSLATION
-  scientist_trait_space_specialist: "Vesmírný nadšenec" # todo: NEW TRANSLATION
-  scientist_trait_space_specialist_desc: "Osoba, která zasvětila svůj život naplňování cílů lidstva mimo Zemi." # todo: NEW TRANSLATION
-  scientist_trait_aircraft_engine_expert: "Odborník na pohonné systémy letadel" # todo: NEW TRANSLATION
-  scientist_trait_aircraft_engine_expert_desc: "Odborník na pohon jetových a pistonových motorů, posouvající výzkum motorů a jejich uplatnění ve vojenských letadlech." # todo: NEW TRANSLATION
-  scientist_trait_autonomous_plane_expert: "Specialista na bezpilotní letadla" # todo: NEW TRANSLATION
-  scientist_trait_autonomous_plane_expert_desc: "Odborník na létání bez pilota." # todo: NEW TRANSLATION
-  scientist_trait_armored_specialist: "Pancéřový specialista" # todo: NEW TRANSLATION
-  scientist_trait_armored_specialist_desc: "Zkušený inženýr specializovaný na návrh a vylepšování tanků a dalších obrněných vozidel." # todo: NEW TRANSLATION
-  scientist_trait_infantry_specialist: "Specialista na pěchotu" # todo: NEW TRANSLATION
-  scientist_trait_infantry_specialist_desc: "Specialista na ruční zbraně, jejich použití a konstrukci." # todo: NEW TRANSLATION
-  scientist_trait_mechsuit_specialist: "Specialista na mechový oblek" # todo: NEW TRANSLATION
-  scientist_trait_mechsuit_specialist_desc: "Někdo, kdo si Titanfall zahrál až příliš." # todo: NEW TRANSLATION
-  sp_double_shot_rifle_tech: "Dvouhlavňová puška" # todo: NEW TRANSLATION
-  has_completed_space_program_tt: "Dokončil speciální projekt: §Y$sp_space_program_gdm$§!" # todo: NEW TRANSLATION
-  has_completed_space_weapons_tt: "Dokončil speciální projekt: §Y$sp_space_weapons_gdm$§!" # todo: NEW TRANSLATION
+ specialization: "Specializace" # todo: NEW TRANSLATION
+ specialization_nuclear: "Civilní výzkum a vývoj" # todo: NEW TRANSLATION
+ specialization_naval: "Výzkum a vývoj námořní války" # todo: NEW TRANSLATION
+ specialization_air: "Výzkum a vývoj avioniky a letectví" # todo: NEW TRANSLATION
+ specialization_land: "Výzkum a vývoj pozemních bojů" # todo: NEW TRANSLATION
+ specialization_nuclear_short: "Civilní" # todo: NEW TRANSLATION
+ specialization_naval_short: "Námořní" # todo: NEW TRANSLATION
+ specialization_air_short: "Letecký" # todo: NEW TRANSLATION
+ specialization_land_short: "Pozemní" # todo: NEW TRANSLATION
+ sp_tag_nuclear_weapons: "Projekty jaderných zbraní" # todo: NEW TRANSLATION
+ sp_tag_civilian: "Civilní výzkumné projekty" # todo: NEW TRANSLATION
+ sp_tag_energy: "Energetické projekty" # todo: NEW TRANSLATION
+ sp_tag_telecommunications: "Telekomunikační projekty" # todo: NEW TRANSLATION
+ sp_tag_antarctica: "Projekty antarktického výzkumu" # todo: NEW TRANSLATION
+ sp_tag_naval_vehicles: "Projekty trupů válečných lodí" # todo: CHANGED
+ sp_tag_naval_armaments: "Projekty námořní výzbroje" # todo: NEW TRANSLATION
+ sp_tag_naval_propulsion: "Projekty námořního pohonu" # todo: NEW TRANSLATION
+ sp_tag_stealth_ships: "Projekty stealth válečných lodí" # todo: NEW TRANSLATION
+ sp_tag_avionics_aeronautics: "Letecké projekty" # todo: NEW TRANSLATION
+ sp_tag_ballistic_missiles: "Projekty balistických raket" # todo: NEW TRANSLATION
+ sp_tag_space: "Vesmírné projekty" # todo: NEW TRANSLATION
+ sp_tag_aircraft_engines: "Projekty leteckých motorů" # todo: NEW TRANSLATION
+ sp_tag_pilotless_vehicles: "Projekty bezpilotních letounů" # todo: NEW TRANSLATION
+ sp_tag_armored_vehicles: "Projekty obrněných vozidel" # todo: NEW TRANSLATION
+ sp_tag_tank_firepower: "Projekty tankové palebné síly" # todo: NEW TRANSLATION
+ sp_tag_tank_protection: "Projekty tankové ochrany" # todo: NEW TRANSLATION
+ sp_tag_tank_mobility: "Projekty tankové mobility" # todo: NEW TRANSLATION
+ sp_tag_infantry_equipment: "Projekty výstroje pěchoty" # todo: NEW TRANSLATION
+ sp_tag_mech_suits: "Projekty mech obleků" # todo: NEW TRANSLATION
+ sp_tag_drones: "Projekty dronů a robotiky" # todo: NEW TRANSLATION
+ sp_tag_eh_portal_research: "Projekty výzkumu portálů" # todo: NEW TRANSLATION
+ sp_tag_eh_mech_research: "Projekty výzkumu mechů" # todo: NEW TRANSLATION
+ sp_tag_nuclear_weapons_speed_factor: "$sp_tag_nuclear_weapons$ Speed" # todo: NEW TRANSLATION
+ sp_tag_civilian_speed_factor: "$sp_tag_civilian$ Speed" # todo: NEW TRANSLATION
+ sp_tag_energy_speed_factor: "$sp_tag_energy$ Speed" # todo: NEW TRANSLATION
+ sp_tag_telecommunications_speed_factor: "$sp_tag_telecommunications$ Speed" # todo: NEW TRANSLATION
+ sp_tag_antarctica_speed_factor: "$sp_tag_antarctica$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_naval_vehicles_speed_factor: "$sp_tag_naval_vehicles$ Speed" # todo: NEW TRANSLATION
+ sp_tag_naval_armaments_speed_factor: "$sp_tag_naval_armaments$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_naval_propulsion_speed_factor: "$sp_tag_naval_propulsion$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_stealth_ships_speed_factor: "$sp_tag_stealth_ships$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_avionics_aeronautics_speed_factor: "$sp_tag_avionics_aeronautics$ Speed" # todo: NEW TRANSLATION
+ sp_tag_ballistic_missiles_speed_factor: "$sp_tag_ballistic_missiles$ Speed" # todo: NEW TRANSLATION
+ sp_tag_space_speed_factor: "$sp_tag_space$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_aircraft_engines_speed_factor: "$sp_tag_aircraft_engines$ Speed" # todo: NEW TRANSLATION
+ sp_tag_pilotless_vehicles_speed_factor: "$sp_tag_pilotless_vehicles$ Speed" # todo: NEW TRANSLATION
+ sp_tag_armored_vehicles_speed_factor: "$sp_tag_armored_vehicles$ Speed" # todo: NEW TRANSLATION
+ sp_tag_tank_firepower_speed_factor: "$sp_tag_tank_firepower$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_tank_protection_speed_factor: "$sp_tag_tank_protection$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_tank_mobility_speed_factor: "$sp_tag_tank_mobility$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_infantry_equipment_speed_factor: "$sp_tag_infantry_equipment$ Speed" # todo: NEW TRANSLATION
+ sp_tag_mech_suits_speed_factor: "$sp_tag_mech_suits$ Speed" # todo: NEW TRANSLATION
+ sp_tag_drones_speed_factor: "$sp_tag_drones$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_eh_portal_research_speed_factor: "$sp_tag_eh_portal_research$ Rychlost" # todo: NEW TRANSLATION
+ sp_tag_eh_mech_research_speed_factor: "$sp_tag_eh_mech_research$ Rychlost" # todo: NEW TRANSLATION
+ sp_caseless_ammunition: "Bezzápalová munice" # todo: NEW TRANSLATION
+ sp_caseless_ammunition_desc: "Tím, že projektil a pohonná látka jsou spojeny do jednoho tělesa, můžeme snížit hmotnost munice i její výrobní náklady." # todo: NEW TRANSLATION
+ sp_fire_support_land_drone: "Drony podpůrné palby" # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_desc: "Máme vzdušné drony, ale vývoj pozemních dronů by zvýšil palebnou sílu naší pěchoty." # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality: "Taktická rozšířená realita" # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality_desc: "Vytvoření nositelného zařízení pro zobrazení živých informací v zorném poli našich vojáků určitě zlepší jejich efektivitu v boji." # todo: NEW TRANSLATION
+ sp_double_shot_rifle: "Dvojstřelná puška" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_desc: "Když naše speciální jednotky zaútočí, cílem je rychle vyslat krátký slabý výstřel přesně. Toho lze nejlépe dosáhnout vytvořením speciální zbraně právě pro naše speciální jednotky." # todo: NEW TRANSLATION
+ sp_double_shot_rifle_tt: "Zvyšuje všech §YSpeciální síly§! jednotky §YObrana§! a §YPrůlom§! o §G5%§!\n" # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton: "Experimentální exoskelet" # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton_desc: "Exoskelet je mechanický oblek určený k zvýšení schopností nositele. Může mít podobu vyšší rychlosti, síly nebo reakční doby. Vývoj obleku pro vojenské použití by mohl učinit naše vojáky efektivnějšími." # todo: NEW TRANSLATION
+ sp_active_camouflage: "Aktivní maskování" # todo: NEW TRANSLATION
+ sp_active_camouflage_desc: "Maskování je dobré pro skrývání vojáků, ale většinou znamená kompromis vzhledem k prostředí boje. Pokud bychom dokázali navrhnout maskování, které se dokáže adaptovat na okolní terén, naši vojáci by byli téměř neviditelní pro nepřítele." # todo: NEW TRANSLATION
+ sp_coilgun_memes: "Infantrie coilguny" # todo: NEW TRANSLATION
+ sp_coilgun_memes_desc: "Když na technologii kolejových děl našich tanků použijeme postup „Zlato, zmenšil jsem děti“, můžeme naší pěchotě dát sílu wolframového projektilu letícího rychlostí mach Ježíš. \nNeprovokujte toho schizofrenního vývojáře, protože přísahám, že podobné věci zvládnu udělat za jeden večer." # todo: CHANGED
+ sp_recon_land_drone: "Pozemní průzkumné drony" # todo: NEW TRANSLATION
+ sp_recon_land_drone_desc: "Moderní pozemní válčení stále více závisí na informační převaze a včasném odhalení hrozeb. Nasazením specializovaných průzkumných dronů po boku našich pozemních sil rozšíříme jejich přehled daleko za hranice tradičních průzkumných metod. Tato investice umožní rychlejší rozhodování, lepší koordinaci a jasnější obraz bojiště ještě před přímým střetem." # todo: NEW TRANSLATION
+ sp_smart_bullets: "Chytré střely" # todo: NEW TRANSLATION
+ sp_smart_bullets_desc: "Pokroky v navádění a zaměřování začínají ovlivňovat i nejmenší prvky bojiště. Investicemi do chytré munice pro naši pěchotu a podpůrné zbraně chceme zlepšit přesnost a účinnost v komplexních bojových prostředích." # todo: NEW TRANSLATION
+ sp_recon_drone_land: "Systémy pozemních průzkumných dronů" # todo: NEW TRANSLATION
+ sp_recon_drone_land_desc: "S rozšířením bezpilotních letounů na bojišti poskytují pozemní průzkumné drony pozemním silám nepřetržité zpravodajství v reálném čase nad frontovou linií. Tyto drony operují v blízkosti bojových jednotek a zlepšují přehled o situaci, identifikaci cílů i koordinaci, aniž by vystavovaly personál přímému riziku." # todo: NEW TRANSLATION
+ sp_truck_modular_seating: "Modulární sezení v nákladních vozech" # todo: NEW TRANSLATION
+ sp_truck_modular_seating_desc: "Při přepravě nákladními vozy naši vojáci většinou sedí na korbě volně. Měli bychom vyvinout modulární uspořádání sedadel, které se vejde do kteréhokoli našeho vozu. Tím bude přeprava jednotek organizovanější a výstup méně efektivní." # todo: NEW TRANSLATION
+ sp_utility_vehicle_electric_engines: "Elektrické motory pro nákladní vozy" # todo: NEW TRANSLATION
+ sp_utility_vehicle_electric_engines_desc: "Elektrické motory existují již dlouho a získávají popularitu na civilním trhu. Můžeme vyvinout motor pro použití v našich vojenských vozech, aby jsme snížili naši závislost na palivu." # todo: NEW TRANSLATION
+ sp_airless_tires: "Bezdušové pneumatiky" # todo: NEW TRANSLATION
+ sp_airless_tires_desc: "Mobilita zůstává klíčovým faktorem moderních pozemních operací, zejména v drsném a nepředvídatelném prostředí. Přijetím technologie bezdušových pneumatik pro vojenská vozidla můžeme snížit nároky na údržbu a odstranit zranitelnost vůči defektům. Tato investice zlepší provozní spolehlivost a umožní našim silám pokračovat v pohybu i za nepříznivých podmínek." # todo: NEW TRANSLATION
+ sp_armoured_vehicle_project: "Experimentování s obrněnými vozidly" # todo: NEW TRANSLATION
+ sp_armoured_vehicle_project_desc: "Pokud chceme někdy vyrobit domácí obrněná vozidla, musíme investovat čas a úsilí do experimentování s různými konstrukcemi vozidel." # todo: NEW TRANSLATION
+ sp_armoured_vehicle_project_tt: "Budeme moci vyzkoumat §YTrupy hlavních bitevních tanků§!, §YTrupy obrněných bojových vozidel§!, §YTrupy lehkých tanků§!, §YTrupy samohybných děl§! a §YTrupy samohybných protiletadlových děl§!" # todo: NEW TRANSLATION
+ sp_tank_nera_armor: "Těžký NERA kompozit" # todo: NEW TRANSLATION
+ sp_tank_nera_armor_desc: "Můžeme zkoumat pokročilé materiály k výrobě těžších a odolnějších typů pancíře, např. vložky z olova z mořské vody." # todo: NEW TRANSLATION
+ sp_tank_support_drones: "Drony podpory tanků" # todo: NEW TRANSLATION
+ sp_tank_support_drones_desc: "Drony jsou na bojišti stále častější. Jelikož mají naše tanky omezené vidění, mohlo by dávat smysl integrovat řídicí středisko dronů do tanku a vybavit ho vypouštěcím dronem. Tím bude operátor tanku moci lépe sledovat bojiště." # todo: NEW TRANSLATION
+ sp_tank_support_drones_2: "Bojové drony pro tanky" # todo: NEW TRANSLATION
+ sp_tank_support_drones_2_desc: "Kromě dohledu budou bojové drony tanků schopny identifikovat a značit cíle a dokonce bojovat proti některým cílům s exploziemi nebo namontovanými zbraněmi." # todo: NEW TRANSLATION
+ sp_active_protection_systems: "Systémy aktivní ochrany" # todo: NEW TRANSLATION
+ sp_active_protection_systems_desc: "Není dostatečné jen skrývat naše tanky dýmem. Musíme integrovat systém proti projektilům, který zničí nadcházející rakety a penetrátory." # todo: NEW TRANSLATION
+ sp_tank_electric_engine: "Elektrický pohon tanku" # todo: NEW TRANSLATION
+ sp_tank_electric_engine_desc: "Naše dřívější elektrické pohonné bloky napájely jenauxiliární zařízení tanku. Při dostatečné investici bychom mohli vytvořit plně elektrický pohon tanku." # todo: NEW TRANSLATION
+ sp_tank_aa_launchers: "Tankově namontované SAM" # todo: NEW TRANSLATION
+ sp_tank_aa_launchers_desc: "Tanky bývají zranitelné vůči jakémukoli vzdušnému cíli, a to i s omezenou ochranou. Vystřelovat ATGM z tanků již bylo prokázanou metodou, ale možná bychom je mohli použít i pro vypuštění protileteckých raket." # todo: NEW TRANSLATION
+ sp_tank_self_sharpening_ammo: "Samoostřující tyče" # todo: NEW TRANSLATION
+ sp_tank_self_sharpening_ammo_desc: "Při specifickém teplotním ošetření můžeme zlepšit mikrostrukturu wolframových penetrátorů pro zvýšení odolnosti projektilu během penetrace." # todo: NEW TRANSLATION
+ sp_tank_thermal_camo: "Termální kamufláž" # todo: NEW TRANSLATION
+ sp_tank_thermal_camo_desc: "Se speciálním povlakem a maskovacími prostředky můžeme snížit tepelný otisk našich vozidel, čímž bude jejich detekce tepelnými kamerami a tepelnými naváděnými střelami mnohem obtížnější." # todo: NEW TRANSLATION
+ sp_tank_chameleon_camo: "Chameleon kamufláž" # todo: NEW TRANSLATION
+ sp_tank_chameleon_camo_desc: "Se speciálním pláštěm můžeme naše vozidla napodobit okolí tím, že na jejich viditelné straně promítáme to, co je za nimi." # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets: "Věže supertěžkých tanků" # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets_desc: "Abychom vybavili naše tanky těžšími zbraněmi, musíme najít proveditelný způsob, jak vytvořit větší věž." # todo: NEW TRANSLATION
+ sp_double_barrel_cannons: "Dvojhlavňový tank" # todo: NEW TRANSLATION
+ sp_double_barrel_cannons_desc: "Proběhlo několik pokusů o vytvoření tanků se dvěma hlavněmi, ale byly odmítnuty jako neefektivní. Pokud vyvineme efektivní nabíjecí mechanismus, mohli bychom využít obě zbraně." # todo: NEW TRANSLATION
+ sp_railgun_cannon: "dráhový kanón" # todo: NEW TRANSLATION
+ sp_railgun_cannon_desc: "Railgun používá dva kovové vodiče, na které je dodáván elektrický proud, aby poháněl magnetický projektil skrz hlaveň. To umožňuje projektilu menšího než konvenční způsobit velké poškození bez výbušného materiálu." # todo: NEW TRANSLATION
+ sp_railgun_cannon_2: "Plazmový railgun" # todo: NEW TRANSLATION
+ sp_railgun_cannon_2_desc: "Namísto pevného projektilu používá plazmový railgun elektromagnetické síly k urychlení plazmových plynů na vysoké rychlosti. Při zásahu cíle kromě obrovského tepla a kinetické síly plazma navíc vyzařuje elektromagnetické záření, které ruší elektroniku." # todo: NEW TRANSLATION
+ sp_tank_based_laser_main_cannons: "Laserové hlavní kanóny" # todo: NEW TRANSLATION
+ sp_tank_based_laser_main_cannons_desc: "Vytvořením velké energetické zbraně, která dokáže koncentrovat silný laser, bychom mohli vyvinout hlavní zbraň tanku schopnou prorazit prakticky cokoli." # todo: NEW TRANSLATION
+ sp_tank_based_laser_point_defense: "Laserová bodová obrana tanku" # todo: NEW TRANSLATION
+ sp_tank_based_laser_point_defense_desc: "Kromě systémů aktivní ochrany bychom mohli vyvinout malé laserové zbraně, které by ničily přilétající rakety pro naše tanky." # todo: NEW TRANSLATION
+ sp_afv_double_cannons: "Dvojité dělo" # todo: NEW TRANSLATION
+ sp_afv_double_cannons_desc: "Obvykle jsou naše lehké obrněné bojové vozidla vybavena jednou zbraní, obvykle autocanonou. Mohli bychom však vyvinout systém pro namontování dvou kanónů vedle sebe." # todo: NEW TRANSLATION
+ sp_tank_stealth_armor_early: "Raná stealth zbroj" # todo: NEW TRANSLATION
+ sp_tank_stealth_armor_early_desc: "Vytvořením brnění, které nejen chrání naše tanky, ale také poskytuje lepší maskování, můžeme přijmout nejlepší teorie pancéřování: že nebýt zasažen je lepší než zastavit zásah." # todo: NEW TRANSLATION
+ sp_exoskeletal_engine_tank: "Systémy exoskeletálního motoru" # todo: NEW TRANSLATION
+ sp_exoskeletal_engine_tank_desc: "Konvenční motory využívají centrální hřídele a kotouče, které mají přirozená omezení z hlediska hmotnosti, namáhání a účinnosti. Výzkum konstrukcí exoskeletálních motorů, v nichž jsou rotující lopatky neseny uvnitř bubnové rotorové struktury, má za cíl snížit hmotnost, zvýšit spolehlivost a otevřít nové možnosti kompaktního pohonu s vysokým výkonem." # todo: NEW TRANSLATION
+ sp_nuclear_engine_tank: "Systémy motorů s jaderným pohonem" # todo: NEW TRANSLATION
+ sp_nuclear_engine_tank_desc: "Rostoucí spotřeba paliva a prodlužující se operační dosah stále více zatěžují konvenční logistiku obrněných sil. Výzkum systémů motorů s jaderným pohonem pro těžká pozemní vozidla má za cíl snížit závislost na zásobovacích trasách a zároveň zachovat dlouhodobou mobilitu." # todo: NEW TRANSLATION
+ sp_light_walker_tank_chassis: "Podvozek lehkého kráčejícího tanku" # todo: NEW TRANSLATION
+ sp_light_walker_tank_chassis_desc: "Lehký dvounohý obrněný podvozek navržený k překonávání rozbitého terénu, sutin a městských překážek, které omezují konvenční pásová vozidla. Jeho zvýšený profil a složité pohony sice přinášejí problémy s údržbou a spolehlivostí, ale platforma lehkého kráčejícího vozidla může při správné podpoře pěchoty a dronů nabídnout mimořádnou mobilitu v hustě zastavěných městech i členitém terénu." # todo: NEW TRANSLATION
+ sp_drone_lrs: "Raketometný systém pro vypouštění dronů" # todo: NEW TRANSLATION
+ sp_drone_lrs_desc: "Nahrazením konvenční raketové munice velkým množstvím jednorázových dronů poskytuje tento odpalovací systém rojovou palebnou sílu na rozsáhlých územích. Po nasazení se drony rozptýlí, aby prováděly průzkum, údery nebo útoky z vyčkávání, což pozemním silám umožňuje zahlcovat nepřátelskou obranu, přizpůsobovat se cílům během letu a udržovat tlak bez závislosti na tradičních raketových náložích." # todo: NEW TRANSLATION
+ sp_heavy_walker_tank_chassis: "Podvozek těžkého kráčejícího tanku" # todo: NEW TRANSLATION
+ sp_heavy_walker_tank_chassis_desc: "Těžké dvounohé obrněné platformy navazující na dřívější koncepty kráčejících vozidel kombinují silnou pancéřovou ochranu s kloubovou mobilitou a umožňují překonávat terén neprůchodný pro konvenční těžké tanky. Tato vozidla jsou pomalejší a mechanicky složitější, ale kladou důraz na odolnost čelní části a stabilní zbraňové platformy, díky čemuž mohou podporovat průlomové operace v hustě zastavěném i členitém prostředí." # todo: NEW TRANSLATION
+ sp_walker_tank_chassis: "Podvozek kráčejícího tanku" # todo: NEW TRANSLATION
+ sp_walker_tank_chassis_desc: "Podvozky kráčejících tanků kombinují konstrukci obrněných vozidel s pohyblivostí založenou na kloubových nohách a jsou určeny k operacím v terénu, kde mají konvenční pásové platformy potíže. Překonáváním překážek a pohybem po nerovném povrchu nabízejí tato vozidla lepší flexibilitu v městském, horském a silně poškozeném prostředí za cenu vyšší mechanické složitosti a nároků na údržbu." # todo: NEW TRANSLATION
+ sp_hover_suspension: "Systémy vznášivého podvozku" # todo: NEW TRANSLATION
+ sp_hover_suspension_desc: "Nahrazením tradičního pásového podvozku systémy vytvářejícími vztlak získají obrněné transportéry schopnost pohybovat se nad povrchem země místo po něm. Vozidla tak mohou překonávat bláto, sníh, vodu i trosky s menším kontaktem se zemí, což zlepší mobilitu a flexibilitu nasazení, zároveň však přinese nové požadavky na výkon a údržbu." # todo: NEW TRANSLATION
+ sp_automatic_twin_barrel_mortar_turret: "Automatická dvojhlavňová minometná věž" # todo: NEW TRANSLATION
+ sp_automatic_twin_barrel_mortar_turret_desc: "Minometné věže jsou už dávno, ale pokud do téže věže namontujeme dva minomety, dosáhneme výrazně vyšší kadence střelby a současného dopadu více projektilů." # todo: NEW TRANSLATION
+ sp_ground_fireandforget: "ATGM s palbou a zapomenutím" # todo: NEW TRANSLATION
+ sp_ground_fireandforget_desc: "Miniaturizace elektroniky nyní umožňuje, aby střela sama naváděla na cíl prostřednictvím termických zámků." # todo: NEW TRANSLATION
+ sp_multipurpose_warhead: "Víceúčelové hlavice" # todo: NEW TRANSLATION
+ sp_multipurpose_warhead_desc: "Máme rakety proti tankům a rakety proti letadlům. Co kdybychom ale mohli zajistit, aby naše rakety byly účinné i proti oběma typům cílů? Tak by v nouzi protitankové i protiletadlové rakety mohly být použity i proti jiným cílům." # todo: NEW TRANSLATION
+ sp_magneto_explosive_munition: "Magnetohydrodynamická výbušná munice" # todo: NEW TRANSLATION
+ sp_magneto_explosive_munition_desc: "Silně obrněná vozidla nadále pohánějí vývoj pokročilejších protitankových zbraní. Výzkum magnetohydrodynamické výbušné munice má za cíl zvýšit průbojnost a ničivé účinky našich řízených střel." # todo: NEW TRANSLATION
+ sp_naval_vessel_project: "Experimenty s námořními plavidly" # todo: NEW TRANSLATION
+ sp_naval_vessel_project_desc: "Abychom mohli plout po sedmi mořích (nebo i po našem zahradním bazénu), musíme vyhradit prostředky na vývoj experimentálních válečných lodí." # todo: NEW TRANSLATION
+ sp_naval_vessel_project_tt: "Odemkne následující §YTechnologické linie§!:\\n- §YKorpový trup korvet§!\\n- §YKorpový trup fregat§!\\n- §YKorpový trup torpédoborců§!\\n- §YKorpový trup křižníků§!\\n- §YTrupy pro operátory vrtulníků§!\\n- §YTrupy letadlových lodí§!\\n- §YTrupy útočných ponorek§! a §YTrupy ponorek s řízenými střelami§!" # todo: NEW TRANSLATION
+ sp_stealth_corvette: "Stealth korvety" # todo: NEW TRANSLATION
+ sp_stealth_corvette_desc: "Malé stealth korvety jsou skvělou možností, jak rozšířit naši schopnost bojovat proti nepřátelským mocnostem, aniž by jejich lodě nás mohly detekovat." # todo: NEW TRANSLATION
+ sp_stealth_frigate: "Stealth fregaty" # todo: NEW TRANSLATION
+ sp_stealth_frigate_desc: "Přechod v designu některých našich fregat se začíná měnit. Rozhodli jsme se, že je nejlepší investovat do stealth designů, aby naše fregaty byly v co nejvýhodnějších pozicích." # todo: NEW TRANSLATION
+ sp_stealth_destroyer: "Stealth torpédoborec" # todo: NEW TRANSLATION
+ sp_stealth_destroyer_desc: "Nová vlna námořní technologie se vyvíjí různými výrobci bez úspěchu. Měli bychom podporovat tuto novou technologii, aby naše torpédoborce byly téměř neodhalitelné a mohly zaútočit dříve, než nepřítel zjistí naši přítomnost." # todo: NEW TRANSLATION
+ sp_medium_naval_nuclear_engines: "Námořní jaderné inženýrství" # todo: NEW TRANSLATION
+ sp_medium_naval_nuclear_engines_desc: "Po vynálezu jaderných reaktorů a energie jsme začali zkoumat možnost namontovat jaderné motory na naše námořní plavidla. To minimalizuje čas potřebný v suchém doku." # todo: NEW TRANSLATION
+ sp_advanced_ballistic_propulsion_systems: "Pokročilé balistické pohonné systémy" # todo: NEW TRANSLATION
+ sp_advanced_ballistic_propulsion_systems_desc: "Vynález některých pokročilých balistických pohonných systémů přiměl naše vědce k zamyšlení nad otázkou: Co kdyby? Začali vyvíjet nové formy balistických pohonných systémů, využívající elektromagnetickou propulsion, aby vybudovali zbraně schopné vystřelit projektil rychleji, než si kdo dokázal představit." # todo: NEW TRANSLATION
+ sp_rail_gun_naval_cannons: "Railgun námořní kanóny" # todo: NEW TRANSLATION
+ sp_rail_gun_naval_cannons_desc: "Railgun kanóny používají elektromagnetickou pohon k pohánění projektilu vzduchem, aby způsobili škody při extrémních rychlostech. Projektil sám neobsahuje výbušné látky a spoléhá na tuto vysokou rychlost k prorážení pancíře." # todo: NEW TRANSLATION
+ sp_supercarrier_1: "Rané supercarrier" # todo: NEW TRANSLATION
+ sp_supercarrier_1_desc: "Rozšířená palubní plocha a schopnost budovat lodě této velikosti budou klíčové pro naši dlouhodobou projekci síly." # todo: NEW TRANSLATION
+ sp_supercarrier_2: "Pozdní supercarrier" # todo: NEW TRANSLATION
+ sp_supercarrier_2_desc: "S přidáním jaderných motorů má více síly znamená větší lodě a velkou palubu." # todo: NEW TRANSLATION
+ sp_drone_torpedoes: "Torpéda-drony" # todo: NEW TRANSLATION
+ sp_drone_torpedoes_desc: "Námořní válka se rychle vyvíjí a tradiční torpéda již proti moderním hrozbám nestačí. Investicemi do torpédových systémů založených na dronech chceme zvýšit naši údernou sílu pod hladinou. Tato nová torpéda dokážou samostatně sledovat cíle a přizpůsobovat útok, což našim flotilám umožní udržet iniciativu v protiponorkových i námořních operacích." # todo: NEW TRANSLATION
+ sp_anti_drone_laser_modules: "Protidronové laserové moduly" # todo: NEW TRANSLATION
+ sp_anti_drone_laser_modules_desc: "Rostoucí používání dronů a přesně naváděné munice na moři nutí k přehodnocení námořní protivzdušné obrany. Integrací laserových protidronových systémů do našich lodí můžeme na tyto hrozby reagovat rychlostí a přesností, kterým se tradiční zbraně nemohou rovnat." # todo: NEW TRANSLATION
+ sp_mineclearing_drone: "Systémy dronů pro odminování" # todo: NEW TRANSLATION
+ sp_mineclearing_drone_desc: "Námořní miny zůstávají jednou z nejtrvalejších a nákladově nejefektivnějších hrozeb pro námořní operace. Přenesením úkolů boje proti minám na bezpilotní dronové systémy snížíme riziko pro posádky a současně zvýšíme rychlost i dosah odminovacích operací." # todo: NEW TRANSLATION
+ sp_naval_recon_drone: "Námořní průzkumné drony" # todo: NEW TRANSLATION
+ sp_naval_recon_drone_desc: "Udržování přehledu o situaci na moři je stále složitější, protože námořní bojiště jsou přeplněnější a spornější. Investicemi do specializovaných námořních průzkumných dronů rozšíříme dosah sledování za hranice možností pilotovaných platforem. Tyto systémy umožní našim flotilám dříve odhalovat, sledovat a řešit hrozby, což zajistí informovanější velitelská rozhodnutí a větší operační flexibilitu." # todo: NEW TRANSLATION
+ sp_drone_submarine: "Dronová ponorka" # todo: NEW TRANSLATION
+ sp_drone_submarine_desc: "Podmořský boj se posouvá k vytrvalosti a popíratelnosti namísto samotné hrubé palebné síly. Vývojem bezpilotních ponorkových platforem můžeme udržovat nepřetržitou přítomnost pod vodou, aniž bychom riskovali posádky nebo cenné prostředky. Tyto dronové ponorky nám umožní monitorovat, narušovat a kontrolovat klíčové námořní oblasti, přičemž budou operovat pod prahem konvenční eskalace." # todo: NEW TRANSLATION
+ sp_modern_sail_ships: "Moderní lodě s pomocnými plachtami" # todo: NEW TRANSLATION
+ sp_modern_sail_ships_desc: "Rostoucí energetické nároky a prodlužující se námořní logistika nutí k přehodnocení fungování našich podpůrných flotil. Opětovným zavedením moderních konstrukcí s pomocnými plachtami pro vybraná plavidla můžeme snížit spotřebu paliva a zachovat provozní spolehlivost." # todo: NEW TRANSLATION
+ sp_drone_patrol_boat: "Dronové hlídkové čluny" # todo: NEW TRANSLATION
+ sp_drone_patrol_boat_desc: "Úkoly pobřežní bezpečnosti a námořního hlídkování jsou stále více zatěžovány omezeným počtem personálu a rostoucími operačními nároky. Nasazením bezpilotních hlídkových člunů můžeme udržovat stálou přítomnost v klíčových pobřežních a příbřežních oblastech, aniž bychom nasazovali větší válečné lodě. Tyto platformy nám umožní efektivněji a pružněji sledovat, odrazovat a řešit hrozby nízké intenzity." # todo: NEW TRANSLATION
+ sp_drone_corvette: "Dronové korvety" # todo: NEW TRANSLATION
+ sp_drone_corvette_desc: "S tím, jak jsou námořní střety rozptýlenější a rizikovější, se znovu zvažuje role menších hladinových bojových plavidel. Investicemi do bezpilotních nebo volitelně pilotovaných korvetních platforem můžeme promítat sílu a udržovat kontrolu nad mořem, aniž bychom posádky vystavovali zbytečnému nebezpečí." # todo: NEW TRANSLATION
+ sp_drone_surface_combatant: "Autonomní hladinová bojová plavidla" # todo: NEW TRANSLATION
+ sp_drone_surface_combatant_desc: "S tím, jak je stále obtížnější získávat a udržovat posádky, jsou větší hladinová bojová plavidla nově konstruována s důrazem na automatizaci. Volitelně pilotované fregaty a torpédoborce nám umožní udržet přítomnost na oceánech s částí potřebného personálu, ovšem za cenu vyšší spotřeby pokročilé elektroniky." # todo: NEW TRANSLATION
+ sp_rail_gun_naval_battery: "Námořní baterie elektromagnetických děl" # todo: NEW TRANSLATION
+ sp_rail_gun_naval_battery_desc: "Zatímco rané koncepty elektromagnetických děl se zaměřovaly na jednotlivé ničivé výstřely, vývoj námořního boje vyžaduje vytrvalou a pružnou palebnou sílu. Vývojem vícehlavňové baterie elektromagnetických děl se posouváme k vyšší kadenci a lepšímu nasycení cílů." # todo: NEW TRANSLATION
+ sp_nuclear_torpedoes: "Jaderná torpéda" # todo: NEW TRANSLATION
+ sp_nuclear_torpedoes_desc: "S přesunem námořního odstrašení k dominanci pod hladinou již konvenční nálože nemusí stačit. Vývojem torpéd s jadernými hlavicemi získáme zbraň schopnou zamezit přístupu do rozsáhlých námořních oblastí a rozhodně čelit vysoce hodnotným námořním uskupením." # todo: NEW TRANSLATION
+ sp_fusion_reactor_engine: "Motor s fúzním reaktorem" # todo: NEW TRANSLATION
+ sp_fusion_reactor_engine_desc: "Rostoucí energetické nároky moderních námořních systémů tlačí konvenční pohon a výrobu energie na hranici možností. Investicemi do reaktorových motorů založených na jaderné fúzi pro naše lodě chceme podporovat pokročilé zbraně, senzory a pohon bez omezení vytrvalosti. Tento projekt pokládá základy nové generace vysoce energetických námořních platforem a zajistí dlouhodobou operační převahu na moři." # todo: NEW TRANSLATION
+ sp_naval_swarm_module: "Námořní systémy pro vypouštění rojů dronů" # todo: NEW TRANSLATION
+ sp_naval_swarm_module_desc: "Integrací modulárních odpalovacích systémů na paluby hladinových plavidel získají námořní platformy schopnost nasazovat velké množství autonomních dronů pro průzkum, elektronický boj a úderné mise. Tyto rojové systémy rozšiřují dosah senzorů lodí, zahlcují nepřátelskou obranu a poskytují pružnou projekci síly, aniž by vystavovaly mateřské plavidlo přímému střetu." # todo: NEW TRANSLATION
+ sp_radar_jamming_module: "Systémy rušení námořních radarů" # todo: NEW TRANSLATION
+ sp_radar_jamming_module_desc: "Použitím pokročilých souprav elektronického boje určených k narušení a zhoršení funkce nepřátelských radarových systémů mohou hladinová plavidla na moři skrýt svou skutečnou polohu a pohyb. Tyto rušicí systémy narušují získávání cílů a řízení palby, snižují účinnost nepřátelských senzorů a zvyšují přežitelnost během námořních střetů." # todo: NEW TRANSLATION
+ sp_anti_torpedo_module: "Námořní protitorpédové systémy" # todo: NEW TRANSLATION
+ sp_anti_torpedo_module_desc: "Použitím specializovaných protitorpédových obranných souprav určených k odhalení, klasifikaci a zneškodnění přicházejících podvodních hrozeb mohou hladinová plavidla snížit riziko moderních torpéd během přesunu i bojových operací. Tyto systémy kombinují rychlé sonarové sledování, automatizované nasazení protiopatření a řešení pro zachycení, která narušují navádění a ničí torpéda před dopadem, čímž zvyšují přežitelnost v napadených vodách." # todo: NEW TRANSLATION
+ sp_aircraft_project: "Experimenty s letadly" # todo: NEW TRANSLATION
+ sp_aircraft_project_desc: "Letadla jsou vysoce technická zařízení vyžadující vysoce vyspělý průmysl k návrhu a výrobě. Pokud chceme někdy mít vlastní letadla, musí se provádět experimenty." # todo: NEW TRANSLATION
+ sp_aircraft_project_bba_tt: "Odemknou následující §YTechnologické linie§!:\\n- §YLehké konstrukce trupů letounů§!\\n- §YStřední konstrukce trupů letounů§!\\n- §YTěžké konstrukce trupů letounů§!\\n- §YÚtočné vrtulníky§!\\n- §YTransportní vrtulníky§!\\n" # todo: NEW TRANSLATION
+ sp_aircraft_project_non_bba_tt: "Odemknou následující §YTechnologické linie§!:\\n- §YBojové letouny§!\\n- §YBlízká letecká podpora§!\\n- §YBombardéry§!\\n- §YBezpilotní bojová letadla§!\\n- §YLehké stíhače§!\\n" # todo: NEW TRANSLATION
+ sp_helicopter_project: "Experimenty s návrhem vrtulníků" # todo: NEW TRANSLATION
+ sp_helicopter_project_desc: "Podobně jako navrhování auta a dalších vozidel, navrhování a stavba vrtulníků vyžaduje místní know-how k výrobě těchto specializovaných strojů lokálně. Měli bychom provést několik návrhových experimentů, dokud nevyvineme vlastní verzi." # todo: NEW TRANSLATION
+ sp_helicopter_project_tt: "Odemkne následující §YTechnologické linie§!:\\n- §YTransportní vrtulníky§!\\n- §YÚtočné vrtulníky§!\\n" # todo: NEW TRANSLATION
+ sp_experimental_engines: "Experimentální typy motorů" # todo: NEW TRANSLATION
+ sp_experimental_engines_desc: "Existuje řada různých experimentálních typů motorů, které byly předloženy týmům pro výzkum a vývoj různých skupin. Investice do experimentování motorů a experimentálních typů nám může poskytnout technologický náskok nad našimi nepřáteli ve vzduchu." # todo: NEW TRANSLATION
+ sp_modern_air_electronics: "Moderní letecká elektronika" # todo: NEW TRANSLATION
+ sp_modern_air_electronics_desc: "Nová generace pokroku v elektronice pro vzdušné radary, kokpity a další systémy." # todo: NEW TRANSLATION
+ sp_future_air_electronics: "Budoucí letecká elektronika" # todo: NEW TRANSLATION
+ sp_future_air_electronics_desc: "Sloučení nejnovějších technologií v AI, laserových systémech a nanotechnologiích pro vysoce efektivní letecké vybavení." # todo: NEW TRANSLATION
+ sp_modern_air_weapons: "Chytré letecké zbraně" # todo: NEW TRANSLATION
+ sp_modern_air_weapons_desc: "Chytré cílení, zbraň osazené radary mmWave, zaměření po vypuštění. Nová generace zbraní otevírá cestu budoucímu bojišti." # todo: NEW TRANSLATION
+ sp_future_air_weapons: "AI-vylepšené letecké zbraně" # todo: NEW TRANSLATION
+ sp_future_air_weapons_desc: "Vylepšování předchozí generace vzdušných raket a senzorů pomocí AI procesorů a ještě přesnější detekce a cílení." # todo: NEW TRANSLATION
+ sp_hypersonic_missile: "Hypersonické střely" # todo: NEW TRANSLATION
+ sp_hypersonic_missile_desc: "Hypersonické střely poskytnou naší strategické raketové síle schopnost zasáhnout hluboko do nepřátelského území rychlostmi, o nichž se dříve myslelo, že jsou nemožné." # todo: NEW TRANSLATION
+ sp_hypersonic_missile_tt: "Odemkněte §Ytechnologii hypersonických střel§!" # todo: NEW TRANSLATION
+ sp_nuclear_engines: "Jaderné motory pro letadla" # todo: NEW TRANSLATION
+ sp_nuclear_engines_desc: "Po řadě úspěchů v miniaturizaci větších jaderných motorů a nasazení jaderných motorů na nosičích a podobně. Vědci začali navrhovat a vyvíjet menší verzi jaderného motoru, který by se montoval na letadla, čímž by se zrušila nutnost mít palivo na palubě letadla. To umožní delší nasazení a efektivnější udržování našich letounů na obloze, zatímco naši nepřátelé budou muset přistávat." # todo: NEW TRANSLATION
+ sp_solar_engines: "Solární motory" # todo: NEW TRANSLATION
+ sp_solar_engines_desc: "V souvislosti s vývojem experimentálních typů motorů je solární motor dalším navrhovaným typem motoru, který se objevil. Montáž solárních motorů na trup letadla nebo jejich integrace do konstrukce letadla umožní letadlu během letu samostatně získávat energii na obloze." # todo: NEW TRANSLATION
+ sp_scramjet_engines: "Scramjetové motory" # todo: NEW TRANSLATION
+ sp_scramjet_engines_desc: "Scramjet je varianta ramjetu. Místo toho, aby zpomaloval proudící vzduch na subsonické rychlosti, scramjet zapaluje vzduch při nadzvukových rychlostech. To umožňuje letadlu mnohem vyšší rychlosti." # todo: NEW TRANSLATION
+ sp_ramjet_engines: "Turboramjetové motory" # todo: NEW TRANSLATION
+ sp_ramjet_engines_desc: "Na rozdíl od běžného turbojetu, ramjet nasává vzduch pohybem namísto turbíny. Tím vzniká efektivnější a jednodušší motor, ale omezuje provoz letadla při nízkých rychlostech." # todo: NEW TRANSLATION
+ sp_fully_autonomous_computers_framework: "Plně autonomní počítačové rámce" # todo: NEW TRANSLATION
+ sp_fully_autonomous_computers_framework_desc: "Abychom učinili kroky k vytvoření autonomního letectva, musíme experimentovat s autonomními počítači a vytvořit jejich základ." # todo: CHANGED
+ sp_fully_autonomous_fighters: "Plně autonomní stíhače" # todo: NEW TRANSLATION
+ sp_fully_autonomous_fighters_desc: "Plně počítačem řízený stíhací letoun by nám zcela ušetřil životy pilotů a nemuseli bychom se spoléhat na dlouhé vycvikové programy k doplnění ztrát." # todo: NEW TRANSLATION
+ sp_fully_autonomous_bombers: "Plně autonomní bombardéry" # todo: NEW TRANSLATION
+ sp_fully_autonomous_bombers_desc: "Plně počítačem řízený bombardér by nám zcela ušetřil životy pilotů a nemuseli bychom se spoléhat na dlouhé vycvikové programy k doplnění ztrát." # todo: NEW TRANSLATION
+ sp_stealth_technology: "Experimenty s maskováním" # todo: NEW TRANSLATION
+ sp_stealth_technology_desc: "Abychom získali výhodu nad nepřítelem, musíme přijít na způsob, jak učinit naše stíhače méně detekovatelnými radarem." # todo: NEW TRANSLATION
+ sp_arsenal_bird: "Arsenal Bird" # todo: NEW TRANSLATION
+ sp_aresnal_bird_desc: "S rozvojem plně autonomních letounů, jaderně poháněných motorů pro letadla a pokročilých systémů řízení letu můžeme postavit letoun, který na sobě unese celou droní leteckou sílu. Tento letoun, i když je extrémně drahý, bude vrcholem leteckých bojových systémů." # todo: NEW TRANSLATION
+ sp_anti_ship_drone_missile: "Protilodní střely-drony" # todo: NEW TRANSLATION
+ sp_anti_ship_drone_missile_desc: "Námořní úderné schopnosti jsou stále více určovány dosahem, přesností a přežitelností. Vývojem protilodních raketových systémů založených na dronech můžeme rozšířit schopnost ohrožovat nepřátelská plavidla a zároveň snížit riziko pro pilotovaná letadla." # todo: NEW TRANSLATION
+ sp_hover_helicopter_engine: "Motory vrtulníků schopné vznášení" # todo: NEW TRANSLATION
+ sp_hover_helicopter_engine_desc: "Městské prostředí a stísněný terén kladou nové nároky na vrtulníkové letectví. Vývojem motorových systémů schopných vznášení chceme zlepšit stabilitu při nízkých rychlostech a vertikální řízení během složitých operací." # todo: NEW TRANSLATION
+ sp_hypersonic_engine: "Hypersonické pohonné systémy" # todo: NEW TRANSLATION
+ sp_hypersonic_engine_desc: "Vzdušná převaha je stále více utvářena rychlostí, dosahem a schopností pronikat bráněným vzdušným prostorem. Investicemi do hypersonických pohonných systémů chceme překonat limity výkonnosti konvenčních letadel." # todo: NEW TRANSLATION
+ sp_awacs_project: "Systém včasné výstrahy a řízení ze vzduchu" # todo: NEW TRANSLATION
+ sp_awacs_project_desc: "S rostoucí složitostí moderních leteckých operací se systémy včasné výstrahy a řízení ze vzduchu staly klíčovou schopností vyspělých vzdušných sil. Instalací výkonných radarových polí a velitelských systémů na letadlové platformy s dlouhou vytrvalostí." # todo: NEW TRANSLATION
+ sp_fiber_drones: "Dron s optickým vláknem" # todo: NEW TRANSLATION
+ sp_fiber_drones_desc: "S rychlým rozvojem bezpilotních systémů a elektronického boje se drony řízené optickým vláknem objevily jako řešení proti rušení a interferenci signálu. Přenosem řídicích signálů fyzickými optickými spoji namísto rádiové komunikace mohou tyto drony spolehlivě operovat v napadeném prostředí a přitom si zachovat přesnou kontrolu nad nákladem." # todo: NEW TRANSLATION
+ sp_air_railguns: "Letecké elektromagnetické dělo" # todo: NEW TRANSLATION
+ sp_air_railguns_desc: "Vzhledem k neustálému hledání vyšších rychlostí střetu a delšího dosahu zachycení byla letecká elektromagnetická děla navržena jako alternativa ke konvenčním raketovým systémům." # todo: NEW TRANSLATION
+ sp_air_railguns_helicopter: "Vrtulníkové elektromagnetické dělo" # todo: NEW TRANSLATION
+ sp_air_railguns_helicopter_desc: "Integrací kompaktních elektromagnetických kanónů do vrtulníkových platforem mohou vrtulníky vést palbu s mimořádně vysokou rychlostí, schopnou prorážet zpevněné cíle, které by běžně vyžadovaly těžší letadla nebo pozemní systémy" # todo: NEW TRANSLATION
+ sp_space_artillery: "Orbitální palebná podpora" # todo: NEW TRANSLATION
+ sp_space_artillery_desc: "S rostoucí integrací vesmírných systémů do moderního válčení se koncept orbitální palebné podpory objevil jako způsob provádění přesných úderů z vesmíru na pozemní cíle." # todo: NEW TRANSLATION
+ sp_air_pdl: "Letecké lasery bodové obrany" # todo: NEW TRANSLATION
+ sp_air_pdl_desc: "S rostoucí hrozbou vysokorychlostních střel a nasycovacích útoků poskytují letecké lasery bodové obrany prostředek k zachycování přicházejících hrozeb rychlostí světla. Instalací vysokoenergetických laserových systémů na letadlové platformy mohou tyto zbraně zasahovat a ničit střely za letu, snižovat závislost na omezených zásobách protiletadlových střel a zvyšovat přežitelnost v napadeném vzdušném prostoru." # todo: NEW TRANSLATION
+ sp_air_helicopter_drone_control: "Řízení dronů z vrtulníku" # todo: NEW TRANSLATION
+ sp_air_helicopter_drone_control_desc: "Integrace kompletní architektury řízení dronů do vrtulníkových platforem promění vrtulníky ve vzdušná velitelská stanoviště pro bezpilotní průzkumné a úderné prostředky. Tento přístup snižuje potřebu vystavovat posádky riziku při rutinních úkolech a zároveň zlepšuje koordinaci, zaměřování a tempo operací na bojišti. Tato schopnost je nákladná a vyžaduje pokročilou avioniku, zabezpečené datové spoje a dodatečnou kapacitu pro napájení a chlazení." # todo: NEW TRANSLATION
+ sp_air_gunship_railcannons: "Elektromagnetická děla bitevních letounů" # todo: NEW TRANSLATION
+ sp_air_gunship_railcannons_desc: "Tento projekt instaluje těžké soustavy elektromagnetických děl na specializované draky bitevních letounů a vytváří letadlo schopné drtit cíle nepřetržitou elektromagnetickou palbou. Díky extrémní úsťové rychlosti a přesnému řízení palby dokáže ničit drony, letadla i pozemní uskupení rychleji, než mohou reagovat konvenční zbraně. Tato schopnost je nesmírně nákladná a vyžaduje mimořádnou výrobu energie, pokročilé chlazení a vysoce kvalitní materiály k udržení provozu systému." # todo: NEW TRANSLATION
+ sp_CNRP: "Polymer vyztužený uhlíkovými nanotrubicemi" # todo: NEW TRANSLATION
+ sp_CNRP_desc: "Vložení mřížek z uhlíkových nanotrubic do leteckých kompozitů vytváří materiály draků pevnější a lehčí než konvenční uhlíková vlákna. Úspora hmotnosti se přímo promítá do lepšího doletu, nosnosti a strukturální odolnosti." # todo: NEW TRANSLATION
+ sp_space_based_solar_farms: "Solární farmy ve vesmíru" # todo: NEW TRANSLATION
+ sp_space_based_solar_farms_desc: "Využití solární energie na Zemi je široce rozšířenou a stálou technologií. Stala se stejně běžnou jako větrná a vodní energie a je jedním z našich hlavních zdrojů energie. Byla navržena myšlenka začít budovat solární pole panelů ve vesmíru a energie by se přenášela na Zemi z různých velikostí družic a dalších zařízení, aby se pomohlo vyhovět rostoucí poptávce po energii." # todo: NEW TRANSLATION
+ sp_improved_based_solar_farms: "Vylepšené solární farmy" # todo: NEW TRANSLATION
+ sp_improved_based_solar_farms_desc: "Zavedením dalších změn, jako jsou lepší fotovoltaické články a vylepšení základů této technologie, nám umožní dále zlepšit účinnost našich solárních farem." # todo: NEW TRANSLATION
+ sp_improved_maglev_trains: "Maglevové vlaky" # todo: NEW TRANSLATION
+ sp_improved_maglev_trains_desc: "Zaměření na vylepšení a důraz na naše starší maglev vlaky je nezbytný pro budoucnost naší země a ekonomiky. Tyto vlaky jsou klíčem k části budoucnosti, kde doprava je téměř okamžitá, dokud je infrastruktura." # todo: NEW TRANSLATION
+ sp_construction_exoskeletons: "Stavební exoskeletony" # todo: NEW TRANSLATION
+ sp_construction_exoskeletons_desc: "Stavební exoskeletony jsou směsicí různých malých, středních a velkých exoskeletonů vyvinutých výhradně k nahrazení nákladných strojů jako je jeřáb, vysokozdvižný vozík a další, které může obsluhovat jen jeden operátor. Tato technologie nám umožnila posunout naše stavební inženýrství o několik desetiletí dopředu a učinit výstavbu extrémně efektivní a cenově velmi výhodnou." # todo: NEW TRANSLATION
+ sp_wireless_power_grid_expansion: "Rozšíření bezdrátové energetické sítě" # todo: NEW TRANSLATION
+ sp_wireless_power_grid_expansion_desc: "Rozšíření naší energetické sítě o další prostředky pro bezdrátový přenos energie na střední a dlouhé vzdálenosti by mělo pomoci snížit infrastrukturu, kterou musíme udržovat, a umožnit zvýšení naší produkce při eliminaci energetických ztrát." # todo: NEW TRANSLATION
+ sp_improved_synthetic_diamonds: "Vylepšené syntetické diamanty" # todo: NEW TRANSLATION
+ sp_improved_synthetic_diamonds_desc: "Rozšíření výroby a zpracování syntetických diamantů, aby byly levnější a produktivnější, přiměje čím dál více průmyslu k využívání diamantů vypěstovaných v laboratoři. Přechod na diamanty vypěstované v laboratoři umožní výrazně levnější zdravotnické pomůcky, počítačové součástky a mnohem více." # todo: NEW TRANSLATION
+ sp_atmospheric_water_recycling: "Recyklace vody z atmosféry" # todo: NEW TRANSLATION
+ sp_atmospheric_water_recycling_desc: "Zavedením a vývojem schopnosti recyklovat vodu z atmosféry umožníme zemědělství v oblastech, které dříve nebyly považovány za vhodné pro zemědělské využití. Také nám to umožní čistit vodu a eliminovat potřebu agresivnějších metod čerpání vody ze země nebo z místních akvifer." # todo: NEW TRANSLATION
+ sp_space_program: "Vesmírný program" # todo: NEW TRANSLATION
+ sp_space_program_desc: "Do vesmíru se chce dostat každý, kromě Polska. Polsko neumí do vesmíru." # todo: NEW TRANSLATION
+ sp_space_program_tt: "Odemknou se následující §YTechnologické linie§!:\n- §YGNSS§!\n- §YCOMSAT§!\n- §YSPYSAT§!\n- §YOLV§!\n" # todo: NEW TRANSLATION
+ sp_space_weapons: "Vesmírné zbraně" # todo: NEW TRANSLATION
+ sp_space_weapons_desc: "Naši vědci konečně začali navrhovat KILLSATy a další munici, kterou lze použít ve vakuu vesmíru, ačkoli dříve šlo o dílo science fiction. Schopnost používat tyto zbraně nás nejen posílí v obraně, ale i v útoku, protože budeme schopni zachytit, narušit a zastavit nepřátelské mocnosti mezi hvězdami." # todo: NEW TRANSLATION
+ sp_space_weapons_tt: "Odemknou se následující §YTechnologické linie§!:\n- §YKILLSAT§!" # todo: NEW TRANSLATION
+ sp_electronic_government: "Elektronická vláda" # todo: NEW TRANSLATION
+ sp_electronic_government_desc: "Aby byla maximalizována efektivita státu, občané by měli mít možnost přistupovat ke své vládě a komunikovat s ní z pohodlí domova. To podpoří internetovou gramotnost občanů a sníží vládní výdaje na astronomicky nízké úrovně." # todo: NEW TRANSLATION
+ sp_deep_sea_mining: "Těžba v hlubokém moři" # todo: NEW TRANSLATION
+ sp_deep_sea_mining_desc: "Rostoucí průmyslové a technologické nároky stále více zatěžují tradiční dodavatelské řetězce surovin. Investicemi do těžby v hlubokém moři chceme zajistit přístup ke kritickým minerálům nacházejícím se za hranicemi běžných těžebních oblastí." # todo: NEW TRANSLATION
+ sp_agriculture_drone: "Systémy zemědělských dronů" # todo: NEW TRANSLATION
+ sp_agriculture_drone_desc: "Nakrmění rostoucí populace při zachování efektivity se stává ústřední strategickou výzvou. Zavedením pokročilých systémů zemědělských dronů můžeme modernizovat zemědělské postupy prostřednictvím lepšího monitorování, přesného ošetřování a automatizace." # todo: NEW TRANSLATION
+ sp_vertical_farming: "Vertikální zemědělství" # todo: NEW TRANSLATION
+ sp_vertical_farming_desc: "Urbanizace a nedostatek půdy mění způsob, jakým je třeba přistupovat k výrobě potravin. Investicemi do vertikálního zemědělství přesuneme zemědělskou produkci do kontrolovaného prostředí s vysokou hustotou, které je méně závislé na počasí a geografii." # todo: NEW TRANSLATION
+ sp_robotic_humanoid: "Domácí robotičtí asistenti" # todo: NEW TRANSLATION
+ sp_robotic_humanoid_desc: "S tím, jak se každodenní život stále více technologicky propojuje, roste potenciál humanoidních robotů pomáhat lidem v jejich domovech. Vývojem domácích robotických asistentů chceme podporovat běžné úkoly, jako je údržba domácnosti, péče a osobní asistence." # todo: NEW TRANSLATION
+ sp_robotic_surgery: "Robotická chirurgie" # todo: NEW TRANSLATION
+ sp_robotic_surgery_desc: "Zdravotnické systémy čelí rostoucímu tlaku stárnoucí populace a zvyšujících se nároků na zdravotní péči. Rozšířením roboticky asistované chirurgie chceme zlepšit přesnost, zkrátit dobu zotavení a zpřístupnit pokročilé zákroky širšímu okruhu pacientů." # todo: NEW TRANSLATION
+ sp_smart_grid: "Infrastruktura chytré sítě" # todo: NEW TRANSLATION
+ sp_smart_grid_desc: "Rostoucí spotřeba energie a integrace pokročilých technologií kladou nové nároky na národní elektrické sítě. Investicemi do infrastruktury chytré sítě můžeme lépe řídit distribuci elektřiny, vyvažovat nabídku a poptávku a omezit systémovou neefektivitu." # todo: NEW TRANSLATION
+ sp_equipment_recycling: "Program recyklace vojenského vybavení" # todo: NEW TRANSLATION
+ sp_equipment_recycling_desc: "Komplexní program obnovy, renovace a recyklace zastaralého nebo poškozeného vojenského vybavení. Získáváním kritických materiálů a součástí z vyřazených platforem mohou ozbrojené síly snížit průmyslovou zátěž, posílit odolnost zásobování a částečně vyrovnat výrobní ztráty během dlouhotrvajících konfliktů." # todo: NEW TRANSLATION
+ sp_epigenetic_reprogramming: "Epigenetické přeprogramování" # todo: NEW TRANSLATION
+ sp_epigenetic_reprogramming_desc: "Biomedicínský výzkumný program zaměřený na změnu genové exprese bez úprav sekvencí DNA s cílem zvýšit fyzickou odolnost, kognitivní výkonnost a rychlost zotavení vojenského personálu. Přestože nabízí potenciální dlouhodobé výhody v efektivitě výcviku a bojové připravenosti, program vyvolává etické otázky a vyžaduje přísný regulační dohled." # todo: NEW TRANSLATION
+ sp_microchip_production: "Laboratoře výroby mikročipů" # todo: NEW TRANSLATION
+ sp_microchip_production_desc: "Experimentováním s miniaturizací našich výpočetních procesů a učením se, jak je vyrábět ve velkém měřítku, budeme schopni vyrábět vlastní mikročipy pro použití v moderních zbraních a vybavení." # todo: NEW TRANSLATION
+ sp_secure_military_network: "Zabezpečená vojenská síť" # todo: NEW TRANSLATION
+ sp_secure_military_network_desc: "Odolná, šifrovaná národní komunikační páteř propojující velení, senzory a síly prostřednictvím spolehlivých datových spojů s nízkou latencí." # todo: NEW TRANSLATION
+ sp_composite_production: "Laboratoře výroby kompozitů" # todo: NEW TRANSLATION
+ sp_composite_production_desc: "Experimentováním s novými technologiemi a metodami tavení, míchání i dalšími chemickými postupy můžeme zdokonalit způsoby výroby moderních pokročilých kompozitních materiálů." # todo: NEW TRANSLATION
+ sp_nuclear_energy: "Jaderný energetický reaktor" # todo: NEW TRANSLATION
+ sp_nuclear_energy_desc: "Jaderné reaktory jsou vhodné k výrobě materiálů pro bomby. Vyrobené množství energie by však místo toho mohlo zásobovat civilní i vojenský průmysl." # todo: NEW TRANSLATION
+ sp_nuclear_warhead_program: "Program jaderných hlavic" # todo: NEW TRANSLATION
+ sp_nuclear_warhead_program_desc: "Složitosť vývoje jaderné hlavice je jednou z mnoha zkoušek a útrap. Stavba hlavice schopné zničit na obrovskou škálu není jen inženýrský, mechanický a fyzikální výkon, ale i důkaz vůle lidstva po zničení druhých." # todo: NEW TRANSLATION
+ sp_nuclear_warhead_program_tt: "Odemknou se následující §YNukární statusy§!:\n- §YJaderná síla (Defenzivní)§!\n- §YJaderná síla (Ofenzivní)§!\n" # todo: NEW TRANSLATION
+ sp_nuclear_bomb: "Projekt jaderné štěpné bomby" # todo: NEW TRANSLATION
+ sp_nuclear_bomb_desc: "Bomba využívající proces jaderného štěpení k uvolnění energie uložené v atomu během jediného apokalyptického okamžiku. Kdo by se odvážil postavit nám, kdybychom měli takovou zbraň ve svém arzenálu?" # todo: NEW TRANSLATION
+ sp_fusion_reactors: "Fúzní reaktory" # todo: NEW TRANSLATION
+ sp_fusion_reactors_desc: "Fúzní reaktor je jaderný reaktor, který vyrábí elektřinu pomocí jaderné fúze namísto štěpení. Fúze je obecně považována za budoucnost jaderných reaktorů a může generovat téměř čtyřnásobný energetický výstup na kilogram jaderného paliva." # todo: NEW TRANSLATION
+ sp_thorium_nuclear_fuel: "Thoriové jaderné palivo" # todo: NEW TRANSLATION
+ sp_thorium_nuclear_fuel_desc: "Thoriové palivo je pečlivě studováno a vyhledáváno pro široké komerční využití díky své dostupnosti a vyššímu výstupu. Vývoj stabilního a funkčního jaderného reaktoru a jaderného paliva pro použití v našich jaderných reaktorech bude obrovským přínosem pro naši jadernou infrastrukturu a energetickou síť." # todo: NEW TRANSLATION
+ sp_missile_project: "Experimentace střel" # todo: NEW TRANSLATION
+ sp_missile_project_desc: "Střely mohou být levnou alternativou, když si nemůžeme dovolit skutečné letadlo. Musíme investovat do vědy o střelách (ne do raketové vědy), abychom získali další útočné možnosti" # todo: NEW TRANSLATION
+ sp_missile_project_tt: "Budeme moci zkoumat §YMezikontinentální balistické střely§!, §YBalistické střely středního doletu§!, §YKřižující střely vypouštěné ze země§! a §YStřely země–vzduch§!" # todo: NEW TRANSLATION
+ sp_amws_combat_system: "Bojový systém AMWS-21" # todo: NEW TRANSLATION
+ sp_zamws_advanced_mws: "Pokročilý vícenásobný zbraňový systém XAMWS-24" # todo: NEW TRANSLATION
+ sp_xciws_close_in_weapon_system: "Systém zbraní blízké obrany XCIWS-2B" # todo: NEW TRANSLATION
+ sp_close_range_battle_halberd: "Halapartna pro boj zblízka Typ-77" # todo: NEW TRANSLATION
+ sp_great_sword: "Velký meč BWS-3" # todo: NEW TRANSLATION
+ sp_caterpillar_3512b: "Dieselový motor Caterpillar 3512B" # todo: NEW TRANSLATION
+ sp_caterpillar_3512b_desc: "Caterpillar 3512B je výkonný a spolehlivý dieselový motor široce používaný v různých oblastech, včetně námořních plavidel, výroby energie a těžkých strojů. Díky robustní konstrukci a vysokému výkonu je ideální volbou pro pohon vybavení v drsných podmínkách Antarktidy." # todo: NEW TRANSLATION
+ sp_premium_living_quarters: "Nadstandardní obytné prostory" # todo: NEW TRANSLATION
+ sp_premium_living_quarters_desc: "Tyto nadstandardní obytné prostory poskytují personálu umístěnému v Antarktidě vyšší pohodlí a lepší vybavení, čímž zvyšují spokojenost i produktivitu stanice." # todo: NEW TRANSLATION
+ sp_land_generic_reward_scientist_xp_1: "Nové poznatky" # todo: NEW TRANSLATION
+ sp_land_generic_reward_scientist_xp_2: "Vylepšené odborné znalosti" # todo: NEW TRANSLATION
+ sp_land_generic_reward_scientist_xp_3: "Průlomové poznání" # todo: NEW TRANSLATION
+ sp_land_generic_reward_army_xp_1: "Inovace na bojišti" # todo: NEW TRANSLATION
+ sp_land_generic_reward_army_xp_2: "Operativní vhled" # todo: NEW TRANSLATION
+ sp_land_generic_reward_army_xp_3: "Přizpůsobené polní taktiky" # todo: NEW TRANSLATION
+ sp_land_generic_reward_major_progress_1: "Slibný prototyp" # todo: NEW TRANSLATION
+ sp_land_generic_reward_major_progress_2: "Úspěšný kritický test" # todo: NEW TRANSLATION
+ sp_land_generic_reward_major_progress_3: "Průlomový objev" # todo: NEW TRANSLATION
+ sp_land_generic_reward_test_failure_1: "Nejednoznačný test" # todo: NEW TRANSLATION
+ sp_land_generic_reward_test_failure_2: "Zjištěná vada návrhu" # todo: NEW TRANSLATION
+ sp_land_generic_reward_test_failure_3: "Mírné selhání testu" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_tech_1: "Průkopnické techniky" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_tech_2: "Inovativní pokroky" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_tech_3: "Experimentální metodologie" # todo: NEW TRANSLATION
+ sp_land_generic_reward_option_armor_tech_bonus_name: "Experimentální výzkum obrněných vozidel" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_option_artillery_tech_bonus_name: "Experimentální výzkum dělostřelectva" # todo: NEW TRANSLATION
+ sp_land_generic_reward_infantry_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_infantry_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_infantry_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_option_infantry_tech_bonus_name: "Experimentální výzkum pěchotních zbraní" # todo: NEW TRANSLATION
+ sp_land_generic_reward_motorised_tech_1: "$sp_land_generic_reward_armor_tech_1$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_motorised_tech_2: "$sp_land_generic_reward_armor_tech_2$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_motorised_tech_3: "$sp_land_generic_reward_armor_tech_3$" # todo: NEW TRANSLATION
+ sp_land_generic_reward_option_motorised_tech_bonus_name: "Experimentální výzkum užitkových vozidel" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_bonus_1: "Vylepšené pancíře" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_bonus_2: "Zlepšení balistické odolnosti" # todo: NEW TRANSLATION
+ sp_land_generic_reward_armor_bonus_3: "Vylepšené pancířové slitiny" # todo: NEW TRANSLATION
+ sp_land_generic_reward_engine_bonus_1: "Motory s lepší spotřebou paliva" # todo: NEW TRANSLATION
+ sp_land_generic_reward_engine_bonus_2: "Vylepšená spolehlivost motorů" # todo: NEW TRANSLATION
+ sp_land_generic_reward_engine_bonus_3: "Optimalizovaný výkon motorů" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_bonus_1: "Vylepšená přesnost na dálku" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_bonus_2: "Nové systémy snižování zpětného rázu" # todo: NEW TRANSLATION
+ sp_land_generic_reward_artillery_bonus_3: "Pokročilý design ústí hlavně" # todo: NEW TRANSLATION
+ sp_land_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
+ sp_land_generic_reward_critical_failure: "Kritické selhání" # todo: NEW TRANSLATION
+ sp_caseless_ammunition_reward_new_propellant: "Nová pohonná látka" # todo: NEW TRANSLATION
+ sp_caseless_ammunition_reward_new_propellant_desc: "Naši inženýři objevili teplotně odolnou pohonnou látku, která by měla pomoci snížit přehřívání." # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_reward_improved_communication: "Nová komunikační metoda dronů" # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_reward_improved_communication_desc: "Při vývoji efektivního řídicího systému pro naše drony naši inženýři vyvinuli vylepšenou metodu bezdrátové komunikace. Můžeme tento průlom využít buď v civilních, nebo vojenských aplikacích." # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_reward_improved_communication_civilian_application: "Civilní použití" # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_reward_improved_communication_military_application: "Vojenské použití" # todo: NEW TRANSLATION
+ sp_fire_support_land_drone_reward_improved_communication_tech_bonus: "Vylepšená bezdrátová komunikace" # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality_reward_civilian_interest: "Civilní zájem" # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality_reward_civilian_interest_desc: "Technologická společnost projevila zájem o vojenský výzkumný projekt v oblasti rozšířené reality. Chtějí posílit spolupráci mezi civilním a vojenským průmyslovým komplexem. Můžeme buď zřídit továrnu poskytující hardware pro civilní sektor, nebo můžeme využít zdroje společnosti k výrobě vybavení pro armádu." # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality_reward_civilian_interest_civ_factory: "Civilní investice" # todo: NEW TRANSLATION
+ sp_tactical_augmented_reality_reward_civilian_interest_mil_factory: "Vojenské investice" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_double_shot_type: "Metoda dvojité střelby" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_double_shot_type_desc: "Naši inženýři byli kontaktováni dvěma firmami, obě mají unikátní metodu poskytování více počáteční palebné síly. Jedna firma navrhuje útočnou pušku se dvěma hlavně, která může střílet v krátkých sledech. Druhá firma chce implementovat kladkový systém, který umožní cyklus závěru dvakrát za akci a vystřelit dvě náboje po sobě. Kterou bychom měli zvolit?" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_double_shot_type_double_barrel: "Dvojhlavňová hlaveň" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_double_shot_type_pulley: "Kladkostroj" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_improved_firing_rate: "Vylepšená kadence střelby" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_improved_firing_rate_desc: "Při vývoji rychlopalné zbraně pro naše speciální jednotky naši inženýři zjistili, jak zvýšit kadenci našich stávajících pěchotních zbraní, aniž by došlo ke zhoršení přesnosti. Tuto metodu můžeme aplikovat buď na naše hlavní útočné pušky, nebo na naše podpůrné kulomety." # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_improved_firing_rate_offence: "Útočné pušky" # todo: NEW TRANSLATION
+ sp_double_shot_rifle_reward_improved_firing_rate_defence: "Kulomety" # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton_reward_engineers: "Zájem armádních inženýrů" # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton_reward_engineers_desc: "Inženýrský sbor naší armády projevil zájem o náš projekt exoskeletonu. S exoskeletonem, který zvyšuje sílu nositele, by mohli zvýšit efektivitu bojových inženýrů. Můžeme vyvinout oblek, který vyniká ve stavbě opevnění, nebo ten, který pomáhá při obnově poškozené vojenské techniky." # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton_reward_engineers_defence: "Oblek pro opevnění" # todo: NEW TRANSLATION
+ sp_experimental_exoskeleton_reward_engineers_recovery: "Oblek pro obnovu" # todo: NEW TRANSLATION
+ sp_tank_support_drones_reward_improved_visibility: "Vylepšené vidění" # todo: NEW TRANSLATION
+ sp_tank_support_drones_reward_improved_visibility_desc: "Při práci na vizuálních displejích pro nové tankové podpůrné drony vyvinuli naši inženýři kamerový systém, který by měl zlepšit výhled posádek z jejich tanků." # todo: NEW TRANSLATION
+ sp_tank_support_drones_reward_improved_targeting: "Vylepšené cílení" # todo: NEW TRANSLATION
+ sp_tank_support_drones_reward_improved_targeting_desc: "Při práci na softwaru pro rozpoznávání hrozeb pro naše bojové drony se inženýři podařilo vytvořit verzi kompatibilní s naším stávajícím tankovým softwarem. Díky tomu budeme moci vylepšit cílení pro naše tanky." # todo: NEW TRANSLATION
+ sp_active_camouflage_reward_vehicle_protection: "Maskování vozidel" # todo: NEW TRANSLATION
+ sp_active_camouflage_reward_vehicle_protection_desc: "Některé výzkumy osobního maskování by šly aplikovat i na naše vozidla. Můžeme upřednostnit maskování našich vozidel buď proti pozemním, nebo vůči vzdušným nepřátelům." # todo: NEW TRANSLATION
+ sp_active_camouflage_reward_vehicle_protection_ground: "Pozemní nepřátelé" # todo: NEW TRANSLATION
+ sp_active_camouflage_reward_vehicle_protection_ground_air: "Nepřátelé ve vzduchu" # todo: NEW TRANSLATION
+ sp_active_protection_systems_reward_improved_targeting: "Vylepšené cílení" # todo: NEW TRANSLATION
+ sp_active_protection_systems_reward_improved_targeting_desc: "Naši inženýři vyvinuli nový systém pro detekci přijíždějících projektilů. Domnívají se, že některé algoritmy by mohly být použity k vylepšení detekce letadel." # todo: NEW TRANSLATION
+ sp_tank_electric_engine_hybrid_mode: "Vylepšené motory" # todo: NEW TRANSLATION
+ sp_tank_electric_engine_hybrid_mode_desc: "Využitím zkušeností z vývoje elektrických motorů se naši inženýři podařilo vylepšit stávající modely pro dieselové a turbínové motory." # todo: NEW TRANSLATION
+ sp_tank_aa_launchers_reward_multi_launcher_missile: "Retrofitovaná raketa" # todo: NEW TRANSLATION
+ sp_tank_aa_launchers_reward_multi_launcher_missile_desc: "Při vývoji SAM spouště pro naše tanky naši inženýři krátce experimentovali s projektily vystřelovanými z hlavně. Zjistili, že by mohli vyvinout raketu, která by pasovala do většiny našich tankových hlavní, i když by nebyla optimální. Podobně by mohli raketu učinit kompatibilní napříč více generacemi našich MANPADS." # todo: NEW TRANSLATION
+ sp_tank_aa_launchers_reward_utlise_in_tanks: "Vystřelování z hlavně" # todo: NEW TRANSLATION
+ sp_tank_aa_launchers_reward_utilise_in_manpads: "Kompatibilní napříč generacemi" # todo: NEW TRANSLATION
+ sp_tank_self_sharpening_ammo_reward_improved_alloys: "Vylepšené slitiny" # todo: NEW TRANSLATION
+ sp_tank_self_sharpening_ammo_reward_improved_alloys_desc: "Při práci na nové metodě tepelného zpracování ke zlepšení mikrostruktury wolframového penetrátoru naši materiáloví inženýři objevili metodu tepelného zpracování, která by mohla být použita k ošetření našich pancířových desek." # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets_reward_turret_ring: "Posílený věžní prstenec" # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets_reward_turret_ring_desc: "Výzva u těžší věže spočívá v tom, že je třeba vytvořit věžní prstenec, který vydrží zatížení a bude se pohybovat odpovídající rychlostí. Během vývoje super těžké věže jsme se naučili několik ponaučení a mohli bychom je uplatnit buď na zlepšení rychlosti otáčení věží, nebo na zlepšení jejich odolnosti." # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets_reward_turret_ring_speed: "Rychlejší otáčení věží" # todo: NEW TRANSLATION
+ sp_super_heavy_tank_turrets_reward_turret_ring_armour: "Zvýšit pancíř věžního prstence" # todo: NEW TRANSLATION
+ sp_double_barrel_cannons_reward_improved_autoloader: "Vylepšený automatický nabíječ" # todo: NEW TRANSLATION
+ sp_double_barrel_cannons_reward_improved_autoloader_desc: "Naši inženýři vyvinuli vylepšený automatický nabíjecí systém pro tanky při práci na systému dvojité hlavně." # todo: NEW TRANSLATION
+ sp_railgun_cannon_reward_improved_barrel: "Vylepšená hlaveň" # todo: NEW TRANSLATION
+ sp_railgun_cannon_reward_improved_barrel_desc: "Při práci na hlavni, která vydrží obrovské teplo generované railgunem, se našim inženýrům podařilo využít některé poznatky ke zlepšení našich tradičních hlavní." # todo: NEW TRANSLATION
+ sp_railgun_cannon_2_reward_improved_barrel: "Vylepšená hlaveň" # todo: NEW TRANSLATION
+ sp_railgun_cannon_2_reward_improved_barrel_desc: "Při práci na hlavni, která vydrží obrovské teplo generované railgunem, se našim inženýrům podařilo využít některé poznatky ke zlepšení našich tradičních hlavní." # todo: NEW TRANSLATION
+ sp_tank_based_laser_main_cannons_reward_air_defence: "Laser vzdušné obrany" # todo: NEW TRANSLATION
+ sp_tank_based_laser_main_cannons_reward_air_defence_desc: "S pokroky v laserových zbraních naši inženýři vyvinuli laser, který dokáže sestřelit vzdušné cíle." # todo: NEW TRANSLATION
+ sp_afv_double_cannons_reward_improved_autoloader: "Vylepšený automatický zásobník" # todo: NEW TRANSLATION
+ sp_afv_double_cannons_reward_improved_autoloader_desc: "Naši inženýři vyvinuli vylepšený automatický zásobník pro tanky při práci na systému dobíjení dvojitých kanónů." # todo: NEW TRANSLATION
+ sp_truck_modular_seating_reward_quick_release_belt: "Rychlouvolňovací bezpečnostní pás" # todo: NEW TRANSLATION
+ sp_truck_modular_seating_reward_quick_release_belt_desc: "Při práci na modulárním uspořádání sedadel naši inženýři vyvinuli nový čtyřbodový rychlouvolňovací pás. To by mělo výrazně usnadnit evakuaci zraněných z vozidel." # todo: NEW TRANSLATION
+ sp_utility_vehicle_electric_engines_reward_fuel_efficiency: "Vylepšená spotřeba paliva" # todo: NEW TRANSLATION
+ sp_utility_vehicle_electric_engines_reward_fuel_efficiency_desc: "Při vývoji nového typu baterií naši vědci našli způsob, jak některé z našich poznatků využít pro civilní sektor." # todo: NEW TRANSLATION
+ sp_utility_vehicle_electric_engines_reward_fuel_efficiency_option_tech_bonus: "Vylepšená spotřeba paliva" # todo: NEW TRANSLATION
+ sp_automatic_twin_barrel_mortar_turret_reward_improved_mortars: "Vylepšené minomety" # todo: NEW TRANSLATION
+ sp_automatic_twin_barrel_mortar_turret_reward_improved_mortars_desc: "Výzkum způsobu, jak dva minomety vystřelují současně, nám umožnil vyvinout lepší minometný systém pro naši pěchotu." # todo: NEW TRANSLATION
+ sp_multipurpose_warhead_reward_improved_warhead: "Vylepšené bojové hlavice" # todo: NEW TRANSLATION
+ sp_multipurpose_warhead_reward_improved_warhead_desc: "Při zjišťování, jak přidat protivzdušnou výkonnost protitankovým střelám a protitankovou výkonnost protiletadlovým střelám, naši inženýři přišli na způsob, jak zlepšit celkový výkon jednoho typu munice." # todo: NEW TRANSLATION
+ sp_multipurpose_warhead_reward_improved_warhead_at: "Lepší protitankový výkon" # todo: NEW TRANSLATION
+ sp_multipurpose_warhead_reward_improved_warhead_aa: "Lepší protiletadlový výkon" # todo: NEW TRANSLATION
+ sp_emp_warhead: "Vylepšená elektronická válka" # todo: NEW TRANSLATION
+ sp_emp_warhead_desc: "Oba tanky i letadla mají proti elektronickým válkám opatření, která mohou snížit dopad EMP zbraní. Vzhledem k tomu, že různé platformy používají odlišnou architekturu, můžeme efektivně zaměřit jen na jeden typ cíle." # todo: NEW TRANSLATION
+ sp_emp_warhead_reward_improved_warhead: "Elektronická zbraň" # todo: NEW TRANSLATION
+ sp_emp_warhead_reward_improved_warhead_desc: "Elektronické vybavení nám může poskytnout výhodu ve vzdušném boji." # todo: NEW TRANSLATION
+ sp_emp_warhead_reward_improved_warhead_at: "Prioritizujte pozemní cíle" # todo: NEW TRANSLATION
+ sp_emp_warhead_reward_improved_warhead_aa: "Prioritizujte vzdušné cíle" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_scientist_xp_1: "Plavání v nápadech" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_scientist_xp_2: "Utopení v kreativitě" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_scientist_xp_3: "Vana - Eureka!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_navy_xp_1: "Změna toku nápadů" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_navy_xp_2: "Vlna nápadů" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_navy_xp_3: "Tsunami inovací!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_army_xp_1: "Změna toku nápadů" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_army_xp_2: "Vlna nápadů" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_army_xp_3: "Tsunami inovací!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_major_progress_1: "Hlavní průlom!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_major_progress_2: "Skvělý úspěch!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_major_progress_3: "Obrovský pokrok!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_test_failure_1: "Zpoždění projektu!" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_test_failure_2: "Pouze drobný zádrhel" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_test_failure_3: "Katastrófické výsledky" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
+ sp_naval_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
+ sp_air_generic_reward_scientist_xp_1: "Cenné poznatky" # todo: NEW TRANSLATION
+ sp_air_generic_reward_scientist_xp_2: "Zvýšené teoretické znalosti" # todo: NEW TRANSLATION
+ sp_air_generic_reward_scientist_xp_3: "Neomezené objevy" # todo: NEW TRANSLATION
+ sp_air_generic_reward_air_xp_1: "Nádech čerstvého vzduchu" # todo: NEW TRANSLATION
+ sp_air_generic_reward_air_xp_2: "Vánek inovací" # todo: NEW TRANSLATION
+ sp_air_generic_reward_air_xp_3: "Větry změn" # todo: NEW TRANSLATION
+ sp_air_generic_reward_army_xp_1: "Nádech čerstvého vzduchu" # todo: NEW TRANSLATION
+ sp_air_generic_reward_army_xp_2: "Vánek inovací" # todo: NEW TRANSLATION
+ sp_air_generic_reward_army_xp_3: "Větry změn" # todo: NEW TRANSLATION
+ sp_air_generic_reward_major_progress_1: "Start projektu" # todo: NEW TRANSLATION
+ sp_air_generic_reward_major_progress_2: "Odborné přistání" # todo: NEW TRANSLATION
+ sp_air_generic_reward_major_progress_3: "Záblesk génia" # todo: NEW TRANSLATION
+ sp_air_generic_reward_test_failure_1: "Experiment nevyšel" # todo: NEW TRANSLATION
+ sp_air_generic_reward_test_failure_2: "Selhání bomby" # todo: NEW TRANSLATION
+ sp_air_generic_reward_test_failure_3: "Kreativní pohroma" # todo: NEW TRANSLATION
+ sp_air_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
+ sp_air_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
+ sp_air_autonomous_computers_reward_improved_detection: "Vylepšené navigační a detekční systémy" # todo: NEW TRANSLATION
+ sp_air_autonomous_computers_reward_improved_detection_desc: "S pomocí dat a strojového učení dokážeme směrovat systémy v našich stíhacích letounech, aby lépe vyhýbaly hrozbám a vyhledávaly cíle." # todo: NEW TRANSLATION
+ sp_air_autonomous_bombers_reward_improved_detection: "Lepší autonomie a rozhodování" # todo: NEW TRANSLATION
+ sp_air_autonomous_bombers_reward_improved_detection_desc: "Rozvoj autonomních bombardérů pomůže v náročných situacích, sníží potřebu zbytečných debat mezi plánovači a rozhodovateli o cílech." # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_scientist_xp_1: "Nové poznatky" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_scientist_xp_2: "Vybroušená odbornost" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_scientist_xp_3: "Průkopný objev" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_major_progress_1: "Náznak slibného prototypu" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_major_progress_2: "Klíčový test úspěšný" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_major_progress_3: "Průlomový objev" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_test_failure_1: "Testování nejasné" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_test_failure_2: "Zjištěná konstrukční vada" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_test_failure_3: "Drobné selhání testu" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_resource_scarcity: "Nedostatek zdrojů" # todo: NEW TRANSLATION
+ sp_civilian_generic_reward_critical_failure: "Kritická chyba" # todo: NEW TRANSLATION
+ sp_improved_nuclear_ballistic_warhead_delivery_systems: "Vylepšený balistický systém doručení jaderných hlavic" # todo: NEW TRANSLATION
+ sp_improved_nuclear_ballistic_warhead_delivery_systems_desc: "Během vývoje jaderných hlavic jsme dokázali zlepšit a rozšířit dosah našich balistických zbraňových systémů." # todo: NEW TRANSLATION
+ sp_fusion_reactors_special_project_idea: "Fúzní reaktory" # todo: NEW TRANSLATION
+ sp_improved_nuclear_reactor_centrifuge_technology_idea: "Vylepšená jaderná reaktorová centrifuga" # todo: NEW TRANSLATION
+ sp_improved_based_solar_farms_idea: "Vylepšené solární farmy" # todo: NEW TRANSLATION
+ sp_improved_space_solar_farms_idea: "Solární farmy ve vesmíru" # todo: NEW TRANSLATION
+ sp_construction_exoskeletons_idea: "Konstrukční exoskeletony" # todo: NEW TRANSLATION
+ sp_atomspheric_water_recycling_idea: "Recyklace atmosférické vody" # todo: NEW TRANSLATION
+ sp_maglev_trains_idea: "Maglev vlaky" # todo: NEW TRANSLATION
+ sp_thorium_nuclear_fuel_idea: "Thoriumové jaderné palivo" # todo: NEW TRANSLATION
+ sp_wireless_power_grid_expansion_idea: "Rozšíření bezdrátové elektrické sítě" # todo: NEW TRANSLATION
+ sp_improved_synthetic_diamonds_idea: "Vylepšený vývoj syntetických diamantů" # todo: NEW TRANSLATION
+ scientist_trait_genius: "Génius" # todo: NEW TRANSLATION
+ scientist_trait_genius_desc: "Vize, která posouvá hranice vědy a technologií s jedinečnou inovací. Tento talent se objeví jen jednou za generaci." # todo: NEW TRANSLATION
+ scientist_trait_brilliant_theorist: "Brilantní teoretik" # todo: NEW TRANSLATION
+ scientist_trait_brilliant_theorist_desc: "Mistr abstraktních konceptů a teorií, schopný revolučně změnit vojenskou strategii a vědecký výzkum." # todo: NEW TRANSLATION
+ scientist_trait_gifted_engineer: "Nadaný inženýr" # todo: NEW TRANSLATION
+ scientist_trait_gifted_engineer_desc: "Přirozeně nadaný inženýr, který zvládá řešit složité technické problémy v různých oborech." # todo: NEW TRANSLATION
+ scientist_trait_bright: "Bystrý" # todo: NEW TRANSLATION
+ scientist_trait_bright_desc: "Ostrý, rychle uvažující vědec, který vyniká při pochopení nových konceptů a jejich efektivním použití." # todo: NEW TRANSLATION
+ scientist_trait_fast_learner: "Rychlý učenec" # todo: NEW TRANSLATION
+ scientist_trait_fast_learner_desc: "Rychle se přizpůsobuje novým výzvám, učí se rychleji než spolužáci a vyniká v různých vědních oborech." # todo: NEW TRANSLATION
+ scientist_trait_resourceful: "Vynalézavý" # todo: NEW TRANSLATION
+ scientist_trait_resourceful_desc: "Vždy nachází kreativní řešení, i když zdroje jsou omezené nebo situace je kritická." # todo: NEW TRANSLATION
+ scientist_trait_nuclear_specialist: "Jaderný specialista" # todo: NEW TRANSLATION
+ scientist_trait_nuclear_specialist_desc: "Fyzik na špičce výzkumu atomů, hluboce ponořený do studie jaderného štěpení a řetězových reakcí." # todo: NEW TRANSLATION
+ scientist_trait_civilian_technology_expert: "Odborník na civilní technologie" # todo: NEW TRANSLATION
+ scientist_trait_civilian_technology_expert_desc: "Odborník na vývoj technologií určených pro civilní sektor." # todo: NEW TRANSLATION
+ scientist_trait_energy_expert: "Odborník na energetiku" # todo: NEW TRANSLATION
+ scientist_trait_energy_expert_desc: "Veterán z několika energetických společností schopný vyvinout nové způsoby výroby energie." # todo: NEW TRANSLATION
+ scientist_trait_telecommunications_expert: "Telekomunikační expert" # todo: NEW TRANSLATION
+ scientist_trait_telecommunications_expert_desc: "Osoba narozená s telefonem v ruce, odborník na hledání způsobů, jak zpřístupnit porno na každém vašem zařízení." # todo: NEW TRANSLATION
+ scientist_trait_antarctica_specialist: "Specialista na polární výzkum" # todo: NEW TRANSLATION
+ scientist_trait_antarctica_specialist_desc: "Otužilý výzkumník, kterému vyhovuje nejdrsnější prostředí světa a který se specializuje na udržování a rozvoj operací v antarktickém ledu." # todo: NEW TRANSLATION
+ scientist_trait_naval_vessels_specialist: "Specialista na trupy plavidel" # todo: CHANGED
+ scientist_trait_naval_vessels_specialist_desc: "Specialista na konstrukci trupů válečných lodí, od dronových člunů po supernosiče." # todo: CHANGED
+ scientist_trait_naval_armament_specialist: "Specialista na námořní výzbroj" # todo: NEW TRANSLATION
+ scientist_trait_naval_armament_specialist_desc: "Specialista na námořní zbraně od elektromagnetických děl a torpéd po roje dronů a moduly protiopatření." # todo: NEW TRANSLATION
+ scientist_trait_naval_propulsion_specialist: "Specialista na námořní pohon" # todo: NEW TRANSLATION
+ scientist_trait_naval_propulsion_specialist_desc: "Expert na pokročilé lodní pohonné jednotky, který žene válečné lodě rychleji a dále díky jadernému a fúznímu pohonu." # todo: NEW TRANSLATION
+ scientist_trait_stealth_specialist: "Specialista tichých lodí" # todo: NEW TRANSLATION
+ scientist_trait_stealth_specialist_desc: "Specializovaný na vývoj lodí s minimálním radarovým a sonarovým podpisem." # todo: NEW TRANSLATION
+ scientist_trait_avionics_specialist: "Letecký specialista" # todo: NEW TRANSLATION
+ scientist_trait_avionics_specialist_desc: "Specialista na aerodynamiku a návrh letadel, schopný vyvíjet vynikající rámce, motory a designy pro dominaci na obloze." # todo: NEW TRANSLATION
+ scientist_trait_missile_specialist: "Raketový specialista" # todo: NEW TRANSLATION
+ scientist_trait_missile_specialist_desc: "Specializovaný na technologii raket, zaměřený na principy pohonu v balistických a řízených raketových programech." # todo: NEW TRANSLATION
+ scientist_trait_space_specialist: "Vesmírný nadšenec" # todo: NEW TRANSLATION
+ scientist_trait_space_specialist_desc: "Osoba, která zasvětila svůj život naplňování cílů lidstva mimo Zemi." # todo: NEW TRANSLATION
+ scientist_trait_aircraft_engine_expert: "Odborník na pohonné systémy letadel" # todo: NEW TRANSLATION
+ scientist_trait_aircraft_engine_expert_desc: "Odborník na pohon jetových a pistonových motorů, posouvající výzkum motorů a jejich uplatnění ve vojenských letadlech." # todo: NEW TRANSLATION
+ scientist_trait_autonomous_plane_expert: "Specialista na bezpilotní letadla" # todo: NEW TRANSLATION
+ scientist_trait_autonomous_plane_expert_desc: "Odborník na létání bez pilota." # todo: NEW TRANSLATION
+ scientist_trait_armored_specialist: "Specialista na obrněná vozidla" # todo: CHANGED
+ scientist_trait_armored_specialist_desc: "Zkušený inženýr specializující se na konstrukci platforem a trupů obrněných vozidel." # todo: CHANGED
+ scientist_trait_tank_firepower_specialist: "Specialista na tankovou palebnou sílu" # todo: NEW TRANSLATION
+ scientist_trait_tank_firepower_specialist_desc: "Autorita v oblasti výzbroje obrněných vozidel, od pokročilých kanónů a automatických nabíječů po elektromagnetická děla a lasery montované na vozidlech." # todo: NEW TRANSLATION
+ scientist_trait_tank_armor_specialist: "Specialista na tankovou ochranu" # todo: NEW TRANSLATION
+ scientist_trait_tank_armor_specialist_desc: "Specialista na přežitelnost obrněných vozidel, který vyvíjí kompozitní pancíř, systémy aktivní ochrany a adaptivní kamufláž." # todo: NEW TRANSLATION
+ scientist_trait_tank_mobility_specialist: "Specialista na tankovou mobilitu" # todo: NEW TRANSLATION
+ scientist_trait_tank_mobility_specialist_desc: "Expert na pohonné soustavy a podvozky obrněných vozidel, od elektrických pohonů po kráčející podvozky." # todo: NEW TRANSLATION
+ scientist_trait_infantry_specialist: "Specialista na pěchotu" # todo: NEW TRANSLATION
+ scientist_trait_infantry_specialist_desc: "Specialista na ruční zbraně, jejich použití a konstrukci." # todo: NEW TRANSLATION
+ scientist_trait_mechsuit_specialist: "Specialista na mechový oblek" # todo: NEW TRANSLATION
+ scientist_trait_mechsuit_specialist_desc: "Někdo, kdo si Titanfall zahrál až příliš." # todo: NEW TRANSLATION
+ scientist_trait_robotics_specialist: "Expert na robotiku a autonomii" # todo: NEW TRANSLATION
+ scientist_trait_robotics_specialist_desc: "Průkopník autonomních systémů, který učí stroje na zemi, na moři i ve vzduchu myslet, lovit a pracovat bez člověka v řídicí smyčce." # todo: NEW TRANSLATION
+ sp_double_shot_rifle_tech: "Dvouhlavňová puška" # todo: NEW TRANSLATION
+ has_completed_space_program_tt: "Dokončen speciální projekt: §Y$sp_space_program$§!" # todo: CHANGED
+ has_completed_space_weapons_tt: "Dokončen speciální projekt: §Y$sp_space_weapons$§!" # todo: CHANGED
+ special_project_consumer_costs_high: "Tajné získávání zdrojů" # todo: NEW TRANSLATION
+ special_project_consumer_costs_high_desc: "Tiché hlasy šeptají o obrovském množství zásob, které vláda odvádí na zdánlivě neškodná místa. Někteří tvrdí, že jsou tyto zdroje tajně spotřebovávány ve výzkumných a vývojových projektech, ale existuje jen málo konkrétních důkazů, které by to potvrzovaly..." # todo: NEW TRANSLATION
+ special_project_consumer_costs_medium: "Tajné získávání zdrojů" # todo: NEW TRANSLATION
+ special_project_consumer_costs_medium_desc: "$special_project_consumer_costs_high_desc$" # todo: NEW TRANSLATION
+ special_project_consumer_costs_low: "Tajné získávání zdrojů" # todo: NEW TRANSLATION
+ special_project_consumer_costs_low_desc: "$special_project_consumer_costs_high_desc$" # todo: NEW TRANSLATION
+ sp_biofuel_e10_blend: "Míchání etanolu E10" # todo: NEW TRANSLATION
+ sp_biofuel_e10_blend_desc: "Míchání etanolu s ropnými produkty v koncentraci 10 % je osvědčená, komerčně nasazená technologie používaná ve více než miliardě vozidel po celém světě. Standardizace infrastruktury pro výrobu E10 sníží naši závislost na dovážených fosilních palivech, přesměruje zemědělské přebytky do energetického mixu a vyžaduje pouze drobné úpravy stávajících rafinerií a distribučních sítí." # todo: NEW TRANSLATION
+ sp_biofuel_flexfuel_butanol: "FlexFuel a syntéza butanolu" # todo: NEW TRANSLATION
+ sp_biofuel_flexfuel_butanol_desc: "Na základě standardizovaného míchání etanolu tento program sleduje dvě paralelní cesty. Motory na flexibilní palivo snášejí E85 a podobné směsi s vysokým obsahem etanolu, čímž oddělují kompatibilitu vozidel od poměru směsi. Biobutanol nabízí vyšší energetickou hustotu a vlastnosti při studeném startu bližší benzinu, avšak velkosériová výroba zůstává nevyřešeným technickým problémem. Úspěšný program by postavil náš rafinerský sektor do čela světového trhu." # todo: NEW TRANSLATION
+ sp_nuclear_bomb_tt: "Odemyká možnost konstruovat §Yjaderné bomby§!" # todo: NEW TRANSLATION

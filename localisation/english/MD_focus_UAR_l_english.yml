@@ -1,94 +1,96 @@
 ﻿l_english:
-  form_UAR_category: "Arabské sjednocení" # todo: NEW TRANSLATION
-  form_UAR_category_desc: "\n£LBA_desctext_federation\n\n\n\nOd počátku 20. století někteří lidé snili o sjednocení Arabů pod jedním státem. Než kdokoli jiný v této ideji vytrvali ba'athisté, zastánci protikoloniálního arabského socialistického a nacionalistického hnutí. Během studené války se uskutečnilo několik pokusů o sjednocení různých arabských zemí, ale všechny selhaly kvůli politickým neshodám. Dnes je hnutí ba'athistů rozděleno na dvě frakce; prorockou syrskou (neoba'athistickou) a prorockou iráckou frakci." # todo: NEW TRANSLATION
-  UAR_announce_neo_baathist_uar: "Oznámit vznik Federace arabských republik (neoba'athisté)" # todo: NEW TRANSLATION
-  UAR_announce_neo_baathist_uar_desc: "Nyní, když jsme dosáhli dominantní pozice v arabském světě, bylo by rozumné začít rozšiřovat dosah našeho ba'athistického Národního velení do dalších arabských zemí." # todo: NEW TRANSLATION
-  UAR_announce_baathist_uar: "Oznámit vznik Spojené arabské republiky" # todo: NEW TRANSLATION
-  UAR_announce_baathist_uar_desc: "Nyní, když jsme dosáhli dominantní pozice v arabském světě, bylo by rozumné začít rozšiřovat dosah našeho ba'athistického Národního velení do dalších arabských zemí." # todo: NEW TRANSLATION
-  UAR_invite_country_neo_baathist_uar: "Pozvat [FROM.GetNameDef] do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
-  UAR_invite_country_baathist_uar: "Pozvat [FROM.GetNameDef] do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
-  UAR_country_leaves_neo_baathist_uar: "[FROM.GetNameDef] hrozí odtržením" # todo: NEW TRANSLATION
-  UAR_country_leaves_neo_baathist_uar_desc: "Náš vliv na vládu [FROM.GetNameDef] v poslední době slábne. [FROM.GetAdjective] již necítí, že by naše cíle arabského sjednocení s nimi souzněly. Musíme je zase přivést do našeho lůna." # todo: NEW TRANSLATION
-  UAR_country_leaves_baathist_uar: "[FROM.GetNameDef] hrozí odtržením" # todo: NEW TRANSLATION
-  UAR_country_leaves_baathist_uar_desc: "Náš vliv na vládu [FROM.GetNameDef] v poslední době slábne. [FROM.GetAdjective] již necítí, že by naše cíle arabského sjednocení s nimi souzněly. Musíme je zase přivést do našeho lůna." # todo: NEW TRANSLATION
-  UAR_neo_baathist_uar_falls_apart: "Kolaps [ROOT.GetNameDef]" # todo: NEW TRANSLATION
-  UAR_neo_baathist_uar_falls_apart_desc: "Současný režim již nepodporuje dřívější sny o jednotném arabském státě. Je jen otázkou času, než naši arabští bratři ztratí v nás víru." # todo: NEW TRANSLATION
-  UAR_campaign_for_arab_unity: "Kampaň za arabskou jednotu v [FROM.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_campaign_for_arab_unity_desc: "Arabský nacionalismus v arabských zemích nebyl desítky let silný. Můžeme spustit propagační a vlivové kampaně, abychom přesvědčili naše arabské bratry, že aby čelili nepřátelskému imperialismu, musí se spojit." # todo: NEW TRANSLATION
-  UAR_unite_neo_baathist_uar: "Prohlásit sjednocení Arabů!" # todo: NEW TRANSLATION
-  UAR_unite_neo_baathist_uar_desc: "Nastal čas! Jsme dominantní národ mezi našimi arabskými bratry a nyní nás nic nemůže zastavit v navrácení našeho práva vládnout všem Arabům. Někteří se mohou postavit, ale budou zlomeni!" # todo: NEW TRANSLATION
-  UAR_unite_baathist_uar: "Prohlásit sjednocení Arabů!" # todo: NEW TRANSLATION
-  UAR_unite_baathist_uar_desc: "Nastal čas! Jsme dominantní národ mezi našimi arabskými bratry a nyní nás nic nemůže zastavit v navrácení našeho práva vládnout všem Arabům. Někteří se mohou postavit, ale budou zlomeni!" # todo: NEW TRANSLATION
-  UAR_integrate_MAU: "Integrovat [MAU.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_MOR: "Integrovat [MOR.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_SHA: "Integrovat [SHA.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_ALG: "Integrovat [ALG.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_TUN: "Integrovat [TUN.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_LBA: "Integrovat [LBA.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_EGY: "Integrovat [EGY.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_SUD: "Integrovat [SUD.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_PAL: "Integrovat [PAL.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_JOR: "Integrovat [JOR.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_LEB: "Integrovat [LEB.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_SYR: "Integrovat [SYR.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_IRQ: "Integrovat [IRQ.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_KUW: "Integrovat [KUW.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_SAU: "Integrovat [SAU.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_BHR: "Integrovat [BHR.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_QAT: "Integrovat [QAT.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_UAE: "Integrovat [UAE.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_OMA: "Integrovat [OMA.GetNameWithFlag]" # todo: NEW TRANSLATION
-  UAR_integrate_YEM: "Integrovat [YEM.GetNameWithFlag]" # todo: NEW TRANSLATION
-  defeated_the_uar: "Porazil §YSpojenou arabskou republiku§! nebo §YFederaci arabských republik§! ve válce" # todo: NEW TRANSLATION
-  formed_neo_baathist_uar: "Vznikla §Yneoba'athistická Federace arabských republik§!" # todo: NEW TRANSLATION
-  formed_baathist_uar: "Vznikla §Yba'athistická Spojená arabská republika§!" # todo: NEW TRANSLATION
-  united_neo_baathist_uar: "Sjednocena §Yneoba'athistická Federace arabských republik§!" # todo: NEW TRANSLATION
-  united_baathist_uar: "Sjednocena §Yba'athistická Spojená arabská republika§!" # todo: NEW TRANSLATION
-  ribbon_libya_victory_over_egypt: "§YLibye§! porazila §YEgypt§! ve válce" # todo: NEW TRANSLATION
-  ribbon_libya_victory_over_chad: "§YLibye§! porazila §YČad§! ve válce" # todo: NEW TRANSLATION
-  UAR.1.t: "Pozvání od [FROM.GetNameDef]" # todo: NEW TRANSLATION
-  UAR.1.d: "[FROM.GetNameDef] nás pozval, abychom se připojili k jejich arabské unii. Ač formálně součástí jejich unie, mohli bychom jako národ stále fungovat poměrně nezávisle." # todo: NEW TRANSLATION
-  UAR.1.a: "Samozřejmě" # todo: NEW TRANSLATION
-  UAR.1.b: "Ne, díky" # todo: NEW TRANSLATION
-  UAR.2.t: "[FROM.GetNameDef] se připojuje k [ROOT.GetNameDef]" # todo: NEW TRANSLATION
-  UAR.2.d: "[FROM.GetNameDef] přijal náš pozvání a připojil se k naší unii." # todo: NEW TRANSLATION
-  UAR.2.a: "Společně vstříc lepší budoucnosti" # todo: NEW TRANSLATION
-  UAR.3.t: "[FROM.GetNameDef] nám vzdoruje" # todo: NEW TRANSLATION
-  UAR.3.d: "[FROM.GetNameDef] odmítl naše pozvání k připojení se k unii. Jak máme reagovat?" # todo: NEW TRANSLATION
-  UAR.3.a: "Zkusíme to jindy" # todo: NEW TRANSLATION
-  UAR.3.b: "Pak je přinutíme" # todo: NEW TRANSLATION
-  UAR.4.t: "[FROM.GetNameDef] si nárokuje nadvládu nad Araby" # todo: NEW TRANSLATION
-  UAR.4.d: "[FROM.GetNameDef] prohlásil nadvládu nad všemi Araby spojením jejich unie. Je jen otázkou času, než přijdou i pro nás. Pokud jim chceme čelit, musíme jednat nyní." # todo: NEW TRANSLATION
-  UAR.4.a: "Utvořme proti nim koalici!" # todo: NEW TRANSLATION
-  UAR.4.b: "Je konec" # todo: NEW TRANSLATION
-  UAR.5.t: "Pozvánka do Fronty arabského osvobození" # todo: NEW TRANSLATION
-  UAR.5.d: "[FROM.GetNameDef] oznámil vytvoření mezinárodní koalice proti sjednocenému arabskému národu, který podle nich ohrožuje suverenitu všech arabských zemí. Plánují provést úderný útok proti Unii a požádali nás o připojení se." # todo: NEW TRANSLATION
-  UAR.5.a: "Samozřejmě, jde o otázku suverenity" # todo: NEW TRANSLATION
-  UAR.5.b: "Unie není hrozbou" # todo: NEW TRANSLATION
-  UAR.6.t: "Vojenský útok proti Arabské unii" # todo: NEW TRANSLATION
-  UAR.6.d: "Jsme připraveni. Je čas svrhnout tohoto obra, který ohrožuje všechny arabské země." # todo: NEW TRANSLATION
-  UAR.6.a: "Do zbraní!" # todo: NEW TRANSLATION
-  UAR.7.t: "[FROM.GetNameDef] zpochybňuje naši vládu" # todo: NEW TRANSLATION
-  UAR.7.d: "[FROM.GetNameDef] prohlásil, že jsou připraveni sjednotit všechny arabské národy. To je jasné prohlášení války proti nám. Je jen otázkou času, než zaklepetají na naše dveře." # todo: NEW TRANSLATION
-  UAR.7.a: "Do zbraní!" # todo: NEW TRANSLATION
-  UAR_news.1.t: "[FROM.GetNameDef] oznámil" # todo: NEW TRANSLATION
-  UAR_news.1.d: "Dnes došlo ke změně regionální politiky na Blízkém východě, když místní mocnost oznámila svůj cíl sjednotit všechny Araby. Včera na tiskové konferenci [FROM.GetLeader], prezident [FROM.GetNameDef], prohlásil, že nastal čas, aby se arabský lid sjednotil pod jedním státem. Podle jeho slov je to jediný způsob, jak si Arabové mohou v globální politice znovu vybojovat své právoplatné místo, místo aby nadále byli pouhými loutkami nepřátelských mocností. Mnoho arabských vůdců tato prohlášení již odsoudilo a uvedlo, že tlak na sjednocení Arabů jen vytvoří více konfliktů na Blízkém východě." # todo: NEW TRANSLATION
-  UAR_news.1.a: "Čas ukáže, zda to vydrží" # todo: NEW TRANSLATION
-  UAR_news.2.t: "[FROM.GetNameDef] se připojuje k [FROM.FROM.GetNameDef]" # todo: NEW TRANSLATION
-  UAR_news.2.d: "Vláda [FROM.GetNameDef] oznámila svůj záměr připojit se k [FROM.FROM.GetNameDef], aby společně pracovaly na sjednoceném arabském státě. Ač formálně součástí unie, [FROM.GetNameDef] si stále zachovává velkou autonomii v zahraniční politice. Avšak další integrace mezi státy by mohla tento stav změnit." # todo: NEW TRANSLATION
-  UAR_news.2.a: "Čas ukáže, zda to vydrží" # todo: NEW TRANSLATION
-  UAR_news.3.t: "[FROM.GetNameDef] opouští [FROM.FROM.GetNameDef]" # todo: NEW TRANSLATION
-  UAR_news.3.d: "Vláda [FROM.GetNameDef] oznámila svůj záměr opustit [FROM.FROM.GetNameDef]. Nespokojeni s politickým kurzem unie, [FROM.GetAdjective] vláda oznámila, že okamžitě ukončí veškerou spolupráci." # todo: NEW TRANSLATION
-  UAR_news.3.a: "Hah, další neúspěšný projekt" # todo: NEW TRANSLATION
-  UAR_news.4.t: "Arabská unie se rozpadá" # todo: NEW TRANSLATION
-  UAR_news.4.d: "Nedávno ohlášený projekt vytvoření Arabské unie na Blízkém východě se zcela zhroutil. Kvůli radikálním politickým změnám v vedoucí zemi se všichni jejich místní spojenci rozhodli projekt opustit. Zdá se, že sen o arabském sjednocení byl opět pohřben." # todo: NEW TRANSLATION
-  UAR_news.4.a: "Hah, další neúspěšný projekt" # todo: NEW TRANSLATION
-  UAR_news.5.t: "[FROM.GetNameDef] se sjednocuje" # todo: NEW TRANSLATION
-  UAR_news.5.d: "[FROM.GetNameDef] oznámil, že oficiálně sjednocuje své státy do jednoho celku. Opozice již uvedla, že to představuje hrozbu pro suverenitu všech ostatních arabských zemí a je jen otázkou času, než sjednocování přejde v násilí." # todo: NEW TRANSLATION
-  UAR_news.5.a: "Musíme to sledovat pozorně" # todo: NEW TRANSLATION
-  UAR_news.6.t: "Vytvořena Fronta arabského osvobození" # todo: NEW TRANSLATION
-  UAR_news.6.d: "Ze strachu z expanze sjednoceného arabského státu vytvořil [FROM.GetNameDef] mezinárodní koalici podobně smýšlejících arabských států, aby čelili hrozbě jejich suverenitě. [FROM.GetAdjective] vůdce [FROM.GetLeader] prohlásil, že aliance je připravena na vojenskou intervenci k ochraně jejich nezávislosti." # todo: NEW TRANSLATION
-  UAR_news.6.a: "To by se mohlo zvrtnout" # todo: NEW TRANSLATION
-  UAR_news.7.t: "Války za arabské sjednocení" # todo: NEW TRANSLATION
-  UAR_news.7.d: "Soutěž o nadvládu nad arabskými zeměmi přerostla v regionální válku. Neoba'athisté, ba'athisté a arabští suverénisté se navzájem perou. Budoucnost a politická mapa Blízkého východu se navždy změnila" # todo: NEW TRANSLATION
-  UAR_news.7.a: "Aspoň to nezačalo na Balkáně" # todo: NEW TRANSLATION
+ form_UAR_category: "Arabské sjednocení" # todo: NEW TRANSLATION
+ form_UAR_category_desc: "\n£LBA_desctext_federation\n\n\n\nOd počátku 20. století někteří lidé snili o sjednocení Arabů pod jedním státem. Než kdokoli jiný v této ideji vytrvali ba'athisté, zastánci protikoloniálního arabského socialistického a nacionalistického hnutí. Během studené války se uskutečnilo několik pokusů o sjednocení různých arabských zemí, ale všechny selhaly kvůli politickým neshodám. Dnes je hnutí ba'athistů rozděleno na dvě frakce; prorockou syrskou (neoba'athistickou) a prorockou iráckou frakci." # todo: NEW TRANSLATION
+ UAR_announce_neo_baathist_uar: "Oznámit vznik Federace arabských republik (neoba'athisté)" # todo: NEW TRANSLATION
+ UAR_announce_neo_baathist_uar_desc: "Nyní, když jsme dosáhli dominantní pozice v arabském světě, bylo by rozumné začít rozšiřovat dosah našeho ba'athistického Národního velení do dalších arabských zemí." # todo: NEW TRANSLATION
+ UAR_announce_baathist_uar: "Oznámit vznik Spojené arabské republiky" # todo: NEW TRANSLATION
+ UAR_announce_baathist_uar_desc: "Nyní, když jsme dosáhli dominantní pozice v arabském světě, bylo by rozumné začít rozšiřovat dosah našeho ba'athistického Národního velení do dalších arabských zemí." # todo: NEW TRANSLATION
+ UAR_invite_country_neo_baathist_uar: "Pozvat [FROM.GetNameDef] do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_invite_country_baathist_uar: "Pozvat [FROM.GetNameDef] do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_country_leaves_neo_baathist_uar: "[FROM.GetNameDef] hrozí odtržením" # todo: NEW TRANSLATION
+ UAR_country_leaves_neo_baathist_uar_desc: "Náš vliv na vládu [FROM.GetNameDef] v poslední době slábne. [FROM.GetAdjective] již necítí, že by naše cíle arabského sjednocení s nimi souzněly. Musíme je zase přivést do našeho lůna." # todo: NEW TRANSLATION
+ UAR_country_leaves_baathist_uar: "[FROM.GetNameDef] hrozí odtržením" # todo: NEW TRANSLATION
+ UAR_country_leaves_baathist_uar_desc: "Náš vliv na vládu [FROM.GetNameDef] v poslední době slábne. [FROM.GetAdjective] již necítí, že by naše cíle arabského sjednocení s nimi souzněly. Musíme je zase přivést do našeho lůna." # todo: NEW TRANSLATION
+ UAR_neo_baathist_uar_falls_apart: "Kolaps [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_neo_baathist_uar_falls_apart_desc: "Současný režim již nepodporuje dřívější sny o jednotném arabském státě. Je jen otázkou času, než naši arabští bratři ztratí v nás víru." # todo: NEW TRANSLATION
+ UAR_baathist_uar_falls_apart: "Rozpad [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_campaign_for_arab_unity: "Kampaň za arabskou jednotu v [FROM.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_campaign_for_arab_unity_desc: "Arabský nacionalismus v arabských zemích nebyl desítky let silný. Můžeme spustit propagační a vlivové kampaně, abychom přesvědčili naše arabské bratry, že aby čelili nepřátelskému imperialismu, musí se spojit." # todo: NEW TRANSLATION
+ UAR_campaign_for_arab_unity_tt: "Propagační kampaň za arabské sjednocení" # todo: NEW TRANSLATION # todo: MOVED KEY
+ UAR_unite_neo_baathist_uar: "Prohlásit sjednocení Arabů!" # todo: NEW TRANSLATION
+ UAR_unite_neo_baathist_uar_desc: "Nastal čas! Jsme dominantní národ mezi našimi arabskými bratry a nyní nás nic nemůže zastavit v navrácení našeho práva vládnout všem Arabům. Někteří se mohou postavit, ale budou zlomeni!" # todo: NEW TRANSLATION
+ UAR_unite_baathist_uar: "Prohlásit sjednocení Arabů!" # todo: NEW TRANSLATION
+ UAR_unite_baathist_uar_desc: "Nastal čas! Jsme dominantní národ mezi našimi arabskými bratry a nyní nás nic nemůže zastavit v navrácení našeho práva vládnout všem Arabům. Někteří se mohou postavit, ale budou zlomeni!" # todo: NEW TRANSLATION
+ UAR_integrate_MAU: "Integrovat [MAU.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_MOR: "Integrovat [MOR.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_SHA: "Integrovat [SHA.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_ALG: "Integrovat [ALG.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_TUN: "Integrovat [TUN.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_LBA: "Integrovat [LBA.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_EGY: "Integrovat [EGY.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_SUD: "Integrovat [SUD.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_PAL: "Integrovat [PAL.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_JOR: "Integrovat [JOR.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_LEB: "Integrovat [LEB.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_SYR: "Integrovat [SYR.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_IRQ: "Integrovat [IRQ.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_KUW: "Integrovat [KUW.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_SAU: "Integrovat [SAU.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_BHR: "Integrovat [BHR.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_QAT: "Integrovat [QAT.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_UAE: "Integrovat [UAE.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_OMA: "Integrovat [OMA.GetNameWithFlag]" # todo: NEW TRANSLATION
+ UAR_integrate_YEM: "Integrovat [YEM.GetNameWithFlag]" # todo: NEW TRANSLATION
+ defeated_the_uar: "Porazil §YSpojenou arabskou republiku§! nebo §YFederaci arabských republik§! ve válce" # todo: NEW TRANSLATION
+ formed_neo_baathist_uar: "Vznikla §Yneoba'athistická Federace arabských republik§!" # todo: NEW TRANSLATION
+ formed_baathist_uar: "Vznikla §Yba'athistická Spojená arabská republika§!" # todo: NEW TRANSLATION
+ united_neo_baathist_uar: "Sjednocena §Yneoba'athistická Federace arabských republik§!" # todo: NEW TRANSLATION
+ united_baathist_uar: "Sjednocena §Yba'athistická Spojená arabská republika§!" # todo: NEW TRANSLATION
+ ribbon_libya_victory_over_egypt: "§YLibye§! porazila §YEgypt§! ve válce" # todo: NEW TRANSLATION
+ ribbon_libya_victory_over_chad: "§YLibye§! porazila §YČad§! ve válce" # todo: NEW TRANSLATION
+ UAR.1.t: "Pozvání od [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ UAR.1.d: "[FROM.GetNameDef] nás pozval, abychom se připojili k jejich arabské unii. Ač formálně součástí jejich unie, mohli bychom jako národ stále fungovat poměrně nezávisle." # todo: NEW TRANSLATION
+ UAR.1.a: "Samozřejmě" # todo: NEW TRANSLATION
+ UAR.1.b: "Ne, díky" # todo: NEW TRANSLATION
+ UAR.2.t: "[FROM.GetNameDef] se připojuje k [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ UAR.2.d: "[FROM.GetNameDef] přijal náš pozvání a připojil se k naší unii." # todo: NEW TRANSLATION
+ UAR.2.a: "Společně vstříc lepší budoucnosti" # todo: NEW TRANSLATION
+ UAR.3.t: "[FROM.GetNameDef] nám vzdoruje" # todo: NEW TRANSLATION
+ UAR.3.d: "[FROM.GetNameDef] odmítl naše pozvání k připojení se k unii. Jak máme reagovat?" # todo: NEW TRANSLATION
+ UAR.3.a: "Zkusíme to jindy" # todo: NEW TRANSLATION
+ UAR.3.b: "Pak je přinutíme" # todo: NEW TRANSLATION
+ UAR.4.t: "[FROM.GetNameDef] si nárokuje nadvládu nad Araby" # todo: NEW TRANSLATION
+ UAR.4.d: "[FROM.GetNameDef] prohlásil nadvládu nad všemi Araby spojením jejich unie. Je jen otázkou času, než přijdou i pro nás. Pokud jim chceme čelit, musíme jednat nyní." # todo: NEW TRANSLATION
+ UAR.4.a: "Utvořme proti nim koalici!" # todo: NEW TRANSLATION
+ UAR.4.b: "Je konec" # todo: NEW TRANSLATION
+ UAR.5.t: "Pozvánka do Fronty arabského osvobození" # todo: NEW TRANSLATION
+ UAR.5.d: "[FROM.GetNameDef] oznámil vytvoření mezinárodní koalice proti sjednocenému arabskému národu, který podle nich ohrožuje suverenitu všech arabských zemí. Plánují provést úderný útok proti Unii a požádali nás o připojení se." # todo: NEW TRANSLATION
+ UAR.5.a: "Samozřejmě, jde o otázku suverenity" # todo: NEW TRANSLATION
+ UAR.5.b: "Unie není hrozbou" # todo: NEW TRANSLATION
+ UAR.6.t: "Vojenský útok proti Arabské unii" # todo: NEW TRANSLATION
+ UAR.6.d: "Jsme připraveni. Je čas svrhnout tohoto obra, který ohrožuje všechny arabské země." # todo: NEW TRANSLATION
+ UAR.6.a: "Do zbraní!" # todo: NEW TRANSLATION
+ UAR.7.t: "[FROM.GetNameDef] zpochybňuje naši vládu" # todo: NEW TRANSLATION
+ UAR.7.d: "[FROM.GetNameDef] prohlásil, že jsou připraveni sjednotit všechny arabské národy. To je jasné prohlášení války proti nám. Je jen otázkou času, než zaklepetají na naše dveře." # todo: NEW TRANSLATION
+ UAR.7.a: "Do zbraní!" # todo: NEW TRANSLATION
+ UAR_news.1.t: "[FROM.GetNameDef] oznámil" # todo: NEW TRANSLATION
+ UAR_news.1.d: "Dnes došlo ke změně regionální politiky na Blízkém východě, když místní mocnost oznámila svůj cíl sjednotit všechny Araby. Včera na tiskové konferenci [FROM.GetLeader], prezident [FROM.GetNameDef], prohlásil, že nastal čas, aby se arabský lid sjednotil pod jedním státem. Podle jeho slov je to jediný způsob, jak si Arabové mohou v globální politice znovu vybojovat své právoplatné místo, místo aby nadále byli pouhými loutkami nepřátelských mocností. Mnoho arabských vůdců tato prohlášení již odsoudilo a uvedlo, že tlak na sjednocení Arabů jen vytvoří více konfliktů na Blízkém východě." # todo: NEW TRANSLATION
+ UAR_news.1.a: "Čas ukáže, zda to vydrží" # todo: NEW TRANSLATION
+ UAR_news.2.t: "[FROM.GetNameDef] se připojuje k [FROM.FROM.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_news.2.d: "Vláda [FROM.GetNameDef] oznámila svůj záměr připojit se k [FROM.FROM.GetNameDef], aby společně pracovaly na sjednoceném arabském státě. Ač formálně součástí unie, [FROM.GetNameDef] si stále zachovává velkou autonomii v zahraniční politice. Avšak další integrace mezi státy by mohla tento stav změnit." # todo: NEW TRANSLATION
+ UAR_news.2.a: "Čas ukáže, zda to vydrží" # todo: NEW TRANSLATION
+ UAR_news.3.t: "[FROM.GetNameDef] opouští [FROM.FROM.GetNameDef]" # todo: NEW TRANSLATION
+ UAR_news.3.d: "Vláda [FROM.GetNameDef] oznámila svůj záměr opustit [FROM.FROM.GetNameDef]. Nespokojeni s politickým kurzem unie, [FROM.GetAdjective] vláda oznámila, že okamžitě ukončí veškerou spolupráci." # todo: NEW TRANSLATION
+ UAR_news.3.a: "Hah, další neúspěšný projekt" # todo: NEW TRANSLATION
+ UAR_news.4.t: "Arabská unie se rozpadá" # todo: NEW TRANSLATION
+ UAR_news.4.d: "Nedávno ohlášený projekt vytvoření Arabské unie na Blízkém východě se zcela zhroutil. Kvůli radikálním politickým změnám v vedoucí zemi se všichni jejich místní spojenci rozhodli projekt opustit. Zdá se, že sen o arabském sjednocení byl opět pohřben." # todo: NEW TRANSLATION
+ UAR_news.4.a: "Hah, další neúspěšný projekt" # todo: NEW TRANSLATION
+ UAR_news.5.t: "[FROM.GetNameDef] se sjednocuje" # todo: NEW TRANSLATION
+ UAR_news.5.d: "[FROM.GetNameDef] oznámil, že oficiálně sjednocuje své státy do jednoho celku. Opozice již uvedla, že to představuje hrozbu pro suverenitu všech ostatních arabských zemí a je jen otázkou času, než sjednocování přejde v násilí." # todo: NEW TRANSLATION
+ UAR_news.5.a: "Musíme to sledovat pozorně" # todo: NEW TRANSLATION
+ UAR_news.6.t: "Vytvořena Fronta arabského osvobození" # todo: NEW TRANSLATION
+ UAR_news.6.d: "Ze strachu z expanze sjednoceného arabského státu vytvořil [FROM.GetNameDef] mezinárodní koalici podobně smýšlejících arabských států, aby čelili hrozbě jejich suverenitě. [FROM.GetAdjective] vůdce [FROM.GetLeader] prohlásil, že aliance je připravena na vojenskou intervenci k ochraně jejich nezávislosti." # todo: NEW TRANSLATION
+ UAR_news.6.a: "To by se mohlo zvrtnout" # todo: NEW TRANSLATION
+ UAR_news.7.t: "Války za arabské sjednocení" # todo: NEW TRANSLATION
+ UAR_news.7.d: "Soutěž o nadvládu nad arabskými zeměmi přerostla v regionální válku. Neoba'athisté, ba'athisté a arabští suverénisté se navzájem perou. Budoucnost a politická mapa Blízkého východu se navždy změnila" # todo: NEW TRANSLATION
+ UAR_news.7.a: "Aspoň to nezačalo na Balkáně" # todo: NEW TRANSLATION

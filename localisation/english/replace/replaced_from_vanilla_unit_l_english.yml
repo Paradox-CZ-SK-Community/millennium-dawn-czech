@@ -1,35 +1,37 @@
 ﻿l_english:
-  UNIT_LEADER_SKILL_LAND_DESC: "Vyšší dovednost než u nepřátelského velitele dává veliteli další šanci zvolit protitaktiku, která porazí nepřítele. Dovednost velitele se zvyšuje, jak získává zkušenosti.\n\n" # todo: NEW TRANSLATION
-  recon: "Průzkumná rota" # todo: NEW TRANSLATION
-  UNIT_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
-  UNIT_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
-  UNIT_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
-  UNIT_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
-  UNIT_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
-  UNIT_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
-  UNIT_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
-  UNIT_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
-  UNIT_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
-  UNIT_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
-  SHIP_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
-  SHIP_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
-  SHIP_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
-  SHIP_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
-  SHIP_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
-  SHIP_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
-  SHIP_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
-  SHIP_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
-  SHIP_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
-  SHIP_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
-  AIR_WING_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
-  SF_MARINES_exfiltration_effect_tt: "Bataliony námořních komandos mají schopnost exfiltrace z libovolné pobřežní provincie." # todo: NEW TRANSLATION
-  SF_marine_demoliton_effect_TT: "Divize obrněné námořní pěchoty a mechanizované námořní pěchoty způsobí po jakékoli úspěšné námořní invazi všem pevnostem §H5§! úroveň poškození." # todo: NEW TRANSLATION
+ UNIT_LEADER_SKILL_LAND_DESC: "" # todo: CHANGED
+ recon: "" # todo: CHANGED
+ UNIT_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
+ UNIT_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
+ UNIT_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
+ UNIT_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
+ UNIT_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
+ UNIT_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
+ UNIT_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
+ UNIT_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
+ UNIT_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
+ UNIT_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
+ SHIP_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
+ SHIP_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
+ SHIP_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
+ SHIP_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
+ SHIP_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
+ SHIP_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
+ SHIP_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
+ SHIP_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
+ SHIP_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
+ SHIP_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_0: "Zelenáči" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_1: "Nováčci" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_2: "Rekruiti" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_3: "Vyškolení" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_4: "Stálí" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_5: "Ověření v boji" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_6: "Zkušení" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_7: "Ostřílení" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_8: "Veteráni" # todo: NEW TRANSLATION
+ AIR_WING_LEVEL_9: "Zarytí" # todo: NEW TRANSLATION
+ engineer: "Původ: Inženýr" # todo: MOVED KEY
+ naval_invasion_capacity_tt: "$NAVAL_INVASION_CAPACITY$: $RIGHT|+=0$" # todo: NEW TRANSLATION
+ rangers: "Pluk rangerů" # todo: NEW TRANSLATION # todo: MOVED KEY
+ engineer_desc: "Vystudovaný inženýr, má pevné základy pro pochopení složitých systémů vládnutí." # todo: MOVED KEY

@@ -1,35 +1,35 @@
 ﻿l_english:
-  cc_leader: "Generálporučík" # todo: NEW TRANSLATION
-  fm_leader: "Generál" # todo: NEW TRANSLATION
-  field_marshal_traits: "Generálské vlastnosti" # todo: NEW TRANSLATION
-  assignable_traits: "Vlastnosti generálporučíka" # todo: NEW TRANSLATION
-  TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Vlastnosti generála lze přiřadit pouze generálům.\n" # todo: NEW TRANSLATION
-  FIELD_MARSHAL_TRAITS_DESC: "Vlastnosti generála lze přiřadit pouze generálům. Generál může také používat běžné vlastnosti, ale jejich účinky budou sníženy, pokud velí více než jedné armádě." # todo: NEW TRANSLATION
-  ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "Velitel již má přiřazen maximální počet vlastností.\n" # todo: NEW TRANSLATION
-  SKILL_ATTACK_DESC: "§LDovednost útoku zvyšuje útočné statistiky jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
-  SKILL_DEFENSE_DESC: "§LDovednost obrany zvyšuje obranné statistiky jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
-  SKILL_PLANNING_DESC: "§LDovednost plánování zvyšuje rychlost plánování jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
-  SKILL_LOGISTICS_DESC: "§LDovednost logistiky snižuje spotřebu zásob jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
-  SKILL_LEVEL_MAX: "Velitel je již na maximální úrovni." # todo: NEW TRANSLATION
-  SKILL_LEVEL_NEXT_AMOUNT: "Váš velitel potřebuje $VALUE|H$ zkušeností k postupu na další úroveň." # todo: NEW TRANSLATION
-  SKILL_LEVEL_CURRENT_PROGRESS: "Aktuální pokrok: $VALUE|H%0$" # todo: NEW TRANSLATION
-  SKILL_LEVEL_DETAILS: "Po postupu o úroveň velitel získá 3 náhodné body atributů. Typ vlastností, které velitel má, zvyšuje šance na získání bodu do příslušných atributů." # todo: NEW TRANSLATION
-  ASSIGNABLE_TRAITS_DESC: "Vlastnosti velitele jsou vlastnosti, které lze ručně přiřadit veliteli. Každý velitel má maximální počet vlastností, které mu lze přiřadit." # todo: NEW TRANSLATION
-  TERRAIN_TRAITS_DESC: "Terénní vlastnosti dávají bonusy veliteli bojujícímu v konkrétních terénech. Lze je ručně přiřadit nebo získat zkušenostmi jako běžné vlastnosti." # todo: NEW TRANSLATION
-  CONFIRMTRAITASSIGNMENT: "Přiřadit vlastnost veliteli" # todo: NEW TRANSLATION
-  CONFIRMTRAITASSIGNMENT_DESC: "Opravdu chcete přiřadit $TRAIT|H$ veliteli $LEADER|H$?" # todo: NEW TRANSLATION
-  CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "Po přiřazení této vlastnosti budete mít pro tohoto velitele k dispozici ještě $NUM|H$ slotů pro vlastnosti." # todo: NEW TRANSLATION
-  CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "Po přiřazení této vlastnosti budete mít §Ržádné§! dostupné sloty vlastností pro tohoto velitele." # todo: NEW TRANSLATION
-  torpedo_expert: "Expert na torpéda" # todo: NEW TRANSLATION
-  torpedo_expert_desc: "§LUderit do lodi pohybující se rychlostí 25 uzlů při relativním úhlu 72 stupňů na vzdálenost 8 kilometrů je opravdu jen trochu jednoduché matematiky.§!" # todo: NEW TRANSLATION
-  dive_bomber: "Expert STOL" # todo: NEW TRANSLATION
-  dive_bomber_desc: "Expert na provoz letadel se zkráceným vzletem a přistáním (STOL)" # todo: NEW TRANSLATION
-  torpedo_bomber: "Expert VTOL" # todo: NEW TRANSLATION
-  torpedo_bomber_desc: "Expert na provoz letadel s vertikálním vzletem a přistáním (VTOL)" # todo: NEW TRANSLATION
-  loading_drill_master: "Mistr nabíjení" # todo: NEW TRANSLATION
-  loading_drill_master_desc: "§L\"Znovu je střelte, ještě nejsou mrtví!\"§!" # todo: NEW TRANSLATION
-  lancer: "Lancer" # todo: NEW TRANSLATION
-  lancer_desc: "§LTento důstojník zná rakety jako nikdo jiný a dokáže z nich vytěžit maximum.§!" # todo: NEW TRANSLATION
-  cavalary_ratio_over_40: "Poměr mechanizované a obrněné pěchoty > §Y50%§!" # todo: NEW TRANSLATION
-  infantry_ratio_over_80: "Podíl pěchoty a motorové pěchoty > §Y50%§!" # todo: NEW TRANSLATION
-  armored_ratio_over_40: "Podíl tanků > §Y50%§!" # todo: NEW TRANSLATION
+ cc_leader: "Generálporučík" # todo: NEW TRANSLATION
+ fm_leader: "Generál" # todo: NEW TRANSLATION
+ field_marshal_traits: "Generálské vlastnosti" # todo: NEW TRANSLATION
+ assignable_traits: "Vlastnosti generálporučíka" # todo: NEW TRANSLATION
+ TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Vlastnosti generála lze přiřadit pouze generálům.\n" # todo: NEW TRANSLATION
+ FIELD_MARSHAL_TRAITS_DESC: "Vlastnosti generála lze přiřadit pouze generálům. Generál může také používat běžné vlastnosti, ale jejich účinky budou sníženy, pokud velí více než jedné armádě." # todo: NEW TRANSLATION
+ ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "Velitel již má přiřazen maximální počet vlastností.\n" # todo: NEW TRANSLATION
+ SKILL_ATTACK_DESC: "§LDovednost útoku zvyšuje útočné statistiky jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
+ SKILL_DEFENSE_DESC: "§LDovednost obrany zvyšuje obranné statistiky jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
+ SKILL_PLANNING_DESC: "§LDovednost plánování zvyšuje rychlost plánování jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
+ SKILL_LOGISTICS_DESC: "§LDovednost logistiky snižuje spotřebu zásob jednotek, které velitel vede.§!" # todo: NEW TRANSLATION
+ SKILL_LEVEL_MAX: "Velitel je již na maximální úrovni." # todo: NEW TRANSLATION
+ SKILL_LEVEL_NEXT_AMOUNT: "Váš velitel potřebuje $VALUE|H$ zkušeností k postupu na další úroveň." # todo: NEW TRANSLATION
+ SKILL_LEVEL_CURRENT_PROGRESS: "Aktuální pokrok: $VALUE|H%0$" # todo: NEW TRANSLATION
+ SKILL_LEVEL_DETAILS: "Po postupu o úroveň velitel získá 3 náhodné body atributů. Typ vlastností, které velitel má, zvyšuje šance na získání bodu do příslušných atributů." # todo: NEW TRANSLATION
+ ASSIGNABLE_TRAITS_DESC: "Vlastnosti velitele jsou vlastnosti, které lze ručně přiřadit veliteli. Každý velitel má maximální počet vlastností, které mu lze přiřadit." # todo: NEW TRANSLATION
+ TERRAIN_TRAITS_DESC: "Terénní vlastnosti dávají bonusy veliteli bojujícímu v konkrétních terénech. Lze je ručně přiřadit nebo získat zkušenostmi jako běžné vlastnosti." # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT: "Přiřadit vlastnost veliteli" # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC: "Opravdu chcete přiřadit $TRAIT|H$ veliteli $LEADER|H$?" # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "Po přiřazení této vlastnosti budete mít pro tohoto velitele k dispozici ještě $NUM|H$ slotů pro vlastnosti." # todo: NEW TRANSLATION
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "Po přiřazení této vlastnosti budete mít §Ržádné§! dostupné sloty vlastností pro tohoto velitele." # todo: NEW TRANSLATION
+ torpedo_expert: "Expert na torpéda" # todo: NEW TRANSLATION
+ torpedo_expert_desc: "§LUderit do lodi pohybující se rychlostí 25 uzlů při relativním úhlu 72 stupňů na vzdálenost 8 kilometrů je opravdu jen trochu jednoduché matematiky.§!" # todo: NEW TRANSLATION
+ dive_bomber: "Expert STOL" # todo: NEW TRANSLATION
+ dive_bomber_desc: "Expert na provoz letadel se zkráceným vzletem a přistáním (STOL)" # todo: NEW TRANSLATION
+ torpedo_bomber: "Expert VTOL" # todo: NEW TRANSLATION
+ torpedo_bomber_desc: "Expert na provoz letadel s vertikálním vzletem a přistáním (VTOL)" # todo: NEW TRANSLATION
+ loading_drill_master: "Mistr nabíjení" # todo: NEW TRANSLATION
+ loading_drill_master_desc: "§L\"Znovu je střelte, ještě nejsou mrtví!\"§!" # todo: NEW TRANSLATION
+ lancer: "Lancer" # todo: NEW TRANSLATION
+ lancer_desc: "§LTento důstojník zná rakety jako nikdo jiný a dokáže z nich vytěžit maximum.§!" # todo: NEW TRANSLATION
+ cavalary_ratio_over_40: "Poměr mechanizované a obrněné pěchoty > §Y50%§!" # todo: NEW TRANSLATION
+ infantry_ratio_over_80: "Podíl pěchoty a motorové pěchoty > §Y50%§!" # todo: NEW TRANSLATION
+ armored_ratio_over_40: "Podíl tanků > §Y50%§!" # todo: NEW TRANSLATION

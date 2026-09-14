@@ -1,5 +1,4 @@
 ﻿l_english:
- RULE_ZOMBIE: "Herní režim Zombie"
  RULE_ZOMBIE_DIFFICULTY: "Obtížnost herního režimu Zombie"
  RULE_ZOMBIE_DIFFICULTY_NORMAL: "Normální"
  RULE_ZOMBIE_DIFFICULTY_NORMAL_DESC: "Zombie mají na začátku hry 4 miliony jednotek."
@@ -12,6 +11,29 @@
  RULE_ZOMBIE_GAME_MODE: "Povolit herní režim Zombie"
  RULE_ZOMBIE_GAME_MODE_NO_DESC: "Herní režim Zombie nebude povolen."
  RULE_ZOMBIE_GAME_MODE_YES_DESC: "Herní režim Zombie bude povolen. Veškerý ostatní obsah Millennium Dawn zůstane aktivní. Pokud chcete hrát za zombie, začněte jako Indie."
+ RULE_ZOMBIE_SPAWN_LOCATION: "Místo zrození zombie" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_INDIA: "Indie (výchozí)" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_INDIA_DESC: "Horda zombie se jako obvykle zrodí v Indii." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_AFRICA: "Střední Afrika" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_AFRICA_DESC: "Horda zombie se zrodí ve střední Africe (oblast Konga) a otevře novou frontu, která dříve ohrozí Evropu a Blízký východ." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_EAST_ASIA: "Východní Asie" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_EAST_ASIA_DESC: "Horda zombie se zrodí na čínském pobřeží a okamžitě ohrozí východní Asii, Japonsko a Pacifik." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_MULTIPLE: "Více míst" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_SPAWN_MULTIPLE_DESC: "Horda zombie se současně zrodí v Indii, střední Africe a východní Asii, přičemž na každém místě bude mít menší počáteční síly." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_ENABLED: "Frakce protizombie koalice" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_ENABLED_YES: "Povoleno (výchozí)" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_ENABLED_YES_DESC: "Protizombie koalice se vytvoří jako obvykle. Velmoci budou pozvány, aby se připojily k boji proti hordě zombie." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_ENABLED_NO: "Zakázáno" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_ENABLED_NO_DESC: "Protizombie koalice se nevytvoří. Národy budou muset přežít nákazu samy bez organizované koalice." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY: "Odklad zrození zombie" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_NONE: "Bez odkladu (výchozí)" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_NONE_DESC: "Horda zombie se zrodí okamžitě na začátku hry." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_ONE_YEAR: "1 rok" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_ONE_YEAR_DESC: "Horda zombie se zrodí po ročním odpočtu, což národům poskytne čas připravit se, než nákaza vypukne." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_TWO_YEARS: "2 roky" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_TWO_YEARS_DESC: "Horda zombie se zrodí po dvouletém odpočtu, což národům poskytne dostatek času na rozvoj jejich ekonomik a armád." # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_THREE_YEARS: "3 roky" # todo: NEW TRANSLATION
+ RULE_ZOMBIE_COALITION_DELAY_THREE_YEARS_DESC: "Horda zombie se zrodí po tříletém odpočtu, což národům poskytne rozsáhlý čas na přípravu, než nákaza vypukne." # todo: NEW TRANSLATION
  RULE_ZOMBIE_JOINING_FACTION_GAME_MODE: "Vstup do frakce proti zombím"
  RULE_ZOMBIE_JOINING_FACTION_NORMAL: "Výchozí chování frakcí"
  RULE_ZOMBIE_JOINING_FACTION_NORMAL_DESC: "Chování frakcí zůstane výchozí pro tento herní režim."
@@ -23,41 +45,54 @@
  zombie_desc: "Virus mění neškodné lidi v monstra."
  zombie_0: "Zombie virus"
  zombie_0_desc: "Virus mění neškodné lidi v monstra."
+ zombies: "Horda zombie" # todo: NEW TRANSLATION
+ zombies_desc: "Masa nakažených těl poháněná hladem a instinktem.\n\n§GTip pro tvůrce: Hordy zombie poskytují početné, rychle vycvičené formace první linie se silnou obnovou a vysokým měkkým útokem. Využijte je k zahlcení obránců početní převahou, ale jejich nízká organizace, slabé protitankové schopnosti a vysoké nároky na živou sílu činí každou hordu neobratnou.§!" # todo: NEW TRANSLATION
+ zombie_runner: "Běžecký kmen" # todo: NEW TRANSLATION
+ zombie_runner_desc: "Rychlejší a agresivnější mutace zombie viru. Běžci se pohybují v rojích a zdolávají obranu samotnou rychlostí a početní převahou.\n\n§GTip pro tvůrce: Běžci poskytují vysokou rychlost a silný měkký útok v úzké formaci. Využijte je k pronikání mezerami a obchvatu pěchoty, ale jejich nízká organizace, slabá obrana a zanedbatelné protitankové schopnosti činí dlouhodobý boj nákladným.§!" # todo: NEW TRANSLATION
+ zombie_runner_0: "Běžecký kmen" # todo: NEW TRANSLATION
+ zombie_runner_0_desc: "Rychlejší a agresivnější mutace zombie viru. Běžci se pohybují v rojích a zdolávají obranu samotnou rychlostí a početní převahou." # todo: NEW TRANSLATION
+ zombie_brute: "Hrubý kmen" # todo: NEW TRANSLATION
+ zombie_brute_desc: "Silně zmutovaný kmen, který vytváří větší a odolnější zombie. Hrubiáni snášejí obrovské množství trestů a prorážejí obranné linie.\n\n§GTip pro tvůrce: Hrubiáni poskytují vyšší obranu, průlom, sílu a vyšší tvrdý útok než ostatní kmeny zombie. Využijte je jako pomalé útočné jednotky proti opevněným pozicím, ale jejich nízká rychlost, velká šířka boje a velmi vysoké nároky na živou sílu omezují jejich pohyblivost a počet.§!" # todo: NEW TRANSLATION
+ zombie_brute_0: "Hrubý kmen" # todo: NEW TRANSLATION
+ zombie_brute_0_desc: "Silně zmutovaný kmen, který vytváří větší a odolnější zombie. Hrubiáni snášejí obrovské množství trestů a prorážejí obranné linie." # todo: NEW TRANSLATION
  Zombie: "Zombie"
  Zombie_desc: "Jediným smyslem existence zombie je požírat lidi."
  better_instincts: "Lepší instinkty"
- better_instincts_desc: "Zombie jsou ještě efektivnější v zabíjení lidí."
- shock_and_zombie_awe: "Panika..."
- shock_and_zombie_awe_desc: "Mezi obyvatelstvem se šíří panika. Nikdo nemohl být připraven na zombie ani na to, jak rychle přepadly vojenské pozice, které se zoufale snaží bránit..."
+ better_instincts_desc: "Zombíci si osvojili účinnější metody zabíjení." # todo: CHANGED
+ shock_and_zombie_awe: "Masová panika" # todo: CHANGED
+ shock_and_zombie_awe_desc: "Mezi obyvatelstvem se začíná šířit panika. Nikdo nemohl být připraven na zombíky a na to, jak rychle přemohli vojenské pozice. Zoufalá obrana se hroutí, zatímco důvěra v přežití slábne." # todo: CHANGED
  zombie.1.t: "Virus se šíří do Anglie"
  zombie.1.d: "Lamanšský průliv se ukázal jako nedostatečná překážka. Nakažení uprchlíci se vyplavují na březích u bílých doverských útesů a rušné londýnské ulice postupně utichají, zatímco virus trhá srdce impéria. Ostrovní pevnost Británie se mění ve vězení, kde mrtví začínají chodit."
- zombie.1.a: "Grrr!"
+ zombie.1.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.2.t: "Virus se šíří do Irska"
  zombie.2.d: "Irské moře nedokázalo zastavit nemrtvou nákazu. Rybařské lodě se vracejí do přístavů s nákladem, který nikdo nečekal, a pobřežní města postupně umlkají. Nákaza se šíří z Dublinu a Corku do vnitrozemí a pohlcuje Smaragdový ostrov vlnou potácejících se těl."
- zombie.2.a: "Ňam, ňam, ňam."
+ zombie.2.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.3.t: "Virus se šíří do Spojených států"
  zombie.3.d: "Navzdory zoufalým karanténním opatřením přinesli nakažení uprchlíci prchající z Evropy nákazu přes Atlantik. Hlavní přístavní města na východním pobřeží hlásí propuknutí nákazy a infekce se děsivou rychlostí šíří na západ. Americký sen se mění v noční můru chodících mrtvých."
- zombie.3.a: "Móóózky..."
+ zombie.3.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.4.t: "Virus se šíří do Japonska"
  zombie.4.d: "Země vycházejícího slunce nyní čelí armádě, která nezná čest ani slitování. Z Tokia, Ósaky a dalších center přicházejí zprávy o zhroucení pořádku, zatímco hustě osídlená města se mění v pasti smrti. Starobylé chrámy i moderní mrakodrapy padají před neúprosnou vlnou nakažených."
- zombie.4.a: "Urrgh, kawaii..."
+ zombie.4.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.5.t: "Virus se šíří do Austrálie"
  zombie.5.d: "Rozlehlý oceán poskytl jen dočasnou úlevu. Nákladní lodě s nakaženými posádkami připlouvají do Sydney a Melbourne a nákaza se šíří kontinentem. Ani drsný Outback nenabízí útočiště, když poslední ostrovní bašta lidstva začíná padat."
- zombie.5.a: "Raaargh..."
+ zombie.5.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.6.t: "Virus se šíří na Nový Zéland"
  zombie.6.d: "Odlehlé ostrovy, které inspirovaly Středozem, nyní čelí vlastní apokalypse. Nákaza přichází vzduchem i po moři a šíří se Wellingtonem i Aucklandem. Izolace Nového Zélandu, kdysi jeho největší výhoda, nyní znamená, že není kam utéct."
- zombie.6.a: "Urrrgh..."
+ zombie.6.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.7.t: "Virus se šíří na Filipíny"
  zombie.7.d: "Nákaza se šíří filipínským souostrovím jako tropická bouře. Uprchlíci putující mezi ostrovy přenášejí virus z Luzonu na Mindanao a tisíce ostrovů, které kdysi sloužily jako přirozené bariéry, se mění v izolované kapsy hrůzy bez naděje na únik."
- zombie.7.a: "Mmmm... Nngh..."
+ zombie.7.a: "Uznat vypuknutí" # todo: CHANGED
  zombie.8.t: "Horda zombie"
- zombie.8.d: "Mrtví chodí po Zemi. [459.GetName] hlásí, že se tam objevila horda zombie a rychle zabíjí tisíce našich obyvatel - buď je požírá, nebo infikuje. Odborníci po celém světě bez velké kreativity nazvali konflikt „Ohnisko“, ale válka o přežití lidské rasy teprve začíná... mimochodem, Madagaskar právě uzavřel letiště."
- zombie.8.a: "Pošlete zombie do hrobu!"
- zombie.8.b: "Věk lidstva skončil..."
+ zombie.8.d: "Mrtví kráčejí po Zemi. Zombícká horda zachvátila celý Indický subkontinent a rychle decimuje naši populaci prostřednictvím infekce a přímého lovu. Odborníci tento konflikt nazvali \"Vypuknutí\", ale válka o přežití lidstva teprve začala. Zoufalé národy již nyní uzavírají své hranice." # todo: CHANGED
+ zombie.8.d.africa: "Mrtví kráčejí po Zemi. Horda zombie vypukla ve střední Africe a rychle požírá naši populaci prostřednictvím nákazy a přímého lovu. Odborníci konflikt pojmenovali „Nákaza“, ale válka o přežití lidstva teprve začala. Zoufalé národy již uzavírají své hranice." # todo: NEW TRANSLATION
+ zombie.8.d.east_asia: "Mrtví kráčejí po Zemi. Horda zombie se objevila na Korejském poloostrově a rychle požírá naši populaci prostřednictvím nákazy a přímého lovu. Odborníci konflikt pojmenovali „Nákaza“, ale válka o přežití lidstva teprve začala. Zoufalé národy již uzavírají své hranice." # todo: NEW TRANSLATION
+ zombie.8.d.multiple: "Mrtví kráčejí po Zemi. Horda zombie vypukla současně na třech kontinentech a udeřila zároveň v Indii, střední Africe a na Korejském poloostrově, přičemž rychle požírá naši populaci prostřednictvím nákazy a přímého lovu. Odborníci konflikt pojmenovali „Nákaza“, ale válka o přežití lidstva teprve začala. Zoufalé národy již uzavírají své hranice." # todo: NEW TRANSLATION
+ zombie.8.a: "Mobilizovat proti hordě" # todo: CHANGED
+ zombie.8.b: "Přijmout osud lidstva" # todo: CHANGED
  zombie.9.t: "[FROM.GetName] žádá o pomoc proti zombím"
- zombie.9.d: "[FROM.GetName] žádá o pomoc a snaží se získat podporu všech velmocí světa, aby zastavil vlnu nákazy. Můžeme je opustit v jejich hodině největší nouze, nebo se k nim připojit v boji o přežití lidstva. Co uděláme?"
- zombie.9.a: "Připojíme se!"
- zombie.9.b: "Na to kašleme! Zachraňte se sami!"
+ zombie.9.d: "[FROM.GetName] požádala o pomoc a snaží se získat všechny významné národy, aby zastavily Vypuknutí. Vyslyšíme výzvu, nebo dáme přednost vlastnímu přežití?" # todo: CHANGED
+ zombie.9.a: "Připojit se ke koalici" # todo: CHANGED
+ zombie.9.b: "Dát přednost vlastnímu přežití" # todo: CHANGED
  zombie.10.t: "Ohnisko!"
  zombie.10.d: "Zombie virus se zřejmě rozšířil i na naše území a začíná se šířit v oblasti [?var:random_outbreak_state.GetName]. Jen čas ukáže, jak vážné to bude..."
  zombie.10.a: "Mobilizovat vojsko!"
@@ -65,3 +100,66 @@
  zombie.11.d: "[FROM.GetName] hlásí nové ohnisko nákazy a situace se s každou hodinou zhoršuje. Zombie virus se šíří jako požár a jen čas ukáže, zda je to začátek konce..."
  zombie.11.a: "Znepokojivé..."
  zombie.11.b: "Raaargh..."
+ zombie.12.t: "Virus se šíří do Nigérie" # todo: NEW TRANSLATION
+ zombie.12.d: "Mor přeskočil napříč kontinentem. Přístavní města podél Guinejského zálivu hlásí masové ztráty, zatímco nakažení se z pobřeží rojí do vnitrozemí. Obrovská populace Nigérie a hustá městská zástavba poskytují ideální půdu pro šířící se hrůzu. Západní Afrika už možná nikdy nebude stejná." # todo: NEW TRANSLATION
+ zombie.12.a: "Vzít hrozbu na vědomí" # todo: NEW TRANSLATION
+ zombie.13.t: "Virus se šíří do Brazílie" # todo: NEW TRANSLATION
+ zombie.13.d: "Amazonie neposkytuje žádnou ochranu. Nákaza se současně objevuje v São Paulu a Rio de Janeiru a děsivou rychlostí prochází největšími městy Jižní Ameriky. Miliony zpanikařených civilistů ucpávají dálnice vedoucí do vnitrozemí a nevědomky s sebou přenášejí virus." # todo: NEW TRANSLATION
+ zombie.13.a: "Vzít hrozbu na vědomí" # todo: NEW TRANSLATION
+ zombie.14.t: "Virus se šíří do Turecka" # todo: NEW TRANSLATION
+ zombie.14.d: "Turecko, rozkládající se na dvou kontinentech, se stává mostem mezi nákazou na východě a Evropou. V Istanbulu a Ankaře propukají ohniska, zatímco úřady se horečně snaží zvládnout něco, co se rychle stává nezvladatelným. Bospor, kdysi symbol spojení, nyní přenáší jen smrt." # todo: NEW TRANSLATION
+ zombie.14.a: "Vzít hrozbu na vědomí" # todo: NEW TRANSLATION
+ zombie.15.t: "Horda se vyvíjí" # todo: NEW TRANSLATION
+ zombie.15.d: "Virus se mění. Průzkumníci hlásí mezi našimi řadami nový druh nakažených: rychlejší a divočejší varianty, které se pohybují ve skupinách, a větší, odolnější jedince, kteří odolávají palbě z ručních zbraní. Horda je každým dnem nebezpečnější." # todo: NEW TRANSLATION
+ zombie.15.a: "Vzít evoluci na vědomí" # todo: NEW TRANSLATION
+ ZOM_cure_developed: "Prototyp léku proti zombie viru" # todo: NEW TRANSLATION
+ ZOM_cure_developed_desc: "Naši vědci vyvinuli experimentální lék proti zombie viru. Vakcína distribuovaná prostřednictvím zásobovacích řetězců koalice poskytuje všem silám bojujícím proti nemrtvým výraznou bojovou výhodu." # todo: NEW TRANSLATION
+ ZOM_research_cure: "Vyvinout lék" # todo: NEW TRANSLATION
+ ZOM_research_cure_desc: "Největší hrozba, jaké kdy lidstvo čelilo, vyžaduje naše největší vědecké úsilí. Spojením našich zdrojů a odborných znalostí bychom mohli vyvinout lék nebo vakcínu, která by mohla zvrátit průběh této války. Po dokončení získají všechny národy bojující proti hordě zombie bojový bonus." # todo: NEW TRANSLATION
+ ZOM_establish_safe_zones: "Zřídit bezpečné zóny" # todo: NEW TRANSLATION
+ ZOM_establish_safe_zones_desc: "Určete a opevněte bezpečné zóny pro civilisty, abyste ochránili nebojující a udrželi veřejný pořádek. Organizované evakuační koridory a zodolněné kryty získají čas a stabilizují domácí frontu." # todo: NEW TRANSLATION
+ ZOM_develop_a_cure: "Vyvinout lék" # todo: NEW TRANSLATION
+ ZOM_develop_a_cure_desc: "Financujte a dokončete rozhodnutí Vyvinout lék. Po úspěchu získají všechny národy bojující proti hordě zombie bojový bonus proti nemrtvým." # todo: NEW TRANSLATION
+ ZOM_protect_civilian_population: "Chránit civilní obyvatelstvo" # todo: NEW TRANSLATION
+ ZOM_protect_civilian_population_desc: "Udržujte stabilitu nad 60 %, abyste zajistili bezpečí civilistů a soudržnost společnosti." # todo: NEW TRANSLATION
+ ZOM_global_mobilization: "Globální mobilizace" # todo: NEW TRANSLATION
+ ZOM_global_mobilization_desc: "Rozšiřte protizombie koalici alespoň na 8 členských národů." # todo: NEW TRANSLATION
+ ZOM_defeat_the_zombie_horde: "Porazit hordu zombie" # todo: NEW TRANSLATION
+ ZOM_defeat_the_zombie_horde_desc: "Zničte hordu zombie a ukončete hrozbu pro lidstvo." # todo: NEW TRANSLATION
+ ZOM_hold_the_line: "Udržet linii" # todo: NEW TRANSLATION
+ ZOM_hold_the_line_desc: "Udržte kontrolu nad svým hlavním městem, dokud se horda zombie nevyvine. Pokud vaše sídlo vlády přežije první vlnu, naděje trvá." # todo: NEW TRANSLATION
+ ZOM_sanctuary: "Útočiště" # todo: NEW TRANSLATION
+ ZOM_sanctuary_desc: "Zřiďte pět bezpečných zón, které poskytnou úkryt přeživším. Zdi, řád a místo k útěku jsou posledním útočištěm živých." # todo: NEW TRANSLATION
+ ZOM_sanctuary_completed_tt: "Zřídit 5 §Ybezpečných zón§!" # todo: NEW TRANSLATION
+ ZOM_reclaim_the_cradle: "Získat zpět kolébku" # todo: NEW TRANSLATION
+ ZOM_reclaim_the_cradle_desc: "Dobijte srdce nákazy: hlavní město hordy zombie. Vypalte hnízdo, kde se zrodil mor." # todo: NEW TRANSLATION
+ ZOM_total_eradication: "Úplné vyhlazení" # todo: NEW TRANSLATION
+ ZOM_total_eradication_desc: "Zničte hordu zombie a vyviňte lék proti nákaze. Vítězství na bojišti má jen malý význam, dokud se nákaza stále šíří v krvi." # todo: NEW TRANSLATION
+ ZOM_against_all_odds: "Navzdory všem překážkám" # todo: NEW TRANSLATION
+ ZOM_against_all_odds_desc: "Porazte hordu zombie na extrémní nebo šílenou obtížnost. Navzdory drtivé přesile se lidstvo odmítlo vzdát." # todo: NEW TRANSLATION
+ the_horde_spreads: "Horda se šíří" # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_1yr: "Nákaza se blíží" # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_1yr_desc: "Po celém světě se objevují zprávy o záhadném patogenu. Zpravodajské služby odhadují, že do nezvladatelné situace zbývá jeden rok." # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_2yr: "Nákaza se blíží" # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_2yr_desc: "Znepokojivé zprávy z odlehlých oblastí popisují patogen, jaký dosud nikdo neviděl. Odborníci se domnívají, že máme dva roky na přípravu, než dosáhne kritického rozsahu." # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_3yr: "Nákaza se blíží" # todo: NEW TRANSLATION
+ ZOM_apocalypse_countdown_3yr_desc: "Byly hlášeny izolované případy nevysvětlitelného násilí a oživování mrtvých. Vědci odhadují, že máme tři roky, než virus zmutuje do své konečné, nezastavitelné podoby." # todo: NEW TRANSLATION
+ zombie_capitulation.1.t: "Rudý drak padá" # todo: NEW TRANSLATION
+ zombie_capitulation.1.d: "Nejlidnatější národ na Zemi byl pohlcen. Obrovské čínské armády, Velká čínská zeď, miliardová populace. Nic z toho nepomohlo. Peking padl během několika dní, Šanghaj během hodin. Obrovská hustota čínských měst z nich učinila jatka a nyní pod praporem hordy pochoduje přes miliarda mrtvol. Pokud se Čína nedokázala udržet, jakou naději máme my ostatní?" # todo: NEW TRANSLATION
+ zombie_capitulation.1.a: "Přijmout ztrátu" # todo: NEW TRANSLATION
+ zombie_capitulation.1.b: "Připravit se na nejhorší" # todo: NEW TRANSLATION
+ zombie_capitulation.2.t: "Rusko padá" # todo: NEW TRANSLATION
+ zombie_capitulation.2.d: "Největší země na Zemi podlehla moru nemrtvých. Nekonečné rozlohy zmrzlé tundry a hustých lesů Ruska, kdysi považované za přirozenou pevnost proti hordě, se ukázaly být bezvýznamné proti nepříteli, který necítí chlad, neunavuje se a nezastaví se. Obrana Moskvy se zhroutila a Kreml stojí v tichu. Horda nyní ovládá území rozkládající se od Evropy až k Pacifiku." # todo: NEW TRANSLATION
+ zombie_capitulation.2.a: "Přijmout ztrátu" # todo: NEW TRANSLATION
+ zombie_capitulation.2.b: "Připravit se na nejhorší" # todo: NEW TRANSLATION
+ zombie_capitulation.3.t: "Spojené státy padly" # todo: NEW TRANSLATION
+ zombie_capitulation.3.d: "Poslední supervelmoc padla. Spojené státy se vší svou vojenskou silou, jaderným arzenálem a oceány, které je oddělovaly, nedokázaly příliv zastavit. Nejprve padlo východní pobřeží, poté vnitrozemí a nakonec umlkly i poslední ohniska odporu ve Skalnatých horách. Hvězdy a pruhy už nad Washingtonem nevlají. Pro mnohé to znamená skutečný konec lidské civilizace, jakou znali." # todo: NEW TRANSLATION
+ zombie_capitulation.3.a: "Přijmout ztrátu" # todo: NEW TRANSLATION
+ zombie_capitulation.3.b: "Připravit se na nejhorší" # todo: NEW TRANSLATION
+ zombie_capitulation.4.t: "Nákaza končí" # todo: NEW TRANSLATION
+ zombie_capitulation.4.d: "Navzdory všem očekáváním lidstvo zvítězilo. Horda zombie byla zlomena. Její území osvobozena, její roje zničeny a poslední nakažení uloženi k odpočinku. Města zjizvená apokalypsou zahajují dlouhou obnovu. Svět se navždy změnil, ale přetrval." # todo: NEW TRANSLATION
+ zombie_capitulation.4.a: "Lidstvo přetrvá" # todo: NEW TRANSLATION
+ zombie_countdown_decision_category: "Odpočet zombie apokalypsy" # todo: NEW TRANSLATION
+ zombie_countdown_decision_category_desc: "" # todo: NEW TRANSLATION
+ zombie_coalition_decision_category: "Rozhodnutí o hordě" # todo: NEW TRANSLATION
+ zombie_coalition_decision_category_desc: "" # todo: NEW TRANSLATION

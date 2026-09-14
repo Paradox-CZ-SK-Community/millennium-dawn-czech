@@ -1,0 +1,296 @@
+﻿l_english:
+ TOPBAR_ADD_TOOLTIP: "£click_left §YL Klik§! k přidání §Ykonfigurovatelného zobrazení§!\n" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TOPBAR_ENTRY_TOOLTIP: "[!topbar_icon_click]" # todo: NEW TRANSLATION
+ TOPBAR_ENTRY_DELAYED_TOOLTIP: "§YKlikněte§! pro konfiguraci tohoto počítadla.\n§YKlikněte pravým tlačítkem§! pro jeho odstranění." # todo: NEW TRANSLATION
+ TOPBAR_LIST_MENU_TOOLTIP: "[!topbar_menu_icon_click]" # todo: NEW TRANSLATION
+ TOPBAR_LIST_MENU_TOOLTIP_DELAYED: "§YKlikněte§! pro zobrazení v horní liště.\n§YShift+kliknutí§! pro zobrazení a přidání dalšího slotu počítadla." # todo: NEW TRANSLATION
+ TOPBAR_LIST_MENU_SHIFT_TOOLTIP: "§YShift+kliknutí§! pro přidání více počítadel najednou." # todo: NEW TRANSLATION
+ TOPBAR_MENU_HEADER: "Přizpůsobitelný panel" # todo: NEW TRANSLATION
+ TOPBAR_casualties: "[?casualties]" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TOPBAR_casualties_k: "[?casualties_k|0]K" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TOPBAR_casualties_m: "[?casualties_k_k|2]M" # todo: NEW TRANSLATION # todo: MOVED KEY
+ topbar_empty: "Prázdné" # todo: NEW TRANSLATION
+ topbar_empty_text: "Prázdné" # todo: NEW TRANSLATION
+ topbar_empty_tt: "Tomuto počítadlu nejsou přiřazeny žádné informace. §YKlikněte§! pro přiřazení." # todo: NEW TRANSLATION
+ topbar_casualties: "Ztráty" # todo: NEW TRANSLATION
+ topbar_casualties_text: "[ROOT.GetCasualtiesAmount]" # todo: NEW TRANSLATION
+ topbar_casualties_tt: "Ztráty" # todo: NEW TRANSLATION
+ topbar_surrender_progress: "Kapitulace" # todo: NEW TRANSLATION
+ topbar_surrender_progress_text: "[?ROOT.surrender_progress|%1R]" # todo: NEW TRANSLATION
+ topbar_surrender_progress_tt: "Postup kapitulace" # todo: NEW TRANSLATION
+ topbar_strength_ratio: "Poměr sil" # todo: NEW TRANSLATION
+ topbar_strength_ratio_text: "[?alliance_strength_ratio|+2]" # todo: NEW TRANSLATION
+ topbar_strength_ratio_tt: "§YPoměr sil§!. Odhadovaná síla armád spojenců oproti nepřátelům (ve válce). Hodnota se zobrazí pouze tehdy, když jste ve válce." # todo: NEW TRANSLATION
+ topbar_naval_strength_ratio: "Poměr námořních sil" # todo: NEW TRANSLATION
+ topbar_naval_strength_ratio_text: "[?alliance_naval_strength_ratio|+2]" # todo: NEW TRANSLATION
+ topbar_naval_strength_ratio_tt: "§YPoměr námořních sil§!. Odhadovaná síla námořnictev spojenců oproti nepřátelům (ve válce). Hodnota se zobrazí pouze tehdy, když jste ve válce." # todo: NEW TRANSLATION
+ topbar_ships: "Lodě" # todo: NEW TRANSLATION
+ topbar_ships_text: "[?ROOT.num_ships]" # todo: NEW TRANSLATION
+ topbar_ships_tt: "Celkový počet lodí" # todo: NEW TRANSLATION
+ topbar_unemployment: "Míra nezaměstnanosti" # todo: NEW TRANSLATION
+ topbar_unemployment_text: "[?ROOT.total_unemployed_percentage_display|1%]" # todo: NEW TRANSLATION
+ topbar_unemployment_tt: "§YMíra nezaměstnanosti§!" # todo: NEW TRANSLATION
+ topbar_workforce_fulfillment: "Naplnění pracovních míst" # todo: NEW TRANSLATION
+ topbar_workforce_fulfillment_text: "[?ROOT.average_worker_fulfillment|%0]" # todo: NEW TRANSLATION
+ topbar_workforce_fulfillment_tt: "§YNaplnění pracovních míst§!. Průměrný podíl pracovních míst obsazených pracovníky ve vašich budovách. Nízké hodnoty znamenají, že budovám chybí potřební pracovníci." # todo: NEW TRANSLATION
+ topbar_protests: "Síla protestů" # todo: NEW TRANSLATION
+ topbar_protests_text: "[protest_strength_TT]" # todo: NEW TRANSLATION
+ topbar_protests_tt: "§YSíla protestů§! z mechaniky očekávaných výdajů" # todo: NEW TRANSLATION
+ topbar_consumer_goods: "Daňové náklady" # todo: NEW TRANSLATION
+ topbar_consumer_goods_text: "[?actual_consumer_goods_percent_display|%1]" # todo: NEW TRANSLATION
+ topbar_consumer_goods_tt: "§YDaňové náklady§!" # todo: NEW TRANSLATION
+ topbar_stability: "Stabilita" # todo: NEW TRANSLATION
+ topbar_stability_text: "[?stability|%0]" # todo: NEW TRANSLATION
+ topbar_stability_tt: "Stabilita" # todo: NEW TRANSLATION
+ topbar_war_support: "Podpora války" # todo: NEW TRANSLATION
+ topbar_war_support_text: "[?war_support|%0]" # todo: NEW TRANSLATION
+ topbar_war_support_tt: "Podpora války" # todo: NEW TRANSLATION
+ topbar_political_power_daily: "Denní politická moc" # todo: NEW TRANSLATION
+ topbar_political_power_daily_text: "[?political_power_daily|+=2]" # todo: NEW TRANSLATION
+ topbar_political_power_daily_tt: "Denní politická moc" # todo: NEW TRANSLATION
+ topbar_command_power_daily: "Denní velitelská moc" # todo: NEW TRANSLATION
+ topbar_command_power_daily_text: "[?command_power_daily|+=2]" # todo: NEW TRANSLATION
+ topbar_command_power_daily_tt: "Denní velitelská moc" # todo: NEW TRANSLATION
+ topbar_army_strength: "Divize" # todo: NEW TRANSLATION
+ topbar_army_strength_text: "[?ROOT.num_divisions|0]" # todo: NEW TRANSLATION
+ topbar_army_strength_tt: "Počet nasazených divizí." # todo: NEW TRANSLATION
+ topbar_air_strength: "Nasazené letouny" # todo: NEW TRANSLATION
+ topbar_air_strength_text: "[?ROOT.num_deployed_planes|0]" # todo: NEW TRANSLATION
+ topbar_air_strength_tt: "Počet nasazených letounů." # todo: NEW TRANSLATION
+ topbar_navy_strength: "Lodě" # todo: NEW TRANSLATION
+ topbar_navy_strength_text: "[?ROOT.num_ships|0]" # todo: NEW TRANSLATION
+ topbar_navy_strength_tt: "Počet lodí ovládaných naší zemí." # todo: NEW TRANSLATION
+ topbar_conscription: "Branný zákon" # todo: NEW TRANSLATION
+ topbar_conscription_text: "[?modifier@conscription_factor|Y%2]" # todo: NEW TRANSLATION
+ topbar_conscription_tt: "Branný zákon (podíl dostupné pracovní síly)" # todo: NEW TRANSLATION
+ topbar_menu_popularity: "Popularita vlády" # todo: NEW TRANSLATION
+ topbar_menu_popularity_text: "" # todo: NEW TRANSLATION
+ topbar_menu_popularity_tt: "Ukazatele popularity vlády pro panel.\n\n§YDostupná zobrazení popularity vlády§!:\n- Vládnoucí koalice\n- Demokraté\n- Vznikající\n- Salafisté\n- Neangažovaní\n- Nacionalisté" # todo: NEW TRANSLATION
+ topbar_pop_coalition: "Vládnoucí koalice" # todo: NEW TRANSLATION
+ topbar_pop_coalition_text: "[?ROOT.government_coalition_strength|2%]" # todo: NEW TRANSLATION
+ topbar_pop_coalition_tt: "Síla vládnoucí koalice" # todo: NEW TRANSLATION
+ topbar_pop_democratic: "Demokraté" # todo: NEW TRANSLATION
+ topbar_pop_democratic_text: "[?ROOT.party_popularity@democratic|2%]" # todo: NEW TRANSLATION
+ topbar_pop_democratic_tt: "Popularita demokratů" # todo: NEW TRANSLATION
+ topbar_pop_communism: "Vznikající" # todo: NEW TRANSLATION
+ topbar_pop_communism_text: "[?ROOT.party_popularity@communism|2%]" # todo: NEW TRANSLATION
+ topbar_pop_communism_tt: "Popularita vznikajících" # todo: NEW TRANSLATION
+ topbar_pop_fascism: "Salafisté" # todo: NEW TRANSLATION
+ topbar_pop_fascism_text: "[?ROOT.party_popularity@fascism|2%]" # todo: NEW TRANSLATION
+ topbar_pop_fascism_tt: "Popularita salafistů" # todo: NEW TRANSLATION
+ topbar_pop_neutrality: "Neangažovaní" # todo: NEW TRANSLATION
+ topbar_pop_neutrality_text: "[?ROOT.party_popularity@neutrality|2%]" # todo: NEW TRANSLATION
+ topbar_pop_neutrality_tt: "Popularita neangažovaných" # todo: NEW TRANSLATION
+ topbar_pop_nationalist: "Nacionalisté" # todo: NEW TRANSLATION
+ topbar_pop_nationalist_text: "[?ROOT.party_popularity@nationalist|2%]" # todo: NEW TRANSLATION
+ topbar_pop_nationalist_tt: "Popularita nacionalistů" # todo: NEW TRANSLATION
+ topbar_menu_factories: "Továrny" # todo: NEW TRANSLATION
+ topbar_menu_factories_text: "" # todo: NEW TRANSLATION
+ topbar_menu_factories_tt: "Průmyslové ukazatele pro panel.\n\n§YDostupná zobrazení průmyslu§!:\n- Civilní továrny\n- Vojenské továrny\n- Námořní doky\n- Kanceláře" # todo: NEW TRANSLATION
+ topbar_civilian_factory: "Civilní továrny" # todo: NEW TRANSLATION
+ topbar_civilian_factory_text: "[?ROOT.num_of_civilian_factories]" # todo: NEW TRANSLATION
+ topbar_civilian_factory_tt: "Celkový počet civilních továren" # todo: NEW TRANSLATION
+ topbar_military_factory: "Vojenské továrny" # todo: NEW TRANSLATION
+ topbar_military_factory_text: "[?ROOT.num_of_military_factories]" # todo: NEW TRANSLATION
+ topbar_military_factory_tt: "Celkový počet vojenských továren" # todo: NEW TRANSLATION
+ topbar_naval_factory: "Námořní doky" # todo: NEW TRANSLATION
+ topbar_naval_factory_text: "[?ROOT.num_of_naval_factories]" # todo: NEW TRANSLATION
+ topbar_naval_factory_tt: "Celkový počet námořních doků" # todo: NEW TRANSLATION
+ topbar_office: "Kanceláře" # todo: NEW TRANSLATION
+ topbar_office_text: "[?ROOT.office_park_total]" # todo: NEW TRANSLATION
+ topbar_office_tt: "Celkový počet kanceláří" # todo: NEW TRANSLATION
+ topbar_menu_influence: "Zahraniční vliv" # todo: NEW TRANSLATION
+ topbar_menu_influence_text: "" # todo: NEW TRANSLATION
+ topbar_menu_influence_tt: "Ukazatele zahraničního vlivu pro panel.\n\n§YDostupná zobrazení zahraničního vlivu§!:\n- Automatické ovlivňování aktuální/limit\n- Modifikátor zahraničního vlivu\n- Obrana proti zahraničnímu vlivu" # todo: NEW TRANSLATION
+ topbar_influence_cap: "Automatické ovlivňování akt./limit" # todo: NEW TRANSLATION
+ topbar_influence_cap_text: "[?ROOT.auto_influence_users|0]/[?ROOT.auto_influence_cap|0Y]" # todo: NEW TRANSLATION
+ topbar_influence_cap_tt: "Automatické ovlivňování aktuální/limit" # todo: NEW TRANSLATION
+ topbar_influence_modifier: "Modifikátor zahraničního vlivu" # todo: NEW TRANSLATION
+ topbar_influence_modifier_text: "[?ROOT.modifier@foreign_influence_modifier|%+1]" # todo: NEW TRANSLATION
+ topbar_influence_modifier_tt: "Modifikátor zahraničního vlivu" # todo: NEW TRANSLATION
+ topbar_influence_defense: "Obrana proti zahraničnímu vlivu" # todo: NEW TRANSLATION
+ topbar_influence_defense_text: "[?ROOT.modifier@foreign_influence_defense_modifier|%+1]" # todo: NEW TRANSLATION
+ topbar_influence_defense_tt: "Modifikátor obrany proti zahraničnímu vlivu" # todo: NEW TRANSLATION
+ topbar_menu_eu: "Evropská unie" # todo: NEW TRANSLATION
+ topbar_menu_eu_text: "" # todo: NEW TRANSLATION
+ topbar_menu_eu_tt: "Ukazatele Evropské unie pro panel.\n\n§YDostupná zobrazení Evropské unie§!:\n- Evropská orientace země\n- Evropská orientace EU\n- Odpočet hlasování parlamentu\n- Odpočet hlasování rady" # todo: NEW TRANSLATION
+ topbar_eu_country_europeanism: "Evropská orientace země" # todo: NEW TRANSLATION
+ topbar_eu_country_europeanism_text: "[?ROOT.europeanism|%G1]" # todo: NEW TRANSLATION
+ topbar_eu_country_europeanism_tt: "[ROOT.GetNameWithFlag] – evropská orientace" # todo: NEW TRANSLATION
+ topbar_eu_global_europeanism: "Evropská orientace EU" # todo: NEW TRANSLATION
+ topbar_eu_global_europeanism_text: "[?global.var_europeanism|%G1]" # todo: NEW TRANSLATION
+ topbar_eu_global_europeanism_tt: "Evropská orientace Evropské unie" # todo: NEW TRANSLATION
+ topbar_eu_parliament_cooldown: "Odpočet hlasování parlamentu" # todo: NEW TRANSLATION
+ topbar_eu_parliament_cooldown_text: "[?delay_next_parliament_vote:days_left|0Y]" # todo: NEW TRANSLATION
+ topbar_eu_parliament_cooldown_tt: "Odpočet hlasování Evropského parlamentu" # todo: NEW TRANSLATION
+ topbar_eu_council_cooldown: "Odpočet hlasování rady" # todo: NEW TRANSLATION
+ topbar_eu_council_cooldown_text: "[?delay_player_next_council_vote:days_left|0Y]" # todo: NEW TRANSLATION
+ topbar_eu_council_cooldown_tt: "Odpočet hlasování Evropské rady" # todo: NEW TRANSLATION
+ topbar_investment_foreign: "Projekty zahraničních investic" # todo: NEW TRANSLATION
+ topbar_investment_foreign_text: "[?active_projects|0Y]/15" # todo: NEW TRANSLATION
+ topbar_investment_foreign_tt: "Aktivní projekty zahraničních investic" # todo: NEW TRANSLATION
+ topbar_menu_energy: "Energie" # todo: NEW TRANSLATION
+ topbar_menu_energy_text: "" # todo: NEW TRANSLATION
+ topbar_menu_energy_tt: "Energetické ukazatele pro panel.\n\n§YDostupná zobrazení energie§!:\n- Energetická bilance\n- Procentuální energetická bilance\n- Uložená energie" # todo: NEW TRANSLATION
+ topbar_energy_balance: "Energetická bilance" # todo: NEW TRANSLATION
+ topbar_energy_balance_text: "[?energy_balance|2+]" # todo: NEW TRANSLATION
+ topbar_energy_balance_tt: "Energetická bilance (čistá výroba/spotřeba energie)" # todo: NEW TRANSLATION
+ topbar_energy_percentage: "Energetická bilance %" # todo: NEW TRANSLATION
+ topbar_energy_percentage_text: "[energy_total_net_energy_balance]" # todo: NEW TRANSLATION
+ topbar_energy_percentage_tt: "Energetická bilance (čistá výroba/spotřeba energie v procentech)" # todo: NEW TRANSLATION
+ topbar_energy_stored: "Uložená energie" # todo: NEW TRANSLATION
+ topbar_energy_stored_text: "[?stored_energy|3Y]" # todo: NEW TRANSLATION
+ topbar_energy_stored_tt: "Celkové množství uložené energie v §Ybateriových parcích§!." # todo: NEW TRANSLATION
+ topbar_menu_economy: "Ekonomika" # todo: NEW TRANSLATION
+ topbar_menu_economy_text: "" # todo: NEW TRANSLATION
+ topbar_menu_economy_tt: "Ekonomické ukazatele pro panel.\n\n§YDostupná ekonomická zobrazení§!:\n- Celková národní produktivita\n- Měsíční změna produktivity\n- Týdenní bilance\n- Úroková sazba\n- Míra inflace" # todo: NEW TRANSLATION
+ topbar_economy_total_productivity: "Celková národní produktivita" # todo: NEW TRANSLATION
+ topbar_economy_total_productivity_text: "[?ROOT.overall_productivity|Y3]" # todo: NEW TRANSLATION
+ topbar_economy_total_productivity_tt: "Celková národní produktivita" # todo: NEW TRANSLATION
+ topbar_economy_monthly_productivity_change: "Měsíční změna produktivity" # todo: NEW TRANSLATION
+ topbar_economy_monthly_productivity_change_text: "[?ROOT.productivity_growth_scaled|+3]" # todo: NEW TRANSLATION
+ topbar_economy_monthly_productivity_change_tt: "Měsíční změna produktivity" # todo: NEW TRANSLATION
+ topbar_economy_treasury: "Týdenní bilance" # todo: NEW TRANSLATION
+ topbar_economy_treasury_text: "[?treasury_rate|3+]" # todo: NEW TRANSLATION
+ topbar_economy_treasury_tt: "Týdenní bilance (týdenní příjem/ztráta peněz)" # todo: NEW TRANSLATION
+ topbar_economy_interest: "Úroková sazba" # todo: NEW TRANSLATION
+ topbar_economy_interest_text: "[?interest_rate|2]%" # todo: NEW TRANSLATION
+ topbar_economy_interest_tt: "Úroková sazba (procentní částka placená z dluhu)" # todo: NEW TRANSLATION
+ topbar_economy_inflation: "Míra inflace" # todo: NEW TRANSLATION
+ topbar_economy_inflation_text: "[?inflation_rate_var|2%]" # todo: NEW TRANSLATION
+ topbar_economy_inflation_tt: "Míra inflace (míra inflace způsobená vládními výdaji)" # todo: NEW TRANSLATION
+ topbar_menu_resource_total: "Bilance surovin" # todo: NEW TRANSLATION
+ topbar_menu_resource_total_text: "" # todo: NEW TRANSLATION
+ topbar_menu_resource_total_tt: "Čisté bilance surovin pro panel.\n\n§YDostupná zobrazení bilance surovin§!:\n- Bilance fosilních paliv\n- Bilance lehkých kovů\n- Bilance kaučuku\n- Bilance technologických kovů\n- Bilance oceli\n- Bilance drahých kovů\n- Bilance mikročipů\n- Bilance pokročilých kompozitů" # todo: NEW TRANSLATION
+ topbar_menu_resource_produced: "Vyrobené suroviny" # todo: NEW TRANSLATION
+ topbar_menu_resource_produced_text: "" # todo: NEW TRANSLATION
+ topbar_menu_resource_produced_tt: "Ukazatele výroby surovin pro panel.\n\n§YDostupná zobrazení výroby surovin§!:\n- Vyrobená fosilní paliva\n- Vyrobené lehké kovy\n- Vyrobený kaučuk\n- Vyrobené technologické kovy\n- Vyrobená ocel\n- Vyrobené drahé kovy\n- Vyrobené mikročipy\n- Vyrobené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_menu_resource_imported: "Dovezené suroviny" # todo: NEW TRANSLATION
+ topbar_menu_resource_imported_text: "" # todo: NEW TRANSLATION
+ topbar_menu_resource_imported_tt: "Ukazatele dovozu surovin pro panel.\n\n§YDostupná zobrazení dovozu surovin§!:\n- Dovezená fosilní paliva\n- Dovezené lehké kovy\n- Dovezený kaučuk\n- Dovezené technologické kovy\n- Dovezená ocel\n- Dovezené drahé kovy\n- Dovážené mikročipy\n- Dovezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_menu_resource_exported: "Vyvezené suroviny" # todo: NEW TRANSLATION
+ topbar_menu_resource_exported_text: "" # todo: NEW TRANSLATION
+ topbar_menu_resource_exported_tt: "Ukazatele vývozu surovin pro panel.\n\n§YDostupná zobrazení vývozu surovin§!:\n- Vyvezená fosilní paliva\n- Vyvezené lehké kovy\n- Vyvezený kaučuk\n- Vyvezené technologické kovy\n- Vyvezená ocel\n- Vyvezené drahé kovy\n- Vyvezené mikročipy\n- Vyvezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_menu_resource_consumed: "Spotřebované suroviny" # todo: NEW TRANSLATION
+ topbar_menu_resource_consumed_text: "" # todo: NEW TRANSLATION
+ topbar_menu_resource_consumed_tt: "Ukazatele spotřeby surovin pro panel.\n\n§YDostupná zobrazení spotřeby surovin§!:\n- Spotřebovaná fosilní paliva\n- Spotřebované lehké kovy\n- Spotřebovaný kaučuk\n- Spotřebované technologické kovy\n- Spotřebovaná ocel\n- Spotřebované drahé kovy\n- Spotřebované mikročipy\n- Spotřebované pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_oil_total: "Bilance fosilních paliv" # todo: NEW TRANSLATION
+ topbar_oil_total_text: "[?resource@oil|+0]" # todo: NEW TRANSLATION
+ topbar_oil_total_tt: "Čistá fosilní paliva" # todo: NEW TRANSLATION
+ topbar_aluminium_total: "Bilance lehkých kovů" # todo: NEW TRANSLATION
+ topbar_aluminium_total_text: "[?resource@aluminium|+0]" # todo: NEW TRANSLATION
+ topbar_aluminium_total_tt: "Čisté lehké kovy" # todo: NEW TRANSLATION
+ topbar_rubber_total: "Bilance kaučuku" # todo: NEW TRANSLATION
+ topbar_rubber_total_text: "[?resource@rubber|+0]" # todo: NEW TRANSLATION
+ topbar_rubber_total_tt: "Čistý kaučuk" # todo: NEW TRANSLATION
+ topbar_tungsten_total: "Bilance technologických kovů" # todo: NEW TRANSLATION
+ topbar_tungsten_total_text: "[?resource@tungsten|+0]" # todo: NEW TRANSLATION
+ topbar_tungsten_total_tt: "Čisté technologické kovy" # todo: NEW TRANSLATION
+ topbar_steel_total: "Bilance oceli" # todo: NEW TRANSLATION
+ topbar_steel_total_text: "[?resource@steel|+0]" # todo: NEW TRANSLATION
+ topbar_steel_total_tt: "Čistá ocel" # todo: NEW TRANSLATION
+ topbar_chromium_total: "Bilance drahých kovů" # todo: NEW TRANSLATION
+ topbar_chromium_total_text: "[?resource@chromium|+0]" # todo: NEW TRANSLATION
+ topbar_chromium_total_tt: "Čisté drahé kovy" # todo: NEW TRANSLATION
+ topbar_microchips_total: "Bilance mikročipů" # todo: NEW TRANSLATION
+ topbar_microchips_total_text: "[?resource@microchips|+0]" # todo: NEW TRANSLATION
+ topbar_microchips_total_tt: "Čisté mikročipy" # todo: NEW TRANSLATION
+ topbar_composites_total: "Bilance pokročilých kompozitů" # todo: NEW TRANSLATION
+ topbar_composites_total_text: "[?resource@composites|+0]" # todo: NEW TRANSLATION
+ topbar_composites_total_tt: "Čisté pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_oil_produced: "Vyrobená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_oil_produced_text: "[?resource_produced@oil|Y=0]" # todo: NEW TRANSLATION
+ topbar_oil_produced_tt: "Vyrobená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_aluminium_produced: "Vyrobené lehké kovy" # todo: NEW TRANSLATION
+ topbar_aluminium_produced_text: "[?resource_produced@aluminium|Y=0]" # todo: NEW TRANSLATION
+ topbar_aluminium_produced_tt: "Vyrobené lehké kovy" # todo: NEW TRANSLATION
+ topbar_rubber_produced: "Vyrobený kaučuk" # todo: NEW TRANSLATION
+ topbar_rubber_produced_text: "[?resource_produced@rubber|Y=0]" # todo: NEW TRANSLATION
+ topbar_rubber_produced_tt: "Vyrobený kaučuk" # todo: NEW TRANSLATION
+ topbar_tungsten_produced: "Vyrobené technologické kovy" # todo: NEW TRANSLATION
+ topbar_tungsten_produced_text: "[?resource_produced@tungsten|Y=0]" # todo: NEW TRANSLATION
+ topbar_tungsten_produced_tt: "Vyrobené technologické kovy" # todo: NEW TRANSLATION
+ topbar_steel_produced: "Vyrobená ocel" # todo: NEW TRANSLATION
+ topbar_steel_produced_text: "[?resource_produced@steel|Y=0]" # todo: NEW TRANSLATION
+ topbar_steel_produced_tt: "Vyrobená ocel" # todo: NEW TRANSLATION
+ topbar_chromium_produced: "Vyrobené drahé kovy" # todo: NEW TRANSLATION
+ topbar_chromium_produced_text: "[?resource_produced@chromium|Y=0]" # todo: NEW TRANSLATION
+ topbar_chromium_produced_tt: "Vyrobené drahé kovy" # todo: NEW TRANSLATION
+ topbar_microchips_produced: "Vyrobené mikročipy" # todo: NEW TRANSLATION
+ topbar_microchips_produced_text: "[?resource_produced@microchips|Y=0]" # todo: NEW TRANSLATION
+ topbar_microchips_produced_tt: "Vyrobené mikročipy" # todo: NEW TRANSLATION
+ topbar_composites_produced: "Vyrobené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_composites_produced_text: "[?resource_produced@composites|Y=0]" # todo: NEW TRANSLATION
+ topbar_composites_produced_tt: "Vyrobené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_oil_imported: "Dovezená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_oil_imported_text: "[?resource_imported@oil|+0]" # todo: NEW TRANSLATION
+ topbar_oil_imported_tt: "Dovezená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_aluminium_imported: "Dovezené lehké kovy" # todo: NEW TRANSLATION
+ topbar_aluminium_imported_text: "[?resource_imported@aluminium|+0]" # todo: NEW TRANSLATION
+ topbar_aluminium_imported_tt: "Dovezené lehké kovy" # todo: NEW TRANSLATION
+ topbar_rubber_imported: "Dovezený kaučuk" # todo: NEW TRANSLATION
+ topbar_rubber_imported_text: "[?resource_imported@rubber|+0]" # todo: NEW TRANSLATION
+ topbar_rubber_imported_tt: "Dovezený kaučuk" # todo: NEW TRANSLATION
+ topbar_tungsten_imported: "Dovezené technologické kovy" # todo: NEW TRANSLATION
+ topbar_tungsten_imported_text: "[?resource_imported@tungsten|+0]" # todo: NEW TRANSLATION
+ topbar_tungsten_imported_tt: "Dovezené technologické kovy" # todo: NEW TRANSLATION
+ topbar_steel_imported: "Dovezená ocel" # todo: NEW TRANSLATION
+ topbar_steel_imported_text: "[?resource_imported@steel|+0]" # todo: NEW TRANSLATION
+ topbar_steel_imported_tt: "Dovezená ocel" # todo: NEW TRANSLATION
+ topbar_chromium_imported: "Dovezené drahé kovy" # todo: NEW TRANSLATION
+ topbar_chromium_imported_text: "[?resource_imported@chromium|+0]" # todo: NEW TRANSLATION
+ topbar_chromium_imported_tt: "Dovezené drahé kovy" # todo: NEW TRANSLATION
+ topbar_microchips_imported: "Dovezené mikročipy" # todo: NEW TRANSLATION
+ topbar_microchips_imported_text: "[?resource_imported@microchips|+0]" # todo: NEW TRANSLATION
+ topbar_microchips_imported_tt: "Dovezené mikročipy" # todo: NEW TRANSLATION
+ topbar_composites_imported: "Dovezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_composites_imported_text: "[?resource_imported@composites|+0]" # todo: NEW TRANSLATION
+ topbar_composites_imported_tt: "Dovezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_oil_exported: "Vyvezená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_oil_exported_text: "[?resource_exported@oil|R0]" # todo: NEW TRANSLATION
+ topbar_oil_exported_tt: "Vyvezená fosilní paliva" # todo: NEW TRANSLATION
+ topbar_aluminium_exported: "Vyvezené lehké kovy" # todo: NEW TRANSLATION
+ topbar_aluminium_exported_text: "[?resource_exported@aluminium|R0]" # todo: NEW TRANSLATION
+ topbar_aluminium_exported_tt: "Vyvezené lehké kovy" # todo: NEW TRANSLATION
+ topbar_rubber_exported: "Vyvezený kaučuk" # todo: NEW TRANSLATION
+ topbar_rubber_exported_text: "[?resource_exported@rubber|R0]" # todo: NEW TRANSLATION
+ topbar_rubber_exported_tt: "Vyvezený kaučuk" # todo: NEW TRANSLATION
+ topbar_tungsten_exported: "Vyvezené technologické kovy" # todo: NEW TRANSLATION
+ topbar_tungsten_exported_text: "[?resource_exported@tungsten|R0]" # todo: NEW TRANSLATION
+ topbar_tungsten_exported_tt: "Vyvezené technologické kovy" # todo: NEW TRANSLATION
+ topbar_steel_exported: "Vyvezená ocel" # todo: NEW TRANSLATION
+ topbar_steel_exported_text: "[?resource_exported@steel|R0]" # todo: NEW TRANSLATION
+ topbar_steel_exported_tt: "Vyvezená ocel" # todo: NEW TRANSLATION
+ topbar_chromium_exported: "Vyvezené drahé kovy" # todo: NEW TRANSLATION
+ topbar_chromium_exported_text: "[?resource_exported@chromium|R0]" # todo: NEW TRANSLATION
+ topbar_chromium_exported_tt: "Vyvezené drahé kovy" # todo: NEW TRANSLATION
+ topbar_microchips_exported: "Vyvezené mikročipy" # todo: NEW TRANSLATION
+ topbar_microchips_exported_text: "[?resource_exported@microchips|R0]" # todo: NEW TRANSLATION
+ topbar_microchips_exported_tt: "Vyvezené mikročipy" # todo: NEW TRANSLATION
+ topbar_composites_exported: "Vyvezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_composites_exported_text: "[?resource_exported@composites|R0]" # todo: NEW TRANSLATION
+ topbar_composites_exported_tt: "Vyvezené pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_oil_consumed: "Spotřebovaná fosilní paliva" # todo: NEW TRANSLATION
+ topbar_oil_consumed_text: "[?resource_consumed@oil|R0]" # todo: NEW TRANSLATION
+ topbar_oil_consumed_tt: "Spotřebovaná fosilní paliva" # todo: NEW TRANSLATION
+ topbar_aluminium_consumed: "Spotřebované lehké kovy" # todo: NEW TRANSLATION
+ topbar_aluminium_consumed_text: "[?resource_consumed@aluminium|R0]" # todo: NEW TRANSLATION
+ topbar_aluminium_consumed_tt: "Spotřebované lehké kovy" # todo: NEW TRANSLATION
+ topbar_rubber_consumed: "Spotřebovaný kaučuk" # todo: NEW TRANSLATION
+ topbar_rubber_consumed_text: "[?resource_consumed@rubber|R0]" # todo: NEW TRANSLATION
+ topbar_rubber_consumed_tt: "Spotřebovaný kaučuk" # todo: NEW TRANSLATION
+ topbar_tungsten_consumed: "Spotřebované technologické kovy" # todo: NEW TRANSLATION
+ topbar_tungsten_consumed_text: "[?resource_consumed@tungsten|R0]" # todo: NEW TRANSLATION
+ topbar_tungsten_consumed_tt: "Spotřebované technologické kovy" # todo: NEW TRANSLATION
+ topbar_steel_consumed: "Spotřebovaná ocel" # todo: NEW TRANSLATION
+ topbar_steel_consumed_text: "[?resource_consumed@steel|R0]" # todo: NEW TRANSLATION
+ topbar_steel_consumed_tt: "Spotřebovaná ocel" # todo: NEW TRANSLATION
+ topbar_chromium_consumed: "Spotřebované drahé kovy" # todo: NEW TRANSLATION
+ topbar_chromium_consumed_text: "[?resource_consumed@chromium|R0]" # todo: NEW TRANSLATION
+ topbar_chromium_consumed_tt: "Spotřebované drahé kovy" # todo: NEW TRANSLATION
+ topbar_microchips_consumed: "Spotřebované mikročipy" # todo: NEW TRANSLATION
+ topbar_microchips_consumed_text: "[?resource_consumed@microchips|R0]" # todo: NEW TRANSLATION
+ topbar_microchips_consumed_tt: "Spotřebované mikročipy" # todo: NEW TRANSLATION
+ topbar_composites_consumed: "Spotřebované pokročilé kompozity" # todo: NEW TRANSLATION
+ topbar_composites_consumed_text: "[?resource_consumed@composites|R0]" # todo: NEW TRANSLATION
+ topbar_composites_consumed_tt: "Spotřebované pokročilé kompozity" # todo: NEW TRANSLATION

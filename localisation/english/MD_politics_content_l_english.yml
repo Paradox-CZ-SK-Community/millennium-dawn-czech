@@ -1,222 +1,215 @@
 ﻿l_english:
-  MD4_election_campaign.0.t: "Kampaň před volbami se rozjíždí, závod vstupuje do posledních dvou týdnů" # todo: NEW TRANSLATION
-  MD4_election_campaign.0.d: "Od posledních voleb na [Root.GetLastElection], [Root.GetLeader] stabilně směřuje [Root.GetName]. S blížícím se finálním hlasováním, které má být odevzdáno za dva týdny, bude toto směřování zpochybněno silnými rivaly.\n\nVětšina výdajů na kampaň byla již vynaložena a průzkumy veřejného mínění začínají ukazovat účinky." # todo: NEW TRANSLATION
-  MD4_election_campaign.0.a: "Jdeme na to!" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.t: "Debata o zahraniční politice: [Root.GetLeader] čelí těžkým rozhodnutím ohledně toho, koho napadnout" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.d: "Jak se finální hlasování stále blíží, musíme rozhodnout, s kým budeme porovnávat naši zahraniční politiku. Jak se svět stává čím dál turbulentnějším, tato otázka je pro voliče zvláště důležitá.\n\nNěkteré ostře vyzněné negativní reklamy jistě způsobí pokles popularity našeho protivníka, ale existuje malá šance, že je mohou úspěšně kontrovat, pokud by na nás měli vážnou špínu (skandály) nebo pokud by naše útoky byly založeny na opravdu špatném výzkumu.\n\nEfektivita útoku je určena výší kampaně, kterou jsme obdrželi." # todo: NEW TRANSLATION
-  MD4_election_campaign.1.a: "Útoč na [Root.GetFascistParty] blázny" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.b: "Útoč na nacionalistické idioty" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.c: "Útoč na [Root.GetNeutralParty] hlupáky" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.e: "Útoč na [Root.GetCommunistParty] imbecily" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.f: "Útoč na [Root.GetDemocraticParty] debily" # todo: NEW TRANSLATION
-  MD4_election_campaign.1.g: "Zdržet se útoků na kohokoliv" # todo: NEW TRANSLATION
-  MD_election_campaign_no_tt: "Žádný efekt" # todo: NEW TRANSLATION
-  MD4_election_campaign.3.t: "[Root.GetFascistParty] se zotavuje – posílen ze útoků" # todo: NEW TRANSLATION
-  MD4_election_campaign.3.d: "Navzdory našim zuřivým útokům proti nim si kontroverzní [Root.GetFascistParty] udrželi všechny své jádro voličů. Využili zvýšené pozornosti z našich negativních reklam ve svůj prospěch a získali nebývalý přístup ke všem hlavním zpravodajským médiím, aby prosazovali svou ideologii." # todo: NEW TRANSLATION
-  MD4_election_campaign.3.a: "Sakra" # todo: NEW TRANSLATION
-  MD4_election_campaign.4.t: "Negativní útoky proti nacionalistům se vrátily jako bumerang" # todo: NEW TRANSLATION
-  MD4_election_campaign.4.d: "Navzdory našim zuřivým útokům proti nim si kontroverzní nacionalisté udrželi většinu svých klíčových voličů. Získali velké body po celé zemi, tvrdí, že systém je zlomený a zkorumpovaný, že hlavní média manipulují společností a že politiky [Root.GetLeader] jsou na prodej tomu, kdo dá nejvíce prostředků prostřednictvím kampaně." # todo: NEW TRANSLATION
-  MD4_election_campaign.4.a: "Sakra" # todo: NEW TRANSLATION
-  MD4_election_campaign.5.t: "Negativní útoky proti [Root.GetNeutralParty] nemají dopad" # todo: NEW TRANSLATION
-  MD4_election_campaign.5.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění obrátila proti naší negativní reklamní kampani zaměřené na [Root.GetNeutralParty]. Pravděpodobně existuje několik příčin, ale jedním faktorem může být vnímání útoku politika s postavením [Root.GetLeader] jako „punching down“ a že zvýšené mediální pokrytí našeho oponenta jim umožnilo oslovit více voličů." # todo: NEW TRANSLATION
-  MD4_election_campaign.5.a: "Sakra" # todo: NEW TRANSLATION
-  MD4_election_campaign.6.t: "Negativní útoky proti [Root.GetCommunistParty] padají na hluché uši" # todo: NEW TRANSLATION
-  MD4_election_campaign.6.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění změnila proti naší negativní reklamní kampani zaměřené na [Root.GetCommunistParty]. Pravděpodobně existuje několik příčin, ale jedním z faktorů může být vnímání útoku politika s postavením [Root.GetLeader] jako „punching down“ a že zvýšené mediální pokrytí našeho oponenta jim umožnilo oslovit více voličů." # todo: NEW TRANSLATION
-  MD4_election_campaign.6.a: "Sakra" # todo: NEW TRANSLATION
-  MD4_election_campaign.7.t: "Negativní útoky proti [Root.GetDemocraticParty] se vrací proti nám" # todo: NEW TRANSLATION
-  MD4_election_campaign.7.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění obrátila proti naší negativní reklamní kampani zaměřené na [Root.GetDemocraticParty]. Zatímco jsme veřejně obviňovali zahraniční zásahy, v soukromí je skutečným podezřením to, že naše útoky byly tak nadsazené, že v něčem je jen málokdo skutečně uvěřil." # todo: NEW TRANSLATION
-  MD4_election_campaign.7.a: "Sakra" # todo: NEW TRANSLATION
-  MD4_election_campaign.8.t: "Pozvat na kampaň kontroverzního řečníka?" # todo: NEW TRANSLATION
-  MD4_election_campaign.8.d: "Obvykle by se to ani navrhovalo nahlas – natož seriózně zvažovalo. Ale kvůli nízké popularitě [Root.GetLeader] by to mohlo být riziko, které stojí za to podstoupit; řečník je krajní člen naší strany, známý pro řadu kontroverzních výroků v minulosti a za nevhodných časů. Nicméně je velmi populární mezi studenty a mladými lidmi – klíčovou skupinou, kterou musíme přesvědčit, aby volili náš směr." # todo: NEW TRANSLATION
-  MD4_election_campaign.8.a: "Pozvat je a doufat v to nejlepší" # todo: NEW TRANSLATION
-  MD4_election_campaign.8.b: "Neriskujte to" # todo: NEW TRANSLATION
-  MD4_election_campaign.9.t: "Obrovská účast na mítinku oživuje nadšení pro [Root.GetLeader]" # todo: NEW TRANSLATION
-  MD4_election_campaign.9.d: "Mítink byl obrovským úspěchem a přilákal největší účast za celou kampaň. Nejenže kontroverzní řečník vychválil [Root.GetLeader] a vyzval k jednotě strany; udělal to tak nadšeně a přesvědčivě, že nikdo netušil, že to celé napsal tým [Root.GetLeader]." # todo: NEW TRANSLATION
-  MD4_election_campaign.9.a: "Nutný impuls pro kampaň" # todo: NEW TRANSLATION
-  MD4_election_campaign.10.t: "Katastrofa pro kampaň [Root.GetLeader]" # todo: NEW TRANSLATION
-  MD4_election_campaign.10.d: "S největší účastí za kampaň, pódium bylo připraveno pro [Root.GetLeader], aby zazářil. Bohužel, spolukreátor, který byl pozván k rozdmýchání nadšení, roztrhl proslov, který jsme připravili, a raději se rozjel do dlouhé tirády o „selháních všech vlád, včetně této“ a vyzval mladé, aby „volili srdcem, nebo zůstat doma“ \n\nNutno říci, že tento zvukový záznam byl následně vytrubán médii – naši oponenti na něj pěli chválu." # todo: NEW TRANSLATION
-  MD4_election_campaign.10.a: "To fiasko!" # todo: NEW TRANSLATION
-  election_coalition_won.0.t: "[Root.GetAdjective] volby: Vláda koalice získala většinu!" # todo: NEW TRANSLATION
-  election_coalition_won.0.d: "Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí spolu." # todo: NEW TRANSLATION
-  election_coalition_won.0.a: "Pokračovat se současnou vládou" # todo: NEW TRANSLATION
-  election_coalition_won.0.b: "Proveďte změny při utváření nové vlády" # todo: NEW TRANSLATION
-  election_single_party.0.t: "[Root.GetAdjective] volby: [Root.GetRulingParty] vyhrála většinu!" # todo: NEW TRANSLATION
-  election_single_party.0.d: "[Root.GetRulingParty] sama získala většinu poslaneckých křesel. Jaké vítězství!" # todo: NEW TRANSLATION
-  election_single_party.0.a: "To je skvělý den pro demokracii!" # todo: NEW TRANSLATION
-  election_single_party.1.t: "[Root.GetAdjective] volby: [Root.GetLeader] poražen!" # todo: NEW TRANSLATION
-  election_single_party.1.d: "S tím, že [show_biggest_party_elect] sama získala většinu poslaneckých křesel, politická budoucnost [Root.GetLeader] je v podstatě u konce, členové [Root.GetRulingParty] vyzývají k rezignaci.\n\n[show_biggest_party_elect] okamžitě převezme jako nová vláda [Root.GetName]." # todo: NEW TRANSLATION
-  election_single_party.1.a: "Přiznat porážku a pogratulovat vítězi." # todo: NEW TRANSLATION
-  MD4_election.0.t: "skryto" # todo: NEW TRANSLATION
-  MD4_election.0.d: "" # todo: NEW TRANSLATION
-  MD4_election.0.a: "skryto" # todo: NEW TRANSLATION
-  MD4_election.1.t: "[Root.GetRulingParty] znovuzvolena!" # todo: NEW TRANSLATION
-  MD4_election.1.d: "Sčítáním všech hlasů se rozhodli voliči [Root.GetAdjective] dát [Root.GetLeader] další mandát. S vysokým hodnocením popularity [Root.GetLeader] vyhrál bez nutnosti dojednávat s ostatními stranami, aby získal jejich podporu." # todo: NEW TRANSLATION
-  MD4_election.1.d_term_ended: "Po sečtení všech hlasů se voliči [Root.GetAdjective] rozhodli dát straně [Root.GetLeader] další mandát. Jak [Root.GetLeader] dosáhl konce svého posledního mandátu, uvolní se místo pro nového vůdce." # todo: NEW TRANSLATION
-  MD4_election.1.a: "Je pravda, co říkají - [Root.GetLeader] je opravdu nejlepší!" # todo: NEW TRANSLATION
-  MD4_election.2.t: "Koalice [Root.GetLeader] znovuzvolena!" # todo: NEW TRANSLATION
-  MD4_election.2.d: "Sčítáním všech hlasů se voliči [Root.GetAdjective] rozhodli dát [Root.GetLeader] a [Root.GetRulingParty] další mandát. Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí společně. [Root.GetLeader] nadále těží z podpory jako vůdce [Root.GetNameWithFlag]." # todo: NEW TRANSLATION
-  MD4_election.2.d_term_ended: "Sčítáním všech hlasů se voliči [Root.GetAdjective] rozhodli dát [Root.GetRulingParty] další mandát. Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí společně. Jelikož [Root.GetLeader] dosáhl konce svého posledního mandátu, nastoupí nový vůdce, který bude řídit [Root.GetNameWithFlag]." # todo: NEW TRANSLATION
-  MD4_election.2.a: "Je pravda, co říkají - [Root.GetLeader] je opravdu nejlepší!" # todo: NEW TRANSLATION
-  MD4_election.2.b: "Proveďte změny při utváření nové vlády" # todo: NEW TRANSLATION
-  MD4_election.3.t: "Volební porážka pro [Root.GetLeader]!" # todo: NEW TRANSLATION
-  MD4_election.3.d: "Po sečtení všech hlasů se [Root.GetLeader] zdá neschopný získat podporu [Root.GetAdjective] voličů pro další mandát. Místo toho to bylo [show_biggest_party_elect], kdo zazářil. S ([show_biggest_elect_percentage]) získali samostatně dostatečnou podporu k vládnutí sám o sobě.\n\nOvládnutí [Root.GetName] převede [show_biggest_party_elect]." # todo: NEW TRANSLATION
-  MD4_election.3.a: "Přiznat porážku a pogratulovat vítězi" # todo: NEW TRANSLATION
-  MD4_election.4.t: "Volby: Nejasný výsledek pro [Root.GetLeader]!" # todo: NEW TRANSLATION
-  MD4_election.4.d: "Sčítáním všech hlasů [Root.GetLeader] aktuálně nemá většinu v novém parlamentu pro sestavení nové vlády. Je nutné přesvědčit další strany, aby se k nim přidaly, a pokud to bude nemožné, má být kontrola svěřena jedné z ostatních stran, aby se pokusila vytvořit vládu." # todo: NEW TRANSLATION
-  MD4_election.4.a: "Jednání začínají..." # todo: NEW TRANSLATION
-  MD4_election.5.t: "Volby: Ostudná porážka pro [Root.GetLeader]!" # todo: NEW TRANSLATION
-  MD4_election.5.d: "Po sečtení všech hlasů [Root.GetLeader] nedokázal dosáhnout ani minimálního prahu [Root.GetRulingParty] pro vstup do parlamentu. Je zřejmé, že někdo jiný bude muset složit vládu a vést [Root.GetName] vpřed, ale kdo?" # todo: NEW TRANSLATION
-  MD4_election.5.a: "[show_biggest_party_elect] ([show_biggest_elect_percentage]) se bude snažit" # todo: NEW TRANSLATION
-  MD4_election.5.b: "[show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) se bude snažit" # todo: NEW TRANSLATION
-  News_MD4_election.0.t: "[From.GetAdjective] volby: [From.GetRulingParty] znovuzvolená!" # todo: NEW TRANSLATION
-  News_MD4_election.0.d: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) sám porazil všechny vyzyvatele a bude pokračovat v dalším volebním období jako [From.GetAdjective] vůdce." # todo: NEW TRANSLATION
-  News_MD4_election.0.d_first_term: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) sám porazil všechny vyzyvatele a převezme po svém předchódkovi pro své první volební období jako [From.GetAdjective] vůdce." # todo: NEW TRANSLATION
-  News_MD4_election.0.a: "OK" # todo: NEW TRANSLATION
-  News_MD4_election.1.t: "[From.GetAdjective] volby: [From.GetLeader] formuje novou vládu!" # todo: NEW TRANSLATION
-  News_MD4_election.1.d: "\n\n[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) zvítězil ve volbách a spolu s podporou dalších stran ve vládě je nyní pověřen vedením [From.GetName] vpřed." # todo: NEW TRANSLATION
-  News_MD4_election.1.a: "OK" # todo: NEW TRANSLATION
-  News_MD4_election.2.t: "[From.GetAdjective] volby: [From.GetLeader] vyhrává překvapivě velice!" # todo: NEW TRANSLATION
-  News_MD4_election.2.d: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) dosáhl zdánlivě nemožného - sám porazit sedící vládu. Vytvořením většinové vlády sám vyšel vítězně ve volbách a je nyní pověřen vést [From.GetName] vpřed." # todo: NEW TRANSLATION
-  News_MD4_election.2.a: "OK" # todo: NEW TRANSLATION
-  News_MD4_election.3.t: "Kontroverzní [From.GetAdjective] volby: [From.GetLeader] znovuzvolen!" # todo: NEW TRANSLATION
-  News_MD4_election.3.d: "Soudruhu [Root.GetLeader] ([From.GetRulingIdeology]) vyhrál volby po přepočtu — opozice nebyla povolena ověřovat výsledky nezávisle a tvrdit, že volby byly zmanipulovány a nespravedlivě nakloněny ve prospěch [From.GetLeader]. První a původní sčítání — nyní zrušené — ukázalo, že opozice byla v čele těsným náskokem." # todo: NEW TRANSLATION
-  News_MD4_election.3.a: "OK" # todo: NEW TRANSLATION
-  coalition_complete.0.t: "Vláda utvořena!" # todo: NEW TRANSLATION
-  coalition_complete.0.d: "Od voleb konaných dne [Root.GetLastElection] se [Root.GetLeader] z [Root.GetRulingParty] dovedně vyjednává o nové většinové vládě. Dnes, [GetDateText], po období intenzivních mediálních spekulací, byla její sestava konečně oznámena na tiskové konferenci. To představuje významný milník pro [Root.GetName], když nastává nová politická éra." # todo: NEW TRANSLATION
-  coalition_complete.0.a: "Skvělé zprávy" # todo: NEW TRANSLATION
-  coalition_pass.0.t: "[Root.GetRulingParty] Vzdát se formování vlády?" # todo: NEW TRANSLATION
-  coalition_pass.0.d: "Poradci [Root.GetLeader] pobíhají sem a tam jako bezhlavé slepice – zoufale se snaží najít řešení krize způsobené neschopností [Root.GetRulingParty] formovat vládu, vědomi si, že většina z nich přijde o práci, pokud [Root.GetLeader] bude vyveden z úřadu.\n\nMezitím, v sídle [show_biggest_party_elect], roste vzrušení, jak konečně vidí jasnou cestu k převzetí vlády nad [Root.GetName]." # todo: NEW TRANSLATION
-  coalition_pass.0.a: "Vzdát se: Nechte [show_biggest_party_elect] ([show_biggest_elect_percentage]) zkusit" # todo: NEW TRANSLATION
-  coalition_pass.0.b: "Fake News! Najdeme potřebné spojence." # todo: NEW TRANSLATION
-  coalition_pass.1.t: "[Root.GetRulingParty] Vzdát se formování vlády?" # todo: NEW TRANSLATION
-  coalition_pass.1.d: "Poradci [Root.GetLeader] pobíhají sem a tam jako bezhlavé slepice – zoufale se snaží najít řešení krize způsobené neschopností [Root.GetRulingParty] formovat vládu, vědomi si, že většina z nich bude bez práce, pokud [Root.GetLeader] bude vyveden z úřadu.\n\nMezitím, v sídle [show_second_biggest_party_elect], roste nadšení, jak konečně vidí jasnou cestu k převzetí vlády nad [Root.GetName]." # todo: NEW TRANSLATION
-  coalition_pass.1.a: "Vzdát se: Nechte [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) zkusit" # todo: NEW TRANSLATION
-  coalition_pass.1.b: "Fake News! Najdeme potřebné spojence." # todo: NEW TRANSLATION
-  coalition_pass_dismantle_tt: "Remove Ruling Party: §H[Root.GetRulingParty]§!\n§HVláda Koalice§! bude rozpuštěna\n\n" # todo: NEW TRANSLATION
-  coalition_pass_refund_tt: "Politická síla: §G+75%§! z částky vynaložené na koalici\n" # todo: NEW TRANSLATION
-  coalition_pass_pol_change_0_tt: "Politika se změní:\n§H[show_biggest_party_elect]§! se stane vládní stranou\n\n" # todo: NEW TRANSLATION
-  coalition_pass_pol_change_1_tt: "Politika se změní:\n§H[show_second_biggest_party_elect]§! se stane vládní stranou\n\n" # todo: NEW TRANSLATION
-  coalition.0.t: "Negotiations with [Western_Autocracy_L] ([?party_pop_elect_array^0|%0])" # todo: NEW TRANSLATION
-  coalition.0.d: "We see [Root.GetLeader] is rocking the authoritarian style! Of course we would like to join the government. That is, if you are ready to pay the political price." # todo: NEW TRANSLATION
-  coalition.0.a: "Welcome aboard the team!" # todo: NEW TRANSLATION
-  coalition.0.b: "On second thoughts, let us not include them." # todo: NEW TRANSLATION
-  coalition.1.t: "Negotiations with [conservatism_L] ([?party_pop_elect_array^1|%0])" # todo: NEW TRANSLATION
-  coalition.1.d: "Vážený [Root.GetLeader]. Můžeme si představit budoucnost, ve které bychom možná sdíleli jistou úroveň spolupráce při řízení vlády. Zatímco my, s úctou, věříme, že byste měli přijmout všechny naše politiky, uznáváme, že vzhledem k tomu, že volební výsledky nejsou zcela v náš prospěch, musíme vyjednat co nejlepší dohodu pro naše voliče. Naše požadavky jsou jednoduché - závazek k obraně tradičních hodnot, pragmatismus, respekt k autoritě a náboženským hodnotám a zachování tradičních sociálních institucí.\n\nPokud souhlasíte s naší spoluprací, upřímně doufáme, že nepoškodíte dobré jméno [conservatism_L] hloupým a unáhleným tvorbou politik a takzvaným moderním myšlením. Abychom minimalizovali toto riziko, prosím, odkažte na přiložený dokument uvádějící oddělení, která chceme řídit v jejich celku." # todo: NEW TRANSLATION
-  coalition.1.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
-  coalition.1.b: "Na druhou myšlenku, vy konzervativci jste pro nás příliš nudní." # todo: NEW TRANSLATION
-  coalition.2.t: "Negotiations with [liberalism_L] ([?party_pop_elect_array^2|%0])" # todo: NEW TRANSLATION
-  coalition.2.d: "Drahý [Root.GetLeader]. Zahalujete nás svým proklamovaným zájmem o velké principy liberalismu a svobody. Svoboda je koneckonců základ, na němž stojí každá čestná vláda. Samozřejmě bychom rádi se podíleli na vládě, aby se prosazoval liberalismus – protože oba chápeme, že individuální svoboda a omezená vláda jsou nejlepší cestou pro lidi k vytvoření svobodné společnosti.\n\nAby vaše forma liberalismu nebyla omezena jako ta naše, budete muset vyhovět našim zcela rozumným a jednoznačně vzájemně prospěšným požadavkům, než se můžeme zavázat k finální dohodě." # todo: NEW TRANSLATION
-  coalition.2.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
-  coalition.2.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.3.t: "Negotiations with [socialism_L] ([?party_pop_elect_array^3|%0])" # todo: NEW TRANSLATION
-  coalition.3.d: "Drahý [Root.GetLeader]. Ač máme určité rozpaky vstoupit do vlády jako mladší partneři, odbory nás nebyly schopny dostat přes cílovou čáru ve volbách – tentokrát. Takže existuje možnost, že bychom mohli zvážit myšlenku vstoupit – pokud slíbíte podporovat klíčové principy progresivních a sociálně demokratických hodnot. Jak říkáme u [socialism_L], sociálně demokratické hodnoty jsou pro všechny, a trváme na tom, že to platí i pro vaši vládu.\n\nMimochodem, nejsou daně trochu nízké? Jste si jisti, že máme dost financí pro plánované zvýšení sociálních dávek, vzdělávání a zdravotní péče?" # todo: NEW TRANSLATION
-  coalition.3.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
-  coalition.3.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.4.t: "Negotiations with [Communist-State_L] ([?party_pop_elect_array^4|%0])" # todo: NEW TRANSLATION
-  coalition.4.d: "Soudruhu [Root.GetLeader]! Zatímco usilujeme o svržení vašeho imperialisticko-bourgeoisie vládnutí, změnu společnosti prostřednictvím revolučního ozbrojeného boje, zavedení demokratické diktatury proletariátu a odstranění třídních zrádců, uvědomujeme si, že mohou existovat určité krátkodobé politické taktické výhody formování koalice v této době.\n\nNaše požadavky jsou jednoduché - plná implementace marxistické dialektické materialismu, 1000% zlepšení socioekonomických podmínek utlačovaného proletariátu a volný vstup do nového Disneylandu, který budeme stavět!\n\n... Budeme se spokojit s těmi menšími ústupky, které jste zmínil." # todo: NEW TRANSLATION
-  coalition.4.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
-  coalition.4.b: "Lépe mrtvý než rudý!" # todo: NEW TRANSLATION
-  coalition.5.t: "Negotiations with [anarchist_communism_L] ([?party_pop_elect_array^5|%0])" # todo: NEW TRANSLATION
-  coalition.5.d: "Soudruhu [Root.GetLeader]. Myslíme si, že bychom posunuli vaši administrativu správným směrem - doleva. Někteří nás nazývají „levicoví radikálové“, ale skuteční_radikálové jsou konzervativní zpátečnické anti-progresivní síly, které veškerou moc dávají do ruk 1% nejbohatších. Bojujeme jen za zdravý rozum a věci, na kterých se může shodnout celé 99% – sociální spravedlnost, feminismus, ukončení zneužívání sociálního zabezpečení, rozpоúštění kapitalismu, internacionalismus a konec západní imperiální nadvlády a jeho vykořisťování Global South." # todo: NEW TRANSLATION
-  coalition.5.a: "Společně jsme silnější!" # todo: NEW TRANSLATION
-  coalition.5.b: "Máme pochybnosti." # todo: NEW TRANSLATION
-  coalition.6.t: "Negotiations with [Conservative_L] ([?party_pop_elect_array^6|%0])" # todo: NEW TRANSLATION
-  coalition.6.d: "" # todo: NEW TRANSLATION
-  coalition.6.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
-  coalition.6.b: "S úctou odmítáme." # todo: NEW TRANSLATION
-  coalition.7.t: "Negotiations with [Autocracy_L] ([?party_pop_elect_array^7|%0])" # todo: NEW TRANSLATION
-  coalition.7.d: "Vážený [Root.GetLeader]. Ačkoli si ceníme krátkozrakého, slabomyslného, roztříštěného festivalu voličské nevědomosti, fňukání, handrkování, plýtvání, kompromisů a váhání, které nazýváte volební kampaní, uznáváme skutečnou moc, kterou jste nyní nashromáždili. Přidejte se k nám a my můžeme setřást pouta legislativní a výkonné moci a prokázat naši společnou sílu, disciplínu, autoritu a jednotu." # todo: NEW TRANSLATION
-  coalition.7.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
-  coalition.7.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.8.t: "Vyjednávání s [Mod_Vilayat_e_Faqih_L] ([?party_pop_elect_array^8|%0])" # todo: NEW TRANSLATION
-  coalition.8.d: "Vážený [Root.GetLeader]. My, šíité Aliho ibn Abi Taliba, jsme připraveni držet se za ruce a přidat se k vám při odvážné odolnosti vůči sionistům a jejich Takfírským pekelným potvorám. Společně, inspirováni svatými mučedníky, vyženeme nepřátele Pravého Islámu ze země. Meče Alláha se jistě obrátí k Sayyidovi Khaménímimu a Sayyid Hassan Nasrallaha pro vedení, ale nebojte se, protože jsme praví [Root.GetAdjective] patrioti, kteří pro zachování našeho posvátného území, pokud to bude nutné, prolijí krev. Zmínili jsme, že se považujeme za umírněné?" # todo: NEW TRANSLATION
-  coalition.8.a: "Smrt Zionistům!" # todo: NEW TRANSLATION
-  coalition.8.b: "Raději bych byl mučen." # todo: NEW TRANSLATION
-  coalition.9.t: "Vyjednávání s [Vilayat_e_Faqih_L] ([?party_pop_elect_array^9|%0])" # todo: NEW TRANSLATION
-  coalition.9.d: "Vážený [Root.GetLeader]. My, šiité Aliho ibn Abi Taliba, jsme připraveni držet se za ruce a spolu s vámi statečně odolávat sionistům a jejich Takfírským pekelným potvorám. Společně, s inspirací od svatých mučedníků, vyženeme nepřátele Pravého Islámu z tváře země. Meče Alláha se jistě obrátí k Sayyidovi Khaménímimu a Sayyid Hassan Nasrallaha pro vedení, ale nebojte se, protože jsme praví [Root.GetAdjective] patrioti, kteří pro zachování našeho posvátného území, pokud to bude nutné, prolijí krev. Zmínili jsme, že se považujeme za umírněné?" # todo: NEW TRANSLATION
-  coalition.9.a: "Smrt Zionistům!" # todo: NEW TRANSLATION
-  coalition.9.b: "Raději bych byl mučen." # todo: NEW TRANSLATION
-  coalition.10.t: "Vyjednávání s [Kingdom_L] ([?party_pop_elect_array^10|%0])" # todo: NEW TRANSLATION
-  coalition.10.d: "" # todo: NEW TRANSLATION
-  coalition.10.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
-  coalition.10.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.11.t: "Vyjednávání s [Caliphate_L] ([?party_pop_elect_array^11|%0])" # todo: NEW TRANSLATION
-  coalition.11.d: "[Root.GetLeader], ačkoli jsme vás nazvali \"špinavým nevěřícím psem\" mnohokrát, nemysleli jsme to vážně tak, jak to vyznělo.\n\nZatímco inshallah půjdete do pekla za to, že se nepřipojíte k Pravému Chalífátu, my, spravedliví a odvážní Mujahidé, vám jistě pomůžeme správně vás vést, jelikož jen my známe skutečnou vůli Alláha, jak nám ji zjevil Prorok Muhammad (ṣallĝ llahu ʿalayhi wa-sallam). Jsme samozřejmě velmi, velmi mírumilovní a pevně oddáni demokratickým principům. Nemáme žádné požadavky. Jsme tu jen, abychom pomohli. Můžeme, inshallah, například pomoci odlehčit tíhu správy armády, policie a soudů z vašich ramen." # todo: NEW TRANSLATION
-  coalition.11.a: "To vypadá jako skvělý nápad" # todo: NEW TRANSLATION
-  coalition.11.b: "lol" # todo: NEW TRANSLATION
-  coalition.12.t: "Vyjednávání s [Neutral_Muslim_Brotherhood_L] ([?party_pop_elect_array^12|%0])" # todo: NEW TRANSLATION
-  coalition.12.d: "" # todo: NEW TRANSLATION
-  coalition.12.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
-  coalition.12.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.13.t: "Vyjednávání s [Neutral_Autocracy_L] ([?party_pop_elect_array^13|%0])" # todo: NEW TRANSLATION
-  coalition.13.d: "" # todo: NEW TRANSLATION
-  coalition.13.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
-  coalition.13.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.14.t: "Vyjednávání s [Neutral_conservatism_L] ([?party_pop_elect_array^14|%0])" # todo: NEW TRANSLATION
-  coalition.14.d: "" # todo: NEW TRANSLATION
-  coalition.14.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
-  coalition.14.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
-  coalition.15.t: "Vyjednávání s [oligarchism_L] ([?party_pop_elect_array^15|%0])" # todo: NEW TRANSLATION
-  coalition.15.d: "Vážený [Root.GetLeader]. Po dalším titánském nafouknutém volebním cirkusu, špinavá masa se brzy roztrhne z tohoto nafouknělého cirkusového stanu, který nazýváte vládou. Jsme účinnější, když moc spočívá jen v malém počtu lidí; Bohatí, šlechta, mocní. Malé je nové velké. Není důležité, jak velká loď je, ale jaký pohyb na moři. To říkáme, teď budeme potřebovat větší loď. Pouze sloučením našich stran do koaliční vlády dnes můžeme zajistit menší loď pro zítřek. S vaší spoluprací naše vládnoucí třída vypluje do západu slunce." # todo: NEW TRANSLATION
-  coalition.15.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
-  coalition.15.b: "Musíme laskavě odmítnout. Doufám, že potopíte!" # todo: NEW TRANSLATION
-  coalition.16.t: "Vyjednávání s [Neutral_Libertarian_L] ([?party_pop_elect_array^16|%0])" # todo: NEW TRANSLATION
-  coalition.16.d: "Vážený [Root.GetLeader]. Často se v vedení [Neutral_Libertarian_L] říká, že udržet stranu pohromadě je jako \"hádání s koťaty\". Věřte nám tedy, když říkáme, že vstoupit do koalice s vámi, statisty, může nastat jen tehdy, pokud jste připraveni učinit vážné ústupky. Jako zbavit se daní a zrušení armády. Samozřejmě nikdy neustoupíme z individuální svobody a ekonomické a sociální svobody. V duchu kompromisu bychom mohli být připraveni o něco odložit úplné zavedení Bitcoinu jako naší nově oficiální měny, ale ještě jsme se o tom nezeptali všech svých členů.\n\n[Root.GetLeader]: \"Co když vám dovolíme kouřit trávu bez toho, abyste šli do vězení?\"\n\n- \"Jasně! To bude fungovat\"." # todo: NEW TRANSLATION
-  coalition.16.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
-  coalition.16.b: "Žert! Vůbec jsme neměli v úmyslu vás začlenit, vy blázni." # todo: NEW TRANSLATION
-  coalition.17.t: "Vyjednávání s [Neutral_green_L] ([?party_pop_elect_array^17|%0])" # todo: NEW TRANSLATION
-  coalition.17.d: "[Root.GetLeader]... To je limousine?! To je TAK nespolehlivé. Kdyby každý řídit takový žrout paliva a létal všude na jednání za zahraničními schůzemi - potřebovali bychom prostředky stovek Zemí! To nemůžeme dopustit, čas ubíhá rychle. Lidské způsobené globální oteplování není sci-fi, je to vědecký fakt. Jen proto, že teploty v HoI4 nemůžou rok od roku stoupat, neznamená, že hrozbu nemáme brát vážně! Požadujeme seriózní plán na rychlé snížení našeho uhlíkového otisku, pokud chceme být součástí vaší vládní koalice." # todo: NEW TRANSLATION
-  coalition.17.a: "Vítejte v naší environmentálně šetrné vládě" # todo: NEW TRANSLATION
-  coalition.17.b: "Nic moc." # todo: NEW TRANSLATION
-  coalition.18.t: "Vyjednávání s [neutral_Social_L] ([?party_pop_elect_array^18|%0])" # todo: NEW TRANSLATION
-  coalition.18.d: "Vážený [Root.GetLeader]. Opravdu si myslíme, že bychom posunuli vaši správu kupředu směrem k větší rovnosti a univerzálním progresivním hodnotám. Pokud se přidáme, požadujeme, aby sociální péče a zdravotní péče byly významně posíleny a daně pro bohaté výrazně zvýšeny. Základní principy demokracie považujeme za posvátné. To platí i pro ekonomiku, která by měla mít aspoň přísné socialistické vládní předpisy, aby byla zajištěna dobrá mzda, lepší pracovní podmínky a menší zisky pro kapitalisty. Opravdu bychom byli tak dobří ve vládnutí, že by bylo lepší, kdyby většina toho byla pod státní kontrolou." # todo: NEW TRANSLATION
-  coalition.18.a: "Společně jsme silnější" # todo: NEW TRANSLATION
-  coalition.18.b: "To se nestane!" # todo: NEW TRANSLATION
-  coalition.19.t: "Vyjednávání s [Neutral_Communism_L] ([?party_pop_elect_array^19|%0])" # todo: NEW TRANSLATION
-  coalition.19.d: "Komrade [Root.GetLeader]! Zatímco usilujeme o svržení vašeho imperialisticko-bourgeoisního vládnutí, změnu společnosti prostřednictvím revoluční ozbrojené síly, zavedení demokratické diktatury Proletariátu a odstranění třídních zrádců, uvědomujeme si, že mohou existovat určité krátkodobé politické taktické výhody formování koalice v této době.\n\nNaše požadavky jsou jednoduché - plná implementace marxistické dialektické materialismu, 1000% zlepšení sociálněekonomických podmínek utlačovaného proletariátu a volný vstup do nového Disneylandu, který budeme budovat!\n\n...Ve skutečnosti se spokojíme s těmi menšími ústupky, které jste zmínili." # todo: NEW TRANSLATION
-  coalition.19.a: "Vpřed, soudruzi!" # todo: NEW TRANSLATION
-  coalition.19.b: "Raději ne." # todo: NEW TRANSLATION
-  coalition.20.t: "Vyjednávání s [Nat_Populism_L] ([?party_pop_elect_array^20|%0])" # todo: NEW TRANSLATION
-  coalition.20.d: "Vážený [Root.GetLeader]. Jste skutečně moudří, že s námi jednáte; každý ví, že jsme skutečným hlasem zdravého rozumu a rozumnosti. Avšak aby [Nat_Populism_L] plnilo roli světla zdravého rozumu, musíme trvat na tom, že přijmete některé patřičné politiky. Politické zřízení [Root.GetName] bylo příliš dlouho pustošeno národem, předávalo naše bohatství a důstojnost nadnárodním firmám, které dovážejí levnou pracovní sílu prostřednictvím selhávajícího imigračního systému! Kromě uchvácení našich pracovních míst zneužívají imigranti také naše podpor v nezaměstnanosti a sociální systém. Dále musíme investovat do naší selhávající infrastruktury a snížit daně! Naše armáda je trestuhodně poddimenzovaná a špatně vyzbrojená - musí být nutně rozšířena. Zmínili jsme policii? Zjevně nemají prostředky na to, aby zvládli všechny zločince, které dovážely naše předchozí vlády. Mezitím naši staří lidé nejsou vhodně ošetřováni - ostuda! Tak, dohodneme se?" # todo: NEW TRANSLATION
-  coalition.20.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
-  coalition.20.b: "Ušetř mě." # todo: NEW TRANSLATION
-  coalition.21.t: "Vyjednávání s [Nat_Fascism_L] ([?party_pop_elect_array^21|%0])" # todo: NEW TRANSLATION
-  coalition.21.d: "Hail [Root.GetLeader]!\n\nVŠUDE, MY PATRIOTI JDEME V POCHODU PROTI ZRADNÍKŮ NAŠÍ CIVILIZACE. MOHLI BY SE K TOMU GLORIOSNÍMU POCHODU ZA ČISTOTU PŘIPOJIT, NEBO VZDÁT NAŠI VELKOU ZEMI ŠPINAVÝM CIZINCŮM! MUSÍME JE VYHNAT! KAŽDÉHO JEDNOHO! (kromě těch, kteří platí členství v [Nat_Fascism_L], nebo jsou naše zásilkové nevěsty)\n\n Požadujeme ČISTOU NÁRODNÍ VLA DU, aby vedla NÁRODNÍ RESTAURACI! Máme jen jednu volbu - chaos nebo pořádek a svoboda. TOTÁLNÍ POŘÁDEK. A TOTÁLNÍ SVOBODA od zahraničních parazitů." # todo: NEW TRANSLATION
-  coalition.21.a: "Jasně! Pojďme na to." # todo: NEW TRANSLATION
-  coalition.21.b: "Vláda? Všichni patříte do jiné instituce..." # todo: NEW TRANSLATION
-  coalition.22.t: "Vyjednávání s [Nat_Autocracy_L] ([?party_pop_elect_array^22|%0])" # todo: NEW TRANSLATION
-  coalition.22.d: "Vážený [Root.GetLeader]. Přichází čas, kdy kvůli národnímu ohrožení musí vojenské zřízení posílit svou roli, aby zaplnilo nebezpečné mocenské vakuum a chránilo národní suverenitu a naši nezávislost a vlastenecké hodnoty. Podle našeho názoru je čas vojenské vlády - vždy. Nicméně si uvědomujeme, že to nyní může přinést určité nechtěné dopady na naše zahraniční vztahy. Bylo by to... méně komplikované - kdybyste prostě diskrétně dělali, co říkáme.\n\nPokud víte, kde je vaše místo, rozhodně bychom pro vás byli velmi silným politickým spojencem." # todo: NEW TRANSLATION
-  coalition.22.a: "Politika je příliš důležitá na to, aby ji nechali politici" # todo: NEW TRANSLATION
-  coalition.22.b: "Politika je příliš důležitá na to, aby ji řešili generálové" # todo: NEW TRANSLATION
-  coalition.23.t: "Jednání s [Monarchist_L] ([?party_pop_elect_array^23|%0])" # todo: NEW TRANSLATION
-  coalition.23.d: "Vážený [Root.GetLeader]. My monarchisté se smějeme představě, že vy, obyčejný člověk, byste mohl [Root.GetName] poskytnout nezbytnou stabilitu a další skvělé výhody, které může udělit jen absolutní monarcha. Všichni víme, že skutečná nejvyšší výkonná moc může být správně vykonávána jen královskou dynastií ve všech jejich svatosti. To by skutečně byla sjednocující silou a silným symbolem naší velikosti, jak kráčíme směrem k plnému národnímu obnovení. Zjevně, absolutní monarchie, požehnané božím právem, překonávají všechny ostatní formy vlády ve všech měřítkách.\n\nDobře, takže zjevně vás nebudeme korunovat, takže bychom mohli na nějakou dobu ponechat zastaralou a anachronistickou republikánskou vládu, zatímco my, monarchisté v koalici, hledáme nejlepšího kandidáta na trůn." # todo: NEW TRANSLATION
-  coalition.23.a: "Jasně, cokoli" # todo: NEW TRANSLATION
-  coalition.23.b: "Jste očividně nevhodní k vládnutí..." # todo: NEW TRANSLATION
-  red_adm_spending_TT: "§RNaše očekávané výdaje na správu jsou - [exp_adm_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_adm_spending_TT: "§3Naše očekávané výdaje na správu jsou - [exp_adm_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_adm_spending_TT: "§GNaše očekávané výdaje na správu jsou - [exp_adm_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  red_police_spending_TT: "§RNaše očekávané výdaje na policii jsou - [exp_police_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_police_spending_TT: "§3Naše očekávané výdaje na policii jsou - [exp_police_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_police_spending_TT: "§GNaše očekávané výdaje na policii jsou - [exp_police_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  red_edu_spending_TT: "§RNaše očekávané výdaje na vzdělání jsou - [exp_edu_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_edu_spending_TT: "§3Naše očekávané výdaje na vzdělání jsou - [exp_edu_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_edu_spending_TT: "§YNaše očekávané výdaje na vzdělání jsou - [exp_edu_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  red_health_spending_TT: "§RNaše očekávané výdaje na zdravotnictví jsou - [exp_health_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_health_spending_TT: "§3Naše očekávané výdaje na zdravotnictví jsou - [exp_health_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_health_spending_TT: "§GNaše očekávané výdaje na zdravotnictví jsou - [exp_health_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  red_social_spending_TT: "§RNaše očekávané výdaje na sociální oblast jsou - [exp_social_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_social_spending_TT: "§3Naše očekávané výdaje na sociální oblast jsou - [exp_social_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_social_spending_TT: "§GNaše očekávané výdaje na sociální oblast jsou - [exp_social_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_protest_strength_TT: "§G[?THIS.protest_strength]§!" # todo: NEW TRANSLATION
-  red_protest_strength_TT: "§R[?THIS.protest_strength]§!" # todo: NEW TRANSLATION
-  yellow_protest_strength_TT: "§Y[?THIS.protest_strength]§!" # todo: NEW TRANSLATION
-  red_military_spending_TT: "§RNaše očekávané výdaje na armádu jsou - [exp_military_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_military_spending_TT: "§3Naše očekávané výdaje na armádu jsou - [exp_military_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  yellow_military_spending_TT: "§GNaše očekávané výdaje na armádu jsou - [exp_military_spending_text_TT]\n§!" # todo: NEW TRANSLATION
-  green_protest_radicalisation_TT: "§G[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
-  red_protest_radicalisation_TT: "§R[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
-  yellow_protest_radicalisation_TT: "§Y[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
-  no_fuel_protests_TT: "\n§RDochází k dalšímu radikalizování kvůli nedostatku paliva!§!" # todo: NEW TRANSLATION
-  fuel_protests_TT: "" # todo: NEW TRANSLATION
-  MANAGE_SUBJECTS_TT: "§YMenu subjektů§!\nSubjekty představují jakoukoli zemi, která je satelitem, loutkou, dominion, speciální správní oblastí, nebo jakoukoli zemi, která je podřízena jiné. Každá země bude reagovat odlišně na to, že jste jejím nadvládou, a jako taková bude bojovat za svou nezávislost, nebo umožní eventualní integraci, pokud je vaše země populární u jejich.\n\n§YIntegrace subjektů vám umožňuje získat jádra na jejich územích, čímž se stanou atraktivní alternativou k anexi.§!\n" # todo: NEW TRANSLATION
-  MANAGE_SUBJECTS_DELAYED_TT: "§YDůvody země k boji proti integraci:§!\nZákladní hodnota: §R+10§!\nMá obchodní dohodu se subjektem: §G-20%§!\nNázor subjektu na nás je nižší než 100: §R+200%§!\nNázor subjektu na nás je vyšší než 200: §G-90%§!\nNázor subjektu na nás je vyšší než 240: §G-100%§!\nSubjekt má stejnou perspektivu jako my: §G-50%§!\n\nHodnota §YVliv domácího vlivu§! subjektu je vypočítána jako jejich §YVliv domácího vlivu§! dělený 10 a poté tato hodnota vynásobí hodnotou vypočtenou výše.\n\nVypnutím pravidla AI pro fokus §YZvýšení autonomie§! učiní tyto informace bezpředmětnými." # todo: NEW TRANSLATION
+ MD4_election_campaign.0.t: "Kampaň před volbami se rozjíždí, závod vstupuje do posledních dvou týdnů" # todo: NEW TRANSLATION
+ MD4_election_campaign.0.d: "Od posledních voleb na [Root.GetLastElection], [Root.GetLeader] stabilně směřuje [Root.GetName]. S blížícím se finálním hlasováním, které má být odevzdáno za dva týdny, bude toto směřování zpochybněno silnými rivaly.\n\nVětšina výdajů na kampaň byla již vynaložena a průzkumy veřejného mínění začínají ukazovat účinky." # todo: NEW TRANSLATION
+ MD4_election_campaign.0.a: "Jdeme na to!" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.t: "Debata o zahraniční politice: [Root.GetLeader] čelí těžkým rozhodnutím ohledně toho, koho napadnout" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.d: "Jak se finální hlasování stále blíží, musíme rozhodnout, s kým budeme porovnávat naši zahraniční politiku. Jak se svět stává čím dál turbulentnějším, tato otázka je pro voliče zvláště důležitá.\n\nNěkteré ostře vyzněné negativní reklamy jistě způsobí pokles popularity našeho protivníka, ale existuje malá šance, že je mohou úspěšně kontrovat, pokud by na nás měli vážnou špínu (skandály) nebo pokud by naše útoky byly založeny na opravdu špatném výzkumu.\n\nEfektivita útoku je určena výší kampaně, kterou jsme obdrželi." # todo: NEW TRANSLATION
+ MD4_election_campaign.1.a: "Útoč na [Root.GetFascistParty] blázny" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.b: "Útoč na nacionalistické idioty" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.c: "Útoč na [Root.GetNeutralParty] hlupáky" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.e: "Útoč na [Root.GetCommunistParty] imbecily" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.f: "Útoč na [Root.GetDemocraticParty] debily" # todo: NEW TRANSLATION
+ MD4_election_campaign.1.g: "Zdržet se útoků na kohokoliv" # todo: NEW TRANSLATION
+ MD4_election_campaign.3.t: "[Root.GetFascistParty] se zotavuje – posílen ze útoků" # todo: NEW TRANSLATION
+ MD4_election_campaign.3.d: "Navzdory našim zuřivým útokům proti nim si kontroverzní [Root.GetFascistParty] udrželi všechny své jádro voličů. Využili zvýšené pozornosti z našich negativních reklam ve svůj prospěch a získali nebývalý přístup ke všem hlavním zpravodajským médiím, aby prosazovali svou ideologii." # todo: NEW TRANSLATION
+ MD4_election_campaign.3.a: "Sakra" # todo: NEW TRANSLATION
+ MD4_election_campaign.4.t: "Negativní útoky proti nacionalistům se vrátily jako bumerang" # todo: NEW TRANSLATION
+ MD4_election_campaign.4.d: "Navzdory našim zuřivým útokům proti nim si kontroverzní nacionalisté udrželi většinu svých klíčových voličů. Získali velké body po celé zemi, tvrdí, že systém je zlomený a zkorumpovaný, že hlavní média manipulují společností a že politiky [Root.GetLeader] jsou na prodej tomu, kdo dá nejvíce prostředků prostřednictvím kampaně." # todo: NEW TRANSLATION
+ MD4_election_campaign.4.a: "Sakra" # todo: NEW TRANSLATION
+ MD4_election_campaign.5.t: "Negativní útoky proti [Root.GetNeutralParty] nemají dopad" # todo: NEW TRANSLATION
+ MD4_election_campaign.5.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění obrátila proti naší negativní reklamní kampani zaměřené na [Root.GetNeutralParty]. Pravděpodobně existuje několik příčin, ale jedním faktorem může být vnímání útoku politika s postavením [Root.GetLeader] jako „punching down“ a že zvýšené mediální pokrytí našeho oponenta jim umožnilo oslovit více voličů." # todo: NEW TRANSLATION
+ MD4_election_campaign.5.a: "Sakra" # todo: NEW TRANSLATION
+ MD4_election_campaign.6.t: "Negativní útoky proti [Root.GetCommunistParty] padají na hluché uši" # todo: NEW TRANSLATION
+ MD4_election_campaign.6.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění změnila proti naší negativní reklamní kampani zaměřené na [Root.GetCommunistParty]. Pravděpodobně existuje několik příčin, ale jedním z faktorů může být vnímání útoku politika s postavením [Root.GetLeader] jako „punching down“ a že zvýšené mediální pokrytí našeho oponenta jim umožnilo oslovit více voličů." # todo: NEW TRANSLATION
+ MD4_election_campaign.6.a: "Sakra" # todo: NEW TRANSLATION
+ MD4_election_campaign.7.t: "Negativní útoky proti [Root.GetDemocraticParty] se vrací proti nám" # todo: NEW TRANSLATION
+ MD4_election_campaign.7.d: "Navzdory našim nejlepším snahám se vlna veřejného mínění obrátila proti naší negativní reklamní kampani zaměřené na [Root.GetDemocraticParty]. Zatímco jsme veřejně obviňovali zahraniční zásahy, v soukromí je skutečným podezřením to, že naše útoky byly tak nadsazené, že v něčem je jen málokdo skutečně uvěřil." # todo: NEW TRANSLATION
+ MD4_election_campaign.7.a: "Sakra" # todo: NEW TRANSLATION
+ MD4_election_campaign.8.t: "Pozvat na kampaň kontroverzního řečníka?" # todo: NEW TRANSLATION
+ MD4_election_campaign.8.d: "Obvykle by se to ani navrhovalo nahlas – natož seriózně zvažovalo. Ale kvůli nízké popularitě [Root.GetLeader] by to mohlo být riziko, které stojí za to podstoupit; řečník je krajní člen naší strany, známý pro řadu kontroverzních výroků v minulosti a za nevhodných časů. Nicméně je velmi populární mezi studenty a mladými lidmi – klíčovou skupinou, kterou musíme přesvědčit, aby volili náš směr." # todo: NEW TRANSLATION
+ MD4_election_campaign.8.a: "Pozvat je a doufat v to nejlepší" # todo: NEW TRANSLATION
+ MD4_election_campaign.8.b: "Neriskujte to" # todo: NEW TRANSLATION
+ MD4_election_campaign.9.t: "Obrovská účast na mítinku oživuje nadšení pro [Root.GetLeader]" # todo: NEW TRANSLATION
+ MD4_election_campaign.9.d: "Mítink byl obrovským úspěchem a přilákal největší účast za celou kampaň. Nejenže kontroverzní řečník vychválil [Root.GetLeader] a vyzval k jednotě strany; udělal to tak nadšeně a přesvědčivě, že nikdo netušil, že to celé napsal tým [Root.GetLeader]." # todo: NEW TRANSLATION
+ MD4_election_campaign.9.a: "Nutný impuls pro kampaň" # todo: NEW TRANSLATION
+ MD4_election_campaign.10.t: "Katastrofa pro kampaň [Root.GetLeader]" # todo: NEW TRANSLATION
+ MD4_election_campaign.10.d: "S největší účastí za kampaň, pódium bylo připraveno pro [Root.GetLeader], aby zazářil. Bohužel, spolukreátor, který byl pozván k rozdmýchání nadšení, roztrhl proslov, který jsme připravili, a raději se rozjel do dlouhé tirády o „selháních všech vlád, včetně této“ a vyzval mladé, aby „volili srdcem, nebo zůstat doma“ \n\nNutno říci, že tento zvukový záznam byl následně vytrubán médii – naši oponenti na něj pěli chválu." # todo: NEW TRANSLATION
+ MD4_election_campaign.10.a: "To fiasko!" # todo: NEW TRANSLATION
+ election_coalition_won.0.t: "[Root.GetAdjective] volby: Vláda koalice získala většinu!" # todo: NEW TRANSLATION
+ election_coalition_won.0.d: "Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí spolu." # todo: NEW TRANSLATION
+ election_coalition_won.0.a: "Pokračovat se současnou vládou" # todo: NEW TRANSLATION
+ election_coalition_won.0.b: "Proveďte změny při utváření nové vlády" # todo: NEW TRANSLATION
+ election_single_party.0.t: "[Root.GetAdjective] volby: [Root.GetRulingParty] vyhrála většinu!" # todo: NEW TRANSLATION
+ election_single_party.0.d: "[Root.GetRulingParty] sama získala většinu poslaneckých křesel. Jaké vítězství!" # todo: NEW TRANSLATION
+ election_single_party.0.a: "To je skvělý den pro demokracii!" # todo: NEW TRANSLATION
+ election_single_party.1.t: "[Root.GetAdjective] volby: [Root.GetLeader] poražen!" # todo: NEW TRANSLATION
+ election_single_party.1.d: "S tím, že [show_biggest_party_elect] sama získala většinu poslaneckých křesel, politická budoucnost [Root.GetLeader] je v podstatě u konce, členové [Root.GetRulingParty] vyzývají k rezignaci.\n\n[show_biggest_party_elect] okamžitě převezme jako nová vláda [Root.GetName]." # todo: NEW TRANSLATION
+ election_single_party.1.a: "Přiznat porážku a pogratulovat vítězi." # todo: NEW TRANSLATION
+ MD4_election.1.t: "[Root.GetRulingParty] znovuzvolena!" # todo: NEW TRANSLATION
+ MD4_election.1.d: "Sčítáním všech hlasů se rozhodli voliči [Root.GetAdjective] dát [Root.GetLeader] další mandát. S vysokým hodnocením popularity [Root.GetLeader] vyhrál bez nutnosti dojednávat s ostatními stranami, aby získal jejich podporu." # todo: NEW TRANSLATION
+ MD4_election.1.d_term_ended: "Po sečtení všech hlasů se voliči [Root.GetAdjective] rozhodli dát straně [Root.GetLeader] další mandát. Jak [Root.GetLeader] dosáhl konce svého posledního mandátu, uvolní se místo pro nového vůdce." # todo: NEW TRANSLATION
+ MD4_election.1.a: "Je pravda, co říkají - [Root.GetLeader] je opravdu nejlepší!" # todo: NEW TRANSLATION
+ MD4_election.2.t: "Koalice [Root.GetLeader] znovuzvolena!" # todo: NEW TRANSLATION
+ MD4_election.2.d: "Sčítáním všech hlasů se voliči [Root.GetAdjective] rozhodli dát [Root.GetLeader] a [Root.GetRulingParty] další mandát. Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí společně. [Root.GetLeader] nadále těží z podpory jako vůdce [Root.GetNameWithFlag]." # todo: NEW TRANSLATION
+ MD4_election.2.d_term_ended: "Sčítáním všech hlasů se voliči [Root.GetAdjective] rozhodli dát [Root.GetRulingParty] další mandát. Současné vládnoucí strany si zajistily většinu v novém parlamentu a mohou prodloužit svůj mandát k vládnutí společně. Jelikož [Root.GetLeader] dosáhl konce svého posledního mandátu, nastoupí nový vůdce, který bude řídit [Root.GetNameWithFlag]." # todo: NEW TRANSLATION
+ MD4_election.2.a: "Je pravda, co říkají - [Root.GetLeader] je opravdu nejlepší!" # todo: NEW TRANSLATION
+ MD4_election.2.b: "Proveďte změny při utváření nové vlády" # todo: NEW TRANSLATION
+ MD4_election.3.t: "Volební porážka pro [Root.GetLeader]!" # todo: NEW TRANSLATION
+ MD4_election.3.d: "Po sečtení všech hlasů se zdá, že [Root.GetLeader] nedokáže získat podporu [Root.GetAdjective] voličů pro další funkční období. Místo toho nastal čas zazářit pro [show_biggest_party_elect]. S ([?party_pop_elect_array^max_index_1|%1]) se jim podařilo samostatně získat dostatečnou podporu k vládnutí bez koalice.\n\n Kontrola nad [Root.GetName] přejde na [show_biggest_party_elect]." # todo: CHANGED
+ MD4_election.3.a: "Přiznat porážku a pogratulovat vítězi" # todo: NEW TRANSLATION
+ MD4_election.4.t: "Volby: Nejasný výsledek pro [Root.GetLeader]!" # todo: NEW TRANSLATION
+ MD4_election.4.d: "Sčítáním všech hlasů [Root.GetLeader] aktuálně nemá většinu v novém parlamentu pro sestavení nové vlády. Je nutné přesvědčit další strany, aby se k nim přidaly, a pokud to bude nemožné, má být kontrola svěřena jedné z ostatních stran, aby se pokusila vytvořit vládu." # todo: NEW TRANSLATION
+ MD4_election.4.a: "Jednání začínají..." # todo: NEW TRANSLATION
+ MD4_election.5.t: "Volby: Ostudná porážka pro [Root.GetLeader]!" # todo: NEW TRANSLATION
+ MD4_election.5.d: "Po sečtení všech hlasů [Root.GetLeader] nedokázal dosáhnout ani minimálního prahu [Root.GetRulingParty] pro vstup do parlamentu. Je zřejmé, že někdo jiný bude muset složit vládu a vést [Root.GetName] vpřed, ale kdo?" # todo: NEW TRANSLATION
+ MD4_election.5.a: "[show_biggest_party_elect] ([?party_pop_elect_array^max_index_1|%1]) se pokusí" # todo: CHANGED
+ MD4_election.5.b: "[show_second_biggest_party_elect] ([?party_pop_elect_array^max_index_2|%1]) se pokusí" # todo: CHANGED
+ News_MD4_election.0.t: "[From.GetAdjective] volby: [From.GetRulingParty] znovuzvolená!" # todo: NEW TRANSLATION
+ News_MD4_election.0.d: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) sám porazil všechny vyzyvatele a bude pokračovat v dalším volebním období jako [From.GetAdjective] vůdce." # todo: NEW TRANSLATION
+ News_MD4_election.0.d_first_term: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) sám porazil všechny vyzyvatele a převezme po svém předchódkovi pro své první volební období jako [From.GetAdjective] vůdce." # todo: NEW TRANSLATION
+ News_MD4_election.0.a: "OK" # todo: NEW TRANSLATION
+ News_MD4_election.1.t: "[From.GetAdjective] volby: [From.GetLeader] formuje novou vládu!" # todo: NEW TRANSLATION
+ News_MD4_election.1.d: "\n\n[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) zvítězil ve volbách a spolu s podporou dalších stran ve vládě je nyní pověřen vedením [From.GetName] vpřed." # todo: NEW TRANSLATION
+ News_MD4_election.1.a: "OK" # todo: NEW TRANSLATION
+ News_MD4_election.2.t: "[From.GetAdjective] volby: [From.GetLeader] vyhrává překvapivě velice!" # todo: NEW TRANSLATION
+ News_MD4_election.2.d: "[From.GetLeader] předseda [From.GetRulingParty] ([From.GetRulingIdeology]) dosáhl zdánlivě nemožného - sám porazit sedící vládu. Vytvořením většinové vlády sám vyšel vítězně ve volbách a je nyní pověřen vést [From.GetName] vpřed." # todo: NEW TRANSLATION
+ News_MD4_election.2.a: "OK" # todo: NEW TRANSLATION
+ coalition_complete.0.t: "Vláda utvořena!" # todo: NEW TRANSLATION
+ coalition_complete.0.d: "Od voleb konaných dne [Root.GetLastElection] se [Root.GetLeader] z [Root.GetRulingParty] dovedně vyjednává o nové většinové vládě. Dnes, [GetDateText], po období intenzivních mediálních spekulací, byla její sestava konečně oznámena na tiskové konferenci. To představuje významný milník pro [Root.GetName], když nastává nová politická éra." # todo: NEW TRANSLATION
+ coalition_complete.0.a: "Skvělé zprávy" # todo: NEW TRANSLATION
+ coalition_pass.0.t: "[Root.GetRulingParty] Vzdát se formování vlády?" # todo: NEW TRANSLATION
+ coalition_pass.0.d: "Poradci [Root.GetLeader] pobíhají sem a tam jako bezhlavé slepice – zoufale se snaží najít řešení krize způsobené neschopností [Root.GetRulingParty] formovat vládu, vědomi si, že většina z nich přijde o práci, pokud [Root.GetLeader] bude vyveden z úřadu.\n\nMezitím, v sídle [show_biggest_party_elect], roste vzrušení, jak konečně vidí jasnou cestu k převzetí vlády nad [Root.GetName]." # todo: NEW TRANSLATION
+ coalition_pass.0.a: "Vzdát se: Nechat [show_biggest_party_elect] ([?party_pop_elect_array^max_index_1|%1]) pokusit se" # todo: CHANGED
+ coalition_pass.0.b: "Fake News! Najdeme potřebné spojence." # todo: NEW TRANSLATION
+ coalition_pass.1.t: "[Root.GetRulingParty] Vzdát se formování vlády?" # todo: NEW TRANSLATION
+ coalition_pass.1.d: "Poradci [Root.GetLeader] pobíhají sem a tam jako bezhlavé slepice – zoufale se snaží najít řešení krize způsobené neschopností [Root.GetRulingParty] formovat vládu, vědomi si, že většina z nich bude bez práce, pokud [Root.GetLeader] bude vyveden z úřadu.\n\nMezitím, v sídle [show_second_biggest_party_elect], roste nadšení, jak konečně vidí jasnou cestu k převzetí vlády nad [Root.GetName]." # todo: NEW TRANSLATION
+ coalition_pass.1.a: "Vzdát se: Nechat [show_second_biggest_party_elect] ([?party_pop_elect_array^max_index_2|%1]) pokusit se" # todo: CHANGED
+ coalition_pass.1.b: "Fake News! Najdeme potřebné spojence." # todo: NEW TRANSLATION
+ coalition_pass_dismantle_tt: "Remove Ruling Party: §H[Root.GetRulingParty]§!\n§HVláda Koalice§! bude rozpuštěna\n\n" # todo: NEW TRANSLATION
+ coalition_pass_refund_tt: "Politická síla: §G+75%§! z částky vynaložené na koalici\n" # todo: NEW TRANSLATION
+ coalition_pass_pol_change_0_tt: "Politika se změní:\n§H[show_biggest_party_elect]§! se stane vládní stranou\n\n" # todo: NEW TRANSLATION
+ coalition_pass_pol_change_1_tt: "Politika se změní:\n§H[show_second_biggest_party_elect]§! se stane vládní stranou\n\n" # todo: NEW TRANSLATION
+ coalition.0.t: "Negotiations with [Western_Autocracy_L] ([?party_pop_elect_array^0|%0])" # todo: NEW TRANSLATION
+ coalition.0.d: "We see [Root.GetLeader] is rocking the authoritarian style! Of course we would like to join the government. That is, if you are ready to pay the political price." # todo: NEW TRANSLATION
+ coalition.0.a: "Welcome aboard the team!" # todo: NEW TRANSLATION
+ coalition.0.b: "On second thoughts, let us not include them." # todo: NEW TRANSLATION
+ coalition.1.t: "Negotiations with [conservatism_L] ([?party_pop_elect_array^1|%0])" # todo: NEW TRANSLATION
+ coalition.1.d: "Vážený [Root.GetLeader]. Můžeme si představit budoucnost, ve které bychom možná sdíleli jistou úroveň spolupráce při řízení vlády. Zatímco my, s úctou, věříme, že byste měli přijmout všechny naše politiky, uznáváme, že vzhledem k tomu, že volební výsledky nejsou zcela v náš prospěch, musíme vyjednat co nejlepší dohodu pro naše voliče. Naše požadavky jsou jednoduché - závazek k obraně tradičních hodnot, pragmatismus, respekt k autoritě a náboženským hodnotám a zachování tradičních sociálních institucí.\n\nPokud souhlasíte s naší spoluprací, upřímně doufáme, že nepoškodíte dobré jméno [conservatism_L] hloupým a unáhleným tvorbou politik a takzvaným moderním myšlením. Abychom minimalizovali toto riziko, prosím, odkažte na přiložený dokument uvádějící oddělení, která chceme řídit v jejich celku." # todo: NEW TRANSLATION
+ coalition.1.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
+ coalition.1.b: "Na druhou myšlenku, vy konzervativci jste pro nás příliš nudní." # todo: NEW TRANSLATION
+ coalition.2.t: "Negotiations with [liberalism_L] ([?party_pop_elect_array^2|%0])" # todo: NEW TRANSLATION
+ coalition.2.d: "Drahý [Root.GetLeader]. Zahalujete nás svým proklamovaným zájmem o velké principy liberalismu a svobody. Svoboda je koneckonců základ, na němž stojí každá čestná vláda. Samozřejmě bychom rádi se podíleli na vládě, aby se prosazoval liberalismus – protože oba chápeme, že individuální svoboda a omezená vláda jsou nejlepší cestou pro lidi k vytvoření svobodné společnosti.\n\nAby vaše forma liberalismu nebyla omezena jako ta naše, budete muset vyhovět našim zcela rozumným a jednoznačně vzájemně prospěšným požadavkům, než se můžeme zavázat k finální dohodě." # todo: NEW TRANSLATION
+ coalition.2.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
+ coalition.2.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.3.t: "Negotiations with [socialism_L] ([?party_pop_elect_array^3|%0])" # todo: NEW TRANSLATION
+ coalition.3.d: "Drahý [Root.GetLeader]. Ač máme určité rozpaky vstoupit do vlády jako mladší partneři, odbory nás nebyly schopny dostat přes cílovou čáru ve volbách – tentokrát. Takže existuje možnost, že bychom mohli zvážit myšlenku vstoupit – pokud slíbíte podporovat klíčové principy progresivních a sociálně demokratických hodnot. Jak říkáme u [socialism_L], sociálně demokratické hodnoty jsou pro všechny, a trváme na tom, že to platí i pro vaši vládu.\n\nMimochodem, nejsou daně trochu nízké? Jste si jisti, že máme dost financí pro plánované zvýšení sociálních dávek, vzdělávání a zdravotní péče?" # todo: NEW TRANSLATION
+ coalition.3.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
+ coalition.3.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.4.t: "Negotiations with [Communist-State_L] ([?party_pop_elect_array^4|%0])" # todo: NEW TRANSLATION
+ coalition.4.d: "Soudruhu [Root.GetLeader]! Zatímco usilujeme o svržení vašeho imperialisticko-bourgeoisie vládnutí, změnu společnosti prostřednictvím revolučního ozbrojeného boje, zavedení demokratické diktatury proletariátu a odstranění třídních zrádců, uvědomujeme si, že mohou existovat určité krátkodobé politické taktické výhody formování koalice v této době.\n\nNaše požadavky jsou jednoduché - plná implementace marxistické dialektické materialismu, 1000% zlepšení socioekonomických podmínek utlačovaného proletariátu a volný vstup do nového Disneylandu, který budeme stavět!\n\n... Budeme se spokojit s těmi menšími ústupky, které jste zmínil." # todo: NEW TRANSLATION
+ coalition.4.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
+ coalition.4.b: "Lépe mrtvý než rudý!" # todo: NEW TRANSLATION
+ coalition.5.t: "Negotiations with [anarchist_communism_L] ([?party_pop_elect_array^5|%0])" # todo: NEW TRANSLATION
+ coalition.5.d: "Soudruhu [Root.GetLeader]. Myslíme si, že bychom posunuli vaši administrativu správným směrem - doleva. Někteří nás nazývají „levicoví radikálové“, ale skuteční_radikálové jsou konzervativní zpátečnické anti-progresivní síly, které veškerou moc dávají do ruk 1% nejbohatších. Bojujeme jen za zdravý rozum a věci, na kterých se může shodnout celé 99% – sociální spravedlnost, feminismus, ukončení zneužívání sociálního zabezpečení, rozpоúštění kapitalismu, internacionalismus a konec západní imperiální nadvlády a jeho vykořisťování Global South." # todo: NEW TRANSLATION
+ coalition.5.a: "Společně jsme silnější!" # todo: NEW TRANSLATION
+ coalition.5.b: "Máme pochybnosti." # todo: NEW TRANSLATION
+ coalition.6.t: "Negotiations with [Conservative_L] ([?party_pop_elect_array^6|%0])" # todo: NEW TRANSLATION
+ coalition.6.d: "" # todo: NEW TRANSLATION
+ coalition.6.a: "Vítejte v týmu!" # todo: NEW TRANSLATION
+ coalition.6.b: "S úctou odmítáme." # todo: NEW TRANSLATION
+ coalition.7.t: "Negotiations with [Autocracy_L] ([?party_pop_elect_array^7|%0])" # todo: NEW TRANSLATION
+ coalition.7.d: "Vážený [Root.GetLeader]. Ačkoli si ceníme krátkozrakého, slabomyslného, roztříštěného festivalu voličské nevědomosti, fňukání, handrkování, plýtvání, kompromisů a váhání, které nazýváte volební kampaní, uznáváme skutečnou moc, kterou jste nyní nashromáždili. Přidejte se k nám a my můžeme setřást pouta legislativní a výkonné moci a prokázat naši společnou sílu, disciplínu, autoritu a jednotu." # todo: NEW TRANSLATION
+ coalition.7.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
+ coalition.7.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.8.t: "Vyjednávání s [Mod_Vilayat_e_Faqih_L] ([?party_pop_elect_array^8|%0])" # todo: NEW TRANSLATION
+ coalition.8.d: "Vážený [Root.GetLeader]. My, šíité Aliho ibn Abi Taliba, jsme připraveni držet se za ruce a přidat se k vám při odvážné odolnosti vůči sionistům a jejich Takfírským pekelným potvorám. Společně, inspirováni svatými mučedníky, vyženeme nepřátele Pravého Islámu ze země. Meče Alláha se jistě obrátí k Sayyidovi Khaménímimu a Sayyid Hassan Nasrallaha pro vedení, ale nebojte se, protože jsme praví [Root.GetAdjective] patrioti, kteří pro zachování našeho posvátného území, pokud to bude nutné, prolijí krev. Zmínili jsme, že se považujeme za umírněné?" # todo: NEW TRANSLATION
+ coalition.8.a: "Smrt Zionistům!" # todo: NEW TRANSLATION
+ coalition.8.b: "Raději bych byl mučen." # todo: NEW TRANSLATION
+ coalition.9.t: "Vyjednávání s [Vilayat_e_Faqih_L] ([?party_pop_elect_array^9|%0])" # todo: NEW TRANSLATION
+ coalition.9.d: "Vážený [Root.GetLeader]. My, šiité Aliho ibn Abi Taliba, jsme připraveni držet se za ruce a spolu s vámi statečně odolávat sionistům a jejich Takfírským pekelným potvorám. Společně, s inspirací od svatých mučedníků, vyženeme nepřátele Pravého Islámu z tváře země. Meče Alláha se jistě obrátí k Sayyidovi Khaménímimu a Sayyid Hassan Nasrallaha pro vedení, ale nebojte se, protože jsme praví [Root.GetAdjective] patrioti, kteří pro zachování našeho posvátného území, pokud to bude nutné, prolijí krev. Zmínili jsme, že se považujeme za umírněné?" # todo: NEW TRANSLATION
+ coalition.9.a: "Smrt Zionistům!" # todo: NEW TRANSLATION
+ coalition.9.b: "Raději bych byl mučen." # todo: NEW TRANSLATION
+ coalition.10.t: "Vyjednávání s [Kingdom_L] ([?party_pop_elect_array^10|%0])" # todo: NEW TRANSLATION
+ coalition.10.d: "" # todo: NEW TRANSLATION
+ coalition.10.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
+ coalition.10.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.11.t: "Vyjednávání s [Caliphate_L] ([?party_pop_elect_array^11|%0])" # todo: NEW TRANSLATION
+ coalition.11.d: "[Root.GetLeader], ačkoli jsme vás nazvali \"špinavým nevěřícím psem\" mnohokrát, nemysleli jsme to vážně tak, jak to vyznělo.\n\nZatímco inshallah půjdete do pekla za to, že se nepřipojíte k Pravému Chalífátu, my, spravedliví a odvážní Mujahidé, vám jistě pomůžeme správně vás vést, jelikož jen my známe skutečnou vůli Alláha, jak nám ji zjevil Prorok Muhammad (ṣallĝ llahu ʿalayhi wa-sallam). Jsme samozřejmě velmi, velmi mírumilovní a pevně oddáni demokratickým principům. Nemáme žádné požadavky. Jsme tu jen, abychom pomohli. Můžeme, inshallah, například pomoci odlehčit tíhu správy armády, policie a soudů z vašich ramen." # todo: NEW TRANSLATION
+ coalition.11.a: "To vypadá jako skvělý nápad" # todo: NEW TRANSLATION
+ coalition.11.b: "lol" # todo: NEW TRANSLATION
+ coalition.12.t: "Vyjednávání s [Neutral_Muslim_Brotherhood_L] ([?party_pop_elect_array^12|%0])" # todo: NEW TRANSLATION
+ coalition.12.d: "" # todo: NEW TRANSLATION
+ coalition.12.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
+ coalition.12.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.13.t: "Vyjednávání s [Neutral_Autocracy_L] ([?party_pop_elect_array^13|%0])" # todo: NEW TRANSLATION
+ coalition.13.d: "" # todo: NEW TRANSLATION
+ coalition.13.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
+ coalition.13.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.14.t: "Vyjednávání s [Neutral_conservatism_L] ([?party_pop_elect_array^14|%0])" # todo: NEW TRANSLATION
+ coalition.14.d: "" # todo: NEW TRANSLATION
+ coalition.14.a: "Vítejte na palubě týmu!" # todo: NEW TRANSLATION
+ coalition.14.b: "Musíme laskavě odmítnout." # todo: NEW TRANSLATION
+ coalition.15.t: "Vyjednávání s [oligarchism_L] ([?party_pop_elect_array^15|%0])" # todo: NEW TRANSLATION
+ coalition.15.d: "Vážený [Root.GetLeader]. Po dalším titánském nafouknutém volebním cirkusu, špinavá masa se brzy roztrhne z tohoto nafouknělého cirkusového stanu, který nazýváte vládou. Jsme účinnější, když moc spočívá jen v malém počtu lidí; Bohatí, šlechta, mocní. Malé je nové velké. Není důležité, jak velká loď je, ale jaký pohyb na moři. To říkáme, teď budeme potřebovat větší loď. Pouze sloučením našich stran do koaliční vlády dnes můžeme zajistit menší loď pro zítřek. S vaší spoluprací naše vládnoucí třída vypluje do západu slunce." # todo: NEW TRANSLATION
+ coalition.15.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
+ coalition.15.b: "Musíme laskavě odmítnout. Doufám, že potopíte!" # todo: NEW TRANSLATION
+ coalition.16.t: "Vyjednávání s [Neutral_Libertarian_L] ([?party_pop_elect_array^16|%0])" # todo: NEW TRANSLATION
+ coalition.16.d: "Vážený [Root.GetLeader]. Často se v vedení [Neutral_Libertarian_L] říká, že udržet stranu pohromadě je jako \"hádání s koťaty\". Věřte nám tedy, když říkáme, že vstoupit do koalice s vámi, statisty, může nastat jen tehdy, pokud jste připraveni učinit vážné ústupky. Jako zbavit se daní a zrušení armády. Samozřejmě nikdy neustoupíme z individuální svobody a ekonomické a sociální svobody. V duchu kompromisu bychom mohli být připraveni o něco odložit úplné zavedení Bitcoinu jako naší nově oficiální měny, ale ještě jsme se o tom nezeptali všech svých členů.\n\n[Root.GetLeader]: \"Co když vám dovolíme kouřit trávu bez toho, abyste šli do vězení?\"\n\n- \"Jasně! To bude fungovat\"." # todo: NEW TRANSLATION
+ coalition.16.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
+ coalition.16.b: "Žert! Vůbec jsme neměli v úmyslu vás začlenit, vy blázni." # todo: NEW TRANSLATION
+ coalition.17.t: "Vyjednávání s [Neutral_green_L] ([?party_pop_elect_array^17|%0])" # todo: NEW TRANSLATION
+ coalition.17.d: "[Root.GetLeader]... To je limousine?! To je TAK nespolehlivé. Kdyby každý řídit takový žrout paliva a létal všude na jednání za zahraničními schůzemi - potřebovali bychom prostředky stovek Zemí! To nemůžeme dopustit, čas ubíhá rychle. Lidské způsobené globální oteplování není sci-fi, je to vědecký fakt. Jen proto, že teploty v HoI4 nemůžou rok od roku stoupat, neznamená, že hrozbu nemáme brát vážně! Požadujeme seriózní plán na rychlé snížení našeho uhlíkového otisku, pokud chceme být součástí vaší vládní koalice." # todo: NEW TRANSLATION
+ coalition.17.a: "Vítejte v naší environmentálně šetrné vládě" # todo: NEW TRANSLATION
+ coalition.17.b: "Nic moc." # todo: NEW TRANSLATION
+ coalition.18.t: "Vyjednávání s [neutral_Social_L] ([?party_pop_elect_array^18|%0])" # todo: NEW TRANSLATION
+ coalition.18.d: "Vážený [Root.GetLeader]. Opravdu si myslíme, že bychom posunuli vaši správu kupředu směrem k větší rovnosti a univerzálním progresivním hodnotám. Pokud se přidáme, požadujeme, aby sociální péče a zdravotní péče byly významně posíleny a daně pro bohaté výrazně zvýšeny. Základní principy demokracie považujeme za posvátné. To platí i pro ekonomiku, která by měla mít aspoň přísné socialistické vládní předpisy, aby byla zajištěna dobrá mzda, lepší pracovní podmínky a menší zisky pro kapitalisty. Opravdu bychom byli tak dobří ve vládnutí, že by bylo lepší, kdyby většina toho byla pod státní kontrolou." # todo: NEW TRANSLATION
+ coalition.18.a: "Společně jsme silnější" # todo: NEW TRANSLATION
+ coalition.18.b: "To se nestane!" # todo: NEW TRANSLATION
+ coalition.19.t: "Vyjednávání s [Neutral_Communism_L] ([?party_pop_elect_array^19|%0])" # todo: NEW TRANSLATION
+ coalition.19.d: "Komrade [Root.GetLeader]! Zatímco usilujeme o svržení vašeho imperialisticko-bourgeoisního vládnutí, změnu společnosti prostřednictvím revoluční ozbrojené síly, zavedení demokratické diktatury Proletariátu a odstranění třídních zrádců, uvědomujeme si, že mohou existovat určité krátkodobé politické taktické výhody formování koalice v této době.\n\nNaše požadavky jsou jednoduché - plná implementace marxistické dialektické materialismu, 1000% zlepšení sociálněekonomických podmínek utlačovaného proletariátu a volný vstup do nového Disneylandu, který budeme budovat!\n\n...Ve skutečnosti se spokojíme s těmi menšími ústupky, které jste zmínili." # todo: NEW TRANSLATION
+ coalition.19.a: "Vpřed, soudruzi!" # todo: NEW TRANSLATION
+ coalition.19.b: "Raději ne." # todo: NEW TRANSLATION
+ coalition.20.t: "Vyjednávání s [Nat_Populism_L] ([?party_pop_elect_array^20|%0])" # todo: NEW TRANSLATION
+ coalition.20.d: "Vážený [Root.GetLeader]. Jste skutečně moudří, že s námi jednáte; každý ví, že jsme skutečným hlasem zdravého rozumu a rozumnosti. Avšak aby [Nat_Populism_L] plnilo roli světla zdravého rozumu, musíme trvat na tom, že přijmete některé patřičné politiky. Politické zřízení [Root.GetName] bylo příliš dlouho pustošeno národem, předávalo naše bohatství a důstojnost nadnárodním firmám, které dovážejí levnou pracovní sílu prostřednictvím selhávajícího imigračního systému! Kromě uchvácení našich pracovních míst zneužívají imigranti také naše podpor v nezaměstnanosti a sociální systém. Dále musíme investovat do naší selhávající infrastruktury a snížit daně! Naše armáda je trestuhodně poddimenzovaná a špatně vyzbrojená - musí být nutně rozšířena. Zmínili jsme policii? Zjevně nemají prostředky na to, aby zvládli všechny zločince, které dovážely naše předchozí vlády. Mezitím naši staří lidé nejsou vhodně ošetřováni - ostuda! Tak, dohodneme se?" # todo: NEW TRANSLATION
+ coalition.20.a: "Vítejte na palubě!" # todo: NEW TRANSLATION
+ coalition.20.b: "Ušetř mě." # todo: NEW TRANSLATION
+ coalition.21.t: "Vyjednávání s [Nat_Fascism_L] ([?party_pop_elect_array^21|%0])" # todo: NEW TRANSLATION
+ coalition.21.d: "Hail [Root.GetLeader]!\n\nVŠUDE, MY PATRIOTI JDEME V POCHODU PROTI ZRADNÍKŮ NAŠÍ CIVILIZACE. MOHLI BY SE K TOMU GLORIOSNÍMU POCHODU ZA ČISTOTU PŘIPOJIT, NEBO VZDÁT NAŠI VELKOU ZEMI ŠPINAVÝM CIZINCŮM! MUSÍME JE VYHNAT! KAŽDÉHO JEDNOHO! (kromě těch, kteří platí členství v [Nat_Fascism_L], nebo jsou naše zásilkové nevěsty)\n\n Požadujeme ČISTOU NÁRODNÍ VLA DU, aby vedla NÁRODNÍ RESTAURACI! Máme jen jednu volbu - chaos nebo pořádek a svoboda. TOTÁLNÍ POŘÁDEK. A TOTÁLNÍ SVOBODA od zahraničních parazitů." # todo: NEW TRANSLATION
+ coalition.21.a: "Jasně! Pojďme na to." # todo: NEW TRANSLATION
+ coalition.21.b: "Vláda? Všichni patříte do jiné instituce..." # todo: NEW TRANSLATION
+ coalition.22.t: "Vyjednávání s [Nat_Autocracy_L] ([?party_pop_elect_array^22|%0])" # todo: NEW TRANSLATION
+ coalition.22.d: "Vážený [Root.GetLeader]. Přichází čas, kdy kvůli národnímu ohrožení musí vojenské zřízení posílit svou roli, aby zaplnilo nebezpečné mocenské vakuum a chránilo národní suverenitu a naši nezávislost a vlastenecké hodnoty. Podle našeho názoru je čas vojenské vlády - vždy. Nicméně si uvědomujeme, že to nyní může přinést určité nechtěné dopady na naše zahraniční vztahy. Bylo by to... méně komplikované - kdybyste prostě diskrétně dělali, co říkáme.\n\nPokud víte, kde je vaše místo, rozhodně bychom pro vás byli velmi silným politickým spojencem." # todo: NEW TRANSLATION
+ coalition.22.a: "Politika je příliš důležitá na to, aby ji nechali politici" # todo: NEW TRANSLATION
+ coalition.22.b: "Politika je příliš důležitá na to, aby ji řešili generálové" # todo: NEW TRANSLATION
+ coalition.23.t: "Jednání s [Monarchist_L] ([?party_pop_elect_array^23|%0])" # todo: NEW TRANSLATION
+ coalition.23.d: "Vážený [Root.GetLeader]. My monarchisté se smějeme představě, že vy, obyčejný člověk, byste mohl [Root.GetName] poskytnout nezbytnou stabilitu a další skvělé výhody, které může udělit jen absolutní monarcha. Všichni víme, že skutečná nejvyšší výkonná moc může být správně vykonávána jen královskou dynastií ve všech jejich svatosti. To by skutečně byla sjednocující silou a silným symbolem naší velikosti, jak kráčíme směrem k plnému národnímu obnovení. Zjevně, absolutní monarchie, požehnané božím právem, překonávají všechny ostatní formy vlády ve všech měřítkách.\n\nDobře, takže zjevně vás nebudeme korunovat, takže bychom mohli na nějakou dobu ponechat zastaralou a anachronistickou republikánskou vládu, zatímco my, monarchisté v koalici, hledáme nejlepšího kandidáta na trůn." # todo: NEW TRANSLATION
+ coalition.23.a: "Jasně, cokoli" # todo: NEW TRANSLATION
+ coalition.23.b: "Jste očividně nevhodní k vládnutí..." # todo: NEW TRANSLATION
+ red_adm_spending_TT: "§RNaše očekávané výdaje na správu jsou - [exp_adm_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_adm_spending_TT: "§GNaše očekávané výdaje na správu činí - [exp_adm_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_adm_spending_TT: "§YNaše očekávané výdaje na správu činí - [exp_adm_spending_text_TT]\n§!" # todo: CHANGED
+ red_police_spending_TT: "§RNaše očekávané výdaje na policii jsou - [exp_police_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_police_spending_TT: "§GNaše očekávané výdaje na policii činí - [exp_police_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_police_spending_TT: "§YNaše očekávané výdaje na policii činí - [exp_police_spending_text_TT]\n§!" # todo: CHANGED
+ red_edu_spending_TT: "§RNaše očekávané výdaje na vzdělání jsou - [exp_edu_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_edu_spending_TT: "§GNaše očekávané výdaje na školství činí - [exp_edu_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_edu_spending_TT: "§YNaše očekávané výdaje na vzdělání jsou - [exp_edu_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ red_health_spending_TT: "§RNaše očekávané výdaje na zdravotnictví jsou - [exp_health_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_health_spending_TT: "§GNaše očekávané výdaje na zdravotnictví činí - [exp_health_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_health_spending_TT: "§YNaše očekávané výdaje na zdravotnictví činí - [exp_health_spending_text_TT]\n§!" # todo: CHANGED
+ red_social_spending_TT: "§RNaše očekávané výdaje na sociální oblast jsou - [exp_social_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_social_spending_TT: "§GNaše očekávané výdaje na sociální oblast činí - [exp_social_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_social_spending_TT: "§YNaše očekávané výdaje na sociální oblast činí - [exp_social_spending_text_TT]\n§!" # todo: CHANGED
+ green_protest_strength_TT: "§G[?THIS.protest_strength|0]§!" # todo: CHANGED
+ red_protest_strength_TT: "§R[?THIS.protest_strength|0]§!" # todo: CHANGED
+ yellow_protest_strength_TT: "§Y[?THIS.protest_strength|0]§!" # todo: CHANGED
+ red_military_spending_TT: "§RNaše očekávané výdaje na armádu jsou - [exp_military_spending_text_TT]\n§!" # todo: NEW TRANSLATION
+ green_military_spending_TT: "§GNaše očekávané vojenské výdaje činí - [exp_military_spending_text_TT]\n§!" # todo: CHANGED
+ yellow_military_spending_TT: "§YNaše očekávané vojenské výdaje činí - [exp_military_spending_text_TT]\n§!" # todo: CHANGED
+ green_protest_radicalisation_TT: "§G[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
+ red_protest_radicalisation_TT: "§R[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
+ yellow_protest_radicalisation_TT: "§Y[?THIS.protest_radicalisation]§!" # todo: NEW TRANSLATION
+ no_fuel_protests_TT: "\n§RDochází k dalšímu radikalizování kvůli nedostatku paliva!§!" # todo: NEW TRANSLATION
+ fuel_protests_TT: "" # todo: NEW TRANSLATION
+ MANAGE_SUBJECTS_TT: "§YMenu subjektů§!\nSubjekty představují jakoukoli zemi, která je satelitem, loutkou, dominion, speciální správní oblastí, nebo jakoukoli zemi, která je podřízena jiné. Každá země bude reagovat odlišně na to, že jste jejím nadvládou, a jako taková bude bojovat za svou nezávislost, nebo umožní eventualní integraci, pokud je vaše země populární u jejich.\n\n§YIntegrace subjektů vám umožňuje získat jádra na jejich územích, čímž se stanou atraktivní alternativou k anexi.§!\n" # todo: NEW TRANSLATION
+ MANAGE_SUBJECTS_DELAYED_TT: "§YDůvody země k boji proti integraci:§!\nZákladní hodnota: §R+10§!\nMá obchodní dohodu se subjektem: §G-20%§!\nNázor subjektu na nás je nižší než 100: §R+200%§!\nNázor subjektu na nás je vyšší než 200: §G-90%§!\nNázor subjektu na nás je vyšší než 240: §G-100%§!\nSubjekt má stejnou perspektivu jako my: §G-50%§!\n\nHodnota §YVliv domácího vlivu§! subjektu je vypočítána jako jejich §YVliv domácího vlivu§! dělený 10 a poté tato hodnota vynásobí hodnotou vypočtenou výše.\n\nVypnutím pravidla AI pro fokus §YZvýšení autonomie§! učiní tyto informace bezpředmětnými." # todo: NEW TRANSLATION
