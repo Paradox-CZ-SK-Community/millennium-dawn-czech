@@ -480,6 +480,102 @@
  AlgeriaFocus.91.a: "Decentralisty" # todo: NEW TRANSLATION
  AlgeriaFocus.91.b: "Populistickými republikány" # todo: NEW TRANSLATION
  AlgeriaFocus.91.c: "Ano, o tom můžeme mluvit později" # todo: NEW TRANSLATION
+ ALG_claim_jerusalem_for_arabs: "Nárokovat Jeruzalém pro Araby" # todo: NEW TRANSLATION
+ ALG_claim_jerusalem_for_arabs_desc: "Ani Izraelci, ani Palestinci si tento region nezaslouží. Ukázali, že z něj dokážou udělat jen chaos. Vládu nad regionem by měli převzít praví Arabové a přinést mír a stabilitu." # todo: NEW TRANSLATION
+ ALG_claim_jerusalem_for_arabs_tt: "Budeme moci změnit státy označené jako §Ynárokované§! v Levantě na §Yjádra§!" # todo: NEW TRANSLATION
+ ALG_approach_hamas: "Navázat kontakt s Hamásem" # todo: NEW TRANSLATION
+ ALG_approach_hamas_desc: "Hamás je jedinou skutečnou silou, která se snaží zabránit sionismu. Musíme s ním vybudovat lepší vztahy, abychom se připravili na svržení Izraele." # todo: NEW TRANSLATION
+ ALG_send_fighters_to_hamas: "Poslat bojovníky Hamásu" # todo: NEW TRANSLATION
+ ALG_send_fighters_to_hamas_desc: "Palestinci statečně vzdorují sionistickým vetřelcům, ale prostou pravdou je, že jsou v menšině. Musíme zorganizovat skupinu dobrovolníků, kteří odcestují do Palestiny a připojí se k řadám Hamásu." # todo: NEW TRANSLATION
+ MSP_claim_jerusalem_for_arabs: "Nárokovat Jeruzalém pro Araby" # todo: NEW TRANSLATION
+ MSP_claim_jerusalem_for_arabs_desc: "Ani Izraelci, ani Palestinci si tento region nezaslouží. Ukázali, že z něj dokážou udělat jen chaos. Vládu nad regionem by měli převzít praví Arabové a přinést mír a stabilitu." # todo: NEW TRANSLATION
+ MSP_approach_hamas: "Navázat kontakt s Hamásem" # todo: NEW TRANSLATION
+ MSP_approach_hamas_desc: "Hamás je jedinou skutečnou silou, která se snaží zabránit sionismu. Musíme s ním vybudovat lepší vztahy, abychom se připravili na svržení Izraele." # todo: NEW TRANSLATION
+ MSP_send_fighters_to_hamas: "Poslat bojovníky Hamásu" # todo: NEW TRANSLATION
+ MSP_send_fighters_to_hamas_desc: "Palestinci statečně vzdorují sionistickým vetřelcům, ale prostou pravdou je, že jsou v menšině. Musíme zorganizovat skupinu dobrovolníků, kteří odcestují do Palestiny a připojí se k řadám Hamásu." # todo: NEW TRANSLATION
+ MSP_condemn_china: "Odsoudit Čínu" # todo: NEW TRANSLATION
+ MSP_condemn_china_desc: "Zacházení Číny s jejími původními muslimy je odporné a mělo by být odsouzeno" # todo: NEW TRANSLATION
+ MSP_improve_relations_with_algeria: "Zlepšit vztahy s Egyptem" # todo: NEW TRANSLATION
+ MSP_improve_relations_with_algeria_desc: "Turecko má s Egyptem komplikovanou minulost, především kvůli našim minulým konfliktům. Všichni zde stojíme na stejné straně a neměli bychom být vůči Egypťanům tak chladní" # todo: NEW TRANSLATION
+ ALG_investments_in_iraq: "Irácké přátelství" # todo: NEW TRANSLATION
+ ALG_investments_in_iraq_desc: "Navzdory tomu, že Irák s námi měl v minulosti méně než ideální vztahy, je nejlepší, když se k sobě opět přiblížíme. Můžeme investovat do irácké infrastruktury a získat si jejich důvěru" # todo: NEW TRANSLATION
+ MSP_work_together_with_BSEC: "Spolupracovat s BSEC" # todo: NEW TRANSLATION
+ MSP_work_together_with_BSEC_desc: "BSEC (Organizace pro černomořskou hospodářskou spolupráci) je organizace zaměřená na přinášení prosperity do oblasti kolem Černého moře. Organizace se skládá ze zemí kolem Černého moře a některých zemí jižního Balkánu. Musíme s těmito zeměmi spolupracovat pro větší prospěch" # todo: NEW TRANSLATION
+ MSP_fixing_ideals: "Obnova ideálů" # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.t: "[ALG.GetNameDef] nás zve k investicím do svých projektů" # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.desc: "Vláda [ALG.GetNameWithFlag], která se vynořila z desetiletí občanské války, nás zve k investicím do řady projektů po celé zemi. Zda vložíme svůj kapitál, záleží na nás. Investice by nám zajistily vliv v Alžíru, ale vzhledem k tomu, že ve vnitrozemí jsou stále aktivní ozbrojené islamistické skupiny, je riziko pro náš majetek skutečné." # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.a: "Investovat do jejich infrastruktury!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.b: "Investovat do jejich civilního průmyslu!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.c: "Investovat do jejich sektoru služeb!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.1.d: "Raději to neriskujme." # todo: NEW TRANSLATION
+ AlgeriaInvestment.2.t: "[FROM.GetNameDef] investoval do naší infrastruktury!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.2.d: "Po několika dnech vyjednávání [FROM.GetNameWithFlag] souhlasil s investicí do naší infrastruktury výměnou za několik minimálních ústupků. Investice prospěje venkovskému obyvatelstvu naší země." # todo: NEW TRANSLATION
+ AlgeriaInvestment.2.a: "Jsme za jejich pomoc vděční!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.3.t: "[FROM.GetNameDef] investoval do našeho civilního průmyslu!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.3.d: "Po několika dnech vyjednávání [FROM.GetNameWithFlag] souhlasil, že nám pomůže vybudovat několik civilních továren výměnou za drobné ústupky. Investice prospěje průmyslovému sektoru naší země a usnadní její modernizaci." # todo: NEW TRANSLATION
+ AlgeriaInvestment.3.a: "Jsme za jejich pomoc vděční!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.4.t: "[FROM.GetNameDef] investoval do našeho sektoru služeb!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.4.d: "Po několika dnech vyjednávání [FROM.GetNameWithFlag] souhlasil s investicí do našeho sektoru služeb prostřednictvím výstavby několika kanceláří výměnou za drobné ústupky. Investice prospěje finančnímu sektoru naší země a usnadní její modernizaci." # todo: NEW TRANSLATION
+ AlgeriaInvestment.4.a: "Jsme za jejich pomoc vděční!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.5.t: "[FROM.GetNameDef] odmítl investovat!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.5.d: "Po několika dnech vyjednávání [FROM.GetNameWithFlag] odmítl naši nabídku investice s odůvodněním, že podnikatelské prostředí v naší zemi zatím není dostatečně bezpečné. Budoucí investiční dohody s námi bude pečlivě zvažovat." # todo: NEW TRANSLATION
+ AlgeriaInvestment.5.a: "Zdá se, že musíme ještě zapracovat!" # todo: NEW TRANSLATION
+ AlgeriaInvestment.6.t: "Alžírsko hledá investice z Blízkého východu po vstupu do WTO" # todo: NEW TRANSLATION
+ AlgeriaInvestment.6.d: "Po nedávném přistoupení ke Světové obchodní organizaci (WTO) Alžírsko usiluje o příliv dalšího kapitálu, který by podpořil hospodářský rozvoj. Úředníci oslovují státy Blízkého východu a žádají o větší spolupráci a investice do klíčových odvětví. Tento krok signalizuje odhodlání Alžírska využít mezinárodní partnerství k podpoře růstu a stability v regionu." # todo: NEW TRANSLATION
+ AlgeriaInvestment.7.t: "Podepisují obchodní dohodu" # todo: NEW TRANSLATION
+ AlgeriaInvestment.7.d: "Chtějí navrhnout obchodní dohodu, která by podpořila větší spolupráci a otevřela dveře budoucím investicím" # todo: NEW TRANSLATION
+ AlgeriaInvestment.7.a: "Jistě" # todo: NEW TRANSLATION
+ AlgeriaInvestment.6.a: "Podepsat obchodní dohodu" # todo: NEW TRANSLATION
+ AlgeriaInvestment.6.b: "Investovat do továrny" # todo: NEW TRANSLATION
+ AlgeriaInvestment.6.c: "Ne, děkujeme" # todo: NEW TRANSLATION
+ Algeria.11.t: "[ALG.GetNameDef] žádá o naši ochranu" # todo: NEW TRANSLATION
+ Algeria.11.d: "Po desetiletích nepokojů se alžírská vláda obává obnovení války nebo vnějšího vměšování a invaze. Prezident [ALG.GetNameWithFlag] navštívil Čung-nan-chaj a požádal generálního tajemníka [CHI.GetLeader] o obrannou smlouvu. Pokud souhlasíme s jejich ochranou, zajistíme jejich začlenění do naší sféry vlivu, ale zároveň budeme mít povinnost bránit [ALG.GetNameWithFlag] před vnějšími hrozbami a poskytovat pomoc při udržování stability země, zejména při potírání povstání islámských extremistů £GFX_ALG_salafist_jihadism. S ohledem na situaci v naší zemi bychom měli s [ALG.GetLeader] podepsat obrannou smlouvu?" # todo: NEW TRANSLATION
+ Algeria.11.a: "Další železný bratr!" # todo: NEW TRANSLATION
+ Algeria.11.b: "Na takovou smlouvu nemáme prostředky!" # todo: NEW TRANSLATION
+ Algeria.12.t: "[CHI.GetNameDef] souhlasil s naší ochranou" # todo: NEW TRANSLATION
+ Algeria.12.d: "Díky našemu diplomatickému úsilí generální tajemník [CHI.GetNameWithFlag] [CHI.GetLeader] formálně podepsal s naším prezidentem [ALG.GetLeader] obrannou smlouvu. Podpisem této smlouvy nás [FROM.GetNameWithFlag] nejen ochrání před vnější agresí, ale také nám poskytne pomoc při udržování vnitřní stability." # todo: NEW TRANSLATION
+ Algeria.12.a: "Vynikající!" # todo: NEW TRANSLATION
+ Algeria.13.t: "[CHI.GetNameDef] odmítl podepsat!" # todo: NEW TRANSLATION
+ Algeria.13.d: "Navzdory návštěvě našeho prezidenta [ALG.GetLeader] v [CHI.GetNameWithFlag] za účelem získání bezpečnostní pomoci byl [CHI.GetLeader] zjevně skoupý na slovo ohledně jakýchkoli smluv. [CHI.GetLeader] našemu prezidentovi řekl: „Vždy budeme odhodláni podporovat regionální bezpečnost a stabilitu.“ Je však zřejmé, že jeho závazek zůstává pouze u slov. Musíme se bránit sami." # todo: NEW TRANSLATION
+ Algeria.13.a: "Jaké zklamání" # todo: NEW TRANSLATION
+ ALG_reconciliation_path: "Dokončený národní proces usmíření" # todo: NEW TRANSLATION
+ ALG_join_nato_partnership: "Připojit se k partnerství NATO" # todo: NEW TRANSLATION
+ ALG_eu_trade_agreements: "Obchodní dohody s EU" # todo: NEW TRANSLATION
+ ALG_expand_russian_gas_investments: "Rozšířit ruské investice do plynu" # todo: NEW TRANSLATION
+ ALG_expand_russian_gas_investments_desc: "Rozšíříme dohody s Ruskem, abychom získali více plynu a vybudovali náš národ." # todo: NEW TRANSLATION
+ ALG_join_belt_and_road: "Připojit se k Hedvábné stezce" # todo: NEW TRANSLATION
+ ALG_join_belt_and_road_desc: "Připojíme se k čínskému železničnímu systému a vybudujeme první stanici metra v Africe." # todo: NEW TRANSLATION
+ ALG_tech_exchange_with_china: "Výměna technologií s Čínou" # todo: NEW TRANSLATION
+ ALG_tech_exchange_with_china_desc: "Získáme čínské technologie pro rozvoj našeho národa." # todo: NEW TRANSLATION
+ ALG_mediterranean_dialogue: "Středomořský dialog" # todo: NEW TRANSLATION
+ ALG_military_takes_control: "Armáda přebírá kontrolu" # todo: NEW TRANSLATION
+ ALG_install_tebboune: "Přivést Tebbounea do vlády" # todo: NEW TRANSLATION
+ ALG_tebboune: "Abdelmadjid Tebboune prezidentem" # todo: NEW TRANSLATION
+ ALG_military: "Ozbrojenci přebírají kontrolu" # todo: NEW TRANSLATION
+ ALG_reformist_path: "Zvolen reformistický směr v rámci události" # todo: NEW TRANSLATION
+ ALG_hardliner_control: "Zvolen tvrdý směr v rámci události" # todo: NEW TRANSLATION
+ ALG_islamist_path: "Zvolen islamistický směr v rámci události" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_tt: "Dodatečný příjem: $0.050!" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_self_sufficient: "Energeticky soběstačný ropný národ" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_self_sufficient_desc: "Alžírsko se rozhodlo využít své nevyužité ropné zdroje a stát se soběstačným ve výrobě energie. Ropa je levná a snadno dostupná, ale není zrovna ekologicky šetrným řešením." # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_small_profit: "Ziskový ropný národ" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_small_profit_desc: "Alžírsko se rozhodlo využít své nevyužité ropné zdroje a stát se soběstačným ve výrobě energie. Ropa je levná a snadno dostupná, ale není zrovna ekologicky šetrným řešením." # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_small_profit_tt: "Dodatečný příjem: $0.050!" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_rich: "Bohatý ropný národ" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_rich_desc: "Alžírsko se rozhodlo využít své nevyužité ropné zdroje a stát se soběstačným ve výrobě energie. Ropa je levná a snadno dostupná, ale není zrovna ekologicky šetrným řešením." # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_rich_tt: "Dodatečný příjem: $0.100!" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy: "Národ začínající s obnovitelnou energií" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_desc: "Alžírsko se rozhodlo využít svůj velký potenciál pro výrobu obnovitelné energie. Obnovitelné zdroje jsou sice drahé a mají nízkou energetickou hustotu, ale jejich používání pomůže životnímu prostředí." # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_self_sufficient: "Energeticky soběstačný národ obnovitelné energie" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_self_sufficient_desc: "Alžírsko se rozhodlo využít svůj velký potenciál pro výrobu obnovitelné energie. Obnovitelné zdroje jsou sice drahé a mají nízkou energetickou hustotu, ale jejich používání pomůže životnímu prostředí." # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_small_profit: "Ziskový národ obnovitelné energie" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_small_profit_desc: "Alžírsko se rozhodlo využít svůj velký potenciál pro výrobu obnovitelné energie. Obnovitelné zdroje jsou sice drahé a mají nízkou energetickou hustotu, ale jejich používání pomůže životnímu prostředí." # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_small_profit_tt: "Dodatečný příjem: $0.040!" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_rich: "Bohatý národ obnovitelné energie" # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_rich_desc: "Alžírsko se rozhodlo využít svůj velký potenciál pro výrobu obnovitelné energie. Obnovitelné zdroje jsou sice drahé a mají nízkou energetickou hustotu, ale jejich používání pomůže životnímu prostředí." # todo: NEW TRANSLATION
+ ALG_renewable_focused_energy_rich_tt: "Dodatečný příjem: $0.080!" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy: "Národ začínající s ropou" # todo: NEW TRANSLATION
+ ALG_oil_focused_energy_desc: "Alžírsko se rozhodlo využít své nevyužité ropné zdroje a stát se soběstačným ve výrobě energie. Ropa je levná a snadno dostupná, ale není zrovna ekologicky šetrným řešením." # todo: NEW TRANSLATION
  ALG_algiers_metro_expansion_desc: "Alžír trpí dopravními zácpami a zastaralou infrastrukturou. Rozšíření systému metra nejen modernizuje dopravu, ale také vyšle investorům i občanům signál o pokroku." # todo: NEW TRANSLATION
  ALG_cevital_group_expansion: "Rozšíření skupiny Cevital" # todo: NEW TRANSLATION
  ALG_cevital_group_expansion_desc: "Cevital, přední alžírský koncern, má potenciál stát se kontinentální velmocí. Podpora jeho růstu vytvoří pracovní místa a urychlí průmyslovou modernizaci." # todo: NEW TRANSLATION
@@ -987,3 +1083,203 @@
  ALG_economic_reforms_tt: "Provést hospodářskou liberalizaci a opatření na podporu transparentnosti.\nPosune rovnováhu směrem k reformistům o §G+0.08§!." # todo: NEW TRANSLATION
  ALG_elite_patronage: "Klientelistické sítě elit" # todo: NEW TRANSLATION
  ALG_elite_patronage_desc: "Kupujeme stabilitu prostřednictvím klientelismu, ale tím prohlubujeme korupci a vyčerpáváme zdroje." # todo: NEW TRANSLATION
+ ALG_yennayer_national_holiday_desc: "V prosinci 2017 prezident Bouteflika prohlásil Yennayer – amazighský Nový rok – za státní svátek. 12. leden se nyní bude slavit po celém Alžírsku." # todo: NEW TRANSLATION
+ ALG_yennayer_tt: "§HYennayer se stává státním svátkem§!\nBerberský Nový rok (12. ledna) je nyní oficiálním alžírským svátkem.\n\n§YHistorické uznání:§!\n- Oslava předislámského dědictví\n- Posílení národní jednoty\n- §GZvýšení spokojenosti Kabylů§!" # todo: NEW TRANSLATION
+ ALG_tamazight_official_2016: "Tamazight: Úřední jazyk" # todo: NEW TRANSLATION
+ ALG_tamazight_official_2016_desc: "Ústavní dodatek z roku 2016 povyšuje tamazight ze „státního“ na „úřední“ jazyk a staví jej na roveň arabštině." # todo: NEW TRANSLATION
+ ALG_tamazight_official_tt: "§HTamazight se stává úředním jazykem§!\n§WÚstavní dodatek z roku 2016:§!\n- Tamazight na roveň arabštině\n- Všechny vládní dokumenty dvojjazyčné\n- Berberština na všech školách\n- §GVelké ústavní vítězství§!" # todo: NEW TRANSLATION
+ ALG_berber_integration_complete: "Jednota v rozmanitosti" # todo: NEW TRANSLATION
+ ALG_berber_integration_complete_desc: "Prostřednictvím dialogu, uznání a investic Alžírsko vyřešilo kabylskou otázku. Arabští a amazighští Alžířané stojí sjednoceni." # todo: NEW TRANSLATION
+ ALG_integration_complete_tt: "§HKabylská otázka vyřešena§!\nAlžírsko úspěšně integrovalo své berberské obyvatelstvo prostřednictvím:\n- Uznání jazyka\n- Kulturních investic\n- Hospodářského rozvoje\n- Respektu a dialogu\n\n§GDosaženo národní jednoty!§!" # todo: NEW TRANSLATION
+ ALG_crush_the_uprising: "Potlačit povstání" # todo: NEW TRANSLATION
+ ALG_crush_the_uprising_desc: "Černé jaro ohrožuje národní jednotu. Žandarmérie obnoví pořádek a separatistické živly budou zneškodněny." # todo: NEW TRANSLATION
+ ALG_crush_uprising_tt: "§HCesta potlačení§!\nPoužijeme sílu k ukončení protestů a zachování územní celistvosti Alžírska.\n\n§YVýhody:§!\n- Udržení veškerého území\n- Žádné ústupky separatistům\n- Vojenská kontrola\n\n§RNáklady:§!\n- Mezinárodní kritika\n- Hluboká kabylská zášť\n- Pokračující odpor" # todo: NEW TRANSLATION
+ ALG_gendarmerie_reinforcement: "Posílení žandarmérie" # todo: NEW TRANSLATION
+ ALG_gendarmerie_reinforcement_desc: "Do Kabylie budou nasazeny další jednotky žandarmérie, aby udržovaly pořádek a zabránily budoucím nepokojům." # todo: NEW TRANSLATION
+ ALG_gendarmerie_tt: "§HNasadit bezpečnostní síly§!\n- Zvýšená přítomnost žandarmérie\n- Monitorování protestů\n- Zadržení klíčových aktivistů\n- Pořádek udržován silou" # todo: NEW TRANSLATION
+ ALG_arabization_policy: "Politika arabizace" # todo: NEW TRANSLATION
+ ALG_arabization_policy_desc: "Jazykem Alžírska je arabština. Zintenzivníme arabizační programy v Kabylíi, abychom čelili separatistické berberské ideologii." # todo: NEW TRANSLATION
+ ALG_arabization_1_tt: "§HZintenzivnit arabizaci§!\n- Vynuceno vzdělávání pouze v arabštině\n- Potlačení tamazightu\n- Prosazování islámské identity\n- Boj proti berberské ideologii\n\n§RKabylové budou hluboce rozhořčeni§!" # todo: NEW TRANSLATION
+ ALG_ban_mak: "Zakázat MAK" # todo: NEW TRANSLATION
+ ALG_ban_mak_desc: "V květnu 2021 bude Mouvement pour l'Autodétermination de la Kabylie (MAK), vedené Ferhatem Mehenniem, označeno za teroristickou organizaci a zakázáno." # todo: NEW TRANSLATION
+ ALG_ban_mak_tt: "§HMAK označeno za teroristickou organizaci§!\nHnutí za sebeurčení Kabylie je zakázáno:\n- Ferhat Mehenni označen za teroristu\n- Zatčení stoupenců MAK\n- Separatistická činnost kriminalizována\n\n§ROčekává se mezinárodní kritika§!" # todo: NEW TRANSLATION
+ ALG_accuse_foreign_interference: "Obvinit zahraniční síly" # todo: NEW TRANSLATION
+ ALG_accuse_foreign_interference_desc: "Separatistické hnutí MAK není původní – je financováno a podporováno zahraničními mocnostmi, které se snaží destabilizovat Alžírsko. Maroko a další musí být odhaleni." # todo: NEW TRANSLATION
+ ALG_foreign_interference_tt: "§HObvinit zahraniční mocnosti§!\nMAK je obviněno z role zahraničního prostředníka:\n- Maroko obviněno z financování MAK\n- Vnější spiknutí proti Alžírsku\n- Národní jednota proti nepřátelům\n\n§RZvýší se diplomatické napětí§!" # todo: NEW TRANSLATION
+ ALG_mak_israel_connection: "Spojení MAK–Izrael" # todo: NEW TRANSLATION
+ ALG_mak_israel_connection_desc: "Setkání Ferhata Mehenniho s izraelskými představiteli dokazuje, že MAK je sionistickým projektem zaměřeným na rozdělení arabského světa. Toto spojení musí být odhaleno." # todo: NEW TRANSLATION
+ ALG_mak_israel_tt: "§HOdhaleno spojení MAK–Izrael§!\n- MAK označeno za sionistický projekt\n- Izrael obviněn z destabilizace\n- Získána podpora Arabské ligy\n- Mobilizovány protiizraelské nálady\n\n§YDomácí podpora §Groste§!§!\n§RVztahy s Izraelem budou zničeny§!" # todo: NEW TRANSLATION
+ ALG_kabylie_pacified: "Kabylie pacifikována" # todo: NEW TRANSLATION
+ ALG_kabylie_pacified_desc: "Prostřednictvím bezpečnostních operací a politického potlačování byla Kabylie přivedena pod kontrolu. Separatistická hrozba je zadržena." # todo: NEW TRANSLATION
+ ALG_kabylie_pacified_tt: "§HKabylie pod kontrolou§!\n- MAK rozdrceno\n- Separatismus kriminalizován\n- Bezpečnostní síly převzaly kontrolu\n- Národní jednota vynucena\n\n§YAle zášť doutná pod povrchem.§!" # todo: NEW TRANSLATION
+ ALG_el_kseur_platform: "Přijmout platformu El-Kseur" # todo: NEW TRANSLATION
+ ALG_el_kseur_platform_desc: "Platforma El-Kseur, kterou Arrouch vypracovalo 11. června 2001, obsahuje 15 požadavků na spravedlnost a práva. Přijmeme ji jako základ jednání." # todo: NEW TRANSLATION
+ ALG_el_kseur_tt: "§HPřijmout platformu El-Kseur§!\n15 požadavků zahrnuje:\n- Spravedlnost pro oběti Černého jara\n- Stažení žandarmérie\n- Úřední status tamazightu\n- Konec hogry\n- Hospodářský rozvoj\n- Demokratické reformy\n\n§RNutné radikální ústupky§!" # todo: NEW TRANSLATION
+ ALG_withdraw_gendarmerie: "Stáhnout žandarmérii" # todo: NEW TRANSLATION
+ ALG_withdraw_gendarmerie_desc: "Klíčový požadavek El-Kseuru – nenáviděná žandarmérie bude z Kabylie stažena a nahrazena místní policií." # todo: NEW TRANSLATION
+ ALG_withdraw_gendarmerie_tt: "§HStažení žandarmérie§!\n- Paramilitární síly opouštějí Kabylíi\n- Kontrolu přebírá místní policie\n- Omezení vojenské přítomnosti\n- Splnění hlavního kabylského požadavku\n\n§RVojenské velení bude nespokojené§!" # todo: NEW TRANSLATION
+ ALG_trial_responsible_officers: "Soud s odpovědnými důstojníky" # todo: NEW TRANSLATION
+ ALG_trial_responsible_officers_desc: "Důstojníci odpovědní za úmrtí během Černého jara budou postaveni před spravedlnost. Tento bezprecedentní krok uznává státní zločiny proti Kabylům." # todo: NEW TRANSLATION
+ ALG_trial_officers_tt: "§HStíhat odpovědné důstojníky§!\n- Důstojníci stanou před soudem za zabíjení\n- Rodiny obětí odškodněny\n- Stát uznává zločiny\n- Historická odpovědnost\n\n§RVojenské velení bude zuřit§!\n§GMezinárodní uznání roste§!" # todo: NEW TRANSLATION
+ ALG_secular_berber_identity: "Sekulární berberská identita" # todo: NEW TRANSLATION
+ ALG_secular_berber_identity_desc: "Kabylie byla historicky sekulárnější než zbytek Alžírska. Uznání sekulární berberské identity zpochybňuje arabsko-islámskou definici alžírského národa." # todo: NEW TRANSLATION
+ ALG_secular_berber_tt: "§HUznat sekulární amazighskou identitu§!\n- Oslava předislámského dědictví\n- Ochrana sekulárních hodnot\n- Zaručení náboženské svobody\n- Zpochybnění islamistického narativu\n\n§RIslamisté se postaví proti§!" # todo: NEW TRANSLATION
+ ALG_mak_dialogue: "Dialog s MAK" # todo: NEW TRANSLATION
+ ALG_mak_dialogue_desc: "Zahájení dialogu se separatistickým hnutím MAK Ferhata Mehenniho. To s sebou nese riziko legitimizace separatismu, ale může jít o jedinou cestu k míru." # todo: NEW TRANSLATION
+ ALG_mak_dialogue_tt: "§HZahájit dialog s MAK§!\nJednat se separatisty:\n- Navázání kontaktu s Ferhatem Mehenniem\n- Diskuse o sebeurčení\n- Prozkoumání autonomie\n- Nezávislost na stole\n\n§REExtrémně kontroverzní§!\n§RRiziko legitimizace separatismu§!" # todo: NEW TRANSLATION
+ ALG_reject_separatism: "Odmítnout separatismus" # todo: NEW TRANSLATION
+ ALG_reject_separatism_desc: "Při respektování berberských práv je územní celistvost Alžírska nevyjednatelná. Jednota v rozmanitosti – nikoli rozdělení – je odpovědí." # todo: NEW TRANSLATION
+ ALG_reject_separatism_tt: "§HJednota v rozmanitosti§!\n- Separatismus odmítnut\n- Berberská práva zaručena\n- Územní celistvost zachována\n- Rozmanité, avšak sjednocené Alžírsko" # todo: NEW TRANSLATION
+ ALG_kabyle_autonomy_statute: "Statut kabylské autonomie" # todo: NEW TRANSLATION
+ ALG_kabyle_autonomy_statute_desc: "Formální statut autonomie pro Kabylíi – samospráva v místních záležitostech při zachování příslušnosti k Alžírsku. Historický kompromis." # todo: NEW TRANSLATION
+ ALG_autonomy_statute_tt: "§HKabylie získává autonomii§!\n- Zřízen regionální parlament\n- Tamazight uznán jako úřední jazyk\n- Pravomoc vybírat místní daně\n- Udělena kulturní autonomie\n\n§YKabylie zůstává součástí Alžírska§!" # todo: NEW TRANSLATION
+ ALG_federal_algeria: "Federální Alžírsko" # todo: NEW TRANSLATION
+ ALG_federal_algeria_desc: "Alžírsko se mění ve federální republiku, jejímž prvním autonomním regionem se stává Kabylie. Ostatní regiony mohou tento model následovat." # todo: NEW TRANSLATION
+ ALG_federal_algeria_tt: "§HAlžírsko se stává federací§!\n- Přijata federální ústava\n- Udělena regionální autonomie\n- Kabylie jako vzor\n- Decentralizace moci\n- Jednota prostřednictvím federalismu" # todo: NEW TRANSLATION
+ ALG_united_secular_algeria: "Sjednocené sekulární Alžírsko" # todo: NEW TRANSLATION
+ ALG_united_secular_algeria_desc: "Sjednocené sekulární Alžírsko, které respektuje všechny identity – arabskou i amazighskou, muslimskou i sekulární. Rozmanitost je naší silou." # todo: NEW TRANSLATION
+ ALG_united_secular_tt: "§HSjednocené sekulární Alžírsko§!\n- Zřízen sekulární stát\n- Respekt ke všem identitám\n- Žádný separatismus\n- Žádný islamismus\n- Moderní demokracie" # todo: NEW TRANSLATION
+ ALG_release_kby_autonomous_tt: "§YUvolnit Kabylíi jako autonomní region§!" # todo: NEW TRANSLATION
+ ALG_black_spring_spirit: "Nepokoje Černého jara" # todo: NEW TRANSLATION
+ ALG_black_spring_spirit_desc: "Zabití Massinissy Guermaha zažehlo největší protesty od získání nezávislosti. Kabylie hoří hněvem proti státu." # todo: NEW TRANSLATION
+ ALG_arrouch_negotiations: "Jednání s Arrouch" # todo: NEW TRANSLATION
+ ALG_arrouch_negotiations_desc: "Vláda jedná s hnutím Arrouch. Tradiční vesnické rady nyní hovoří za Kabylíi." # todo: NEW TRANSLATION
+ ALG_tamazight_national_language: "Tamazight jako národní jazyk" # todo: NEW TRANSLATION
+ ALG_tamazight_national_language_desc: "Tamazight byl uznán jako národní jazyk Alžírska – významný krok k uznání Berberů." # todo: NEW TRANSLATION
+ ALG_tamazight_official_language: "Tamazight jako úřední jazyk" # todo: NEW TRANSLATION
+ ALG_tamazight_official_language_desc: "Ústava z roku 2016 učinila tamazight úředním jazykem na roveň arabštině. Historický úspěch pro berberská práva." # todo: NEW TRANSLATION
+ ALG_addressing_kabyle_grievances: "Řešení kabylských křivd" # todo: NEW TRANSLATION
+ ALG_addressing_kabyle_grievances_desc: "Vláda investuje do Kabylie a řeší roky zanedbávání a „hogry“ (pohrdání)." # todo: NEW TRANSLATION
+ ALG_amazigh_cultural_institutions: "Amazighské kulturní instituce" # todo: NEW TRANSLATION
+ ALG_amazigh_cultural_institutions_desc: "Investice do berberských kulturních institucí zachovávají a oslavují amazighské dědictví Alžírska." # todo: NEW TRANSLATION
+ ALG_united_algeria: "Sjednocené Alžírsko" # todo: NEW TRANSLATION
+ ALG_united_algeria_desc: "Prostřednictvím dialogu a respektu Alžírsko sjednotilo své arabské a amazighské obyvatelstvo. Kabylská otázka je vyřešena." # todo: NEW TRANSLATION
+ ALG_kabyle_crackdown: "Potlačení Kabylů" # todo: NEW TRANSLATION
+ ALG_kabyle_crackdown_desc: "Bezpečnostní síly potlačují kabylské protesty. Pořádek je obnovován silou." # todo: NEW TRANSLATION
+ ALG_gendarmerie_deployed: "Nasazení žandarmérie" # todo: NEW TRANSLATION
+ ALG_gendarmerie_deployed_desc: "Jednotky žandarmérie jsou rozmístěny po celé Kabylíi, udržují pořádek a sledují opozici." # todo: NEW TRANSLATION
+ ALG_forced_arabization: "Nucená arabizace" # todo: NEW TRANSLATION
+ ALG_forced_arabization_desc: "Arabizační politika je v Kabylíi zintenzivňována. Berberská identita je potlačována ve prospěch arabsko-islámského nacionalismu." # todo: NEW TRANSLATION
+ ALG_mak_banned: "MAK zakázáno" # todo: NEW TRANSLATION
+ ALG_mak_banned_desc: "Hnutí za sebeurčení Kabylie bylo označeno za teroristickou organizaci. Separatismus je nyní kriminalizován." # todo: NEW TRANSLATION
+ ALG_foreign_hands_narrative: "Narativ o zahraničních silách" # todo: NEW TRANSLATION
+ ALG_foreign_hands_narrative_desc: "Vláda obviňuje ze separatismu Kabylů zahraniční mocnosti – zejména Maroko a Izrael. Vnější nepřátelé sjednocují národ." # todo: NEW TRANSLATION
+ ALG_mak_terrorist_designation: "Označení MAK za teroristické" # todo: NEW TRANSLATION
+ ALG_mak_terrorist_designation_desc: "MAK a Ferhat Mehenni jsou označeni za teroristy s vazbami na Izrael. Separatistická hrozba je vykreslována jako sionistické spiknutí." # todo: NEW TRANSLATION
+ ALG_kabylie_under_control: "Kabylie pod kontrolou" # todo: NEW TRANSLATION
+ ALG_kabylie_under_control_desc: "Kabylie je prostřednictvím síly a politického potlačování pod kontrolou vlády. Pod povrchem však doutná zášť." # todo: NEW TRANSLATION
+ ALG_el_kseur_negotiations: "Jednání v El-Kseuru" # todo: NEW TRANSLATION
+ ALG_el_kseur_negotiations_desc: "Vláda přijala platformu El-Kseur jako základ jednání s Kabylíí." # todo: NEW TRANSLATION
+ ALG_secular_amazigh_movement: "Sekulární amazighské hnutí" # todo: NEW TRANSLATION
+ ALG_secular_amazigh_movement_desc: "Je uznávána sekulární berberská identita, která zpochybňuje arabsko-islámskou definici alžírského národa." # todo: NEW TRANSLATION
+ ALG_mak_negotiations: "Jednání s MAK" # todo: NEW TRANSLATION
+ ALG_mak_negotiations_desc: "Vláda vede bezprecedentní dialog se separatistickým hnutím MAK. Budoucnost Kabylie visí na vlásku." # todo: NEW TRANSLATION
+ ALG_unity_within_diversity: "Jednota v rozmanitosti" # todo: NEW TRANSLATION
+ ALG_unity_within_diversity_desc: "Alžírsko přijímá svou rozmanitost – arabskou i amazighskou, muslimskou i sekulární – a zároveň zachovává národní jednotu. Separatismus je odmítnut." # todo: NEW TRANSLATION
+ ALG_federal_republic: "Federální republika" # todo: NEW TRANSLATION
+ ALG_federal_republic_desc: "Alžírsko se stalo federální republikou, jejímž prvním autonomním regionem je Kabylie. Moc je decentralizována při zachování jednoty." # todo: NEW TRANSLATION
+ ALG_secular_united_nation: "Sekulární sjednocený národ" # todo: NEW TRANSLATION
+ ALG_secular_united_nation_desc: "Alžírsko se stalo sjednoceným sekulárním národem, který respektuje všechny identity a odmítá separatismus i náboženský extremismus." # todo: NEW TRANSLATION
+ KBY_autonomous_kabylie: "Autonomní Kabylie" # todo: NEW TRANSLATION
+ KBY_autonomous_kabylie_desc: "Kabylie dosáhla autonomie v rámci Alžírska. Samospráva v místních záležitostech při zachování příslušnosti k národu." # todo: NEW TRANSLATION
+ KBY_federal_partner: "Federální partner" # todo: NEW TRANSLATION
+ KBY_federal_partner_desc: "Jako federální partner Alžírska se Kabylie těší plné autonomii a rovnoprávnému postavení v alžírské federaci." # todo: NEW TRANSLATION
+ ALG_kabyle_autonomy: "Cesta kabylské autonomie" # todo: NEW TRANSLATION
+ ALG_kabyle_suppressed: "Cesta potlačení Kabylů" # todo: NEW TRANSLATION
+ ALG_kabyle_independence: "Cesta kabylské nezávislosti" # todo: NEW TRANSLATION
+ ALG_black_spring_triggered: "Černé jaro vypuklo" # todo: NEW TRANSLATION
+ ALG_kabyle_issue_resolved: "Kabylská otázka vyřešena" # todo: NEW TRANSLATION
+ ALG_kabyle_suppressed_complete: "Potlačení Kabylů dokončeno" # todo: NEW TRANSLATION
+ ALG_became_federal: "Alžírsko se stalo federací" # todo: NEW TRANSLATION
+ ALG_secular_path_complete: "Sekulární cesta dokončena" # todo: NEW TRANSLATION
+ human_rights_violation: "Porušování lidských práv" # todo: NEW TRANSLATION
+ human_rights_progress: "Pokrok v oblasti lidských práv" # todo: NEW TRANSLATION
+ accused_of_interference: "Obvinění ze vměšování" # todo: NEW TRANSLATION
+ accused_of_terrorism_support: "Obvinění z podpory terorismu" # todo: NEW TRANSLATION
+ anti_israel_stance: "Protiizraelský postoj" # todo: NEW TRANSLATION
+ ALG_bribe_malian_generals: "Podplatit malijské generály" # todo: NEW TRANSLATION
+ ALG_bribe_malian_generals_desc: "Malijskou vojenskou juntu lze ovlivnit pečlivým rozdělováním finančních prostředků. Podplacením klíčových generálů může Alžírsko získat vliv na rozhodování v Bamaku a zajistit naše zájmy v Sahelu." # todo: NEW TRANSLATION
+ ALG_isolate_mali_regime: "Izolovat malijský režim" # todo: NEW TRANSLATION
+ ALG_isolate_mali_regime_desc: "Vojenský režim v Bamaku destabilizoval region a ohrozil tuaregské obyvatelstvo. Alžírsko se pokusí juntu mezinárodně izolovat a postavit se do role legitimního prostředníka v sahelské krizi." # todo: NEW TRANSLATION
+ ALG_isolate_mali_tt: "§HIzolovat malijský režim§!\nVyužijeme diplomatický tlak a kanály Africké unie k odsouzení vojenské junty.\n\n§YVýhody:§!\n- Regionální vedení Alžírska\n- Zvýšená podpora Tuaregů\n- Oslabení Mali\n- Získaný vliv v AU\n\n§WVýsledek:§!\nAlžírsko se stává klíčovým prostředníkem v záležitostech Sahelu" # todo: NEW TRANSLATION
+ ALG_au_condemns_mali_tt: "§YAfrická unie odsuzuje malijský režim§!\nVšichni členové AU zhorší své mínění o Mali" # todo: NEW TRANSLATION
+ ALG_malian_general_network: "Síť malijských generálů" # todo: NEW TRANSLATION
+ ALG_malian_general_network_desc: "Síť podplacených malijských generálů poskytuje Alžírsku zpravodajské informace a vliv na vojenskou juntu v Bamaku." # todo: NEW TRANSLATION
+ ALG_sahel_mediator: "Prostředník v Sahelu" # todo: NEW TRANSLATION
+ ALG_sahel_mediator_desc: "Alžírsko se stalo hlavním diplomatickým prostředníkem v konfliktech v Sahelu. Náš hlas má v regionálních záležitostech váhu." # todo: NEW TRANSLATION
+ MAL_international_isolation: "Mezinárodní izolace" # todo: NEW TRANSLATION
+ MAL_international_isolation_desc: "Vojenský režim čelí mezinárodnímu odsouzení a izolaci. Obchod je narušen, zahraniční pomoc pozastavena a vláda má potíže udržet kontrolu." # todo: NEW TRANSLATION
+ ALG_bribed_our_generals: "Podplatili jsme naše generály" # todo: NEW TRANSLATION
+ ALG_supported_our_cause: "Podpořili naši věc" # todo: NEW TRANSLATION
+ AU_condemned_regime: "AU odsoudila režim" # todo: NEW TRANSLATION
+ ALG_bribed_mali_generals: "Podplacení malijští generálové" # todo: NEW TRANSLATION
+ ALG_isolated_mali: "Izolovaný malijský režim" # todo: NEW TRANSLATION
+ ALG_dziri_unlock_tt: "§YVyžaduje jednu z možností:§!\n- Dokončeno §HObnovit naději§!\n- Dokončeno §HOdolávat Le Pouvoir§!\n- Dokončen §Hvojenský převrat§!" # todo: NEW TRANSLATION
+ ALG_requires_democratic_or_neutral_tt: "Vyžaduje §Hdemokratickou§! nebo §Hneutrální§! vládu" # todo: NEW TRANSLATION
+ ALG_requires_authoritarian_or_neutral_tt: "Vyžaduje §Hautoritářskou§! nebo §Hneutrální§! vládu" # todo: NEW TRANSLATION
+ ALG_not_gender_equality_tt: "§RNeslučitelné s ideou Rovnost pohlaví§!" # todo: NEW TRANSLATION
+ ALG_not_suppressed_kabyle_tt: "§RNení dostupné, pokud byla Kabylie potlačena§!" # todo: NEW TRANSLATION
+ ALG_migration_event_required_tt: "§YOdemčeno událostí Migrační krize§!" # todo: NEW TRANSLATION
+ ALG_drug_event_required_tt: "§YOdemčeno událostí Drogová krize§!" # todo: NEW TRANSLATION
+ ALG_bouteflika_crisis_unlock_tt: "§YVyžaduje, aby se rozšířily zprávy o prezidentově nemoci§!" # todo: NEW TRANSLATION
+ ALG_dziri_tt: "§GVětev alžírské společnosti odemčena:§!\n\nVyberte, jak utvářet alžírskou společnost – pokrokově, nebo tradičně; otevřeně, nebo uzavřeně." # todo: NEW TRANSLATION
+ ALG_dziri_unlocks_tt: "§YOdemkne větev společnosti:§!\n- Cesta občanské společnosti (demokratická/neutrální)\n- Cesta tradic (autoritářská/neutrální)\n- Berberská práva (demokratická/neutrální)\n- Reakce na drogy (spuštěná událostí)\n- Reakce na migraci (spuštěná událostí)" # todo: NEW TRANSLATION
+ ALG_open_civil_society_tt: "§GOtevřená občanská společnost:§!\n\n- Nevládní organizace a charitativní spolky vzkvétají\n- Roste demokratická účast\n- Základ pro pokrokové reformy" # todo: NEW TRANSLATION
+ ALG_constitutionalize_rights_tt: "§GÚstavní práva:§!\n\n- Ochrana základních svobod\n- Posílení právního státu\n- Mezinárodní uznání" # todo: NEW TRANSLATION
+ ALG_integration_policy_tt: "§GIntegrační programy:§!\n\n- Migranti se stávají produktivními občany\n- Zisk pracovní síly\n- Sociální soudržnost" # todo: NEW TRANSLATION
+ ALG_unlocks_migration_branch_tt: "§YOdemkne větev reakce na migraci§!\n(Při spuštění migrační události)" # todo: NEW TRANSLATION
+ ALG_migration_problems_tt: "§YMigrační krize:§!\n\nMigranti ze subsaharské Afriky zaplavují jižní hranice Alžírska. Musíte zvolit, jak reagovat." # todo: NEW TRANSLATION
+ ALG_migration_choice_tt: "§YVolba:§!\n- §GOtevřená politika§! – Přivítat migranty\n- §RUzavřené hranice§! – Zabezpečit hranici" # todo: NEW TRANSLATION
+ ALG_open_door_tt: "§GOtevřená politika:§!\n\n- Přivítat migranty a uprchlíky\n- Zisk pracovní síly\n- Určitá ztráta stability\n- Humanitární pověst" # todo: NEW TRANSLATION
+ ALG_closed_borders_tt: "§RUzavřené hranice:§!\n\n- Zabezpečit hranici\n- Zisk stability\n- Omezení zahraničního vlivu\n- Zpomalení růstu populace" # todo: NEW TRANSLATION
+ ALG_expand_berber_rights_tt: "§GRozšířit berberská práva:§!\n\n- Oslava amazighské kultury\n- Zvýšení spokojenosti Kabylů\n- Výhody výzkumu díky rozmanitosti" # todo: NEW TRANSLATION
+ ALG_drug_problem_tt: "§YDrogová krize:§!\n\nObchod s drogami z Maroka a Sahelu způsobil problémy se závislostí. Musíte zvolit, jak reagovat." # todo: NEW TRANSLATION
+ ALG_drug_choice_tt: "§YVolba:§!\n- §GDe\-kriminalizovat§! – Přístup založený na zdravotní péči\n- §RPřitvrdit tresty§! – Přístup založený na prosazování práva" # todo: NEW TRANSLATION
+ ALG_relax_restrictions_tt: "§GDe\-kriminalizovat drogy:§!\n\n- Zacházet se závislostí jako se zdravotním problémem\n- Snížit počet vězňů\n- Část vlivu mafie zůstává\n- Omezení mezinárodní kritiky" # todo: NEW TRANSLATION
+ ALG_tighten_punishments_tt: "§RTvrdě zakročit proti drogám:§!\n\n- Přísné tresty pro dealery\n- Omezení vlivu mafie\n- Zvýšení podpory války\n- Určitá ztráta stability" # todo: NEW TRANSLATION
+ ALG_traditions_matter_tt: "§GTradiční hodnoty:§!\n\n- Zachování alžírských zvyků\n- Prosazování náboženských hodnot\n- Odpor vůči západnímu vlivu" # todo: NEW TRANSLATION
+ ALG_unlocks_conservative_path_tt: "§YOdemkne konzervativní společenskou cestu§!" # todo: NEW TRANSLATION
+ ALG_censor_internet_tt: "§YCenzurovat internet:§!\n\n- Blokovat zahraniční propagandu\n- Kontrolovat tok informací\n- Omezit zahraniční vliv\n- Mírné zpomalení výzkumu" # todo: NEW TRANSLATION
+ ALG_restrict_women_tt: "§YTradiční role pohlaví:§!\n\n- Povzbuzovat ženy, aby zůstaly doma\n- Porodnost může vzrůst\n- Omezení pracovní síly\n- Kritika ze Západu" # todo: NEW TRANSLATION
+ ALG_marriage_subsidies_tt: "§GDotace na sňatky:§!\n\n- Vláda platí svatby\n- Podpora růstu populace\n- Náklady pro státní pokladnu\n- Prosazování tradičních hodnot" # todo: NEW TRANSLATION
+ ALG_open_civil_society_idea: "Otevřená občanská společnost" # todo: NEW TRANSLATION
+ ALG_open_civil_society_idea_desc: "Alžírsko má živou občanskou společnost s aktivními nevládními organizacemi, charitativními spolky a komunitními organizacemi, které přispívají k veřejnému životu." # todo: NEW TRANSLATION
+ ALG_constitutionalize_rights_idea: "Ústavní práva" # todo: NEW TRANSLATION
+ ALG_constitutionalize_rights_idea_desc: "Základní práva jsou zakotvena v ústavě, chrání alžírské občany a posilují právní stát." # todo: NEW TRANSLATION
+ ALG_integration_policy_idea: "Integrační politika" # todo: NEW TRANSLATION
+ ALG_integration_policy_idea_desc: "Alžírsko aktivně integruje migranty a uprchlíky, poskytuje jazykovou výuku a cesty k získání občanství." # todo: NEW TRANSLATION
+ ALG_migration_crisis: "Migrační krize" # todo: NEW TRANSLATION
+ ALG_migration_crisis_desc: "Vlny migrantů ze subsaharské Afriky zahltily pohraniční zařízení a vyvolaly společenské napětí." # todo: NEW TRANSLATION
+ ALG_welcome_migrants: "Otevřená politika" # todo: NEW TRANSLATION
+ ALG_welcome_migrants_desc: "Alžírsko vítá migranty a uprchlíky a poskytuje jim humanitární pomoc a podporu integrace." # todo: NEW TRANSLATION
+ ALG_refugees_maintained: "Spravovaná populace uprchlíků" # todo: NEW TRANSLATION
+ ALG_refugees_maintained_desc: "Populace uprchlíků v Alžírsku je dobře spravována díky vhodným zařízením a integračním programům." # todo: NEW TRANSLATION
+ ALG_drug_crisis: "Drogová krize" # todo: NEW TRANSLATION
+ ALG_drug_crisis_desc: "Obchod s drogami a závislost se staly vážnými problémy a zatěžují orgány činné v trestním řízení i zdravotnictví." # todo: NEW TRANSLATION
+ ALG_traditions_matter_idea: "Tradiční hodnoty" # todo: NEW TRANSLATION
+ ALG_traditions_matter_idea_desc: "Alžírsko prosazuje tradiční hodnoty včetně rodiny, víry a komunity. Západnímu kulturnímu vlivu se staví na odpor." # todo: NEW TRANSLATION
+ ALG_censored_internet_idea: "Cenzurovaný internet" # todo: NEW TRANSLATION
+ ALG_censored_internet_idea_desc: "Vláda kontroluje přístup k internetu a blokuje zahraniční propagandu a nemorální obsah." # todo: NEW TRANSLATION
+ ALG_women_role_idea: "Tradiční role pohlaví" # todo: NEW TRANSLATION
+ ALG_women_role_idea_desc: "Ženy jsou povzbuzovány k přijetí tradičních rolí hospodyněk a matek. Podíl žen na pracovní síle klesl." # todo: NEW TRANSLATION
+ ALG_marriage_subsidies_idea: "Dotace na sňatky" # todo: NEW TRANSLATION
+ ALG_marriage_subsidies_idea_desc: "Vláda dotuje sňatky, pomáhá mladým párům zaplatit svatbu a podporuje zakládání rodin." # todo: NEW TRANSLATION
+ restricts_women_rights: "Omezuje práva žen" # todo: NEW TRANSLATION
+ ALG_migration_flood: "Migrační krize probíhá" # todo: NEW TRANSLATION
+ ALG_drugs: "Drogová krize probíhá" # todo: NEW TRANSLATION
+ ALG_mediterranean_games_preparation: "Příprava na Středomořské hry" # todo: NEW TRANSLATION
+ ALG_mediterranean_games_preparation_desc: "Oran se proměňuje kvůli Středomořským hrám v roce 2022. Stavební dělníci nepřetržitě pracují na olympijském komplexu, nových stadionech a olympijské vesnici. Národ se sjednocuje kolem této historické události, protože se Alžírsko připravuje přivítat na svém území 26 národů." # todo: NEW TRANSLATION
+ ALG_more_infra: "Rozšířit infrastrukturu" # todo: NEW TRANSLATION
+ ALG_more_infra_desc: "Alžírská infrastruktura vyžaduje výrazné rozšíření, aby podpořila hospodářský růst. Nové silnice, železnice a inženýrské sítě propojí komunity a usnadní obchod po celé zemi." # todo: NEW TRANSLATION
+ TT_ALG_SECULAR_DISCONTENT_MODIFIER: "§RSekularisté jsou stále nespokojenější§!\nPokrokoví a sekulární Alžířané se staví proti náboženské politice." # todo: NEW TRANSLATION
+ TT_ALG_ISLAMIST_SATISFACTION_MODIFIER: "§GPodpora islamistů roste§!\nNáboženští konzervativci tato opatření schvalují." # todo: NEW TRANSLATION
+ ALG_more_relation_better: "§HJe§! §Gpravděpodobnější, že se přidají§! §Hpokud máme§! §Glepší vztahy!§!" # todo: NEW TRANSLATION
+ ALG_improve_relations_with_egypt: "Zlepšit vztahy s Egyptem" # todo: NEW TRANSLATION
+ ALG_improve_relations_with_egypt_desc: "Egypt a Alžírsko sdílejí hluboké vazby jako přední arabské národy. MSP, jehož kořeny sahají k tradici Muslimského bratrstva, považuje Káhiru za přirozeného partnera. Posílení vztahů s Egyptem zlepší naše postavení v arabském světě a otevře dveře hospodářské a náboženské spolupráci." # todo: NEW TRANSLATION
+ algerian_military_dismantling: "Rozebrání armády" # todo: NEW TRANSLATION
+ algerian_military_dismantling_desc: "Alžírská armáda je systematicky rozebírána. Výzbroj je vyřazována, jednotky rozpouštěny a důstojníci odcházejí do penze. Kdysi mocná Alžírská národní lidová armáda je jen stínem své někdejší podoby." # todo: NEW TRANSLATION
+ algerian_student_exchanges: "Programy studentských výměn" # todo: NEW TRANSLATION
+ algerian_student_exchanges_desc: "Alžírští studenti studují na zahraničních univerzitách, zatímco zahraniční studenti přicházejí do Alžírska. Tyto výměny budují vazby, předávají znalosti a vzdělávají další generaci alžírských odborníků." # todo: NEW TRANSLATION
+ ALG_boost_reformists: "Posílit reformisty" # todo: NEW TRANSLATION
+ ALG_boost_old_guard: "Posílit starou gardu" # todo: NEW TRANSLATION
+ ALG_rally_students: "Mobilizovat studenty" # todo: NEW TRANSLATION

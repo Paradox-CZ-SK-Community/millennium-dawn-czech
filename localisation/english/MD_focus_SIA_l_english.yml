@@ -342,6 +342,301 @@
  SIA_nuclear_power_program_choice_tt: "Zvolte směr palivového cyklu.\n - §YVzepřít se inspektorům§!: Obohacování schopné vyrábět zbraně pod sankcemi\n - §YPřijmout záruky MAAE§!: Napravit vztahy s Washingtonem" # todo: NEW TRANSLATION
  SIA_prayuth_premiership_choice_tt: "Zvolte, jak generál naplánuje své nástupnictví.\n - §YŘízený přechod§!: Upevnit establishment\n - §YInstitucionalizovat urovnání§!: Ustoupit zpět k civilnější tváři" # todo: NEW TRANSLATION
  SIA_2020_protest_response_choice_tt: "Zvolte reakci na protesty.\n - §YPotlačit je§!: Stojí stabilitu a zvyšuje riziko převratu\n - §YPřistoupit na reformu§!: Uklidnění a podpora reformního hnutí\n - §YPočkat, až je to přejde§!" # todo: NEW TRANSLATION
+ SIA_found_the_pact: "Objevit Organizaci smlouvy pro jihovýchodní Asii" # todo: NEW TRANSLATION
+ SIA_found_the_pact_desc: "Slova se mění v instituce. Thajsko obnovuje název, který vnější mocnosti v roce 1977 opustily, a dává mu regionálního vlastníka: Organizaci smlouvy pro jihovýchodní Asii, pakt vzájemné obrany s Bangkokem v jeho středu a sousedy mezi jeho členy. Thajsko přebírá roli zakládajícího vůdce. Vlajka je vztyčena. Pakt je skutečný." # todo: NEW TRANSLATION
+ SIA_invite_mainland: "Pozvat pozemní partnery" # todo: NEW TRANSLATION
+ SIA_invite_mainland_desc: "Vietnam, Laos, Kambodža a Myanmar sdílejí s Thajskem hranice i společné hrozby. Bangkok rozesílá formální pozvání pevninským státům a vysvětluje, že bezpečnost v kontinentálním vnitrozemí závisí na společném postupu, nikoli na soupeřícím zajišťování." # todo: NEW TRANSLATION
+ SIA_invite_mainland_tt: "Pozve naše pevninské sousedy ke vstupu do SEATO.\n - Každý z nich sám rozhodne, zda nabídku přijme\n - Člen, který nabídku přijme, získá ideu, která ho zaváže k paktu" # todo: NEW TRANSLATION
+ SIA_invite_maritime: "Pozvat námořní partnery" # todo: NEW TRANSLATION
+ SIA_invite_maritime_desc: "Indonésie, Filipíny, Malajsie, Singapur a Brunej ovládají moře, na nichž Thajsko závisí kvůli obchodu. Námořní partneři jsou pozváni ke vstupu do paktu, čímž se souostroví a poloostrov spojí do jediného strategického společenství." # todo: NEW TRANSLATION
+ SIA_invite_maritime_tt: "Pozve námořní státy jihovýchodní Asie ke vstupu do SEATO.\n - Každý z nich sám rozhodne, zda nabídku přijme\n - Člen, který nabídku přijme, získá ideu, která ho zaváže k paktu" # todo: NEW TRANSLATION
+ SIA_invite_breakaways: "Pozvat pohraniční státy" # todo: NEW TRANSLATION
+ SIA_invite_breakaways_desc: "Jižní Šan, Karenové a Wa ovládají území mezi Thajskem a barmským vnitrozemím a žádný z nich nedokáže přežít sám. Bangkok jim nabízí to, co Najpjijto nikdy nenabídne: místo u stolu, podpis smlouvy a postavení státu namísto povstaleckého hnutí." # todo: NEW TRANSLATION
+ SIA_invite_breakaways_tt: "Pozve barmské separatistické státy ke vstupu do SEATO, pokud existují.\n - Každý z nich sám rozhodne, zda nabídku přijme\n - Člen, který nabídku přijme, získá ideu, která ho zaváže k paktu" # todo: NEW TRANSLATION
+ SIA_seato_invite_line_tt: " - §Y[THIS.GetNameDefCap]§! je pozván ke vstupu do SEATO" # todo: NEW TRANSLATION
+ SIA_seato_invite_accept_tt: " - Vstoupí do §YSEATO§! a získá ideu, která ho zaváže k paktu" # todo: NEW TRANSLATION
+ SIA_seato_accession_category: "Přistoupení k SEATO" # todo: NEW TRANSLATION
+ SIA_seato_accession_category_desc: "První Organizace smlouvy pro jihovýchodní Asii byla podepsána v Manile v roce 1954 a řízena z Bangkoku, ale pouze dva z jejích osmi členů pocházeli z jihovýchodní Asie a v roce 1977 se rozpadla, aniž by byla kdy použita. Tato organizace je regionálním paktem, kterým ta první nikdy nebyla: Thajsko v čele, sousedé jako členové a záruka zaměřená na obranu jihovýchodní Asie, nikoli na zadržování někoho jiného. Místa je třeba obsadit jedno po druhém.\n\nPřed pozváním do frakce si prohlédněte vstřícnost jednotlivých zemí." # todo: NEW TRANSLATION
+ SIA_renew_seato_invitation: "Obnovit pozvání" # todo: NEW TRANSLATION
+ SIA_renew_seato_invitation_desc: "Pošlete delegaci zpět do [FROM.GetNameDefCap] s textem smlouvy a novou nabídkou. Odmítnutí není trvalé a podmínky se nezměnily." # todo: NEW TRANSLATION
+ SIA_seato_charm_offensive_major: "Dvořit se zemi [FROM.GetNameDefCap]" # todo: NEW TRANSLATION
+ SIA_seato_charm_offensive_major_desc: "Státní návštěvy, úvěrová linka, stipendia pro jejich důstojníky a thajský pavilon na jejich veletrhu. Ministerstvo zahraničí se po tři měsíce věnuje výhradně tomu. Nic z toho není smlouva. Všechno to však usnadní její podpis, až se příště zeptáme." # todo: NEW TRANSLATION
+ SIA_seato_charm_offensive_minor: "Dvořit se zemi [FROM.GetNameDefCap]" # todo: NEW TRANSLATION
+ SIA_seato_charm_offensive_minor_desc: "Státní návštěvy, úvěrová linka, stipendia pro jejich důstojníky a thajský pavilon na jejich veletrhu. Ministerstvo zahraničí se po tři měsíce věnuje výhradně tomu. Nic z toho není smlouva. Všechno to však usnadní její podpis, až se příště zeptáme." # todo: NEW TRANSLATION
+ SIA_courting_mission: "Dvoření sousedům" # todo: NEW TRANSLATION
+ SIA_courting_mission_desc: "Vyšší diplomatičtí pracovníci, ministerský kalendář i většina volně použitelného rozpočtu jsou až do konce mise věnovány jedinému hlavnímu městu. Všechno ostatní ve vládě musí počkat." # todo: NEW TRANSLATION
+ SIA_seato_rec_opinion_yes: "§GNázor na Thajsko je vyšší než 40§! (+25)" # todo: NEW TRANSLATION
+ SIA_seato_rec_opinion_no: "§RNázor na Thajsko je 40 nebo nižší§! (+25)" # todo: NEW TRANSLATION
+ SIA_seato_rec_faction_yes: "§VNení v jiné frakci§! (+20)" # todo: NEW TRANSLATION
+ SIA_seato_rec_faction_no: "§RUž je v jiné frakci§! (+20)" # todo: NEW TRANSLATION
+ SIA_seato_rec_influence_yes: "§GThajsko patří mezi tři největší zdroje vlivu a drží 20 procent nebo více§! (+20)" # todo: NEW TRANSLATION
+ SIA_seato_rec_influence_no: "§RThajsko nepatří mezi tři největší zdroje vlivu s podílem 20 procent nebo více§! (+20)" # todo: NEW TRANSLATION
+ SIA_seato_rec_threat_yes: "§GJe ve válce nebo sousedí se zemí, která je ve válce§! (+15)" # todo: NEW TRANSLATION
+ SIA_seato_rec_threat_no: "§ROn ani žádná země, se kterou sousedí, není ve válce§! (+15)" # todo: NEW TRANSLATION
+ SIA_seato_rec_trade_yes: "§GMá s Thajskem obchodní dohodu§! (+10)" # todo: NEW TRANSLATION
+ SIA_seato_rec_trade_no: "§RNemá s Thajskem obchodní dohodu§! (+10)" # todo: NEW TRANSLATION
+ SIA_seato_rec_momentum_yes: "§GSEATO již má tři nebo více členů§! (+10)" # todo: NEW TRANSLATION
+ SIA_seato_rec_momentum_no: "§RSEATO má méně než tři členy§! (+10)" # todo: NEW TRANSLATION
+ SIA_seato_rec_total: "§YVstřícnost vůči SEATO§!: §Y[?SIA_seato_temp|0]§!/100. Pozvání přijmou při hodnotě §Y60§!." # todo: NEW TRANSLATION
+ SIA_joint_command: "Společné velení ASEAN" # todo: NEW TRANSLATION
+ SIA_joint_command_desc: "V Bangkoku je zřízena stálá struktura společného velení, která integruje doktrínu, logistiku a zpravodajství všech členských států. Vyšší posty zastávají thajští důstojníci, štáb je však skutečně mnohostranný. Cvičení se stávají interoperabilními. Plány se stávají skutečností." # todo: NEW TRANSLATION
+ SIA_asean_rapid_reaction: "Síly rychlé reakce ASEAN" # todo: NEW TRANSLATION
+ SIA_asean_rapid_reaction_desc: "Pakt činí další krok: vytváří stálou brigádu rychlé reakce složenou ze všech členských států, schopnou nasazení do 72 hodin na jakémkoli místě jihovýchodní Asie. Je to meč paktu — malý, rychlý a nepochybně skutečný." # todo: NEW TRANSLATION
+ SIA_arsenal_integration: "Integrace arzenálu ASEAN" # todo: NEW TRANSLATION
+ SIA_arsenal_integration_desc: "Thajský obranný průmysl, již nyní dílna jihovýchodní Asie, sjednocuje zbraně a munici ozbrojených sil všech členských států. Pušky, vozidla a dělostřelecké granáty thajské výroby nahrazují směs sovětské, čínské a západní techniky. Armády paktu nyní používají stejné náboje." # todo: NEW TRANSLATION
+ SIA_pax_aseana: "Pax Aseana" # todo: NEW TRANSLATION
+ SIA_pax_aseana_desc: "Práce je dokončena a pakt drží. Thajsko vybudovalo to, co žádná vnější mocnost nedokázala: skutečnou bezpečnostní architekturu zakořeněnou v regionu a dostatečně silnou, aby odradila jakéhokoli vyzyvatele. Sousedé podepsali, protože chtěli, a právě proto pakt vydrží." # todo: NEW TRANSLATION
+ SIA_war_economy_push: "Přechod na válečné hospodářství" # todo: NEW TRANSLATION
+ SIA_war_economy_push_desc: "Národ přešel na válečnou nohu. Továrny, které vyráběly spotřební zboží, jsou přestavovány na výrobu dělostřeleckých granátů a hlavní pušek. Limit vojenských výdajů je zrušen, zakázky jsou podepisovány bez obvyklých průtahů a na narychlo vyklizených pozemcích v bangkocké metropolitní oblasti vyrůstají tři nové zbrojovky." # todo: NEW TRANSLATION
+ SIA_friends_abroad: "Přátelé v zahraničí" # todo: NEW TRANSLATION
+ SIA_friends_abroad_desc: "Thajské ozbrojené síly po desetiletí cvičily po boku zahraničních partnerů. Dvoustranné vazby vytvořené společnými cvičeními, výměnami důstojníků a transfery zbraní jsou tichým pilířem thajské bezpečnosti — méně viditelným než spojenectví, ale trvalejším než většina z nich. Nastal čas formalizovat to, co již funguje." # todo: NEW TRANSLATION
+ SIA_cobra_gold_focus: "Cobra Gold" # todo: NEW TRANSLATION
+ SIA_cobra_gold_focus_desc: "Cobra Gold je největší každoroční společné vojenské cvičení v Asii, jehož hostiteli jsou Thajsko a Spojené státy. Prohloubení programu cvičení přinese Královské thajské armádě americkou doktrínu, výcvik logistiky a znalost vybavení a upevní Bangkok jako hlavního partnera Washingtonu v pevninské jihovýchodní Asii." # todo: NEW TRANSLATION
+ SIA_partner_japan: "Obranné vazby s Japonskem" # todo: NEW TRANSLATION
+ SIA_partner_japan_desc: "Japonské reformy vývozu obranné techniky otevřely nové kanály pro thajské nákupy. Tokio nabízí know-how v přesné výrobě, elektroniku dvojího užití a financování infrastruktury, které doplňují thajské schopnosti bez politických podmínek spojených s čínskými či americkými balíčky." # todo: NEW TRANSLATION
+ SIA_partner_korea: "Obranné partnerství s ROK" # todo: NEW TRANSLATION
+ SIA_partner_korea_desc: "Korejská republika vybudovala během jediné generace konkurenceschopný zbrojní průmysl. Tanky K-2, letouny FA-50 a houfnice K9 se za konkurenční ceny prodávají partnerům po celé jihovýchodní Asii. Thajsko se řadí do fronty a přiváží si korejské standardy leteckého výcviku i průmyslové postupy." # todo: NEW TRANSLATION
+ SIA_partner_australia: "Soused z Five Eyes" # todo: NEW TRANSLATION
+ SIA_partner_australia_desc: "Austrálie je nejbližším anglofonním partnerem Thajska a zároveň nečlenským spojencem Spojených států v rámci NATO. Společná cvičení v Andamanském moři a Thajském zálivu prohloubila vazby mezi námořnictvy. Rozšíření partnerství přinese interoperabilitu armád a spolupráci v námořním průzkumu, kterou by si žádná ze zemí nemohla dovolit sama." # todo: NEW TRANSLATION
+ SIA_partner_taiwan: "Tichá obranná spolupráce" # todo: NEW TRANSLATION
+ SIA_partner_taiwan_desc: "Tchajwanský obranný průmysl je diskrétní, technicky vyspělý a politicky motivovaný hledat přátele. Bangkok Tchaj-pej neuznává, ale Královská thajská armáda a armáda ROC dlouhodobě udržují neformální kanály pro dodávky vybavení a výcvik. Tiché formalizování této spolupráce je kalkulovaným rizikem. Peking si toho všimne." # todo: NEW TRANSLATION
+ SIA_hedging_partners: "Přátelé na Dálném východě" # todo: NEW TRANSLATION
+ SIA_hedging_partners_desc: "Tokio, Soul i Peking nabízejí Bangkoku něco, co Washington nemůže: trpělivý kapitál, technologie dvojího užití a obrovský sousední trh. Nikdo z nich nepožaduje výhradní postavení. Thajsko se uchází o všechny tři a drží si vysokou cenu, odmítá být kotvou kohokoli i klientem kohokoli. Království, které se již zavázalo k balancování, z těchto vazeb získává dvojnásobek." # todo: NEW TRANSLATION
+ SIA_national_grid: "Napájet Království" # todo: NEW TRANSLATION
+ SIA_national_grid_desc: "Rychlá industrializace Thajska předběhla jeho elektrickou síť. Východní pobřeží hučí továrnami, ale síť stárne, přenosové ztráty jsou ostudné a další desetiletí růstu vyžaduje základ, který unese zátěž. Vláda se zavazuje k celostátní modernizaci infrastruktury s novými rozvodnami, modernizovanými přenosovými vedeními a novými továrnami v regionech, které síť konečně dokáže zásobovat." # todo: NEW TRANSLATION
+ SIA_renewable_push: "Rozvoj obnovitelné energie" # todo: NEW TRANSLATION
+ SIA_renewable_push_desc: "Vítr z Thajského zálivu, solární energie v centrálních nížinách, malé vodní elektrárny na severu. Geografie Thajska představuje obnovitelný zdroj, který je chronicky nevyužitý. Tento program zadává velkokapacitní obnovitelné instalace v každém regionu Království a jejich výkon přímo napojuje do celostátní sítě." # todo: NEW TRANSLATION
+ SIA_green_grid: "Zelená síť" # todo: NEW TRANSLATION
+ SIA_green_grid_desc: "Jedna věc je obnovitelná kapacita, druhá je síť, která ji dokáže využít. Akumulace, inteligentní řízení a modernizovaný přenos propojí solární farmy a větrné hřebeny Království do spolehlivých dodávek. Každý nový panel či turbína se na posílené páteři připojí rychleji. Zde začíná energetická nezávislost Království." # todo: NEW TRANSLATION
+ SIA_fossil_fuels_deal: "Energetické partnerství se Zálivem" # todo: NEW TRANSLATION
+ SIA_fossil_fuels_deal_desc: "Rafinerie Království fungují na ropě ze Zálivu a elektrárny spalují dovážený plyn. Namísto boje proti této závislosti ji Bangkok formalizuje. Dlouhodobé dodavatelské dohody se Saúdskou Arábií, Katarem a Spojenými arabskými emiráty přinášejí jistotu cen, skromné úspory paliva díky modernizaci elektráren a diplomatickou vřelost, která přichází spolu s šekem." # todo: NEW TRANSLATION
+ SIA_gulf_energy_ties: "Strategické zásoby paliva" # todo: NEW TRANSLATION
+ SIA_gulf_energy_ties_desc: "Tanker, který nikdy nevypluje, je elektrárna, která nikdy nenastartuje. V jižním průmyslovém koridoru a na Východním pobřeží vyrůstají dvě strategická skladovací zařízení paliva. Partneři ze Zálivu financují polovinu výstavby a thajští inženýři postaví zbytek." # todo: NEW TRANSLATION
+ SIA_iron_fist_doctrine: "Doktrína železné pěsti" # todo: NEW TRANSLATION
+ SIA_iron_fist_doctrine_desc: "O křivdách se již nebude mluvit. Tři provincie jsou zaplaveny vojáky, kontrolními stanovišti a mimořádnými pravomocemi. Povstání je bezpečnostní problém a jako takový bude také řešeno — rychle, tvrdě a bez omluv. Svět bude protestovat. Jih ztichne." # todo: NEW TRANSLATION
+ SIA_martial_law_south: "Stanné právo na jihu" # todo: NEW TRANSLATION
+ SIA_martial_law_south_desc: "Mimořádný dekret podřizuje Pattani, Jalu a Narathiwat vojenské správě. Zákazy vycházení, prohlídky bez povolení a zadržování bez obvinění se stávají každodenní realitou života na jihu. Armáda nyní může jednat na základě zpravodajství okamžitě po jeho obdržení a obyvatelstvo poznává cenu ukrývání mužů se zbraněmi." # todo: NEW TRANSLATION
+ SIA_search_and_destroy: "Pátrat a ničit" # todo: NEW TRANSLATION
+ SIA_search_and_destroy_desc: "Speciální jednotky a letectvo provádějí razie proti domnělé síti buněk. Operace jsou rozhodné a počet mrtvých vysoký. Každý úspěšný nájezd povstání o něco více oslabí a každý nájezd, který zasáhne svatbu, jim naopak daruje generaci nových rekrutů." # todo: NEW TRANSLATION
+ SIA_pacification_complete: "Pacifikace dokončena" # todo: NEW TRANSLATION
+ SIA_pacification_complete_desc: "Silniční bomby umlkly a kontrolní stanoviště zmizela. Mešity jsou sledovány, školy monitorovány a křivda pod tichem nezemřela. Zbraně ztichly, ale žhavé uhlíky zůstávají." # todo: NEW TRANSLATION
+ SIA_royal_development_projects: "Královské rozvojové projekty" # todo: NEW TRANSLATION
+ SIA_royal_development_projects_desc: "Z iniciativy krále je na jih přenesen rozvojový model koruny: zavlažování, zemědělství, silnice a družstva podporovaná královským dvorem. Poselství zní, že pro malajsko-muslimský jih zajišťuje výsledky monarchie, nikoli povstání. Patronát a přítomnost, nejen hlídky." # todo: NEW TRANSLATION
+ SIA_isoc_southern_command: "Jižní velitelství ISOC" # todo: NEW TRANSLATION
+ SIA_isoc_southern_command_desc: "Velitelství operací vnitřní bezpečnosti přebírá jednotné velení nad jižním bojištěm. Civilně-vojenská koordinace, slučování zpravodajských informací i aparát měkké síly jsou nyní pod jednou střechou. Pokud je síť ISOC již vyspělá, může se jižní velitelství přesunout od reakcí k předvídání." # todo: NEW TRANSLATION
+ SIA_winning_hearts_royally: "Královské získávání srdcí" # todo: NEW TRANSLATION
+ SIA_winning_hearts_royally_desc: "Stipendia, renovace mešit, rozvojové zóny s halal certifikací a záměrné začleňování místních malajsko-muslimských představitelů do systému patronátu. Stát nepřichází jako okupant, ale jako dobrodinec, a kalkulace mladých mužů se pomalu a místy mění." # todo: NEW TRANSLATION
+ SIA_southern_calm: "Jižní klid" # todo: NEW TRANSLATION
+ SIA_southern_calm_desc: "Násilí ustoupilo do kontrolovaného a sledovaného ticha. Neexistuje smlouva ani autonomie, přesto provincie fungují a královská záštita trvá. Klid udržovaný přítomností a patronátem." # todo: NEW TRANSLATION
+ SIA_peace_dialogue_initiative: "Iniciativa mírového dialogu" # todo: NEW TRANSLATION
+ SIA_peace_dialogue_initiative_desc: "Bangkok formálně otevírá malajsijský kanál za účasti Malajsie jako prostředníka. Stát poprvé usedá ke stolu s muži, které pronásledoval, a připouští, že budoucnost jihu je otázkou vyjednávání, nikoli pouze síly. Doma to stojí politický kapitál, ale otevírá cestu, kterou kulky nikdy otevřít nemohly." # todo: NEW TRANSLATION
+ SIA_mara_patani_talks: "Jednání s MARA Patani" # todo: NEW TRANSLATION
+ SIA_mara_patani_talks_desc: "Formální jednání se zastřešující skupinou MARA Patani začínají vážně. Na stole jsou opatření k budování důvěry, bezpečné zóny a skutečný rámec příměří. Kuala Lumpur se zapojuje a povstalecké vedení, roztříštěné, ale skutečné, začíná věřit, že dohoda je možná." # todo: NEW TRANSLATION
+ SIA_autonomy_framework: "Rámec zvláštní autonomie" # todo: NEW TRANSLATION
+ SIA_autonomy_framework_desc: "Vyjednavači připravují zákon o zvláštní správě tří provincií s volenou regionální radou, vzděláváním v místních jazycích, náboženskými soudy a podílem rozvojových příjmů ponechaným na jihu. Jde o nejdalekosáhlejší ústupek v dějinách Království a bangkocký establishment již mobilizuje proti němu." # todo: NEW TRANSLATION
+ SIA_pattani_peace_accord: "Mírová dohoda z Pattani" # todo: NEW TRANSLATION
+ SIA_pattani_peace_accord_desc: "Podepsaná dohoda ukončuje nejdelší povstání v moderních dějinách Království. Jih získává určitou míru samosprávy v rámci unitárního Thajska, zbraně jsou odevzdány a vysídlení se vracejí. Je nedokonalá, sporná a historická. Konflikt skončil." # todo: NEW TRANSLATION
+ SIA_ds_tier_to_1: "§GHluboký jih se uklidňuje na nízkou úroveň (úroveň 1, -2 % stability).§!" # todo: NEW TRANSLATION
+ SIA_ds_tier_to_2: "§YNásilí v Pattani stoupá (úroveň 2, -4 % stability, -5 % politické moci).§!" # todo: NEW TRANSLATION
+ SIA_ds_tier_to_3: "§RJih hoří (úroveň 3, -7 % stability, -10 % politické moci, -5 % podpory války).§!" # todo: NEW TRANSLATION
+ SIA_ds_intensity_down: "§GIntenzita povstalců klesá o [?ds_delta] bodů.§!" # todo: NEW TRANSLATION
+ SIA_ds_intensity_up: "§RIntenzita povstalců stoupá o [?ds_delta] bodů.§!" # todo: NEW TRANSLATION
+ SIA_ds_grievance_up: "§RTvrdé metody prohlubují křivdu komunity o [?ds_grievance_delta]. Spolu s ní roste i hranice intenzity a konflikt již nelze vyčerpat pouze silou.§!" # todo: NEW TRANSLATION
+ SIA_ds_grievance_down: "§GSkutečný ústupek zmírňuje křivdu komunity ([?ds_grievance_delta]). Hranice intenzity, na níž násilí spočívá, klesá a skutečné řešení se dostává na dosah.§!" # todo: NEW TRANSLATION
+ SIA_iron_fist_doctrine_tt: "Zaplaví tři provincie vojáky.\n - Intenzita povstání §G-10§!\n - Riziko převratu §R+10§!\n - Výrazně prohloubí křivdu komunity a zvýší hranici, pod níž konflikt nikdy neklesne" # todo: NEW TRANSLATION
+ SIA_martial_law_south_tt: "Mimořádný dekret nad Pattani, Jalou a Narathiwatem. Intenzita -8, prohloubí křivdu, názor Malajsie/Indonésie -." # todo: NEW TRANSLATION
+ SIA_search_and_destroy_tt: "Razie proti ozbrojencům. Intenzita -12, prohloubí křivdu. Ke spuštění vyžaduje intenzitu na jihu pod 50. Hrozí zvěrstvo, které se obrátí proti nám." # todo: NEW TRANSLATION
+ SIA_pacification_complete_tt: "Zbraně ztichnou, ale žhavé uhlíky zůstanou." # todo: NEW TRANSLATION
+ SIA_royal_development_projects_tt: "Projekty z královské iniciativy na jihu. Intenzita -6, zmírní křivdu, +2 % stability, pokladna -3." # todo: NEW TRANSLATION
+ SIA_isoc_southern_command_tt: "ISOC přebírá velení na jihu. Intenzita -7 (rychleji, pokud je síť ISOC aktivní), ale sledovací síť mírně podněcuje křivdu." # todo: NEW TRANSLATION
+ SIA_winning_hearts_royally_tt: "Patronát a rozvoj. Intenzita -7, výrazně zmírní křivdu, +3 % stability. Ke spuštění vyžaduje intenzitu na jihu pod 40." # todo: NEW TRANSLATION
+ SIA_southern_calm_tt: "Kontrolovaný a sledovaný klid pod královskou záštitou." # todo: NEW TRANSLATION
+ SIA_peace_dialogue_initiative_tt: "Otevře malajsijský kanál. Intenzita -5, zmírní křivdu, politická moc -75, zahájí jednání." # todo: NEW TRANSLATION
+ SIA_mara_patani_talks_tt: "Formální jednání s MARA Patani. Intenzita -8, výrazně zmírní křivdu, názor Malajsie +, vyžaduje 45% stabilitu." # todo: NEW TRANSLATION
+ SIA_autonomy_framework_tt: "Připraví zákon o zvláštní zóně. Establishment se postaví na odpor.\n - Intenzita povstání §G-7§!\n - Nejhlubší snížení křivdy komunity ze všech možností\n - Ke spuštění vyžaduje intenzitu na jihu pod §Y35§!" # todo: NEW TRANSLATION
+ SIA_pattani_peace_accord_tt: "Podepsaná dohoda a cesta k autonomii. Konflikt končí." # todo: NEW TRANSLATION
+ SIA_anti_narcotics_bureau: "Úřad pro boj proti narkotikům" # todo: NEW TRANSLATION
+ SIA_anti_narcotics_bureau_desc: "Thajský Úřad rady pro kontrolu narkotik je rozšířen a získává pravomoci: vyhrazený rozpočet, chráněné vyšetřovací pravomoci a formální mandát k pronásledování pašeráckých sítí namísto pouličních dealerů. Úřad cílí na celý dodavatelský řetězec, od laboratoří ve Šanském státě až po distribuční centra v Bangkoku." # todo: NEW TRANSLATION
+ SIA_golden_triangle_interdiction: "Zastavení obchodu ve Zlatém trojúhelníku" # todo: NEW TRANSLATION
+ SIA_golden_triangle_interdiction_desc: "Trojmezí, kde se setkávají Thajsko, Myanmar a Laos, je zdrojem většiny heroinu a metamfetaminu zaplavujících thajská města a proudících na světové trhy. Hraniční hlídky jsou posíleny, letecký dohled rozšířen a vzniká společná pracovní skupina se šanskými milicemi, která má zásilky zadržet ještě před překročením Mekongu. Drogoví bossové se přizpůsobí, jako vždy, ale náklady se zvýší." # todo: NEW TRANSLATION
+ SIA_golden_triangle_interdiction_tt: "Naruší pašerácké trasy přes Mekong a upevní sevření Království nad severem." # todo: NEW TRANSLATION
+ SIA_anti_graft_push: "Tažení proti korupci" # todo: NEW TRANSLATION
+ SIA_anti_graft_push_desc: "Národní komise pro boj proti korupci získává pravomoci díky rozšířenému vyšetřovacímu mandátu, chráněnému rozpočtu a právní ochraně oznamovatelů. Jako první jsou zacíleny zneužívání zakázek v obraně, stavebnictví a celnictví — tři nejvýnosnější kanály korupce. Čisté zadávání zakázek se buduje pomaleji, než se upevňovalo staré uspořádání. Prosazení reformy spotřebuje politický kapitál a zneklidní veřejnost zvyklou na staré pořádky." # todo: NEW TRANSLATION
+ SIA_transparency_watchdog: "Dozor nad transparentností" # todo: NEW TRANSLATION
+ SIA_transparency_watchdog_desc: "Je zřízen nezávislý Úřad fiskální transparentnosti, který podléhá přímo parlamentu, nikoli ministerstvu financí. Povinné zveřejňování majetku vyšších úředníků, zveřejňování veřejných zakázek v reálném čase a občanský auditní portál uzavírají mezery, které umožňovaly přetrvávat systematickému odčerpávání renty. Korupce nezmizí, ale její udržování se měřitelně prodraží — a po šest měsíců budou sítě, které úřad odhalí, vzdorovat prostřednictvím procedur a průtahů." # todo: NEW TRANSLATION
+ SIA_watchdog_backlash: "Systém vrací úder" # todo: NEW TRANSLATION
+ SIA_watchdog_backlash_desc: "Sítě odhalené novým režimem transparentnosti nezmizely. Po šest měsíců budou reformám vzdorovat prostřednictvím procedur, průtahů a tichých obstrukcí, čímž oslabí politickou moc a v provinciích, které jsou s nimi nejvíce propletené, i důvěru veřejnosti." # todo: NEW TRANSLATION
+ SIA_decentralize_governance: "Posílit provincie" # todo: NEW TRANSLATION
+ SIA_decentralize_governance_desc: "Po tažení proti korupci jsou pravomoci správy a přidělování rozpočtu přesunuty z Bangkoku do provincií. Provinční správní organizace získávají širší mandáty, volení guvernéři kontrolují výdaje na místní infrastrukturu a Chiang Mai, Khon Kaen a Songkhla se stávají skutečnými druhotnými centry hospodářské aktivity. Růst se soustřeďuje pomaleji, ale klidnější a stabilnější cesta udržuje zemi pevnou." # todo: NEW TRANSLATION
+ SIA_bangkok_primacy: "Nejprve Bangkok" # todo: NEW TRANSLATION
+ SIA_bangkok_primacy_desc: "Výnosy z boje proti korupci jsou znovu investovány do hlavního města. Průmyslové čtvrti Bangkoku jsou modernizovány, výzkumné instituce soustředěny a veřejná doprava rozšířena. Efektivita a výzkumný výkon prudce rostou, kritici však upozorňují, že prosperita se hromadí ve městě s deseti miliony obyvatel, zatímco provincie čekají — a odpor, který to plodí, skutečně zhoršuje náladu v zemi." # todo: NEW TRANSLATION
+ SIA_asean_hegemony: "Hegemonie ASEAN" # todo: NEW TRANSLATION
+ SIA_asean_hegemony_desc: "Projekt Velkého Thajska je na pevnině dokončen. Nyní Království obrací svůj pohled ke zbytku jihovýchodní Asie. ASEAN byl vždy v duchu thajským projektem. Nechť se jím stane i ve skutečnosti, v případě nutnosti mečem. Generální štáb připravuje plány na podrobení souostroví a městského státu." # todo: NEW TRANSLATION
+ SIA_maritime_claims: "Námořní hranice" # todo: NEW TRANSLATION
+ SIA_maritime_claims_desc: "Za šíjí leží velké souostrovní státy — Manila, Jakarta a na ropu bohatý sultanát Brunej. Rozvoj námořní síly bude vyžadovat plnou váhu Královského thajského námořnictva a námořní pěchoty. Admiralitní štáb začíná plánovat obojživelné operace přes Jihočínské moře a přístupy k Jávě." # todo: NEW TRANSLATION
+ SIA_maritime_claims_threat: "Thajské námořní zbrojení v souostroví" # todo: NEW TRANSLATION
+ SIA_claim_philippines: "Podrobit Filipíny" # todo: NEW TRANSLATION
+ SIA_claim_philippines_desc: "Filipínské souostroví ovládá východní přístupy k Jihočínskému moři. Přivedení Manily pod správu Bangkoku zajistí námořní křídlo a práci sta milionů Filipínců pro nový řád. Uplatníme svůj nárok na každý ostrov Republiky." # todo: NEW TRANSLATION
+ SIA_claim_indonesia: "Podrobit Indonésii" # todo: NEW TRANSLATION
+ SIA_claim_indonesia_desc: "Indonésie je obrem jihu — rozlehlým, lidnatým a bohatým na zdroje. Aby Bangkok ovládl ASEAN, musí ovládnout Jakartu. Tažení bude dlouhé a ostrovů bude mnoho, ale odměnou je největší ekonomika a populace jihovýchodní Asie." # todo: NEW TRANSLATION
+ SIA_claim_brunei: "Zmocnit se Bruneje" # todo: NEW TRANSLATION
+ SIA_claim_brunei_desc: "Malý Brunej leží na jedněch z nejbohatších ložisek uhlovodíků v regionu. Bohatství sultanátu a jeho strategická poloha na Borneu z něj činí neodolatelnou kořist. Přistoupíme k začlenění sultanátu do Království." # todo: NEW TRANSLATION
+ SIA_mainland_claims: "Uspořádání pevniny" # todo: NEW TRANSLATION
+ SIA_mainland_claims_desc: "Na pevnině dosud nepoklekly dvě mocnosti. Vietnam, starý rival za Annamitským pohořím, a Singapur, bohatý městský stát střežící Malacký průliv. Oba musí být přivedeni k poslušnosti, aby byla thajská převaha v jihovýchodní Asii úplná." # todo: NEW TRANSLATION
+ SIA_mainland_claims_threat: "Thajská mobilizace proti posledním pevninským odpůrcům" # todo: NEW TRANSLATION
+ SIA_claim_vietnam: "Podrobit Vietnam" # todo: NEW TRANSLATION
+ SIA_claim_vietnam_desc: "Vietnam dlouhodobě soupeří s Thajskem o pevninskou jihovýchodní Asii, od dvorů starého Siamu po vražedná pole dvacátého století. Nyní bude historické soupeření rozhodnuto. Uplatníme svůj nárok od Mekongu až k annamitskému pobřeží." # todo: NEW TRANSLATION
+ SIA_claim_singapore: "Zmocnit se Singapuru" # todo: NEW TRANSLATION
+ SIA_claim_singapore_desc: "Singapur je klenotem průlivu, finanční velmocí a strážcem nejrušnější námořní trasy světa. Kdo drží Lví město, drží hrdlo asijského obchodu. Přeměníme ho v thajské území." # todo: NEW TRANSLATION
+ SIA_asean_protector: "Ochránce ASEAN" # todo: NEW TRANSLATION
+ SIA_asean_protector_tt: "Cesta partnerství je otevřena každé vládě, včetně mandátu §YVelkého Thajska§!." # todo: NEW TRANSLATION
+ SIA_asean_protector_desc: "Velké Thajsko nemusí být říší dobyvačných válek. Po zajištění pevniny se Království může místo toho stát garantem bezpečnosti jihovýchodní Asie — benevolentním hegemonem, který své sousedy chrání, namísto aby je anektoval. Bangkok rozšiřuje svou ochranu po celém regionu a spojuje ASEAN s thajskou korunou aliancí, nikoli okupací." # todo: NEW TRANSLATION
+ SIA_guarantee_maritime: "Štít souostroví" # todo: NEW TRANSLATION
+ SIA_guarantee_maritime_desc: "Thajsko poskytuje formální bezpečnostní záruky námořním státům — Filipínám, Indonésii a Bruneji. Královské thajské námořnictvo se zaručí za jejich nezávislost a Bangkok se na oplátku stane nepostradatelnou mocností jižních moří." # todo: NEW TRANSLATION
+ SIA_guarantee_mainland: "Strážce pevniny" # todo: NEW TRANSLATION
+ SIA_guarantee_mainland_desc: "Bangkok zaručuje bezpečnost Vietnamu, Singapuru a Malajsii a ukončuje staletí soupeření dohodou vedenou Thajskem. Starý nepřítel, bohatý městský stát i poloostrovní soused nyní nacházejí útočiště pod ochranou Království a pevnina žije v míru podle thajských podmínek." # todo: NEW TRANSLATION
+ SIA_guarantee_indochina: "Deštník nad Indočínou" # todo: NEW TRANSLATION
+ SIA_guarantee_indochina_desc: "Nejchudší a nejzranitelnější sousedé Thajska jsou přesně ti, které hegemon obvykle přehlíží. Bangkok jim přesto poskytne záruky: Laosu, Kambodži a Myanmaru i barmským pohraničním státům, kde existují. Ochrana, která dosáhne k nejslabším, je jediným druhem ochrany, který dokazuje, že Království myslí svá slova vážně." # todo: NEW TRANSLATION
+ SIA_protector_of_asean_focus: "Jeden ASEAN, jeden štít" # todo: NEW TRANSLATION
+ SIA_protector_of_asean_focus_desc: "Jediný podepsaný ochranný deštník stačí ke změně politické dynamiky regionu. Bez ohledu na to, kterou záruku Bangkok rozšířil jako první, Království nyní slouží jako ochránce jihovýchodní Asie a bezpečnostní architektura vedená Thajskem začíná nahrazovat starou rovnováhu strachu. Obrana regionu se stává nedělitelnou a Bangkok drží její základní kámen." # todo: NEW TRANSLATION
+ SIA_professional_officer_corps_focus: "Profesionální důstojnický sbor" # todo: NEW TRANSLATION
+ SIA_professional_officer_corps_focus_desc: "Reformní frakce vítězí v argumentaci. Povýšení podle schopností, skutečná cesta přes vojenské školy a velitelská kultura založená na doktríně, nikoli patronátu. Zvyk převratů slábne, když se armáda učí být hrdá na vojenství místo politiky." # todo: NEW TRANSLATION
+ SIA_martial_prestige_focus: "Sláva meče" # todo: NEW TRANSLATION
+ SIA_martial_prestige_focus_desc: "Tradicionalisté vítězí. Ozbrojené síly jsou oslavovány jako duše národa a přehlídkové prostranství je stejně posvátné jako chrám. Morálka a bojový duch prudce rostou, ale kult uniformy udržuje generály blízko centra moci." # todo: NEW TRANSLATION
+ SIA_jointness_reform: "Reforma společného velení" # todo: NEW TRANSLATION
+ SIA_jointness_reform_desc: "Společné velení spojuje tři složky do jediného bojového nástroje. Sloučením štábů, sdílením doktrín a sjednocením řetězce velení se paralelní velitelská struktura mění v soudržnou sílu schopnou operací ve více doménách." # todo: NEW TRANSLATION
+ SIA_defense_export_office: "Úřad pro vývoz obranné techniky" # todo: NEW TRANSLATION
+ SIA_defense_export_office_desc: "Specializovaná agentura přivádí systémy thajské výroby na světový trh, zprostředkovává kontrakty, zajišťuje financování a mění obranně-průmyslovou základnu ze zátěže rozpočtu ve zdroj příjmů." # todo: NEW TRANSLATION
+ SIA_self_reliant_defense_base: "Soběstačná obranná základna" # todo: NEW TRANSLATION
+ SIA_self_reliant_defense_base_desc: "Nové zbrojovky a prohloubený dodavatelský řetězec osvobozují Království od závislosti na zahraničních dodavatelích. Thajsko dokáže vyzbrojit sebe i své zákazníky z vlastních továren, vlastními návrhy a podle vlastního harmonogramu." # todo: NEW TRANSLATION
+ SIA_total_defense_doctrine: "Doktrína totální obrany" # todo: NEW TRANSLATION
+ SIA_total_defense_doctrine_desc: "Obrana se stává celonárodním úsilím s rozšířenou brannou povinností, pravidelnými cvičeními civilní obrany a posíleným domácím zázemím. Království připravuje nejen armádu, ale celou společnost odhodlanou vzdorovat." # todo: NEW TRANSLATION
+ SIA_doctrine_professional_tt: "Vylepší ideu §YProfesionální síly§! na další úroveň a zaváže Království k cestě profesionalizace." # todo: NEW TRANSLATION
+ SIA_doctrine_prestige_tt: "Udělí §YBojovou slávu§! a zaváže Království k cestě prestiže, s vysokou podporou války a velitelskou mocí za cenu stability." # todo: NEW TRANSLATION
+ SIA_national_rnd_network: "Vybudovat vědecké parky" # todo: NEW TRANSLATION
+ SIA_national_rnd_network_desc: "Veřejné laboratoře, partnerství s univerzitami a specializovaný vědecký park v Pathum Thani dávají Království vlastní výzkumnou základnu. Národní agentura pro rozvoj vědy a technologií ukotvuje síť výzkumných a vývojových zařízení, která urychluje zavádění technologií a posouvá celou ekonomiku k průmyslu s vyšší přidanou hodnotou." # todo: NEW TRANSLATION
+ SIA_civilian_rnd_center: "Civilní výzkumné a vývojové centrum" # todo: NEW TRANSLATION
+ SIA_civilian_rnd_center_desc: "Specializované civilní výzkumné a prototypovací zařízení s laboratořemi, zkušebními stoly a skupinou inženýrů, kteří mohou pracovat na čemkoli, co Království příště potřebuje. Čtvrté výzkumné centrum jako protiváha jediné námořní loděnici, se kterou Království začínalo, a prostor pro vlastní projekty." # todo: NEW TRANSLATION
+ SIA_air_rnd_center: "Výzkumné a vývojové centrum letectví" # todo: NEW TRANSLATION
+ SIA_air_rnd_center_desc: "Letecké a avionické zařízení s aerodynamickými tunely, vybaveným letovým zkušebním prostorem a inženýry, kteří je dokážou provozovat. Thajský průmysl získává zázemí pro vývoj prototypů leteckých systémů doma, místo aby nakupoval hotové výrobky ze zahraničí." # todo: NEW TRANSLATION
+ SIA_army_rnd_center: "Výzkumné a vývojové centrum pozemního vojenství" # todo: NEW TRANSLATION
+ SIA_army_rnd_center_desc: "Zkušební polygon pozemních systémů s testovacími drahami pro obrněnou techniku, střelnicemi a konstrukční kanceláří. Armáda může vyvíjet a prototypovat vlastní vozidla a vybavení, místo aby čekala na zahraniční dodavatele a jejich podmínky." # todo: NEW TRANSLATION
+ SIA_gistda_space_agency: "Posílit GISTDA" # todo: NEW TRANSLATION
+ SIA_gistda_space_agency_desc: "Agentura pro rozvoj geoinformatiky a kosmických technologií dostává skutečný mandát a skutečný rozpočet. GISTDA, založená ke zpracování satelitních dat, se stává kosmickou institucí Království: provozuje pozemní stanice, školí inženýry a poskytuje thajskému výzkumu výhled na vše z výšky. Malý kosmický program již není zahraničním luxusem, ale národní schopností." # todo: NEW TRANSLATION
+ SIA_theos_earth_observation: "Pozorování Země pomocí THEOS" # todo: NEW TRANSLATION
+ SIA_theos_earth_observation_desc: "První thajská družice pro pozorování Země, THEOS, otevírá Království vlastní oči na oběžné dráze, mapuje území, sleduje povodně a úrodu a poskytuje zpravodajským službám snímky, které jim žádný soused nemůže upřít. Navazující program prohlubuje odbornost agentury v optice, přenosu dat a zpracování snímků a mění surové průlety v použitelný průzkum." # todo: NEW TRANSLATION
+ SIA_space_krenovation_park: "Kosmický inovační park" # todo: NEW TRANSLATION
+ SIA_space_krenovation_park_desc: "Na Východním pobřeží vyrůstá letecký a kosmický průmyslový park s čistými prostory, montážními halami a dodavatelským řetězcem pro družicové součástky a malé nosné rakety. Z někdejší výzkumné agentury se nyní stává základ domácího kosmického průmyslu, který přitahuje soukromé firmy a dává thajskému inženýrství vlastní odvětví s vysokou přidanou hodnotou." # todo: NEW TRANSLATION
+ SIA_sovereign_launch_capability: "Suverénní schopnost vynášení" # todo: NEW TRANSLATION
+ SIA_sovereign_launch_capability_desc: "Království se rozhoduje uzavřít poslední mezeru: schopnost navrhnout, vyrobit a vynést na oběžnou dráhu vlastní družice bez svolení kohokoli jiného. Domácí program nosných raket a družicových konstelací korunuje dvě desetiletí práce a řadí Thajsko mezi hrstku států se suverénním opěrným bodem ve vesmíru a zpravodajským dosahem, který se nikomu jinému nezodpovídá." # todo: NEW TRANSLATION
+ SIA_ptt_energy_champion: "PTT, národní energetický šampion" # todo: NEW TRANSLATION
+ SIA_ptt_energy_champion_desc: "Státní energetická společnost vstupuje na burzu a je uvolněna jako obchodní gigant. S kapitálem z IPO a mandátem k průzkumu od Thajského zálivu po Myanmar zajišťuje PTT dodávky paliva pro Království a stává se jeho největší společností." # todo: NEW TRANSLATION
+ SIA_scg_industrial_titan: "Siam Cement Group" # todo: NEW TRANSLATION
+ SIA_scg_industrial_titan_desc: "Nejstarší a největší průmyslový konglomerát Království expanduje z cementu do petrochemie, stavebních materiálů a obalů. Zakázky SCG financují stavební boom a ukotvují domácí dodavatelský řetězec, bez něhož se žádný infrastrukturní program neobejde. Spolu s tím rostou i daňové příjmy, i když se skupina stále více opírá o povolovací byrokracii." # todo: NEW TRANSLATION
+ SIA_packaging_empire: "Obalové impérium" # todo: NEW TRANSLATION
+ SIA_packaging_empire_desc: "Obalová divize SCG vstupuje na burzu a nakupuje po celém regionu, začleňuje papírny od Indonésie po Vietnam, až tiskne a lisuje pro polovinu jihovýchodní Asie. Heslem je oběhové hospodářství: recyklované vlákno, lehčí plasty, nižší uhlíková stopa. Náklady nesou malé tiskárny a výrobci krabic, které skupina vykoupí nebo převálcuje cenami." # todo: NEW TRANSLATION
+ SIA_cp_agribusiness_giant: "Charoen Pokphand Group" # todo: NEW TRANSLATION
+ SIA_cp_agribusiness_giant_desc: "Od továren na krmiva po 7-Eleven se konglomerát CP stává thajským kolosem zemědělství a maloobchodu. Smluvní zemědělství zvyšuje venkovské příjmy a plní regály, zatímco exportní síla CP nese thajské potraviny na každý asijský trh. Produktivita komercializovaného zemědělství roste napříč sítí smluvních farem a v rýžovém pásu Isánu vyrůstá druhý okres." # todo: NEW TRANSLATION
+ SIA_buffer_states: "Pás nárazníkových států" # todo: NEW TRANSLATION
+ SIA_buffer_states_desc: "Namísto pohlcení je Thajsko udrží Šany a Kareny naživu a ozbrojené — jako pás přátelských nárazníků, který pohltí barmský tlak dříve, než dosáhne Království. Přeshraniční zásobovací linie, výcvikové tábory a tiché záruky mění pohraniční povstalce ve štít." # todo: NEW TRANSLATION
+ SIA_protectorate_doctrine: "Doktrína protektorátu" # todo: NEW TRANSLATION
+ SIA_protectorate_doctrine_desc: "Generální štáb se rozhoduje pro mírnější nástroj impéria — ne dobytí, ale vazalství. Pohraniční státečky budou podřízeny thajské ochraně jako klientské státy a jejich prapory zůstanou vlát nad hlavními městy, která odpovídají Bangkoku." # todo: NEW TRANSLATION
+ SIA_annexation_doctrine: "Doktrína anexe" # todo: NEW TRANSLATION
+ SIA_annexation_doctrine_desc: "Žádná polovičatá řešení. Pohraniční oblasti budou přímo zabrány, jejich území začleněno do Království a separatistické vlády rozpuštěny. Bangkok vznáší nároky na šanské a karenské srdce a připravuje armádu na jejich prosazení." # todo: NEW TRANSLATION
+ SIA_subdue_the_shan: "Podrobit Šany" # todo: NEW TRANSLATION
+ SIA_subdue_the_shan_desc: "Královská thajská armáda postupuje do Jižního Šanského státu. Zda skončí jako thajský protektorát, nebo thajská provincie, záleží na zvolené doktríně. V každém případě však bude moc Bangkoku sahat až k Salwině." # todo: NEW TRANSLATION
+ SIA_subdue_the_karen: "Podrobit Kareny" # todo: NEW TRANSLATION
+ SIA_subdue_the_karen_desc: "Thajské síly překračují karenské kopce. Desetiletí útočiště a tichého patronátu končí a Království nyní přichází jako pán — aby podle politiky loutkový stát vytvořilo, nebo území anektovalo." # todo: NEW TRANSLATION
+ SIA_burma_breakaway_question: "Odštěpenecké státy" # todo: NEW TRANSLATION
+ SIA_burma_breakaway_question_desc: "Na druhé straně Salwiny se barmská moc rozpadla v mozaiku ozbrojených státečků — Šany, Karenové a Wa. Jsou slabí, rozdělení a zcela v dosahu Thajska. Bangkok musí rozhodnout, čím mají tyto odtržené země být pro Království. Štítem, kořistí, nebo problémem ke správě." # todo: NEW TRANSLATION
+ SIA_subdue_the_wa: "Podrobit Wa" # todo: NEW TRANSLATION
+ SIA_subdue_the_wa_desc: "United Wa State Army řídí nejmocnější a narkotiky nejvíce prosycenou z odštěpeneckých armád. Přivést kopce Wa k poslušnosti znamená tvrdý boj, ale uzavře pašeráckou trasu na prahu Království a zasadí thajskou vlajku hluboko do barmského pohraničí." # todo: NEW TRANSLATION
+ SIA_rta_looks_abroad: "Šedesát let s M48" # todo: NEW TRANSLATION
+ SIA_rta_looks_abroad_desc: "Královská thajská armáda stále provozuje tanky a transportéry z jiného století. Přezbrojení již není otázkou zda, ale čí ocel projede branami v Koratu a jaké podmínky budou s ní svařeny. Nová výrobní linka vzniká všude, kde to kapacita dovolí." # todo: NEW TRANSLATION
+ SIA_stryker_brigades: "Kola Západu" # todo: NEW TRANSLATION
+ SIA_stryker_brigades_desc: "Brigády Stryker, americká doktrína a logistický řetězec zapojený přímo do nejschopnější armády světa. Výbava je vynikající a interoperabilita neocenitelná, ale každý náboj se platí dolary i ústupky Washingtonu." # todo: NEW TRANSLATION
+ SIA_eda_blackhawks: "Výbava po supervelmoci" # todo: NEW TRANSLATION
+ SIA_eda_blackhawks_desc: "Prostřednictvím programů Excess Defense Articles a Foreign Military Sales přilétají repasované Black Hawky a Cobry za zlomek katalogové ceny. Draky již létaly, ale leteckomobilní dosah za dostupnou cenu je výhodou, kterou aliance umožňuje." # todo: NEW TRANSLATION
+ SIA_vn1_mechanization: "Obrněný transportér pro každou četu" # todo: NEW TRANSLATION
+ SIA_vn1_mechanization_desc: "Transportéry VN1 a VN16 z čínské výrobní linky, po stovkách, za cenu, kterou by na Západě stála hrstka vozidel. Pěchota konečně jede a továrny, které je vyrábějí, jsou zaplaceny ještě před koncem roku." # todo: NEW TRANSLATION
+ SIA_norinco_fires: "Kompletní katalog NORINCO" # todo: NEW TRANSLATION
+ SIA_norinco_fires_desc: "Houfnice SH1, raketové dělostřelectvo SR5, celý katalog za cenu celého balíčku. Palebná síla je skutečná, stejně jako fronty na náhradní díly a převodovky selhávající v poli. Levná ocel nedá zásobovači spát." # todo: NEW TRANSLATION
+ SIA_tavor_standard: "Vlastní puška" # todo: NEW TRANSLATION
+ SIA_tavor_standard_desc: "Licencovaná výroba Tavorů mění thajské továrny ve zdroj standardní pušky armády. Žádné embargo, žádné pořadníky, žádné zahraniční veto nad tím, koho vyzbrojíme — jen první kámen arzenálu, který odpovídá výhradně Bangkoku." # todo: NEW TRANSLATION
+ SIA_oplot_and_rotors: "Bazarní diplomacie" # todo: NEW TRANSLATION
+ SIA_oplot_and_rotors_desc: "Ukrajinské korby Oplot, ruské rotory Mi-17, cokoli trh nabízí kupci, který si nevybírá stranu. Schopnosti proudí ze všech směrů najednou a dráždí Washington i Peking stejnou, zvládnutelnou měrou." # todo: NEW TRANSLATION
+ SIA_dti_black_widow: "Černá vdova" # todo: NEW TRANSLATION
+ SIA_dti_black_widow_desc: "Vlastní osmikolové vozidlo Defence Technology Institute spolu s bojově prověřeným First Win od Chaiseri. Navrženo v Thajsku, vyrobeno v Thajsku a dost dobré na to, aby ho chtěli kupovat i ostatní. Arzenál se začíná sám financovat." # todo: NEW TRANSLATION
+ SIA_first_army_modernized: "Nová Královská thajská armáda" # todo: NEW TRANSLATION
+ SIA_first_army_modernized_desc: "Ať už cesta přezbrojení vedla kamkoli, výsledek nyní konečně stojí na přehlídkovém prostranství. Moderní Královská thajská armáda, znovu vybavená, přeškolená a připravená na století, v němž skutečně musí bojovat." # todo: NEW TRANSLATION
+ SIA_gripen_globaleye: "Oči celé oblohy" # todo: NEW TRANSLATION
+ SIA_gripen_globaleye_desc: "GlobalEye AEW&C od Saabu mění hrstku Gripenů v síťovanou sílu, která uvidí první a vystřelí první. Palubní radar je násobičem síly, díky němuž malé letectvo udeří hluboko nad svou početní váhu." # todo: NEW TRANSLATION
+ SIA_j10_squadrons: "Draci nad Don Mueang" # todo: NEW TRANSLATION
+ SIA_j10_squadrons_desc: "Víceúčelové stíhačky J-10CE po letkách za cenu, které Washington nikdy nemohl konkurovat a kterou Washington nikdy neodpustí. Volba Čcheng-tu místo Fort Worthu přepojí oblohu Království — i jeho spojenectví." # todo: NEW TRANSLATION
+ SIA_hq9_air_defense: "Střecha z raket" # todo: NEW TRANSLATION
+ SIA_hq9_air_defense_desc: "Dálkové protiletadlové baterie HQ-9 a FK-3 vytvářejí nad Centrální nížinou deštník. Levný, hustý a integrovaný. Odepření prostoru po čínsku." # todo: NEW TRANSLATION
+ SIA_wing_loong_uav: "Trpěliví lovci" # todo: NEW TRANSLATION
+ SIA_wing_loong_uav_desc: "Drony Wing Loong a řady CH vydrží kroužit celý den a na povel udeří. Masový bezpilotní průzkum a přesné údery za cenu jediné pilotované letky." # todo: NEW TRANSLATION
+ SIA_f5th_super_tigris: "Nové triky starého tygra" # todo: NEW TRANSLATION
+ SIA_f5th_super_tigris_desc: "Izraelská avionika, radar AESA a střely Python-5 mění úctyhodný F-5 na F-5TH „Super Tigris“. Není to nový letoun, ale bojová síla vyždímaná z draků, které již byly zaplaceny, bez dluhu vůči kterékoli supervelmoci." # todo: NEW TRANSLATION
+ SIA_dti_uav_command: "Suverénní oči" # todo: NEW TRANSLATION
+ SIA_dti_uav_command_desc: "Dronové křídlo Defence Technology Institute navržené a provozované v zemi poskytuje Thajsku vlastní obraz průzkumu i výrobek k prodeji sousedům." # todo: NEW TRANSLATION
+ SIA_air_dominance_doctrine: "Páni thajského nebe" # todo: NEW TRANSLATION
+ SIA_air_dominance_doctrine_desc: "Ať už bylo vybaveno jakkoli, Královské thajské letectvo končí jako moderní, síťovaná a víceúčelová síla, pán vzdušného prostoru, který přísahalo bránit." # todo: NEW TRANSLATION
+ SIA_korean_frigates: "Standard Bhumibol" # todo: NEW TRANSLATION
+ SIA_korean_frigates_desc: "Západní volba pro flotilu. Moderní fregata DW3000 z Koreje se západními bojovými systémy, oblastní protivzdušnou obranou a nejschopnější hladinovou lodí, jakou flotila kdy provozovala. Kvalita má svou cenu a Soul ji uvádí v dolarech." # todo: NEW TRANSLATION
+ SIA_chinese_engine_compromise: "Čínské srdce" # todo: NEW TRANSLATION
+ SIA_chinese_engine_compromise_desc: "Německé motory nikdy nepřijdou a loď čeká již deset let. Přijměte čínský pohon CHD620 a ponorka konečně vypluje — levně, suverénně a s obdobím dětských nemocí, které budou inženýři rok proklínat." # todo: NEW TRANSLATION
+ SIA_type071_flotilla: "Trupy z Hudongu" # todo: NEW TRANSLATION
+ SIA_type071_flotilla_desc: "Výsadková doková loď Type 071E a skupina čínských hlídkových plavidel dají flotile přes noc obojživelnou složku za cenu, kterou by stál jediný západní trup." # todo: NEW TRANSLATION
+ SIA_krabi_class_opv: "Vlastní kýly" # todo: NEW TRANSLATION
+ SIA_krabi_class_opv_desc: "Nezávislá volba pro flotilu. Pobřežní hlídkové plavidlo třídy Krabi, postavené v Bangkok Dock, pokládá kýl suverénního loďařského průmyslu. Pomalu dozrává, ale odpovídá pouze samo sobě, nikoli zahraniční loděnici." # todo: NEW TRANSLATION
+ SIA_european_propulsion: "Licencovaná srdce, thajské trupy" # todo: NEW TRANSLATION
+ SIA_european_propulsion_desc: "Nákup, nikoli partnerství. Jednou nakoupit diesely MTU a bojové systémy v licenci, rozebrat je až na šroubky a zbytek postavit doma. Dovezené know-how pohlcené suverénním programem, který nic nedluží žádnému patronovi." # todo: NEW TRANSLATION
+ SIA_naval_self_reliance: "Fregaty z Bangkok Dock" # todo: NEW TRANSLATION
+ SIA_naval_self_reliance_desc: "Thajské loděnice nyní staví válečné lodě vlastní konstrukce a budují obranně-průmyslovou základnu, která se rozvíjí a exportuje. Flotila je konečně postavena doma." # todo: NEW TRANSLATION
+ SIA_command_of_the_seas: "Dva zálivy, jedna flotila" # todo: NEW TRANSLATION
+ SIA_command_of_the_seas_desc: "Ať už byla postavena jakkoli, Královské thajské námořnictvo nyní představuje skutečnou oceánskou sílu schopnou držet Thajský záliv a dosáhnout do Andamanského moře, velící mořím omývajícím dvě pobřeží Království." # todo: NEW TRANSLATION
+ SIA_the_western_anchor: "Washingtonská kotva v Asii" # todo: NEW TRANSLATION
+ SIA_the_western_anchor_desc: "Armáda, letectvo i námořnictvo nakoupené na Západě a aliance jako základní kámen národní obrany. Interoperabilita, sdílení zpravodajství a implicitní americká záruka výměnou za pevné místo ve washingtonské orbitě." # todo: NEW TRANSLATION
+ SIA_the_bamboo_bloc: "Do dračího stínu" # todo: NEW TRANSLATION
+ SIA_the_bamboo_bloc_desc: "Tři složky vybavené Pekingem činí z Thajska předního čínského klienta v oblasti zbrojení v regionu. Levná masová výroba, sdílený obraz C4ISR a mocný patron — za cenu důvěry Západu." # todo: NEW TRANSLATION
+ SIA_strategic_autonomy: "Nikomu zavázáni" # todo: NEW TRANSLATION
+ SIA_strategic_autonomy_desc: "Síla budovaná stále více doma a prodávaná do zahraničí. Defence Technology Institute se stává regionálním zbrojním domem a Království již nemusí kvůli prostředkům vlastní obrany odpovídat žádnému cizímu hlavnímu městu." # todo: NEW TRANSLATION
+ SIA_the_bamboo_doctrine: "Ohýbat se ve větru" # todo: NEW TRANSLATION
+ SIA_the_bamboo_doctrine_desc: "Švédské letouny, čínské tanky, ponorka z Pekingu a fregata ze Soulu. Thajsko nakupuje od všech a nepatří nikomu. Rákos, který se v bouři ohne, ji přežije. Nejstarší thajská strategie vtělená do sestavy ozbrojených sil." # todo: NEW TRANSLATION
+ SIA_dual_use_threshold: "Práh dvojího užití" # todo: NEW TRANSLATION
+ SIA_dual_use_threshold_desc: "Každý civilní energetický program obsahuje stejné mechanismy, které potřebuje zbrojní program. Tiše zvládnout palivový cyklus, s obohacováním uranu pod rouškou energetické nezávislosti, a ponechat Království všechny možnosti otevřené, aniž by zatím některou vyhlásilo." # todo: NEW TRANSLATION
+ SIA_minimum_deterrent: "Minimální odstrašení" # todo: NEW TRANSLATION
+ SIA_minimum_deterrent_desc: "Hrstka hlavic, nic víc — dost na to, aby žádný soused ani velmoc již nikdy nepovažovali Království za samozřejmost. Thajsko vstupuje do jaderného klubu za vlastních podmínek a vláda nyní musí nahlas rozhodnout, k čemu jeho bomby slouží." # todo: NEW TRANSLATION
+ SIA_the_democrats_endure: "Demokraté přetrvávají" # todo: NEW TRANSLATION
+ SIA_the_democrats_endure_desc: "Demokratická strana, nejstarší v Království, si udržuje kontrolu nad vládou místo toho, aby ustoupila populistické vlně. Žádný drtivý triumf, žádný charismatický miliardář, jen trpělivé a neokázalé vládnutí široké civilní koalice. Strana sází svou budoucnost na instituce, nikoli na jediného vůdce." # todo: NEW TRANSLATION
+ SIA_chuan_clean_government: "Čistá vláda" # todo: NEW TRANSLATION
+ SIA_chuan_clean_government_desc: "Pan Čistý přebírá kormidlo. Pověst osobní neúplatnosti se stává značkou strany — s otevřenými rozpočty, profesionálními ministerstvy a válkou proti obálkám. Nebude to okázalé, ale vytvoří to mechanismus, který promění poctivé vládnutí v trvalou voličskou základnu." # todo: NEW TRANSLATION
+ SIA_rule_of_law: "Právní stát" # todo: NEW TRANSLATION
+ SIA_rule_of_law_desc: "Vláda, která žije podle ústavy, k jejímuž dodržování se zavázala. Řádný proces, předvídatelná správa a soudy odpovídající zákonu, nikoli kasárnám. Každý převrat začíná pozastavením pravidel, a proto se Království učí je zachovávat." # todo: NEW TRANSLATION
+ SIA_judicial_independence: "Nezávislé soudnictví" # todo: NEW TRANSLATION
+ SIA_judicial_independence_desc: "Izolovat soudnictví od sítě paláce i generálů. Soud, na který nelze tlačit, je nejjistější brzdou cyklu rozpouštění a převratů a oblíbená zbraň establishmentu — soudní aktivismus — je otupena již u zdroje." # todo: NEW TRANSLATION
+ SIA_strengthen_parliament: "Posílit parlament" # todo: NEW TRANSLATION
+ SIA_strengthen_parliament_desc: "Dát volené komoře personál, výbory a postavení potřebné ke skutečnému vládnutí. Fungující zákonodárný sbor umožní straně vládnout hlasováním namísto mimořádných dekretů a dá veřejnosti podíl na výsledku každého zasedání." # todo: NEW TRANSLATION
+ SIA_liberal_market_stewardship: "Správa liberálního trhu" # todo: NEW TRANSLATION
+ SIA_liberal_market_stewardship_desc: "Stabilní měna, otevřený obchod a stát, který reguluje, místo aby utrácel. Demokraté nabízejí technokratickou protiváhu Thaksinově ekonomice, s růstem taženým financemi, exportem a soukromým podnikáním namísto venkovských rozdávání peněz." # todo: NEW TRANSLATION
+ SIA_southern_stronghold: "Jižní bašta" # todo: NEW TRANSLATION
+ SIA_southern_stronghold_desc: "Srdcem strany je jih a jih má své křivdy. Odpovězme na ně silnicemi, školami a klinikami namísto kontrolních stanovišť, financovanými z pokladny místo slibů na papíře. Mír prostřednictvím rozvoje udrží základnu loajální a připraví povstání o rekruty." # todo: NEW TRANSLATION
+ SIA_coalition_government: "Koaliční vláda" # todo: NEW TRANSLATION
+ SIA_coalition_government_desc: "Moc je sestavena obtížnou cestou — z mozaiky partnerů, regionálních bloků a malých stran sešitých do fungující většiny. Je pomalá a plná kompromisů, přesto jde o jedinou formu vlády, proti níž se tankům nejhůře zdůvodňuje postup. Volený řád přežívá sdílením moci." # todo: NEW TRANSLATION
+ SIA_mature_democracy: "Vyspělá demokracie" # todo: NEW TRANSLATION
+ SIA_mature_democracy_desc: "Království překračuje práh pokojného střídání moci s loajální opozicí a veřejností, která může považovat převraty za minulost. Instituce jsou důležitější než jakákoli kampaň: čistší správa a trvalá autorita, zaplacené pomalejším růstem preferencí, než jaký by přinesla širší koalice." # todo: NEW TRANSLATION
+ SIA_grand_coalition: "Velká koalice" # todo: NEW TRANSLATION
+ SIA_grand_coalition_desc: "Namísto boje se starým řádem jej pohltit. Demokraté se stávají volenou tváří konzervativního establishmentu, získávají vlastníky půdy a podnikatele, zatímco palác, byrokracie a obchodní kruhy vládnou prostřednictvím volebních uren namísto kasáren. Stabilita zakoupená konsensem, za cenu živení stejných patronátních sítí, proti nimž strana kdysi vystupovala." # todo: NEW TRANSLATION
+ SIA_coalition_overhead: "Náklady koalice" # todo: NEW TRANSLATION
+ SIA_coalition_overhead_desc: "Každý partner přivedený do velkého stanu chce svůj díl. Udržet koalici pohromadě stojí více politického kapitálu než kdy stálo samostatné vládnutí." # todo: NEW TRANSLATION
+ SIA_democrat_revival: "Návrat Demokratů" # todo: NEW TRANSLATION
+ SIA_democrat_revival_desc: "Ze samoty opoziční pustiny se strana vyškrábe zpět do premiérského úřadu prostřednictvím koaličního bazaru po roce 2019. Demokraté znovu vládnou — starší, pokoření a tentokrát odhodlaní zajistit, aby civilní řád vydržel." # todo: NEW TRANSLATION
+ SIA_answer_thaksinomics: "Odpověď na Thaksinovu ekonomiku" # todo: NEW TRANSLATION
+ SIA_answer_thaksinomics_desc: "Thaksinův génius spočíval ve sjednocení vesnic, protože Bangkok to nikdy nedokázal. Nepohrdejme vesnickým fondem. Vybudujme lepší. Demokratický program venkovských úvěrů, moratorium na dluhy zemědělců a levné zdravotnictví spuštěný dříve, než to dokáže Thai Rak Thai, otupí populistický apel u jeho zdroje, namísto aby přenechal venkov a získával moc zpět pouze prostřednictvím soudů.\n\n§GPopulistická vlna ustupuje.§!" # todo: NEW TRANSLATION
+ SIA_pracha_wiwat: "Lidová agenda" # todo: NEW TRANSLATION
+ SIA_pracha_wiwat_desc: "Pracha Wiwat je devět opatření představených jako novoroční dary. Bezplatná elektřina pro nejchudší domácnosti, dotace na vaření plynem, sociální podpora a registrace řidičů mototaxi a pouličních prodejců neformální ekonomiky a spořicí možnost pro pracovníky mimo systém. Důkaz, že liberálně-konzervativní strana dokáže reagovat na nouzi, aniž by zruinovala pokladnu.\n\n§GPopulistická vlna ustupuje.§!" # todo: NEW TRANSLATION
  SIA_broaden_the_coalition_desc: "Předejte ministerstva malým stranám a provinčním bossům výměnou za jejich mandáty. Cenou je rozhádaný kabinet plný handrkování (§Rpožadavky koalice§!), ale vytvoří parlamentní hráz, kterou žádná jediná populistická volební vlna neprorazí. §GPopulistická vlna prudce ustoupí.§!" # todo: NEW TRANSLATION
  SIA_democrat_machine_active: "Vláda stranického aparátu Demokratické strany" # todo: NEW TRANSLATION
  SIA_counter_messaging: "Proti populistickému poselství" # todo: NEW TRANSLATION
