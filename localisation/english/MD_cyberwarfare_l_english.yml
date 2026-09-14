@@ -385,3 +385,248 @@
  cyber_op_slot_8_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^8.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
  cyber_op_slot_9_deception_campaign_tracking: "Strategická klamná kampaň aktivní" # todo: NEW TRANSLATION
  cyber_op_slot_9_deception_campaign_tracking_desc: "Probíhá koordinovaná vícesměrná klamná operace: nasazujeme podvrženou komunikaci, zfalšované úniky zpravodajských informací a skryté ovlivňovací operace s cílem manipulovat rozhodováním [?cyber_op_target_nation^9.GetNameWithFlag] na nejvyšší úrovni. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_0_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^0.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_1_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_1_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^1.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_2_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_2_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^2.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_3_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_3_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^3.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_4_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_4_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^4.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_5_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_5_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^5.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_6_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_6_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^6.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_7_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_7_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^7.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_8_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_8_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^8.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_9_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_op_slot_9_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy státu [?cyber_op_target_nation^9.GetNameWithFlag]. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_sigint_surveillance_tracking: "Aktivní průzkum SIGINT" # todo: NEW TRANSLATION
+ cyber_sigint_surveillance_tracking_desc: "Naše týmy zpravodajství z komunikačních a elektronických signálů monitorují komunikaci a síťový provoz cíle, čímž výrazně urychlují shromažďování zpravodajských informací nad běžnou pasivní rychlost. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_radar_spoofing_tracking: "Aktivní klamání radarů" # todo: NEW TRANSLATION
+ cyber_radar_spoofing_tracking_desc: "Koordinovaný náklad elektronického boje vysílá do sítí protivzdušné detekce cíle falešné odrazy, čímž zhoršuje jeho situační přehled. Operace bude ukončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_election_interference_tracking: "Aktivní zasahování do voleb" # todo: NEW TRANSLATION
+ cyber_election_interference_tracking_desc: "Naši operativci vedou koordinovanou ovlivňovací kampaň zaměřenou na politický informační prostor cíle. Šíří dezinformace a financují opoziční sítě s cílem podkopat důvěru veřejnosti ve vládu. Operace potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_industrial_espionage_tracking: "Aktivní průmyslová špionáž" # todo: NEW TRANSLATION
+ cyber_industrial_espionage_tracking_desc: "Naše týmy získaly přístup k výzkumným sítím cíle a odčerpávají utajovaná technická a průmyslová data. Analytici zpracovávají odcizený materiál." # todo: NEW TRANSLATION
+ cyber_comms_intercept_tracking: "Aktivní odposlech komunikace" # todo: NEW TRANSLATION
+ cyber_comms_intercept_tracking_desc: "Naše signálové týmy pronikly do vládních a diplomatických komunikačních kanálů cíle. V reálném čase monitorujeme jejich provoz a získáváme využitelné zpravodajské informace." # todo: NEW TRANSLATION
+ cyber_financial_system_attack_tracking: "Aktivní útok na finanční systém" # todo: NEW TRANSLATION
+ cyber_financial_system_attack_tracking_desc: "Naši operativci nasadili ničivé nástroje zaměřené na infrastrukturu centrálního bankovnictví a zpracování plateb cíle, čímž ochromují jeho schopnost obchodovat a financovat státní operace. Operace potrvá přibližně 150 dní." # todo: NEW TRANSLATION
+ cyber_logistics_disruption_tracking: "Aktivní narušování vojenské logistiky" # todo: NEW TRANSLATION
+ cyber_logistics_disruption_tracking_desc: "Aktivně zhoršujeme fungování softwaru pro vojenské velení a řízení a správu dodavatelského řetězce cíle, čímž komplikujeme jeho zásobování a cykly posilování. Operace bude ukončena do 90 dní." # todo: NEW TRANSLATION
+ cyber_sleeper_network_tracking: "Síť spících agentů aktivována" # todo: NEW TRANSLATION
+ cyber_sleeper_network_tracking_desc: "Získali jsme trvalý, předem umístěný přístup ke kritickým sítím cíle. Toto předmostí umožňuje rychlejší a levnější budoucí operace, dokud zůstane neodhaleno, nejdéle však po dobu jednoho roku." # todo: NEW TRANSLATION
+ cyber_deception_campaign_tracking: "Aktivní strategická klamavá kampaň" # todo: NEW TRANSLATION
+ cyber_deception_campaign_tracking_desc: "Probíhá koordinovaná vícevektorová klamavá operace: k ovlivnění rozhodování cíle na nejvyšších úrovních jsou nasazovány podvržené komunikace, zkonstruované úniky zpravodajských informací a skryté ovlivňovací operace. Kampaň potrvá přibližně 180 dní." # todo: NEW TRANSLATION
+ cyber_zero_day_strike_tracking: "Útok zero-day: Následky" # todo: NEW TRANSLATION
+ cyber_zero_day_strike_tracking_desc: "Náš arzenál zero-day exploitů byl nasazen k přesnému ničivému útoku na nejkritičtější systémy cíle. Operace je dokončena; tento záznam zanikne, jakmile počáteční chaos opadne." # todo: NEW TRANSLATION
+ cyber_op_slot_0_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_0_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_1_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_2_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_3_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_4_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_5_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_6_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_7_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_8_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_network_hardening_tracking: "Probíhá zabezpečování sítě" # todo: NEW TRANSLATION
+ cyber_op_slot_9_network_hardening_tracking_desc: "Naše týmy kybernetické bezpečnosti provádějí komplexní zabezpečení kritické síťové infrastruktury: posilují autentizační systémy, opravují zranitelnosti a izolují citlivé přístupové kanály. Práce budou dokončeny přibližně za 120 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_0_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_1_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_2_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_3_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_4_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_5_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_6_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_7_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_8_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_counter_intrusion_tracking: "Aktivní proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_op_slot_9_counter_intrusion_tracking_desc: "Naše obranné týmy provádějí aktivní prověrku všech kritických sítí a hledají cizí přístupové body, skryté nástroje průniku a trvalé škodlivé kódy. Prověrka bude dokončena do 30 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_0_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_0_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_1_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_1_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_2_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_2_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_3_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_3_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_4_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_4_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_5_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_5_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_6_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_6_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_7_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_7_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_8_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_8_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_op_slot_9_attribution_hunt_tracking: "Aktivní pátrání po původci" # todo: NEW TRANSLATION
+ cyber_op_slot_9_attribution_hunt_tracking_desc: "Naše zpravodajské týmy provádějí forenzní analýzu nedávného průniku a sledují vektory útoku i digitální podpisy s cílem identifikovat odpovědného státního aktéra. Výsledky očekáváme do 60 dní." # todo: NEW TRANSLATION
+ cyber_network_hardening_complete_tt: "Zabezpečení sítě dokončeno. Kritická síťová infrastruktura byla posílena a známé zranitelnosti opraveny." # todo: NEW TRANSLATION
+ cyber_counter_intrusion_complete_tt: "Proti-infiltrační prověrka dokončena. Všechny odhalené cizí implantáty a trvalé škodlivé kódy byly z našich sítí odstraněny." # todo: NEW TRANSLATION
+ cyber_attribution_hunt_complete_tt: "Pátrání po původci dokončeno. Zpravodajští analytici ukončili forenzní přezkum nedávné infiltrační aktivity." # todo: NEW TRANSLATION
+ cyber_gps_tracking_complete_tt: "Operace rušení GPS vyřešena. Náš signálový tým ukončil narušování satelitních navigačních systémů cíle." # todo: NEW TRANSLATION
+ cyber_economic_tracking_complete_tt: "Operace ekonomického narušení vyřešena. Naše kybernetické týmy ukončily kampaň zaměřenou na finanční infrastrukturu protivníka." # todo: NEW TRANSLATION
+ cyber_propaganda_tracking_complete_tt: "Propagandistická operace vyřešena. Naše informační jednotky ukončily ovlivňovací kampaň proti obyvatelstvu cíle." # todo: NEW TRANSLATION
+ cyber_infra_tracking_complete_tt: "Útok na infrastrukturu vyřešen. Naši operativci ukončili dlouhodobý útok na kritickou infrastrukturu protivníka." # todo: NEW TRANSLATION
+ cyber_crit_tracking_complete_tt: "Operace kritického úderu vyřešena. Naše jednotky provedly prioritní útok na nejdůležitější systémy cíle." # todo: NEW TRANSLATION
+ cyber_sigint_surveillance_tracking_complete_tt: "Operace průzkumu SIGINT vyřešena. Naše odposlechové týmy ukončily sběr zpravodajských informací ze signálů cíle." # todo: NEW TRANSLATION
+ cyber_radar_spoofing_tracking_complete_tt: "Operace klamání radarů vyřešena. Naše týmy elektronického boje ukončily narušování sítě vzdušného průzkumu protivníka." # todo: NEW TRANSLATION
+ cyber_election_interference_tracking_complete_tt: "Operace zasahování do voleb vyřešena. Naše ovlivňovací jednotky ukončily skrytou kampaň zaměřenou na volební proces protivníka." # todo: NEW TRANSLATION
+ cyber_industrial_espionage_tracking_complete_tt: "Operace průmyslové špionáže vyřešena. Naši operativci získali od protivníka cílená data z výzkumu a vývoje." # todo: NEW TRANSLATION
+ cyber_comms_intercept_tracking_complete_tt: "Operace odposlechu komunikace vyřešena. Naše týmy ukončily dlouhodobé pronikání do velitelských a řídicích sítí protivníka." # todo: NEW TRANSLATION
+ cyber_financial_system_attack_tracking_complete_tt: "Útok na finanční systém vyřešen. Naše jednotky ukončily operaci zaměřenou na bankovní a platební infrastrukturu protivníka." # todo: NEW TRANSLATION
+ cyber_logistics_disruption_tracking_complete_tt: "Operace narušení logistiky vyřešena. Naši operativci ukončili kampaň proti dodavatelskému řetězci a distribučním systémům protivníka." # todo: NEW TRANSLATION
+ cyber_sleeper_network_tracking_complete_tt: "Implantace sítě spících agentů vyřešena. Naše týmy umístily do sítí protivníka nástroje trvalého přístupu pro budoucí aktivaci." # todo: NEW TRANSLATION
+ cyber_deception_campaign_tracking_complete_tt: "Klamavá kampaň vyřešena. Naši operativci ukončili operaci pod falešnou vlajkou určenou ke zmatení zpravodajských analytiků protivníka." # todo: NEW TRANSLATION
+ cyber_zero_day_strike_tracking_complete_tt: "Útok zero-day vyřešen. Naše jednotky provedly vysoce účinné zneužití utajené zranitelnosti v kritických systémech protivníka." # todo: NEW TRANSLATION
+ cyber_network_hardening_active: "Sítě zabezpečeny" # todo: NEW TRANSLATION
+ cyber_network_hardening_active_desc: "Naše týmy kybernetické bezpečnosti posílily autentizační systémy, opravily známé zranitelnosti a izolovaly kritické přístupové kanály. Dokud tato obrana zůstane aktivní, cizí pokusy o průnik budou výrazně méně pravděpodobně úspěšné." # todo: NEW TRANSLATION
+ cyber_counter_intrusion_active: "Proti-infiltrační prověrka" # todo: NEW TRANSLATION
+ cyber_counter_intrusion_active_desc: "Analytici aktivně pátrají po cizí přítomnosti v našich sítích: procházejí protokoly, izolují anomální procesy a odstraňují trvalé implantáty. Povědomí o provozní bezpečnosti je zvýšené ve všech vládních systémech." # todo: NEW TRANSLATION
+ cyber_attribution_hunt_active: "Probíhající pátrání po původci" # todo: NEW TRANSLATION
+ cyber_attribution_hunt_active_desc: "Týmy digitální forenziky rekonstruují cesty útoku a katalogizují podpisy odpovědného aktéra. Shromážděné zpravodajské informace posílí naši obranu a pomohou určit přiměřenou odpověď." # todo: NEW TRANSLATION
+ MD_cyber.201.t: "Infiltrace odstraněna" # todo: NEW TRANSLATION
+ MD_cyber.201.d: "Naše proti-infiltrační týmy dokončily prověrku. Cizí přístupové nástroje, sledovací implantáty a trvalá zadní vrátka byly identifikovány a odstraněny. Naše sítě jsou čisté." # todo: NEW TRANSLATION
+ MD_cyber.201.a: "Dobrá práce. Zůstaňte ostražití." # todo: NEW TRANSLATION
+ MD_cyber.202.t: "Prověrka dokončena: Sítě jsou čisté" # todo: NEW TRANSLATION
+ MD_cyber.202.d: "Naše proti-infiltrační týmy dokončily prověrku všech kritických systémů. Nebyly odhaleny žádné cizí přístupové nástroje ani sledovací implantáty. Naše sítě se zdají být zabezpečené." # todo: NEW TRANSLATION
+ MD_cyber.202.a: "Pokračujte v ostražitosti." # todo: NEW TRANSLATION
+ MD_cyber.1.t: "Operace úspěšná" # todo: NEW TRANSLATION
+ MD_cyber.1.d: "Naše kybernetické týmy úspěšně provedly operaci. Nezůstala po nás žádná stopa. Cíl nemá žádné indicie o našem zapojení." # todo: NEW TRANSLATION
+ MD_cyber.1.a: "Vynikající práce." # todo: NEW TRANSLATION
+ MD_cyber.2.t: "Odhalen cizí průnik" # todo: NEW TRANSLATION
+ MD_cyber.2.d: "Naše bezpečnostní týmy odhalily známky vnějšího kybernetického průniku. Útočníci účinně skryli svůj původ. Nemůžeme určit, kdo za útokem stojí." # todo: NEW TRANSLATION
+ MD_cyber.2.a: "Posilte naši obranu." # todo: NEW TRANSLATION
+ MD_cyber.3.t: "Identifikován kybernetický útok státu [?disp_name_agressor.GetNameWithFlag]" # todo: NEW TRANSLATION
+ MD_cyber.3.d: "Naše zpravodajské služby vysledovaly nedávný kybernetický průnik státu [?disp_name_agressor.GetNameWithFlag]. Útok byl záměrný a cílený. Podali jsme formální diplomatický protest." # todo: NEW TRANSLATION
+ MD_cyber.3.a: "Odsuďte agresora." # todo: NEW TRANSLATION
+ MD_cyber.4.t: "Operace přerušena" # todo: NEW TRANSLATION
+ MD_cyber.4.d: "Naše kybernetické týmy nedokázaly v systémech cíle vytvořit spolehlivé předmostí. Operace byla přerušena dříve, než bylo možné podniknout jakoukoli akci. Je nutná další příprava." # todo: NEW TRANSLATION
+ MD_cyber.4.a: "Přeskupte se a vyhodnoťte situaci." # todo: NEW TRANSLATION
+ MD_cyber.11.t: "Narušení signálu GPS" # todo: NEW TRANSLATION
+ MD_cyber.11.d: "Vojenské jednotky hlásí rozsáhlé výpadky satelitních navigačních systémů. Velitelé v terénu mají potíže s účinnou koordinací. Existuje podezření na útok narušující vnější signál." # todo: NEW TRANSLATION
+ MD_cyber.11.a: "Přejděte na záložní navigaci." # todo: NEW TRANSLATION
+ MD_cyber.12.t: "Finanční sítě napadeny" # todo: NEW TRANSLATION
+ MD_cyber.12.d: "Banky, burzy a zpracovatelé plateb hlásí kaskádová selhání systémů. Narušení není náhodné. Naši analytici se domnívají, že cizí operativci zaměřili naši finanční infrastrukturu." # todo: NEW TRANSLATION
+ MD_cyber.12.a: "Izolujte a omezte škody." # todo: NEW TRANSLATION
+ MD_cyber.13.t: "Infiltrace informačního prostoru" # todo: NEW TRANSLATION
+ MD_cyber.13.d: "Sociální média a zpravodajské sítě zaplavují koordinované dezinformace. Důvěra veřejnosti ve vládu upadá. Naši analytici se domnívají, že jde o zahraniční ovlivňovací operaci." # todo: NEW TRANSLATION
+ MD_cyber.13.a: "Zahajte kampaň s protichůdným narativem." # todo: NEW TRANSLATION
+ MD_cyber.14.t: "Kritická infrastruktura pod útokem" # todo: NEW TRANSLATION
+ MD_cyber.14.d: "Elektrárny, dopravní uzly a komunikační body utrpěly současné výpadky. Inženýři hlásí známky úmyslné sabotáže prostřednictvím našich řídicích systémů. Jde o významnou eskalaci." # todo: NEW TRANSLATION
+ MD_cyber.14.a: "Vyhlaste stav národní nouze." # todo: NEW TRANSLATION
+ MD_cyber.15.t: "Katastrofický kybernetický úder" # todo: NEW TRANSLATION
+ MD_cyber.15.d: "Každý kritický systém v zemi byl zasažen současně: finanční sítě, elektrické rozvodné sítě, vojenská komunikace i dodavatelské řetězce. Rozsah a přesnost útoku jsou bezprecedentní. Národ je ochromen." # todo: NEW TRANSLATION
+ MD_cyber.15.a: "Mobilizujte vše, co máme." # todo: NEW TRANSLATION
+ MD_cyber.16.t: "Komunikace napadena" # todo: NEW TRANSLATION
+ MD_cyber.16.d: "Cizí operativci pronikli do našich šifrovaných komunikačních kanálů. Citlivé přenosy pravděpodobně monitoruje nepřátelský státní aktér." # todo: NEW TRANSLATION
+ MD_cyber.16.a: "Zahajte uzavření komunikačních sítí." # todo: NEW TRANSLATION
+ MD_cyber.17.t: "Radarové sítě narušeny" # todo: NEW TRANSLATION
+ MD_cyber.17.d: "Naše radary protivzdušné obrany poskytují falešná hlášení. Přízraky zahlcují operátory. Nepřátelská letadla mohou zmatku využívat." # todo: NEW TRANSLATION
+ MD_cyber.17.a: "Přejděte na záložní detekční protokoly." # todo: NEW TRANSLATION
+ MD_cyber.18.t: "Odhalena zahraniční ovlivňovací operace" # todo: NEW TRANSLATION
+ MD_cyber.18.d: "Objevily se důkazy koordinované zahraniční ovlivňovací kampaně zaměřené na naši domácí politickou scénu. Dezinformace se šíří sociálními sítěmi a prohlubují rozpory ve společnosti." # todo: NEW TRANSLATION
+ MD_cyber.18.a: "Odsuďte zahraniční vměšování." # todo: NEW TRANSLATION
+ MD_cyber.19.t: "Výzkumné sítě prolomeny" # todo: NEW TRANSLATION
+ MD_cyber.19.d: "Z našich národních laboratoří a obranných dodavatelů byla odcizena utajovaná výzkumná data a průmyslové návrhy. Celý rozsah krádeže se stále vyhodnocuje." # todo: NEW TRANSLATION
+ MD_cyber.19.a: "Prověřte všechny utajované systémy." # todo: NEW TRANSLATION
+ MD_cyber.110.t: "Velitelské sítě infiltrovány" # todo: NEW TRANSLATION
+ MD_cyber.110.d: "Do našich vojenských a diplomatických komunikačních kanálů bylo proniknuto. Nepřátelští operativci v reálném čase zachytávají rozkazy a citlivou korespondenci." # todo: NEW TRANSLATION
+ MD_cyber.110.a: "Odstraňte všechny napadené kanály." # todo: NEW TRANSLATION
+ MD_cyber.111.t: "Systémy centrální banky pod útokem" # todo: NEW TRANSLATION
+ MD_cyber.111.d: "Naše centrální banka a hlavní infrastruktura finančního zúčtování čelí vytrvalému kybernetickému útoku. Zpracování transakcí se zastavilo a měnové trhy se rychle destabilizují." # todo: NEW TRANSLATION
+ MD_cyber.111.a: "Vyhlaste finanční nouzi." # todo: NEW TRANSLATION
+ MD_cyber.112.t: "Vojenský dodavatelský řetězec narušen" # todo: NEW TRANSLATION
+ MD_cyber.112.d: "Software pro velení a řízení naší předsunuté logistiky zkolaboval v několika sektorech. Jednotky na frontě hlásí nedostatek zásob, protože se narušení šíří celým systémem." # todo: NEW TRANSLATION
+ MD_cyber.112.a: "Vraťte se k ručním postupům zásobování." # todo: NEW TRANSLATION
+ MD_cyber.113.t: "Odhalen trvalý průnik" # todo: NEW TRANSLATION
+ MD_cyber.113.d: "Naše bezpečnostní služby objevily skryté přístupové body hluboko v kritické síťové infrastruktuře. Implantáty jsou sofistikované a pravděpodobně byly aktivní již delší dobu." # todo: NEW TRANSLATION
+ MD_cyber.113.a: "Zahajte úplný audit sítě." # todo: NEW TRANSLATION
+ MD_cyber.114.t: "Velitelské zpravodajství napadeno" # todo: NEW TRANSLATION
+ MD_cyber.114.d: "Naše zpravodajské služby odhalily systematickou kampaň zkonstruovaného signálového provozu a falešné komunikace. Naši vojenští velitelé možná jednali na základě záměrně otrávených informací." # todo: NEW TRANSLATION
+ MD_cyber.114.a: "Zřiďte pracovní skupinu pro ověřování signálů." # todo: NEW TRANSLATION
+ MD_cyber.115.t: "Útok zero-day" # todo: NEW TRANSLATION
+ MD_cyber.115.d: "Ničivý přesný kybernetický úder současně zasáhl naše nejkritičtější systémy pomocí dříve neznámých exploitů. Zasaženy byly průmyslové řídicí systémy, energetická infrastruktura i obranné sítě." # todo: NEW TRANSLATION
+ MD_cyber.115.a: "Aktivujte národní protokoly kybernetické nouze." # todo: NEW TRANSLATION
+ cyber_propaganda_ops_malus: "Infiltrace informačního prostoru" # todo: NEW TRANSLATION
+ cyber_propaganda_ops_malus_desc: "Koordinovaná zahraniční dezinformační kampaň aktivně podkopává důvěru veřejnosti v naši vládu a instituce, potlačuje politickou činnost a oslabuje národní soudržnost." # todo: NEW TRANSLATION
+ cyber_gps_jamming_malus: "Systémy GPS narušeny" # todo: NEW TRANSLATION
+ cyber_gps_jamming_malus_desc: "Cizí kybernetičtí operativci napadli naši vojenskou satelitní navigační infrastrukturu, čímž výrazně zhoršili koordinaci vojsk a přehled o bojišti." # todo: NEW TRANSLATION
+ cyber_economic_disruption_malus: "Finanční sítě napadeny" # todo: NEW TRANSLATION
+ cyber_economic_disruption_malus_desc: "Trvalá zahraniční kybernetická kampaň narušuje naše bankovní systémy, platební sítě a průmyslovou výrobu. Hospodářské zotavení potrvá." # todo: NEW TRANSLATION
+ cyber_infrastructure_damage_malus: "Poškození infrastruktury" # todo: NEW TRANSLATION
+ cyber_infrastructure_damage_malus_desc: "Cizí kybernetičtí útočníci způsobili značné škody na naší kritické infrastruktuře, čímž zkomplikovali logistiku, výstavbu a distribuci zásob." # todo: NEW TRANSLATION
+ cyber_critical_strike_malus: "Katastrofický kybernetický úder" # todo: NEW TRANSLATION
+ cyber_critical_strike_malus_desc: "Ničivý kybernetický útok plného rozsahu současně ochromil naši průmyslovou základnu, komunikaci i dodavatelský řetězec. Zotavení bude dlouhé a bolestivé." # todo: NEW TRANSLATION
+ cyber_sigint_surveillance_malus: "Komunikace pod dohledem" # todo: NEW TRANSLATION
+ cyber_sigint_surveillance_malus_desc: "Cizí operativci pronikli do naší šifrované komunikační infrastruktury. Citlivé přenosy jsou pravděpodobně monitorovány, což komplikuje koordinovanou politickou činnost." # todo: NEW TRANSLATION
+ cyber_radar_spoofing_malus: "Radarová síť napadena" # todo: NEW TRANSLATION
+ cyber_radar_spoofing_malus_desc: "Cizí kybernetičtí operativci vysílají do našich radarových sítí protivzdušné obrany falešné odrazy, čímž zhoršují schopnost detekce a zachycení." # todo: NEW TRANSLATION
+ cyber_election_interference_malus: "Aktivní zahraniční ovlivňovací kampaň" # todo: NEW TRANSLATION
+ cyber_election_interference_malus_desc: "Koordinovaná zahraniční dezinformační kampaň podkopává důvěru veřejnosti a prohlubuje domácí politické rozpory." # todo: NEW TRANSLATION
+ cyber_industrial_espionage_malus: "Výzkumné sítě prolomeny" # todo: NEW TRANSLATION
+ cyber_industrial_espionage_malus_desc: "Z našich národních laboratoří a obranných dodavatelů byla odcizena utajovaná výzkumná data a průmyslové návrhy, což zpomaluje naše vývojové programy." # todo: NEW TRANSLATION
+ cyber_comms_intercept_malus: "Velitelské sítě napadeny" # todo: NEW TRANSLATION
+ cyber_comms_intercept_malus_desc: "Naše vojenská a diplomatická komunikace byla napadena. Provozní bezpečnost je oslabena a koordinace trpí." # todo: NEW TRANSLATION
+ cyber_financial_system_attack_malus: "Finanční infrastruktura pod útokem" # todo: NEW TRANSLATION
+ cyber_financial_system_attack_malus_desc: "Vytrvalý útok na naši infrastrukturu centrálního bankovnictví a plateb způsobil kaskádová selhání v celé ekonomice." # todo: NEW TRANSLATION
+ cyber_logistics_disruption_malus: "Vojenský dodavatelský řetězec narušen" # todo: NEW TRANSLATION
+ cyber_logistics_disruption_malus_desc: "Software pro velení a řízení naší předsunuté logistiky byl napaden. Jednotky na frontě trpí nedostatkem zásob." # todo: NEW TRANSLATION
+ cyber_sleeper_network_malus: "Trvalý průnik do sítě" # todo: NEW TRANSLATION
+ cyber_sleeper_network_malus_desc: "Cizí operativci umístili hluboko do našich kritických sítí skryté přístupové body a udržují si trvalý omezený přístup k citlivým systémům." # todo: NEW TRANSLATION
+ cyber_deception_campaign_malus: "Velitelské zpravodajství otráveno" # todo: NEW TRANSLATION
+ cyber_deception_campaign_malus_desc: "Naši velitelé jednali na základě zkonstruovaného signálového provozu a falešné komunikace. Vojenská koordinace a situační přehled jsou vážně narušeny." # todo: NEW TRANSLATION
+ cyber_zero_day_strike_malus: "Útok zero-day" # todo: NEW TRANSLATION
+ cyber_zero_day_strike_malus_desc: "Ničivý přesný útok pomocí utajovaných zero-day exploitů současně zasáhl naše nejkritičtější průmyslové a infrastrukturní systémy." # todo: NEW TRANSLATION
+ upgrade_establish_cyber_operations_division: "Divize kybernetických operací" # todo: NEW TRANSLATION
+ upgrade_establish_cyber_operations_division_desc: "Zřiďte v rámci agentury specializovanou divizi kybernetických operací, která poskytne základní kapacitu pro digitální válku. Tato divize nám odemkne možnost provádět operace §Ykybernetické války§!." # todo: NEW TRANSLATION
+ upgrade_offensive_cyber_operations: "Ofenzivní kybernetická válka" # todo: NEW TRANSLATION
+ upgrade_offensive_cyber_operations_desc: "Rozšiřte divizi o nástroje pokročilých trvalých hrozeb a výzkum zero-day exploitů, což umožní provádět sofistikovanější operace." # todo: NEW TRANSLATION
+ upgrade_cyber_warfare_operational_planning: "Kybernetické velení plného rozsahu" # todo: NEW TRANSLATION
+ upgrade_cyber_warfare_operational_planning_desc: "Rozviňte divizi v plně integrované kybernetické velení schopné koordinovat komplexní vícevektorové operace proti zabezpečeným cílům." # todo: NEW TRANSLATION
+ upgrade_defensive_cyber_operations: "Defenzivní kybernetické operace" # todo: NEW TRANSLATION
+ upgrade_defensive_cyber_operations_desc: "Vybudujte specializovaný obranný tým zaměřený na zabezpečení našich sítí, odhalování průniků a skrývání naší digitální stopy." # todo: NEW TRANSLATION
+ upgrade_cyber_elite: "Arzenál zero-day exploitů" # todo: NEW TRANSLATION
+ upgrade_cyber_elite_desc: "Vyviněte a nahromaďte utajovaný arzenál elitních zero-day exploitů schopných proniknout i do nejlépe zabezpečených systémů na světě." # todo: NEW TRANSLATION
+ cyber_offense_power_modifier: "Ofenzivní kybernetická válka" # todo: NEW TRANSLATION
+ cyber_offense_power_modifier_desc: "Hodnota určující sílu našich ofenzivních kybernetických operací." # todo: NEW TRANSLATION
+ cyber_defense_rating_modifier: "Defenzivní kybernetická válka" # todo: NEW TRANSLATION
+ cyber_capability_modifier: "Kapacita kybernetické války" # todo: NEW TRANSLATION
+ cyber_attribution_bonus_modifier: "Bonus k identifikaci původce kybernetických útoků" # todo: NEW TRANSLATION
+ cyber_unlock: "Odemkne systém §Ykybernetické války§! v rozhraní §YMezinárodních systémů§!" # todo: NEW TRANSLATION
+ has_cyber_capability_1: "[THIS.GetNameWithFlag] má §Ykybernetické velení§! na úrovni §G1§!" # todo: NEW TRANSLATION
+ has_cyber_capability_2: "[THIS.GetNameWithFlag] má §Ykybernetické velení§! na úrovni §G2§!" # todo: NEW TRANSLATION
+ has_cyber_capability_3: "[THIS.GetNameWithFlag] má §Ykybernetické velení§! na úrovni §G3§!" # todo: NEW TRANSLATION
+ has_cyber_capability_4: "[THIS.GetNameWithFlag] má §Ykybernetické velení§! na úrovni §G4§!" # todo: NEW TRANSLATION
+ cyber_not_recently_attacked_target_tt: "[THIS.GetNameWithFlag] v poslední době neprovedl kybernetický útok proti vybranému státu." # todo: NEW TRANSLATION
+ cyber_not_at_op_capacity_tt: "§YKybernetické velení§! státu [THIS.GetNameWithFlag] není na maximální operační kapacitě." # todo: NEW TRANSLATION
+ cyber_has_valid_target_tt: "Aktuálně vybraný cíl je platným cílem kybernetických útoků." # todo: NEW TRANSLATION
+ cyber_not_doing_current_mission_against_tt: "[ROOT.GetNameWithFlag] aktuálně neprovádí tento typ mise proti vybranému státu." # todo: NEW TRANSLATION
+ cyber_has_expanded_offensive_tt: "Rozšířili jsme ofenzivní schopnosti našeho státu v oblasti kybernetické války." # todo: NEW TRANSLATION
+ cyber_has_expanded_defensive_tt: "Rozšířili jsme defenzivní schopnosti našeho státu v oblasti kybernetické války." # todo: NEW TRANSLATION
+ cyber_can_expand_offensive_tt: "Můžeme rozšířit ofenzivní schopnosti našeho státu v oblasti kybernetické války." # todo: NEW TRANSLATION
+ cyber_can_expand_defensive_tt: "Můžeme rozšířit defenzivní schopnosti našeho státu v oblasti kybernetické války." # todo: NEW TRANSLATION

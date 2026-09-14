@@ -3371,6 +3371,8 @@
  TUR.Autocracy: "£TUR_Autocracy (EMEP) Strana práce" # todo: NEW TRANSLATION # todo: MOVED KEY
  TUR.Autocracy_icon: "£TUR_Autocracy" # todo: NEW TRANSLATION # todo: MOVED KEY
  TUR.Autocracy_desc: "(Marxismus-leninismus) - Emek Partisi (Labour Party)\n\nEmek Partisi (Labour Party) je strana, která následuje vědecký socialismus s cílem vytvořit demokratické a nezávislé Turecko.\n\nVojenské §Yhodnocení§! od této strany: §R-50§!" # todo: NEW TRANSLATION # todo: MOVED KEY
+ TUR.Vilayat_e_Faqih: "£generic_Vilayat_e_Faqih_small Organizace Selam Tevhid" # todo: NEW TRANSLATION
+ TUR.Vilayat_e_Faqih_desc: "(Chomeinismus) - Organizace Selam Tevhid, fungující na principech silně ovlivněných íránskou revolucí, je údajná skupina působící v Turecku s cílem příznivě ovlivňovat tureckou politiku ve prospěch Íránu. Skupina je obviňována z vazeb na IRGC – navzdory několika vyšetřováním však o organizaci vyšlo najevo jen velmi málo." # todo: NEW TRANSLATION
  TUR.Caliphate: "£TUR_Caliphate (İBDA-C) Velký východní islámský útočný front" # todo: NEW TRANSLATION # todo: MOVED KEY
  TUR.Caliphate_icon: "£TUR_Caliphate" # todo: NEW TRANSLATION # todo: MOVED KEY
  TUR.Caliphate_desc: "(Islámský militarismus) - İslami Büyükdoğu Akıncılar Cephesi (Great Eastern Islamic Raiders' Front)\n\nİslami Büyükdoğu Akıncılar Cephesi (Great Eastern Islamic Raiders' Front) je islamistická militantní organizace následující učení Necip Fazıl Kısakürek. Skupina usiluje o vytvoření sunnitského islámského federálního státu na Blízkém východě a znovuobnovení chalífátu.\n\nVojenské §Yhodnocení§! od této strany: §R-250§!" # todo: NEW TRANSLATION # todo: MOVED KEY
@@ -3437,60 +3439,192 @@
  UKR.Western_Autocracy: "£UKR_western_autocracy Partija Zakhysnykiv Vitchizni" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Western_Autocracy_icon: "£UKR_western_autocracy" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Western_Autocracy_desc: "Strana obránců vlasti £UKR_western_autocracy je strana deklarující prozápadní zahraničněpolitický kurz, autokratické a militaristické tendence, vytvořená pravoslavným křesťanem a váženým ukrajinským právníkem - Yuriyem Karamzinem" # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Western_Autocracy_2007: "£UKR_western_autocracy (PZV) - Strana ochránců vlasti" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2007_icon: "£UKR_western_autocracy" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2007_desc: "Strana ochránců vlasti £UKR_western_autocracy - Strana obránců vlasti je prozápadní, militaristická strana prosazující právo a pořádek, kterou založil pravoslavný právník Yuriy Karmazin." # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2014: "£UKR_western_autocracytwo (NF) - Lidová fronta" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2014_icon: "£UKR_western_autocracytwo" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2014_desc: "Lidová fronta £UKR_western_autocracytwo - Lidová fronta je povstalecká válečná strana po Majdanu Arsenije Jaceňuka, Oleksandra Turčynova a Arsena Avakova: prosazuje tvrdou prozápadní linii a politiku založenou především na bezpečnosti." # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2019: "£ukr_syla_i_chest (SICH) - Síla a čest" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2019_icon: "£ukr_syla_i_chest" # todo: NEW TRANSLATION
+ UKR.Western_Autocracy_2019_desc: "Síla a čest £ukr_syla_i_chest - Síla a čest je strana Ihora Smeška, bývalého šéfa Bezpečnostní služby Ukrajiny, vybudovaná na programu upřednostňujícím bezpečnost a euroatlantické směřování." # todo: NEW TRANSLATION
  UKR.conservatism: "£ukr_fatherland VO 'Bat'kivshchyna'" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.conservatism_icon: "£ukr_fatherland" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.conservatism_desc: "All-Ukrainian Union «Fatherland» £ukr_fatherland\n9. července 1999 na základě parlamentní skupiny a menší strany vznikla nová politická strana - All-Ukrainian Union «Fatherland» - na svém ustavujícím sněmu. Strana považuje členství Ukrajiny v EU za strategický cíl. Podporuje bezvízový styk Ukrajinců s EU a usiluje o zrušení 'ponižujících vízových režimů'." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.conservatism_2001: "£UKR_our_ukraine (NU) - Blok Viktora Juščenka „Naše Ukrajina“" # todo: NEW TRANSLATION
+ UKR.conservatism_2001_icon: "£UKR_our_ukraine" # todo: NEW TRANSLATION
+ UKR.conservatism_2001_desc: "Blok Viktora Juščenka „Naše Ukrajina“ £UKR_our_ukraine - Blok Viktora Juščenka „Naše Ukrajina“ vznikl usnesením XII. sjezdu Lidového hnutí Ukrajiny 8. prosince 2001 a sjednotil deset národně demokratických a liberálních stran kolem odvolaného premiéra. Ve volbách v roce 2002 získal první místo s 23,6 procenta hlasů." # todo: NEW TRANSLATION
+ UKR.conservatism_2005: "£UKR_our_ukraine (NSNU) - Lidový svaz „Naše Ukrajina“" # todo: NEW TRANSLATION
+ UKR.conservatism_2005_icon: "£UKR_our_ukraine" # todo: NEW TRANSLATION
+ UKR.conservatism_2005_desc: "Lidový svaz „Naše Ukrajina“ £UKR_our_ukraine - Naše Ukrajina je stranou Viktora Juščenka a politickým nástrojem Oranžové revoluce: umírnění nacionalisté, liberálové a konzervativci na euroatlantické platformě." # todo: NEW TRANSLATION
+ UKR.conservatism_2014: "£ukr_solidarity (BPP) - Blok Petra Porošenka „Solidarita“" # todo: NEW TRANSLATION
+ UKR.conservatism_2014_icon: "£ukr_solidarity" # todo: NEW TRANSLATION
+ UKR.conservatism_2014_desc: "Blok Petra Porošenka „Solidarita“ £ukr_solidarity - Blok Petra Porošenka „Solidarita“ zvítězil ve volbách v roce 2014 a stal se prezidentskou stranou. Kandidoval s programem evropské integrace, decentralizace a obnovy armády." # todo: NEW TRANSLATION
+ UKR.conservatism_2019: "£ukr_yes (YES) - Evropská solidarita" # todo: NEW TRANSLATION
+ UKR.conservatism_2019_icon: "£ukr_yes" # todo: NEW TRANSLATION
+ UKR.conservatism_2019_desc: "Evropská solidarita £ukr_yes - Evropská solidarita je přejmenovaný Porošenkův blok, od roku 2019 hlavní parlamentní opozice na tvrdě protiruské a euroatlantické platformě." # todo: NEW TRANSLATION
  UKR.liberalism: "£ukr_solidarity BPP 'Solidarnist'" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.liberalism_icon: "£ukr_solidarity" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.liberalism_desc: "Petro Poroshenko Bloc «Solidarity» £ukr_solidarity je politická strana na Ukrajině, jejíž kořeny sahají k parlamentní skupině Solidarity z roku 2000 a od té doby existuje v různých formách jako politický nástroj Petra Porošenka. Strana oficiálně odsuzuje populismus a prosazuje pragmatismus a realismus. Podporuje členství Ukrajiny v Evropské unii, sociální zabezpečení a ochranu chudých občanů. Ve skutečnosti však zůstává populistickou kapesní stranou Porošenka." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.liberalism_2010: "£ukr_front_zmin (FZ) - Fronta změn" # todo: NEW TRANSLATION
+ UKR.liberalism_2010_icon: "£ukr_front_zmin" # todo: NEW TRANSLATION
+ UKR.liberalism_2010_desc: "Fronta změn £ukr_front_zmin - Fronta změn je liberálně reformní projekt Arsenije Jaceňuka, vybudovaný po jeho prezidentské kandidatuře v roce 2010 na technokratické, proevropské platformě." # todo: NEW TRANSLATION
+ UKR.liberalism_2012: "£ukr_udar (UDAR) - UDAR Vitalije Klička" # todo: NEW TRANSLATION
+ UKR.liberalism_2012_icon: "£ukr_udar" # todo: NEW TRANSLATION
+ UKR.liberalism_2012_desc: "UDAR Vitalije Klička £ukr_udar - UDAR Vitalije Klička vstoupil v roce 2012 do parlamentu se 14 procenty hlasů na protikorupční a proevropské platformě a stal se jedním ze tří opozičních vůdců Majdanu." # todo: NEW TRANSLATION
+ UKR.liberalism_2014: "£ukr_samopomich (SAMO) - Sdružení „Svépomoc“" # todo: NEW TRANSLATION
+ UKR.liberalism_2014_icon: "£ukr_samopomich" # todo: NEW TRANSLATION
+ UKR.liberalism_2014_desc: "Sdružení „Svépomoc“ £ukr_samopomich - Svépomoc je stranou lvovského starosty Andrije Sadového, křesťanskodemokratickou silou založenou na decentralizaci a obecní samosprávě, která ve volbách v roce 2014 obsadila třetí místo." # todo: NEW TRANSLATION
+ UKR.liberalism_2019: "£ukr_golos (HOL) - Hlas" # todo: NEW TRANSLATION
+ UKR.liberalism_2019_icon: "£ukr_golos" # todo: NEW TRANSLATION
+ UKR.liberalism_2019_desc: "Hlas £ukr_golos - Hlas, založený hudebníkem Svjatoslavem Vakarčukem, je mladá liberální protikorupční strana, která v roce 2019 vstoupila do parlamentu s 5,8 procenta hlasů." # todo: NEW TRANSLATION
  UKR.socialism: "£ukr_sdpu SDPU(o)" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.socialism_icon: "£ukr_sdpu" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.socialism_desc: "Sociálnědemokratická strana Ukrajiny (spojená) £ukr_sdpu\nSDPU(o) se profiluje jako středolevicová strana, což vytváří ostrý disonant s přítomností velkých oligarchů v jejím vedení. Přes své západní zaměření je spíše nakloněna spolupráci s neutrálními a prozápadními levicovými stranami kvůli společným cílům." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.socialism_byut: "£ukr_fatherland (BYUT) - Blok Julije Tymošenkové" # todo: NEW TRANSLATION
+ UKR.socialism_byut_icon: "£ukr_fatherland" # todo: NEW TRANSLATION
+ UKR.socialism_byut_desc: "Blok Julije Tymošenkové £ukr_fatherland - Blok Julije Tymošenkové je volební aliance vybudovaná kolem Vlasti, hlavní protikučmovské opoziční síly a pozdějšího jádra oranžové koalice." # todo: NEW TRANSLATION
+ UKR.socialism_2012: "£ukr_fatherland (BAT) - VO „Baťkivščyna“" # todo: NEW TRANSLATION
+ UKR.socialism_2012_icon: "£ukr_fatherland" # todo: NEW TRANSLATION
+ UKR.socialism_2012_desc: "VO „Baťkivščyna“ £ukr_fatherland - Vlast se po rozpuštění bloku vrací ke svému vlastnímu názvu a v roce 2013 pohlcuje Frontu změn a Reformy a pořádek." # todo: NEW TRANSLATION
  UKR.Communist-State: "£ukr_cpu KPU" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Communist-State_icon: "£ukr_cpu" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Communist-State_desc: "Komunistická strana Ukrajiny £ukr_cpu\nPo pádu Sovětského svazu byl předchůdce strany v roce 1991 zakázán a následně reformován. V reakci na snahy komunistů o obnovení byla jejich činnost postupně legalizována." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Communist-State_banned: "£ukr_cpu (KPU) - Komunistická strana Ukrajiny (zakázaná)" # todo: NEW TRANSLATION
+ UKR.Communist-State_banned_icon: "£ukr_cpu" # todo: NEW TRANSLATION
+ UKR.Communist-State_banned_desc: "Komunistická strana Ukrajiny (zakázaná) £ukr_cpu - Komunistická strana Ukrajiny byla zakázána soudním rozhodnutím 5. července 2022." # todo: NEW TRANSLATION
  UKR.anarchist_communism: "£UKR_anarchism_communism Soyuz Livykh Syl" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.anarchist_communism_icon: "£UKR_anarchism_communism" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.anarchist_communism_desc: "Svaz levých sil £UKR_anarchism_communism je ukrajinská socialistická strana založená bývalým námořníkem Vasylem Volhou. Strana byla původně v jednom bloku s SPU, později se od něj oddělila. Strana usiluje o zničení oligarchie jako vykořisťovatelské třídy a vybudování státu sociálního zabezpečení." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.anarchist_communism_2008: "£ukr_livi_syly (SLS) - Svaz levicových sil" # todo: NEW TRANSLATION
+ UKR.anarchist_communism_2008_icon: "£ukr_livi_syly" # todo: NEW TRANSLATION
+ UKR.anarchist_communism_2008_desc: "Svaz levicových sil £ukr_livi_syly - Svaz levicových sil, založený bývalým ponorkovým důstojníkem Vasylem Volhou, se odštěpil od Socialistické strany a vedl kampaň za zničení oligarchie jako třídy." # todo: NEW TRANSLATION
+ UKR.anarchist_communism_2015: "£ukr_social_movement (SR) - Sociální hnutí" # todo: NEW TRANSLATION
+ UKR.anarchist_communism_2015_icon: "£ukr_social_movement" # todo: NEW TRANSLATION
+ UKR.anarchist_communism_2015_desc: "Sociální hnutí £ukr_social_movement - Sociální hnutí je demokratickosocialistická a odborová organizace založená v roce 2015, která se staví proti oligarchickému kapitalismu i ruskému imperialismu." # todo: NEW TRANSLATION
  UKR.Conservative: "£UKR_emerging_kuchma Za Yedynu Ukrayinu!" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Conservative_icon: "£UKR_emerging_kuchma" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Conservative_desc: "For United Ukraine! £UKR_emerging_kuchma - volební blok pěti politických stran na Ukrajině, vytvořený pro účast ve volbách do Nejvyšší rady v roce 2002. Blok podporoval prezidenta Leonida Kučmu a byl v podstatě centrem kolem něj.»" # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Conservative_2014: "£ukr_opp_block (OB) - Opoziční blok" # todo: NEW TRANSLATION
+ UKR.Conservative_2014_icon: "£ukr_opp_block" # todo: NEW TRANSLATION
+ UKR.Conservative_2014_desc: "Opoziční blok £ukr_opp_block - Opoziční blok je hlavním nástupcem Strany regionů po Majdanu a sdružuje její přeživší poslance a podnikatelské skupiny." # todo: NEW TRANSLATION
+ UKR.Conservative_2018: "£ukr_opposition (OPZZ) - Opoziční platforma – Za život" # todo: NEW TRANSLATION
+ UKR.Conservative_2018_icon: "£ukr_opposition" # todo: NEW TRANSLATION
+ UKR.Conservative_2018_desc: "Opoziční platforma – Za život £ukr_opposition - Opoziční platforma – Za život je přejmenovaný proruský tábor Medvedčuka a Bojka, který skončil druhý ve volbách v roce 2019 a představoval největší opoziční frakci." # todo: NEW TRANSLATION
+ UKR.Conservative_banned: "£ukr_opposition (OPZZ) - Opoziční platforma – Za život (zakázaná)" # todo: NEW TRANSLATION
+ UKR.Conservative_banned_icon: "£ukr_opposition" # todo: NEW TRANSLATION
+ UKR.Conservative_banned_desc: "Opoziční platforma – Za život (zakázaná) £ukr_opposition - Opoziční platforma – Za život byla po ruské invazi v plném rozsahu zakázána soudním rozhodnutím 20. června 2022." # todo: NEW TRANSLATION
  UKR.Autocracy: "£UKR_feminism The People's Opposition Bloc" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Autocracy_icon: "£UKR_feminism" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Autocracy_desc: "Lidový opoziční blok £UKR_feminism je sdružení několika pravicově-levicových stran vedené Natalií Vitrenko, ekonomkou a členkou Eurasian Youth Union. Jako sjednocující osobnost spojuje proruskou panskoslámskou stranu Rus, národní bolševiky a křesťanské ortodoxní komunisty pod svým vedením." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Autocracy_2012: "£ukr_vybir (UV) - Ukrajinská volba" # todo: NEW TRANSLATION
+ UKR.Autocracy_2012_icon: "£ukr_vybir" # todo: NEW TRANSLATION
+ UKR.Autocracy_2012_desc: "Ukrajinská volba £ukr_vybir - Ukrajinská volba je platformou Viktora Medvedčuka, která prosazuje neangažovanost, federalizaci a integraci s Ruskem vedenou Celní unií." # todo: NEW TRANSLATION
+ UKR.Autocracy_2019: "£ukr_shariy (PSH) - Šarijova strana" # todo: NEW TRANSLATION
+ UKR.Autocracy_2019_icon: "£ukr_shariy" # todo: NEW TRANSLATION
+ UKR.Autocracy_2019_desc: "Šarijova strana £ukr_shariy - Šarijova strana je nástrojem blogera Anatolije Šarije, který vedl především internetovou proruskou populistickou kampaň a v roce 2019 získal 2,2 procenta hlasů." # todo: NEW TRANSLATION
+ UKR.Autocracy_banned: "£ukr_shariy (PSH) - Šarijova strana (zakázaná)" # todo: NEW TRANSLATION
+ UKR.Autocracy_banned_icon: "£ukr_shariy" # todo: NEW TRANSLATION
+ UKR.Autocracy_banned_desc: "Šarijova strana (zakázaná) £ukr_shariy - Šarijova strana byla soudně zakázána 16. června 2022; Nejvyšší soud zákaz potvrdil 6. září 2022." # todo: NEW TRANSLATION
+ UKR.Caliphate_optional: "£generic_Caliphate_small (HUT) - Hizb ut-Tahrír (volitelné)" # todo: NEW TRANSLATION
+ UKR.Caliphate_optional_icon: "£generic_Caliphate_small" # todo: NEW TRANSLATION
+ UKR.Caliphate_optional_desc: "Hizb ut-Tahrír (volitelné) £generic_Caliphate_small - Hizb ut-Tahrír je nadnárodní panislamistické hnutí volající po obnovení chalífátu, které má skutečnou přítomnost mezi částí krymskotatarské komunity." # todo: NEW TRANSLATION
  UKR.Neutral_Muslim_Brotherhood: "£UKR_neutral_muslim Milliy Firqa" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Muslim_Brotherhood_icon: "£UKR_neutral_muslim" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Muslim_Brotherhood_desc: "Milliy Fırqa £UKR_neutral_muslim je mírně proruská krymskotatarská nevládní organizace, de facto vycházející z bývalé politické strany se stejným názvem. Prosazuje práva Krymských Tatarů a někdy žádá podporu od turecké vlády." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_Muslim_Brotherhood_2014: "£ukr_mejlis (MEJ) - Medžlis krymskotatarského lidu" # todo: NEW TRANSLATION
+ UKR.Neutral_Muslim_Brotherhood_2014_icon: "£ukr_mejlis" # todo: NEW TRANSLATION
+ UKR.Neutral_Muslim_Brotherhood_2014_desc: "Medžlis krymskotatarského lidu £ukr_mejlis - Medžlis krymskotatarského lidu je reprezentativním orgánem Krymských Tatarů, pro-ukrajinským a okupačními úřady v roce 2016 zakázaným jako extremistický." # todo: NEW TRANSLATION
  UKR.Neutral_Autocracy: "£UKR_neutral_internet Internet-Partiya Ukrayiny" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Autocracy_icon: "£UKR_neutral_internet" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Autocracy_desc: "Internetová strana Ukrajiny £UKR_neutral_internet, založená a vedená Darth Vaderem, tvrdí, že je první internetovou stranou na světě; jejím heslem je e-government proti byrokracii a chce vytvořit e-government na Ukrajině. Ve skutečnosti je strana spíše vtipem, nicméně získala značnou popularitu a často provádí antikomunistické akce. Kdo ví, co se skrývá za temným pánem Sithů..." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_Autocracy_2004: "£ukr_neitralitet (PDN) - Strana státní neutrality" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2004_icon: "£ukr_neitralitet" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2004_desc: "Strana státní neutrality £ukr_neitralitet - Strana státní neutrality Ukrajiny je okrajová strana, jejímž jediným programem je trvalá neangažovanost." # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2010: "£ukr_sylna (SU) - Silná Ukrajina" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2010_icon: "£ukr_sylna" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2010_desc: "Silná Ukrajina £ukr_sylna - Silná Ukrajina je technokratický projekt Serhije Tihipka po jeho třetím místě v prezidentských volbách v roce 2010, který namísto ideologie sliboval kompetentní správu." # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2012: "£ukr_radiakl (RPL) - Radikální strana Oleha Ljaška" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2012_icon: "£ukr_radiakl" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2012_desc: "Radikální strana Oleha Ljaška £ukr_radiakl - Radikální strana Oleha Ljaška skončila ve volbách v roce 2014 třetí; spojovala agrární populismus, nacionalismus a protio oligarchické divadlo." # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2020: "£ukr_rozumna (RS) - Rozumná síla" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2020_icon: "£ukr_rozumna" # todo: NEW TRANSLATION
+ UKR.Neutral_Autocracy_2020_desc: "Rozumná síla £ukr_rozumna - Rozumná síla prosazuje přísnou neangažovanost – ani NATO, ani Eurasijskou unii – a technokratickou vládu." # todo: NEW TRANSLATION
  UKR.Neutral_conservatism: "£ukr_pmu Narodnyi Rukh" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_conservatism_icon: "£ukr_pmu" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_conservatism_desc: "Hnutí za lid Ukrajiny £ukr_pmu je středopravá politická strana. Původně organizované jako Hnutí za obnovu (tj. za Perestrojku), Ruch bylo založeno v roce 1989 jako občansko-politické hnutí v době, kdy v Sovětském svazu nebyly povoleny jiné politické strany než Komunistická strana. Organizace má kořeny v ukrajinských disidentech — nejvýznamnějším z nich je Viačeslav Čornovil." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_conservatism_2001: "£UKR_emerging_kuchma (ZEDU) - Za jednotnou Ukrajinu!" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2001_icon: "£UKR_emerging_kuchma" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2001_desc: "Za jednotnou Ukrajinu! £UKR_emerging_kuchma - Za jednotnou Ukrajinu! je volební blok pěti stran sestavený v listopadu 2001 kolem prezidenta Kučmy pro volby v roce 2002, který držely pohromadě spíše administrativní zdroje než ideologie." # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2005: "£ukr_lytvyn (NP) - Lidová strana (Lytvynův blok)" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2005_icon: "£ukr_lytvyn" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2005_desc: "Lidová strana (Lytvynův blok) £ukr_lytvyn - Lidová strana Volodymyra Lytvyna je klasickým ukrajinským centristickým prostředníkem: agrární kořeny, žádná pevná zahraničněpolitická linie a rozhodující hlasy, které určily koalici v roce 2007." # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2015: "£ukr_nasha_kraina (NKR) - Naše země" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2015_icon: "£ukr_nasha_kraina" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2015_desc: "Naše země £ukr_nasha_kraina - Naše země je síť místních „podnikatelských manažerů“, kterou vybudovali bývalí představitelé Strany regionů; silná je v oblastních zastupitelstvech jihu a východu." # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2020: "£ukr_propozytsiya (PRO) - Propozice" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2020_icon: "£ukr_propozytsiya" # todo: NEW TRANSLATION
+ UKR.Neutral_conservatism_2020_desc: "Propozice £ukr_propozytsiya - Propozice je aliance starostů měst vytvořená před místními volbami v roce 2020, která prosazuje decentralizaci a obecní zájmy proti centru." # todo: NEW TRANSLATION
  UKR.oligarchism: "£ukr_udar UDAR Vitaliya Klitschka" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.oligarchism_icon: "£ukr_udar" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.oligarchism_desc: "UDAR Vitalije Klička £ukr_udar je politická strana založená profesionálním boxerem Vitalijem Kličkem. Díky jeho popularitě jako sportovce a charitativní činnosti si vybudoval zajímavou reputaci. Strana si klade za cíl zachovat konzervativní pořádek a tradice Ukrajiny a vyčistit zemi od korupce s rozhodným vedením šéfa strany." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.oligarchism_2008: "£ukr_yedynyi_tsentr (YETS) - Jednotné centrum" # todo: NEW TRANSLATION
+ UKR.oligarchism_2008_icon: "£ukr_yedynyi_tsentr" # todo: NEW TRANSLATION
+ UKR.oligarchism_2008_desc: "Jednotné centrum £ukr_yedynyi_tsentr - Jednotné centrum je stranou Viktora Balohy, šéfa Juščenkova sekretariátu, a mechanismem, který prostřednictvím rodinných a podnikatelských sítí ovládá Zakarpatsko." # todo: NEW TRANSLATION
+ UKR.oligarchism_2015: "£ukr_vidrodzhennia (VID) - Obroda" # todo: NEW TRANSLATION
+ UKR.oligarchism_2015_icon: "£ukr_vidrodzhennia" # todo: NEW TRANSLATION
+ UKR.oligarchism_2015_desc: "Obroda £ukr_vidrodzhennia - Obroda je parlamentní skupina podnikatelských zájmů kolem Vitalije Chomutynnyka a okruhu Kolomojského, vybudovaná výhradně na jednomandátových poslancích." # todo: NEW TRANSLATION
+ UKR.oligarchism_2019: "£ukr_za_maybutnie (ZM) - Za budoucnost" # todo: NEW TRANSLATION
+ UKR.oligarchism_2019_icon: "£ukr_za_maybutnie" # todo: NEW TRANSLATION
+ UKR.oligarchism_2019_desc: "Za budoucnost £ukr_za_maybutnie - Za budoucnost je projekt Ihora Palycji, agrárně-regionální skupina financovaná okruhem Kolomojského a silná ve Volyni a Ivano-Frankivsku." # todo: NEW TRANSLATION
  UKR.Neutral_Libertarian: "£UKR_our_ukraine Block 'Nasha Ukrayina'" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Libertarian_icon: "£UKR_our_ukraine" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Libertarian_desc: "Naše Ukrajina £UKR_our_ukraine je ukrajinská středopravá politická strana vytvořená na podporu Viktora Juščenka, zvoleného vůdce strany. Spojuje umírněné nacionalisty, liberály a konzervativce, stejně jako umírněné proruské aktivisty; strana je v podstatě mírně prozápadní, protikorupční uskupení soustředěné kolem Juščenka." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_Libertarian_2007: "£ukr_yabluko (PVD) - Strana svobodných demokratů" # todo: NEW TRANSLATION
+ UKR.Neutral_Libertarian_2007_icon: "£ukr_yabluko" # todo: NEW TRANSLATION
+ UKR.Neutral_Libertarian_2007_desc: "Strana svobodných demokratů £ukr_yabluko - Strana svobodných demokratů je přejmenované Jabluko pod vedením Serhije Odaryče, které zachovalo stejnou liberální platformu malého podnikání bez zahraničněpolitické linie." # todo: NEW TRANSLATION
+ UKR.Neutral_Libertarian_2014: "£ukr_five_ten (510) - Libertariánská strana 5.10" # todo: NEW TRANSLATION
+ UKR.Neutral_Libertarian_2014_icon: "£ukr_five_ten" # todo: NEW TRANSLATION
+ UKR.Neutral_Libertarian_2014_desc: "Libertariánská strana 5.10 £ukr_five_ten - Strana 5.10 Hennadije Balašova je jedinou důsledně libertariánskou stranou Ukrajiny; vede kampaň za rovnou pětiprocentní daň z příjmu a desetiprocentní DPH." # todo: NEW TRANSLATION
  UKR.Neutral_Libertarian_2017: "£ukr_servant_of_the_people Sluha Narodu" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Libertarian_2017_icon: "£ukr_servant_of_the_people" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Libertarian_2017_desc: "Sluha národu £ukr_servant_of_the_people vznikla koncem roku 2017, nese název podle stejnojmenného populárního televizního seriálu. Strana se převážně zaměřuje na široké populistické politiky a proevropskou zahraniční politiku; věnuje se hlavně potírání korupce na Ukrajině a zavádění přímější demokracie." # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_green: "£UKR_greenone Unity of Oleksandr Omelchenko" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_green_icon: "£UKR_greenone" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_green_desc: "Jednota Oleksandra Omelčenka £UKR_greenone je politická strana na Ukrajině vzniklá v roce 1999 jako protestní strana proti establishmentu. Stranu vedl bývalý starosta Kyjeva Oleksandr Omelčenko a zastávala umírněně pro-zelené a agrární názory." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_green_2015: "£ukr_ukrop (UOP) - Ukrajinské sdružení patriotů „UKROP“" # todo: NEW TRANSLATION
+ UKR.Neutral_green_2015_icon: "£ukr_ukrop" # todo: NEW TRANSLATION
+ UKR.Neutral_green_2015_desc: "Ukrajinské sdružení patriotů „UKROP“ £ukr_ukrop - Ukrajinské sdružení patriotů – UKROP spojuje zelenou a agrární agendu s ukrajinským nacionalismem a podporou dobrovolnických praporů." # todo: NEW TRANSLATION
+ UKR.Neutral_green_2020: "£ukr_greens (PZU) - Strana zelených Ukrajiny" # todo: NEW TRANSLATION
+ UKR.Neutral_green_2020_icon: "£ukr_greens" # todo: NEW TRANSLATION
+ UKR.Neutral_green_2020_desc: "Strana zelených Ukrajiny £ukr_greens - Strana zelených Ukrajiny se vrací jako jediná přeživší environmentalistická kandidátka po zhroucení UKROPu." # todo: NEW TRANSLATION
  UKR.neutral_Social: "£ukr_spu SPU" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.neutral_Social_icon: "£ukr_spu" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.neutral_Social_desc: "(Sociálně-demokraté) £ukr_spu Sociální strana Ukrajiny je jednou z nejstarších stran, vznikla ze členů komunistické strany Ukrajiny koncem roku 1991, když byla Komunistická strana zakázána. Byla součástí parlamentu od roku 1994 a dlouho byla čtvrtou největší stranou na Ukrajině." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.neutral_Social_2019: "£ukr_justice (PPL) - Strana obyčejných lidí Serhije Kaplina" # todo: NEW TRANSLATION
+ UKR.neutral_Social_2019_icon: "£ukr_justice" # todo: NEW TRANSLATION
+ UKR.neutral_Social_2019_desc: "Strana obyčejných lidí Serhije Kaplina £ukr_justice - Strana obyčejných lidí Serhije Kaplina je tím, co zbylo z nezávislé ukrajinské levice poté, co Socialistickou stranu ovládli proruští politici." # todo: NEW TRANSLATION
  UKR.Neutral_Communism: "£UKR_neutral_communism Spilka Komunistiv Ukrayiny" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Communism_icon: "£UKR_neutral_communism" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Neutral_Communism_desc: "Svaz komunistů £UKR_neutral_communism Ukrajiny je antirevizionistická marxisticko-leninská komunistická strana. Odstupuje od většiny proruských levicových stran; SKU považuje moderní konflikty za buržoazní a nepovažuje za nutné v nich zasahovat, protože neodpovídají zájmům proletariátu." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Neutral_Communism_banned: "£UKR_neutral_communism (SKU) - Svaz komunistů Ukrajiny (zakázaný)" # todo: NEW TRANSLATION
+ UKR.Neutral_Communism_banned_icon: "£UKR_neutral_communism" # todo: NEW TRANSLATION
+ UKR.Neutral_Communism_banned_desc: "Svaz komunistů Ukrajiny (zakázaný) £UKR_neutral_communism - Byl rozpuštěn soudem 30. září 2015 na základě dekomunizačních zákonů spolu s dalšími menšími komunistickými stranami." # todo: NEW TRANSLATION
  UKR.Nat_Populism: "£ukr_freedom VO 'Svoboda'" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Populism_icon: "£ukr_freedom" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Populism_desc: "Všeukrajinské sdružení „Svoboda“ £ukr_freedom je ukrajinská nacionalistická politická strana založená v roce 1991 jako Sociálně-národní strana Ukrajiny a vystupuje jako populistický zastánce extrémního nacionalismu. Je na pomezí pravého a krajně pravého spektra." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Nat_Populism_2004: "£ukr_freedom (SVOB) - VO „Svoboda“" # todo: NEW TRANSLATION
+ UKR.Nat_Populism_2004_icon: "£ukr_freedom" # todo: NEW TRANSLATION
+ UKR.Nat_Populism_2004_desc: "VO „Svoboda“ £ukr_freedom - Všeruské sdružení „Svoboda“ je přejmenovanou SNPU pod vedením Oleha Tjahnyboka, která dostatečně znormalizovala krajně pravicovou politiku, aby v roce 2012 získala 10,4 procenta hlasů." # todo: NEW TRANSLATION
  UKR.Nat_Fascism: "£ukr_kongress Konhres Ukrayinskykh Natsionalistiv" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Fascism_icon: "£ukr_kongress" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Fascism_desc: "Kongres ukrajinských nacionalistů £ukr_kongress je krajně pravicová politická strana na Ukrajině. Sdružuje pod svým křídlem paramilitární organizace jako UNA-UNSO a Trizub a usiluje o vybudování velké Ukrajiny, zasahuje do všech možných konfliktů v postsovětském prostoru, aby čelila ruskému vlivu." # todo: NEW TRANSLATION # todo: MOVED KEY
+ UKR.Nat_Fascism_2014: "£ukr_right_sector (PS) - Pravý sektor" # todo: NEW TRANSLATION
+ UKR.Nat_Fascism_2014_icon: "£ukr_right_sector" # todo: NEW TRANSLATION
+ UKR.Nat_Fascism_2014_desc: "Pravý sektor £ukr_right_sector - Pravý sektor vzešel z militantního křídla Majdanu pod vedením Dmytra Jaroše a nasadil v Donbasu vlastní dobrovolnický sbor." # todo: NEW TRANSLATION
+ UKR.Nat_Fascism_2016: "£ukr_national_corps (NK) - Národní sbor" # todo: NEW TRANSLATION
+ UKR.Nat_Fascism_2016_icon: "£ukr_national_corps" # todo: NEW TRANSLATION
+ UKR.Nat_Fascism_2016_desc: "Národní sbor £ukr_national_corps - Národní sbor je politickým křídlem veteránů Azovu pod vedením Andrije Bileckého, které spojuje sociální nacionalismus s pouliční organizací." # todo: NEW TRANSLATION
  UKR.Nat_Autocracy: "£urk_armed_forces Armed Forces of Ukraine" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Autocracy_icon: "£urk_armed_forces" # todo: NEW TRANSLATION # todo: MOVED KEY
  UKR.Nat_Autocracy_desc: "Ozbrojené síly Ukrajiny £urk_armed_forces jsou vojenské síly Ukrajiny. Všechny vojenské a bezpečnostní složky, včetně Ozbrojených sil, jsou pod velením prezidenta Ukrajiny a podléhají dohledu stálé parlamentní komise Nejvyšší rady." # todo: NEW TRANSLATION # todo: MOVED KEY
@@ -3518,6 +3652,18 @@
  RAJ.Conservative: "£RAJ_Conservative_communism Nationalist Congress Party" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Conservative_icon: "£RAJ_Conservative_communism" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Conservative_desc: "" # todo: NEW TRANSLATION # todo: MOVED KEY
+ RAJ.Autocracy: "£generic_Autocracy_small (CPI-Maoist) - Komunistická strana Indie (maoistická)" # todo: NEW TRANSLATION
+ RAJ.Autocracy_icon: "£generic_Autocracy_small" # todo: NEW TRANSLATION
+ RAJ.Autocracy_desc: "(Maoismus) - Komunistická strana Indie (maoistická) (hindsky: Bharat ki Communist Party (Maowadi), CPI-Maoist)\n\nKomunistická strana Indie (maoistická) vznikla v roce 2004 sloučením Lidové válečné skupiny a Maoistického komunistického centra a sjednotila povstání Naxalitů pod jediným velením. Vede vleklou lidovou válku z lesnatých kmenových oblastí Rudého koridoru, který se táhne od Džhárkhandu a Čhattísgarhu až do Ándhrapradéše, a financuje se výběrem poplatků od dodavatelů a těžebních provozů. Na území, které ovládá, provozuje paralelní soudy a přerozděluje půdu, přičemž volby zcela odmítá. Indie ji označila za teroristickou organizaci a od roku 2009 proti ní bojuje prostřednictvím centrálních polovojenských sil." # todo: NEW TRANSLATION
+ RAJ.Mod_Vilayat_e_Faqih: "£generic_Mod_Vilayat_e_Faqih_small (AISPLB) - Celostátní rada šíitského osobního práva" # todo: NEW TRANSLATION
+ RAJ.Mod_Vilayat_e_Faqih_icon: "£generic_Mod_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+ RAJ.Mod_Vilayat_e_Faqih_desc: "(Umírněný šíitský klerikalismus) - Celostátní rada šíitského osobního práva (urdsky: All India Shia Personal Law Board, AISPLB)\n\nCelostátní rada šíitského osobního práva byla založena v Lakhnaú v roce 2005 šíitskými duchovními, kteří zastávali názor, že Celostátní rada muslimského osobního práva zastupuje pouze sunnitskou právní vědu. Kodifikuje dvanáctnická pravidla týkající se manželství, dědictví a nadací pro šíitskou menšinu a vyjednává se státem o procesích během Muharramu a správě vakfů. Její vedení působí v rámci indické ústavní politiky a ve sporu o Ajódhju zaujímalo postoje odlišné od sunnitských organizací." # todo: NEW TRANSLATION
+ RAJ.Vilayat_e_Faqih: "£generic_Vilayat_e_Faqih_small (MUH) - Rada indických duchovních" # todo: NEW TRANSLATION
+ RAJ.Vilayat_e_Faqih_icon: "£generic_Vilayat_e_Faqih_small" # todo: NEW TRANSLATION
+ RAJ.Vilayat_e_Faqih_desc: "(Chomeinismus) - Rada indických duchovních (urdsky: Majlis-e-Ulama-e-Hind, MUH)\n\nMajlis-e-Ulama-e-Hind je šíitský duchovní orgán se středisky v Bombaji a Lakhnaú, jehož přední představitelé studovali v náboženských školách v Kómu a Nadžafu. Spravuje náboženské školy, charitativní fondy a obřady Muharramu v Uttarpradéši a Maháráštře a řídí se maržou íránského náboženského establishmentu. Jeho prohlášení o Palestině a monarchiích Perského zálivu úzce sledují Teherán, což vedlo k oficiálnímu prověřování jeho financování." # todo: NEW TRANSLATION
+ RAJ.Kingdom: "£generic_Kingdom_small (MJAH) - Ústřední společnost indických ahl-i hadís" # todo: NEW TRANSLATION
+ RAJ.Kingdom_icon: "£generic_Kingdom_small" # todo: NEW TRANSLATION
+ RAJ.Kingdom_desc: "(Kvietistický salafismus) - Ústřední společnost indických ahl-i hadís (urdsky: Markazi Jamiat Ahl-e-Hadith Hind, MJAH)\n\nMarkazi Jamiat Ahl-e-Hadith Hind, založená v roce 1906, je největší salafistickou organizací v Indii a provozuje síť mešit, madrás a nakladatelství soustředěných v Uttarpradéši, Biháru a Kašmíru. Učí literalistický výklad písem, odmítá čtyři právní školy a odsuzuje uctívání svatyní běžné v jihoasijském islámu. Její vedení káže poslušnost zavedené autoritě a zříká se ozbrojeného džihádu, což jí umožnilo zůstat legální, ačkoli financování jejích institucí ze zemí Perského zálivu zůstává politicky kontroverzní." # todo: NEW TRANSLATION
  RAJ.Caliphate: "£RAJ_Caliphate Lashkar-e-Taiba" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Caliphate_icon: "£RAJ_Caliphate" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Caliphate_desc: "" # todo: NEW TRANSLATION # todo: MOVED KEY
@@ -3530,6 +3676,9 @@
  RAJ.Neutral_conservatism: "£RAJ_conservatism Bharatiya Janata Party" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Neutral_conservatism_icon: "£RAJ_conservatism" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Neutral_conservatism_desc: "" # todo: NEW TRANSLATION # todo: MOVED KEY
+ RAJ.oligarchism: "£generic_oligarchism_small (BC) - Bombajský klub" # todo: NEW TRANSLATION
+ RAJ.oligarchism_icon: "£generic_oligarchism_small" # todo: NEW TRANSLATION
+ RAJ.oligarchism_desc: "(Klientský kapitalismus) - Bombajský klub (BC)\n\nBombajský klub bylo označení pro skupinu indických průmyslníků, kteří se v roce 1993 scházeli, aby po liberalizaci v roce 1991 tlačili na vládu a požadovali ochranu před zahraniční konkurencí. Jeho členové přijali konec licenčního ráje pod podmínkou, že domácí konglomeráty si zachovají přednostní přístup k úvěrům, půdě a regulačním výhodám. Označení se od té doby používá pro vliv, který velké obchodní domy uplatňují při aukcích frekvencí, pronájmech těžebních práv a poskytování úvěrů státními bankami." # todo: NEW TRANSLATION
  RAJ.Neutral_Libertarian: "£RAJ_non_aligned_libertarian Swatantra Party" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Neutral_Libertarian_icon: "£RAJ_non_aligned_libertarian" # todo: NEW TRANSLATION # todo: MOVED KEY
  RAJ.Neutral_Libertarian_desc: "" # todo: NEW TRANSLATION # todo: MOVED KEY
@@ -3572,6 +3721,15 @@
  JAP.Neutral_conservatism: "£JAP_Neutral_conservatism People's New Party" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Neutral_conservatism_icon: "£JAP_Neutral_conservatism" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Neutral_conservatism_desc: "People's New Party je rozštěpená konzervativní strana vzniklá jako reakce na směřování LDP. Pod vedením Takeshi Noda má za cíl nasměrovat zemi více doprava a prosazovat patriotismus." # todo: NEW TRANSLATION # todo: MOVED KEY
+ JAP.Neutral_conservatism2: "£JAP_Neutral_conservatism (YP) - Vaše strana" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism2_icon: "£JAP_Neutral_conservatism" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism2_desc: "(Neoliberalismus) - Vaše strana (japonsky: Minna no Tō, YP)\n\nVaše strana byla reformně orientovaná středopravicová strana založená v srpnu 2009, kterou vedl především Jošimi Watanabe a další představitelé. Za své zakládající principy si stanovila „prolomení byrokratické kontroly“ prostřednictvím snížení počtu celostátních státních zaměstnanců a krácení jejich platů, úplného zákazu amakudari, podpory konkurence prostřednictvím deregulace a privatizace veřejných podniků; „regionální suverenitu“ prostřednictvím převodu zdrojů příjmů na místní samosprávy a zavedení systému dóšúsei založeného na regionální suverenitě; a „zaměření na živobytí lidí“ prostřednictvím tvorby pracovních míst díky hospodářskému růstu a budování sociální záchranné sítě. Těmito postoji se snažila etablovat jako třetí síla stojící proti hlavním japonským stranám." # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism3: "£JAP_Neutral_conservatism (POH) - Strana naděje" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism3_icon: "£JAP_Neutral_conservatism" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism3_desc: "(Reformní konzervatismus) - Strana naděje (japonsky: Kibō no Tō, POH)\n\nStrana naděje byla politická strana založená v září 2017 jako celostátní politický vstup hnutí Tomin First no Kai vedeného Yuriko Koike. Ve svém programu vyzývala k odklonu od „politiky zakořeněných zájmů“ a prosazovala reformní linii zdůrazňující regulatorní reformu, malou vládu a správní reformu. Z hlediska politiky podporovala japonsko-americkou alianci, zároveň však prosazovala změnu ústavy a zmrazení zvýšení spotřební daně; celkově měla silně proamerický a reformně konzervativní charakter. Koike charakterizovala stranu jako „tolerantní reformní konzervatismus“ a strana získala podporu jako nová alternativa k hlavním stranám." # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism4: "£JAP_Neutral_conservatism (DPFP) - Demokratická strana pro lid" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism4_icon: "£JAP_Neutral_conservatism" # todo: NEW TRANSLATION
+ JAP.Neutral_conservatism4_desc: "(Reformní centrismus) - Demokratická strana pro lid (japonsky: Kokumin Minshu-tō, DPFP)\n\nDemokratická strana pro lid byla obnovena po opozičním přeskupení v roce 2020. Jejím předchůdcem byla původní Demokratická strana pro lid, založená v květnu 2018 sloučením bývalé Demokratické strany a části bývalé Strany naděje. Ve svém programu uvádí jako základní principy „svobodu“, „soužití“ a „odpovědnost za budoucnost“ a sama sebe definuje jako „reformní centristickou stranu“ zahrnující názory od umírněného konzervatismu po liberalismus. Jako politický postoj prosazuje „řešení namísto konfrontace“ a výrazně více zdůrazňuje politické návrhy a řešení problémů než samotný konflikt mezi vládou a opozicí. V hospodářské politice klade důraz na růst mezd, zvyšování disponibilních příjmů domácností a investice podporující růst, přičemž usiluje o pragmatickou reformní linii. V zahraniční a bezpečnostní politice zdůrazňuje realistickou reakci. Přestože se priority a charakter strany mohou podle období a vnitřního složení měnit, je považována za sílu prosazující centristickou reformní linii jako alternativu k zavedeným stranám." # todo: NEW TRANSLATION
  JAP.Neutral_Libertarian: "£JAP_Neutral_Libertarian Liberal League" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Neutral_Libertarian_icon: "£JAP_Neutral_Libertarian" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Neutral_Libertarian_desc: "Liberal League se skládá převážně z bývalých členů New Frontier Party a snažila se konkurovat většině LDP spolu s DPJ. Strana podporuje liberální a sociálně-liberální ideologii. I když liberálové podporují volný obchod, berou v úvahu zdraví Japonců a budou je chránit, i když to znamená obchodní omezení. V současnosti je strana mezi dvěma extrémy a není jisté, zda získá více vlivu nebo ztratí i to minimum, které má." # todo: NEW TRANSLATION # todo: MOVED KEY
@@ -3587,9 +3745,15 @@
  JAP.Nat_Autocracy: "£JAP_Nat_Autocracy Japanese Self Defense Force" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Nat_Autocracy_icon: "£JAP_Nat_Autocracy" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Nat_Autocracy_desc: "Japonské sebeobranné síly byly založeny v roce 1954 za pomoci USA. Až do 21. století byly SDF využívány převážně k humanitární pomoci při katastrofách, což výrazně zlepšilo jejich obraz veřejnosti. Přestože nezažily válku, patří mezi profesionální a moderní armády světa. V novém miléniu je však nejasné, jakou roli budou hrát ve společnosti. Bude článek 9 reinterpretován v jejich prospěch, nebo jim budou uložena nová omezení?" # todo: NEW TRANSLATION # todo: MOVED KEY
+ JAP.Nat_Autocracy2: "£JAP_autocracy_2 (JAF) - Japonské ozbrojené síly" # todo: NEW TRANSLATION
+ JAP.Nat_Autocracy2_icon: "£JAP_autocracy_2" # todo: NEW TRANSLATION
+ JAP.Nat_Autocracy2_desc: "(Vojenský etatismus) - Japonské ozbrojené síly (japonsky: Nihon Gun, JAF)\n\nPo odstranění článku 9 Japonsko formálně přešlo od ústavně omezeného modelu „sebeobrany“ k normalizované národní armádě. Bývalý rámec Japonských sil sebeobrany byl nahrazen Japonskými ozbrojenými silami (JAF), které mají výslovný právní mandát bránit suverenitu, odrazovat regionální hrozby a působit jako konvenční státní nástroj moci.\n\nTento posun umožňuje širší rozvoj struktury sil, vyšší připravenost a ambicióznější nákupy zbraní, stejně jako sjednocení velení, zpravodajských a expedičních schopností pod jednotnou národní obrannou doktrínou. Ústředním politickým napětím již není ústavní přípustnost, nýbrž rozsah, dohled a strategické směřování remilitarizovaného japonského postoje." # todo: NEW TRANSLATION
  JAP.Monarchist: "£JAP_Monarchist Restoration Party - New Wind" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Monarchist_icon: "£JAP_Monarchist" # todo: NEW TRANSLATION # todo: MOVED KEY
  JAP.Monarchist_desc: "New Wind je strana, která si přeje obnovit japonského císaře jako nejvyšší autoritu, nad ostatními zákonodárnými institucemi. Strana nemá jinou velkou platformu a jakmile budou její cíle dosaženy a ústava Japonska upravena, nemá se zdát, že by měla dlouhodobé ambice zůstat u moci." # todo: NEW TRANSLATION # todo: MOVED KEY
+ JAP.Monarchist2: "£JAP_Monarchist (YAM) - Dům Jamato" # todo: NEW TRANSLATION
+ JAP.Monarchist2_icon: "£JAP_Monarchist" # todo: NEW TRANSLATION
+ JAP.Monarchist2_desc: "(Imperiální monarchismus) - Dům Jamato (japonsky: Yamato Chōtei, YAM)\n\nDům Jamato je monarchistický politický proud, který chápe císařskou instituci jako nejvyšší zdroj suverenity a národní kontinuity. Usiluje o obnovení císaře v nejvyšší podobě ústavní autority, o podřízení konkurenčních zákonodárných a výkonných orgánů trůnu a o přestavbu státu kolem císařské prerogativy.\n\nJako hnutí se zaměřuje především na institucionální obnovu, nikoli na každodenní správu politiky. Jeho program je záměrně úzký: po dosažení žádoucího ústavního uspořádání nepředstavuje jasný dlouhodobý program konvenční stranické vlády a vystupuje spíše jako nástroj pro znovuobnovení státního řádu soustředěného kolem císaře." # todo: NEW TRANSLATION
  ENG.conservatism: "£eng_western_conservative Conservative Party" # todo: NEW TRANSLATION # todo: MOVED KEY
  ENG.conservatism_icon: "£eng_western_conservative" # todo: NEW TRANSLATION # todo: MOVED KEY
  ENG.conservatism_desc: "" # todo: NEW TRANSLATION # todo: MOVED KEY
