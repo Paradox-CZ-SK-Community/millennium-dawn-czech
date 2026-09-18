@@ -1137,65 +1137,730 @@
  ENG_military.033.d: "Jak lidé procestovali Mars, stal se Mars novým domovem lidí ze Země. Terraformace Marsu probíhá spořádaně. Na prvním místě přistání lidské kosmické lodi byl vybudován obrovský památník na počest mužů a žen, kteří během cesty a výstavby obětovali své životy při dobývání Marsu. Navždy zůstanou vyryti do dějin lidské civilizace." # todo: NEW TRANSLATION
  ENG_military.033.a: "Za lidstvo!" # todo: NEW TRANSLATION
  ENG_mars_city_building_completed: "Výstavba marsovského města dokončena" # todo: NEW TRANSLATION
+ ENG_military.001.t: "Zahájení iniciativy těžby asteroidů" # todo: NEW TRANSLATION
+ ENG_military.001.d: "Těžba asteroidů byla pro mnohé před námi pouhou fantazií. Samotné asteroidy obsahují velmi žádané kovy platinové skupiny, zlato, stříbro a kovy železné skupiny. Pro každou kosmickou velmoc by se mohlo jednat o mimořádně výnosný podnik. Proto dnes založení Britské královské společnosti pro těžbu asteroidů, neboli BRAMC, představuje první krok k těžbě asteroidů. Pomocí rozsáhlých soustav teleskopů napříč Impériem můžeme hledat vhodné asteroidy v blízkém vesmíru, následně je zachytit na oběžné dráze a těžit je. Odhalit vhodný asteroid bude obtížné, protože vzhledem ke vzdálenosti, v níž se nacházejí, jsou poměrně malé. Naštěstí jich kolem Země čas od času prolétá poměrně dost, takže by nemělo trvat dlouho, než jeden z nich dostaneme na oběžnou dráhu Země." # todo: NEW TRANSLATION
+ ENG_military.001.a: "Jen musíme počkat na asteroid..." # todo: NEW TRANSLATION
+ ENG_military.002.t: "Objeven asteroid" # todo: NEW TRANSLATION
+ ENG_military.002.d: "Nedávno naši vědci z BRAMC objevili vhodný asteroid prolétající poblíž Země. Pro BRAMC to byla úleva, protože někteří pochybovali, zda vůbec někdy objevíme vhodný a ekonomicky využitelný asteroid. Tento asteroid se však pohybuje dostatečně pomalu, je dostatečně velký a obsahuje dostatek surovin, aby mohl být přesunut na oběžnou dráhu a vytěžen. Ve skutečnosti je větší než Wales. Dalším krokem je jednoduše přesunout tento asteroid na oběžnou dráhu kolem Země, což se dosud nikdy nepodařilo. Mezitím inženýři Britského vesmírného velitelství a dokonce i soukromé podniky, jako je Virgin Galactic, vynalezli mechanismy pro těžbu asteroidu, takže budou připraveny, až se asteroid dostane na oběžnou dráhu." # todo: NEW TRANSLATION
+ ENG_military.002.a: "Dostaňme ho na oběžnou dráhu" # todo: NEW TRANSLATION
+ ENG_military.003.t: "Asteroid na oběžné dráze" # todo: NEW TRANSLATION
+ ENG_military.003.d: "Nyní, když je asteroid na oběžné dráze, vysílají UKSC i Virgin mise k tomuto obíhajícímu tělesu. UKSC se zaměřuje především na shromažďování vědeckých údajů, zatímco Virgin Galactic se více soustředí na těžbu materiálu. Nepochybně jde o pozoruhodný úspěch, který nám poskytuje náskok ve vesmíru. Mluví se dokonce o přivlečení dalších asteroidů, mnozí však tvrdí, že s dalšími asteroidy můžeme počkat, protože tento je velmi velký a k těžbě se výborně hodí. Ostatní země už na nás závistivě hledí a zvažují vlastní programy těžby asteroidů. Náklady jsou mimořádně vysoké už na samotný vývoj technologie, která by nám umožnila se tam dostat, takže Virgin Galactic ani UKSC se nemusejí příliš obávat konkurence." # todo: NEW TRANSLATION
+ ENG_military.003.a: "Těžba může začít" # todo: NEW TRANSLATION
+ ENG_military.004.t: "Zisky z těžby začínají proudit" # todo: NEW TRANSLATION
+ ENG_military.004.d: "Po zavedení těžebních operací odeslaly Virgin Galactic a UKSC své první zásilky vesmírného materiálu do laboratoří a na trhy po celém světě. Svět se na nás závistivě dívá a v příslušných zákonodárných sborech se otevřeně hovoří o zahájení vlastních operací těžby asteroidů. Brzy možná získáme konkurenci, ale prozatím si můžeme užívat monopol." # todo: NEW TRANSLATION
+ ENG_military.004.a: "Jsem nadšený!" # todo: NEW TRANSLATION
+ ENG_military.005.t: "Zisky z těžby asteroidů" # todo: NEW TRANSLATION
+ ENG_military.005.d: "Dorazily nejnovější zásilky z našich těžebních operací na asteroidu a přinesly značné příjmy. Zásilky obsahují platinu, zlato a stříbro. Bylo by moudré tyto příjmy dobře využít." # todo: NEW TRANSLATION
+ ENG_military.005.a: "Vynikající!" # todo: NEW TRANSLATION
+ ENG_military.006.t: "Potenciál těžby asteroidů" # todo: NEW TRANSLATION
+ ENG_military.006.d: "Dolní sněmovna nedávno povolila UKSC a soukromé kosmické společnosti Virgin Galactic přesunout poměrně velký asteroid na oběžnou dráhu Země a těžit jej. Naši poradci doporučují investovat do tohoto nového odvětví, protože by nám mohlo umožnit dopravovat vzácné materiály přímo do naší země. Někteří však poukazují na obrovský účet, který muselo Spojené království zaplatit už za zahájení operací, a odmítají rozšiřování do vesmíru. Návratnost této investice je nejistá, ale může trvat 25 let, než se vůbec dostaneme na nulu. Výraznější investice může tuto dobu zkrátit, ale po značnou dobu budeme za ostatními zaostávat. \n\nCo bychom měli s těžbou asteroidů dělat? Zahájit národní program, nebo ji zcela ignorovat?" # todo: NEW TRANSLATION
+ ENG_military.006.a: "Investovat do těžby asteroidů" # todo: NEW TRANSLATION
+ ENG_military.006.b: "Příliš drahé a je to ztráta času!" # todo: NEW TRANSLATION
+ Mobile_Fires_Platorm_Program.1.t: "Program mobilní dělostřelecké platformy – volba partnera" # todo: NEW TRANSLATION
+ Mobile_Fires_Platorm_Program.1.d: "Po skončení studené války opadlo očekávání konfliktu na německých pláních, zásoby armádních 155mm dělostřeleckých systémů se zmenšily a nyní, s novými hrozbami na obzoru, se ministerstvo obrany rozhodlo podniknout kroky k obnovení této schopnosti. O tuto zakázku se uchází řada programů a partnerů, uspět však může pouze jeden." # todo: NEW TRANSLATION
+ ENG_military.034.a: "Dělostřelecká aliance Archer" # todo: NEW TRANSLATION
+ ENG_military.034.b: "Vývojová skupina K9A1 Thunder" # todo: NEW TRANSLATION
+ ENG_military.034.c: "Program Boxer" # todo: NEW TRANSLATION
+ ENG_military.034.e: "Spolupráce na systému Caesar" # todo: NEW TRANSLATION
+ ENG_military.035.t: "Británie nás zve do Společných expedičních sil" # todo: NEW TRANSLATION
+ ENG_military.035.d: "Spojené království zasílá [Receiving Country] srdečné pozvání ke vstupu do Společných expedičních sil (JEF), společné iniciativy zaměřené na podporu mezinárodní spolupráce a posílení kolektivní bezpečnosti. Tato významná událost znamená začátek nové kapitoly našeho společného závazku podporovat stabilitu, reagovat na globální výzvy a chránit hodnoty, kterých si vážíme." # todo: NEW TRANSLATION
+ ENG_military.035.a: "Připojíme se!" # todo: NEW TRANSLATION
+ ENG_military.035.b: "Ne, děkujeme, starý brachu" # todo: NEW TRANSLATION
+ ENG_military.036.t: "[From.GetName] přijímá!" # todo: NEW TRANSLATION
+ ENG_military.036.d: "[From.GetName] se připojí k našim Společným expedičním silám. Společně můžeme připravit naše vojenské síly na rychlou reakci" # todo: NEW TRANSLATION
+ ENG_military.036.a: "Vítejte" # todo: NEW TRANSLATION
+ ENG_military.037.t: "[From.GetName] odmítá!" # todo: NEW TRANSLATION
+ ENG_military.037.d: "[From.GetName] se k našim Společným expedičním silám nepřipojí. Dávají přednost tomu, aby se spoléhali sami na sebe" # todo: NEW TRANSLATION
+ ENG_military.037.a: "Časem toho budou litovat" # todo: NEW TRANSLATION
+ ENG_military.038.t: "Rozšíření Dartmouthské námořní akademie" # todo: NEW TRANSLATION
+ ENG_military.038.d: "Dartmouthská námořní akademie se zaměřením na nejmodernější technologie, strategické myšlení a praktické zkušenosti je připravena sehrát klíčovou roli při formování další generace námořních velitelů." # todo: NEW TRANSLATION
+ ENG_military.038.a: "Budoucností námořního válčení jsou letadlové lodě" # todo: NEW TRANSLATION
+ ENG_military.038.b: "K porážce nepřátel na moři potřebujeme torpédoborce a křižníky" # todo: NEW TRANSLATION
+ ENG_military.040.t: "Debata o Typhoonu Tranche 1" # todo: NEW TRANSLATION
+ ENG_military.040.d: "Zainteresované strany, jako jsou vojenští představitelé, obranní analytici a vládní činitelé, diskutují o účinnosti letounu při řešení nových hrozeb, jeho úloze v rámci národních obranných strategií a jeho potenciálu pro vývoz mezinárodním partnerům. Debata o Typhoonu Tranche 1 hraje klíčovou roli při rozhodování o pořízení, nasazení a budoucím vývoji tohoto pokročilého stíhacího letounu." # todo: NEW TRANSLATION
+ ENG_military.040.a: "Pokračovat ve výrobě" # todo: NEW TRANSLATION
+ ENG_military.040.b: "Vyvinout jeho nástupce" # todo: NEW TRANSLATION
+ ENG_military.040.c: "Snížit zásoby" # todo: NEW TRANSLATION
+ ENG_military.039.t: "Specializace ozbrojených sil" # todo: NEW TRANSLATION
+ ENG_military.039.d: "Vyberte svou specializaci" # todo: NEW TRANSLATION
+ ENG_military.039.a: "Armáda" # todo: NEW TRANSLATION
+ ENG_military.039.b: "Letectvo" # todo: NEW TRANSLATION
+ ENG_military.039.c: "Námořnictvo" # todo: NEW TRANSLATION
+ ENG_military.039.e: "Štáb" # todo: NEW TRANSLATION
+ ENG_military.041.t: "Spojené království nás zve k nákupu leteckých inovací" # todo: NEW TRANSLATION
+ ENG_military.041.d: "Spojené království masivně investovalo do svých letadel a schopností leteckého průmyslu. Díky našemu zvláštnímu vztahu nám nabízí sdílení svých inovací za malý poplatek. Jsou přece Britové." # todo: NEW TRANSLATION
+ ENG_military.041.a: "Inovace? Ano, prosím!" # todo: NEW TRANSLATION
+ ENG_military.041.b: "Ne, díky, starý brachu" # todo: NEW TRANSLATION
+ ENG_military.042.t: "Spojené království nás zve k nákupu leteckých inovací" # todo: NEW TRANSLATION
+ ENG_military.042.d: "Spojené království masivně investovalo do svých letadel a schopností leteckého průmyslu. Díky našemu zvláštnímu vztahu nám nabízí sdílení svých inovací za malý poplatek. Jsou přece Britové." # todo: NEW TRANSLATION
+ ENG_military.042.a: "Inovace? Ano, prosím!" # todo: NEW TRANSLATION
+ ENG_military.042.b: "Ne, díky, starý brachu" # todo: NEW TRANSLATION
+ ENG_military.043.t: "USA přijímají" # todo: NEW TRANSLATION
+ ENG_military.043.d: "Spojené státy přijaly naši nabídku k prodeji našich inovací" # todo: NEW TRANSLATION
+ ENG_military.043.a: "Podle očekávání" # todo: NEW TRANSLATION
+ ENG_military.044.t: "USA odmítají" # todo: NEW TRANSLATION
+ ENG_military.044.d: "Spojené státy odmítly naši nabídku na prodej inovací. Domnívají se, že Spojené království není vhodným partnerem, kterého potřebují" # todo: NEW TRANSLATION
+ ENG_military.044.a: "Časem to pochopí" # todo: NEW TRANSLATION
+ United_Kingdom.002.t: "Silicon Glen přináší výsledky" # todo: NEW TRANSLATION
+ United_Kingdom.002.d: "Naše investice do skotského Silicon Glen se vyplácejí. Místní univerzity, návrháři čipů a softwarové firmy hlásí další rok růstu, nové patenty a stálý příliv kvalifikovaných absolventů do širší ekonomiky." # todo: NEW TRANSLATION
+ United_Kingdom.002.a: "Ať Glen dál posouvá hranice" # todo: NEW TRANSLATION
+ United_Kingdom.003.t: "Návrh přeshraniční spolupráce" # todo: NEW TRANSLATION
+ United_Kingdom.003.d: "Spojené království nás oslovilo s návrhem na zlepšení obchodní logistiky a snížení administrativní zátěže na naší společné hranici. Navrhovaný rámec spolupráce se zaměřuje na sladění infrastruktury, zjednodušení celních postupů a společné regulační výbory.\n\nMěli bychom jej přijmout?" # todo: NEW TRANSLATION
+ United_Kingdom.003.a: "Přijmout rámec" # todo: NEW TRANSLATION
+ United_Kingdom.003.b: "Odmítnout nabídku" # todo: NEW TRANSLATION
+ United_Kingdom.004.t: "Irsko přijímá přeshraniční spolupráci" # todo: NEW TRANSLATION
+ United_Kingdom.004.d: "Irská vláda přijala náš návrh na zjednodušení přeshraniční hospodářské koordinace. Byly zřízeny výbory, které mají omezit byrokracii, sjednotit standardy a usnadnit pohyb zboží přes Irské moře a pozemní hranici." # todo: NEW TRANSLATION
+ United_Kingdom.004.a: "Pokrok prostřednictvím partnerství" # todo: NEW TRANSLATION
+ United_Kingdom.005.t: "Irsko odmítá nabídku přeshraniční spolupráce" # todo: NEW TRANSLATION
+ United_Kingdom.005.d: "Navzdory počátečnímu zájmu se irská vláda nakonec rozhodla neúčastnit našeho rámce přeshraniční spolupráce. Představitelé uvedli jako hlavní důvody odmítnutí právní složitost a politické váhání." # todo: NEW TRANSLATION
+ United_Kingdom.005.a: "Nešťastné, ale očekávatelné" # todo: NEW TRANSLATION
+ scottish.1.t: "Volby do skotského parlamentu" # todo: NEW TRANSLATION
+ scottish.1.d: "Dorazily výsledky voleb do skotského parlamentu a konečně můžeme zjistit, zda skotský lid hlasoval pro strany podporující nezávislost." # todo: NEW TRANSLATION
+ scottish.1.a: "Dobře" # todo: NEW TRANSLATION
  britain_md.1.t: "Království rozbité" # todo: NEW TRANSLATION
  britain_md.1.d: "Obě Skotsko a Wales opustily naše království. Velké anglické dědictví je znovu jen to: anglické. Roste nespokojenost nyní nezávislých populací Skotska a Walesu, že je stále nárokujeme jménem. Měli bychom vyjasnit, co je pravda: jsme opět jen Anglie." # todo: NEW TRANSLATION
+ britain_md.1.a: "Tak tedy do toho" # todo: NEW TRANSLATION
  britain_md.2.t: "Budoucnost NHS" # todo: NEW TRANSLATION
  britain_md.2.d: "Národní zdravotní služba je veřejný program zdravotní péče Spojeného království a její budoucnost v rozpočtech vlády je vždy tvrdě diskutována mezi politickými stranami. Měli bychom se pravděpodobně rozhodnout, kterým směrem by vláda měla jít v této důležité věci." # todo: NEW TRANSLATION
+ britain_md.2.a: "Budeme riskovat" # todo: NEW TRANSLATION
+ britain_md.2.b: "Tyto vyhlídky se mi nelíbí" # todo: NEW TRANSLATION
  britain_md.3.t: "Británie vyžaduje zvláštní zacházení" # todo: NEW TRANSLATION
  britain_md.3.d: "Britská delegace do Evropského parlamentu se v poslední době prochází Bruselem jako banda loutek, které si hrají se svými panenkami. Brání každému kroku Unie a blokují většinu našeho postupu. To se stává neúnosným." # todo: NEW TRANSLATION
+ britain_md.3.a: "Obraťme se na odbory" # todo: NEW TRANSLATION
+ britain_md.3.b: "Obraťme se na vojensko-průmyslový komplex" # todo: NEW TRANSLATION
+ britain_md.3.c: "Obraťme se na průmysl fosilních paliv" # todo: NEW TRANSLATION
  britain_md.4.t: "Referendum o Brexitu" # todo: NEW TRANSLATION
  britain_md.4.d: "\"Brexit\", zkratka pro British Exit, je zvláštní termín, který britský a mezinárodní tisk používají pro koncept opuštění Británie Evropské unie.\n\nNyní má tento koncept spatřit světlo světa: Britští občané budou hlasovat o své budoucnosti v Unii: Odejít? Nebo Zůstat?" # todo: NEW TRANSLATION
+ britain_md.4.a: "Zdanit průmyslníky" # todo: NEW TRANSLATION
+ britain_md.4.b: "Zdanit armádu" # todo: NEW TRANSLATION
+ britain_md.4.c: "Zdanit průmysl fosilních paliv" # todo: NEW TRANSLATION
+ britain_md.4.d1: "Opravdu musíme někoho zdaňovat?" # todo: NEW TRANSLATION
  britain_md.5.t: "Monarchie zrušena!" # todo: NEW TRANSLATION
  britain_md.5.d: "Vnímajíc změnu času dnes britský monarcha učinil kroky k odvolání svých nároků na trůn. Zatím vládní úředníci zajišťují, že zakládající dokumenty naší země budou přepsány tak, aby nebyl žádný monarcha potřeba k jejímu zastupování.\nToto je konec britské monarchie." # todo: NEW TRANSLATION
+ britain_md.5.a: "Vpřed!" # todo: NEW TRANSLATION
  britain_md.6.t: "Královna Alžběta II. abdikuje!" # todo: NEW TRANSLATION
+ britain_md.6.d: "Naše infrastruktura zoufale potřebuje modernizaci. Není nutně špatná, ale abychom mohli konkurovat globálním hráčům, budeme muset rozšířit naše města. Místo čistě rozsáhlého rozšiřování infrastruktury se však zaměříme na konkrétní region. Tímto způsobem budeme schopni vytvořit nová investiční centra a podpořit rozkvět těchto oblastí." # todo: NEW TRANSLATION
+ britain_md.6.a: "Pracovat na severu" # todo: NEW TRANSLATION
+ britain_md.6.b: "Pracovat ve středu země" # todo: NEW TRANSLATION
+ britain_md.6.c: "Pracovat na jihu" # todo: NEW TRANSLATION
  britain_md.7.t: "Británie podporuje NATO!" # todo: NEW TRANSLATION
  britain_md.7.d: "Britská vláda vyslala naší ministerstvu obrany vojenskou delegaci. Jejich znovu potvrzená podpora Severoatlantické aliance nám jen pomůže." # todo: NEW TRANSLATION
+ britain_md.7.a: "Pusťme se do práce" # todo: NEW TRANSLATION
  britain_md.8.t: "Britské obchodní investice" # todo: NEW TRANSLATION
  britain_md.8.d: "Britská obchodní delegace dorazila do našeho hlavního města. To jen posílí naše ekonomické vazby se Spojeným královstvím." # todo: NEW TRANSLATION
+ britain_md.8.a: "Rozhodně spolu nesouvisejí! Migranti jsou v pořádku" # todo: NEW TRANSLATION
+ britain_md.8.b: "Data přece nelžou" # todo: NEW TRANSLATION
  britain_md.9.t: "Národní rozvoj" # todo: NEW TRANSLATION
  britain_md.9.d: "Zahájil se nový projekt Národního rozvoje. Probíhá několik projektů a jeden z nich jistě dosáhne výsledku." # todo: NEW TRANSLATION
+ britain_md.9.a: "Není čas ztrácet čas, pusťme se do toho" # todo: NEW TRANSLATION
  britain_md.10.t: "Británie útočí na kapitalismus" # todo: NEW TRANSLATION
  britain_md.10.d: "Vláda Spojeného království, ve spojení s námi v ekonomických a diplomatických vazbách, nedávno vyhlásila záměr zcela zničit mezikontinentální kapitalismus. To bezpochyby zatíží naše vztahy." # todo: NEW TRANSLATION
+ britain_md.10.a: "Trochu to pozměňme" # todo: NEW TRANSLATION
+ britain_md.10.b: "Rozhodně ne" # todo: NEW TRANSLATION
  britain_md.11.t: "Dohoda o hraniční spolupráci Británie s EU" # todo: NEW TRANSLATION
  britain_md.11.d: "Myšlenka komplexní revize naší současné dohody se Schengenskou zónou byla v parlamentu probírána již dlouho. Musíme pečlivě vybrat náš další krok." # todo: NEW TRANSLATION
+ britain_md.11.a: "Dobře, a teď do toho" # todo: NEW TRANSLATION
  britain_md.12.t: "Aliance CANZUK" # todo: NEW TRANSLATION
  britain_md.12.d: "Británie nás nedávno oslovila s žádostí o ukončení dosavadní vojenské dohody a vstup do aliance v rámci Anglosféry. Tento projekt CANZUK zahrnuje Kanadu, Austrálii, Nový Zéland a Spojené království." # todo: NEW TRANSLATION
+ britain_md.12.a: "Dobře" # todo: NEW TRANSLATION
+ britain_md.12.b: "Ne" # todo: NEW TRANSLATION
  britain_md.13.t: "Británie žádá dohodu o pracovní síle na hranicích" # todo: NEW TRANSLATION
  britain_md.13.d: "Britská vláda nás oslovila ohledně možné hranicí dohody, která umožní irským občanům snadnější průchod do Severního Irska, aby se zlepšila jak místní irská úroveň života, tak irská ekonomika Severního Irska. Tato možná dohoda je populární mezi irským obyvatelstvem – nabízí pracovní místa v bojující ekonomice." # todo: NEW TRANSLATION
+ britain_md.13.a: "Dobře" # todo: NEW TRANSLATION
  britain_md.14.t: "Dohoda o letecké dopravě s Evropou" # todo: NEW TRANSLATION
  britain_md.14.d: "Dokončili jsme osnovy relativně volného budoucího leteckého provozu mezi UK a EU. Doprava osob i zboží letecky byla zjednodušena. Obe strany veřejnost je pro snížení zbytečných nákladů způsobených současnými ujednáními." # todo: NEW TRANSLATION
+ britain_md.14.a: "Parchanti" # todo: NEW TRANSLATION
  britain_md.15.t: "Britská aliance nás zve" # todo: NEW TRANSLATION
  britain_md.15.d: "Britská vláda nás požádala, abychom se připojili k jejich alianci. To by znamenalo opuštění našeho vlastního, pokud existuje, a vzdání se možných vůdčích nároků." # todo: NEW TRANSLATION
+ britain_md.15.a: "Dobře" # todo: NEW TRANSLATION
  britain_md.16.t: "Evropský program vojenské spolupráce" # todo: NEW TRANSLATION
  britain_md.16.d: "Britská vláda spustila EMCP, Evropský program vojenské spolupráce. Britské ozbrojené síly učinily obranu území spojenců prioritou, aby chránily i své vlastní." # todo: NEW TRANSLATION
+ britain_md.16.a: "Měkký převrat, nebudeme požadovat další kontrolu" # todo: NEW TRANSLATION
+ britain_md.16.b: "Tvrdý převrat, budeme prosazovat satelitní stát" # todo: NEW TRANSLATION
  britain_md.17.t: "Přeorganizovat vzdělávací systém" # todo: NEW TRANSLATION
  britain_md.17.d: "S výrazně národnějším směřováním vlády musíme také přepracovat náš budoucí vzdělávací program: Měli bychom vyloučit žáky etnických menšin, vyhovět fašistům, nebo prostě odstranit kvóty založené na rase a pohlaví a zdůraznit zásluhovost?" # todo: NEW TRANSLATION
+ britain_md.17.a: "Dobře" # todo: NEW TRANSLATION
  britain_md.18.t: "Revoluční výbor v Británii" # todo: NEW TRANSLATION
  britain_md.18.d: "Britská vláda odhalila svou nejnovější vládní agenturu: Revoluční výbor, zaměřený na prosazování červené dělnické revoluce do dalších zemí. Naše hospodářské vazby s Británií budou mít zřejmě utrpěny." # todo: NEW TRANSLATION
+ britain_md.18.a: "Sakra" # todo: NEW TRANSLATION
  britain_md.19.t: "Quebecká vzpoura" # todo: NEW TRANSLATION
  britain_md.19.d: "Jsme v kontaktu s francouzsko-kanadským obyvatelstvem Quebecu. Podpora nezávislosti je nyní ohromující a militantní síla je připravena k ozbrojenému boji. Zároveň jsme rozsévali nesouhlas mezi obyvatelstvem kanadského východního pobřeží.\n\nNaše požadavky na Kanadu budou jednoduché: Nechte Quebec být svobodný a stáhněte se z anglo-kanadských Atlantických provincií." # todo: NEW TRANSLATION
+ britain_md.19.a: "Dobře" # todo: NEW TRANSLATION
  britain_md.20.t: "Británie útočí na Kanadu!" # todo: NEW TRANSLATION
  britain_md.20.d: "\"Máme dvě jednoduché požadavky vládě Kanady:\n1: Okamžitě udělit nezávislost kanadské provincii Quebec jako nezávislému a suverénnímu státu, včetně velkých měst Quebec City a Montréal.\n2: Předat kanadské provincie New Brunswick, Nova Scotia, Prince Edward Island a Newfoundland a Labrador britské vládě.\nPokud kanadská vláda odolá, válka je nevyhnutelná.\n\nPodepsáno, vláda [ENG.GetAdjective]\npodepsáno, Quebecois vláda-in-exile v Londýně\"\n\nCo teď uděláme?!" # todo: NEW TRANSLATION
+ britain_md.20.a: "Podle očekávání" # todo: NEW TRANSLATION
  britain_md.21.t: "Britská obranná pomoc" # todo: NEW TRANSLATION
  britain_md.21.d: "Jak se Británie stále více blíží k většímu evropskému řešení, znovu potvrdila svou touhu stát po našem boku vojensky." # todo: NEW TRANSLATION
+ britain_md.21.a: "Nesmysl! Ale co s tím můžeme dělat?" # todo: NEW TRANSLATION
+ britain_md.21.b: "Nesmysl! Mobilizujte armádu!" # todo: NEW TRANSLATION
  britain_md.22.t: "'Leave'!" # todo: NEW TRANSLATION
  britain_md.22.d: "Výsledky jsou známy, a s náskokem kolem 4 % vyhrála kampaň 'Leave'. Británie se bude muset připravit na opuštění Evropské unie." # todo: NEW TRANSLATION
+ britain_md.22.a: "Teď už není cesty zpět" # todo: NEW TRANSLATION
+ britain_md.22.b: "Počkat, co kdybychom to vrátili?" # todo: NEW TRANSLATION
  britain_md.23.t: "'Remain'!" # todo: NEW TRANSLATION
  britain_md.23.d: "Referendum skončilo a výsledky jsou spočítány. Přibližně 53 % ku 47 % vyhráli 'Remain'. Kampaňisté 'Leave' Nigel Farage a Boris Johnson už oznámili ochotu akceptovat výsledky – Británie zůstává!" # todo: NEW TRANSLATION
+ britain_md.23.a: "To tě strach takhle ovládá?" # todo: NEW TRANSLATION
  britain_md.24.t: "Irsko přijalo!" # todo: NEW TRANSLATION
  britain_md.24.d: "Irská vláda s radostí přijala náš návrh. Hranice mezi Irskem a Severním Irskem se již otevírá." # todo: NEW TRANSLATION
+ britain_md.24.a: "Ambice pro Británii" # todo: NEW TRANSLATION
+ britain_md.24.b: "Británie vpřed, ne zpět" # todo: NEW TRANSLATION
+ britain_md.24.c: "Budoucnost spravedlivá pro všechny" # todo: NEW TRANSLATION
+ britain_md.24.a1: "Je čas na zdravý rozum" # todo: NEW TRANSLATION
+ britain_md.24.b1: "Myslíte na to, na co myslíme my?" # todo: NEW TRANSLATION
+ britain_md.24.c1: "Pozvání vládě Británie" # todo: NEW TRANSLATION
  britain_md.25.t: "Královna Alžběta II. zemřela" # todo: NEW TRANSLATION
  britain_md.25.d: "Elizabeth Alexandra Mary, dcera George VI, zemřela tiše ve spánku. Byla téměř 100 let a byla královnou téměř 70 let.\n\nNárod a společenství národů jsou v smutku. Dlouhé panování královny přineslo konec Impéria, oživení Domovských ostrovů, vstup do Evropské unie a hrdý a silný počátek na prahu třetího tisíciletí.\n\nKrálovna byla živoucí legenda. Ale každá legenda nakonec zemře." # todo: NEW TRANSLATION
+ britain_md.25.a: "Jdeme na to!" # todo: NEW TRANSLATION
  britain_md.26.t: "Král Karel III zemřel." # todo: NEW TRANSLATION
  britain_md.26.d: "'Charles je mrtvý', titulují noviny, následovaný podnadpisem 'Jen málo lidí smutní'.\n\nKarel III byl historicky nepopulární, srovnatelný s jeho velkým strýcem Eduardem VIII.\n\nJeho syn, William V, bude jistě populárnějším králem pro britský lid." # todo: NEW TRANSLATION
+ britain_md.26.a: "Zaměřit se na sjednocení ostrovů" # todo: NEW TRANSLATION
+ britain_md.26.b: "Musíme tlačit dál na západ" # todo: NEW TRANSLATION
+ britain_md.26.c: "Vrátit ostrovy" # todo: NEW TRANSLATION
+ britain_md.27.t: "Británie vrací Falklandy" # todo: NEW TRANSLATION
+ britain_md.27.d: "V astronomicky šokujícím zvratu událostí se [ENG.GetName], stát, který s námi v 80. letech bojoval o Falklandy, rozhodl vrátit ostrovy pod naši kontrolu. Nevíme, co je k tomu vedlo ani proč to udělali, ale naše jednotky už míří zpět k ostrovům, aby tam byly rozmístěny. Britská vláda uvedla, že tento krok má za cíl „zlepšit vztahy“ s námi a s širším jihoamerickým regionem." # todo: NEW TRANSLATION
+ britain_md.27.a: "To nám zní dobře!" # todo: NEW TRANSLATION
+ britain_md.28.t: "Úspěšná operace změny režimu v Zimbabwe" # todo: NEW TRANSLATION
+ britain_md.28.d: "Po operaci, jejímž cílem bylo svržení zimbabwského diktátora, dosadily naše síly k moci stranu Movement for Change (MDC). Následovalo to po rozsáhlém plánování a operaci britských jednotek zvláštního určení, jejímž cílem bylo svržení dlouholetého režimu v zemi." # todo: NEW TRANSLATION
+ britain_md.28.a: "Dobře, nic menšího jsme neočekávali" # todo: NEW TRANSLATION
+ britain_md.29.t: "[ENG.GetName] provádí převrat!" # todo: NEW TRANSLATION
+ britain_md.29.d: "Zdá se, že [ENG.GetName] provedlo v naší zemi skrytou operaci, která vedla ke svržení předchozího režimu a dosazení nové vlády. Vojenské síly byly kontaktovány předem a dokonce připravily cestu britským jednotkám, aby se do země dostaly nepozorovaně." # todo: NEW TRANSLATION
+ britain_md.29.a: "Cože?" # todo: NEW TRANSLATION
+ britain_md.30.t: "Blížící se operace Východní rozkol" # todo: NEW TRANSLATION
+ britain_md.30.d: "Egypťané v současnosti plně ovládají Sinaj a v průběhu let občas dochází ke střetům s Izraelci. Naše země však zoufale potřebuje efektivnější obchodní trasy a poplatky, které musíme platit pokaždé, když proplouváme Suezským průplavem, začínají narůstat do nepředstavitelné výše. Musíme s Egypťany uzavřít dohodu, jinak budeme nuceni podniknout další kroky." # todo: NEW TRANSLATION
+ britain_md.30.a: "Začněme vyjednávat" # todo: NEW TRANSLATION
+ britain_md.30.b: "Na vyjednávání není čas, zaútočte" # todo: NEW TRANSLATION
+ britain_md.31.t: "Britové žádají společnou kontrolu nad Sinají" # todo: NEW TRANSLATION
+ britain_md.31.d: "Britská vláda vyslala diplomaty, aby se v [EGY.capital.GetCapitalVictoryPointName] setkali s našimi ministry a projednali možnost společné kontroly nad Sinají. Tvrdí, že s jejich loděmi a obchodníky bylo zacházeno příliš nespravedlivě a že přijetí této nabídky by ukázalo, že naší vládě lze důvěřovat." # todo: NEW TRANSLATION
+ britain_md.31.a: "Každý Egypťan zemře, než postoupíme Sinaj!" # todo: NEW TRANSLATION
+ britain_md.31.b: "Možná bychom mohli něco vymyslet..." # todo: NEW TRANSLATION
+ britain_md.32.t: "Egypt odmítá vyjednávání" # todo: NEW TRANSLATION
+ britain_md.32.d: "Egypťané prohlásili, že nemají zájem vyjednávat s námi o kontrole nad Suezským průplavem, ani kdybychom byli ochotni nabídnout jim velké ústupky. Nezbývá nám než zvážit vojenský zásah." # todo: NEW TRANSLATION
+ britain_md.32.a: "Je čas zasáhnout" # todo: NEW TRANSLATION
+ britain_md.32.b: "Zapomeňte na to" # todo: NEW TRANSLATION
+ britain_md.33.t: "Egypt nabízí vyjednávání" # todo: NEW TRANSLATION
+ britain_md.33.d: "Egypťané souhlasili s našimi požadavky na jednání o Sinaji a požadují finanční částku za přímý vojenský i obchodní přístup přes Sinaj s nižšími poplatky." # todo: NEW TRANSLATION
+ britain_md.33.a: "To nám zní dobře" # todo: NEW TRANSLATION
+ britain_md.33.b: "Vážně? To je urážka!" # todo: NEW TRANSLATION
+ britain_md.34.t: "Operace Východní rozkol: zahájena" # todo: NEW TRANSLATION
+ britain_md.34.d: "Operace Východní rozkol právě probíhá a jednotky se vylodily na Sinaji. Musíme zahájit mobilizaci většího množství sil, které umožní rozsáhlejší operaci." # todo: NEW TRANSLATION
+ britain_md.34.a: "Vpřed, vpřed, vpřed!" # todo: NEW TRANSLATION
+ britain_md.35.t: "[FROM.GetName] vyzývá k hlubší integraci" # todo: NEW TRANSLATION
+ britain_md.35.d: "[ENG.GetName] vyzvalo k hlubší integraci s tvrzením, že pokud se vzdáme části své suverenity, budeme schopni spojit naše síly a znovu pozvednout naše postavení na úroveň globální velmoci. Přestože má mnoho našich občanů k takovému návrhu výhrady, [ENG.GetName] se v posledních letech ukázalo jako silný soupeř, když nás překonalo ve všech oblastech." # todo: NEW TRANSLATION
+ britain_md.35.a: "Musíme se sjednotit" # todo: NEW TRANSLATION
+ britain_md.35.b: "Nevzdáme se své suverenity" # todo: NEW TRANSLATION
+ britain_md.36.t: "[FROM.GetName] usiluje o větší integraci" # todo: NEW TRANSLATION
+ britain_md.36.d: "[FROM.GetName] naznačilo, že má skutečný zájem o hlubší integraci, a nabídlo několik plánů na sloučení klíčových byrokratických institucí a orgánů. Naši diplomaté a úředníci pracují přesčas, aby zajistili hladký, bezpečný a stabilní přechod." # todo: NEW TRANSLATION
+ britain_md.36.a: "Dobře" # todo: NEW TRANSLATION
+ britain_md.37.t: "[FROM.GetName] odmítá další integraci" # todo: NEW TRANSLATION
+ britain_md.37.d: "Zdá se, že vláda [FROM.GetAdjective] nemá o další integraci zájem a místo toho trvá na tom, že naše nedávné kroky zasahují do její suverenity." # todo: NEW TRANSLATION
+ britain_md.37.a: "Dobře" # todo: NEW TRANSLATION
+ britain_md.39.t: "Volba loutkové hlavy státu" # todo: NEW TRANSLATION
+ britain_md.39.d: "Chápeme důsledky svěření určité moci jinému politikovi, musíme však uznat potřebu představitele, který uklidní davy znepokojené vojenským vůdcem v čele státu. Rychle najdeme někoho, koho dosadíme jako loutku reprezentující stát." # todo: NEW TRANSLATION
+ britain_md.39.a: "Dosadit toho hlupáka Farage" # todo: NEW TRANSLATION
+ britain_md.39.b: "Zjistit, kde se skrývá Griffin" # todo: NEW TRANSLATION
+ britain_md.39.c: "Je Michael Holmes někde poblíž?" # todo: NEW TRANSLATION
+ britain_md.39.d1: "Armáda nám poslouží dostatečně" # todo: NEW TRANSLATION
+ britain_md.40.t: "Žoldnéři zadrženi na letišti v Harare" # todo: NEW TRANSLATION
+ britain_md.40.d: "Úřady zadržely skupinu těžce ozbrojených mužů na mezinárodním letišti v Harare. Oficiálně tvrdí, že jde o bezpečnostní kontraktory nakupující vybavení pro těžební operace v Demokratické republice Kongo, zpravodajské zprávy však naznačují, že se možná připravují na operaci proti vládě Rovníkové Guineje." # todo: NEW TRANSLATION
+ britain_md.40.a: "Zůstanou ve vazbě." # todo: NEW TRANSLATION
+ britain_md.40.b: "Tiše je propustit" # todo: NEW TRANSLATION
+ britain_md.41.t: "Wonga Coup selhal" # todo: NEW TRANSLATION
+ britain_md.41.d: "Zimbabwské úřady zatkly více než šedesát údajných žoldnéřů vedených Simonem Mannem poté, co jejich letadlo přistálo na mezinárodním letišti v Harare. Úředníci tvrdí, že se skupina pokoušela nakoupit vojenské vybavení, než bude pokračovat do Rovníkové Guiney. Obvinění spojující britské finančníky s tímto plánem pro nás skončila ostudou." # todo: NEW TRANSLATION
+ britain_md.41.a: "Nešťastný výsledek." # todo: NEW TRANSLATION
+ britain_md.42.t: "Úspěch Wonga Coup" # todo: NEW TRANSLATION
+ britain_md.42.d: "Operace byla úspěšná. Prezident Teodoro Obiang Nguema Mbasogo byl svržen a vůdce opozice Severo Moto Nsá se prohlásil hlavou nové vlády. Přestože čelíme mezinárodnímu odsouzení, britské obchodní zájmy nyní požívají nebývalého vlivu v jednom z afrických států s nejbohatšími nalezišti ropy." # todo: NEW TRANSLATION
+ britain_md.42.a: "Výnosná investice." # todo: NEW TRANSLATION
+ britain_md.43.t: "Cizí spiknutí rozdrceno" # todo: NEW TRANSLATION
+ britain_md.43.d: "Úřady potvrdily zprávy, že zahraniční žoldnéři hodlali svrhnout vládu a dosadit opozičního představitele Severa Moto Nsá jako prezidenta. Díky zatčením v Zimbabwe bylo spiknutí rozbito ještě předtím, než dorazilo k našim břehům." # todo: NEW TRANSLATION
+ britain_md.43.a: "Republika obstojí" # todo: NEW TRANSLATION
+ britain_md.44.t: "Obiangův pád" # todo: NEW TRANSLATION
+ britain_md.44.d: "Prezident Teodoro Obiang Nguema Mbasogo byl zbaven moci poté, co žoldnéřské síly a příznivci opozice převzali kontrolu nad Malabem a dalšími klíčovými vládními institucemi. Severo Moto Nsá se ujal vedení nové přechodné vlády." # todo: NEW TRANSLATION
+ britain_md.44.a: "Ach můj bože" # todo: NEW TRANSLATION
+ britain_md.45.t: "Žoldnéři financovaní Brity svrhli vládu Rovníkové Guiney" # todo: NEW TRANSLATION
+ britain_md.45.d: "Prezident Teodoro Obiang Nguema Mbasogo byl zbaven moci poté, co žoldnéřské síly a příznivci opozice převzali kontrolu nad Malabem a dalšími klíčovými vládními institucemi. Severo Moto Nsá se ujal vedení nové přechodné vlády." # todo: NEW TRANSLATION
+ britain_md.45.a: "Neobvyklá dovolenková destinace." # todo: NEW TRANSLATION
+ britain_md.46.t: "Žoldnéři zatčeni v Zimbabwe" # todo: NEW TRANSLATION
+ britain_md.46.d: "Zimbabwské úřady zatkly více než šedesát údajných žoldnéřů poté, co jejich letadlo přistálo na mezinárodním letišti v Harare. Úředníci tvrdí, že se skupina pokoušela nakoupit vojenské vybavení, než bude pokračovat do Rovníkové Guiney. Muži, údajně vedení bývalým důstojníkem britské armády Simonem Mannem, trvají na tom, že poskytovali bezpečnostní služby těžebním operacím ve střední Africe. Vyšetřovatelé však tvrdí, že byli součástí širšího spiknutí s cílem svrhnout prezidenta Rovníkové Guiney Teodora Obianga Nguemu Mbasoga." # todo: NEW TRANSLATION
+ britain_md.46.a: "Neobvyklá dovolenková destinace." # todo: NEW TRANSLATION
+ british_flavor.1.t: "Nissan usiluje o rozšíření továrny poblíž Sunderlandu" # todo: NEW TRANSLATION
+ british_flavor.1.d: "Japonská automobilka Nissan chce rozšířit svou továrnu v Sunderlandu o výrobu nové generace modelů Almera Hatchback a Saloon, které se mají brzy začít prodávat. Vládní představitelé se obávají, že rozšíření ztíží místním továrnám a domácím výrobcům automobilů konkurenci." # todo: NEW TRANSLATION
+ british_flavor.1.a: "Schvalme to" # todo: NEW TRANSLATION
+ british_flavor.1.b: "Ne, tohle nemůžeme dopustit" # todo: NEW TRANSLATION
+ british_flavor.2.t: "Vydání Augusta Pinocheta" # todo: NEW TRANSLATION
+ british_flavor.2.d: "Lékařské důkazy dospěly k závěru, že bývalý chilský diktátor Augusto Pinochet není způsobilý stanout před soudem. V důsledku tohoto vyšetřování zesílily výzvy k deportaci bývalého diktátora zpět do jeho vlasti, Chile, ale v reakci na zástup těch, kteří požadují jeho deportaci, jiná skupina volá po pokračování jeho procesu zde ve Spojeném království." # todo: NEW TRANSLATION
+ british_flavor.2.a: "Pošleme ho zpět" # todo: NEW TRANSLATION
+ british_flavor.2.b: "Zůstane zde" # todo: NEW TRANSLATION
+ british_flavor.3.t: "Solway Harvester se potopil" # todo: NEW TRANSLATION
+ british_flavor.3.d: "Bylo oznámeno, že loď Solway Harvester se za silného vlnobití potopila u pobřeží ostrova Man. Rovněž se uvádí, že všech 11 členů posádky zahynulo a že loď je možné vyzvednout, přestože je těžce poškozena." # todo: NEW TRANSLATION
+ british_flavor.3.a: "Budeme se tím zabývat později" # todo: NEW TRANSLATION
+ british_flavor.3.b: "Vyzdvihněme těla posádky a připravme pohřby" # todo: NEW TRANSLATION
+ british_flavor.4.t: "Unesen let Ariana Afghan Airways" # todo: NEW TRANSLATION
+ british_flavor.4.d: "Skupina únosců v Afghánistánu nastoupila do letadla a donutila ho odletět do [ENG.GetName], kde přistálo v Londýně. Úřady se připravují vyslat malou jednotku, která se únoscům postaví, ale není známo, co s nimi následně uděláme." # todo: NEW TRANSLATION
+ british_flavor.4.a: "Zatknout je a poté deportovat" # todo: NEW TRANSLATION
+ british_flavor.4.b: "Zatknout je a poslat před soud!" # todo: NEW TRANSLATION
+ british_flavor.5.t: "Nepřátelské převzetí banky NatWest" # todo: NEW TRANSLATION
+ british_flavor.5.d: "Skotská banka se v současnosti pokouší o nepřátelské převzetí anglické banky NatWest Bank. Royal Bank of Scotland je v současnosti menší z obou bank a její úspěch do značné míry závisí na další nabídce jiné banky, Bank of Scotland." # todo: NEW TRANSLATION
+ british_flavor.5.a: "Není to náš problém" # todo: NEW TRANSLATION
+ british_flavor.5.b: "Zachraňme banku" # todo: NEW TRANSLATION
+ british_flavor.6.t: "BMW oznámilo plány na prodej skupiny Rover" # todo: NEW TRANSLATION
+ british_flavor.6.d: "Německá automobilka BMW oznámila plány na prodej skupiny Rover, přičemž londýnské konsorcium Alchemy se ukázalo jako hlavní kandidát na převzetí. Přestože by nám toto převzetí mohlo zajistit větší vliv v automobilovém průmyslu, nakonec se stane další přítěží v neustále křehčím automobilovém odvětví." # todo: NEW TRANSLATION
+ british_flavor.6.a: "Nám to nevadí" # todo: NEW TRANSLATION
+ british_flavor.6.b: "Možná by to měli přehodnotit..." # todo: NEW TRANSLATION
+ british_flavor.7.t: "David Trimble vyhrál volby předsedy Ulsterské unionistické strany" # todo: NEW TRANSLATION
+ british_flavor.7.d: "David Trimble vyhrál volby předsedy Ulsterské unionistické strany, pro-unijní politické strany a třetí nejstarší strany v Británii. Jeho vítězství slaví konzervativci, zatímco ti, kteří si přejí větší autonomii, jsou k výsledkům buď lhostejní, nebo rozhořčení, jako vždy." # todo: NEW TRANSLATION
+ british_flavor.7.a: "Pogratulovat vítězi" # todo: NEW TRANSLATION
+ british_flavor.8.t: "Zákon o přistěhovalectví a azylu" # todo: NEW TRANSLATION
+ british_flavor.8.d: "O zákonu o přistěhovalectví a azylu se v současnosti diskutuje. Pokud bude skutečně schválen, znamená to, že všichni uprchlíci a migranti získají nárok na poukázky na pokrytí nákladů na jídlo a oblečení. Vetovat jej může působit poněkud nelidsky, ale v konečném důsledku to povede k vyšším nákladům pro britské daňové poplatníky." # todo: NEW TRANSLATION
+ british_flavor.8.a: "Schvalme to" # todo: NEW TRANSLATION
+ british_flavor.8.b: "Vetujme to" # todo: NEW TRANSLATION
+ british_flavor.9.t: "Antikapitalistické nepokoje na Parliament Square" # todo: NEW TRANSLATION
+ british_flavor.9.d: "Antikapitalističtí výtržníci vyšli do ulic a zhanobili sochu bývalého britského premiéra Winstona Churchilla. Nepokojům se přezdívá nepokoje „Prvního máje“ a dav se zatím nezdá být připraven rozejít. Někteří volají po zásahu, zatímco jiní tvrdí, že se nakonec unaví a odejdou domů." # todo: NEW TRANSLATION
+ british_flavor.9.a: "Počkáme, až to přejde" # todo: NEW TRANSLATION
+ british_flavor.9.b: "Pošleme úklidové čety a policii" # todo: NEW TRANSLATION
+ british_flavor.10.t: "[ENG.GetLeader] vypískán v Ženském institutu" # todo: NEW TRANSLATION
+ british_flavor.10.d: "[ENG.GetLeader] se v Ženském institutu setkal s nepřátelským přijetím, když na něj rozzlobené členky pokřikovaly a pomalu mu tleskaly. Toto trapné přijetí vedlo k diskusím mezi členy strany i veřejností, která začala zpochybňovat některé aspekty našeho vedení." # todo: NEW TRANSLATION
+ british_flavor.10.a: "Ignorovat to" # todo: NEW TRANSLATION
+ british_flavor.10.b: "Reagovat na kritiku" # todo: NEW TRANSLATION
+ british_flavor.11.t: "Skotsko usiluje o zrušení článku 28" # todo: NEW TRANSLATION
+ british_flavor.11.d: "Skotský parlament usiluje o zrušení kontroverzního článku 28 zákona o místní samosprávě z roku 1988, který místním úřadům brání v „šíření homosexuality“. Pokud jim dovolíme tento zákon zrušit, může to vést k výzvám k jeho zrušení i jinde a způsobit politickou nestabilitu." # todo: NEW TRANSLATION
+ british_flavor.11.a: "Zastavit je" # todo: NEW TRANSLATION
+ british_flavor.11.b: "Je nám to jedno" # todo: NEW TRANSLATION
+ british_flavor.12.t: "Alex Salmond odstupuje z SNP" # todo: NEW TRANSLATION
+ british_flavor.12.d: "Alex Salmond odstoupil z vedení Skotské národní strany kvůli sporům o strategie financování uvnitř strany. Jeho rezignace nám poskytla příležitost zaútočit na SNP v době její slabosti a umožnit tak větší rozkol mezi jejími členy." # todo: NEW TRANSLATION
+ british_flavor.12.a: "Nejlepší bude nic nedělat" # todo: NEW TRANSLATION
+ british_flavor.12.b: "Zahájit politický útok" # todo: NEW TRANSLATION
+ british_flavor.13.t: "Posledních osmdesát" # todo: NEW TRANSLATION
+ british_flavor.13.d: "V rámci mírového procesu v Severním Irsku byla přijata opatření k propuštění posledních 80 vězňů držených ve věznici Maze. Tito vězni byli buď členy Irské národněosvobozenecké armády, nebo s ní měli úzké vazby. V roce 1997 došlo k incidentu, při němž tito vězni zabili a zastřelili velitele loajální dobrovolnické síly." # todo: NEW TRANSLATION
+ british_flavor.13.a: "Možná si je ponecháme..." # todo: NEW TRANSLATION
+ british_flavor.13.b: "Dobrá, ať tedy odejdou" # todo: NEW TRANSLATION
+ british_flavor.14.t: "Na sídlišti Paulsgrove vypukly nepokoje" # todo: NEW TRANSLATION
+ british_flavor.14.d: "Na sídlišti Paulsgrove v Portsmouthu vypukly nepokoje poté, co více než 100 lidí oblehlo bytový dům, v němž údajně bydlel odsouzený pachatel zneužívání dětí. Jde o poslední případ násilí vigilantů proti údajným sexuálním delikventům od začátku kampaně „pojmenování a zostuzení“ pořádané organizací News of the World." # todo: NEW TRANSLATION
+ british_flavor.14.a: "Nuže, s tím jsme nemohli nic dělat" # todo: NEW TRANSLATION
+ british_flavor.14.b: "Poslat policii" # todo: NEW TRANSLATION
+ british_flavor.15.t: "Vypukly protesty proti cenám paliva" # todo: NEW TRANSLATION
+ british_flavor.15.d: "Protestující zablokovali vjezdy do ropných rafinerií ve snaze protestovat proti vysokým cenám paliva. Motoristé začali panicky skupovat pohonné hmoty, což začíná vést k celostátnímu nedostatku paliva a dalšímu růstu cen ropy. Uvádí se, že v důsledku situace začíná zavírat velké množství čerpacích stanic a vláda se zoufale snaží najít řešení." # todo: NEW TRANSLATION
+ british_flavor.15.a: "Obviňme průmysl fosilních paliv" # todo: NEW TRANSLATION
+ british_flavor.15.b: "Zaveďme přísné kvóty na spotřebu ropy" # todo: NEW TRANSLATION
+ british_flavor.15.c: "§RNechat být§!" # todo: NEW TRANSLATION
+ british_flavor.151.t: "Vypukly nepokoje kvůli nečinnosti vlády" # todo: NEW TRANSLATION
+ british_flavor.151.d: "Zdá se, že naše neschopnost vyřešit nedostatek paliva pouze přiživila další hněv. Stále více lidí vychází do ulic a požaduje vládní řešení. V současnosti protestující pochodují k vládním budovám a vandalizují sochy, budovy i symboly vlády." # todo: NEW TRANSLATION
+ british_flavor.151.a: "Snažíme se!" # todo: NEW TRANSLATION
+ british_flavor.152.t: "Výzvy ke změně sílí" # todo: NEW TRANSLATION
+ british_flavor.152.d: "Zdá se, že odhodlání lidu pouze zesílilo a nenávist s hněvem se zaměřují na [ENG.GetLeader] a vládnoucí establishment. Zároveň sílí výzvy k přerozdělení královských prostředků na podporu dotací na palivo a někteří dokonce požadují, aby monarchie v hanbě odstoupila." # todo: NEW TRANSLATION
+ british_flavor.152.a: "Směšné!" # todo: NEW TRANSLATION
+ british_flavor.153.t: "Dolní sněmovna zapálena" # todo: NEW TRANSLATION
+ british_flavor.153.d: "Byl vyhlášen výjimečný stav, protože protesty a nepokoje se dramaticky posunuly k otevřené anarchii namísto organizovaného občanského odporu. Rozzlobení protestující zapálili Dolní sněmovnu, zatímco policie nedokázala zadržet rozzuřený dav. Objevily se zprávy, že protestující plánují pochod k dalším státním institucím, není však jasné, jaký bude jejich další cíl." # todo: NEW TRANSLATION
+ british_flavor.153.a: "Ach bože" # todo: NEW TRANSLATION
+ british_flavor.154.t: "Královna abdikuje!" # todo: NEW TRANSLATION
+ british_flavor.154.d: "Vzhledem k nedávnému povstání a pokračujícím selháním vlády královna oficiálně oznámila, že abdikuje, a plánuje později odpoledne oslovit národ ve formálním projevu. Přestože je mnoho lidí zarmouceno jejím odchodem, stále není jasné, zda bude nahrazena, neboť nenávist vůči monarchii od začátku protestů pouze zesílila." # todo: NEW TRANSLATION
+ british_flavor.154.a: "Sbohem, koruno drahokamů a sametové róbě" # todo: NEW TRANSLATION
+ british_flavor.155.t: "[ENG.GetLeader] odstupuje bez jasného nástupce" # todo: NEW TRANSLATION
+ british_flavor.155.d: "[ENG.GetLeader] rezignoval, přičemž jeho strana nedokázala rychle najít vhodnou náhradu. Tento stav anarchie zanechal zemi v rozvratu, zmatku a zranitelnosti. Británie nikdy předtím nečelila takové krizi a vláda ukázala, že v současnosti není schopna nic vyřešit." # todo: NEW TRANSLATION
+ british_flavor.155.a: "Co bude dál?!" # todo: NEW TRANSLATION
+ british_flavor.156.t: "Armáda převzala kontrolu" # todo: NEW TRANSLATION
+ british_flavor.156.d: "Britské ozbrojené síly oznámily své přímé zapojení do obnovy pořádku. Jejich mluvčí prohlásil, že každý, kdo poruší zákaz vycházení od 16:00, bude „rychle potrestán“, a uvedl, že vše, co hodlají učinit, bude v „nejlepším zájmu všech Britů“. To vyvolalo pobouření mezi členy Labouristické i Konzervativní strany, kteří označili toto převzetí moci za uzurpace moci, přičemž někteří tento krok odsoudili jako radikální posun k diktatuře. Politici však prokázali svou neschopnost řešit státní záležitosti a po rezignaci [ENG.GetLeader] není jasný nástupce." # todo: NEW TRANSLATION
+ british_flavor.156.a: "Co přinese budoucnost?" # todo: NEW TRANSLATION
+ british_flavor.157.t: "Zpráva: Stav nové vlády" # todo: NEW TRANSLATION
+ british_flavor.157.d: "Adresováno Jeho Excelenci, [ENG.GetLeader],\nDatum: [GetDateText]\n\nBod I: Stav pořádku\nVaše Excelence, britské ozbrojené síly rychle zajistily kontrolu nad hlavními městskými oblastmi, jako jsou mimo jiné Londýn, Birmingham, Manchester a Liverpool. Zatím se zdá, že se lidé pomalu rozcházejí z davů a míří domů, protože jsme začali zavádět vládou financované dotace na ropu a programy, které mají zemi pomoci znovu se postavit na nohy.\n\nBod II: Výzvy zleva i zprava\nPolitici Labouristické i Konzervativní strany začali vyzývat naši krizovou administrativu, aby zahájila proces nutný k obnovení demokratické vlády v zemi. Někteří politici označují novou administrativu za symbol autoritářství a vojenského přehánění pravomocí. Jeden labouristický politik dokonce prohlásil, že „muži se zbraněmi se musí vrátit na své základny a muži s pery musí znovu plnit své povinnosti státních úředníků“.\n\nBod III: Další upevňování moci\nNaši muži začali vyhledávat politiky a úředníky, kteří byli nespokojeni se starým systémem, a vyzývají je, aby přišli sloužit místo bývalých politiků dvoustranického systému. Převzetí moci tímto způsobem téměř jistě povede k určitému celostátnímu konfliktu, avšak v současnosti nemáme jiný způsob, jak naši kontrolu upevnit." # todo: NEW TRANSLATION
+ british_flavor.157.a: "Dobré vědět" # todo: NEW TRANSLATION
+ british_flavor.16.t: "Konzervativci posilují v průzkumech" # todo: NEW TRANSLATION
+ british_flavor.16.d: "Příznivci Konzervativní strany slaví poté, co zjistili, že toryové vedou před Labouristickou stranou s 38 % v průzkumu veřejného mínění MORI. Je to poprvé od roku 1993, kdy konzervativci vedou před Labouristickou stranou v celostátním průzkumu." # todo: NEW TRANSLATION
+ british_flavor.16.a: "Dobře" # todo: NEW TRANSLATION
+ british_flavor.17.t: "Zemětřesení otřáslo Warwickshirem" # todo: NEW TRANSLATION
+ british_flavor.17.d: "Ceremoniální hrabství Warwickshire zasáhlo zemětřesení, které poškodilo několik okolních budov. Ozývají se výzvy k vládní pomoci při obnově některých poškozených staveb, avšak vládní rozpočet se v poslední době stále více ztenčuje, takže pro Westminster je obtížné dospět k jasnému závěru." # todo: NEW TRANSLATION
+ british_flavor.17.a: "Nezbývá než doufat, že bude vše v pořádku" # todo: NEW TRANSLATION
+ british_flavor.17.b: "Schválit vládní pomoc" # todo: NEW TRANSLATION
+ british_flavor.18.t: "Donald Dewar převezen do nemocnice" # todo: NEW TRANSLATION
+ british_flavor.18.d: "Donald Dewar, první ministr Skotska, byl po pádu před Bute House, svým oficiálním edinburským sídlem, převezen do nemocnice. Jeho zdravotní stav se rychle zhoršuje a sílí výzvy k zásahu vlády a vyslání pokročilých lékařských týmů." # todo: NEW TRANSLATION
+ british_flavor.18.a: "Modleme se za jeho uzdravení" # todo: NEW TRANSLATION
+ british_flavor.18.b: "Schválit vyslání pokročilých lékařských týmů na pomoc" # todo: NEW TRANSLATION
+ United_Kingdom_News.2.t: "Ve Spojeném království vypukly nepokoje" # todo: NEW TRANSLATION
+ United_Kingdom_News.2.d: "Po celostátním nedostatku paliva a prudkém růstu cen plynu se britské úřady rozhodly vyčkat, až nedostatek pomine, v naději, že se ekonomika přirozeně zotaví sama. Situace se však nezlepšila, naopak se dále zhoršovala a začátkem tohoto týdne se zcela vymkla kontrole, když protestující zapálili Dolní sněmovnu. Britské úřady prohlásily, že za nedostatek nenesou odpovědnost, a tvrdí, že jde pouze o přirozený problém, který pomine. Jeden protestující uvedl: „Nemám čím natankovat auto! Nemám jak se dostat do práce a doma nemám topení, které by udrželo mou rodinu v teple. To, co se dnes děje, je výsledkem neefektivního systému a vlády.“\nVláda trvá na tom, že dělá vše, co je v jejích silách, aby situaci zmírnila, protesty však podle všeho jen tak neustanou." # todo: NEW TRANSLATION
+ United_Kingdom_News.2.a: "Hněv znovu propuká" # todo: NEW TRANSLATION
+ United_Kingdom_News.3.t: "Královna Alžběta II. abdikovala" # todo: NEW TRANSLATION
+ United_Kingdom_News.3.d: "V důsledku nedávných událostí oznámila královna Spojeného království Alžběta II. svou oficiální abdikaci z trůnu. Stalo se tak poté, co protestující začali požadovat konec monarchie a spojovali ji se symboly korupce, chamtivosti a finančních černých děr. Tentokrát byl hněv namířen proti monarchii konkrétně proto, že lidé požadovali přerozdělení peněz na vládní dotace paliva, jejich výzvy však ve Westminsteru padly na hluché uši. Není známo, zda na trůn nastoupí jiný člen královské rodiny, ale v tuto chvíli monarchii nezbývá než přihlížet, jak země hoří." # todo: NEW TRANSLATION
+ United_Kingdom_News.3.a: "Trůn se hroutí" # todo: NEW TRANSLATION
+ United_Kingdom_News.4.t: "Britské ozbrojené síly převzaly kontrolu nad Londýnem" # todo: NEW TRANSLATION
+ United_Kingdom_News.4.d: "Britské ozbrojené síly oznámily své oficiální zapojení do vymáhání státem vyhlášeného výjimečného stavu a výslovně uvedly, že každý, kdo poruší zákaz vycházení od 16:00, bude „rychle potrestán“. Stalo se tak po týdnech protestů a nepokojů ve Spojeném království, během nichž protestující v návalu vzteku zapálili Dolní sněmovnu. Záměry tohoto nového správního orgánu zatím nejsou známy, údajně jej však tvoří vojenští představitelé, kteří hodlají omezit moc Labouristické a Konzervativní strany v britském establishmentu." # todo: NEW TRANSLATION
+ United_Kingdom_News.4.a: "Je to konec Spojeného království?" # todo: NEW TRANSLATION
+ ENG_inner_circle.01.t: "Vzestup [GetAscendingAdvisorName]" # todo: NEW TRANSLATION
+ ENG_inner_circle.01.desc: "[GetAscendingAdvisorName] projevil(a) značné ambice a tiše rozšířil(a) svůj vliv v královské domácnosti. Každý krok směrem k větší autoritě však vyvolal námitky ostatních dvořanů a významných osobností a palác nyní pulzuje známým bojem o přístup a přednost. Otázkou je, zda [GetAscendingAdvisorName] udělal(a) na Královnu dostatečný dojem, aby získal(a) skutečné místo ve vnitřním kruhu Královny." # todo: NEW TRANSLATION
+ ENG_inner_circle.01.a: "Nahradit [ENGGetAscendedAdvisorName1]" # todo: NEW TRANSLATION
+ ENG_inner_circle.01.b: "Nahradit [ENGGetAscendedAdvisorName2]" # todo: NEW TRANSLATION
+ ENG_inner_circle.01.c: "Nahradit [ENGGetAscendedAdvisorName3]" # todo: NEW TRANSLATION
+ ENG_inner_circle.01.d: "[GetAscendingAdvisorName] si to nezaslouží." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.03.t: "Princova návštěva harmonie" # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.03.desc: "Princ z Walesu dorazil na návštěvu, která spojuje dvorskou diplomacii s jasným poselstvím o péči o životní prostředí. Jednání s vysokými představiteli a představiteli občanské společnosti se zaměřila na obnovu důvěry, rozšíření praktické spolupráce a představení klimatické odolnosti jako společného strategického zájmu, nikoli pouhého tématu k diskusi." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.03.a: "Nechme naše vztahy vést harmonií." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.04.t: "Princ Charles prosazuje ochranu deštných pralesů" # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.04.desc: "Byli jsme informováni, že Jeho královská Výsost princ Charles, princ z Walesu, vyzval k rozsáhlejším globálním opatřením na ochranu tropických deštných pralesů. Jako zakladatel Prince's Rainforests Project využil svůj vliv ke spolupráci s vládami, podniky a občanskou společností, aby zdůraznil význam zastavení odlesňování a zachování těchto klíčových ekosystémů pro klimatickou stabilitu a biologickou rozmanitost." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.04.a: "Vítáme podporu prince Charlese při ochraně deštných pralesů" # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.05.t: "Environmentální diplomacie prince Charlese" # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.05.desc: "Obdrželi jsme zprávu, že Jeho královská Výsost princ Charles, princ z Walesu, dokončil ve naší zemi cestu zaměřenou na environmentální diplomacii, během níž prosazoval spolupráci v oblasti klimatu, udržitelnosti a ekologické odolnosti. Jako jeden z nejdéle působících hlasů volajících po ochraně životního prostředí princ po desetiletí zdůrazňoval potřebu společného úsilí napříč státy a sektory při řešení globálních environmentálních výzev a podpoře udržitelných řešení." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.05.a: "Podpořit udržitelnost." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.06.t: "Princ Charles podporuje ekologické zemědělství" # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.06.desc: "Dozvěděli jsme se, že Jeho královská Výsost princ Charles, princ z Walesu, podnikl aktivní kroky na podporu rozvoje ekologického a udržitelného zemědělství v našem národě. Na základě desetiletí průkopnické práce na ekologických zemědělských metodách v Highgrove a Duchy Home Farm zdůraznil environmentální a sociální přínosy ekologických postupů a podpořil spolupráci v oblasti udržitelného zemědělství." # todo: NEW TRANSLATION
+ ENG_inner_circle_charles.06.a: "Podpořit udržitelné zemědělství." # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.04.t: "Princ Andrew na obchodní misi" # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.04.desc: "Jeho královská Výsost princ Andrew, který působí jako obchodní zástupce Spojeného království, navštívil naši zemi s cílem podpořit užší obchodní vztahy a hospodářskou spolupráci. Během své mise jednal s vládními představiteli, vedoucími představiteli podniků a potenciálními investory, aby zdůraznil příležitosti pro obchod a investice, které prospívají jak naší ekonomice, tak ekonomice Spojeného království." # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.04.a: "Vítáme vás" # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.05.t: "Obchodní dohoda uzavřena" # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.05.desc: "S potěšením oznamujeme, že po nedávných jednáních a vyjednáváních vedených Jeho královskou Výsostí princem Andrewem, vévodou z Yorku, byla mezi naším národem a Spojeným královstvím uzavřena nová obchodní dohoda. Dohoda otevírá možnosti pro rozšíření obchodní výměny, spolupráci v klíčových odvětvích a vzájemný hospodářský prospěch a odráží společné zájmy a posílené vazby mezi našimi ekonomikami." # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.05.a: "Souhlasit s partnerstvím." # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.06.t: "Princ Andrew vyřazen z královské rodiny" # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.06.d: "V důsledku následků jeho vazeb na Jeffreyho Epsteina se princ Andrew stal politicky toxickým. Pod rostoucím tlakem veřejnosti a institucí je zbaven svého zbývajícího postavení v královské rodině a odstraněn z vnitřního kruhu." # todo: NEW TRANSLATION
+ ENG_inner_circle_andrew.06.a: "Už nemůže zůstat" # todo: NEW TRANSLATION
+ ENG_military.045.t: "Žádost Británie o strategické partnerství" # todo: NEW TRANSLATION
+ ENG_military.045.d: "Spojené království, vedené konstitučním monarchou a oddané spolupráci se Západem, formálně požádalo o status významného spojence mimo NATO. Jeho udělení by posílilo transatlantické vztahy a zajistilo klíčového partnera v Evropě." # todo: NEW TRANSLATION
+ ENG_military.045.a: "Schválit jejich žádost, jde o cenného spojence." # todo: NEW TRANSLATION
+ ENG_military.045.b: "Odmítnout, u takových označení musíme být opatrní." # todo: NEW TRANSLATION
+ ENG_military.046.t: "Washington partnerství schválil" # todo: NEW TRANSLATION
+ ENG_military.046.d: "Spojené státy formálně označily Spojené království za významného spojence mimo NATO. Strategické partnerství otevírá cestu k hlubší obranné spolupráci a přednostnímu přístupu k americkým vojenským technologiím." # todo: NEW TRANSLATION
+ ENG_military.046.a: "Cenný přítel za Atlantikem" # todo: NEW TRANSLATION
+ ENG_military.047.t: "Washington partnerství odmítl" # todo: NEW TRANSLATION
+ ENG_military.047.d: "Spojené státy odmítly naši žádost o označení za významného spojence mimo NATO. Zvláštní vztah trvá, Washington však v této chvíli není připraven jej dále formalizovat." # todo: NEW TRANSLATION
+ ENG_military.047.a: "Zklamání, ale není to konec" # todo: NEW TRANSLATION
+ ENG_military.048.t: "Návrh AUKUS" # todo: NEW TRANSLATION
+ ENG_military.048.d: "Londýn navrhuje trilaterální partnerství s Washingtonem a Canberrou, založené na společné jaderné útočné ponorce. Britský návrh vychází ze studií nástupce třídy Astute a kombinuje reaktor Rolls-Royce s americkými bojovými systémy a vertikálními odpalovacími šachtami. Žádost jde dál než jakákoli předchozí dohoda: od Dohody o vzájemné obraně z roku 1958 je námořní jaderný pohon sdílen pouze se Spojeným královstvím a Britové nyní žádají, aby k němu byla připuštěna Austrálie. Schválení by propojilo Barrow-in-Furness a Osborne do jediné výrobní linky a po zbytek století rozmístilo spojenecké útočné ponorky ve východním Indickém oceánu." # todo: NEW TRANSLATION
+ ENG_military.048.a: "Rozšířit dohodu o pohonu na Canberru" # todo: NEW TRANSLATION
+ ENG_military.048.b: "Reaktor zůstane uvnitř dohody z roku 1958" # todo: NEW TRANSLATION
+ ENG_military.049.t: "Jaderné ponorky, nebo konvenční pořadí" # todo: NEW TRANSLATION
+ ENG_military.049.d: "Spojené království a Spojené státy nabídly Austrálii jadernou útočnou ponorku, první, která kdy byla dodána zemi bez vlastních jaderných zbraní. Cenou je stávající program konvenční náhrady, jehož smlouva by musela být zcela zrušena a evropský partner odškodněn. Místo něj přijdou rotace přes HMAS Stirling, přestavěná loděnice v Osborne a platba britské a americké průmyslové základně, aby zajistila výrobní kapacitu potřebnou pro naše vlastní ponorky. Rozhodnutí zavazuje Commonwealth k ponorkovým silám, které bez spojenecké podpory nedokáže udržovat, a k partnerství, jež je dodává." # todo: NEW TRANSLATION
+ ENG_military.049.a: "Zrušit objednávku a stavět jaderné ponorky v Osborne" # todo: NEW TRANSLATION
+ ENG_military.049.b: "Dodržíme smlouvu, kterou jsme podepsali" # todo: NEW TRANSLATION
+ ENG_military.050.t: "AUKUS podepsán" # todo: NEW TRANSLATION
+ ENG_military.050.d: "Tři vlády oznámily partnerství. Austrálie bude provozovat jadernou útočnou ponorku postavenou podle britského návrhu a reaktor, bojový systém i loděnice, které je sestavují, se nyní stávají společným projektem. Barrow-in-Furness získává vývozní zakázku, která na desetiletí zajistí nástupce třídy Astute, a britští, američtí a australští námořní inženýři budou poprvé pracovat podle společné sady výkresů." # todo: NEW TRANSLATION
+ ENG_military.050.a: "Tři námořnictva, jedna ponorka" # todo: NEW TRANSLATION
+ ENG_military.051.t: "Smlouva roztrhána" # todo: NEW TRANSLATION
+ ENG_military.051.d: "Canberra bez varování a bez konzultace zrušila ponorkový program, aby přijala angloamerickou nabídku vyjednanou za našimi zády. Zakázka byla největší obrannou smlouvou, jakou kdy naši stavitelé lodí získali, a její ztráta přímo dopadá na loděnice a konstrukční týmy, které již zahájily práci. Naši velvyslanci jsou odvoláváni. Ať už je strategický argument pro nové uspořádání jakýkoli, spojenci se o takových rozhodnutích nemají dozvídat z tisku." # todo: NEW TRANSLATION
+ ENG_military.051.a: "Rána do zad" # todo: NEW TRANSLATION
+ ENG_military.052.t: "Washington zadržuje reaktor" # todo: NEW TRANSLATION
+ ENG_military.052.d: "Spojené státy odmítly rozšířit námořní jaderný pohon za rámec dohody z roku 1958. Námitky v oblasti nešíření jaderných zbraní byly očekávatelné a Washington rozhodl, že převáží strategický přínos. Ponorka bude postavena, ale bude postavena samotná." # todo: NEW TRANSLATION
+ ENG_military.052.a: "Pak ji postavíme sami" # todo: NEW TRANSLATION
+ ENG_military.053.t: "Canberra odmítá" # todo: NEW TRANSLATION
+ ENG_military.053.d: "Austrálie se rozhodla ponechat svůj stávající ponorkový program. Nabídka jaderné ponorky s sebou nesla závazky, které Canberra nebyla připravena přijmout, od poplatků za zrušení smlouvy až po závislost na údržbě trvající půl století. Partnerství nebude pokračovat." # todo: NEW TRANSLATION
+ ENG_military.053.a: "Nabídka platí, pokud si to rozmyslí" # todo: NEW TRANSLATION
+ ENG_military.054.t: "AUKUS oznámen" # todo: NEW TRANSLATION
+ ENG_military.054.d: "Spojené království, Spojené státy a Austrálie oznámily trilaterální bezpečnostní partnerství, jehož prvním projektem bude společná jaderná útočná ponorka. Austrálie se stává první zemí bez jaderných zbraní, která ji bude provozovat. Reakce přichází okamžitě: odborníci na nešíření jaderných zbraní zpochybňují záruky týkající se vysoce obohaceného paliva pro námořnictvo, Peking dohodu odsuzuje jako blok namířený proti němu a evropský partner, jehož smlouva byla zrušena, odvolal své velvyslance." # todo: NEW TRANSLATION
+ ENG_military.054.a: "Rovnováha v Indo-Pacifiku se mění" # todo: NEW TRANSLATION
+ AST_aukus_submarine_programme: "Ponorkový program AUKUS" # todo: NEW TRANSLATION
+ AST_aukus_submarine_programme_desc: "Loděnice v Osborne se přestavuje na montáž jaderných útočných ponorek podle britského návrhu, přičemž pracovníci získávají zkušenosti střídavými pobyty v Barrow-in-Furness a amerických loděnicích. Reaktorové jednotky dorazí jako uzavřené celky, avšak trup, integrace bojového systému a celoživotní údržba zůstanou v Jižní Austrálii, čímž Commonwealth získá ponorkový průmysl, jaký v takovém měřítku nikdy neměl." # todo: NEW TRANSLATION
+ ENG_inner_circle_philip.04.t: "Princ Philip zemřel" # todo: NEW TRANSLATION
+ ENG_inner_circle_philip.04.d: "Princ Philip, vévoda z Edinburghu, zemřel po desetiletích strávených v centru veřejného života královské rodiny. Jeho smrt znamená konec jedné éry monarchie a pocítí ji celé Spojené království." # todo: NEW TRANSLATION
+ ENG_inner_circle_philip.04.a: "Národ truchlí" # todo: NEW TRANSLATION
+ ENG_integrate_ireland: "Integrovat [IRE.GetFlag] Irsko" # todo: NEW TRANSLATION
+ ENG_integrate_ireland_desc: "Po desetiletích jsme konečně podrobili a integrovali území Irska. Je nejvyšší čas formalizovat proces integrace." # todo: NEW TRANSLATION
+ ENG_a_more_united_kingdom_decisions: "Sjednocení říše" # todo: NEW TRANSLATION
+ ENG_a_more_united_kingdom_decisions_desc: "Po postupném úpadku Britského impéria a dekolonizaci během studené války naše říše neustále slábla. Diplomatickými prostředky a hegemonickým růstem budeme schopni znovu sjednotit naši říši.\n\nPřejeďte kurzorem přes barevný text pro více informací." # todo: NEW TRANSLATION
+ ENG_core_objectives_text: "Hlavní cíle" # todo: NEW TRANSLATION
+ ENG_econ_hegemony_text: "Ekonomická hegemonie" # todo: NEW TRANSLATION
+ ENG_military_hegemony_text: "Vojenská hegemonie" # todo: NEW TRANSLATION
+ ENG_political_hegemony_text: "Politická hegemonie" # todo: NEW TRANSLATION
+ ENG_declare_economic_hegemony: "Vyhlásit ekonomickou hegemonii" # todo: NEW TRANSLATION
+ ENG_declare_economic_hegemony_desc: "Nadešel čas prohlásit se ekonomickým hegemonem Commonwealthu." # todo: NEW TRANSLATION
+ ENG_declare_military_hegemony: "Vyhlásit vojenskou hegemonii" # todo: NEW TRANSLATION
+ ENG_declare_military_hegemony_desc: "Nadešel čas prohlásit se vojenským hegemonem Commonwealthu." # todo: NEW TRANSLATION
+ ENG_declare_political_hegemony: "Vyhlásit politickou hegemonii" # todo: NEW TRANSLATION
+ ENG_declare_political_hegemony_desc: "Nadešel čas prohlásit se politickým hegemonem Commonwealthu." # todo: NEW TRANSLATION
+ ENG_fractured_kingdom_united_state_decisions: "Nová éra" # todo: NEW TRANSLATION
+ ENG_fractured_kingdom_united_state_decisions_desc: "S nástupem nového režimu v [ENG.GetFlag] Británii budeme konečně schopni rychle, rozhodně a agresivně šířit svůj vliv navenek.\n\nPod naším velením budeme moci založit organizaci PMC, která rozpoutá chaos ve světě." # todo: NEW TRANSLATION
+ ENG_grant_land_in_isle_of_man: "Proměnit ostrov Man" # todo: NEW TRANSLATION
+ ENG_grant_land_in_isle_of_man_desc: "Navzdory svému historickému významu nám ostrov Man dnes mimo těžbu zdrojů slouží jen k velmi málo účelům. Pokud však tuto zemi svěříme naší nové organizaci PMC, bude moci plně rozvinout svůj potenciál a využít ji jako možnou základnu pro své operace." # todo: NEW TRANSLATION
+ ENG_devolved_matters: "Otázky přenesených pravomocí" # todo: NEW TRANSLATION
+ ENG_devolved_matters_desc: "Naše členské státy požadují více §Hdecentralizovaný stát§!, aby mohly získat nominální nebo úplnou nezávislost. Třemi hlavními státy jsou [SCO.GetFlag] §HSkotsko§!, [NIR.GetFlag] §HSeverní Irsko§! a [WAS.GetFlag] §HWales§!.\n\nPokud se stav našeho národa zhorší, budou se členské státy snažit prosadit zákony snižující jejich závislost. Ty můžeme vetovat, ovšem za cenu zvýšení jejich nespokojenosti.\n\nS postupem decentralizace se zpřístupní další rozhodnutí. Více informací najdete v rozhraní decentralizace v pravém dolním rohu obrazovky, označeném dílkem skládačky.\n\nDalší volby členských států: [?ROOT.ENG_election_var|Y0] měsíců" # todo: NEW TRANSLATION
+ ENG_appease_scotland: "Cílené dotace pro [SCO.GetFlag] Skotsko" # todo: NEW TRANSLATION
+ ENG_appease_nireland: "Cílené dotace pro [NIR.GetFlag] Severní Irsko" # todo: NEW TRANSLATION
+ ENG_appease_wales: "Cílené dotace pro [WAS.GetFlag] Wales" # todo: NEW TRANSLATION
+ ENG_doing_other_decision: "Probíhá jiné rozhodnutí" # todo: NEW TRANSLATION
  ENG_scottish_referendum: "Skotské referendum" # todo: NEW TRANSLATION
  ENG_scottish_referendum_desc: "Skotové byli našimi politikami již dlouho uklidněni. Po hlasování o Brexitu získala SNP v Skotsku obrovskou podporu. SNP je stranou, která usiluje o nezávislost na Spojeném království. Petice začínají zaplavovat Westminster. Je rozumné nechat Skotsko uspořádat jejich malé referendum." # todo: NEW TRANSLATION
  ENG_irish_referendum: "Irské referendum" # todo: NEW TRANSLATION
  ENG_irish_referendum_desc: "Po Brexitu se obyvatelé Severního Irska snaží o sjednocení s Irskem. Lidé to žádají a tlačí na to. Zklidněme jejich touhy a uspořádejme referendum." # todo: NEW TRANSLATION
+ ENG_welsh_referendum: "[GetYear] Referendum [WAS.GetFlag] Walesu o nezávislosti" # todo: NEW TRANSLATION
+ ENG_welsh_referendum_desc: "Obyvatelé [WAS.GetFlag] Walesu budou hlasovat v referendu, které určí jejich budoucnost jako národa, členského státu a hráče na Britských ostrovech. Kampaň potrvá až do volebního dne a výsledek bude odpovídat tomu, jaké bude mínění Velšanů v okamžiku sečtení hlasů. Westminster může vynaložit politický kapitál a peníze státní pokladny, aby výsledek ovlivnil.\n\nHlasů pro odchod z Unie: §Y[?ENG_referendum_leave_vote|0]§!%" # todo: NEW TRANSLATION
+ ENG_release_scotland: "Schválit [GetYear] referendum [SCO.GetFlag] Skotska o nezávislosti" # todo: NEW TRANSLATION
+ ENG_release_scotland_desc: "„Skotsko navždy!“\n\nMožná jsme předchozí pokus o referendum zavrhli příliš ukvapeně. Tuto chybu můžeme napravit." # todo: NEW TRANSLATION
+ ENG_release_ireland: "Schválit [GetYear] referendum [NIR.GetFlag] Severního Irska o nezávislosti" # todo: NEW TRANSLATION
+ ENG_release_ireland_desc: "Možná jsme předchozí pokus o referendum zavrhli příliš ukvapeně. Tuto chybu můžeme napravit." # todo: NEW TRANSLATION
+ ENG_release_wales: "Schválit [GetYear] referendum [WAS.GetFlag] Walesu o nezávislosti" # todo: NEW TRANSLATION
+ ENG_release_wales_desc: "Možná jsme předchozí pokus o referendum zavrhli příliš ukvapeně. Tuto chybu můžeme napravit." # todo: NEW TRANSLATION
+ ENG_decommission_paramilitaries: "Odzbrojit polovojenské skupiny" # todo: NEW TRANSLATION
+ ENG_decommission_paramilitaries_desc: "Nezávislá mezinárodní komise pro odzbrojení zasedá od roku 1997, aniž by jí kdy byl předán kompletní arzenál. Disidentské republikánské frakce, které odmítly Dohodu, nemají zájem odzbrojit, dokud mohou stále verbovat nové členy. Verbují všude tam, kde jsou chudé obytné čtvrti a vysoké napětí. Poskytněme Komisi peníze a politický kapitál, udržujme sektářské napětí dostatečně nízko, aby zprostředkovatelé dál jednali, a dejme tomu dva roky. Pak bude možné poslední arzenály trvale vyřadit z provozu. Pokud napětí znovu vzroste, celý proces se zhroutí.\n\nVyžaduje §YVelkopáteční dohodu§! jako svůj rámec.\n\nSektářské napětí: §Y[?ENG_north_irish_agitation|0]§!/§G15§!\nZávislost Severního Irska: §Y[?ENG_north_irish_dependency|0]§!/§G60§!\nNezaměstnanost: §Y[?total_unemployed_percentage_display|%]§!/§G10%§!" # todo: NEW TRANSLATION
+ ENG_call_border_poll: "Vyhlásit hraniční referendum" # todo: NEW TRANSLATION
+ ENG_call_border_poll_desc: "Dohoda zavazuje ministra pro Severní Irsko vyhlásit referendum, kdykoli se zdá pravděpodobné, že většina v Severním Irsku bude hlasovat pro sjednocené Irsko. Britská vláda je zároveň povinna výsledek provést. Nacionalistické strany nyní drží rozhodující vliv ve Stormontu a požadavek již nelze odkládat, aniž bychom Dohodu otevřeně porušili. Kampaň před referendem trvá rok a výsledek bude záviset na tom, jaké bude mínění obyvatel Severního Irska v době sčítání hlasů. Rok kampaně je proto stejně důležitý jako samotné vyhlášení hlasování.\n\nPolovojenské skupiny musí být nejprve odzbrojeny. Žádná komunita by nepřijala referendum konané pod hrozbou zbraní.\n\nSeveroírský nacionalismus: §Y[?ENG_north_irish_nationalists|0]§!/§G55§!" # todo: NEW TRANSLATION
+ ENG_border_poll_mission: "Kampaň před hraničním referendem" # todo: NEW TRANSLATION
+ ENG_border_poll_mission_desc: "Referendum bylo vyhlášeno a kampaň potrvá jeden rok. Výsledek určí úroveň severoirského nacionalismu v den hlasování, nikoli v den vyhlášení. Jasná nacionalistická většina vyvede provincii z Unie do Republiky, pokud ji Dublin přijme. Cokoli menšího uzavře ústavní otázku na několik let a zanechá nacionalistické hnutí poražené u volebních uren, plně si vědomé své porážky.\n\nSeveroírský nacionalismus: §Y[?ENG_north_irish_nationalists|0]§!\nJasné „Ano“ vyžaduje více než §G65§!." # todo: NEW TRANSLATION
+ ENG_all_ireland_dominion: "Celoirské dominium" # todo: NEW TRANSLATION
+ ENG_all_ireland_dominion_desc: "Jelikož Republika již odpovídá Londýnu, hranice se stala spíše správní než ústavní linií. Předání šesti hrabství Dublinu nás nestojí nic, co bychom již nezajistili: celý ostrov je spravován z hlavního města, které spravujeme my. Vyřešíme tím nejstarší křivdu těchto ostrovů v náš prospěch a podle našeho pohodlí, zrušíme dotace i posádku a ponecháme republikánskému hnutí sjednocené Irsko, které nemůže oslavovat.\n\nNejprve musí být skutečně vyřešena decentralizace Severního Irska. Předání provincie uprostřed krize by znamenalo krizi exportovat, nikoli vyřešit.\n\nSektářské napětí: §Y[?ENG_north_irish_agitation|0]§!/§G10§!\nZávislost Severního Irska: §Y[?ENG_north_irish_dependency|0]§!/§G70§!\nTlak na nezávislost: §Y[?ENG_north_irish_pressure|0]§!/§G40§!" # todo: NEW TRANSLATION
+ ENG_repeal_good_friday_agreement: "Zrušit Velkopáteční dohodu" # todo: NEW TRANSLATION
+ ENG_repeal_good_friday_agreement_desc: "Dohoda nás stojí trvalé dotace, přebujelý policejní aparát a vládu založenou na sdílení moci, v níž ministerské úřady zastávají lidé, kteří kdysi organizovali bombové útoky. Zrušme ji, pozastavme činnost Stormontu a spravujme provincii přímo z Londýna jako před rokem 1998. Úspory budou okamžité, stejně jako všechno ostatní: ústavní záruka, která držela republikánské hnutí v politice, zmizí, polovojenské skupiny se vrátí a sektářské napětí se projeví v plné síle, bez čehokoli, co by ho zmírnilo.\n\nUlster povstane. Budeme mít několik měsíců na udržení provincie pod kontrolou, než k tomu dojde." # todo: NEW TRANSLATION
+ ENG_repeal_gfa_remove_TT: "Odstraní §Y$ENG_good_friday_agreement$§!" # todo: NEW TRANSLATION
+ ENG_ulster_on_the_brink_activated_TT: "Aktivuje §RUlster na pokraji§!: máme §Y180§! dní na snížení severoirského sektářského napětí pod §G20§!, jinak prozatímní republikánské vedení vyhlásí povstání a my budeme bojovat o provincii." # todo: NEW TRANSLATION
+ ENG_ulster_on_the_brink: "Ulster na pokraji" # todo: NEW TRANSLATION
+ ENG_ulster_on_the_brink_desc: "Dohoda je pryč a provincie se rozpadá. Nepokoje se staly trvalými, armáda je zpět v ulicích v počtech nevídaných od sedmdesátých let a obě komunity se vyzbrojují v přesvědčení, že je nikdo nepřijde chránit. Pokud se sektářské napětí podaří během šesti měsíců snížit, lze provincii udržet bez dohody a bez povstání. Pokud ne, prozatímní republikánské vedení vyhlásí povstání a my budeme bojovat o Ulster.\n\nSektářské napětí: §Y[?ENG_north_irish_agitation|0]§!\nMusí klesnout pod §G20§!." # todo: NEW TRANSLATION
  decisions_ENG: "Rozhodnutí Spojeného království" # todo: NEW TRANSLATION # todo: MOVED KEY
+ decisions_ENG_desc: "Zde může vláda zahajovat mise a přijímat rozhodná opatření k určení směru Británie, podporovat průmysl, utvářet výzkum, posilovat regiony a reagovat na měnící se potřeby národa." # todo: NEW TRANSLATION
  falkland_policy: "Falklandská politika" # todo: NEW TRANSLATION # todo: MOVED KEY
  denounce_status_as_the_commonwealth_of_nation_member: "§YOdsuzovat§! Status Člena Společenství národů" # todo: NEW TRANSLATION # todo: MOVED KEY
  denounce_status_as_the_commonwealth_of_nation_member_desc: "Osvoboďte se od zastaralých pout. Odzrušit členství v Společenství národů a nasměrujte se k skutečné národní suverenitě. Znovu si určete svůj osud. Najděte si svou vlastní cestu. Nezávislost čeká." # todo: NEW TRANSLATION # todo: MOVED KEY
+ ENG_bankers_switch_faction: "Podpořit mezinárodní bankéře" # todo: NEW TRANSLATION
+ ENG_bankers_switch_faction_desc: "Přeskupíme naše vnitřní spojenectví ve prospěch frakce mezinárodních bankéřů a nasměrujeme politiku ke globálním financím, volnému toku kapitálu a ekonomice založené na službách." # todo: NEW TRANSLATION
+ ENG_scottish_parliament: "[SCO.GetFlag] Skotský parlament" # todo: NEW TRANSLATION
+ ENG_scottish_parliament_desc: "Členové [SCO.GetFlag] Skotského parlamentu nebyli a nikdy nebudou vždy loajální Londýnu. Existují §Hpro-nezávislostní§! poslanci, kteří budou bojovat za vytvoření autonomního nebo nezávislého [SCO.GetFlag] Skotska.\n\nPokud §Hpro-nezávislostní§! poslanci získají většinu, začnou prosazovat zákony poskytující jim větší autonomii, které můžeme schválit nebo vetovat. Pokud budeme jejich požadavky soustavně přijímat, získáme přátelský a loajální [SCO.GetFlag] skotský členský stát. Pokud však jejich požadavky budeme opakovaně odmítat, jejich §Hnespokojenost§! může vést k velmi chaotické situaci. Pokud [SCO.GetFlag] §Hskotská nespokojenost§! dosáhne §H100§!, budou požadovat nezávislost.\n\n§HPro-nezávislostní mandáty§!: [?ENG_scottish_nationalists]/129\n\n[SCO.GetFlag] §HSkotská nespokojenost§!: [?ENG_scottish_agitation]" # todo: NEW TRANSLATION
+ ENG_invest_northern_ireland_mission: "Investice do stavebního sektoru Severního Irska" # todo: NEW TRANSLATION
+ ENG_ireland_border_cooperation: "Smlouva o spolupráci na irské hranici" # todo: NEW TRANSLATION
+ ENG_clydach_nickel_decision: "Modernizovat niklovou rafinerii Clydach" # todo: NEW TRANSLATION
+ ENG_clydach_nickel_decision_desc: "Modernizujeme niklovou rafinerii Clydach v jižním Walesu a rozšiřujeme kapacitu pro výrobu kovů do baterií a vysoce kvalitních slitin, abychom posílili dodávky kritických nerostů." # todo: NEW TRANSLATION
+ ENG_alloys_modernisation: "Modernizovat výrobu slitin" # todo: NEW TRANSLATION
+ ENG_alloys_modernisation_desc: "Investujeme do nových tavicích pecí a válcovacích linek pro speciální slitiny, čímž zvyšujeme kvalitu a průchodnost výroby všeho od turbín a pancéřových plátů po vysoce výkonné součástky." # todo: NEW TRANSLATION
+ ENG_ellesmere_port_decision: "Továrna na magnety z vzácných zemin v Ellesmere Port" # todo: NEW TRANSLATION
+ ENG_ellesmere_port_decision_desc: "Rozšiřujeme zpracování kovů vzácných zemin v Ellesmere Port a vyrábíme vysoce kvalitní magnety pro větrné turbíny, elektrická vozidla a pokročilé obranné systémy." # todo: NEW TRANSLATION
+ ENG_shetland_hydrocarbon_decision: "Rozšířit těžbu uhlovodíků západně od Shetland" # todo: NEW TRANSLATION
+ ENG_shetland_hydrocarbon_decision_desc: "Urychlíme rozvoj ropných a plynových polí západně od Shetland a využijeme hlubokomořské zásoby k posílení domácí produkce uhlovodíků a energetické bezpečnosti." # todo: NEW TRANSLATION
+ ENG_rosebank_field_decision: "Rozvinout ropné pole Rosebank" # todo: NEW TRANSLATION
+ ENG_rosebank_field_decision_desc: "Schvalujeme plný rozvoj ropného a plynového pole Rosebank a uvádíme do provozu nové pobřežní plošiny a potrubí, abychom posílili dlouhodobé dodávky energie." # todo: NEW TRANSLATION
+ ENG_cambo_offshore_decision: "Rozvinout pobřežní pole Cambo" # todo: NEW TRANSLATION
+ ENG_cambo_offshore_decision_desc: "Pokračujeme v projektu Cambo a přidáváme nové vrty a podmořská propojení, která uvedou jeho zásoby ropy a plynu do těžby." # todo: NEW TRANSLATION
+ ENG_hornsea_wind_farm_decision: "Rozšířit větrnou farmu Hornsea" # todo: NEW TRANSLATION
+ ENG_hornsea_wind_farm_decision_desc: "Podpoříme další fáze pobřežní větrné zóny Hornsea v Severním moři a přidáme turbíny i připojení k síti, abychom z největší větrné farmy na světě získali více čisté energie." # todo: NEW TRANSLATION
+ ENG_drakeland_tungsten_decision: "Znovu otevřít wolframový důl Drakelands" # todo: NEW TRANSLATION
+ ENG_drakeland_tungsten_decision_desc: "Znovu spustíme důl Drakelands poblíž Plymouthu a obnovíme těžbu cínu a wolframu, abychom posílili britské dodávky kritických kovů pro moderní technologie." # todo: NEW TRANSLATION
+ ENG_south_crofty_tin_decision: "Znovu otevřít cínový důl South Crofty" # todo: NEW TRANSLATION
+ ENG_south_crofty_tin_decision_desc: "Financujeme znovuotevření dolu South Crofty v Cornwallu, obnovíme hlubinnou těžbu cínu a přidáme stabilní domácí zdroj vysoce kvalitné rudy pro náš průmysl." # todo: NEW TRANSLATION
+ ENG_scottish_industry_mission: "Skotský průmyslový neočekávaný zisk" # todo: NEW TRANSLATION
+ ENG_scottish_industry_mission_desc: "Naše investice do skotského ocelářství a těžkého průmyslu mohou odemknout nová ložiska, zakázky a navazující projekty. Je značná šance, že obnovená aktivita v hutích a loděnicích odhalí další zdroje, které můžeme uvést do výroby." # todo: NEW TRANSLATION
+ ENG_celsa_steel_mission: "Přezkum produkce ocelárny Celsa" # todo: NEW TRANSLATION
+ ENG_celsa_steel_mission_desc: "Každý rok prověříme ocelárnu Celsa v Cardiffu, abychom zjistili, zda nové zakázky, zvýšení efektivity nebo dodávky šrotu ospravedlňují další zvýšení výroby oceli." # todo: NEW TRANSLATION
+ ENG_roysth_naval_port_decision: "Rozšířit námořní přístav Rosyth" # todo: NEW TRANSLATION
+ ENG_roysth_naval_port_decision_desc: "Rozšíříme doky a podpůrná zařízení v Rosythu a proměníme ústí řeky Forth v silnější základnu pro opravy, podporu a budoucí stavbu válečných lodí." # todo: NEW TRANSLATION
+ ENG_expand_belfast_decision: "Rozšířit průmyslovou zónu v Belfastu" # todo: NEW TRANSLATION
+ ENG_expand_belfast_decision_desc: "Uvolníme a vybavíme nové pozemky kolem belfastských doků a na okrajích města, čímž otevřeme další prostor pro továrny, loděnice a kanceláře v celém Severním Irsku." # todo: NEW TRANSLATION
+ ENG_highland_main_line_decision: "Modernizovat hlavní trať přes Highlands" # todo: NEW TRANSLATION
+ ENG_highland_main_line_decision_desc: "Modernizujeme hlavní trať přes Highlands mezi Perthem a Invernessem, zkrátíme jízdní doby a poskytneme městům podél trasy tolik potřebné zlepšení spojení a produktivity." # todo: NEW TRANSLATION
+ ENG_titanic_quarter_decision: "Rozvinout Titanic Quarter" # todo: NEW TRANSLATION
+ ENG_titanic_quarter_decision_desc: "Přestavíme bývalé loděniční pozemky v Belfastu na čtvrť Titanic Quarter, kde spojíme kanceláře, studia a nábřežní průmysl, abychom vdechli nový život starému areálu Harland & Wolff." # todo: NEW TRANSLATION
+ ENG_elizabeth_line_decision: "Dokončit Elizabeth Line" # todo: NEW TRANSLATION
+ ENG_elizabeth_line_decision_desc: "Dokončíme Elizabeth Line napříč Londýnem a propojíme Heathrow, West End, City a Canary Wharf rychlými a častými vlaky napříč městem, které zkrátí jízdní doby a zvýší produktivitu." # todo: NEW TRANSLATION
+ ENG_productivity_gap_mission: "Ztráta produktivity" # todo: NEW TRANSLATION
+ ENG_hs2_mission: "Výstavba vysokorychlostní železnice 2" # todo: NEW TRANSLATION
+ ENG_northen_powerhouse_mission: "Výstavba železnice Northern Powerhouse" # todo: NEW TRANSLATION
+ ENG_build_london: "Rozvoj Velkého Londýna" # todo: NEW TRANSLATION
+ ENG_build_london_desc: "Slíbili jsme našim voličům v oblasti Velkého Londýna, že přijdou rekonstrukce. Nyní tento slib musíme splnit." # todo: NEW TRANSLATION
+ ENG_promise_labour: "Slib labouristickým odborům" # todo: NEW TRANSLATION
+ ENG_promise_labour_desc: "Dali jsme labouristickým odborům slib a musíme podle něj jednat." # todo: NEW TRANSLATION
+ ENG_promise_military: "Slib vojensko-průmyslovému komplexu" # todo: NEW TRANSLATION
+ ENG_promise_military_desc: "Dali jsme vojensko-průmyslovému komplexu slib a musíme podle něj jednat." # todo: NEW TRANSLATION
+ ENG_promise_fossil_fuel: "Slib průmyslu fosilních paliv" # todo: NEW TRANSLATION
+ ENG_promise_fossil_fuel_desc: "Dali jsme průmyslu fosilních paliv slib a musíme podle něj jednat." # todo: NEW TRANSLATION
+ ENG_monarchy_decision_category: "Windsorští" # todo: NEW TRANSLATION
+ ENG_monarchy_decision_category_desc: "Windsorští vládnou od roku 1917 a provádějí moderní monarchii válkou, společenskými změnami i tlaky nového století. Stojí v centru veřejného života Británie; jejich dynastie je vetkána do ceremonií, služby a tichých každodenních zvyklostí, které drží říši pohromadě. Její členové uplatňují vliv prostřednictvím patronátu, návštěv a diskrétních zásahů a zasahují do charity, diplomacie i ozbrojených sil způsoby, kterých samotná politika nedosáhne. Zde jsou zobrazovány úkoly královské rodiny a ukazuje se, jaké iniciativy může každý člen královské rodiny prosazovat a co může jeho přítomnost uvést do pohybu." # todo: NEW TRANSLATION
+ ENG_monarchy: "Windsorští" # todo: NEW TRANSLATION
+ ENG_charles_youth_sustainability_decision: "Posílit mládež pro udržitelnost" # todo: NEW TRANSLATION
+ ENG_charles_youth_sustainability_decision_desc: "Jeho královská Výsost princ Charles zahájí program na podporu mladých lidí při vedení udržitelných a klimaticky šetrných iniciativ. Princ z Walesu naváže na desetiletí práce s mládežnickými charitami a ekologickými projekty a bude podporovat vzdělávání, rozvoj dovedností a podnikání v souladu s ekologickou odolností. Program uznává zásadní úlohu mladších generací při budování udržitelnější budoucnosti." # todo: NEW TRANSLATION
+ ENG_charles_sustainable_urban_planning_decision: "Prosazovat udržitelné městské plánování" # todo: NEW TRANSLATION
+ ENG_charles_sustainable_urban_planning_decision_desc: "Jeho královská Výsost princ Charles bude prosazovat udržitelné plánování měst a komunit založené na holistických principech designu, které upřednostňují lidi, životní prostředí a dlouhodobou odolnost. Program naváže na jeho dlouhodobou podporu budování komunit respektujících klimatický a kulturní kontext a bude prosazovat tradiční a ekologicky citlivé přístupy k architektuře, infrastruktuře a využívání půdy." # todo: NEW TRANSLATION
+ ENG_charles_organic_agriculture_decision: "Prosazovat ekologické a udržitelné zemědělství" # todo: NEW TRANSLATION
+ ENG_charles_organic_agriculture_decision_desc: "Jeho královská Výsost princ Charles využije svůj vliv k podpoře ekologických a udržitelných zemědělských metod ve venkovských i světových komunitách. Princ naváže na desetiletí oddanosti péči o ekologii a regenerativnímu zemědělství a bude prosazovat postupy, které zlepšují zdraví půdy, podporují rodinné farmy a snižují dopad na životní prostředí." # todo: NEW TRANSLATION
+ ENG_charles_environmental_diplomacy_tour_decision: "Turné ekologické diplomacie" # todo: NEW TRANSLATION
+ ENG_charles_environmental_diplomacy_tour_decision_desc: "Jeho královská Výsost princ Charles podnikne mezinárodní turné ekologické diplomacie na podporu spolupráce v oblasti udržitelnosti a klimatických iniciativ. Během desetiletí služby jako princ z Walesu navštívil mnoho zemí a jednal s vůdci i komunitami, aby podpořil opatření proti změně klimatu, ochranu deštných pralesů a udržitelný rozvoj. Turné se pokusí posílit globální partnerství a zdůraznit společný závazek chránit přírodní svět." # todo: NEW TRANSLATION
+ ENG_charles_rainforest_help_decision: "Podpořit globální ochranu deštných pralesů" # todo: NEW TRANSLATION
+ ENG_charles_rainforest_help_decision_desc: "Jeho královská Výsost princ Charles povede program na podporu globálního boje proti ničení tropických deštných pralesů. Jako zakladatel projektu Prince's Rainforests Project bude spolupracovat s vládami, organizacemi a občanskou společností na zdůraznění významu ochrany deštných pralesů a jejich role v boji proti změně klimatu." # todo: NEW TRANSLATION
+ ENG_charles_charities_network_decision: "Aktivovat charitativní síť prince" # todo: NEW TRANSLATION
+ ENG_charles_charities_network_decision_desc: "Jeho královská Výsost princ Charles aktivuje rozsáhlou síť charitativních organizací na podporu sociálních, vzdělávacích a ekologických projektů doma i v zahraničí. Jako předseda The Prince's Charities, skupiny organizací založených nebo podporovaných princem z Walesu, využije jejich společné odborné znalosti k budování udržitelných komunit, rozšiřování příležitostí a zlepšování životní pohody v několika regionech." # todo: NEW TRANSLATION
+ ENG_charles_harmony_tour_decision: "Uskutečnit diplomatické turné Harmonie" # todo: NEW TRANSLATION
+ ENG_charles_harmony_tour_decision_desc: "Jeho královská Výsost princ Charles podnikne mezinárodní turné na podporu své filozofie Harmonie a spolupráce v otázkách životního prostředí a udržitelnosti. Během desetiletí služby jako princ z Walesu soustavně využíval svůj vliv ke zdůrazňování potřeby klimatických opatření, ochrany deštných pralesů a udržitelného rozvoje. Toto turné se pokusí posílit globální partnerství kolem těchto společných cílů." # todo: NEW TRANSLATION
+ ENG_andrew_naval_haritage_decision: "Přijetí námořního dědictví" # todo: NEW TRANSLATION
+ ENG_andrew_naval_haritage_decision_desc: "Princ Andrew využije svou dlouhou kariéru v námořnictvu k vyzdvižení námořních tradic a služby svého národa. Jako pilot, instruktor a velitel vrtulníku Královského námořnictva, který se účastnil aktivní služby během konfliktu o Falklandy, bude podporovat úctu k námořnímu dědictví a rozvíjet spolupráci se spojeneckými flotilami a námořními výcvikovými institucemi po celém světě." # todo: NEW TRANSLATION
+ ENG_andrew_trade_representive_decision: "Mise obchodního zástupce" # todo: NEW TRANSLATION
+ ENG_andrew_trade_representive_decision_desc: "Princ Andrew podnikne misi obchodního zástupce na podporu britských obchodních zájmů v zahraničí. Naváže na své zkušenosti zvláštního zástupce Spojeného království pro mezinárodní obchod a investice a bude jednat se zahraničními vládami, obchodními představiteli a investory o příležitostech pro britský vývoz a příliv investic, čímž posílí hospodářské vztahy a podpoří spolupráci v obchodu a podnikání." # todo: NEW TRANSLATION
+ ENG_andrew_emerging_trade_agreement_decision: "Usilovat o nové obchodní dohody" # todo: NEW TRANSLATION
+ ENG_andrew_emerging_trade_agreement_decision_desc: "Princ Andrew povede úsilí o uzavření obchodních dohod a podnikatelských partnerství na rozvíjejících se světových trzích. Díky rozsáhlým zkušenostem s reprezentací britských obchodních zájmů v zahraničí se pokusí otevřít příležitosti pro vývoz, partnerství a investice s rozvojovými ekonomikami s vysokým potenciálem budoucího růstu a spolupráce." # todo: NEW TRANSLATION
+ ENG_andrew_emerging_economy_benefits_decision: "Využít partnerství s rozvíjejícími se ekonomikami" # todo: NEW TRANSLATION
+ ENG_andrew_emerging_economy_benefits_decision_desc: "Princ Andrew se zaměří na posílení partnerství s rozvíjejícími se ekonomikami s cílem rozšířit příležitosti pro obchod, investice a sdílený hospodářský růst. Tato iniciativa využije jeho rozsáhlé zkušenosti s podporou britských obchodních zájmů po celém světě, přiláká investice a odborné znalosti z rychle se rozvíjejících trhů, zvýší domácí produktivitu a podpoří dynamičtější podnikatelské prostředí." # todo: NEW TRANSLATION
+ ENG_andrew_digital_enterprise_decision: "Iniciativa digitálního podnikání" # todo: NEW TRANSLATION
+ ENG_andrew_digital_enterprise_decision_desc: "Princ Andrew zahájí iniciativu digitálního podnikání na podporu digitálních dovedností a podnikavosti v celé zemi. Program naváže na jeho práci s oceněními pro digitální podnikání, která pomáhala lidem rozvíjet online, technické a podnikatelské dovednosti. Jeho cílem je podporovat začínající digitální inovátory, zvyšovat technologickou gramotnost a budovat pevnější základy digitální ekonomiky." # todo: NEW TRANSLATION
+ ENG_anne_national_charity_decision: "Národní charitativní organizace princezny Royal" # todo: NEW TRANSLATION
+ ENG_anne_national_charity_decision_desc: "Princezna Royal rozšíří a zkoordinuje své národní patronáty, aby prosazovala praktické výsledky namísto příležitostí k fotografování. Sbírky, mobilizace dobrovolníků a pozornost veřejnosti budou směřovat tam, kde se kapacity hroutí." # todo: NEW TRANSLATION
+ ENG_anne_carers_promotion_decision: "Kampaň za uznání pečujících" # todo: NEW TRANSLATION
+ ENG_anne_carers_promotion_decision_desc: "Anne postaví neplacené pečující do středu národní pozornosti a bude tlačit na instituce, aby péči považovaly za základní službu, nikoli za soukromé břemeno. Kampaň prostřednictvím královského patronátu a trvalé viditelnosti zviditelní odlehčovací služby, pružnost na pracovišti a veřejný respekt." # todo: NEW TRANSLATION
+ ENG_anne_military_readiness_decision: "Standardy připravenosti" # todo: NEW TRANSLATION
+ ENG_anne_military_readiness_decision_desc: "Princezna Royal využije své vojenské funkce k požadavku profesionality, kázně při výcviku a neokázalých rutin, které udržují jednotky připravené k nasazení. Kontroly, cvičení a důsledné zajištění logistiky budou prosazovány jako měřítko serióznosti." # todo: NEW TRANSLATION
+ ENG_anne_navy_readiness_decision: "Kontroly připravenosti flotily" # todo: NEW TRANSLATION
+ ENG_anne_navy_readiness_decision_desc: "Royal Navy bude nuceno prokázat, že dokáže pod tlakem plout, bojovat a udržovat vlastní provoz. Přítomnost Anne nastaví standardy: údržba, způsobilost posádek a operační tempo budou považovány za nevyjednatelné." # todo: NEW TRANSLATION
+ ENG_anne_tourism_decision: "Královská podpora cestovnímu ruchu" # todo: NEW TRANSLATION
+ ENG_anne_tourism_decision_desc: "Pověst Británie je aktivem a princezna Royal ji využije účelně. Cílená podpora cestovního ruchu zviditelní dědictví, události a místní ekonomiky, které potřebují poptávku, a promění královská angažmá v rezervace a investice." # todo: NEW TRANSLATION
+ ENG_edward_beach_youth_decision: "Práce s mládeží na pobřeží" # todo: NEW TRANSLATION
+ ENG_edward_beach_youth_decision_desc: "Hrabě z Wessexu přenese práci Koruny s mládeží na pobřeží a prostřednictvím návštěv, oceňovacích programů a místních partnerství nasměruje mladé lidi k dovednostem a službě. Poselství je praktické: sebevědomí, disciplína a cesta vpřed." # todo: NEW TRANSLATION
+ ENG_edward_global_youth_decision: "Globální zapojení mládeže" # todo: NEW TRANSLATION
+ ENG_edward_global_youth_decision_desc: "Edward rozšíří práci s mládeží za hranice Británie a posílí vztahy prostřednictvím výměnných pobytů, výcviku a společných občanských projektů se zahraničními partnery." # todo: NEW TRANSLATION
+ ENG_edward_arts_culture_patronage_decision: "Patronát umění a kultury" # todo: NEW TRANSLATION
+ ENG_edward_arts_culture_patronage_decision_desc: "Koruna bude podporovat britský umělecký a kulturní sektor jako součást identity i strategického vlivu. Královský patronát zvýší viditelnost, uvolní financování a ochrání instituce, které doma i v zahraničí utvářejí národní vyprávění." # todo: NEW TRANSLATION
+ ENG_edward_production_guild_decision: "Podpořit výrobní cechy" # todo: NEW TRANSLATION
+ ENG_edward_production_guild_decision_desc: "Britské cechy a kvalifikovaná výrobní řemesla jsou páteří kvality a exportní síly. Edward podpoří výrobní cechy prostřednictvím uznání, vazeb na výcvik a koordinace odvětví, která udrží řemesla při životě a zajistí otevřené vzdělávací i výrobní dráhy." # todo: NEW TRANSLATION
+ ENG_edward_veteran_support_decision: "Podpora veteránů ve Wessexu" # todo: NEW TRANSLATION
+ ENG_edward_veteran_support_decision_desc: "Služba nekončí propuštěním a Koruna nebude s veterány zacházet jako s dodatečnou starostí. Hrabě z Wessexu zkoordinuje charity, zaměstnavatele a místní úřady s cílem zlepšit podporu při přechodu do civilního života, stabilitu bydlení a pracovní příležitosti." # todo: NEW TRANSLATION
+ ENG_philip_award_medal_decision: "Předat medaili prince Philipa" # todo: NEW TRANSLATION
+ ENG_philip_award_medal_decision_desc: "Princ Philip podnikne vlastní misi, aby předal medaili prince Philipa přednímu inženýrovi s mimořádným globálním dopadem. Toto ocenění pod jeho osobním patronátem uznává vynikající úspěchy v inženýrské praxi a inovacích." # todo: NEW TRANSLATION
+ ENG_philip_award_expansion_decision: "Rozšířit ceny vévody" # todo: NEW TRANSLATION
+ ENG_philip_award_expansion_decision_desc: "Princ Philip odcestuje, aby zahájil rozšíření Ceny vévody z Edinburghu a zpřístupnil tento mládežnický program širšímu mezinárodnímu publiku. Jeho úsilí má posílit odolnost mladých lidí a občanské dovednosti v mnoha zemích." # todo: NEW TRANSLATION
+ ENG_philip_trust_funds_grants_decision: "Aktivovat granty fondu prince Philipa" # todo: NEW TRANSLATION
+ ENG_philip_trust_funds_grants_decision_desc: "Princ Philip osobně dohlédne na rozdělování grantů z fondu prince Philipa místním komunitním a vzdělávacím projektům. Jeho přímé zapojení zajistí podporu iniciativ, které zlepšují volnočasové aktivity, vzdělávání a občanský život." # todo: NEW TRANSLATION
+ ENG_philip_faith_conservation_decision: "Zahájit iniciativu víry a ochrany přírody" # todo: NEW TRANSLATION
+ ENG_philip_faith_conservation_decision_desc: "Princ Philip zahájí program spojující náboženské komunity a ekologické skupiny ke společné péči o přírodu. Jeho cílem je mobilizovat morální a komunitní zdroje na podporu udržitelných ochranářských cílů." # todo: NEW TRANSLATION
+ ENG_philip_innovation_recognition_decision: "Zavést národní ocenění inovací" # todo: NEW TRANSLATION
+ ENG_philip_innovation_recognition_decision_desc: "Princ Philip zahájí národní program odměňující vynikající průmyslový design, vědu a praktické řešení problémů. Jeho iniciativa zdůrazní vynalézavost jako pilíř hospodářského růstu a národního úspěchu." # todo: NEW TRANSLATION
+ ENG_william_air_ambulance_decision: "Sloužit ve směně letecké záchranky" # todo: NEW TRANSLATION
+ ENG_william_air_ambulance_decision_desc: "Princ William vyráží na další směnu u letecké záchranky, létá k naléhavým zásahům a setkává se s pozemními posádkami." # todo: NEW TRANSLATION
+ ENG_william_mental_health_at_work_decision: "Duševní zdraví na pracovišti" # todo: NEW TRANSLATION
+ ENG_william_mental_health_at_work_decision_desc: "Princ William vyráží získat zaměstnavatele a charitativní organizace pro podporu duševního zdraví na pracovišti." # todo: NEW TRANSLATION
+ ENG_william_step_into_health_decision: "Kampaň Step into Health" # todo: NEW TRANSLATION
+ ENG_william_step_into_health_decision_desc: "Princ William vyráží na turné, aby podpořil program Step into Health a otevřel veteránům a rodinám vojáků přístupové cesty k NHS." # todo: NEW TRANSLATION
+ ENG_william_early_years_forum_decision: "Svolat fórum raného dětství" # todo: NEW TRANSLATION
+ ENG_william_early_years_forum_decision_desc: "Princ William svolává fórum o raném dětství, aby přivedl odborníky, charitativní organizace a podnikatele k jednomu stolu." # todo: NEW TRANSLATION
+ ENG_william_chogm_youth_decision: "Poselství mládeži CHOGM" # todo: NEW TRANSLATION
+ ENG_william_chogm_youth_decision_desc: "Princ William se účastní zasedání mládeže na setkání předsedů vlád Commonwealthu (CHOGM), aby dal najevo, že na příští generaci záleží pro budoucnost Commonwealthu." # todo: NEW TRANSLATION
+ ENG_seize_sierra_leone_resources: "Využít [SIE.GetFlag] Sierru Leone" # todo: NEW TRANSLATION
+ ENG_seize_sierra_leone_resources_desc: "Je čas, abychom z operace Barras něco vytěžili. Zmocníme se klíčových zdrojů v Sieře Leone a na 500 dní zde získáme ekonomický vliv." # todo: NEW TRANSLATION
+ ENG_war_for_delta: "Válka o deltu" # todo: NEW TRANSLATION
+ ENG_war_for_delta_desc: "Možná jsme na Nigerijce zatlačili až příliš, takže jejich ego potlačilo veškeré obavy z konfrontace s našimi silami. Přesto budeme muset obsadit jejich hlavní město, abychom jim ukázali, kdo tu skutečně velí." # todo: NEW TRANSLATION
+ ENG_end_of_the_world: "Dobytí konce světa" # todo: NEW TRANSLATION
+ ENG_end_of_the_world_desc: "Ohňová země, známá také jako „Konec světa“, je důležitým souostrovím a branou do Antarktidy. Obsazení tohoto strategického místa by mohlo celému národu přinést obrovské výhody, natolik velké, že jsme ochotni o něj bojovat." # todo: NEW TRANSLATION
+ ENG_operation_eastern_divide: "Operace Východní rozdělení" # todo: NEW TRANSLATION
+ ENG_operation_eastern_divide_desc: "Egypťané nevyhověli našim požadavkům na spravedlivý a rovnocenný přístup přes Suez, a proto nám nezbyla jiná možnost než přistoupit k vojenské akci." # todo: NEW TRANSLATION
+ ENG_a_more_united_kingdom: "Jednotnější Spojené království" # todo: NEW TRANSLATION
+ ENG_a_more_united_kingdom_desc: "Náš stát je sice v současnosti sjednocený, ale části našeho území se odtrhly a vytvořily nezávislé státy. Pokud máme být skutečně Spojeným královstvím, musíme znovu sjednotit státy Commonwealthu ze všech koutů světa." # todo: NEW TRANSLATION
+ ENG_fractured_kingdom_united_state: "Rozdělené království, sjednocený stát" # todo: NEW TRANSLATION
+ ENG_fractured_kingdom_united_state_desc: "§R„Občan, nikoli poddaný“§!\nZatímco monarchie a předchozí režim upadly v zapomnění, stát pouze zesílil. Nastal čas zaujmout na světové scéně rozhodnější a dominantnější postoj a konečně potrestat ty, kteří po staletí drancovali tuto zemi." # todo: NEW TRANSLATION
+ ENG_deeper_commonwealth_integration: "Hlubší integrace Commonwealthu" # todo: NEW TRANSLATION
+ ENG_deeper_commonwealth_integration_desc: "Pokud se máme stát skutečně sjednoceným státem, musíme nejprve přesvědčit ty, které si přejeme integrovat, že jsme vhodným hostitelem. Teprve potom budeme moci podniknout další kroky." # todo: NEW TRANSLATION
+ ENG_sovereignty_above_all: "Svrchovanost nade vše" # todo: NEW TRANSLATION
+ ENG_sovereignty_above_all_desc: "Nic není důležitější než schopnost našich správců určovat budoucnost našeho lidu. Žádný jiný stát než náš by neměl mít právo mluvit do toho, jak spravujeme své záležitosti." # todo: NEW TRANSLATION
+ ENG_establishing_new_leadership: "Ustavení nového režimu" # todo: NEW TRANSLATION
+ ENG_establishing_new_leadership_desc: "Než se můžeme pustit do práce, musíme ustavit nový režim. Bude nutné převrátit společenské uspořádání a začít plánovat novou přechodnou autoritu, která převezme správu v částech země a celý proces usnadní." # todo: NEW TRANSLATION
+ ENG_two_way_concessions: "Oboustranné ústupky" # todo: NEW TRANSLATION
+ ENG_two_way_concessions_desc: "Nemůžeme očekávat pokrok při dohodě o decentralizaci, pokud se bude snažit pouze jedna strana. Uděláme určité ústupky a očekáváme totéž od druhé strany ve Skotsku." # todo: NEW TRANSLATION
+ ENG_uniting_the_isle: "Sjednocení ostrova" # todo: NEW TRANSLATION
+ ENG_uniting_the_isle_desc: "Irové jsou příčinou mnoha našich problémů — od podněcování napětí po politické strany volající po odtržení Severního Irska. Je nejvyšší čas zasáhnout a dát jim lekci." # todo: NEW TRANSLATION
+ ENG_revolution_not_devolution: "Revoluce, nikoli decentralizace" # todo: NEW TRANSLATION
+ ENG_revolution_not_devolution_desc: "Abychom měli skutečně sjednocený stát, musíme nejprve zničit příčinu decentralizace. Potřebujeme národní revoluci, nikoli decentralizaci!" # todo: NEW TRANSLATION
+ ENG_bring_in_canada: "Přivést Kanadu" # todo: NEW TRANSLATION
+ ENG_bring_in_canada_desc: "Musíme podat ruku Kanadě jako největšímu členu Commonwealthu z hlediska rozlohy. Naši kanadští přátelé si po dlouhou dobu udržovali blízké vztahy, takže by nemělo být příliš obtížné získat je na svou stranu." # todo: NEW TRANSLATION
+ ENG_the_realm_of_britain: "Britská říše" # todo: NEW TRANSLATION
+ ENG_the_realm_of_britain_desc: "Britskou říši nelze nikdy rozbít, protože duch britského lidu vytrvává i v dobách mimořádných útrap." # todo: NEW TRANSLATION
+ ENG_glory_of_pax_britannica: "Sláva Pax Britannica" # todo: NEW TRANSLATION
+ ENG_glory_of_pax_britannica_desc: "Naše minulost je slavná a někteří říkají, že minulost ve skutečnosti nezmizela, nýbrž předznamenává to, co přijde. Musíme naplnit sny našich předků a obnovit slávu Pax Britannica!" # todo: NEW TRANSLATION
+ ENG_australian_outreach: "Navázání kontaktu s Austrálií" # todo: NEW TRANSLATION
+ ENG_australian_outreach_desc: "Nesmíme zapomenout na oběti, které Australané v průběhu dějin přinesli pro naši věc. Proto je nezbytné pozvat je, aby se k nám v budoucnu připojili." # todo: NEW TRANSLATION
+ ENG_new_zealands_offer: "Nabídka Nového Zélandu" # todo: NEW TRANSLATION
+ ENG_new_zealands_offer_desc: "Lidé z Nového Zélandu jsou již po velmi dlouhou dobu našimi pevnými spojenci a v dobrém i zlém stáli při nás. Je pouze příhodné požádat je, aby se k nám připojili." # todo: NEW TRANSLATION
+ ENG_fracture_nato_unity: "Rozštěpit jednotu NATO" # todo: NEW TRANSLATION
+ ENG_fracture_nato_unity_desc: "Je sice pravda, že jsme po dlouhou dobu těžili z bezpečnosti NATO, ale nyní tomu tak již není. Musíme pochopit, že naši bývalí přátelé si nepřejí nic jiného než rozdělit a rozštěpit náš stát, a náš lid si toho musí být vědom." # todo: NEW TRANSLATION
+ ENG_end_eastern_suffering: "Ukončit utrpení Východu" # todo: NEW TRANSLATION
+ ENG_end_eastern_suffering_desc: "Ubohá změť států ve východní Evropě vedená Ruskem pomalu a strašlivě upadá. Bylo by lepší zasáhnout a nastolit v tomto regionu skutečnou prosperitu a pořádek." # todo: NEW TRANSLATION
+ ENG_declare_the_commonwealth: "Vyhlásit Commonwealth" # todo: NEW TRANSLATION
+ ENG_declare_the_commonwealth_desc: "Nyní, když se všechny země Commonwealthu — alespoň ty důležité — připojily pod jeden prapor, je namístě oznámit světu, že Federace Commonwealthu je zde a hodlá zde zůstat." # todo: NEW TRANSLATION
+ ENG_overseas_territory: "Britské zámořské území" # todo: NEW TRANSLATION
+ ENG_active_resource_project: "§YAktivní projekt kritických nerostů§!" # todo: NEW TRANSLATION
+ ENG_active_productivity_project: "§YAktivní projekt národní produktivity§!" # todo: NEW TRANSLATION
+ ENG_ucl_east_campus: "Areál UCL East" # todo: NEW TRANSLATION
+ OPEN_devolution_BUTTON: "Decentralizované záležitosti" # todo: NEW TRANSLATION
+ OPEN_devolution_BUTTON_TT: "Otevřít panel decentralizace a spravovat Skotsko, Wales a Severní Irsko." # todo: NEW TRANSLATION
+ ENG_mechanic_menu_explanation: "Decentralizace" # todo: NEW TRANSLATION
+ ENG_devolution_HEADER_TITTLE_LOC: "Decentralizované záležitosti" # todo: NEW TRANSLATION
+ ENG_mechanic_menu_explanation_2: "Decentralizace nám umožňuje vrátit část moci do rukou našich území. Spravovat je můžeme kliknutím na příslušný stát. Každé území bude mít §Cparlament§!, úroveň §Rneklidu§! a úroveň §Gzávislosti§!. Podržením kurzoru nad tlačítkem §Ginformací§! zobrazíte podrobné vysvětlení." # todo: NEW TRANSLATION
+ ENG_parliament_gui_tooltip: "Každé území bude mít vlastní parlament. V závislosti na míře neklidu v jednotlivých územích mohou lidé s větší či menší pravděpodobností volit poslance podporujícího nezávislost. Jakmile se však takový poslanec ujme úřadu, bude velmi nepravděpodobné, že bude odvolán. Pokud poslanci podporující nezávislost získají většinu, mohou začít prosazovat zákony snižující jejich závislost a nakonec požadovat referendum.\n\nNaši poddaní na nás budou mít určitý názor, který se projevuje jejich neklidem. Území může být neklidnější v závislosti na naší politické straně, počtu zákonů, které vetujeme, nebo na tom, zda násilně zvyšujeme jeho závislost. Neklid mohou ovlivnit některé události, rozhodnutí či zaměření. Území silně závislé na Westminsteru se každý měsíc samo uklidní, zatímco území, které nás již nepotřebuje, bude postupně stále rozzlobenější.\n\nZávislost určuje míru, do jaké se území dokáže spravovat samo. Pokud je závislost nízká, může začít požadovat více svobod, protože si bez království dokáže dobře poradit. Na základě událostí, které obdržíme, a zaměření, která zvolíme, budeme mít možnost jejich závislost snížit nebo zvýšit.\n\nNacionalismus, neklid a míra soběstačnosti se kombinují do skóre tlaku na nezávislost. Jakmile má území většinu podporující nezávislost a jeho tlak překročí §R60§!, začne kampaň za referendum. Poté máme rok na snížení tlaku pod §G50§!, než bude referendum skutečně vyhlášeno. Kampaň může vést vždy pouze jedno území a dalších pět let poté nemůže následovat žádné další.\n\nNapětí v Severním Irsku představuje napětí mezi unionistickými protestanty a republikánskými katolíky. Naše rozhodnutí mohou napětí rozdmýchat, a pokud dosáhne 50 %, dojde k občasným násilným střetům. Pokud bude napětí dále růst nad 50 %, bude frekvence střetů narůstat." # todo: NEW TRANSLATION
+ ENG_dependency_gui_tooltip2: "Závislost určuje míru, do jaké se území dokáže spravovat samo. Pokud je závislost nízká, může začít požadovat více svobod, protože si bez království dokáže dobře poradit. Na základě událostí, které obdržíme, a zaměření, která zvolíme, budeme mít možnost jejich závislost snížit nebo zvýšit." # todo: NEW TRANSLATION
+ ENG_parliament_gui_tooltip2: "Každé území bude mít vlastní parlament. V závislosti na míře neklidu v jednotlivých územích mohou lidé s větší či menší pravděpodobností volit poslance podporujícího nezávislost. Jakmile se však takový poslanec ujme úřadu, bude velmi nepravděpodobné, že bude odvolán. Pokud poslanci podporující nezávislost získají většinu, mohou začít prosazovat zákony snižující jejich závislost a nakonec požadovat referendum." # todo: NEW TRANSLATION
+ ENG_agitation_gui_tooltip2: "Naši poddaní na nás budou mít určitý názor, který se projevuje jejich neklidem. Území může být neklidnější v závislosti na naší politické straně, počtu zákonů, které vetujeme, nebo na tom, zda násilně zvyšujeme jeho závislost. Neklid mohou ovlivnit některé události, rozhodnutí či zaměření. Území silně závislé na Westminsteru se každý měsíc samo uklidní, zatímco území, které nás již nepotřebuje, bude postupně stále rozzlobenější. Neklid přispívá ke skóre tlaku na nezávislost, které rozhoduje o zahájení kampaně za referendum." # todo: NEW TRANSLATION
+ ENG_irish_tension_tooltip: "Napětí v Severním Irsku představuje napětí mezi unionistickými protestanty a republikánskými katolíky. Naše rozhodnutí mohou napětí rozdmýchat, a pokud dosáhne 50 %, dojde k občasným násilným střetům. Pokud bude napětí dále růst nad 50 %, bude frekvence střetů narůstat." # todo: NEW TRANSLATION
+ ENG_scotland_gui_tooltip: "Skotsko\n-------------\nTlak na nezávislost: §R[?ENG_scottish_pressure|0]/100§!\nHlas pro odchod z Unie: §R[?ENG_referendum_leave_vote|0]§!%\n£GFX_click_right §YKliknutí pravým tlačítkem§! sníží neklid o 2\n - Po dobu aktivace spotřebuje §R5%§! daňových příjmů!\n£GFX_click_left §YShift + kliknutí§! udrží dotaci v automatickém obnovování" # todo: NEW TRANSLATION
+ ENG_northern_ireland_tooltip: "Severní Irsko\n-------------\nTlak na nezávislost: §R[?ENG_north_irish_pressure|0]/100§!\nHlas pro odchod z Unie: §R[?ENG_referendum_leave_vote|0]§!%\n£GFX_click_right §YKliknutí pravým tlačítkem§! sníží neklid o 2\n - Po dobu aktivace spotřebuje §R5%§! daňových příjmů!\n£GFX_click_left §YShift + kliknutí§! udrží dotaci v automatickém obnovování" # todo: NEW TRANSLATION
+ ENG_wales_tooltip: "Wales\n-------------\nTlak na nezávislost: §R[?ENG_wales_pressure|0]/100§!\nHlas pro odchod z Unie: §R[?ENG_referendum_leave_vote|0]§!%\n£GFX_click_right §YKliknutí pravým tlačítkem§! sníží neklid o 2\n - Po dobu aktivace spotřebuje §R5%§! daňových příjmů!\n£GFX_click_left §YShift + kliknutí§! udrží dotaci v automatickém obnovování" # todo: NEW TRANSLATION
+ ENG_back_tooltip: "Vrátit se do nabídky území" # todo: NEW TRANSLATION
+ ENG_england_tooltip: "Anglie" # todo: NEW TRANSLATION
+ ENG_scotland_menu_agitation: "Skotský neklid" # todo: NEW TRANSLATION
+ ENG_scotland_menu_parliament: "Skotský nacionalismus" # todo: NEW TRANSLATION
+ ENG_scotland_menu_dependency: "Skotská závislost" # todo: NEW TRANSLATION
+ ENG_scottish_agitation_VAR: "§R[?ENG_scottish_agitation|0]/100§!" # todo: NEW TRANSLATION
+ ENG_scotland_parliament_VAR: "§H[?ENG_scottish_nationalists|0]/100§!" # todo: NEW TRANSLATION
+ ENG_scotland_dependency_VAR: "§G[?ENG_scottish_dependency|0]/100§!" # todo: NEW TRANSLATION
+ ENG_wales_menu_agitation: "Velšský neklid" # todo: NEW TRANSLATION
+ ENG_wales_menu_parliament: "Velšský nacionalismus" # todo: NEW TRANSLATION
+ ENG_wales_menu_dependency: "Velšská závislost" # todo: NEW TRANSLATION
+ ENG_wales_agitation_VAR: "§R[?ENG_wales_agitation|0]/100§!" # todo: NEW TRANSLATION
+ ENG_wales_parliament_VAR: "§H[?ENG_wales_nationalists|0]/100§!" # todo: NEW TRANSLATION
+ ENG_wales_dependency_VAR: "§G[?ENG_wales_dependency|0]/100§!" # todo: NEW TRANSLATION
+ ENG_north_ireland_menu_agitation: "Sektářské napětí" # todo: NEW TRANSLATION
+ ENG_north_ireland_menu_parliament: "Severoírský nacionalismus" # todo: NEW TRANSLATION
+ ENG_north_ireland_menu_dependency: "Severoírská závislost" # todo: NEW TRANSLATION
+ ENG_north_ireland_agitation_VAR: "§R[?ENG_north_irish_agitation|0]/100§!" # todo: NEW TRANSLATION
+ ENG_north_ireland_parliament_VAR: "§H[?ENG_north_irish_nationalists|0]/100§!" # todo: NEW TRANSLATION
+ ENG_north_ireland_dependency_VAR: "§G[?ENG_north_irish_dependency|0]/100§!" # todo: NEW TRANSLATION
+ ENG_create_new_faction_TT: "Vytvoří novou frakci: Organizace atlantické bezpečnosti\n\nPomocí [ADS.GetFlag] Albionis budeme moci svrhnout zahraniční vlády!\n - Tuto schopnost získáme třikrát a bude dostupná v nabídce vlivu prostřednictvím tlačítka převratu. Objeví se také další možnost, která vám umožní použít [ADS.GetFlag] Albionis ke svržení dané vlády v Evropě a získat vazala a spojence." # todo: NEW TRANSLATION
+ ENG_collapse_of_society_TT: "£text_icon_kaldanger Volba této možnosti může vést ke svržení vlády!\n - Umožní nám splnit zaměření §HRozdělené království, sjednocený stát§!\n - Po určité době zasáhne armáda a převezme správu státu" # todo: NEW TRANSLATION
+ ENG_do_fp_TT: "Dokončena alespoň §H3§! zaměření zahraniční politiky" # todo: NEW TRANSLATION
+ ENG_core_desc_TT: "Dosažením ekonomické, vojenské a politické hegemonie budeme moci třem hlavním státům Commonwealthu ukázat, že se o ně dokážeme postarat a chránit je. Jejich území se navíc budou ochotněji připojovat, pokud budou naše podmínky lepší." # todo: NEW TRANSLATION
+ ENG_econ_hegemony_TT: "„Peníze vyřeší všechno“\n\nDosažením ekonomické hegemonie získáme dobrou pozici pro integraci dalších ekonomik, například ekonomik států Commonwealthu. K tomu potřebujeme:\n\nVyšší HDP než všechny tři státy dohromady\n- Náš současný HDP činí $[?gdp_per_capita] (tisíc)\n- Jejich současný HDP činí $[?commonwealth_total_gdp] (tisíc)" # todo: NEW TRANSLATION
+ ENG_military_hegemony_TT: "„Silná armáda znamená silnou vládu“\n\nDosažením vojenské hegemonie ukážeme, že jsme schopni bránit svá území a svůj lid. K tomu potřebujeme:\n\nVíce nasazené živé síly než všechny tři státy dohromady\n- V současnosti máme nasazeno [?ENG.deployed_army_manpower_k] (tisíc) vojáků\n- Oni mají v současnosti nasazeno [?commonwealth_total_army] (tisíc) vojáků" # todo: NEW TRANSLATION
+ ENG_political_hegemony_TT: "„Stačí tahat za nitky“\n\nDosažením politické hegemonie ukážeme, že vláda Westminsteru je stabilní, propojená a v kontaktu s lidmi všech společenských vrstev. K tomu potřebujeme:\n\nSilnou sféru vlivu\n- Alespoň 50% vlivu ve všech třech zemích" # todo: NEW TRANSLATION
+ ENG_tooltip_TT: "Splňuje všechny požadavky ekonomické hegemonie" # todo: NEW TRANSLATION
+ ENG_tooltip2_TT: "Splňuje všechny požadavky vojenské hegemonie" # todo: NEW TRANSLATION
+ ENG_has_met_all_requirements_TT: "Je hegemonem ve všech třech kategoriích" # todo: NEW TRANSLATION
+ ENG_hold_for_280_TT: "Musíme udržet své hlavní město po dobu 280 dní!" # todo: NEW TRANSLATION
+ ENG_seize_sierra_leone_TT: "Pokud [SIE.GetFlag] §HSierra Leone§! zůstane prozápadní a bude v míru:\n - Budeme moci prostřednictvím rozhodnutí dočasně zabavit její zdroje v §HFreetownu§!" # todo: NEW TRANSLATION
+ ENG_scottish_agitation_change_tt: "Skotský §Hneklid§!: [?ENG_agitation_change|=-0]" # todo: NEW TRANSLATION
+ ENG_scottish_dependency_change_tt: "Skotská §Hzávislost§!: [?ENG_dependency_change|=+0]" # todo: NEW TRANSLATION
+ ENG_scottish_nationalists_change_tt: "Skotský §Hnacionalismus§!: [?ENG_nationalists_change|=-0]" # todo: NEW TRANSLATION
+ ENG_north_irish_agitation_change_tt: "Severoírské §Hs sektářské napětí§!: [?ENG_agitation_change|=-0]" # todo: NEW TRANSLATION
+ ENG_north_irish_dependency_change_tt: "Severoírská §Hzávislost§!: [?ENG_dependency_change|=+0]" # todo: NEW TRANSLATION
+ ENG_north_irish_nationalists_change_tt: "Severoírský §Hnacionalismus§!: [?ENG_nationalists_change|=-0]" # todo: NEW TRANSLATION
+ ENG_wales_agitation_change_tt: "Velšský §Hneklid§!: [?ENG_agitation_change|=-0]" # todo: NEW TRANSLATION
+ ENG_wales_dependency_change_tt: "Velšská §Hzávislost§!: [?ENG_dependency_change|=+0]" # todo: NEW TRANSLATION
+ ENG_wales_nationalists_change_tt: "Velšský §Hnacionalismus§!: [?ENG_nationalists_change|=-0]" # todo: NEW TRANSLATION
+ ENG_decrease_dependence_1_alt_TT: "Sníží §Hzávislost§! tohoto §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_decrease_dependence_2_alt_TT: "Sníží §Hzávislost§! tohoto §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_alt_TT: "Zvýší §Hzávislost§! o $RIGHT|+=0$" # todo: NEW TRANSLATION
+ ENG_increase_agitation_1_alt_TT: "Zvýší §Hneklid§! tohoto §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_increase_agitation_2_alt_TT: "Zvýší §Hneklid§! tohoto §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_increase_agitation_4_alt_TT: "Zvýší §Hneklid§! tohoto §Húzemí§! o §H4§!" # todo: NEW TRANSLATION
+ ENG_decrease_agitation_alt_TT: "Sníží §Hneklid§! o $RIGHT|-=0$" # todo: NEW TRANSLATION
+ ENG_decrease_agitation_2_alt_TT: "Sníží §Hneklid§! tohoto §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_decrease_agitation_5_alt_TT: "Sníží §Hneklid§! tohoto §Húzemí§! o §H5§!" # todo: NEW TRANSLATION
+ ENG_lower_dependence_1_TT: "Sníží §Hzávislost§! všech §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_1_TT: "Zvýší §Hzávislost§! všech §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_2_TT: "Zvýší §Hzávislost§! všech §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_3_TT: "Zvýší §Hzávislost§! všech §Húzemí§! o §H3§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_4_TT: "Zvýší §Hzávislost§! všech §Húzemí§! o §H4§!" # todo: NEW TRANSLATION
+ ENG_increase_dependence_5_TT: "Zvýší §Hzávislost§! všech §Húzemí§! o §H5§!" # todo: NEW TRANSLATION
+ ENG_lower_agitation_1_TT: "Sníží §Hneklid§! všech §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_lower_agitation_2_TT: "Sníží §Hneklid§! všech §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_lower_agitation_3_TT: "Sníží §Hneklid§! všech §Húzemí§! o §H3§!" # todo: NEW TRANSLATION
+ ENG_lower_agitation_4_TT: "Sníží §Hneklid§! všech §Húzemí§! o §H4§!" # todo: NEW TRANSLATION
+ ENG_lower_agitation_5_TT: "Sníží §Hneklid§! všech §Húzemí§! o §H5§!" # todo: NEW TRANSLATION
+ ENG_increase_agitation_1_TT: "Zvýší §Hneklid§! všech §Húzemí§! o §H1§!" # todo: NEW TRANSLATION
+ ENG_increase_agitation_2_TT: "Zvýší §Hneklid§! všech §Húzemí§! o §H2§!" # todo: NEW TRANSLATION
+ ENG_grand_promise_TT: "- Složíme slib jedné ze §Htří§! hlavních §Hvnitřních frakcí§! a pokud jej splníme, budeme odměněni\n - Po výběru slibu se aktivuje časově omezená mise" # todo: NEW TRANSLATION
+ ENG_attack_tories_TT: "Popularita [ENG.conservatism_L] se změní o §G-5.00%§!" # todo: NEW TRANSLATION
+ ENG_wind_farms: "Větrné elektrárny" # todo: NEW TRANSLATION
+ ENG_solar_farms: "Solární elektrárny" # todo: NEW TRANSLATION
+ ENG_north_ireland: "Investice v Severním Irsku" # todo: NEW TRANSLATION
+ ENG_biras_creek_resort_M: "Letovisko Biras Creek" # todo: NEW TRANSLATION
+ ENG_desert_hawk_bonus: "Nákup Desert Hawk" # todo: NEW TRANSLATION
+ ENG_util_vehicle_bonus: "Modernizace užitkových vozidel" # todo: NEW TRANSLATION
+ ENG_NLAW_Bonus: "Systémy NLAW" # todo: NEW TRANSLATION
+ ENG_starstreak_bonus: "Starstreak" # todo: NEW TRANSLATION
+ ENG_as90_bonus: "AS90 Braveheart" # todo: NEW TRANSLATION
+ ENG_m270_bonus: "M270B1" # todo: NEW TRANSLATION
+ ENG_british_attempted_coup_on_us: "Převrat Wonga" # todo: NEW TRANSLATION
+ ENG_british_loyalist: "Motoho vláda" # todo: NEW TRANSLATION
+ ENG_british_loyalist_trade: "Britské ropné koncese (obchod)" # todo: NEW TRANSLATION
+ ENG_Caesar_Artillery_Program: "Dělostřelecký program Caesar" # todo: NEW TRANSLATION
+ ENG_Boxer_Development: "Společný vývoj vozidla Boxer" # todo: NEW TRANSLATION
+ ENG_K9A1_Order: "Obchod s K9A1" # todo: NEW TRANSLATION
+ ENG_Archer_Alliance: "Dělostřelecká aliance Archer" # todo: NEW TRANSLATION
+ ENG_charles_harmony: "Turné britského prince Charlese za harmonií" # todo: NEW TRANSLATION
+ ENG_charles_rainforest: "Britský princ Charles a ochrana deštných pralesů" # todo: NEW TRANSLATION
+ ENG_charles_environmental_tour: "Turné britského prince Charlese za ekologickou diplomacií" # todo: NEW TRANSLATION
  ENG_charles_agriculture_development: "Pomoc britského prince Charlese s ekologickým zemědělstvím" # todo: NEW TRANSLATION
  ENG_andrew_trade_representative: "Obchodní mise britského prince Edwarda" # todo: NEW TRANSLATION
  ENG_edward_commonwealth_youth_outreach: "Program britského prince Edwarda pro mládež" # todo: NEW TRANSLATION
@@ -1618,3 +2283,509 @@
  ENG_mixed_air_mio_trait_uav_mast_and_payload_modularity: "Modularita stožáru a nákladu" # todo: NEW TRANSLATION
  ENG_mixed_air_mio_trait_nuclear_final_assembly_streamlining: "Zefektivnění finální montáže" # todo: NEW TRANSLATION
  ENG_mixed_air_mio_trait_medium_aew_command_consoles: "Velitelské konzole AEW pro střední letouny" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_sa80_a3_increment: "Vylepšení SA80 A3" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_platform_integration_suite: "Integrační sada platformy" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_robust_recoil_systems: "Odolné systémy tlumení zpětného rázu" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_modular_common_components: "Modulární společné komponenty" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_quality_assurance_cells: "Buňky kontroly kvality" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_lean_line_balancing: "Štíhlé vyvažování výrobní linky" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_digital_technical_data_packages: "Digitální balíčky technických údajů" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_export_compliance_tooling: "Nástroje pro dodržování exportních předpisů" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_cold_hammer_forged_barrels: "Kováním za studena vyrobené hlavně" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_integrated_optics_rails: "Integrované lišty pro optiku" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_rugged_operating_group: "Odolná závěrová skupina" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_urban_cqb_kits: "Sady pro městský boj zblízka" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_field_maintenance_simplification: "Zjednodušení polní údržby" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_digital_fire_control: "Digitální řízení palby" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_extended_range_ammunition: "Munice s prodlouženým dostřelem" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_fast_emplacement_designs: "Konstrukce pro rychlé rozmístění" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_hardened_gun_carriages: "Zesílené lafety" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_modular_artillery_components: "Modulární dělostřelecké komponenty" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_sustained_fire_packages: "Sady pro dlouhodobou palbu" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_precision_counter_battery: "Přesná protibaterijní palba" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_era_tile_packages: "Sady bloků ERA" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_weight_optimised_protection: "Hmotnostně optimalizovaná ochrana" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_remote_weapon_stations: "Dálkově ovládané zbraňové stanice" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_atgm_ready_mounts: "Úchyty připravené pro PTŘS" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_spaa_radar_stabilisation: "Stabilizace radaru PLŘS" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_powerpack_uprates: "Vylepšení pohonných jednotek" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_armoured_fleet_commonality_capstone: "Unifikace obrněné flotily" # todo: NEW TRANSLATION
+ ENG_bae_mio_trait_rr_advanced_engine_management: "Pokročilé řízení motorů Rolls-Royce" # todo: NEW TRANSLATION
+ ENG_bae_aircraft_carrier_alliance_mio_trait_consortium_governance_framework: "Rámec řízení aliance výrobců letadlových lodí" # todo: NEW TRANSLATION
+ ENG_rolls_royce_manufacturer: "Rolls-Royce" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_company_core: "Pohonné systémy" # todo: NEW TRANSLATION
+ ENG_rolls_royce_air_manufacturer_trait: "$ENG_rolls_royce_mio_trait_company_core$" # todo: NEW TRANSLATION
+ ENG_rolls_royce_header_unlocks: "Integrace motorů" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_supacat: "Motory taktické mobility" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_rheinmetall: "Pohonné jednotky obrněných vozidel" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_general_dynamics: "Ověření těžkých pohonných ústrojí" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_thales: "Elektronická napájecí rozhraní" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_babcock: "Podpora námořního pohonu" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_aircraft_alliance: "Integrace pohonu letadlových lodí" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_harland_wolff: "Pomocný lodní pohon" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_bae: "Rozhraní leteckých motorů" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_leonardo: "Propojení pohonu rotorových letadel" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_airbus: "Integrace motorů širokotrupých letadel" # todo: NEW TRANSLATION
+ ENG_rolls_royce_mio_trait_unlock_boeing: "Podpora certifikace pohonných jednotek" # todo: NEW TRANSLATION
+ ENG_rolls_royce_unlock_tt: "Tento rys lze dokončit pouze dokončením rysů pro §Y$ENG_rolls_royce_manufacturer$§!" # todo: NEW TRANSLATION
+ ENG_qinetiq_manufacturer: "Qinetiq" # todo: NEW TRANSLATION
+ ENG_qinetiq_branch_secure_c2: "Bezpečné velení a řízení a misiové sítě" # todo: NEW TRANSLATION
+ ENG_qinetiq_branch_uav_autonomy: "Autonomie UAV a letecké konstrukce" # todo: NEW TRANSLATION
+ ENG_qinetiq_branch_uav_payloads: "Náklady UAV a síťově propojené účinky" # todo: NEW TRANSLATION
+ ENG_qinetiq_manufacturer_trait: "Dům systémové integrace" # todo: NEW TRANSLATION
+ ENG_qinetiq_material_manufacturer_trait: "$ENG_qinetiq_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_qinetiq_air_manufacturer_trait: "$ENG_qinetiq_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_secure_c2_mission_networks: "Bezpečné misiové sítě velení a řízení" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_type1_encryption_hardening: "Zesílení šifrování typu 1" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_multi_bearer_waveform_stack: "Vícenosný modul waveformů" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_arcd_self_healing_networks: "Samoopravné sítě" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_modular_open_systems_architecture: "Modulární architektura otevřených systémů" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_hardened_processors_and_io: "Zesílené procesory a I/O" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_edge_ai_fusion_nodes: "Fúzní uzly AI na okraji sítě" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_mission_data_management_core: "Jádro správy misiových dat" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_spectrum_deconfliction_tools: "Nástroje pro koordinaci spektra" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_secure_boot_chain: "Bezpečný řetězec spouštění" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_battle_damage_recovery_playbooks: "Postupy obnovy po bojovém poškození" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_naval_mission_systems_bridge: "Rozhraní námořních misiových systémů" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_serapis_rapid_capability_spiral: "Rychlý rozvoj schopností Serapis" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_synthetic_environment_integration: "Integrace syntetického prostředí" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_land_tactical_comms_engineering_cell: "Inženýrská skupina pozemní taktické komunikace" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_uav_autonomy_airframes: "Autonomie UAV a letecké konstrukce" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_caspa_autopilot_suite: "Sada autopilota CASPA" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_jet_powerpack_efficiency_tuning: "Ladění účinnosti proudových pohonných jednotek" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_composite_delta_structures: "Kompozitní delta konstrukce" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_parachute_recovery_and_turnaround: "Obnova pomocí padáku a rychlý obrat" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_hot_weather_launch_kits: "Startovací sady do horkého počasí" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_collaborative_autonomy_stack: "Modul spolupracující autonomie" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_zephyr_energy_management_heritage: "Dědictví řízení energie HAPS" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_uav_payloads_networked_effects: "Náklady UAV a síťově propojené účinky" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_maritime_search_radar_pods: "Radarové kontejnery pro námořní pátrání" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_precision_strike_integration: "Integrace přesných úderů" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_anti_jam_datalink_packages: "Sady datových spojení odolných proti rušení" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_standoff_relay_payloads: "Reléové náklady pro útok z odstupu" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_survivability_coatings_and_hardening: "Povlaky a zesílení pro zvýšení přežitelnosti" # todo: NEW TRANSLATION
+ ENG_qinetiq_mio_trait_swarm_mission_planner: "Plánovač misí roje" # todo: NEW TRANSLATION
+ ENG_mbda_manufacturer: "MBDA UK" # todo: NEW TRANSLATION
+ ENG_mbda_branch_sam: "Střely protivzdušné obrany" # todo: NEW TRANSLATION
+ ENG_mbda_branch_guided: "Řízené zbraně" # todo: NEW TRANSLATION
+ ENG_mbda_branch_ballistic: "Balistické úderné systémy" # todo: NEW TRANSLATION
+ ENG_mbda_manufacturer_trait: "Hlavní dodavatel komplexních zbraní" # todo: NEW TRANSLATION
+ ENG_mbda_air_manufacturer_trait: "$ENG_mbda_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_camm_family: "Rodina CAMM" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_soft_vertical_launch: "Měkký vertikální odpal" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_active_rf_seeker: "Aktivní radarový vyhledávač" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_sea_viper_intercept_logic: "Logika zachycení Sea Viper" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_camm_er_propulsion: "Pohon CAMM-ER" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_iad_network_gateways: "Brány sítě IAD" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_multimode_terminal_manoeuvres: "Terminální manévry s více režimy" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_targeting_uplink_fusion: "Fúze naváděcích dat" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_bolton_modular_line: "Modulární řada Bolton" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_sam_area_defence_capstone: "Vrcholný systém plošné obrany" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_meteor_active_rf: "Aktivní radar Meteor" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_brimstone_seeker_miniaturisation: "Miniaturizace vyhledávače Brimstone" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_sea_venom_terminal_guidance: "Terminální navádění Sea Venom" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_low_observable_airframe: "Těžko zjistitelný drak" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_spear_networked_attack: "Síťový útok SPEAR" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_storm_shadow_penetrator: "Průniková střela Storm Shadow" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_dual_pulse_motor: "Motor s dvojím impulzem" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_common_module_electronics: "Elektronika společných modulů" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_bolton_final_assembly: "Finální montáž Bolton" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_guided_precision_strike_capstone: "Vrcholný systém přesných úderů" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_theatre_strike_packages: "Balíčky úderů na bojišti" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_inertial_nav_updates: "Aktualizace inerciální navigace" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_high_energy_propulsion: "Vysokoenergetický pohon" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_reentry_vehicle_hardening: "Zodolnění návratového tělesa" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_penetration_aids: "Prostředky k překonání obrany" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_maneuvering_rv: "Manévrující návratové těleso" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_maritime_counterforce_packages: "Námořní protisilové balíčky" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_common_avionics_bus: "Společná avionická sběrnice" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_streamlined_structures: "Aerodynamicky upravené konstrukce" # todo: NEW TRANSLATION
+ ENG_mbda_mio_trait_ballistic_theatre_strike_capstone: "Vrcholný systém úderů na bojišti" # todo: NEW TRANSLATION
+ ENG_leonardo_manufacturer: "Leonardo UK" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_rr_integrated_power_generation: "Integrovaná výroba energie Rolls-Royce" # todo: NEW TRANSLATION
+ ENG_leonardo_branch_rotary: "Systémy vrtulníků" # todo: NEW TRANSLATION
+ ENG_leonardo_branch_light_air: "Elektronika lehkých letounů" # todo: NEW TRANSLATION
+ ENG_leonardo_branch_medium_air: "Senzory bojových letounů" # todo: NEW TRANSLATION
+ ENG_leonardo_manufacturer_trait: "Letecký integrátor" # todo: NEW TRANSLATION
+ ENG_leonardo_air_manufacturer_trait: "$ENG_leonardo_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_leonardo_tank_manufacturer_trait: "$ENG_leonardo_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_yeovil_rotary_wing_prime: "Hlavní dodavatel vrtulníků Yeovil" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_aw101_merlin_mission_suite: "Mise systémů AW101 Merlin" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_aw159_wildcat_maritime_fit: "Námořní konfigurace AW159 Wildcat" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_shipboard_handling_kits: "Soupravy pro manipulaci na palubě" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_fly_by_wire_afcs: "AFCS s řízením fly-by-wire" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_defensive_aids_integration: "Integrace obranných prostředků" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_hot_and_high_rotor_blades: "Rotorové listy pro horké a vysoké prostředí" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_modular_role_wiring_looms: "Modulární kabelové svazky podle určení" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_yeovil_through_life_support: "Celoživotní podpora Yeovil" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_rotary_wing_capability_spiral: "Rozvoj schopností vrtulníků" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_fighter_defensive_aids: "Obranné prostředky stíhaček" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_irst_cueing: "Naváděcí logika IRST" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_britecloud_decoy_suite: "Souprava klamných cílů BriteCloud" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_hmss_symbology: "Symbolika HMSS" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_hobs_integration: "Integrace střelby mimo osu zaměření" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_seaspray_maritime_modes: "Námořní režimy Seaspray" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_weight_saving_airframe_kits: "Odlehčené soupravy draku" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_maintainability_access_panels: "Přístupové panely pro údržbu" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_digital_avionics_line: "Řada digitální avioniky" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_light_agile_fighter_spiral: "Rozvoj schopností obratných stíhaček" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_ecrs_mk2_aesa: "ECRS Mk2 AESA" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_electronic_attack_modes: "Režimy elektronického útoku" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_meteor_interface_optimisation: "Optimalizace rozhraní Meteor" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_wideband_ew_suite: "Širokopásmová souprava elektronického boje" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_precision_strike_targeting_pods: "Zaměřovací kontejnery pro přesné údery" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_standoff_strike_integration: "Integrace odstupových úderů" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_maritime_search_and_strike_modes: "Režimy námořního vyhledávání a úderů" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_conformal_tanks_and_management: "Konformní nádrže a jejich řízení" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_fadec_and_thrust_trim: "FADEC a regulace tahu" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_medium_digital_thread_assembly: "Montáž pomocí digitálního výrobního řetězce" # todo: NEW TRANSLATION
+ ENG_leonardo_mio_trait_typhoon_capability_spiral: "Rozvoj schopností Typhoonu" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_branch_skunkworks: "Stíhací systémy Skunk Works" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_branch_precision_at: "Přesné protitankové řízené střely" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_branch_rocket_artillery: "Raketové dělostřelecké systémy" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_manufacturer_trait: "Hlavní dodavatel Skunk Works" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_air_manufacturer_trait: "$ENG_lockheed_martin_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_tank_manufacturer_trait: "$ENG_lockheed_martin_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_material_manufacturer_trait: "$ENG_lockheed_martin_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_skunk_works_air_dominance: "Vzdušná převaha Skunk Works" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_sensor_fusion_core: "Jádro fúze senzorů" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_low_observable_surface_finishes: "Povrchové úpravy s nízkou zjistitelností" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_hmcs_and_hobs_integration: "Integrace HMCS a HOBS" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_aesa_and_missile_cueing: "AESA a navádění střel" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_networked_datalinks: "Síťová datová spojení" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_maritime_strike_modes: "Režimy námořních úderů" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_strike_fighter_weapons_integration: "Integrace výzbroje úderných stíhaček" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_life_cycle_maintainability: "Udržovatelnost po celou dobu životního cyklu" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_skunkworks_digital_spiral: "Digitální rozvoj Skunk Works" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_precision_atgm_prime: "Hlavní dodavatel přesných PTŘS" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_javelin_tandem_warhead: "Tandemová hlavice Javelin" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_imaging_ir_seeker_stack: "Systém obrazového infračerveného vyhledávače" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_soft_launch_and_backblast_control: "Řízení měkkého odpalu a zpětného proudu" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_fire_and_forget_guidance_logic: "Logika navedení typu vystřel a zapomeň" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_hellfire_sal_package: "Poloaktivní laserový balíček Hellfire" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_rugged_launch_units: "Odolná odpalovací zařízení" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_modular_seeker_manufacturing: "Modulární výroba vyhledávačů" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_precision_warhead_qc: "Kontrola kvality přesných bojových hlavic" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_atgm_program_office: "Programová kancelář PTŘS" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_himars_m270_heritage: "Dědictví systémů HIMARS/M270" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_gmlrs_guidance_kits: "Naváděcí soupravy GMLRS" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_atacms_strike_packages: "Úderné balíčky ATACMS" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_prsm_growth_path: "Rozvojová cesta PrSM" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_pod_commonality_logistics: "Společná logistika kontejnerů odpalovacích zařízení" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_shoot_and_scoot_drills: "Cvičení rychlého odpalu a přesunu" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_counterfire_survivability_kits: "Soupravy pro přežití proti palbě z protibaterijních zbraní" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_factory_calibration_routines: "Postupy tovární kalibrace" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_precision_rocket_qc: "Kontrola kvality přesných raket" # todo: NEW TRANSLATION
+ ENG_lockheed_martin_mio_trait_rapid_modernization_office: "Kancelář rychlé modernizace" # todo: NEW TRANSLATION
+ ENG_raytheon_manufacturer: "Raytheon UK" # todo: NEW TRANSLATION
+ ENG_raytheon_branch_precision_strike: "Přesné údery a taktické protitankové zbraně" # todo: NEW TRANSLATION
+ ENG_raytheon_branch_guided_missiles: "Řízené střely a vyhledávače" # todo: NEW TRANSLATION
+ ENG_raytheon_manufacturer_trait: "Hlavní dodavatel systémů Raytheon" # todo: NEW TRANSLATION
+ ENG_raytheon_materiel_manufacturer_trait: "$ENG_raytheon_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_raytheon_air_manufacturer_trait: "$ENG_raytheon_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_precision_strike_portfolio: "Portfolio přesných úderů" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_javelin_clu_thermal_processing: "Tepelné zpracování CLU Javelin" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_tandem_warhead_scaling: "Škálování tandemových hlavic" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_fuzing_and_terminal_logic: "Zapalování a terminální logika" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_seeker_ruggedization_line: "Řada odolných vyhledávačů" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_top_attack_flight_profiles: "Letové profily útoku shora" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_launch_unit_common_interfaces: "Společná rozhraní odpalovacích zařízení" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_manportable_recoil_management: "Řízení zpětného rázu přenosných zbraní" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_overmatch_anti_armor_package: "Balíček protitankové převahy" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_component_modularity_program: "Program modularity komponent" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_production_line_yield_improvement: "Zlepšení výtěžnosti výrobní linky" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_integration_test_cells: "Integrační zkušební stanoviště" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_tactical_missile_program_management: "Řízení programu taktických střel" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_warhead_liner_metallurgy: "Metalurgie vložek bojových hlavic" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_urban_assault_shaped_charge_kits: "Sady kumulativních náloží pro boj ve městech" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_guided_missile_portfolio: "Portfolio řízených střel" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_multimode_seeker_packages: "Balíčky víceúčelových vyhledávačů" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_terrain_contour_navigation: "Navigace podle profilu terénu" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_terminal_weave_maneuvers: "Terminální kličkovací manévry" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_maritime_target_cueing: "Navádění na námořní cíle" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_low_observable_cruise_airframe: "Těžko zjistitelný drak řízené střely" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_standoff_precision_strike: "Odstupový přesný úder" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_digital_engineering_pipeline: "Digitální inženýrský řetězec" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_missile_program_office: "Programová kancelář střel" # todo: NEW TRANSLATION
+ ENG_raytheon_mio_trait_vls_launch_compatibility: "Kompatibilita s odpalem z VLS" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_rr_electrical_power_management: "Řízení elektrické energie Rolls-Royce" # todo: NEW TRANSLATION
+ ENG_airbus_manufacturer: "Airbus Defence & Space" # todo: NEW TRANSLATION
+ ENG_airbus_branch_helicopter_systems: "Vrtulníkové systémy" # todo: NEW TRANSLATION
+ ENG_airbus_branch_airlift_and_tankers: "Vzdušná přeprava a tankery" # todo: NEW TRANSLATION
+ ENG_airbus_branch_special_missions: "Speciální mise" # todo: NEW TRANSLATION
+ ENG_airbus_manufacturer_trait: "Evropské letecké konstrukce" # todo: NEW TRANSLATION
+ ENG_airbus_tank_manufacturer_trait: "$ENG_airbus_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_airbus_air_manufacturer_trait: "$ENG_airbus_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_modular_heli_mission_suite: "Modulární systém misí" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_hforce_weapon_interfaces: "Integrace HForce" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_four_axis_autopilot: "Čtyřosý autopilot" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_crashworthy_fuel_systems: "Palivový systém odolný proti haváriím" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_maritime_corrosion_packages: "Soupravy ochrany proti námořní korozi" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_fenestron_signature_tuning: "Úprava charakteristik Fenestronu" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_aux_tank_range_kits: "Soupravy přídavných nádrží pro zvýšení doletu" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_hot_and_high_engine_controls: "Řízení motoru pro horké a vysoké prostředí" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_ir_suppression_and_coatings: "Povlaky pro potlačení infračerveného vyzařování" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_hums_and_turnaround_packages: "Balíčky HUMS a rychlého obratu" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_a400m_airlift_systems: "Jádro systémů vzdušné přepravy" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_fly_by_wire_transport_laws: "Zákony řízení transportních letounů fly-by-wire" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_cargo_handling_roll_on_roll_off: "Systém manipulace s nákladem" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_austere_field_kit: "Souprava pro odlehlá letiště" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_voyager_tanker_pods: "Tankovací kontejnery Voyager" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_medevac_quick_change_modules: "Rychle výměnné moduly zdravotnické evakuace" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_satcom_and_mission_planning: "Plánování misí pomocí SATCOM" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_composite_wingbox_weight_saving: "Kompozitní skříň křídla" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_defensive_aids_suite_integration: "Integrace DAS" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_dircm_and_maws_packages: "DIRCM a MAWS" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_low_probability_intercept_datalinks: "Datová spojení s nízkou pravděpodobností zachycení" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_modular_ew_pods_roadmap: "Modulární kontejnery elektronického boje" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_long_endurance_fuel_management: "Řízení paliva" # todo: NEW TRANSLATION
+ ENG_airbus_mio_trait_global_mro_and_readiness: "Globální síť MRO" # todo: NEW TRANSLATION
+ ENG_boeing_manufacturer: "Boeing UK" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_rr_high_bypass_engine_packages: "Soupravy motorů Rolls-Royce s vysokým obtokovým poměrem" # todo: NEW TRANSLATION
+ ENG_boeing_branch_rotary_wing: "Vrtulníkové systémy" # todo: NEW TRANSLATION
+ ENG_boeing_branch_heavy_aircraft: "Systémy těžkých letounů" # todo: NEW TRANSLATION
+ ENG_boeing_manufacturer_trait: "Integrace obranných systémů Boeing" # todo: NEW TRANSLATION
+ ENG_boeing_tank_manufacturer_trait: "$ENG_boeing_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_boeing_air_manufacturer_trait: "$ENG_boeing_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_rotary_wing_systems: "Vrtulníkové systémy" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_ch47f_block_ii_lift_kits: "Zvedací soupravy CH-47F Block II" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_advanced_blade_geometry: "Pokročilá geometrie listů" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_hot_and_high_power_management: "Řízení výkonu pro horké a vysoké prostředí" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_combat_survivability_suite: "Souprava bojové odolnosti" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_max_payload_output_package: "Balíček maximální nosnosti" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_mh47g_low_observable_packages: "Soupravy MH-47G s nízkou zjistitelností" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_rapid_field_maintainability: "Rychlá polní údržba" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_digital_flight_control_laws: "Digitální zákony řízení letu" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_rotary_wing_supply_chain_scaling: "Rozšíření dodavatelského řetězce vrtulníků" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_rotary_wing_integration_office: "Integrační kancelář vrtulníků" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_heavy_aircraft_systems: "Systémy těžkých letounů" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_p8_mission_systems_integration: "Integrace systémů misí P-8" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_767_tanker_structural_reinforcement: "Konstrukční zesílení tankeru 767" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_extended_range_aux_tanks: "Přídavné nádrže pro prodloužený dolet" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_high_cycle_maintenance_program: "Program údržby s vysokým počtem cyklů" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_hardened_self_protection_suite: "Zodolněná souprava vlastní ochrany" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_composite_panels_and_wingkits: "Kompozitní panely a soupravy křídel" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_low_drag_pylon_and_fairings: "Pylony a kryty s nízkým odporem" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_cockpit_commonality_refits: "Úpravy pro sjednocení kokpitů" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_long_endurance_ops_concept: "Koncept operací s dlouhou vytrvalostí" # todo: NEW TRANSLATION
+ ENG_boeing_mio_trait_global_support_and_sustainment: "Globální podpora a udržování" # todo: NEW TRANSLATION
+ ENG_awe_manufacturer: "Atomic Weapons Establishment" # todo: NEW TRANSLATION
+ ENG_awe_branch_warhead_stewardship: "Správa bojových hlavic" # todo: NEW TRANSLATION
+ ENG_awe_branch_ballistic_delivery: "Balistické nosiče" # todo: NEW TRANSLATION
+ ENG_awe_branch_nuclear_missile_packages: "Balíčky jaderných střel" # todo: NEW TRANSLATION
+ ENG_awe_manufacturer_trait: "Atomic Weapons Establishment" # todo: NEW TRANSLATION
+ ENG_awe_air_manufacturer_trait: "$ENG_awe_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_warhead_stewardship: "Správa bojových hlavic" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_surety_and_safety_case: "Bezpečnost a bezpečnostní dokumentace" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_pit_and_component_production_modernisation: "Modernizace výroby komponent" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_abnormal_environment_qualification: "Kvalifikace pro mimořádná prostředí" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_system_level_surety_audits: "Systémové bezpečnostní audity" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_modular_subassemblies_and_tooling: "Modulární podsestavy" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_lean_quality_gate_process: "Štíhlé kontrolní brány kvality" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_ballistic_delivery_systems: "Balistické nosné systémy" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_reentry_vehicle_hardening: "Zodolnění návratového tělesa" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_extended_burn_energy_management: "Řízení energie prodlouženého hoření" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_decoy_and_countermeasure_packages: "Balíčky klamných cílů a protiopatření" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_navigation_and_guidance_validation: "Ověřování navigace a navádění" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_aerothermal_modelling_suite: "Souprava aerotermálního modelování" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_warhead_integration_and_vibration_isolation: "Izolace rozhraní bojové hlavice" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_nuclear_missile_packages: "Balíčky jaderných střel" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_penetration_and_ew_packages: "Balíčky průniku a elektronického boje" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_long_range_endurance_package: "Balíček dlouhého doletu a vytrvalosti" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_low_observable_thermal_management: "Tepelné řízení s nízkou zjistitelností" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_standoff_release_authorisation_procedures: "Postupy povolení odstupového odpalu" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_autonomous_route_planning: "Autonomní plánování trasy" # todo: NEW TRANSLATION
+ ENG_awe_mio_trait_warhead_missile_interface_standardisation: "Standardizace rozhraní" # todo: NEW TRANSLATION
+ ENG_accuracy_manufacturer: "Accuracy International" # todo: NEW TRANSLATION
+ ENG_accuracy_branch_precision_rifles: "Přesné pušky" # todo: NEW TRANSLATION
+ ENG_accuracy_branch_suppressor_and_signature: "Tlumiče a charakteristický podpis" # todo: NEW TRANSLATION
+ ENG_accuracy_branch_production_and_qc: "Výroba a kontrola kvality" # todo: NEW TRANSLATION
+ ENG_accuracy_manufacturer_trait: "Specialisté na pušky" # todo: NEW TRANSLATION
+ ENG_accuracy_materiel_manufacturer_trait: "$ENG_accuracy_manufacturer_trait$" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_precision_rifles: "Přesné pušky" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_match_grade_barrel_blanks: "Výkovky hlavní soutěžní kvality" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_free_floated_handguard_interface: "Rozhraní volně plovoucího předpažbí" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_muzzle_brake_recoil_management: "Řízení zpětného rázu úsťovou brzdou" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_lightweight_profile_barrel: "Lehká hlaveň" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_cold_hammer_forged_process: "Proces kování za studena" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_precision_trigger_geometry: "Přesná geometrie spouště" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_fieldable_accuracy_checks: "Terénní kontroly přesnosti" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_suppressor_and_signature: "Tlumiče a charakteristický podpis" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_low_backpressure_baffle_stack: "Sestava přepážek s nízkým protitlakem" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_quick_detach_mount_standard: "Standard rychloupínací montáže" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_direct_thread_concentricity: "Soustřednost přímého závitu" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_flash_signature_reduction: "Snížení světelného podpisu" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_subsonic_ammunition_compatibility: "Kompatibilita s podzvukovým střelivem" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_end_user_zero_shift_tests: "Testy posunu nástřelu koncovým uživatelem" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_production_and_qc: "Výroba a kontrola kvality" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_cnc_programming_and_fixturing: "Programování CNC a přípravky" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_supply_chain_lot_traceability: "Dohledatelnost výrobních šarží v dodavatelském řetězci" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_hand_fitted_quality_gates: "Kontrolní brány ručního slícování" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_modular_parts_interchangeability: "Vzájemná zaměnitelnost modulárních dílů" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_finish_and_coating_line: "Linka povrchových úprav a nátěrů" # todo: NEW TRANSLATION
+ ENG_accuracy_mio_trait_gauge_control_and_spc: "Kontrola měřidel a SPC" # todo: NEW TRANSLATION
+ raid_type_ENG_raid_nigeria: "Operace Delta Guard" # todo: NEW TRANSLATION
+ raid_type_ENG_raid_nigeria_desC: "Nestabilní nigerijská vláda prokázala neschopnost spravovat ropná pole v okolí delty. V důsledku toho budeme muset zasáhnout a podniknout kroky k obnovení stability." # todo: NEW TRANSLATION
+ raid_type_ENG_raid_zimbabwe: "Operace Safeguard" # todo: NEW TRANSLATION
+ raid_type_ENG_raid_zimbabwe_desc: "Tyran vládnoucí Zimbabwe musí být okamžitě svržen, protože mu nelze svěřit vládu nad zemí. Jeho jednání proti lidem britského původu i původnímu zimbabwskému obyvatelstvu prokázalo, že nemá žádné hranice a je zjevně ochoten překročit ty naše." # todo: NEW TRANSLATION
+ raid_type_ENG_Wonga_Coup: "Operace Epic Fuck-Up" # todo: NEW TRANSLATION
+ raid_type_ENG_Wonga_Coup_desc: "Operace Epic Fuck-Up má být pravým opakem svého názvu. Malá síla žoldnéřů, finančníků a místních spojenců se pokusí odstranit vládu Rovníkové Guineje a dosadit příznivější správu." # todo: NEW TRANSLATION
+ ENG_seize_oil_wonga_coup_TT: "§HOdemkne nový nájezd§!: Operace Epic Fuck-Up\n - [ENG.GetFlag] Britské speciální jednotky budou moci zasáhnout a svrhnout [EGU.GetLeader] z [EGU.GetFlag] Rovníkové Guineje a nahradit ho britským chráněncem, silným mužem Severem Moto Nsá.\n\nPokud bude operace Epic Fuck-Up úspěšná\n - Zmocníme se jejich zdrojů ve státě §H$STATE_319$§! (tedy ropy, pokud jste příliš líní se podívat)" # todo: NEW TRANSLATION
+ ENG_election_unlock_tt: "§YTento fokus lze odemknout, jakmile bude volbami vytvořena nová vláda§!" # todo: NEW TRANSLATION
+ ENG_royal_armed_forces_review: "Revize královských ozbrojených sil" # todo: NEW TRANSLATION
+ ENG_royal_armed_forces_review_desc: "Ozbrojené síly Koruny si zaslouží víc než ceremoniální prestiž. Systematická revize doktríny, výcvikových standardů a připravenosti všech tří složek znovu vybuduje královské ozbrojené síly jako důvěryhodnou bojovou sílu hodnou monarchie." # todo: NEW TRANSLATION
+ ENG_household_division_revival: "Obnova gardové divize" # todo: NEW TRANSLATION
+ ENG_household_division_revival_desc: "Gardová divize byla dlouho hrotem britské armády. Obnova jejích tradic a rozšíření její role obnoví elitní jádro vojska, jehož kvalita, disciplína a esprit de corps jej odlišují od hlavních sil." # todo: NEW TRANSLATION
+ ENG_jewel_of_the_admiralty: "Klenot Admirality" # todo: NEW TRANSLATION
+ ENG_jewel_of_the_admiralty_desc: "Královské námořnictvo je nejstarším symbolem projekce britské moci. Opětovné investice do jeho velkých lodí, prodloužení jejich operačního dosahu a obnova institucionální kultury světu signalizují, že Britannia stále vládne vlnám." # todo: NEW TRANSLATION
+ ENG_wings_of_the_crown: "Křídla Koruny" # todo: NEW TRANSLATION
+ ENG_wings_of_the_crown_desc: "Královské letectvo se zrodilo v žáru první světové války a ve druhé světové válce sehrálo rozhodující úlohu. Obnovené investice do výcviku pilotů, doktríny vzdušného boje a rozvoje leteckých es zajistí, že vzdušná převaha zůstane pilířem britské obrany." # todo: NEW TRANSLATION
+ ENG_imperial_general_staff_restored: "Obnovený císařský generální štáb" # todo: NEW TRANSLATION
+ ENG_imperial_general_staff_restored_desc: "Císařský generální štáb kdysi koordinoval pozemní, námořní a leteckou moc napříč globálním impériem. Obnovení jednotné struktury společného velení podřídí ozbrojené síly jediné strategické vizi a maximalizuje jejich společnou účinnost." # todo: NEW TRANSLATION
+ ENG_reservist_corps_act: "Zákon o záložním sboru" # todo: NEW TRANSLATION
+ ENG_reservist_corps_act_desc: "Britské záložní síly byly dlouhodobě nedostatečně využívaným zdrojem. Nový zákon o záložním sboru formalizuje odvodní cíle, urychlí mobilizační postupy a pevněji propojí záložní jednotky s jejich protějšky v pravidelné armádě." # todo: NEW TRANSLATION
+ ENG_global_anglosphere_initiative: "Globální iniciativa anglosféry" # todo: NEW TRANSLATION
+ ENG_global_anglosphere_initiative_desc: "Anglicky mluvící národy sdílejí víc než společný jazyk: sdílejí právní tradice, demokratické instituce a historická pouta utvářená po staletí. Koordinovaná iniciativa anglosféry poskytne Koruně diplomatickou platformu k prohloubení těchto vazeb a posílení britského vlivu od Ottawy po Canberru." # todo: NEW TRANSLATION
+ ENG_crown_realm_status: "Královská říše" # todo: NEW TRANSLATION
+ ENG_crown_realm_status_desc: "Tento národ uznává britského monarchu jako hlavu státu. Ústavní uspořádání poskytuje politickou stabilitu a úzké vazby na Commonwealth." # todo: NEW TRANSLATION
+ ENG_crown_realm_monthly_influence_tt: "Měsíční britský vliv: §R+4%§!" # todo: NEW TRANSLATION
+ ENG_crown_diplomatic_corps: "Diplomatický sbor Koruny" # todo: NEW TRANSLATION
+ ENG_crown_diplomatic_corps_desc: "Vyhrazený sbor královských vyslanců, vybraných z nejlepších diplomatických talentů, které může Británie nabídnout, bude přímo zastupovat zájmy Koruny u zahraničních dvorů a v hlavních městech. Jejich úkolem je zlepšovat vztahy, usnadňovat jednání a zajistit, aby hlas Koruny měl váhu v každém koutě světa." # todo: NEW TRANSLATION
+ ENG_royal_visits_abroad: "Královské návštěvy v zahraničí" # todo: NEW TRANSLATION
+ ENG_royal_visits_abroad_desc: "Dobře načasované královské turné může dosáhnout toho, co měsíce tiché diplomacie nedokážou. Osobní přítomnost monarchy v zahraničí signalizuje odhodlání, vytváří dobrou vůli a zanechává trvalý dojem na vládách i obyvatelstvu." # todo: NEW TRANSLATION
+ ENG_pax_britannica_reborn: "Znovuzrozená Pax Britannica" # todo: NEW TRANSLATION
+ ENG_pax_britannica_reborn_desc: "Pax Britannica devatenáctého století byla vybudována na námořní převaze, kulturní prestiži a bezkonkurenčním diplomatickém dosahu. Obnovou monarchie, přesměrováním anglosféry a obnoveným závazkem ke globálnímu působení může Británie obnovit moderní obdobu: éru stability podloženou britskou mocí a cílevědomostí." # todo: NEW TRANSLATION
+ ENG_royal_visits.1.t: "Královské turné" # todo: NEW TRANSLATION
+ ENG_royal_visits.1.d: "Poradci monarchy předkládají užší seznam oblastí, kde by královské turné přineslo největší diplomatický užitek. Volba určí, kam bude soustředěna britská měkká síla a které vlády budou těžit z osobní pozornosti Koruny." # todo: NEW TRANSLATION
+ ENG_royal_visits.1.a: "Navštívit Afriku" # todo: NEW TRANSLATION
+ ENG_royal_visits.1.b: "Navštívit jižní a jihovýchodní Asii" # todo: NEW TRANSLATION
+ ENG_royal_visits.1.c: "Navštívit Blízký východ" # todo: NEW TRANSLATION
+ ENG_royal_visits.1.e: "Navštívit Latinskou Ameriku" # todo: NEW TRANSLATION
+ ENG_crown_diplomatic_corps_idea: "Diplomatický sbor Koruny" # todo: NEW TRANSLATION
+ ENG_crown_diplomatic_corps_idea_desc: "Aktivní sbor královských vyslanců působí v zahraničí, udržuje osobní kontakty se zahraničními vládami a napomáhá diplomatické agendě Koruny. Jejich přítomnost snižuje náklady na udržování vztahů a vytváří stálý přísun politického kapitálu." # todo: NEW TRANSLATION
+ ENG_army_field_exercise: "Každoroční polní cvičení" # todo: NEW TRANSLATION
+ ENG_army_field_exercise_desc: "Brigády britské armády provádějí rozsáhlá polní cvičení, aby zdokonalily schopnosti kombinovaných zbraní a zvýšily připravenost." # todo: NEW TRANSLATION
+ ENG_army_engineering_corps: "Program bojového ženijního vojska" # todo: NEW TRANSLATION
+ ENG_army_engineering_corps_desc: "Investice do výcviku a vybavení bojových ženistů zlepšují schopnost armády působit v obtížném terénu." # todo: NEW TRANSLATION
+ ENG_armoured_tactics_programme: "Program obrněné taktiky" # todo: NEW TRANSLATION
+ ENG_armoured_tactics_programme_desc: "Cvičení spojující nová obrněná vozidla s pěchotou a dělostřelectvem zdokonalují doktrínu moderního obrněného boje." # todo: NEW TRANSLATION
+ ENG_energy_transition_programme: "Program energetické transformace" # todo: NEW TRANSLATION
+ ENG_energy_transition_programme_desc: "Celovládní strategie urychlení přechodu k nízkouhlíkové energetice posiluje důvěru veřejnosti a průmyslové investice." # todo: NEW TRANSLATION
+ ENG_critical_materials_reserve: "Rezerva kritických materiálů" # todo: NEW TRANSLATION
+ ENG_critical_materials_reserve_desc: "Vládou podporované zásoby kritických průmyslových materiálů chrání britskou výrobu před narušením dodavatelských řetězců." # todo: NEW TRANSLATION
+ ENG_research_excellence_awards: "Ceny za excelenci ve výzkumu" # todo: NEW TRANSLATION
+ ENG_research_excellence_awards_desc: "Soutěžní granty pro univerzity a výzkumné ústavy podporují pokrok v elektronice a digitálních technologiích." # todo: NEW TRANSLATION
+ britain_md.300.t: "Stavební kameny pod návrhem" # todo: NEW TRANSLATION
+ britain_md.300.d: "Arm kupuje společnost Artisan Components a přechází od návrhů procesorů k fyzickým knihovnám, které každý návrh promění ve skutečný křemík. Je to posun výše v hodnotovém řetězci a odklon od čistě licenčního podnikání. Ministerstvo financí musí rozhodnout, zda se britská podpora výzkumu bude vztahovat i na tuto oblast." # todo: NEW TRANSLATION
+ britain_md.300.a: "Rozšiřte podporu výzkumu na fyzický návrh" # todo: NEW TRANSLATION
+ britain_md.300.b: "Nechte akvizici stát na jejích obchodních přednostech" # todo: NEW TRANSLATION
+ britain_md.301.t: "Procesor v každé kapse" # todo: NEW TRANSLATION
+ britain_md.301.d: "Jádro Arm je v centru nového telefonu společnosti Apple a téměř každého konkurenta, který bude následovat. Licenční poplatek za každý čip se počítá v pencích, zatímco objem v miliardách. Cambridge vytvořil něco, na čem nyní závisí celé odvětví, aniž by cokoli z toho vlastnil." # todo: NEW TRANSLATION
+ britain_md.301.a: "Financujte kolem něj cambridgeské návrhářské centrum" # todo: NEW TRANSLATION
+ britain_md.301.b: "Nechte licenční model, aby se uživil sám" # todo: NEW TRANSLATION
+ britain_md.302.t: "Šedesát čtyři bitů" # todo: NEW TRANSLATION
+ britain_md.302.d: "ARMv8 posouvá architekturu Arm na 64 bitů a s ní i do serverů a datových center, kterým Intel dominuje bez vážného konkurenta. Whitehall může postavit veřejnou výpočetní infrastrukturu na britské architektuře, nebo tuto otázku přenechat trhu. Jedinou pákou, která dokáže jednat tak rychle, jsou veřejné zakázky." # todo: NEW TRANSLATION
+ britain_md.302.a: "Zaveďte architekturu do veřejné výpočetní infrastruktury" # todo: NEW TRANSLATION
+ britain_md.302.b: "Zachovejte komerční neutralitu platformy" # todo: NEW TRANSLATION
+ britain_md.303.t: "Nabídka SoftBank" # todo: NEW TRANSLATION
+ britain_md.303.d: "SoftBank nabídla za Arm 24,3 miliardy liber, s prémií, které se žádný britský kupující nevyrovná, a se závazky ohledně sídla i počtu zaměstnanců v Británii. Společnost zůstane v Cambridge. Vlastnictví už britské nezůstane." # todo: NEW TRANSLATION
+ britain_md.303.a: "Před dokončením prodeje získejte státní podíl" # todo: NEW TRANSLATION
+ britain_md.303.b: "Přijměte závazky a nechte prodej pokračovat" # todo: NEW TRANSLATION
+ britain_md.304.t: "Čtyřicet miliard dolarů za Arm" # todo: NEW TRANSLATION
+ britain_md.304.d: "Nvidia se dohodla na koupi společnosti Arm od SoftBank. Vlastní licencovatelé společnosti Arm, kteří s Nvidií soutěží na každém významném trhu, se veřejně ptají, jaká neutralita by po prodeji zůstala. Rozhodnutí náleží úřadu pro hospodářskou soutěž a ministrům, kteří mu dávají pokyny." # todo: NEW TRANSLATION
+ britain_md.304.a: "Schvalte prodej se závaznými pravidly chování" # todo: NEW TRANSLATION
+ britain_md.304.b: "Předejte případ z důvodů národní bezpečnosti" # todo: NEW TRANSLATION
+ britain_md.305.t: "Kde bude Arm kótován" # todo: NEW TRANSLATION
+ britain_md.305.d: "SoftBank znovu uvádí Arm na burzu a zvolila New York. Londýnu bylo jasně řečeno, že jeho pravidla pro kotaci, váhy indexů a investorská základna by nedokázaly udržet největší technologickou společnost, jakou Británie vytvořila. Udržet kotaci doma by znamenalo přepsat všechny tři." # todo: NEW TRANSLATION
+ britain_md.305.a: "Reformujte pravidla kotace a ukotvěte kotaci v Londýně" # todo: NEW TRANSLATION
+ britain_md.305.b: "Přijměte kotaci v New Yorku a zachovejte sídlo" # todo: NEW TRANSLATION
+ britain_md.306.t: "Čím se Arm stal" # todo: NEW TRANSLATION
+ britain_md.306.d: "Čtvrtstoletí licencování, převzetí a kotací rozhodlo, čím Arm je: kdo vlastní cambridgeskou společnost, jejíž architektura je uvnitř téměř každého telefonu na světě, a která burza jí stanovuje cenu." # todo: NEW TRANSLATION
+ britain_md.306.a: "Suverénní podíl v architektuře" # todo: NEW TRANSLATION
+ britain_md.306.b: "Architektura platformy někoho jiného" # todo: NEW TRANSLATION
+ britain_md.306.c: "Kótována doma" # todo: NEW TRANSLATION
+ britain_md.306.e: "Ostrov, který licencuje celý svět" # todo: NEW TRANSLATION
+ ENG_arm_sovereign_architecture_stake: "Suverénní podíl v architektuře" # todo: NEW TRANSLATION
+ ENG_arm_sovereign_architecture_stake_desc: "Stát vlastní podíl ve společnosti, na jejíž instrukční sadě svět staví, a má právo veta nad jejím dalším směřováním. Podíl vynáší méně, než by vynášel na trhu, a kupuje něco, co trh neprodává." # todo: NEW TRANSLATION
+ ENG_arm_foreign_platform_architecture: "Architektura zahraniční platformy" # todo: NEW TRANSLATION
+ ENG_arm_foreign_platform_architecture_desc: "Arm nyní patří větší společnosti a její plán rozvoje slouží především křemíku této společnosti. Vývoj stále probíhá v Cambridge, v měřítku, které by žádný nezávislý poskytovatel licencí nedokázal financovat, a za podmínek někoho jiného." # todo: NEW TRANSLATION
+ ENG_arm_listed_at_home: "Kótována doma" # todo: NEW TRANSLATION
+ ENG_arm_listed_at_home_desc: "Kotace zůstala v Londýně a pravidla byla přepsána, aby tomu tak zůstalo. Burza konečně získala technologickou kotvu a reformy, které ji přilákaly, platí pro všechny, kdo se kótují později." # todo: NEW TRANSLATION
+ ENG_arm_licensing_island: "Ostrov, který licencuje celý svět" # todo: NEW TRANSLATION
+ ENG_arm_licensing_island_desc: "Návrhy jsou britské, vlastníci nikoli a akcie se obchodují v New Yorku. Británie si ponechává inženýry, licenční poplatky a pověst, ale žádnou kontrolu, která jí byla dvakrát dostupná a dvakrát odmítnutá." # todo: NEW TRANSLATION
+ ENG_scottish_agitation_rising_tt: "Skotské nepokoje přesahují 10." # todo: NEW TRANSLATION
+ ENG_north_irish_agitation_rising_tt: "Nepokoje v Severním Irsku přesahují 10." # todo: NEW TRANSLATION
+ ENG_wales_agitation_rising_tt: "Nepokoje ve Walesu přesahují 10." # todo: NEW TRANSLATION
+ ENG_scottish_referendum_pressure: "Výzvy ke skotskému referendu" # todo: NEW TRANSLATION
+ ENG_scottish_referendum_pressure_desc: "Skotský parlament má většinu podporující nezávislost a argument pro Unii se již neozývá nikde, kde by ho veřejnost mohla slyšet. V Holyroodu se připravuje návrh zákona o referendu. Westminster má rok na to, aby ústavní otázka působila méně naléhavě než účet za elektřinu, ať už získáním podpory ve Skotsku, nebo tím, že skotské finance viditelně učiní závislými na ministerstvu financí. Pokud bude tlak po dozrání kampaně stále vyšší než 60, požadavek se stane formálním a musíme na něj odpovědět." # todo: NEW TRANSLATION
+ ENG_scottish_pressure_defused_tt: "Tlak na skotskou nezávislost je pod §G50§!" # todo: NEW TRANSLATION
+ ENG_north_irish_referendum_pressure: "Výzvy k referendu o hranici" # todo: NEW TRANSLATION
+ ENG_north_irish_referendum_pressure_desc: "Nacionalistické strany drží rovnováhu ve Stormontu a tlačí na ministra pro Severní Irsko, aby stanovil datum referenda o hranici. Na stole je sektářské napětí i schopnost provincie financovat se vlastními silami a Republika vše sleduje. Westminster má rok na snížení těchto čísel, než se požadavek stane formálním." # todo: NEW TRANSLATION
+ ENG_north_irish_pressure_defused_tt: "Tlak na severoirskou nezávislost je pod §G50§!" # todo: NEW TRANSLATION
+ ENG_welsh_referendum_pressure: "Výzvy k velšskému referendu" # todo: NEW TRANSLATION
+ ENG_welsh_referendum_pressure_desc: "Většina podporující nezávislost v Seneddu připravuje vlastní návrh zákona o referendu. Velšská nezávislost byla v Londýně dlouho považována za nerealistickou právě proto, že čísla nikdy nevycházela; tento argument platí jen do chvíle, kdy jsou to stále naše čísla, která můžeme ovlivňovat. Máme rok na snížení tlaku, než se požadavek stane formálním." # todo: NEW TRANSLATION
+ ENG_welsh_pressure_defused_tt: "Tlak na velšskou nezávislost je pod §G50§!" # todo: NEW TRANSLATION
+ ENG_decommission_tension_tt: "Sektářské napětí je pod §G15§! (aktuálně §Y[?ENG_north_irish_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_decommission_dependency_tt: "Závislost Severního Irska je nad §G60§! (aktuálně §Y[?ENG_north_irish_dependency|0]§!)" # todo: NEW TRANSLATION
+ ENG_decommission_unemployment_tt: "Nezaměstnanost je pod §G10%§! (aktuálně §Y[?total_unemployed_percentage_display|%]§!)" # todo: NEW TRANSLATION
+ ENG_decommission_started_tt: "Komise zahajuje svou práci. Pokud necháme sektářské napětí vzrůst nad §R25§!, proces se zhroutí." # todo: NEW TRANSLATION
+ ENG_border_poll_needs_peace_tt: "§YKampaň odštěpenecké IRA§! byla odzbrojena" # todo: NEW TRANSLATION
+ ENG_border_poll_nationalism_tt: "Severoirský nacionalismus je nad §G55§! (aktuálně §Y[?ENG_north_irish_nationalists|0]§!)" # todo: NEW TRANSLATION
+ ENG_dominion_tension_tt: "Sektářské napětí je pod §G10§! (aktuálně §Y[?ENG_north_irish_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_dominion_dependency_tt: "Závislost Severního Irska je nad §G70§! (aktuálně §Y[?ENG_north_irish_dependency|0]§!)" # todo: NEW TRANSLATION
+ ENG_dominion_pressure_tt: "Tlak na severoirskou nezávislost je pod §G40§! (aktuálně §Y[?ENG_north_irish_pressure|0]§!)" # todo: NEW TRANSLATION
+ ENG_ulster_brink_defused_tt: "Sektářské napětí je pod §G20§! (aktuálně §Y[?ENG_north_irish_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_border_poll_cooldown: "Referendum o hranici se konalo nedávno" # todo: NEW TRANSLATION
+ ENG_referendum_region_scotland: "Skotsko" # todo: NEW TRANSLATION
+ ENG_referendum_region_northern_ireland: "Severní Irsko" # todo: NEW TRANSLATION
+ ENG_referendum_region_wales: "Wales" # todo: NEW TRANSLATION
+ ENG_referendum_region_none: "Unie" # todo: NEW TRANSLATION
+ ENG_union_settlement_referendum: "Referendum o uspořádání Unie v roce [GetYear] v oblasti [ENG_GetReferendumRegion]" # todo: NEW TRANSLATION
+ ENG_union_settlement_referendum_desc: "Westminster předložil ústavní otázku voličům podle svých vlastních podmínek: trvalé uspořádání, které ukončí proces přenesení pravomocí, zákonem zakotví místo regionu ve Spojeném království a uzavře cestu k jakémukoli dalšímu referendu o nezávislosti. Hlasování je stále hlasováním a separatistické strany proti němu vedou kampaň všemi prostředky, které mají. Rozhodné odmítnutí nezávislosti toto uspořádání schválí. Cokoli menšího ponechá otázku přesně tam, kde byla, s vládou, která promarnila svou důvěru a prohrála.\n\nHlasujte pro odchod z Unie: §Y[?ENG_referendum_leave_vote|0]§!%" # todo: NEW TRANSLATION
+ ENG_unionist_campaign_tour: "Předvolební turné unionistů" # todo: NEW TRANSLATION
+ ENG_unionist_campaign_tour_desc: "Vyšlete kabinet do terénu. Radnice, tovární haly, loděnice a univerzitní odbory, každý den kampaně, osobní vysvětlování argumentů namísto tiskové zprávy napsané v Londýně. Posune to výsledek o několik bodů a lze to opakovat tak dlouho, dokud ministři vydrží.\n\nHlasujte pro odchod z Unie: §Y[?ENG_referendum_leave_vote|0]§!%" # todo: NEW TRANSLATION
+ ENG_fiscal_settlement_offer: "Nabídněte finanční dohodu" # todo: NEW TRANSLATION
+ ENG_fiscal_settlement_offer_desc: "Otevřete pokladnu. Zaručený blokový grant, kapitálové projekty potvrzené namísto pouhých slibů a spodní hranice financování, vše podepsané před volebním dnem. Voliči zvažující nezávislost proti svým rodinným financím si toho všimnou a závislost regionu na Westminsteru se s každou librou prohloubí.\n\nHlasujte pro odchod z Unie: §Y[?ENG_referendum_leave_vote|0]§!%" # todo: NEW TRANSLATION
+ ENG_discredit_separatists: "Znevěrohodněte separatistickou kampaň" # todo: NEW TRANSLATION
+ ENG_discredit_separatists_desc: "Postavte se proti separatistickému vedení. Jejich měnové plány, uspořádání hranice, finance a, pokud tomu budou odpovídat informace pro tisk, i jejich soukromý život. Funguje to častěji, než ne, a když ne, poskytne jim to křivdu a titulní stranu." # todo: NEW TRANSLATION
+ ENG_discredit_separatists_tt: "§G60%§! šance, že kampaň zabere a podpora odchodu prudce klesne.\n§R40%§! šance, že se obrátí proti nám, zvýší podporu odchodu i místní nepokoje." # todo: NEW TRANSLATION
+ ENG_further_devolution_pledge: "Slibte další přenesení pravomocí" # todo: NEW TRANSLATION
+ ENG_further_devolution_pledge_desc: "Poslední karta v ruce: podepsaný slib, že hlas pro setrvání bude odměněn novými pravomocemi v oblasti daní, sociální péče a vysílání. Posune umírněné separatistické voliče a na generaci zklidní nacionalistickou politiku, ovšem za cenu předání pák, které by Westminster příště potřeboval k udržení regionu pohromadě.\n\nLze slíbit jednou za kampaň.\n\nHlasujte pro odchod z Unie: §Y[?ENG_referendum_leave_vote|0]§!%" # todo: NEW TRANSLATION
+ ENG_referendum_leave_vote_down_4_tt: "Hlasování pro odchod z Unie: §G-4§!" # todo: NEW TRANSLATION
+ ENG_referendum_leave_vote_down_6_tt: "Hlasování pro odchod z Unie: §G-6§!" # todo: NEW TRANSLATION
+ ENG_referendum_leave_vote_down_7_tt: "Hlasování pro odchod z Unie: §G-7§!" # todo: NEW TRANSLATION
+ ENG_promote_unionism_scotland: "Obhajujte Unii ve Skotsku" # todo: NEW TRANSLATION
+ ENG_promote_unionism_scotland_desc: "Financujte pozemní působení unionistických stran ve Skotsku mezi volbami, nikoli během nich: udržujte otevřené volební kanceláře, nabírejte kandidáty v obvodech, které strana odepsala, a soustavně obhajujte Unii tam, kde se za ni roky nikdo nepostavil. Pomalá, neokázalá a jediná práce, která snižuje skotský nacionalismus.\n\nVyžaduje dostatečně nízké skotské nepokoje, aby argument získal sluch." # todo: NEW TRANSLATION
+ ENG_scottish_unionism_calm_tt: "Skotské nepokoje jsou pod §G25§! (aktuálně §Y[?ENG_scottish_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_promote_unionism_nireland: "Obhajujte Unii v Severním Irsku" # todo: NEW TRANSLATION
+ ENG_promote_unionism_nireland_desc: "Financujte unionistické občanské organizace v Severním Irsku mimo období pochodů: komunitní projekty v kontaktních oblastech, zaměstnanecké programy napříč komunitami a kandidáty, kteří dokážou udržet mandát, aniž by kandidovali na hranici. Pomalá práce a jediná věc, která snižuje severoirský nacionalismus.\n\nVyžaduje dostatečně nízké sektářské napětí, aby argument získal sluch." # todo: NEW TRANSLATION
+ ENG_north_irish_unionism_calm_tt: "Sektářské napětí je pod §G25§! (aktuálně §Y[?ENG_north_irish_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_promote_unionism_wales: "Obhajujte Unii ve Walesu" # todo: NEW TRANSLATION
+ ENG_promote_unionism_wales_desc: "Financujte organizaci unionistických stran ve Walesu: práci v obvodech údolí, kampaň ve velštině, která nepřenechá jazyk nacionalistům, a pozitivní obhajobu Unie namísto tvrzení, že čísla nevycházejí. Pomalá práce a jediná věc, která snižuje velšský nacionalismus.\n\nVyžaduje dostatečně nízké velšské nepokoje, aby argument získal sluch." # todo: NEW TRANSLATION
+ ENG_wales_unionism_calm_tt: "Velšské nepokoje jsou pod §G25§! (aktuálně §Y[?ENG_wales_agitation|0]§!)" # todo: NEW TRANSLATION
+ ENG_convene_constitutional_convention: "Svolejte ústavní konvent" # todo: NEW TRANSLATION
+ ENG_convene_constitutional_convention_desc: "Ústavní uspořádání z roku 1998 bylo napsáno ve spěchu lidmi, kteří očekávali, že ho později znovu projednají, a tento pozdější okamžik nastal. Svolejte mezistranický konvent o budoucí podobě Unie: zástupce přenesených správ, opoziční frontbenchery, církve a odbory, kteří budou šest měsíců zasedat a podají zprávu Parlamentu, nikoli kabinetu.\n\nKonvent sám o ničem nerozhodne. Jeho zpráva bude právním a politickým základem, na němž může Westminster předložit trvalé uspořádání Skotsku, Severnímu Irsku nebo Walesu, a bez něj by žádnou nabídku uspořádání nikdo nebral vážně.\n\nVyžaduje vládu dostatečně stabilní na přežití tohoto sporu a žádné referendum či kampaň za nezávislost, které by již probíhaly." # todo: NEW TRANSLATION
+ ENG_scottish_union_settlement: "Navrhněte skotské uspořádání v Unii" # todo: NEW TRANSLATION
+ ENG_scottish_union_settlement_desc: "Když je skotská politika klidná, skotské finance jsou svázané s ministerstvem financí a strany podporující nezávislost jsou nejslabší, může Westminster předložit ústavní otázku Skotsku podle vlastních podmínek, místo aby čekal, až bude požádán. Uspořádání schválené u volebních uren trvale ukončí proces přenesení pravomocí: místo Skotska ve Spojeném království bude zakotveno zákonem, mechanismus referenda rozebrán a Holyrood přestane být cestou ven z Unie.\n\nOdmítnutí uspořádání nic nezmění a jeho opakování bude možné až za deset let.\n\nTlak na nezávislost: §Y[?ENG_scottish_pressure|0]§!/§G20§!\nSkotský nacionalismus: §Y[?ENG_scottish_nationalists|0]§!/§G25§!" # todo: NEW TRANSLATION
+ ENG_scottish_settlement_calm_tt: "Tlak na skotskou nezávislost je pod §G20§! (aktuálně §Y[?ENG_scottish_pressure|0]§!)" # todo: NEW TRANSLATION
+ ENG_scottish_settlement_ready_tt: "Skotský nacionalismus je pod §G25§! (aktuálně §Y[?ENG_scottish_nationalists|0]§!)" # todo: NEW TRANSLATION
+ ENG_north_irish_union_settlement: "Navrhněte severoirské uspořádání v Unii" # todo: NEW TRANSLATION
+ ENG_north_irish_union_settlement_desc: "Po odzbrojení odštěpenců, uklidnění provincie a oslabení republikánské politiky může Westminster předložit ústavní otázku Severnímu Irsku podle vlastních podmínek. Uspořádání schválené u volebních uren trvale ukončí proces přenesení pravomocí a uzavře referendum o hranici jako cestu ven z Unie.\n\nOdmítnutí uspořádání nic nezmění a jeho opakování bude možné až za deset let.\n\nTlak na nezávislost: §Y[?ENG_north_irish_pressure|0]§!/§G20§!\nSeveroirský nacionalismus: §Y[?ENG_north_irish_nationalists|0]§!/§G25§!" # todo: NEW TRANSLATION
+ ENG_north_irish_settlement_calm_tt: "Tlak na severoirskou nezávislost je pod §G20§! (aktuálně §Y[?ENG_north_irish_pressure|0]§!)" # todo: NEW TRANSLATION
+ ENG_north_irish_settlement_ready_tt: "Severoirský nacionalismus je pod §G25§! (aktuálně §Y[?ENG_north_irish_nationalists|0]§!)" # todo: NEW TRANSLATION
+ ENG_welsh_union_settlement: "Navrhněte velšské uspořádání v Unii" # todo: NEW TRANSLATION
+ ENG_welsh_union_settlement_desc: "Když je velšská politika klidná a křídlo Seneddu podporující nezávislost okrajové, může Westminster vyřešit ústavní otázku ve Walesu dříve, než ji kdokoli jiný otevře. Uspořádání schválené u volebních uren trvale ukončí proces přenesení pravomocí a zákonem zakotví místo Walesu ve Spojeném království.\n\nOdmítnutí uspořádání nic nezmění a jeho opakování bude možné až za deset let.\n\nTlak na nezávislost: §Y[?ENG_wales_pressure|0]§!/§G20§!\nVelšský nacionalismus: §Y[?ENG_wales_nationalists|0]§!/§G25§!" # todo: NEW TRANSLATION
+ ENG_wales_settlement_calm_tt: "Tlak na velšskou nezávislost je pod §G20§! (aktuálně §Y[?ENG_wales_pressure|0]§!)" # todo: NEW TRANSLATION
+ ENG_wales_settlement_ready_tt: "Velšský nacionalismus je pod §G25§! (aktuálně §Y[?ENG_wales_nationalists|0]§!)" # todo: NEW TRANSLATION
+ devolution.11.t: "[ENG_GetReferendumRegion] hlasuje pro odchod" # todo: NEW TRANSLATION
+ devolution.11.d: "Sčítání je dokončeno a výsledek není pochyb. Většina hlasovala pro odchod ze Spojeného království a vláda, která referendum vyhlásila, je povinna jej uskutečnit. Okamžitě začínají jednání o obraně, dluhu, měně a hranici a prvním krokem je ústavní krok: převod pravomocí, které Westminster po generaci odmítal postoupit, je nyní převodem suverenity." # todo: NEW TRANSLATION
+ devolution.11.a: "Výsledek platí." # todo: NEW TRANSLATION
+ devolution.12.t: "Unie obstála" # todo: NEW TRANSLATION
+ devolution.12.d: "Kampaň za odchod prohrála. Účast byla vysoká, rozdíl je dostatečně jasný, takže ho nikdo důvěryhodný nezpochybňuje, a ústavní otázka je na generaci uzavřena jasným zněním hlasování. Separatistické strany se znovu zorganizují a hořkost z prohrané kampaně se bude usazovat roky, Spojené království však zůstává celistvé a Westminster má odpověď pro příští okamžik, kdy bude požadavek vznesen." # todo: NEW TRANSLATION
+ devolution.12.a: "Jednou za generaci." # todo: NEW TRANSLATION
+ devolution.13.t: "Uspořádání bylo schváleno" # todo: NEW TRANSLATION
+ devolution.13.d: "Uspořádání bylo schváleno. [ENG_GetReferendumRegion] hlasoval pro uzavření ústavní otázky podle podmínek Westminsteru: proces přenesení pravomocí zde končí, místo regionu ve Spojeném království spočívá na mandátu, nikoli na zákoně, který by budoucí Parlament mohl zrušit, a žádné další referendum nebude vyhlášeno. Nacionalistické strany nyní argumentují proti výsledku, který odevzdali jejich vlastní voliči." # todo: NEW TRANSLATION
+ devolution.13.a: "Otázka je vyřešena." # todo: NEW TRANSLATION
+ devolution.14.t: "Uspořádání bylo odmítnuto" # todo: NEW TRANSLATION
+ devolution.14.d: "Uspořádání bylo odmítnuto. Požadavek, aby se region vzdal práva požádat znovu, byl přijat přesně tak, jak separatisté tvrdili, a kampaň jim poskytla argument, který se roky marně snažili prosadit. Ústavně se nic nemění, peníze i politický kapitál jsou pryč a otázka, kterou se Westminster pokusil uzavřít, je nyní hlasitější než dříve." # todo: NEW TRANSLATION
+ devolution.14.a: "Drahá chyba." # todo: NEW TRANSLATION

@@ -2968,3 +2968,710 @@
  ukraine_reorganize_navy_finish_ukrayina.11.name: "Dokončení křižníku „Ukrayina“ – všechno vybavení obdrženo" # todo: NEW TRANSLATION
  ukraine_reorganize_navy_finish_ukrayina.11.desc: "Výrobci dodali všechny potřebné součásti v souladu s dříve dohodnutými podmínkami a můžeme zahájit instalaci a dokončit stavbu. Doufejme, že to nebude trvat věčnost.\n\n\n§GToto je poslední krok§!" # todo: NEW TRANSLATION
  ukraine_reorganize_navy_finish_ukrayina.11.a: "Zahájit výrobu" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.1.name: "Oprava výsadkové lodi „Rivne“ – zvolte postup" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.1.desc: "Vzhledem k současnému stavu výsadkové lodi „Rivne“ musíme rozhodnout, jak postupovat při její opravě a údržbě.\nMůžeme investovat více peněz a plně ji opravit do původní podoby výsadkové lodi, nebo se zaměřit pouze na nejkritičtější systémy, aby byla provozuschopná jako podpůrná transportní loď." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.1.a: "Opravit jako výsadkovou loď" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.1.b: "Opravit jako podpůrnou loď" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.2.name: "Oprava lodi „Rivne“ jako výsadkové lodi dokončena" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.2.desc: "Protože jsme se rozhodli opravit loď „Rivne“ jako plnohodnotnou výsadkovou loď, dokončili jsme všechny požadované opravy a údržbu a nyní je připravena k aktivní službě." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.2.a: "Skvělé!" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.3.name: "Oprava lodi „Rivne“ jako podpůrné lodi dokončena" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.3.desc: "Protože jsme se rozhodli opravit loď „Rivne“ jako podpůrnou loď, dokončili jsme všechny požadované opravy a údržbu a nyní je připravena k aktivní službě." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_rivne.3.a: "Skvělé!" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.1.name: "Oprava podpůrných lodí – zvolte postup" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.1.desc: "Vzhledem k současnému stavu našich podpůrných lodí musíme rozhodnout, jak postupovat při jejich opravě a údržbě.\nMůžeme investovat více peněz a opravit všechny čtyři, nebo stanovit priority podle jejich důležitosti a dostupných prostředků." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.1.a: "Potřebujeme všechny" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.1.b: "Jednu podpůrnou a jednu opravárenskou" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.1.c: "Můžeme si dovolit pouze jednu" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.2.name: "Oprava podpůrných lodí – všech 4 lodí bude opraveno" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.2.desc: "Protože jsme se rozhodli opravit všechny čtyři podpůrné lodě, je čas zvolit vhodný postup.\nMůžeme všem lodím přidělit vlastní doky, které má vláda v současnosti k dispozici, a opravit je bez velkých investic, nebo můžeme investovat více peněz a urychlit opravy využitím dalších soukromých doků." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.2.a: "Využít pouze státní doky" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.2.b: "Zaplatit za soukromé doky" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.3.name: "Oprava podpůrných lodí – bude opravena 1 podpůrná a 1 opravárenská loď" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.3.desc: "Protože jsme se rozhodli opravit jednu podpůrnou a jednu opravárenskou loď, je čas zvolit vhodný postup.\nMůžeme oběma lodím přidělit vlastní doky, které má vláda v současnosti k dispozici, a opravit je bez velkých investic, nebo můžeme investovat více peněz a urychlit opravy využitím dalších soukromých doků." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.3.a: "Využít pouze státní doky" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.3.b: "Zaplatit za soukromé doky" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.4.name: "Oprava podpůrných lodí – opravena bude pouze 1 loď" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.4.desc: "Protože jsme se rozhodli opravit pouze jednu podpůrnou loď, je čas zvolit vhodný postup.\nMůžeme lodi přidělit vlastní dok, který má vláda v současnosti k dispozici, a opravit ji bez velkých investic, nebo můžeme investovat více peněz a urychlit opravu využitím dalšího soukromého doku." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.4.a: "Využít pouze státní dok" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.4.b: "Zaplatit za soukromý dok" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.5.name: "Oprava podpůrných lodí – všechny 4 lodě opraveny" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.5.desc: "Dokončili jsme opravy všech čtyř podpůrných lodí. Nyní jsou připraveny k aktivní službě a mohou poskytovat naší flotile nezbytnou podporu." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.5.a: "Skvělé!" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.6.name: "Oprava podpůrných lodí – 1 podpůrná a 1 opravárenská loď opraveny" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.6.desc: "Dokončili jsme opravy jedné podpůrné a jedné opravárenské lodi. Nyní jsou připraveny k aktivní službě a mohou poskytovat naší flotile nezbytnou podporu." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.6.a: "Skvělé!" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.7.name: "Oprava podpůrných lodí – opravena pouze 1 loď" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.7.desc: "Dokončili jsme opravu jediné podpůrné lodi. Nyní je připravena k aktivní službě a může poskytovat naší flotile nezbytnou podporu." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_repair_support_ships.7.a: "Skvělé!" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.1.name: "Simferopol – trup na rybalské loděnici" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.1.desc: "Loděnice jich od roku 1971 postavila 347 a výkresy zná zpaměti. Na skluzu se právě nachází nedokončený projekt 502EM – rybářská loď, ovšem s výtlakem, dosahem a vytrvalostí, které potřebujeme.\n\nAlternativou je položit nový kýl podle stejných výkresů 502EM namísto dokončení opuštěného trupu. Loděnice by byla nadšená. Ministerstvo financí nikoli." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.1.a: "Přestavět trup trawleru." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.1.b: "Položit nový kýl podle stejných výkresů." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.1.c: "Námořnictvo má naléhavější potřeby." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.2.name: "Simferopol – čím bude naslouchat" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.2.desc: "Trup je levná část. Lodí jsou její antény – a otázkou je, čí antény to budou.\n\nNaše vlastní ústavy mohou vybudovat pasivní komplex pro radiotechnický průzkum v několika pásmech, klasifikaci a zaměřování. Bude to trvat déle, ale bude náš. Západní ELINT systém by dorazil integrovaný, otestovaný a drahý – a přinesl by s sebou závazky." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.2.a: "Osadit domácí komplex." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.2.b: "Koupit západní ELINT systém." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.3.name: "Simferopol – po Dněpru" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.3.desc: "V Rybalské loděnici sjíždí ze skluzu. Nyní přichází obtížná část: loděnice je v Kyjevě, flotila v Černém moři a mezi nimi je šest set kilometrů řeky s mosty.\n\nBezpečnou možností je plovoucí dok po celé trase až do Chersonu a dále. Levnou možností je vést loď po vlastním kýlu a doufat, že ponor i průjezd pod mosty nebudou problém." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.3.a: "Přepravit ji v plovoucím doku." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.3.b: "Vést ji po vlastním kýlu." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.4.name: "Simferopol – uvízla na Dněpru" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.4.desc: "Uvízla pod Chersonem s poškozeným pohonným ústrojím a značně zahanbenou přepravní posádkou. Loděnice tvrdí, že to dokáže napravit. Loděnice to tvrdí vždy." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.4.a: "Zaplatit opravy." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.4.b: "Nechat ji v Chersonu." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.5.name: "Simferopol – přeprava dokončena" # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.5.desc: "Konečně jsme úspěšně přepravili naši nejnovější průzkumnou loď po Dněpru – bez jediné nehody! Nyní můžeme zahájit výcvik posádky a poté konečně využít tento cenný námořní prostředek v náš prospěch." # todo: NEW TRANSLATION
+ ukraine_reorganize_navy_built_simferopol_recon_ship.5.a: "Konečně!" # todo: NEW TRANSLATION
+ UKR_lahuna_program_over: "Dokončili jsme stavbu průzkumné lodi Simferopol" # todo: NEW TRANSLATION
+ UKR_modernize_sov_category: "Modernizace sovětské techniky" # todo: NEW TRANSLATION
+ UKR_modernize_sov_category_desc: "Můžeme investovat čas a zdroje do výzkumu, testování a zavádění modernizací naší techniky ze sovětské éry. Vylepšením stávajících konstrukcí pomocí moderních technologií můžeme prodloužit jejich životnost a zvýšit jejich bojové schopnosti. Tyto programy nám umožní co nejlépe využít rozsáhlý arzenál zděděný po Sovětském svazu a postupně jej přizpůsobit požadavkům moderní války." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1u: "Vyvinout §YBMP-1U „Shkval“§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1u_desc: "Omezenou ukrajinskou modernizaci BMP-1 vyvinulo Státní vědecké a technické centrum dělostřelectva a ručních zbraní v Kyjevě.\nPůvodní věž byla nahrazena novou dálkově ovládanou zbraňovou stanicí KBA-105 Shkval, vyvinutou pro lehká obrněná vozidla za účelem zvýšení jejich bojové účinnosti." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1m: "Vyvinout §YBMP-1M§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1m_desc: "Vývoj vycházející z BMP-1U, představený v roce 2011.\nHlavním rozdílem je použití vylepšené dálkově ovládané zbraňové stanice KBA-105TB Shkval-A, v níž byly odpalovače protitankových střel Konkurs nahrazeny ukrajinskými protitankovými střelami dlouhého dosahu Barrier. Používá také nový zaměřovací systém Tandem-2 a vylepšený stabilizační systém zbraně SWU-500-3C." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1um: "Vyvinout §YBMP-1UM§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1um_desc: "Komplexnější modernizace standardního BMP-1 provedená Žytomyrským obrněným závodem a veřejně představená v roce 2015.\nMotor UTD-20 o výkonu 300 koní byl nahrazen tříválcovým dvoutaktním dieselovým motorem 3TD-2 o výkonu 400 koní. Uspořádání výsadkového prostoru bylo vylepšeno zvýšením střechy korby o 15 cm a malé, ergonomicky nevhodné výstupní dveře v zadní části BMP-1 byly nahrazeny velkou, byť ručně ovládanou rampou." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1umd: "Vyvinout §YBMP-1UMD§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1umd_desc: "Další vývoj BMP-1UM ze Žytomyrského obrněného závodu, představený v roce 2016 na výstavě Arms and Security.\nTato varianta má novou dálkově ovládanou zbraňovou stanici a motor. Pohání ji elektronicky řízený šestiválcový turbodiesel Deutz TCD2013 L64V, který poskytuje výkon 330 koní a je spolehlivější, tišší a účinnější než motory UTD-20 i 3TD-2." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1ts: "Vyvinout §YBMP-1TS§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1ts_desc: "BMP-1TS je ukrajinská modernizační varianta vyvinutá společností NVK Techimpex, která od roku 2018 pracuje na dálkově ovládané zbraňové stanici pro BMP-1 nazvané Spys.\nModul Spys obdržel systém řízení palby Syntez, který se skládá ze zaměřovacího komplexu Kazhan-3K15 s termovizními i optickými televizními kamerami a laserovým dálkoměrem." # todo: NEW TRANSLATION
+ UKR_modernize_bmp_m1s: "Vyvinout §YBMP-M1S§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp_m1s_desc: "BMP-M1S je pásové obrněné bojové vozidlo vyvinuté z vlastního provozního kapitálu Žytomyrského obrněného závodu, který je součástí skupiny podniků Ukroboronprom.\nNový výrobek byl představen na výstavě Arms and Security 2018 v Kyjevě.\nBMP-M1S je přestavba s výrazným zvýšením palebné síly a úrovně ochrany a s nahrazením zastaralého sovětského motoru německým motorem Deutz.\nDíky tomu může BMP-M1S přepravovat až 8 vojáků a účinně podporovat činnost pěších jednotek díky vysoké palebné síle bojového modulu „Stylet“." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1m_praktyka: "Vyvinout §YBMP-1M „Praktyka“§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1m_praktyka_desc: "Ukrajinský výrobce NVO Praktyka představil obrněné vozidlo BMP-1M v roce 2021.\nModernizovaný BMP-1 je vybaven moderní technikou namísto obvyklých dvou dveří výsadkového prostoru.\nPozoruhodné je také mírné zvýšení výšky korby bojového vozidla.\nModernizovaný BMP se od sovětského modelu liší také přítomností vylepšeného bojového modulu „Spys-Syntez“, vyvinutého a vyrobeného společností NVK Techimpex." # todo: NEW TRANSLATION
+ UKR_modernize_bmp1u_flag: "Dokončeno rozhodnutí §YVyvinout BMP-1U§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1m_flag: "Dokončeno rozhodnutí §YVyvinout BMP-1M§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1um_flag: "Dokončeno rozhodnutí §YVyvinout BMP-1UM§!" # todo: NEW TRANSLATION
+ UKR_modernize_bmp1umd_flag: "Dokončeno rozhodnutí §YVyvinout BMP-1UMD§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr6: "Vyvinout §YMT-LBR6§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr6_desc: "MT-LBR6 je lehké bojové vozidlo pěchoty na podvozku MT-LB s bojovým modulem ZTM-1.\nVýzbroj: 30mm automatický kanón ZTM-1, 7,62mm kulomet CT, vrhače kouřových granátů systému 902B „Tucha“.\nOchrana osádky je zvýšena díky rozptýlenému pancéřování a kevlarové výstelce, podvozek je zakryt protikumulativními zástěnami.\nVýrobce: Charkovský traktorový závod." # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbmsh: "Vyvinout §YMT-LBMSh§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbmsh_desc: "MT-LBMSh je lehké bojové vozidlo pěchoty na podvozku MT-LB s bojovým modulem „Škval“.\nVýzbroj: 30mm automatický kanón ZTM-1, spřažený kulomet KT-7,62 ráže 7,62 mm, dvě protitankové řízené střely Barrier, 30mm automatický granátomet a vrhače kouřových granátů.\nOd roku 2006 se vyrábí v KMDB." # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr7: "Vyvinout §YMT-LBR7§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr7_desc: "MT-LBR7 je lehké bojové vozidlo pěchoty na podvozku MT-LB s bojovým modulem „Šturm“.\nVýzbroj: 30mm automatický kanón ZTM-1, spřažený kulomet KT-7,62 ráže 7,62 mm, dva odpalovače protitankových řízených střel 9M114M „Konkurs-M“, 30mm automatický granátomet a vrhače kouřových granátů.\nOchrana osádky je zvýšena díky rozptýlenému pancéřování a kevlarové výstelce, podvozek je zakryt protikumulativními zástěnami.\nVýrobce: Charkovský traktorový závod." # todo: NEW TRANSLATION
+ UKR_modernize_mt_lb_at: "Vyvinout §YMT-LB-AT§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lb_at_desc: "MT-LB-AT je modernizační varianta vozidla MT-LB vybavená otočnou pancéřovanou plošinou a vyzbrojená kulometem DŠKM ráže 12,7 mm." # todo: NEW TRANSLATION
+ UKR_modernize_mt_lb_t_23_2: "Vyvinout §YMT-LB-T-23-2§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lb_t_23_2_desc: "MT-LB-T-23-2 je modernizační varianta vozidla MT-LB vyvinutá společností NVK Techimpex.\nJe vybavena pancéřovým štítem a novým zaměřovačem a jako hlavní výzbroj používá ZU-23-2.\nPředváděcí vzorek byl představen 21. září 2015 na výstavě „Zbraně a bezpečnost“." # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr6_flag: "Dokončeno rozhodnutí §YVyvinout MT-LBR6§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbr7_flag: "Dokončeno rozhodnutí §YVyvinout MT-LBR7§!" # todo: NEW TRANSLATION
+ UKR_modernize_mt_lbrmsh_flag: "Dokončeno rozhodnutí §YVyvinout MT-LBMSh§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2ld: "Vyvinout §YBRDM-2LD§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2ld_desc: "BRDM-2LD je ukrajinská modernizace vozidla BRDM-2 s bočními výsadkovými průlezy a dieselovým motorem SMD-21-08 ukrajinské výroby.\nVývoj obrněného vozidla byl zahájen v roce 1999 v rámci výzkumného programu Bulba specialisty z Charkovské konstrukční kanceláře mechanického inženýrství O. O. Morozova. Modernizaci BRDM-2 na úroveň BRDM-2LD provedl Nikolajevský mechanický opravárenský závod.\nPři zkouškách v terénu se ukázalo, že instalace dieselového motoru zlepšila průchodnost vozidla v obtížných podmínkách a zvýšila dojezd na silnici o 25 % (ze 750 na 1 000 km) díky výraznému snížení spotřeby paliva." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2m: "Vyvinout §YBRDM-2M§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2m_desc: "BRDM-2M je ukrajinská modernizace vozidla BRDM-2. Stejně jako BRDM-2LD, avšak se standardním benzinovým motorem.\nZměny se proto týkaly především instalace bočních výsadkových průlezů.\nVyrábí jej Nikolajevský mechanický opravárenský závod." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2dp: "Vyvinout §YBRDM-2DP§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2dp_desc: "BRDM-2DP je ukrajinská modernizace vozidla BRDM-2. Jedná se o odlehčenou variantu vybavenou dieselovým motorem, vyráběnou závodem Mayak v Kyjevě.\nVýzbroj tvoří příďový kulomet DŠKM ráže 12,7 mm a dva boční kulomety SGMB ráže 7,62 mm.\nVozidlo je také vybaveno bočními výsadkovými dveřmi, odnímatelnými protikumulativními sítěmi a zařízením pro překonávání příkopů a zákopů." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2vepr: "Vyvinout §YBRDM-2 „Vepr“§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2vepr_desc: "BRDM-2 „Vepr“ je ukrajinská modernizace vozidla BRDM-2 navržená společností VEPR.\nVýhled byl zlepšen osazením kabiny pancéřovým sklem.\nDno vozidla je pancéřované. Boční kola byla odstraněna.\nMísto nich byly instalovány dveře po celé výšce korby pro výsadek a nastupování vojáků.\nVýzbroj byla posílena. Kromě standardní výzbroje byl přidán záďový kulomet; místo demontovaného vodometu bylo zřízeno stanoviště kulometčíka.\nV přídi je připravena možnost instalace automatického granátometu.\nOsvětlovací zařízení bylo upraveno pro jízdu po veřejných komunikacích." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2l1: "Vyvinout §YBRDM-2L1§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2l1_desc: "BRDM-2L1 je ukrajinská modernizace vozidla BRDM-2 navržená Nikolajevským mechanickým opravárenským závodem.\nVozidlo obdrželo průlezy typu BRDM-2LD a BRDM-2M a střílny pro palbu. Byla instalována moderní radiostanice ukrajinské výroby a použity nové bezdušové pneumatiky s regulací tlaku." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2di: "Vyvinout §YBRDM-2DI „Chazar“§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2di_desc: "BRDM-2DI „Chazar“ je ukrajinské bojové průzkumné a pozorovací vozidlo vyráběné Nikolajevským mechanickým opravárenským závodem na základě BRDM-2.\nVývoj vozidla byl zahájen s ohledem na zkušenosti ukrajinského vojenského kontingentu v Iráku z let 2003–2005.\nObrněný automobil je vybaven dieselovým motorem FPT IVECO Tector (Euro-3) o výkonu 138 koní s předehřívačem, termovizí, kamerovým systémem a novou sadou výzbroje.\nV korbě vozidla byl navíc vytvořen průlez pro výsadek vojáků." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t1: "Vyvinout §YBRDM-2T vz. 2012§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t1_desc: "BRDM-2T vz. 2012 je ukrajinská modernizace vozidla BRDM-2 vyvinutá společností NVK Techimpex.\nU verze představené v roce 2012 spočívala hlavní změna ve výměně motoru: místo standardního benzinového motoru GAZ-41 byl instalován řadový čtyřválcový dieselový motor D245.30E2. Tím se snížilo nebezpečí požáru i spotřeba paliva. Obrněné vozidlo rovněž prošlo generální opravou." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t2: "Vyvinout §YBRDM-2T vz. 2013§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t2_desc: "BRDM-2T vz. 2013 je ukrajinská modernizace vozidla BRDM-2 vyvinutá společností NVK Techimpex.\nV roce 2013 byla představena nová verze modernizace BRDM-2. Kromě motoru D245.30E2 byly instalovány radiostanice R-173, přední a zadní obrysová světla z BTR-70 a nová kola s bezdušovými pneumatikami.\nPomocná kola byla demontována, což umožnilo instalaci lichoběžníkových bočních výsadkových průlezů podobných těm na BTR-70.\nVěž byla demontována a jako výzbroj byly instalovány kulomet NSVT ráže 12,7 mm a kulomet PKT ráže 7,62 mm." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t3: "Vyvinout §YBRDM-2T vz. 2015§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t3_desc: "BRDM-2T vz. 2015 je ukrajinská modernizace vozidla BRDM-2 vyvinutá společností NVK Techimpex.\nV roce 2015 bylo představeno další vozidlo se standardní věží BRDM-2, obdélníkovými bočními průlezy typu BRDM-2LD, novou pětistupňovou převodovkou, bezdušovými pneumatikami R20 vyráběnými ukrajinskou společností Rosava, novou radiostanicí Motorola DM-4601 a možností instalace dodatečné protistřepinové ochrany z nejméně pěti vrstev balistické tkaniny typu Kevlar zevnitř korby." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2i: "Vyvinout §YBRDM-2I§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2i_desc: "BRDM-2I je ukrajinská modernizace vozidla BRDM-2 navržená 45. experimentálním mechanickým závodem ve Vinnycji.\nStandardní benzinový motor byl nahrazen nízkohlučným dieselovým motorem ISUZU o výkonu 156 koní.\nPři modernizaci byl zachován vodomet i kola pro překonávání příkopů.\nNavíc byl instalován elektronický centrální systém huštění pneumatik ukrajinské výroby.\nVýzbroj: kulomet KPVT ráže 14,5 mm, kulomet PKT ráže 7,62 mm, granátomet AGS-17 a protitankový systém Barrier." # todo: NEW TRANSLATION
+ UKR_modernize_bkm_hekkon: "Vyvinout §YBKM „Hekkon“§!" # todo: NEW TRANSLATION
+ UKR_modernize_bkm_hekkon_desc: "BKM „Hekkon“ je jednou z ukrajinských variant modernizace sovětského obrněného vozidla BRDM-2.\nVozidlo bylo vyvinuto v roce 2016 z iniciativy specialistů inženýrské skupiny „Azov“, která později přijala název „Arej“, a postaveno z mimorozpočtových prostředků v dílnách uzavřeného kyjevského závodu „ATEK“.\nStandardní benzinový motor GAZ-41 a mechanická převodovka byly nahrazeny novým dieselovým motorem General Motors o výkonu 215 koní s hydrostatickým pohonem. V bocích byly vytvořeny dvě střílny pro palbu z ručních zbraní a dvoje boční dveře.\nPancéřová ochrana byla posílena. Celkový počet členů osádky a výsadku činí 9 osob.\nPředváděcí model byl vybaven upravenou věží z BRDM-2, v níž byl instalován kulomet NSVT ráže 12,7 mm, kulomet PKT ráže 7,62 mm a čtyři vrhače kouřových granátů ráže 81 mm." # todo: NEW TRANSLATION
+ UKR_modernize_brm_manhust: "Vyvinout §YBRM „Manhust“§!" # todo: NEW TRANSLATION
+ UKR_modernize_brm_manhust_desc: "BRM „Manhust“ je ukrajinská modifikace vozidla BRDM-2 z Nikolajevského obrněného závodu.\nVšechny komponenty kromě motoru jsou ukrajinské výroby.\nVozidlo je vybaveno dodatečnými bočními, horními a zadními průlezy, které umožňují nerušený výsadek vojáků.\nZvýšení čelní ochrany a instalace dodatečných pancéřových plátů zajišťují bezpečnost osádky.\nNové vozidlo má ve srovnání se základním BRDM-2 výrazně větší vnitřní objem a robotický bojový modul vybavený velkorážním kulometem ráže 14,5 mm a kulometem ráže 7,62 mm." # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2ld_flag: "Dokončeno rozhodnutí §YVyvinout BRDM-2LD§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2m_flag: "Dokončeno rozhodnutí §YVyvinout BRDM-2M§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2di_flag: "Dokončeno rozhodnutí §YVyvinout BRDM-2DI „Chazar“§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t1_flag: "Dokončeno rozhodnutí §YVyvinout BRDM-2T vz. 2012§!" # todo: NEW TRANSLATION
+ UKR_modernize_brdm_2t2_flag: "Dokončeno rozhodnutí §YVyvinout BRDM-2T vz. 2013§!" # todo: NEW TRANSLATION
+ UKR_modernize_bkm_hekkon_flag: "Dokončeno rozhodnutí §YVyvinout BKM „Hekkon“§!" # todo: NEW TRANSLATION
+ UKR_modernize_brm_manhust_flag: "Dokončeno rozhodnutí §YVyvinout BRM „Manhust“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m: "Vyvinout modernizační program §YBTR-60M§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_desc: "§YBTR-60M§! je ukrajinská modifikace vozidla §YBTR-60PB§! vyvinutá společností KMDB.\nJe instalován dieselový motor UTD-20 o výkonu 300 koní.\nNikolajevský obrněný závod vyrobil jeden prototyp." # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_choose_module: "Zvolit hlavní výzbroj pro\nmodernizovaný obrněný transportér §YBTR-60M§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_choose_module_desc: "Můžeme rozhodnout, jakou přesnou hlavní výzbroj bude používat náš modernizovaný obrněný transportér §YBTR-60M§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60mk: "Vyvinout modernizační program §YBTR-60MK§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60mk_desc: "BTR-60MK je ukrajinská modifikace vozidla BTR-60PB navržená společností KORT.\nVozidlo je vybaveno dvěma dieselovými motory Cummins, dodatečným přídavným pancéřováním a zvětšenými bočními výsadkovými průlezy.\nVýzbroj byla zachována, byla však oznámena možnost nahradit věž bojovým modulem vyráběným Nikolajevským obrněným závodem o hmotnosti 1 000 kg. Modul je vyzbrojen kulometem ráže 14,5 mm, kulometem ráže 7,62 mm a automatickým granátometem AGS-17 ráže 30 mm." # todo: NEW TRANSLATION
+ UKR_modernize_btr_60pb_t: "Vyvinout §YBTR-60PB-T§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60pb_t_desc: "BTR-60PB-T je ukrajinská modifikace vozidla BTR-60PB vyvinutá společností NVK Techimpex.\nModernizace zahrnuje instalaci bojového modulu BM-23-2, výměnu benzinových motorů za dieselové, zlepšení chladicích systémů motoru, úpravu pohonu vodometu a instalaci nové elektrické výbavy." # todo: NEW TRANSLATION
+ UKR_modernize_otaman_8x8: "Vyvinout §Y„Otaman“ 8x8§!" # todo: NEW TRANSLATION
+ UKR_modernize_otaman_8x8_desc: "„Otaman“ 8x8 je moderní nová bojová platforma vyvinutá společností NVO Praktyka.\nPlatforma vznikla hlubokou modernizací podvozku BTR-60/70 – nová pancéřová korba s motorem vpředu a úplnou výměnou motoru i převodovky.\nNová verze modernizace BTR-60 je zaměřena na pohyblivost a palebnou sílu.\nNová korba je vyrobena z moderní oceli a testována podle různých mezinárodních standardů. Předpokládaná úroveň balistické ochrany odpovídá STANAG 4569 úrovně II.\nPro zvýšení ochrany může být vybavena také přídavným keramickým pancéřováním.\nNová verze vozidla byla vybavena bojovým modulem „Sturm-M“, který je instalován na BTR-3." # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_khorunzhyi: "Vyvinout §YBTR-60M „Khorunzhyi“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_khorunzhyi_desc: "BTR-60M Khorunzhy je obrněný transportér společnosti NVO Praktyka a hluboká modernizace vozidla BTR-60PB.\nObrněný transportér je navržen jako kolová platforma, na jejímž základě lze vytvořit rodinu specializovaných obrněných vozidel.\nKorba je vyrobena z moderní pancéřové oceli a poskytuje vysokou úroveň ochrany. Díky tomu bylo možné zvýšit odolnost horní a boční části korby proti střelám na úroveň CCSA-4, tedy ochranu proti střele ráže 7,62 mm ze vzdálenosti 10 metrů.\nTransportér má moderní uspořádání s motorovým prostorem vpravo vpředu, prostorem řidiče vlevo vpředu a prostornějším výsadkovým prostorem v zadní části korby." # todo: NEW TRANSLATION
+ UKR_modernize_btr_60m_flag: " Dokončeno rozhodnutí §YVyvinout BTR-60M§!" # todo: NEW TRANSLATION
+ UKR_modernize_otaman_8x8_flag: " Dokončeno rozhodnutí §YVyvinout „Otaman“ 8x8§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m: "Vyvinout §YBTR-70M§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_desc: "BTR-70M je ukrajinská modifikace vozidla BTR-70.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova v rámci státní zakázky na vybavení mírových jednotek Ozbrojených sil Ukrajiny.\nMísto dvou benzinových motorů je instalován vícepalivový dieselový motor UTD-20 z BMP-1.\nVýzbroj tvoří velkorážní kulomet KPVT ráže 14,5 mm a spřažený kulomet PKT ráže 7,62 mm. Boční průlezy jsou typu BTR-80." # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_kba2: "Vyvinout §YBTR-70M-KBA-2§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_kba2_desc: "BTR-70M-KBA-2 je ukrajinská modifikace vozidla BTR-70.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova.\nVěž BTR-70 byla demontována a místo ní byl instalován bojový modul s 30mm automatickým kanónem KBA-2 a zařízením pro odpalování kouřových granátů. Výška vozidla se tím zvýšila na 2 765 mm.\nBoční průlezy jsou typu BTR-80." # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_hrim: "Vyvinout §YBTR-70M „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_hrim_desc: "BTR-70M „Hrim“ je ukrajinská modifikace vozidla BTR-70.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova.\nMísto standardní věže je instalován bojový modul BM-1B „Hrim“ s 30mm automatickým kanónem, kulometem ráže 7,62 mm, automatickým granátometem AG-17 ráže 30 mm a protitankovým raketovým systémem Barrier se zásobou 4 protitankových řízených střel.\nBoční průlezy jsou typu BTR-80." # todo: NEW TRANSLATION
+ UKR_modernize_btr_7: "Vyvinout §YBTR-7 „Zachysnyk“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_7_desc: "BTR-7 „Zachysnyk“ je ukrajinská modifikace vozidla BTR-70.\nModernizaci provádí Nikolajevský obrněný závod.\nVozidlo má dva motory FPT Iveco Tector z nákladního automobilu Iveco EuroCargo, verze P4 (Euro III), každý o výkonu 150 koní.\nObrněný transportér je vybaven bojovou jednotkou BUG stabilizovanou ve dvou rovinách. Její základní výzbroj tvoří kulomet KPVT ráže 14,5 mm (500 nábojů), kulomet PKT ráže 7,62 mm (1 500 nábojů), automatický granátomet AGS-17 ráže 30 mm (87 granátů) a dvě protitankové řízené střely Barrier ráže 130 mm (4 střely)." # todo: NEW TRANSLATION
+ UKR_modernize_btr_70t: "Vyvinout §YBTR-70T§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70t_desc: "BTR-70T je ukrajinská modernizace vozidla BTR-70 od společnosti NVK Techimpex.\nByly instalovány nové boční výsadkové průlezy typu BTR-80, radiostanice R-173, dva nové dieselové motory D245.30E2 s celkovým výkonem 312 koní, přední a zadní obrysová světla typu BTR-80 a nová kola s bezdušovými pneumatikami.\nJe také možné instalovat jiné bojové moduly." # todo: NEW TRANSLATION
+ UKR_modernize_varan: "Vyvinout §Y„Varan“§!" # todo: NEW TRANSLATION
+ UKR_modernize_varan_desc: "Varan je ukrajinský obrněný transportér, radikální modernizace vozidla BTR-70.\nVyvinula jej společnost NVK Techimpex.\nVaran obdržel nově navrženou pancéřovou korbu a výrazně změněné uspořádání. Motor je umístěn vpředu a v zádi vznikl výsadkový prostor.\nDíky změně uspořádání získal výsadkový prostor o 35 % větší využitelný vnitřní objem. Vojáci mohou také nastupovat a vystupovat sklopnou rampou v zadní části.\nVozidlo je vyzbrojeno bojovým modulem Spys s kanónem ráže 30 mm typu 2A72 (ZTM-1 nebo KBA-1) se zásobou 300 nábojů, automatickým granátometem KBA-117 (AGS-17) ráže 30 mm se zásobou 125 granátů, kulometem KT-7,62 ráže 7,62 mm a komplexem řízených zbraní „Baryer“ se dvěma střelami." # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_flag: "Dokončeno rozhodnutí §YVyvinout BTR-70M§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_kba2_flag: "Dokončeno rozhodnutí §YVyvinout BTR-70M-KBA-2§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70m_hrim_flag: "Dokončeno rozhodnutí §YVyvinout BTR-70M „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_70t_flag: "Dokončeno rozhodnutí §YVyvinout BTR-70T§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80_kba2: "Vyvinout §YBTR-80-KBA-2§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80_kba2_desc: "BTR-80-KBA-2 je ukrajinská modifikace vozidla BTR-80.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova.\nJe instalován dieselový motor UTD-20 ukrajinské výroby.\nMísto kulometu KPVT ráže 14,5 mm byl instalován kanón KBA-2 ráže 30 mm.\nDíky výraznému snížení spotřeby paliva se dojezd při stejném množství paliva zvýšil o 25 %.\nDíky zvýšenému točivému momentu motoru se zlepšila průchodnost v obtížných podmínkách.\nInstalace kanónu KBA-2 ráže 30 mm zvyšuje dosah i účinnost palby." # todo: NEW TRANSLATION
+ UKR_modernize_btr_80m_hrim: "Vyvinout §YBTR-80M „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80m_hrim_desc: "BTR-80M „Hrim“ je ukrajinská modifikace vozidla BTR-80.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova.\nMísto standardní věže je instalován bojový modul BM-1B „Hrim“ s 30mm automatickým kanónem, kulometem ráže 7,62 mm, automatickým granátometem AG-17 ráže 30 mm a protitankovým raketovým systémem Barrier se zásobou 4 protitankových řízených střel." # todo: NEW TRANSLATION
+ UKR_modernize_btr_80up: "Vyvinout §YBTR-80UP§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80up_desc: "BTR-80UP je společný polsko-ukrajinský modernizační program vozidla BTR-80, jehož cílem byla účast v iráckém výběrovém řízení.\nByla zvýšena ochrana, instalovány nové dieselové motory o výkonu 300 koní, nové pneumatiky a nové elektrické a pneumatické systémy. Vodomet byl odstraněn.\nKromě základního obrněného transportéru bylo vyvinuto 7 specializovaných variant." # todo: NEW TRANSLATION
+ UKR_modernize_btr_80t: "Vyvinout §YBTR-80T§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80t_desc: "BTR-80T je ukrajinská modernizace vozidla BTR-80 od společnosti NVK Techimpex.\nPůvodní motor byl nahrazen výkonnějším přeplňovaným motorem o výkonu 303 koní.\nPřevodovka má 8 stupňů. Dojezd byl zvýšen na 750 km.\nVýzbroj byla nahrazena novým bojovým modulem BM-23-2." # todo: NEW TRANSLATION
+ UKR_modernize_btr_80_kba2_flag: "Dokončeno rozhodnutí §YVyvinout BTR-80-KBA-2§!" # todo: NEW TRANSLATION
+ UKR_modernize_btr_80m_hrim_flag: "Dokončeno rozhodnutí §YVyvinout BTR-80M „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55_5tdf: "Vyvinout §YT-55-5TDF§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55_5tdf_desc: "T-55-5TDF je ukrajinská modernizace tanku T-55.\nModernizaci provedla Charkovská konstrukční kancelář O. O. Morozova.\nTank je vybaven dieselovým motorem 5TDF o výkonu 700 koní, který mu umožňuje dosáhnout rychlosti 60 km/h na silnici a 40 km/h v terénu.\nTank je rovněž vybaven novým systémem řízení palby zahrnujícím laserový dálkoměr, balistický počítač a termovizní zaměřovač.\nPancéřová ochrana byla vylepšena instalací dodatečných pancéřových plátů a reaktivního pancéřování." # todo: NEW TRANSLATION
+ UKR_modernize_t55_5tdf_flag: "Dokončeno rozhodnutí §YVyvinout T-55-5TDF§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55agm: "Vyvinout §YT-55AGM§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55agm_desc: "T-55AGM je ukrajinská modernizace tanku T-55.\nTank je vybaven dieselovým motorem 5TDF o výkonu 700 koní, který mu umožňuje dosáhnout rychlosti 60 km/h na silnici a 40 km/h v terénu.\nTank je rovněž vybaven novým systémem řízení palby zahrnujícím laserový dálkoměr, balistický počítač a termovizní zaměřovač.\nPancéřová ochrana byla vylepšena instalací reaktivního pancéřování Nizh." # todo: NEW TRANSLATION
+ UKR_modernize_t55agm_flag: "Dokončeno rozhodnutí §YModernizovat T-55AGM§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55m8_a2_tifon_ii: "Vyvinout §YT-55M8-A2 Tifon 2§!" # todo: NEW TRANSLATION
+ UKR_modernize_t55m8_a2_tifon_ii_desc: "T-55M8-A2 Tifon 2 je ukrajinská modernizace tanku T-55 pro Peru.\nTank je vybaven dieselovým motorem 5TDF o výkonu 700 koní, který mu umožňuje dosáhnout rychlosti 60 km/h na silnici a 40 km/h v terénu.\nTank je rovněž vybaven novým systémem řízení palby zahrnujícím laserový dálkoměr, balistický počítač a termovizní zaměřovač.\nPancéřová ochrana byla vylepšena instalací reaktivního pancéřování Nizh." # todo: NEW TRANSLATION
+ UKR_develop_t64bm_bulat: "Vyvinout §YT-64BM „Bulat“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bm_bulat_desc: "T-64BM „Bulat“ je ukrajinská modernizace, která přivádí T-64B na úroveň T-84.\nJe vybaven reaktivním pancéřováním Nizh, řízenou střelou 9K120 Refleks (kód NATO AT-11 Sniper), systémem řízení palby 1A45 Irtyš, velitelským zaměřovačem TKN-4S, zaměřovačem protiletadlového kulometu PZU-7, nočním zaměřovačem TPN-4E Buran-E a motorem 6TDF o výkonu 1 000 koní (735 kW).\nT-64BM „Bulat“ je nejnovější modernizací z roku 2004." # todo: NEW TRANSLATION
+ UKR_develop_t64e: "Vyvinout §YT-64E§!" # todo: NEW TRANSLATION
+ UKR_develop_t64e_desc: "T-64E je ukrajinský experimentální hlavní bojový tank, který představoval hlubokou modernizaci tanku T-64.\nByl vyvinut v ChBTRZ (Charkovský obrněný opravárenský závod).\nVe srovnání s předchozími modifikacemi T-64 má modernizovaný tank výrazně vyšší palebnou sílu, pohyblivost a ochranu.\nCena tanku T-64E činila v roce 2011 přibližně 1,12 milionu dolarů za kus." # todo: NEW TRANSLATION
+ UKR_develop_t64bv_1: "Vyvinout §YT-64BV-1§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bv_1_desc: "T-64BV-1, v médiích známý také jako T-64B1M/T-64BM1M, je zjednodušená verze modernizace tanků T-64B1 vytvořená v roce 2014 a vyvinutá v Charkovském obrněném závodě.\nTank má vestavěnou ochranu reaktivním pancéřováním Nizh, která posiluje ochranu věže, čelní části korby a boků.\nV zadní části věže je instalován prostor pro munici a vybavení.\nTank je vybaven motorem 5TDF.\nJde o zjednodušenou a levnější variantu modernizace tanku „Bulat“." # todo: NEW TRANSLATION
+ UKR_develop_t64bv_2017: "Vyvinout §YT-64BV vz. 2017§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bv_2017_desc: "T-64BV vz. 2017 je probíhající modernizace tankové řady T-64, jejímž cílem je zavést nové termovizní systémy pro celou osádku, odstranit infračervený světlomet Luna, nahradit zaměřovač TPN1-49-23 ukrajinským nočním zaměřovačem TPN-1-TPV, instalovat moduly reaktivního pancéřování Nizh určené k přišroubování na věže T-64BV, síťový satelitní navigační systém SN-4215 a digitální radiostanici Lybid K-2RB vyráběnou v licenci společnosti Motorola, která zajišťuje zabezpečenou komunikaci s dosahem 70 km." # todo: NEW TRANSLATION
+ UKR_develop_t64bv_2022: "Vyvinout §YT-64BV vz. 2022§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bv_2022_desc: "T-64BV vz. 2022 je nejnovější modernizací tankové řady T-64. Tank má nové průzkumné a zaměřovací systémy třetí generace a je vybaven novým velkorážním kulometem Snipex Laska K-2 ráže 12,7 mm.\nVyznačuje se novými moderními radiostanicemi, doplňkovou navigací a vnitřními i vnějšími komunikačními systémy, které plně odpovídají standardům NATO.\nVnější palivové nádrže jsou nyní chráněny také ocelovými pláty o tloušťce 12 mm." # todo: NEW TRANSLATION
+ UKR_develop_t64_krab: "Vyvinout §YT-64 „Krab“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64_krab_desc: "T-64 „Krab“ je výzkumná a vývojová práce na modernizaci tanku T-64B (T-64BV).\nKonstrukční studie provádí Charkovská konstrukční kancelář mechanického inženýrství O. O. Morozova.\nPráce začaly v roce 2016.\nPro tank T-64 se počítalo s instalací motoru 6TD o výkonu 1 200 koní.\nAby bylo možné instalovat rozměrnější motor než standardní, je sériová korba T-64 prodloužena." # todo: NEW TRANSLATION
+ UKR_develop_t_rex: "Vyvinout §Y„T-Rex“§!" # todo: NEW TRANSLATION
+ UKR_develop_t_rex_desc: "„T-Rex“ je ukrajinský hlavní bojový tank oznámený v roce 2016 a vyvíjený inženýrskou skupinou Arej, která patří k praporu Azov.\nTank měl vycházet z T-64 a být vybaven bezosádkovou věží.\nTři členové osádky měli sedět v pancéřové kapsli v přední části korby a dálkově ovládat kanón, automatický nabíječ i kulomety.\nT-Rex měl vážit 39 tun a být vybaven hlavním kanónem ráže 125 mm s „vysoce výkonnými projektily“.\nPancéřování mělo využívat reaktivní pancéřování Nizh i Duplet.\nUkrajinský tisk uváděl, že bojové schopnosti překonají ukrajinské tanky Oplot a Bulat, přičemž tank bude zároveň levnější než Bulat." # todo: NEW TRANSLATION
+ UKR_develop_t64bm2_bulat: "Vyvinout §YT-64BM2 „Bulat“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bm2_bulat_desc: "T-64BM2, v médiích označovaný také jako „Bulat“ nebo „Kedr“, je modernizace tanku T-64 v rámci programu „Kedr“.\nJedná se o technologický demonstrátor, tedy o výzkumnou a vývojovou práci na přezbrojení tanků typu T-64 motorem 6TD-1 a úplné přepracování motorového a převodového prostoru." # todo: NEW TRANSLATION
+ UKR_develop_t64bm_bulat_flag: "Dokončeno rozhodnutí §YVyvinout T-64BM „Bulat“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64e_flag: "Dokončeno rozhodnutí §YVyvinout T-64E§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bv_1_flag: "Dokončeno rozhodnutí §YVyvinout T-64BV-1§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bv_2017_flag: "Dokončeno rozhodnutí §YVyvinout T-64BV vz. 2017§!" # todo: NEW TRANSLATION
+ UKR_develop_t64_krab_flag: "Dokončeno rozhodnutí §YVyvinout T-64 „Krab“§!" # todo: NEW TRANSLATION
+ UKR_develop_t_rex_flag: "Dokončeno rozhodnutí §YVyvinout „T-Rex“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64bm2_bulat_flag: "Dokončeno rozhodnutí §YVyvinout T-64BM2 „Bulat“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64_strazh: "Vyvinout §YT-64 „Strazh“§!" # todo: NEW TRANSLATION
+ UKR_develop_t64_strazh_desc: "BMPT „Strazh“ bylo experimentální ukrajinské vozidlo palebné podpory tanků vyvinuté na podvozku tanku T-64.\nProjekt společně vyvinuly Žytomyrský obrněný závod, Kyjevský obrněný závod a státní holdingová společnost Artem. Představen byl v roce 2017.\nPůvodní věž T-64 byla nahrazena ukrajinským dálkově ovládaným bojovým modulem „Duplet“, čímž vozidlo získalo zcela jinou úlohu než původní tank.\nProjekt měl poskytovat silně chráněnou palebnou podporu s využitím stávajících podvozků T-64 a ukrajinského bojového vybavení.\n„Strazh“ zůstal experimentálním projektem a nebyl přijat do sériové výroby, §Gale to můžeme změnit, že?§!" # todo: NEW TRANSLATION
+ UKR_develop_t72amt: "Vyvinout §YT-72AMT§!" # todo: NEW TRANSLATION
+ UKR_develop_t72amt_desc: "T-72AMT byl ukrajinskou modernizací tanku T-72A vyvinutou Kyjevským obrněným závodem pro Ozbrojené síly Ukrajiny.\nModernizace zavedla motor V-84-1, vylepšené vybavení pro noční vidění, zaměřovač 1K13 a ukrajinský systém reaktivního pancéřování Nizh.\nTank také obdržel moderní komunikační vybavení a navigační systém SN-3003 „Basalt“, zatímco prvky podvozku byly modernizovány pomocí komponentů vyvinutých pro T-80.\nZaměřovač 1K13 umožnil modernizovanému tanku používat řízený zbraňový systém „Kombat“.\nT-72AMT měl být poměrně ekonomickým způsobem, jak stávající tanky T-72 přiblížit moderním ukrajinským operačním požadavkům." # todo: NEW TRANSLATION
+ UKR_modernize_zsu_23_4m_a1_spaa: "Vyvinout §YZSU-23-4M-A1 „Rokach“§!" # todo: NEW TRANSLATION
+ UKR_modernize_zsu_23_4m_a1_spaa_desc: "ZSU-23-4M-A1 „Rokach“ je ukrajinská modernizace sovětského samohybného protiletadlového kanónu ZSU-23-4 „Šilka“.\nModernizace nahrazuje zastaralé systémy řízení palby a pozorovací vybavení moderním digitálním systémem, čímž zlepšuje schopnost vozidla odhalovat a sledovat vzdušné cíle.\nSystém si zachovává čtyři automatické kanóny ráže 23 mm a zároveň získává vylepšenou elektroniku a čtyři protiletadlové střely krátkého dosahu.\nTyto změny výrazně zvyšují bojovou účinnost ZSU-23-4 proti nízkoletícím cílům." # todo: NEW TRANSLATION
+ UKR_modernize_s125_spaa: "Vyvinout §YS-125-2D§!" # todo: NEW TRANSLATION
+ UKR_modernize_s125_spaa_desc: "S-125-2D je ukrajinská modernizace sovětského protiletadlového raketového systému S-125.\nModernizace má nahradit zastaralé elektronické komponenty a zvýšit odolnost systému proti elektronickému boji a moderním protiopatřením.\nRadarové a naváděcí vybavení je modernizováno a systém získává lepší schopnosti odhalovat, sledovat a napadat vzdušné cíle.\nModernizace má prodloužit životnost systému S-125 a současně zvýšit jeho účinnost na moderním bojišti." # todo: NEW TRANSLATION
+ UKR_modernize_s125m_spaa: "Vyvinout §YS-125M§!" # todo: NEW TRANSLATION
+ UKR_modernize_s125m_spaa_desc: "S-125M byl ukrajinský modernizační program určený k prodloužení životnosti a schopností sovětského systému protivzdušné obrany S-125 „Pěčora“.\nProgram prováděly ukrajinské obranné společnosti včetně KB Luč a Radionix. Práce se zaměřily na modernizaci střely a naváděcího systému i systému řízení palby.\nModernizace zahrnovala vylepšené střely 5V27D a radarový systém FCR-125, který nahradil důležité prvky původního sovětského vybavení.\nProjekt S-125M poskytl Ukrajině možnost výrazně prodloužit užitečnou životnost stávajících systémů S-125 bez vývoje zcela nového komplexu protivzdušné obrany." # todo: NEW TRANSLATION
+ UKR_modernize_kvadrat_spaa: "Vyvinout §Y2K12M1-2L „Kvadrat-2L“§!" # todo: NEW TRANSLATION
+ UKR_modernize_kvadrat_spaa_desc: "2K12M1-2L „Kvadrat-2L“ je ukrajinská modernizace sovětského protiletadlového raketového systému 2K12M1 „Kub“.\nModernizace nahrazuje řadu zastaralých elektronických komponent moderním vybavením ukrajinské výroby.\nSystém získává lepší radarové schopnosti a systém řízení palby, čímž se zvyšuje jeho schopnost odhalovat, sledovat a napadat vzdušné cíle.\nModernizace má prodloužit životnost zbývajících systémů 2K12M1 a současně zvýšit jejich účinnost proti moderním hrozbám." # todo: NEW TRANSLATION
+ UKR_modernize_rk10_spaa: "Integrace Strela-10 §YRK-10§!" # todo: NEW TRANSLATION
+ UKR_modernize_rk10_spaa_desc: "RK-10 je ukrajinská protiletadlová řízená střela vyvinutá jako alternativa ke stárnoucím střelám používaným v sovětských systémech protivzdušné obrany krátkého dosahu.\nIntegrace RK-10 se systémem Strela-10 by umožnila jeho odpalovacím zařízením používat novější střelu při zachování stávající infrastruktury vozidel a odpalovacích zařízení.\nNová střela poskytuje lepší schopnosti napadení cíle a umožňuje systému zůstat v provozu bez závislosti na stále zastaralejší sovětské munici.\nTato modernizace by prodloužila životnost flotily Strela-10 a současně zvýšila její bojovou účinnost." # todo: NEW TRANSLATION
+ UKR_develop_bm21_k: "Vyvinout §YBM-21K§! MLRS" # todo: NEW TRANSLATION
+ UKR_develop_bm21_k_desc: "\n\n\n\n\n\n£UKR_desctext_modernize_sov_bm21k_for_tooltip\n\n\n\n\n\n\n\n\nBM-21K je ukrajinská modernizace sovětského raketometu BM-21 „Grad“.\nSystém je umístěn na moderním podvozku ukrajinského nákladního automobilu KrAZ a získává vylepšené navigační, komunikační a palebné systémy.\nModernizace zlepšuje pohyblivost systému a umožňuje osádkám efektivněji připravovat a provádět palebné úkoly.\nBM-21K poskytuje poměrně levný způsob modernizace rozsáhlé ukrajinské flotily raketometů Grad ze sovětské éry." # todo: NEW TRANSLATION
+ UKR_develop_bastion03: "Vyvinout §Y„Bastion-03“§! MLRS" # todo: NEW TRANSLATION
+ UKR_develop_bastion03_desc: "\n\n\n\n\n\n£UKR_desctext_modernize_sov_bastion03_for_tooltip\n\n\n\n\n\n\n\n\n„Bastion-03“ je ukrajinský raketomet vyvinutý jako modernizace sovětského systému BM-27 „Uragan“ v Šepetivském opravárenském závodě.\nSystém je založen na moderním automobilovém podvozku.\nModernizace zlepšuje pohyblivost a zkracuje dobu potřebnou k přípravě odpalovacího zařízení k palbě.\nBastion-03 by Ukrajině umožnil nadále používat stávající rakety ráže 220 mm a zároveň nahradit zastaralý sovětský podvozek." # todo: NEW TRANSLATION
+ UKR_develop_bureviy: "Vyvinout nový raketomet §Y„Burevij“§!" # todo: NEW TRANSLATION
+ UKR_develop_bureviy_desc: "\n\n\n\n\n\n£GFX_UKR_desctext_modernize_sov_bastion03_for_tooltip\n\n\n\n\n\n\n\n\n„Burevij“ je ukrajinský raketomet navržený jako moderní náhrada stárnoucí rodiny BM-27 „Uragan“.\nSystém je umístěn na moderním podvozku Tatra T815-7T3R2T a využívá digitální systémy řízení palby a navigace.\nBurevij je navržen pro použití stávajících raket Smerč ráže 220 mm i nové ukrajinské munice.\nKombinace moderní elektroniky, lepší pohyblivosti a kompatibility se stávající municí činí ze systému praktickou modernizaci ukrajinského raketového dělostřelectva." # todo: NEW TRANSLATION
+ UKR_modernize_mi24pu1: "Vyvinout modernizaci §YMi-24PU1§!" # todo: NEW TRANSLATION
+ UKR_modernize_mi24pu1_desc: "Mi-24PU-1 je ukrajinská modernizace vrtulníku Mi-24P vyvinutá Konotopským leteckým opravárenským závodem „Aviakon“ spolu s ukrajinskými podniky obranného průmyslu.\nVrtulník obdržel výkonnější motory TV3-117VMA-SBM1V-02 od společnosti Motor Sich, modernizovanou avioniku a navigační vybavení a systémy pro provoz s přístroji nočního vidění.\nModernizace zahrnovala také ochranný systém Adros KT-01AV, laserový zaměřovací systém FPM-01KV a vylepšený zaměřovač ASP-17VPM-V.\nProgram zahrnoval společnosti Motor Sich, Adron, TsKB Arsenal a Izjumský závod přístrojů a aparatur; pozdější verze využívaly také ukrajinské elektrooptické vybavení.\nMi-24PU-1 tak spojoval rozsáhlou opravu původního vrtulníku s novými ukrajinskými motory, avionikou, ochrannými a zaměřovacími systémy." # todo: NEW TRANSLATION
+ UKR_develop_domestic_category: "Vyvíjet domácí zbraňové systémy" # todo: NEW TRANSLATION
+ UKR_develop_domestic_category_desc: "Můžeme investovat čas a zdroje do výzkumu a vývoje vlastních moderních zbraňových systémů. S využitím ukrajinských inženýrských znalostí a průmyslových tradic můžeme vytvořit vybavení přizpůsobené potřebám našich ozbrojených sil. Vybudování domácího obranného průmyslu posílí naše vojenské schopnosti a sníží naši závislost na zahraničních dodavatelích." # todo: NEW TRANSLATION
+ UKR_develop_btr3u: "Vyvinout §YBTR-3U „Myslyvets“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3u_desc: "BTR-3U „Myslyvets“, známý také jako BTR-3U „Guardian“, je hlubokou modifikací vozidla BTR-94K s motorem Deutz BF6M1015 o výkonu 326 koní a automatickou převodovkou Allison MD3066 nebo s motorem UTD-20 o výkonu 300 koní.\nCharkovská konstrukční kancelář O. O. Morozova vypracovala konstrukční dokumentaci, vývoj podvozku a integraci všech systémů a zbraní vozidla.\nVýzbroj zahrnuje bojový modul KBA-105 „Škval“ s 30mm automatickým kanónem ZTM-1, spřaženým kulometem KT-7,62 ráže 7,62 mm, dvěma odpalovači protitankových střel 9M114M „Konkurs-M“ a 30mm automatickým granátometem.\nVozidlo je vybaveno zaměřovacím komplexem 0TP-20 integrovaným se systémem řízení palby řízených střel a dvourovinným stabilizátorem zbraní SVU-500." # todo: NEW TRANSLATION
+ UKR_develop_btr3e: "Vyvinout §YBTR-3E§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e_desc: "BTR-3E je modifikace s motorem UTD-20 nebo Deutz BF6M1015.\nJe vybaven bojovým modulem BM-3M „Sturm-M“, jehož výzbroj zahrnuje 30mm automatický kanón ZTM-1, spřažený kulomet KT-7,62 ráže 7,62 mm, dva odpalovače se šesti raketami „Baryer“ a 30mm automatický granátomet KBA-117." # todo: NEW TRANSLATION
+ UKR_develop_btr3e1: "Vyvinout §YBTR-3E1§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_desc: "BTR-3E1 je modifikace vozidla BTR-3E vytvořená speciálně pro splnění požadavků thajského kontraktu z let 2005–2006.\nHlavními vlastnostmi této verze ve srovnání s BTR-3E jsou instalace modernizovaného bojového modulu BM-3M „Šturm“, snížení výšky z 2 928 mm na 2 774 mm, zvýšení bojové osádky z 9 na 13 osob, instalace radiostanice VRC-950 a umístění dodatečné munice pro bojový modul." # todo: NEW TRANSLATION
+ UKR_develop_btr3da: "Vyvinout §YBTR-3DA§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3da_desc: "BTR-3DA je dalším vývojem obrněného transportéru, který zohledňuje zkušenosti z války na východě Ukrajiny.\nObrněný transportér BTR-3DA je rychlejší a obratnější než jeho předchůdci, má vylepšenou pancéřovou ochranu osádky a optoelektronický modul s televizním a termovizním kanálem.\nDíky tomu je možné vést palbu v noci.\nPomocná pohonná jednotka umožňuje ovládat bojový modul bez použití hlavní pohonné jednotky." # todo: NEW TRANSLATION
+ UKR_develop_btr3u_flag: "Dokončeno rozhodnutí §YVyvinout BTR-3U „Myslyvets“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e_flag: "Dokončeno rozhodnutí §YVyvinout BTR-3E§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_flag: "Dokončeno rozhodnutí §YVyvinout BTR-3E1§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3da_flag: "Dokončeno rozhodnutí §YVyvinout BTR-3DA§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_cse90lp: "Vyvinout §YBTR-3E1 CSE90LP§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_cse90lp_desc: "BTR-3E1 CSE90LP je modifikace vozidla BTR-3E1 vybavená věží Cockerill CSE 90LP s kanónem ráže 90 mm s nízkým tlakem.\nVěž je vybavena spřaženým kulometem ráže 7,62 mm a automatickým granátometem ráže 40 mm.\nVěž má automatický systém řízení palby zahrnující laserový dálkoměr, termovizi a balistický počítač." # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_cpws30: "Vyvinout §YBTR-3E CPWS-30§!" # todo: NEW TRANSLATION
+ UKR_develop_btr3e1_cpws30_desc: "BTR-3E CPWS-30 je modifikace vozidla BTR-3E vybavená věží CPWS-30 s 30mm automatickým kanónem.\nVěž je vybavena spřaženým kulometem ráže 7,62 mm a automatickým granátometem ráže 40 mm.\nVěž má automatický systém řízení palby zahrnující laserový dálkoměr, termovizi a balistický počítač." # todo: NEW TRANSLATION
+ UKR_develop_t84u: "Vyvinout §YT-84U „Oplot“§!" # todo: NEW TRANSLATION
+ UKR_develop_t84u_desc: "T-84U „Oplot“ je ukrajinský hlavní bojový tank třetí generace vyvinutý Charkovskou konstrukční kanceláří O. O. Morozova na základě tanku T-84.\nTank obdržel novou svařovanou a válcovanou věž s celistvou lisovanou střechou vyrobenou elektrostruskovým přetavováním, díky čemuž má vyšší pevnost a odolnost.\nDíky jednoduššímu tvaru věže bylo možné účinně umístit vícevrstvý pancíř. Zvětšil se také její vnitřní objem.\nNa čelní projekci věže byla instalována nová dynamická ochrana „Nizh“ třetí generace ukrajinské výroby.\nTank je vybaven dynamickou a aktivní ochranou ukrajinské výroby, zaměřovacími přístroji zahraniční výroby a zvětšenými bočními zástěnami." # todo: NEW TRANSLATION
+ UKR_develop_yatahan: "Vyvinout §YT-84-120 „Yatahan“§!" # todo: NEW TRANSLATION
+ UKR_develop_yatahan_desc: "T-84-120 „Yatahan“ je verze tanku T-84U „Oplot“ s kanónem ráže 120 mm upraveným podle standardů NATO namísto obvyklého kanónu ráže 125 mm. Vyvinula jej Charkovská konstrukční kancelář O. O. Morozova.\nTank má kanón KBM2 ráže 120 mm používající munici NATO ráže 120 mm.\nKaruselový automatický nabíječ, původně francouzský a později vyráběný na Ukrajině, se nachází v zadní části věže.\nJe možné instalovat nový kanón „Bahira“ ráže 140 mm.\nTank je sestaven z komponentů ukrajinské výroby, přesto je plně kompatibilní s komponenty zahraniční výroby." # todo: NEW TRANSLATION
+ UKR_develop_bahira: "Vyvinout §YT-84-140 „Bahira“§!" # todo: NEW TRANSLATION
+ UKR_develop_bahira_desc: "T-84-140 „Bahira“ je navrhovaná verze tanku T-84-120 „Yatahan“, která by byla vybavena kanónem „Bahira“ ráže 140 mm vyvinutým Charkovskou konstrukční kanceláří O. O. Morozova.\nKaruselový automatický nabíječ se nachází v zadní části věže.\nTank je sestaven z komponentů ukrajinské výroby, přesto je plně kompatibilní s komponenty zahraniční výroby." # todo: NEW TRANSLATION
+ UKR_develop_bm_oplot: "Vyvinout §YT-84 „BM Oplot“§!" # todo: NEW TRANSLATION
+ UKR_develop_bm_oplot_desc: "T-84 „BM Oplot“ je nejnovější a nejpokročilejší verze hlavního bojového tanku T-84U „Oplot“, vyvinutá Charkovskou konstrukční kanceláří O. O. Morozova.\nMezi jeho charakteristické vlastnosti patří pokročilejší pancéřování, nové systémy elektronických protiopatření a další vylepšení.\nVýrazným prvkem je nový panoramatický zaměřovač tanku PNK-6." # todo: NEW TRANSLATION
+ UKR_develop_bastion: "Vyvinout §YT-84 „Bastion“§!" # todo: NEW TRANSLATION
+ UKR_develop_bastion_desc: "T-84 „Bastion“ je uváděný modernizační program, podle nějž se má tank zbavit součástí ruské výroby.\nVerze T-84 „BM Oplot“ přijatá v roce 2009 obsahovala určitý počet komponentů a materiálů ruského původu, například jednotlivé části elektrického vybavení a komponenty bloků a systémů.\nUvádí se, že jich je poměrně málo, ale všechny by měly být zcela nahrazeny.\nPlánovalo se, že základna komponentů bude nejen zbavena ruských součástí, ale také výrazně modernizována." # todo: NEW TRANSLATION
+ UKR_develop_t84u_flag: "Dokončeno rozhodnutí §YVyvinout T-84U „Oplot“§!" # todo: NEW TRANSLATION
+ UKR_develop_t84_yatahan_flag: "Dokončeno rozhodnutí §YVyvinout T-84-120 „Yatahan“§!" # todo: NEW TRANSLATION
+ UKR_develop_bm_oplot_flag: "Dokončeno rozhodnutí §YVyvinout T-84 „BM Oplot“§!" # todo: NEW TRANSLATION
+ UKR_develop_donets_spaa: "Vyvinout §Y„Donets“§!" # todo: NEW TRANSLATION
+ UKR_develop_donets_spaa_desc: "„Donets“ je samohybný protiletadlový raketový a dělostřelecký komplex vyvinutý Charkovským závodem Malyshev a určený především pro export.\n„Donets“ kombinuje modernizovanou věž ze sovětského systému ZSU-23-4 „Šilka“ s podvozkem hlavního bojového tanku T-80UD/T-84.\nPo stranách věže jsou instalovány dva párové přepravně-odpalovací kontejnery s raketami systému protivzdušné obrany „Strela-10M“.\nStřely s autonomním pasivním naváděcím systémem dokážou zasahovat vzdušné cíle na vzdálenost až 4 500 m a ve výšce 3 500 m." # todo: NEW TRANSLATION
+ UKR_develop_t38_stylet_spaa: "Vyvinout projekt protiletadlového systému §YT-38 „Stylet“§!" # todo: NEW TRANSLATION
+ UKR_develop_t38_stylet_spaa_desc: "T-38 „Stylet“ je ukrajinský protiletadlový raketový systém krátkého dosahu vyvinutý závodem Arsenal společně s běloruskými partnery.\nSystém používá střelu T382 a je určen k ničení letadel, vrtulníků, řízených střel a dalších nízkoletících vzdušných cílů.\nKomplex je umístěn na pásovém podvozku, který mu poskytuje vysokou pohyblivost a umožňuje působit po boku mechanizovaných jednotek.\nVývoj systému T-38 poskytuje Ukrajině moderní náhradu za stárnoucí sovětské systémy krátkého dosahu Osa." # todo: NEW TRANSLATION
+ UKR_develop_kentavr_spaa: "Vyvinout §YZRAK „Kentavr“§!" # todo: NEW TRANSLATION
+ UKR_develop_kentavr_spaa_desc: "ZRAK „Kentavr“ byl ukrajinský koncept nového samohybného protiletadlového systému vyvinutého jako další vývoj dřívějšího projektu „Pereach“.\nProjekt byl přepracován kolem dvou párových automatických kanónů ráže 40 mm, které nahradily původní koncepci založenou na protiletadlovém kanónu ráže 57 mm. Zároveň zůstala zachována raketová složka a specializované vybavení řízení palby.\nKoncept „Kentavr“ měl kombinovat radarovou detekci cílů s elektrooptickým systémem řízení palby a umožnit vozidlu napadat vzdušné cíle kanónovou i raketovou výzbrojí.\nSystém byl plánován na pásovém podvozku odvozeném od perspektivní ukrajinské tankové platformy vyvíjené Charkovskou konstrukční kanceláří Morozova v rámci vývojového programu „Molot“/„Bokser“." # todo: NEW TRANSLATION
+ UKR_develop_Vilkha: "Vyvinout nový raketomet §Y„Vilkha“§!" # todo: NEW TRANSLATION
+ UKR_develop_Vilkha_desc: "\n\n\n\n\n\n£UKR_desctext_develop_domestic_vilkha_for_tooltip\n\n\n\n\n\n\n\n\n„Vilkha“ je ukrajinský raketomet vyvinutý z letounu BM-30 „Smerč“ konstrukční kanceláří Luč.\nProjekt nahrazuje původní neřízené rakety novými řízenými střelami vybavenými ukrajinským naváděcím systémem.\nSystém je navržen tak, aby poskytoval výrazně vyšší přesnost při zachování vysokého ničivého potenciálu a dosahu těžkého raketometu.\nVývoj systému Vilkha představuje přechod od neřízeného raketového dělostřelectva sovětské éry k moderním schopnostem přesných úderů." # todo: NEW TRANSLATION
+ UKR_develop_stuhna_p_atgm: "Vyvinout §YRK-2 „Stuhna-P“§!" # todo: NEW TRANSLATION
+ UKR_develop_stuhna_p_atgm_desc: "\n\n\n\n\n\n£UKR_desctext_develop_domestic_stuhna_p_for_tooltip\n\n\n\n\n\n\n\n\nStuhna-P, známá ve své exportní verzi jako Skif, je ukrajinský protitankový řízený raketový systém vyvinutý na začátku 21. století konstrukční kanceláří Luč.\nStuhna-P je určena k ničení moderních obrněných cílů s kombinovaným nebo monolitickým pancéřováním včetně reaktivního pancéřování.\nStuhna-P může napadat nehybné i pohyblivé cíle.\nMůže útočit na velkou vzdálenost až 5 kilometrů ve dne i na krátkou vzdálenost až 100 metrů." # todo: NEW TRANSLATION
+ UKR_develop_corsar_atgm: "Vyvinout §YRK-3 „Corsar“§!" # todo: NEW TRANSLATION
+ UKR_develop_corsar_atgm_desc: "RK-3 Corsar je ukrajinská lehká přenosná protitanková řízená střela vyvinutá Státní konstrukční kanceláří Luč v Kyjevě.\nCorsar pravděpodobně nahradí sovětské protitankové systémy, jako jsou 9M113 Konkurs a 9K111 Fagot.\nJe určen k ničení nehybných i pohyblivých obrněných cílů. Lze jej použít také proti opevněním, lehce obrněným objektům a vrtulníkům.\nPalbu lze vést z lafety i přes parapet zákopu. Navádění probíhá po laserovém paprsku." # todo: NEW TRANSLATION
+ UKR_modernize_stuhna_p_atgm: "Modernizovat §YRK-2 „Stuhna-P“§!" # todo: NEW TRANSLATION
+ UKR_modernize_stuhna_p_atgm_desc: "Můžeme dále modernizovat protitankový komplex Stuhna-P, aby lépe odpovídal současným hrozbám." # todo: NEW TRANSLATION
+ UKR_develop_bulava_atgm: "Vyvinout §Y„Bulava“§!" # todo: NEW TRANSLATION
+ UKR_develop_bulava_atgm_desc: "Budoucí protitankový raketový komplex se schopností typu „vystřel a zapomeň“.\nVšechny informace jsou v současnosti utajeny." # todo: NEW TRANSLATION
+ UKR_develop_stuhna_p_flag: "Dokončeno rozhodnutí Vyvinout RK-2 Stuhna-P" # todo: NEW TRANSLATION
+ UKR_develop_corsar_flag: "Dokončeno rozhodnutí Vyvinout RK-3 Corsar" # todo: NEW TRANSLATION
+ UKR_develop_kba27: "Vyvinout samohybné dělostřelectvo KBA-27" # todo: NEW TRANSLATION
+ UKR_develop_kba27_desc: "KBA-27 je ukrajinská houfnice ráže 152 mm odvozená od sovětského systému 2A61 Pat-B. Experimentální varianta instalovala kanón na obojživelný transportér PTS-2 a spojovala těžkou dělostřeleckou palebnou sílu s vysokou pohyblivostí a obojživelnými schopnostmi. Další vývoj by mohl tento prototyp proměnit v životaschopný samohybný dělostřelecký systém." # todo: NEW TRANSLATION
+ UKR_modernize_stuhna_p_flag: "Dokončeno rozhodnutí Modernizovat RK-2 Stuhna-P" # todo: NEW TRANSLATION
+ UKR_develop_baryer_s: "Vyvinout §Y„Baryer-S“§!" # todo: NEW TRANSLATION
+ UKR_develop_baryer_s_desc: "Baryer-S je ukrajinský protitankový řízený raketový systém vyvinutý konstrukční kanceláří Luč na základě systému Shturm-S.\nBaryer-S je určen k ničení moderních obrněných cílů s kombinovaným nebo monolitickým pancéřováním včetně reaktivního pancéřování." # todo: NEW TRANSLATION
+ UKR_develop_nota_flag: "Dokončeno rozhodnutí §YVyvinout „Nota“§!" # todo: NEW TRANSLATION
+ UKR_develop_nota: "Vyvinout hlavní bojový tank §YObjekt 477A1 „Nota“§!" # todo: NEW TRANSLATION
+ UKR_develop_nota_desc: "Objekt 477A1 Nota je pokročilý sovětský experimentální hlavní bojový tank s bezosádkovou věží, odděleným prostorem osádky a výkonným hlavním kanónem ráže 152 mm." # todo: NEW TRANSLATION
+ UKR_modernize_nota: "Modernizovat §YObjekt 477A1 „Nota“§!" # todo: NEW TRANSLATION
+ UKR_modernize_nota_desc: "Objekt 477A1 „Nota“ je ukrajinský vývoj pokročilého projektu sovětského hlavního bojového tanku Objekt 477 „Molot“.\nKonstrukce zahrnuje silně chráněný prostor osádky, bezosádkový bojový prostor a výkonnou hlavní výzbroj.\nModernizace by zavedla aktualizovanou elektroniku, ochranné systémy a další komponenty a zároveň přizpůsobila konstrukci technologiím dostupným ukrajinskému obrannému průmyslu.\nPřestože projekt nikdy nedospěl k sériové výrobě, další vývoj by mohl vytvořit základ pokročilého ukrajinského hlavního bojového tanku." # todo: NEW TRANSLATION
+ UKR_develop_2s22: "Vyvinout §Y2S22§! samohybný dělostřelecký systém" # todo: NEW TRANSLATION
+ UKR_develop_2s22_desc: "\n\n\n\n\n\n£UKR_desctext_develop_domestic_2s22_for_tooltip\n\n\n\n\n\n\n\n\n2S22 „Bohdana“ je ukrajinská samohybná houfnice ráže 155 mm vyvinutá Kramatorským závodem těžkého obráběcího strojírenství s cílem poskytnout Ozbrojeným silám Ukrajiny moderní dělostřelecké schopnosti podle standardů NATO.\nSystém je umístěn na kolovém podvozku, který poskytuje vysokou operační pohyblivost a umožňuje rychlou změnu palebného postavení po napadení nepřítele.\nKanón ráže 155 mm může používat standardní dělostřeleckou munici NATO, což výrazně zvyšuje dosah a palebnou sílu ukrajinských dělostřeleckých jednotek.\nAutomatizované systémy řízení palby a navigace umožňují osádce rychle vypočítat palebná data a s vyšší přesností zasahovat cíle.\nVývoj systému „Bohdana“ představuje významný krok v modernizaci ukrajinského dělostřelectva a přechodu ke zbraňovým systémům standardu NATO." # todo: NEW TRANSLATION
+ ukraine_develop_2s22.1.name: "Vyvinout samohybné dělo §Y2S22 „Bohdana“§!" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.1.desc: "Jak mluvíme, technologie postupuje kupředu, ale naše zbraně zůstávají stejné.\nMusíme pro naše síly vyvinout vlastní nové samohybné dělo." # todo: NEW TRANSLATION
+ ukraine_develop_2s22.1.a: "Poskytnout základní částku" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.1.b: "Poskytnout rozsáhlé financování" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.2.name: "KrZVV vyvinula projekt nového samohybného děla" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.2.desc: "Prověřili jsme situaci a nyní jsme si jisti, že KrZVV skutečně vytvořila projekt nového samohybného děla pro naši armádu.\nKvůli nedostatečnému financování, které jsme poskytli, však nebyli schopni vytvořit novou hlaveň a místo ní museli použít starou sovětskou." # todo: NEW TRANSLATION
+ ukraine_develop_2s22.2.a: "Dobře, zahajme výrobu!" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.3.name: "KrZVV vyvinula projekt nového samohybného děla" # todo: NEW TRANSLATION
+ ukraine_develop_2s22.3.desc: "Prověřili jsme situaci a nyní jsme si jisti, že KrZVV skutečně vytvořila projekt nového samohybného děla pro naši armádu.\nNavíc díky dodatečnému financování, které jsme poskytli, vyvinuli každý aspekt samohybného děla od základů, zcela nově a kvalitně!." # todo: NEW TRANSLATION
+ ukraine_develop_2s22.3.a: "Skvělé, zahajme výrobu!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_category: "Vyvinout BTR-4[UKR_btr4_development_steps_loc]" # todo: NEW TRANSLATION
+ UKR_develop_btr4_category_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_main\n\n\n\n\n\n\n\n\nMůžeme věnovat čas a peníze výzkumu a testování zcela nové domácí konstrukce moderního obrněného transportéru." # todo: NEW TRANSLATION
+ UKR_develop_btr4_choose_role: "Vyberte roli pro §YBTR-4§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_choose_role_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_roles_for_tooltip\n\n\n\n\n\n\n\n\n§YBTR-4§! měl představovat krok vpřed oproti předchozím sovětským konstrukcím a od počátku byl navržen pro použití těžších zbraní.\nMůžeme pro toto vybavení zvolit požadovanou roli – lehčí a levnější obrněný transportér, nebo dražší a silněji vyzbrojené bojové vozidlo pěchoty.\nNaše rozhodnutí ovlivní, které prapory budou vybaveny vozidly BTR-4: mechanizované, nebo obrněné.\nPokud budeme chtít, budeme mít možnost vyrábět v zásadě stejný typ vybavení i v opačné roli." # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_module: "Vyberte hlavní výzbroj pro §YBTR-4§! APC" # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_module_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_apc_modules_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout, jaká přesná hlavní výzbroj bude použita na našem nově navrženém obrněném transportéru §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_module: "Vyberte hlavní výzbroj pro §YBTR-4§! IFV" # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_module_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_ifv_modules_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout, jaká přesná hlavní výzbroj bude použita na našem nově navrženém bojovém vozidle pěchoty §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_engine: "Vyberte motor pro §YBTR-4§! APC" # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_engine_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_engines_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout, jaký přesný motor bude použit v našem nově navrženém obrněném transportéru §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_engine: "Vyberte motor pro §YBTR-4§! IFV" # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_engine_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_engines_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout, jaký přesný motor bude použit v našem nově navrženém bojovém vozidle pěchoty §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_testing: "Vyberte testovací program pro §YBTR-4§! APC" # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_choose_testing_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_tests_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout o délce a náročnosti předvýrobních zkoušek obrněného transportéru §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_testing: "Vyberte testovací program pro §YBTR-4§! IFV" # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_choose_testing_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_tests_for_tooltip\n\n\n\n\n\n\n\n\nMůžeme rozhodnout o délce a náročnosti předvýrobních zkoušek bojového vozidla pěchoty §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_start_production: "Zahájit výrobu §YBTR-4§! APC" # todo: NEW TRANSLATION
+ UKR_develop_btr4_apc_role_start_production_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_production_for_tooltip\n\n\n\n\n\n\n\n\nKonečně můžeme zahájit výrobu obrněných transportérů §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_start_production: "Zahájit výrobu §YBTR-4§! IFV" # todo: NEW TRANSLATION
+ UKR_develop_btr4_ifv_role_start_production_desc: "\n\n\n\n\n\n£UKR_desctext_btr4_production_for_tooltip\n\n\n\n\n\n\n\n\nKonečně můžeme zahájit výrobu bojových vozidel pěchoty §YBTR-4§!." # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_flag: "Po dokončení rozhodnutí §YVyberte roli pro BTR-4§! byla zvolena role §GAPC§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_flag: "Po dokončení rozhodnutí §YVyberte roli pro BTR-4§! byla zvolena role §GIFV§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 APC§! zvolen §Gkulomet§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 APC§! zvolen §Gzbraňový modul§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_module_bm_flag: "Jako hlavní výzbroj role §GIFV§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 IFV§! zvolen §Gzbraňový modul§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_shkval_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 APC§! zvolen §GKBA-105 „Shkval“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_hrim_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 APC§! zvolen §GBM-1B „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bau23_2_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 APC§! zvolen §GBAU 23x2§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_module_shkval_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 IFV§! zvolen §GKBA-105 „Shkval“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_module_hrim_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 IFV§! zvolen §GBM-1B „Hrim“§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_module_bau23_2_flag: "Jako hlavní výzbroj role §GAPC§! byl po dokončení rozhodnutí §YZvolte hlavní výzbroj pro BTR-4 IFV§! zvolen §GBAU 23x2§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_engine_3td_flag: "Jako motor role §GAPC§! s kulometnou výzbrojí byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §G3TD-3§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_engine_deutz_flag: "Jako motor role §GAPC§! s kulometnou výzbrojí byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §GDeutz BF6M1015CP§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_engine_iveco_flag: "Jako motor role §GAPC§! s kulometnou výzbrojí byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §GIveco Cursor 10-430§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_engine_3td_flag: "Jako motor role §GAPC§! vybavené modulem byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §G3TD-3§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_engine_deutz_flag: "Jako motor role §GAPC§! vybavené modulem byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §GDeutz BF6M1015CP§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_engine_iveco_flag: "Jako motor role §GAPC§! vybavené modulem byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 APC§! zvolen §GIveco Cursor 10-430§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_engine_3td_flag: "Jako motor role §GIFV§! byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 IFV§! zvolen §G3TD-3§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_engine_deutz_flag: "Jako motor role §GIFV§! byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 IFV§! zvolen §GDeutz BF6M1015CP§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_engine_iveco_flag: "Jako motor role §GIFV§! byl po dokončení rozhodnutí §YZvolte motor pro BTR-4 IFV§! zvolen §GIveco Cursor 10-430§!" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_basic_tests_flag: "Po dokončení rozhodnutí §YZvolte testovací program pro BTR-4 APC§! byla pro roli §GAPC§! s kulometnou výzbrojí zvolena §Gzákladní0§! zkouška" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_mg_extended_tests_flag: "Po dokončení rozhodnutí §YZvolte testovací program pro BTR-4 APC§! byla pro roli §GAPC§! s kulometnou výzbrojí zvolena §Grozšířená0§! zkouška" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_basic_tests_flag: "Po dokončení rozhodnutí §YZvolte testovací program pro BTR-4 APC§! byla pro roli §GAPC§! vybavenou modulem zvolena §Gzákladní0§! zkouška" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_apc_module_bm_extended_tests_flag: "Po dokončení rozhodnutí §YZvolte testovací program pro BTR-4 APC§! byla pro roli §GAPC§! vybavenou modulem zvolena §Grozšířená0§! zkouška" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_basic_tests_flag: "Po dokončení rozhodnutí §YZahájit výrobu BTR-4 IFV§! byla pro roli m§GIFV§! zvolena §Gzákladní0§! zkouška" # todo: NEW TRANSLATION
+ UKR_develop_btr4_role_ifv_extended_tests_flag: "Po dokončení rozhodnutí §YCZahájit výrobu BTR-4 IFV§! byla pro roli §GIFV§! zvolena §Grozšířená0§! zkouška" # todo: NEW TRANSLATION
+ UKR_btr4_development_steps_with_total_loc: "(Krok §G[?btr4_current_step]§! z §R[?btr4_total_steps]§!)" # todo: NEW TRANSLATION
+ UKR_btr4_development_steps_without_total_loc: "(Krok §G[?btr4_current_step]§! z §Rneznámého počtu§!)" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.1.name: "Vyberte bojovou roli „BTR-4“" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.1.desc: "Můžeme pro toto vybavení zvolit požadovanou roli – lehčí a levnější obrněný transportér, nebo dražší a silněji vyzbrojené bojové vozidlo pěchoty.\nNaše rozhodnutí ovlivní, které prapory budou vybaveny vozidly BTR-4: mechanizované, nebo obrněné.\nPokud budeme chtít, budeme mít možnost vyrábět v zásadě stejný typ vybavení i v opačné roli." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.1.a: "APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.1.b: "IFV" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.2.name: "Vyberte hlavní výzbroj pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.2.desc: "Můžeme zvolit požadovanou hlavní výzbroj pro BTR-4 APC.\nPokud chceme snížit výrobní náklady, můžeme vybrat kulomet, ale pokud chceme maximalizovat bojovou účinnost, můžeme vybírat z několika dostupných těžších zbraňových modulů." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.2.a: "Pouze kulomet" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.2.b: "Zbraňový modul" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.3.name: "Vyberte zbraňový modul pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.3.desc: "Můžeme zvolit požadovaný zbraňový modul pro BTR-4 APC.\n\nVýzbroj §YBM-1B „Hrim“§!: 1× 30mm automatický kanón, 1× 30mm automatický granátomet, 1× 7,62mm spřažený kulomet, 4× protitankové střely 9P135M „Konkurs“ nebo „Barier“.\n\nVýzbroj §YKBA-105 „Shkval“§!: 1× 30mm automatický kanón, 1× 7,62mm spřažený kulomet, 4× protitankové střely 9P135M „Konkurs“ nebo „Barier“ (volitelně 1× 30mm automatický granátomet, ovšem s omezením na 2× protitankové střely).\n\nVýzbroj §YBAU 23x2§!: 2× 23×152mm automatický kanón, 1× 7,62mm spřažený kulomet." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.3.a: "BM-1B „Hrim“" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.3.b: "KBA-105 „Shkval“" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.3.c: "BAU 23x2" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.4.name: "Vyberte motor pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.4.desc: "Můžeme zvolit požadovaný motor pro BTR-4 APC.\n\n§Y3TD-3§!: Ukrajinský dvoudobý tříválcový dieselový motor s výkonem 500 k.\n\n§YDeutz BF6M1015CP§!: Německý čtyřventilový šestiválcový dieselový motor s výkonem 442 k.\n\n§YIveco Cursor 10-430§!: Italský čtyřiadv forventilový šestiválcový dieselový motor s výkonem 430 k." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.4.a: "3TD-3" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.4.b: "Deutz BF6M1015CP" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.4.c: "Iveco Cursor 10-430" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.5.name: "Vyberte motor pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.5.desc: "Můžeme zvolit požadovaný motor pro BTR-4 APC.\n\n§Y3TD-3§!: Ukrajinský dvoudobý tříválcový dieselový motor s výkonem 500 k.\n\n§YDeutz BF6M1015CP§!: Německý čtyřventilový šestiválcový dieselový motor s výkonem 442 k.\n\n§YIveco Cursor 10-430§!: Italský čtyřiadv forventilový šestiválcový dieselový motor s výkonem 430 k." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.5.a: "3TD-3" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.5.b: "Deutz BF6M1015CP" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.5.c: "Iveco Cursor 10-430" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.6.name: "Vyberte zbraňový modul pro „BTR-4“ IFV" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.6.desc: "Můžeme zvolit požadovaný zbraňový modul pro BTR-4 IFV.\n\nVýzbroj §YBM-1B „Hrim“§!: 1× 30mm automatický kanón, 1× 30mm automatický granátomet, 1× 7,62mm spřažený kulomet, 4× protitankové střely 9P135M „Konkurs“ nebo „Barier“.\n\nVýzbroj §YKBA-105 „Shkval“§!: 1× 30mm automatický kanón, 1× 7,62mm spřažený kulomet, 4× protitankové střely 9P135M „Konkurs“ nebo „Barier“ (volitelně 1× 30mm automatický granátomet, ovšem s omezením na 2× protitankové střely).\n\nVýzbroj §YBAU 23x2§!: 2× 23×152mm automatický kanón, 1× 7,62mm spřažený kulomet." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.6.a: "BM-1B „Hrim“" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.6.b: "KBA-105 „Shkval“" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.6.c: "BAU 23x2" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.7.name: "Vyberte motor pro „BTR-4“ IFV" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.7.desc: "Můžeme zvolit požadovaný motor pro BTR-4 IFV.\n\n§Y3TD-3§!: Ukrajinský dvoudobý tříválcový dieselový motor s výkonem 500 k.\n\n§YDeutz BF6M1015CP§!: Německý čtyřventilový šestiválcový dieselový motor s výkonem 442 k.\n\n§YIveco Cursor 10-430§!: Italský čtyřiadv forventilový šestiválcový dieselový motor s výkonem 430 k." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.7.a: "3TD-3" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.7.b: "Deutz BF6M1015CP" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.7.c: "Iveco Cursor 10-430" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.8.name: "Testovací program pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.8.desc: "Můžeme zvolit délku a náročnost předvýrobních zkoušek BTR-4 APC.\n\nMůžeme provést základní program a ušetřit peníze i čas, nebo zvolit rozsáhlejší program, který bude vyžadovat více zdrojů, ale mohl by odhalit a odstranit některé problémy patrné při výrobě malé série. Jejich odstranění může vést ke spolehlivějšímu vozidlu při sériové výrobě." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.8.a: "Základní zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.8.b: "Rozšířené zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.9.name: "Testovací program pro „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.9.desc: "Můžeme zvolit délku a náročnost předvýrobních zkoušek BTR-4 APC.\n\nMůžeme provést základní program a ušetřit peníze i čas, nebo zvolit rozsáhlejší program, který bude vyžadovat více zdrojů, ale mohl by odhalit a odstranit některé problémy patrné při výrobě malé série. Jejich odstranění může vést ke spolehlivějšímu vozidlu při sériové výrobě." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.9.a: "Základní zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.9.b: "Rozšířené zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.10.name: "Testovací program pro „BTR-4“ IFV" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.10.desc: "Můžeme zvolit délku a náročnost předvýrobních zkoušek BTR-4 IFV.\n\nMůžeme provést základní program a ušetřit peníze i čas, nebo zvolit rozsáhlejší program, který bude vyžadovat více zdrojů, ale mohl by odhalit a odstranit některé problémy patrné při výrobě malé série. Jejich odstranění může vést ke spolehlivějšímu vozidlu při sériové výrobě." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.10.a: "Základní zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.10.b: "Rozšířené zkoušky" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.11.name: "Zahájit výrobu „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.11.desc: "Dokončili jsme všechny dříve dohodnuté zkoušky a konečně můžeme zahájit sériovou výrobu BTR-4 APC." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.11.a: "Konečně" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.12.name: "Zahájit výrobu „BTR-4“ APC" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.12.desc: "Dokončili jsme všechny dříve dohodnuté zkoušky a konečně můžeme zahájit sériovou výrobu BTR-4 APC." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.12.a: "Konečně" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.13.name: "Zahájit výrobu „BTR-4“ IFV" # todo: NEW TRANSLATION
+ ukraine_develop_btr4.13.desc: "Dokončili jsme všechny dříve dohodnuté zkoušky a konečně můžeme zahájit sériovou výrobu BTR-4 IFV." # todo: NEW TRANSLATION
+ ukraine_develop_btr4.13.a: "Konečně" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_shkval_bonus: "Zbraňový modul KBA-105 „Shkval“ poskytne dodatečný měkký útok bez zvýšení nákladů" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_hrim_bonus: "Zbraňový modul BM-1B „Hrim“ je nejsilnější ze všech tří, ale přináší dodatečné náklady" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_bau23_2_bonus: "Zbraňový modul BAU-23x2 poskytne dodatečnou protiletadlovou obranu, ale postrádá průbojnost pancíře a tvrdý útok" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_3td_bonus: "Dodatečná spotřeba paliva v důsledku použití motoru 3TD-3" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_deutz_bonus: "Vyšší rychlost a nižší spotřeba paliva v důsledku použití motoru Deutz BF6M1015CP" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_iveco_bonus: "Nižší spotřeba paliva v důsledku použití motoru Iveco Cursor 10-430" # todo: NEW TRANSLATION
+ ukraine_develop_btr4_tests_bonus: "Dodatečná spolehlivost v důsledku rozšířených zkoušek BTR-4" # todo: NEW TRANSLATION
+ UKR_modernize_planes_category: "Modernizovat naše bojová letadla" # todo: NEW TRANSLATION
+ UKR_modernize_planes_category_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_main\n\n\n\n\n\n\n\n\nMůžeme věnovat čas a peníze výzkumu a testování modernizací letadel a vrtulníků ze sovětské éry, které používá naše letectvo. Až uplyne nějaký čas a získáme dostatek zkušeností, můžeme se dokonce pokusit vyvinout jedinečné domácí konstrukce." # todo: NEW TRANSLATION
+ UKR_modernize_su25_m1: "Modernizovat bitevní letoun §YSu-25§!" # todo: NEW TRANSLATION
+ UKR_modernize_su25_m1_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_su25m1_for_tooltip\n\n\n\n\n\n\n\n\nSu-25M1 je ukrajinská modernizace sovětského bitevního letounu blízké vzdušné podpory Su-25.\nModernizace zavádí vylepšené navigační, komunikační a zaměřovací vybavení, přičemž zachovává původní drak a výzbroj letounu.\nVylepšené systémy zvyšují přesnost neřízených zbraní a umožňují letounu účinněji působit v podmínkách moderního boje.\nModernizace rovněž prodlužuje životnost ukrajinské flotily Su-25." # todo: NEW TRANSLATION
+ UKR_modernize_su27_1m: "Modernizovat stíhací letoun §YSu-27§!" # todo: NEW TRANSLATION
+ UKR_modernize_su27_1m_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_su271m_for_tooltip\n\n\n\n\n\n\n\n\nSu-27-1M je ukrajinská modernizace sovětského stíhacího letounu Su-27.\nProgram zavádí vylepšené navigační, komunikační, identifikační a palubní elektronické systémy s cílem zvýšit bojovou účinnost letounu.\nModernizovaná avionika poskytuje lepší přehled o situaci a zlepšuje schopnost letounu používat moderní zbraně.\nModernizace umožňuje letounu Su-27 zůstat ve službě a zároveň omezuje nedostatky původního vybavení ze sovětské éry." # todo: NEW TRANSLATION
+ UKR_modernize_mig29_mu2: "Modernizovat stíhací letoun §YMiG-29 varianty MU2§!" # todo: NEW TRANSLATION
+ UKR_modernize_mig29_mu2_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_mig29mu1_for_tooltip\n\n\n\n\n\n\n\n\nMiG-29MU2 je ukrajinská modernizace sovětského stíhacího letounu MiG-29 vyvinutá Lvovským státním leteckým opravárenským závodem.\nModernizace navazuje na dřívější program MU1 a přináší rozsáhlejší vylepšení avioniky, navigačních a zaměřovacích systémů letounu.\nLetoun získává lepší schopnosti pro použití moderních řízených i neřízených zbraní proti vzdušným i pozemním cílům.\nCílem programu MU2 je proměnit MiG-29 ve schopnější víceúčelový bojový letoun." # todo: NEW TRANSLATION
+ UKR_modernize_mig29_mu1: "Modernizovat stíhací letoun §YMiG-29 varianty MU1§!" # todo: NEW TRANSLATION
+ UKR_modernize_mig29_mu1_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_mig29mu2_for_tooltip\n\n\n\n\n\n\n\n\nMiG-29MU1 je ukrajinská modernizace sovětského stíhacího letounu MiG-29.\nProgram zavádí vylepšenou palubní elektroniku a modernizovaný systém varování před radarem a navigační systém.\nVylepšené vybavení zlepšuje přehled pilota o situaci a umožňuje letounu účinněji působit v podmínkách moderního boje.\nModernizace MU1 rovněž představuje mezikrok k rozsáhlejším modernizacím MiGu-29." # todo: NEW TRANSLATION
+ UKR_develop_an_lbl: "Vyvinout navrhovaný §YAntonovův lehký letoun§!" # todo: NEW TRANSLATION
+ UKR_develop_an_lbl_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_an_lbl_development_for_tooltip\n\n\n\n\n\n\n\n\nAntonovův lehký letoun je navrhovaný lehký letoun konstrukční kanceláře Antonov, který se má podobat typu Yak-130. Je určen pro různé role včetně výcviku a průzkumu. Očekává se, že letoun bude vybaven pokročilou avionikou, lehkým drakem a úspornými motory, které mu poskytnou vynikající výkony a hospodárnost." # todo: NEW TRANSLATION
+ UKR_develop_an_bfv: "Vyvinout navrhovaný §YAntonovův stíhací letoun§!" # todo: NEW TRANSLATION
+ UKR_develop_an_bfv_desc: "\n\n\n\n\n\n£UKR_desctext_planes_modernization_an_bfv_development_for_tooltip\n\n\n\n\n\n\n\n\nNavrhovaný Antonovův stíhací letoun byl koncepčním projektem vývoje bojového letounu ukrajinské konstrukce.\nProjekt měl využít ukrajinské zkušenosti s konstrukcí a výrobou letadel k vytvoření moderního stíhacího letounu bez úplné závislosti na zahraničních konstrukcích.\nLetoun měl využívat moderní avioniku, zbraně a aerodynamická řešení přizpůsobená schopnostem ukrajinského leteckého průmyslu.\nPřestože projekt zůstal ve fázi návrhu, jeho vývoj mohl položit základy budoucí generaci ukrajinských bojových letounů." # todo: NEW TRANSLATION
+ UKR_5BrPrK: "5. brigáda pohraničních lodí" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.1.name: "Brovarská raketová tragédie" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.1.desc: "Brovarská katastrofa z 20. dubna 2000 byla nehoda, k níž došlo ve městě Brovary v Kyjevské oblasti, když cvičná raketa země-země komplexu „Točka-U“, odpálená během vojenského cvičení z výcvikového prostoru Gončarivka, odchýlila od plánovaného kurzu a po letu dlouhém 90 km zasáhla devítipodlažní obytný dům.\nRaketa neměla výbušnou hlavici, přesto při jejím dopadu zahynuli tři lidé a dalších pět bylo zraněno.\n\nMinisterstvo obrany Ukrajiny vedené Oleksandrem Kuzmukem odmítalo po čtyři dny po katastrofě, až do 23. dubna, přiznat, že obytný dům zasáhla jejich raketa." # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.1.a: "To nebyla naše raketa" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.2.name: "Sestřelení letu Siberia Airlines 1812" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.2.desc: "Let 1812 společnosti Siberia Airlines byl dopravní let, který byl 4. října 2001 pravděpodobně sestřelen ukrajinským letectvem nad Černým mořem na trase z izraelského Tel Avivu do ruského Novosibirsku.\nLetoun, sovětský Tupolev Tu-154, vezl 66 cestujících a 12 členů posádky. Většinu cestujících tvořili Izraelci navštěvující příbuzné v Rusku. Nikdo nepřežil.\nKatastrofu způsobila raketa odpálená během společného ukrajinsko-ruského cvičení protivzdušné obrany na Ruskem kontrolovaném cvičišti 31. výzkumného střediska ruské Černomořské flotily na mysu Opuk poblíž města Kerč na Krymu." # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.2.a: "Potřebujeme vyšetřování" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.3.name: "Katastrofa letecké přehlídky ve Sknylivu" # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.3.desc: "Katastrofa letecké přehlídky ve Sknylivu se odehrála 27. července 2002, když ukrajinský letoun Suchoj Su-27UB, pilotovaný Volodymyrem Toponarem z akrobatického týmu „Ukrajinští sokoli“ a kopilotovaný Jurijem Jegorovem, během akrobatického vystoupení na letišti Sknyliv poblíž Lvova havaroval do diváků.\nNehoda si vyžádala 77 mrtvých a 543 zraněných. Jde o nejtragičtější nehodu letecké přehlídky v historii.\nPo katastrofě piloti uvedli, že letová mapa, kterou obdrželi, se lišila od skutečného uspořádání letiště." # todo: NEW TRANSLATION
+ ukraine_armed_forces_tragedy_event.3.a: "Neuvěřitelná tragédie" # todo: NEW TRANSLATION
+ UKR_Brovary_Missile_Tragedy_Flag: "Došlo k brovarské raketové tragédii" # todo: NEW TRANSLATION
+ UKR_Tu154_Air_Tragedy_Flag: "Let 1812 společnosti Siberia Airlines byl sestřelen" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.1.name: "Špatné podmínky ve skladech munice" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.1.desc: "Nedávné reformy ozbrojených sil odhalily závažné nedostatky ve skladování a zabezpečení muničních skladů po celé Ukrajině. Zastaralá zařízení a nedostatečný dohled představují značné riziko nehod. Vláda musí rozhodnout, jak tento problém řešit." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.1.a: "Kompletní údržba všech skladů" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.1.b: "Částečná údržba hlavních skladů" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.1.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.2.name: "Výbuch v muničním skladu Artemivsk" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.2.desc: "Nedávno došlo ve městě Artemivsk v okrese Artemivsk v Doněcké oblasti k nečekanému a rozsáhlému incidentu. Ve skladech 52. mechanizované brigády, kde byly uloženy přibližně tři tisíce tun dělostřelecké munice, vypukl požár. Po počátečním požáru bohužel následovaly mohutné výbuchy. Musíme přijmout opatření k vyčištění oblasti a zabránit podobným incidentům v budoucnu." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.2.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.2.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.2.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.3.name: "Výbuch v muničním skladu Novobohdanivka" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.3.desc: "Nedávno došlo poblíž obce Novobohdanivka v Melitopolském okrese Záporožské oblasti k nečekanému a rozsáhlému incidentu. Dne 6. května 2004 vybuchlo téměř 90 tisíc kusů munice pro systémy Grad, Smerč a Uragan. Úlomky granátů odlétly až 40 km od epicentra požáru. Následně muselo být evakuováno více než jeden a půl tisíce lidí. Pět lidí zemřelo, více než 80 bylo hospitalizováno s různými zraněními a více než 20 rodin zůstalo bez domova. Výbuch poškodil 4 km plynovodu. Škody dosáhly 3 miliard 752 milionů UAH." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.3.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.3.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.3.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.4.name: "Výbuch v muničním skladu Tsvitokha" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.4.desc: "Nedávno došlo poblíž obce Tsvitokha ve Slavוטském okrese Chmelnycké oblasti k nečekanému a rozsáhlému incidentu. V arzenálu č. 47 v Chmelnycké oblasti vypukl požár doprovázený výbuchy munice. Skladovací zařízení obsahovalo 52,9 konvenčních vagonů munice, včetně malorážových granátů ráží 23 a 30 mm a granátů pro podvěsné granátomety, které v důsledku požáru vybuchly. Úlomky odlétly do vzdálenosti 100–150 m." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.4.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.4.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.4.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.5.name: "Druhý výbuch v muničním skladu Novobohdanivka" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.5.desc: "K výbuchům došlo poblíž obce Novobohdanivka v Melitopolském okrese Záporožské oblasti podruhé. Dne 23. července 2005 v 17:20 začal hořet sklad 257. základny skladování munice. Ve 20:54 ustala detonace granátů. Pět lidí bylo zraněno. Za příčinu výbuchů byla označena vysoká teplota vzduchu, která údajně způsobila samovznícení dýmové miny." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.5.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.5.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.5.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.6.name: "Třetí výbuch v muničním skladu Novobohdanivka" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.6.desc: "K výbuchům došlo poblíž obce Novobohdanivka v Melitopolském okrese Záporožské oblasti již potřetí. Dne 19. srpna 2006 ve 14:15 došlo k dalšímu vážnému výbuchu. Shořely přibližně tři hektary skladů. Evakuováno bylo 1 500 místních obyvatel a 4 000 lidí bylo umístěno do krytů. Do zásahu se zapojilo 428 lidí a 96 kusů techniky. Čtyři lidé byli zraněni." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.6.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.6.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.6.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.7.name: "Výbuch v muničním skladu Lozova" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.7.desc: "Nedávno došlo ve městě Lozova v Lozovském okrese Charkovské oblasti k nečekanému a rozsáhlému incidentu. Dne 27. srpna 2008 v 16:20 začal hořet sklad 61. arzenálu Jižního operačního velitelství pozemních sil. Arzenál vojenské jednotky č. 0829 o rozloze přibližně 500 hektarů skladoval 95 tisíc tun granátů. Výbuchy začaly asi o dvě hodiny později. Všichni obyvatelé v okruhu 3 km od skladů byli evakuováni." # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.7.a: "Kompletní rekonstrukce skladu" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.7.b: "Vyslat vyšetřovací komisi" # todo: NEW TRANSLATION
+ ukraine_warehouse_explosions.7.c: "Ignorovat problém" # todo: NEW TRANSLATION
+ UKR_warehouses_maintenance_full_flag: "Skladovací zařízení byla plně udržována" # todo: NEW TRANSLATION
+ UKR_warehouses_maintenance_partial_flag: "Skladovací zařízení byla částečně udržována" # todo: NEW TRANSLATION
+ UKR_warehouses_maintenance_none_flag: "Problém skladovacích zařízení byl ignorován" # todo: NEW TRANSLATION
+ UKR_warehouse_small_explosion_effect_tooltip: "V důsledku malého výbuchu muničního skladu budeme ve státě čelit dočasným negativním účinkům." # todo: NEW TRANSLATION
+ UKR_warehouse_medium_explosion_effect_tooltip: "V důsledku středně velkého výbuchu muničního skladu budeme ve státě čelit dočasným negativním účinkům." # todo: NEW TRANSLATION
+ UKR_warehouse_big_explosion_effect_tooltip: "V důsledku velkého výbuchu muničního skladu budeme ve státě čelit dočasným negativním účinkům." # todo: NEW TRANSLATION
+ UKR_warehouse_small_explosion_effect: "Malý výbuch muničního skladu" # todo: NEW TRANSLATION
+ UKR_warehouse_medium_explosion_effect: "Středně velký výbuch muničního skladu" # todo: NEW TRANSLATION
+ UKR_warehouse_big_explosion_effect: "Velký výbuch muničního skladu" # todo: NEW TRANSLATION
+ UKR_warehouses_novobohdanivka_depot_explosions_reconstruction_flag: "Prosadili jsme rekonstrukci skladu Novobohdanivka" # todo: NEW TRANSLATION
+ UKR_warehouses_novobohdanivka_depot_explosions_comission_flag: "Zorganizovali jsme zvláštní vládní inspekci skladu Novobohdanivka" # todo: NEW TRANSLATION
+ UKR_warehouses_novobohdanivka_depot_explosions_ignore_flag: "Výbuchy ve skladu Novobohdanivka jsme co nejvíce ignorovali" # todo: NEW TRANSLATION
+ UKR_warehouses_novobohdanivka_2_depot_explosions_reconstruction_flag: "Tentokrát jsme prosadili rekonstrukci skladu Novobohdanivka" # todo: NEW TRANSLATION
+ UKR_warehouses_novobohdanivka_2_depot_explosions_comission_flag: "Podruhé jsme zorganizovali další zvláštní vládní inspekci skladu Novobohdanivka" # todo: NEW TRANSLATION
+ ukraine_nuclear_power_plants.1.name: "Úplné uzavření Černobylské jaderné elektrárny" # todo: NEW TRANSLATION
+ ukraine_nuclear_power_plants.1.desc: "Dne 29. března 2000 rozhodla Rada ministrů Ukrajiny o předčasném odstavení energetického bloku č. 3 a konečném uzavření Černobylské jaderné elektrárny do konce roku 2000.\nDne 15. prosince 2000 byl reaktor č. 3 po krátkém provozu od března 1999 a téměř třech měsících oprav odstaven a elektrárna jako celek přestala vyrábět elektřinu.\nNa ochranu zničeného reaktoru č. 4 má být vybudována nová ocelová ochranná konstrukce nazvaná §YNový bezpečný kryt§!, která nahradí stárnoucí a narychlo postavený sarkofág.\n§YNový bezpečný kryt§! má být financován mezinárodním fondem spravovaným Evropskou bankou pro obnovu a rozvoj a jeho návrh i výstavbu zajišťuje konsorcium Novarka vedené Francií." # todo: NEW TRANSLATION
+ ukraine_nuclear_power_plants.1.a: "Zastavit ji navždy" # todo: NEW TRANSLATION
+ ukraine_nuclear_power_plants_flag: "Černobylská jaderná elektrárna je uzavřena." # todo: NEW TRANSLATION
+ ukr_history.1.t: "Zmizení Georgije Gongadzeho" # todo: NEW TRANSLATION
+ ukr_history.1.d: "Georgij Gongadze, zakladatel internetových novin Ukrainska Pravda a jeden z nejostřejších kritiků prezidentské administrativy, zmizel v Kyjevě. Jeho matka nahlásila pohřešování; jeho kolegové již otevřeně tvrdí, že za tím stojí úřady. Pokud se objeví tělo, nezůstane to jen policejní záležitostí." # todo: NEW TRANSLATION
+ ukr_history.1.a: "Nechte policii, ať to vyřídí obvyklým způsobem." # todo: NEW TRANSLATION
+ ukr_history.1.b: "Nařiďte skutečné vyšetřování a informujte tisk." # todo: NEW TRANSLATION
+ ukr_history.2.t: "Kazetový skandál" # todo: NEW TRANSLATION
+ ukr_history.2.d: "Z řečnického pultu Nejvyšší rady přehrál socialistický předák Oleksandr Moroz nahrávky pořízené v prezidentově vlastní kanceláři členem státní stráže Mykolou Melnyčenkem. Na nahrávkách hlas podobný prezidentovu požaduje, aby bylo s Gongadzem naloženo. Moroz se přes noc změnil z upadajícího levicového politika v tvář opozice." # todo: NEW TRANSLATION
+ ukr_history.2.a: "Všechno popřít a zpochybnit nahrávky." # todo: NEW TRANSLATION
+ ukr_history.2.b: "Nic neříkat a počkat, až bouře přejde." # todo: NEW TRANSLATION
+ ukr_history.3.t: "Ukrajina bez Kučmy" # todo: NEW TRANSLATION
+ ukr_history.3.d: "Na náměstí Nezávislosti vznikl trvalý protestní tábor. Začalo to padesáti lidmi a během dvou dnů jich byly desítky tisíc. Poprvé stojí levice, střed i nacionalisté na stejném náměstí pod stejným heslem. Organizátoři tvrdí, že neodejdou, dokud prezident neodstoupí." # todo: NEW TRANSLATION
+ ukr_history.3.a: "Ignorujte je; zima udělá práci za nás." # todo: NEW TRANSLATION
+ ukr_history.3.b: "Zahajte jednání s protestním výborem." # todo: NEW TRANSLATION
+ ukr_history.4.t: "Střety v Bankově ulici" # todo: NEW TRANSLATION
+ ukr_history.4.d: "Kolona čítající deset až patnáct tisíc lidí pochodovala v den výročí Ševčenkova narození k prezidentské administrativě. Bankova ulice zažila nejhorší pouliční boje od získání nezávislosti. Večer policie zničila sídlo UNA-UNSO a stovky lidí byly zatčeny. Tábor na náměstí zmizel, stejně jako jakákoli předstíraná legitimita vlády vládnout se souhlasem občanů." # todo: NEW TRANSLATION
+ ukr_history.4.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.5.t: "Rada odvolává vládu Juščenka" # todo: NEW TRANSLATION
+ ukr_history.5.d: "Dvě stě šedesát tři poslanců vyslovilo nedůvěru kabinetu Viktora Juščenka. Komunisté a oligarchický střed hlasovali společně: levice nenáviděla jeho tržní reformy a obchodní skupiny nesnášely, že zastavil barterové směny v energetice. Nejoblíbenější premiér v dějinách země odchází z úřadu s nepoškozenou pověstí a bez úřadu, který by ji mohl ohrozit." # todo: NEW TRANSLATION
+ ukr_history.5.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.6.t: "Juščenko oznamuje vznik bloku" # todo: NEW TRANSLATION
+ ukr_history.6.d: "Odvolaný premiér prohlásil, že povede volební blok do parlamentních voleb příštího roku. Na kandidátce již jedná deset národnědemokratických a liberálních stran. Blok zatím nemá program ani strukturu, ale má něco, co nemá žádná jiná síla: vůdce, kterému stále důvěřuje většina země." # todo: NEW TRANSLATION
+ ukr_history.6.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.7.t: "Za sjednocenou Ukrajinu!" # todo: NEW TRANSLATION
+ ukr_history.7.d: "Pět vládních stran se sjednotilo do jediného volebního bloku kolem prezidenta: Lidoví demokraté, Labouristická Ukrajina, Strana regionů, Agrárníci a Průmyslníci. Nespojuje je ideologie, nýbrž administrativní zdroje – gubernátoři, daňoví inspektoři a státní televize. Regionální bossové dostali pokyny, jaký výsledek se od nich očekává." # todo: NEW TRANSLATION
+ ukr_history.7.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.8.t: "Parlamentní volby v roce 2002" # todo: NEW TRANSLATION
+ ukr_history.8.d: "Juščenkův blok skončil na prvním místě kandidátní listiny s dvaceti třemi procenty. Za sjednocenou Ukrajinu získalo sotva dvanáct procent, ale následně obsadilo sto mandátů v jednomandátových obvodech, kde gubernátoři rozhodují o tom, co oznámí volební urny. Komunisté přišli o polovinu hlasů. Do nové Rady vstupuje šest sil." # todo: NEW TRANSLATION
+ ukr_history.8.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.9.t: "Lytvyn zvolen předsedou" # todo: NEW TRANSLATION
+ ukr_history.9.d: "Po dvou měsících patové situace byl předsedou Nejvyšší rady zvolen šéf prezidentské administrativy Volodymyr Lytvyn. Opozice měla více hlasů v zemi, prezident měl více hlasů v komoře. Lytvyn stráví další roky jako muž, kterého potřebují obě strany, ale nedůvěřuje mu ani jedna." # todo: NEW TRANSLATION
+ ukr_history.9.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.10.t: "Za sjednocenou Ukrajinu se rozpadá" # todo: NEW TRANSLATION
+ ukr_history.10.d: "Blok, který vyhrál obvody, se rozpadl na své jednotlivé části. Na místě jednoho nyní zasedá devět samostatných frakcí: Strana regionů, Labouristická Ukrajina, Lidoví demokraté, Agrárníci a další, každá s vlastním vůdcem a vlastní cenou. Doněcká skupina je z nich největší a již není ničí mladší partner." # todo: NEW TRANSLATION
+ ukr_history.10.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.11.t: "Povstaň, Ukrajino!" # todo: NEW TRANSLATION
+ ukr_history.11.d: "Při druhém výročí Gongadzeho zmizení přivedla opozice své stoupence zpět do ulic – tentokrát s Juščenkem, Tymošenkovou, Morozem a Symonenkem na jednom pódiu. Tuto čtveřici téměř nic nespojuje kromě požadavku, aby prezident odešel. Na Chreščatyku znovu vyrůstají stany." # todo: NEW TRANSLATION
+ ukr_history.11.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.12.t: "Smrt Slavy Steckové" # todo: NEW TRANSLATION
+ ukr_history.12.d: "Jaroslava Stecková, vdova po muži, který v roce 1941 ve Lvově vyhlásil obnovení ukrajinské státnosti, a živoucí spojnice mezi válečným nacionalistickým podzemím a dnešním parlamentem, zemřela ve věku osmdesáti tří let. Kongres ukrajinských nacionalistů nyní musí najít vůdce, který nebude symbolem." # todo: NEW TRANSLATION
+ ukr_history.12.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.13.t: "Janukovyč přebírá Stranu regionů" # todo: NEW TRANSLATION
+ ukr_history.13.d: "Premiér byl zvolen předsedou Strany regionů. Dosud byla strana jednou z několika doněckých obchodních skupin; od dnešního dne je politickým ramenem muže, kterému prezident hodlá předat úřad. Lidé Rinata Achmetova pronikají do regionálních struktur strany." # todo: NEW TRANSLATION
+ ukr_history.13.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.14.t: "Tarasjuk přebírá Lidové hnutí" # todo: NEW TRANSLATION
+ ukr_history.14.d: "Borys Tarasjuk, bývalý ministr zahraničí, který vyjednal chartu s NATO, byl zvolen předsedou Ruchu. Strana, která vytvořila nezávislost, je nyní malou profesionální frakcí diplomatů a intelektuálů a rozhodla se, že její budoucnost leží uvnitř Juščenkova bloku, nikoli vedle něj." # todo: NEW TRANSLATION
+ ukr_history.14.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.15.t: "Společný hospodářský prostor" # todo: NEW TRANSLATION
+ ukr_history.15.d: "Prezident na Jaltě podepsal dohodu o Společném hospodářském prostoru s Ruskem, Běloruskem a Kazachstánem. Text hovoří o celní unii a nadnárodní komisi, v níž jsou hlasy váženy podle ekonomické velikosti – což znamená, že rozhoduje Moskva. Rada dohodu ratifikovala hlasy komunistů a vládní strany společně." # todo: NEW TRANSLATION
+ ukr_history.15.a: "Podepsat – východ platí naše účty." # todo: NEW TRANSLATION
+ ukr_history.15.b: "Podepsat, ale ratifikovat pouze kapitolu o volném obchodu." # todo: NEW TRANSLATION
+ ukr_history.16.t: "Soud otevírá cestu ke třetímu období" # todo: NEW TRANSLATION
+ ukr_history.16.d: "Ústavní soud rozhodl, že prezidentovo první období, vykonávané podle staré ústavy, se nepočítá. Příští rok může znovu kandidovat. Nikdo v Kyjevě nevěří, že soudci dospěli k tomuto závěru sami, a nikdo nevěří, že ho skutečně využije – rozhodnutí však opozici přesně ukázalo, s čím má co do činění." # todo: NEW TRANSLATION
+ ukr_history.16.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.17.t: "Sociálně-národní strana se mění na Svobodu" # todo: NEW TRANSLATION
+ ukr_history.17.d: "Sociálně-národní strana Ukrajiny se na svém sjezdu ve Lvově přejmenovala na Všukrajinský svaz Svoboda, odstranila ze své vlajky vlčí hák a zvolila si předsedou Oleha Ťahnyboka. Rétorika byla obroušena a strana nyní cílí na voliče, kteří by se nikdy nepřipojili k polovojenské organizaci." # todo: NEW TRANSLATION
+ ukr_history.17.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.18.t: "Politická reforma neprošla o šest hlasů" # todo: NEW TRANSLATION
+ ukr_history.18.d: "Ústavní dodatek, který by z prezidentského úřadu učinil ceremoniální funkci, neprošel o šest hlasů. Prezidentovi lidé ho chtěli jako pojistku proti prohraným volbám; Juščenkův tábor ho odmítl, protože očekává, že úřad získá v jeho současné podobě. Obě strany právě zemi sdělily, jaké odhadují své šance." # todo: NEW TRANSLATION
+ ukr_history.18.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.19.t: "Lytvyn přebírá agrárníky" # todo: NEW TRANSLATION
+ ukr_history.19.d: "Předseda parlamentu byl zvolen šéfem Agrární strany, která se přejmenovává na Lidovou agrární stranu. Lytvyn si buduje aparát na vesnicích – v jediné části země, kde ani doněcká skupina, ani oranžový tábor nemají mnoho co nabídnout." # todo: NEW TRANSLATION
+ ukr_history.19.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.20.t: "Síla lidu" # todo: NEW TRANSLATION
+ ukr_history.20.d: "Juščenko a Tymošenková podepsali koaliční dohodu. Ona odstupuje z prezidentského klání a vede kampaň za něj; pokud zvítězí, stane se premiérkou. Dva tábory, které tři roky soupeřily o stejné protestní hlasy, se rozhodly, že jeden z nich bude kandidátem a druhý vládou." # todo: NEW TRANSLATION
+ ukr_history.20.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.21.t: "Juščenko vylučuje Ťahnyboka" # todo: NEW TRANSLATION
+ ukr_history.21.d: "Po projevu u partyzánského hrobu v Karpatech, v němž Ťahnybok chválil ty, kteří bojovali proti „Moskálům, Němcům a Židům“, ho Naše Ukrajina vyloučila ze své parlamentní frakce. Juščenko ochránil svou kampaň před osudným citátem a daroval Svobodě mučednictví, které potřebovala, aby se stala samostatnou stranou." # todo: NEW TRANSLATION
+ ukr_history.21.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.22.t: "Otrava" # todo: NEW TRANSLATION
+ ukr_history.22.d: "Opoziční kandidát byl převezen na kliniku ve Vídni. Diagnóza zněla otrava dioxinem v koncentraci tisíckrát vyšší než normální, podaným při večeři se zástupcem šéfa bezpečnostní služby. Přežije, ale jeho tvář nikoli. Do kampaně se vrátí zohyzděný a každý volič nyní vidí, co mu bylo provedeno." # todo: NEW TRANSLATION
+ ukr_history.22.a: "Označit to za otravu jídlem a jít dál." # todo: NEW TRANSLATION
+ ukr_history.22.b: "Zahájit trestní řízení a nechat je pokračovat." # todo: NEW TRANSLATION
+ ukr_history.23.t: "První kolo" # todo: NEW TRANSLATION
+ ukr_history.23.d: "Třicet devět procent pro opozičního kandidáta, třicet devět pro premiéra – rozdíl činí několik desetin procenta. Komunistické hlasy se propadly z čtvrtiny země na pět procent a pohltily je oba póly. Všichni ostatní jsou bezvýznamní. Do druhého kola zbývají tři týdny." # todo: NEW TRANSLATION
+ ukr_history.23.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.24.t: "Rada prohlašuje druhé kolo za neplatné" # todo: NEW TRANSLATION
+ ukr_history.24.d: "Tři sta sedm poslanců hlasovalo, že druhé kolo neodráželo vůli voličů, a dvě stě dvacet devět vyslovilo nedůvěru vládě. Ani jedno hlasování není právně závazné. Obě však bezpečnostním službám a regionálním správám ukázala, odkud vane vítr – a právě o to šlo." # todo: NEW TRANSLATION
+ ukr_history.24.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.25.t: "Tihipko odchází z kampaně" # todo: NEW TRANSLATION
+ ukr_history.25.d: "Šéf Národní banky a vedoucí premiérovy kampaně odstoupil z kampaně i z banky. Labouristická Ukrajina, dněpropetrovská strana, kterou vybudoval s Viktorem Pinčukem, se za ním rozpadá, zatímco její poslanci hledají bezpečnější místo." # todo: NEW TRANSLATION
+ ukr_history.25.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.26.t: "Nejvyšší soud ruší druhé kolo" # todo: NEW TRANSLATION
+ ukr_history.26.d: "Nejvyšší soud prohlásil druhé kolo za neplatné a nařídil opakované hlasování na 26. prosince. Poprvé ukrajinský soud rozhodl o prezidentských volbách proti kandidátovi úřadujícího prezidenta a rozhodnutí bylo živě přečteno náměstí plnému lidí." # todo: NEW TRANSLATION
+ ukr_history.26.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.27.t: "Zákon 2222 – hlasování o balíčku" # todo: NEW TRANSLATION
+ ukr_history.27.d: "Kompromis byl schválen jako jediný balíček: opakované volby výměnou za ústavní reformu. Od roku 2006 parlament jmenuje vládu a prezident si ponechává zahraniční věci a obranu. Kdokoli tyto volby vyhraje, získá menší úřad, než o jaký bojoval." # todo: NEW TRANSLATION
+ ukr_history.27.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.28.t: "Naše Ukrajina se stává stranou" # todo: NEW TRANSLATION
+ ukr_history.28.d: "Blok, který vyhrál prezidentské volby, uspořádal ustavující sjezd jako jediná strana: Lidový svaz Naše Ukrajina. Předsedou se stává Roman Bezsmertnyj, prezidentův vedoucí kampaně. Několik z deseti členských stran se odmítlo rozpustit a koalice, která vytvořila revoluci, je již o jednu stranu menší než v prosinci." # todo: NEW TRANSLATION
+ ukr_history.28.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.29.t: "Oranžový tábor se rozpadá" # todo: NEW TRANSLATION
+ ukr_history.29.d: "Prezident odvolal celou vládu. Šéf bezpečnostní rady obvinil premiérčin kruh z korupce v přímém televizním přenosu; ona odpověděla, že problémem je prezidentovo vlastní okolí. Osm měsíců po náměstí proti sobě stojí dva lidé, kteří tam stáli společně." # todo: NEW TRANSLATION
+ ukr_history.29.a: "Všechny je odvolat a začít znovu." # todo: NEW TRANSLATION
+ ukr_history.29.b: "Ponechat premiérku a místo ní odvolat žalobce." # todo: NEW TRANSLATION
+ ukr_history.30.t: "Memorandum s Janukovyčem" # todo: NEW TRANSLATION
+ ukr_history.30.d: "Prezident, který nedokázal potvrdit nového premiéra pouze oranžovými hlasy, podepsal s mužem, kterého porazil, memorandum o porozumění. Strana regionů se zdržela, Jurij Jechanurov byl potvrzen třemi hlasy a trestní řízení proti volebním úředníkům tiše ustala. Revoluce si koupila vlastní vládu od lidí, které svrhla." # todo: NEW TRANSLATION
+ ukr_history.30.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.31.t: "Parlamentní volby v roce 2006" # todo: NEW TRANSLATION
+ ukr_history.31.d: "První plně poměrné volby. Strana regionů získala třicet dva procent, Blok Tymošenkové dvacet dva, Naše Ukrajina čtrnáct – třetí místo pro prezidentovu vlastní stranu rok po jeho vítězství. Socialisté a komunisté se těsně dostali do parlamentu. Nikdo nemá většinu a každý má právo veta." # todo: NEW TRANSLATION
+ ukr_history.31.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.32.t: "Koalice demokratických sil" # todo: NEW TRANSLATION
+ ukr_history.32.d: "Po třech měsících oranžoví partneři podepsali dohodu: Blok Tymošenkové, Naše Ukrajina a socialisté, celkem dvě stě čtyřicet tři hlasů, s Tymošenkovou jako premiérkou. Dohoda se psala déle, než vláda vydrží." # todo: NEW TRANSLATION
+ ukr_history.32.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.33.t: "Moroz usedá do křesla" # todo: NEW TRANSLATION
+ ukr_history.33.d: "Socialistický předák byl zvolen předsedou parlamentu hlasy Strany regionů a komunistů – dvou stran, které posledních šest let odsuzoval. Oranžová koalice se zhroutila ještě téhož odpoledne. Během jediného dne existovala Protikrizová koalice a Moroz se stal nejnenáviděnějším mužem v polovině země." # todo: NEW TRANSLATION
+ ukr_history.33.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.34.t: "Univerzál národní jednoty" # todo: NEW TRANSLATION
+ ukr_history.34.d: "Prezident podepsal deklaraci zásad s Protikrizovou koalicí a jmenoval premiérem muže, kterého porazil v roce 2004. Naše Ukrajina vstupuje do vlády, o níž voliči Naší Ukrajiny věřili, že ji porazili. Dvacet měsíců po náměstí je Janukovyč zpět v budově, z níž byl vyhnán." # todo: NEW TRANSLATION
+ ukr_history.34.a: "Podepsat – alternativou jsou další volby." # todo: NEW TRANSLATION
+ ukr_history.34.b: "Odmítnout a okamžitě rozpustit Radu." # todo: NEW TRANSLATION
+ ukr_history.35.t: "Naše Ukrajina přechází do opozice" # todo: NEW TRANSLATION
+ ukr_history.35.d: "Prezidentova strana odešla z vlády, k níž se před dvěma měsíci připojila. Její ministři odstupují, poslanci přecházejí do opozičních lavic a země se dozvídá, že Univerzál národní jednoty byl nedorozuměním. Protikrizová koalice je nepotřebuje a dává to najevo." # todo: NEW TRANSLATION
+ ukr_history.35.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.36.t: "Reformy a pořádek se připojují k Bloku Tymošenkové" # todo: NEW TRANSLATION
+ ukr_history.36.d: "Tržní liberálové Viktora Pynzenyka, kteří v devadesátých letech sepsali každý vážný reformní program, který země ignorovala, se začlenili do Bloku Tymošenkové. Liberální křídlo oranžového tábora již neexistuje jako samostatná adresa." # todo: NEW TRANSLATION
+ ukr_history.36.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.37.t: "Koalice si kupuje většinu" # todo: NEW TRANSLATION
+ ukr_history.37.d: "Protikrizová koalice se přejmenovala na Koalici národní jednoty a začala z opozičních lavic po jednom získávat jednotlivé poslance, za cenu, o níž se veřejně nemluví. Se třemi sty hlasy může přehlasovat prezidenta a přepsat ústavu. Chybí jí jedenáct." # todo: NEW TRANSLATION
+ ukr_history.37.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.38.t: "Prezident rozpouští Radu" # todo: NEW TRANSLATION
+ ukr_history.38.d: "Aby prezident zabránil koalici dosáhnout tří set hlasů, rozpustil parlament dekretem. Koalice prohlašuje dekret za protiústavní a dál zasedá. Země má po dva měsíce dvě legitimní autority, tři předsedy Ústavního soudu a jedno ministerstvo vnitra, které nikomu konkrétně nepodléhá." # todo: NEW TRANSLATION
+ ukr_history.38.a: "Rozpustit je – jinak o úřad přijdeme." # todo: NEW TRANSLATION
+ ukr_history.38.b: "Přijmout koalici a ponechat si zbývající pravomoci." # todo: NEW TRANSLATION
+ ukr_history.39.t: "Naše Ukrajina – Lidová sebeobrana" # todo: NEW TRANSLATION
+ ukr_history.39.d: "Prezidentova strana vstupuje do předčasných voleb v širším bloku s Lidovou sebeobranou Jurije Lucenka, vybudovanou z důstojníků ministerstva vnitra, které s sebou přivedl. Devět stran na jediné kandidátce, držených pohromadě strachem ze samostatného kandidování." # todo: NEW TRANSLATION
+ ukr_history.39.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.40.t: "Lytvynův blok" # todo: NEW TRANSLATION
+ ukr_history.40.d: "Bývalý předseda zaregistroval pro předčasné volby vlastní blok. Nemá program, který by stál za přečtení, ani nepřátele, které by stálo za to jmenovat, a právě v tom je pointa: ať zvítězí kdokoli, Lytvyn hodlá být hlasy, které mu budou chybět." # todo: NEW TRANSLATION
+ ukr_history.40.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.41.t: "Kongres ukrajinských nacionalistů odstupuje" # todo: NEW TRANSLATION
+ ukr_history.41.d: "Kongres ukrajinských nacionalistů, který sám nedokázal překročit tříprocentní hranici a byl odmítnut na kandidátce Naší Ukrajiny, oznámil, že se voleb nezúčastní. Nejstarší nacionalistická strana v zemi přenechává pole Svobodě." # todo: NEW TRANSLATION
+ ukr_history.41.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.42.t: "Medvedčuk ustupuje" # todo: NEW TRANSLATION
+ ukr_history.42.d: "Sociálnědemokratická strana (sjednocená), kdysi aparát řídící prezidentskou administrativu, nahradila Viktora Medvedčuka Jurijem Zahorodným. Strana má v průzkumech méně než jedno procento. Její bývalý vůdce nekončí s politikou – jen ji bude vykonávat pro jinou zemi." # todo: NEW TRANSLATION
+ ukr_history.42.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.43.t: "Předčasné volby" # todo: NEW TRANSLATION
+ ukr_history.43.d: "Strana regionů získala třicet čtyři procent a přesto prohrála: Blok Tymošenkové vystoupal na třicet jedna a společně s blokem Naše Ukrajina–Lidová sebeobrana má oranžová strana dvě stě dvacet sedm mandátů. Většinu tvoří rozdíl dvou hlasů." # todo: NEW TRANSLATION
+ ukr_history.43.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.44.t: "Oranžová koalice znovu" # todo: NEW TRANSLATION
+ ukr_history.44.d: "Blok Tymošenkové a Naše Ukrajina–Lidová sebeobrana podepsaly koaliční dohodu s většinou dvou hlasů. Všichni zúčastnění vědí, že dva hlasy nejsou většina, ale rukojmí." # todo: NEW TRANSLATION
+ ukr_history.44.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.45.t: "Tymošenková se vrací do vlády" # todo: NEW TRANSLATION
+ ukr_history.45.d: "Na druhý pokus a jediným hlasem Rada potvrdila Julii Tymošenkovou jako premiérku. Slibuje vrátit úspory ztracené při rozpadu Sovětského svazu a znovu zestátnit to, co bylo ukradeno. Prezident, který ji jmenoval, již hledá způsoby, jak ji odvolat." # todo: NEW TRANSLATION
+ ukr_history.45.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.46.t: "Baloha buduje Sjednocený střed" # todo: NEW TRANSLATION
+ ukr_history.46.d: "Šéf prezidentského sekretariátu přeměnil nečinnou stranu na Sjednocený střed a začal do ní přesouvat prezidentovy regionální sítě. Oficiálně prezidenta podporuje. Ve skutečnosti jde o pojistku proti Naší Ukrajině – a každý v Naší Ukrajině to ví." # todo: NEW TRANSLATION
+ ukr_history.46.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.47.t: "Koalice je prohlášena za mrtvou" # todo: NEW TRANSLATION
+ ukr_history.47.d: "Naše Ukrajina–Lidová sebeobrana odešla poté, co Blok Tymošenkové hlasoval se Stranou regionů pro omezení prezidentských pravomocí. Předseda z řečnického pultu oznámil, že koalice přestala existovat. Třicet dní na vytvoření nové, jinak další volby." # todo: NEW TRANSLATION
+ ukr_history.47.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.48.t: "Volby, které se nikdy nekonaly" # todo: NEW TRANSLATION
+ ukr_history.48.d: "Prezident znovu rozpustil parlament a stanovil hlasování na 7. prosince. Ve státní pokladně nejsou peníze na jejich zaplacení, soudy dekret zablokovaly a ve stejném měsíci dorazila světová finanční krize. Volby byly tiše opuštěny." # todo: NEW TRANSLATION
+ ukr_history.48.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.49.t: "Krize přichází" # todo: NEW TRANSLATION
+ ukr_history.49.d: "Hřivna od léta ztratila vůči dolaru téměř polovinu své hodnoty. Vývoz oceli, který platil za všechno, se s klesající světovou poptávkou zhroutil. Vláda si od Fondu zajistila šestnáct miliard dolarů a podmínky za ně zaplatí lidé, kteří nikdy neviděli dobu rozkvětu." # todo: NEW TRANSLATION
+ ukr_history.49.a: "Vzít peníze Fondu i jeho podmínky." # todo: NEW TRANSLATION
+ ukr_history.49.b: "Odmítnout podmínky a vytisknout, co potřebujeme." # todo: NEW TRANSLATION
+ ukr_history.50.t: "Prezident přebírá svou stranu" # todo: NEW TRANSLATION
+ ukr_history.50.d: "Prezident se schválením v jednotkách procent konečně formálně převzal vedení Naší Ukrajiny. Jde o pokus zachránit stranu, která ztratila regionální struktury ve prospěch Sjednoceného středu a voliče ve prospěch všech ostatních." # todo: NEW TRANSLATION
+ ukr_history.50.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.51.t: "Koalice s Lytvynem" # todo: NEW TRANSLATION
+ ukr_history.51.d: "Byla sestavena nová většina: Blok Tymošenkové, Naše Ukrajina–Lidová sebeobrana a Lytvynův blok, přičemž cenou je Lytvynův návrat do křesla předsedy. O vládě v zemi nyní rozhoduje dvacet poslanců." # todo: NEW TRANSLATION
+ ukr_history.51.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.52.t: "Plynová válka" # todo: NEW TRANSLATION
+ ukr_history.52.d: "Devatenáct lednových dnů se tranzit zastavil a polovina Evropy prochladla. Premiérka odletěla do Moskvy a osobně podepsala desetiletou smlouvu, bez prezidentova souhlasu a bez vlastní delegace v místnosti. Cenový vzorec v této smlouvě bude proti ní používán po zbytek její kariéry." # todo: NEW TRANSLATION
+ ukr_history.52.a: "Podepsat – země nemůže zmrznout." # todo: NEW TRANSLATION
+ ukr_history.52.b: "Vydržet a vyjednat lepší vzorec." # todo: NEW TRANSLATION
+ ukr_history.53.t: "Svoboda vítězí v Ternopilu" # todo: NEW TRANSLATION
+ ukr_history.53.d: "V předčasných volbách do ternopilské regionální rady získala Svoboda třicet pět procent a první místo. Strana, která měla před dvěma lety celostátně méně než jedno procento, nyní řídí region. Halič přestala volit oranžové strany a začala hlasovat proti všem." # todo: NEW TRANSLATION
+ ukr_history.53.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.54.t: "Nejhorší rok" # todo: NEW TRANSLATION
+ ukr_history.54.d: "Průmyslová výroba klesla o třetinu, ekonomika se letos smrští o patnáct procent a nedoplatky mezd se vracejí poprvé od devadesátých let. Kdokoli v lednu vyhraje prezidentské volby, zdědí zemi, která přestala věřit, že posledních pět let stálo za to." # todo: NEW TRANSLATION
+ ukr_history.54.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.55.t: "Tihipko se vrací" # todo: NEW TRANSLATION
+ ukr_history.55.d: "Bývalý centrální bankéř přejmenoval Labouristickou stranu Ukrajiny na Silnou Ukrajinu a kandiduje na prezidenta s programem kompetence namísto jazyka či historie. Nezvítězí, ale třetina voličů, která nechce ani jeden tábor, konečně dostala svou adresu." # todo: NEW TRANSLATION
+ ukr_history.55.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.56.t: "První kolo roku 2010" # todo: NEW TRANSLATION
+ ukr_history.56.d: "Janukovyč třicet pět procent, Tymošenková dvacet pět, Tihipko třináct, Jaceňuk sedm. Úřadující prezident získal 5,4 – nejhorší výsledek, jaký kdy úřadující prezident kdekoli zaznamenal. Oranžová revoluce byla odvolena lidmi, kteří ji vytvořili." # todo: NEW TRANSLATION
+ ukr_history.56.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.57.t: "Stabilita a reformy" # todo: NEW TRANSLATION
+ ukr_history.57.d: "Nová většina byla sestavena způsobem, který ústava zjevně neumožňuje: jednotliví poslanci vstupují do koalice namísto celých frakcí. Ústavní soud jí během měsíce požehná. Mykola Azarov se stává premiérem a Strana regionů drží současně prezidentský úřad, vládu i Radu." # todo: NEW TRANSLATION
+ ukr_history.57.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.58.t: "Azarov přebírá vedení strany" # todo: NEW TRANSLATION
+ ukr_history.58.d: "Po přechodu Janukovyče do prezidentského úřadu premiér formálně převzal vedení Strany regionů. Strana je nyní prodlouženou rukou vlády a doněcké obchodní skupiny, které ji vybudovaly, si vybírají svůj podíl na státu." # todo: NEW TRANSLATION
+ ukr_history.58.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.59.t: "Jaceňukova Fronta změny" # todo: NEW TRANSLATION
+ ukr_history.59.d: "Po důstojném čtvrtém místě v prezidentských volbách přeměnil Arsenij Jaceňuk svou kampaň ve stranu. Fronta změny nabízí technokratickou kompetenci a evropskou integraci voličům, kteří už mají dost obou táborů z roku 2004." # todo: NEW TRANSLATION
+ ukr_history.59.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.60.t: "Soud ruší rok 2004" # todo: NEW TRANSLATION
+ ukr_history.60.d: "Ústavní soud prohlásil politickou reformu z roku 2004 za protiústavní z procesních důvodů a přes noc obnovil ústavu z roku 1996. Prezident, který nastoupil do úřadu v parlamentní republice, nyní vládne prezidentské republice, aniž by Rada hlasovala jediným hlasem." # todo: NEW TRANSLATION
+ ukr_history.60.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.61.t: "Místní volby" # todo: NEW TRANSLATION
+ ukr_history.61.d: "Strana regionů ovládla jih, východ i většinu středu. V Haliči zvítězila Svoboda ve všech třech regionálních radách. Naše Ukrajina byla vymazána z mapy, kterou v roce 2004 nakreslila, a prostor, který zaujímala, nyní patří straně, jež před třemi lety měla jedno procento." # todo: NEW TRANSLATION
+ ukr_history.61.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ ukr_history.62.t: "Daňový Majdan" # todo: NEW TRANSLATION
+ ukr_history.62.d: "Drobní obchodníci a podnikatelé znovu postavili stany na náměstí Nezávislosti proti novému daňovému zákoníku. Na náměstí nejsou žádné stranické vlajky a organizátoři požádali politiky, aby se drželi stranou. Prezident vetoval nejhorší ustanovení, ale tábor byl přesto v noci vyklizen." # todo: NEW TRANSLATION
+ ukr_history.62.a: "Vetovat zákoník a vyklidit náměstí." # todo: NEW TRANSLATION
+ ukr_history.62.b: "Prosadit zákoník beze změn." # todo: NEW TRANSLATION
+ ukr_history.63.t: "Zatčení Julie Tymošenkové" # todo: NEW TRANSLATION
+ ukr_history.63.d: "Bývalá místopředsedkyně vlády pro paliva a energetiku byla převezena do věznice Lukjanivska na základě obvinění z pašování plynu a padělání dokumentů z doby, kdy působila ve společnosti United Energy Systems. V lednu byla odvolána poté, co zasáhla proti barterovým schématům v tomto sektoru, a během několika týdnů bylo zahájeno řízení. Soud prohlásí její zadržení za nezákonné a po dvaačtyřiceti dnech ji propustí; do té doby již nebude ministryní, která se rozešla s prezidentem, ale tváří opozice proti němu." # todo: NEW TRANSLATION
+ ukr_history.63.a: "Ať se tak stane." # todo: NEW TRANSLATION
+ UKR_officer_Oleksandr_Dublian: "Oleksandr Dublian" # todo: NEW TRANSLATION
+ UKR_officer_Mykola_Dumenko: "Mykola Dumenko" # todo: NEW TRANSLATION
+ UKR_officer_Serhiy_Mykheyevskyi: "Serhiy Mykheyevskyi" # todo: NEW TRANSLATION
+ UKR_officer_Vyacheslav_Nazarkin: "Vyacheslav Nazarkin" # todo: NEW TRANSLATION
+ UKR_officer_Andriy_Maksymenko: "Andriy Maksymenko" # todo: NEW TRANSLATION
+ UKR_officer_Volodymyr_Pasiura: "Volodymyr Pasiura" # todo: NEW TRANSLATION
+ UKR_officer_Ihor_Stelmakh: "Ihor Stelmakh" # todo: NEW TRANSLATION
+ UKR_officer_Anatoliy_Khortiuk: "Anatoliy Khortiuk" # todo: NEW TRANSLATION
+ UKR_officer_Yuriy_Ilyin: "Yuriy Ilyin" # todo: NEW TRANSLATION
+ UKR_officer_Oleksandr_Shelykh: "Oleksandr Shelykh" # todo: NEW TRANSLATION
+ UKR_officer_Serhiy_Yershov: "Serhiy Yershov" # todo: NEW TRANSLATION
+ UKR_officer_Oleksandr_Shapoval: "Oleksandr Shapoval" # todo: NEW TRANSLATION
+ UKR_officer_Viktor_Didenko: "Viktor Didenko" # todo: NEW TRANSLATION
+ UKR_officer_Andriy_Sabadash: "Andriy Sabadash" # todo: NEW TRANSLATION
+ UKR_officer_Serhiy_Ihnashychev: "Serhiy Ihnashychev" # todo: NEW TRANSLATION
+ UKR_officer_Volodymyr_Andreychenko: "Volodymyr Andreychenko" # todo: NEW TRANSLATION
+ UKR_officer_Pavlo_Danilov: "Pavlo Danilov" # todo: NEW TRANSLATION
+ UKR_officer_Mykola_Babachuk: "Mykola Babachuk" # todo: NEW TRANSLATION
+ UKR_officer_Volodymyr_Lysov: "Volodymyr Lysov" # todo: NEW TRANSLATION
+ UKR_officer_Valeriy_Hresko: "Valeriy Hresko" # todo: NEW TRANSLATION
+ UKR_officer_Yakiv_Halaniuk: "Yakiv Halaniuk" # todo: NEW TRANSLATION
+ UKR_officer_Mykola_Hurskyi: "Mykola Hurskyi" # todo: NEW TRANSLATION
+ UKR_officer_Volodymyr_Mushimanskyi: "Volodymyr Mushimanskyi" # todo: NEW TRANSLATION
+ UKR_officer_Nazar_Panchokha: "Nazar Panchokha" # todo: NEW TRANSLATION
+ UKR_officer_Volodymyr_Kosiuk: "Volodymyr Kosiuk" # todo: NEW TRANSLATION
+ UKR_Petro_Honcharenko: "Petro Honcharenko" # todo: NEW TRANSLATION
+ UKR_Valeriy_Mykolayets: "Valeriy Mykolayets" # todo: NEW TRANSLATION
+ UKR_Oleksiy_Kyseliov: "Oleksiy Kyseliov" # todo: NEW TRANSLATION
+ UKR_Volodymyr_Dudka: "Volodymyr Dudka" # todo: NEW TRANSLATION
+ UKR_Serhiy_Savchenko: "Serhiy Savchenko" # todo: NEW TRANSLATION
+ UKR_Serhiy_Yeliseyev: "Serhiy Yeliseyev" # todo: NEW TRANSLATION
+ UKR_Oleh_Mezhevyi: "Oleh Mezhevyi" # todo: NEW TRANSLATION
+ UKR_Serhiy_Zarva: "Serhiy Zarva" # todo: NEW TRANSLATION
+ tooltip_remove_productivity_from_state: "§WProduktivita tohoto státu bude §Rsnížena§! o §R$PRODUCTIVITY_AMOUNT$§! bodů.\n §!" # todo: NEW TRANSLATION

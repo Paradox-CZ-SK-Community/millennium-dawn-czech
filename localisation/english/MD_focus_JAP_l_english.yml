@@ -2432,6 +2432,81 @@
  JAP_ending_compulsory_nomikai_desc: "Nomikai je dobrovolné v tom smyslu, že pozvánka je formulována jako otázka a mladší pracovník, který ji dvakrát odmítne, o sobě řekl něco, co žádné hodnocení výkonu nezaznamená. Zákon o prevenci šikany z pozice se tomu staví z boku: poprvé definuje šikanu z pozice na pracovišti v japonských zákonech a ukládá každé společnosti provozovat stížnostní řízení a chránit stěžovatele. Generace mladších pracovníků už přestala chodit a zákon ji dohnal." # todo: NEW TRANSLATION
  JAP_work_to_live: "Pracovat pro život" # todo: NEW TRANSLATION
  JAP_work_to_live_desc: "Hodiny zaznamenává stroj a odpovídají skutečnosti, dovolená se čerpá, protože její čerpání nic nestojí, a otcové žádají o týdny po narození dítěte a vracejí se ke stejnému stolu a stejným vyhlídkám. Nic z toho nebylo dosaženo pouze zákonem, protože nikdy nešlo skutečně o zákon: šlo o to, co pracoviště očekává, když nikdo nic nevymáhá. Japonsko stále tvrdě pracuje, přestalo si však plést práci se smrtí z vyčerpání.\n-------------\nVyžaduje úplné vyřešení §Yjaponských zombie společností§!, předchozí zmírnění §Y$JAP_karoshi_crisis$§! do konečné fáze a §Yblahobyt pracovníků§! alespoň §G85§!. Dokončení tohoto zaměření natrvalo ukončí krizi karóši." # todo: NEW TRANSLATION
+ JAP_corporate_reform_category: "Reforma japonských korporací" # todo: NEW TRANSLATION
+ JAP_corporate_reform_category_desc: "Japonský korporátní sektor trpí dvěma propojenými nemocemi. Banky udržují při životě nerentabilní a předlužené firmy pomocí prodlužovaných úvěrů, čímž blokují kapitál a pracovníky, které potřebují zdravější odvětví. Tyto firmy si zároveň kupují loajalitu neplacenými přesčasy a výsledkem je karóši, smrt z přepracování. Ani jednu nemoc nelze zcela vyléčit, dokud přetrvává ta druhá.\n\n§YZombie společnosti§!\n§YPokrok restrukturalizace korporací§!: [?JAP_corporate_restructuring_progress|0] / 100\nRestrukturalizace postupuje rychlostí §R+0.25 měsíčně§!, dokud nebude vyšetřování uzavřeno a zvoleno řešení. §Y$JAP_controlled_downsize$§! pak firmy rychle zlikviduje, §Y$JAP_forced_mergers$§! je pohltí poloviční rychlostí a kvalita zprávy ovlivní obojí. Zaměření na banky a níže uvedené programy obnovy přidávají jednorázové částky.\n§RPokrok se zastaví na 84§!, dokud nebude zvoleno řešení.\n§GPrahové hodnoty§!\n§G30§! a §G60§!: níže uvedené rozhodnutí §Y$JAP_restructure_next_tranche$§! se odemkne a každé jeho použití zmírní §Y$JAP_zombie_companies$§! o jeden stupeň.\n§G85§!: zaměření na konci zvolené cesty jej nadobro odstraní, buď §Y$JAP_the_lost_decade_ends$§!, nebo §Y$JAP_consolidated_japan_inc$§!, přičemž druhé zanechá trvalou stopu.\n§RVarování§!: §Y$JAP_keiretsu_pact$§! zpomaluje měsíční nárůst.\n\n§YKrize karóši§!\n§YBlahobyt pracovníků§!: [?JAP_karoshi_wellbeing|0] / 100\nZaměření reformy na zvolenou cestu přidávají blahobyt pracovníků přímo a níže uvedené kampaně na pracovištích jej zvyšují po dobu, kdy je financujete.\n§GPrahové hodnoty§!\n§G30§! a §G60§!: níže uvedené rozhodnutí §Y$JAP_enforce_next_reforms$§! se odemkne a každé jeho použití zmírní §Y$JAP_karoshi_crisis$§! o jeden stupeň.\n§G85§!: zaměření na konci zvolené cesty jej nadobro odstraní, buď §Y$JAP_end_of_karoshi$§!, §Y$JAP_work_to_live$§!, nebo §Y$JAP_the_bargain_kept$§!. Každé z nich rovněž vyžaduje, aby byla krize nejprve zmírněna na poslední stupeň.\n§RVarování§!: každá kampaň přináší §R4§! místo §G8§!, dokud přetrvávají §Y$JAP_zombie_companies$§!, a samotná zaměření cesty vás nemohou dostat na §G85§!.\n\n§GRada§!: §Y$JAP_a_society_where_women_thrive$§! snižuje náklady kampaní §Y$JAP_cultural_change$§! pro státní pokladnu na polovinu." # todo: NEW TRANSLATION
+ JAP_premium_friday_campaign: "Propagovat prémiový pátek" # todo: NEW TRANSLATION
+ JAP_premium_friday_campaign_desc: "Financujte další kolo propagační kampaně ministerstva a s ní spojené maloobchodní slevy a zatlačte na zaměstnavatelskou federaci, aby přiměla své členy zavírat dříve. Firmy, které zhasnou světla ve tři, budou při tom fotografovány." # todo: NEW TRANSLATION
+ JAP_ikumen_campaign: "Spustit kampaň ikumen" # todo: NEW TRANSLATION
+ JAP_ikumen_campaign_desc: "Umístěte otce na rodičovské dovolené na plakáty, do ministerské reklamy i do televize a zveřejňujte míru jejího využívání podle jednotlivých firem, aby se nízké číslo stalo náborovým problémem. Cílem je, aby žádost o dovolenou působila obyčejně, nikoli odvážně." # todo: NEW TRANSLATION
+ JAP_mental_health_campaign: "Kampaň za duševní zdraví na pracovišti" # todo: NEW TRANSLATION
+ JAP_mental_health_campaign_desc: "Rozšiřte každoroční kontrolu stresu pod hranici padesáti zaměstnanců, dotujte pracovnělékařské lékaře pro firmy příliš malé na to, aby si jednoho vydržovaly, a řádně obsazujte poradenské linky. Vyšetření pomůže jen tehdy, když je na druhém konci někdo, kdo se mu věnuje." # todo: NEW TRANSLATION
+ JAP_no_overtime_day_campaign: "Vyhlásit den bez přesčasů" # todo: NEW TRANSLATION
+ JAP_no_overtime_day_campaign_desc: "Určete všední den, zhasněte kancelářská světla ve stanovenou hodinu a pošlete domů nejprve vedoucí oddělení, protože žádný junior neodejde dříve než jeho nadřízený. Hrubé, viditelné a jediná verze tohoto pokynu, která kdy fungovala." # todo: NEW TRANSLATION
+ JAP_karoshi_resolved: "Japonská krize karóši byla zcela vyřešena" # todo: NEW TRANSLATION
+ JAP_keidanren_charter: "Charta rovnováhy mezi pracovním a osobním životem" # todo: NEW TRANSLATION
+ JAP_keidanren_charter_desc: "Vláda, Keidanren a Rengo podepisují Chartu rovnováhy mezi pracovním a osobním životem a dávají jí konkrétní čísla: snížit na polovinu počet pracovníků v šedesátihodinových pracovních týdnech, vyčerpat každý přiznaný den placené dovolené a dostat mužskou rodičovskou dovolenou z nízkých jednotek procent. Dokument nemá právní sílu ani sankce, pouze každoroční veřejné hodnocení radou, v níž má podnikatelská sféra rovnocenné zastoupení. Japonská pracovní doba nikdy neklesla díky stíhání, ale klesá, když firmy musí navzájem vysvětlovat svá čísla." # todo: NEW TRANSLATION
+ JAP_shunto_offensive: "Jarní ofenzíva" # todo: NEW TRANSLATION
+ JAP_shunto_offensive_desc: "Kabinet se přímo připojuje k jarní mzdové ofenzívě šuntó, tlačí na Keidanren, aby zvýšil základní mzdy namísto bonusů, a požadavek podporuje daňovými úlevami pro vyhovující firmy. Kritici tomu říkají kanmin šuntó, vládou řízené vyjednávání, a tvrdí, že mzdové kolo řízené z kanceláře premiéra není kolektivním vyjednáváním vůbec. Dokud nevzrostou základní mzdy, salaryman bude dál pracovat přesčasy, které splácejí jeho hypotéku, bez ohledu na to, co říká strop." # todo: NEW TRANSLATION
+ JAP_health_management_stocks: "Řízení zdraví a produktivity" # todo: NEW TRANSLATION
+ JAP_health_management_stocks_desc: "Ministerstvo a Tokijská burza začínají označovat akcie řízení zdraví a produktivity a říkají investorům, že zdraví zaměstnanců je kapitálový výdaj, nikoli sociální péče. Certifikace, která za tím stojí, White 500, je záměrným opakem černé listiny špatných zaměstnavatelů a vychází ze zjištění, že vyčerpaní pracovníci produkují méně a stojí více než odpočatí. Firmy předkládají vlastní údaje o pracovní době a zdraví, aby získaly označení, a ty, které za ně nedokážou odpovídat akcionářům ani uchazečům." # todo: NEW TRANSLATION
+ JAP_morning_shift_system: "Ranní směna" # todo: NEW TRANSLATION
+ JAP_morning_shift_system_desc: "Itochu, sogo šóša v centru starého keiretsu, zakazuje práci po desáté večer a místo toho prémiově odměňuje ranní hodiny. Úvaha je obchodní, nikoli humanitární: obchodník sedící u stolu od devíti předchozího rána stanovuje chybné ceny a večerní hodiny jsou nejméně produktivní částí dne. Večerní přesčasy se zhroutily, celková pracovní doba klesla, zisk se udržel a porodnost ve firmě vzrostla, což zahanbilo každého konkurenta, který tvrdil, že kratší pracovní doba je nedostupná." # todo: NEW TRANSLATION
+ JAP_job_based_employment: "Najímání na práci, ne do firmy" # todo: NEW TRANSLATION
+ JAP_job_based_employment_desc: "Japonské zaměstnání je založené na členství: pracovník je přijat do firmy, nikoli na konkrétní pozici, podle uvážení firmy střídá úkoly bez vymezených povinností a právě zde začíná neomezený pracovní den. Hitachi, Fujitsu, KDDI a Shiseido nyní zveřejňují skutečné popisy pracovních míst s odměnou odstupňovanou podle role a Keidanren připustil, že celoživotní zaměstnání nelze udržet. Stát financuje rekvalifikaci za bilion jenů, aby tato změna působila jako příležitost, nikoli zrada." # todo: NEW TRANSLATION
+ JAP_the_bargain_kept: "Dodržená dohoda" # todo: NEW TRANSLATION
+ JAP_the_bargain_kept_desc: "Pracovní doba klesá, protože podnikatelské skupiny zjišťují, že je stojí více, než vydělávají, a jakmile to zjistí, jednají rychleji, než by mohl jakýkoli výbor sněmu. Křížové vlastnictví zůstává nedotčeno, hlavní banky zůstávají v centru svých skupin a produktivita uvolněná kratšími dny proudí do laboratoří místo do mzdových požadavků. Stát nese to, co dohoda nepokrývá: účet za zdravotní pojištění pracovníků, kteří už byli zlomeni, a shovívavost, která udržuje insolventní firmy při životě.\n-------------\nVyžaduje úplné vyřešení §Yjaponských zombie společností§!, předchozí zmírnění §Y$JAP_karoshi_crisis$§! na poslední stupeň a alespoň §G85§! v ukazateli §Yblahobytu pracovníků§!. Dokončení tohoto zaměření nadobro ukončí krizi karóši." # todo: NEW TRANSLATION
+ JAP_keidanren_review_campaign: "Prověřit dodržování charty" # todo: NEW TRANSLATION
+ JAP_keidanren_review_campaign_desc: "Charta podnikového chování Keidanrenu zavazuje své členy k pracovním postupům, které většina z nich nekontroluje a nikdo z nich nezveřejňuje. Federace je přesvědčena, aby provedla kontrolní cyklus se skutečnými výsledky, člena po členovi, a souhrn oznámila ministerstvu. Nic není povinné a nikdo není jmenován, což je přesně důvod, proč s tím podnikatelské skupiny souhlasí." # todo: NEW TRANSLATION
+ JAP_shunto_wage_round_campaign: "Podpořit jarní mzdovou ofenzívu" # todo: NEW TRANSLATION
+ JAP_shunto_wage_round_campaign_desc: "Každé jaro přidružené organizace Renga předloží zaměstnavatelům číslo a zaměstnavatelé vrátí menší, přičemž složka navýšení základní mzdy byla po dvě desetiletí nulová. Vláda tlačí na podnikatelské skupiny, aby připustily skutečné zvýšení, protože pracovník placený dost na živobytí přestane pracovat přesčasy, které ho zabíjejí, a tlak doplňuje daňovými úlevami pro firmy, které se pohnou jako první." # todo: NEW TRANSLATION
+ JAP_health_stock_listing_campaign: "Rozšířit seznam řízení zdraví" # todo: NEW TRANSLATION
+ JAP_health_stock_listing_campaign_desc: "Ministerstvo a Tokijská burza každoročně společně označují hrstku kotovaných firem jako akcie zdraví a produktivity, podle teorie, že společnost, která nevyčerpává své zaměstnance, je lepší dlouhodobou investicí. Rozšíření výběru a zveřejnění hodnocení promění zdraví na pracovišti v něco, co může správce fondu ocenit, a zasáhne tak správní rady, kam se inspektor práce nikdy nedostane." # todo: NEW TRANSLATION
+ JAP_shift_rotation_campaign: "Dotovat ranní směnu" # todo: NEW TRANSLATION
+ JAP_shift_rotation_campaign_desc: "Posuňte pracovní den dopředu, plaťte příplatek za ranní místo večerní práce a večer vypněte napájení kancelářského patra, aby setrvání nebylo možné. Itochu to udělalo a zjistilo, že s produktivitou vzrostla i porodnost; stát nyní hradí část přechodových nákladů každé firmě ochotné jej následovat." # todo: NEW TRANSLATION
+ JAP_declaration_price_target: "Vyhlásit cenový cíl" # todo: NEW TRANSLATION
+ JAP_declaration_price_target_desc: "Ekonomiku nestahuje dolů pouze slabá poptávka. Víra, že ceny a mzdy se nikdy nepohnou, uvěznila domácnosti i firmy v opatrnosti. Jasný cenový cíl je prohlášením, že stát už nebude přijímat stagnaci jako normu, a je prvním krokem k uvolnění zamrzlých očekávání." # todo: NEW TRANSLATION
+ Japan_economy.17.t: "Cenového cíle bylo dosaženo" # todo: NEW TRANSLATION
+ Japan_economy.17.d: "To, co se kdysi zdálo nemožné, se začalo dít. Ceny rostou způsobem, který už lidé nemohou ignorovat. Nejdůležitější změnou není samotné číslo, ale sílící pocit, že stagnace není věčná. Tento pocit začíná uvolňovat opatrnost domácností i firem." # todo: NEW TRANSLATION
+ Japan_economy.17.a: "Atmosféra se změnila." # todo: NEW TRANSLATION
+ Japan_economy.18.t: "Cenový cíl nebyl naplněn" # todo: NEW TRANSLATION
+ Japan_economy.18.d: "Cíl se nepodařilo proměnit ve skutečný pohyb a kolem vládního slibu prolomit útlum se začínají šířit pochybnosti. Domácnosti znovu opatrní, zatímco firmy tváří v tvář slabé poptávce ustupují do vyčkávací pozice. Důvěra v oživení byla zjevně poškozena a nad japonskou ekonomikou se opět usazuje tíživá nálada." # todo: NEW TRANSLATION
+ Japan_economy.18.a: "Důvěru nelze obnovit snadno." # todo: NEW TRANSLATION
+ JAP_price_target_mission: "Příslib rostoucích cen" # todo: NEW TRANSLATION
+ JAP_price_target_mission_desc: "Vyhlášení cíle nestačí. Musíme v přiděleném čase ukázat viditelné známky růstu cen a přesvědčit zemi, že změna skutečně začala." # todo: NEW TRANSLATION
+ JAP_cash_transfers_households: "Přímá podpora domácností" # todo: NEW TRANSLATION
+ JAP_cash_transfers_households_desc: "Když jsou obavy z budoucnosti silné, oživení nezačne samo. Stát musí vložit kupní sílu přímo do rukou domácností. Podpora zaměřená na nízkopříjmové a středněpříjmové skupiny se s větší pravděpodobností promění ve skutečnou spotřebu a okamžitě posílí domácí poptávku." # todo: NEW TRANSLATION
+ JAP_cash_transfers_households_decision: "Platby domácnostem s nízkými a středními příjmy" # todo: NEW TRANSLATION
+ JAP_cash_transfers_households_decision_desc: "Doručte podporu skupinám, které ji nejspíše utratí, a přímo zvyšte poptávku." # todo: NEW TRANSLATION
+ Japan_economy.19.t: "Podpůrné platby vykazují známky oživení" # todo: NEW TRANSLATION
+ Japan_economy.19.d: "Peníze doručené přímo domácnostem už neleží ladem. Začínají proudit na trh. Nárůst výdajů je obzvlášť patrný u nízkopříjmových a středněpříjmových skupin a peněženky, které zůstávaly tak dlouho zavřené, se konečně začínají otevírat." # todo: NEW TRANSLATION
+ Japan_economy.19.a: "Poptávku lze stále probudit." # todo: NEW TRANSLATION
+ JAP_temporary_tax_cuts: "Dočasné daňové úlevy" # todo: NEW TRANSLATION
+ JAP_temporary_tax_cuts_desc: "Dočasné snížení daní dává domácnostem důvod utrácet nyní, urychluje odkládané nákupy a dodává poptávce ve stagnující ekonomice viditelný impuls." # todo: NEW TRANSLATION
+ JAP_temporary_consumption_tax_cut: "Dočasné snížení spotřební daně" # todo: NEW TRANSLATION
+ JAP_temporary_consumption_tax_cut_desc: "Vytvořte důvod utrácet nyní a proměňte odloženou spotřebu v impuls pro oživení." # todo: NEW TRANSLATION
+ Japan_economy.20.t: "Daňové úlevy vykazují známky oživení" # todo: NEW TRANSLATION
+ Japan_economy.20.d: "Dočasné snížení daní dalo domácnostem důvod jednat nyní. Odkládané nákupy se začínají vracet a atmosféra stagnace začíná praskat. Může jít o krátkodobé opatření, ale ukázalo skutečnou sílu při uvolňování slabé poptávky." # todo: NEW TRANSLATION
+ Japan_economy.20.a: "Nyní je čas jednat." # todo: NEW TRANSLATION
+ JAP_active_public_investment: "Agresivní veřejné investice" # todo: NEW TRANSLATION
+ JAP_active_public_investment_desc: "Pokud soukromé firmy zůstanou opatrné, vláda musí vytvořit poptávku sama a nasměrovat peníze do místních ekonomik a zaměstnanosti. Veřejné investice obnoví pocit, že se pohyb konečně vrátil." # todo: NEW TRANSLATION
+ JAP_active_public_investment_decision: "Nařídit veřejné investice" # todo: NEW TRANSLATION
+ JAP_active_public_investment_decision_desc: "Vytvořte poptávku prostřednictvím státní činnosti a obnovte tok peněz do místních ekonomik a zaměstnanosti." # todo: NEW TRANSLATION
+ Japan_economy.21.t: "Veřejné investice vykazují známky oživení" # todo: NEW TRANSLATION
+ Japan_economy.21.d: "Projekty nařízené státem začínají znamenat více, než naznačují samotná čísla. Peníze proudí do místních ekonomik, zaměstnanost se probouzí a až příliš známá atmosféra ekonomického pesimismu se začíná měnit. Země konečně cítí, že udělala krok za čekání." # todo: NEW TRANSLATION
+ Japan_economy.21.a: "Stát může rozhýbat ekonomiku." # todo: NEW TRANSLATION
+ JAP_improvement_private_investment_climate: "Zlepšit prostředí pro soukromé investice" # todo: NEW TRANSLATION
+ JAP_improvement_private_investment_climate_desc: "Samotné vládní výdaje oživení nedokončí. Firmám je třeba vrátit důvěru k investování a snížit nejistotu ohledně budoucnosti. Trvalé oživení vyžaduje, aby podniky přešly z obrany zpět k expanzi." # todo: NEW TRANSLATION
+ JAP_focus_improving_investment_climate: "Zaměřit se na zlepšení investičního prostředí" # todo: NEW TRANSLATION
+ JAP_focus_improving_investment_climate_desc: "Vláda upřednostňuje vytvoření příznivějšího prostředí pro podnikatelské investice. Politický kapitál se vynakládá na koordinaci, přesvědčování a institucionální reformu, takže zbývá méně prostoru pro jiné krátkodobé iniciativy." # todo: NEW TRANSLATION
+ Japan_economy.02.t: "Prostředí pro soukromé investice se zlepšuje" # todo: NEW TRANSLATION
+ Japan_economy.02.d: "Podniky začínají chápat, že setrvávat navždy v obranné pozici znamená přicházet o příležitosti. Nejistota přetrvává, ale část břemene, které brzdilo nové investice, začíná mizet. Poprvé už oživení nevypadá jako něco, co bude čistě řízeno státem." # todo: NEW TRANSLATION
+ Japan_economy.02.a: "Soukromý sektor se probouzí." # todo: NEW TRANSLATION
+ JAP_stimulating_demand_durable_goods: "Podpořit poptávku po zboží dlouhodobé spotřeby" # todo: NEW TRANSLATION
+ JAP_stimulating_demand_durable_goods_desc: "Zboží dlouhodobé spotřeby, jako jsou automobily, spotřebiče a nákupy spojené s bydlením, může po rozběhnutí poptávky povznést mnohem více než jen vlastní odvětví. V dobách stagnace však tyto nákupy často patří mezi první odkládané. Jejich oživení by dodalo obnově viditelný impuls a vrátilo dlouho chybějící pocit vitality." # todo: NEW TRANSLATION
+ JAP_stimulating_demand_durable_goods_decision: "Kampaň za nákup zboží dlouhodobé spotřeby" # todo: NEW TRANSLATION
+ JAP_stimulating_demand_durable_goods_decision_desc: "Podpořte velké nákupy odkládané celé roky a dodejte oživení viditelný impuls." # todo: NEW TRANSLATION
+ Japan_economy.22.t: "Poptávka po zboží dlouhodobé spotřeby vykazuje známky oživení" # todo: NEW TRANSLATION
+ Japan_economy.22.d: "Velké nákupy, které byly celé roky odkládány, se konečně začínají vracet. Poptávka po zboží dlouhodobé spotřeby má široké dopady na související odvětví a zároveň signalizuje, že domácnosti začínají být alespoň trochu optimističtější ohledně budoucnosti. Oživení se začíná objevovat nejen v datech, ale i v atmosféře každodenního života." # todo: NEW TRANSLATION
  Japan_economy.22.a: "Nechme tento impuls šířit." # todo: NEW TRANSLATION
  JAP_strict_audits_banks: "Přísné kontroly bank" # todo: NEW TRANSLATION
  JAP_strict_audits_banks_desc: "Roky odkladů způsobily, že rány bankovního systému jsou hůře viditelné, zatímco finanční úzkost se dál šíří. Prvním krokem je vytáhnout nebezpečné špatné úvěry ze stínů a přimět banky čelit realitě. Bude to bolestivé, ale bez této bolesti nemůže přijít skutečné oživení." # todo: NEW TRANSLATION
@@ -2575,3 +2650,416 @@
  JAP_tohoku_shinkansen_upgrade_desc: "Provozovat vlaky řady E5 rychlostí 320 km/h na hlavní trati Tóhoku a zkrátit dobu cest z Tokia směrem k Aomori." # todo: NEW TRANSLATION
  JAP_hokkaido_shinkansen_sapporo: "Hokkaido šinkansen: prodloužení do Sappora" # todo: NEW TRANSLATION
  JAP_hokkaido_shinkansen_sapporo_desc: "Prorazit tunely a vybudovat viadukty pro vedení šinkansenu ze Shin-Hakodate-Hokuto až do Sappora." # todo: NEW TRANSLATION
+ JAP_shikoku_shinkansen: "Šikoku šinkansen" # todo: NEW TRANSLATION
+ JAP_shikoku_shinkansen_desc: "Uskutečnit dlouho plánovanou trať základního plánu a poprvé přivést vysokorychlostní železnici na ostrov Šikoku." # todo: NEW TRANSLATION
+ JAP_plutonium_stockpile_concern: "Zásoby separovaného plutonia" # todo: NEW TRANSLATION
+ JAP_galapagos_syndrome: "Galapážský syndrom" # todo: NEW TRANSLATION
+ JAP_galapagos_syndrome_desc: "Japonsko vybudovalo uvnitř vlastních hranic úplný technologický svět a poté zjistilo, že z něj nedokáže nic vyvážet. Jeho mobilní sítě běžely na PDC, zatímco zbytek planety standardizoval GSM, takže žádný domácí telefon nebylo možné prodat v zahraničí a žádný zahraniční telefon zde. Prohlížení internetu přišlo přes i-mode a platby přes FeliCa, v obou případech o roky napřed před zahraničím a v obou případech nekompatibilní se vším za hranicemi. Domácí certifikace, specifikace JIS a nákupy v rámci keiretsu dokonaly zbytek a naplnily domácí trh produkty navrženými pro zákazníka, který nikde jinde neexistuje. Sto dvacet milionů spotřebitelů stačí k udržení průmyslu a jen stěží stačí k tomu, aby jej přinutili expandovat ven.\n-------------\nTento národní duch se sám nezmírňuje. §RRychlost výzkumu§! se během uzavřenosti Japonska neustále snižuje; dočasná opatření pokles zpomalují, ale nikdy neobrátí. Odstraní jej pouze cesta §YIntegrace se světem§!, dovedená na §G85§! §Yotevřenosti§!. Aktuální údaje naleznete v §Y$JAP_technological_isolation_category$§!." # todo: NEW TRANSLATION
+ JAP_galapagos_modifier: "Galapážské odcizení" # todo: NEW TRANSLATION
+ JAP_galapagos_modifier_desc: "Průběžné hodnocení toho, jak daleko se Japonsko odchýlilo od světa, s nímž obchoduje. Výzkum každý měsíc o něco více zaostává, pokud země trvá na vlastních standardech, a čím dále je od standardů používaných jejími zákazníky, tím rychleji zaostává. Dočasná opatření tento pokles zpomalují. Zastaví jej pouze skutečná integrace." # todo: NEW TRANSLATION
+ JAP_galapagos_resolved: "Japonsko uniklo ze své galapážské izolace" # todo: NEW TRANSLATION
+ JAP_galapagos_syndrome_focus: "Galapážská otázka" # todo: NEW TRANSLATION
+ JAP_galapagos_syndrome_focus_desc: "Domácí trh Japonska je ziskový a zmenšuje se, chráněný standardy, které zemi uzavírají před vším ostatním. Ministerstvo diskutuje, zda je odpovědí konvergence, přepsání standardů tak, aby odpovídaly světu, nebo komercializace, tedy prodej této odlišnosti samotné. Částečná opatření zpomalují odcizení výzkumu, ale žádné z nich neřeší volbu, která se za tím skrývá." # todo: NEW TRANSLATION
+ JAP_galapagos_openness_up_tt: "§YOtevřenost§! $RIGHT|+=0$" # todo: NEW TRANSLATION
+ JAP_galapagos_openness_down_tt: "Snižuje §YOtevřenost§! o $RIGHT|+=0$ a obrací Japonsko více dovnitř, pryč od zahraničních standardů a trhů" # todo: NEW TRANSLATION
+ JAP_galapagos_research_drift_recover_tt: "§YOdcizení výzkumu§! $RIGHT|+=%1$, nikdy nad §Y0§!" # todo: NEW TRANSLATION
+ JAP_galapagos_research_drift_down_tt: "§YOdcizení výzkumu§! se během tohoto hodnocení zhorší o $RIGHT|+=%1$ a nikdy nemůže klesnout pod §R-15%§!" # todo: NEW TRANSLATION
+ JAP_galapagos_drift_review_mission: "Mezera ve standardech" # todo: NEW TRANSLATION
+ JAP_galapagos_drift_review_mission_desc: "Ministerstvo hospodářství, obchodu a průmyslu průběžně vyhodnocuje, jak dalece se japonské specifikace odchýlily od specifikací používaných jeho zákazníky, a každých třicet dní zveřejňuje výsledek. Každé hodnocení je horší než předchozí, protože rozdíly se hromadí, zatímco se s nimi nic nedělá, a certifikační orgány dál nejprve sepisují domácí ustanovení. Čím nižší je §YOtevřenost§!, tím rychleji se mezera rozšiřuje; při §G100§! se její rozšiřování zcela zastaví.\n-------------\nHodnocení se natrvalo uzavře, jakmile Japonsko na cestě §Y$JAP_world_integration$§! dosáhne §G85§! §YOtevřenosti§!. Nic jiného je neukončí." # todo: NEW TRANSLATION
+ JAP_galapagos_cure_condition_TT: "§YOtevřenost§! dosahuje alespoň §G85§! (aktuálně [?JAP_galapagos_openness|Y0]), čímž rozpouští §Y$JAP_galapagos_syndrome$§!" # todo: NEW TRANSLATION
+ JAP_galapagos_dissolution_tt: "Syndrom ustupuje. Japonsko se §Rvzdává§! levného spotřebního zboží, které poskytoval uzavřený trh, a vysoké §Robrany proti zahraničnímu vlivu§!, kterou izolace umožňovala, a §Gzbavuje se§! odcizení výzkumu, investičních postihů a stropu vlastního vlivu v zahraničí:" # todo: NEW TRANSLATION
+ JAP_technological_isolation_category: "Galapágy a válka elektroniky" # todo: NEW TRANSLATION
+ JAP_technological_isolation_category_desc: "Japonský průmysl zdokonalil produkty určené pouze pro Japonsko: vynikající telefony, standardy a služby, které nikdo mimo domácí trh nemohl používat, zatímco zbytek světa se standardizoval podle někoho jiného. Stejná uzavřenost nyní vystavuje japonský polovodičový sektor tlaku, zatímco Čína stoupá po technologickém žebříčku.\n\n§YGalapážský syndrom§!\n§YOtevřenost§!: [?JAP_galapagos_openness|0] / 100\n§Y$JAP_galapagos_drift_review_mission$§! hodnotí odcizení každých třicet dní a před použitím zobrazuje přesnou hodnotu. Čím nižší je otevřenost, tím rychleji výzkum zaostává, při §G100§! až k úplnému zastavení, nikdy však hůře než §R-15%§!.\n§GZvyšování otevřenosti§!: většinu zajišťují zaměření integrace a zbytek zaměření elektroniky. Dvě níže uvedené kampaně přidávají trochu více, ale pouze zpomalují odcizení. Syndrom vyléčit nemohou.\n§GOdstranění§!: §Y$JAP_galapagos_syndrome$§! odstraní pouze cesta §Y$JAP_world_integration$§!, a to teprve poté, co otevřenost překročí §G85§!. Cesta §Y$JAP_cool_japan_doctrine$§! ducha záměrně zachovává a místo toho proměňuje kulturní dosah Japonska ve vliv.\n\n§YSoutěž modelů§!\n§YOdolnost elektroniky§!: [?JAP_electronics_resilience|0]\nTlak Číny začíná na §R1§! a zvyšuje se o §R+1§! za každý polovodičový milník, kterého dosáhne, a o další §R+1§!, dokud je otevřenost pod §R25§!, maximálně však na §R3§!. Rozdíl mezi tlakem a odolností určuje, kterou úroveň §Y$JAP_model_competition$§! Japonsko utrpí. Pokud tlak zcela překonáte, duch zmizí; pokud necháte Čínu neodpovězenou získat náskok, vrátí se.\n§GZvyšování odolnosti§!: poskytují je polovodičová zaměření a níže uvedená exportní ofenzíva přidává další, dokud odolnost nedosáhne §G4§!.\n§RVarování§!: ofenzíva vyžaduje otevřenost nad §G10§!, pokud nebyla přijata §Y$JAP_cool_japan_doctrine$§! a Japonsko se nerozhodlo svou odlišnost prodávat místo skrývání." # todo: NEW TRANSLATION
+ JAP_international_standards_adjustment: "Přizpůsobení mezinárodním standardům" # todo: NEW TRANSLATION
+ JAP_international_standards_adjustment_desc: "Japonský průmysl si vytváří vlastní standardy, PDC pro mobilní sítě a ISDB pro vysílání, a každý z nich odděluje domácí trh od světa GSM a DVB za hranicemi. Vláda vysílá inženýry do pracovních skupin ISO a IEC, což nedokáže rozdíly přes noc odstranit, ale přináší japonská jména do návrhů, které si za deset let přečtou všechny ostatní země. Cena se platí doma, v testování shody přepisovaném pokaždé, když je nějaké ustanovení postoupeno." # todo: NEW TRANSLATION
+ JAP_english_business_environment: "Anglicky mluvící podnikatelské prostředí" # todo: NEW TRANSLATION
+ JAP_english_business_environment_desc: "Japonští manažeři nedokážou obsadit své zahraniční pobočky lidmi, kteří by ovládali jazyk, v němž jsou sepsány smlouvy. Vláda podporuje firemní programy angličtiny a experiment Rakutenu, který z angličtiny udělal pracovní jazyk japonské firmy a kterému se všichni vysmívali, dokud se nedostavily výsledky. Stojí to roky ztracené produktivity, zatímco se vedoucí oddělení učí vést schůzi v druhém jazyce, a někteří se to nikdy nenaučí." # todo: NEW TRANSLATION
+ JAP_international_standards_adjustment_campaign: "Financovat delegace pro standardy" # todo: NEW TRANSLATION
+ JAP_international_standards_adjustment_campaign_desc: "Zaplaťte další rotaci inženýrů v pracovních skupinách ISO, IEC a ITU a pokryjte domácí testování shody, které následuje po každém ustanovení, jež Japonsko postoupí. Delegace se vracejí s návrhy a průmysl dostává rok na přizpůsobení před další revizí. Přestanete-li je financovat, jejich místa získá někdo jiný." # todo: NEW TRANSLATION
+ JAP_english_business_environment_campaign: "Dotovat firemní programy angličtiny" # todo: NEW TRANSLATION
+ JAP_english_business_environment_campaign_desc: "Podpořte jazykové vzdělávání, za které členské firmy dosud nebyly ochotny platit samy: interní lektory, zkoušky TOEIC během pracovní doby a vyslání do zahraničních kanceláří pro každého, kdo uspěje. Produktivita během studia klesne. Firmy, které vytrvají, už nebudou potřebovat v místnosti překladatele." # todo: NEW TRANSLATION
+ JAP_cool_japan_doctrine: "Doktrína Cool Japan" # todo: NEW TRANSLATION
+ JAP_mitsubishi_aerospace_aircraft_manufacturer_header_wings_pilot_readiness: "Křídla a připravenost pilotů" # todo: NEW TRANSLATION
+ JAP_mitsubishi_aerospace_aircraft_manufacturer_header_air_defense_shield: "Štít protivzdušné obrany" # todo: NEW TRANSLATION
+ JAP_kawasaki_aerospace_company_aircraft_manufacturer_header_rotary_wing_aircraft: "Vrtulová letadla" # todo: NEW TRANSLATION
+ JAP_kawasaki_aerospace_company_aircraft_manufacturer_header_guided_missiles: "Systémy řízených střel" # todo: NEW TRANSLATION
+ JAP_kawasaki_aerospace_company_aircraft_manufacturer_header_heavy_fixed_wing: "Těžká letadla" # todo: NEW TRANSLATION
+ JAP_jsw_tank_manufacturer_header_mbt_mastery: "Mistrovství v hlavních bojových tancích" # todo: NEW TRANSLATION
+ JAP_jsw_tank_manufacturer_header_self_propelled_excellence: "Dokonalost samohybné techniky" # todo: NEW TRANSLATION
+ JAP_mitsubishi_heavy_industries_tank_manufacturer_header_battle_recon_power: "Bojová a průzkumná síla" # todo: NEW TRANSLATION
+ JAP_mitsubishi_heavy_industries_tank_manufacturer_header_artillery_anti_air_systems: "Dělostřelecké a protiletadlové systémy" # todo: NEW TRANSLATION
+ JAP_komatsu_tank_manufacturer_header_light_vehicle_systems: "Systémy lehkých vozidel" # todo: NEW TRANSLATION
+ JAP_komatsu_tank_manufacturer_header_heavy_vehicle_systems: "Systémy těžkých vozidel" # todo: NEW TRANSLATION
+ JAP_subaru_tank_manufacturer_header_light_utility_performance: "Výkonná lehká užitková vozidla" # todo: NEW TRANSLATION
+ JAP_subaru_tank_manufacturer_header_systems_resilience: "Odolnost systémů" # todo: NEW TRANSLATION
+ JAP_howa_machinery_materiel_manufacturer_header_service_rifle_evolution: "Vývoj služebních pušek" # todo: NEW TRANSLATION
+ JAP_howa_machinery_materiel_manufacturer_header_support_weapons_accessories: "Podpůrné zbraně a příslušenství" # todo: NEW TRANSLATION
+ JAP_nec_materiel_manufacturer_header_light_wings: "Lehká křídla" # todo: NEW TRANSLATION
+ JAP_nec_materiel_manufacturer_header_air_defense_shield: "Štít protivzdušné obrany" # todo: NEW TRANSLATION
+ JAP_toshiba_materiel_manufacturer_header_rail_systems: "Železniční systémy" # todo: NEW TRANSLATION
+ JAP_toshiba_materiel_manufacturer_header_air_defense_systems: "Systémy protivzdušné obrany" # todo: NEW TRANSLATION
+ JAP_mitsubishi_shipbuilding_naval_manufacturer_header_patrol_convoy_vessels: "Hlídková a konvojová plavidla" # todo: NEW TRANSLATION
+ JAP_mitsubishi_shipbuilding_naval_manufacturer_header_frigates_destroyers: "Fregaty a torpédoborce" # todo: NEW TRANSLATION
+ JAP_mitsubishi_shipbuilding_naval_manufacturer_header_submarines: "Ponorky" # todo: NEW TRANSLATION
+ JAP_kawasaki_shipbuilding_naval_manufacturer_header_submarine_excellence: "Dokonalost ponorek" # todo: NEW TRANSLATION
+ JAP_kawasaki_shipbuilding_naval_manufacturer_header_container_vessel_efficiency: "Efektivita kontejnerových lodí" # todo: NEW TRANSLATION
+ JAP_ihi_corporation_naval_manufacturer_header_flagship_core_systems: "Základní systémy vlajkových lodí" # todo: NEW TRANSLATION
+ JAP_ihi_corporation_naval_manufacturer_header_projecting_presence: "Prosazování přítomnosti" # todo: NEW TRANSLATION
+ JAP_jmu_corporation_naval_manufacturer_header_escort_combatants: "Eskortní bojová plavidla" # todo: NEW TRANSLATION
+ JAP_jmu_corporation_naval_manufacturer_header_flight_ops_sea_control: "Letecké operace a kontrola moře" # todo: NEW TRANSLATION
+ JAP_jmu_corporation_naval_manufacturer_header_carrier_aviation: "Letectvo letadlových lodí" # todo: NEW TRANSLATION
+ senbu_occupation_law_fake_idea: "Správa pacifikace Senbu" # todo: NEW TRANSLATION
+ senbu_occupation_law_fake_idea_desc: "Důstojníci civilní správy řídí okupované oblasti prostřednictvím místních prominentů namísto velitelů posádek, obnovují trhy, školy a distribuci rýže, než začnou požadovat výstup. Ochota spolupracovat stabilně roste a požadavky na posádky zůstávají nízké, ale mírný přístup ponechává organizovanému odporu více prostoru než represivní režim." # todo: NEW TRANSLATION
+ JAP_sabotaged_russians: "Sabotovaná ruská zařízení" # todo: NEW TRANSLATION
+ JAP_usa_trade_pressure: "Americký obchodní tlak" # todo: NEW TRANSLATION
+ JAP_article_nine_balance_of_power_category: "Článek devět" # todo: NEW TRANSLATION
+ JAP_article_nine_balance_of_power_category_desc: "Zřeknutí se války v článku devět ústavy není uzavřenou otázkou, ale trvalým sporem mezi kabinetem, soudy, americkým spojenectvím a veřejností. Každá nová interpretace posouvá rovnováhu mezi přísně obranným postojem a běžnou vojenskou mocí." # todo: NEW TRANSLATION
+ JAP_cool_japan_doctrine_desc: "Japonský design není podivný proto, že by se nedokázal přizpůsobit zahraničnímu standardu. Je podivný proto, že jej vytvořili pro japonské zákazníky lidé, kteří ani jednou nezvažovali alternativu, a právě proto stojí za koupi. Ministerstvo přestává balit kulturu jako výkladní skříň hardwaru a začíná vyvážet samotnou odlišnost.\n\n§RTato cesta trvale zachovává §Y$JAP_galapagos_syndrome$§!.§! Odstraní jej pouze §Y$JAP_world_integration$§! a tyto dvě cesty se vzájemně vylučují: Japonsko buď sblíží své standardy se světem, nebo světu prodá své vlastní." # todo: NEW TRANSLATION
+ JAP_galapagos_sphere_modifier: "Kulturní sféra" # todo: NEW TRANSLATION
+ JAP_galapagos_sphere_modifier_desc: "Ministerstvo každé čtvrtletí počítá země, v nichž japonský vliv dosahuje alespoň dvaceti procent, a s celkovým počtem zachází jako se samostatným exportním ukazatelem. Každá země na seznamu rozšiřuje publikum, které už japonský design kupuje, aniž by mu nejprve muselo porozumět, což má hodnotu pro obchodní delegace a ještě větší hodnotu pro firmy, které je následují. Počet se zjišťuje jednou za čtvrt roku a výnos se mění spolu s ním. Sféra, která přestane růst, přestane přinášet zisk." # todo: NEW TRANSLATION
+ JAP_cool_japan_sphere_count_mission: "Čtvrtletní sčítání sféry" # todo: NEW TRANSLATION
+ JAP_cool_japan_sphere_count_mission_desc: "Jednou za čtvrt roku Úřad pro podporu kreativních průmyslů sečte každou zemi, v níž japonský vliv dosahuje alespoň dvaceti procent, a vykáže celkový počet jako exportní ukazatel. Obchodní delegace podle tohoto seznamu plánují další čtvrtletí a firmy, které je v zahraničí následují, plánují podle delegací. Sféra, která přestane růst, přestane přinášet zisk, a tento počet je jediným místem, kde se objeví dříve než příjmy." # todo: NEW TRANSLATION
+ JAP_cool_japan_sphere_count_step_tt: "§YKulturní sféra§!: [?JAP_galapagos_sphere_count|Y0] zemí s §G20%§! nebo vyšším japonským vlivem při posledním sčítání. Každá přináší §G+1%§! §Yzahraničního vlivu§! a §G+0.2%§! §Ynávratnosti investic§!, přičemž s §Y$JAP_electronics_superpower$§! se výnos zvyšuje o polovinu a s §Y$JAP_home_electronics$§! o další čtvrtinu." # todo: NEW TRANSLATION
+ JAP_galapagos_sphere_tt: "§YKulturní sféra§!: [?JAP_galapagos_sphere_count|Y0] zemí s §G20%§! nebo vyšším japonským vlivem, počítaných každé čtvrtletí po přijetí §Ydoktríny Cool Japan§!. Výnos se s §Y$JAP_electronics_superpower$§! zvyšuje o polovinu a s §Y$JAP_home_electronics$§! o další čtvrtinu." # todo: NEW TRANSLATION
+ JAP_cool_japan_sphere_payout_tt: "Každé čtvrtletí ministerstvo spočítá země, v nichž japonský §Yvliv§! dosahuje alespoň §G20%§!, a vykáže jejich celkový počet jako §Ykulturní sféru§!. Každá země přidává §G+1%§! §Yzahraničního vlivu§! a §G+0.2%§! §Ynávratnosti investic§!, vyplácených prostřednictvím §Ykulturní sféry§! a rostoucích s jejím rozšiřováním. §Y$JAP_electronics_superpower$§! výnos znovu zvýší o polovinu a §Y$JAP_home_electronics$§! jej zvýší o další čtvrtinu.\n-------------\nTo nijak neovlivňuje §Yodcizení výzkumu§!. Doktrína získává dosah v zahraničí; neuzavírá mezeru ve standardech doma." # todo: NEW TRANSLATION
+ JAP_creative_industries_office: "Úřad pro podporu kreativních průmyslů" # todo: NEW TRANSLATION
+ JAP_creative_industries_office_desc: "Ministerstvo hospodářství, obchodu a průmyslu zřizuje Úřad pro podporu kreativních průmyslů, aby s animací, designem, módou a jídlem zacházelo jako s exportními odvětvími, nikoli kulturou. Následuje fond Cool Japan s padesáti miliardami jenů a mandátem ke spoluinvestování namísto dotování, který nakupuje podíly v zahraničních maloobchodních prodejnách, asijských streamovacích platformách a distribučních podnicích, jež by žádná japonská správní rada sama neschválila. Úředníci jsou špatní investoři rizikového kapitálu a fond vykazuje roky ztrát, ale nese první ztrátu u projektů, do nichž pak vstupuje soukromý kapitál." # todo: NEW TRANSLATION
+ JAP_visit_japan_campaign: "Kampaň Visit Japan" # todo: NEW TRANSLATION
+ JAP_visit_japan_campaign_desc: "Kampaň Visit Japan je znovu spuštěna s cílem, kterému žádné ministerstvo nevěří: čtyřicet milionů zahraničních návštěvníků ročně. Vláda uvolní vízový režim pro asijské cestovatele, při nákupu osvobodí kosmetiku a léky od spotřební daně a propaguje zemi prostřednictvím věcí, které se nepřekládají. Nic na Japonsku není učiněno méně japonským, aby se lépe prodávalo." # todo: NEW TRANSLATION
+ JAP_content_export_offensive: "Exportní ofenzíva obsahu" # todo: NEW TRANSLATION
+ JAP_content_export_offensive_desc: "Základní zákon o duševním vlastnictví a zákon o podpoře obsahu zakotvují animaci, hry a mangu jako strategická aktiva, přičemž průmysl stále zachází se zahraničním publikem jako s pirátstvím, které je třeba tolerovat, zatímco distribuci zajišťují fanouškovští překladatelé. Vláda místo toho vybuduje legální kanál: souběžná vydání, profesionální titulky a držitele práv vyjednávající jako blok, nikoli jedno studio po druhém. Zahraniční trh už tvoří větší polovinu příjmů z anime a téměř nic z toho se nevybírá." # todo: NEW TRANSLATION
+ JAP_washoku_to_the_world: "Washoku do světa" # todo: NEW TRANSLATION
+ JAP_washoku_to_the_world_desc: "Poté, co bylo washoku zapsáno na seznam nehmotného kulturního dědictví UNESCO, vláda nepropaguje pokrm, ale způsob: sezónní surovinu, uspořádání a novoroční stůl. Prvním instinktem ministerstva bylo vše kontrolovat a plán certifikace autentických japonských restaurací v zahraničí byl opuštěn poté, co jej zahraniční tisk pokřtil na sushi policii. Kalifornské rolky a bangkocký ramen prodávají více japonské rýže, sóji a saké, než by kdy dokázal jakýkoli inspektorát, a na tomto obchodu stojí exportní cíl v hodnotě bilionu jenů." # todo: NEW TRANSLATION
+ JAP_japan_house_network: "Síť Japan House" # todo: NEW TRANSLATION
+ JAP_japan_house_network_desc: "Program JET vyslal tisíce mladých cizinců do japonských škol a městských úřadů a poslal je zpět domů s plynulou znalostí jazyka; nyní působí na ministerstvech zahraničí, v právních firmách a redakcích. Japan House dává této síti vchod: galerii, knihovnu, obchod a restauraci na drahé ulici v São Paulu, Los Angeles a Londýně, provozované ministerstvem zahraničí a záměrně prosté vlajek a politických prohlášení. Počet přihlášek do kurzů japonštiny se v každém městě po otevření ztrojnásobil." # todo: NEW TRANSLATION
+ JAP_gross_national_cool: "Hrubá národní coolness" # todo: NEW TRANSLATION
+ JAP_gross_national_cool_desc: "Galapážský syndrom přetrvává: specifikace zůstávají japonské a odcizení výzkumu pokračuje. Ministerstva místo toho vybudovala zemi, která v zahraničí vydělává tím, co dokáže vyrobit jen ona: studia, kuchyně, herní domy, designová pracoviště a miliony lidí, kteří každoročně přijíždějí jednoduše proto, aby se dívali. Izolace nebyla nikdy vyléčena, pouze využita." # todo: NEW TRANSLATION
+ JAP_cool_japan_spirit_kept_tt: "§YGalapážský syndrom§! §Rpřetrvává§!. Japonsko se rozhodlo svou odlišnost prodávat, nikoli ji léčit" # todo: NEW TRANSLATION
+ JAP_electronics_anchor_bonus_tt: "§YElektronická supervelmoc§!: Japonský hardware přináší japonský obsah na každý trh a výnos s tím roste" # todo: NEW TRANSLATION
+ JAP_world_integration: "Integrace se světem" # todo: NEW TRANSLATION
+ JAP_world_integration_desc: "Japonsko přestává být ostrovem. Standardy jsou přepsány podle cizího návrhu, celní sazby klesají, ministerstva se přestávají ptát, zda je zahraniční nabídka vhodná, a kapitál, který se této zemi třicet let vyhýbal, do ní začíná proudit. To, čeho se země vzdává, je samotná ochrana: uzavřený trh, díky němuž bylo spotřební zboží levné, a zeď proti zahraničnímu vlivu, kterou žádný konkurent nepřekonal. Japonské firmy si nyní musí zasloužit trh, který dříve vlastnily." # todo: NEW TRANSLATION
+ JAP_structural_reform_zones: "Zvláštní zóny strukturální reformy" # todo: NEW TRANSLATION
+ JAP_structural_reform_zones_desc: "Namísto projednávání regulačního kodexu řádek po řádku proti ministerstvům, která jej napsala, vláda dovolí prefektuře nebo městu požádat o výjimku z pravidla a následně dokázat, že se nebe nezřítí. Zemědělci vaří pod celostátním minimálním objemem, akciové společnosti provozují školy a pronajímají zemědělskou půdu a Národní strategické zvláštní zóny míří stejným nástrojem na Tokio ve financích, Fukuoku v pravidlech zaměstnávání startupů a Kansai v lékařských zkouškách. Je to maloobchodní, nikoli velkoobchodní deregulace a jediná metoda, která kdy skutečně něco posunula." # todo: NEW TRANSLATION
+ JAP_corporate_governance_code: "Kodex správy a řízení společností" # todo: NEW TRANSLATION
+ JAP_corporate_governance_code_desc: "Itoova zpráva stanovuje číslo označující selhání: osm procent návratnosti vlastního kapitálu je minimum, které musí japonská společnost překonat, aby stála za kapitál, který spotřebovává, a většina jej nepřekonává. Kodex správcovství říká penzijním fondům a pojišťovnám, aby hlasovaly se svými akciemi jako vlastníci, nikoli hosté, a Kodex správy a řízení společností na něj navazuje principem dodržuj, nebo vysvětli. Počet externích ředitelů roste k třetině správní rady a křížové vlastnictví se začíná prodávat, což japonské firmy nečiní zahraničními, ale čitelnými pro každého, kdo je ochoten koupit akcii." # todo: NEW TRANSLATION
+ JAP_economic_partnership_agreements: "Dohody o hospodářském partnerství" # todo: NEW TRANSLATION
+ JAP_economic_partnership_agreements_desc: "Zemědělství mělo od války právo veta nad japonskou obchodní politikou a vývozci nyní prohrávají tendry s korejskými firmami už jen kvůli celní položce. Japonsko uzavírá největší bilaterální dohodu, jakou kdy kterákoliv strana podepsala s Evropskou unií, a poté přebírá předsednictví Transpacifického partnerství, když Washington odstoupí, přičemž americká ustanovení pozastaví, nikoli smaže. Následuje RCEP a poprvé staví Japonsko, Čínu a Jižní Koreu do jediného obchodního rámce, přičemž rýže je ve všech případech chráněna." # todo: NEW TRANSLATION
+ JAP_open_capital_markets: "Otevřít kapitálové trhy" # todo: NEW TRANSLATION
+ JAP_open_capital_markets_desc: "Ve vztahu k velikosti své ekonomiky má Japonsko méně zahraničního kapitálu než téměř kterákoli rozvinutá země, což brzdí křížové vlastnictví, nečitelná zveřejňování a čtyřicet let úředníků, kteří považovali zahraniční nabídku za problém, jenž je třeba řídit. Opravy jsou neatraktivní a téměř výhradně administrativní: kanceláře Invest Japan v JETRO, které zahraniční firmu provedou založením společnosti, výsledky zveřejňované v angličtině ve stejný den jako v japonštině a bodový pobytový systém pro lidi, které musí zahraniční pobočka přemístit sem, aby vůbec mohla zahájit činnost. Otázka lidí ve své úplné podobě patří do §Y$JAP_an_open_nation$§!, toto je užší otázka, zda kapitál dokáže najít dveře." # todo: NEW TRANSLATION
+ JAP_the_third_opening: "Třetí otevření" # todo: NEW TRANSLATION
+ JAP_the_third_opening_desc: "Japonsko opouští poslední ochranná opatření, která z něj činila oddělenou ekonomiku. Vláda otevírá domácí trh zahraniční konkurenci, přepisuje své standardy podle mezinárodních návrhů a dovoluje zahraničnímu kapitálu vstoupit za stejných podmínek jako japonskému. Uzavřený trh i zeď proti vnějšímu vlivu jsou obětovány za zemi, která obchoduje jako jeden signatář mezi mnoha." # todo: NEW TRANSLATION
+ JAP_an_open_nation_bonus_tt: "§Y$JAP_an_open_nation$§!: země, která se už otevřela lidem světa, má při otevírání světovému kapitálu mnohem méně důvodů k hádce" # todo: NEW TRANSLATION
+ JAP_zombie_companies_resolved: "Japonské §Yzombie společnosti§! byly zcela zlikvidovány" # todo: NEW TRANSLATION
+ JAP_corporate_restructuring_complete_TT: "§YPokrok restrukturalizace korporací§! dosahuje alespoň §G85§!" # todo: NEW TRANSLATION
+ JAP_restructure_tranche_1_TT: "§YPokrok restrukturalizace korporací§! dosahuje alespoň §G30§!" # todo: NEW TRANSLATION
+ JAP_restructure_tranche_2_TT: "§YPokrok restrukturalizace korporací§! dosahuje alespoň §G60§!" # todo: NEW TRANSLATION
+ JAP_karoshi_wellbeing_tier_1_TT: "§YBlahobyt pracovníků§! dosahuje alespoň §G30§!" # todo: NEW TRANSLATION
+ JAP_karoshi_wellbeing_tier_2_TT: "§YBlahobyt pracovníků§! dosahuje alespoň §G60§!" # todo: NEW TRANSLATION
+ JAP_karoshi_wellbeing_complete_TT: "§YBlahobyt pracovníků§! dosahuje alespoň §G85§!" # todo: NEW TRANSLATION
+ JAP_zombie_report_credible_tt: "Vyšetřování vytvořilo alespoň §Yčástečnou zprávu§!" # todo: NEW TRANSLATION
+ JAP_zombie_investigation_concluded_tt: "Vyšetřování bylo §Yuzavřeno§!, ať už odhalilo cokoli" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_up_1_tt: "§YSpisy případů§!: $RIGHT|+=1$" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_up_2_tt: "§YSpisy případů§!: $RIGHT|+=2$" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_down_1_tt: "§YSpisy případů§!: §R-1§!" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_down_2_tt: "§YSpisy případů§!: §R-2§!" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_down_3_tt: "§YSpisy případů§!: §R-3§!" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_downsize_tt: "§YSpisy případů§!: [?JAP_zombie_case_files|0] / 10" # todo: NEW TRANSLATION
+ JAP_zombie_case_files_fusion_tt: "§YSpisy případů§!: [?JAP_zombie_case_files|0] / 3" # todo: NEW TRANSLATION
+ JAP_zombie_case_choice_TT: "Případ vyvrcholí za §Y60 dní§! a vy si zvolíte:\n§GStíhat§!: §G+2 spisy případů§!, §R+8 maření§! a konglomeráty si to zapamatují\n§YTichá záchrana§!: §G+1 spis případu§!, §R+2 maření§!, hrazené ze státní pokladny\n§RNechat projít§!: žádný spis případu, §G-3 maření§! a firmy budou uklidněny" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_2_tt: "§YMaření§!: §R+2§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_5_tt: "§YMaření§!: §R+5§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_6_tt: "§YMaření§!: §R+6§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_8_tt: "§YMaření§!: §R+8§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_10_tt: "§YMaření§!: §R+10§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_up_15_tt: "§YMaření§!: §R+15§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_3_tt: "§YMaření§!: §G-3§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_8_tt: "§YMaření§!: §G-8§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_10_tt: "§YMaření§!: §G-10§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_12_tt: "§YMaření§!: §G-12§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_15_tt: "§YMaření§!: §G-15§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_18_tt: "§YMaření§!: §G-18§!" # todo: NEW TRANSLATION
+ JAP_zombie_obstruction_down_20_tt: "§YMaření§!: §G-20§!" # todo: NEW TRANSLATION
+ JAP_whistleblower_protection_act: "Zákon na ochranu oznamovatelů" # todo: NEW TRANSLATION
+ JAP_whistleblower_protection_act_desc: "Auditoři mohou číst jen to, co jim firma předloží, zatímco zaměstnanci vědí, které půjčky byly převedeny a které faktury zpětně datovány. Pracují pro společnost, kterou by museli obvinit, na trhu práce, který nabízí jednu kariéru a žádnou druhou šanci. Zákon, který učiní propuštění za zveřejnění informací nezákonným, promění mlčící svědky ve svědky vypovídající." # todo: NEW TRANSLATION
+ JAP_financial_revival_program: "Program finanční obnovy" # todo: NEW TRANSLATION
+ JAP_financial_revival_program_desc: "Banky samy hodnotí své dlužníky a jejich hodnocení skrývá neschopnost splácet. Program finanční obnovy zavádí hodnocení diskontovaných peněžních toků u každé významné expozice, zpřísňuje limity aktiv vůči kapitálu a zveřejňuje cíl snížit podíl špatných úvěrů na polovinu. Podnikatelské svazy to označí za válku proti průmyslu a nebudou se zcela mýlit." # todo: NEW TRANSLATION
+ JAP_special_investigation_unit: "Oddělení zvláštního vyšetřování" # todo: NEW TRANSLATION
+ JAP_special_investigation_unit_desc: "Audit přináší zjištění, prokurátor obžalovaného. Oddělení zvláštního vyšetřování tokijského okresního státního zastupitelství už zlomilo ministry kabinetu a je jedinou institucí, se kterou rada keiretsu nemůže potichu uzavřít dohodu. Nyní míří na účetní rozvahy." # todo: NEW TRANSLATION
+ JAP_special_investigation_unit_TT: "Maření vyšetřování nyní narůstá o §G25 % pomaleji§!" # todo: NEW TRANSLATION
+ JAP_the_lost_decade_ends: "Ztracená dekáda končí" # todo: NEW TRANSLATION
+ JAP_the_lost_decade_ends_desc: "Poslední insolventní firmy prošly soudy a rejstřík je uzavřen. Nic nebylo refinancováno, každá ztráta byla odepsána tam, kde vznikla, a úvěry se nyní dostanou jen k firmám, které je dokážou splatit. Ekonomika, jejíž účetní knihy říkají skutečnou pravdu, je jediným základem, na němž lze postavit cokoli dalšího.\n-------------\nTento fokus §Godstraní§! §Y$JAP_zombie_companies$§! a §Y$JAP_liquidation_wave$§!, které přišly s ukončením činnosti." # todo: NEW TRANSLATION
+ JAP_controlled_downsize_TT: "Zahájí §Yvlnu likvidací§!: firmy budou rušeny §Gdvojnásobným tempem§! oproti programu fúzí, za cenu §Rsilného národního ducha§! až do dokončení ukončení činnosti" # todo: NEW TRANSLATION
+ JAP_forced_mergers_TT: "Zahájí §Yprogram fúzí§!: nyní levný a mírný, s §Rpoloviční rychlostí ukončování činnosti§! a trvalou stopou na japonském průmyslu" # todo: NEW TRANSLATION
+ JAP_liquidation_wave: "Vlna likvidací" # todo: NEW TRANSLATION
+ JAP_liquidation_wave_desc: "Likvidace probíhá. Oznámení o bankrotech plní hospodářské rubriky, staveniště stojí, zatímco jejich developeři končí, nezaměstnanost prudce roste a vláda si musí půjčovat, aby zmírnila úder. Bolest je silná a soustředěná, ale dočasná.\n-------------\nOdstraněno, jakmile §YPokrok restrukturalizace podniků§! dokončí rušení zombie firem." # todo: NEW TRANSLATION
+ JAP_fusion_restructuring: "Administrativní řízení" # todo: NEW TRANSLATION
+ JAP_fusion_restructuring_desc: "Ministerstvo vytyčí hranice a banky dodají věno. Nikdo není propuštěn, nikdo nepřizná selhání a dvě obchodní oddělení, která se třicet let nenáviděla, dostanou příkaz, že jsou nyní jedinou společností. Rejstřík se každé čtvrtletí zkracuje. Cena se platí stagnací, nikoli nezaměstnaností.\n-------------\nOdstraněno, jakmile §YPokrok restrukturalizace podniků§! dokončí pohlcování zombie firem." # todo: NEW TRANSLATION
+ JAP_consolidated_conglomerates: "Konsolidované Japan Inc." # todo: NEW TRANSLATION
+ JAP_consolidated_conglomerates_desc: "Insolventní jména zmizela z rejstříku, pohlcena místo likvidace. Nahradily je větší skupiny s duplicitními továrnami, duplicitními výzkumnými odděleními a manažery, kteří odpovídají radě, jež je koupila proti jejich vůli. Stát získal národní šampiony, o které žádal. Získal také průmyslovou základnu, která inovuje pomaleji než ta, s níž začínal." # todo: NEW TRANSLATION
+ JAP_zombie_investigation_category: "Vyšetřování zombie firem" # todo: NEW TRANSLATION
+ JAP_zombie_investigation_category_desc: "Auditoři a prokurátoři procházejí účetní knihy japonských insolventních dlužníků a firmy se stejně usilovně snaží jim v tom zabránit.\n\n§YSpisy případů§!: [?JAP_zombie_case_files|0] / 14\n§YMaření§!: [?JAP_zombie_obstruction|0] / 100\n\n§YCo můžete dělat§!\nKaždý níže uvedený případ lze stíhat, potichu zachránit nebo nechat projít. Stíhání vytváří nejsilnější spis a stojí vás nejvíce u §Yprůmyslových konglomerátů§!, jejichž názor ovlivňuje skutečnou produkci. Záchrana vytváří slabší spis na účet daňových poplatníků. Nechat případ projít nevytvoří nic.\n\n§GZpráva§!\nHodnocena po uzavření vyšetřování.\n§G10 či více§! spisů: úplné vypořádání, které urychlí ukončování činnosti.\n§G3 až 9§!: částečná zpráva.\n§RMéně než 3§!: zahlazení, které odstraní shromážděné spisy a zpomalí ukončování činnosti.\n§Y$JAP_controlled_downsize$§! vyžaduje 10 či více spisů. §Y$JAP_forced_mergers$§! vyžaduje 3 či více spisů. Žádná větev nebude nikdy trvale uzavřena, ani pokud bude vyšetřování opuštěno nebo zahlazeno.\n\n§RMaření§!\nRoste každý měsíc, kdy pokračujete v kopání, a rychleji, čím rozzlobenější jsou konglomeráty. Při §R30§! ministerstvo začne vynášet informace, při §R55§! vydá podnikatelský svaz ultimátum a při §R80§! bude vyšetřování kvůli skandálu pozastaveno. Níže uvedená rozhodnutí ho snižují." # todo: NEW TRANSLATION
+ JAP_zombie_investigation_mission: "Uzavřít vyšetřování" # todo: NEW TRANSLATION
+ JAP_zombie_investigation_mission_desc: "Vyšetřování nemůže pokračovat věčně. Shromážděte dostatečně silný případ ke zveřejnění, než politická vůle vyprchá." # todo: NEW TRANSLATION
+ JAP_zombie_investigation_mission_TT: "§YSpisy případů§!: [?JAP_zombie_case_files|0] / 10" # todo: NEW TRANSLATION
+ JAP_keidanren_ultimatum_mission: "Ultimátum Keidanrenu" # todo: NEW TRANSLATION
+ JAP_keidanren_ultimatum_mission_desc: "Podnikatelský svaz sdělil vládě tím nejzdvořilejším možným jazykem, že vyšetřování poškozuje důvěru a mělo by být ukončeno. Dal nám čas do konce fiskálního pololetí, abychom pochopili náznak." # todo: NEW TRANSLATION
+ JAP_keidanren_ultimatum_TT: "Snižte §Ymaření§! pod §Y45§!" # todo: NEW TRANSLATION
+ JAP_case_ltcb_shinsei: "Spis případu: Prodejní opce Shinsei" # todo: NEW TRANSLATION
+ JAP_case_ltcb_shinsei_desc: "Long-Term Credit Bank byla znárodněna, očištěna na veřejné náklady a prodána zahraniční investiční skupině za symbolickou částku. Smlouva poskytla kupujícímu právo vrátit každý úvěr, který ztratil pětinu své hodnoty, přímo Deposit Insurance Corporation za účetní cenu. Noví vlastníci toto právo uplatňují a celá ztráta dopadá na daňové poplatníky. Tuto klauzuli někdo na ministerstvu podepsal." # todo: NEW TRANSLATION
+ JAP_case_sogo_collapse: "Spis případu: Kolaps Sogo" # todo: NEW TRANSLATION
+ JAP_case_sogo_collapse_desc: "Obchodní řetězec dluží téměř dva biliony jenů a už několik let nevykázal skutečný zisk. Plán na ministerském stole počítá s odpuštěním veřejné části dluhu a jeho pokračováním v obchodování. Noviny mají tento plán také a reakce veřejnosti na záchranu maloobchodníka, zatímco běžným firmám jsou úvěry odmítány, byla přesně taková, jakou mohl každý předvídat." # todo: NEW TRANSLATION
+ JAP_case_mycal_bankruptcy: "Spis případu: Mycal" # todo: NEW TRANSLATION
+ JAP_case_mycal_bankruptcy_desc: "Osacká skupina supermarketů se během bubliny rozšířila za peníze, o nichž její hlavní banka nikdy neočekávala, že se vrátí, a od té doby byla refinancována místo restrukturalizace. Pokud selže, půjde o největší maloobchodní bankrot v dějinách země a strhne s sebou řetězec dodavatelů v Kansai." # todo: NEW TRANSLATION
+ JAP_case_resona_injection: "Spis případu: Resona" # todo: NEW TRANSLATION
+ JAP_case_resona_injection_desc: "Auditoři odmítli potvrdit, jak velkou část kapitálu banky tvoří odložené daňové pohledávky, tedy budoucí zisky, které realisticky nemá šanci vydělat. Bez této fikce je banka podkapitalizovaná. Téměř dva biliony jenů z veřejných peněz by ji ozdravily a fakticky předaly státu. Odmítnutí by znamenalo první velké selhání banky, které vláda připustila." # todo: NEW TRANSLATION
+ JAP_case_ashikaga_bank: "Spis případu: Ashikaga Bank" # todo: NEW TRANSLATION
+ JAP_case_ashikaga_bank_desc: "Není to národní banka. Je to banka Tochigi, kde má účty prefekturální vláda, většina místních firem a mnoho domácností, které nikdy nepoužily jinou. Je také insolventní. Znárodnění ochrání vkladatele a zničí akcionáře a každý regionální věřitel v zemi si toto rozhodnutí vyloží jako prohlášení záměru." # todo: NEW TRANSLATION
+ JAP_case_daiei_ircj: "Spis případu: Daiei" # todo: NEW TRANSLATION
+ JAP_case_daiei_ircj_desc: "Maloobchodník, který naučil Japonsko prodávat se slevou, nese dluhy v bilionech a udržují ho při životě banky, které si nemohou dovolit přiznat skutečnou hodnotu úvěrů. Industrial Revitalization Corporation ho může převzít, vyměnit vedení a prodat jednotlivé části. Zakladatelovi spojenci ve straně by dali přednost ještě jednomu refinancování." # todo: NEW TRANSLATION
+ JAP_case_kanebo_accounts: "Spis případu: Účetnictví Kanebo" # todo: NEW TRANSLATION
+ JAP_case_kanebo_accounts_desc: "Skupina kosmetiky a textilu pět let vykazovala zisky, které nevydělala, v objemu dvou set miliard jenů. O podvodu není sporu. Sporná je účetní firma, která podepsala každý z těchto výkazů, a otázka, zda může mít země poctivé účetní knihy, když její auditoři obchodně odpovídají společnostem, které auditují." # todo: NEW TRANSLATION
+ JAP_press_the_prosecutors: "Nechat prokurátory jednat" # todo: NEW TRANSLATION
+ JAP_press_the_prosecutors_desc: "Nechte Oddělení zvláštního vyšetřování zatýkat místo předávání případů. Nic neumlčí lobbistickou kampaň rychleji než ředitel odváděný z kanceláře muži se zatykačem." # todo: NEW TRANSLATION
+ JAP_whistleblower_immunity_decision: "Udělit informátorům imunitu" # todo: NEW TRANSLATION
+ JAP_whistleblower_immunity_decision_desc: "Nabídněte středním manažerům, kteří plnili příkazy, ochranu před stíháním výměnou za svědectví proti mužům, kteří jim je dávali. Konglomeráty to označí za pozvánku ke zradě kolegů. A přesně tím to je." # todo: NEW TRANSLATION
+ JAP_publish_inspection_manual_decision: "Zveřejnit výsledky inspekce" # todo: NEW TRANSLATION
+ JAP_publish_inspection_manual_decision_desc: "Zveřejněte kontrolní hodnocení v plném znění místo jejich shrnutí pro ministerstvo. Trhy je nebudou rády číst, ale firma nemůže lobbovat proti číslu, které už viděla celá země." # todo: NEW TRANSLATION
+ JAP_cooperating_bank_amnesty_decision: "Amnestie pro spolupracující banky" # todo: NEW TRANSLATION
+ JAP_cooperating_bank_amnesty_decision_desc: "Nabídněte každé bance, která dobrovolně otevře své účetní knihy, záruku, že její představitelé nebudou stíháni. Kupuje to klid, ale vyšetřování kvůli tomu přijde o případ, který proti nim budovalo." # todo: NEW TRANSLATION
+ JAP_zombie_probe_abandoned_TT: "Vyšetřování je §Rodvoláno§! a bude zveřejněno jako zahlazení, čímž se odstraní dosud shromážděné spisy a zpomalí ukončování činnosti" # todo: NEW TRANSLATION
+ JAP_zombie_whitewash_penalty_TT: "Zahlazení §Rodstraní spisy případů§! shromážděné dosud a zpomalí ukončování činnosti o §R25 %§!. Žádné z řešení není ztraceno: na zbývajících případech lze stále pracovat" # todo: NEW TRANSLATION
+ JAP_zombie_report_strong_TT: "§GÚplné vypořádání.§! Ukončování činnosti bude probíhat o §G25 % rychleji§!" # todo: NEW TRANSLATION
+ JAP_zombie_report_partial_TT: "§YČástečná zpráva.§! Ukončování činnosti bude probíhat běžnou rychlostí" # todo: NEW TRANSLATION
+ JAP_zombie_report_whitewash_TT: "§RZahlazení.§! Spisy případů budou §Rodstraněny§! a ukončování činnosti bude probíhat o §R25 % pomaleji§!" # todo: NEW TRANSLATION
+ Japan_economy.06.c: "Celou věc odvolejte" # todo: NEW TRANSLATION
+ Japan_economy.08.b: "Zveřejněte, co máme" # todo: NEW TRANSLATION
+ Japan_economy.08.c: "Zveřejněte to a doufejte, že nikdo nebude číst dál než shrnutí" # todo: NEW TRANSLATION
+ Japan_economy.09.t: "Únik informací z ministerstva" # todo: NEW TRANSLATION
+ Japan_economy.09.d: "Firmy věděly, kteří auditoři přijdou a kterého rána. Kartotéky byly přes víkend vyprázdněny a dva ředitelé jsou náhle nedostupní kvůli služební cestě v zahraničí. Někdo na ministerstvu je varuje a každý v této místnosti dokáže hádat kdo, protože sem byl vyslán z banky, kterou chrání, a po odchodu do důchodu se do ní vrátí." # todo: NEW TRANSLATION
+ Japan_economy.09.a: "Přijměte ztrátu a pokračujte" # todo: NEW TRANSLATION
+ Japan_economy.09.b: "Najděte ho a udělejte z něj odstrašující příklad" # todo: NEW TRANSLATION
+ Japan_economy.10.t: "Svaz vydává ultimátum" # todo: NEW TRANSLATION
+ Japan_economy.10.d: "Podnikatelský svaz přišel do Dietu s vlastními čísly: odložené investice, zmrazené nábory, poškozená důvěra, to vše připsané na vrub vyšetřování. Poselství skryté za zdvořilostí není nijak nejasné. Ukončete to, nebo členové tohoto svazu zjistí, že nemohou k ničemu přistoupit, dokud trvá nejistota." # todo: NEW TRANSLATION
+ Japan_economy.10.a: "Ať svůj případ předloží veřejnosti." # todo: NEW TRANSLATION
+ Japan_economy.11.t: "Prokurátor padá" # todo: NEW TRANSLATION
+ Japan_economy.11.d: "Selhalo nikoli vyšetřování, ale vedoucí prokurátor s golfovým členstvím, které nepřiznal, a které mu poskytla firma z jeho vlastního seznamu, a noviny, které mají fotografie, jak ho přijímá. Ministr rezignoval, aby převzal odpovědnost. Vyšetřování je pozastaveno do přezkoumání, což všichni chápou jako čekání na chvíli, kdy veřejnost přestane věnovat pozornost." # todo: NEW TRANSLATION
+ Japan_economy.11.a: "Ztratili jsme iniciativu." # todo: NEW TRANSLATION
+ Japan_economy.23.t: "Prodejní opce Shinsei" # todo: NEW TRANSLATION
+ Japan_economy.23.d: "Klauzule je přesně taková, jak bylo uvedeno. Každý úvěr, o němž kupující usoudí, že ztratil pětinu své hodnoty, se vrátí Deposit Insurance Corporation za účetní cenu a stát absorbuje rozdíl. Banka neudělala nic nezákonného. Přečetla smlouvu pozorněji než úředníci, kteří ji sepsali, a tito úředníci stále sedí u svých stolů." # todo: NEW TRANSLATION
+ Japan_economy.23.a: "Zveřejněte smlouvu a uveďte, kdo ji podepsal" # todo: NEW TRANSLATION
+ Japan_economy.23.b: "Potichu znovu vyjednejte a klauzuli vykupte" # todo: NEW TRANSLATION
+ Japan_economy.23.c: "Prodej je uzavřen. Nechte to být." # todo: NEW TRANSLATION
+ Japan_economy.24.t: "Kolaps Sogo" # todo: NEW TRANSLATION
+ Japan_economy.24.d: "Řetězec nelze zachránit a každý, kdo radí ministrovi, to ví. Jedinou otázkou je, zda bude zrušen u soudu, kde budou veřejně jmenováni věřitelé i úředníci, kteří jim ustupovali, nebo restrukturalizován za zavřenými dveřmi s tichým odpuštěním veřejné části dluhu." # todo: NEW TRANSLATION
+ Japan_economy.24.a: "Nechte ho zkrachovat před otevřeným soudem" # todo: NEW TRANSLATION
+ Japan_economy.24.b: "Restrukturalizujte ho mimo titulní stránky" # todo: NEW TRANSLATION
+ Japan_economy.24.c: "Odpusťte dluh a pokračujte" # todo: NEW TRANSLATION
+ Japan_economy.25.t: "Mycal" # todo: NEW TRANSLATION
+ Japan_economy.25.d: "Hlavní banka skupinu refinancovala každý rok od konce bubliny a nyní ministerstvu oznámila, že to už znovu neudělá. Dodavatelé z Kansai, kteří nikdy neobchodovali s nikým jiným, už volají na prefekturální úřady. Ať bude tento týden rozhodnuto jakkoli, celý region to pochopí jako prohlášení o tom, zda stará uspořádání stále platí." # todo: NEW TRANSLATION
+ Japan_economy.25.a: "Nechte ji padnout a prověřte banku, která ji nesla" # todo: NEW TRANSLATION
+ Japan_economy.25.b: "Zařiďte řádný prodej ziskových obchodů" # todo: NEW TRANSLATION
+ Japan_economy.25.c: "Přitlačte na banku ještě na jeden rok" # todo: NEW TRANSLATION
+ Japan_economy.26.t: "Resona" # todo: NEW TRANSLATION
+ Japan_economy.26.d: "Odečtěte odložené daňové pohledávky a kapitálový poměr se zhroutí. Auditoři odmítají podepsat, což je samo o sobě bezprecedentní, a vláda má dny, nikoli týdny. Dva biliony jenů banku ozdraví a učiní z jejího vlastníka stát. Odmítnutí znamená první velké selhání banky, které země od války připustila, a nikdo nemůže říct, kde se to zastaví." # todo: NEW TRANSLATION
+ Japan_economy.26.a: "Vložte prostředky a odvolejte celou radu" # todo: NEW TRANSLATION
+ Japan_economy.26.b: "Vložte prostředky a ponechte vedení" # todo: NEW TRANSLATION
+ Japan_economy.26.c: "Nechte auditory přesvědčit" # todo: NEW TRANSLATION
+ Japan_economy.27.t: "Ashikaga Bank" # todo: NEW TRANSLATION
+ Japan_economy.27.d: "Vláda prefektury, její firmy a mnoho domácností nemají účet nikde jinde. Zjištění kontrolorů je jednoznačné: banka je insolventní a už nějakou dobu byla. Dočasné znárodnění ochrání každého vkladatele a vymaže každého akcionáře, z nichž mnohé jsou místní společnosti, které musely držet akcie jako podmínku vlastního úvěru." # todo: NEW TRANSLATION
+ Japan_economy.27.a: "Znárodněte ji a odepište akcionáře na nulu" # todo: NEW TRANSLATION
+ Japan_economy.27.b: "Rekapitalizujte ji a ponechte v soukromých rukou" # todo: NEW TRANSLATION
+ Japan_economy.27.c: "Nechte prefekturu zařídit záchrannou fúzi" # todo: NEW TRANSLATION
+ Japan_economy.28.t: "Daiei" # todo: NEW TRANSLATION
+ Japan_economy.28.d: "Revitalizační korporace je připravena ji převzít, vyměnit radu a prodat, co lze prodat. Zakladatel vybudoval tuto společnost z trosek války a má ve straně přátele, kteří si to pamatují. Žádají ještě jedno refinancování a žádají hlasitě." # todo: NEW TRANSLATION
+ Japan_economy.28.a: "Předejte ji Revitalizační korporaci" # todo: NEW TRANSLATION
+ Japan_economy.28.b: "Podpořte vyjednanou restrukturalizaci" # todo: NEW TRANSLATION
+ Japan_economy.28.c: "Schvalte refinancování" # todo: NEW TRANSLATION
+ Japan_economy.29.t: "Účetnictví Kanebo" # todo: NEW TRANSLATION
+ Japan_economy.29.d: "Dvě stě miliard jenů zisku, který nikdy nebyl vydělán, vykázaného během pěti let a pokaždé schváleného stejnou účetní firmou. Stíhání společnosti je snadné. Stíhání jejích auditorů by každé účetní firmě v Japonsku ukázalo, že podpis je závazkem, nikoli formalitou, a přimělo by mnoho dalších výkazů k novému přečtení." # todo: NEW TRANSLATION
+ Japan_economy.29.a: "Stíhejte společnost a suspendujte její auditory" # todo: NEW TRANSLATION
+ Japan_economy.29.b: "Vyřaďte společnost z burzy a nechte auditory se vypořádat" # todo: NEW TRANSLATION
+ Japan_economy.29.c: "Považujte to za izolované selhání" # todo: NEW TRANSLATION
+ Japan_economy.30.t: "Svaz ustupuje" # todo: NEW TRANSLATION
+ Japan_economy.30.d: "Tlak polevil. Svaz své námitky nestáhl, ale přestal vystupovat proti vyšetřování a nejhlasitější členové ztichli. Není to souhlas. Je to úsudek, že boj už nestojí za náklady, které jim přináší." # todo: NEW TRANSLATION
+ Japan_economy.30.a: "Využijeme klid, dokud trvá." # todo: NEW TRANSLATION
+ Japan_economy.31.t: "Svaz plní svou hrozbu" # todo: NEW TRANSLATION
+ Japan_economy.31.d: "Investiční plány členských společností byly odloženy a každá z nich uvádí nejistotu. Dnešní zmrazení náborů je prezentováno jako obezřetnost. Poselství je nezaměnitelné a má takové být, přičemž neexistuje zákon, který by společnost přinutil investovat." # todo: NEW TRANSLATION
+ Japan_economy.31.a: "Vyjádřili svůj názor." # todo: NEW TRANSLATION
+ Japan_economy.33.t: "Vyšetřování pokračuje" # todo: NEW TRANSLATION
+ Japan_economy.33.d: "Přezkum našel to, co přezkumy nacházejí. Byl jmenován nový vedoucí, spisy byly vráceny a vyšetřování pokračuje s větrem poněkud více proti němu než dříve. Firmy měly šest měsíců na přípravu a využily je." # todo: NEW TRANSLATION
+ Japan_economy.33.a: "Začněte znovu." # todo: NEW TRANSLATION
+ Japan_economy.34.t: "Rejstřík je čistý" # todo: NEW TRANSLATION
+ Japan_economy.34.d: "Poslední insolventní dlužník byl zrušen. Trvalo to roky a cena byla zaplacena bankroty, nezaměstnaností a vládou, která utratila většinu svého politického kapitálu přesvědčováním, že bolest je nutná. Zůstala ekonomika, v níž úvěry dostávají firmy, které je dokážou splatit, a v níž rozvaha znamená to, co říká." # todo: NEW TRANSLATION
+ Japan_economy.34.a: "Stálo to za tu cenu." # todo: NEW TRANSLATION
+ Japan_economy.35.t: "Nic neselhalo" # todo: NEW TRANSLATION
+ Japan_economy.35.d: "Insolventní jména zmizela z rejstříku. Žádná z nich nezbankrotovala. Byla pohlcena většími skupinami na základě dohody ministerstva a tyto skupiny nyní nesou duplicitní závody, duplicitní laboratoře a zaměstnance, kterým bylo v pátek oznámeno, že v pondělí pracují pro konkurenta. Žádná pracovní místa nebyla ztracena a nic nebylo přiznáno. Japonský průmysl je konsolidovaný, stabilní a pomalejší než dříve." # todo: NEW TRANSLATION
+ Japan_economy.35.a: "Dohoda vydržela." # todo: NEW TRANSLATION
+ JAP_electronics.300.t: "Vzniká Sony Ericsson" # todo: NEW TRANSLATION
+ JAP_electronics.300.d_agreed: "Ericsson souhlasil se spojením svého podnikání s mobilními telefony s podnikáním Sony. Žádná ze společností sama neprodává dost telefonů, aby se mohla měřit s Nokií a Motorolou, společně by však v jednom podniku spojily švédské rádiové inženýrství a japonský spotřebitelský design. Sony se k tomu může zavázat, nebo ponechat mobilní divizi uvnitř skupiny a pokračovat sama." # todo: NEW TRANSLATION
+ JAP_electronics.300.d_alone: "Švédský výrobce telefonů, s nímž Sony doufala spolupracovat, se vydal jinou cestou. Sony stále může vybudovat mobilní podnik za dostupných podmínek, nebo ponechat telefony uvnitř skupiny a smířit se s menším podílem na trhu, který nevede." # todo: NEW TRANSLATION
+ JAP_electronics.300.a: "Zavázat se k mobilnímu společnému podniku" # todo: NEW TRANSLATION
+ JAP_electronics.300.b: "Ponechat mobilní divizi uvnitř skupiny" # todo: NEW TRANSLATION
+ JAP_electronics.301.t: "Dilema digitální hudby" # todo: NEW TRANSLATION
+ JAP_electronics.301.d: "Sony vlastní hardware, který hudbu přehrává, i katalog, který jej plní, a tyto dvě poloviny chtějí opak. Ochrana katalogu znamená přehrávače, které odmítají formáty, jež posluchači už používají. Otevření přehrávačů znamená, že nahrávací divize bude sledovat, jak její vlastní zařízení přehrávají soubory jiných lidí." # todo: NEW TRANSLATION
+ JAP_electronics.301.a: "Chránit katalog vlastními formáty" # todo: NEW TRANSLATION
+ JAP_electronics.301.b: "Otevřít přehrávače tomu, co lidé už vlastní" # todo: NEW TRANSLATION
+ JAP_electronics.302.t: "Sázka na PlayStation 3" # todo: NEW TRANSLATION
+ JAP_electronics.302.d: "PlayStation 3 lze postavit na Cellu, procesoru, který Sony od nuly navrhlo s IBM a Toshibou, který se obtížně programuje a nepodobá se ničemu jinému v odvětví. Konzole by se pak léta prodávala pod cenou v naději, že software ji dožene. Nebo ji lze postavit způsobem, jakým Microsoft postavil Xbox 360, a uvést ji dříve za nižší cenu." # todo: NEW TRANSLATION
+ JAP_electronics.302.a: "Postavit stroj na nové architektuře" # todo: NEW TRANSLATION
+ JAP_electronics.302.b: "Postavit konvenční konzoli a uvést ji dříve" # todo: NEW TRANSLATION
+ JAP_electronics.303.t: "Jedna Sony" # todo: NEW TRANSLATION
+ JAP_electronics.303.d: "Divize Sony se po desetiletí řídily samy a je to vidět na produktech, které spolu nefungují, i na stejném inženýrství provedeném čtyřikrát. Podřídit je jediné strategii znamená přehlasovat lidi, kteří už dříve měli pravdu. Ponechat je o samotě zachová to, co vybudovala nezávislost." # todo: NEW TRANSLATION
+ JAP_electronics.303.a: "Podřídit divize jediné strategii" # todo: NEW TRANSLATION
+ JAP_electronics.303.b: "Ponechat divizím nezávislost" # todo: NEW TRANSLATION
+ JAP_electronics.304.t: "Obrat k obrazovým snímačům" # todo: NEW TRANSLATION
+ JAP_electronics.304.d: "Obrazové snímače Sony se nacházejí uvnitř telefonů společností, kterým Sony konkuruje, a poptávka roste rychleji, než ji továrny dokážou uspokojit. Udělat ze snímačů středobod společnosti znamená kapitál, který byl přislíben spotřebitelským divizím. Neudělat to znamená přenechat náskok tomu, kdo kapacitu vybuduje jako první." # todo: NEW TRANSLATION
+ JAP_electronics.304.a: "Učinit obrazové snímače středem společnosti" # todo: NEW TRANSLATION
+ JAP_electronics.304.b: "Ponechat kapitál ve spotřebitelských produktech" # todo: NEW TRANSLATION
+ JAP_electronics.305.t: "Čím se Sony stala" # todo: NEW TRANSLATION
+ JAP_electronics.305.d: "Čtvrt století podniků, formátů, architektur a restrukturalizací rozhodlo, čím Sony je a k čemu slouží japonská spotřební elektronika. Společnost, která kdysi prodávala výrobky, nyní dodává součástky uvnitř výrobků všech ostatních." # todo: NEW TRANSLATION
+ JAP_electronics.305.a: "Jedna společnost napříč hardwarem, obsahem a službami" # todo: NEW TRANSLATION
+ JAP_electronics.305.b: "Federace hardwarových podniků" # todo: NEW TRANSLATION
+ JAP_electronics.305.c: "Suverénní výpočetní architektura" # todo: NEW TRANSLATION
+ JAP_electronics.305.e: "Otevřené digitální společenství" # todo: NEW TRANSLATION
+ JAP_sony_one_sony_ecosystem: "Jedna Sony" # todo: NEW TRANSLATION
+ JAP_sony_one_sony_ecosystem_desc: "Divize odpovídají jediné strategii a snímače, katalog, konzole i služby byly vybudovány tak, aby se navzájem posilovaly, nikoli soupeřily o stejný rozpočet. Koordinace něco stojí na rychlosti a vrací se ve všem, co je dodáváno jako jediný celek." # todo: NEW TRANSLATION
+ JAP_sony_hardware_federation: "Hardwarová federace" # todo: NEW TRANSLATION
+ JAP_sony_hardware_federation_desc: "Divize si zachovaly nezávislost a každá se stala ve své práci impozantní. Nic, co Sony vyrábí, není navrženo s ohledem na zbytek Sony a každá část je velmi dobrá." # todo: NEW TRANSLATION
+ JAP_sony_cell_sovereign_compute: "Suverénní výpočetní architektura" # todo: NEW TRANSLATION
+ JAP_sony_cell_sovereign_compute_desc: "Japonsko vybudovalo vlastní procesorovou architekturu a zaplatilo za ni jednou generací konzole. To, co se odvětví naučilo při jejím programování, přežilo stroj, který ji nesl." # todo: NEW TRANSLATION
+ JAP_sony_open_digital_commonwealth: "Otevřené digitální společenství" # todo: NEW TRANSLATION
+ JAP_sony_open_digital_commonwealth_desc: "Formáty se otevřely, katalog putoval a hardware se přestal hádat s tím, co lidé už vlastnili. Sony vydělává méně na zařízení a její produkty má v rukou mnohem více lidí." # todo: NEW TRANSLATION
+ JAP_electronics.310.t: "Dvě obrazovky, dva stroje" # todo: NEW TRANSLATION
+ JAP_electronics.310.d: "Game Boy Advance a GameCube od Nintenda mají oddělené týmy, oddělené architektury a oddělené knihovny a každá hra musí být vytvořena pro jednu, nebo druhou platformu. Zachování obou znamená financovat dvě platformy z jediné společnosti. Jejich sloučení by ukončilo podnikání s kapesními konzolemi, které financuje vše ostatní." # todo: NEW TRANSLATION
+ JAP_electronics.310.a: "Financovat kapesní konzoli i konzoli" # todo: NEW TRANSLATION
+ JAP_electronics.310.b: "Soustředit vše na jedinou platformu" # todo: NEW TRANSLATION
+ JAP_electronics.311.t: "Wii a širší publikum" # todo: NEW TRANSLATION
+ JAP_electronics.311.d: "Další konzole Nintenda může usilovat o lidi, kteří konzole nekupují, s levnějším hardwarem, ovládáním, které dosud nikdo neuvedl, a bez grafického výkonu, který tisk měří. Nebo se může utkat se Sony a Microsoftem podle podmínek, na nichž se odvětví už shoduje, a nechat se jimi hodnotit." # todo: NEW TRANSLATION
+ JAP_electronics.311.a: "Stavět pro lidi, kteří konzole nekupují" # todo: NEW TRANSLATION
+ JAP_electronics.311.b: "Soutěžit výkonem" # todo: NEW TRANSLATION
+ JAP_electronics.312.t: "Wii U nelze vysvětlit" # todo: NEW TRANSLATION
+ JAP_electronics.312.d: "Nová konzole se prodává tak špatně, že vyvolává otázku, kterou nikdo nechce položit: zda by Nintendo vůbec mělo vyrábět hardware. Jeho software by se prodával na jakémkoli stroji a ztráty by ustaly. Setrvat u hardwaru znamená financovat další generaci na základě toho, že ta poslední selhala." # todo: NEW TRANSLATION
+ JAP_electronics.312.a: "Zůstat u hardwaru a financovat další generaci" # todo: NEW TRANSLATION
+ JAP_electronics.312.b: "Opustit hardware a nabídnout hry všude" # todo: NEW TRANSLATION
+ JAP_electronics.313.t: "Nintendo a telefon" # todo: NEW TRANSLATION
+ JAP_electronics.313.d: "Postavy Nintenda mají větší cenu než jeho hardware a mohl by je nést každý telefon na světě. Poskytnutí licence vydělá peníze od publika, k němuž se konzole nikdy nedostanou. Odmítnutí je ponechá výhradně na strojích ovládaných Nintendem, což je důvod, proč si tyto stroje vůbec někdo kupuje." # todo: NEW TRANSLATION
+ JAP_electronics.313.a: "Poskytnout licenci na postavy pro mobilní zařízení" # todo: NEW TRANSLATION
+ JAP_electronics.313.b: "Ponechat je výhradně na našem hardwaru" # todo: NEW TRANSLATION
+ JAP_electronics.314.t: "Switch" # todo: NEW TRANSLATION
+ JAP_electronics.314.d: "Jeden stroj, který je zároveň kapesní konzolí i konzolí, by ukončil rozdělení, jež dvě desetiletí dělilo inženýrství společnosti, a znamená jednu knihovnu, jeden tým a jedno selhání, pokud nebude fungovat. Udržování oddělených řad je to, co Nintendo umí." # todo: NEW TRANSLATION
+ JAP_electronics.314.a: "Postavit jeden stroj, který bude obojím" # todo: NEW TRANSLATION
+ JAP_electronics.314.b: "Ponechat kapesní konzoli a konzoli oddělené" # todo: NEW TRANSLATION
+ JAP_electronics.315.t: "Čím se Nintendo stalo" # todo: NEW TRANSLATION
+ JAP_electronics.315.d: "Čtvrt století hardwaru, který by nikdo jiný nepostavil, rozhodlo, čím Nintendo je a jak velká část japonské zábavy jím prochází. Postavy přežily každý stroj, který je nesl." # todo: NEW TRANSLATION
+ JAP_electronics.315.a: "Disciplinovaná hybridní platforma" # todo: NEW TRANSLATION
+ JAP_electronics.315.b: "Integrovaný zábavní ekosystém" # todo: NEW TRANSLATION
+ JAP_electronics.315.c: "Globální poskytovatel licencí na postavy" # todo: NEW TRANSLATION
+ JAP_electronics.315.e: "Otevřené vývojářské společenství" # todo: NEW TRANSLATION
+ JAP_nintendo_disciplined_hybrid_platform: "Disciplinovaná hybridní platforma" # todo: NEW TRANSLATION
+ JAP_nintendo_disciplined_hybrid_platform_desc: "Jeden stroj, jedna knihovna a jedna inženýrská organizace za obojím. Nintendo přestalo soutěžit ve specifikacích, které inzerují všichni ostatní, a začalo dodávat hardware, jehož výroba stojí méně, než za kolik se prodává." # todo: NEW TRANSLATION
+ JAP_nintendo_integrated_entertainment_ecosystem: "Integrovaný zábavní ekosystém" # todo: NEW TRANSLATION
+ JAP_nintendo_integrated_entertainment_ecosystem_desc: "Postavy procházejí parky, filmy a zbožím stejně jako stroji a každá část prodává ty ostatní. Japonský export zábavy spočívá na značkách, které stále zcela vlastní jediná společnost." # todo: NEW TRANSLATION
+ JAP_nintendo_global_ip_licensor: "Globální poskytovatel licencí" # todo: NEW TRANSLATION
+ JAP_nintendo_global_ip_licensor_desc: "Hardware se stal jedním distribučním kanálem z mnoha. Nintendo vydělává na postavách, které se objevují na strojích, jež nevyrábí, na trzích, kam se jeho konzole nikdy nedostaly." # todo: NEW TRANSLATION
+ JAP_nintendo_open_developer_commonwealth: "Otevřené vývojářské společenství" # todo: NEW TRANSLATION
+ JAP_nintendo_open_developer_commonwealth_desc: "Platforma se otevřela vývojářům za podmínek, které nevyžadují předchozí povolení. Nintendo získává menší podíl z mnohem většího katalogu a stroje nesou díla, jejichž vytvoření by nikdy neobjednalo." # todo: NEW TRANSLATION
+ JAP_electronics.320.t: "Kolik stojí Metal Gear" # todo: NEW TRANSLATION
+ JAP_electronics.320.d: "Konami uvedlo Metal Gear Solid 2 a Silent Hill 2 ve stejném roce, s rozpočty ospravedlnitelnými jen hitem, z týmů vybudovaných kolem jednotlivých režisérů. Sportovní a karetní řady vydělávají stabilně a žádného autora vůbec nepotřebují. Financovat obojí je to, co si společnost už nemůže dovolit." # todo: NEW TRANSLATION
+ JAP_electronics.320.a: "Financovat týmy vedené režiséry" # todo: NEW TRANSLATION
+ JAP_electronics.320.b: "Financovat každoroční sportovní a karetní řady" # todo: NEW TRANSLATION
+ JAP_electronics.321.t: "Automaty vydělávají více než disky" # todo: NEW TRANSLATION
+ JAP_electronics.321.d: "Konami může převzít Hudson Soft a expandovat do pachislotu a arkádových automatů, kde jeden stroj v herně vydělá za rok více než konzolový titul za celý svůj život. Továrny a prostor heren jsou v Japonsku skutečnými aktivy. Zůstat vydavatelem softwaru udrží společnost mimo podnikání, kterého si herní tisk neváží." # todo: NEW TRANSLATION
+ JAP_electronics.321.a: "Vstoupit do podnikání s herními stroji" # todo: NEW TRANSLATION
+ JAP_electronics.321.b: "Zůstat vydavatelem softwaru" # todo: NEW TRANSLATION
+ JAP_electronics.322.t: "Dragon Collection" # todo: NEW TRANSLATION
+ JAP_electronics.322.d: "Karetní hra Konami na GREE vydělává na jednoho vývojáře více než kterýkoli konzolový tým v budově a její výroba trvala měsíce, nikoli roky. Přesun studií k sociálním a mobilním platformám následuje peníze. Zachování financování konzolových týmů znamená platit dlouhé projekty z krátkých." # todo: NEW TRANSLATION
+ JAP_electronics.322.a: "Přesunout vývoj na sociální a mobilní platformy" # todo: NEW TRANSLATION
+ JAP_electronics.322.b: "Ponechat financování konzolových týmů" # todo: NEW TRANSLATION
+ JAP_electronics.323.t: "Kojima odchází" # todo: NEW TRANSLATION
+ JAP_electronics.323.d: "Konami dokončilo Metal Gear Solid V, zrušilo Silent Hills a může rozpustit studio, které vytvořilo obojí, a odstranit jméno režiséra z obalu. Prezident už veřejně řekl, že budoucnost podnikání spočívá v mobilních zařízeních. Ponechat studio znamená financovat producenta, který stojí více, než divize vydělává." # todo: NEW TRANSLATION
+ JAP_electronics.323.a: "Rozpustit studio a odstranit uvedení autora" # todo: NEW TRANSLATION
+ JAP_electronics.323.b: "Ponechat studio i uvedení autora" # todo: NEW TRANSLATION
+ JAP_electronics.324.t: "eFootball" # todo: NEW TRANSLATION
+ JAP_electronics.324.d: "Konami přestavělo Pro Evolution Soccer na bezplatnou službu a vydalo ji ve stavu, který vlastní hráči hodnotili hůře než cokoli jiného na platformě. Zadní katalog Silent Hill, Metal Gear a Castlevania leží nevyužitý a jeho předělání stojí skutečné peníze. Provozování služeb a fitness klubů vydělává bez tohoto rizika." # todo: NEW TRANSLATION
+ JAP_electronics.324.a: "Znovu financovat zadní katalog" # todo: NEW TRANSLATION
+ JAP_electronics.324.b: "Provozovat služby a kluby" # todo: NEW TRANSLATION
+ JAP_electronics.325.t: "Čím se Konami stalo" # todo: NEW TRANSLATION
+ JAP_electronics.325.d: "Pětadvacet let volby mezi režiséry, automaty a telefony rozhodlo, čím Konami je a co znamená japonský export zábavy." # todo: NEW TRANSLATION
+ JAP_electronics.325.a: "Obnovená vývojářská studia" # todo: NEW TRANSLATION
+ JAP_electronics.325.b: "Vydavatel předělávek a obnov" # todo: NEW TRANSLATION
+ JAP_electronics.325.c: "Provozovatel zábavy a fitness" # todo: NEW TRANSLATION
+ JAP_electronics.325.e: "Mobilní licenční podnik" # todo: NEW TRANSLATION
+ JAP_konami_restored_development_houses: "Obnovená vývojářská studia" # todo: NEW TRANSLATION
+ JAP_konami_restored_development_houses_desc: "Konami znovu financuje režiséry a vydává hry, které chtějí vytvořit. Stojí to více než kdy stál mobilní podnik a právě proto zná toto jméno někdo i mimo Japonsko." # todo: NEW TRANSLATION
+ JAP_konami_remake_publisher: "Vydavatel předělávek a obnov" # todo: NEW TRANSLATION
+ JAP_konami_remake_publisher_desc: "Konami znovu vytváří to, co už vlastní, pro lidi, kteří to hráli poprvé. Katalog je konečný a publikum zatím tak docela ne." # todo: NEW TRANSLATION
+ JAP_konami_amusement_fitness_operator: "Provozovatel zábavy a fitness" # todo: NEW TRANSLATION
+ JAP_konami_amusement_fitness_operator_desc: "Pachislotové automaty, arkádové herny a největší řetězec fitness klubů v Japonsku, to vše vybudované na majetku a strojích, které Konami zcela vlastní. Hry jsou licenčním oddělením fyzického podnikání." # todo: NEW TRANSLATION
+ JAP_konami_mobile_licensing: "Mobilní licenční podnik" # todo: NEW TRANSLATION
+ JAP_konami_mobile_licensing_desc: "Konami pronajímá Yu-Gi-Oh!, Metal Gear a Silent Hill každému, kdo je bude vyvíjet, a vybírá poplatky podle podmínek. Nic nevzniká interně a nic takového není potřeba." # todo: NEW TRANSLATION
+ JAP_electronics.330.t: "Modemy zdarma na nároží" # todo: NEW TRANSLATION
+ JAP_electronics.330.d: "SoftBank může na tokijských nárožích rozdávat modemy Yahoo! BB a prodávat širokopásmové připojení pod cenou, dokud se sevření NTT nad místní smyčkou neuvolní. Masayoshi Son očekává, že na každém předplatiteli bude roky prodělávat. Přeprodej linek NTT s marží je okamžitě ziskový a monopol ponechá přesně tam, kde je." # todo: NEW TRANSLATION
+ JAP_electronics.330.a: "Rozdávat modemy a nést ztráty" # todo: NEW TRANSLATION
+ JAP_electronics.330.b: "Přeprodávat linky dominantního operátora" # todo: NEW TRANSLATION
+ JAP_electronics.331.t: "Vodafone Japan" # todo: NEW TRANSLATION
+ JAP_electronics.331.d: "Vodafone prodá svou japonskou síť za 1,75 bilionu jenů a SoftBank si může půjčit téměř celou částku, což by znamenalo největší zadlužené převzetí, jaké Japonsko zažilo. Kupuje národní mobilní síť i její předplatitele. Dluh je zajištěn podnikem, který SoftBank nikdy neprovozovala." # todo: NEW TRANSLATION
+ JAP_electronics.331.a: "Půjčit si proti síti a koupit ji" # todo: NEW TRANSLATION
+ JAP_electronics.331.b: "Držet se mimo mobilní sektor" # todo: NEW TRANSLATION
+ JAP_electronics.332.t: "Sprint" # todo: NEW TRANSLATION
+ JAP_electronics.332.d: "SoftBank může zaplatit 21,6 miliardy dolarů za Sprint, třetího amerického operátora, a zdědit přestavbu sítě, jejíž náklady nikdo řádně nespočítal. Poprvé v takovém měřítku by japonská společnost vstoupila na americký trh. Stejný kapitál investovaný doma se násobí na síti, kterou SoftBank už provozuje." # todo: NEW TRANSLATION
+ JAP_electronics.332.a: "Koupit amerického operátora" # todo: NEW TRANSLATION
+ JAP_electronics.332.b: "Znovu investovat doma" # todo: NEW TRANSLATION
+ JAP_electronics.333.t: "Sto miliard dolarů" # todo: NEW TRANSLATION
+ JAP_electronics.333.d: "SoftBank může získat sto miliard dolarů, většinu z nich od saúdského veřejného investičního fondu, a vystavovat šeky, jaké nikdy předtím žádný fond rizikového kapitálu nevystavil. Vision Fund by učinil z Masayoshiho Sona největšího technologického investora na světě. Investování z vlastní rozvahy je pomalejší, menší a nikomu v Rijádu se nezodpovídá." # todo: NEW TRANSLATION
+ JAP_electronics.333.a: "Získat fond z peněz Perského zálivu" # todo: NEW TRANSLATION
+ JAP_electronics.333.b: "Investovat z vlastní rozvahy" # todo: NEW TRANSLATION
+ JAP_electronics.334.t: "WeWork" # todo: NEW TRANSLATION
+ JAP_electronics.334.d: "Uvedení WeWorku na burzu se cestou na trh zhroutilo a SoftBank v něm drží největší podíl. Záchrana společnosti znamená odepsat miliardy a sdělit akcionářům, že úsudek byl chybný. Nechat ji selhat ochrání vše ostatní, co SoftBank podpořila, a potvrdí každou pochybnost o tom, jak byly tyto sázky vybrány." # todo: NEW TRANSLATION
+ JAP_electronics.334.a: "Zachránit ji a provést odpis" # todo: NEW TRANSLATION
+ JAP_electronics.334.b: "Nechat ji selhat a ochránit zbytek" # todo: NEW TRANSLATION
+ JAP_electronics.335.t: "Čím se SoftBank stala" # todo: NEW TRANSLATION
+ JAP_electronics.335.d: "Čtvrt století půjčování proti sítím a sázení výnosů na společnosti jiných rozhodlo, čím SoftBank je a jak japonský kapitál dosahuje zbytku světa." # todo: NEW TRANSLATION
+ JAP_electronics.335.a: "Globální technologická holdingová společnost" # todo: NEW TRANSLATION
+ JAP_electronics.335.b: "Upisovatel rizikového kapitálu" # todo: NEW TRANSLATION
+ JAP_electronics.335.c: "Domácí skupina operátorů" # todo: NEW TRANSLATION
+ JAP_electronics.335.e: "Přeprodejce širokopásmového připojení" # todo: NEW TRANSLATION
+ JAP_softbank_global_technology_holding: "Globální technologická holdingová společnost" # todo: NEW TRANSLATION
+ JAP_softbank_global_technology_holding_desc: "SoftBank vlastní operátory na dvou kontinentech a menšinové podíly v několika stovkách společností, které neřídí. Její hodnota závisí na tom, jak trh v tomto čtvrtletí oceňuje tyto podíly." # todo: NEW TRANSLATION
+ JAP_softbank_venture_underwriter: "Upisovatel rizikového kapitálu" # todo: NEW TRANSLATION
+ JAP_softbank_venture_underwriter_desc: "SoftBank vystaví šek, který nikdo jiný vystavit nechce, a převezme místo v radě, které s ním přichází. Výnosy přicházejí nerovnoměrně a ztráty najednou." # todo: NEW TRANSLATION
+ JAP_softbank_domestic_carrier_group: "Domácí skupina operátorů" # todo: NEW TRANSLATION
+ JAP_softbank_domestic_carrier_group_desc: "Optická vlákna, frekvence a ústředny napříč Japonskem, koupené na dluh a splácené z předplatného. SoftBank vlastní infrastrukturu, nikoli podíl v někom, kdo ji vlastní." # todo: NEW TRANSLATION
+ JAP_softbank_broadband_reseller: "Přeprodejce širokopásmového připojení" # todo: NEW TRANSLATION
+ JAP_softbank_broadband_reseller_desc: "SoftBank prodává přístup k linkám, které patří dominantnímu operátorovi, a soutěží pouze cenou. Marže je nízká a tento podnik nikdy nepotřeboval záchranu." # todo: NEW TRANSLATION
+ JAP_diplomacy.96.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.99.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.103.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.107.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.111.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.115.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.119.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.123.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.127.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.131.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.135.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.139.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.144.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.147.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.150.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.153.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.156.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.159.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.162.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.165.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.168.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.171.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.174.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.177.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.180.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.183.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.186.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.189.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.192.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.195.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ JAP_diplomacy.198.b: "Odmítnutí platí. Kvůli tomu do války nepůjdeme." # todo: NEW TRANSLATION
+ Japan.104.f: "Růst stoupenců císařské obnovy" # todo: NEW TRANSLATION

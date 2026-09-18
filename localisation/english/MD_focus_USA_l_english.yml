@@ -256,6 +256,7 @@
  USA_focus_project_gunships: "Projekt útočných vrtulníků" # todo: NEW TRANSLATION
  USA_focus_project_gunships_desc: "Významné investice a výzkum ve vývoji lepších vrtulníků nám umožní, aby se stali novým univerzálním bojovým strojem. I když zlepšení vrtulníků pomáhá i pozemním bojům, primárním účelem je využít je jako pohyblivé a rychlé útočníky v našich letadlových lodích. Moderní námořní úderná síla je tady a my ji pomůžeme uskutečnit." # todo: NEW TRANSLATION
  USA_focus_strengthing_naval_training_efforts: "Posilování námořního výcviku" # todo: NEW TRANSLATION
+ USA_focus_strengthing_naval_training_efforts_desc: "Díky zvýšení standardů a požadavků, jakož i celkovému zlepšení toho, jak a čemu naše námořní personál školíme, stanovíme nový standard toho, jak průměrný námořník reaguje na podmínky na bojišti a situace vyžadující zvládání krizí, a vytvoříme tak silnější a informovanější síly." # todo: NEW TRANSLATION
  USA_focus_role_of_the_usmc: "Role Námořní pěchoty USA" # todo: NEW TRANSLATION
  USA_focus_role_of_the_usmc_desc: "Námořní pěchota Spojených států má krvavou historii. Avšak role námořní pěchoty je znovu vystavena zkouškám. Ve moderní době izolovaných tažení a bez 'velké války' s protivníkem, kterého lze snadno identifikovat, se identita moderní námořní pěchoty poněkud mění. Musíme zjistit, zda bychom měli pokračovat ve specializované Námořní pěchotě USA, nebo zřídit spíše podpůrnou a/nebo zobecněnou podobu této větve a posunout ji směrem k armádě, než aby byla jen pododdělením pod námořnictvím." # todo: NEW TRANSLATION
  USA_focus_marines_are_as_marines_were: "Námořní pěchota je taková, jaká bývala." # todo: NEW TRANSLATION
@@ -5078,4 +5079,898 @@
  USA_ingalls_shipbuilding_naval_manufacturer_flight_i_hull_trait: "Trup Flight I" # todo: NEW TRANSLATION
  USA_ingalls_shipbuilding_naval_manufacturer_flight_ii_sdr_trait: "SDR Flight II" # todo: NEW TRANSLATION
  USA_ingalls_shipbuilding_naval_manufacturer_aegis_baseline_trait: "Aegis Baseline 9" # todo: NEW TRANSLATION
- USA_focus_strengthening_naval_training_efforts_desc: "Prostřednictvím zvýšených standardů a požadavků, jakož i celkového zlepšení způsobu a obsahu výcviku našeho námořního personálu. Tímto vytvoříme nový precedens v tom, jak průměrný námořník reaguje na podmínky bojiště a situace krizového řízení, čímž vytvoříme silnější a informovanější síly." # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_ddg51_block4_trait: "DDG-51 Block IV" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_combat_systems_trait: "Bojové systémy" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_surface_action_trait: "Skupina pro boj na hladině" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_asw_optimized_trait: "Optimalizováno pro ASW" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_legend_nsc_trait: "Legend NSC" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_ddgx_combatant_trait: "Bojové plavidlo DDG(X)" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_mk45_gun_trait: "Dělostřelecký systém Mk45" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_shock_trials_trait: "Odolnost celé lodi proti otřesům" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_integrated_warfare_trait: "Integrované vedení války" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_asw_focus_trait: "Zaměření na ASW" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_fleet_integration_trait: "Integrace do flotily" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_surface_mastery_trait: "Mistrovství v boji na hladině" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_amphibious_legacy_trait: "Obojživelný odkaz" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_tarawa_heritage_trait: "Dědictví Tarawy" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_newport_carrier_trait: "Letadlová loď Newport" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_wasp_lhd_trait: "Třída Wasp LHD" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_ford_class_trait: "Třída Ford" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_lha_america_trait: "LHA-6 America" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_lha_tripoli_trait: "LHA-7 Tripoli" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_nimitz_nuclear_trait: "Odkaz Nimitz" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_lpd17_san_antonio_trait: "LPD-17 San Antonio" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_emals_launch_trait: "Start pomocí EMALS" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_carrier_strike_trait: "Úder z letadlové lodi" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_assault_ready_trait: "Připraveno k útoku" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_gerald_ford_trait: "Gerald R. Ford" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_joint_operations_trait: "Společné operace" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_nuclear_propulsion_trait: "Jaderný pohon" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_deck_systems_trait: "Palubní systémy" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_carrier_dominance_trait: "Dominance letadlových lodí" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_asw_carrier_trait: "Letadlová loď pro ASW" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_power_projection_trait: "Projekce síly" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_fleet_carrier_trait: "Flotilová letadlová loď" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_newport_heritage_trait: "Dědictví Newportu" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_skipjack_design_trait: "Konstrukce Skipjack" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_thresher_program_trait: "Program Thresher" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_sturgeon_class_trait: "Třída Sturgeon" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_nuclear_reactor_trait: "Jaderný reaktor" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_la_class_trait: "Třída Los Angeles" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_virginia_block1_trait: "Virginia Block I" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_deep_silent_trait: "Tichý chod v hlubokém ponoru" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_virginia_block2_trait: "Virginia Block II" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_propulsion_excel_trait: "Vynikající pohon" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_pacific_hunter_trait: "Lovec v Pacifiku" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_columbia_ssbn_trait: "Columbia SSBN" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_attack_sub_trait: "Zaměření na útočné ponorky" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_ssbn_strategic_trait: "Strategické SSBN" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_quiet_drive_trait: "Tichý pohon" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_block5_tech_trait: "Technologie Block V" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_virginia_payload_trait: "Náklad Virginia" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_columbia_final_trait: "Finální Columbia" # todo: NEW TRANSLATION
+ USA_ingalls_shipbuilding_naval_manufacturer_deep_sea_mastery_trait: "Mistrovství v hlubokém moři" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_name: "General Dynamics" # todo: NEW TRANSLATION
+ USA_gdmm_header_land: "Pozemní systémy" # todo: NEW TRANSLATION
+ USA_gdmm_header_marine: "Námořní systémy" # todo: NEW TRANSLATION
+ USA_gdmm_header_tech: "Obranné technologie" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_trait: "Programy Abrams a Stryker" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1a2_foundation_trait: "Základ M1A2" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1a2_sepv1_trait: "M1A2 SEPv1" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_tusk_kit_trait: "Sada TUSK" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1a2_sepv2_trait: "M1A2 SEPv2" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_hk_citv_trait: "Hunter-Killer CITV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_trophy_aps_trait: "Trophy APS" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1a2_sepv3_trait: "M1A2 SEPv3" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1a2_sepv4_trait: "M1A2 SEPv4" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_m1150_abv_trait: "M1150 ABV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_abramsx_hybrid_trait: "Hybridní AbramsX" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_ampv_trait: "Platforma AMPV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_fire_ctrl_digital_trait: "Digitální řízení palby" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_abramsx_prod_trait: "Výroba AbramsX" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_stryker_icv_root_trait: "Stryker ICV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_stryker_mgs_trait: "Stryker MGS" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_stryker_dvh_trait: "Stryker A1 DVH" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_stryker_crowsj_trait: "Stryker CROWS-J" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_lav_60_trait: "LAV 6.0" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_lav_60_mk2_trait: "LAV 6.0 Mk II" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_lav_recce_trait: "Průzkumný LAV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_hmmwv_logistics_trait: "Logistika HMMWV" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_force_xxi_fbcb2_trait: "Force XXI FBCB2" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_pos_nav_unit_trait: "Navigační jednotka polohy" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_fuel_cell_economy_trait: "Úspornost palivových článků" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_armor_surge_trait: "Nárůst obrněných sil GD" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_virginia_foundation_trait: "Základ Virginie" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_bqq10_sonar_trait: "Sonar AN/BQQ-10" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_virginia_b3_trait: "Virginia Block III" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_large_payload_trait: "Modul pro velký náklad" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_virginia_b5_trait: "Virginia Block V" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_virginia_vpm_trait: "Nákladový modul Virginia" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_adv_prop_drive_trait: "Pokročilý pohon" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_columbia_drive_trait: "Pohon Columbia" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_columbia_stealth_trait: "Utajení Columbia" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_zumwalt_trait: "Integrace Zumwalt" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_arleigh_burke_trait: "Kompatibilita s Arleigh Burke" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_multi_mission_trait: "Víceúčelové hladinové plavidlo" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_eb_naval_trait: "Námořní efektivita EB" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_gdit_c2_foundation_trait: "Základ velení a řízení GDIT" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_force_xxi_battlelink_trait: "Force XXI BattleLink" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_joint_tactical_radio_trait: "Společná taktická radiostanice" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_stryker_network_trait: "Síť Stryker" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_crows_ii_trait: "CROWS II" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_gd_missile_ctrl_trait: "Řízení střel GD" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_land_vulcan_trait: "Pozemní Vulcan" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_land_phalanx_trait: "Pozemní Phalanx CIWS" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_hydra70_trait: "Raketa Hydra 70" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_mk47_striker_trait: "Dron MK47 Striker" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_gd_ugv_trait: "Autonomní UGV GD" # todo: NEW TRANSLATION
+ USA_general_dynamics_materiel_manufacturer_gd_systems_eff_trait: "Efektivita systémů GD" # todo: NEW TRANSLATION
+ USA_united_defense_tank_manufacturer_b1_header: "Pásová bojová vozidla" # todo: NEW TRANSLATION
+ USA_united_defense_tank_manufacturer_b2_header: "Palebná podpora a pokročilé systémy" # todo: NEW TRANSLATION
+ USA_united_defense_tank_manufacturer_trait: "Bojové systémy Bradley" # todo: NEW TRANSLATION
+ USA_ud_bradley_core: "Základ M2 Bradley" # todo: NEW TRANSLATION
+ USA_ud_tow_missile: "Věž s raketami TOW" # todo: NEW TRANSLATION
+ USA_ud_bushmaster_autocannon: "Automatický kanón Bushmaster" # todo: NEW TRANSLATION
+ USA_ud_m3_cavalry: "Kavalerní varianta M3" # todo: NEW TRANSLATION
+ USA_ud_m113_gavin: "M113 Gavin" # todo: NEW TRANSLATION
+ USA_ud_m88_hercules: "M88 Hercules" # todo: NEW TRANSLATION
+ USA_ud_aav7_amphibious: "Obojživelný AAV-7" # todo: NEW TRANSLATION
+ USA_ud_m8_ags: "Program M8 AGS" # todo: NEW TRANSLATION
+ USA_ud_m109_paladin: "M109 Paladin" # todo: NEW TRANSLATION
+ USA_ud_m992_faasv: "M992 FAASV" # todo: NEW TRANSLATION
+ USA_ud_paladin_digital_fcs: "Digitální systém řízení palby Paladin" # todo: NEW TRANSLATION
+ USA_ud_crusader_xm2001: "Crusader XM2001" # todo: NEW TRANSLATION
+ USA_ud_m270_mlrs: "M270 MLRS" # todo: NEW TRANSLATION
+ USA_ud_advanced_gun_system: "Pokročilý dělostřelecký systém" # todo: NEW TRANSLATION
+ USA_ud_fcs_mgv: "Pozemní vozidlo FCS" # todo: NEW TRANSLATION
+ USA_bae_systems_platforms_name: "Platformy BAE Systems" # todo: NEW TRANSLATION
+ USA_bae_systems_platforms_b1_header: "Dělostřelectvo a nepřímá palba" # todo: NEW TRANSLATION
+ USA_bae_systems_platforms_b2_header: "Modernizace a nová generace" # todo: NEW TRANSLATION
+ USA_bae_systems_platforms_b3_header: "Odkaz United Defense" # todo: NEW TRANSLATION
+ USA_bae_systems_platforms_trait: "Pozemní systémy a výzbroj BAE v USA" # todo: NEW TRANSLATION
+ usa_bae_acquired_united_defense: "BAE Systems převzala United Defense" # todo: NEW TRANSLATION
+ USA_bae_m777_howitzer: "Lehká houfnice M777" # todo: NEW TRANSLATION
+ USA_bae_excalibur_round: "Náboj M982 Excalibur" # todo: NEW TRANSLATION
+ USA_bae_archer_autoloader: "Autonabíječ Archer FH77" # todo: NEW TRANSLATION
+ USA_bae_m109a6_upgrade: "Modernizace M109A6 Paladin" # todo: NEW TRANSLATION
+ USA_bae_nlos_c: "Kanón NLOS-C" # todo: NEW TRANSLATION
+ USA_bae_cram_system: "Program C-RAM" # todo: NEW TRANSLATION
+ USA_bae_m109a7_paladin: "M109A7 Paladin" # todo: NEW TRANSLATION
+ USA_bae_mk45_naval: "Námořní kanón Mk45" # todo: NEW TRANSLATION
+ USA_bae_bofors_57mm: "Bofors 57mm Mk3" # todo: NEW TRANSLATION
+ USA_bae_apkws_guided: "Naváděná raketa APKWS" # todo: NEW TRANSLATION
+ USA_bae_bradley_ecp: "M2 Bradley ECP" # todo: NEW TRANSLATION
+ USA_bae_ampv_production: "Výroba AMPV" # todo: NEW TRANSLATION
+ USA_bae_acv_amphibious: "Obojživelný ACV" # todo: NEW TRANSLATION
+ USA_bae_gcv_prototype: "Prototyp GCV" # todo: NEW TRANSLATION
+ USA_bae_iron_fist_aps: "Iron Fist APS" # todo: NEW TRANSLATION
+ USA_bae_amv35_cell: "Integrace modulu AMV35" # todo: NEW TRANSLATION
+ USA_bae_electronic_integration: "Elektronické systémy" # todo: NEW TRANSLATION
+ USA_bae_optionally_manned: "Volitelně obsluhovaná platforma" # todo: NEW TRANSLATION
+ USA_bae_fcs_lessons: "Poučení z FCS" # todo: NEW TRANSLATION
+ USA_bae_next_gen_platform: "Bojové vozidlo nové generace" # todo: NEW TRANSLATION
+ USA_bae_legacy_bradley_core: "Základ M2 Bradley" # todo: NEW TRANSLATION
+ USA_bae_legacy_tow_missile: "Věž s raketami TOW" # todo: NEW TRANSLATION
+ USA_bae_legacy_bushmaster_autocannon: "Automatický kanón Bushmaster" # todo: NEW TRANSLATION
+ USA_bae_legacy_m3_cavalry: "Kavalerní varianta M3" # todo: NEW TRANSLATION
+ USA_bae_legacy_m113_gavin: "M113 Gavin" # todo: NEW TRANSLATION
+ USA_bae_legacy_m88_hercules: "M88 Hercules" # todo: NEW TRANSLATION
+ USA_bae_legacy_aav7_amphibious: "Obojživelný AAV-7" # todo: NEW TRANSLATION
+ USA_bae_legacy_m8_ags: "Program M8 AGS" # todo: NEW TRANSLATION
+ USA_bae_legacy_m109_paladin: "M109 Paladin" # todo: NEW TRANSLATION
+ USA_bae_legacy_m992_faasv: "M992 FAASV" # todo: NEW TRANSLATION
+ USA_bae_legacy_paladin_digital_fcs: "Digitální systém řízení palby Paladin" # todo: NEW TRANSLATION
+ USA_bae_legacy_crusader_xm2001: "Crusader XM2001" # todo: NEW TRANSLATION
+ USA_bae_legacy_m270_mlrs: "M270 MLRS" # todo: NEW TRANSLATION
+ USA_bae_legacy_advanced_gun_system: "Pokročilý dělostřelecký systém" # todo: NEW TRANSLATION
+ USA_bae_legacy_fcs_mgv: "Pozemní vozidlo FCS" # todo: NEW TRANSLATION
+ USA_rock_island_arsenal_name: "Arzenál Rock Island" # todo: NEW TRANSLATION
+ USA_rock_island_arsenal_trait: "Vládní arzenál americké armády" # todo: NEW TRANSLATION
+ USA_rock_island_arsenal_b1_header: "Řada tažených houfnic" # todo: NEW TRANSLATION
+ USA_rock_island_arsenal_b2_header: "Výroba v arzenálu" # todo: NEW TRANSLATION
+ USA_rock_island_m198_line: "Řada houfnic M198" # todo: NEW TRANSLATION
+ USA_rock_island_m119_light: "Lehká houfnice M119" # todo: NEW TRANSLATION
+ USA_rock_island_m198_range: "Prodloužení dostřelu M198" # todo: NEW TRANSLATION
+ USA_rock_island_digital_fire_control: "Digitální řízení palby M119A3" # todo: NEW TRANSLATION
+ USA_rock_island_jmtc: "Společné centrum výroby a technologií" # todo: NEW TRANSLATION
+ USA_rock_island_recoil_mechanisms: "Mistrovství v mechanismech zpětného rázu" # todo: NEW TRANSLATION
+ USA_rock_island_additive_manufacturing: "Slévárna aditivní výroby" # todo: NEW TRANSLATION
+ USA_econ_event.30.t: "BAE Systems nabízí převzetí United Defense" # todo: NEW TRANSLATION
+ USA_econ_event.30.d: "BAE Systems předložila hotovostní nabídku ve výši 4,2 miliardy dolarů na převzetí United Defense Industries. Britský konglomerát chce získat trvalou pozici na americkém trhu pozemních bojových systémů začleněním výroby Bradley, Paladin a AAV do nové divize Land & Armaments. Ministerstvo obrany zvažuje strategické důsledky, zatímco ministerstvo spravedlnosti připravuje antimonopolní přezkum." # todo: NEW TRANSLATION
+ USA_econ_event.30.a: "Schválit převzetí" # todo: NEW TRANSLATION
+ USA_econ_event.30.b: "Nařídit antimonopolní přezkum ministerstvem spravedlnosti" # todo: NEW TRANSLATION
+ usa_economic_events.300.a: "Podpořit fúzi" # todo: NEW TRANSLATION
+ usa_economic_events.300.b: "Ponechat HP nezávislou" # todo: NEW TRANSLATION
+ usa_economic_events.300.d: "FTC uzavřela vyšetřování navrhované fúze Hewlett-Packard a Compaq bez donucovacích opatření. Proxy kampaň Waltera Hewletta změnila blížící se hlasování akcionářů v rozhodování o budoucnosti HP." # todo: NEW TRANSLATION
+ usa_economic_events.300.t: "Proxy boj o Compaq" # todo: NEW TRANSLATION
+ usa_economic_events.301.a: "Dokončit rozšíření služeb" # todo: NEW TRANSLATION
+ usa_economic_events.301.b: "Vynechat obchod a zachovat zaměření na hardware" # todo: NEW TRANSLATION
+ usa_economic_events.301.d: "HP může zaplatit 13,9 miliardy dolarů za Electronic Data Systems a spojit služby s ročními příjmy přes 38 miliard dolarů, čímž získá globální platformu pro konkurenci mimo oblast hardwaru. Nebo si může peníze ponechat a zůstat hardwarovou společností." # todo: NEW TRANSLATION
+ usa_economic_events.301.t: "Sázka na služby EDS" # todo: NEW TRANSLATION
+ usa_economic_events.302.a: "Přejít na podnikový software" # todo: NEW TRANSLATION
+ usa_economic_events.302.b: "Znovu se zaměřit na zařízení a počítače" # todo: NEW TRANSLATION
+ usa_economic_events.302.d: "HP plánuje ukončit výrobu zařízení s webOS, zvážit alternativy pro svou počítačovou divizi a převzít firmu Autonomy specializující se na podnikový software. Navrhovaná transformace by společnost posunula k softwaru, cloudu a službám s vyšší marží." # todo: NEW TRANSLATION
+ usa_economic_events.302.t: "Strategický zlom HP" # todo: NEW TRANSLATION
+ usa_economic_events.303.a: "Dokončit rozdělení" # todo: NEW TRANSLATION
+ usa_economic_events.303.b: "Ponechat Hewlett-Packard pohromadě" # todo: NEW TRANSLATION
+ usa_economic_events.303.d: "Hewlett-Packard se plánuje rozdělit na dvě veřejně obchodované společnosti. HP Inc. by převzala osobní systémy a tisk, zatímco Hewlett Packard Enterprise by získala infrastrukturu, software a služby." # todo: NEW TRANSLATION
+ usa_economic_events.303.t: "Hewlett-Packard se rozděluje" # todo: NEW TRANSLATION
+ usa_economic_events.304.a: "Plně podpořit nezávislý plán HP" # todo: NEW TRANSLATION
+ usa_economic_events.304.b: "Nechat otevřené dveře konsolidaci" # todo: NEW TRANSLATION
+ usa_economic_events.304.d: "Xerox stáhl nabídku na převzetí HP Inc. a ukončil svou proxy kampaň s odvoláním na narušení způsobené pandemií COVID-19. Zhroucení nepřátelské nabídky vrací kontrolu nad strategií HP jejímu představenstvu." # todo: NEW TRANSLATION
+ usa_economic_events.304.t: "Nabídka Xeroxu se hroutí" # todo: NEW TRANSLATION
+ usa_economic_events.310.a: "Michael Dell znovu přebírá velení" # todo: NEW TRANSLATION
+ usa_economic_events.310.b: "Dosadit profesionální vedení" # todo: NEW TRANSLATION
+ usa_economic_events.310.d: "Kevin Rollins rezignoval poté, co se růst zastavil a přímý obchodní model selhal, čímž se Michael Dell vrátil do funkce generálního ředitele. Může osobně řídit obrat společnosti, nebo dosadit profesionální vedení, které ji stabilizuje." # todo: NEW TRANSLATION
+ usa_economic_events.310.t: "Zakladatel se vrací" # todo: NEW TRANSLATION
+ usa_economic_events.311.a: "Vybudovat divizi podnikových služeb" # todo: NEW TRANSLATION
+ usa_economic_events.311.b: "Zůstat hardwarovou společností" # todo: NEW TRANSLATION
+ usa_economic_events.311.d: "Dell se dohodl na převzetí společnosti Perot Systems poskytující služby v oblasti informačních technologií. Obchod by Dellu poskytl divizi služeb a oporu v podnikových řešeních, čímž by jej posunul za hranice prodeje hardwaru." # todo: NEW TRANSLATION
+ usa_economic_events.311.t: "Převzetí Perot Systems" # todo: NEW TRANSLATION
+ usa_economic_events.312.a: "Převzít Dell do soukromých rukou se Silver Lake" # todo: NEW TRANSLATION
+ usa_economic_events.312.b: "Zůstat veřejnou a odpovědnou společností" # todo: NEW TRANSLATION
+ usa_economic_events.312.d: "Michael Dell a investiční firma Silver Lake navrhli odkup společnosti a její stažení z burzy. Odchod z veřejných trhů by Dell osvobodil od tlaku čtvrtletních výsledků a dal zakladateli prostor k její přeměně, ovšem za cenu obrovského zadlužení." # todo: NEW TRANSLATION
+ usa_economic_events.312.t: "Rozhodnutí o stažení z burzy" # todo: NEW TRANSLATION
+ usa_economic_events.313.a: "Převzít EMC a integrovat portfolio" # todo: NEW TRANSLATION
+ usa_economic_events.313.b: "Převzít EMC a zachovat jeho federaci" # todo: NEW TRANSLATION
+ usa_economic_events.313.d: "Dne 12. října 2015 Dell a EMC oznámily navrhované převzetí v hodnotě 67 miliard dolarů, největší technologickou transakci, o jakou se dosud někdo pokusil. Dokončení by z Dellu učinilo společnost pokrývající celou oblast infrastruktury a přivedlo by federaci EMC včetně většinového podílu ve VMware pod jednu střechu, zároveň by však přineslo obrovské zadlužení." # todo: NEW TRANSLATION
+ usa_economic_events.313.t: "Navrhované převzetí EMC" # todo: NEW TRANSLATION
+ usa_economic_events.314.a: "Oddělit VMware a snížit dluh" # todo: NEW TRANSLATION
+ usa_economic_events.314.b: "Ponechat VMware integrovaný" # todo: NEW TRANSLATION
+ usa_economic_events.314.d: "Dne 14. dubna 2021 Dell navrhl oddělit svůj většinový podíl ve VMware a použít související mimořádnou dividendu ke snížení dluhu směrem k investičnímu stupni. Nezávislost by posílila obě společnosti, Dell by však přišel o softwarový klenot, který mu přineslo EMC." # todo: NEW TRANSLATION
+ usa_economic_events.314.t: "Navrhované oddělení VMware" # todo: NEW TRANSLATION
+ usa_economic_events.315.a: "Budovat AI servery ve velkém" # todo: NEW TRANSLATION
+ usa_economic_events.315.b: "Usilovat o AI selektivně kvůli marži" # todo: NEW TRANSLATION
+ usa_economic_events.315.d: "Poptávka po serverech optimalizovaných pro AI prudce roste a infrastrukturní divize Dellu se plní objednávkami systémů s vysokou hustotou GPU. Dell se může zavázat k velkoobjemové výrobě, nebo příležitost využívat selektivně a chránit marže." # todo: NEW TRANSLATION
+ usa_economic_events.315.t: "Budování AI serverů" # todo: NEW TRANSLATION
+ usa_economic_events.320.a: "Nechat antimonopolní přezkum proběhnout" # todo: NEW TRANSLATION
+ usa_economic_events.320.b: "Usilovat o zmaření nabídky" # todo: NEW TRANSLATION
+ usa_economic_events.320.d: "Oracle zahájil nevyžádanou nabídku na převzetí PeopleSoftu v hodnotě 5,1 miliardy dolarů, několik dní poté, co PeopleSoft souhlasil s koupí J.D. Edwards. PeopleSoft odpovídá jedem na převzetí a zárukou vrácení peněz zákazníkům v případě akvizice, zatímco ministerstvo spravedlnosti zvažuje antimonopolní námitky. Washington může nechat přezkum proběhnout, nebo zasáhnout proti nabídce." # todo: NEW TRANSLATION
+ usa_economic_events.320.t: "Obléhání PeopleSoftu" # todo: NEW TRANSLATION
+ usa_economic_events.321.a: "Schválit převzetí" # todo: NEW TRANSLATION
+ usa_economic_events.321.b: "Zablokovat jej kvůli konkurenci v databázích" # todo: NEW TRANSLATION
+ usa_economic_events.321.d: "Obchod se Sunem by dostal Javu, MySQL, Solaris a SPARC pod kontrolu Oraclu, čímž by jedné firmě poskytl vliv nad kritickou softwarovou infrastrukturou a hardwarovým podnikem, který nikdy neprovozovala. Přezkum se zaměřuje na to, zda by stejná společnost měla vlastnit přední komerční databázi i open-source databázi, která s ní soutěží. Schválení konsoliduje celý technologický zásobník; zablokování ponechá aktiva Sunu jinému kupci." # todo: NEW TRANSLATION
+ usa_economic_events.321.t: "Sun Microsystems: Správa technologického zásobníku" # todo: NEW TRANSLATION
+ usa_economic_events.322.a: "Podpořit nárok na autorská práva" # todo: NEW TRANSLATION
+ usa_economic_events.322.b: "Tvrdit, že rozhraní zůstávají otevřená" # todo: NEW TRANSLATION
+ usa_economic_events.322.d: "Soudní spor o Java API proti Googlu se stal zásadním střetem o softwarová rozhraní. Vítězství Oraclu by učinilo API fakticky chráněnými autorským právem a rozšířilo tlak na licencování, zatímco opačný výklad by zachoval normy interoperability. Washington může podpořit nárok na autorská práva, nebo tvrdit, že rozhraní mají zůstat otevřená." # todo: NEW TRANSLATION
+ usa_economic_events.322.t: "Oracle proti Googlu" # todo: NEW TRANSLATION
+ usa_economic_events.323.a: "Otevřít federální cloudové zakázky druhému dodavateli" # todo: NEW TRANSLATION
+ usa_economic_events.323.b: "Ponechat zakázku stávajícím dodavatelům" # todo: NEW TRANSLATION
+ usa_economic_events.323.d: "Oracle napadá přidělení federální cloudové zakázky proti zavedeným hyperscalerům s pevnou distribuční sítí, přitažlivostí pro vývojáře a kapitálovou silou. Přesměrování federální infrastruktury k druhému dodavateli by Oraclu zajistilo význam za vysokou cenu, zatímco ponechání zakázky na stávajícím místě zachová marže z lokálních systémů, které již získává. O výsledku rozhodne zadávací řízení." # todo: NEW TRANSLATION
+ usa_economic_events.323.t: "Obrat ke cloudové infrastruktuře" # todo: NEW TRANSLATION
+ usa_economic_events.324.a: "Schválit převzetí" # todo: NEW TRANSLATION
+ usa_economic_events.324.b: "Zablokovat jej kvůli údajům o pacientech" # todo: NEW TRANSLATION
+ usa_economic_events.324.d: "Obchod s Cernerem by Oraclu poskytl dominantní postavení v elektronických zdravotních záznamech a nemocničních informačních systémech a rozšířil jeho dosah do jednoho z datově nejcitlivějších a nejvíce regulovaných odvětví. Přezkum se zaměřuje na koncentraci údajů o pacientech a na to, zda nemocnice hlubší závislostí získají, nebo ztratí. Schválení konsoliduje zdravotnické IT; zablokování ponechá Oracle u jeho hlavního databázového podnikání." # todo: NEW TRANSLATION
+ usa_economic_events.324.t: "Převzetí Cerneru: Dominance ve zdravotnických IT" # todo: NEW TRANSLATION
+ usa_economic_events.330.t: "Závazek vůči CUDA" # todo: NEW TRANSLATION
+ usa_economic_events.330.d: "NVIDIA navrhuje investovat roky a značné množství peněz do toho, aby její grafické procesory byly programovatelné pro úlohy, které nesouvisejí s grafikou. Žádný zákazník si to nevyžádal. Alternativou je přidělit stejné inženýry produktům, které se již prodávají." # todo: NEW TRANSLATION
+ usa_economic_events.330.a: "Financovat platformu pro výpočty obecného účelu" # todo: NEW TRANSLATION
+ usa_economic_events.330.b: "Ponechat inženýry u grafiky" # todo: NEW TRANSLATION
+ usa_economic_events.331.t: "Signál hlubokého učení" # todo: NEW TRANSLATION
+ usa_economic_events.331.d: "Výzkumníci vyhráli soutěž v rozpoznávání obrazu s obrovským náskokem pomocí herních karet Nvidia namísto specializovaného hardwaru. Jde o jediný výsledek jedné akademické soutěže a naznačuje trh, který zatím neexistuje." # todo: NEW TRANSLATION
+ usa_economic_events.331.a: "Vyvíjet pro trh strojového učení" # todo: NEW TRANSLATION
+ usa_economic_events.331.b: "Počkat na trh se skutečnými zákazníky" # todo: NEW TRANSLATION
+ usa_economic_events.332.t: "Obrat k datovým centrům" # todo: NEW TRANSLATION
+ usa_economic_events.332.d: "Obsluha datových center znamená nový křemík, nová propojení, nové systémy a obchodní organizaci, která prodává provozovatelům namísto hráčům. Z Nvidie by se stala jiná společnost. Setrvání u GeForce je levnější a poptávka je již prokázaná." # todo: NEW TRANSLATION
+ usa_economic_events.332.a: "Přebudovat společnost kolem datových center" # todo: NEW TRANSLATION
+ usa_economic_events.332.b: "Zůstat u spotřebitelského trhu" # todo: NEW TRANSLATION
+ usa_economic_events.333.t: "Začínají vývozní omezení" # todo: NEW TRANSLATION
+ usa_economic_events.333.d: "Washington omezuje prodej nejvýkonnějších akcelerátorů společnosti Nvidia do zahraničí. Dodržování pravidel znamená přijít o jeden z největších trhů a získat přízeň vlády, která pravidla stanovuje. Obcházení limitů prostřednictvím konstrukčních úprav zachová příjmy, ale vyvolá další omezení." # todo: NEW TRANSLATION
+ usa_economic_events.333.a: "Dodržovat pravidla a přizpůsobit se omezením" # todo: NEW TRANSLATION
+ usa_economic_events.333.b: "Obejít stanovené limity" # todo: NEW TRANSLATION
+ usa_economic_events.334.t: "Budování akcelerátorů" # todo: NEW TRANSLATION
+ usa_economic_events.334.d: "Poptávka po trénovacích akcelerátorech Nvidia překonává vše, na co byl dodavatelský řetězec vybudován. Závazek k velkým objemům znamená platit za kapacity roky před objednávkami. Omezení výroby chrání rozvahu a přenechává nedostatek konkurentovi." # todo: NEW TRANSLATION
+ usa_economic_events.334.a: "Zavázat se k objemu a nakoupit kapacitu" # todo: NEW TRANSLATION
+ usa_economic_events.334.b: "Udržet disciplínu v dodávkách a chránit marži" # todo: NEW TRANSLATION
+ usa_economic_events.335.t: "Objednávka akcelerátorů" # todo: NEW TRANSLATION
+ usa_economic_events.335.d: "Dvě desetiletí sázek Nvidie na programovatelný křemík rozhodla, kdo dodává světu výpočetní výkon a za jakých podmínek. Z toho nyní vyplývá, co může americký průmysl trénovat a komu může své produkty prodávat." # todo: NEW TRANSLATION
+ usa_economic_events.335.a: "Platforma, kterou žádný konkurent nevytlačí" # todo: NEW TRANSLATION
+ usa_economic_events.335.b: "Suverénní výpočetní zásobník" # todo: NEW TRANSLATION
+ usa_economic_events.335.c: "Otevřené společenství akcelerátorů" # todo: NEW TRANSLATION
+ usa_economic_events.335.e: "Komoditní dodavatel v úpadku" # todo: NEW TRANSLATION
+ USA_nvidia_cuda_fortress: "Pevnost akcelerátorů" # todo: NEW TRANSLATION
+ USA_nvidia_cuda_fortress_desc: "Hardware lze nahradit, software napsaný pro něj nikoli. Dvě desetiletí nástrojů, knihoven a vyškolených inženýrů učinila z platformy výchozí volbu a každý konkurent musí být natolik lepší, aby ospravedlnil přepsání všeho." # todo: NEW TRANSLATION
+ USA_nvidia_sovereign_compute_stack: "Suverénní výpočetní zásobník" # todo: NEW TRANSLATION
+ USA_nvidia_sovereign_compute_stack_desc: "Akcelerátory byly vyráběny ve velkém bez softwarového náskoku, který je činil nedostižnými. Kapacita je americká a hojná a podmínky přístupu stanovuje Washington, nikoli ten, kdo napíše nejrychlejší kernel." # todo: NEW TRANSLATION
+ USA_nvidia_open_accelerator_commonwealth: "Otevřené společenství akcelerátorů" # todo: NEW TRANSLATION
+ USA_nvidia_open_accelerator_commonwealth_desc: "Akcelerované výpočty se vyvinuly jako sdílená infrastruktura, nikoli jako majetek jedné společnosti. Marže jsou nižší, než by přinášel monopol, ale počet lidí, kteří na platformě stavějí, je mnohem vyšší." # todo: NEW TRANSLATION
+ USA_nvidia_commodity_decline: "Komoditní křemík" # todo: NEW TRANSLATION
+ USA_nvidia_commodity_decline_desc: "Sázka na programovatelný křemík nebyla nikdy plně přijata a akcelerované výpočty byly definovány jinde. Americký grafický hardware se stále prodává, ovšem za cenu odpovídající komoditě." # todo: NEW TRANSLATION
+ usa_economic_events.340.t: "IM Flash" # todo: NEW TRANSLATION
+ usa_economic_events.340.d: "Společný podnik by přivedl Micron do oblasti flash pamětí po boku mnohem většího partnera a sdílel by továrny i riziko u produktu, který nikdy nevyráběl. Setrvání u dynamických pamětí znamená být velmi dobrý v jediné komoditě v odvětví, které trestá každého, kdo má jen jednu." # todo: NEW TRANSLATION
+ usa_economic_events.340.a: "Vstoupit do flash pamětí prostřednictvím společného podniku" # todo: NEW TRANSLATION
+ usa_economic_events.340.b: "Zůstat u dynamických pamětí" # todo: NEW TRANSLATION
+ usa_economic_events.341.t: "Zima pamětí" # todo: NEW TRANSLATION
+ usa_economic_events.341.d: "Ceny pamětí klesly pod výrobní náklady a konkurenti zavírají továrny. Nákup kapacity nyní stojí peníze, o které Micron již přichází, a nikdy nebude levnější. Omezení výdajů chrání rozvahu a přenechává zotavení tomu, kdo přežije s větší kapacitou." # todo: NEW TRANSLATION
+ usa_economic_events.341.a: "Nakoupit kapacitu, dokud je levná" # todo: NEW TRANSLATION
+ usa_economic_events.341.b: "Omezit výdaje a přežít zimu" # todo: NEW TRANSLATION
+ usa_economic_events.342.t: "Síť Elpidy" # todo: NEW TRANSLATION
+ usa_economic_events.342.d: "Společnost Elpida v úpadku může být odkoupena z nucené správy společností Micron, čímž získá továrny v Hirošimě a na Tchaj-wanu i seznam zákazníků zahrnující největší výrobce telefonů. Přináší to také zaměstnance, dohodu s věřiteli a desetiletí integrace." # todo: NEW TRANSLATION
+ usa_economic_events.342.a: "Koupit zkrachovalého konkurenta" # todo: NEW TRANSLATION
+ usa_economic_events.342.b: "Vybudovat kapacitu vlastními silami" # todo: NEW TRANSLATION
+ usa_economic_events.343.t: "Rozhodnutí o Lehi" # todo: NEW TRANSLATION
+ usa_economic_events.343.d: "Továrna Micronu v Lehi v Utahu byla vybudována pro 3D XPoint, paměťovou technologii, o kterou trh neměl zájem, a její přeměna na něco prodejného by stála více, než kolik má cenu. Koupí ji Texas Instruments. Ponechat si ji znamená najít využití pro závod navržený kolem mrtvého produktu." # todo: NEW TRANSLATION
+ usa_economic_events.343.a: "Prodat továrnu v Utahu" # todo: NEW TRANSLATION
+ usa_economic_events.343.b: "Ponechat si ji a najít pro ni využití" # todo: NEW TRANSLATION
+ usa_economic_events.344.t: "Čínské omezení" # todo: NEW TRANSLATION
+ usa_economic_events.344.d: "Peking zakázal produkty Micronu v čínské infrastruktuře, čímž odřízl značnou část příjmů. Vybudování výroby jinde a prodej jinam stojí roky a marže. Napadení rozhodnutí udržuje trh ve hře, ale ponechává osud společnosti spojený s vládou, která již rozhodla." # todo: NEW TRANSLATION
+ usa_economic_events.344.a: "Diverzifikovat mimo čínský trh" # todo: NEW TRANSLATION
+ usa_economic_events.344.b: "Napadnout rozhodnutí a udržet si trh" # todo: NEW TRANSLATION
+ usa_economic_events.345.t: "Arzenál pamětí" # todo: NEW TRANSLATION
+ usa_economic_events.345.d: "Dvě desetiletí budování během krizí rozhodla, čím Micron je, co znamená americká výroba pamětí a komu od ní lze odříznout přístup." # todo: NEW TRANSLATION
+ usa_economic_events.345.a: "Americký arzenál pamětí" # todo: NEW TRANSLATION
+ usa_economic_events.345.b: "Globální federace pamětí" # todo: NEW TRANSLATION
+ usa_economic_events.345.c: "Nevolatilní budoucnost" # todo: NEW TRANSLATION
+ usa_economic_events.345.e: "Disciplína místo rozsahu" # todo: NEW TRANSLATION
+ USA_micron_american_memory_arsenal: "Americký arzenál pamětí" # todo: NEW TRANSLATION
+ USA_micron_american_memory_arsenal_desc: "Paměti se vyrábějí v amerických továrnách pro zákazníky, ke kterým se zahraniční vláda nedostane, a kapacita byla nakoupena v letech, kdy všichni ostatní závody zavírali. Čipy stojí více a nikdo jiný nerozhoduje, kdo je dostane." # todo: NEW TRANSLATION
+ USA_micron_global_memory_federation: "Globální federace pamětí" # todo: NEW TRANSLATION
+ USA_micron_global_memory_federation_desc: "Továrny ve třech zemích pod jedním vlastníkem, sestavené z konkurentů, kteří nepřežili vlastní pokles. Rozsah je celou výhodou — a je značný." # todo: NEW TRANSLATION
+ USA_micron_nonvolatile_future: "Nevolatilní budoucnost" # todo: NEW TRANSLATION
+ USA_micron_nonvolatile_future_desc: "Společnost vsadila na paměť, která si uchová obsah i po výpadku proudu, a trh dorazil právě tam, kde čekala. Výzkum předbíhá výrobu, místo aby za ní zaostával." # todo: NEW TRANSLATION
+ USA_micron_memory_scale_discipline: "Disciplína rozsahu" # todo: NEW TRANSLATION
+ USA_micron_memory_scale_discipline_desc: "Kapacita se nikdy nenakupovala na vrcholu cyklu a nikdy neprodávala na jeho dně. Micron je menší, než mohl být, a nikdy nepotřeboval záchranu." # todo: NEW TRANSLATION
+ usa_economic_events.350.t: "OMAP a mobilní budoucnost" # todo: NEW TRANSLATION
+ usa_economic_events.350.d: "Aplikační procesory pro mobilní telefony jsou nejrychleji rostoucím trhem v polovodičovém průmyslu a Texas Instruments má důvěryhodný produkt. Zvítězit na tomto trhu znamená soupeřit se všemi. Alternativou je analogové podnikání, o kterém nikdo nepíše a kde součástky zůstávají ve výrobě třicet let." # todo: NEW TRANSLATION
+ usa_economic_events.350.a: "Soutěžit na trhu mobilních procesorů" # todo: NEW TRANSLATION
+ usa_economic_events.350.b: "Investovat peníze do analogových součástek" # todo: NEW TRANSLATION
+ usa_economic_events.351.t: "Kilbyho laboratoře" # todo: NEW TRANSLATION
+ usa_economic_events.351.d: "Texas Instruments může pojmenovat laboratoř po Jacku Kilbym a neposkytnout jí žádný plán produktů ani čtvrtletní závazky, takže inženýři mohou pracovat na problémech, které se možná vyplatí za deset let, nebo vůbec. Každý dolar v ní je dolarem, který nebyl vynaložen na součástky, jež si zákazníci již objednali." # todo: NEW TRANSLATION
+ usa_economic_events.351.a: "Financovat výzkumnou laboratoř" # todo: NEW TRANSLATION
+ usa_economic_events.351.b: "Nechat inženýry pracovat na dodávaných produktech" # todo: NEW TRANSLATION
+ usa_economic_events.352.t: "Portfolio National Semiconductor" # todo: NEW TRANSLATION
+ usa_economic_events.352.d: "National Semiconductor lze koupit celý, čímž se zhruba zdvojnásobí analogový katalog Texas Instruments i prodejní síť, která jej zajišťuje. Jde o největší šek, jaký kdy společnost vystavila za podnik, jehož jednotlivé součástky se prodávají za méně než dolar." # todo: NEW TRANSLATION
+ usa_economic_events.352.a: "Koupit analogový katalog" # todo: NEW TRANSLATION
+ usa_economic_events.352.b: "Rozšířit katalog vlastními silami" # todo: NEW TRANSLATION
+ usa_economic_events.353.t: "OMAP opouští válku o mobilní telefony" # todo: NEW TRANSLATION
+ usa_economic_events.353.d: "OMAP lze vyhrát pouze utrácením více než společnosti, které navrhují vlastní čipy pro vlastní telefony, a Texas Instruments se o to nehodlá pokoušet. Odchod uvolní inženýry a továrny pro vestavěné systémy a automobilový průmysl. Setrvání znamená další kolo soutěže o zakázky, které získá ten, kdo nabídne největší slevu." # todo: NEW TRANSLATION
+ usa_economic_events.353.a: "Opustit trh mobilních telefonů" # todo: NEW TRANSLATION
+ usa_economic_events.353.b: "Bojovat o další produktový cyklus" # todo: NEW TRANSLATION
+ usa_economic_events.354.t: "Přestavba závodu v Lehi" # todo: NEW TRANSLATION
+ usa_economic_events.354.d_available: "Závod Micronu v Lehi v Utahu je na prodej a jeho vlastník pro něj nemá využití. Přestavba na analogovou výrobu Texas Instruments by přidala kapacitu o několik let dříve než nová výstavba, v závodě, který je již vybavený a obsazený. Přestavba není jednoduchá, ale je mnohem levnější než alternativa." # todo: NEW TRANSLATION
+ usa_economic_events.354.d_greenfield: "Žádný existující závod není k dispozici za podmínek, které by stály za přijetí, takže nová analogová kapacita Texas Instruments bude vyžadovat zahájení výstavby. Stavba od nuly stojí roky a obrovské množství peněz, ale výsledný závod bude přesně tím, čím měl být." # todo: NEW TRANSLATION
+ usa_economic_events.354.a: "Koupit závod v Utahu a přestavět jej" # todo: NEW TRANSLATION
+ usa_economic_events.354.b: "Vybudovat novou kapacitu od základů" # todo: NEW TRANSLATION
+ usa_economic_events.355.t: "Vše propojeno, tiše" # todo: NEW TRANSLATION
+ usa_economic_events.355.d: "Čtvrt století volby neokázalého podnikání ustálilo, čím Texas Instruments je a čím je spolu s ním americká analogová výroba. Tyto součástky jsou ve všem a téměř nikdo mimo obor nedokáže pojmenovat společnost, která je vyrábí." # todo: NEW TRANSLATION
+ usa_economic_events.355.a: "Analogová hegemonie" # todo: NEW TRANSLATION
+ usa_economic_events.355.b: "Křemíkový arzenál" # todo: NEW TRANSLATION
+ usa_economic_events.355.c: "Základní slévárna" # todo: NEW TRANSLATION
+ usa_economic_events.355.e: "Vše propojeno, tiše" # todo: NEW TRANSLATION
+ USA_ti_analog_hegemony: "Analogová hegemonie" # todo: NEW TRANSLATION
+ USA_ti_analog_hegemony_desc: "Největší analogový katalog na světě, vybudovaný opuštěním podniků, o které bojovali všichni ostatní. Součástky zůstávají ve výrobě po desetiletí a zákazníci, kteří je zabudovali do svých návrhů, je nemohou snadno nahradit." # todo: NEW TRANSLATION
+ USA_ti_silicon_arsenal: "Křemíkový arzenál" # todo: NEW TRANSLATION
+ USA_ti_silicon_arsenal_desc: "Americké továrny vyrábějící neokázalé součástky, které potřebuje všechno ostatní, vlastněné přímo namísto zadávání výroby do zahraničí. Wafery nejsou pokročilé a není jich nedostatek." # todo: NEW TRANSLATION
+ USA_ti_foundational_foundry: "Základní slévárna" # todo: NEW TRANSLATION
+ USA_ti_foundational_foundry_desc: "Kapacita byla zakoupena a přestavěna namísto vybudování, což uvedlo závody do výroby o několik let dříve, než by to umožnil nový program. Výstupem je křemík na vyzrálých procesech a svět na něm funguje." # todo: NEW TRANSLATION
+ USA_ti_everything_connected: "Vše propojeno" # todo: NEW TRANSLATION
+ USA_ti_everything_connected_desc: "Senzory, převodníky a řídicí jednotky v každém stroji, který cokoli měří, prodávané desetitisícům zákazníků, z nichž žádný jednotlivě nehraje významnou roli. Neexistuje jediná smlouva, jejíž ztráta by byla citelná." # todo: NEW TRANSLATION
+ usa_economic_events.360.t: "Konzultační akvizice" # todo: NEW TRANSLATION
+ usa_economic_events.360.d: "Velká účetní firma prodává svou poradenskou divizi a její koupě by přes noc dostala do IBM třicet tisíc konzultantů. Společnost by vydělávala více na radách zákazníkům, co mají vybudovat, než na samotné výstavbě. Odmítnutí udrží IBM výrobcem, který také prodává služby." # todo: NEW TRANSLATION
+ usa_economic_events.360.a: "Koupit poradenskou firmu a vést pomocí služeb" # todo: NEW TRANSLATION
+ usa_economic_events.360.b: "Zůstat výrobcem, který prodává služby" # todo: NEW TRANSLATION
+ usa_economic_events.361.t: "Majetek klientů" # todo: NEW TRANSLATION
+ usa_economic_events.361.d: "Podnikání s osobními počítači, které IBM vynalezla, nyní téměř nic nevydělává a soutěží cenou se společnostmi, jež nemají žádný výzkum, který by musely financovat. Kupující je ochoten převzít jej spolu se značkou a továrnami. Ponechání znamená bránit komoditu proti firmám vybudovaným pro komodity." # todo: NEW TRANSLATION
+ usa_economic_events.361.a: "Prodat podnikání s osobními počítači" # todo: NEW TRANSLATION
+ usa_economic_events.361.b: "Pokračovat ve výrobě osobních počítačů" # todo: NEW TRANSLATION
+ usa_economic_events.362.t: "Watson vstupuje na scénu" # todo: NEW TRANSLATION
+ usa_economic_events.362.d: "Watson od IBM porazil nejlepší lidské hráče v soutěži Jeopardy v celostátní televizi a IBM Research ho chce proměnit v podnikání. Nikdo neví, co by si zákazníci koupili ani kolik by stálo jeho vybudování. Alternativou je začlenit tuto práci do analytických produktů, které se již prodávají." # todo: NEW TRANSLATION
+ usa_economic_events.362.a: "Vybudovat kolem systému nové podnikání" # todo: NEW TRANSLATION
+ usa_economic_events.362.b: "Začlenit práci do stávající analytiky" # todo: NEW TRANSLATION
+ usa_economic_events.363.t: "Otevřený hybridní cloud" # todo: NEW TRANSLATION
+ usa_economic_events.363.d: "IBM nemůže vybudovat více než hyperscale poskytovatelé, ale může vlastnit vrstvu, která funguje napříč všemi z nich. Koupě největšího dodavatele open-source podnikového softwaru by stála více než jakákoli akvizice v historii společnosti. Vybudování stejné pozice interně je levnější a pomalejší a zákazníci mohou být do té doby pryč." # todo: NEW TRANSLATION
+ usa_economic_events.363.a: "Koupit dodavatele open-source softwaru" # todo: NEW TRANSLATION
+ usa_economic_events.363.b: "Vybudovat cloudovou platformu vlastními silami" # todo: NEW TRANSLATION
+ usa_economic_events.364.t: "Říše služeb se rozděluje" # todo: NEW TRANSLATION
+ usa_economic_events.364.d: "Podnikání IBM v oblasti spravované infrastruktury představuje většinu zaměstnanců a žádný růst a soutěží o kapitál se vším, co by společnost raději financovala. Vyčlenění umožní oběma částem, aby byly posuzovány podle vlastních měřítek. Ponechání zachová příjmy i vztahy se zákazníky, které s nimi přicházejí." # todo: NEW TRANSLATION
+ usa_economic_events.364.a: "Vyčlenit podnikání spravovaných služeb" # todo: NEW TRANSLATION
+ usa_economic_events.364.b: "Ponechat společnost pohromadě" # todo: NEW TRANSLATION
+ usa_economic_events.365.t: "Kvantová sázka" # todo: NEW TRANSLATION
+ usa_economic_events.365.d: "Čtvrt století prodeje některých podniků, nákupu jiných a sázek na stroje, které si nikdo nevyžádal, ustálilo, čím IBM je a na čem stojí americké podnikové počítačové systémy." # todo: NEW TRANSLATION
+ usa_economic_events.365.a: "Otevřený hybridní setrvačník" # todo: NEW TRANSLATION
+ usa_economic_events.365.b: "Americké ministerstvo systémů" # todo: NEW TRANSLATION
+ usa_economic_events.365.c: "Pevnostní sálový počítač" # todo: NEW TRANSLATION
+ usa_economic_events.365.e: "Velká modrá, neporušená" # todo: NEW TRANSLATION
+ USA_ibm_open_hybrid_flywheel: "Otevřený hybridní setrvačník" # todo: NEW TRANSLATION
+ USA_ibm_open_hybrid_flywheel_desc: "IBM se přestala snažit být cloudem a stala se vrstvou, která funguje napříč všemi cloudy. Software je otevřený, poradenství jej prodává a zákazníci, kteří na něm standardizují, se obtížně přesouvají jinam." # todo: NEW TRANSLATION
+ USA_ibm_american_systems_ministry: "Americké ministerstvo systémů" # todo: NEW TRANSLATION
+ USA_ibm_american_systems_ministry_desc: "Banky, pojišťovny a federální úřady fungují na strojích a smlouvách, které IBM drží po desetiletí, a společnost si ponechala servisní divizi, která je udržuje. Růst je pomalý a nic jiného nesmí selhat." # todo: NEW TRANSLATION
+ USA_ibm_fortress_z: "Pevnostní sálový počítač" # todo: NEW TRANSLATION
+ USA_ibm_fortress_z_desc: "Komoditní podniky odešly a sálový počítač zůstal, aby nesl úlohy, jejichž migraci nikdo neriskuje. Každá transakce, která nesmí být ztracena, prochází strojem, který stále vyrábí jediná společnost." # todo: NEW TRANSLATION
+ USA_ibm_big_blue_intact: "Velká modrá, neporušená" # todo: NEW TRANSLATION
+ USA_ibm_big_blue_intact_desc: "Společnost nic neprodala ani nerozdělila a stále vyrábí hardware, software i lidi, kteří je instalují. Je pomalejší než kterýkoli z jejích úzce zaměřených soupeřů a nikdy na žádném z nich nebyla závislá." # todo: NEW TRANSLATION
+ usa_economic_events.370.t: "Setrvačník" # todo: NEW TRANSLATION
+ usa_economic_events.370.d: "Apple v roce 1985 donutila svého zakladatele odejít a v roce 1997 ho přivedla zpět, několik měsíců před insolvencí. Od té doby zúžil produktovou řadu na hrstku počítačů, které drží přibližně čtyři body trhu a téměř výhradně se prodávají přes regály jiných společností. Jeho další krok je maloobchod: otevřeny jsou dvě prodejny a podepsány nájemní smlouvy na desítky dalších. Odborný tisk téměř jednomyslně očekává neúspěch, protože Gateway letos na jaře zavírá vlastní prodejny a běžnou radou pro specializovaného výrobce je snížit maloobchodní náklady, nikoli podepisovat nájemní smlouvy v nákupních centrech na vrcholu nájemního cyklu. Spor uvnitř společnosti se netýká prodeje většího počtu Macintoshů; jde o to, že vlastnictví prodejny rozhoduje o tom, co lze později umístit na regál." # todo: NEW TRANSLATION
+ usa_economic_events.370.a: "Vybudovat setrvačník prodejen a zařízení" # todo: NEW TRANSLATION
+ usa_economic_events.370.b: "Ponechat Macintosh na prvním místě" # todo: NEW TRANSLATION
+ usa_economic_events.371.t: "Přichází iPhone" # todo: NEW TRANSLATION
+ usa_economic_events.371.d: "Apple vytvořila telefon, který je ve skutečnosti počítačem, a žádný operátor dosud nedovolil výrobci kontrolovat, co na něm běží. Jeden výhradní partner tyto podmínky přijme výměnou za exkluzivitu. Odmítnutí znamená spustit telefon současně ve všech sítích a nechat operátory ponechat si software." # todo: NEW TRANSLATION
+ usa_economic_events.371.a: "Uvést jej prostřednictvím jediného operátora za našich podmínek" # todo: NEW TRANSLATION
+ usa_economic_events.371.b: "Vybudovat otevřenou mobilní platformu" # todo: NEW TRANSLATION
+ usa_economic_events.372.t: "App Store se otevírá" # todo: NEW TRANSLATION
+ usa_economic_events.372.d: "Software třetích stran se do telefonu tak jako tak dostane. Apple může být jedinou bránou, prověřovat každou aplikaci a získávat podíl z každého prodeje, nebo může vývojářům umožnit přímý přístup k uživatelům a ponechat pověst platformy mimo vlastní kontrolu." # todo: NEW TRANSLATION
+ usa_economic_events.372.a: "Být jedinou bránou" # todo: NEW TRANSLATION
+ usa_economic_events.372.b: "Založit společný prostor pro vývojáře" # todo: NEW TRANSLATION
+ usa_economic_events.373.t: "Služby se stávají strategií" # todo: NEW TRANSLATION
+ usa_economic_events.373.d: "Prodejna, hudba, cloud a platby nyní dohromady vydělávají více než většina společností vůbec a nic z toho nevyžaduje dodání nového zařízení. Důraz na ně znamená, že Apple začne být oceňována jako předplatitelská společnost. Odmítnutí zachová disciplínu, podle níž je produktem hardware." # todo: NEW TRANSLATION
+ usa_economic_events.373.a: "Vybudovat setrvačník služeb" # todo: NEW TRANSLATION
+ usa_economic_events.373.b: "Obnovit hardwarovou disciplínu" # todo: NEW TRANSLATION
+ usa_economic_events.374.t: "Křemík společnosti Apple" # todo: NEW TRANSLATION
+ usa_economic_events.374.d: "Apple již navrhuje procesory ve svých telefonech, ale počítače stále běží na procesorech někoho jiného. Přechod znamená další desetiletí změn pro vývojáře a konec jakékoli závislosti na plánu dodavatele. Setrvání zachová kompatibilitu a ponechá základní technologii v cizích rukou." # todo: NEW TRANSLATION
+ usa_economic_events.374.a: "Převést Mac na náš vlastní křemík" # todo: NEW TRANSLATION
+ usa_economic_events.374.b: "Upřednostnit kompatibilitu před kontrolou" # todo: NEW TRANSLATION
+ usa_economic_events.375.t: "Co rozhodlo v Cupertinu" # todo: NEW TRANSLATION
+ usa_economic_events.375.d: "Čtvrt století rozhodování společnosti Apple o tom, kolik částí technologického zásobníku vlastnit, ustálilo podobu americké spotřební výpočetní techniky, kdo na ní smí stavět a čí čipy používá." # todo: NEW TRANSLATION
+ usa_economic_events.375.a: "Soukromý výpočetní stát" # todo: NEW TRANSLATION
+ usa_economic_events.375.b: "Integrovaná republika zařízení" # todo: NEW TRANSLATION
+ usa_economic_events.375.c: "Odolná křemíková síť" # todo: NEW TRANSLATION
+ usa_economic_events.375.e: "Platforma mezi platformami" # todo: NEW TRANSLATION
+ USA_apple_private_computing_state: "Soukromý výpočetní stát" # todo: NEW TRANSLATION
+ USA_apple_private_computing_state_desc: "Čipy, operační systém, prodejna i servery, které za ně odpovídají, patří jediné společnosti. Nic nevstoupí bez povolení a nic neodejde bez povšimnutí. Jde o nejsoukromější spotřebitelskou platformu na světě a zároveň o tu nejméně odpovědnou." # todo: NEW TRANSLATION
+ USA_apple_integrated_device_republic: "Integrovaná republika zařízení" # todo: NEW TRANSLATION
+ USA_apple_integrated_device_republic_desc: "Apple rozhoduje, jaký má být uživatelský zážitek, a nakupuje křemík, který jej zajišťuje. Integrace je skutečná všude kromě základní vrstvy, kde plán určuje někdo jiný." # todo: NEW TRANSLATION
+ USA_apple_resilient_silicon_network: "Odolná křemíková síť" # todo: NEW TRANSLATION
+ USA_apple_resilient_silicon_network_desc: "Procesory jsou navrhovány v Kalifornii a platforma nad nimi byla otevřena každému, kdo na ní chtěl stavět. Apple se vzdala výběrčí budky a ponechala si základy." # todo: NEW TRANSLATION
+ USA_apple_platform_among_platforms: "Platforma mezi platformami" # todo: NEW TRANSLATION
+ USA_apple_platform_among_platforms_desc: "Software je otevřený, čipy se nakupují a Apple soutěží v tom, zda je produkt lepší, nikoli v tom, zda existuje alternativa. Obvykle existuje." # todo: NEW TRANSLATION
+ usa_economic_events.380.t: "Kapitál bez kontroly" # todo: NEW TRANSLATION
+ usa_economic_events.380.d: "Google vstupuje na burzu a Larry Page se Sergeyem Brinem chtějí dvě třídy akcií, z nichž jedna nese deset hlasů oproti jednomu hlasu druhé, aby vlastnictví menšiny společnosti stále znamenalo rozhodovat o jejím směřování. Poradci pro správu společností se jednomyslně shodují, že právě takto přestávají být správní rady odpovědné, a dopis zakladatelů akcionářům jim odpovídá připomenutím novinářských rodin, které stejnou strukturu používaly k financování práce, již by nikdo neschválil na čtvrtletní bázi. Prodej prostřednictvím nizozemské aukce namísto bank tento prohřešek ještě zhoršuje. Cena za to bude nižší a desetiletí po něm budou jejich, aby je utratili." # todo: NEW TRANSLATION
+ usa_economic_events.380.a: "Vzít peníze a ponechat si kontrolu" # todo: NEW TRANSLATION
+ usa_economic_events.380.b: "Přijmout konvenční správu společnosti" # todo: NEW TRANSLATION
+ usa_economic_events.381.t: "Koupit požární hadici" # todo: NEW TRANSLATION
+ usa_economic_events.381.d: "YouTube není starý ani dva roky, poskytuje více videí než kdokoli kdy hostoval, nemá žádné příjmy a je žalován ze všech stran. Požadovaná cena činí 1,65 miliardy dolarů v akciích Googlu, což analytici sledující tento sektor označují za bublinovou částku za publikum, u něhož nikdo neprokázal ochotu za cokoli platit. Upozorňují také, že samotná expozice vůči autorským právům by mohla převýšit kupní cenu. Google Video již existuje a prohrává. Vybudování náhrady vlastními silami je levnější a pomalejší a po celou dobu by přenechalo publikum konkurenci." # todo: NEW TRANSLATION
+ usa_economic_events.381.a: "Koupit požární hadici" # todo: NEW TRANSLATION
+ usa_economic_events.381.b: "Vybudovat to vlastními silami a dát tomu čas" # todo: NEW TRANSLATION
+ usa_economic_events.382.t: "DeepMind a hranice" # todo: NEW TRANSLATION
+ usa_economic_events.382.d: "DeepMind, londýnská výzkumná společnost vedená Demisem Hassabisem, naučila stroje hrát hry, kterým je nikdo nenaprogramoval rozumět. Nemá žádný produkt ani příjmy, cena, o níž Google jedná, vychází na několik milionů dolarů za výzkumníka a střízlivý pohled říká, že jde o náborovou akci vydávanou za akvizici. Prodávající si kladou podmínky: etickou radu a žádnou vojenskou ani sledovací práci. Závod o hranici znamená zaplatit tuto cenu a strávit další roky budováním schopností, které nelze prodávat. Odložení nasazení za správu, o niž DeepMind žádá, je levnější a přenechává vedení tomu, kdo ji nepřijme." # todo: NEW TRANSLATION
+ usa_economic_events.382.a: "Závodit o hranici" # todo: NEW TRANSLATION
+ usa_economic_events.382.b: "Odložit nasazení za správu" # todo: NEW TRANSLATION
+ usa_economic_events.383.t: "Obranná smlouva" # todo: NEW TRANSLATION
+ usa_economic_events.383.d: "Pentagon chce v rámci projektu Maven strojové vidění pro záběry z dronů a tisíce inženýrů Googlu podepsaly dopis, v němž odmítají jej vytvořit. Připravují se zásady umělé inteligence, které mají z tohoto odmítnutí učinit trvalou politiku namísto jednorázového ústupku. Samotná smlouva Maven je malá. Za ní stojí JEDI, cloudová zakázka ministerstva v hodnotě deseti miliard dolarů, a každý analytik obrany sledující tuto nabídku říká, že firmě, která nebude dělat práci s viděním, nebude svěřena ani utajovaná infrastruktura. Odmítnutí přenechá obojí konkurentům, kteří stále soutěží." # todo: NEW TRANSLATION
+ usa_economic_events.383.a: "Přijmout smlouvu" # todo: NEW TRANSLATION
+ usa_economic_events.383.b: "Držet se linie, kterou vytyčili zaměstnanci" # todo: NEW TRANSLATION
+ usa_economic_events.384.t: "Suverénní výpočetní zásobník" # todo: NEW TRANSLATION
+ usa_economic_events.384.d: "Akcelerátory Nvidie jsou omezením každého trénovacího běhu v celém odvětví, jejich přidělování je řízeno vztahy a hodnota společnosti v květnu překročila bilion dolarů právě díky tomu. Běžnou radou je, aby Google přesto nakupoval: CUDA, software, proti němuž je napsán celý obor, patří Nvidii, a vlastní křemík znamená portování celého zásobníku a trvalou údržbu překladače. Navrhnout vlastní akcelerátory v měřítku, které nyní hranice potřebuje, stojí roky a miliardy ještě před vznikem použitelného produktu. Nákup zachovává peníze i závislost." # todo: NEW TRANSLATION
+ usa_economic_events.384.a: "Navrhnout vlastní akcelerátory" # todo: NEW TRANSLATION
+ usa_economic_events.384.b: "Nakupovat od externích dodavatelů" # todo: NEW TRANSLATION
+ usa_economic_events.385.t: "Kdo vlastní hranici" # todo: NEW TRANSLATION
+ usa_economic_events.385.d: "Čtvrt století rozhodování Googlu o tom, za čím se hnát a co vlastnit, ustálilo tuto otázku. Zda byl hraniční výzkum proveden interně, nebo zakoupen, a zda stroje, na nichž běží, používají vlastní křemík Googlu, nebo křemík pronajatý od Nvidie, je nyní celou odpovědí na to, kde se buduje americká umělá inteligence a kdo smí říci ne." # todo: NEW TRANSLATION
+ usa_economic_events.385.a: "Výpočetní moc na hranici" # todo: NEW TRANSLATION
+ usa_economic_events.385.b: "Nájemník na hranici" # todo: NEW TRANSLATION
+ usa_economic_events.385.c: "Spravovaný zásobník" # todo: NEW TRANSLATION
+ usa_economic_events.385.e: "Obezřetná platforma" # todo: NEW TRANSLATION
+ USA_google_frontier_compute_power: "Výpočetní moc na hranici" # todo: NEW TRANSLATION
+ USA_google_frontier_compute_power_desc: "Modely se trénují na hranici toho, co kdokoli dokáže, na akcelerátorech navržených ve stejných budovách. Nikdo jiný neurčuje cenu výpočtů ani nerozhoduje, kdy jsou k dispozici." # todo: NEW TRANSLATION
+ USA_google_frontier_tenant: "Nájemník na hranici" # todo: NEW TRANSLATION
+ USA_google_frontier_tenant_desc: "Výzkum je světové úrovně, ale stroje, na nichž běží, patří někomu jinému. Každý nárůst schopností je skutečný a každý z nich je pronajatý." # todo: NEW TRANSLATION
+ USA_google_governed_stack: "Spravovaný zásobník" # todo: NEW TRANSLATION
+ USA_google_governed_stack_desc: "Křemík je vlastněn a nasazení jsou pomalá, prověřená a obhajitelná. Nikdy nebude první v nové schopnosti, ale nikdy nemusel žádnou stáhnout." # todo: NEW TRANSLATION
+ USA_google_cautious_platform: "Obezřetná platforma" # todo: NEW TRANSLATION
+ USA_google_cautious_platform_desc: "Ani hranice, ani slévárna. Produkty jsou opatrné, výpočetní kapacita se nakupuje a společnost soutěží distribucí, nikoli tím, co dokáže vybudovat a ostatní ne." # todo: NEW TRANSLATION
+ usa_economic_events.390.t: "Pro koho je Motorola" # todo: NEW TRANSLATION
+ usa_economic_events.390.d: "Iridium, satelitní telefonní projekt Motoroly, zkrachoval a strhl s sebou značnou část pověsti společnosti. Přežívá podnikání s vysílačkami, které nakupují policejní sbory, hasičské služby a armády a nikdy nepřestávají nakupovat, a podnikání se spotřebitelskými telefony, které musí každý rok znovu získávat každého zákazníka. Prioritou Motoroly může být pouze jedno z nich." # todo: NEW TRANSLATION
+ usa_economic_events.390.a: "Vybudovat společnost kolem vysílaček pro veřejnou bezpečnost" # todo: NEW TRANSLATION
+ usa_economic_events.390.b: "Usilovat o spotřebitelský trh" # todo: NEW TRANSLATION
+ usa_economic_events.391.t: "Vyčlenit křemík" # todo: NEW TRANSLATION
+ usa_economic_events.391.d: "Motorola vyrábí vlastní čipy již od doby, kdy většina jejích konkurentů ještě neexistovala, a výrobní podnik nyní spotřebovává kapitál, který potřebuje telefonní divize. Vyčlenění přinese peníze a uvolní obě části. Ponechání znamená platit za továrny z peněz spotřebitelského podnikání, které si je možná nebude moci dovolit." # todo: NEW TRANSLATION
+ usa_economic_events.391.a: "Vyčlenit polovodičovou skupinu" # todo: NEW TRANSLATION
+ usa_economic_events.391.b: "Ponechat továrny v rodině" # todo: NEW TRANSLATION
+ usa_economic_events.392.t: "Skleněná obrazovka" # todo: NEW TRANSLATION
+ usa_economic_events.392.d: "Počítačová společnost uvedla telefon bez klávesnice a trh rozhodl, že mu dává přednost. Motorola může přijmout operační systém, který rozdává vyhledávací společnost, jenž je rychlý, bezplatný a patří někomu jinému, nebo strávit roky a jmění budováním platformy, kterou bude ovládat." # todo: NEW TRANSLATION
+ usa_economic_events.392.a: "Přijmout bezplatnou platformu" # todo: NEW TRANSLATION
+ usa_economic_events.392.b: "Financovat platformu pod naší kontrolou" # todo: NEW TRANSLATION
+ usa_economic_events.393.t: "Rozdělit jméno" # todo: NEW TRANSLATION
+ usa_economic_events.393.d: "Rádiová a telefonní podnikání Motoroly sdílejí značku, rozvahu a téměř nic dalšího. Rozdělení na Motorola Solutions a Motorola Mobility umožní, aby každá část byla posuzována podle vlastních měřítek, a slabší z nich může selhat, aniž by stáhla druhou. Ponechání pohromadě zachová rozsah a jméno, na kterých obě části stále stavějí." # todo: NEW TRANSLATION
+ usa_economic_events.393.a: "Oddělit Solutions od Mobility" # todo: NEW TRANSLATION
+ usa_economic_events.393.b: "Ponechat Motorolu neporušenou" # todo: NEW TRANSLATION
+ usa_economic_events.394.t: "Patentová společnost" # todo: NEW TRANSLATION
+ usa_economic_events.394.d: "Google chce Motorola Mobility a ve skutečnosti kupuje kartotéku: přibližně sedmnáct tisíc patentů, které by mu umožnily bránit Android proti všem, kdo jej nyní žalují. Dvanáct a půl miliardy dolarů je velkorysá cena za výrobce telefonů, který roky nevyhrál. Odmítnutí znamená najít peníze na zachování tohoto podnikání vlastními silami." # todo: NEW TRANSLATION
+ usa_economic_events.394.a: "Povolit prodej" # todo: NEW TRANSLATION
+ usa_economic_events.394.b: "Ponechat Mobility v americkém vlastnictví" # todo: NEW TRANSLATION
+ usa_economic_events.395.t: "Co zůstalo v Schaumburgu" # todo: NEW TRANSLATION
+ usa_economic_events.395.d: "Čtvrt století rozhodování o tom, na které polovině Motoroly záleží, ustálilo, co Amerika stále vyrábí v oblasti komunikací a kdo odpovídá, když musí vysílačky fungovat." # todo: NEW TRANSLATION
+ usa_economic_events.395.a: "Integrovaný komunikační gigant" # todo: NEW TRANSLATION
+ usa_economic_events.395.b: "Křemík a bezpečí" # todo: NEW TRANSLATION
+ usa_economic_events.395.c: "Opuštěná značka telefonů" # todo: NEW TRANSLATION
+ usa_economic_events.395.e: "Nástroj veřejné bezpečnosti" # todo: NEW TRANSLATION
+ USA_motorola_integrated_communications_giant: "Integrovaný komunikační gigant" # todo: NEW TRANSLATION
+ USA_motorola_integrated_communications_giant_desc: "Továrny, vysílačky i telefony zůstaly pod jednou střechou, což žádná americká komunikační společnost ve skutečnosti nedokázala. Je pomalejší než kterýkoli z úzce zaměřených konkurentů a není závislá na jediném z nich." # todo: NEW TRANSLATION
+ USA_motorola_silicon_and_safety: "Křemík a bezpečí" # todo: NEW TRANSLATION
+ USA_motorola_silicon_and_safety_desc: "Spotřebitelské podnikání odešlo a obtížné části zůstaly: čipy vyráběné doma a šifrované sítě, bez nichž se záchranné služby neobejdou. Nikdo nekupuje ani jedno z nich z vlastní volby a kupují je všichni." # todo: NEW TRANSLATION
+ USA_motorola_orphaned_handset_brand: "Opuštěná značka telefonů" # todo: NEW TRANSLATION
+ USA_motorola_orphaned_handset_brand_desc: "Továrny byly prodány a telefony ponechány, takže návrhář spotřebního hardwaru nakupuje křemík od stejných dodavatelů jako všichni ostatní. Jméno stále něco znamená pro lidi, kteří si jej pamatují." # todo: NEW TRANSLATION
+ USA_motorola_public_safety_utility: "Nástroj veřejné bezpečnosti" # todo: NEW TRANSLATION
+ USA_motorola_public_safety_utility_desc: "Všechno, co soutěžilo cenou, je pryč a zůstává vysílačka na rameni hasiče a síť za ní. Roste pomalu, téměř se o něm nemluví a žádný americký úřad bez něj nemůže fungovat." # todo: NEW TRANSLATION
+ usa_economic_events.400.t: "Fáze nápravy" # todo: NEW TRANSLATION
+ usa_economic_events.400.d: "Federální soud shledal Microsoft vinným z porušení antimonopolního zákona a nařídil oddělení podnikání s operačními systémy a aplikacemi. Washington může strukturální nápravu prosadit odvoláním, nebo se spokojit s pravidly chování a ponechat společnost vcelku. Jeden výsledek věc ukončí, druhý přetvoří americký software." # todo: NEW TRANSLATION
+ usa_economic_events.400.a: "Přijmout pravidla chování" # todo: NEW TRANSLATION
+ usa_economic_events.400.b: "Prosadit rozdělení odvoláním" # todo: NEW TRANSLATION
+ usa_economic_events.401.t: "Čtyřicet čtyři miliard za vyhledávání" # todo: NEW TRANSLATION
+ usa_economic_events.401.d: "Microsoft nabídl čtyřicet čtyři miliard dolarů za vyhledávací společnost, protože peníze z reklamy směřovaly do vyhledávání a Microsoft z nich nemá nic. Cena je za upadající podnik mimořádná. Nechat nabídku padnout znamená přenechat trh konkurenci a hledat další příležitost někde jinde." # todo: NEW TRANSLATION
+ usa_economic_events.401.a: "Nechat nabídku padnout" # todo: NEW TRANSLATION
+ usa_economic_events.401.b: "Koupit vyzyvatele" # todo: NEW TRANSLATION
+ usa_economic_events.402.t: "Azure je obecně dostupný" # todo: NEW TRANSLATION
+ usa_economic_events.402.d: "Azure je nyní skutečným produktem a každý dolar, který Microsoft vynaloží na jeho úspěch, je dolarem podporujícím názor, že zákazníci by měli přestat kupovat licence Windows a Office, které společnost vybudovaly. Závazek znamená záměrně kanibalizovat vlastní franšízu. Obrana desktopu zachová marže a umožní někomu jinému ovládnout další desetiletí." # todo: NEW TRANSLATION
+ usa_economic_events.402.a: "Vsadit na cloud" # todo: NEW TRANSLATION
+ usa_economic_events.402.b: "Bránit desktopovou franšízu" # todo: NEW TRANSLATION
+ usa_economic_events.403.t: "Otevření zásobníku" # todo: NEW TRANSLATION
+ usa_economic_events.403.d: "Nový generální ředitel chce, aby Microsoft dodával software pro operační systémy, které se dvacet let snažil zničit, a koupil místo, kde jeho kritici uchovávají svůj kód. Společnost by tím přišla o argument, který prosazuje od svého vzniku. Odmítnutí zachová doktrínu i zákazníky, kteří již odešli." # todo: NEW TRANSLATION
+ usa_economic_events.403.a: "Otevřít zásobník" # todo: NEW TRANSLATION
+ usa_economic_events.403.b: "Trvat na proprietární linii" # todo: NEW TRANSLATION
+ usa_economic_events.404.t: "Sázka na OpenAI" # todo: NEW TRANSLATION
+ usa_economic_events.404.d: "Výzkumná laboratoř bez příjmů chce miliardy a výhradní využití datacenter Microsoftu; výměnou Microsoft získá první přístup ke všemu, co laboratoř vybuduje. Jde o největší sázku na cizí zaměstnance, jakou kdy společnost učinila. Vybudování stejné schopnosti interně je pomalejší, levnější a zcela naše." # todo: NEW TRANSLATION
+ usa_economic_events.404.a: "Vsadit na laboratoř" # todo: NEW TRANSLATION
+ usa_economic_events.404.b: "Vybudovat modely interně" # todo: NEW TRANSLATION
+ usa_economic_events.406.t: "Čtyři listopadové dny" # todo: NEW TRANSLATION
+ usa_economic_events.406.d: "Správní rada OpenAI odvolala Sama Altmana v pátek a informovala Microsoft několik minut před zveřejněním zprávy; na druhé straně stolu přitom leželo třináct miliard dolarů a celý plán vývoje modelů. Do pondělí téměř každý zaměstnanec OpenAI podepsal dopis hrozící odchodem s ním a ředitelé, kteří ho odvolali, vyjednávali podmínky vlastního nahrazení. Obchodní pohled z Redmondu zní, že partner, jehož řízení může něco takového provést bez varování, není vůbec partnerem; opačný pohled říká, že dopis dokázal, že aktivem jsou lidé, nikoli zakládací listina, a lidi lze najmout." # todo: NEW TRANSLATION
+ usa_economic_events.406.a: "Podpořit jeho návrat a získat místo ve správní radě" # todo: NEW TRANSLATION
+ usa_economic_events.406.b: "Najmout jeho i signatáře do Redmondu" # todo: NEW TRANSLATION
+ usa_economic_events.405.t: "Na čem se Redmond dohodl" # todo: NEW TRANSLATION
+ usa_economic_events.405.d: "Čtvrtstoletí rozhodování Microsoftu o tom, co vlastnit a co si pronajímat, určilo, kde probíhá americké podnikové výpočetní zpracování, kdo na něm trénoval modely a z čích datacenter odpovídají." # todo: NEW TRANSLATION
+ usa_economic_events.405.a: "Partnerský hyperscaler" # todo: NEW TRANSLATION
+ usa_economic_events.405.b: "Integrovaný zásobník modelů" # todo: NEW TRANSLATION
+ usa_economic_events.405.c: "Licencovaná inteligence" # todo: NEW TRANSLATION
+ usa_economic_events.405.e: "Suverénní desktop" # todo: NEW TRANSLATION
+ USA_microsoft_partnered_hyperscaler: "Partnerský hyperscaler" # todo: NEW TRANSLATION
+ USA_microsoft_partnered_hyperscaler_desc: "Datacentra patří Microsoftu, laboratoř, která je naplňuje, nikoli. Má první přístup k nejpokročilejší technologii, ale žádné poslední slovo nad ní, což je obrovská výhoda i závislost, kterou nikdo nezohlednil v ceně." # todo: NEW TRANSLATION
+ USA_microsoft_integrated_model_stack: "Integrovaný zásobník modelů" # todo: NEW TRANSLATION
+ USA_microsoft_integrated_model_stack_desc: "Výpočetní kapacita i modely byly vybudovány interně, což trvalo déle a nikomu se nezodpovídá. Každá vrstva od pronájmu křemíku výše je pod jednou střechou a jednou správní radou." # todo: NEW TRANSLATION
+ USA_microsoft_licensed_intelligence: "Licencovaná inteligence" # todo: NEW TRANSLATION
+ USA_microsoft_licensed_intelligence_desc: "Modely pocházejí od partnera a stroje, na nichž běží, od konkurenta. Microsoft prodává inteligenci, aniž by vlastnil kteroukoli polovinu toho, co ji vytváří, což funguje přesně tak dlouho, dokud platí dohodnuté podmínky." # todo: NEW TRANSLATION
+ USA_microsoft_sovereign_desktop: "Suverénní desktop" # todo: NEW TRANSLATION
+ USA_microsoft_sovereign_desktop_desc: "Franšíza byla ubráněna a nejpokročilejší technologie ponechána ostatním. To, co běží na stovkách milionů zařízení, stále patří Microsoftu, stále se licencuje a již není místem, kde probíhá zajímavá práce." # todo: NEW TRANSLATION
+ usa_economic_events.410.t: "Argument megahertzů" # todo: NEW TRANSLATION
+ usa_economic_events.410.d: "Pentium 4 od Intelu je navržen tak, aby zvyšoval jediné číslo: pipeline NetBurst získává prostor pro vyšší takt tím, že v každém cyklu vykoná méně práce, takže při stejné frekvenci může prohrát s Pentiem III, které nahradilo, a Athlon od AMD získává benchmarky, které by měl vyhrát Intel. Na pultech však nic z toho nevadí, protože hodnota v megahertzech je celým prodejním argumentem a shoda v odvětví říká, že Intel by měl toto číslo zvyšovat tak dlouho, jak mu to výrobní proces dovolí. Nesouhlas přichází z vlastního konstrukčního týmu Intelu v Haifě, který pracuje na úsporném jádru, jež by otevřeně přenechalo marketingovou válku konkurenci a vyhrálo skutečné stroje, které lidé nosí." # todo: NEW TRANSLATION
+ usa_economic_events.410.a: "Jet na vlně frekvence" # todo: NEW TRANSLATION
+ usa_economic_events.410.b: "Navrhovat pro výkon na watt" # todo: NEW TRANSLATION
+ usa_economic_events.411.t: "Centrino se stává platformou" # todo: NEW TRANSLATION
+ usa_economic_events.411.d: "Mobilní procesor se prodává lépe v kombinaci s vlastním čipsetem a bezdrátovým křemíkem Intelu než samostatně. Prodej balíčku jako jedné platformy připoutá výrobce notebooků a vytlačí konkurenty z oblasti komponent. Samostatný prodej součástí ponechá trh otevřený a marže nižší." # todo: NEW TRANSLATION
+ usa_economic_events.411.a: "Prodávat integrovanou platformu" # todo: NEW TRANSLATION
+ usa_economic_events.411.b: "Ponechat trh komponent otevřený" # todo: NEW TRANSLATION
+ usa_economic_events.412.t: "Podmínky Komise" # todo: NEW TRANSLATION
+ usa_economic_events.412.d: "Federální regulátoři se léta zabývali vztahy Intelu s výrobci, kteří kupují jeho procesory, a s konkurenty soupeřícími o paticové sloty. Dohoda ukončí vyšetřování na základě sjednaných pravidel chování. Zveřejnění technických rozhraní by znamenalo přiznat více, než regulátoři požadovali, a znemožnilo by další stížnost." # todo: NEW TRANSLATION
+ usa_economic_events.412.a: "Dohodnout se na pravidlech chování" # todo: NEW TRANSLATION
+ usa_economic_events.412.b: "Zveřejnit technická rozhraní" # todo: NEW TRANSLATION
+ usa_economic_events.413.t: "Výrobní proces znovu nabírá zpoždění" # todo: NEW TRANSLATION
+ usa_economic_events.413.d: "Další výrobní uzel Intelu má zpoždění v řádu let, nikoli čtvrtletí, a AMD dodává součástky vyrobené společností TSMC na Tchaj-wanu procesem, kterému Intel nedokáže konkurovat. Záchrana procesu interně stojí obrovské částky bez záruky úspěchu. Nákup kapacity u slévárny, která nás předstihla, přiznává ztrátu výrobního náskoku, ale udržuje produkty konkurenceschopné." # todo: NEW TRANSLATION
+ usa_economic_events.413.a: "Financovat záchranu procesu" # todo: NEW TRANSLATION
+ usa_economic_events.413.b: "Nakoupit nejpokročilejší výrobu externě" # todo: NEW TRANSLATION
+ usa_economic_events.414.t: "Výroba pro ostatní" # todo: NEW TRANSLATION
+ usa_economic_events.414.d: "Nový generální ředitel chce, aby Intel vyráběl čipy pro společnosti, kterým konkuruje, což znamená provozovat továrny jako podnik odpovědný externím zákazníkům. Jde o největší kapitálový závazek v historii společnosti a podřizuje produktový plán továrně. Upřednostnění produktů ponechá továrny v zajetí a strategii známou." # todo: NEW TRANSLATION
+ usa_economic_events.414.a: "Otevřít továrny externím zákazníkům" # todo: NEW TRANSLATION
+ usa_economic_events.414.b: "Ponechat továrny podřízené produktům" # todo: NEW TRANSLATION
+ usa_economic_events.415.t: "Veřejný akcionář" # todo: NEW TRANSLATION
+ usa_economic_events.415.d: "Washington je ochoten převést podporu polovodičů na podíl, čímž by se federální vláda stala jedním z největších akcionářů Intelu. Přijetí učiní ze společnosti národní průmyslové aktivum a její správní rada se bude zodpovídat někomu více než trhu. Odmítnutí ponechá vlastnictví soukromé a dotaci podmíněnou." # todo: NEW TRANSLATION
+ usa_economic_events.415.a: "Přijmout federální podíl" # todo: NEW TRANSLATION
+ usa_economic_events.415.b: "Odmítnout veřejné vlastnictví" # todo: NEW TRANSLATION
+ usa_economic_events.416.t: "Čím se Intel stal" # todo: NEW TRANSLATION
+ usa_economic_events.416.d: "Čtvrtstoletí taktovacích frekvencí, platforem, zmeškaných výrobních uzlů a veřejných peněz rozhodlo, zda Intel stále vyrábí pokročilý křemík v Americe a kdo vlastní společnost, která to dělá." # todo: NEW TRANSLATION
+ usa_economic_events.416.a: "Architektonický dům bez továren" # todo: NEW TRANSLATION
+ usa_economic_events.416.b: "Národní arzenál křemíku" # todo: NEW TRANSLATION
+ usa_economic_events.416.c: "Integrovaná výpočetní slévárna" # todo: NEW TRANSLATION
+ usa_economic_events.416.e: "Otevřená systémová slévárna" # todo: NEW TRANSLATION
+ USA_intel_domestic_silicon_arsenal: "Domácí arzenál křemíku" # todo: NEW TRANSLATION
+ USA_intel_domestic_silicon_arsenal_desc: "Nejpokročilejší výroba probíhá na americké půdě a veřejnost drží podíl ve společnosti, která ji zajišťuje. Kapacita je nejprve strategickým aktivem a teprve poté obchodním, což se odráží v její ceně." # todo: NEW TRANSLATION
+ USA_intel_integrated_compute_foundry: "Integrovaná výpočetní slévárna" # todo: NEW TRANSLATION
+ USA_intel_integrated_compute_foundry_desc: "Továrny vyrábějí pro externí zákazníky i pro Intel, takže si samy vydělávají místo čekání na jediný produktový plán. Navrhování a výroba pod jednou střechou se po jejím otevření znovu vyplácí." # todo: NEW TRANSLATION
+ USA_intel_open_systems_foundry: "Slévárna otevřených systémů" # todo: NEW TRANSLATION
+ USA_intel_open_systems_foundry_desc: "Zveřejněná rozhraní a otevřené uzly učinily z platformy něco, na čem mohou ostatní stavět, nikoli něco, co si musí licencovat. Marže jsou nižší a ekosystém mnohem větší." # todo: NEW TRANSLATION
+ USA_intel_fabless_architecture_house: "Architektonický dům bez továren" # todo: NEW TRANSLATION
+ USA_intel_fabless_architecture_house_desc: "Návrhy stále patří Intelu a wafery někomu jinému. Společnost zbavená kapitálové zátěže soutěží pouze architekturou a závisí na slévárně, kterou nekontroluje." # todo: NEW TRANSLATION
+ usa_economic_events.440.a: "Vybudovat Foundry kolem odpovědného využívání dat" # todo: NEW TRANSLATION
+ usa_economic_events.440.b: "Přizpůsobit Foundry veřejným úkolům" # todo: NEW TRANSLATION
+ usa_economic_events.440.c: "Rozšířit Foundry napříč komerčními odvětvími" # todo: NEW TRANSLATION
+ usa_economic_events.440.d: "Credit Suisse začala v roce 2013 využívat Foundry k analýze souladu s předpisy a tržního rizika, zatímco First Data použila software Palantiru při technologické transformaci. Komerční instituce se stávají samostatným trhem pro datový provozní model Palantiru." # todo: NEW TRANSLATION
+ usa_economic_events.440.d_option: "Zachovat nezávislost nákupu zákazníků" # todo: NEW TRANSLATION
+ usa_economic_events.440.t: "Foundry vstupuje do průmyslu" # todo: NEW TRANSLATION
+ usa_economic_events.441.a: "Vyžadovat odpovědný nákup softwaru" # todo: NEW TRANSLATION
+ usa_economic_events.441.b: "Po rozhodnutí prohloubit vládní integraci" # todo: NEW TRANSLATION
+ usa_economic_events.441.c: "Proměnit vítězství v komerční expanzi" # todo: NEW TRANSLATION
+ usa_economic_events.441.d: "Federální obvodní soud potvrdil zjištění, že armáda před zahájením vlastního vývoje systému DCGS-A2 neprovedla dostatečný průzkum trhu komerčních alternativ. Vítězství Palantiru posiluje argument pro nákup ověřeného softwaru a zároveň zachovává přehled o konkurenci a závislosti na dodavateli." # todo: NEW TRANSLATION
+ usa_economic_events.441.d_option: "Bránit konkurenci v komerčním softwaru" # todo: NEW TRANSLATION
+ usa_economic_events.441.t: "Komerční software vítězí" # todo: NEW TRANSLATION
+ usa_economic_events.442.a: "Spojit uvedení na burzu s dohledem nad nasazením" # todo: NEW TRANSLATION
+ usa_economic_events.442.b: "Využít uvedení na burzu k rozšíření vládní práce" # todo: NEW TRANSLATION
+ usa_economic_events.442.c: "Uvést Palantir na burzu pro komerční expanzi" # todo: NEW TRANSLATION
+ usa_economic_events.442.d: "Akcie třídy A společnosti Palantir se začaly obchodovat na newyorské burze prostřednictvím přímého uvedení. Likvidita a dohled veřejného trhu přicházejí ve chvíli, kdy společnost vyvažuje vládní úkoly s komerčním růstem." # todo: NEW TRANSLATION
+ usa_economic_events.442.d_option: "Zachovat nezávislost vztahů při nákupu" # todo: NEW TRANSLATION
+ usa_economic_events.442.t: "Přímé uvedení na burzu" # todo: NEW TRANSLATION
+ usa_economic_events.443.a: "Otevřít Tiberius veřejné odpovědnosti" # todo: NEW TRANSLATION
+ usa_economic_events.443.b: "Začlenit Tiberius do federální distribuce" # todo: NEW TRANSLATION
+ usa_economic_events.443.c: "Komercializovat logistickou platformu" # todo: NEW TRANSLATION
+ usa_economic_events.443.d: "Tiberius od Palantiru integruje veřejná a soukromá data o vakcínách pro federální a státní plánovače a poskytuje přehled od přidělení přes doručení až po aplikaci. Společný operační obraz může koordinovat distribuci v celostátním měřítku a zároveň učinit z kontrol přístupu a veřejného dohledu součást provozního návrhu." # todo: NEW TRANSLATION
+ usa_economic_events.443.d_option: "Zachovat nezávislost nákupu podle pravomoci" # todo: NEW TRANSLATION
+ usa_economic_events.443.t: "Tiberius koordinuje distribuci" # todo: NEW TRANSLATION
+ usa_economic_events.444.a: "Spravovat datovou strukturu transparentně" # todo: NEW TRANSLATION
+ usa_economic_events.444.b: "Nasadit Gotham jako armádní datovou strukturu" # todo: NEW TRANSLATION
+ usa_economic_events.444.c: "Přizpůsobit strukturu komerčním klientům" # todo: NEW TRANSLATION
+ usa_economic_events.444.d: "Armáda vybrala Palantir pro dodání globálně federované zpravodajské datové struktury a analytického základu napříč několika bezpečnostními klasifikacemi. Gotham podpoří testování a nasazení, zatímco se Capability Drop 2 blíží operačnímu využití." # todo: NEW TRANSLATION
+ usa_economic_events.444.d_option: "Zachovat architekturu neutrální vůči nákupu" # todo: NEW TRANSLATION
+ usa_economic_events.444.t: "Armádní datová struktura" # todo: NEW TRANSLATION
+ usa_economic_events.445.a: "Podrobit prototyp odpovědnému testování" # todo: NEW TRANSLATION
+ usa_economic_events.445.b: "Integrovat TITAN do armádního zaměřování" # todo: NEW TRANSLATION
+ usa_economic_events.445.c: "Komercializovat platformu slučování senzorů" # todo: NEW TRANSLATION
+ usa_economic_events.445.d: "Armáda zadala společnostem Palantir a Raytheon samostatné úkoly s pevnou cenou ve výši 36 milionů dolarů na vytvoření pokročilých prototypů TITAN. Konkurenční systémy budou integrovat data ze senzorů a před výběrem jednoho dodavatele budou testovány s využitím zpětné vazby vojáků." # todo: NEW TRANSLATION
+ usa_economic_events.445.d_option: "Zachovat konkurenci prostřednictvím prototypování" # todo: NEW TRANSLATION
+ usa_economic_events.445.t: "Zakázka na prototyp TITAN" # todo: NEW TRANSLATION
+ usa_economic_events.446.a: "Učinit nasazení AIP odpovědným" # todo: NEW TRANSLATION
+ usa_economic_events.446.b: "Integrovat AIP do vládních operací" # todo: NEW TRANSLATION
+ usa_economic_events.446.c: "Rozšířit AIP mezi podnikové zákazníky" # todo: NEW TRANSLATION
+ usa_economic_events.446.d: "Palantir zavádí AIP v rámci Foundry a kombinuje velké jazykové modely s provozními daty, kontrolami přístupu a podnikovými pracovními postupy. Předběžný přístup přináší umělou inteligenci do rozhodování zákazníků, zatímco bezpečnost a správa se stávají součástí nasazení." # todo: NEW TRANSLATION
+ usa_economic_events.446.d_option: "Chránit volbu zákazníků napříč nasazeními" # todo: NEW TRANSLATION
+ usa_economic_events.446.t: "AIP vstupuje do podniků" # todo: NEW TRANSLATION
+ usa_economic_events.447.a: "Podřídit platformu NHS veřejným zárukám" # todo: NEW TRANSLATION
+ usa_economic_events.447.b: "Integrovat platformu napříč operacemi NHS" # todo: NEW TRANSLATION
+ usa_economic_events.447.c: "Rozšířit komerční zdravotnický software díky zakázce" # todo: NEW TRANSLATION
+ usa_economic_events.447.d: "NHS England zadala skupině vedené Palantirem sedmiletou zakázku na poskytování Federované datové platformy po otevřeném a konkurenčním výběrovém řízení. Platforma propojí stávající data pro koordinaci péče, správu čekacích listin a plánování zdrojů při zvýšených očekáváních ohledně soukromí a odpovědnosti." # todo: NEW TRANSLATION
+ usa_economic_events.447.d_option: "Zachovat nezávislost nákupu NHS" # todo: NEW TRANSLATION
+ usa_economic_events.447.t: "Federovaná datová platforma NHS" # todo: NEW TRANSLATION
+ usa_economic_events.448.a: "Uvalit na TITAN odpovědné záruky" # todo: NEW TRANSLATION
+ usa_economic_events.448.b: "Vést TITAN jako hlavní dodavatel armády" # todo: NEW TRANSLATION
+ usa_economic_events.448.c: "Komerčně přizpůsobit model platformy TITAN" # todo: NEW TRANSLATION
+ usa_economic_events.448.d: "Armáda vybrala Palantir po konkurenčním prototypování a udělila mu dohodu ve fázi 3 v hodnotě 178,4 milionu dolarů na deset prototypů TITAN. Jako preferovaný dodavatel a hlavní kontraktor bude společnost integrovat pokročilé i základní varianty pro zpracování vícedoménových senzorových dat." # todo: NEW TRANSLATION
+ usa_economic_events.448.d_option: "Zachovat konkurenceschopný ekosystém prototypů" # todo: NEW TRANSLATION
+ usa_economic_events.448.t: "Hlavní zakázka TITAN" # todo: NEW TRANSLATION
+ usa_economic_events.449.a: "Spravovat nasazení Mavenu transparentně" # todo: NEW TRANSLATION
+ usa_economic_events.449.b: "Rozšířit Maven napříč obrannými operacemi" # todo: NEW TRANSLATION
+ usa_economic_events.449.c: "Proměnit integraci Mavenu v komerční měřítko" # todo: NEW TRANSLATION
+ usa_economic_events.449.d: "Armáda zadala Palantiru zakázku s pevnou cenou ve výši 480 milionů dolarů na prototyp systému Maven Smart System, čímž rozšiřuje úkolový software napříč zpravodajstvím a operacemi podporovanými umělou inteligencí. Rozsah prohlubuje úlohu Palantiru v obraně a závislost vlády na integrované platformě." # todo: NEW TRANSLATION
+ usa_economic_events.449.d_option: "Zachovat konkurenci kolem úkolového softwaru" # todo: NEW TRANSLATION
+ usa_economic_events.449.t: "Projekt Maven se rozšiřuje" # todo: NEW TRANSLATION
+ usa_economic_events.450.a: "Stát se obranným operačním systémem" # todo: NEW TRANSLATION
+ usa_economic_events.450.b: "Zavést platformu s dvojím využitím" # todo: NEW TRANSLATION
+ usa_economic_events.450.c: "Vybudovat odpovědnou veřejnou datovou infrastrukturu" # todo: NEW TRANSLATION
+ usa_economic_events.450.d: "Podniková dohoda armády sjednocuje sedmdesát pět smluv do jednoho rámce pro komerční produkty Palantiru s dobou plnění až deset let a stropem 10 miliard dolarů. Struktura slibuje množstevní slevy a rychlejší přístup a zároveň činí postavení Palantiru v obranném, civilním i komerčním sektoru rozhodujícím." # todo: NEW TRANSLATION
+ usa_economic_events.450.d_option: "Soustředit se na komerční platformu umělé inteligence" # todo: NEW TRANSLATION
+ usa_economic_events.450.t: "Podniková dohoda armády" # todo: NEW TRANSLATION
+ usa_economic_events.460.t: "AIG na pokraji zhroucení" # todo: NEW TRANSLATION
+ usa_economic_events.460.d: "Všechny tři ratingové agentury dnes ráno snížily hodnocení AIG a následné výzvy k doplnění zajištění zanechaly pojišťovnu několik hodin před krachem. Není to banka, nelze ji běžně řešit a stojí na druhé straně derivátových smluv držených polovinou finančního systému." # todo: NEW TRANSLATION
+ usa_economic_events.460.a: "Schválit nouzovou podporu" # todo: NEW TRANSLATION
+ usa_economic_events.460.b: "Vyhledat soukromé konsorcium" # todo: NEW TRANSLATION
+ usa_economic_events.460.c: "Nechat AIG padnout" # todo: NEW TRANSLATION
+ usa_economic_events.462.t: "Federální záchrana" # todo: NEW TRANSLATION
+ usa_economic_events.462.d: "Federální rezervní banka v New Yorku půjčí proti aktivům AIG za trestajících podmínek. To, co Washington požaduje na oplátku, rozhodne, zda jde o půjčku soukromé společnosti, nebo o znárodnění, které tak nikdo nenazve." # todo: NEW TRANSLATION
+ usa_economic_events.462.a: "Přijmout akciový podíl" # todo: NEW TRANSLATION
+ usa_economic_events.462.b: "Půjčovat pouze za trestajících podmínek" # todo: NEW TRANSLATION
+ usa_economic_events.463.t: "Neuspořádaný bankrot" # todo: NEW TRANSLATION
+ usa_economic_events.463.d: "AIG podala návrh na úpadek. Její pojišťovací dceřiné společnosti zabavují státní regulátoři, protistrany půjček cenných papírů požadují vše najednou a fondy peněžního trhu, které držely její cenné papíry, ztrácejí vazbu na dolar." # todo: NEW TRANSLATION
+ usa_economic_events.463.a: "Zadržet nákazu" # todo: NEW TRANSLATION
+ usa_economic_events.463.b: "Nechat trh vyčistit" # todo: NEW TRANSLATION
+ usa_economic_events.464.t: "Likvidita stále odtéká" # todo: NEW TRANSLATION
+ usa_economic_events.464.d: "Záchrana získala čas a nic víc. Skutečnou dírou je kniha půjček cenných papírů: hotovostní zajištění bylo reinvestováno do hypotečních cenných papírů, jejichž cenu nikdo nechce stanovit, a protistrany nyní chtějí hotovost zpět." # todo: NEW TRANSLATION
+ usa_economic_events.464.a: "Prověřit knihu půjček cenných papírů" # todo: NEW TRANSLATION
+ usa_economic_events.465.t: "Facilita půjček cenných papírů" # todo: NEW TRANSLATION
+ usa_economic_events.465.d: "Fed v New Yorku si může od pojišťovacích dceřiných společností AIG vypůjčit cenné papíry investičního stupně a vrátit hotovostní zajištění. Zastaví okamžitý run, aniž by řešil, proč začal." # todo: NEW TRANSLATION
+ usa_economic_events.465.a: "Otevřít facilitu cenných papírů" # todo: NEW TRANSLATION
+ usa_economic_events.465.b: "Odmítnout další půjčky" # todo: NEW TRANSLATION
+ usa_economic_events.466.t: "Restrukturalizace podpůrného balíčku" # todo: NEW TRANSLATION
+ usa_economic_events.466.d: "Původní podmínky ničí společnost, kterou nyní vláda vlastní, a úroky spotřebovávají facilitu rychleji, než je podnik schopen splácet. Ministerstvo financí může vložit kapitál a umožnit Fedu snížit rozpětí a prodloužit splatnost." # todo: NEW TRANSLATION
+ usa_economic_events.466.a: "Restrukturalizovat balíček" # todo: NEW TRANSLATION
+ usa_economic_events.466.b: "Ponechat původní podmínky" # todo: NEW TRANSLATION
+ usa_economic_events.467.t: "Maiden Lane III" # todo: NEW TRANSLATION
+ usa_economic_events.467.d: "Účelová entita může odkoupit kolateralizované dluhové obligace pod swapy úvěrového selhání AIG a zrušit smlouvy, čímž definitivně ukončí spirálu zajištění. Celá otázka zní, jakou cenu za tyto cenné papíry zaplatíme." # todo: NEW TRANSLATION
+ usa_economic_events.467.a: "Zaplatit tržní cenu a ukončit swapy" # todo: NEW TRANSLATION
+ usa_economic_events.467.b: "Požadovat ústupky" # todo: NEW TRANSLATION
+ usa_economic_events.468.t: "Jednání s protistranami" # todo: NEW TRANSLATION
+ usa_economic_events.468.d: "Protistrany byly požádány, aby dobrovolně přijaly snížení hodnoty smluv, za které mají ze zákona nárok na plnou úhradu. Jedna naznačila podmíněnou ochotu; ostatní poukázaly na to, že je k tomu nemůžeme přinutit." # todo: NEW TRANSLATION
+ usa_economic_events.468.a: "Přijmout návrat k nominální hodnotě" # todo: NEW TRANSLATION
+ usa_economic_events.468.b: "Zaúčtovat částečné ústupky" # todo: NEW TRANSLATION
+ usa_economic_events.469.t: "Maiden Lane II" # todo: NEW TRANSLATION
+ usa_economic_events.469.d: "Druhá entita může odkoupit cenné papíry kryté hypotékami na bydlení z portfolia půjček cenných papírů a program definitivně ukončit. Zároveň nahradí říjnovou facilitu něčím, co bude nutné spravovat po celá léta." # todo: NEW TRANSLATION
+ usa_economic_events.469.a: "Převést portfolio RMBS" # todo: NEW TRANSLATION
+ usa_economic_events.469.b: "Ukončit program v jeho současné podobě" # todo: NEW TRANSLATION
+ usa_economic_events.470.t: "Kdo dostal zaplaceno" # todo: NEW TRANSLATION
+ usa_economic_events.470.d: "Kongres chce znát jména institucí, které záchrana AIG skutečně ochránila, a přibližně polovina z nich jsou zahraniční banky. Fed v New Yorku tvrdí, že zveřejnění poškodí protistrany i entity, které stále držíme." # todo: NEW TRANSLATION
+ usa_economic_events.470.a: "Zveřejnit protistrany" # todo: NEW TRANSLATION
+ usa_economic_events.470.b: "Odložit zveřejnění" # todo: NEW TRANSLATION
+ usa_economic_events.471.t: "Retenční bonusy" # todo: NEW TRANSLATION
+ usa_economic_events.471.d: "AIG Financial Products, divize, která uzavírala swapy, má smluvní povinnost vyplatit retenční bonusy ve výši sto šedesáti pěti milionů dolarů. Smlouvy vznikly před záchranou a společnost, kterou nyní vlastníme, je jimi vázána." # todo: NEW TRANSLATION
+ usa_economic_events.471.a: "Dodržet smlouvy" # todo: NEW TRANSLATION
+ usa_economic_events.471.b: "Vymoci zpět, co lze" # todo: NEW TRANSLATION
+ usa_economic_events.472.t: "Restrukturalizace a prodej aktiv" # todo: NEW TRANSLATION
+ usa_economic_events.472.d: "AIG se rozděluje na části, které lze prodat: asijské životní pojištění, pronajímatele letadel a divizi spotřebitelských financí. Jak rychle budeme prodávat, určí, kolik daňový poplatník získá zpět." # todo: NEW TRANSLATION
+ usa_economic_events.472.a: "Prodávat aktiva systematicky" # todo: NEW TRANSLATION
+ usa_economic_events.472.b: "Odejít co nejrychleji" # todo: NEW TRANSLATION
+ usa_economic_events.473.t: "Fed opouští AIG" # todo: NEW TRANSLATION
+ usa_economic_events.473.d: "Pomoc Fedu v New Yorku může být plně splacena a revolvingová facilita ukončena, takže ministerstvu financí zůstanou kmenové akcie, které může prodat na trhu. Entity Maiden Lane se vyvíjejí lépe než jejich účetní hodnota." # todo: NEW TRANSLATION
+ usa_economic_events.473.a: "Přijmout úplné splacení" # todo: NEW TRANSLATION
+ usa_economic_events.473.b: "Dále prodloužit facilitu" # todo: NEW TRANSLATION
+ usa_economic_events.474.t: "Odcizení podílu ministerstva financí dokončeno" # todo: NEW TRANSLATION
+ usa_economic_events.474.d: "Poslední blok kmenových akcií AIG byl prodán a vládní podíl zmizel. Nyní je rozhodnuto, jak bude záchrana zapamatována a jaký precedens zanechá pro příští systémově významný krach." # todo: NEW TRANSLATION
+ usa_economic_events.474.a: "Precedens záchrany věřiteli" # todo: NEW TRANSLATION
+ usa_economic_events.474.b: "Zadostiučinění daňovým poplatníkům" # todo: NEW TRANSLATION
+ usa_economic_events.474.c: "Režim spořádaného řešení" # todo: NEW TRANSLATION
+ usa_economic_events.474.d_option: "Precedens likvidacionismu" # todo: NEW TRANSLATION
+ usa_economic_events.474.e: "Urovnání morálního hazardu" # todo: NEW TRANSLATION
+ USA_aig_taxpayer_vindication: "Zadostiučinění daňovým poplatníkům" # todo: NEW TRANSLATION
+ USA_aig_taxpayer_vindication_desc: "Závazek vůči AIG byl plně splacen a ministerstvu financí přinesl zisk, což v roce 2008 nikdo neočekával. Státní půjčky jsou levnější, příjmy z korporátních daní vyšší a vláda může tuto důvěryhodnost využít." # todo: NEW TRANSLATION
+ USA_aig_orderly_resolution_regime: "Režim spořádaného řešení" # todo: NEW TRANSLATION
+ USA_aig_orderly_resolution_regime_desc: "Zveřejňování a zpětné vymáhání byly převedeny na trvalou pravomoc k ukončení činnosti systémově významné firmy. Půjčky a investice jsou levnější a systém výrazně stabilnější, za cenu poněkud nižších výnosů." # todo: NEW TRANSLATION
+ USA_aig_creditor_bail_in_precedent: "Precedens záchrany věřiteli" # todo: NEW TRANSLATION
+ USA_aig_creditor_bail_in_precedent_desc: "Protistrany byly přinuceny přijmout méně než nominální hodnotu a každý věřitel velké americké instituce nyní započítává možnost, že bude požádán znovu. Domácí investice se směrují levněji, ale náklady na půjčky i zahraniční důvěra trpí." # todo: NEW TRANSLATION
+ USA_aig_moral_hazard_settlement: "Urovnání morálního hazardu" # todo: NEW TRANSLATION
+ USA_aig_moral_hazard_settlement_desc: "Systém byl stabilizován, protistrany byly plně vyplaceny, bonusy dodrženy a veřejnost přesně pochopila, co se stalo. Kapitálové výnosy a tržní příjmy jsou silné; politický kapitál a stabilita nikoli." # todo: NEW TRANSLATION
+ USA_aig_liquidationist_precedent: "Precedens likvidacionismu" # todo: NEW TRANSLATION
+ USA_aig_liquidationist_precedent_desc: "AIG bylo dovoleno zkrachovat a síť protistran zkrachovala s ním. Náklady na půjčky a investice jsou výrazně vyšší a dodávky pro spotřebitele napjaté, ale žádná vláda již nikdy nebude obviněna ze záchrany Wall Street." # todo: NEW TRANSLATION
+ USA_openai_nonprofit_controlled_pbc: "PBC pod kontrolou neziskové organizace" # todo: NEW TRANSLATION
+ USA_openai_nonprofit_controlled_pbc_desc: "OpenAI Group působí jako veřejně prospěšná korporace pod kontrolou OpenAI Foundation. Tato struktura spojuje komerční růst s řízením mise a zároveň laboratoři poskytuje přístup ke konvenčnímu kapitálu." # todo: NEW TRANSLATION
+ USA_openai_scaled_commercial_platform: "Rozšířená komerční platforma" # todo: NEW TRANSLATION
+ USA_openai_scaled_commercial_platform_desc: "OpenAI upřednostňuje distribuci produktů, přijetí v podnicích a rychlé investice do nejpokročilejších technologií. Široký dosah financuje schopnosti, ale kontrola mise a bezpečnostní řízení musí soupeřit s komerčním tlakem." # todo: NEW TRANSLATION
+ USA_openai_diversified_frontier_consortium: "Diverzifikované konsorcium nejpokročilejších technologií" # todo: NEW TRANSLATION
+ USA_openai_diversified_frontier_consortium_desc: "OpenAI podporuje vývoj nejpokročilejších technologií prostřednictvím sítě kapitálových a výpočetních partnerů namísto závislosti na jediném poskytovateli. Diverzifikace rozšiřuje kapacitu a vyjednávací sílu za cenu složitějšího řízení." # todo: NEW TRANSLATION
+ USA_openai_safety_governed_laboratory: "Laboratoř řízená bezpečností" # todo: NEW TRANSLATION
+ USA_openai_safety_governed_laboratory_desc: "Formální bezpečnostní řízení a dohled nad misí omezují nasazení, dokud nejsou modely a kontroly připravené. Laboratoř si zachovává legitimitu a nezávislost, ale přijímá pomalejší komerční růst." # todo: NEW TRANSLATION
+ USA_anthropic_safety_governed_frontier: "Bezpečností řízená hranice" # todo: NEW TRANSLATION
+ USA_anthropic_safety_governed_frontier_desc: "Anthropic spojuje výzkum nejpokročilejších technologií s formálním řízením, hodnocením schopností a silnějšími zárukami, jak modely postupují. Tato struktura udržuje důvěru veřejnosti a zároveň zachovává laboratoři schopnost vyvíjet výkonné systémy." # todo: NEW TRANSLATION
+ USA_anthropic_cloud_aligned_scale: "Škálování sladěné s cloudem" # todo: NEW TRANSLATION
+ USA_anthropic_cloud_aligned_scale_desc: "Anthropic vyvíjí a nasazuje nejpokročilejší modely prostřednictvím hlubokých technických partnerství s hlavním cloudovým poskytovatelem. Těsně integrovaný kapitál, akcelerátory a distribuce podporují rychlé škálování za cenu větší závislosti." # todo: NEW TRANSLATION
+ USA_anthropic_multi_cloud_independence: "Nezávislost na více cloudech" # todo: NEW TRANSLATION
+ USA_anthropic_multi_cloud_independence_desc: "Anthropic rozděluje trénování a nasazení mezi několik infrastrukturních partnerů. Uspořádání zachovává vyjednávací sílu a široký přístup, ale komplikuje rozšiřování nejpokročilejších technologií." # todo: NEW TRANSLATION
+ USA_anthropic_cautious_research_laboratory: "Obezřetná výzkumná laboratoř" # todo: NEW TRANSLATION
+ USA_anthropic_cautious_research_laboratory_desc: "Anthropic omezuje komerční expanzi, aby výzkum, interpretovatelnost a bezpečnostní kontroly dozrály před širším nasazením. Laboratoř přijímá pomalejší pokrok výměnou za silnější řízení a veřejnou legitimitu." # todo: NEW TRANSLATION
+ USA_openai_nonprofit_controlled_pbc_decision: "Podpořit strukturu řízenou neziskovou organizací" # todo: NEW TRANSLATION
+ USA_openai_nonprofit_controlled_pbc_decision_desc: "Podpořte restrukturalizaci, která ponechá komerční část laboratoře odpovědnou její zakládající neziskové organizaci. Federální politika nemůže určovat statut soukromé společnosti, ale daňové zacházení, veřejné zakázky a antimonopolní přístup ovlivní, která struktura přežije střet s kapitálovými trhy.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_openai_scaled_commercial_platform_decision: "Podpořit rychlé komerční rozšíření" # todo: NEW TRANSLATION
+ USA_openai_scaled_commercial_platform_decision_desc: "Uvolněte cestu agresivní distribuci produktů a jejich nasazení ve firmách. Finanční kapacity dosáhne rychleji než jakýkoli výzkumný grant a vláda získá národního šampiona, jehož pobídky už nebude kontrolovat.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_openai_diversified_frontier_consortium_decision: "Podpořit diverzifikované konsorcium výpočetních kapacit" # todo: NEW TRANSLATION
+ USA_openai_diversified_frontier_consortium_decision_desc: "Povzbuďte laboratoř, aby rozdělila tréninkové kapacity mezi několik kapitálových a infrastrukturních partnerů místo jediného. Diverzifikace přináší vyjednávací sílu a odolnost za cenu struktury řízení, kterou nikdo nedokáže shrnout jednou větou.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_openai_safety_governed_laboratory_decision: "Podpořit formální bezpečnostní dohled" # todo: NEW TRANSLATION
+ USA_openai_safety_governed_laboratory_decision_desc: "Podmiňte federální spolupráci hodnocením, postupným nasazováním a dozorčí radou se skutečnými pravomocemi. Laboratoř si zachová legitimitu i nezávislost a přenechá komerční vedení tomu, kdo bude ochoten dodávat jako první.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_anthropic_safety_governed_frontier_decision: "Podpořit hranice řízené bezpečností" # todo: NEW TRANSLATION
+ USA_anthropic_safety_governed_frontier_decision_desc: "Podpořte laboratoř, která rozvíjí schopnosti i ochranná opatření současně, zveřejňuje své hodnoticí prahy a dodržuje je. Pomalejší než alternativa, ale značně snáze obhajitelná před výborem.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_anthropic_cloud_aligned_scale_decision: "Podpořit jediné cloudové partnerství" # todo: NEW TRANSLATION
+ USA_anthropic_cloud_aligned_scale_decision_desc: "Podpořte hluboké sladění s jediným hyperscale poskytovatelem a vyměňte nezávislost za kapitál a kapacitu potřebné k udržení na špici. Výpočetní kapacita dorazí okamžitě; vliv zůstane v rukou partnera.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_anthropic_multi_cloud_independence_decision: "Podpořit nezávislost na více cloudech" # todo: NEW TRANSLATION
+ USA_anthropic_multi_cloud_independence_decision_desc: "Tlačte laboratoř k trénování a poskytování služeb napříč konkurenčními poskytovateli, aby žádný jediný partner nemohl určovat její podmínky. Nezávislost je nákladná a technická režie skutečná, ale společnost odpovídá sama sobě.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_anthropic_cautious_research_laboratory_decision: "Podpořit umírněný výzkumný program" # todo: NEW TRANSLATION
+ USA_anthropic_cautious_research_laboratory_decision_desc: "Podpořte zachování malé a uvážlivé laboratoře, která se z velké části vyhne produktovým závodům. Důvěra veřejnosti a vnitřní disciplína zůstanou zachovány; postavení na trhu nikoli.\n\n§YVýsledný národní duch trvá 365 dní. Současně může být aktivní pouze jeden program AI laboratoře.§!" # todo: NEW TRANSLATION
+ USA_ai_lab_treasury_15_tt: "Má v pokladních rezervách více než §Y15 miliard§!" # todo: NEW TRANSLATION
+ USA_ai_lab_treasury_20_tt: "Má v pokladních rezervách více než §Y20 miliard§!" # todo: NEW TRANSLATION
+ USA_ai_lab_treasury_25_tt: "Má v pokladních rezervách více než §Y25 miliard§!" # todo: NEW TRANSLATION
+ usa_economic_events.475.a: "Uvalit přísné smírčí rozhodnutí" # todo: NEW TRANSLATION
+ usa_economic_events.475.b: "Podepsat mírnější rozhodnutí" # todo: NEW TRANSLATION
+ usa_economic_events.475.d: "Odvolací soud pro obvod D.C. zrušil příkaz k rozdělení společnosti a případ směřuje ke smírčímu rozhodnutí. Můžeme Microsoft zavázat k přísným podmínkám interoperability a zveřejňování, nebo vyjednat mírnější rozhodnutí, které zachová flexibilitu veřejných zakázek." # todo: NEW TRANSLATION
+ usa_economic_events.475.t: "Zvrácení odvolání a smírčí rozhodnutí" # todo: NEW TRANSLATION
+ usa_economic_events.476.a: "Sladit se s nápravnými opatřeními EK" # todo: NEW TRANSLATION
+ usa_economic_events.476.b: "Obhájit užší americký přístup" # todo: NEW TRANSLATION
+ usa_economic_events.476.d: "Evropská komise uložila Microsoftu pokutu a nařídila nápravná opatření v oblasti interoperability. Washington se může připojit k Bruselu v požadavku otevřené dokumentace a přístupu k rozhraním, nebo hájit užší americký výklad soutěžního práva." # todo: NEW TRANSLATION
+ usa_economic_events.476.t: "Rozhodnutí Evropské komise o hospodářské soutěži" # todo: NEW TRANSLATION
+ usa_economic_events.477.a: "Vyžadovat spolehlivost před rozšířením" # todo: NEW TRANSLATION
+ usa_economic_events.477.b: "Upřednostnit rychlost pronikání na trh" # todo: NEW TRANSLATION
+ usa_economic_events.477.d: "Problematické uvedení Visty odhalilo nedostatky v kvalitě a kompatibilitě napříč ekosystémem Microsoftu. Můžeme vynutit přísné standardy spolehlivosti pro federální nasazení, nebo tolerovat nestabilitu, abychom zachovali dynamiku dodavatele." # todo: NEW TRANSLATION
+ usa_economic_events.477.t: "Ballmerova éra: Vista a strategie platformy" # todo: NEW TRANSLATION
+ usa_economic_events.478.a: "Podpořit akvizici Oraclu" # todo: NEW TRANSLATION
+ usa_economic_events.478.b: "Vynutit nezávislou restrukturalizaci" # todo: NEW TRANSLATION
+ usa_economic_events.478.c: "Schválit nabídku Microsoftu" # todo: NEW TRANSLATION
+ usa_economic_events.478.d: "Kolaps Sunu se stal rozhodnutím federální průmyslové politiky. Washington může podpořit nabídku Oraclu na akvizici, vynutit cestu nezávislé restrukturalizace nebo schválit nabídku Microsoftu a rozhodnout o podmínkách integrace v následném rozhodnutí." # todo: NEW TRANSLATION
+ usa_economic_events.478.t: "Budoucnost Sunu: Oracle, restrukturalizace, nebo Microsoft" # todo: NEW TRANSLATION
+ usa_economic_events.479.a: "Nařídit správu prostřednictvím nadace" # todo: NEW TRANSLATION
+ usa_economic_events.479.b: "Povolit úplnou integraci s Microsoftem" # todo: NEW TRANSLATION
+ usa_economic_events.479.d: "Po schválení nabídky Microsoftu musí federální regulátoři rozhodnout o správě platformových aktiv Sunu. Můžeme nasměrovat Javu ke správě ve stylu nadace se zárukami interoperability, nebo povolit hlubokou integraci s Microsoftem a přijmout riziko koncentrace." # todo: NEW TRANSLATION
+ usa_economic_events.479.t: "Správa Sunu po nabídce Microsoftu" # todo: NEW TRANSLATION
+ usa_economic_events.480.a: "Podpořit strategii zařízení Lumia" # todo: NEW TRANSLATION
+ usa_economic_events.480.b: "Odepsat divizi a opustit telefony" # todo: NEW TRANSLATION
+ usa_economic_events.480.c: "Oddělit podnikání se zařízeními" # todo: NEW TRANSLATION
+ usa_economic_events.480.d: "Akvizice telefonní divize Nokie Microsoftem selhala a společnost odepisuje miliardy a omezuje telefonní divizi. Federální politika může Microsoft tlačit k pokračování v boji o zařízení, nebo k přenechání trhu a opětovnému zaměření na cloud a software." # todo: NEW TRANSLATION
+ usa_economic_events.480.t: "Odpis Nokie" # todo: NEW TRANSLATION
+ usa_economic_events.481.a: "Schválit úplnou integraci dat" # todo: NEW TRANSLATION
+ usa_economic_events.481.b: "Schválit s podmínkami přenositelnosti dat" # todo: NEW TRANSLATION
+ usa_economic_events.481.c: "Zablokovat akvizici" # todo: NEW TRANSLATION
+ usa_economic_events.481.d: "Microsoft se dohodl na akvizici LinkedInu, čímž dostává profesní síť a její data pod svou kontrolu. Regulátoři mohou transakci schválit, připojit podmínky přenositelnosti dat, nebo ji zablokovat kvůli obavám o soukromí a koncentraci." # todo: NEW TRANSLATION
+ usa_economic_events.481.t: "LinkedIn se připojuje k Microsoftu" # todo: NEW TRANSLATION
+ usa_economic_events.482.a: "Zachovat autonomii GitHubu" # todo: NEW TRANSLATION
+ usa_economic_events.482.b: "Integrovat GitHub s Azure" # todo: NEW TRANSLATION
+ usa_economic_events.482.c: "Zablokovat akvizici" # todo: NEW TRANSLATION
+ usa_economic_events.482.d: "Akvizice GitHubu dává Microsoftu správu nad klíčovou infrastrukturou open source. Federální politika může zachovat autonomii platformy, těsně integrovat GitHub do Azure, nebo transakci zablokovat z bezpečnostních důvodů a kvůli tržní síle." # todo: NEW TRANSLATION
+ usa_economic_events.482.t: "GitHub pod Microsoftem" # todo: NEW TRANSLATION
+ usa_economic_events.483.a: "Obhájit zadání jedinému hlavnímu dodavateli" # todo: NEW TRANSLATION
+ usa_economic_events.483.b: "Uvalit suverénní bránu nezávislou na dodavateli" # todo: NEW TRANSLATION
+ usa_economic_events.483.c: "Rozdělit obranné a civilní cloudové prostředí" # todo: NEW TRANSLATION
+ usa_economic_events.483.d: "Zachovat neutrální správu Javy" # todo: NEW TRANSLATION
+ usa_economic_events.483.d_independent: "Soudní spory kolem JEDI odhalily křehkost veřejných zakázek: každé rozhodnutí o cloudu má nyní strategické důsledky. Musíme zvolit, nakolik zůstanou federální cloud, bezpečnost a správa dodavatelů propojené." # todo: NEW TRANSLATION
+ usa_economic_events.483.d_microsoft: "Jak se spory kolem JEDI vyostřují, agentury plánují struktury po JEDI. Otázkou už není, zda je cloud důležitý, ale zda Washington bude řídit jednoho národního hlavního systémového dodavatele, nebo regulovaný více-dodavatelský systém." # todo: NEW TRANSLATION
+ usa_economic_events.483.d_oracle: "Pentagon zadal JEDI Microsoftu, což vyvolalo protesty, námitky proti nabídce a spory o suverénní cloud napříč agenturami. Můžeme podpořit centralizované zadání, vynutit architekturu nezávislou na dodavateli, nebo přejít k paralelním prostředím." # todo: NEW TRANSLATION
+ usa_economic_events.483.e: "Plně začlenit Sun do strategie Azure" # todo: NEW TRANSLATION
+ usa_economic_events.483.t: "JEDI a boj o obranný cloud" # todo: NEW TRANSLATION
+ usa_economic_events.484.a: "Nasadit náhlavní soupravu ve velkém" # todo: NEW TRANSLATION
+ usa_economic_events.484.b: "Restrukturalizovat na omezené nasazení" # todo: NEW TRANSLATION
+ usa_economic_events.484.c: "Vypsat novou soutěž ve prospěch vyzyvatele z oblasti obranných technologií" # todo: NEW TRANSLATION
+ usa_economic_events.484.d: "Integrovaný systém vizuálního rozšíření armády, postavený na HoloLensu Microsoftu, neuspěl v polních testech a čelí kongresové kontrole kvůli nákladům a spolehlivosti. Ve hře je dvaadvacet miliard dolarů a důvěra vojáků." # todo: NEW TRANSLATION
+ usa_economic_events.484.t: "IVAS: Náhlavní souprava vojáka" # todo: NEW TRANSLATION
+ usa_economic_events.485.a: "Schválit akvizici" # todo: NEW TRANSLATION
+ usa_economic_events.485.b: "Schválit s nápravnými opatřeními pro cloudové streamování" # todo: NEW TRANSLATION
+ usa_economic_events.485.c: "Zablokovat fúzi" # todo: NEW TRANSLATION
+ usa_economic_events.485.d: "Microsoft se dohodl na koupi Activision Blizzard za šedesát devět miliard dolarů, což je největší transakce v dějinách herního průmyslu. Federální obchodní komise a zahraniční regulátoři proti ní postupují kvůli kontrole her a cloudového streamování." # todo: NEW TRANSLATION
+ usa_economic_events.485.t: "Activision a regulátoři" # todo: NEW TRANSLATION
+ usa_economic_events.486.a: "Bezpečnost na prvním místě" # todo: NEW TRANSLATION
+ usa_economic_events.486.b: "Vyvážená bezpečnost a dodávky" # todo: NEW TRANSLATION
+ usa_economic_events.486.c: "Dodávat rychle s menšími kontrolami" # todo: NEW TRANSLATION
+ usa_economic_events.486.d: "Zbývá otázka doktríny: měla by federální politika upřednostnit bezpečnostní kontroly, vyvážit dodávky s ochrannými opatřeními, nebo dodávat rychleji za volnějších bezpečnostních omezení? Tato volba určí dlouhodobý profil správy veřejného sektoru Microsoftu." # todo: NEW TRANSLATION
+ usa_economic_events.486.t: "Bezpečnostní doktrína pro ekosystém Microsoftu" # todo: NEW TRANSLATION
+ usa_economic_events.487.t: "Založení soukromé raketové společnosti" # todo: NEW TRANSLATION
+ usa_economic_events.487.d: "SpaceX, soukromě financovaný raketový startup z El Segunda, uvádí, že bude vyrábět vlastní motory, konstrukce a avioniku, místo aby je nakupoval. Washington může podpořit integrovanou technickou základnu, od počátku nasměrovat firmu k obranným zakázkám, nebo jí dovolit nakupovat rychlost pomocí sériových komponent." # todo: NEW TRANSLATION
+ usa_economic_events.487.a: "Podpořit integrovanou technickou základnu" # todo: NEW TRANSLATION
+ usa_economic_events.487.b: "Nasměrovat firmu k obranným zakázkám" # todo: NEW TRANSLATION
+ usa_economic_events.487.c: "Dovolit jí získat rychlost pomocí sériových součástek" # todo: NEW TRANSLATION
+ usa_economic_events.488.t: "Komerční náklad na stanici" # todo: NEW TRANSLATION
+ usa_economic_events.488.d: "NASA poprvé přesouvá zásobování stanice na komerční smlouvy a SpaceX nabízí kapsli, která ještě nikdy neletěla. Podoba zadání rozhodne, zda budou soutěžit dva poskytovatelé, zda bude jeden šampion financován k rychlému postupu, nebo zda bude raketoplánový systém prodloužen o několik dalších let." # todo: NEW TRANSLATION
+ usa_economic_events.488.a: "Zadat přepravu nákladu dvěma dodavatelům" # todo: NEW TRANSLATION
+ usa_economic_events.488.b: "Pro rychlost financovat jediného šampiona" # todo: NEW TRANSLATION
+ usa_economic_events.488.c: "Prodloužit stávající logistiku raketoplánu" # todo: NEW TRANSLATION
+ usa_economic_events.489.t: "Falcon 1 dosahuje oběžné dráhy" # todo: NEW TRANSLATION
+ usa_economic_events.489.d: "Po třech selháních Falcon 1 při čtvrtém pokusu dosahuje oběžné dráhy. SpaceX chce pokračovat v letech a učit se. Regulátoři požadují přísnější dohled nad raketovým programem, který selhával před veřejností, a zavedení hlavní dodavatelé chtějí nováčka začlenit do vlastních dodavatelských řetězců." # todo: NEW TRANSLATION
+ usa_economic_events.489.a: "Nechat je iterovat prostřednictvím letových zkoušek" # todo: NEW TRANSLATION
+ usa_economic_events.489.b: "Zpřísnit dohled nad riziky startů" # todo: NEW TRANSLATION
+ usa_economic_events.489.c: "Začlenit nováčka mezi hlavní dodavatele" # todo: NEW TRANSLATION
+ usa_economic_events.490.t: "Falcon 9 a Dragon" # todo: NEW TRANSLATION
+ usa_economic_events.490.d: "SpaceX poprvé vypouští Falcon 9 a Dragon se má před koncem roku vrátit z oběžné dráhy. Rozsah certifikace systému rozhodne, zda bude přepravovat národní mise, čekat podle konzervativního kvalifikačního harmonogramu, nebo sloužit pouze komerčním zákazníkům." # todo: NEW TRANSLATION
+ usa_economic_events.490.a: "Kvalifikovat systém pro civilní mise" # todo: NEW TRANSLATION
+ usa_economic_events.490.b: "Držet se konzervativního tempa certifikace" # todo: NEW TRANSLATION
+ usa_economic_events.490.c: "Omezit jej na komerční zákazníky" # todo: NEW TRANSLATION
+ usa_economic_events.491.t: "První stupeň se vrací" # todo: NEW TRANSLATION
+ usa_economic_events.491.d: "Raketa SpaceX přistává vzpřímeně na Cape Canaveral. Opakované použití už není teorie, ale jeho rozšíření znamená vynášet náklady zákazníků na již použitém hardwaru, zatímco jednorázový obchod je stále tím, co platí účty." # todo: NEW TRANSLATION
+ usa_economic_events.491.a: "Agresivně rozšířit opakované použití" # todo: NEW TRANSLATION
+ usa_economic_events.491.b: "Upřednostnit konzervativní tempo letů" # todo: NEW TRANSLATION
+ usa_economic_events.491.c: "Chránit příjmy z jednorázových startů" # todo: NEW TRANSLATION
+ usa_economic_events.492.t: "Falcon Heavy" # todo: NEW TRANSLATION
+ usa_economic_events.492.d: "Falcon Heavy úspěšně letí při svém prvním pokusu a SpaceX nyní provozuje nejvýkonnější raketu ve službě. Certifikace pro národní bezpečnost a náklady do hlubokého vesmíru zpřístupní největší mise komerčnímu poskytovateli, což je přesně tomu, čemu měly zavedené programy těžkých nosičů zabránit." # todo: NEW TRANSLATION
+ usa_economic_events.492.a: "Certifikovat těžký nosič pro národní mise" # todo: NEW TRANSLATION
+ usa_economic_events.492.b: "Ponechat těžký nosič komerčním nákladům" # todo: NEW TRANSLATION
+ usa_economic_events.492.c: "Upřednostnit konkurenční těžké nosiče" # todo: NEW TRANSLATION
+ usa_economic_events.493.t: "Starlink míří vzhůru" # todo: NEW TRANSLATION
+ usa_economic_events.493.d: "První operační várka Starlinku dosahuje oběžné dráhy a dokumenty SpaceX počítají s dalšími tisíci. Může být vybudován jako spojenecké aktivum dvojího užití, prodáván tak rychle, jak bude vyráběn, nebo pozdržen, dokud nebudou zodpovězeny bezpečnostní otázky." # todo: NEW TRANSLATION
+ usa_economic_events.493.a: "Vybudovat jej jako spojenecké aktivum dvojího užití" # todo: NEW TRANSLATION
+ usa_economic_events.493.b: "Prodávat komerční kapacitu co nejrychleji" # todo: NEW TRANSLATION
+ usa_economic_events.493.c: "Pozdržet jej do bezpečnostního přezkumu" # todo: NEW TRANSLATION
+ usa_economic_events.494.t: "Komerční lety s posádkou" # todo: NEW TRANSLATION
+ usa_economic_events.494.d: "Poprvé od ukončení provozu raketoplánu startují američtí astronauti z americké půdy na palubě Dragonu společnosti SpaceX. Certifikace komerčních letů s posádkou ukončí devět let nákupu zahraničních míst, ačkoli udržování financování Boeingu jako druhého poskytovatele stojí podstatně více." # todo: NEW TRANSLATION
+ usa_economic_events.494.a: "Certifikovat komerční lety s posádkou" # todo: NEW TRANSLATION
+ usa_economic_events.494.b: "Financovat také druhého poskytovatele" # todo: NEW TRANSLATION
+ usa_economic_events.494.c: "Ponechat zahraniční místa jako hlavní cestu" # todo: NEW TRANSLATION
+ usa_economic_events.495.t: "Přistávací modul pro Měsíc" # todo: NEW TRANSLATION
+ usa_economic_events.495.d: "Zakázka na lunární přistávací modul propojuje Artemis se Starshipem SpaceX, s vozidlem, které zatím neexistuje. Sázka na něj přináší obrovské schopnosti a nejistý harmonogram. Rozdělení zakázky nebo čekání na vládní přistávací modul nepřináší ani jedno, ale snižuje riziko." # todo: NEW TRANSLATION
+ usa_economic_events.495.a: "Zadat přistávací modul Starshipu" # todo: NEW TRANSLATION
+ usa_economic_events.495.b: "Rozdělit zakázku mezi dodavatele" # todo: NEW TRANSLATION
+ usa_economic_events.495.c: "Počkat na vládou postavený přistávací modul" # todo: NEW TRANSLATION
+ usa_economic_events.496.t: "Kombinace poskytovatelů startů pro národní bezpečnost" # todo: NEW TRANSLATION
+ usa_economic_events.496.d: "Starty pro národní bezpečnost musí být zajištěny, což historicky znamenalo platit dva poskytovatele, aby zůstali v provozu. SpaceX nyní létá mnohem častěji a mnohem levněji než United Launch Alliance a veřejná zakázka musí rozhodnout, jakou hodnotu má taková jistota." # todo: NEW TRANSLATION
+ usa_economic_events.496.a: "Ponechat dva certifikované poskytovatele" # todo: NEW TRANSLATION
+ usa_economic_events.496.b: "Upřednostnit zavedeného hlavního dodavatele" # todo: NEW TRANSLATION
+ usa_economic_events.496.c: "Soustředit se na levnějšího poskytovatele" # todo: NEW TRANSLATION
+ usa_economic_events.497.t: "Licencování Starshipu" # todo: NEW TRANSLATION
+ usa_economic_events.497.d: "SpaceX chce létat se Starshipem, největší kdy postavenou raketou, a nechávat jej ničit se, dokud se nepřestane rozbíjet. Tento přístup vyžaduje licence vydávané tempem iterací, environmentální proces, který pro něj nebyl navržen, a startovací infrastrukturu, kterou nikdo jiný nemůže využít." # todo: NEW TRANSLATION
+ usa_economic_events.497.a: "Licencovat iterativně a létat za účelem učení" # todo: NEW TRANSLATION
+ usa_economic_events.497.b: "Držet se pomalejší environmentální cesty" # todo: NEW TRANSLATION
+ usa_economic_events.497.c: "Převzít podpůrnou infrastrukturu do federální správy" # todo: NEW TRANSLATION
+ usa_economic_events.498.t: "Podoba amerických startů" # todo: NEW TRANSLATION
+ usa_economic_events.498.d: "Dvě desetiletí poté, co SpaceX oznámila, že bude vyrábět vlastní motory, se struktura amerického přístupu na oběžnou dráhu ustálila ve své trvalé podobě: kdo létá národní mise, kdo přepravuje posádky a kdo vlastní konstelaci nad námi." # todo: NEW TRANSLATION
+ usa_economic_events.498.a: "Trh s jediným významným poskytovatelem" # todo: NEW TRANSLATION
+ usa_economic_events.498.b: "Zajištěný přístup v průmyslovém tempu" # todo: NEW TRANSLATION
+ usa_economic_events.498.c: "Průmyslový systém hlubokého vesmíru" # todo: NEW TRANSLATION
+ usa_economic_events.498.e: "Spojenecká síť orbitální konektivity" # todo: NEW TRANSLATION
+ usa_economic_events.498.f: "Disciplovaný trh smíšených poskytovatelů" # todo: NEW TRANSLATION
+ USA_spacex_cadence_champion: "Tempo zajištěného přístupu" # todo: NEW TRANSLATION
+ USA_spacex_cadence_champion_desc: "Startovní operace poskytují předvídatelný a častý přístup na oběžnou dráhu, přičemž spolehlivost je chápána jako průmyslová disciplína, nikoli jako jednorázový milník." # todo: NEW TRANSLATION
+ USA_spacex_allied_leo_connectivity: "Spojenecká orbitální konektivita" # todo: NEW TRANSLATION
+ USA_spacex_allied_leo_connectivity_desc: "Komunikační síť na nízké oběžné dráze sdílená se spojenci zvyšuje odolnost a interoperabilitu a činí ze samotné konstelace nástroj politiky." # todo: NEW TRANSLATION
+ USA_spacex_deep_space_stack: "Průmyslový systém hlubokého vesmíru" # todo: NEW TRANSLATION
+ USA_spacex_deep_space_stack_desc: "Těžké nosiče, operace na oběžné dráze a logistika průzkumu se společně rozvinuly v jeden propojený průmyslový systém." # todo: NEW TRANSLATION
+ USA_spacex_commercial_monopoly_risk: "Koncentrovaný trh startů" # todo: NEW TRANSLATION
+ USA_spacex_commercial_monopoly_risk_desc: "Tržní síla se soustředila u jediného poskytovatele, což oslabuje konkurenční tlak a komplikuje veřejné zakázky i politiku." # todo: NEW TRANSLATION
+ USA_spacex_mixed_provider_ecosystem: "Trh smíšených poskytovatelů" # todo: NEW TRANSLATION
+ USA_spacex_mixed_provider_ecosystem_desc: "Odolný trh s více poskytovateli vyvažuje tempo letů, konkurenci a zajištění národních misí." # todo: NEW TRANSLATION
+ usa_economic_events.500.t: "Návrh pohraničních věží" # todo: NEW TRANSLATION
+ usa_economic_events.500.d: "Společnost Anduril Industries, založená letos v Orange County Palmerem Luckeym a hrstkou bývalých zaměstnanců Palantiru, tvrdí, že dokáže sledovat úsek hranice pomocí autonomních věží a jediného softwaru namísto integrační zakázky na deset let. Poslední pokus o totéž, SBInet, byl v roce 2011 zrušen po utracení miliardy dolarů. Anduril navrhuje nejprve věže postavit a teprve poté je prodat, což není způsob, jakým ministerstvo cokoli nakupuje." # todo: NEW TRANSLATION
+ usa_economic_events.500.a: "Financovat věže a nechat je nejprve stavět" # todo: NEW TRANSLATION
+ usa_economic_events.500.b: "Ponechat pohraniční dohled v rámci oficiálního programu" # todo: NEW TRANSLATION
+ usa_economic_events.501.t: "Levnější než cíl" # todo: NEW TRANSLATION
+ usa_economic_events.501.d: "Nad základnami se objevují malé drony a stávající odpovědí je střela země-vzduch, která stojí více než vše, co sestřelí. Anvil od Andurilu je dron, který naráží do jiných dronů, a Lattice je software, který je vyhledává. Jeho nákup znamená přijmout interceptor, který nebyl certifikován proti hrozbě, již jednotlivé složky dosud nedokázaly společně kategorizovat." # todo: NEW TRANSLATION
+ usa_economic_events.501.a: "Koupit levný interceptor" # todo: NEW TRANSLATION
+ usa_economic_events.501.b: "Odpovědět na drony vrstvenou protivzdušnou obranou, kterou už financujeme" # todo: NEW TRANSLATION
+ usa_economic_events.502.t: "Koupit továrnu, nebo součástky" # todo: NEW TRANSLATION
+ usa_economic_events.502.d: "Anduril koupil Area-I a její vypouštěné prostředky Altius a chce vlastnit konstrukce, autonomní systém i výrobní linky místo integrace produktů jiných firem. Vertikální integrace mu vůbec umožňuje cenově konkurovat hlavním dodavatelům. Znamená to však také, že obranný startup žádá o financování jako výrobce, přestože dosud nic ve velkém nevyrobil." # todo: NEW TRANSLATION
+ usa_economic_events.502.a: "Podpořit Anduril jako výrobce" # todo: NEW TRANSLATION
+ usa_economic_events.502.b: "Ponechat jej integrátorem nakupujícím od stávající dodavatelské základny" # todo: NEW TRANSLATION
+ usa_economic_events.503.t: "Ukrajina přebírá dodávku" # todo: NEW TRANSLATION
+ usa_economic_events.503.d: "Potulující se munice Altius-600 a soupravy Andurilu proti dronům míří na Ukrajinu v rámci balíčků čerpání zásob a jednotky, které je používají, podávají zprávy rychleji, než by to dokázalo jakékoli americké testovací středisko. Tlačit objem na východ přináší bojová data, která nikdo jiný nemá. Zároveň se tím spotřebovávají zásoby, pro něž jednotlivé složky ještě nedokončily doktrínu." # todo: NEW TRANSLATION
+ usa_economic_events.503.a: "Poslat na Ukrajinu velké množství a získat data" # todo: NEW TRANSLATION
+ usa_economic_events.503.b: "Ponechat zásoby americkým jednotkám" # todo: NEW TRANSLATION
+ usa_economic_events.504.t: "Stíhačka bez hlavního dodavatele" # todo: NEW TRANSLATION
+ usa_economic_events.504.d: "Letectvo vybralo Andurilův Fury a General Atomics pro první etapu programu Collaborative Combat Aircraft a vynechalo Lockheed Martin, Boeing i Northrop Grumman. Společnost, která před deseti lety neexistovala, nyní staví bojové letadlo. Hlavní dodavatelé namítají, že průmyslovou základnu, která vyrábí vše ostatní, nelze oslabovat jen proto, aby se dokázala teze o zadávání zakázek." # todo: NEW TRANSLATION
+ usa_economic_events.504.a: "Nechat nováčka převzít program" # todo: NEW TRANSLATION
+ usa_economic_events.504.b: "Ponechat vedení programu zavedeným hlavním dodavatelům" # todo: NEW TRANSLATION
+ usa_economic_events.505.t: "Čím se Anduril stal" # todo: NEW TRANSLATION
+ usa_economic_events.505.d: "Desetiletí věží, interceptorů, továren a jednoho bojového letounu ustálilo, čím Anduril je a co změnil na způsobu, jakým Amerika nakupuje zbraně: zda arzenál vlastní, nebo si jej pronajímá, a zda mezi Pentagonem a lidmi, kteří zbraně vyrábějí, stále stojí hlavní dodavatelé." # todo: NEW TRANSLATION
+ usa_economic_events.505.a: "Arzenál, který zcela vlastníme" # todo: NEW TRANSLATION
+ usa_economic_events.505.b: "Obchodní arzenál prodávající každému oprávněnému zákazníkovi" # todo: NEW TRANSLATION
+ usa_economic_events.505.c: "Softwarový hlavní dodavatel s továrnami někoho jiného" # todo: NEW TRANSLATION
+ usa_economic_events.505.e: "Další dodavatel financovaný rizikovým kapitálem" # todo: NEW TRANSLATION
+ USA_anduril_autonomous_arsenal: "Autonomní arzenál" # todo: NEW TRANSLATION
+ USA_anduril_autonomous_arsenal_desc: "Anduril staví vlastní konstrukce, autonomní systémy a výrobní linky na americké půdě a Pentagon nakupuje hotové systémy namísto integračních programů. Kapacitu, která patří zemi, nemůže dodavatel dodatečně přecenit." # todo: NEW TRANSLATION
+ USA_anduril_merchant_arsenal: "Obchodní arzenál" # todo: NEW TRANSLATION
+ USA_anduril_merchant_arsenal_desc: "Anduril vlastní továrny, ale prodává každému oprávněnému kupci, spojeneckému i domácímu. Objem udržuje linky v chodu a exportní vztahy otevřené, za cenu jakéhokoli nároku na přednost." # todo: NEW TRANSLATION
+ USA_anduril_software_prime: "Softwarový hlavní dodavatel" # todo: NEW TRANSLATION
+ USA_anduril_software_prime_desc: "Anduril získal programy, aniž by vlastnil továrny, takže Lattice a autonomní systém využívají hardware vyráběný jinými. Je to rychlé a levné, ale závisí to na dodavatelích, kteří odpovídají vlastním akcionářům." # todo: NEW TRANSLATION
+ USA_anduril_venture_supplier: "Dodavatel financovaný rizikovým kapitálem" # todo: NEW TRANSLATION
+ USA_anduril_venture_supplier_desc: "Anduril zůstává jedním z mnoha dodavatelů a prodává komponenty do programů, kterým stále velí zavedení hlavní dodavatelé. Technické schopnosti jsou skutečné; vliv nikoli." # todo: NEW TRANSLATION

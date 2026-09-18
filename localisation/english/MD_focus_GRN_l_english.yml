@@ -526,3 +526,581 @@
  GRN_focus_Continental_Ambitions_desc: "Nyní, když jsou severské národy sjednocené, můžeme obrátit pozornost k jihu. Tyto cíle jsou sice mnohem větší, než si dokážeme prakticky představit, ale pokud použijeme náš dosavadní diplomatický vzor, měli bychom být schopni učinit další krok v našich zahraničních ambicích. Kontinentální unie Inuitů." # todo: NEW TRANSLATION
  GRN_focus_Eastern_Continental_Interests: "Východní kontinentální zájmy" # todo: NEW TRANSLATION
  GRN_focus_Eastern_Continental_Interests_desc: "Nyní, když jsme položili základy severní konsolidace, můžeme hledět k jihu. Vytvoříme velkou východní hranici získáním opěrného bodu v baltském regionu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Nordic_Adjacent: "Operace: Severské sousedství" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Nordic_Adjacent_desc: "Estonsko je z našich finských držav nejbližší oblastí pro vylodění. Můžeme buď provést výsadek, nebo zahájit rozsáhlou námořní invazi z Helsinek a rychle zajistit zemi, než ostatní mocnosti vůbec pomyslí na protest." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Riga_River: "Operace: Řeka Riga" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Riga_River_desc: "Zajištění Lotyšska nám poskytne centrální základnu pro rozšíření a zabezpečení zbytku baltského regionu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Vilnius: "Operace: Vilnius" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Vilnius_desc: "Litva je pravděpodobně nejrozvinutější mocností v baltském regionu. Vyřadíme ji a další dvě země budou jako nedělní procházka městem." # todo: NEW TRANSLATION
+ GRN_focus_Baltic_Behestment: "Baltská integrace" # todo: NEW TRANSLATION
+ GRN_focus_Baltic_Behestment_desc: "Místní úřady i civilní obyvatelstvo se začínají uklidňovat a přijímat nový status quo, takže nyní můžeme začít integrovat bývalé baltské státy. Jako národ mají silnou vůli, a proto bychom jim snad mohli poskytnout podobné postavení, jaké jsme vyjednali s finskými místními úřady." # todo: NEW TRANSLATION
+ GRN_focus_North_Sea_Security: "Bezpečnost Severního moře" # todo: NEW TRANSLATION
+ GRN_focus_North_Sea_Security_desc: "Zajištění celého Severního moře a severního Atlantiku se ukáže jako nesmírně užitečné z hlediska globálního vlivu. Měli bychom pracovat na sjednocení Keltských ostrovů a jejich příslušných okupantů, abychom připravili cestu naší velkorysejší vládě." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Albion: "Operace: Albion" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Albion_desc: "Zajištění jádra toho, čím Spojené království je či kdysi bylo, bude klíčové pro další operace na Keltských ostrovech. Nemluvě o vytvoření kriticky důležité základny pro jakékoli západní kontinentální výstřelky." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Highlander: "Operace: Highlander" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Highlander_desc: "Zajištění skotského regionu nám umožní téměř úplnou kontrolu strategické oblasti Severního moře. Tím položíme základy pro obecný jižní postup na hlavní ostrov." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Great_Western_Nation: "Operace: Velký západní národ" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Great_Western_Nation_desc: "Strategická okupace Walesu a území někdejší Great Western Railway nám umožní využít infrastrukturu ke koordinaci zájmů na západě v Irsku i na jihovýchodě v Anglii." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Be_My_Mann: "Operace: Buď můj Mann" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Be_My_Mann_desc: "Zajištění strategicky položeného ostrova Man nám poskytne důležitou poznámku pod čarou při řešení jakýchkoli námořních problémů týkajících se celých Keltských ostrovů." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Ulster: "Operace: Ulster" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Ulster_desc: "Vzhledem k tomu, že je ostrov dodnes rozdělen, bude nejlepší vyřadit slabší severoirský stát Ulster. Jeho zajištění nám umožní pochodovat na jih a zabezpečit zbytek smaragdového ostrova." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Emerald_Isle: "Operace: Smaragdový ostrov" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Emerald_Isle_desc: "Zajištění celého Irska nám umožní lépe připravovat postupy do nejzápadnějších částí kontinentu. Nemluvě o tom, že poslouží jako základna pro druhý ostrov se „Spojeným“ královstvím." # todo: NEW TRANSLATION
+ GRN_focus_Celtic_Consolidations: "Keltská konsolidace" # todo: NEW TRANSLATION
+ GRN_focus_Celtic_Consolidations_desc: "Zahájení integračního úsilí a normalizace naší vlády a autority nad územím i lidmi si vyžádá čas. Poskytnutí pomoci a služeb a ukázka, že pod novým praporem dokážeme spolupracovat, však umožní všem vrátit se do běžného života." # todo: NEW TRANSLATION
+ GRN_focus_Western_European_Advances: "Postup v západní Evropě" # todo: NEW TRANSLATION
+ GRN_focus_Western_European_Advances_desc: "Náš stálý pochod kontinentem bude obrovským skokem vpřed, když obrátíme pozornost k západnímu centrálnímu pásmu národů." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bonaparte: "Operace: Bonaparte" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bonaparte_desc: "Francie je základním kamenem západoevropského válčiště. Slouží také jako brána do Iberie, až se rozhodneme vydat tímto směrem. Je čas upevnit nejzápadnější stát centrální osy kontinentu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Windmill: "Operace: Větrný mlýn" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Windmill_desc: "Nizozemsko nám poslouží jako výborné západní předmostí na kontinentu. Jelikož většinu země tvoří pobřeží, měli bychom ji zajistit během okamžiku." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Rhine_Rumble: "Operace: Rýnský rachot" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Rhine_Rumble_desc: "Německo představuje nejcentrálnější bod celého evropského kontinentu. Zajistíme je a postupně zajistíme celý kontinent." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Chocolate_Waffle: "Operace: Čokoládová vafle" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Chocolate_Waffle_desc: "Belgie, národ, který by rozumně vzato neměl existovat. Jako britský výtvor před několika stovkami let představuje trn v oku skutečné evropské jednoty. Tento trn odstraníme s nejvyšší možnou rychlostí." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Speed_Bump: "Operace: Zpomalovací práh" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Speed_Bump_desc: "Je to Lucembursko, není to hrozba, pokud se nepřipojí ke koalici dalších národů. Vezmeme si ho teď, dobře? Tak zatím." # todo: NEW TRANSLATION
+ GRN_focus_French_Values_Greenlandic_Leadership: "Francouzské hodnoty, grónské vedení" # todo: NEW TRANSLATION
+ GRN_focus_French_Values_Greenlandic_Leadership_desc: "Zajištění poslušnosti silně rozjitřeného obyvatelstva Francie vůči novému statusu quo si vyžádá značné množství času a úsilí. Pokud však ukážeme, že nechceme měnit jejich hodnoty, pouze vyměnit vedení, které jim vládne, snad se nám podaří s lidmi lépe spolupracovat." # todo: NEW TRANSLATION
+ GRN_focus_German_Traditions_Greenlandic_Initiative: "Německé tradice, grónské iniciativy" # todo: NEW TRANSLATION
+ GRN_focus_German_Traditions_Greenlandic_Initiative_desc: "Německo má bohatou historii vojenských tradic. Pokud toho dokážeme využít, kontinentální hegemonie bude naše. Německá vojenská zdatnost smíšená s grónskými ambicemi a sebeúctou." # todo: NEW TRANSLATION
+ GRN_focus_Low_Countries_Low_Maintainance: "Nízké země, nízká údržba" # todo: NEW TRANSLATION
+ GRN_focus_Low_Countries_Low_Maintainance_desc: "Od zemí Beneluxu se očekává pouze férové zacházení a možnost zůstat svobodomyslnými. Vzhledem k tomu, že se pokoušíme vytvořit unii rovných, ukazuje se to mnohem snazší, než se očekávalo." # todo: NEW TRANSLATION
+ GRN_focus_Iberian_Atlantic_Interests: "Iberské atlantické zájmy" # todo: NEW TRANSLATION
+ GRN_focus_Iberian_Atlantic_Interests_desc: "Iberský region představuje strategickou překážku mezi převážně centrálním Atlantikem a hlavním přístupovým bodem do Středomoří. Pokud chceme zajistit celý kontinent, musíme zabezpečit tento životně důležitý obchodní a logistický uzel." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Castile: "Operace: Kastilie" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Castile_desc: "Španělsko je hlavním hráčem v Iberii. Zajistíme je a prakticky tím zajistíme celý region." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Fontainebleau: "Operace: Fontainebleau" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Fontainebleau_desc: "Napoleon se kdysi pokusil dobýt Portugalce prostřednictvím smlouvy se Španělskem. Dnes je všechno jinak, protože Portugalsko dobydeme v zájmu iberské jednoty a evropského federalismu. Čeká nás nový úsvit a Portugalsko je branou ke konsolidaci Iberie." # todo: NEW TRANSLATION
+ GRN_focus_Operation_The_Other_Galicia: "Operace: Druhá Galicie" # todo: NEW TRANSLATION
+ GRN_focus_Operation_The_Other_Galicia_desc: "Většina lidí mimo Evropu si při zmínce o Galicii představí region kolem západní Ukrajiny. My však máme na mysli galicijský národ na severozápadě Iberie." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Basquing_In_the_Sun: "Operace: Baskování na slunci" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Basquing_In_the_Sun_desc: "Vypořádat se s baskickým národem bude snadné, pokud jsme to už neudělali. Udělali? Zapomněl jsem." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Barcelona: "Operace: Barcelona" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Barcelona_desc: "Zajištění severovýchodní části Iberie nám umožní vytvořit předmostí na druhé straně horských pásem, která vymezují francouzsko-španělskou hranici." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Casablanca: "Operace: Casablanca" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Casablanca_desc: "Jižní region známý jako Andalusie nám v rámci Iberie poskytne nezpochybnitelnou kontrolu nad naší polovinou Gibraltarského průlivu." # todo: NEW TRANSLATION
+ GRN_focus_Iberian_Idealism: "Iberský idealismus" # todo: NEW TRANSLATION
+ GRN_focus_Iberian_Idealism_desc: "Nyní, když máme region zcela pod kontrolou, můžeme začít pěstovat pocit regionální jednoty. Využijeme kultury a národy, jejich dějiny i ducha, abychom podpořili nový pocit hrdosti. Jednota skrze sílu a prosperitu, soudržnost v dobrém i zlém." # todo: NEW TRANSLATION
+ GRN_focus_Alpine_Block_Nations: "Alpské blokové národy" # todo: NEW TRANSLATION
+ GRN_focus_Alpine_Block_Nations_desc: "Jižní centrální region ovládají horské terény. Od alpských pásem na nejsevernějších částech italských hranic až po různá pohoří táhnoucí se samotnou Itálií. Pokud chceme postupovat dále na východ, musíme tento přirozeně obranný region zajistit." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Neutral_No_More: "Operace: Neutralita končí" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Neutral_No_More_desc: "Švýcarsko je národ hor. Dobudeme ho a budeme moci dobýt prakticky cokoli." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Vienna_Calling: "Operace: Volá Vídeň" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Vienna_Calling_desc: "Od Alp až po maďarské roviny zajistíme Rakousko a otevřeme cestu na východ i jih." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Slovene_And_Slide: "Operace: Slovinsko a skluz" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Slovene_And_Slide_desc: "Získání předmostí na severním Balkáně nám pomůže zajistit region, jakmile k němu obrátíme pozornost." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Gelato: "Operace: Gelato" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Gelato_desc: "Itálie leží strategicky v jižním středu Evropy a ve Středozemním moři. Jejím zajištěním získáme důležitý námořní aparát pro další operace." # todo: NEW TRANSLATION
+ GRN_focus_Securing_Local_Interests: "Zajištění místních zájmů" # todo: NEW TRANSLATION
+ GRN_focus_Securing_Local_Interests_desc: "Ohled na zájmy místního obyvatelstva a jeho potřeby pomůže vrhnout na situaci nové a pozitivnější světlo. Doufáme, že díky lepšímu kontaktu s lidmi bude předání moci plynulejší." # todo: NEW TRANSLATION
+ GRN_focus_Great_Eastern_Interests: "Velké východní zájmy" # todo: NEW TRANSLATION
+ GRN_focus_Great_Eastern_Interests_desc: "Nyní, když je naše předmostí na východě zajištěno, můžeme se rozšířit do zbytku východní Evropy. Od polských a českých pohraničí až po běloruské a ukrajinské hranice. Zahájíme pochod na východ." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Heartbeat: "Operace: Tep srdce" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Heartbeat_desc: "Polsko je tlukoucím srdcem východní Evropy. Kvůli velkým investicím do vojenské připravenosti se mu přezdívá evropský Texas. Nyní to podrobíme nejvyšší zkoušce." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Carpathia: "Operace: Karpaty" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Carpathia_desc: "Většina slovenského národa leží na severním oblouku velkého karpatského pohoří. Pokud chceme získat základnu pro postup na jih do Balkánu, musíme tyto hory překročit." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Final_Rhapsody: "Operace: Závěrečná rapsodie" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Final_Rhapsody_desc: "Zajištění Česka nám umožní prakticky upevnit celý severní přístup na Balkán. Je to další krok k evropské jednotě." # todo: NEW TRANSLATION
+ GRN_focus_Operation_White_Russian: "Operace: Bělorus" # todo: NEW TRANSLATION
+ GRN_focus_Operation_White_Russian_desc: "Bělorusko je klíčovým článkem, který drží ruské zájmy v Evropě, pomineme-li samozřejmě staré historické ambice. Pokud chceme skutečně upevnit kontrolu nad kontinentem, musíme jim vzít vítr z plachet." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bread_Basket: "Operace: Obilnice" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bread_Basket_desc: "Zajištění obilnice kontinentu by nám prospělo mnoha způsoby. Jistě toho musíme dosáhnout." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Soviet_Storm: "Operace: Sovětská bouře" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Soviet_Storm_desc: "Podněstří je samo o sobě časovou kapslí. Jako jedna z posledních bašt SSSR je tento národ, ač malý, nesmírně hrdý a vzdorovitý díky svým téměř stínovým mechanismům, které ho nějak udržují při životě." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Your_Right_No_Your_Other_Right: "Operace: Vaše pravá, ne druhá pravá" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Your_Right_No_Your_Other_Right_desc: "Musíme zaútočit na Moldavsko... ne, ne na rumunský region, ale na tento národ. Ano, vím, že je to matoucí, ale neptejte se mě. Zeptejte se jich, až tam dorazíme." # todo: NEW TRANSLATION
+ GRN_focus_Eastern_Territorial_Authority_Bureau: "Úřad pro východní územní správu" # todo: NEW TRANSLATION
+ GRN_focus_Eastern_Territorial_Authority_Bureau_desc: "ETAB je specializovaná agentura určená k řešení svobodomyslnějších východních národů. Tito lidé mají rozsáhlé venkovské oblasti, které jsou z hlediska centralizace víceméně stále nezkrocené. Můžeme provádět infrastrukturní projekty a programy práce s komunitami, abychom snad uklidnili a vyřešili všechny dlouhodobé problémy, na které narazíme." # todo: NEW TRANSLATION
+ GRN_focus_Balkan_Bounties: "Balkánské kořisti" # todo: NEW TRANSLATION
+ GRN_focus_Balkan_Bounties_desc: "Poslední hřeby do rakve našeho rozsáhlého projektu: balkánské národy. Země válek a dějin, kterou budeme rozsáhle krotit, abychom zkrotili tuto nestabilní zoologickou zahradu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Nosferatu: "Operace: Nosferatu" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Nosferatu_desc: "Transylvánská kotlina v Karpatech je strategickou obrannou pozicí. Samotné Rumunsko navíc disponuje značnou energetickou produkcí, a proto můžeme tyto zdroje lépe využít ve prospěch všech." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bulgar: "Operace: Bulhar" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Bulgar_desc: "Upevnění východního úseku podél Černého moře nám pomůže zkonsolidovat úsilí směřující do vnitrozemí Balkánu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Alexander_Not_So_Great: "Operace: Alexandr ne tak velký" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Alexander_Not_So_Great_desc: "Makedonie tvrdí, že se může pyšnit historickou postavou Alexandra Velikého. Já ho však nyní nevidím, takže od této chvíle převezmeme vládu my." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Trianon: "Operace: Trianon" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Trianon_desc: "Maďarský národ se rozkládá přes severní centrální plošinu Balkánu. Pokud ji zajistíme, otevře se nám jasná cesta na jih ke Středozemnímu moři." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Princip: "Operace: Princip" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Princip_desc: "Od Černé ruky, která rozpoutala světovou válku, nyní dáme srbskému národu políček a vypořádáme se s jedním z největších podněcovatelů požárů v regionu." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Koso_Woah: "Operace: Koso wow" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Koso_Woah_desc: "Zpomalení, kterým je Kosovo, představuje pro Srbsko větší trn v oku než pro nás. Proto by to měla být rychlá záležitost." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Scissors: "Operace: Nůžky" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Scissors_desc: "Zajištění Chorvatska nám poskytne významné pobřežní zázemí a pozice pro útoky z boku, zatímco budeme sledovat naše jižnější ambice." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Minefield: "Operace: Minové pole" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Minefield_desc: "Naší největší obavou při podmaňování hluboce rozděleného národa Bosny je skutečnost, že celá země je prakticky předem položeným minovým polem. Pokud se chceme v dohledné době skutečně někam dostat, budeme muset přivézt dostatek vybavení k jejich likvidaci." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Mountain_Man: "Operace: Horák" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Mountain_Man_desc: "Černohorské hory se dobývají těžko, ale dostaneme se tam dříve či později." # todo: NEW TRANSLATION
+ GRN_focus_Operation_Adriatic_Gateway: "Operace: Jadranská brána" # todo: NEW TRANSLATION
+ GRN_focus_Operation_Adriatic_Gateway_desc: "Zajištění Albánie nám umožní uzavřít Jaderské moře. Tím získáme obrovský potenciál pro stavbu námořnictva a v podstatě i rozsáhlou síť přístavů, kterou můžeme využít pro operace ve Středozemním moři." # todo: NEW TRANSLATION
+ GRN_focus_Operation_This_Is_Sparta: "Operace: Tohle je Sparta" # todo: NEW TRANSLATION
+ GRN_focus_Operation_This_Is_Sparta_desc: "Řecko, poloostrovní a ostrovní národ s významnými kulturními a historickými poklady. Zajistíme tento samotný uzel historie, ale musíme se ze všech sil snažit nezničit historická místa." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Territorial_Authority_Commission: "Komise pro jižní územní správu" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Territorial_Authority_Commission_desc: "Vytvoření specializované komise nám umožní soustředit integrační a sjednocovací opatření, abychom neměli celonárodní problém kvůli potížím určité oblasti s tím, že si nedokáže hledět svého." # todo: NEW TRANSLATION
+ GRN_focus_Establishing_The_Frozen_Federation: "Založení Ledové federace" # todo: NEW TRANSLATION
+ GRN_focus_Establishing_The_Frozen_Federation_desc: "Konečně jsme to dokázali. Vytvořili jsme sjednocený federální národ, který spojuje zamrzlé severní národy se zbytkem národů Evropské kontinentální unie. Samozřejmě není dokonalý, a proto nezahrnuje celý geografický kontinentální region Evropy. Přesto jde o náš vklad do dějin a ze všech sil budeme hájit hodnoty a národy, které nyní držíme pod svými křídly. Za Federaci!" # todo: NEW TRANSLATION
+ GRN_focus_The_Great_Ice_Shelf: "Velký ledový šelf" # todo: NEW TRANSLATION
+ GRN_focus_The_Great_Ice_Shelf_desc: "Rozsáhlé vnitrozemí našeho národa není nic jiného než obrovská ledová plocha. S tím, jak se rozvíjí náš národ, jsme však dokázali šelf postupně odsekávat kontrolovaným využíváním zmrzlé vody. Nyní můžeme plně zaměřit pozornost na vnitrozemí, připravit jeho osídlení a řádný rozvoj. Budoucnost je zelená a my objevíme země pod ledem." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Interior_Development_Projects: "Projekty rozvoje jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Interior_Development_Projects_desc: "Začneme se zabývat jižní oblastí vnitrozemí, kterou jsme vyčlenili pro rozvoj a logistickou přípravu." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Settlement_Projects: "Projekty osídlení jihu" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Settlement_Projects_desc: "Z logistických důvodů začneme zakládat několik strategicky umístěných osad, které zvýší nejen místní populaci, ale vytvoří také určitý zásobovací řetězec v regionu. To nám pomůže uskutečnit budoucí projekty, jejichž prostřednictvím se konečně pokusíme zkrotit značnou část Velkého ledového šelfu." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Infrastructure_Projects: "Projekty jižní infrastruktury" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Infrastructure_Projects_desc: "Abychom propojili naše osady a zahájili jakoukoli hospodářskou činnost, budeme potřebovat určitou infrastrukturu, která zajistí, že nastavíme zlatý standard skutečného zkrocení přírody." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Economic_Projects: "Projekty jižního hospodářství" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Economic_Projects_desc: "Nyní, když jsou v jižním vnitrozemí lidé a infrastruktura, můžeme pomalu začít budovat vnitřní či místní ekonomickou základnu. Tento základ připraví půdu pro značný růst s postupem času." # todo: NEW TRANSLATION
+ GRN_focus_Southern_Mining_Projects: "Projekty těžby na jihu" # todo: NEW TRANSLATION
+ GRN_focus_Southern_Mining_Projects_desc: "Region se pomalu stabilizuje po hospodářské i společenské stránce, a tak nastal čas zahájit hlubinné vrtné těžební projekty. Led využijeme k nepřetržitému vrtání do hloubky, abychom získali skutečná geologická data a zároveň zabránili přehřívání zařízení kvůli teplotnímu rozdílu." # todo: NEW TRANSLATION
+ GRN_focus_Taming_The_Southern_Interior: "Zkrocení jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_focus_Taming_The_Southern_Interior_desc: "Nyní, když máme k dispozici lidi, infrastrukturu i zdroje, můžeme říci, že jsme skutečně zkrotili část Velkého ledového šelfu. Naše práce samozřejmě nekončí, ani zdaleka. Nyní však můžeme s jistotou pohlédnout k velkému severnímu obzoru a říci, že jsme na velkolepé a plodné cestě." # todo: NEW TRANSLATION
+ GRN_focus_Central_Plateau_Development_Projects: "Projekty rozvoje centrální plošiny" # todo: NEW TRANSLATION
+ GRN_focus_Central_Plateau_Development_Projects_desc: "Nyní, když je jižní region v základních rysech zkrocen, můžeme velkou ledovou výpravu zahájit v centrální oblasti. Díky většímu množství ledu a potenciální rozlohy půdy budeme moci investovat do dalších základních ukazatelů." # todo: NEW TRANSLATION
+ GRN_focus_Central_Settlement_Projects: "Projekty osídlení středu" # todo: NEW TRANSLATION
+ GRN_focus_Central_Settlement_Projects_desc: "Stejně jako v jižním regionu začneme na celé plošině budovat strategické osady." # todo: NEW TRANSLATION
+ GRN_focus_Central_Infrastructure_Projects: "Projekty centrální infrastruktury" # todo: NEW TRANSLATION
+ GRN_focus_Central_Infrastructure_Projects_desc: "Po založení našich osad můžeme začít vytvářet dostatečnou infrastrukturní síť, která vše řádně propojí." # todo: NEW TRANSLATION
+ GRN_focus_Central_Economic_Projects: "Projekty centrálního hospodářství" # todo: NEW TRANSLATION
+ GRN_focus_Central_Economic_Projects_desc: "Obyvatelstvo, splněno. Infrastruktura, splněno. Nyní vykročíme vpřed a vytvoříme místní hospodářský aparát." # todo: NEW TRANSLATION
+ GRN_focus_Central_Mining_Projects: "Projekty těžby ve středu" # todo: NEW TRANSLATION
+ GRN_focus_Central_Mining_Projects_desc: "Stejně jako v jižním regionu jsme konečně vytvořili ekonomické i společenské sítě potřebné k přípravě těžby zdrojů. Oblast je mnohem větší než jih, takže doufejme v plodný podnik." # todo: NEW TRANSLATION
+ GRN_focus_Taming_The_Central_Plateau: "Zkrocení centrální plošiny" # todo: NEW TRANSLATION
+ GRN_focus_Taming_The_Central_Plateau_desc: "Nyní, když jsou na místě lidé, osady, potraviny, hospodářství i zdroje, můžeme oficiálně a s jistotou říci, že jsme zkrotili Velký ledový šelf. Časem nás čeká mnoho obtíží, ale prozatím i v dohledné budoucnosti se můžeme těšit z polární slávy našeho velkého a prosperujícího národa." # todo: NEW TRANSLATION
+ GRN_eu_adjacent_nation: "Národ přidružený k EU" # todo: NEW TRANSLATION
+ GRN_eu_adjacent_nation_desc: "Grónsko se nachází v zajímavé situaci. Jelikož leží nejdále od evropského kontinentu, není a pravděpodobně nikdy nebude členským státem EU. Díky svému statusu dánské korunní kolonie však získává stejné migrační a cestovní podmínky jako kterýkoli jiný členský stát EU. Mnoho Gróňanů toho využívá k hledání lepších vzdělávacích příležitostí kvůli nedostatečnému rozvoji ostrova." # todo: NEW TRANSLATION
+ GRN_economic_pains: "Hospodářské potíže" # todo: NEW TRANSLATION
+ GRN_economic_pains_desc: "Počet obyvatel Grónska se po desetiletí pohybuje kolem padesáti tisíc a stále se zmenšuje, zatímco drsné klima a logistika se stávají hlavními překážkami rozvoje. V novém tisíciletí problém pokračuje a představitelé národa musí najít způsob, jak přizpůsobit a upravit potřeby hospodářství, pokud se on i samotný národ mají stát něčím víc než jen stagnující zemí." # todo: NEW TRANSLATION
+ GRN_idea_colonial_subsidy: "Koloniální dotace" # todo: NEW TRANSLATION
+ GRN_idea_colonial_subsidy_desc: "Náš národ je natolik nerozvinutý, že jsme při každodenním fungování silně závislí na dánských dotacích. Pokud vůbec chceme pomýšlet na nezávislost na dánské koruně, musíme najít způsob, jak tuto dotaci již nepotřebovat k pouhému přežití." # todo: NEW TRANSLATION
+ GRN_colonial_subsidy_TT: "§GDodatečný příjem:§! §Y$0.300§!" # todo: NEW TRANSLATION
+ GRN_idea_narrow_gauge_nation: "Národ úzkorozchodných tratí" # todo: NEW TRANSLATION
+ GRN_idea_narrow_gauge_nation_desc: "Flexibilita a cenová efektivita úzkorozchodných tratí i vybavení nám umožní urychlit rozvoj a propojení celého národa. Navíc poskytují bezpečnostní výhodu, protože jejich výroba je levnější a lze je zabezpečit lépe než běžné tratě a vybavení standardního rozchodu." # todo: NEW TRANSLATION
+ GRN_idea_battle_for_independence: "Boj za nezávislost" # todo: NEW TRANSLATION
+ GRN_idea_battle_for_independence_desc: "Dosáhli jsme bodu, kdy je naše nezávislost zajištěna. Zahájíme rozsáhlé nátlakové kampaně, abychom zajistili, že se naše nezávislost uskuteční ještě za našeho života." # todo: NEW TRANSLATION
+ GRN_ideas_political_freedoms: "Politické svobody" # todo: NEW TRANSLATION
+ GRN_ideas_political_freedoms_desc: "Náš národ si může svobodně zvolit, po čem jeho lid touží, a proto se necítíme omezeni jedinou ideologií." # todo: NEW TRANSLATION
+ GRN_ideas_emerging_political_influences: "Vznikající politické vlivy" # todo: NEW TRANSLATION
+ GRN_ideas_emerging_political_influences_desc: "Nyní, když je náš národ nezávislý, se můžeme soustředit na moderní přístup k politice, když vstupujeme do tohoto odvážného nového světa." # todo: NEW TRANSLATION
+ GRN_ideas_non_aligned_political_influences: "Neangažované politické vlivy" # todo: NEW TRANSLATION
+ GRN_ideas_non_aligned_political_influences_desc: "Náš národ si může svobodně zvolit vlastní cestu. Žádná geopolitická strana nám skutečně neprospěje, a proto se zaměříme sami na sebe neutrálním způsobem." # todo: NEW TRANSLATION
+ GRN_ideas_nationalist_political_influences: "Nacionalistické politické vlivy" # todo: NEW TRANSLATION
+ GRN_ideas_nationalist_political_influences_desc: "Náš národ je svobodný, naši lidé jsou sjednocení a náš národ je nejvyšší prioritou našeho zaměření na budoucnost. Grónský nacionalismus nám dává klid." # todo: NEW TRANSLATION
+ GRN_idea_alumina_research_institute: "Výzkumný ústav oxidu hlinitého" # todo: NEW TRANSLATION
+ GRN_idea_alumina_research_institute_desc: "Založení ARI je zásadní pro pochopení těžby, zpracování a efektivního využívání zdrojů. Tento specializovaný výzkumný a vývojový komplex posune náš národ na novou úroveň při vyjednávání o zahraničním obchodu i při praktičtějším uplatňování autarkních politik." # todo: NEW TRANSLATION
+ GRN_idea_economic_development_visas: "Víza hospodářského rozvoje" # todo: NEW TRANSLATION
+ GRN_idea_economic_development_visas_desc: "Ti, kteří se chtějí přestěhovat a usadit v našem národě, mohou požádat o vízum 1. třídy známé jako vízum hospodářského rozvoje. EDV je v podstatě nástupní proces, který novým občanům pomůže usadit se a najít zaměstnání, v němž mohou přispět k rozvoji a celkovému růstu národa." # todo: NEW TRANSLATION
+ GRN_idea_sanctioned_immigration_efforts: "Schválené imigrační úsilí" # todo: NEW TRANSLATION
+ GRN_idea_sanctioned_immigration_efforts_desc: "Prostřednictvím cíleného úsilí se pokusíme zajistit stabilní růst populace prostřednictvím imigrace." # todo: NEW TRANSLATION
+ GRN_idea_strategic_mineral_leasing: "Strategický pronájem nerostných surovin" # todo: NEW TRANSLATION
+ GRN_idea_strategic_mineral_leasing_desc: "Prohlášení o pronájmu těžby nerostů zahraničním společnostem je velmi ostrý meč. Musíme přesně regulovat, co mohou těžit, kde mohou těžit a kam budou tyto nerosty směřovat. Doufejme, že tak co nejvíce omezíme nadměrné zahraniční vměšování do naší politické struktury a zároveň tyto společnosti využijeme k rozvoji našich vyjednávacích trumfů." # todo: NEW TRANSLATION
+ GRN_idea_contracting_a_workforce: "Najímání pracovní síly" # todo: NEW TRANSLATION
+ GRN_idea_contracting_a_workforce_desc: "Využití celního a pohraničního bezpečnostního aparátu k zajištění smluvní pracovní síly nám umožní rozšiřovat podniky a průmysl stabilním a spolehlivějším tempem. Koneckonců si smlouvu přečetli a podepsali." # todo: NEW TRANSLATION
+ GRN_idea_agriculture_automations: "Automatizace zemědělství" # todo: NEW TRANSLATION
+ GRN_idea_agriculture_automations_desc: "Hlavním problémem našeho národa je jednoduše udržet stabilní pracovní sílu, kterou lze zaměstnat. Proto jsme se rozhodli masivně investovat do zemědělského sektoru, abychom výrazně snížili potřebu dalších lidských zdrojů v tomto odvětví." # todo: NEW TRANSLATION
+ GRN_idea_war_production_automations: "Automatizace válečné výroby" # todo: NEW TRANSLATION
+ GRN_idea_war_production_automations_desc: "Hlavním problémem našeho národa je jednoduše udržet stabilní pracovní sílu, kterou lze zaměstnat. Proto jsme se rozhodli masivně investovat do sektoru válečné výroby, abychom výrazně snížili potřebu dalších lidských zdrojů v tomto odvětví. V případě potřeby tak uvolníme pracovníky i potenciální vojáky pro armádu." # todo: NEW TRANSLATION
+ GRN_idea_industrial_automations: "Automatizace průmyslu" # todo: NEW TRANSLATION
+ GRN_idea_industrial_automations_desc: "Hlavním problémem našeho národa je jednoduše udržet stabilní pracovní sílu, kterou lze zaměstnat. Proto jsme se rozhodli masivně investovat do výrobního sektoru, abychom výrazně snížili potřebu dalších lidských zdrojů v tomto odvětví. Toto neustále se rozšiřující odvětví obvykle vyžaduje nejvíce pracovníků kvůli růstu výroby, takže by nám to mělo přinést největší prospěch." # todo: NEW TRANSLATION
+ GRN_idea_corporate_automations: "Automatizace korporací" # todo: NEW TRANSLATION
+ GRN_idea_corporate_automations_desc: "Hlavním problémem našeho národa je jednoduše udržet stabilní pracovní sílu, kterou lze zaměstnat. Proto jsme se rozhodli masivně investovat do sektorů kancelářských služeb a technologií, abychom výrazně snížili potřebu dalších lidských zdrojů. Toto odvětví náročné na pracovní sílu obvykle vyžaduje nejvíce pracovníků kvůli svým nárokům, takže by nám to mohlo přinést značný prospěch." # todo: NEW TRANSLATION
+ GRN_idea_strategic_mining_automations: "Automatizace strategické těžby" # todo: NEW TRANSLATION
+ GRN_idea_strategic_mining_automations_desc: "Přepracováním způsobu těžby zdrojů a zaměřením se na možnost vysílat do dolů co nejméně lidí můžeme maximalizovat těžební úsilí bez hrozby ztrát na životech. Samozřejmě to nebude dokonalé, ale tato autonomní vozidla a vybraná zařízení by měla nabídnout mnohem lepší možnosti." # todo: NEW TRANSLATION
+ GRN_idea_pro_military_economic_organization: "Ekonomická organizace ve prospěch armády" # todo: NEW TRANSLATION
+ GRN_idea_pro_military_economic_organization_desc: "Přeorientováním hospodářství kolem civilních a náborových potřeb zlepšíme výrobní schopnosti našich zbrojních závodů a snížíme celkový počet pracovníků potřebných k provozu zařízení. Tak rozsáhlá přestavba samozřejmě ochromí samotnou výrobní kapacitu, ale jakmile se provoz stabilizuje a obnoví, budou tato zařízení schopna vyrábět více s mnohem menšími nároky." # todo: NEW TRANSLATION
+ GRN_idea_frozen_warfare_training: "Výcvik boje v mrazu" # todo: NEW TRANSLATION
+ GRN_idea_frozen_warfare_training_desc: "Naše výcvikové programy se zaměří především na boj v zimě a chladném podnebí. Samozřejmě se budeme snažit provádět i jiný výcvik, kdykoli a kdekoli to bude možné, ale náš domov je chladný, a proto se musíme řádně připravit na jeho obranu." # todo: NEW TRANSLATION
+ GRN_idea_polar_logistics_doctrine: "Doktrína polární logistiky" # todo: NEW TRANSLATION
+ GRN_idea_polar_logistics_doctrine_desc: "Základní konstrukce našeho vybavení tak, aby bylo lépe použitelné v extrémním chladu, nám umožní účinněji bojovat podle našich představ, pokud se nepřátelské síly rozhodnou vylodit na našem ostrově." # todo: NEW TRANSLATION
+ GRN_idea_artillery_specialist_corps: "Sbor dělostřeleckých specialistů" # todo: NEW TRANSLATION
+ GRN_idea_artillery_specialist_corps_desc: "Dělostřelectvo je základem schopnosti způsobovat větší škody, než utrpíme, pokud jsme v dobré pozici. Abychom tuto výhodu zachovali, budeme muset rozvíjet a rozšiřovat dělostřelecký sbor na úroveň, která udrží naše ztráty na minimu." # todo: NEW TRANSLATION
+ GRN_idea_heavy_anti_air_investments: "Investice do těžké protivzdušné obrany" # todo: NEW TRANSLATION
+ GRN_idea_heavy_anti_air_investments_desc: "V moderním způsobu boje je novou královnou bojiště letectvo. Stíhačky, bombardéry, cokoli potřebujete, to dokážou. Jelikož je naše armáda tak malá, musíme najít způsob, jak nepříteli zabránit v tom, aby dělal, co chce. Proto zahájíme rozsáhlé investice do návrhu a vývoje protiletadlového vybavení, abychom našim vojákům na zemi poskytli skutečnou šanci k boji." # todo: NEW TRANSLATION
+ GRN_idea_army_officer_corps: "Sbor armádních důstojníků" # todo: NEW TRANSLATION
+ GRN_idea_army_officer_corps_desc: "Založení a standardizace sboru pro výcvik armádních důstojníků nám umožní formovat, zdokonalovat a zlepšovat naše taktické a strategické vůdce, aby lépe rozuměli nejen sami sobě, ale i vojákům, které vedou." # todo: NEW TRANSLATION
+ GRN_idea_small_ship_developments: "Vývoj malých lodí" # todo: NEW TRANSLATION
+ GRN_idea_small_ship_developments_desc: "První vývojové práce přinášejí ovoce. Naše rané návrhy korvet ukazují, že ačkoli je můžeme zdokonalovat a vylepšovat, tento strategický zisk bude k něčemu jen tehdy, pokud najdeme dostatek lidí schopných plavidla řádně obsadit." # todo: NEW TRANSLATION
+ GRN_idea_expanding_small_vessel_designs: "Rozšíření návrhů malých plavidel" # todo: NEW TRANSLATION
+ GRN_idea_expanding_small_vessel_designs_desc: "Abychom naše oddělení korvet doplnili podobnými inovacemi, zaměříme se na typy fregat a torpédoborců a plně rozvineme naše flotily malých plavidel." # todo: NEW TRANSLATION
+ GRN_idea_attack_submarine_programs: "Programy útočných ponorek" # todo: NEW TRANSLATION
+ GRN_idea_attack_submarine_programs_desc: "ASP je série vývojových a testovacích programů určených k ověření limitů a nejúčinnějších způsobů využití nových technologií." # todo: NEW TRANSLATION
+ GRN_idea_missile_submarine_programs: "Programy raketových ponorek" # todo: NEW TRANSLATION
+ GRN_idea_missile_submarine_programs_desc: "MSP je série vývojových a testovacích programů určených k ověření nejúčinnějšího způsobu využití raketové techniky v námořním boji." # todo: NEW TRANSLATION
+ GRN_idea_navy_officer_corps: "Sbor námořních důstojníků" # todo: NEW TRANSLATION
+ GRN_idea_navy_officer_corps_desc: "Založení sboru pro výcvik námořních důstojníků nám umožní zlepšit standardy dokonalosti v boji a velení naší námořní složky." # todo: NEW TRANSLATION
+ GRN_idea_aviation_innovations: "Letecké inovace" # todo: NEW TRANSLATION
+ GRN_idea_aviation_innovations_desc: "První výsledky začínají přinášet ovoce, protože zařízení TARI začalo uvádět své inovace do obecných konstrukčních a výrobních modelů pro testování a zdokonalování. Mohly by se ukázat jako užitečné, když budeme pokračovat v reformě a zdokonalování našeho akčního plánu vzdušné nadvlády." # todo: NEW TRANSLATION
+ GRN_idea_air_dominance_program: "Program vzdušné nadvlády" # todo: NEW TRANSLATION
+ GRN_idea_air_dominance_program_desc: "ADP se věnuje konkrétní třídě stíhacích letounů a způsobům, jak zlepšit jejich celkové bojové schopnosti a uchránit naše nebe před nepřátelským obtěžováním." # todo: NEW TRANSLATION
+ GRN_idea_bombing_innovations: "Inovace bombardování" # todo: NEW TRANSLATION
+ GRN_idea_bombing_innovations_desc: "Inovace ve schopnostech boje vzduch-země i vzduch-loď nám umožnily specializovat naše všeobecné bombardovací úsilí a učinit je účinnějšími než kdykoli předtím. Pokud chceme zabránit skutečnému vylodění nepřátelských sil na našem ostrově, musíme tyto snahy dále rozvíjet." # todo: NEW TRANSLATION
+ GRN_idea_bomber_design_department: "Oddělení konstrukce bombardérů" # todo: NEW TRANSLATION
+ GRN_idea_bomber_design_department_desc: "BDD se věnuje zlepšování a rozšiřování účinnosti našich bombardovacích leteckých flotil a představuje vrchol leteckých inovací našeho národa." # todo: NEW TRANSLATION
+ GRN_idea_air_officer_corps: "Sbor leteckých důstojníků" # todo: NEW TRANSLATION
+ GRN_idea_air_officer_corps_desc: "Rozvoj sboru důstojníků letectva nám umožní zvýšit celkovou účinnost a inovovat ve vedení i uplatňované taktice leteckých bojových operací." # todo: NEW TRANSLATION
+ GRN_idea_general_staff_corps: "Sbor generálního štábu" # todo: NEW TRANSLATION
+ GRN_idea_general_staff_corps_desc: "Nyní, když je naše armáda konečně natolik rozvinutá, že mezi jednotlivými složkami potřebuje jednotný velitelský štáb, náš národ učinil a bude nadále činit velké kroky v oblasti národní obrany." # todo: NEW TRANSLATION
+ GRN_idea_agricultural_futurist_policies: "Futuristická zemědělská politika" # todo: NEW TRANSLATION
+ GRN_idea_agricultural_futurist_policies_desc: "Upřednostnění výzkumu i hospodářských investic v širším zemědělském sektoru nám umožní držet krok s inovacemi a nadále správně přizpůsobovat kapacitu požadavkům, které budeme potřebovat, pokud se zaměříme na víc než jen domácí potřeby." # todo: NEW TRANSLATION
+ GRN_idea_polar_infrastructure_developments: "Rozvoj polární infrastruktury" # todo: NEW TRANSLATION
+ GRN_idea_polar_infrastructure_developments_desc: "Naše pokračující investice do budování infrastruktury i do způsobů, jak tyto investice učinit trvalejšími, nám umožnily inovovat v oblastech, o nichž by mnozí ani neuvažovali." # todo: NEW TRANSLATION
+ GRN_idea_economic_modernity_policies: "Politika hospodářské modernity" # todo: NEW TRANSLATION
+ GRN_idea_economic_modernity_policies_desc: "Náš národ stojí v čele rozvoje. Tento velkolepý pochod k prosperitě národa a jeho občanů budeme jistě dále rozvíjet." # todo: NEW TRANSLATION
+ GRN_ideas_mining_needs: "Těžba podle potřeb" # todo: NEW TRANSLATION
+ GRN_ideas_mining_needs_desc: "Rozhodli jsme se zaměřit těžební sektor na národní potřeby, nikoli na cokoli nad jejich rámec. To nám umožnilo strategicky vyjednávat o vývozních cenách a zároveň snížit nároky sektoru na lidské zdroje." # todo: NEW TRANSLATION
+ GRN_ideas_mining_greeds: "Těžba podle chamtivosti" # todo: NEW TRANSLATION
+ GRN_ideas_mining_greeds_desc: "Rozhodli jsme se zaměřit těžební sektor na národní i mezinárodní potřeby, nikoli pouze na to, co je potřeba v daný okamžik. Díky tomu jsme mohli své zdroje výrazně zhodnotit a vyjednat skutečně výhodné podmínky vývozu. Přestože hospodářský sektor zatížila zvýšená poptávka po pracovnících, celkový přínos zřejmě ospravedlňuje vynaložené prostředky." # todo: NEW TRANSLATION
+ GRN_ideas_intense_foreign_affairs_budgeting: "Intenzivní financování zahraničních vztahů" # todo: NEW TRANSLATION
+ GRN_ideas_intense_foreign_affairs_budgeting_desc: "Pokud chceme v zahraničí skutečně získat diplomatický vliv, musíme se na toto úsilí vážně zaměřit. Vzhledem k naší současné síle nám kvůli populačním problémům v poměru k hospodářství chybí vnitřní stabilita. Pokud nezahrajeme správně, jsme v podstatě tvrdá skořápka s prázdným vnitřkem." # todo: NEW TRANSLATION
+ GRN_ideas_political_shenanigans: "Politické kejkle" # todo: NEW TRANSLATION
+ GRN_ideas_political_shenanigans_desc: "Nedávno vyšly najevo nespokojené snahy uvnitř našeho národa. Vzhledem k našemu zdravému stavu se nezdají být ničím víc než obtíží, ale pokud se chceme vrátit ke klidnějšímu stavu, musíme zjistit, kdo za těmi nesmysly stojí." # todo: NEW TRANSLATION
+ GRN_ideas_domesticating_foreign_policy: "Zdomácnění zahraniční politiky" # todo: NEW TRANSLATION
+ GRN_ideas_domesticating_foreign_policy_desc: "Zajištění našich zahraničních ambicí znamená zajistit také domácí frontu a prostředky k využití našeho zahraničního vlivu." # todo: NEW TRANSLATION
+ GRN_ideas_the_frozen_federation: "Ledová federace" # todo: NEW TRANSLATION
+ GRN_ideas_the_frozen_federation_desc: "Nuže, sjednotili jsme kontinent podle svých nejlepších schopností. Jediným problémem je, že jsme pod jedním praporem sjednotili i všechny potíže. Není to konec světa, ale v dohledné budoucnosti nás čeká obtížná jízda." # todo: NEW TRANSLATION
+ GRN_domestic_and_civil_affairs_administration: "Správa vnitřních a občanských záležitostí" # todo: NEW TRANSLATION
+ GRN_domestic_and_civil_affairs_administration_desc: "Grónsko má řadu problémů a jádro většiny z nich vychází z nízkého počtu obyvatel. Správa vnitřních a občanských záležitostí má pečovat o grónské občany a průběžně reformovat, přidávat či rušit politiky, aby zajistila co nejlepší a nejspravedlivější výsledek pro obyvatele ostrova." # todo: NEW TRANSLATION
+ GRN_federal_budgets: "Národní výdaje" # todo: NEW TRANSLATION
+ GRN_federal_budgets_desc: "Na ostrově nežije mnoho lidí, přesto jsou k údržbě a řádnému rozvoji zapotřebí značné výdaje. Pokud chceme stabilní fiskální budoucnost, budeme muset hledat lepší způsoby rozvoje nebo celkového rozpočtování." # todo: NEW TRANSLATION
+ GRN_revenue_collection_administration: "Správa výběru příjmů" # todo: NEW TRANSLATION
+ GRN_revenue_collection_administration_desc: "RCA je určena jako agentura národní vlády pro výběr a vymáhání daní. Musí spolupracovat s tvůrci vládní politiky, aby byly daně vyměřovány spravedlivě a účinně a aby byly řádně vymáhány ve prospěch vyrovnaného národního rozpočtu." # todo: NEW TRANSLATION
+ GRN_economic_development_board: "Rada pro hospodářský rozvoj" # todo: NEW TRANSLATION
+ GRN_economic_development_board_desc: "EDB je páteří tvorby hospodářské politiky a obecného národního růstu a rozvoje. Tato část vlády se snaží zavádět politiky a programy, budovat národní hospodářství a všude, kde je to možné, zvyšovat kvalitu života občanů. Největší překážkou jsou v tomto ohledu logistika, pracovní síla a kapitál, stejně jako prostá vůle něco uskutečnit." # todo: NEW TRANSLATION
+ GRN_national_armed_services_of_greenland: "Národní ozbrojené síly Grónska" # todo: NEW TRANSLATION
+ GRN_national_armed_services_of_greenland_desc: "Ozbrojené síly Grónska jsou zajímavou institucí, protože populace ostrova je tak malá, že toho nemohou příliš mnoho vykonat. Přesto má ostrov určitý druh vojenské síly a teoreticky ji může rozšířit. Nyní už jen budoucí události ukážou, jak se tato expanze uskuteční." # todo: NEW TRANSLATION
+ GRN_idea_the_great_ice_shelf: "Velký ledový šelf" # todo: NEW TRANSLATION
+ GRN_idea_the_great_ice_shelf_desc: "Grónský ledový šelf je jedním z největších ledových útvarů na světě, který pokrývá značnou část pevniny. Může být až dvě míle hluboký a představuje největší překážku jakémukoli skutečnému rozvoji mimo pobřežní oblasti." # todo: NEW TRANSLATION
+ GRN_country_flag_Independence_War: "§YVyhlásil válku za nezávislost§!" # todo: NEW TRANSLATION
+ GRN_country_flag_Self_Government_Act_Approved: "Dánský parlament §Yschválil§! náš §YZákon o samosprávě§!" # todo: NEW TRANSLATION
+ GRN_country_flag_vortex_class_battleship: "Vypracoval plány bitevní lodi třídy Vortex" # todo: NEW TRANSLATION
+ GRN_country_flag_iceland_war: "Diplomaticky se nepodařilo §Yizolovat Island§!" # todo: NEW TRANSLATION
+ GRN_country_flag_denmark_war: "Diplomaticky se nepodařilo §Yizolovat Dánsko§!" # todo: NEW TRANSLATION
+ GRN_country_flag_norway_war: "Diplomaticky se nepodařilo §Yizolovat Norsko§!" # todo: NEW TRANSLATION
+ GRN_country_flag_sweden_war: "Diplomaticky se nepodařilo §Yizolovat Švédsko§!" # todo: NEW TRANSLATION
+ GRN_country_flag_finland_war: "Diplomaticky se nepodařilo §Yizolovat Finsko§!" # todo: NEW TRANSLATION
+ GRN_country_flag_settlement_projects: "Zahájil investice do osídlení jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_Fort_Vortex: "Založil Fort Vortex" # todo: NEW TRANSLATION
+ GRN_country_flag_Glacial_Shine: "Založil Glacial Shine" # todo: NEW TRANSLATION
+ GRN_country_flag_Frostbury: "Založil Frostbury" # todo: NEW TRANSLATION
+ GRN_country_flag_Fort_Seal: "Založil Fort Seal" # todo: NEW TRANSLATION
+ GRN_country_flag_infrastructure_projects: "Zahájil investice do infrastruktury jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_southern_basic_roads_established: "Založil základní silniční síť v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_southern_moderately_improved_roads: "Vylepšil silniční síť jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_southern_polar_railway: "Vytvořil Jižní polární železnici" # todo: NEW TRANSLATION
+ GRN_country_flag_economic_projects: "Zahájil budování hospodářství v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_southern_basic_industrial_jobs: "Založil základní průmyslový sektor v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_southern_local_food_supply: "Založil základní místní zásobování potravinami v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_mining_projects: "Zahájil investice do hlubinných vrtných těžebních projektů v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_extensive_geological_survey_results: "Využil výsledky geologických průzkumů" # todo: NEW TRANSLATION
+ GRN_country_flag_dedicated_mines_established: "Založil specializované těžební provozy" # todo: NEW TRANSLATION
+ GRN_country_flag_inter_economic_synergy_created: "Vytvořil hospodářskou synergii v jižním vnitrozemí" # todo: NEW TRANSLATION
+ GRN_country_flag_settlement_projects_two: "Zahájil financování osad na plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_Fort_Frostfields: "Založil Fort Frostfields" # todo: NEW TRANSLATION
+ GRN_country_flag_Frigidville: "Založil Frigidville" # todo: NEW TRANSLATION
+ GRN_country_flag_Aurora: "Založil Auroru" # todo: NEW TRANSLATION
+ GRN_country_flag_Snowdenson: "Založil Snowdenson" # todo: NEW TRANSLATION
+ GRN_country_flag_Blizzards_Peak: "Založil Blizzard's Peak" # todo: NEW TRANSLATION
+ GRN_country_flag_Crystal_Flake: "Založil Crystal Flake" # todo: NEW TRANSLATION
+ GRN_country_flag_Snowberry: "Založil Snowberry" # todo: NEW TRANSLATION
+ GRN_country_flag_infrastructure_projects_two: "Zahájil investice do infrastrukturních projektů na plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_plateau_basic_roads_established: "Založil základní silniční síť na centrální plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_plateau_moderately_improved_roads: "Vylepšil silniční síť na centrální plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_central_arctic_railroad: "Vytvořil Centrální arktickou železnici" # todo: NEW TRANSLATION
+ GRN_country_flag_economic_projects_two: "Zahájil investice do hospodářských projektů na centrální plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_central_basic_industrial_jobs: "Vytvořil základní průmyslový sektor na centrální plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_central_local_food_supply: "Založil základní zásobování potravinami na plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_mining_projects_two: "Zahájil investice do těžebních projektů na centrální plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_extensive_geological_survey_results_two: "Zajistil výsledky geologických průzkumů" # todo: NEW TRANSLATION
+ GRN_country_flag_dedicated_mines_established_two: "Vytvořil specializovaný těžební provoz na plošině" # todo: NEW TRANSLATION
+ GRN_country_flag_inter_economic_synergy_created_two: "Vytvořil hospodářskou synergii na centrální plošině" # todo: NEW TRANSLATION
+ GRN_Neriunneq_nutaaq_settlement_name_desc: "Vytvoří město §YNeriunneq nutaaq§!" # todo: NEW TRANSLATION
+ GRN_Annertuumik_Stjerne_settlement_name_desc: "Vytvoří město §YAnnertuumik Stjerne§!" # todo: NEW TRANSLATION
+ GRN_Capital_Nuuk_Expansion_desc: "Rozšíří §YNuuk§! na §Y10 vítězných bodů§!" # todo: NEW TRANSLATION
+ GRN_Fort_Vortex_settlement_name_desc: "Vytvoří město §YFort Vortex§!" # todo: NEW TRANSLATION
+ GRN_Glacial_Shine_settlement_name_desc: "Vytvoří město §YGlacial Shine§!" # todo: NEW TRANSLATION
+ GRN_Frostbury_settlement_name_desc: "Vytvoří město §YFrostbury§!" # todo: NEW TRANSLATION
+ GRN_Fort_Seal_settlement_name_desc: "Vytvoří město §YFort Seal§!" # todo: NEW TRANSLATION
+ GRN_Fort_Frostfields_settlement_name_desc: "Vytvoří město §YFort Frostfields§!" # todo: NEW TRANSLATION
+ GRN_Frigidville_settlement_name_desc: "Vytvoří město §YFrigidville§!" # todo: NEW TRANSLATION
+ GRN_Aurora_settlement_name_desc: "Vytvoří město §YAurora§!" # todo: NEW TRANSLATION
+ GRN_Snowdenson_settlement_name_desc: "Vytvoří město §YSnowdenson§!" # todo: NEW TRANSLATION
+ GRN_Blizzards_Peak_settlement_name_desc: "Vytvoří město §YBlizzard's Peak§!" # todo: NEW TRANSLATION
+ GRN_Crystal_Flake_settlement_name_desc: "Vytvoří město §YCrystal Flake§!" # todo: NEW TRANSLATION
+ GRN_Snowberry_settlement_name_desc: "Vytvoří město §YSnowberry§!" # todo: NEW TRANSLATION
+ GRN_unified_military_command_desc: "Vytvoří §Ygrónský sbor generálního štábu§!" # todo: NEW TRANSLATION
+ GRN_country_flag_Self_Government_Act_Approved_desc: "Dánsko §Yschválilo§! hlasování o §YZákonu o samosprávě§!" # todo: NEW TRANSLATION
+ GRN_Polar_Patrol_Battalion_Mobilized_desc: "Vytvoří §Yprapor§! v §Yhlavním městě Nuuku§!" # todo: NEW TRANSLATION
+ GRN_Itilleq_Class_Corvette_desc: "Vytvoří §Yprimitivní korvetu§!" # todo: NEW TRANSLATION
+ GRN_Rushed_Self_defense_Force_desc: "Urychlí nasazení §Ydvou praporů gardistů§!" # todo: NEW TRANSLATION
+ GRN_free_from_danish_names_desc: "§YPřejmenuje státy§! nucené používat §Ydánské názvy§!" # todo: NEW TRANSLATION
+ GRN_Kingdom_Of_Greenland_desc: "[GRN.GetFlag]§YGrónsko§! změní název na §YGrónské království§!" # todo: NEW TRANSLATION
+ GRN_Frozen_Federation_desc: "[GRN.GetFlag]§YGrónsko§! změní název na §YLedová federace§!" # todo: NEW TRANSLATION
+ GRN_country_flag_iceland_war_desc: "Diplomaticky se nám nepodařilo zajistit Island" # todo: NEW TRANSLATION
+ GRN_country_flag_denmark_war_desc: "Diplomaticky se nám nepodařilo zajistit Dánsko" # todo: NEW TRANSLATION
+ GRN_country_flag_norway_war_desc: "Diplomaticky se nám nepodařilo zajistit Norsko" # todo: NEW TRANSLATION
+ GRN_country_flag_sweden_war_desc: "Diplomaticky se nám nepodařilo zajistit Švédsko" # todo: NEW TRANSLATION
+ GRN_country_flag_finland_war_desc: "Diplomaticky se nám nepodařilo zajistit Finsko" # todo: NEW TRANSLATION
+ GRN_integrating_baltic_nations: "Zahájíme úsilí o §Yintegraci§! §Ybaltských národů§!" # todo: NEW TRANSLATION
+ GRN_Celtic_Isles_Integration: "Zahájíme úsilí o §Yintegraci§! §YKeltských ostrovů§!" # todo: NEW TRANSLATION
+ GRN_French_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §Yfrancouzského pevninského území§!" # todo: NEW TRANSLATION
+ GRN_German_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §YNěmecka§!" # todo: NEW TRANSLATION
+ GRN_Low_Countries_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §Yzemí Beneluxu§!" # todo: NEW TRANSLATION
+ GRN_Iberian_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §YIberského poloostrova§!" # todo: NEW TRANSLATION
+ GRN_South_Central_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §Ycentrálních jižních národů§!" # todo: NEW TRANSLATION
+ GRN_Great_Eastern_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §Yvýchodních národů§!" # todo: NEW TRANSLATION
+ GRN_Balkan_Integration_Efforts: "Zahájíme úsilí o §Yintegraci§! §Ybalkánských národů§!" # todo: NEW TRANSLATION
+ GRN_begin_settlement_projects_desc: "Připravíme §Yprojekty zakládání osad§!" # todo: NEW TRANSLATION
+ GRN_begin_infrastructure_projects_desc: "Připravíme §Yprojekty rozvoje infrastruktury§!" # todo: NEW TRANSLATION
+ GRN_begin_economic_projects_desc: "Připravíme §Yprojekty hospodářského rozvoje§!" # todo: NEW TRANSLATION
+ GRN_begin_mining_projects_desc: "Připravíme §Yhlubinné vrtné těžební projekty§!" # todo: NEW TRANSLATION
+ GRN_begin_central_settlement_projects_desc: "Připravíme §Yprojekty osídlení plošiny§!" # todo: NEW TRANSLATION
+ GRN_begin_central_infrastructure_projects_desc: "Připravíme §Yprojekty infrastruktury na plošině§!" # todo: NEW TRANSLATION
+ GRN_begin_central_economic_projects_desc: "Připravíme §Yhospodářské projekty na plošině§!" # todo: NEW TRANSLATION
+ GRN_begin_central_mining_projects_desc: "Připravíme §Ytěžební projekty na plošině§!" # todo: NEW TRANSLATION
+ GRN_Neriunneq_nutaaq_settlement_name: "Neriunneq nutaaq" # todo: NEW TRANSLATION
+ GRN_Annertuumik_Stjerne_settlement_name: "Annertuumik Stjerne" # todo: NEW TRANSLATION
+ GRN_Tingmiarmit_settlement_name: "Tingmiarmit" # todo: NEW TRANSLATION
+ GRN_Fort_Vortex_settlement_name: "Fort Vortex" # todo: NEW TRANSLATION
+ GRN_Glacial_Shine_settlement_name: "Glacial Shine" # todo: NEW TRANSLATION
+ GRN_Frostbury_settlement_name: "Frostbury" # todo: NEW TRANSLATION
+ GRN_Fort_Seal_settlement_name: "Fort Seal" # todo: NEW TRANSLATION
+ GRN_Fort_Frostfields_settlement_name: "Fort Frostfields" # todo: NEW TRANSLATION
+ GRN_Frigidville_settlement_name: "Frigidville" # todo: NEW TRANSLATION
+ GRN_Aurora_settlement_name: "Aurora" # todo: NEW TRANSLATION
+ GRN_Snowdenson_settlement_name: "Snowdenson" # todo: NEW TRANSLATION
+ GRN_Blizzards_Peak_settlement_name: "Blizzard's Peak" # todo: NEW TRANSLATION
+ GRN_Crystal_Flake_settlement_name: "Crystal Flake" # todo: NEW TRANSLATION
+ GRN_Snowberry_settlement_name: "Snowberry" # todo: NEW TRANSLATION
+ GRN_national_decisions: "Národní rozhodnutí Grónska" # todo: NEW TRANSLATION
+ GRN_national_decisions_desc: "Na ostrově Grónsko panuje velmi uvolněná, ale zároveň napjatá situace. Kromě snahy politických představitelů dělat cokoli pro rozvoj ostrova a jeho obyvatel se musí vypořádat také s neustálou otázkou blížící se nezávislosti. Někteří ji chtějí nyní, jiní raději počkají na pevnější základ. Ať tak či onak, o tom, zda bude ostrov nakonec skutečně svobodný, rozhodne Grónsko i Dánsko." # todo: NEW TRANSLATION
+ GRN_decision_independence_war: "Válka za nezávislost" # todo: NEW TRANSLATION
+ GRN_decision_independence_war_desc: "Čas nadešel a politici donutili lid jednat. Byla vyhlášena válka a nyní jde o závod, zda si Dánsko udrží svou korunu, nebo zda koruna padne, když veřejný tlak vynutí mír mezi všemi stranami." # todo: NEW TRANSLATION
+ GRN_decision_capital_city_expansion: "Rozšíření hlavního města" # todo: NEW TRANSLATION
+ GRN_decision_capital_city_expansion_desc: "Vzhledem k tomu, že počet obyvatel našeho národa roste do dříve nepředstavitelných rozměrů, budeme muset přestavět hlavní město Nuuk, aby lépe odráželo a začleňovalo celkový regionální i národní růst." # todo: NEW TRANSLATION
+ GRN_decision_development_visa_grants: "Udělování rozvojových víz" # todo: NEW TRANSLATION
+ GRN_decision_development_visa_grants_desc: "Hlavním problémem rozvoje našeho národa je prostý nedostatek lidských zdrojů. Abychom se někam dostali, musíme masivně investovat do získávání zahraničních pracovníků, kteří jsou ochotni snášet spíše zdejší prostředí než potenciální velkorysé finanční pobídky a zaměstnání, které jim můžeme nabídnout." # todo: NEW TRANSLATION
+ GRN_decision_global_recruitment_efforts: "Celosvětový nábor" # todo: NEW TRANSLATION
+ GRN_decision_global_recruitment_efforts_desc: "Nyní, když je národní obrana pod naší přímou kontrolou, čelíme stejnému problému jako celý národ: nedostatku pracovních sil. Budeme muset udělat něco podobného jako u rozvojových grantů, tentokrát však pro armádu. Doufejme, že jak se naše hospodářství stane odolnějším a rozpočet pružnějším, budeme moci dostatečně motivovat žoldnéře nebo bloudící duše bez trvalého domova, aby si jako svůj poslední domov zvolili právě náš národ." # todo: NEW TRANSLATION
+ GRN_decision_naval_priority_act: "Zákon o prioritě námořnictva" # todo: NEW TRANSLATION
+ GRN_decision_naval_priority_act_desc: "Abychom měli jakoukoli přítomnost v oblasti, která je nám nejbližší, potřebujeme námořnictvo. Problém spočívá v tom, že nemáme ekonomickou kapacitu na jeho průběžnou výstavbu. Proto musíme v co největší blízkosti soustředit a převzít co nejvíce zařízení a komplexů pro stavbu lodí, abychom rychle vybudovali základní flotilu. Bude to nesmírně nákladné, ale stejně nákladné bude i sedět se založenýma rukama a čekat, až se stane něco, co nám skutečně prospěje." # todo: NEW TRANSLATION
+ GRN_decision_project_vortex: "Projekt Vortex" # todo: NEW TRANSLATION
+ GRN_decision_project_vortex_desc: "Zajištění námořní cesty na dalekém severu je obtížné kvůli nutnosti získat námořní převahu ve strategických oblastech. Proto vytvoříme nejlepší demonstraci námořní síly, jaké jsme za současných možností schopni." # todo: NEW TRANSLATION
+ GRN_decision_national_commission: "Národní komise" # todo: NEW TRANSLATION
+ GRN_decision_national_commission_desc: "Po dokončení konstrukčních prací a prohlášení prototypů za uspokojivé nyní zorganizujeme národní komisi, která pomůže postavit naši první bitevní loď." # todo: NEW TRANSLATION
+ GRN_decision_project_northern_projection: "Projekt Severní projekce" # todo: NEW TRANSLATION
+ GRN_decision_project_northern_projection_desc: "Nyní, když je situace stabilní a připravená na skutečné ambice našeho národa, budeme muset ovládnout několik mořských oblastí. To zajistíme spoluprací s loďaři z celého národa na vytvoření toho, co se stane druhou arktickou bojovou skupinou." # todo: NEW TRANSLATION
+ GRN_southern_interior_development_decisions: "Projekty rozvoje jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_southern_interior_development_decisions_desc: "Nyní, když se náš národ díky populačním iniciativám stabilizoval hospodářsky i společensky, můžeme obrátit pozornost do jeho vnitrozemí. Jižní plošina bude prvním velkým krokem ke zkrocení Velkého ledového šelfu." # todo: NEW TRANSLATION
+ GRN_decision_fort_vortex: "Fort Vortex" # todo: NEW TRANSLATION
+ GRN_decision_fort_vortex_desc: "Cestu do jižního vnitrozemí zahájíme založením pevnostního města jménem Fort Vortex." # todo: NEW TRANSLATION
+ GRN_decision_glacial_shine: "Glacial Shine" # todo: NEW TRANSLATION
+ GRN_decision_glacial_shine_desc: "Naše další, více centrálně položená osada ponese jméno Glacial Shine." # todo: NEW TRANSLATION
+ GRN_decision_frostbury: "Frostbury" # todo: NEW TRANSLATION
+ GRN_decision_frostbury_desc: "Osadu Frostbury založíme východně od hlavního města." # todo: NEW TRANSLATION
+ GRN_decision_fort_seal: "Fort Seal" # todo: NEW TRANSLATION
+ GRN_decision_fort_seal_desc: "Založíme strategickou centrální východní pevnostní osadu na hranici jižního vnitrozemí a centrální plošiny." # todo: NEW TRANSLATION
+ GRN_decision_southern_interior_basic_roads: "Základní silnice jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_decision_southern_interior_basic_roads_desc: "Nyní, když jsou naše osady plně založeny, můžeme s jistotou vytvořit základní pozemní dopravu, která je propojí a zajistí zásobování těchto nových bašt civilizace." # todo: NEW TRANSLATION
+ GRN_decision_southern_interior_improved_roads: "Vylepšené silnice jižního vnitrozemí" # todo: NEW TRANSLATION
+ GRN_decision_southern_interior_improved_roads_desc: "Průběžné investice do silniční sítě umožní větší objem dopravy a zároveň zavedení řádných a trvalejších bezpečnostních opatření pro cestování v tak dlouhých a nebezpečných podmínkách." # todo: NEW TRANSLATION
+ GRN_decision_great_polar_railway: "Velká polární železnice" # todo: NEW TRANSLATION
+ GRN_decision_great_polar_railway_desc: "Zajištění rozvoje efektivní a účelné železniční sítě nám umožní přepravovat lidi a materiál ve velkém. Konečně tak můžeme naplno začít budovat hospodářství regionu od úplných základů." # todo: NEW TRANSLATION
+ GRN_decision_basic_industrial_jobs: "Základní průmyslová pracovní místa" # todo: NEW TRANSLATION
+ GRN_decision_basic_industrial_jobs_desc: "Zajištění základní hospodářské činnosti nám umožní přímo financovat rozvoj vnitrozemí a případně se rozšířit do dalších hospodářských odvětví." # todo: NEW TRANSLATION
+ GRN_decision_local_food_supply: "Místní zásobování potravinami" # todo: NEW TRANSLATION
+ GRN_decision_local_food_supply_desc: "Strategický rozvoj HFF nám umožní vytvořit místní zásoby potravin pro osady. Nejenže tak využijeme více zmrzlé vody, ale pomůžeme také domácímu růstu těchto mladých populačních center. Zařízení pro drsné zemědělství budou kopím, které probodne zmrzlou šelmu představovanou šelfem." # todo: NEW TRANSLATION
+ GRN_decision_extensive_geological_surveying: "Rozsáhlý geologický průzkum" # todo: NEW TRANSLATION
+ GRN_decision_extensive_geological_surveying_desc: "Vzhledem k rozsáhlosti vnitrozemí budeme muset výrazně investovat do těchto strategických operací a také zřídit specializovaná zařízení pro drsné zemědělství určená k pěstování rostlin produkujících kaučuk. Tyto výsledky by měly být vzhledem k vynaloženému času a kapitálu mimořádně přínosné." # todo: NEW TRANSLATION
+ GRN_decision_creating_dedicated_mining_operations: "Vytvoření specializovaných těžebních provozů" # todo: NEW TRANSLATION
+ GRN_decision_creating_dedicated_mining_operations_desc: "Po odhalení malých a řídce známých ložisek různých nerostných surovin jsme také začali rozšiřovat základní práce na dalších zařízeních HFF pro výrobu kaučuku. Pokračování těchto iniciativ nám jistě pomůže." # todo: NEW TRANSLATION
+ GRN_decision_regional_economic_sector_synergy: "Synergie regionálních hospodářských sektorů" # todo: NEW TRANSLATION
+ GRN_decision_regional_economic_sector_synergy_desc: "Díky rozsáhlým investicím do pracovní síly, zdrojů a finančních prostředků budeme moci rozšířit těžební provozy do bodu, kdy vytvoříme místní hospodářskou rozmanitost. Brzy budeme schopni vytvořit regionální synergii, stejně jako ve zbytku národního hospodářství." # todo: NEW TRANSLATION
+ GRN_central_plateau_development_decisions: "Projekty rozvoje centrální plošiny" # todo: NEW TRANSLATION
+ GRN_central_plateau_development_decisions_desc: "Nyní, když je jižní vnitrozemí hospodářsky i společensky propojené, můžeme začít budovat základy pro totéž na centrální plošině. To vše bude nákladné, ale z dlouhodobého hlediska se to jistě vyplatí." # todo: NEW TRANSLATION
+ GRN_decision_fort_frostfields: "Fort Frostfields" # todo: NEW TRANSLATION
+ GRN_decision_fort_frostfields_desc: "V západní oblasti, nedaleko města Sisimuit, vytvoříme pevnostní osadu jménem Fort Frostfields." # todo: NEW TRANSLATION
+ GRN_decision_frigidville: "Frigidville" # todo: NEW TRANSLATION
+ GRN_decision_frigidville_desc: "Vydáme se na východ a založíme osadu Frigidville. Docházejí už někomu tematicky vhodné názvy?" # todo: NEW TRANSLATION
+ GRN_decision_aurora: "Aurora" # todo: NEW TRANSLATION
+ GRN_decision_aurora_desc: "V samotném středu plošiny podle mého názoru založíme příhodně pojmenovanou osadu Aurora." # todo: NEW TRANSLATION
+ GRN_decision_snowdenson: "Snowdenson" # todo: NEW TRANSLATION
+ GRN_decision_snowdenson_desc: "Otočíme se na jih a založíme osadu Snowdenson, která překlene mezeru mezi Glacial Shine a Aurorou pro meziregionální hospodářskou činnost." # todo: NEW TRANSLATION
+ GRN_decision_blizzards_peak: "Blizzard's Peak" # todo: NEW TRANSLATION
+ GRN_decision_blizzards_peak_desc: "Vrátíme se na sever a budeme pokračovat na východ, kde založíme osadu Blizzard's Peak, protože se v okolí nacházejí některé z nejvyšších bodů." # todo: NEW TRANSLATION
+ GRN_decision_crystal_flake: "Crystal Flake" # todo: NEW TRANSLATION
+ GRN_decision_crystal_flake_desc: "Dále na východ, jako druhou nejbližší osadu k východnímu pobřeží, založíme osadu Crystal Flake." # todo: NEW TRANSLATION
+ GRN_decision_snowberry: "Snowberry" # todo: NEW TRANSLATION
+ GRN_decision_snowberry_desc: "Na severovýchodní hranici mezi plošinou a východními pobřežními oblastmi založíme malebně znějící město Snowberry." # todo: NEW TRANSLATION
+ GRN_decision_plateau_interior_basic_roads: "Základní silniční síť centrální plošiny" # todo: NEW TRANSLATION
+ GRN_decision_plateau_interior_basic_roads_desc: "Nyní, když jsou osady vytvořeny, můžeme začít budovat základy silniční sítě napříč plošinou. Tato základní práce pomůže učinit cestování plynulejším a přímějším než pouhá jízda přes nebezpečný terén." # todo: NEW TRANSLATION
+ GRN_decision_plateau_interior_improved_roads: "Vylepšené silnice centrální plošiny" # todo: NEW TRANSLATION
+ GRN_decision_plateau_interior_improved_roads_desc: "Po dokončení základních prací můžeme investovat do standardizace bezpečnostních opatření a dalších zařízení potřebných k překonání rozsáhlé krajiny." # todo: NEW TRANSLATION
+ GRN_decision_central_arctic_railroad: "Centrální arktická železnice" # todo: NEW TRANSLATION
+ GRN_decision_central_arctic_railroad_desc: "Nyní můžeme propojením s GPR v jižním vnitrozemí a pobřežní železniční sítí upevnit hlavní hromadnou přepravu v celém národě. Plošina se tak stane domovem Centrální arktické železnice neboli CARR." # todo: NEW TRANSLATION
+ GRN_decision_basic_industrial_jobs_two: "Základní trh průmyslové práce" # todo: NEW TRANSLATION
+ GRN_decision_basic_industrial_jobs_two_desc: "Nyní, když jsou lidé i infrastruktura připraveni, můžeme začít vytvářet určitou hospodářskou činnost na centrální plošině." # todo: NEW TRANSLATION
+ GRN_decision_local_food_supply_two: "Zavedení místního zásobování potravinami" # todo: NEW TRANSLATION
+ GRN_decision_local_food_supply_two_desc: "S využitím modelů HFF, které jsme použili po celém národě, můžeme vytvořit specializovaná zařízení, jež pomohou snížit zátěž při budování místních potravinových řetězců." # todo: NEW TRANSLATION
+ GRN_decision_extensive_geological_surveying_two: "Centrální plošina: rozsáhlé geologické průzkumy" # todo: NEW TRANSLATION
+ GRN_decision_extensive_geological_surveying_two_desc: "Lidé, místa, infrastruktura, pracovní místa a potraviny. Vše je zajištěno a připraveno k hlubokému vrtání do ledu a zemí skrytých pod samotným časem." # todo: NEW TRANSLATION
+ GRN_decision_creating_dedicated_mining_operations_two: "Centrální plošina: specializované těžební provozy" # todo: NEW TRANSLATION
+ GRN_decision_creating_dedicated_mining_operations_two_desc: "Nyní, když máme v rukou výsledky průzkumu a založili jsme první průzkumné doly, můžeme začít rozšiřovat a vytvářet specializovanější doly i provozní aparát kolem nich." # todo: NEW TRANSLATION
+ GRN_decision_regional_economic_sector_synergy_two: "Centrální plošina: mezisektorová hospodářská synergie" # todo: NEW TRANSLATION
+ GRN_decision_regional_economic_sector_synergy_two_desc: "Čeká nás nejdelší a nejnákladnější část cesty. Když však hledíme na zářící ledovou krajinu rozsáhlé centrální plošiny, můžeme to vše vstřebat a pocítit čisté, blažené uspokojení, že jsme to konečně dokázali. Grónsko je skutečně zemí šelem." # todo: NEW TRANSLATION
+ GRN_faction_polar_defense_league: "Liga polární obrany" # todo: NEW TRANSLATION
+ greenland_event.1.t: "Referendum o samosprávě" # todo: NEW TRANSLATION
+ greenland_event.1.d: "Parlament bude brzy hlasovat o rozšíření pravomocí stanovených zákonem o domovské samosprávě z roku 1979. Pokud bude návrh schválen, školství, zdravotnictví, soudní systém i plná kontrola pobřežní stráže přejdou pod úplnou kontrolu grónské vlády." # todo: NEW TRANSLATION
+ greenland_event.1.o1: "Parlament schvaluje zákon o samosprávě" # todo: NEW TRANSLATION
+ greenland_event.1.o2: "Parlament zachovává status quo" # todo: NEW TRANSLATION
+ greenland_event.2.t: "Grónský zákon o samosprávě" # todo: NEW TRANSLATION
+ greenland_event.2.d: "Grónsko hlasovalo pro rozšíření svých práv podle zákona o domovské samosprávě z roku 1979 a jeho nahrazení zákonem o samosprávě z roku 2008. Tento zákon jim dává kontrolu nad několika vládními orgány i pobřežní stráží. Hlasování můžeme schválit, protože získalo většinu, nebo ho můžeme zablokovat s odvoláním na to, že finance národa by nedokázaly udržet samostatný provoz všech těchto systémů bez zvýšení koloniálních dotací, které poskytujeme." # todo: NEW TRANSLATION
+ greenland_event.2.o1: "Schválit hlasování" # todo: NEW TRANSLATION
+ greenland_event.2.o2: "Zamítnout hlasování" # todo: NEW TRANSLATION
+ greenland_event.300.t: "Dánsko schvaluje hlasování" # todo: NEW TRANSLATION
+ greenland_event.300.d: "Dnes jsme obdrželi zprávu, že dánský parlament podle očekávání schválil naše hlasování o novém zákonu o samosprávě. To bude velký krok vpřed na cestě k naší nezávislosti, a tedy k budoucnosti, kterou si budeme moci určovat sami." # todo: NEW TRANSLATION
+ greenland_event.300.o1: "Počkat, oni to mohli zamítnout?" # todo: NEW TRANSLATION
+ greenland_event.3.t: "Dánsko blokuje hlasování" # todo: NEW TRANSLATION
+ greenland_event.3.d: "Dánský parlament se rozhodl zamítnout naše hlasování o rozšíření zákona o domovské samosprávě prostřednictvím nového zákona o samosprávě. Odvolává se na údajné fiskální obavy a tvrdí, že převzetí kontroly by vyžadovalo vyšší dánské dotace. Mohli bychom vyhlásit nezávislost, což by vyvolalo místní konflikt, nebo situaci přijmout a připravit se na potenciálně horší výsledky." # todo: NEW TRANSLATION
+ greenland_event.3.o1: "Bojovat. S jakou armádou?" # todo: NEW TRANSLATION
+ greenland_event.3.o2: "Za svobodnou vládu Grónska!!!" # todo: NEW TRANSLATION
+ greenland_event.4.t: "Vyhlášena válka!" # todo: NEW TRANSLATION
+ greenland_event.4.d: "Po zablokování hlasování o grónském zákonu o samosprávě se grónská vláda rozhodla vynutit si nezávislost. Musíme proto zajistit všechny korunní državy a znovu dostat pod kontrolu všechna zámořská území." # todo: NEW TRANSLATION
+ greenland_event.4.o1: "Od Faerských ostrovů po Grónsko" # todo: NEW TRANSLATION
+ greenland_event.5.t: "Přepracování investic do automatizace" # todo: NEW TRANSLATION
+ greenland_event.5.d: "Naše hospodářství neustále zápasí a důvodem je jednoduše nedostatek lidí. Náš příjem na obyvatele je téměř nestabilní a účetní někdy ani nechtějí vést naše účetnictví kvůli divoce se měnícím vlivům domácích výdajů, které vyplývají z neustálých změn našeho hospodářství. Potřebujeme proto zásadní stabilizační faktor, kterým budou v tomto případě přímé a rozsáhlé investice do automatizace konkrétního hospodářského sektoru. Celkové snížení potřeby pracovníků v daném sektoru snad výrazně omezí nestabilní povahu hospodářství." # todo: NEW TRANSLATION
+ greenland_event.5.o1: "Zemědělský sektor" # todo: NEW TRANSLATION
+ greenland_event.5.o2: "Sektor válečné výroby" # todo: NEW TRANSLATION
+ greenland_event.5.o3: "Sektor civilní výroby" # todo: NEW TRANSLATION
+ greenland_event.5.o4: "Sektor kancelářství a technologií" # todo: NEW TRANSLATION
+ greenland_event.6.t: "Otázka těžby" # todo: NEW TRANSLATION
+ greenland_event.6.d: "S úsilím o rozšíření a zahájení komerční těžby přichází hlavní otázka. Máme těžit podle potřeb, nebo podle chamtivosti? Těžba podle potřeb by znamenala mírné získávání zdrojů přizpůsobené domácím potřebám národa. Těžba podle chamtivosti by naopak výrazně rozšířila provoz pro domácí i zahraniční poptávku za cenu zvýšených nároků na pracovní sílu." # todo: NEW TRANSLATION
+ greenland_event.6.o1: "Potřeby našeho národa" # todo: NEW TRANSLATION
+ greenland_event.6.o2: "Prostředky ospravedlňují cíl" # todo: NEW TRANSLATION
+ greenland_event.7.t: "Politické ambice" # todo: NEW TRANSLATION
+ greenland_event.7.d: "Jeviště je připraveno a naši lidé jsou nadšení i znepokojení. Nikdy předtím se nezdálo možné tak svobodně přemýšlet, když jsme byli dánskou korunní kolonií. Nyní však díky nově získaným svobodám můžeme dosáhnout klidu a vytvořit politickou budoucnost, po které toužíme." # todo: NEW TRANSLATION
+ greenland_event.7.o1: "Naprostá svoboda myšlení" # todo: NEW TRANSLATION
+ greenland_event.7.o2: "Nové myšlenky obstojí" # todo: NEW TRANSLATION
+ greenland_event.7.o3: "Zvítězí neutrální mysli" # todo: NEW TRANSLATION
+ greenland_event.7.o4: "Národní hrdost pohání pokrok" # todo: NEW TRANSLATION
+ greenland_influence_event.1.t: "Grónské investice" # todo: NEW TRANSLATION
+ greenland_influence_event.1.d: "Grónsko nám nabídlo pomoc s investicemi do budování našeho národa. Přestože existují určité obavy ohledně jejich povahy, ostrov Grónsko nepředstavuje ani se svým rozvojem skutečnou hrozbu pro naši domácí situaci ve srovnání s ostatními zainteresovanými stranami." # todo: NEW TRANSLATION
+ greenland_influence_event.1.o1: "Dárky zdarma jsou příjemné" # todo: NEW TRANSLATION
+ greenland_influence_event.1.o2: "Děkujeme, ale ne" # todo: NEW TRANSLATION
+ greenland_influence_event.2.t: "Island přijímá infrastrukturu" # todo: NEW TRANSLATION
+ greenland_influence_event.2.d: "Naše první investice byla přijata, což zvýší náš vliv a vazby na tento národ." # todo: NEW TRANSLATION
+ greenland_influence_event.2.o1: "Další investici, prosím" # todo: NEW TRANSLATION
+ greenland_influence_event.3.t: "Grónská energie" # todo: NEW TRANSLATION
+ greenland_influence_event.3.d: "Grónsko za námi přišlo s další investicí, tentokrát do energetického sektoru. Chce zřídit užitečná zařízení na výrobu energie bez konkrétní preference typu výroby. Bezplatná energetická zařízení bychom mohli využít k podpoře lepších obchodních vztahů, někteří se však obávají, že Grónsko se jejich prostřednictvím snaží podkopat naši vládu." # todo: NEW TRANSLATION
+ greenland_influence_event.3.o1: "Levnější energie je příjemná" # todo: NEW TRANSLATION
+ greenland_influence_event.3.o2: "Do našich energetických potřeb vám nic není" # todo: NEW TRANSLATION
+ greenland_influence_event.4.t: "Island přijímá energetická zařízení" # todo: NEW TRANSLATION
+ greenland_influence_event.4.d: "Naše druhé kolo investic do rozvoje jejich schopností výroby energie bylo přijato. Můžeme jen doufat, že pokud budou potřebovat palivo pro fosilní elektrárny, budou s námi obchodovat a dál podporovat lepší vztahy." # todo: NEW TRANSLATION
+ greenland_influence_event.4.o1: "Pošlete další investici" # todo: NEW TRANSLATION
+ greenland_influence_event.5.t: "Investice polárního průmyslu" # todo: NEW TRANSLATION
+ greenland_influence_event.5.d: "Grónsko se do toho opět pustilo, tentokrát rozsáhlými investicemi do našeho hospodářského rozvoje. Od průmyslových investic po sektor kanceláří vidíme, že Grónsko začíná do našeho národa vkládat možná až příliš mnoho. Ne že by mělo mnoho jiných možností, za co utrácet, ale možná bychom měli věci trochu přibrzdit." # todo: NEW TRANSLATION
+ greenland_influence_event.5.o1: "Lepší hospodářství? Proč ne" # todo: NEW TRANSLATION
+ greenland_influence_event.5.o2: "Néé. Myslím, že vím, o co vám jde" # todo: NEW TRANSLATION
+ greenland_influence_event.6.t: "Island přijímá hospodářské investice" # todo: NEW TRANSLATION
+ greenland_influence_event.6.d: "Naše rostoucí investiční portfolio zaznamenalo velký úspěch, protože jsme našli strategické způsoby, jak přimět islandskou vládu přijímat naše velkorysé nabídky. Nyní musíme tyto úspěchy využít." # todo: NEW TRANSLATION
+ greenland_influence_event.6.o1: "Ještě jedno hurá a bude to" # todo: NEW TRANSLATION
+ greenland_influence_event.7.t: "Strategické investice do zdrojů" # todo: NEW TRANSLATION
+ greenland_influence_event.7.d: "Grónsko pomohlo provést rozsáhlé geologické průzkumy a objevilo omezená komerční ložiska železa, mědi, niklu a dalších zdrojů, které by mohly prospět našemu domácímu hospodářství. Nabídlo také rozšíření našeho hliníkového průmyslu, aby vyrovnalo případné ztráty. Tyto zdroje bychom skutečně mohli využít ke snížení závislosti na určitých zahraničních dodavatelích, ale můžeme si dovolit zadlužit se vůči našemu sousedovi?" # todo: NEW TRANSLATION
+ greenland_influence_event.7.o1: "Tyto zdroje opravdu potřebujeme" # todo: NEW TRANSLATION
+ greenland_influence_event.7.o2: "Je to příliš riskantní, zamítnuto" # todo: NEW TRANSLATION
+ greenland_influence_event.8.t: "Umění dohody" # todo: NEW TRANSLATION
+ greenland_influence_event.8.d: "Island přijal naši strategickou investici do zdrojů, a tak jsme mohli dokončit celé kolo investic. Nyní jsme připravili půdu pro možné sjednocení v relativně blízké budoucnosti." # todo: NEW TRANSLATION
+ greenland_influence_event.8.o1: "Stálo to za to" # todo: NEW TRANSLATION
+ greenland_influence_event.10000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_influence_event.10000.d: "Když Island odmítl náš návrh, oficiálně nám diplomaticky nezbyly žádné možnosti. Pokusíme se čekat tak dlouho, jak to půjde, ale nastal čas na závěrečnou fázi." # todo: NEW TRANSLATION
+ greenland_influence_event.10000.o1: "Připravit operaci Skutečná zeleň" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.1.t: "Velká grónská investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.1.d: "Grónsko nám předložilo mimořádně výhodnou nabídku. Je ochotno provést rozsáhlé investice do růstu našeho národa. Taková příležitost působí téměř neuvěřitelně, ale ostrov toho stejně nemá mnoho co nabídnout. Kromě toho, co by nám Grónsko mohlo v širším měřítku skutečně udělat?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.1.o1: "Děkujeme za vaši velkorysost" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.1.o2: "Tohle je příliš dobré, než aby to byla pravda. Zamítnuto" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.2.t: "Island přijímá naši velkorysost" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.2.d: "Nyní, když islandská vláda přijala naše rozsáhlé investice, můžeme je využít k narušení míru a změně statusu quo natolik, abychom ostrov izolovali od zásahů NATO." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.2.o1: "Teď počkáme" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.3.t: "Odhalení zdroje" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.3.d: "Zdá se, že nedávné vlny nepokojů a společenských sporů mají původ v určitých investicích Grónska. Tyto nové fronty vytvořily v naší společnosti mírné nepohodlí, ale pokud je necháme být, mohli bychom se později dostat do skutečných potíží. Bude to riskantní, ale můžeme buď bojovat proti pokračujícím kejklům, nebo problém trvale vyřešit porážkou jejich původce." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.3.o1: "Mají vůbec armádu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.3.o2: "Máme NATO, zvládneme to" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10000.d: "Island odmítl naši nejlepší nabídku. Pokud ji nepřijme, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10000.o1: "Připravit operaci Skutečná zeleň" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.4.t: "Velká grónská investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.4.d: "Grónsko nám předložilo nabídku. Komplexní investici a exkluzivní obchodní dohodu. Grónsko je ochotno vybudovat naši infrastrukturu, územní plánování a základnu civilního průmyslu a zřejmě také poskytnout exkluzivní pronájem potřebných materiálů výměnou za tyto investice. Posledním lákadlem celého velkolepého investičního balíčku je přímá rozsáhlá investice do budování a těžby známých ložisek ropy v našich vodách. Je to mimořádně výhodná dohoda a upřímně na ní vidíme jen velmi málo špatného. Co bychom však měli dělat s Dánskem, když se zadlužíme vůči konkrétnímu národu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.4.o1: "Uzavřeme dohodu!" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.4.o2: "Ne, tohle není správné" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.5.t: "Faerské ostrovy přijímají" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.5.d: "Vláda Faerských ostrovů přijala naše hojné investice, a proto nyní můžeme začít pracovat na naší budoucnosti." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.5.o1: "Pošlete agitátory" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.6.t: "Občané žádají vládu" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.6.d: "Nedávné události začaly eskalovat, protože stále více obyvatel ostrovů žádá vládu o referendum o vytvoření západní severské unie s Grónskem. Mnozí poukazují na zdánlivě dobročinné investice pro blaho ostrovanů, které kontrastují s dánským přístupem poskytujícím pouhé minimum. Pod takovým tlakem jsme nuceni jejich požadavky přijmout a obrátit se na grónskou vládu." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.6.o1: "Faerské ostrovy navždy" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.7.t: "Risk se vyplácí" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.7.d: "Veřejný tlak faerských občanů donutil jejich vládu požádat o vytvoření unie s naším národem. To nám prospívá, protože to jistě vyvolá určitý neklid v dánské vládě." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.7.o1: "O krok blíž" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.8.t: "Promiňte, cože?!" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.8.d: "Přicházejí zprávy, že se grónské ozbrojené síly nějak usadily na Faerských ostrovech a spolupracují s občany i vládními představiteli na pokojném předání moci. Otázkou je, kdo jim k tomu dal právo. Nikdo se nás neptal a zdá se, že náš obecný nezájem o ostrovy se obrátil proti nám. Pokud nezakročíme, ztratíme tvář, ale pokud budeme jednat rychle, zůstaneme sami, protože rozpoutáváme přímé nepřátelství." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.8.o1: "Dokážeme je porazit!" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.8.o2: "Férovost koho?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.40000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.40000.d: "Faerské ostrovy odmítly naši nejlepší nabídku. Pokud ji nepřijmou, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.40000.o1: "Zahájit mobilizaci" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.9.t: "Grónské investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.9.d: "Grónsko nám nabídlo sérii investic bez jakýchkoli nákladů pro nás. Chce se zaměřit na rozvoj méně rozvinutých oblastí Jutska a podporovat severskou solidaritu. Někteří ve vládě se však domnívají, že sleduje skrytou agendu, protože investice se zdají být až příliš dobré, než aby byly pravdivé. Na druhou stranu, co nám může Grónsko realisticky udělat?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.9.o1: "Věci zdarma nejsou vůbec špatné" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.9.o2: "Nelíbí se mi vaše legrační slova" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10.t: "Dánsko přijímá" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10.d: "Dánská vláda investice přijala a nyní se začneme připravovat na to, co jsme plánovali." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.10.o1: "Míč je nyní na jejich straně" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.11.t: "Odhalení zdroje" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.11.d: "Zdá se, že nedávné vlny nepokojů a společenských sporů mají původ v určitých investicích Grónska. Tyto nové fronty vytvořily v naší společnosti mírné nepohodlí, ale pokud je necháme být, mohli bychom se později dostat do skutečných potíží. Bude to riskantní, ale můžeme buď bojovat proti pokračujícím kejklům, nebo problém trvale vyřešit porážkou jejich původce." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.11.o1: "Mají vůbec armádu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.11.o2: "Máme NATO, zvládneme to" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.90000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.90000.d: "Dánsko odmítlo naši nejlepší nabídku. Pokud ji nepřijme, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.90000.o1: "Připravit operaci Prostředník" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.12.t: "Grónské investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.12.d: "Grónsko nám nabídlo sérii investic bez jakýchkoli nákladů pro nás. Chce se zaměřit na rozvoj méně rozvinutých oblastí Nord-Norge a podporovat severskou jednotu a prosperitu. Někteří ve vládě se však domnívají, že sleduje skrytou agendu, protože investice se zdají být až příliš dobré, než aby byly pravdivé. Na druhou stranu, co nám může Grónsko realisticky udělat?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.12.o1: "S něčím zdarma mohu souhlasit" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.12.o2: "Daří se nám dobře, děkujeme" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.13.t: "Norsko přijímá" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.13.d: "Norská vláda investice přijala a nyní se začneme připravovat na to, co jsme plánovali s civilním obyvatelstvem, abychom národ vzdálili od NATO." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.13.o1: "Uvidíme, co udělají" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.14.t: "Odhalení zdroje" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.14.d: "Zdá se, že nedávné vlny nepokojů a společenských sporů mají původ v určitých investicích Grónska. Tyto nové fronty vytvořily v naší společnosti mírné nepohodlí, ale pokud je necháme být, mohli bychom se později dostat do skutečných potíží. Bude to riskantní, ale můžeme buď bojovat proti pokračujícím kejklům, nebo problém trvale vyřešit porážkou jejich původce." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.14.o1: "Mají vůbec armádu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.14.o2: "Máme NATO, zvládneme to" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.120000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.120000.d: "Norsko odmítlo naši nejlepší nabídku. Pokud ji nepřijme, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.120000.o1: "Připravit operaci Fjordská země" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.15.t: "Grónské investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.15.d: "Grónsko nám nabídlo sérii investic bez jakýchkoli nákladů pro nás. Chce se zaměřit na rozvoj méně rozvinutých oblastí v okolí města Karlstad a podporovat severskou jednotu a prosperitu. Někteří ve vládě se však domnívají, že sleduje skrytou agendu, protože investice se zdají být až příliš dobré, než aby byly pravdivé. Na druhou stranu, co nám může Grónsko realisticky udělat?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.15.o1: "Věci zdarma jsou stále zdarma" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.15.o2: "Pokorně odmítáme" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.16.t: "Švédsko přijímá" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.16.d: "Švédská vláda investice přijala a nyní se začneme připravovat na to, co jsme plánovali s civilním obyvatelstvem, abychom zajistili slabší centrální autoritu, která není tak pevně spojena s NATO." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.16.o1: "Nyní počkáme a budeme plánovat" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.17.t: "Odhalení zdroje" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.17.d: "Zdá se, že nedávné vlny nepokojů a společenských sporů mají původ v určitých investicích Grónska. Tyto nové fronty vytvořily v naší společnosti mírné nepohodlí, ale pokud je necháme být, mohli bychom se později dostat do skutečných potíží. Bude to riskantní, ale můžeme buď bojovat proti pokračujícím kejklům, nebo problém trvale vyřešit porážkou jejich původce." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.17.o1: "Mají vůbec armádu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.17.o2: "O tento hmyz se nemusíme starat" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.150000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.150000.d: "Švédsko odmítlo naši nejlepší nabídku. Pokud ji nepřijme, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.150000.o1: "Připravit operaci Velká severní válka" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.18.t: "Grónské investice" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.18.d: "Grónsko nám nabídlo sérii investic bez jakýchkoli nákladů pro nás. Chce se zaměřit na rozvoj méně rozvinutých oblastí severního regionu Lappi a podporovat severskou jednotu a prosperitu. Někteří ve vládě se však domnívají, že sleduje skrytou agendu, protože investice se zdají být až příliš dobré, než aby byly pravdivé. Na druhou stranu, co nám může Grónsko realisticky udělat?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.18.o1: "To je nabídka, vážený pane" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.18.o2: "Tentokrát raději ne" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.19.t: "Finsko přijímá" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.19.d: "Finská vláda investice přijala a nyní se začneme připravovat na dosažení našich cílů izolací vlády a učiněním obyvatelstva vstřícnějším vůči větší severské unii." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.19.o1: "Usilujme o dobrý závěr" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.20.t: "Odhalení zdroje" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.20.d: "Zdá se, že nedávné vlny nepokojů a společenských sporů mají původ v určitých investicích Grónska. Tyto nové fronty vytvořily v naší společnosti mírné nepohodlí, ale pokud je necháme být, mohli bychom se později dostat do skutečných potíží. Bude to riskantní, ale můžeme buď bojovat proti pokračujícím kejklům, nebo problém trvale vyřešit porážkou jejich původce." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.20.o1: "Mají vůbec armádu?" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.20.o2: "Nemusíme se jich obávat" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.180000.t: "Investice zamítnuta" # todo: NEW TRANSLATION
+ greenland_subterfuge_event.180000.d: "Finsko odmítlo naši nejlepší nabídku. Pokud ji nepřijme, nezbývá nám než připravit se na nejhorší." # todo: NEW TRANSLATION
+ greenland_subterfuge_event.180000.o1: "Připravit operaci Mannerheim" # todo: NEW TRANSLATION
